@@ -1,0 +1,701 @@
+county,precinct,office,district,party,candidate,votes
+"Walker","Precinct 101","President",,"REP","Donald J. Trump",221
+"Walker","Precinct 101","President",,"DEM","Kamala D. Harris",282
+"Walker","Precinct 101","President",,"LIB","Chase Oliver",2
+"Walker","Precinct 101","President",,"GRN","Jill Stein",1
+"Walker","Precinct 101","President",,,"Write-ins",1
+"Walker","Precinct 101","U.S. Senate",,"REP","Ted Cruz",207
+"Walker","Precinct 101","U.S. Senate",,"DEM","Colin Allred",282
+"Walker","Precinct 101","U.S. Senate",,"LIB","Ted Brown",9
+"Walker","Precinct 101","U.S. Senate",,,"Write-ins",1
+"Walker","Precinct 101","U.S. House","17","REP","Pete Sessions",200
+"Walker","Precinct 101","U.S. House","17","DEM","Mark Lorenzen",261
+"Walker","Precinct 101","Railroad Commissioner",,"REP","Christi Craddick",207
+"Walker","Precinct 101","Railroad Commissioner",,"DEM","Katherine Culbert",263
+"Walker","Precinct 101","Railroad Commissioner",,"LIB","Hawk Dunlap",12
+"Walker","Precinct 101","Railroad Commissioner",,"GRN","Eddie Espinoza",3
+"Walker","Precinct 101","Railroad Commissioner",,,"Write-ins",1
+"Walker","Precinct 101","Justice, Supreme Court, Pl 2",,"REP","Jimmy Blacklock",210
+"Walker","Precinct 101","Justice, Supreme Court, Pl 2",,"DEM","DaSean Jones",277
+"Walker","Precinct 101","Justice, Supreme Court, Pl 4",,"REP","John Devine",209
+"Walker","Precinct 101","Justice, Supreme Court, Pl 4",,"DEM","Christine Vinh Weems",271
+"Walker","Precinct 101","Justice, Supreme Court, Pl 6",,"REP","Jane Bland",209
+"Walker","Precinct 101","Justice, Supreme Court, Pl 6",,"DEM","Bonnie Lee Goldstein",265
+"Walker","Precinct 101","Justice, Supreme Court, Pl 6",,"LIB","J. David Roberson",10
+"Walker","Precinct 101","Presiding Judge, Ct of Crim App",,"REP","David J. Schenck",211
+"Walker","Precinct 101","Presiding Judge, Ct of Crim App",,"DEM","Holly Taylor",269
+"Walker","Precinct 101","Judge, Ct of Crim App, Pl 7",,"REP","Gina Parker",210
+"Walker","Precinct 101","Judge, Ct of Crim App, Pl 7",,"DEM","Nancy Mulder",270
+"Walker","Precinct 101","Judge, Ct of Crim App, Pl 8",,"REP","Lee Finley",213
+"Walker","Precinct 101","Judge, Ct of Crim App, Pl 8",,"DEM","Chika Anyiam",263
+"Walker","Precinct 101","State Representative","12","REP","Trey Wharton",200
+"Walker","Precinct 101","State Representative","12","DEM","Dee Howard Mullins",263
+"Walker","Precinct 101","Chief Justice, 10th Ct of App Dist",,"REP","Matt Johnson",285
+"Walker","Precinct 101","Dist Judge, 12th Judicial Dist",,"REP","David Wayne Moorman",289
+"Walker","Precinct 101","Sheriff",,"REP","Clint McRae",309
+"Walker","Precinct 101","County Tax Assessor-Collector",,"REP","Diana McRae",299
+"Walker","Precinct 101","County Commissioner Pct 1",,"REP","Danny Kuykendall",292
+"Walker","Precinct 101","Constable Pct 1",,"REP","John Hooks",293
+"Walker","Precinct 101","Councilmember, At-Large Position One City of Huntsville",,,"Erin Owens",216
+"Walker","Precinct 101","Councilmember, At-Large Position One City of Huntsville",,,"Bert Lyle",103
+"Walker","Precinct 101","Councilmember, At-Large Position Two City of Huntsville",,,"Lovie Cunningham",161
+"Walker","Precinct 101","Councilmember, At-Large Position Two City of Huntsville",,,"Karen M. Denman",168
+"Walker","Precinct 101","Councilmember, At-Large Position Three City of Huntsville",,,"Vicki McKenzie",157
+"Walker","Precinct 101","Councilmember, At-Large Position Three City of Huntsville",,,"Yolanda M. Scott",180
+"Walker","Precinct 101","Councilmember, At-Large Position Four City of Huntsville",,,"Pat Graham",192
+"Walker","Precinct 101","Councilmember, At-Large Position Four City of Huntsville",,,"Robby Logan",116
+"Walker","Precinct 101","PROPOSITION A Evergreen Hills MUD No. 1",,,"FOR",2
+"Walker","Precinct 101","PROPOSITION A Evergreen Hills MUD No. 1",,,"AGAINST",0
+"Walker","Precinct 101","Board of Directors Evergreen Hills MUD No. 1",,,"Lauren Johnson",2
+"Walker","Precinct 101","Board of Directors Evergreen Hills MUD No. 1",,,"Adam Olsen",2
+"Walker","Precinct 101","Board of Directors Evergreen Hills MUD No. 1",,,"Taylor Treybig",2
+"Walker","Precinct 101","Board of Directors Evergreen Hills MUD No. 1",,,"Marcie Boriskie",2
+"Walker","Precinct 101","Board of Directors Evergreen Hills MUD No. 1",,,"Samantha Molina",2
+"Walker","Precinct 101","PROPOSITION B Evergreen Hills MUD No. 1",,,"FOR",2
+"Walker","Precinct 101","PROPOSITION B Evergreen Hills MUD No. 1",,,"AGAINST",0
+"Walker","Precinct 101","PROPOSITION C Evergreen Hills MUD No. 1",,,"FOR",2
+"Walker","Precinct 101","PROPOSITION C Evergreen Hills MUD No. 1",,,"AGAINST",0
+"Walker","Precinct 101","PROPOSITION D Evergreen Hills MUD No. 1",,,"FOR",2
+"Walker","Precinct 101","PROPOSITION D Evergreen Hills MUD No. 1",,,"AGAINST",0
+"Walker","Precinct 101","PROPOSITION E Evergreen Hills MUD No. 1",,,"FOR",2
+"Walker","Precinct 101","PROPOSITION E Evergreen Hills MUD No. 1",,,"AGAINST",0
+"Walker","Precinct 101","PROPOSITION F Evergreen Hills MUD No. 1",,,"FOR",2
+"Walker","Precinct 101","PROPOSITION F Evergreen Hills MUD No. 1",,,"AGAINST",0
+"Walker","Precinct 101","PROPOSITION G Evergreen Hills MUD No. 1",,,"FOR",2
+"Walker","Precinct 101","PROPOSITION G Evergreen Hills MUD No. 1",,,"AGAINST",0
+"Walker","Precinct 102","President",,"REP","Donald J. Trump",1516
+"Walker","Precinct 102","President",,"DEM","Kamala D. Harris",1342
+"Walker","Precinct 102","President",,"LIB","Chase Oliver",19
+"Walker","Precinct 102","President",,"GRN","Jill Stein",12
+"Walker","Precinct 102","President",,,"Write-ins",5
+"Walker","Precinct 102","U.S. Senate",,"REP","Ted Cruz",1440
+"Walker","Precinct 102","U.S. Senate",,"DEM","Colin Allred",1377
+"Walker","Precinct 102","U.S. Senate",,"LIB","Ted Brown",52
+"Walker","Precinct 102","U.S. Senate",,,"Write-ins",1
+"Walker","Precinct 102","U.S. House","17","REP","Pete Sessions",1486
+"Walker","Precinct 102","U.S. House","17","DEM","Mark Lorenzen",1204
+"Walker","Precinct 102","Railroad Commissioner",,"REP","Christi Craddick",1433
+"Walker","Precinct 102","Railroad Commissioner",,"DEM","Katherine Culbert",1175
+"Walker","Precinct 102","Railroad Commissioner",,"LIB","Hawk Dunlap",91
+"Walker","Precinct 102","Railroad Commissioner",,"GRN","Eddie Espinoza",44
+"Walker","Precinct 102","Railroad Commissioner",,,"Write-ins",3
+"Walker","Precinct 102","Justice, Supreme Court, Pl 2",,"REP","Jimmy Blacklock",1500
+"Walker","Precinct 102","Justice, Supreme Court, Pl 2",,"DEM","DaSean Jones",1246
+"Walker","Precinct 102","Justice, Supreme Court, Pl 4",,"REP","John Devine",1467
+"Walker","Precinct 102","Justice, Supreme Court, Pl 4",,"DEM","Christine Vinh Weems",1265
+"Walker","Precinct 102","Justice, Supreme Court, Pl 6",,"REP","Jane Bland",1438
+"Walker","Precinct 102","Justice, Supreme Court, Pl 6",,"DEM","Bonnie Lee Goldstein",1181
+"Walker","Precinct 102","Justice, Supreme Court, Pl 6",,"LIB","J. David Roberson",107
+"Walker","Precinct 102","Presiding Judge, Ct of Crim App",,"REP","David J. Schenck",1475
+"Walker","Precinct 102","Presiding Judge, Ct of Crim App",,"DEM","Holly Taylor",1234
+"Walker","Precinct 102","Judge, Ct of Crim App, Pl 7",,"REP","Gina Parker",1473
+"Walker","Precinct 102","Judge, Ct of Crim App, Pl 7",,"DEM","Nancy Mulder",1239
+"Walker","Precinct 102","Judge, Ct of Crim App, Pl 8",,"REP","Lee Finley",1487
+"Walker","Precinct 102","Judge, Ct of Crim App, Pl 8",,"DEM","Chika Anyiam",1214
+"Walker","Precinct 102","State Representative","12","REP","Trey Wharton",1501
+"Walker","Precinct 102","State Representative","12","DEM","Dee Howard Mullins",1186
+"Walker","Precinct 102","Chief Justice, 10th Ct of App Dist",,"REP","Matt Johnson",1858
+"Walker","Precinct 102","Dist Judge, 12th Judicial Dist",,"REP","David Wayne Moorman",1898
+"Walker","Precinct 102","Sheriff",,"REP","Clint McRae",1964
+"Walker","Precinct 102","County Tax Assessor-Collector",,"REP","Diana McRae",1948
+"Walker","Precinct 102","County Commissioner Pct 1",,"REP","Danny Kuykendall",1904
+"Walker","Precinct 102","Constable Pct 1",,"REP","John Hooks",1885
+"Walker","Precinct 102","Councilmember, At-Large Position One City of Huntsville",,,"Erin Owens",1076
+"Walker","Precinct 102","Councilmember, At-Large Position One City of Huntsville",,,"Bert Lyle",963
+"Walker","Precinct 102","Councilmember, At-Large Position Two City of Huntsville",,,"Lovie Cunningham",973
+"Walker","Precinct 102","Councilmember, At-Large Position Two City of Huntsville",,,"Karen M. Denman",989
+"Walker","Precinct 102","Councilmember, At-Large Position Three City of Huntsville",,,"Vicki McKenzie",1229
+"Walker","Precinct 102","Councilmember, At-Large Position Three City of Huntsville",,,"Yolanda M. Scott",773
+"Walker","Precinct 102","Councilmember, At-Large Position Four City of Huntsville",,,"Pat Graham",1268
+"Walker","Precinct 102","Councilmember, At-Large Position Four City of Huntsville",,,"Robby Logan",605
+"Walker","Precinct 103","President",,"REP","Donald J. Trump",1021
+"Walker","Precinct 103","President",,"DEM","Kamala D. Harris",277
+"Walker","Precinct 103","President",,"LIB","Chase Oliver",3
+"Walker","Precinct 103","President",,"GRN","Jill Stein",3
+"Walker","Precinct 103","President",,,"Write-ins",0
+"Walker","Precinct 103","U.S. Senate",,"REP","Ted Cruz",973
+"Walker","Precinct 103","U.S. Senate",,"DEM","Colin Allred",291
+"Walker","Precinct 103","U.S. Senate",,"LIB","Ted Brown",30
+"Walker","Precinct 103","U.S. Senate",,,"Write-ins",0
+"Walker","Precinct 103","U.S. House","17","REP","Pete Sessions",1008
+"Walker","Precinct 103","U.S. House","17","DEM","Mark Lorenzen",253
+"Walker","Precinct 103","Railroad Commissioner",,"REP","Christi Craddick",977
+"Walker","Precinct 103","Railroad Commissioner",,"DEM","Katherine Culbert",236
+"Walker","Precinct 103","Railroad Commissioner",,"LIB","Hawk Dunlap",31
+"Walker","Precinct 103","Railroad Commissioner",,"GRN","Eddie Espinoza",13
+"Walker","Precinct 103","Railroad Commissioner",,,"Write-ins",0
+"Walker","Precinct 103","Justice, Supreme Court, Pl 2",,"REP","Jimmy Blacklock",1007
+"Walker","Precinct 103","Justice, Supreme Court, Pl 2",,"DEM","DaSean Jones",254
+"Walker","Precinct 103","Justice, Supreme Court, Pl 4",,"REP","John Devine",1007
+"Walker","Precinct 103","Justice, Supreme Court, Pl 4",,"DEM","Christine Vinh Weems",258
+"Walker","Precinct 103","Justice, Supreme Court, Pl 6",,"REP","Jane Bland",986
+"Walker","Precinct 103","Justice, Supreme Court, Pl 6",,"DEM","Bonnie Lee Goldstein",252
+"Walker","Precinct 103","Justice, Supreme Court, Pl 6",,"LIB","J. David Roberson",22
+"Walker","Precinct 103","Presiding Judge, Ct of Crim App",,"REP","David J. Schenck",1001
+"Walker","Precinct 103","Presiding Judge, Ct of Crim App",,"DEM","Holly Taylor",259
+"Walker","Precinct 103","Judge, Ct of Crim App, Pl 7",,"REP","Gina Parker",1012
+"Walker","Precinct 103","Judge, Ct of Crim App, Pl 7",,"DEM","Nancy Mulder",248
+"Walker","Precinct 103","Judge, Ct of Crim App, Pl 8",,"REP","Lee Finley",1009
+"Walker","Precinct 103","Judge, Ct of Crim App, Pl 8",,"DEM","Chika Anyiam",245
+"Walker","Precinct 103","State Representative","12","REP","Trey Wharton",1007
+"Walker","Precinct 103","State Representative","12","DEM","Dee Howard Mullins",253
+"Walker","Precinct 103","Chief Justice, 10th Ct of App Dist",,"REP","Matt Johnson",1080
+"Walker","Precinct 103","Dist Judge, 12th Judicial Dist",,"REP","David Wayne Moorman",1094
+"Walker","Precinct 103","Sheriff",,"REP","Clint McRae",1113
+"Walker","Precinct 103","County Tax Assessor-Collector",,"REP","Diana McRae",1105
+"Walker","Precinct 103","County Commissioner Pct 1",,"REP","Danny Kuykendall",1092
+"Walker","Precinct 103","Constable Pct 1",,"REP","John Hooks",1121
+"Walker","Precinct 104","President",,"REP","Donald J. Trump",1337
+"Walker","Precinct 104","President",,"DEM","Kamala D. Harris",247
+"Walker","Precinct 104","President",,"LIB","Chase Oliver",8
+"Walker","Precinct 104","President",,"GRN","Jill Stein",6
+"Walker","Precinct 104","President",,,"Write-ins",4
+"Walker","Precinct 104","U.S. Senate",,"REP","Ted Cruz",1276
+"Walker","Precinct 104","U.S. Senate",,"DEM","Colin Allred",288
+"Walker","Precinct 104","U.S. Senate",,"LIB","Ted Brown",28
+"Walker","Precinct 104","U.S. Senate",,,"Write-ins",0
+"Walker","Precinct 104","U.S. House","17","REP","Pete Sessions",1327
+"Walker","Precinct 104","U.S. House","17","DEM","Mark Lorenzen",231
+"Walker","Precinct 104","Railroad Commissioner",,"REP","Christi Craddick",1301
+"Walker","Precinct 104","Railroad Commissioner",,"DEM","Katherine Culbert",211
+"Walker","Precinct 104","Railroad Commissioner",,"LIB","Hawk Dunlap",34
+"Walker","Precinct 104","Railroad Commissioner",,"GRN","Eddie Espinoza",14
+"Walker","Precinct 104","Railroad Commissioner",,,"Write-ins",1
+"Walker","Precinct 104","Justice, Supreme Court, Pl 2",,"REP","Jimmy Blacklock",1329
+"Walker","Precinct 104","Justice, Supreme Court, Pl 2",,"DEM","DaSean Jones",230
+"Walker","Precinct 104","Justice, Supreme Court, Pl 4",,"REP","John Devine",1318
+"Walker","Precinct 104","Justice, Supreme Court, Pl 4",,"DEM","Christine Vinh Weems",239
+"Walker","Precinct 104","Justice, Supreme Court, Pl 6",,"REP","Jane Bland",1297
+"Walker","Precinct 104","Justice, Supreme Court, Pl 6",,"DEM","Bonnie Lee Goldstein",221
+"Walker","Precinct 104","Justice, Supreme Court, Pl 6",,"LIB","J. David Roberson",34
+"Walker","Precinct 104","Presiding Judge, Ct of Crim App",,"REP","David J. Schenck",1313
+"Walker","Precinct 104","Presiding Judge, Ct of Crim App",,"DEM","Holly Taylor",234
+"Walker","Precinct 104","Judge, Ct of Crim App, Pl 7",,"REP","Gina Parker",1323
+"Walker","Precinct 104","Judge, Ct of Crim App, Pl 7",,"DEM","Nancy Mulder",222
+"Walker","Precinct 104","Judge, Ct of Crim App, Pl 8",,"REP","Lee Finley",1318
+"Walker","Precinct 104","Judge, Ct of Crim App, Pl 8",,"DEM","Chika Anyiam",221
+"Walker","Precinct 104","State Representative","12","REP","Trey Wharton",1331
+"Walker","Precinct 104","State Representative","12","DEM","Dee Howard Mullins",222
+"Walker","Precinct 104","Chief Justice, 10th Ct of App Dist",,"REP","Matt Johnson",1383
+"Walker","Precinct 104","Dist Judge, 12th Judicial Dist",,"REP","David Wayne Moorman",1378
+"Walker","Precinct 104","Sheriff",,"REP","Clint McRae",1421
+"Walker","Precinct 104","County Tax Assessor-Collector",,"REP","Diana McRae",1410
+"Walker","Precinct 104","County Commissioner Pct 1",,"REP","Danny Kuykendall",1386
+"Walker","Precinct 104","Constable Pct 1",,"REP","John Hooks",1422
+"Walker","Precinct 201","President",,"REP","Donald J. Trump",522
+"Walker","Precinct 201","President",,"DEM","Kamala D. Harris",490
+"Walker","Precinct 201","President",,"LIB","Chase Oliver",5
+"Walker","Precinct 201","President",,"GRN","Jill Stein",8
+"Walker","Precinct 201","President",,,"Write-ins",1
+"Walker","Precinct 201","U.S. Senate",,"REP","Ted Cruz",496
+"Walker","Precinct 201","U.S. Senate",,"DEM","Colin Allred",483
+"Walker","Precinct 201","U.S. Senate",,"LIB","Ted Brown",25
+"Walker","Precinct 201","U.S. Senate",,,"Write-ins",0
+"Walker","Precinct 201","U.S. House","17","REP","Pete Sessions",487
+"Walker","Precinct 201","U.S. House","17","DEM","Mark Lorenzen",438
+"Walker","Precinct 201","Railroad Commissioner",,"REP","Christi Craddick",474
+"Walker","Precinct 201","Railroad Commissioner",,"DEM","Katherine Culbert",424
+"Walker","Precinct 201","Railroad Commissioner",,"LIB","Hawk Dunlap",34
+"Walker","Precinct 201","Railroad Commissioner",,"GRN","Eddie Espinoza",19
+"Walker","Precinct 201","Railroad Commissioner",,,"Write-ins",0
+"Walker","Precinct 201","Justice, Supreme Court, Pl 2",,"REP","Jimmy Blacklock",495
+"Walker","Precinct 201","Justice, Supreme Court, Pl 2",,"DEM","DaSean Jones",460
+"Walker","Precinct 201","Justice, Supreme Court, Pl 4",,"REP","John Devine",485
+"Walker","Precinct 201","Justice, Supreme Court, Pl 4",,"DEM","Christine Vinh Weems",464
+"Walker","Precinct 201","Justice, Supreme Court, Pl 6",,"REP","Jane Bland",479
+"Walker","Precinct 201","Justice, Supreme Court, Pl 6",,"DEM","Bonnie Lee Goldstein",441
+"Walker","Precinct 201","Justice, Supreme Court, Pl 6",,"LIB","J. David Roberson",34
+"Walker","Precinct 201","Presiding Judge, Ct of Crim App",,"REP","David J. Schenck",491
+"Walker","Precinct 201","Presiding Judge, Ct of Crim App",,"DEM","Holly Taylor",454
+"Walker","Precinct 201","Judge, Ct of Crim App, Pl 7",,"REP","Gina Parker",497
+"Walker","Precinct 201","Judge, Ct of Crim App, Pl 7",,"DEM","Nancy Mulder",447
+"Walker","Precinct 201","Judge, Ct of Crim App, Pl 8",,"REP","Lee Finley",491
+"Walker","Precinct 201","Judge, Ct of Crim App, Pl 8",,"DEM","Chika Anyiam",448
+"Walker","Precinct 201","State Representative","12","REP","Trey Wharton",491
+"Walker","Precinct 201","State Representative","12","DEM","Dee Howard Mullins",422
+"Walker","Precinct 201","Chief Justice, 10th Ct of App Dist",,"REP","Matt Johnson",633
+"Walker","Precinct 201","Dist Judge, 12th Judicial Dist",,"REP","David Wayne Moorman",628
+"Walker","Precinct 201","Sheriff",,"REP","Clint McRae",656
+"Walker","Precinct 201","County Tax Assessor-Collector",,"REP","Diana McRae",654
+"Walker","Precinct 201","Constable Pct 2",,"REP","Shane Loosier",619
+"Walker","Precinct 201","Councilmember, At-Large Position One City of Huntsville",,,"Erin Owens",397
+"Walker","Precinct 201","Councilmember, At-Large Position One City of Huntsville",,,"Bert Lyle",269
+"Walker","Precinct 201","Councilmember, At-Large Position Two City of Huntsville",,,"Lovie Cunningham",346
+"Walker","Precinct 201","Councilmember, At-Large Position Two City of Huntsville",,,"Karen M. Denman",307
+"Walker","Precinct 201","Councilmember, At-Large Position Three City of Huntsville",,,"Vicki McKenzie",362
+"Walker","Precinct 201","Councilmember, At-Large Position Three City of Huntsville",,,"Yolanda M. Scott",301
+"Walker","Precinct 201","Councilmember, At-Large Position Four City of Huntsville",,,"Pat Graham",449
+"Walker","Precinct 201","Councilmember, At-Large Position Four City of Huntsville",,,"Robby Logan",183
+"Walker","Precinct 203","President",,"REP","Donald J. Trump",1742
+"Walker","Precinct 203","President",,"DEM","Kamala D. Harris",454
+"Walker","Precinct 203","President",,"LIB","Chase Oliver",11
+"Walker","Precinct 203","President",,"GRN","Jill Stein",7
+"Walker","Precinct 203","President",,,"Write-ins",5
+"Walker","Precinct 203","U.S. Senate",,"REP","Ted Cruz",1700
+"Walker","Precinct 203","U.S. Senate",,"DEM","Colin Allred",472
+"Walker","Precinct 203","U.S. Senate",,"LIB","Ted Brown",36
+"Walker","Precinct 203","U.S. Senate",,,"Write-ins",1
+"Walker","Precinct 203","U.S. House","8","REP","Morgan Luttrell",1765
+"Walker","Precinct 203","U.S. House","8","DEM","Laura Jones",409
+"Walker","Precinct 203","Railroad Commissioner",,"REP","Christi Craddick",1709
+"Walker","Precinct 203","Railroad Commissioner",,"DEM","Katherine Culbert",395
+"Walker","Precinct 203","Railroad Commissioner",,"LIB","Hawk Dunlap",46
+"Walker","Precinct 203","Railroad Commissioner",,"GRN","Eddie Espinoza",26
+"Walker","Precinct 203","Railroad Commissioner",,,"Write-ins",0
+"Walker","Precinct 203","Justice, Supreme Court, Pl 2",,"REP","Jimmy Blacklock",1742
+"Walker","Precinct 203","Justice, Supreme Court, Pl 2",,"DEM","DaSean Jones",427
+"Walker","Precinct 203","Justice, Supreme Court, Pl 4",,"REP","John Devine",1723
+"Walker","Precinct 203","Justice, Supreme Court, Pl 4",,"DEM","Christine Vinh Weems",435
+"Walker","Precinct 203","Justice, Supreme Court, Pl 6",,"REP","Jane Bland",1698
+"Walker","Precinct 203","Justice, Supreme Court, Pl 6",,"DEM","Bonnie Lee Goldstein",409
+"Walker","Precinct 203","Justice, Supreme Court, Pl 6",,"LIB","J. David Roberson",54
+"Walker","Precinct 203","Presiding Judge, Ct of Crim App",,"REP","David J. Schenck",1737
+"Walker","Precinct 203","Presiding Judge, Ct of Crim App",,"DEM","Holly Taylor",424
+"Walker","Precinct 203","Judge, Ct of Crim App, Pl 7",,"REP","Gina Parker",1736
+"Walker","Precinct 203","Judge, Ct of Crim App, Pl 7",,"DEM","Nancy Mulder",420
+"Walker","Precinct 203","Judge, Ct of Crim App, Pl 8",,"REP","Lee Finley",1733
+"Walker","Precinct 203","Judge, Ct of Crim App, Pl 8",,"DEM","Chika Anyiam",412
+"Walker","Precinct 203","State Representative","12","REP","Trey Wharton",1748
+"Walker","Precinct 203","State Representative","12","DEM","Dee Howard Mullins",413
+"Walker","Precinct 203","Chief Justice, 10th Ct of App Dist",,"REP","Matt Johnson",1823
+"Walker","Precinct 203","Dist Judge, 12th Judicial Dist",,"REP","David Wayne Moorman",1839
+"Walker","Precinct 203","Sheriff",,"REP","Clint McRae",1888
+"Walker","Precinct 203","County Tax Assessor-Collector",,"REP","Diana McRae",1883
+"Walker","Precinct 203","Constable Pct 2",,"REP","Shane Loosier",1846
+"Walker","Precinct 203","School Board Member, Position 5 Richards ISD",,,"Dan Hardin",302
+"Walker","Precinct 203","School Board Member, Position 6 Richards ISD",,,"Jeannine Shead",282
+"Walker","Precinct 203","School Board Member, Position 6 Richards ISD",,,"Write-ins",44
+"Walker","Precinct 203","School Board Member, Position 7 Richards ISD",,,"Reed Edelman",161
+"Walker","Precinct 203","School Board Member, Position 7 Richards ISD",,,"Benny Lewis",143
+"Walker","Precinct 204","President",,"REP","Donald J. Trump",768
+"Walker","Precinct 204","President",,"DEM","Kamala D. Harris",261
+"Walker","Precinct 204","President",,"LIB","Chase Oliver",5
+"Walker","Precinct 204","President",,"GRN","Jill Stein",5
+"Walker","Precinct 204","President",,,"Write-ins",5
+"Walker","Precinct 204","U.S. Senate",,"REP","Ted Cruz",743
+"Walker","Precinct 204","U.S. Senate",,"DEM","Colin Allred",272
+"Walker","Precinct 204","U.S. Senate",,"LIB","Ted Brown",20
+"Walker","Precinct 204","U.S. Senate",,,"Write-ins",0
+"Walker","Precinct 204","U.S. House","17","REP","Pete Sessions",780
+"Walker","Precinct 204","U.S. House","17","DEM","Mark Lorenzen",229
+"Walker","Precinct 204","Railroad Commissioner",,"REP","Christi Craddick",757
+"Walker","Precinct 204","Railroad Commissioner",,"DEM","Katherine Culbert",217
+"Walker","Precinct 204","Railroad Commissioner",,"LIB","Hawk Dunlap",20
+"Walker","Precinct 204","Railroad Commissioner",,"GRN","Eddie Espinoza",5
+"Walker","Precinct 204","Railroad Commissioner",,,"Write-ins",1
+"Walker","Precinct 204","Justice, Supreme Court, Pl 2",,"REP","Jimmy Blacklock",777
+"Walker","Precinct 204","Justice, Supreme Court, Pl 2",,"DEM","DaSean Jones",229
+"Walker","Precinct 204","Justice, Supreme Court, Pl 4",,"REP","John Devine",761
+"Walker","Precinct 204","Justice, Supreme Court, Pl 4",,"DEM","Christine Vinh Weems",239
+"Walker","Precinct 204","Justice, Supreme Court, Pl 6",,"REP","Jane Bland",759
+"Walker","Precinct 204","Justice, Supreme Court, Pl 6",,"DEM","Bonnie Lee Goldstein",224
+"Walker","Precinct 204","Justice, Supreme Court, Pl 6",,"LIB","J. David Roberson",22
+"Walker","Precinct 204","Presiding Judge, Ct of Crim App",,"REP","David J. Schenck",767
+"Walker","Precinct 204","Presiding Judge, Ct of Crim App",,"DEM","Holly Taylor",232
+"Walker","Precinct 204","Judge, Ct of Crim App, Pl 7",,"REP","Gina Parker",769
+"Walker","Precinct 204","Judge, Ct of Crim App, Pl 7",,"DEM","Nancy Mulder",231
+"Walker","Precinct 204","Judge, Ct of Crim App, Pl 8",,"REP","Lee Finley",777
+"Walker","Precinct 204","Judge, Ct of Crim App, Pl 8",,"DEM","Chika Anyiam",220
+"Walker","Precinct 204","State Representative","12","REP","Trey Wharton",798
+"Walker","Precinct 204","State Representative","12","DEM","Dee Howard Mullins",219
+"Walker","Precinct 204","Chief Justice, 10th Ct of App Dist",,"REP","Matt Johnson",841
+"Walker","Precinct 204","Dist Judge, 12th Judicial Dist",,"REP","David Wayne Moorman",862
+"Walker","Precinct 204","Sheriff",,"REP","Clint McRae",882
+"Walker","Precinct 204","County Tax Assessor-Collector",,"REP","Diana McRae",875
+"Walker","Precinct 204","Constable Pct 2",,"REP","Shane Loosier",850
+"Walker","Precinct 205","President",,"REP","Donald J. Trump",1758
+"Walker","Precinct 205","President",,"DEM","Kamala D. Harris",539
+"Walker","Precinct 205","President",,"LIB","Chase Oliver",11
+"Walker","Precinct 205","President",,"GRN","Jill Stein",1
+"Walker","Precinct 205","President",,,"Write-ins",5
+"Walker","Precinct 205","U.S. Senate",,"REP","Ted Cruz",1742
+"Walker","Precinct 205","U.S. Senate",,"DEM","Colin Allred",549
+"Walker","Precinct 205","U.S. Senate",,"LIB","Ted Brown",22
+"Walker","Precinct 205","U.S. Senate",,,"Write-ins",0
+"Walker","Precinct 205","U.S. House","8","REP","Morgan Luttrell",1866
+"Walker","Precinct 205","U.S. House","8","DEM","Laura Jones",409
+"Walker","Precinct 205","Railroad Commissioner",,"REP","Christi Craddick",1763
+"Walker","Precinct 205","Railroad Commissioner",,"DEM","Katherine Culbert",426
+"Walker","Precinct 205","Railroad Commissioner",,"LIB","Hawk Dunlap",35
+"Walker","Precinct 205","Railroad Commissioner",,"GRN","Eddie Espinoza",9
+"Walker","Precinct 205","Railroad Commissioner",,,"Write-ins",2
+"Walker","Precinct 205","Justice, Supreme Court, Pl 2",,"REP","Jimmy Blacklock",1787
+"Walker","Precinct 205","Justice, Supreme Court, Pl 2",,"DEM","DaSean Jones",434
+"Walker","Precinct 205","Justice, Supreme Court, Pl 4",,"REP","John Devine",1756
+"Walker","Precinct 205","Justice, Supreme Court, Pl 4",,"DEM","Christine Vinh Weems",464
+"Walker","Precinct 205","Justice, Supreme Court, Pl 6",,"REP","Jane Bland",1769
+"Walker","Precinct 205","Justice, Supreme Court, Pl 6",,"DEM","Bonnie Lee Goldstein",419
+"Walker","Precinct 205","Justice, Supreme Court, Pl 6",,"LIB","J. David Roberson",33
+"Walker","Precinct 205","Presiding Judge, Ct of Crim App",,"REP","David J. Schenck",1780
+"Walker","Precinct 205","Presiding Judge, Ct of Crim App",,"DEM","Holly Taylor",442
+"Walker","Precinct 205","Judge, Ct of Crim App, Pl 7",,"REP","Gina Parker",1780
+"Walker","Precinct 205","Judge, Ct of Crim App, Pl 7",,"DEM","Nancy Mulder",445
+"Walker","Precinct 205","Judge, Ct of Crim App, Pl 8",,"REP","Lee Finley",1784
+"Walker","Precinct 205","Judge, Ct of Crim App, Pl 8",,"DEM","Chika Anyiam",433
+"Walker","Precinct 205","State Representative","12","REP","Trey Wharton",1859
+"Walker","Precinct 205","State Representative","12","DEM","Dee Howard Mullins",408
+"Walker","Precinct 205","Chief Justice, 10th Ct of App Dist",,"REP","Matt Johnson",1898
+"Walker","Precinct 205","Dist Judge, 12th Judicial Dist",,"REP","David Wayne Moorman",1923
+"Walker","Precinct 205","Sheriff",,"REP","Clint McRae",2010
+"Walker","Precinct 205","County Tax Assessor-Collector",,"REP","Diana McRae",1994
+"Walker","Precinct 205","Constable Pct 2",,"REP","Shane Loosier",1927
+"Walker","Precinct 205","Councilmember, At-Large Position One City of Huntsville",,,"Erin Owens",591
+"Walker","Precinct 205","Councilmember, At-Large Position One City of Huntsville",,,"Bert Lyle",1295
+"Walker","Precinct 205","Councilmember, At-Large Position Two City of Huntsville",,,"Lovie Cunningham",551
+"Walker","Precinct 205","Councilmember, At-Large Position Two City of Huntsville",,,"Karen M. Denman",1170
+"Walker","Precinct 205","Councilmember, At-Large Position Three City of Huntsville",,,"Vicki McKenzie",1454
+"Walker","Precinct 205","Councilmember, At-Large Position Three City of Huntsville",,,"Yolanda M. Scott",295
+"Walker","Precinct 205","Councilmember, At-Large Position Four City of Huntsville",,,"Pat Graham",1360
+"Walker","Precinct 205","Councilmember, At-Large Position Four City of Huntsville",,,"Robby Logan",342
+"Walker","Precinct 206","President",,"REP","Donald J. Trump",733
+"Walker","Precinct 206","President",,"DEM","Kamala D. Harris",306
+"Walker","Precinct 206","President",,"LIB","Chase Oliver",5
+"Walker","Precinct 206","President",,"GRN","Jill Stein",4
+"Walker","Precinct 206","President",,,"Write-ins",3
+"Walker","Precinct 206","U.S. Senate",,"REP","Ted Cruz",716
+"Walker","Precinct 206","U.S. Senate",,"DEM","Colin Allred",312
+"Walker","Precinct 206","U.S. Senate",,"LIB","Ted Brown",17
+"Walker","Precinct 206","U.S. Senate",,,"Write-ins",0
+"Walker","Precinct 206","U.S. House","8","REP","Morgan Luttrell",747
+"Walker","Precinct 206","U.S. House","8","DEM","Laura Jones",278
+"Walker","Precinct 206","Railroad Commissioner",,"REP","Christi Craddick",711
+"Walker","Precinct 206","Railroad Commissioner",,"DEM","Katherine Culbert",250
+"Walker","Precinct 206","Railroad Commissioner",,"LIB","Hawk Dunlap",28
+"Walker","Precinct 206","Railroad Commissioner",,"GRN","Eddie Espinoza",15
+"Walker","Precinct 206","Railroad Commissioner",,,"Write-ins",0
+"Walker","Precinct 206","Justice, Supreme Court, Pl 2",,"REP","Jimmy Blacklock",739
+"Walker","Precinct 206","Justice, Supreme Court, Pl 2",,"DEM","DaSean Jones",276
+"Walker","Precinct 206","Justice, Supreme Court, Pl 4",,"REP","John Devine",737
+"Walker","Precinct 206","Justice, Supreme Court, Pl 4",,"DEM","Christine Vinh Weems",274
+"Walker","Precinct 206","Justice, Supreme Court, Pl 6",,"REP","Jane Bland",731
+"Walker","Precinct 206","Justice, Supreme Court, Pl 6",,"DEM","Bonnie Lee Goldstein",261
+"Walker","Precinct 206","Justice, Supreme Court, Pl 6",,"LIB","J. David Roberson",20
+"Walker","Precinct 206","Presiding Judge, Ct of Crim App",,"REP","David J. Schenck",735
+"Walker","Precinct 206","Presiding Judge, Ct of Crim App",,"DEM","Holly Taylor",273
+"Walker","Precinct 206","Judge, Ct of Crim App, Pl 7",,"REP","Gina Parker",735
+"Walker","Precinct 206","Judge, Ct of Crim App, Pl 7",,"DEM","Nancy Mulder",263
+"Walker","Precinct 206","Judge, Ct of Crim App, Pl 8",,"REP","Lee Finley",745
+"Walker","Precinct 206","Judge, Ct of Crim App, Pl 8",,"DEM","Chika Anyiam",257
+"Walker","Precinct 206","State Representative","12","REP","Trey Wharton",743
+"Walker","Precinct 206","State Representative","12","DEM","Dee Howard Mullins",276
+"Walker","Precinct 206","Chief Justice, 10th Ct of App Dist",,"REP","Matt Johnson",817
+"Walker","Precinct 206","Dist Judge, 12th Judicial Dist",,"REP","David Wayne Moorman",824
+"Walker","Precinct 206","Sheriff",,"REP","Clint McRae",871
+"Walker","Precinct 206","County Tax Assessor-Collector",,"REP","Diana McRae",870
+"Walker","Precinct 206","Constable Pct 2",,"REP","Shane Loosier",823
+"Walker","Precinct 206","Councilmember, At-Large Position One City of Huntsville",,,"Erin Owens",356
+"Walker","Precinct 206","Councilmember, At-Large Position One City of Huntsville",,,"Bert Lyle",466
+"Walker","Precinct 206","Councilmember, At-Large Position Two City of Huntsville",,,"Lovie Cunningham",319
+"Walker","Precinct 206","Councilmember, At-Large Position Two City of Huntsville",,,"Karen M. Denman",474
+"Walker","Precinct 206","Councilmember, At-Large Position Three City of Huntsville",,,"Vicki McKenzie",565
+"Walker","Precinct 206","Councilmember, At-Large Position Three City of Huntsville",,,"Yolanda M. Scott",235
+"Walker","Precinct 206","Councilmember, At-Large Position Four City of Huntsville",,,"Pat Graham",570
+"Walker","Precinct 206","Councilmember, At-Large Position Four City of Huntsville",,,"Robby Logan",212
+"Walker","Precinct 301","President",,"REP","Donald J. Trump",656
+"Walker","Precinct 301","President",,"DEM","Kamala D. Harris",863
+"Walker","Precinct 301","President",,"LIB","Chase Oliver",9
+"Walker","Precinct 301","President",,"GRN","Jill Stein",5
+"Walker","Precinct 301","President",,,"Write-ins",0
+"Walker","Precinct 301","U.S. Senate",,"REP","Ted Cruz",614
+"Walker","Precinct 301","U.S. Senate",,"DEM","Colin Allred",858
+"Walker","Precinct 301","U.S. Senate",,"LIB","Ted Brown",29
+"Walker","Precinct 301","U.S. Senate",,,"Write-ins",0
+"Walker","Precinct 301","U.S. House","17","REP","Pete Sessions",608
+"Walker","Precinct 301","U.S. House","17","DEM","Mark Lorenzen",787
+"Walker","Precinct 301","Railroad Commissioner",,"REP","Christi Craddick",608
+"Walker","Precinct 301","Railroad Commissioner",,"DEM","Katherine Culbert",757
+"Walker","Precinct 301","Railroad Commissioner",,"LIB","Hawk Dunlap",38
+"Walker","Precinct 301","Railroad Commissioner",,"GRN","Eddie Espinoza",42
+"Walker","Precinct 301","Railroad Commissioner",,,"Write-ins",1
+"Walker","Precinct 301","Justice, Supreme Court, Pl 2",,"REP","Jimmy Blacklock",630
+"Walker","Precinct 301","Justice, Supreme Court, Pl 2",,"DEM","DaSean Jones",815
+"Walker","Precinct 301","Justice, Supreme Court, Pl 4",,"REP","John Devine",627
+"Walker","Precinct 301","Justice, Supreme Court, Pl 4",,"DEM","Christine Vinh Weems",814
+"Walker","Precinct 301","Justice, Supreme Court, Pl 6",,"REP","Jane Bland",606
+"Walker","Precinct 301","Justice, Supreme Court, Pl 6",,"DEM","Bonnie Lee Goldstein",780
+"Walker","Precinct 301","Justice, Supreme Court, Pl 6",,"LIB","J. David Roberson",48
+"Walker","Precinct 301","Presiding Judge, Ct of Crim App",,"REP","David J. Schenck",630
+"Walker","Precinct 301","Presiding Judge, Ct of Crim App",,"DEM","Holly Taylor",799
+"Walker","Precinct 301","Judge, Ct of Crim App, Pl 7",,"REP","Gina Parker",621
+"Walker","Precinct 301","Judge, Ct of Crim App, Pl 7",,"DEM","Nancy Mulder",807
+"Walker","Precinct 301","Judge, Ct of Crim App, Pl 8",,"REP","Lee Finley",636
+"Walker","Precinct 301","Judge, Ct of Crim App, Pl 8",,"DEM","Chika Anyiam",784
+"Walker","Precinct 301","State Representative","12","REP","Trey Wharton",608
+"Walker","Precinct 301","State Representative","12","DEM","Dee Howard Mullins",791
+"Walker","Precinct 301","Chief Justice, 10th Ct of App Dist",,"REP","Matt Johnson",888
+"Walker","Precinct 301","Dist Judge, 12th Judicial Dist",,"REP","David Wayne Moorman",910
+"Walker","Precinct 301","Sheriff",,"REP","Clint McRae",953
+"Walker","Precinct 301","County Tax Assessor-Collector",,"REP","Diana McRae",965
+"Walker","Precinct 301","County Commissioner Pct 3",,"REP","Bill Daugette",918
+"Walker","Precinct 301","Constable Pct 3",,"REP","Steve Hill",913
+"Walker","Precinct 301","Councilmember, At-Large Position One City of Huntsville",,,"Erin Owens",623
+"Walker","Precinct 301","Councilmember, At-Large Position One City of Huntsville",,,"Bert Lyle",415
+"Walker","Precinct 301","Councilmember, At-Large Position Two City of Huntsville",,,"Lovie Cunningham",558
+"Walker","Precinct 301","Councilmember, At-Large Position Two City of Huntsville",,,"Karen M. Denman",486
+"Walker","Precinct 301","Councilmember, At-Large Position Three City of Huntsville",,,"Vicki McKenzie",543
+"Walker","Precinct 301","Councilmember, At-Large Position Three City of Huntsville",,,"Yolanda M. Scott",550
+"Walker","Precinct 301","Councilmember, At-Large Position Four City of Huntsville",,,"Pat Graham",631
+"Walker","Precinct 301","Councilmember, At-Large Position Four City of Huntsville",,,"Robby Logan",346
+"Walker","Precinct 302","President",,"REP","Donald J. Trump",491
+"Walker","Precinct 302","President",,"DEM","Kamala D. Harris",195
+"Walker","Precinct 302","President",,"LIB","Chase Oliver",1
+"Walker","Precinct 302","President",,"GRN","Jill Stein",1
+"Walker","Precinct 302","President",,,"Write-ins",0
+"Walker","Precinct 302","U.S. Senate",,"REP","Ted Cruz",468
+"Walker","Precinct 302","U.S. Senate",,"DEM","Colin Allred",202
+"Walker","Precinct 302","U.S. Senate",,"LIB","Ted Brown",7
+"Walker","Precinct 302","U.S. Senate",,,"Write-ins",0
+"Walker","Precinct 302","U.S. House","17","REP","Pete Sessions",481
+"Walker","Precinct 302","U.S. House","17","DEM","Mark Lorenzen",178
+"Walker","Precinct 302","Railroad Commissioner",,"REP","Christi Craddick",462
+"Walker","Precinct 302","Railroad Commissioner",,"DEM","Katherine Culbert",168
+"Walker","Precinct 302","Railroad Commissioner",,"LIB","Hawk Dunlap",21
+"Walker","Precinct 302","Railroad Commissioner",,"GRN","Eddie Espinoza",4
+"Walker","Precinct 302","Railroad Commissioner",,,"Write-ins",0
+"Walker","Precinct 302","Justice, Supreme Court, Pl 2",,"REP","Jimmy Blacklock",479
+"Walker","Precinct 302","Justice, Supreme Court, Pl 2",,"DEM","DaSean Jones",178
+"Walker","Precinct 302","Justice, Supreme Court, Pl 4",,"REP","John Devine",469
+"Walker","Precinct 302","Justice, Supreme Court, Pl 4",,"DEM","Christine Vinh Weems",182
+"Walker","Precinct 302","Justice, Supreme Court, Pl 6",,"REP","Jane Bland",455
+"Walker","Precinct 302","Justice, Supreme Court, Pl 6",,"DEM","Bonnie Lee Goldstein",182
+"Walker","Precinct 302","Justice, Supreme Court, Pl 6",,"LIB","J. David Roberson",16
+"Walker","Precinct 302","Presiding Judge, Ct of Crim App",,"REP","David J. Schenck",466
+"Walker","Precinct 302","Presiding Judge, Ct of Crim App",,"DEM","Holly Taylor",185
+"Walker","Precinct 302","Judge, Ct of Crim App, Pl 7",,"REP","Gina Parker",469
+"Walker","Precinct 302","Judge, Ct of Crim App, Pl 7",,"DEM","Nancy Mulder",178
+"Walker","Precinct 302","Judge, Ct of Crim App, Pl 8",,"REP","Lee Finley",469
+"Walker","Precinct 302","Judge, Ct of Crim App, Pl 8",,"DEM","Chika Anyiam",179
+"Walker","Precinct 302","State Representative","12","REP","Trey Wharton",484
+"Walker","Precinct 302","State Representative","12","DEM","Dee Howard Mullins",176
+"Walker","Precinct 302","Chief Justice, 10th Ct of App Dist",,"REP","Matt Johnson",528
+"Walker","Precinct 302","Dist Judge, 12th Judicial Dist",,"REP","David Wayne Moorman",531
+"Walker","Precinct 302","Sheriff",,"REP","Clint McRae",563
+"Walker","Precinct 302","County Tax Assessor-Collector",,"REP","Diana McRae",555
+"Walker","Precinct 302","County Commissioner Pct 3",,"REP","Bill Daugette",537
+"Walker","Precinct 302","Constable Pct 3",,"REP","Steve Hill",561
+"Walker","Precinct 303","President",,"REP","Donald J. Trump",389
+"Walker","Precinct 303","President",,"DEM","Kamala D. Harris",91
+"Walker","Precinct 303","President",,"LIB","Chase Oliver",2
+"Walker","Precinct 303","President",,"GRN","Jill Stein",0
+"Walker","Precinct 303","President",,,"Write-ins",0
+"Walker","Precinct 303","U.S. Senate",,"REP","Ted Cruz",367
+"Walker","Precinct 303","U.S. Senate",,"DEM","Colin Allred",100
+"Walker","Precinct 303","U.S. Senate",,"LIB","Ted Brown",8
+"Walker","Precinct 303","U.S. Senate",,,"Write-ins",0
+"Walker","Precinct 303","U.S. House","17","REP","Pete Sessions",377
+"Walker","Precinct 303","U.S. House","17","DEM","Mark Lorenzen",87
+"Walker","Precinct 303","Railroad Commissioner",,"REP","Christi Craddick",360
+"Walker","Precinct 303","Railroad Commissioner",,"DEM","Katherine Culbert",85
+"Walker","Precinct 303","Railroad Commissioner",,"LIB","Hawk Dunlap",10
+"Walker","Precinct 303","Railroad Commissioner",,"GRN","Eddie Espinoza",9
+"Walker","Precinct 303","Railroad Commissioner",,,"Write-ins",0
+"Walker","Precinct 303","Justice, Supreme Court, Pl 2",,"REP","Jimmy Blacklock",374
+"Walker","Precinct 303","Justice, Supreme Court, Pl 2",,"DEM","DaSean Jones",88
+"Walker","Precinct 303","Justice, Supreme Court, Pl 4",,"REP","John Devine",369
+"Walker","Precinct 303","Justice, Supreme Court, Pl 4",,"DEM","Christine Vinh Weems",91
+"Walker","Precinct 303","Justice, Supreme Court, Pl 6",,"REP","Jane Bland",370
+"Walker","Precinct 303","Justice, Supreme Court, Pl 6",,"DEM","Bonnie Lee Goldstein",90
+"Walker","Precinct 303","Justice, Supreme Court, Pl 6",,"LIB","J. David Roberson",2
+"Walker","Precinct 303","Presiding Judge, Ct of Crim App",,"REP","David J. Schenck",370
+"Walker","Precinct 303","Presiding Judge, Ct of Crim App",,"DEM","Holly Taylor",90
+"Walker","Precinct 303","Judge, Ct of Crim App, Pl 7",,"REP","Gina Parker",373
+"Walker","Precinct 303","Judge, Ct of Crim App, Pl 7",,"DEM","Nancy Mulder",89
+"Walker","Precinct 303","Judge, Ct of Crim App, Pl 8",,"REP","Lee Finley",372
+"Walker","Precinct 303","Judge, Ct of Crim App, Pl 8",,"DEM","Chika Anyiam",89
+"Walker","Precinct 303","State Representative","12","REP","Trey Wharton",373
+"Walker","Precinct 303","State Representative","12","DEM","Dee Howard Mullins",90
+"Walker","Precinct 303","Chief Justice, 10th Ct of App Dist",,"REP","Matt Johnson",392
+"Walker","Precinct 303","Dist Judge, 12th Judicial Dist",,"REP","David Wayne Moorman",392
+"Walker","Precinct 303","Sheriff",,"REP","Clint McRae",402
+"Walker","Precinct 303","County Tax Assessor-Collector",,"REP","Diana McRae",396
+"Walker","Precinct 303","County Commissioner Pct 3",,"REP","Bill Daugette",384
+"Walker","Precinct 303","Constable Pct 3",,"REP","Steve Hill",418
+"Walker","Precinct 304","President",,"REP","Donald J. Trump",2186
+"Walker","Precinct 304","President",,"DEM","Kamala D. Harris",482
+"Walker","Precinct 304","President",,"LIB","Chase Oliver",17
+"Walker","Precinct 304","President",,"GRN","Jill Stein",5
+"Walker","Precinct 304","President",,,"Write-ins",3
+"Walker","Precinct 304","U.S. Senate",,"REP","Ted Cruz",2073
+"Walker","Precinct 304","U.S. Senate",,"DEM","Colin Allred",533
+"Walker","Precinct 304","U.S. Senate",,"LIB","Ted Brown",58
+"Walker","Precinct 304","U.S. Senate",,,"Write-ins",2
+"Walker","Precinct 304","U.S. House","8","REP","Morgan Luttrell",2740
+"Walker","Precinct 304","U.S. House","8","DEM","Laura Jones",458
+"Walker","Precinct 304","Railroad Commissioner",,"REP","Christi Craddick",2089
+"Walker","Precinct 304","Railroad Commissioner",,"DEM","Katherine Culbert",410
+"Walker","Precinct 304","Railroad Commissioner",,"LIB","Hawk Dunlap",87
+"Walker","Precinct 304","Railroad Commissioner",,"GRN","Eddie Espinoza",26
+"Walker","Precinct 304","Railroad Commissioner",,,"Write-ins",1
+"Walker","Precinct 304","Justice, Supreme Court, Pl 2",,"REP","Jimmy Blacklock",2148
+"Walker","Precinct 304","Justice, Supreme Court, Pl 2",,"DEM","DaSean Jones",471
+"Walker","Precinct 304","Justice, Supreme Court, Pl 4",,"REP","John Devine",2657
+"Walker","Precinct 304","Justice, Supreme Court, Pl 4",,"DEM","Christine Vinh Weems",488
+"Walker","Precinct 304","Justice, Supreme Court, Pl 6",,"REP","Jane Bland",2084
+"Walker","Precinct 304","Justice, Supreme Court, Pl 6",,"DEM","Bonnie Lee Goldstein",463
+"Walker","Precinct 304","Justice, Supreme Court, Pl 6",,"LIB","J. David Roberson",51
+"Walker","Precinct 304","Presiding Judge, Ct of Crim App",,"REP","David J. Schenck",2668
+"Walker","Precinct 304","Presiding Judge, Ct of Crim App",,"DEM","Holly Taylor",487
+"Walker","Precinct 304","Judge, Ct of Crim App, Pl 7",,"REP","Gina Parker",2679
+"Walker","Precinct 304","Judge, Ct of Crim App, Pl 7",,"DEM","Nancy Mulder",475
+"Walker","Precinct 304","Judge, Ct of Crim App, Pl 8",,"REP","Lee Finley",2681
+"Walker","Precinct 304","Judge, Ct of Crim App, Pl 8",,"DEM","Chika Anyiam",472
+"Walker","Precinct 304","State Representative","12","REP","Trey Wharton",2147
+"Walker","Precinct 304","State Representative","12","DEM","Dee Howard Mullins",434
+"Walker","Precinct 304","Chief Justice, 10th Ct of App Dist",,"REP","Matt Johnson",2259
+"Walker","Precinct 304","Dist Judge, 12th Judicial Dist",,"REP","David Wayne Moorman",2248
+"Walker","Precinct 304","Sheriff",,"REP","Clint McRae",2333
+"Walker","Precinct 304","County Tax Assessor-Collector",,"REP","Diana McRae",2304
+"Walker","Precinct 304","County Commissioner Pct 3",,"REP","Bill Daugette",2261
+"Walker","Precinct 304","Constable Pct 3",,"REP","Steve Hill",2333
+"Walker","Precinct 401","President",,"REP","Donald J. Trump",714
+"Walker","Precinct 401","President",,"DEM","Kamala D. Harris",877
+"Walker","Precinct 401","President",,"LIB","Chase Oliver",8
+"Walker","Precinct 401","President",,"GRN","Jill Stein",14
+"Walker","Precinct 401","President",,,"Write-ins",4
+"Walker","Precinct 401","U.S. Senate",,"REP","Ted Cruz",624
+"Walker","Precinct 401","U.S. Senate",,"DEM","Colin Allred",900
+"Walker","Precinct 401","U.S. Senate",,"LIB","Ted Brown",61
+"Walker","Precinct 401","U.S. Senate",,,"Write-ins",2
+"Walker","Precinct 401","U.S. House","17","REP","Pete Sessions",681
+"Walker","Precinct 401","U.S. House","17","DEM","Mark Lorenzen",782
+"Walker","Precinct 401","Railroad Commissioner",,"REP","Christi Craddick",670
+"Walker","Precinct 401","Railroad Commissioner",,"DEM","Katherine Culbert",739
+"Walker","Precinct 401","Railroad Commissioner",,"LIB","Hawk Dunlap",66
+"Walker","Precinct 401","Railroad Commissioner",,"GRN","Eddie Espinoza",42
+"Walker","Precinct 401","Railroad Commissioner",,,"Write-ins",2
+"Walker","Precinct 401","Justice, Supreme Court, Pl 2",,"REP","Jimmy Blacklock",700
+"Walker","Precinct 401","Justice, Supreme Court, Pl 2",,"DEM","DaSean Jones",817
+"Walker","Precinct 401","Justice, Supreme Court, Pl 4",,"REP","John Devine",679
+"Walker","Precinct 401","Justice, Supreme Court, Pl 4",,"DEM","Christine Vinh Weems",832
+"Walker","Precinct 401","Justice, Supreme Court, Pl 6",,"REP","Jane Bland",659
+"Walker","Precinct 401","Justice, Supreme Court, Pl 6",,"DEM","Bonnie Lee Goldstein",766
+"Walker","Precinct 401","Justice, Supreme Court, Pl 6",,"LIB","J. David Roberson",81
+"Walker","Precinct 401","Presiding Judge, Ct of Crim App",,"REP","David J. Schenck",689
+"Walker","Precinct 401","Presiding Judge, Ct of Crim App",,"DEM","Holly Taylor",817
+"Walker","Precinct 401","Judge, Ct of Crim App, Pl 7",,"REP","Gina Parker",708
+"Walker","Precinct 401","Judge, Ct of Crim App, Pl 7",,"DEM","Nancy Mulder",790
+"Walker","Precinct 401","Judge, Ct of Crim App, Pl 8",,"REP","Lee Finley",695
+"Walker","Precinct 401","Judge, Ct of Crim App, Pl 8",,"DEM","Chika Anyiam",808
+"Walker","Precinct 401","State Representative","12","REP","Trey Wharton",677
+"Walker","Precinct 401","State Representative","12","DEM","Dee Howard Mullins",767
+"Walker","Precinct 401","Chief Justice, 10th Ct of App Dist",,"REP","Matt Johnson",1004
+"Walker","Precinct 401","Dist Judge, 12th Judicial Dist",,"REP","David Wayne Moorman",1011
+"Walker","Precinct 401","Sheriff",,"REP","Clint McRae",1053
+"Walker","Precinct 401","County Tax Assessor-Collector",,"REP","Diana McRae",1050
+"Walker","Precinct 401","Constable Pct 4",,"REP","Gene Bartee",1023
+"Walker","Precinct 401","Councilmember, At-Large Position One City of Huntsville",,,"Erin Owens",651
+"Walker","Precinct 401","Councilmember, At-Large Position One City of Huntsville",,,"Bert Lyle",465
+"Walker","Precinct 401","Councilmember, At-Large Position Two City of Huntsville",,,"Lovie Cunningham",582
+"Walker","Precinct 401","Councilmember, At-Large Position Two City of Huntsville",,,"Karen M. Denman",505
+"Walker","Precinct 401","Councilmember, At-Large Position Three City of Huntsville",,,"Vicki McKenzie",586
+"Walker","Precinct 401","Councilmember, At-Large Position Three City of Huntsville",,,"Yolanda M. Scott",514
+"Walker","Precinct 401","Councilmember, At-Large Position Four City of Huntsville",,,"Pat Graham",743
+"Walker","Precinct 401","Councilmember, At-Large Position Four City of Huntsville",,,"Robby Logan",329
+"Walker","Precinct 403","President",,"REP","Donald J. Trump",716
+"Walker","Precinct 403","President",,"DEM","Kamala D. Harris",199
+"Walker","Precinct 403","President",,"LIB","Chase Oliver",2
+"Walker","Precinct 403","President",,"GRN","Jill Stein",0
+"Walker","Precinct 403","President",,,"Write-ins",0
+"Walker","Precinct 403","U.S. Senate",,"REP","Ted Cruz",672
+"Walker","Precinct 403","U.S. Senate",,"DEM","Colin Allred",221
+"Walker","Precinct 403","U.S. Senate",,"LIB","Ted Brown",19
+"Walker","Precinct 403","U.S. Senate",,,"Write-ins",0
+"Walker","Precinct 403","U.S. House","8","REP","Morgan Luttrell",708
+"Walker","Precinct 403","U.S. House","8","DEM","Laura Jones",182
+"Walker","Precinct 403","Railroad Commissioner",,"REP","Christi Craddick",662
+"Walker","Precinct 403","Railroad Commissioner",,"DEM","Katherine Culbert",181
+"Walker","Precinct 403","Railroad Commissioner",,"LIB","Hawk Dunlap",34
+"Walker","Precinct 403","Railroad Commissioner",,"GRN","Eddie Espinoza",11
+"Walker","Precinct 403","Railroad Commissioner",,,"Write-ins",1
+"Walker","Precinct 403","Justice, Supreme Court, Pl 2",,"REP","Jimmy Blacklock",701
+"Walker","Precinct 403","Justice, Supreme Court, Pl 2",,"DEM","DaSean Jones",188
+"Walker","Precinct 403","Justice, Supreme Court, Pl 4",,"REP","John Devine",688
+"Walker","Precinct 403","Justice, Supreme Court, Pl 4",,"DEM","Christine Vinh Weems",196
+"Walker","Precinct 403","Justice, Supreme Court, Pl 6",,"REP","Jane Bland",675
+"Walker","Precinct 403","Justice, Supreme Court, Pl 6",,"DEM","Bonnie Lee Goldstein",185
+"Walker","Precinct 403","Justice, Supreme Court, Pl 6",,"LIB","J. David Roberson",27
+"Walker","Precinct 403","Presiding Judge, Ct of Crim App",,"REP","David J. Schenck",690
+"Walker","Precinct 403","Presiding Judge, Ct of Crim App",,"DEM","Holly Taylor",195
+"Walker","Precinct 403","Judge, Ct of Crim App, Pl 7",,"REP","Gina Parker",694
+"Walker","Precinct 403","Judge, Ct of Crim App, Pl 7",,"DEM","Nancy Mulder",190
+"Walker","Precinct 403","Judge, Ct of Crim App, Pl 8",,"REP","Lee Finley",696
+"Walker","Precinct 403","Judge, Ct of Crim App, Pl 8",,"DEM","Chika Anyiam",187
+"Walker","Precinct 403","State Representative","12","REP","Trey Wharton",707
+"Walker","Precinct 403","State Representative","12","DEM","Dee Howard Mullins",184
+"Walker","Precinct 403","Chief Justice, 10th Ct of App Dist",,"REP","Matt Johnson",744
+"Walker","Precinct 403","Dist Judge, 12th Judicial Dist",,"REP","David Wayne Moorman",748
+"Walker","Precinct 403","Sheriff",,"REP","Clint McRae",782
+"Walker","Precinct 403","County Tax Assessor-Collector",,"REP","Diana McRae",771
+"Walker","Precinct 403","Constable Pct 4",,"REP","Gene Bartee",773
+"Walker","Precinct 404","President",,"REP","Donald J. Trump",2705
+"Walker","Precinct 404","President",,"DEM","Kamala D. Harris",534
+"Walker","Precinct 404","President",,"LIB","Chase Oliver",9
+"Walker","Precinct 404","President",,"GRN","Jill Stein",5
+"Walker","Precinct 404","President",,,"Write-ins",8
+"Walker","Precinct 404","U.S. Senate",,"REP","Ted Cruz",2626
+"Walker","Precinct 404","U.S. Senate",,"DEM","Colin Allred",564
+"Walker","Precinct 404","U.S. Senate",,"LIB","Ted Brown",53
+"Walker","Precinct 404","U.S. Senate",,,"Write-ins",2
+"Walker","Precinct 404","U.S. House","8","REP","Morgan Luttrell",2740
+"Walker","Precinct 404","U.S. House","8","DEM","Laura Jones",458
+"Walker","Precinct 404","Railroad Commissioner",,"REP","Christi Craddick",2589
+"Walker","Precinct 404","Railroad Commissioner",,"DEM","Katherine Culbert",466
+"Walker","Precinct 404","Railroad Commissioner",,"LIB","Hawk Dunlap",87
+"Walker","Precinct 404","Railroad Commissioner",,"GRN","Eddie Espinoza",25
+"Walker","Precinct 404","Railroad Commissioner",,,"Write-ins",1
+"Walker","Precinct 404","Justice, Supreme Court, Pl 2",,"REP","Jimmy Blacklock",2688
+"Walker","Precinct 404","Justice, Supreme Court, Pl 2",,"DEM","DaSean Jones",471
+"Walker","Precinct 404","Justice, Supreme Court, Pl 4",,"REP","John Devine",2657
+"Walker","Precinct 404","Justice, Supreme Court, Pl 4",,"DEM","Christine Vinh Weems",488
+"Walker","Precinct 404","Justice, Supreme Court, Pl 6",,"REP","Jane Bland",2647
+"Walker","Precinct 404","Justice, Supreme Court, Pl 6",,"DEM","Bonnie Lee Goldstein",463
+"Walker","Precinct 404","Justice, Supreme Court, Pl 6",,"LIB","J. David Roberson",51
+"Walker","Precinct 404","Presiding Judge, Ct of Crim App",,"REP","David J. Schenck",2668
+"Walker","Precinct 404","Presiding Judge, Ct of Crim App",,"DEM","Holly Taylor",487
+"Walker","Precinct 404","Judge, Ct of Crim App, Pl 7",,"REP","Gina Parker",2679
+"Walker","Precinct 404","Judge, Ct of Crim App, Pl 7",,"DEM","Nancy Mulder",475
+"Walker","Precinct 404","Judge, Ct of Crim App, Pl 8",,"REP","Lee Finley",2681
+"Walker","Precinct 404","Judge, Ct of Crim App, Pl 8",,"DEM","Chika Anyiam",472
+"Walker","Precinct 404","State Representative","12","REP","Trey Wharton",2688
+"Walker","Precinct 404","State Representative","12","DEM","Dee Howard Mullins",472
+"Walker","Precinct 404","Chief Justice, 10th Ct of App Dist",,"REP","Matt Johnson",2801
+"Walker","Precinct 404","Dist Judge, 12th Judicial Dist",,"REP","David Wayne Moorman",2800
+"Walker","Precinct 404","Sheriff",,"REP","Clint McRae",2882
+"Walker","Precinct 404","County Tax Assessor-Collector",,"REP","Diana McRae",2854
+"Walker","Precinct 404","Constable Pct 4",,"REP","Gene Bartee",2927
+"Walker","Precinct 405","President",,"REP","Donald J. Trump",40
+"Walker","Precinct 405","President",,"DEM","Kamala D. Harris",22
+"Walker","Precinct 405","President",,"LIB","Chase Oliver",0
+"Walker","Precinct 405","President",,"GRN","Jill Stein",0
+"Walker","Precinct 405","President",,,"Write-ins",0
+"Walker","Precinct 405","U.S. Senate",,"REP","Ted Cruz",38
+"Walker","Precinct 405","U.S. Senate",,"DEM","Colin Allred",24
+"Walker","Precinct 405","U.S. Senate",,"LIB","Ted Brown",0
+"Walker","Precinct 405","U.S. Senate",,,"Write-ins",0
+"Walker","Precinct 405","U.S. House","17","REP","Pete Sessions",43
+"Walker","Precinct 405","U.S. House","17","DEM","Mark Lorenzen",19
+"Walker","Precinct 405","Railroad Commissioner",,"REP","Christi Craddick",42
+"Walker","Precinct 405","Railroad Commissioner",,"DEM","Katherine Culbert",20
+"Walker","Precinct 405","Railroad Commissioner",,"LIB","Hawk Dunlap",0
+"Walker","Precinct 405","Railroad Commissioner",,"GRN","Eddie Espinoza",0
+"Walker","Precinct 405","Railroad Commissioner",,,"Write-ins",0
+"Walker","Precinct 405","Justice, Supreme Court, Pl 2",,"REP","Jimmy Blacklock",42
+"Walker","Precinct 405","Justice, Supreme Court, Pl 2",,"DEM","DaSean Jones",19
+"Walker","Precinct 405","Justice, Supreme Court, Pl 4",,"REP","John Devine",44
+"Walker","Precinct 405","Justice, Supreme Court, Pl 4",,"DEM","Christine Vinh Weems",18
+"Walker","Precinct 405","Justice, Supreme Court, Pl 6",,"REP","Jane Bland",41
+"Walker","Precinct 405","Justice, Supreme Court, Pl 6",,"DEM","Bonnie Lee Goldstein",20
+"Walker","Precinct 405","Justice, Supreme Court, Pl 6",,"LIB","J. David Roberson",0
+"Walker","Precinct 405","Presiding Judge, Ct of Crim App",,"REP","David J. Schenck",42
+"Walker","Precinct 405","Presiding Judge, Ct of Crim App",,"DEM","Holly Taylor",19
+"Walker","Precinct 405","Judge, Ct of Crim App, Pl 7",,"REP","Gina Parker",42
+"Walker","Precinct 405","Judge, Ct of Crim App, Pl 7",,"DEM","Nancy Mulder",19
+"Walker","Precinct 405","Judge, Ct of Crim App, Pl 8",,"REP","Lee Finley",42
+"Walker","Precinct 405","Judge, Ct of Crim App, Pl 8",,"DEM","Chika Anyiam",19
+"Walker","Precinct 405","State Representative","12","REP","Trey Wharton",42
+"Walker","Precinct 405","State Representative","12","DEM","Dee Howard Mullins",18
+"Walker","Precinct 405","Chief Justice, 10th Ct of App Dist",,"REP","Matt Johnson",45
+"Walker","Precinct 405","Dist Judge, 12th Judicial Dist",,"REP","David Wayne Moorman",51
+"Walker","Precinct 405","Sheriff",,"REP","Clint McRae",52
+"Walker","Precinct 405","County Tax Assessor-Collector",,"REP","Diana McRae",53
+"Walker","Precinct 405","Constable Pct 4",,"REP","Gene Bartee",51
