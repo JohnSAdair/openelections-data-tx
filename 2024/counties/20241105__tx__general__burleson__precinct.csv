@@ -1,0 +1,1267 @@
+county,precinct,office,district,candidate,party,absentee,early_voting,election_day,votes
+Burleson,113,Registered Voters,,,,,,,768
+Burleson,113,Ballots Cast,,,,,,,584
+Burleson,113,President,,Donald J. Trump,REP,18,373,120,511
+Burleson,113,President,,Kamala D. Harris,DEM,2,46,18,66
+Burleson,113,President,,Chase Oliver,LIB,0,1,2,3
+Burleson,113,President,,Jill Stein,GRN,0,0,0,0
+Burleson,113,President,,Cherunda Fox/Harlan McVay (W),,0,0,0,0
+Burleson,113,President,,Claudia De la Cruz/Karina Garcia (W),,0,0,0,0
+Burleson,113,President,,Cornel West/Melina Abdullah (W),,0,0,0,0
+Burleson,113,President,,Jessie Cuellar/Wesley Lasley (W),,0,0,0,0
+Burleson,113,President,,Peter Sonski/Lauren Onak (W),,0,0,0,0
+Burleson,113,President,,Shiva Ayyadurai/Crystal Ellis (W),,0,0,0,0
+Burleson,113,President,,Under Votes,,1,1,2,4
+Burleson,113,President,,Over Votes,,0,0,0,0
+Burleson,113,U.S. Senate,,Ted Cruz,REP,18,360,113,491
+Burleson,113,U.S. Senate,,Colin Allred,DEM,3,46,23,72
+Burleson,113,U.S. Senate,,Ted Brown,LIB,0,7,2,9
+Burleson,113,U.S. Senate,,Analisa Roche (W),,0,0,0,0
+Burleson,113,U.S. Senate,,Tracy Andrus (W),,0,0,0,0
+Burleson,113,U.S. Senate,,Under Votes,,0,8,4,12
+Burleson,113,U.S. Senate,,Over Votes,,0,0,0,0
+Burleson,113,U.S. House,10,Michael T. McCaul,REP,17,369,121,507
+Burleson,113,U.S. House,10,Theresa Boisseau,DEM,3,41,13,57
+Burleson,113,U.S. House,10,Jeff Miller,LIB,0,3,3,6
+Burleson,113,U.S. House,10,Under Votes,,1,8,5,14
+Burleson,113,U.S. House,10,Over Votes,,0,0,0,0
+Burleson,113,Railroad Commissioner,,Christi Craddick,REP,18,357,116,491
+Burleson,113,Railroad Commissioner,,Katherine Culbert,DEM,3,40,12,55
+Burleson,113,Railroad Commissioner,,Hawk Dunlap,LIB,0,15,5,20
+Burleson,113,Railroad Commissioner,,Eddie Espinoza,GRN,0,2,2,4
+Burleson,113,Railroad Commissioner,,Richard McKibbin (W),,0,0,0,0
+Burleson,113,Railroad Commissioner,,Under Votes,,0,7,7,14
+Burleson,113,Railroad Commissioner,,Over Votes,,0,0,0,0
+Burleson,113,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,17,372,121,510
+Burleson,113,"Justice, Supreme Court, Place 2",,DaSean Jones,DEM,3,41,17,61
+Burleson,113,"Justice, Supreme Court, Place 2",,Under Votes,,1,8,4,13
+Burleson,113,"Justice, Supreme Court, Place 2",,Over Votes,,0,0,0,0
+Burleson,113,"Justice, Supreme Court, Place 4",,John Devine,REP,16,372,114,502
+Burleson,113,"Justice, Supreme Court, Place 4",,Christine Vinh Weems,DEM,4,40,20,64
+Burleson,113,"Justice, Supreme Court, Place 4",,Under Votes,,1,9,8,18
+Burleson,113,"Justice, Supreme Court, Place 4",,Over Votes,,0,0,0,0
+Burleson,113,"Justice, Supreme Court, Place 6",,Jane Bland,REP,17,361,117,495
+Burleson,113,"Justice, Supreme Court, Place 6",,Bonnie Lee Goldstein,DEM,3,40,15,58
+Burleson,113,"Justice, Supreme Court, Place 6",,J. David Roberson,LIB,0,10,2,12
+Burleson,113,"Justice, Supreme Court, Place 6",,Under Votes,,1,10,8,19
+Burleson,113,"Justice, Supreme Court, Place 6",,Over Votes,,0,0,0,0
+Burleson,113,"Presiding Judge, Court of Criminal Appeals",,David J. Schenck,REP,17,373,117,507
+Burleson,113,"Presiding Judge, Court of Criminal Appeals",,Holly Taylor,DEM,3,38,17,58
+Burleson,113,"Presiding Judge, Court of Criminal Appeals",,Under Votes,,1,10,8,19
+Burleson,113,"Presiding Judge, Court of Criminal Appeals",,Over Votes,,0,0,0,0
+Burleson,113,"Judge, Court of Criminal Appeals, Place 7",,Gina Parker,REP,17,371,119,507
+Burleson,113,"Judge, Court of Criminal Appeals, Place 7",,Nancy Mulder,DEM,3,40,14,57
+Burleson,113,"Judge, Court of Criminal Appeals, Place 7",,Under Votes,,1,10,9,20
+Burleson,113,"Judge, Court of Criminal Appeals, Place 7",,Over Votes,,0,0,0,0
+Burleson,113,"Judge, Court of Criminal Appeals, Place 8",,Lee Finley,REP,17,373,117,507
+Burleson,113,"Judge, Court of Criminal Appeals, Place 8",,Chika Anyiam,DEM,3,39,15,57
+Burleson,113,"Judge, Court of Criminal Appeals, Place 8",,Under Votes,,1,9,10,20
+Burleson,113,"Judge, Court of Criminal Appeals, Place 8",,Over Votes,,0,0,0,0
+Burleson,113,"Member, State Board of Education, District 10",,Tom Maynard,REP,17,372,120,509
+Burleson,113,"Member, State Board of Education, District 10",,Raquel Saenz Ortiz,DEM,3,41,15,59
+Burleson,113,"Member, State Board of Education, District 10",,Under Votes,,1,8,7,16
+Burleson,113,"Member, State Board of Education, District 10",,Over Votes,,0,0,0,0
+Burleson,113,State Representative,17,Stan Gerdes,REP,17,373,121,511
+Burleson,113,State Representative,17,Desiree Venable,DEM,3,40,17,60
+Burleson,113,State Representative,17,Under Votes,,1,8,4,13
+Burleson,113,State Representative,17,Over Votes,,0,0,0,0
+Burleson,113,"Chief Justice, 10th Court of Appeals District",,Matt Johnson,REP,17,385,125,527
+Burleson,113,"Chief Justice, 10th Court of Appeals District",,Under Votes,,4,36,17,57
+Burleson,113,"Chief Justice, 10th Court of Appeals District",,Over Votes,,0,0,0,0
+Burleson,113,"District Judge, 21st Judicial District",,Carson Campbell,REP,18,381,124,523
+Burleson,113,"District Judge, 21st Judicial District",,Under Votes,,3,40,18,61
+Burleson,113,"District Judge, 21st Judicial District",,Over Votes,,0,0,0,0
+Burleson,113,"District Judge, 335th Judicial District",,John D. Winkelmann,REP,18,384,125,527
+Burleson,113,"District Judge, 335th Judicial District",,Under Votes,,3,37,17,57
+Burleson,113,"District Judge, 335th Judicial District",,Over Votes,,0,0,0,0
+Burleson,113,County Attorney,,Susan R. Deski,REP,17,375,126,518
+Burleson,113,County Attorney,,Under Votes,,4,46,16,66
+Burleson,113,County Attorney,,Over Votes,,0,0,0,0
+Burleson,113,Sheriff,,Gene Hermes,REP,17,375,128,520
+Burleson,113,Sheriff,,Under Votes,,4,46,14,64
+Burleson,113,Sheriff,,Over Votes,,0,0,0,0
+Burleson,113,County Tax Assessor-Collector,,Jessica Lucero,REP,17,382,124,523
+Burleson,113,County Tax Assessor-Collector,,Under Votes,,4,39,18,61
+Burleson,113,County Tax Assessor-Collector,,Over Votes,,0,0,0,0
+Burleson,113,"County Commissioner, Precinct 1",,Dwayne Faust,REP,17,387,130,534
+Burleson,113,"County Commissioner, Precinct 1",,Under Votes,,4,34,12,50
+Burleson,113,"County Commissioner, Precinct 1",,Over Votes,,0,0,0,0
+Burleson,113,"Constable, Precinct 1",,Jason E. Muzny,REP,16,382,127,525
+Burleson,113,"Constable, Precinct 1",,Under Votes,,5,39,15,59
+Burleson,113,"Constable, Precinct 1",,Over Votes,,0,0,0,0
+Burleson,114,Registered Voters,,,,,,,2207
+Burleson,114,Ballots Cast,,,,,,,1305
+Burleson,114,President,,Donald J. Trump,REP,30,841,164,1035
+Burleson,114,President,,Kamala D. Harris,DEM,15,190,46,251
+Burleson,114,President,,Chase Oliver,LIB,0,6,3,9
+Burleson,114,President,,Jill Stein,GRN,0,0,1,1
+Burleson,114,President,,Cherunda Fox/Harlan McVay (W),,0,0,0,0
+Burleson,114,President,,Claudia De la Cruz/Karina Garcia (W),,0,0,0,0
+Burleson,114,President,,Cornel West/Melina Abdullah (W),,0,0,0,0
+Burleson,114,President,,Jessie Cuellar/Wesley Lasley (W),,0,0,0,0
+Burleson,114,President,,Peter Sonski/Lauren Onak (W),,0,0,0,0
+Burleson,114,President,,Shiva Ayyadurai/Crystal Ellis (W),,0,1,0,1
+Burleson,114,President,,Under Votes,,2,3,2,7
+Burleson,114,President,,Over Votes,,1,0,0,1
+Burleson,114,U.S. Senate,,Ted Cruz,REP,32,806,158,996
+Burleson,114,U.S. Senate,,Colin Allred,DEM,12,202,50,264
+Burleson,114,U.S. Senate,,Ted Brown,LIB,0,24,7,31
+Burleson,114,U.S. Senate,,Analisa Roche (W),,0,0,0,0
+Burleson,114,U.S. Senate,,Tracy Andrus (W),,0,0,0,0
+Burleson,114,U.S. Senate,,Under Votes,,3,9,1,13
+Burleson,114,U.S. Senate,,Over Votes,,1,0,0,1
+Burleson,114,U.S. House,10,Michael T. McCaul,REP,30,827,157,1014
+Burleson,114,U.S. House,10,Theresa Boisseau,DEM,13,180,43,236
+Burleson,114,U.S. House,10,Jeff Miller,LIB,0,13,6,19
+Burleson,114,U.S. House,10,Under Votes,,5,21,10,36
+Burleson,114,U.S. House,10,Over Votes,,0,0,0,0
+Burleson,114,Railroad Commissioner,,Christi Craddick,REP,32,810,149,991
+Burleson,114,Railroad Commissioner,,Katherine Culbert,DEM,10,171,47,228
+Burleson,114,Railroad Commissioner,,Hawk Dunlap,LIB,0,17,4,21
+Burleson,114,Railroad Commissioner,,Eddie Espinoza,GRN,0,13,4,17
+Burleson,114,Railroad Commissioner,,Richard McKibbin (W),,0,0,0,0
+Burleson,114,Railroad Commissioner,,Under Votes,,3,30,12,45
+Burleson,114,Railroad Commissioner,,Over Votes,,3,0,0,3
+Burleson,114,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,32,827,157,1016
+Burleson,114,"Justice, Supreme Court, Place 2",,DaSean Jones,DEM,13,185,49,247
+Burleson,114,"Justice, Supreme Court, Place 2",,Under Votes,,3,29,10,42
+Burleson,114,"Justice, Supreme Court, Place 2",,Over Votes,,0,0,0,0
+Burleson,114,"Justice, Supreme Court, Place 4",,John Devine,REP,32,820,157,1009
+Burleson,114,"Justice, Supreme Court, Place 4",,Christine Vinh Weems,DEM,13,188,47,248
+Burleson,114,"Justice, Supreme Court, Place 4",,Under Votes,,3,33,12,48
+Burleson,114,"Justice, Supreme Court, Place 4",,Over Votes,,0,0,0,0
+Burleson,114,"Justice, Supreme Court, Place 6",,Jane Bland,REP,31,805,151,987
+Burleson,114,"Justice, Supreme Court, Place 6",,Bonnie Lee Goldstein,DEM,14,183,47,244
+Burleson,114,"Justice, Supreme Court, Place 6",,J. David Roberson,LIB,0,20,6,26
+Burleson,114,"Justice, Supreme Court, Place 6",,Under Votes,,3,33,12,48
+Burleson,114,"Justice, Supreme Court, Place 6",,Over Votes,,0,0,0,0
+Burleson,114,"Presiding Judge, Court of Criminal Appeals",,David J. Schenck,REP,30,821,156,1007
+Burleson,114,"Presiding Judge, Court of Criminal Appeals",,Holly Taylor,DEM,15,190,49,254
+Burleson,114,"Presiding Judge, Court of Criminal Appeals",,Under Votes,,3,30,11,44
+Burleson,114,"Presiding Judge, Court of Criminal Appeals",,Over Votes,,0,0,0,0
+Burleson,114,"Judge, Court of Criminal Appeals, Place 7",,Gina Parker,REP,32,824,154,1010
+Burleson,114,"Judge, Court of Criminal Appeals, Place 7",,Nancy Mulder,DEM,13,185,49,247
+Burleson,114,"Judge, Court of Criminal Appeals, Place 7",,Under Votes,,3,32,13,48
+Burleson,114,"Judge, Court of Criminal Appeals, Place 7",,Over Votes,,0,0,0,0
+Burleson,114,"Judge, Court of Criminal Appeals, Place 8",,Lee Finley,REP,32,831,154,1017
+Burleson,114,"Judge, Court of Criminal Appeals, Place 8",,Chika Anyiam,DEM,13,176,48,237
+Burleson,114,"Judge, Court of Criminal Appeals, Place 8",,Under Votes,,3,34,14,51
+Burleson,114,"Judge, Court of Criminal Appeals, Place 8",,Over Votes,,0,0,0,0
+Burleson,114,"Member, State Board of Education, District 10",,Tom Maynard,REP,29,822,158,1009
+Burleson,114,"Member, State Board of Education, District 10",,Raquel Saenz Ortiz,DEM,15,190,48,253
+Burleson,114,"Member, State Board of Education, District 10",,Under Votes,,4,29,10,43
+Burleson,114,"Member, State Board of Education, District 10",,Over Votes,,0,0,0,0
+Burleson,114,State Representative,17,Stan Gerdes,REP,29,825,148,1002
+Burleson,114,State Representative,17,Desiree Venable,DEM,14,187,54,255
+Burleson,114,State Representative,17,Under Votes,,5,29,14,48
+Burleson,114,State Representative,17,Over Votes,,0,0,0,0
+Burleson,114,"Chief Justice, 10th Court of Appeals District",,Matt Johnson,REP,31,872,183,1086
+Burleson,114,"Chief Justice, 10th Court of Appeals District",,Under Votes,,17,169,33,219
+Burleson,114,"Chief Justice, 10th Court of Appeals District",,Over Votes,,0,0,0,0
+Burleson,114,"District Judge, 21st Judicial District",,Carson Campbell,REP,31,877,182,1090
+Burleson,114,"District Judge, 21st Judicial District",,Under Votes,,17,164,34,215
+Burleson,114,"District Judge, 21st Judicial District",,Over Votes,,0,0,0,0
+Burleson,114,"District Judge, 335th Judicial District",,John D. Winkelmann,REP,29,881,180,1090
+Burleson,114,"District Judge, 335th Judicial District",,Under Votes,,19,160,36,215
+Burleson,114,"District Judge, 335th Judicial District",,Over Votes,,0,0,0,0
+Burleson,114,County Attorney,,Susan R. Deski,REP,29,866,175,1070
+Burleson,114,County Attorney,,Under Votes,,19,175,41,235
+Burleson,114,County Attorney,,Over Votes,,0,0,0,0
+Burleson,114,Sheriff,,Gene Hermes,REP,31,899,181,1111
+Burleson,114,Sheriff,,Under Votes,,17,142,35,194
+Burleson,114,Sheriff,,Over Votes,,0,0,0,0
+Burleson,114,County Tax Assessor-Collector,,Jessica Lucero,REP,31,895,178,1104
+Burleson,114,County Tax Assessor-Collector,,Under Votes,,17,146,38,201
+Burleson,114,County Tax Assessor-Collector,,Over Votes,,0,0,0,0
+Burleson,114,"County Commissioner, Precinct 1",,Dwayne Faust,REP,28,907,181,1116
+Burleson,114,"County Commissioner, Precinct 1",,Under Votes,,20,134,35,189
+Burleson,114,"County Commissioner, Precinct 1",,Over Votes,,0,0,0,0
+Burleson,114,"Constable, Precinct 1",,Jason E. Muzny,REP,28,888,183,1099
+Burleson,114,"Constable, Precinct 1",,Under Votes,,20,153,33,206
+Burleson,114,"Constable, Precinct 1",,Over Votes,,0,0,0,0
+Burleson,203,Registered Voters,,,,,,,452
+Burleson,203,Ballots Cast,,,,,,,313
+Burleson,203,President,,Donald J. Trump,REP,6,194,50,250
+Burleson,203,President,,Kamala D. Harris,DEM,6,33,20,59
+Burleson,203,President,,Chase Oliver,LIB,0,1,1,2
+Burleson,203,President,,Jill Stein,GRN,0,0,1,1
+Burleson,203,President,,Cherunda Fox/Harlan McVay (W),,0,0,0,0
+Burleson,203,President,,Claudia De la Cruz/Karina Garcia (W),,0,0,1,1
+Burleson,203,President,,Cornel West/Melina Abdullah (W),,0,0,0,0
+Burleson,203,President,,Jessie Cuellar/Wesley Lasley (W),,0,0,0,0
+Burleson,203,President,,Peter Sonski/Lauren Onak (W),,0,0,0,0
+Burleson,203,President,,Shiva Ayyadurai/Crystal Ellis (W),,0,0,0,0
+Burleson,203,President,,Under Votes,,0,0,0,0
+Burleson,203,President,,Over Votes,,0,0,0,0
+Burleson,203,U.S. Senate,,Ted Cruz,REP,6,188,47,241
+Burleson,203,U.S. Senate,,Colin Allred,DEM,6,35,22,63
+Burleson,203,U.S. Senate,,Ted Brown,LIB,0,4,4,8
+Burleson,203,U.S. Senate,,Analisa Roche (W),,0,0,0,0
+Burleson,203,U.S. Senate,,Tracy Andrus (W),,0,0,0,0
+Burleson,203,U.S. Senate,,Under Votes,,0,1,0,1
+Burleson,203,U.S. Senate,,Over Votes,,0,0,0,0
+Burleson,203,U.S. House,10,Michael T. McCaul,REP,7,191,54,252
+Burleson,203,U.S. House,10,Theresa Boisseau,DEM,4,30,16,50
+Burleson,203,U.S. House,10,Jeff Miller,LIB,0,5,2,7
+Burleson,203,U.S. House,10,Under Votes,,1,2,1,4
+Burleson,203,U.S. House,10,Over Votes,,0,0,0,0
+Burleson,203,Railroad Commissioner,,Christi Craddick,REP,6,186,54,246
+Burleson,203,Railroad Commissioner,,Katherine Culbert,DEM,6,32,13,51
+Burleson,203,Railroad Commissioner,,Hawk Dunlap,LIB,0,7,2,9
+Burleson,203,Railroad Commissioner,,Eddie Espinoza,GRN,0,2,2,4
+Burleson,203,Railroad Commissioner,,Richard McKibbin (W),,0,0,0,0
+Burleson,203,Railroad Commissioner,,Under Votes,,0,1,2,3
+Burleson,203,Railroad Commissioner,,Over Votes,,0,0,0,0
+Burleson,203,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,8,191,58,257
+Burleson,203,"Justice, Supreme Court, Place 2",,DaSean Jones,DEM,4,35,14,53
+Burleson,203,"Justice, Supreme Court, Place 2",,Under Votes,,0,2,1,3
+Burleson,203,"Justice, Supreme Court, Place 2",,Over Votes,,0,0,0,0
+Burleson,203,"Justice, Supreme Court, Place 4",,John Devine,REP,6,192,56,254
+Burleson,203,"Justice, Supreme Court, Place 4",,Christine Vinh Weems,DEM,6,35,15,56
+Burleson,203,"Justice, Supreme Court, Place 4",,Under Votes,,0,1,2,3
+Burleson,203,"Justice, Supreme Court, Place 4",,Over Votes,,0,0,0,0
+Burleson,203,"Justice, Supreme Court, Place 6",,Jane Bland,REP,6,187,59,252
+Burleson,203,"Justice, Supreme Court, Place 6",,Bonnie Lee Goldstein,DEM,6,34,11,51
+Burleson,203,"Justice, Supreme Court, Place 6",,J. David Roberson,LIB,0,6,2,8
+Burleson,203,"Justice, Supreme Court, Place 6",,Under Votes,,0,1,1,2
+Burleson,203,"Justice, Supreme Court, Place 6",,Over Votes,,0,0,0,0
+Burleson,203,"Presiding Judge, Court of Criminal Appeals",,David J. Schenck,REP,6,190,58,254
+Burleson,203,"Presiding Judge, Court of Criminal Appeals",,Holly Taylor,DEM,6,36,14,56
+Burleson,203,"Presiding Judge, Court of Criminal Appeals",,Under Votes,,0,2,1,3
+Burleson,203,"Presiding Judge, Court of Criminal Appeals",,Over Votes,,0,0,0,0
+Burleson,203,"Judge, Court of Criminal Appeals, Place 7",,Gina Parker,REP,6,191,57,254
+Burleson,203,"Judge, Court of Criminal Appeals, Place 7",,Nancy Mulder,DEM,6,35,14,55
+Burleson,203,"Judge, Court of Criminal Appeals, Place 7",,Under Votes,,0,2,2,4
+Burleson,203,"Judge, Court of Criminal Appeals, Place 7",,Over Votes,,0,0,0,0
+Burleson,203,"Judge, Court of Criminal Appeals, Place 8",,Lee Finley,REP,6,191,58,255
+Burleson,203,"Judge, Court of Criminal Appeals, Place 8",,Chika Anyiam,DEM,6,34,14,54
+Burleson,203,"Judge, Court of Criminal Appeals, Place 8",,Under Votes,,0,3,1,4
+Burleson,203,"Judge, Court of Criminal Appeals, Place 8",,Over Votes,,0,0,0,0
+Burleson,203,"Member, State Board of Education, District 10",,Tom Maynard,REP,6,190,56,252
+Burleson,203,"Member, State Board of Education, District 10",,Raquel Saenz Ortiz,DEM,6,36,16,58
+Burleson,203,"Member, State Board of Education, District 10",,Under Votes,,0,2,1,3
+Burleson,203,"Member, State Board of Education, District 10",,Over Votes,,0,0,0,0
+Burleson,203,State Representative,17,Stan Gerdes,REP,8,190,57,255
+Burleson,203,State Representative,17,Desiree Venable,DEM,4,35,15,54
+Burleson,203,State Representative,17,Under Votes,,0,3,1,4
+Burleson,203,State Representative,17,Over Votes,,0,0,0,0
+Burleson,203,"Chief Justice, 10th Court of Appeals District",,Matt Johnson,REP,7,199,63,269
+Burleson,203,"Chief Justice, 10th Court of Appeals District",,Under Votes,,5,29,10,44
+Burleson,203,"Chief Justice, 10th Court of Appeals District",,Over Votes,,0,0,0,0
+Burleson,203,"District Judge, 21st Judicial District",,Carson Campbell,REP,8,198,61,267
+Burleson,203,"District Judge, 21st Judicial District",,Under Votes,,4,30,12,46
+Burleson,203,"District Judge, 21st Judicial District",,Over Votes,,0,0,0,0
+Burleson,203,"District Judge, 335th Judicial District",,John D. Winkelmann,REP,9,199,62,270
+Burleson,203,"District Judge, 335th Judicial District",,Under Votes,,3,29,11,43
+Burleson,203,"District Judge, 335th Judicial District",,Over Votes,,0,0,0,0
+Burleson,203,County Attorney,,Susan R. Deski,REP,8,197,64,269
+Burleson,203,County Attorney,,Under Votes,,4,31,9,44
+Burleson,203,County Attorney,,Over Votes,,0,0,0,0
+Burleson,203,Sheriff,,Gene Hermes,REP,9,200,63,272
+Burleson,203,Sheriff,,Under Votes,,3,28,10,41
+Burleson,203,Sheriff,,Over Votes,,0,0,0,0
+Burleson,203,County Tax Assessor-Collector,,Jessica Lucero,REP,9,200,62,271
+Burleson,203,County Tax Assessor-Collector,,Under Votes,,3,28,11,42
+Burleson,203,County Tax Assessor-Collector,,Over Votes,,0,0,0,0
+Burleson,203,"Constable, Precinct 2",,Dennis J. Gaas,REP,9,201,60,270
+Burleson,203,"Constable, Precinct 2",,Under Votes,,3,27,13,43
+Burleson,203,"Constable, Precinct 2",,Over Votes,,0,0,0,0
+Burleson,204,Registered Voters,,,,,,,664
+Burleson,204,Ballots Cast,,,,,,,500
+Burleson,204,President,,Donald J. Trump,REP,28,339,49,416
+Burleson,204,President,,Kamala D. Harris,DEM,7,64,10,81
+Burleson,204,President,,Chase Oliver,LIB,0,1,0,1
+Burleson,204,President,,Jill Stein,GRN,0,2,0,2
+Burleson,204,President,,Cherunda Fox/Harlan McVay (W),,0,0,0,0
+Burleson,204,President,,Claudia De la Cruz/Karina Garcia (W),,0,0,0,0
+Burleson,204,President,,Cornel West/Melina Abdullah (W),,0,0,0,0
+Burleson,204,President,,Jessie Cuellar/Wesley Lasley (W),,0,0,0,0
+Burleson,204,President,,Peter Sonski/Lauren Onak (W),,0,0,0,0
+Burleson,204,President,,Shiva Ayyadurai/Crystal Ellis (W),,0,0,0,0
+Burleson,204,President,,Under Votes,,0,0,0,0
+Burleson,204,President,,Over Votes,,0,0,0,0
+Burleson,204,U.S. Senate,,Ted Cruz,REP,27,331,48,406
+Burleson,204,U.S. Senate,,Colin Allred,DEM,8,68,11,87
+Burleson,204,U.S. Senate,,Ted Brown,LIB,0,4,0,4
+Burleson,204,U.S. Senate,,Analisa Roche (W),,0,0,0,0
+Burleson,204,U.S. Senate,,Tracy Andrus (W),,0,0,0,0
+Burleson,204,U.S. Senate,,Under Votes,,0,3,0,3
+Burleson,204,U.S. Senate,,Over Votes,,0,0,0,0
+Burleson,204,U.S. House,10,Michael T. McCaul,REP,27,341,48,416
+Burleson,204,U.S. House,10,Theresa Boisseau,DEM,4,53,10,67
+Burleson,204,U.S. House,10,Jeff Miller,LIB,0,7,0,7
+Burleson,204,U.S. House,10,Under Votes,,4,5,1,10
+Burleson,204,U.S. House,10,Over Votes,,0,0,0,0
+Burleson,204,Railroad Commissioner,,Christi Craddick,REP,26,330,44,400
+Burleson,204,Railroad Commissioner,,Katherine Culbert,DEM,7,53,10,70
+Burleson,204,Railroad Commissioner,,Hawk Dunlap,LIB,0,9,3,12
+Burleson,204,Railroad Commissioner,,Eddie Espinoza,GRN,0,1,0,1
+Burleson,204,Railroad Commissioner,,Richard McKibbin (W),,0,0,0,0
+Burleson,204,Railroad Commissioner,,Under Votes,,2,13,2,17
+Burleson,204,Railroad Commissioner,,Over Votes,,0,0,0,0
+Burleson,204,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,26,336,49,411
+Burleson,204,"Justice, Supreme Court, Place 2",,DaSean Jones,DEM,7,57,9,73
+Burleson,204,"Justice, Supreme Court, Place 2",,Under Votes,,2,13,1,16
+Burleson,204,"Justice, Supreme Court, Place 2",,Over Votes,,0,0,0,0
+Burleson,204,"Justice, Supreme Court, Place 4",,John Devine,REP,26,337,48,411
+Burleson,204,"Justice, Supreme Court, Place 4",,Christine Vinh Weems,DEM,7,56,10,73
+Burleson,204,"Justice, Supreme Court, Place 4",,Under Votes,,2,13,1,16
+Burleson,204,"Justice, Supreme Court, Place 4",,Over Votes,,0,0,0,0
+Burleson,204,"Justice, Supreme Court, Place 6",,Jane Bland,REP,26,335,48,409
+Burleson,204,"Justice, Supreme Court, Place 6",,Bonnie Lee Goldstein,DEM,7,53,9,69
+Burleson,204,"Justice, Supreme Court, Place 6",,J. David Roberson,LIB,0,7,0,7
+Burleson,204,"Justice, Supreme Court, Place 6",,Under Votes,,2,11,2,15
+Burleson,204,"Justice, Supreme Court, Place 6",,Over Votes,,0,0,0,0
+Burleson,204,"Presiding Judge, Court of Criminal Appeals",,David J. Schenck,REP,26,339,47,412
+Burleson,204,"Presiding Judge, Court of Criminal Appeals",,Holly Taylor,DEM,6,52,9,67
+Burleson,204,"Presiding Judge, Court of Criminal Appeals",,Under Votes,,3,15,3,21
+Burleson,204,"Presiding Judge, Court of Criminal Appeals",,Over Votes,,0,0,0,0
+Burleson,204,"Judge, Court of Criminal Appeals, Place 7",,Gina Parker,REP,27,339,46,412
+Burleson,204,"Judge, Court of Criminal Appeals, Place 7",,Nancy Mulder,DEM,6,53,10,69
+Burleson,204,"Judge, Court of Criminal Appeals, Place 7",,Under Votes,,2,14,3,19
+Burleson,204,"Judge, Court of Criminal Appeals, Place 7",,Over Votes,,0,0,0,0
+Burleson,204,"Judge, Court of Criminal Appeals, Place 8",,Lee Finley,REP,27,342,48,417
+Burleson,204,"Judge, Court of Criminal Appeals, Place 8",,Chika Anyiam,DEM,6,50,8,64
+Burleson,204,"Judge, Court of Criminal Appeals, Place 8",,Under Votes,,2,14,3,19
+Burleson,204,"Judge, Court of Criminal Appeals, Place 8",,Over Votes,,0,0,0,0
+Burleson,204,"Member, State Board of Education, District 10",,Tom Maynard,REP,27,339,48,414
+Burleson,204,"Member, State Board of Education, District 10",,Raquel Saenz Ortiz,DEM,5,56,10,71
+Burleson,204,"Member, State Board of Education, District 10",,Under Votes,,3,11,1,15
+Burleson,204,"Member, State Board of Education, District 10",,Over Votes,,0,0,0,0
+Burleson,204,State Representative,17,Stan Gerdes,REP,26,336,48,410
+Burleson,204,State Representative,17,Desiree Venable,DEM,5,55,10,70
+Burleson,204,State Representative,17,Under Votes,,4,15,1,20
+Burleson,204,State Representative,17,Over Votes,,0,0,0,0
+Burleson,204,"Chief Justice, 10th Court of Appeals District",,Matt Johnson,REP,26,349,52,427
+Burleson,204,"Chief Justice, 10th Court of Appeals District",,Under Votes,,9,57,7,73
+Burleson,204,"Chief Justice, 10th Court of Appeals District",,Over Votes,,0,0,0,0
+Burleson,204,"District Judge, 21st Judicial District",,Carson Campbell,REP,26,348,52,426
+Burleson,204,"District Judge, 21st Judicial District",,Under Votes,,9,58,7,74
+Burleson,204,"District Judge, 21st Judicial District",,Over Votes,,0,0,0,0
+Burleson,204,"District Judge, 335th Judicial District",,John D. Winkelmann,REP,28,347,52,427
+Burleson,204,"District Judge, 335th Judicial District",,Under Votes,,7,59,7,73
+Burleson,204,"District Judge, 335th Judicial District",,Over Votes,,0,0,0,0
+Burleson,204,County Attorney,,Susan R. Deski,REP,25,336,50,411
+Burleson,204,County Attorney,,Under Votes,,10,70,9,89
+Burleson,204,County Attorney,,Over Votes,,0,0,0,0
+Burleson,204,Sheriff,,Gene Hermes,REP,29,359,49,437
+Burleson,204,Sheriff,,Under Votes,,6,47,10,63
+Burleson,204,Sheriff,,Over Votes,,0,0,0,0
+Burleson,204,County Tax Assessor-Collector,,Jessica Lucero,REP,29,350,51,430
+Burleson,204,County Tax Assessor-Collector,,Under Votes,,6,56,8,70
+Burleson,204,County Tax Assessor-Collector,,Over Votes,,0,0,0,0
+Burleson,204,"Constable, Precinct 2",,Dennis J. Gaas,REP,29,355,50,434
+Burleson,204,"Constable, Precinct 2",,Under Votes,,6,51,9,66
+Burleson,204,"Constable, Precinct 2",,Over Votes,,0,0,0,0
+Burleson,207,Registered Voters,,,,,,,543
+Burleson,207,Ballots Cast,,,,,,,343
+Burleson,207,President,,Donald J. Trump,REP,6,205,39,250
+Burleson,207,President,,Kamala D. Harris,DEM,3,54,34,91
+Burleson,207,President,,Chase Oliver,LIB,1,1,0,2
+Burleson,207,President,,Jill Stein,GRN,0,0,0,0
+Burleson,207,President,,Cherunda Fox/Harlan McVay (W),,0,0,0,0
+Burleson,207,President,,Claudia De la Cruz/Karina Garcia (W),,0,0,0,0
+Burleson,207,President,,Cornel West/Melina Abdullah (W),,0,0,0,0
+Burleson,207,President,,Jessie Cuellar/Wesley Lasley (W),,0,0,0,0
+Burleson,207,President,,Peter Sonski/Lauren Onak (W),,0,0,0,0
+Burleson,207,President,,Shiva Ayyadurai/Crystal Ellis (W),,0,0,0,0
+Burleson,207,President,,Under Votes,,0,0,0,0
+Burleson,207,President,,Over Votes,,0,0,0,0
+Burleson,207,U.S. Senate,,Ted Cruz,REP,7,200,37,244
+Burleson,207,U.S. Senate,,Colin Allred,DEM,3,55,34,92
+Burleson,207,U.S. Senate,,Ted Brown,LIB,0,4,1,5
+Burleson,207,U.S. Senate,,Analisa Roche (W),,0,0,0,0
+Burleson,207,U.S. Senate,,Tracy Andrus (W),,0,0,0,0
+Burleson,207,U.S. Senate,,Under Votes,,0,1,1,2
+Burleson,207,U.S. Senate,,Over Votes,,0,0,0,0
+Burleson,207,U.S. House,10,Michael T. McCaul,REP,6,201,36,243
+Burleson,207,U.S. House,10,Theresa Boisseau,DEM,2,49,33,84
+Burleson,207,U.S. House,10,Jeff Miller,LIB,0,8,3,11
+Burleson,207,U.S. House,10,Under Votes,,2,2,1,5
+Burleson,207,U.S. House,10,Over Votes,,0,0,0,0
+Burleson,207,Railroad Commissioner,,Christi Craddick,REP,8,197,38,243
+Burleson,207,Railroad Commissioner,,Katherine Culbert,DEM,1,50,33,84
+Burleson,207,Railroad Commissioner,,Hawk Dunlap,LIB,0,8,1,9
+Burleson,207,Railroad Commissioner,,Eddie Espinoza,GRN,0,1,0,1
+Burleson,207,Railroad Commissioner,,Richard McKibbin (W),,0,0,0,0
+Burleson,207,Railroad Commissioner,,Under Votes,,1,4,1,6
+Burleson,207,Railroad Commissioner,,Over Votes,,0,0,0,0
+Burleson,207,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,6,200,39,245
+Burleson,207,"Justice, Supreme Court, Place 2",,DaSean Jones,DEM,3,54,32,89
+Burleson,207,"Justice, Supreme Court, Place 2",,Under Votes,,1,6,2,9
+Burleson,207,"Justice, Supreme Court, Place 2",,Over Votes,,0,0,0,0
+Burleson,207,"Justice, Supreme Court, Place 4",,John Devine,REP,6,202,39,247
+Burleson,207,"Justice, Supreme Court, Place 4",,Christine Vinh Weems,DEM,3,52,32,87
+Burleson,207,"Justice, Supreme Court, Place 4",,Under Votes,,1,6,2,9
+Burleson,207,"Justice, Supreme Court, Place 4",,Over Votes,,0,0,0,0
+Burleson,207,"Justice, Supreme Court, Place 6",,Jane Bland,REP,7,200,36,243
+Burleson,207,"Justice, Supreme Court, Place 6",,Bonnie Lee Goldstein,DEM,2,50,33,85
+Burleson,207,"Justice, Supreme Court, Place 6",,J. David Roberson,LIB,0,4,3,7
+Burleson,207,"Justice, Supreme Court, Place 6",,Under Votes,,1,6,1,8
+Burleson,207,"Justice, Supreme Court, Place 6",,Over Votes,,0,0,0,0
+Burleson,207,"Presiding Judge, Court of Criminal Appeals",,David J. Schenck,REP,5,203,40,248
+Burleson,207,"Presiding Judge, Court of Criminal Appeals",,Holly Taylor,DEM,3,53,31,87
+Burleson,207,"Presiding Judge, Court of Criminal Appeals",,Under Votes,,2,4,2,8
+Burleson,207,"Presiding Judge, Court of Criminal Appeals",,Over Votes,,0,0,0,0
+Burleson,207,"Judge, Court of Criminal Appeals, Place 7",,Gina Parker,REP,5,201,39,245
+Burleson,207,"Judge, Court of Criminal Appeals, Place 7",,Nancy Mulder,DEM,3,52,32,87
+Burleson,207,"Judge, Court of Criminal Appeals, Place 7",,Under Votes,,2,7,2,11
+Burleson,207,"Judge, Court of Criminal Appeals, Place 7",,Over Votes,,0,0,0,0
+Burleson,207,"Judge, Court of Criminal Appeals, Place 8",,Lee Finley,REP,7,203,39,249
+Burleson,207,"Judge, Court of Criminal Appeals, Place 8",,Chika Anyiam,DEM,2,50,31,83
+Burleson,207,"Judge, Court of Criminal Appeals, Place 8",,Under Votes,,1,7,3,11
+Burleson,207,"Judge, Court of Criminal Appeals, Place 8",,Over Votes,,0,0,0,0
+Burleson,207,"Member, State Board of Education, District 10",,Tom Maynard,REP,6,201,41,248
+Burleson,207,"Member, State Board of Education, District 10",,Raquel Saenz Ortiz,DEM,2,53,30,85
+Burleson,207,"Member, State Board of Education, District 10",,Under Votes,,2,6,2,10
+Burleson,207,"Member, State Board of Education, District 10",,Over Votes,,0,0,0,0
+Burleson,207,State Representative,17,Stan Gerdes,REP,6,201,40,247
+Burleson,207,State Representative,17,Desiree Venable,DEM,2,54,30,86
+Burleson,207,State Representative,17,Under Votes,,2,5,3,10
+Burleson,207,State Representative,17,Over Votes,,0,0,0,0
+Burleson,207,"Chief Justice, 10th Court of Appeals District",,Matt Johnson,REP,7,208,50,265
+Burleson,207,"Chief Justice, 10th Court of Appeals District",,Under Votes,,3,52,23,78
+Burleson,207,"Chief Justice, 10th Court of Appeals District",,Over Votes,,0,0,0,0
+Burleson,207,"District Judge, 21st Judicial District",,Carson Campbell,REP,7,208,50,265
+Burleson,207,"District Judge, 21st Judicial District",,Under Votes,,3,52,23,78
+Burleson,207,"District Judge, 21st Judicial District",,Over Votes,,0,0,0,0
+Burleson,207,"District Judge, 335th Judicial District",,John D. Winkelmann,REP,6,208,51,265
+Burleson,207,"District Judge, 335th Judicial District",,Under Votes,,4,52,22,78
+Burleson,207,"District Judge, 335th Judicial District",,Over Votes,,0,0,0,0
+Burleson,207,County Attorney,,Susan R. Deski,REP,6,202,50,258
+Burleson,207,County Attorney,,Under Votes,,4,58,23,85
+Burleson,207,County Attorney,,Over Votes,,0,0,0,0
+Burleson,207,Sheriff,,Gene Hermes,REP,7,212,51,270
+Burleson,207,Sheriff,,Under Votes,,3,48,22,73
+Burleson,207,Sheriff,,Over Votes,,0,0,0,0
+Burleson,207,County Tax Assessor-Collector,,Jessica Lucero,REP,7,208,52,267
+Burleson,207,County Tax Assessor-Collector,,Under Votes,,3,52,21,76
+Burleson,207,County Tax Assessor-Collector,,Over Votes,,0,0,0,0
+Burleson,207,"Constable, Precinct 2",,Dennis J. Gaas,REP,6,220,52,278
+Burleson,207,"Constable, Precinct 2",,Under Votes,,4,40,21,65
+Burleson,207,"Constable, Precinct 2",,Over Votes,,0,0,0,0
+Burleson,211,Registered Voters,,,,,,,1410
+Burleson,211,Ballots Cast,,,,,,,664
+Burleson,211,President,,Donald J. Trump,REP,26,363,159,548
+Burleson,211,President,,Kamala D. Harris,DEM,14,66,30,110
+Burleson,211,President,,Chase Oliver,LIB,0,1,1,2
+Burleson,211,President,,Jill Stein,GRN,0,0,2,2
+Burleson,211,President,,Cherunda Fox/Harlan McVay (W),,0,0,0,0
+Burleson,211,President,,Claudia De la Cruz/Karina Garcia (W),,0,0,0,0
+Burleson,211,President,,Cornel West/Melina Abdullah (W),,0,0,0,0
+Burleson,211,President,,Jessie Cuellar/Wesley Lasley (W),,0,0,0,0
+Burleson,211,President,,Peter Sonski/Lauren Onak (W),,0,0,0,0
+Burleson,211,President,,Shiva Ayyadurai/Crystal Ellis (W),,0,0,0,0
+Burleson,211,President,,Under Votes,,2,0,0,2
+Burleson,211,President,,Over Votes,,0,0,0,0
+Burleson,211,U.S. Senate,,Ted Cruz,REP,23,353,154,530
+Burleson,211,U.S. Senate,,Colin Allred,DEM,17,68,34,119
+Burleson,211,U.S. Senate,,Ted Brown,LIB,2,6,4,12
+Burleson,211,U.S. Senate,,Analisa Roche (W),,0,0,0,0
+Burleson,211,U.S. Senate,,Tracy Andrus (W),,0,0,0,0
+Burleson,211,U.S. Senate,,Under Votes,,0,3,0,3
+Burleson,211,U.S. Senate,,Over Votes,,0,0,0,0
+Burleson,211,U.S. House,10,Michael T. McCaul,REP,25,359,156,540
+Burleson,211,U.S. House,10,Theresa Boisseau,DEM,11,54,26,91
+Burleson,211,U.S. House,10,Jeff Miller,LIB,2,9,5,16
+Burleson,211,U.S. House,10,Under Votes,,4,8,5,17
+Burleson,211,U.S. House,10,Over Votes,,0,0,0,0
+Burleson,211,Railroad Commissioner,,Christi Craddick,REP,28,354,157,539
+Burleson,211,Railroad Commissioner,,Katherine Culbert,DEM,10,56,21,87
+Burleson,211,Railroad Commissioner,,Hawk Dunlap,LIB,2,10,6,18
+Burleson,211,Railroad Commissioner,,Eddie Espinoza,GRN,0,1,3,4
+Burleson,211,Railroad Commissioner,,Richard McKibbin (W),,0,0,0,0
+Burleson,211,Railroad Commissioner,,Under Votes,,2,9,5,16
+Burleson,211,Railroad Commissioner,,Over Votes,,0,0,0,0
+Burleson,211,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,23,360,159,542
+Burleson,211,"Justice, Supreme Court, Place 2",,DaSean Jones,DEM,16,60,27,103
+Burleson,211,"Justice, Supreme Court, Place 2",,Under Votes,,3,10,6,19
+Burleson,211,"Justice, Supreme Court, Place 2",,Over Votes,,0,0,0,0
+Burleson,211,"Justice, Supreme Court, Place 4",,John Devine,REP,26,359,154,539
+Burleson,211,"Justice, Supreme Court, Place 4",,Christine Vinh Weems,DEM,13,61,29,103
+Burleson,211,"Justice, Supreme Court, Place 4",,Under Votes,,3,10,9,22
+Burleson,211,"Justice, Supreme Court, Place 4",,Over Votes,,0,0,0,0
+Burleson,211,"Justice, Supreme Court, Place 6",,Jane Bland,REP,24,355,156,535
+Burleson,211,"Justice, Supreme Court, Place 6",,Bonnie Lee Goldstein,DEM,12,57,27,96
+Burleson,211,"Justice, Supreme Court, Place 6",,J. David Roberson,LIB,3,8,2,13
+Burleson,211,"Justice, Supreme Court, Place 6",,Under Votes,,3,10,7,20
+Burleson,211,"Justice, Supreme Court, Place 6",,Over Votes,,0,0,0,0
+Burleson,211,"Presiding Judge, Court of Criminal Appeals",,David J. Schenck,REP,26,357,157,540
+Burleson,211,"Presiding Judge, Court of Criminal Appeals",,Holly Taylor,DEM,12,62,28,102
+Burleson,211,"Presiding Judge, Court of Criminal Appeals",,Under Votes,,4,11,7,22
+Burleson,211,"Presiding Judge, Court of Criminal Appeals",,Over Votes,,0,0,0,0
+Burleson,211,"Judge, Court of Criminal Appeals, Place 7",,Gina Parker,REP,25,359,156,540
+Burleson,211,"Judge, Court of Criminal Appeals, Place 7",,Nancy Mulder,DEM,13,59,28,100
+Burleson,211,"Judge, Court of Criminal Appeals, Place 7",,Under Votes,,4,12,8,24
+Burleson,211,"Judge, Court of Criminal Appeals, Place 7",,Over Votes,,0,0,0,0
+Burleson,211,"Judge, Court of Criminal Appeals, Place 8",,Lee Finley,REP,25,360,158,543
+Burleson,211,"Judge, Court of Criminal Appeals, Place 8",,Chika Anyiam,DEM,13,54,26,93
+Burleson,211,"Judge, Court of Criminal Appeals, Place 8",,Under Votes,,4,16,8,28
+Burleson,211,"Judge, Court of Criminal Appeals, Place 8",,Over Votes,,0,0,0,0
+Burleson,211,"Member, State Board of Education, District 10",,Tom Maynard,REP,25,357,156,538
+Burleson,211,"Member, State Board of Education, District 10",,Raquel Saenz Ortiz,DEM,12,58,28,98
+Burleson,211,"Member, State Board of Education, District 10",,Under Votes,,5,15,8,28
+Burleson,211,"Member, State Board of Education, District 10",,Over Votes,,0,0,0,0
+Burleson,211,State Representative,17,Stan Gerdes,REP,22,355,155,532
+Burleson,211,State Representative,17,Desiree Venable,DEM,10,59,28,97
+Burleson,211,State Representative,17,Under Votes,,10,16,9,35
+Burleson,211,State Representative,17,Over Votes,,0,0,0,0
+Burleson,211,"Chief Justice, 10th Court of Appeals District",,Matt Johnson,REP,27,367,168,562
+Burleson,211,"Chief Justice, 10th Court of Appeals District",,Under Votes,,15,63,24,102
+Burleson,211,"Chief Justice, 10th Court of Appeals District",,Over Votes,,0,0,0,0
+Burleson,211,"District Judge, 21st Judicial District",,Carson Campbell,REP,25,360,168,553
+Burleson,211,"District Judge, 21st Judicial District",,Under Votes,,17,70,24,111
+Burleson,211,"District Judge, 21st Judicial District",,Over Votes,,0,0,0,0
+Burleson,211,"District Judge, 335th Judicial District",,John D. Winkelmann,REP,25,364,167,556
+Burleson,211,"District Judge, 335th Judicial District",,Under Votes,,17,66,25,108
+Burleson,211,"District Judge, 335th Judicial District",,Over Votes,,0,0,0,0
+Burleson,211,County Attorney,,Susan R. Deski,REP,24,366,163,553
+Burleson,211,County Attorney,,Under Votes,,18,64,29,111
+Burleson,211,County Attorney,,Over Votes,,0,0,0,0
+Burleson,211,Sheriff,,Gene Hermes,REP,26,370,166,562
+Burleson,211,Sheriff,,Under Votes,,16,60,26,102
+Burleson,211,Sheriff,,Over Votes,,0,0,0,0
+Burleson,211,County Tax Assessor-Collector,,Jessica Lucero,REP,26,366,166,558
+Burleson,211,County Tax Assessor-Collector,,Under Votes,,16,64,26,106
+Burleson,211,County Tax Assessor-Collector,,Over Votes,,0,0,0,0
+Burleson,211,"Constable, Precinct 2",,Dennis J. Gaas,REP,26,371,166,563
+Burleson,211,"Constable, Precinct 2",,Under Votes,,16,59,26,101
+Burleson,211,"Constable, Precinct 2",,Over Votes,,0,0,0,0
+Burleson,211 - CITY,Registered Voters,,,,,,,0
+Burleson,211 - CITY,Ballots Cast,,,,,,,344
+Burleson,211 - CITY,President,,Donald J. Trump,REP,8,167,113,288
+Burleson,211 - CITY,President,,Kamala D. Harris,DEM,4,30,19,53
+Burleson,211 - CITY,President,,Chase Oliver,LIB,0,1,0,1
+Burleson,211 - CITY,President,,Jill Stein,GRN,0,1,0,1
+Burleson,211 - CITY,President,,Cherunda Fox/Harlan McVay (W),,0,0,0,0
+Burleson,211 - CITY,President,,Claudia De la Cruz/Karina Garcia (W),,0,0,0,0
+Burleson,211 - CITY,President,,Cornel West/Melina Abdullah (W),,0,0,0,0
+Burleson,211 - CITY,President,,Jessie Cuellar/Wesley Lasley (W),,0,0,0,0
+Burleson,211 - CITY,President,,Peter Sonski/Lauren Onak (W),,0,0,0,0
+Burleson,211 - CITY,President,,Shiva Ayyadurai/Crystal Ellis (W),,0,0,0,0
+Burleson,211 - CITY,President,,Under Votes,,0,1,0,1
+Burleson,211 - CITY,President,,Over Votes,,0,0,0,0
+Burleson,211 - CITY,U.S. Senate,,Ted Cruz,REP,8,159,105,272
+Burleson,211 - CITY,U.S. Senate,,Colin Allred,DEM,4,36,24,64
+Burleson,211 - CITY,U.S. Senate,,Ted Brown,LIB,0,4,2,6
+Burleson,211 - CITY,U.S. Senate,,Analisa Roche (W),,0,0,0,0
+Burleson,211 - CITY,U.S. Senate,,Tracy Andrus (W),,0,0,0,0
+Burleson,211 - CITY,U.S. Senate,,Under Votes,,0,1,1,2
+Burleson,211 - CITY,U.S. Senate,,Over Votes,,0,0,0,0
+Burleson,211 - CITY,U.S. House,10,Michael T. McCaul,REP,5,164,110,279
+Burleson,211 - CITY,U.S. House,10,Theresa Boisseau,DEM,4,26,16,46
+Burleson,211 - CITY,U.S. House,10,Jeff Miller,LIB,0,4,1,5
+Burleson,211 - CITY,U.S. House,10,Under Votes,,3,6,5,14
+Burleson,211 - CITY,U.S. House,10,Over Votes,,0,0,0,0
+Burleson,211 - CITY,Railroad Commissioner,,Christi Craddick,REP,8,163,105,276
+Burleson,211 - CITY,Railroad Commissioner,,Katherine Culbert,DEM,4,24,19,47
+Burleson,211 - CITY,Railroad Commissioner,,Hawk Dunlap,LIB,0,6,5,11
+Burleson,211 - CITY,Railroad Commissioner,,Eddie Espinoza,GRN,0,1,0,1
+Burleson,211 - CITY,Railroad Commissioner,,Richard McKibbin (W),,0,0,0,0
+Burleson,211 - CITY,Railroad Commissioner,,Under Votes,,0,6,3,9
+Burleson,211 - CITY,Railroad Commissioner,,Over Votes,,0,0,0,0
+Burleson,211 - CITY,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,8,165,112,285
+Burleson,211 - CITY,"Justice, Supreme Court, Place 2",,DaSean Jones,DEM,4,29,17,50
+Burleson,211 - CITY,"Justice, Supreme Court, Place 2",,Under Votes,,0,6,3,9
+Burleson,211 - CITY,"Justice, Supreme Court, Place 2",,Over Votes,,0,0,0,0
+Burleson,211 - CITY,"Justice, Supreme Court, Place 4",,John Devine,REP,8,166,112,286
+Burleson,211 - CITY,"Justice, Supreme Court, Place 4",,Christine Vinh Weems,DEM,4,28,17,49
+Burleson,211 - CITY,"Justice, Supreme Court, Place 4",,Under Votes,,0,6,3,9
+Burleson,211 - CITY,"Justice, Supreme Court, Place 4",,Over Votes,,0,0,0,0
+Burleson,211 - CITY,"Justice, Supreme Court, Place 6",,Jane Bland,REP,8,162,109,279
+Burleson,211 - CITY,"Justice, Supreme Court, Place 6",,Bonnie Lee Goldstein,DEM,4,28,16,48
+Burleson,211 - CITY,"Justice, Supreme Court, Place 6",,J. David Roberson,LIB,0,4,4,8
+Burleson,211 - CITY,"Justice, Supreme Court, Place 6",,Under Votes,,0,6,3,9
+Burleson,211 - CITY,"Justice, Supreme Court, Place 6",,Over Votes,,0,0,0,0
+Burleson,211 - CITY,"Presiding Judge, Court of Criminal Appeals",,David J. Schenck,REP,8,164,111,283
+Burleson,211 - CITY,"Presiding Judge, Court of Criminal Appeals",,Holly Taylor,DEM,4,30,18,52
+Burleson,211 - CITY,"Presiding Judge, Court of Criminal Appeals",,Under Votes,,0,6,3,9
+Burleson,211 - CITY,"Presiding Judge, Court of Criminal Appeals",,Over Votes,,0,0,0,0
+Burleson,211 - CITY,"Judge, Court of Criminal Appeals, Place 7",,Gina Parker,REP,8,164,114,286
+Burleson,211 - CITY,"Judge, Court of Criminal Appeals, Place 7",,Nancy Mulder,DEM,4,31,14,49
+Burleson,211 - CITY,"Judge, Court of Criminal Appeals, Place 7",,Under Votes,,0,5,4,9
+Burleson,211 - CITY,"Judge, Court of Criminal Appeals, Place 7",,Over Votes,,0,0,0,0
+Burleson,211 - CITY,"Judge, Court of Criminal Appeals, Place 8",,Lee Finley,REP,8,163,113,284
+Burleson,211 - CITY,"Judge, Court of Criminal Appeals, Place 8",,Chika Anyiam,DEM,4,31,15,50
+Burleson,211 - CITY,"Judge, Court of Criminal Appeals, Place 8",,Under Votes,,0,6,4,10
+Burleson,211 - CITY,"Judge, Court of Criminal Appeals, Place 8",,Over Votes,,0,0,0,0
+Burleson,211 - CITY,"Member, State Board of Education, District 10",,Tom Maynard,REP,5,165,109,279
+Burleson,211 - CITY,"Member, State Board of Education, District 10",,Raquel Saenz Ortiz,DEM,4,30,19,53
+Burleson,211 - CITY,"Member, State Board of Education, District 10",,Under Votes,,3,5,4,12
+Burleson,211 - CITY,"Member, State Board of Education, District 10",,Over Votes,,0,0,0,0
+Burleson,211 - CITY,State Representative,17,Stan Gerdes,REP,4,165,110,279
+Burleson,211 - CITY,State Representative,17,Desiree Venable,DEM,4,29,19,52
+Burleson,211 - CITY,State Representative,17,Under Votes,,4,6,3,13
+Burleson,211 - CITY,State Representative,17,Over Votes,,0,0,0,0
+Burleson,211 - CITY,"Chief Justice, 10th Court of Appeals District",,Matt Johnson,REP,4,179,124,307
+Burleson,211 - CITY,"Chief Justice, 10th Court of Appeals District",,Under Votes,,8,21,8,37
+Burleson,211 - CITY,"Chief Justice, 10th Court of Appeals District",,Over Votes,,0,0,0,0
+Burleson,211 - CITY,"District Judge, 21st Judicial District",,Carson Campbell,REP,4,178,123,305
+Burleson,211 - CITY,"District Judge, 21st Judicial District",,Under Votes,,8,22,9,39
+Burleson,211 - CITY,"District Judge, 21st Judicial District",,Over Votes,,0,0,0,0
+Burleson,211 - CITY,"District Judge, 335th Judicial District",,John D. Winkelmann,REP,4,177,122,303
+Burleson,211 - CITY,"District Judge, 335th Judicial District",,Under Votes,,8,23,10,41
+Burleson,211 - CITY,"District Judge, 335th Judicial District",,Over Votes,,0,0,0,0
+Burleson,211 - CITY,County Attorney,,Susan R. Deski,REP,3,177,123,303
+Burleson,211 - CITY,County Attorney,,Under Votes,,9,23,9,41
+Burleson,211 - CITY,County Attorney,,Over Votes,,0,0,0,0
+Burleson,211 - CITY,Sheriff,,Gene Hermes,REP,4,177,123,304
+Burleson,211 - CITY,Sheriff,,Under Votes,,8,23,9,40
+Burleson,211 - CITY,Sheriff,,Over Votes,,0,0,0,0
+Burleson,211 - CITY,County Tax Assessor-Collector,,Jessica Lucero,REP,4,179,124,307
+Burleson,211 - CITY,County Tax Assessor-Collector,,Under Votes,,8,21,8,37
+Burleson,211 - CITY,County Tax Assessor-Collector,,Over Votes,,0,0,0,0
+Burleson,211 - CITY,"Constable, Precinct 2",,Dennis J. Gaas,REP,4,177,124,305
+Burleson,211 - CITY,"Constable, Precinct 2",,Under Votes,,8,23,8,39
+Burleson,211 - CITY,"Constable, Precinct 2",,Over Votes,,0,0,0,0
+Burleson,211 - CITY,City of Snook Proposition A,,For,,3,119,78,200
+Burleson,211 - CITY,City of Snook Proposition A,,Against,,4,74,51,129
+Burleson,211 - CITY,City of Snook Proposition A,,Under Votes,,5,7,3,15
+Burleson,211 - CITY,City of Snook Proposition A,,Over Votes,,0,0,0,0
+Burleson,215,Registered Voters,,,,,,,570
+Burleson,215,Ballots Cast,,,,,,,340
+Burleson,215,President,,Donald J. Trump,REP,20,171,79,270
+Burleson,215,President,,Kamala D. Harris,DEM,7,32,29,68
+Burleson,215,President,,Chase Oliver,LIB,0,0,1,1
+Burleson,215,President,,Jill Stein,GRN,0,0,0,0
+Burleson,215,President,,Cherunda Fox/Harlan McVay (W),,0,0,0,0
+Burleson,215,President,,Claudia De la Cruz/Karina Garcia (W),,0,0,0,0
+Burleson,215,President,,Cornel West/Melina Abdullah (W),,0,0,0,0
+Burleson,215,President,,Jessie Cuellar/Wesley Lasley (W),,0,0,0,0
+Burleson,215,President,,Peter Sonski/Lauren Onak (W),,0,0,0,0
+Burleson,215,President,,Shiva Ayyadurai/Crystal Ellis (W),,0,0,0,0
+Burleson,215,President,,Under Votes,,0,0,0,0
+Burleson,215,President,,Over Votes,,1,0,0,1
+Burleson,215,U.S. Senate,,Ted Cruz,REP,19,166,73,258
+Burleson,215,U.S. Senate,,Colin Allred,DEM,7,34,29,70
+Burleson,215,U.S. Senate,,Ted Brown,LIB,1,2,7,10
+Burleson,215,U.S. Senate,,Analisa Roche (W),,0,0,0,0
+Burleson,215,U.S. Senate,,Tracy Andrus (W),,1,0,0,1
+Burleson,215,U.S. Senate,,Under Votes,,0,1,0,1
+Burleson,215,U.S. Senate,,Over Votes,,0,0,0,0
+Burleson,215,U.S. House,10,Michael T. McCaul,REP,20,167,74,261
+Burleson,215,U.S. House,10,Theresa Boisseau,DEM,6,30,22,58
+Burleson,215,U.S. House,10,Jeff Miller,LIB,1,4,8,13
+Burleson,215,U.S. House,10,Under Votes,,1,2,5,8
+Burleson,215,U.S. House,10,Over Votes,,0,0,0,0
+Burleson,215,Railroad Commissioner,,Christi Craddick,REP,19,168,72,259
+Burleson,215,Railroad Commissioner,,Katherine Culbert,DEM,8,30,23,61
+Burleson,215,Railroad Commissioner,,Hawk Dunlap,LIB,1,0,6,7
+Burleson,215,Railroad Commissioner,,Eddie Espinoza,GRN,0,0,3,3
+Burleson,215,Railroad Commissioner,,Richard McKibbin (W),,0,0,0,0
+Burleson,215,Railroad Commissioner,,Under Votes,,0,5,5,10
+Burleson,215,Railroad Commissioner,,Over Votes,,0,0,0,0
+Burleson,215,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,21,169,76,266
+Burleson,215,"Justice, Supreme Court, Place 2",,DaSean Jones,DEM,7,31,27,65
+Burleson,215,"Justice, Supreme Court, Place 2",,Under Votes,,0,3,6,9
+Burleson,215,"Justice, Supreme Court, Place 2",,Over Votes,,0,0,0,0
+Burleson,215,"Justice, Supreme Court, Place 4",,John Devine,REP,21,169,78,268
+Burleson,215,"Justice, Supreme Court, Place 4",,Christine Vinh Weems,DEM,7,31,25,63
+Burleson,215,"Justice, Supreme Court, Place 4",,Under Votes,,0,3,6,9
+Burleson,215,"Justice, Supreme Court, Place 4",,Over Votes,,0,0,0,0
+Burleson,215,"Justice, Supreme Court, Place 6",,Jane Bland,REP,19,167,68,254
+Burleson,215,"Justice, Supreme Court, Place 6",,Bonnie Lee Goldstein,DEM,8,27,25,60
+Burleson,215,"Justice, Supreme Court, Place 6",,J. David Roberson,LIB,1,6,9,16
+Burleson,215,"Justice, Supreme Court, Place 6",,Under Votes,,0,3,7,10
+Burleson,215,"Justice, Supreme Court, Place 6",,Over Votes,,0,0,0,0
+Burleson,215,"Presiding Judge, Court of Criminal Appeals",,David J. Schenck,REP,21,167,76,264
+Burleson,215,"Presiding Judge, Court of Criminal Appeals",,Holly Taylor,DEM,7,31,27,65
+Burleson,215,"Presiding Judge, Court of Criminal Appeals",,Under Votes,,0,5,6,11
+Burleson,215,"Presiding Judge, Court of Criminal Appeals",,Over Votes,,0,0,0,0
+Burleson,215,"Judge, Court of Criminal Appeals, Place 7",,Gina Parker,REP,21,170,76,267
+Burleson,215,"Judge, Court of Criminal Appeals, Place 7",,Nancy Mulder,DEM,7,28,27,62
+Burleson,215,"Judge, Court of Criminal Appeals, Place 7",,Under Votes,,0,5,6,11
+Burleson,215,"Judge, Court of Criminal Appeals, Place 7",,Over Votes,,0,0,0,0
+Burleson,215,"Judge, Court of Criminal Appeals, Place 8",,Lee Finley,REP,21,168,79,268
+Burleson,215,"Judge, Court of Criminal Appeals, Place 8",,Chika Anyiam,DEM,7,30,22,59
+Burleson,215,"Judge, Court of Criminal Appeals, Place 8",,Under Votes,,0,5,8,13
+Burleson,215,"Judge, Court of Criminal Appeals, Place 8",,Over Votes,,0,0,0,0
+Burleson,215,"Member, State Board of Education, District 10",,Tom Maynard,REP,21,168,79,268
+Burleson,215,"Member, State Board of Education, District 10",,Raquel Saenz Ortiz,DEM,5,30,25,60
+Burleson,215,"Member, State Board of Education, District 10",,Under Votes,,2,5,5,12
+Burleson,215,"Member, State Board of Education, District 10",,Over Votes,,0,0,0,0
+Burleson,215,State Representative,17,Stan Gerdes,REP,16,169,78,263
+Burleson,215,State Representative,17,Desiree Venable,DEM,6,31,26,63
+Burleson,215,State Representative,17,Under Votes,,6,3,5,14
+Burleson,215,State Representative,17,Over Votes,,0,0,0,0
+Burleson,215,"Chief Justice, 10th Court of Appeals District",,Matt Johnson,REP,20,176,86,282
+Burleson,215,"Chief Justice, 10th Court of Appeals District",,Under Votes,,8,27,23,58
+Burleson,215,"Chief Justice, 10th Court of Appeals District",,Over Votes,,0,0,0,0
+Burleson,215,"District Judge, 21st Judicial District",,Carson Campbell,REP,18,174,88,280
+Burleson,215,"District Judge, 21st Judicial District",,Under Votes,,10,29,21,60
+Burleson,215,"District Judge, 21st Judicial District",,Over Votes,,0,0,0,0
+Burleson,215,"District Judge, 335th Judicial District",,John D. Winkelmann,REP,17,174,86,277
+Burleson,215,"District Judge, 335th Judicial District",,Under Votes,,11,29,23,63
+Burleson,215,"District Judge, 335th Judicial District",,Over Votes,,0,0,0,0
+Burleson,215,County Attorney,,Susan R. Deski,REP,17,175,85,277
+Burleson,215,County Attorney,,Under Votes,,11,28,24,63
+Burleson,215,County Attorney,,Over Votes,,0,0,0,0
+Burleson,215,Sheriff,,Gene Hermes,REP,17,175,81,273
+Burleson,215,Sheriff,,Under Votes,,11,28,28,67
+Burleson,215,Sheriff,,Over Votes,,0,0,0,0
+Burleson,215,County Tax Assessor-Collector,,Jessica Lucero,REP,18,174,86,278
+Burleson,215,County Tax Assessor-Collector,,Under Votes,,10,29,23,62
+Burleson,215,County Tax Assessor-Collector,,Over Votes,,0,0,0,0
+Burleson,215,"Constable, Precinct 2",,Dennis J. Gaas,REP,18,175,89,282
+Burleson,215,"Constable, Precinct 2",,Under Votes,,10,28,20,58
+Burleson,215,"Constable, Precinct 2",,Over Votes,,0,0,0,0
+Burleson,301,Registered Voters,,,,,,,1558
+Burleson,301,Ballots Cast,,,,,,,1160
+Burleson,301,President,,Donald J. Trump,REP,24,827,103,954
+Burleson,301,President,,Kamala D. Harris,DEM,19,137,35,191
+Burleson,301,President,,Chase Oliver,LIB,1,8,3,12
+Burleson,301,President,,Jill Stein,GRN,0,0,1,1
+Burleson,301,President,,Cherunda Fox/Harlan McVay (W),,0,0,0,0
+Burleson,301,President,,Claudia De la Cruz/Karina Garcia (W),,0,0,1,1
+Burleson,301,President,,Cornel West/Melina Abdullah (W),,0,0,0,0
+Burleson,301,President,,Jessie Cuellar/Wesley Lasley (W),,0,0,0,0
+Burleson,301,President,,Peter Sonski/Lauren Onak (W),,0,0,0,0
+Burleson,301,President,,Shiva Ayyadurai/Crystal Ellis (W),,0,0,0,0
+Burleson,301,President,,Under Votes,,0,1,0,1
+Burleson,301,President,,Over Votes,,0,0,0,0
+Burleson,301,U.S. Senate,,Ted Cruz,REP,18,797,98,913
+Burleson,301,U.S. Senate,,Colin Allred,DEM,18,149,35,202
+Burleson,301,U.S. Senate,,Ted Brown,LIB,3,18,8,29
+Burleson,301,U.S. Senate,,Analisa Roche (W),,0,0,0,0
+Burleson,301,U.S. Senate,,Tracy Andrus (W),,0,0,0,0
+Burleson,301,U.S. Senate,,Under Votes,,4,9,2,15
+Burleson,301,U.S. Senate,,Over Votes,,1,0,0,1
+Burleson,301,U.S. House,10,Michael T. McCaul,REP,22,821,103,946
+Burleson,301,U.S. House,10,Theresa Boisseau,DEM,18,117,30,165
+Burleson,301,U.S. House,10,Jeff Miller,LIB,1,18,6,25
+Burleson,301,U.S. House,10,Under Votes,,3,17,4,24
+Burleson,301,U.S. House,10,Over Votes,,0,0,0,0
+Burleson,301,Railroad Commissioner,,Christi Craddick,REP,23,793,96,912
+Burleson,301,Railroad Commissioner,,Katherine Culbert,DEM,18,124,25,167
+Burleson,301,Railroad Commissioner,,Hawk Dunlap,LIB,1,25,10,36
+Burleson,301,Railroad Commissioner,,Eddie Espinoza,GRN,0,7,6,13
+Burleson,301,Railroad Commissioner,,Richard McKibbin (W),,0,0,0,0
+Burleson,301,Railroad Commissioner,,Under Votes,,2,24,6,32
+Burleson,301,Railroad Commissioner,,Over Votes,,0,0,0,0
+Burleson,301,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,23,824,107,954
+Burleson,301,"Justice, Supreme Court, Place 2",,DaSean Jones,DEM,16,122,31,169
+Burleson,301,"Justice, Supreme Court, Place 2",,Under Votes,,4,27,5,36
+Burleson,301,"Justice, Supreme Court, Place 2",,Over Votes,,1,0,0,1
+Burleson,301,"Justice, Supreme Court, Place 4",,John Devine,REP,23,814,107,944
+Burleson,301,"Justice, Supreme Court, Place 4",,Christine Vinh Weems,DEM,18,127,31,176
+Burleson,301,"Justice, Supreme Court, Place 4",,Under Votes,,3,32,5,40
+Burleson,301,"Justice, Supreme Court, Place 4",,Over Votes,,0,0,0,0
+Burleson,301,"Justice, Supreme Court, Place 6",,Jane Bland,REP,21,794,99,914
+Burleson,301,"Justice, Supreme Court, Place 6",,Bonnie Lee Goldstein,DEM,16,122,30,168
+Burleson,301,"Justice, Supreme Court, Place 6",,J. David Roberson,LIB,3,24,10,37
+Burleson,301,"Justice, Supreme Court, Place 6",,Under Votes,,4,33,4,41
+Burleson,301,"Justice, Supreme Court, Place 6",,Over Votes,,0,0,0,0
+Burleson,301,"Presiding Judge, Court of Criminal Appeals",,David J. Schenck,REP,23,822,106,951
+Burleson,301,"Presiding Judge, Court of Criminal Appeals",,Holly Taylor,DEM,17,125,32,174
+Burleson,301,"Presiding Judge, Court of Criminal Appeals",,Under Votes,,4,26,5,35
+Burleson,301,"Presiding Judge, Court of Criminal Appeals",,Over Votes,,0,0,0,0
+Burleson,301,"Judge, Court of Criminal Appeals, Place 7",,Gina Parker,REP,22,823,105,950
+Burleson,301,"Judge, Court of Criminal Appeals, Place 7",,Nancy Mulder,DEM,18,122,30,170
+Burleson,301,"Judge, Court of Criminal Appeals, Place 7",,Under Votes,,4,28,8,40
+Burleson,301,"Judge, Court of Criminal Appeals, Place 7",,Over Votes,,0,0,0,0
+Burleson,301,"Judge, Court of Criminal Appeals, Place 8",,Lee Finley,REP,24,824,110,958
+Burleson,301,"Judge, Court of Criminal Appeals, Place 8",,Chika Anyiam,DEM,16,121,28,165
+Burleson,301,"Judge, Court of Criminal Appeals, Place 8",,Under Votes,,4,28,5,37
+Burleson,301,"Judge, Court of Criminal Appeals, Place 8",,Over Votes,,0,0,0,0
+Burleson,301,"Member, State Board of Education, District 10",,Tom Maynard,REP,22,821,106,949
+Burleson,301,"Member, State Board of Education, District 10",,Raquel Saenz Ortiz,DEM,18,122,33,173
+Burleson,301,"Member, State Board of Education, District 10",,Under Votes,,4,30,4,38
+Burleson,301,"Member, State Board of Education, District 10",,Over Votes,,0,0,0,0
+Burleson,301,State Representative,17,Stan Gerdes,REP,22,814,106,942
+Burleson,301,State Representative,17,Desiree Venable,DEM,16,135,31,182
+Burleson,301,State Representative,17,Under Votes,,6,24,6,36
+Burleson,301,State Representative,17,Over Votes,,0,0,0,0
+Burleson,301,"Chief Justice, 10th Court of Appeals District",,Matt Johnson,REP,31,870,123,1024
+Burleson,301,"Chief Justice, 10th Court of Appeals District",,Under Votes,,13,103,20,136
+Burleson,301,"Chief Justice, 10th Court of Appeals District",,Over Votes,,0,0,0,0
+Burleson,301,"District Judge, 21st Judicial District",,Carson Campbell,REP,30,861,121,1012
+Burleson,301,"District Judge, 21st Judicial District",,Under Votes,,14,112,22,148
+Burleson,301,"District Judge, 21st Judicial District",,Over Votes,,0,0,0,0
+Burleson,301,"District Judge, 335th Judicial District",,John D. Winkelmann,REP,30,855,121,1006
+Burleson,301,"District Judge, 335th Judicial District",,Under Votes,,14,118,22,154
+Burleson,301,"District Judge, 335th Judicial District",,Over Votes,,0,0,0,0
+Burleson,301,County Attorney,,Susan R. Deski,REP,29,852,121,1002
+Burleson,301,County Attorney,,Under Votes,,15,121,22,158
+Burleson,301,County Attorney,,Over Votes,,0,0,0,0
+Burleson,301,Sheriff,,Gene Hermes,REP,34,886,122,1042
+Burleson,301,Sheriff,,Under Votes,,10,87,21,118
+Burleson,301,Sheriff,,Over Votes,,0,0,0,0
+Burleson,301,County Tax Assessor-Collector,,Jessica Lucero,REP,32,866,122,1020
+Burleson,301,County Tax Assessor-Collector,,Under Votes,,12,107,21,140
+Burleson,301,County Tax Assessor-Collector,,Over Votes,,0,0,0,0
+Burleson,301,"County Commissioner, Precinct 3",,David Hildebrand,REP,33,881,118,1032
+Burleson,301,"County Commissioner, Precinct 3",,Under Votes,,11,92,25,128
+Burleson,301,"County Commissioner, Precinct 3",,Over Votes,,0,0,0,0
+Burleson,301,"Constable, Precinct 3",,Jay Boykin,REP,29,874,120,1023
+Burleson,301,"Constable, Precinct 3",,Under Votes,,15,99,23,137
+Burleson,301,"Constable, Precinct 3",,Over Votes,,0,0,0,0
+Burleson,305,Registered Voters,,,,,,,637
+Burleson,305,Ballots Cast,,,,,,,469
+Burleson,305,President,,Donald J. Trump,REP,9,345,47,401
+Burleson,305,President,,Kamala D. Harris,DEM,10,42,9,61
+Burleson,305,President,,Chase Oliver,LIB,0,0,0,0
+Burleson,305,President,,Jill Stein,GRN,0,1,0,1
+Burleson,305,President,,Cherunda Fox/Harlan McVay (W),,0,0,0,0
+Burleson,305,President,,Claudia De la Cruz/Karina Garcia (W),,0,0,0,0
+Burleson,305,President,,Cornel West/Melina Abdullah (W),,0,0,1,1
+Burleson,305,President,,Jessie Cuellar/Wesley Lasley (W),,0,0,0,0
+Burleson,305,President,,Peter Sonski/Lauren Onak (W),,0,0,0,0
+Burleson,305,President,,Shiva Ayyadurai/Crystal Ellis (W),,0,0,0,0
+Burleson,305,President,,Under Votes,,0,5,0,5
+Burleson,305,President,,Over Votes,,0,0,0,0
+Burleson,305,U.S. Senate,,Ted Cruz,REP,10,339,46,395
+Burleson,305,U.S. Senate,,Colin Allred,DEM,9,48,9,66
+Burleson,305,U.S. Senate,,Ted Brown,LIB,0,5,0,5
+Burleson,305,U.S. Senate,,Analisa Roche (W),,0,0,1,1
+Burleson,305,U.S. Senate,,Tracy Andrus (W),,0,0,0,0
+Burleson,305,U.S. Senate,,Under Votes,,0,1,1,2
+Burleson,305,U.S. Senate,,Over Votes,,0,0,0,0
+Burleson,305,U.S. House,10,Michael T. McCaul,REP,11,347,42,400
+Burleson,305,U.S. House,10,Theresa Boisseau,DEM,7,37,9,53
+Burleson,305,U.S. House,10,Jeff Miller,LIB,0,7,3,10
+Burleson,305,U.S. House,10,Under Votes,,1,2,3,6
+Burleson,305,U.S. House,10,Over Votes,,0,0,0,0
+Burleson,305,Railroad Commissioner,,Christi Craddick,REP,12,343,42,397
+Burleson,305,Railroad Commissioner,,Katherine Culbert,DEM,7,38,8,53
+Burleson,305,Railroad Commissioner,,Hawk Dunlap,LIB,0,7,2,9
+Burleson,305,Railroad Commissioner,,Eddie Espinoza,GRN,0,2,2,4
+Burleson,305,Railroad Commissioner,,Richard McKibbin (W),,0,0,0,0
+Burleson,305,Railroad Commissioner,,Under Votes,,0,3,3,6
+Burleson,305,Railroad Commissioner,,Over Votes,,0,0,0,0
+Burleson,305,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,12,349,45,406
+Burleson,305,"Justice, Supreme Court, Place 2",,DaSean Jones,DEM,7,39,8,54
+Burleson,305,"Justice, Supreme Court, Place 2",,Under Votes,,0,5,4,9
+Burleson,305,"Justice, Supreme Court, Place 2",,Over Votes,,0,0,0,0
+Burleson,305,"Justice, Supreme Court, Place 4",,John Devine,REP,12,344,43,399
+Burleson,305,"Justice, Supreme Court, Place 4",,Christine Vinh Weems,DEM,7,40,11,58
+Burleson,305,"Justice, Supreme Court, Place 4",,Under Votes,,0,9,3,12
+Burleson,305,"Justice, Supreme Court, Place 4",,Over Votes,,0,0,0,0
+Burleson,305,"Justice, Supreme Court, Place 6",,Jane Bland,REP,12,344,39,395
+Burleson,305,"Justice, Supreme Court, Place 6",,Bonnie Lee Goldstein,DEM,7,40,9,56
+Burleson,305,"Justice, Supreme Court, Place 6",,J. David Roberson,LIB,0,3,5,8
+Burleson,305,"Justice, Supreme Court, Place 6",,Under Votes,,0,6,4,10
+Burleson,305,"Justice, Supreme Court, Place 6",,Over Votes,,0,0,0,0
+Burleson,305,"Presiding Judge, Court of Criminal Appeals",,David J. Schenck,REP,12,347,44,403
+Burleson,305,"Presiding Judge, Court of Criminal Appeals",,Holly Taylor,DEM,7,43,10,60
+Burleson,305,"Presiding Judge, Court of Criminal Appeals",,Under Votes,,0,3,3,6
+Burleson,305,"Presiding Judge, Court of Criminal Appeals",,Over Votes,,0,0,0,0
+Burleson,305,"Judge, Court of Criminal Appeals, Place 7",,Gina Parker,REP,12,348,45,405
+Burleson,305,"Judge, Court of Criminal Appeals, Place 7",,Nancy Mulder,DEM,7,39,9,55
+Burleson,305,"Judge, Court of Criminal Appeals, Place 7",,Under Votes,,0,6,3,9
+Burleson,305,"Judge, Court of Criminal Appeals, Place 7",,Over Votes,,0,0,0,0
+Burleson,305,"Judge, Court of Criminal Appeals, Place 8",,Lee Finley,REP,12,348,44,404
+Burleson,305,"Judge, Court of Criminal Appeals, Place 8",,Chika Anyiam,DEM,7,40,11,58
+Burleson,305,"Judge, Court of Criminal Appeals, Place 8",,Under Votes,,0,5,2,7
+Burleson,305,"Judge, Court of Criminal Appeals, Place 8",,Over Votes,,0,0,0,0
+Burleson,305,"Member, State Board of Education, District 10",,Tom Maynard,REP,11,346,43,400
+Burleson,305,"Member, State Board of Education, District 10",,Raquel Saenz Ortiz,DEM,7,44,11,62
+Burleson,305,"Member, State Board of Education, District 10",,Under Votes,,1,3,3,7
+Burleson,305,"Member, State Board of Education, District 10",,Over Votes,,0,0,0,0
+Burleson,305,State Representative,17,Stan Gerdes,REP,11,350,46,407
+Burleson,305,State Representative,17,Desiree Venable,DEM,7,41,9,57
+Burleson,305,State Representative,17,Under Votes,,1,2,2,5
+Burleson,305,State Representative,17,Over Votes,,0,0,0,0
+Burleson,305,"Chief Justice, 10th Court of Appeals District",,Matt Johnson,REP,11,360,48,419
+Burleson,305,"Chief Justice, 10th Court of Appeals District",,Under Votes,,8,33,9,50
+Burleson,305,"Chief Justice, 10th Court of Appeals District",,Over Votes,,0,0,0,0
+Burleson,305,"District Judge, 21st Judicial District",,Carson Campbell,REP,11,353,47,411
+Burleson,305,"District Judge, 21st Judicial District",,Under Votes,,8,40,10,58
+Burleson,305,"District Judge, 21st Judicial District",,Over Votes,,0,0,0,0
+Burleson,305,"District Judge, 335th Judicial District",,John D. Winkelmann,REP,11,350,47,408
+Burleson,305,"District Judge, 335th Judicial District",,Under Votes,,8,43,10,61
+Burleson,305,"District Judge, 335th Judicial District",,Over Votes,,0,0,0,0
+Burleson,305,County Attorney,,Susan R. Deski,REP,11,350,46,407
+Burleson,305,County Attorney,,Under Votes,,8,43,11,62
+Burleson,305,County Attorney,,Over Votes,,0,0,0,0
+Burleson,305,Sheriff,,Gene Hermes,REP,11,362,46,419
+Burleson,305,Sheriff,,Under Votes,,8,31,11,50
+Burleson,305,Sheriff,,Over Votes,,0,0,0,0
+Burleson,305,County Tax Assessor-Collector,,Jessica Lucero,REP,11,355,46,412
+Burleson,305,County Tax Assessor-Collector,,Under Votes,,8,38,11,57
+Burleson,305,County Tax Assessor-Collector,,Over Votes,,0,0,0,0
+Burleson,305,"County Commissioner, Precinct 3",,David Hildebrand,REP,11,361,49,421
+Burleson,305,"County Commissioner, Precinct 3",,Under Votes,,8,32,8,48
+Burleson,305,"County Commissioner, Precinct 3",,Over Votes,,0,0,0,0
+Burleson,305,"Constable, Precinct 3",,Jay Boykin,REP,11,356,47,414
+Burleson,305,"Constable, Precinct 3",,Under Votes,,8,37,10,55
+Burleson,305,"Constable, Precinct 3",,Over Votes,,0,0,0,0
+Burleson,308,Registered Voters,,,,,,,472
+Burleson,308,Ballots Cast,,,,,,,331
+Burleson,308,President,,Donald J. Trump,REP,9,231,34,274
+Burleson,308,President,,Kamala D. Harris,DEM,7,45,0,52
+Burleson,308,President,,Chase Oliver,LIB,0,1,0,1
+Burleson,308,President,,Jill Stein,GRN,0,1,0,1
+Burleson,308,President,,Cherunda Fox/Harlan McVay (W),,0,0,0,0
+Burleson,308,President,,Claudia De la Cruz/Karina Garcia (W),,0,0,0,0
+Burleson,308,President,,Cornel West/Melina Abdullah (W),,0,0,0,0
+Burleson,308,President,,Jessie Cuellar/Wesley Lasley (W),,0,0,0,0
+Burleson,308,President,,Peter Sonski/Lauren Onak (W),,0,0,0,0
+Burleson,308,President,,Shiva Ayyadurai/Crystal Ellis (W),,0,0,0,0
+Burleson,308,President,,Under Votes,,0,1,1,2
+Burleson,308,President,,Over Votes,,1,0,0,1
+Burleson,308,U.S. Senate,,Ted Cruz,REP,9,224,34,267
+Burleson,308,U.S. Senate,,Colin Allred,DEM,7,45,0,52
+Burleson,308,U.S. Senate,,Ted Brown,LIB,0,7,1,8
+Burleson,308,U.S. Senate,,Analisa Roche (W),,0,0,0,0
+Burleson,308,U.S. Senate,,Tracy Andrus (W),,0,0,0,0
+Burleson,308,U.S. Senate,,Under Votes,,0,3,0,3
+Burleson,308,U.S. Senate,,Over Votes,,1,0,0,1
+Burleson,308,U.S. House,10,Michael T. McCaul,REP,9,227,33,269
+Burleson,308,U.S. House,10,Theresa Boisseau,DEM,8,42,1,51
+Burleson,308,U.S. House,10,Jeff Miller,LIB,0,5,1,6
+Burleson,308,U.S. House,10,Under Votes,,0,5,0,5
+Burleson,308,U.S. House,10,Over Votes,,0,0,0,0
+Burleson,308,Railroad Commissioner,,Christi Craddick,REP,9,230,33,272
+Burleson,308,Railroad Commissioner,,Katherine Culbert,DEM,7,38,0,45
+Burleson,308,Railroad Commissioner,,Hawk Dunlap,LIB,0,7,1,8
+Burleson,308,Railroad Commissioner,,Eddie Espinoza,GRN,0,1,0,1
+Burleson,308,Railroad Commissioner,,Richard McKibbin (W),,0,0,0,0
+Burleson,308,Railroad Commissioner,,Under Votes,,0,3,1,4
+Burleson,308,Railroad Commissioner,,Over Votes,,1,0,0,1
+Burleson,308,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,9,233,34,276
+Burleson,308,"Justice, Supreme Court, Place 2",,DaSean Jones,DEM,8,42,0,50
+Burleson,308,"Justice, Supreme Court, Place 2",,Under Votes,,0,4,1,5
+Burleson,308,"Justice, Supreme Court, Place 2",,Over Votes,,0,0,0,0
+Burleson,308,"Justice, Supreme Court, Place 4",,John Devine,REP,9,232,33,274
+Burleson,308,"Justice, Supreme Court, Place 4",,Christine Vinh Weems,DEM,8,41,1,50
+Burleson,308,"Justice, Supreme Court, Place 4",,Under Votes,,0,6,1,7
+Burleson,308,"Justice, Supreme Court, Place 4",,Over Votes,,0,0,0,0
+Burleson,308,"Justice, Supreme Court, Place 6",,Jane Bland,REP,9,228,32,269
+Burleson,308,"Justice, Supreme Court, Place 6",,Bonnie Lee Goldstein,DEM,8,42,0,50
+Burleson,308,"Justice, Supreme Court, Place 6",,J. David Roberson,LIB,0,4,1,5
+Burleson,308,"Justice, Supreme Court, Place 6",,Under Votes,,0,5,2,7
+Burleson,308,"Justice, Supreme Court, Place 6",,Over Votes,,0,0,0,0
+Burleson,308,"Presiding Judge, Court of Criminal Appeals",,David J. Schenck,REP,9,232,34,275
+Burleson,308,"Presiding Judge, Court of Criminal Appeals",,Holly Taylor,DEM,8,41,0,49
+Burleson,308,"Presiding Judge, Court of Criminal Appeals",,Under Votes,,0,6,1,7
+Burleson,308,"Presiding Judge, Court of Criminal Appeals",,Over Votes,,0,0,0,0
+Burleson,308,"Judge, Court of Criminal Appeals, Place 7",,Gina Parker,REP,9,235,34,278
+Burleson,308,"Judge, Court of Criminal Appeals, Place 7",,Nancy Mulder,DEM,8,40,0,48
+Burleson,308,"Judge, Court of Criminal Appeals, Place 7",,Under Votes,,0,4,1,5
+Burleson,308,"Judge, Court of Criminal Appeals, Place 7",,Over Votes,,0,0,0,0
+Burleson,308,"Judge, Court of Criminal Appeals, Place 8",,Lee Finley,REP,9,235,34,278
+Burleson,308,"Judge, Court of Criminal Appeals, Place 8",,Chika Anyiam,DEM,8,40,0,48
+Burleson,308,"Judge, Court of Criminal Appeals, Place 8",,Under Votes,,0,4,1,5
+Burleson,308,"Judge, Court of Criminal Appeals, Place 8",,Over Votes,,0,0,0,0
+Burleson,308,"Member, State Board of Education, District 10",,Tom Maynard,REP,9,236,34,279
+Burleson,308,"Member, State Board of Education, District 10",,Raquel Saenz Ortiz,DEM,8,39,0,47
+Burleson,308,"Member, State Board of Education, District 10",,Under Votes,,0,4,1,5
+Burleson,308,"Member, State Board of Education, District 10",,Over Votes,,0,0,0,0
+Burleson,308,State Representative,17,Stan Gerdes,REP,9,236,34,279
+Burleson,308,State Representative,17,Desiree Venable,DEM,7,40,0,47
+Burleson,308,State Representative,17,Under Votes,,1,3,1,5
+Burleson,308,State Representative,17,Over Votes,,0,0,0,0
+Burleson,308,"Chief Justice, 10th Court of Appeals District",,Matt Johnson,REP,10,245,34,289
+Burleson,308,"Chief Justice, 10th Court of Appeals District",,Under Votes,,7,34,1,42
+Burleson,308,"Chief Justice, 10th Court of Appeals District",,Over Votes,,0,0,0,0
+Burleson,308,"District Judge, 21st Judicial District",,Carson Campbell,REP,10,243,35,288
+Burleson,308,"District Judge, 21st Judicial District",,Under Votes,,7,36,0,43
+Burleson,308,"District Judge, 21st Judicial District",,Over Votes,,0,0,0,0
+Burleson,308,"District Judge, 335th Judicial District",,John D. Winkelmann,REP,10,241,35,286
+Burleson,308,"District Judge, 335th Judicial District",,Under Votes,,7,38,0,45
+Burleson,308,"District Judge, 335th Judicial District",,Over Votes,,0,0,0,0
+Burleson,308,County Attorney,,Susan R. Deski,REP,10,239,34,283
+Burleson,308,County Attorney,,Under Votes,,7,40,1,48
+Burleson,308,County Attorney,,Over Votes,,0,0,0,0
+Burleson,308,Sheriff,,Gene Hermes,REP,11,248,35,294
+Burleson,308,Sheriff,,Under Votes,,6,31,0,37
+Burleson,308,Sheriff,,Over Votes,,0,0,0,0
+Burleson,308,County Tax Assessor-Collector,,Jessica Lucero,REP,10,247,35,292
+Burleson,308,County Tax Assessor-Collector,,Under Votes,,7,32,0,39
+Burleson,308,County Tax Assessor-Collector,,Over Votes,,0,0,0,0
+Burleson,308,"County Commissioner, Precinct 3",,David Hildebrand,REP,10,249,34,293
+Burleson,308,"County Commissioner, Precinct 3",,Under Votes,,7,30,1,38
+Burleson,308,"County Commissioner, Precinct 3",,Over Votes,,0,0,0,0
+Burleson,308,"Constable, Precinct 3",,Jay Boykin,REP,10,248,35,293
+Burleson,308,"Constable, Precinct 3",,Under Votes,,7,31,0,38
+Burleson,308,"Constable, Precinct 3",,Over Votes,,0,0,0,0
+Burleson,309,Registered Voters,,,,,,,932
+Burleson,309,Ballots Cast,,,,,,,712
+Burleson,309,President,,Donald J. Trump,REP,13,470,102,585
+Burleson,309,President,,Kamala D. Harris,DEM,6,87,26,119
+Burleson,309,President,,Chase Oliver,LIB,0,3,1,4
+Burleson,309,President,,Jill Stein,GRN,0,1,2,3
+Burleson,309,President,,Cherunda Fox/Harlan McVay (W),,0,0,0,0
+Burleson,309,President,,Claudia De la Cruz/Karina Garcia (W),,0,0,0,0
+Burleson,309,President,,Cornel West/Melina Abdullah (W),,0,0,0,0
+Burleson,309,President,,Jessie Cuellar/Wesley Lasley (W),,0,0,0,0
+Burleson,309,President,,Peter Sonski/Lauren Onak (W),,0,0,0,0
+Burleson,309,President,,Shiva Ayyadurai/Crystal Ellis (W),,0,0,0,0
+Burleson,309,President,,Under Votes,,0,0,1,1
+Burleson,309,President,,Over Votes,,0,0,0,0
+Burleson,309,U.S. Senate,,Ted Cruz,REP,11,466,97,574
+Burleson,309,U.S. Senate,,Colin Allred,DEM,6,85,27,118
+Burleson,309,U.S. Senate,,Ted Brown,LIB,1,8,8,17
+Burleson,309,U.S. Senate,,Analisa Roche (W),,0,0,0,0
+Burleson,309,U.S. Senate,,Tracy Andrus (W),,0,0,0,0
+Burleson,309,U.S. Senate,,Under Votes,,1,2,0,3
+Burleson,309,U.S. Senate,,Over Votes,,0,0,0,0
+Burleson,309,U.S. House,10,Michael T. McCaul,REP,13,477,100,590
+Burleson,309,U.S. House,10,Theresa Boisseau,DEM,6,75,23,104
+Burleson,309,U.S. House,10,Jeff Miller,LIB,0,4,4,8
+Burleson,309,U.S. House,10,Under Votes,,0,5,5,10
+Burleson,309,U.S. House,10,Over Votes,,0,0,0,0
+Burleson,309,Railroad Commissioner,,Christi Craddick,REP,13,463,94,570
+Burleson,309,Railroad Commissioner,,Katherine Culbert,DEM,6,81,22,109
+Burleson,309,Railroad Commissioner,,Hawk Dunlap,LIB,0,6,9,15
+Burleson,309,Railroad Commissioner,,Eddie Espinoza,GRN,0,7,2,9
+Burleson,309,Railroad Commissioner,,Richard McKibbin (W),,0,0,0,0
+Burleson,309,Railroad Commissioner,,Under Votes,,0,4,5,9
+Burleson,309,Railroad Commissioner,,Over Votes,,0,0,0,0
+Burleson,309,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,13,476,102,591
+Burleson,309,"Justice, Supreme Court, Place 2",,DaSean Jones,DEM,6,78,26,110
+Burleson,309,"Justice, Supreme Court, Place 2",,Under Votes,,0,7,4,11
+Burleson,309,"Justice, Supreme Court, Place 2",,Over Votes,,0,0,0,0
+Burleson,309,"Justice, Supreme Court, Place 4",,John Devine,REP,13,471,103,587
+Burleson,309,"Justice, Supreme Court, Place 4",,Christine Vinh Weems,DEM,6,82,25,113
+Burleson,309,"Justice, Supreme Court, Place 4",,Under Votes,,0,8,4,12
+Burleson,309,"Justice, Supreme Court, Place 4",,Over Votes,,0,0,0,0
+Burleson,309,"Justice, Supreme Court, Place 6",,Jane Bland,REP,13,466,97,576
+Burleson,309,"Justice, Supreme Court, Place 6",,Bonnie Lee Goldstein,DEM,6,81,23,110
+Burleson,309,"Justice, Supreme Court, Place 6",,J. David Roberson,LIB,0,6,6,12
+Burleson,309,"Justice, Supreme Court, Place 6",,Under Votes,,0,8,6,14
+Burleson,309,"Justice, Supreme Court, Place 6",,Over Votes,,0,0,0,0
+Burleson,309,"Presiding Judge, Court of Criminal Appeals",,David J. Schenck,REP,13,472,102,587
+Burleson,309,"Presiding Judge, Court of Criminal Appeals",,Holly Taylor,DEM,6,79,25,110
+Burleson,309,"Presiding Judge, Court of Criminal Appeals",,Under Votes,,0,10,5,15
+Burleson,309,"Presiding Judge, Court of Criminal Appeals",,Over Votes,,0,0,0,0
+Burleson,309,"Judge, Court of Criminal Appeals, Place 7",,Gina Parker,REP,13,472,101,586
+Burleson,309,"Judge, Court of Criminal Appeals, Place 7",,Nancy Mulder,DEM,6,80,25,111
+Burleson,309,"Judge, Court of Criminal Appeals, Place 7",,Under Votes,,0,9,6,15
+Burleson,309,"Judge, Court of Criminal Appeals, Place 7",,Over Votes,,0,0,0,0
+Burleson,309,"Judge, Court of Criminal Appeals, Place 8",,Lee Finley,REP,13,473,101,587
+Burleson,309,"Judge, Court of Criminal Appeals, Place 8",,Chika Anyiam,DEM,6,77,24,107
+Burleson,309,"Judge, Court of Criminal Appeals, Place 8",,Under Votes,,0,11,7,18
+Burleson,309,"Judge, Court of Criminal Appeals, Place 8",,Over Votes,,0,0,0,0
+Burleson,309,"Member, State Board of Education, District 10",,Tom Maynard,REP,13,471,100,584
+Burleson,309,"Member, State Board of Education, District 10",,Raquel Saenz Ortiz,DEM,4,81,25,110
+Burleson,309,"Member, State Board of Education, District 10",,Under Votes,,2,9,7,18
+Burleson,309,"Member, State Board of Education, District 10",,Over Votes,,0,0,0,0
+Burleson,309,State Representative,17,Stan Gerdes,REP,12,475,100,587
+Burleson,309,State Representative,17,Desiree Venable,DEM,6,81,24,111
+Burleson,309,State Representative,17,Under Votes,,1,5,8,14
+Burleson,309,State Representative,17,Over Votes,,0,0,0,0
+Burleson,309,"Chief Justice, 10th Court of Appeals District",,Matt Johnson,REP,11,500,106,617
+Burleson,309,"Chief Justice, 10th Court of Appeals District",,Under Votes,,8,61,26,95
+Burleson,309,"Chief Justice, 10th Court of Appeals District",,Over Votes,,0,0,0,0
+Burleson,309,"District Judge, 21st Judicial District",,Carson Campbell,REP,10,495,106,611
+Burleson,309,"District Judge, 21st Judicial District",,Under Votes,,9,66,26,101
+Burleson,309,"District Judge, 21st Judicial District",,Over Votes,,0,0,0,0
+Burleson,309,"District Judge, 335th Judicial District",,John D. Winkelmann,REP,10,495,106,611
+Burleson,309,"District Judge, 335th Judicial District",,Under Votes,,9,66,26,101
+Burleson,309,"District Judge, 335th Judicial District",,Over Votes,,0,0,0,0
+Burleson,309,County Attorney,,Susan R. Deski,REP,11,489,106,606
+Burleson,309,County Attorney,,Under Votes,,8,72,26,106
+Burleson,309,County Attorney,,Over Votes,,0,0,0,0
+Burleson,309,Sheriff,,Gene Hermes,REP,12,498,108,618
+Burleson,309,Sheriff,,Under Votes,,7,63,24,94
+Burleson,309,Sheriff,,Over Votes,,0,0,0,0
+Burleson,309,County Tax Assessor-Collector,,Jessica Lucero,REP,12,496,106,614
+Burleson,309,County Tax Assessor-Collector,,Under Votes,,7,65,26,98
+Burleson,309,County Tax Assessor-Collector,,Over Votes,,0,0,0,0
+Burleson,309,"County Commissioner, Precinct 3",,David Hildebrand,REP,12,508,112,632
+Burleson,309,"County Commissioner, Precinct 3",,Under Votes,,7,53,20,80
+Burleson,309,"County Commissioner, Precinct 3",,Over Votes,,0,0,0,0
+Burleson,309,"Constable, Precinct 3",,Jay Boykin,REP,11,502,106,619
+Burleson,309,"Constable, Precinct 3",,Under Votes,,8,59,26,93
+Burleson,309,"Constable, Precinct 3",,Over Votes,,0,0,0,0
+Burleson,406,Registered Voters,,,,,,,1342
+Burleson,406,Ballots Cast,,,,,,,741
+Burleson,406,President,,Donald J. Trump,REP,11,284,207,502
+Burleson,406,President,,Kamala D. Harris,DEM,16,110,99,225
+Burleson,406,President,,Chase Oliver,LIB,0,1,4,5
+Burleson,406,President,,Jill Stein,GRN,0,1,3,4
+Burleson,406,President,,Cherunda Fox/Harlan McVay (W),,0,0,0,0
+Burleson,406,President,,Claudia De la Cruz/Karina Garcia (W),,0,0,0,0
+Burleson,406,President,,Cornel West/Melina Abdullah (W),,0,0,0,0
+Burleson,406,President,,Jessie Cuellar/Wesley Lasley (W),,0,0,0,0
+Burleson,406,President,,Peter Sonski/Lauren Onak (W),,0,0,0,0
+Burleson,406,President,,Shiva Ayyadurai/Crystal Ellis (W),,0,0,0,0
+Burleson,406,President,,Under Votes,,0,1,3,4
+Burleson,406,President,,Over Votes,,1,0,0,1
+Burleson,406,U.S. Senate,,Ted Cruz,REP,11,273,194,478
+Burleson,406,U.S. Senate,,Colin Allred,DEM,15,114,113,242
+Burleson,406,U.S. Senate,,Ted Brown,LIB,1,7,8,16
+Burleson,406,U.S. Senate,,Analisa Roche (W),,0,0,0,0
+Burleson,406,U.S. Senate,,Tracy Andrus (W),,0,0,0,0
+Burleson,406,U.S. Senate,,Under Votes,,0,3,1,4
+Burleson,406,U.S. Senate,,Over Votes,,1,0,0,1
+Burleson,406,U.S. House,10,Michael T. McCaul,REP,9,278,208,495
+Burleson,406,U.S. House,10,Theresa Boisseau,DEM,16,103,97,216
+Burleson,406,U.S. House,10,Jeff Miller,LIB,0,6,7,13
+Burleson,406,U.S. House,10,Under Votes,,3,10,4,17
+Burleson,406,U.S. House,10,Over Votes,,0,0,0,0
+Burleson,406,Railroad Commissioner,,Christi Craddick,REP,8,274,198,480
+Burleson,406,Railroad Commissioner,,Katherine Culbert,DEM,16,108,91,215
+Burleson,406,Railroad Commissioner,,Hawk Dunlap,LIB,0,5,11,16
+Burleson,406,Railroad Commissioner,,Eddie Espinoza,GRN,0,2,8,10
+Burleson,406,Railroad Commissioner,,Richard McKibbin (W),,0,0,0,0
+Burleson,406,Railroad Commissioner,,Under Votes,,3,8,8,19
+Burleson,406,Railroad Commissioner,,Over Votes,,1,0,0,1
+Burleson,406,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,10,279,202,491
+Burleson,406,"Justice, Supreme Court, Place 2",,DaSean Jones,DEM,16,110,108,234
+Burleson,406,"Justice, Supreme Court, Place 2",,Under Votes,,2,8,6,16
+Burleson,406,"Justice, Supreme Court, Place 2",,Over Votes,,0,0,0,0
+Burleson,406,"Justice, Supreme Court, Place 4",,John Devine,REP,9,278,205,492
+Burleson,406,"Justice, Supreme Court, Place 4",,Christine Vinh Weems,DEM,16,112,105,233
+Burleson,406,"Justice, Supreme Court, Place 4",,Under Votes,,3,7,6,16
+Burleson,406,"Justice, Supreme Court, Place 4",,Over Votes,,0,0,0,0
+Burleson,406,"Justice, Supreme Court, Place 6",,Jane Bland,REP,8,274,195,477
+Burleson,406,"Justice, Supreme Court, Place 6",,Bonnie Lee Goldstein,DEM,17,108,104,229
+Burleson,406,"Justice, Supreme Court, Place 6",,J. David Roberson,LIB,0,9,9,18
+Burleson,406,"Justice, Supreme Court, Place 6",,Under Votes,,3,6,8,17
+Burleson,406,"Justice, Supreme Court, Place 6",,Over Votes,,0,0,0,0
+Burleson,406,"Presiding Judge, Court of Criminal Appeals",,David J. Schenck,REP,8,280,206,494
+Burleson,406,"Presiding Judge, Court of Criminal Appeals",,Holly Taylor,DEM,16,112,103,231
+Burleson,406,"Presiding Judge, Court of Criminal Appeals",,Under Votes,,3,5,7,15
+Burleson,406,"Presiding Judge, Court of Criminal Appeals",,Over Votes,,1,0,0,1
+Burleson,406,"Judge, Court of Criminal Appeals, Place 7",,Gina Parker,REP,8,277,206,491
+Burleson,406,"Judge, Court of Criminal Appeals, Place 7",,Nancy Mulder,DEM,17,112,103,232
+Burleson,406,"Judge, Court of Criminal Appeals, Place 7",,Under Votes,,3,8,7,18
+Burleson,406,"Judge, Court of Criminal Appeals, Place 7",,Over Votes,,0,0,0,0
+Burleson,406,"Judge, Court of Criminal Appeals, Place 8",,Lee Finley,REP,10,279,204,493
+Burleson,406,"Judge, Court of Criminal Appeals, Place 8",,Chika Anyiam,DEM,15,107,104,226
+Burleson,406,"Judge, Court of Criminal Appeals, Place 8",,Under Votes,,3,11,8,22
+Burleson,406,"Judge, Court of Criminal Appeals, Place 8",,Over Votes,,0,0,0,0
+Burleson,406,"Member, State Board of Education, District 10",,Tom Maynard,REP,7,277,208,492
+Burleson,406,"Member, State Board of Education, District 10",,Raquel Saenz Ortiz,DEM,17,113,100,230
+Burleson,406,"Member, State Board of Education, District 10",,Under Votes,,4,7,8,19
+Burleson,406,"Member, State Board of Education, District 10",,Over Votes,,0,0,0,0
+Burleson,406,State Representative,17,Stan Gerdes,REP,6,279,210,495
+Burleson,406,State Representative,17,Desiree Venable,DEM,17,111,100,228
+Burleson,406,State Representative,17,Under Votes,,5,7,6,18
+Burleson,406,State Representative,17,Over Votes,,0,0,0,0
+Burleson,406,"Chief Justice, 10th Court of Appeals District",,Matt Johnson,REP,13,311,235,559
+Burleson,406,"Chief Justice, 10th Court of Appeals District",,Under Votes,,15,86,81,182
+Burleson,406,"Chief Justice, 10th Court of Appeals District",,Over Votes,,0,0,0,0
+Burleson,406,"District Judge, 21st Judicial District",,Carson Campbell,REP,13,305,234,552
+Burleson,406,"District Judge, 21st Judicial District",,Under Votes,,15,92,82,189
+Burleson,406,"District Judge, 21st Judicial District",,Over Votes,,0,0,0,0
+Burleson,406,"District Judge, 335th Judicial District",,John D. Winkelmann,REP,14,308,230,552
+Burleson,406,"District Judge, 335th Judicial District",,Under Votes,,14,89,86,189
+Burleson,406,"District Judge, 335th Judicial District",,Over Votes,,0,0,0,0
+Burleson,406,County Attorney,,Susan R. Deski,REP,13,305,230,548
+Burleson,406,County Attorney,,Under Votes,,15,92,86,193
+Burleson,406,County Attorney,,Over Votes,,0,0,0,0
+Burleson,406,Sheriff,,Gene Hermes,REP,13,308,236,557
+Burleson,406,Sheriff,,Under Votes,,15,89,80,184
+Burleson,406,Sheriff,,Over Votes,,0,0,0,0
+Burleson,406,County Tax Assessor-Collector,,Jessica Lucero,REP,13,314,238,565
+Burleson,406,County Tax Assessor-Collector,,Under Votes,,15,83,78,176
+Burleson,406,County Tax Assessor-Collector,,Over Votes,,0,0,0,0
+Burleson,406,"Constable, Precinct 4",,Jason Rhodes,REP,13,306,236,555
+Burleson,406,"Constable, Precinct 4",,Under Votes,,15,91,80,186
+Burleson,406,"Constable, Precinct 4",,Over Votes,,0,0,0,0
+Burleson,410,Registered Voters,,,,,,,2265
+Burleson,410,Ballots Cast,,,,,,,1596
+Burleson,410,President,,Donald J. Trump,REP,57,942,305,1304
+Burleson,410,President,,Kamala D. Harris,DEM,30,183,63,276
+Burleson,410,President,,Chase Oliver,LIB,0,3,6,9
+Burleson,410,President,,Jill Stein,GRN,0,0,1,1
+Burleson,410,President,,Cherunda Fox/Harlan McVay (W),,0,0,0,0
+Burleson,410,President,,Claudia De la Cruz/Karina Garcia (W),,0,0,0,0
+Burleson,410,President,,Cornel West/Melina Abdullah (W),,0,0,0,0
+Burleson,410,President,,Jessie Cuellar/Wesley Lasley (W),,0,0,0,0
+Burleson,410,President,,Peter Sonski/Lauren Onak (W),,0,0,0,0
+Burleson,410,President,,Shiva Ayyadurai/Crystal Ellis (W),,0,0,0,0
+Burleson,410,President,,Under Votes,,0,5,1,6
+Burleson,410,President,,Over Votes,,0,0,0,0
+Burleson,410,U.S. Senate,,Ted Cruz,REP,56,912,292,1260
+Burleson,410,U.S. Senate,,Colin Allred,DEM,27,194,72,293
+Burleson,410,U.S. Senate,,Ted Brown,LIB,3,14,10,27
+Burleson,410,U.S. Senate,,Analisa Roche (W),,0,0,0,0
+Burleson,410,U.S. Senate,,Tracy Andrus (W),,0,0,0,0
+Burleson,410,U.S. Senate,,Under Votes,,1,13,2,16
+Burleson,410,U.S. Senate,,Over Votes,,0,0,0,0
+Burleson,410,U.S. House,10,Michael T. McCaul,REP,45,942,301,1288
+Burleson,410,U.S. House,10,Theresa Boisseau,DEM,27,159,63,249
+Burleson,410,U.S. House,10,Jeff Miller,LIB,1,14,10,25
+Burleson,410,U.S. House,10,Under Votes,,14,18,2,34
+Burleson,410,U.S. House,10,Over Votes,,0,0,0,0
+Burleson,410,Railroad Commissioner,,Christi Craddick,REP,54,922,287,1263
+Burleson,410,Railroad Commissioner,,Katherine Culbert,DEM,27,162,63,252
+Burleson,410,Railroad Commissioner,,Hawk Dunlap,LIB,1,24,18,43
+Burleson,410,Railroad Commissioner,,Eddie Espinoza,GRN,2,4,3,9
+Burleson,410,Railroad Commissioner,,Richard McKibbin (W),,0,0,0,0
+Burleson,410,Railroad Commissioner,,Under Votes,,3,21,5,29
+Burleson,410,Railroad Commissioner,,Over Votes,,0,0,0,0
+Burleson,410,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,57,944,299,1300
+Burleson,410,"Justice, Supreme Court, Place 2",,DaSean Jones,DEM,27,169,72,268
+Burleson,410,"Justice, Supreme Court, Place 2",,Under Votes,,3,20,5,28
+Burleson,410,"Justice, Supreme Court, Place 2",,Over Votes,,0,0,0,0
+Burleson,410,"Justice, Supreme Court, Place 4",,John Devine,REP,53,942,298,1293
+Burleson,410,"Justice, Supreme Court, Place 4",,Christine Vinh Weems,DEM,30,170,72,272
+Burleson,410,"Justice, Supreme Court, Place 4",,Under Votes,,4,21,6,31
+Burleson,410,"Justice, Supreme Court, Place 4",,Over Votes,,0,0,0,0
+Burleson,410,"Justice, Supreme Court, Place 6",,Jane Bland,REP,54,921,292,1267
+Burleson,410,"Justice, Supreme Court, Place 6",,Bonnie Lee Goldstein,DEM,26,170,66,262
+Burleson,410,"Justice, Supreme Court, Place 6",,J. David Roberson,LIB,3,18,13,34
+Burleson,410,"Justice, Supreme Court, Place 6",,Under Votes,,4,24,5,33
+Burleson,410,"Justice, Supreme Court, Place 6",,Over Votes,,0,0,0,0
+Burleson,410,"Presiding Judge, Court of Criminal Appeals",,David J. Schenck,REP,53,933,303,1289
+Burleson,410,"Presiding Judge, Court of Criminal Appeals",,Holly Taylor,DEM,28,174,67,269
+Burleson,410,"Presiding Judge, Court of Criminal Appeals",,Under Votes,,6,26,6,38
+Burleson,410,"Presiding Judge, Court of Criminal Appeals",,Over Votes,,0,0,0,0
+Burleson,410,"Judge, Court of Criminal Appeals, Place 7",,Gina Parker,REP,55,937,301,1293
+Burleson,410,"Judge, Court of Criminal Appeals, Place 7",,Nancy Mulder,DEM,28,171,68,267
+Burleson,410,"Judge, Court of Criminal Appeals, Place 7",,Under Votes,,4,25,7,36
+Burleson,410,"Judge, Court of Criminal Appeals, Place 7",,Over Votes,,0,0,0,0
+Burleson,410,"Judge, Court of Criminal Appeals, Place 8",,Lee Finley,REP,55,941,304,1300
+Burleson,410,"Judge, Court of Criminal Appeals, Place 8",,Chika Anyiam,DEM,28,164,62,254
+Burleson,410,"Judge, Court of Criminal Appeals, Place 8",,Under Votes,,4,28,10,42
+Burleson,410,"Judge, Court of Criminal Appeals, Place 8",,Over Votes,,0,0,0,0
+Burleson,410,"Member, State Board of Education, District 10",,Tom Maynard,REP,48,946,301,1295
+Burleson,410,"Member, State Board of Education, District 10",,Raquel Saenz Ortiz,DEM,25,163,68,256
+Burleson,410,"Member, State Board of Education, District 10",,Under Votes,,14,24,7,45
+Burleson,410,"Member, State Board of Education, District 10",,Over Votes,,0,0,0,0
+Burleson,410,State Representative,17,Stan Gerdes,REP,41,939,302,1282
+Burleson,410,State Representative,17,Desiree Venable,DEM,26,172,66,264
+Burleson,410,State Representative,17,Under Votes,,20,22,8,50
+Burleson,410,State Representative,17,Over Votes,,0,0,0,0
+Burleson,410,"Chief Justice, 10th Court of Appeals District",,Matt Johnson,REP,54,982,328,1364
+Burleson,410,"Chief Justice, 10th Court of Appeals District",,Under Votes,,33,151,48,232
+Burleson,410,"Chief Justice, 10th Court of Appeals District",,Over Votes,,0,0,0,0
+Burleson,410,"District Judge, 21st Judicial District",,Carson Campbell,REP,52,981,328,1361
+Burleson,410,"District Judge, 21st Judicial District",,Under Votes,,35,152,48,235
+Burleson,410,"District Judge, 21st Judicial District",,Over Votes,,0,0,0,0
+Burleson,410,"District Judge, 335th Judicial District",,John D. Winkelmann,REP,52,981,328,1361
+Burleson,410,"District Judge, 335th Judicial District",,Under Votes,,35,152,48,235
+Burleson,410,"District Judge, 335th Judicial District",,Over Votes,,0,0,0,0
+Burleson,410,County Attorney,,Susan R. Deski,REP,50,982,324,1356
+Burleson,410,County Attorney,,Under Votes,,37,151,52,240
+Burleson,410,County Attorney,,Over Votes,,0,0,0,0
+Burleson,410,Sheriff,,Gene Hermes,REP,53,978,324,1355
+Burleson,410,Sheriff,,Under Votes,,34,155,52,241
+Burleson,410,Sheriff,,Over Votes,,0,0,0,0
+Burleson,410,County Tax Assessor-Collector,,Jessica Lucero,REP,53,986,326,1365
+Burleson,410,County Tax Assessor-Collector,,Under Votes,,34,147,50,231
+Burleson,410,County Tax Assessor-Collector,,Over Votes,,0,0,0,0
+Burleson,410,"Constable, Precinct 4",,Jason Rhodes,REP,50,975,323,1348
+Burleson,410,"Constable, Precinct 4",,Under Votes,,37,158,53,248
+Burleson,410,"Constable, Precinct 4",,Over Votes,,0,0,0,0
+Burleson,FED,Registered Voters,,,,,,,0
+Burleson,FED,Ballots Cast,,,,,,,4
+Burleson,FED,President,,Donald J. Trump,REP,1,0,1,2
+Burleson,FED,President,,Kamala D. Harris,DEM,2,0,0,2
+Burleson,FED,President,,Chase Oliver,LIB,0,0,0,0
+Burleson,FED,President,,Jill Stein,GRN,0,0,0,0
+Burleson,FED,President,,Cherunda Fox/Harlan McVay (W),,0,0,0,0
+Burleson,FED,President,,Claudia De la Cruz/Karina Garcia (W),,0,0,0,0
+Burleson,FED,President,,Cornel West/Melina Abdullah (W),,0,0,0,0
+Burleson,FED,President,,Jessie Cuellar/Wesley Lasley (W),,0,0,0,0
+Burleson,FED,President,,Peter Sonski/Lauren Onak (W),,0,0,0,0
+Burleson,FED,President,,Shiva Ayyadurai/Crystal Ellis (W),,0,0,0,0
+Burleson,FED,President,,Under Votes,,0,0,0,0
+Burleson,FED,President,,Over Votes,,0,0,0,0
+Burleson,FED,U.S. Senate,,Ted Cruz,REP,2,0,0,2
+Burleson,FED,U.S. Senate,,Colin Allred,DEM,1,0,0,1
+Burleson,FED,U.S. Senate,,Ted Brown,LIB,0,0,0,0
+Burleson,FED,U.S. Senate,,Analisa Roche (W),,0,0,0,0
+Burleson,FED,U.S. Senate,,Tracy Andrus (W),,0,0,0,0
+Burleson,FED,U.S. Senate,,Under Votes,,0,0,1,1
+Burleson,FED,U.S. Senate,,Over Votes,,0,0,0,0
+Burleson,FED,U.S. House,10,Michael T. McCaul,REP,2,0,0,2
+Burleson,FED,U.S. House,10,Theresa Boisseau,DEM,1,0,0,1
+Burleson,FED,U.S. House,10,Jeff Miller,LIB,0,0,0,0
+Burleson,FED,U.S. House,10,Under Votes,,0,0,1,1
+Burleson,FED,U.S. House,10,Over Votes,,0,0,0,0
