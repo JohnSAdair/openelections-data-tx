@@ -1,0 +1,871 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Austin,101,"President",,REP,"Donald J. Trump",807,29,680,98
+Austin,101,"President",,DEM,"Kamala D. Harris",177,13,128,36
+Austin,101,"President",,LIB,"Chase Oliver",8,0,7,1
+Austin,101,"President",,GRN,"Jill Stein",1,0,0,1
+Austin,101,"President",,,Write-ins,3,0,3,0
+Austin,101,"U.S. Senate",,REP,"Ted Cruz",781,27,663,91
+Austin,101,"U.S. Senate",,DEM,"Colin Allred",194,14,139,41
+Austin,101,"U.S. Senate",,LIB,"Ted Brown",18,0,15,3
+Austin,101,"U.S. Senate",,,Write-ins,0,0,0,0
+Austin,101,"U.S. House",10,REP,"Michael T. McCaul",808,26,682,100
+Austin,101,"U.S. House",10,DEM,"Theresa Boisseau",154,13,113,28
+Austin,101,"U.S. House",10,LIB,"Jeff Miller",14,0,10,4
+Austin,101,"Railroad Commissioner",,REP,"Christi Craddick",777,28,658,91
+Austin,101,"Railroad Commissioner",,DEM,"Katherine Culbert",151,12,112,27
+Austin,101,"Railroad Commissioner",,LIB,"Hawk Dunlap",30,0,24,6
+Austin,101,"Railroad Commissioner",,GRN,"Eddie Espinoza",14,0,10,4
+Austin,101,"Railroad Commissioner",,,Write-ins,0,0,0,0
+Austin,101,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",809,28,683,98
+Austin,101,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",158,12,116,30
+Austin,101,"Justice, Supreme Court, Place 4",,REP,"John Devine",797,26,672,99
+Austin,101,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",164,12,121,31
+Austin,101,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",794,28,672,94
+Austin,101,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",147,12,106,29
+Austin,101,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",19,0,14,5
+Austin,101,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",795,27,670,98
+Austin,101,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",164,12,122,30
+Austin,101,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",796,27,671,98
+Austin,101,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",161,12,121,28
+Austin,101,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",800,28,674,98
+Austin,101,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",159,12,118,29
+Austin,101,"Member, State Board of Education, District 10",,REP,"Tom Maynard",794,26,669,99
+Austin,101,"Member, State Board of Education, District 10",,DEM,"Raquel Saenz Ortiz",162,12,122,28
+Austin,101,"State Representative",85,REP,"Stan Kitzman",840,26,706,108
+Austin,101,"Justice, 1st Court of Appeals, Place 2",,REP,"Jennifer Caughey",800,28,677,95
+Austin,101,"Justice, 1st Court of Appeals, Place 2",,DEM,"Brendetta Scott",153,12,111,30
+Austin,101,"Justice, 1st Court of Appeals, Place 6",,REP,"Andrew Johnson",794,28,669,97
+Austin,101,"Justice, 1st Court of Appeals, Place 6",,DEM,"Sarah Beth Landau",164,12,123,29
+Austin,101,"Justice, 1st Court of Appeals, Place 7",,REP,"Clint Morgan",787,26,667,94
+Austin,101,"Justice, 1st Court of Appeals, Place 7",,DEM,"Julie Countiss",162,13,118,31
+Austin,101,"Justice, 1st Court of Appeals, Place 8",,REP,"Kristin M. Guiney",788,26,668,94
+Austin,101,"Justice, 1st Court of Appeals, Place 8",,DEM,"Richard Hightower",160,13,117,30
+Austin,101,"Justice, 1st Court of Appeals, Place 9",,REP,"Susanna Dokupil",791,28,669,94
+Austin,101,"Justice, 1st Court of Appeals, Place 9",,DEM,"Amber Boyd-Cora",159,12,116,31
+Austin,101,"Justice, 14th Court of Appeals, Place 3",,REP,"Chad Bridges",794,27,672,95
+Austin,101,"Justice, 14th Court of Appeals, Place 3",,DEM,"Velda Renita Faulkner",156,12,114,30
+Austin,101,"Justice, 14th Court of Appeals, Place 4",,REP,"Tonya McLaughlin",786,28,664,94
+Austin,101,"Justice, 14th Court of Appeals, Place 4",,DEM,"Charles Spain",161,11,118,32
+Austin,101,"Justice, 14th Court of Appeals, Place 5",,REP,"Maritza Michele Antu",785,28,665,92
+Austin,101,"Justice, 14th Court of Appeals, Place 5",,DEM,"Frances Bourliot",163,12,119,32
+Austin,101,"Justice, 14th Court of Appeals, Place 6",,REP,"Katy Boatman",791,28,668,95
+Austin,101,"Justice, 14th Court of Appeals, Place 6",,DEM,"Meagan Hassan",160,12,117,31
+Austin,101,"Justice, 14th Court of Appeals, Place 8",,REP,"Brad Hart",785,28,662,95
+Austin,101,"Justice, 14th Court of Appeals, Place 8",,DEM,"Margaret 'Meg' Poissant",163,12,120,31
+Austin,101,"County Clerk - Unexpired Term",,REP,"Diane Day",866,30,726,110
+Austin,101,"Sheriff",,REP,"Jack W. Brandes",854,30,715,109
+Austin,101,"County Tax Assessor-Collector",,REP,"Kim Rinn",876,31,733,112
+Austin,101,"County Commissioner",1,REP,"Greg Mikel",826,29,693,104
+Austin,101,"Constable",1,REP,"Lance W. Johnson",841,29,703,109
+Austin,102,"President",,REP,"Donald J. Trump",881,20,755,106
+Austin,102,"President",,DEM,"Kamala D. Harris",202,10,162,30
+Austin,102,"President",,LIB,"Chase Oliver",3,0,2,1
+Austin,102,"President",,GRN,"Jill Stein",2,0,2,0
+Austin,102,"President",,,Write-ins,2,0,1,1
+Austin,102,"U.S. Senate",,REP,"Ted Cruz",852,20,737,95
+Austin,102,"U.S. Senate",,DEM,"Colin Allred",212,10,166,36
+Austin,102,"U.S. Senate",,LIB,"Ted Brown",18,0,10,8
+Austin,102,"U.S. Senate",,,Write-ins,0,0,0,0
+Austin,102,"U.S. House",10,REP,"Michael T. McCaul",883,22,756,105
+Austin,102,"U.S. House",10,DEM,"Theresa Boisseau",177,7,142,28
+Austin,102,"U.S. House",10,LIB,"Jeff Miller",14,0,10,4
+Austin,102,"Railroad Commissioner",,REP,"Christi Craddick",863,20,744,99
+Austin,102,"Railroad Commissioner",,DEM,"Katherine Culbert",180,10,144,26
+Austin,102,"Railroad Commissioner",,LIB,"Hawk Dunlap",17,0,11,6
+Austin,102,"Railroad Commissioner",,GRN,"Eddie Espinoza",11,0,6,5
+Austin,102,"Railroad Commissioner",,,Write-ins,1,0,1,0
+Austin,102,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",886,20,757,109
+Austin,102,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",183,9,147,27
+Austin,102,"Justice, Supreme Court, Place 4",,REP,"John Devine",866,20,745,101
+Austin,102,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",195,9,154,32
+Austin,102,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",867,20,746,101
+Austin,102,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",181,9,145,27
+Austin,102,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",14,0,9,5
+Austin,102,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",871,20,749,102
+Austin,102,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",188,9,149,30
+Austin,102,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",875,20,748,107
+Austin,102,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",183,9,149,25
+Austin,102,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",883,21,757,105
+Austin,102,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",174,7,139,28
+Austin,102,"Member, State Board of Education, District 10",,REP,"Tom Maynard",869,20,747,102
+Austin,102,"Member, State Board of Education, District 10",,DEM,"Raquel Saenz Ortiz",187,9,149,29
+Austin,102,"State Representative",85,REP,"Stan Kitzman",922,22,785,115
+Austin,102,"Justice, 1st Court of Appeals, Place 2",,REP,"Jennifer Caughey",876,20,753,103
+Austin,102,"Justice, 1st Court of Appeals, Place 2",,DEM,"Brendetta Scott",179,9,141,29
+Austin,102,"Justice, 1st Court of Appeals, Place 6",,REP,"Andrew Johnson",870,20,745,105
+Austin,102,"Justice, 1st Court of Appeals, Place 6",,DEM,"Sarah Beth Landau",185,9,149,27
+Austin,102,"Justice, 1st Court of Appeals, Place 7",,REP,"Clint Morgan",865,20,742,103
+Austin,102,"Justice, 1st Court of Appeals, Place 7",,DEM,"Julie Countiss",186,9,149,28
+Austin,102,"Justice, 1st Court of Appeals, Place 8",,REP,"Kristin M. Guiney",870,20,747,103
+Austin,102,"Justice, 1st Court of Appeals, Place 8",,DEM,"Richard Hightower",178,9,141,28
+Austin,102,"Justice, 1st Court of Appeals, Place 9",,REP,"Susanna Dokupil",866,20,744,102
+Austin,102,"Justice, 1st Court of Appeals, Place 9",,DEM,"Amber Boyd-Cora",182,9,145,28
+Austin,102,"Justice, 14th Court of Appeals, Place 3",,REP,"Chad Bridges",865,20,747,98
+Austin,102,"Justice, 14th Court of Appeals, Place 3",,DEM,"Velda Renita Faulkner",186,9,145,32
+Austin,102,"Justice, 14th Court of Appeals, Place 4",,REP,"Tonya McLaughlin",872,20,748,104
+Austin,102,"Justice, 14th Court of Appeals, Place 4",,DEM,"Charles Spain",176,9,141,26
+Austin,102,"Justice, 14th Court of Appeals, Place 5",,REP,"Maritza Michele Antu",867,28,665,92
+Austin,102,"Justice, 14th Court of Appeals, Place 5",,DEM,"Frances Bourliot",163,12,119,32
+Austin,102,"Justice, 14th Court of Appeals, Place 6",,REP,"Katy Boatman",875,21,746,108
+Austin,102,"Justice, 14th Court of Appeals, Place 6",,DEM,"Meagan Hassan",175,8,144,23
+Austin,102,"Justice, 14th Court of Appeals, Place 8",,REP,"Brad Hart",869,20,746,103
+Austin,102,"Justice, 14th Court of Appeals, Place 8",,DEM,"Margaret 'Meg' Poissant",183,9,146,28
+Austin,102,"County Clerk - Unexpired Term",,REP,"Diane Day",931,21,793,117
+Austin,102,"Sheriff",,REP,"Jack W. Brandes",925,22,786,117
+Austin,102,"County Tax Assessor-Collector",,REP,"Kim Rinn",962,22,821,119
+Austin,102,"County Commissioner",1,REP,"Greg Mikel",906,22,769,115
+Austin,102,"Constable",1,REP,"Lance W. Johnson",926,21,788,117
+Austin,103,"President",,REP,"Donald J. Trump",977,38,834,105
+Austin,103,"President",,DEM,"Kamala D. Harris",177,8,150,19
+Austin,103,"President",,LIB,"Chase Oliver",9,0,6,3
+Austin,103,"President",,GRN,"Jill Stein",7,0,4,3
+Austin,103,"President",,,Write-ins,3,1,2,0
+Austin,103,"U.S. Senate",,REP,"Ted Cruz",957,35,825,97
+Austin,103,"U.S. Senate",,DEM,"Colin Allred",178,10,147,21
+Austin,103,"U.S. Senate",,LIB,"Ted Brown",27,2,17,8
+Austin,103,"U.S. Senate",,,Write-ins,0,0,0,0
+Austin,103,"U.S. House",10,REP,"Michael T. McCaul",998,39,855,104
+Austin,103,"U.S. House",10,DEM,"Theresa Boisseau",144,7,120,17
+Austin,103,"U.S. House",10,LIB,"Jeff Miller",14,0,12,2
+Austin,103,"Railroad Commissioner",,REP,"Christi Craddick",973,36,842,95
+Austin,103,"Railroad Commissioner",,DEM,"Katherine Culbert",144,8,122,14
+Austin,103,"Railroad Commissioner",,LIB,"Hawk Dunlap",27,0,18,9
+Austin,103,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,2,1
+Austin,103,"Railroad Commissioner",,,Write-ins,0,0,0,0
+Austin,103,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1009,38,867,104
+Austin,103,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",140,5,118,17
+Austin,103,"Justice, Supreme Court, Place 4",,REP,"John Devine",987,37,849,101
+Austin,103,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",153,7,128,18
+Austin,103,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",978,39,835,104
+Austin,103,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",141,5,124,12
+Austin,103,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",20,0,18,2
+Austin,103,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",994,37,858,99
+Austin,103,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",143,5,120,18
+Austin,103,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",996,39,855,102
+Austin,103,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",141,5,120,16
+Austin,103,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1005,38,866,101
+Austin,103,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",130,4,110,16
+Austin,103,"Member, State Board of Education, District 10",,REP,"Tom Maynard",992,39,851,102
+Austin,103,"Member, State Board of Education, District 10",,DEM,"Raquel Saenz Ortiz",150,4,127,19
+Austin,103,"State Representative",85,REP,"Stan Kitzman",1023,33,876,114
+Austin,103,"Justice, 1st Court of Appeals, Place 2",,REP,"Jennifer Caughey",1006,41,861,104
+Austin,103,"Justice, 1st Court of Appeals, Place 2",,DEM,"Brendetta Scott",132,4,115,13
+Austin,103,"Justice, 1st Court of Appeals, Place 6",,REP,"Andrew Johnson",986,36,849,101
+Austin,103,"Justice, 1st Court of Appeals, Place 6",,DEM,"Sarah Beth Landau",148,8,124,16
+Austin,103,"Justice, 1st Court of Appeals, Place 7",,REP,"Clint Morgan",992,37,855,100
+Austin,103,"Justice, 1st Court of Appeals, Place 7",,DEM,"Julie Countiss",147,7,122,18
+Austin,103,"Justice, 1st Court of Appeals, Place 8",,REP,"Kristin M. Guiney",998,40,857,101
+Austin,103,"Justice, 1st Court of Appeals, Place 8",,DEM,"Richard Hightower",145,5,123,16
+Austin,103,"Justice, 1st Court of Appeals, Place 9",,REP,"Susanna Dokupil",1000,39,860,101
+Austin,103,"Justice, 1st Court of Appeals, Place 9",,DEM,"Amber Boyd-Cora",138,5,117,16
+Austin,103,"Justice, 14th Court of Appeals, Place 3",,REP,"Chad Bridges",1000,37,862,101
+Austin,103,"Justice, 14th Court of Appeals, Place 3",,DEM,"Velda Renita Faulkner",136,5,115,16
+Austin,103,"Justice, 14th Court of Appeals, Place 4",,REP,"Tonya McLaughlin",999,39,859,101
+Austin,103,"Justice, 14th Court of Appeals, Place 4",,DEM,"Charles Spain",141,6,119,16
+Austin,103,"Justice, 14th Court of Appeals, Place 5",,REP,"Maritza Michele Antu",987,36,851,100
+Austin,103,"Justice, 14th Court of Appeals, Place 5",,DEM,"Frances Bourliot",145,6,123,16
+Austin,103,"Justice, 14th Court of Appeals, Place 6",,REP,"Katy Boatman",999,38,858,103
+Austin,103,"Justice, 14th Court of Appeals, Place 6",,DEM,"Meagan Hassan",138,5,120,13
+Austin,103,"Justice, 14th Court of Appeals, Place 8",,REP,"Brad Hart",996,37,858,101
+Austin,103,"Justice, 14th Court of Appeals, Place 8",,DEM,"Margaret 'Meg' Poissant",140,7,117,16
+Austin,103,"County Clerk - Unexpired Term",,REP,"Diane Day",1043,37,893,113
+Austin,103,"Sheriff",,REP,"Jack W. Brandes",1040,37,888,115
+Austin,103,"County Tax Assessor-Collector",,REP,"Kim Rinn",1060,39,905,116
+Austin,103,"County Commissioner",1,REP,"Greg Mikel",1014,38,863,113
+Austin,103,"Constable",1,REP,"Lance W. Johnson",1015,38,864,113
+Austin,104,"President",,REP,"Donald J. Trump",558,11,468,79
+Austin,104,"President",,DEM,"Kamala D. Harris",99,4,72,23
+Austin,104,"President",,LIB,"Chase Oliver",3,0,3,0
+Austin,104,"President",,GRN,"Jill Stein",2,0,2,0
+Austin,104,"President",,,Write-ins,2,0,2,0
+Austin,104,"U.S. Senate",,REP,"Ted Cruz",542,11,468,68
+Austin,104,"U.S. Senate",,DEM,"Colin Allred",102,4,72,26
+Austin,104,"U.S. Senate",,LIB,"Ted Brown",10,0,6,4
+Austin,104,"U.S. Senate",,,Write-ins,0,0,0,0
+Austin,104,"U.S. House",10,REP,"Michael T. McCaul",556,13,468,75
+Austin,104,"U.S. House",10,DEM,"Theresa Boisseau",75,2,55,18
+Austin,104,"U.S. House",10,LIB,"Jeff Miller",13,0,12,1
+Austin,104,"Railroad Commissioner",,REP,"Christi Craddick",538,12,457,69
+Austin,104,"Railroad Commissioner",,DEM,"Katherine Culbert",78,3,61,14
+Austin,104,"Railroad Commissioner",,LIB,"Hawk Dunlap",15,0,9,6
+Austin,104,"Railroad Commissioner",,GRN,"Eddie Espinoza",12,0,6,6
+Austin,104,"Railroad Commissioner",,,Write-ins,0,0,0,0
+Austin,104,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",548,12,467,69
+Austin,104,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",85,3,59,23
+Austin,104,"Justice, Supreme Court, Place 4",,REP,"John Devine",553,12,466,75
+Austin,104,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",85,3,59,23
+Austin,104,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",538,12,456,70
+Austin,104,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",80,2,57,21
+Austin,104,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",17,0,12,5
+Austin,104,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",550,12,468,70
+Austin,104,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",85,3,58,24
+Austin,104,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",553,12,467,74
+Austin,104,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",84,3,59,22
+Austin,104,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",556,11,469,76
+Austin,104,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",78,3,56,19
+Austin,104,"Member, State Board of Education, District 10",,REP,"Tom Maynard",544,12,458,74
+Austin,104,"Member, State Board of Education, District 10",,DEM,"Raquel Saenz Ortiz",83,3,59,21
+Austin,104,"State Representative",85,REP,"Stan Kitzman",561,12,468,81
+Austin,104,"Justice, 1st Court of Appeals, Place 2",,REP,"Jennifer Caughey",550,12,463,75
+Austin,104,"Justice, 1st Court of Appeals, Place 2",,DEM,"Brendetta Scott",83,3,61,19
+Austin,104,"Justice, 1st Court of Appeals, Place 6",,REP,"Andrew Johnson",550,12,466,72
+Austin,104,"Justice, 1st Court of Appeals, Place 6",,DEM,"Sarah Beth Landau",82,3,57,22
+Austin,104,"Justice, 1st Court of Appeals, Place 7",,REP,"Clint Morgan",550,12,466,72
+Austin,104,"Justice, 1st Court of Appeals, Place 7",,DEM,"Julie Countiss",84,3,59,22
+Austin,104,"Justice, 1st Court of Appeals, Place 8",,REP,"Kristin M. Guiney",551,12,464,75
+Austin,104,"Justice, 1st Court of Appeals, Place 8",,DEM,"Richard Hightower",82,2,62,18
+Austin,104,"Justice, 1st Court of Appeals, Place 9",,REP,"Susanna Dokupil",549,11,465,73
+Austin,104,"Justice, 1st Court of Appeals, Place 9",,DEM,"Amber Boyd-Cora",80,3,57,20
+Austin,104,"Justice, 14th Court of Appeals, Place 3",,REP,"Chad Bridges",549,12,463,74
+Austin,104,"Justice, 14th Court of Appeals, Place 3",,DEM,"Velda Renita Faulkner",81,3,59,19
+Austin,104,"Justice, 14th Court of Appeals, Place 4",,REP,"Tonya McLaughlin",550,11,467,72
+Austin,104,"Justice, 14th Court of Appeals, Place 4",,DEM,"Charles Spain",78,3,55,20
+Austin,104,"Justice, 14th Court of Appeals, Place 5",,REP,"Maritza Michele Antu",548,12,463,73
+Austin,104,"Justice, 14th Court of Appeals, Place 5",,DEM,"Frances Bourliot",85,3,62,20
+Austin,104,"Justice, 14th Court of Appeals, Place 6",,REP,"Katy Boatman",552,12,469,71
+Austin,104,"Justice, 14th Court of Appeals, Place 6",,DEM,"Meagan Hassan",79,3,55,21
+Austin,104,"Justice, 14th Court of Appeals, Place 8",,REP,"Brad Hart",551,12,465,74
+Austin,104,"Justice, 14th Court of Appeals, Place 8",,DEM,"Margaret 'Meg' Poissant",80,3,59,18
+Austin,104,"County Clerk - Unexpired Term",,REP,"Diane Day",583,14,487,82
+Austin,104,"Sheriff",,REP,"Jack W. Brandes",582,14,480,88
+Austin,104,"County Tax Assessor-Collector",,REP,"Kim Rinn",590,15,488,87
+Austin,104,"County Commissioner",1,REP,"Greg Mikel",575,14,477,84
+Austin,104,"Constable",1,REP,"Lance W. Johnson",581,14,484,83
+Austin,205,"President",,REP,"Donald J. Trump",1762,47,1492,223
+Austin,205,"President",,DEM,"Kamala D. Harris",355,30,273,52
+Austin,205,"President",,LIB,"Chase Oliver",6,1,4,1
+Austin,205,"President",,GRN,"Jill Stein",1,0,1,0
+Austin,205,"President",,,Write-ins,9,0,7,2
+Austin,205,"U.S. Senate",,REP,"Ted Cruz",1679,47,1435,197
+Austin,205,"U.S. Senate",,DEM,"Colin Allred",396,29,298,69
+Austin,205,"U.S. Senate",,LIB,"Ted Brown",43,2,31,10
+Austin,205,"U.S. Senate",,,Write-ins,1,0,1,0
+Austin,205,"U.S. House",10,REP,"Michael T. McCaul",1736,47,1467,222
+Austin,205,"U.S. House",10,DEM,"Theresa Boisseau",291,26,221,44
+Austin,205,"U.S. House",10,LIB,"Jeff Miller",52,2,38,12
+Austin,205,"Railroad Commissioner",,REP,"Christi Craddick",1696,47,1428,221
+Austin,205,"Railroad Commissioner",,DEM,"Katherine Culbert",300,27,233,40
+Austin,205,"Railroad Commissioner",,LIB,"Hawk Dunlap",52,1,42,9
+Austin,205,"Railroad Commissioner",,GRN,"Eddie Espinoza",23,0,17,6
+Austin,205,"Railroad Commissioner",,,Write-ins,2,0,2,0
+Austin,205,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1764,48,1488,228
+Austin,205,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",304,25,232,47
+Austin,205,"Justice, Supreme Court, Place 4",,REP,"John Devine",1726,47,1461,218
+Austin,205,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",331,26,252,53
+Austin,205,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",1716,46,1455,215
+Austin,205,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",303,26,231,46
+Austin,205,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",40,1,31,8
+Austin,205,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1740,48,1470,222
+Austin,205,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",312,24,242,46
+Austin,205,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1740,46,1468,226
+Austin,205,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",311,26,243,42
+Austin,205,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1753,48,1480,225
+Austin,205,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",300,23,233,44
+Austin,205,"Member, State Board of Education, District 10",,REP,"Tom Maynard",1728,50,1458,220
+Austin,205,"Member, State Board of Education, District 10",,DEM,"Raquel Saenz Ortiz",313,23,243,47
+Austin,205,"State Representative",85,REP,"Stan Kitzman",1792,48,1507,237
+Austin,205,"Justice, 1st Court of Appeals, Place 2",,REP,"Jennifer Caughey",1744,49,1476,219
+Austin,205,"Justice, 1st Court of Appeals, Place 2",,DEM,"Brendetta Scott",301,24,229,48
+Austin,205,"Justice, 1st Court of Appeals, Place 6",,REP,"Andrew Johnson",1737,47,1469,221
+Austin,205,"Justice, 1st Court of Appeals, Place 6",,DEM,"Sarah Beth Landau",313,25,241,47
+Austin,205,"Justice, 1st Court of Appeals, Place 7",,REP,"Clint Morgan",1729,48,1460,221
+Austin,205,"Justice, 1st Court of Appeals, Place 7",,DEM,"Julie Countiss",314,24,242,48
+Austin,205,"Justice, 1st Court of Appeals, Place 8",,REP,"Kristin M. Guiney",1744,48,1470,226
+Austin,205,"Justice, 1st Court of Appeals, Place 8",,DEM,"Richard Hightower",298,23,232,43
+Austin,205,"Justice, 1st Court of Appeals, Place 9",,REP,"Susanna Dokupil",1733,48,1465,220
+Austin,205,"Justice, 1st Court of Appeals, Place 9",,DEM,"Amber Boyd-Cora",307,25,234,48
+Austin,205,"Justice, 14th Court of Appeals, Place 3",,REP,"Chad Bridges",1739,47,1469,223
+Austin,205,"Justice, 14th Court of Appeals, Place 3",,DEM,"Velda Renita Faulkner",302,25,230,47
+Austin,205,"Justice, 14th Court of Appeals, Place 4",,REP,"Tonya McLaughlin",1741,47,1472,222
+Austin,205,"Justice, 14th Court of Appeals, Place 4",,DEM,"Charles Spain",298,26,226,46
+Austin,205,"Justice, 14th Court of Appeals, Place 5",,REP,"Maritza Michele Antu",1716,49,1447,220
+Austin,205,"Justice, 14th Court of Appeals, Place 5",,DEM,"Frances Bourliot",313,24,241,48
+Austin,205,"Justice, 14th Court of Appeals, Place 6",,REP,"Katy Boatman",1731,47,1465,219
+Austin,205,"Justice, 14th Court of Appeals, Place 6",,DEM,"Meagan Hassan",304,25,231,48
+Austin,205,"Justice, 14th Court of Appeals, Place 8",,REP,"Brad Hart",1725,48,1455,222
+Austin,205,"Justice, 14th Court of Appeals, Place 8",,DEM,"Margaret 'Meg' Poissant",303,23,234,46
+Austin,205,"County Clerk - Unexpired Term",,REP,"Diane Day",1855,59,1557,239
+Austin,205,"Sheriff",,REP,"Jack W. Brandes",1855,61,1550,244
+Austin,205,"County Tax Assessor-Collector",,REP,"Kim Rinn",1896,63,1586,247
+Austin,205,"Justice of the Peace, Precinct 2 - Unexpired Term",,REP,"Todd A. Morris",968,38,810,120
+Austin,205,"Justice of the Peace, Precinct 2 - Unexpired Term",,IND,"Wesley O'Brien Peschel",1054,33,874,147
+Austin,205,"Constable",2,REP,"Dave Schulz",1866,61,1559,246
+Austin,206,"President",,REP,"Donald J. Trump",960,26,675,259
+Austin,206,"President",,DEM,"Kamala D. Harris",141,13,92,36
+Austin,206,"President",,LIB,"Chase Oliver",4,0,2,2
+Austin,206,"President",,GRN,"Jill Stein",3,0,0,3
+Austin,206,"President",,,Write-ins,2,0,2,0
+Austin,206,"U.S. Senate",,REP,"Ted Cruz",943,24,664,255
+Austin,206,"U.S. Senate",,DEM,"Colin Allred",145,14,97,34
+Austin,206,"U.S. Senate",,LIB,"Ted Brown",16,1,8,7
+Austin,206,"U.S. Senate",,,Write-ins,1,0,1,0
+Austin,206,"U.S. House",10,REP,"Michael T. McCaul",966,27,671,268
+Austin,206,"U.S. House",10,DEM,"Theresa Boisseau",105,10,72,23
+Austin,206,"U.S. House",10,LIB,"Jeff Miller",25,2,19,4
+Austin,206,"Railroad Commissioner",,REP,"Christi Craddick",953,27,671,255
+Austin,206,"Railroad Commissioner",,DEM,"Katherine Culbert",102,7,69,26
+Austin,206,"Railroad Commissioner",,LIB,"Hawk Dunlap",20,1,12,7
+Austin,206,"Railroad Commissioner",,GRN,"Eddie Espinoza",6,0,3,3
+Austin,206,"Railroad Commissioner",,,Write-ins,0,0,0,0
+Austin,206,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",971,24,680,267
+Austin,206,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",108,7,76,25
+Austin,206,"Justice, Supreme Court, Place 4",,REP,"John Devine",950,22,673,255
+Austin,206,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",115,8,80,27
+Austin,206,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",939,23,667,249
+Austin,206,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",112,7,77,28
+Austin,206,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",15,1,8,6
+Austin,206,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",956,22,677,257
+Austin,206,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",108,7,74,27
+Austin,206,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",959,23,677,259
+Austin,206,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",104,7,74,23
+Austin,206,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",957,23,674,260
+Austin,206,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",105,7,75,23
+Austin,206,"Member, State Board of Education, District 10",,REP,"Tom Maynard",948,23,668,257
+Austin,206,"Member, State Board of Education, District 10",,DEM,"Raquel Saenz Ortiz",114,7,80,27
+Austin,206,"State Representative",85,REP,"Stan Kitzman",982,25,688,269
+Austin,206,"Justice, 1st Court of Appeals, Place 2",,REP,"Jennifer Caughey",951,22,671,258
+Austin,206,"Justice, 1st Court of Appeals, Place 2",,DEM,"Brendetta Scott",105,7,75,23
+Austin,206,"Justice, 1st Court of Appeals, Place 6",,REP,"Andrew Johnson",949,22,671,256
+Austin,206,"Justice, 1st Court of Appeals, Place 6",,DEM,"Sarah Beth Landau",112,8,77,27
+Austin,206,"Justice, 1st Court of Appeals, Place 7",,REP,"Clint Morgan",957,22,678,257
+Austin,206,"Justice, 1st Court of Appeals, Place 7",,DEM,"Julie Countiss",107,8,73,26
+Austin,206,"Justice, 1st Court of Appeals, Place 8",,REP,"Kristin M. Guiney",953,23,672,258
+Austin,206,"Justice, 1st Court of Appeals, Place 8",,DEM,"Richard Hightower",107,7,76,24
+Austin,206,"Justice, 1st Court of Appeals, Place 9",,REP,"Susanna Dokupil",954,23,674,257
+Austin,206,"Justice, 1st Court of Appeals, Place 9",,DEM,"Amber Boyd-Cora",107,7,74,26
+Austin,206,"Justice, 14th Court of Appeals, Place 3",,REP,"Chad Bridges",956,23,675,258
+Austin,206,"Justice, 14th Court of Appeals, Place 3",,DEM,"Velda Renita Faulkner",104,7,73,24
+Austin,206,"Justice, 14th Court of Appeals, Place 4",,REP,"Tonya McLaughlin",953,23,673,257
+Austin,206,"Justice, 14th Court of Appeals, Place 4",,DEM,"Charles Spain",103,6,74,23
+Austin,206,"Justice, 14th Court of Appeals, Place 5",,REP,"Maritza Michele Antu",949,23,668,258
+Austin,206,"Justice, 14th Court of Appeals, Place 5",,DEM,"Frances Bourliot",107,7,78,22
+Austin,206,"Justice, 14th Court of Appeals, Place 6",,REP,"Katy Boatman",952,23,673,256
+Austin,206,"Justice, 14th Court of Appeals, Place 6",,DEM,"Meagan Hassan",105,7,73,25
+Austin,206,"Justice, 14th Court of Appeals, Place 8",,REP,"Brad Hart",947,22,669,256
+Austin,206,"Justice, 14th Court of Appeals, Place 8",,DEM,"Margaret 'Meg' Poissant",112,8,78,26
+Austin,206,"County Clerk - Unexpired Term",,REP,"Diane Day",997,26,694,277
+Austin,206,"Sheriff",,REP,"Jack W. Brandes",1000,26,699,275
+Austin,206,"County Tax Assessor-Collector",,REP,"Kim Rinn",1016,27,707,282
+Austin,206,"Justice of the Peace, Precinct 2 - Unexpired Term",,REP,"Todd A. Morris",457,15,345,97
+Austin,206,"Justice of the Peace, Precinct 2 - Unexpired Term",,IND,"Wesley O'Brien Peschel",601,16,394,191
+Austin,206,"Constable",2,REP,"Dave Schulz",1008,26,704,278
+Austin,207,"President",,REP,"Donald J. Trump",523,16,300,207
+Austin,207,"President",,DEM,"Kamala D. Harris",75,3,40,32
+Austin,207,"President",,LIB,"Chase Oliver",1,0,1,0
+Austin,207,"President",,GRN,"Jill Stein",1,0,1,0
+Austin,207,"President",,,Write-ins,0,0,0,0
+Austin,207,"U.S. Senate",,REP,"Ted Cruz",510,14,290,206
+Austin,207,"U.S. Senate",,DEM,"Colin Allred",85,6,45,34
+Austin,207,"U.S. Senate",,LIB,"Ted Brown",6,0,3,3
+Austin,207,"U.S. Senate",,,Write-ins,0,0,0,0
+Austin,207,"U.S. House",10,REP,"Michael T. McCaul",521,16,295,210
+Austin,207,"U.S. House",10,DEM,"Theresa Boisseau",64,3,35,26
+Austin,207,"U.S. House",10,LIB,"Jeff Miller",10,0,6,4
+Austin,207,"Railroad Commissioner",,REP,"Christi Craddick",504,15,286,203
+Austin,207,"Railroad Commissioner",,DEM,"Katherine Culbert",64,3,38,23
+Austin,207,"Railroad Commissioner",,LIB,"Hawk Dunlap",15,0,10,5
+Austin,207,"Railroad Commissioner",,GRN,"Eddie Espinoza",4,0,2,2
+Austin,207,"Railroad Commissioner",,,Write-ins,0,0,0,0
+Austin,207,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",516,16,295,205
+Austin,207,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",62,3,35,24
+Austin,207,"Justice, Supreme Court, Place 4",,REP,"John Devine",519,15,296,208
+Austin,207,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",67,3,39,25
+Austin,207,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",506,15,288,203
+Austin,207,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",67,3,39,25
+Austin,207,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",13,0,8,5
+Austin,207,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",515,13,296,206
+Austin,207,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",67,3,39,25
+Austin,207,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",515,14,296,205
+Austin,207,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",66,3,37,26
+Austin,207,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",519,15,298,206
+Austin,207,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",59,3,33,23
+Austin,207,"Member, State Board of Education, District 10",,REP,"Tom Maynard",520,15,297,208
+Austin,207,"Member, State Board of Education, District 10",,DEM,"Raquel Saenz Ortiz",65,3,36,24
+Austin,207,"State Representative",85,REP,"Stan Kitzman",527,13,301,213
+Austin,207,"Justice, 1st Court of Appeals, Place 2",,REP,"Jennifer Caughey",515,14,296,205
+Austin,207,"Justice, 1st Court of Appeals, Place 2",,DEM,"Brendetta Scott",63,3,36,24
+Austin,207,"Justice, 1st Court of Appeals, Place 6",,REP,"Andrew Johnson",519,16,296,207
+Austin,207,"Justice, 1st Court of Appeals, Place 6",,DEM,"Sarah Beth Landau",64,3,36,25
+Austin,207,"Justice, 1st Court of Appeals, Place 7",,REP,"Clint Morgan",512,16,294,202
+Austin,207,"Justice, 1st Court of Appeals, Place 7",,DEM,"Julie Countiss",66,3,37,26
+Austin,207,"Justice, 1st Court of Appeals, Place 8",,REP,"Kristin M. Guiney",507,15,294,198
+Austin,207,"Justice, 1st Court of Appeals, Place 8",,DEM,"Richard Hightower",72,3,38,31
+Austin,207,"Justice, 1st Court of Appeals, Place 9",,REP,"Susanna Dokupil",510,14,295,201
+Austin,207,"Justice, 1st Court of Appeals, Place 9",,DEM,"Amber Boyd-Cora",63,3,34,26
+Austin,207,"Justice, 14th Court of Appeals, Place 3",,REP,"Chad Bridges",513,15,296,203
+Austin,207,"Justice, 14th Court of Appeals, Place 3",,DEM,"Velda Renita Faulkner",62,3,35,24
+Austin,207,"Justice, 14th Court of Appeals, Place 4",,REP,"Tonya McLaughlin",511,15,294,202
+Austin,207,"Justice, 14th Court of Appeals, Place 4",,DEM,"Charles Spain",64,3,37,24
+Austin,207,"Justice, 14th Court of Appeals, Place 5",,REP,"Maritza Michele Antu",508,15,293,200
+Austin,207,"Justice, 14th Court of Appeals, Place 5",,DEM,"Frances Bourliot",63,3,35,25
+Austin,207,"Justice, 14th Court of Appeals, Place 6",,REP,"Katy Boatman",511,15,297,199
+Austin,207,"Justice, 14th Court of Appeals, Place 6",,DEM,"Meagan Hassan",60,3,33,24
+Austin,207,"Justice, 14th Court of Appeals, Place 8",,REP,"Brad Hart",513,15,296,202
+Austin,207,"Justice, 14th Court of Appeals, Place 8",,DEM,"Margaret 'Meg' Poissant",59,3,34,22
+Austin,207,"County Clerk - Unexpired Term",,REP,"Diane Day",537,15,304,218
+Austin,207,"Sheriff",,REP,"Jack W. Brandes",531,17,303,211
+Austin,207,"County Tax Assessor-Collector",,REP,"Kim Rinn",547,17,307,223
+Austin,207,"Justice of the Peace, Precinct 2 - Unexpired Term",,REP,"Todd A. Morris",201,13,115,73
+Austin,207,"Justice of the Peace, Precinct 2 - Unexpired Term",,IND,"Wesley O'Brien Peschel",382,6,214,162
+Austin,207,"Constable",2,REP,"Dave Schulz",551,17,311,223
+Austin,208,"President",,REP,"Donald J. Trump",448,17,277,154
+Austin,208,"President",,DEM,"Kamala D. Harris",103,5,68,30
+Austin,208,"President",,LIB,"Chase Oliver",1,0,1,0
+Austin,208,"President",,GRN,"Jill Stein",3,0,0,3
+Austin,208,"President",,,Write-ins,0,0,0,0
+Austin,208,"U.S. Senate",,REP,"Ted Cruz",433,16,270,147
+Austin,208,"U.S. Senate",,DEM,"Colin Allred",67,5,34,34
+Austin,208,"U.S. Senate",,LIB,"Ted Brown",11,0,6,5
+Austin,208,"U.S. Senate",,,Write-ins,0,0,0,0
+Austin,208,"U.S. House",10,REP,"Michael T. McCaul",454,15,280,159
+Austin,208,"U.S. House",10,DEM,"Theresa Boisseau",82,4,54,24
+Austin,208,"U.S. House",10,LIB,"Jeff Miller",6,0,4,2
+Austin,208,"Railroad Commissioner",,REP,"Christi Craddick",440,15,278,147
+Austin,208,"Railroad Commissioner",,DEM,"Katherine Culbert",76,2,50,24
+Austin,208,"Railroad Commissioner",,LIB,"Hawk Dunlap",13,1,6,6
+Austin,208,"Railroad Commissioner",,GRN,"Eddie Espinoza",9,0,6,3
+Austin,208,"Railroad Commissioner",,,Write-ins,0,0,0,0
+Austin,208,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",459,16,288,155
+Austin,208,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",80,3,51,26
+Austin,208,"Justice, Supreme Court, Place 4",,REP,"John Devine",445,16,277,152
+Austin,208,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",88,3,60,25
+Austin,208,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",440,15,275,150
+Austin,208,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",92,3,62,27
+Austin,208,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",5,0,3,2
+Austin,208,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",447,16,281,150
+Austin,208,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",86,3,55,28
+Austin,208,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",442,16,276,150
+Austin,208,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",92,3,63,26
+Austin,208,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",452,16,283,153
+Austin,208,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",81,3,56,22
+Austin,208,"Member, State Board of Education, District 10",,REP,"Tom Maynard",451,16,284,151
+Austin,208,"Member, State Board of Education, District 10",,DEM,"Raquel Saenz Ortiz",81,3,53,25
+Austin,208,"State Representative",85,REP,"Stan Kitzman",472,16,296,160
+Austin,208,"Justice, 1st Court of Appeals, Place 2",,REP,"Jennifer Caughey",450,16,282,152
+Austin,208,"Justice, 1st Court of Appeals, Place 2",,DEM,"Brendetta Scott",83,3,57,23
+Austin,208,"Justice, 1st Court of Appeals, Place 6",,REP,"Andrew Johnson",443,16,280,147
+Austin,208,"Justice, 1st Court of Appeals, Place 6",,DEM,"Sarah Beth Landau",89,3,58,28
+Austin,208,"Justice, 1st Court of Appeals, Place 7",,REP,"Clint Morgan",445,16,278,151
+Austin,208,"Justice, 1st Court of Appeals, Place 7",,DEM,"Julie Countiss",88,3,59,26
+Austin,208,"Justice, 1st Court of Appeals, Place 8",,REP,"Kristin M. Guiney",447,16,280,151
+Austin,208,"Justice, 1st Court of Appeals, Place 8",,DEM,"Richard Hightower",86,3,59,24
+Austin,208,"Justice, 1st Court of Appeals, Place 9",,REP,"Susanna Dokupil",444,16,278,150
+Austin,208,"Justice, 1st Court of Appeals, Place 9",,DEM,"Amber Boyd-Cora",89,3,60,26
+Austin,208,"Justice, 14th Court of Appeals, Place 3",,REP,"Chad Bridges",447,15,283,149
+Austin,208,"Justice, 14th Court of Appeals, Place 3",,DEM,"Velda Renita Faulkner",83,3,55,25
+Austin,208,"Justice, 14th Court of Appeals, Place 4",,REP,"Tonya McLaughlin",443,16,279,148
+Austin,208,"Justice, 14th Court of Appeals, Place 4",,DEM,"Charles Spain",87,3,59,25
+Austin,208,"Justice, 14th Court of Appeals, Place 5",,REP,"Maritza Michele Antu",439,16,276,147
+Austin,208,"Justice, 14th Court of Appeals, Place 5",,DEM,"Frances Bourliot",88,3,58,27
+Austin,208,"Justice, 14th Court of Appeals, Place 6",,REP,"Katy Boatman",452,16,284,152
+Austin,208,"Justice, 14th Court of Appeals, Place 6",,DEM,"Meagan Hassan",80,3,54,23
+Austin,208,"Justice, 14th Court of Appeals, Place 8",,REP,"Brad Hart",448,16,280,152
+Austin,208,"Justice, 14th Court of Appeals, Place 8",,DEM,"Margaret 'Meg' Poissant",80,3,54,23
+Austin,208,"County Clerk - Unexpired Term",,REP,"Diane Day",476,16,299,161
+Austin,208,"Sheriff",,REP,"Jack W. Brandes",484,15,307,162
+Austin,208,"County Tax Assessor-Collector",,REP,"Kim Rinn",494,16,309,169
+Austin,208,"Justice of the Peace, Precinct 2 - Unexpired Term",,REP,"Todd A. Morris",234,12,154,68
+Austin,208,"Justice of the Peace, Precinct 2 - Unexpired Term",,IND,"Wesley O'Brien Peschel",293,6,176,111
+Austin,208,"Constable",2,REP,"Dave Schulz",500,18,312,170
+Austin,309,"President",,REP,"Donald J. Trump",501,6,395,100
+Austin,309,"President",,DEM,"Kamala D. Harris",55,5,39,11
+Austin,309,"President",,LIB,"Chase Oliver",1,0,0,1
+Austin,309,"President",,GRN,"Jill Stein",2,0,1,1
+Austin,309,"President",,,Write-ins,3,0,3,0
+Austin,309,"U.S. Senate",,REP,"Ted Cruz",495,6,393,96
+Austin,309,"U.S. Senate",,DEM,"Colin Allred",57,5,39,13
+Austin,309,"U.S. Senate",,LIB,"Ted Brown",7,0,4,3
+Austin,309,"U.S. Senate",,,Write-ins,0,0,0,0
+Austin,309,"U.S. House",10,REP,"Michael T. McCaul",501,6,392,103
+Austin,309,"U.S. House",10,DEM,"Theresa Boisseau",38,5,26,7
+Austin,309,"U.S. House",10,LIB,"Jeff Miller",8,0,7,1
+Austin,309,"Railroad Commissioner",,REP,"Christi Craddick",487,6,384,97
+Austin,309,"Railroad Commissioner",,DEM,"Katherine Culbert",42,5,30,7
+Austin,309,"Railroad Commissioner",,LIB,"Hawk Dunlap",8,0,5,3
+Austin,309,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,1,1
+Austin,309,"Railroad Commissioner",,,Write-ins,0,0,0,0
+Austin,309,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",504,6,395,103
+Austin,309,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",37,5,25,7
+Austin,309,"Justice, Supreme Court, Place 4",,REP,"John Devine",495,5,390,100
+Austin,309,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",44,5,30,9
+Austin,309,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",490,5,387,98
+Austin,309,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",36,5,27,4
+Austin,309,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",10,0,6,4
+Austin,309,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",494,5,390,99
+Austin,309,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",43,5,29,9
+Austin,309,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",496,5,390,101
+Austin,309,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",40,5,28,7
+Austin,309,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",493,5,389,99
+Austin,309,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",39,5,26,8
+Austin,309,"Member, State Board of Education, District 10",,REP,"Tom Maynard",486,5,382,99
+Austin,309,"Member, State Board of Education, District 10",,DEM,"Raquel Saenz Ortiz",45,5,31,9
+Austin,309,"State Representative",85,REP,"Stan Kitzman",499,6,394,99
+Austin,309,"Justice, 1st Court of Appeals, Place 2",,REP,"Jennifer Caughey",495,5,390,100
+Austin,309,"Justice, 1st Court of Appeals, Place 2",,DEM,"Brendetta Scott",39,5,27,7
+Austin,309,"Justice, 1st Court of Appeals, Place 6",,REP,"Andrew Johnson",494,5,389,100
+Austin,309,"Justice, 1st Court of Appeals, Place 6",,DEM,"Sarah Beth Landau",40,4,30,6
+Austin,309,"Justice, 1st Court of Appeals, Place 7",,REP,"Clint Morgan",494,5,390,99
+Austin,309,"Justice, 1st Court of Appeals, Place 7",,DEM,"Julie Countiss",40,4,30,6
+Austin,309,"Justice, 1st Court of Appeals, Place 8",,REP,"Kristin M. Guiney",494,5,390,99
+Austin,309,"Justice, 1st Court of Appeals, Place 8",,DEM,"Richard Hightower",38,5,28,7
+Austin,309,"Justice, 1st Court of Appeals, Place 9",,REP,"Susanna Dokupil",493,5,390,98
+Austin,309,"Justice, 1st Court of Appeals, Place 9",,DEM,"Amber Boyd-Cora",37,5,26,6
+Austin,309,"Justice, 14th Court of Appeals, Place 3",,REP,"Chad Bridges",493,5,391,97
+Austin,309,"Justice, 14th Court of Appeals, Place 3",,DEM,"Velda Renita Faulkner",38,5,26,7
+Austin,309,"Justice, 14th Court of Appeals, Place 4",,REP,"Tonya McLaughlin",492,5,390,97
+Austin,309,"Justice, 14th Court of Appeals, Place 4",,DEM,"Charles Spain",40,5,27,8
+Austin,309,"Justice, 14th Court of Appeals, Place 5",,REP,"Maritza Michele Antu",496,5,391,100
+Austin,309,"Justice, 14th Court of Appeals, Place 5",,DEM,"Frances Bourliot",38,5,27,6
+Austin,309,"Justice, 14th Court of Appeals, Place 6",,REP,"Katy Boatman",497,5,392,100
+Austin,309,"Justice, 14th Court of Appeals, Place 6",,DEM,"Meagan Hassan",37,5,26,6
+Austin,309,"Justice, 14th Court of Appeals, Place 8",,REP,"Brad Hart",493,6,389,98
+Austin,309,"Justice, 14th Court of Appeals, Place 8",,DEM,"Margaret 'Meg' Poissant",40,5,29,6
+Austin,309,"County Clerk - Unexpired Term",,REP,"Diane Day",516,8,404,104
+Austin,309,"Sheriff",,REP,"Jack W. Brandes",509,8,399,102
+Austin,309,"County Tax Assessor-Collector",,REP,"Kim Rinn",513,8,400,105
+Austin,309,"County Commissioner",3,REP,"Leroy Cerny",507,8,394,105
+Austin,309,"Constable",3,REP,"Ronnie Griffin",490,7,384,99
+Austin,310,"President",,REP,"Donald J. Trump",1669,45,1401,223
+Austin,310,"President",,DEM,"Kamala D. Harris",402,29,305,68
+Austin,310,"President",,LIB,"Chase Oliver",10,0,8,2
+Austin,310,"President",,GRN,"Jill Stein",7,0,2,5
+Austin,310,"President",,,Write-ins,3,0,1,2
+Austin,310,"U.S. Senate",,REP,"Ted Cruz",1581,44,1338,199
+Austin,310,"U.S. Senate",,DEM,"Colin Allred",439,30,328,81
+Austin,310,"U.S. Senate",,LIB,"Ted Brown",46,0,32,14
+Austin,310,"U.S. Senate",,,Write-ins,2,0,2,0
+Austin,310,"U.S. House",10,REP,"Michael T. McCaul",1648,47,1388,213
+Austin,310,"U.S. House",10,DEM,"Theresa Boisseau",343,27,257,59
+Austin,310,"U.S. House",10,LIB,"Jeff Miller",38,0,24,14
+Austin,310,"Railroad Commissioner",,REP,"Christi Craddick",1618,44,1370,204
+Austin,310,"Railroad Commissioner",,DEM,"Katherine Culbert",341,26,252,63
+Austin,310,"Railroad Commissioner",,LIB,"Hawk Dunlap",50,2,36,12
+Austin,310,"Railroad Commissioner",,GRN,"Eddie Espinoza",21,0,15,6
+Austin,310,"Railroad Commissioner",,,Write-ins,0,0,0,0
+Austin,310,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1658,44,1400,214
+Austin,310,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",368,26,271,71
+Austin,310,"Justice, Supreme Court, Place 4",,REP,"John Devine",1655,43,1392,219
+Austin,310,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",373,26,277,70
+Austin,310,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",1632,45,1373,214
+Austin,310,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",359,24,269,66
+Austin,310,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",33,1,24,8
+Austin,310,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1657,43,1394,220
+Austin,310,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",365,26,271,68
+Austin,310,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1666,43,1398,225
+Austin,310,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",350,26,263,61
+Austin,310,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1678,44,1411,223
+Austin,310,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",335,24,250,61
+Austin,310,"Member, State Board of Education, District 10",,REP,"Tom Maynard",1630,43,1375,212
+Austin,310,"Member, State Board of Education, District 10",,DEM,"Raquel Saenz Ortiz",378,26,278,74
+Austin,310,"State Representative",85,REP,"Stan Kitzman",1770,53,1468,249
+Austin,310,"Justice, 1st Court of Appeals, Place 2",,REP,"Jennifer Caughey",1650,43,1387,220
+Austin,310,"Justice, 1st Court of Appeals, Place 2",,DEM,"Brendetta Scott",356,27,264,65
+Austin,310,"Justice, 1st Court of Appeals, Place 6",,REP,"Andrew Johnson",1647,44,1384,219
+Austin,310,"Justice, 1st Court of Appeals, Place 6",,DEM,"Sarah Beth Landau",362,26,271,65
+Austin,310,"Justice, 1st Court of Appeals, Place 7",,REP,"Clint Morgan",1650,44,1387,219
+Austin,310,"Justice, 1st Court of Appeals, Place 7",,DEM,"Julie Countiss",352,26,264,62
+Austin,310,"Justice, 1st Court of Appeals, Place 8",,REP,"Kristin M. Guiney",1630,43,1371,216
+Austin,310,"Justice, 1st Court of Appeals, Place 8",,DEM,"Richard Hightower",372,27,281,64
+Austin,310,"Justice, 1st Court of Appeals, Place 9",,REP,"Susanna Dokupil",1645,42,1385,218
+Austin,310,"Justice, 1st Court of Appeals, Place 9",,DEM,"Amber Boyd-Cora",355,26,267,62
+Austin,310,"Justice, 14th Court of Appeals, Place 3",,REP,"Chad Bridges",1639,43,1384,212
+Austin,310,"Justice, 14th Court of Appeals, Place 3",,DEM,"Velda Renita Faulkner",361,27,265,69
+Austin,310,"Justice, 14th Court of Appeals, Place 4",,REP,"Tonya McLaughlin",1643,42,1382,219
+Austin,310,"Justice, 14th Court of Appeals, Place 4",,DEM,"Charles Spain",353,27,265,61
+Austin,310,"Justice, 14th Court of Appeals, Place 5",,REP,"Maritza Michele Antu",1626,43,1365,218
+Austin,310,"Justice, 14th Court of Appeals, Place 5",,DEM,"Frances Bourliot",366,28,277,61
+Austin,310,"Justice, 14th Court of Appeals, Place 6",,REP,"Katy Boatman",1641,44,1383,214
+Austin,310,"Justice, 14th Court of Appeals, Place 6",,DEM,"Meagan Hassan",353,25,265,63
+Austin,310,"Justice, 14th Court of Appeals, Place 8",,REP,"Brad Hart",1632,45,1375,212
+Austin,310,"Justice, 14th Court of Appeals, Place 8",,DEM,"Margaret 'Meg' Poissant",362,25,268,69
+Austin,310,"County Clerk - Unexpired Term",,REP,"Diane Day",1792,57,1482,253
+Austin,310,"Sheriff",,REP,"Jack W. Brandes",1805,59,1499,247
+Austin,310,"County Tax Assessor-Collector",,REP,"Kim Rinn",1807,59,1500,248
+Austin,310,"County Commissioner",3,REP,"Leroy Cerny",1791,57,1485,249
+Austin,310,"Constable",3,REP,"Ronnie Griffin",1783,57,1476,250
+Austin,311,"President",,REP,"Donald J. Trump",369,12,287,70
+Austin,311,"President",,DEM,"Kamala D. Harris",229,5,172,52
+Austin,311,"President",,LIB,"Chase Oliver",4,0,2,2
+Austin,311,"President",,GRN,"Jill Stein",2,0,2,0
+Austin,311,"President",,,Write-ins,1,0,1,0
+Austin,311,"U.S. Senate",,REP,"Ted Cruz",343,11,274,58
+Austin,311,"U.S. Senate",,DEM,"Colin Allred",240,5,178,57
+Austin,311,"U.S. Senate",,LIB,"Ted Brown",15,1,10,4
+Austin,311,"U.S. Senate",,,Write-ins,1,0,1,0
+Austin,311,"U.S. House",10,REP,"Michael T. McCaul",351,11,286,54
+Austin,311,"U.S. House",10,DEM,"Theresa Boisseau",212,6,155,51
+Austin,311,"U.S. House",10,LIB,"Jeff Miller",14,0,10,4
+Austin,311,"Railroad Commissioner",,REP,"Christi Craddick",338,11,277,50
+Austin,311,"Railroad Commissioner",,DEM,"Katherine Culbert",206,5,153,48
+Austin,311,"Railroad Commissioner",,LIB,"Hawk Dunlap",17,0,15,2
+Austin,311,"Railroad Commissioner",,GRN,"Eddie Espinoza",19,1,7,11
+Austin,311,"Railroad Commissioner",,,Write-ins,1,0,1,0
+Austin,311,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",359,12,294,53
+Austin,311,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",219,4,157,58
+Austin,311,"Justice, Supreme Court, Place 4",,REP,"John Devine",355,12,289,54
+Austin,311,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",219,4,158,57
+Austin,311,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",341,11,278,52
+Austin,311,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",213,5,158,50
+Austin,311,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",23,0,13,10
+Austin,311,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",353,10,290,53
+Austin,311,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",219,5,157,57
+Austin,311,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",353,11,289,53
+Austin,311,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",220,4,160,56
+Austin,311,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",355,12,285,58
+Austin,311,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",215,3,160,52
+Austin,311,"Member, State Board of Education, District 10",,REP,"Tom Maynard",339,12,274,53
+Austin,311,"Member, State Board of Education, District 10",,DEM,"Raquel Saenz Ortiz",232,3,171,58
+Austin,311,"State Representative",85,REP,"Stan Kitzman",422,11,335,76
+Austin,311,"Justice, 1st Court of Appeals, Place 2",,REP,"Jennifer Caughey",355,11,287,57
+Austin,311,"Justice, 1st Court of Appeals, Place 2",,DEM,"Brendetta Scott",218,6,160,52
+Austin,311,"Justice, 1st Court of Appeals, Place 6",,REP,"Andrew Johnson",347,11,278,58
+Austin,311,"Justice, 1st Court of Appeals, Place 6",,DEM,"Sarah Beth Landau",221,5,167,50
+Austin,311,"Justice, 1st Court of Appeals, Place 7",,REP,"Clint Morgan",349,11,277,61
+Austin,311,"Justice, 1st Court of Appeals, Place 7",,DEM,"Julie Countiss",223,5,167,51
+Austin,311,"Justice, 1st Court of Appeals, Place 8",,REP,"Kristin M. Guiney",348,11,281,56
+Austin,311,"Justice, 1st Court of Appeals, Place 8",,DEM,"Richard Hightower",221,6,161,54
+Austin,311,"Justice, 1st Court of Appeals, Place 9",,REP,"Susanna Dokupil",344,10,277,57
+Austin,311,"Justice, 1st Court of Appeals, Place 9",,DEM,"Amber Boyd-Cora",223,5,165,53
+Austin,311,"Justice, 14th Court of Appeals, Place 3",,REP,"Chad Bridges",354,11,284,59
+Austin,311,"Justice, 14th Court of Appeals, Place 3",,DEM,"Velda Renita Faulkner",216,5,158,53
+Austin,311,"Justice, 14th Court of Appeals, Place 4",,REP,"Tonya McLaughlin",360,12,288,60
+Austin,311,"Justice, 14th Court of Appeals, Place 4",,DEM,"Charles Spain",213,4,157,52
+Austin,311,"Justice, 14th Court of Appeals, Place 5",,REP,"Maritza Michele Antu",345,11,279,55
+Austin,311,"Justice, 14th Court of Appeals, Place 5",,DEM,"Frances Bourliot",221,5,160,56
+Austin,311,"Justice, 14th Court of Appeals, Place 6",,REP,"Katy Boatman",352,12,284,56
+Austin,311,"Justice, 14th Court of Appeals, Place 6",,DEM,"Meagan Hassan",217,4,159,54
+Austin,311,"Justice, 14th Court of Appeals, Place 8",,REP,"Brad Hart",351,11,282,58
+Austin,311,"Justice, 14th Court of Appeals, Place 8",,DEM,"Margaret 'Meg' Poissant",215,5,158,52
+Austin,311,"County Clerk - Unexpired Term",,REP,"Diane Day",465,14,362,89
+Austin,311,"Sheriff",,REP,"Jack W. Brandes",465,12,369,84
+Austin,311,"County Tax Assessor-Collector",,REP,"Kim Rinn",468,14,371,83
+Austin,311,"County Commissioner",3,REP,"Leroy Cerny",453,12,353,88
+Austin,311,"Constable",3,REP,"Ronnie Griffin",457,12,359,86
+Austin,412,"President",,REP,"Donald J. Trump",343,8,259,76
+Austin,412,"President",,DEM,"Kamala D. Harris",123,1,73,49
+Austin,412,"President",,LIB,"Chase Oliver",1,0,0,1
+Austin,412,"President",,GRN,"Jill Stein",0,0,0,0
+Austin,412,"President",,,Write-ins,0,0,0,0
+Austin,412,"U.S. Senate",,REP,"Ted Cruz",333,8,252,73
+Austin,412,"U.S. Senate",,DEM,"Colin Allred",127,1,75,51
+Austin,412,"U.S. Senate",,LIB,"Ted Brown",6,0,4,2
+Austin,412,"U.S. Senate",,,Write-ins,0,0,0,0
+Austin,412,"U.S. House",10,REP,"Michael T. McCaul",337,8,253,76
+Austin,412,"U.S. House",10,DEM,"Theresa Boisseau",111,1,68,42
+Austin,412,"U.S. House",10,LIB,"Jeff Miller",5,0,3,2
+Austin,412,"Railroad Commissioner",,REP,"Christi Craddick",326,8,249,69
+Austin,412,"Railroad Commissioner",,DEM,"Katherine Culbert",112,1,68,43
+Austin,412,"Railroad Commissioner",,LIB,"Hawk Dunlap",10,0,8,2
+Austin,412,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,0,3
+Austin,412,"Railroad Commissioner",,,Write-ins,1,0,1,0
+Austin,412,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",338,8,256,74
+Austin,412,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",116,1,70,45
+Austin,412,"Justice, Supreme Court, Place 4",,REP,"John Devine",334,8,252,74
+Austin,412,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",114,1,69,44
+Austin,412,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",329,8,247,74
+Austin,412,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",111,1,70,40
+Austin,412,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",9,0,4,5
+Austin,412,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",330,7,250,73
+Austin,412,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",115,1,68,46
+Austin,412,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",328,8,248,72
+Austin,412,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",118,1,71,46
+Austin,412,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",329,7,251,71
+Austin,412,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",113,1,67,45
+Austin,412,"Member, State Board of Education, District 10",,REP,"Tom Maynard",329,8,248,73
+Austin,412,"Member, State Board of Education, District 10",,DEM,"Raquel Saenz Ortiz",118,1,71,46
+Austin,412,"State Representative",85,REP,"Stan Kitzman",356,6,268,82
+Austin,412,"Justice, 1st Court of Appeals, Place 2",,REP,"Jennifer Caughey",327,8,246,73
+Austin,412,"Justice, 1st Court of Appeals, Place 2",,DEM,"Brendetta Scott",115,1,71,43
+Austin,412,"Justice, 1st Court of Appeals, Place 6",,REP,"Andrew Johnson",332,8,250,74
+Austin,412,"Justice, 1st Court of Appeals, Place 6",,DEM,"Sarah Beth Landau",112,1,68,43
+Austin,412,"Justice, 1st Court of Appeals, Place 7",,REP,"Clint Morgan",324,8,246,70
+Austin,412,"Justice, 1st Court of Appeals, Place 7",,DEM,"Julie Countiss",117,1,73,43
+Austin,412,"Justice, 1st Court of Appeals, Place 8",,REP,"Kristin M. Guiney",328,8,246,74
+Austin,412,"Justice, 1st Court of Appeals, Place 8",,DEM,"Richard Hightower",111,1,70,40
+Austin,412,"Justice, 1st Court of Appeals, Place 9",,REP,"Susanna Dokupil",326,7,249,70
+Austin,412,"Justice, 1st Court of Appeals, Place 9",,DEM,"Amber Boyd-Cora",112,1,69,42
+Austin,412,"Justice, 14th Court of Appeals, Place 3",,REP,"Chad Bridges",324,7,247,70
+Austin,412,"Justice, 14th Court of Appeals, Place 3",,DEM,"Velda Renita Faulkner",114,1,70,43
+Austin,412,"Justice, 14th Court of Appeals, Place 4",,REP,"Tonya McLaughlin",328,7,247,74
+Austin,412,"Justice, 14th Court of Appeals, Place 4",,DEM,"Charles Spain",111,1,71,39
+Austin,412,"Justice, 14th Court of Appeals, Place 5",,REP,"Maritza Michele Antu",323,7,245,71
+Austin,412,"Justice, 14th Court of Appeals, Place 5",,DEM,"Frances Bourliot",116,1,73,42
+Austin,412,"Justice, 14th Court of Appeals, Place 6",,REP,"Katy Boatman",325,7,246,72
+Austin,412,"Justice, 14th Court of Appeals, Place 6",,DEM,"Meagan Hassan",113,1,71,41
+Austin,412,"Justice, 14th Court of Appeals, Place 8",,REP,"Brad Hart",325,7,247,71
+Austin,412,"Justice, 14th Court of Appeals, Place 8",,DEM,"Margaret 'Meg' Poissant",113,1,70,42
+Austin,412,"County Clerk - Unexpired Term",,REP,"Diane Day",367,8,277,82
+Austin,412,"Sheriff",,REP,"Jack W. Brandes",366,9,272,85
+Austin,412,"County Tax Assessor-Collector",,REP,"Kim Rinn",382,9,281,92
+Austin,412,"Constable",4,REP,"James Clark",353,8,265,80
+Austin,413,"President",,REP,"Donald J. Trump",877,24,653,200
+Austin,413,"President",,DEM,"Kamala D. Harris",168,6,106,56
+Austin,413,"President",,LIB,"Chase Oliver",3,2,1,0
+Austin,413,"President",,GRN,"Jill Stein",5,0,4,1
+Austin,413,"President",,,Write-ins,1,0,1,0
+Austin,413,"U.S. Senate",,REP,"Ted Cruz",848,27,632,189
+Austin,413,"U.S. Senate",,DEM,"Colin Allred",180,3,116,61
+Austin,413,"U.S. Senate",,LIB,"Ted Brown",21,2,13,6
+Austin,413,"U.S. Senate",,,Write-ins,0,0,0,0
+Austin,413,"U.S. House",10,REP,"Michael T. McCaul",882,23,652,207
+Austin,413,"U.S. House",10,DEM,"Theresa Boisseau",134,3,89,42
+Austin,413,"U.S. House",10,LIB,"Jeff Miller",11,1,6,4
+Austin,413,"Railroad Commissioner",,REP,"Christi Craddick",855,25,632,198
+Austin,413,"Railroad Commissioner",,DEM,"Katherine Culbert",133,2,91,40
+Austin,413,"Railroad Commissioner",,LIB,"Hawk Dunlap",19,2,12,5
+Austin,413,"Railroad Commissioner",,GRN,"Eddie Espinoza",16,0,11,5
+Austin,413,"Railroad Commissioner",,,Write-ins,0,0,0,0
+Austin,413,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",883,27,649,207
+Austin,413,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",144,3,96,45
+Austin,413,"Justice, Supreme Court, Place 4",,REP,"John Devine",870,27,645,198
+Austin,413,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",148,3,97,48
+Austin,413,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",867,26,642,199
+Austin,413,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",130,3,88,39
+Austin,413,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",20,1,11,8
+Austin,413,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",873,27,647,199
+Austin,413,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",140,3,93,44
+Austin,413,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",880,28,648,204
+Austin,413,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",133,2,92,39
+Austin,413,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",877,27,643,207
+Austin,413,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",138,2,96,40
+Austin,413,"Member, State Board of Education, District 10",,REP,"Tom Maynard",863,26,640,197
+Austin,413,"Member, State Board of Education, District 10",,DEM,"Raquel Saenz Ortiz",151,3,100,48
+Austin,413,"State Representative",85,REP,"Stan Kitzman",907,25,660,222
+Austin,413,"Justice, 1st Court of Appeals, Place 2",,REP,"Jennifer Caughey",874,27,642,205
+Austin,413,"Justice, 1st Court of Appeals, Place 2",,DEM,"Brendetta Scott",138,2,95,41
+Austin,413,"Justice, 1st Court of Appeals, Place 6",,REP,"Andrew Johnson",876,26,648,201
+Austin,413,"Justice, 1st Court of Appeals, Place 6",,DEM,"Sarah Beth Landau",142,3,94,45
+Austin,413,"Justice, 1st Court of Appeals, Place 7",,REP,"Clint Morgan",876,26,645,205
+Austin,413,"Justice, 1st Court of Appeals, Place 7",,DEM,"Julie Countiss",138,3,94,41
+Austin,413,"Justice, 1st Court of Appeals, Place 8",,REP,"Kristin M. Guiney",872,27,639,206
+Austin,413,"Justice, 1st Court of Appeals, Place 8",,DEM,"Richard Hightower",141,3,96,42
+Austin,413,"Justice, 1st Court of Appeals, Place 9",,REP,"Susanna Dokupil",869,27,637,205
+Austin,413,"Justice, 1st Court of Appeals, Place 9",,DEM,"Amber Boyd-Cora",141,3,98,40
+Austin,413,"Justice, 14th Court of Appeals, Place 3",,REP,"Chad Bridges",870,27,643,200
+Austin,413,"Justice, 14th Court of Appeals, Place 3",,DEM,"Velda Renita Faulkner",140,3,92,45
+Austin,413,"Justice, 14th Court of Appeals, Place 4",,REP,"Tonya McLaughlin",875,27,639,209
+Austin,413,"Justice, 14th Court of Appeals, Place 4",,DEM,"Charles Spain",136,2,97,37
+Austin,413,"Justice, 14th Court of Appeals, Place 5",,REP,"Maritza Michele Antu",868,28,634,207
+Austin,413,"Justice, 14th Court of Appeals, Place 5",,DEM,"Frances Bourliot",141,2,101,38
+Austin,413,"Justice, 14th Court of Appeals, Place 6",,REP,"Katy Boatman",873,27,641,205
+Austin,413,"Justice, 14th Court of Appeals, Place 6",,DEM,"Meagan Hassan",137,2,95,40
+Austin,413,"Justice, 14th Court of Appeals, Place 8",,REP,"Brad Hart",938,28,728,182
+Austin,413,"Justice, 14th Court of Appeals, Place 8",,DEM,"Margaret 'Meg' Poissant",134,3,92,39
+Austin,413,"County Clerk - Unexpired Term",,REP,"Diane Day",922,28,667,227
+Austin,413,"Sheriff",,REP,"Jack W. Brandes",913,28,659,226
+Austin,413,"County Tax Assessor-Collector",,REP,"Kim Rinn",929,28,678,223
+Austin,413,"Constable",4,REP,"James Clark",884,28,640,216
+Austin,414,"President",,REP,"Donald J. Trump",971,27,750,194
+Austin,414,"President",,DEM,"Kamala D. Harris",277,10,198,69
+Austin,414,"President",,LIB,"Chase Oliver",5,0,2,3
+Austin,414,"President",,GRN,"Jill Stein",7,0,5,2
+Austin,414,"President",,,Write-ins,5,0,5,0
+Austin,414,"U.S. Senate",,REP,"Ted Cruz",916,27,713,176
+Austin,414,"U.S. Senate",,DEM,"Colin Allred",292,10,212,70
+Austin,414,"U.S. Senate",,LIB,"Ted Brown",37,1,26,10
+Austin,414,"U.S. Senate",,,Write-ins,1,0,1,0
+Austin,414,"U.S. House",10,REP,"Michael T. McCaul",948,30,734,184
+Austin,414,"U.S. House",10,DEM,"Theresa Boisseau",235,7,170,58
+Austin,414,"U.S. House",10,LIB,"Jeff Miller",31,1,18,12
+Austin,414,"Railroad Commissioner",,REP,"Christi Craddick",916,27,715,174
+Austin,414,"Railroad Commissioner",,DEM,"Katherine Culbert",231,9,169,53
+Austin,414,"Railroad Commissioner",,LIB,"Hawk Dunlap",32,1,21,10
+Austin,414,"Railroad Commissioner",,GRN,"Eddie Espinoza",28,1,16,11
+Austin,414,"Railroad Commissioner",,,Write-ins,1,0,1,0
+Austin,414,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",958,29,742,187
+Austin,414,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",247,8,176,63
+Austin,414,"Justice, Supreme Court, Place 4",,REP,"John Devine",953,28,740,185
+Austin,414,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",257,8,184,65
+Austin,414,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",931,28,724,179
+Austin,414,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",244,8,177,59
+Austin,414,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",35,1,19,15
+Austin,414,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",956,29,739,188
+Austin,414,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",249,8,180,61
+Austin,414,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",948,28,735,185
+Austin,414,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",253,9,183,61
+Austin,414,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",960,29,744,187
+Austin,414,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",242,7,175,60
+Austin,414,"Member, State Board of Education, District 10",,REP,"Tom Maynard",928,28,720,180
+Austin,414,"Member, State Board of Education, District 10",,DEM,"Raquel Saenz Ortiz",265,9,188,68
+Austin,414,"State Representative",85,REP,"Stan Kitzman",1035,33,793,209
+Austin,414,"Justice, 1st Court of Appeals, Place 2",,REP,"Jennifer Caughey",956,28,739,189
+Austin,414,"Justice, 1st Court of Appeals, Place 2",,DEM,"Brendetta Scott",243,9,177,57
+Austin,414,"Justice, 1st Court of Appeals, Place 6",,REP,"Andrew Johnson",949,28,738,183
+Austin,414,"Justice, 1st Court of Appeals, Place 6",,DEM,"Sarah Beth Landau",252,9,178,65
+Austin,414,"Justice, 1st Court of Appeals, Place 7",,REP,"Clint Morgan",942,29,731,182
+Austin,414,"Justice, 1st Court of Appeals, Place 7",,DEM,"Julie Countiss",252,8,180,64
+Austin,414,"Justice, 1st Court of Appeals, Place 8",,REP,"Kristin M. Guiney",941,28,729,184
+Austin,414,"Justice, 1st Court of Appeals, Place 8",,DEM,"Richard Hightower",251,9,182,60
+Austin,414,"Justice, 1st Court of Appeals, Place 9",,REP,"Susanna Dokupil",942,30,730,182
+Austin,414,"Justice, 1st Court of Appeals, Place 9",,DEM,"Amber Boyd-Cora",254,7,183,64
+Austin,414,"Justice, 14th Court of Appeals, Place 3",,REP,"Chad Bridges",942,27,732,182
+Austin,414,"Justice, 14th Court of Appeals, Place 3",,DEM,"Velda Renita Faulkner",247,9,177,61
+Austin,414,"Justice, 14th Court of Appeals, Place 4",,REP,"Tonya McLaughlin",946,29,736,181
+Austin,414,"Justice, 14th Court of Appeals, Place 4",,DEM,"Charles Spain",244,8,174,62
+Austin,414,"Justice, 14th Court of Appeals, Place 5",,REP,"Maritza Michele Antu",933,27,724,182
+Austin,414,"Justice, 14th Court of Appeals, Place 5",,DEM,"Frances Bourliot",257,10,185,62
+Austin,414,"Justice, 14th Court of Appeals, Place 6",,REP,"Katy Boatman",940,29,731,180
+Austin,414,"Justice, 14th Court of Appeals, Place 6",,DEM,"Meagan Hassan",247,8,175,64
+Austin,414,"Justice, 14th Court of Appeals, Place 8",,REP,"Brad Hart",938,28,728,182
+Austin,414,"Justice, 14th Court of Appeals, Place 8",,DEM,"Margaret 'Meg' Poissant",252,9,181,62
+Austin,414,"County Clerk - Unexpired Term",,REP,"Diane Day",1042,33,800,209
+Austin,414,"Sheriff",,REP,"Jack W. Brandes",1053,35,804,214
+Austin,414,"County Tax Assessor-Collector",,REP,"Kim Rinn",1071,36,820,215
+Austin,414,"Constable",4,REP,"James Clark",1017,33,772,212
+Austin,415,"President",,REP,"Donald J. Trump",811,23,443,345
+Austin,415,"President",,DEM,"Kamala D. Harris",233,10,125,98
+Austin,415,"President",,LIB,"Chase Oliver",1,0,0,1
+Austin,415,"President",,GRN,"Jill Stein",3,0,1,2
+Austin,415,"President",,,Write-ins,2,0,1,1
+Austin,415,"U.S. Senate",,REP,"Ted Cruz",768,22,427,319
+Austin,415,"U.S. Senate",,DEM,"Colin Allred",244,10,126,108
+Austin,415,"U.S. Senate",,LIB,"Ted Brown",27,1,12,14
+Austin,415,"U.S. Senate",,,Write-ins,1,0,1,0
+Austin,415,"U.S. House",10,REP,"Michael T. McCaul",788,22,431,335
+Austin,415,"U.S. House",10,DEM,"Theresa Boisseau",200,8,110,82
+Austin,415,"U.S. House",10,LIB,"Jeff Miller",28,1,14,13
+Austin,415,"Railroad Commissioner",,REP,"Christi Craddick",772,24,427,321
+Austin,415,"Railroad Commissioner",,DEM,"Katherine Culbert",201,7,107,87
+Austin,415,"Railroad Commissioner",,LIB,"Hawk Dunlap",21,1,11,9
+Austin,415,"Railroad Commissioner",,GRN,"Eddie Espinoza",21,0,10,11
+Austin,415,"Railroad Commissioner",,,Write-ins,2,0,0,2
+Austin,415,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",806,22,442,342
+Austin,415,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",206,8,114,84
+Austin,415,"Justice, Supreme Court, Place 4",,REP,"John Devine",800,23,441,336
+Austin,415,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",211,7,114,90
+Austin,415,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",790,22,437,331
+Austin,415,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",200,7,106,87
+Austin,415,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",17,0,8,9
+Austin,415,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",791,22,436,333
+Austin,415,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",211,6,117,88
+Austin,415,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",801,23,442,336
+Austin,415,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",205,6,113,86
+Austin,415,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",808,22,439,347
+Austin,415,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",197,6,113,78
+Austin,415,"Member, State Board of Education, District 10",,REP,"Tom Maynard",798,25,433,340
+Austin,415,"Member, State Board of Education, District 10",,DEM,"Raquel Saenz Ortiz",209,7,117,85
+Austin,415,"State Representative",85,REP,"Stan Kitzman",880,24,483,373
+Austin,415,"Justice, 1st Court of Appeals, Place 2",,REP,"Jennifer Caughey",790,23,433,334
+Austin,415,"Justice, 1st Court of Appeals, Place 2",,DEM,"Brendetta Scott",207,7,112,88
+Austin,415,"Justice, 1st Court of Appeals, Place 6",,REP,"Andrew Johnson",795,22,436,337
+Austin,415,"Justice, 1st Court of Appeals, Place 6",,DEM,"Sarah Beth Landau",205,8,111,86
+Austin,415,"Justice, 1st Court of Appeals, Place 7",,REP,"Clint Morgan",797,21,435,341
+Austin,415,"Justice, 1st Court of Appeals, Place 7",,DEM,"Julie Countiss",200,7,112,81
+Austin,415,"Justice, 1st Court of Appeals, Place 8",,REP,"Kristin M. Guiney",791,20,438,333
+Austin,415,"Justice, 1st Court of Appeals, Place 8",,DEM,"Richard Hightower",206,9,110,87
+Austin,415,"Justice, 1st Court of Appeals, Place 9",,REP,"Susanna Dokupil",796,22,440,334
+Austin,415,"Justice, 1st Court of Appeals, Place 9",,DEM,"Amber Boyd-Cora",198,6,107,85
+Austin,415,"Justice, 14th Court of Appeals, Place 3",,REP,"Chad Bridges",794,22,437,335
+Austin,415,"Justice, 14th Court of Appeals, Place 3",,DEM,"Velda Renita Faulkner",200,7,110,83
+Austin,415,"Justice, 14th Court of Appeals, Place 4",,REP,"Tonya McLaughlin",795,22,439,334
+Austin,415,"Justice, 14th Court of Appeals, Place 4",,DEM,"Charles Spain",196,7,106,83
+Austin,415,"Justice, 14th Court of Appeals, Place 5",,REP,"Maritza Michele Antu",784,21,436,327
+Austin,415,"Justice, 14th Court of Appeals, Place 5",,DEM,"Frances Bourliot",202,7,108,87
+Austin,415,"Justice, 14th Court of Appeals, Place 6",,REP,"Katy Boatman",801,20,440,341
+Austin,415,"Justice, 14th Court of Appeals, Place 6",,DEM,"Meagan Hassan",190,8,107,75
+Austin,415,"Justice, 14th Court of Appeals, Place 8",,REP,"Brad Hart",792,23,437,332
+Austin,415,"Justice, 14th Court of Appeals, Place 8",,DEM,"Margaret 'Meg' Poissant",199,6,108,85
+Austin,415,"County Clerk - Unexpired Term",,REP,"Diane Day",877,25,476,376
+Austin,415,"Sheriff",,REP,"Jack W. Brandes",891,27,482,382
+Austin,415,"County Tax Assessor-Collector",,REP,"Kim Rinn",907,29,490,388
+Austin,415,"Constable",4,REP,"James Clark",883,27,477,379
