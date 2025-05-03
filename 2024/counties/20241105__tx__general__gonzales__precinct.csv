@@ -1,0 +1,1436 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Gonzales,1,Registered Voters,,,,2847,,,
+Gonzales,1,Ballots Cast,,,,1729,74,1385,270
+Gonzales,1,Ballots Cast Blank,,,,0,0,0,0
+Gonzales,1,President,,REP,Donald J. Trump,1318,49,1084,185
+Gonzales,1,President,,DEM,Kamala D. Harris,389,23,285,81
+Gonzales,1,President,,LIB,Chase Oliver,8,1,7,0
+Gonzales,1,President,,GRN,Jill Stein,4,0,1,3
+Gonzales,1,President,,,Write-ins,4,0,3,1
+Gonzales,1,President,,,Over Votes,1,0,1,0
+Gonzales,1,President,,,Under Votes,5,1,4,0
+Gonzales,1,U.S. Senate,,REP,Ted Cruz,1239,45,1029,165
+Gonzales,1,U.S. Senate,,DEM,Colin Allred,427,25,311,91
+Gonzales,1,U.S. Senate,,LIB,Ted Brown,38,1,29,8
+Gonzales,1,U.S. Senate,,,Write-ins,0,0,0,0
+Gonzales,1,U.S. Senate,,,Over Votes,1,0,1,0
+Gonzales,1,U.S. Senate,,,Under Votes,24,3,15,6
+Gonzales,1,U.S. House,27,REP,Michael Cloud,1302,48,1075,179
+Gonzales,1,U.S. House,27,DEM,Tanya Lloyd,363,21,264,78
+Gonzales,1,U.S. House,27,,Over Votes,0,0,0,0
+Gonzales,1,U.S. House,27,,Under Votes,64,5,46,13
+Gonzales,1,Railroad Commissioner,,REP,Christi Craddick,1228,44,1023,161
+Gonzales,1,Railroad Commissioner,,DEM,Katherine Culbert,330,21,239,70
+Gonzales,1,Railroad Commissioner,,LIB,Hawk Dunlap,40,2,31,7
+Gonzales,1,Railroad Commissioner,,GRN,Eddie Espinoza,56,2,39,15
+Gonzales,1,Railroad Commissioner,,,Write-ins,3,0,3,0
+Gonzales,1,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gonzales,1,Railroad Commissioner,,,Under Votes,72,5,50,17
+Gonzales,1,"Justice, Supreme Court",2,REP,Jimmy Blacklock,1279,47,1056,176
+Gonzales,1,"Justice, Supreme Court",2,DEM,DaSean Jones,371,20,273,78
+Gonzales,1,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Gonzales,1,"Justice, Supreme Court",2,,Under Votes,79,7,56,16
+Gonzales,1,"Justice, Supreme Court",4,REP,John Devine,1265,45,1048,172
+Gonzales,1,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,373,20,273,80
+Gonzales,1,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Gonzales,1,"Justice, Supreme Court",4,,Under Votes,90,9,63,18
+Gonzales,1,"Justice, Supreme Court",6,REP,Jane Bland,1236,44,1022,170
+Gonzales,1,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,358,21,267,70
+Gonzales,1,"Justice, Supreme Court",6,LIB,J. David Roberson,38,1,26,11
+Gonzales,1,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Gonzales,1,"Justice, Supreme Court",6,,Under Votes,97,8,70,19
+Gonzales,1,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1266,41,1047,178
+Gonzales,1,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,365,23,268,74
+Gonzales,1,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Gonzales,1,"Presiding Judge, Ct of Crim App",,,Under Votes,98,10,70,18
+Gonzales,1,"Judge, Ct of Crim App",7,REP,Gina Parker,1253,42,1034,177
+Gonzales,1,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,371,22,276,73
+Gonzales,1,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Gonzales,1,"Judge, Ct of Crim App",7,,Under Votes,105,10,75,20
+Gonzales,1,"Judge, Ct of Crim App",8,REP,Lee Finley,1261,43,1046,172
+Gonzales,1,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,360,21,263,76
+Gonzales,1,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Gonzales,1,"Judge, Ct of Crim App",8,,Under Votes,108,10,76,22
+Gonzales,1,"Member, State BoE",3,DEM,Marisa Perez-Diaz,699,32,528,139
+Gonzales,1,"Member, State BoE",3,,Over Votes,0,0,0,0
+Gonzales,1,"Member, State BoE",3,,Under Votes,1030,42,857,131
+Gonzales,1,State Representative,44,REP,Alan Schoolcraft,1218,44,1008,166
+Gonzales,1,State Representative,44,DEM,Eric Norman,400,22,300,78
+Gonzales,1,State Representative,44,,Over Votes,0,0,0,0
+Gonzales,1,State Representative,44,,Under Votes,111,8,77,26
+Gonzales,1,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,1228,42,1011,175
+Gonzales,1,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,373,23,278,72
+Gonzales,1,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Gonzales,1,"Chief Justice, 13th Ct of App Dist",,,Under Votes,128,9,96,23
+Gonzales,1,"Justice, 13th Ct of App Dist",2,REP,Jenny Cron,1217,42,1011,164
+Gonzales,1,"Justice, 13th Ct of App Dist",2,DEM,Nora Longoria,386,23,278,85
+Gonzales,1,"Justice, 13th Ct of App Dist",2,,Over Votes,0,0,0,0
+Gonzales,1,"Justice, 13th Ct of App Dist",2,,Under Votes,126,9,96,21
+Gonzales,1,"Justice, 13th Ct of App Dist",4,REP,Ysmael D. Fonseca,1220,41,1011,168
+Gonzales,1,"Justice, 13th Ct of App Dist",4,DEM,Joe Martinez,381,22,281,78
+Gonzales,1,"Justice, 13th Ct of App Dist",4,,Over Votes,0,0,0,0
+Gonzales,1,"Justice, 13th Ct of App Dist",4,,Under Votes,128,11,93,24
+Gonzales,1,"Justice, 13th Ct of App Dist",5,REP,Jon West,1255,43,1036,176
+Gonzales,1,"Justice, 13th Ct of App Dist",5,DEM,Regi Complian Richardson,352,20,259,73
+Gonzales,1,"Justice, 13th Ct of App Dist",5,,Over Votes,0,0,0,0
+Gonzales,1,"Justice, 13th Ct of App Dist",5,,Under Votes,122,11,90,21
+Gonzales,1,"Dist Judge, 25th Judicial Dist",,REP,Bill Old,1384,55,1129,200
+Gonzales,1,"Dist Judge, 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,1,"Dist Judge, 25th Judicial Dist",,,Under Votes,345,19,256,70
+Gonzales,1,"Dist Judge, 2nd 25th Judicial Dist",,REP,Jessica Richard Crawford,1360,49,1108,203
+Gonzales,1,"Dist Judge, 2nd 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,1,"Dist Judge, 2nd 25th Judicial Dist",,,Under Votes,369,25,277,67
+Gonzales,1,County Attorney,,REP,"Eduardo ""Eddie"" Xavier Escobar",1419,54,1150,215
+Gonzales,1,County Attorney,,,Over Votes,0,0,0,0
+Gonzales,1,County Attorney,,,Under Votes,310,20,235,55
+Gonzales,1,Sheriff,,REP,Keith A. Schmidt,1262,50,1029,183
+Gonzales,1,Sheriff,,DEM,Clay Allen,382,22,295,65
+Gonzales,1,Sheriff,,,Over Votes,0,0,0,0
+Gonzales,1,Sheriff,,,Under Votes,85,2,61,22
+Gonzales,1,County Tax Assessor-Collector,,REP,Crystal Cedillo,1412,54,1155,203
+Gonzales,1,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gonzales,1,County Tax Assessor-Collector,,,Under Votes,317,20,230,67
+Gonzales,1,County Commissioner,1,REP,"Anton W ""Tony"" Matias",1446,51,1179,216
+Gonzales,1,County Commissioner,1,Over Votes,0,0,0,0,
+Gonzales,1,County Commissioner,1,Under Votes,283,23,206,54,
+Gonzales,1,Constable,1,REP,Johnnie Hall,1370,55,1114,201
+Gonzales,1,Constable,1,Over Votes,0,0,0,0,
+Gonzales,1,Constable,1,Under Votes,359,19,271,69,
+Gonzales,1,Proposition A Yoakum ISD,,,For,13,0,11,2
+Gonzales,1,Proposition A Yoakum ISD,,,Against,14,0,12,2
+Gonzales,1,Proposition A Yoakum ISD,,,Over Votes,0,0,0,0
+Gonzales,1,Proposition A Yoakum ISD,,,Under Votes,3,0,3,0
+Gonzales,2,Registered Voters,,,,1953,,,
+Gonzales,2,Ballots Cast,,,,1036,50,806,180
+Gonzales,2,Ballots Cast Blank,,,,0,0,0,0
+Gonzales,2,President,,REP,Donald J. Trump,746,30,612,104
+Gonzales,2,President,,DEM,Kamala D. Harris,278,20,186,72
+Gonzales,2,President,,LIB,Chase Oliver,4,0,1,3
+Gonzales,2,President,,GRN,Jill Stein,4,0,4,0
+Gonzales,2,President,,,Write-ins,1,0,0,1
+Gonzales,2,President,,,Over Votes,0,0,0,0
+Gonzales,2,President,,,Under Votes,3,0,3,0
+Gonzales,2,U.S. Senate,,REP,Ted Cruz,690,30,579,81
+Gonzales,2,U.S. Senate,,DEM,Colin Allred,307,20,205,82
+Gonzales,2,U.S. Senate,,LIB,Ted Brown,19,0,10,9
+Gonzales,2,U.S. Senate,,,Write-ins,2,0,0,2
+Gonzales,2,U.S. Senate,,,Over Votes,0,0,0,0
+Gonzales,2,U.S. Senate,,,Under Votes,18,0,12,6
+Gonzales,2,U.S. House,27,REP,Michael Cloud,734,30,606,98
+Gonzales,2,U.S. House,27,DEM,Tanya Lloyd,257,20,169,68
+Gonzales,2,U.S. House,27,,Over Votes,0,0,0,0
+Gonzales,2,U.S. House,27,,Under Votes,45,0,31,14
+Gonzales,2,Railroad Commissioner,,REP,Christi Craddick,689,30,570,89
+Gonzales,2,Railroad Commissioner,,DEM,Katherine Culbert,239,19,160,60
+Gonzales,2,Railroad Commissioner,,LIB,Hawk Dunlap,24,1,19,4
+Gonzales,2,Railroad Commissioner,,GRN,Eddie Espinoza,35,0,25,10
+Gonzales,2,Railroad Commissioner,,,Write-ins,0,0,0,0
+Gonzales,2,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gonzales,2,Railroad Commissioner,,,Under Votes,49,0,32,17
+Gonzales,2,"Justice, Supreme Court",2,REP,Jimmy Blacklock,735,30,611,94
+Gonzales,2,"Justice, Supreme Court",2,DEM,DaSean Jones,252,18,164,70
+Gonzales,2,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Gonzales,2,"Justice, Supreme Court",2,,Under Votes,49,2,31,16
+Gonzales,2,"Justice, Supreme Court",4,REP,John Devine,723,30,597,96
+Gonzales,2,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,261,18,175,68
+Gonzales,2,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Gonzales,2,"Justice, Supreme Court",4,,Under Votes,52,2,34,16
+Gonzales,2,"Justice, Supreme Court",6,REP,Jane Bland,700,30,581,89
+Gonzales,2,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,247,18,165,64
+Gonzales,2,"Justice, Supreme Court",6,LIB,J. David Roberson,34,0,22,12
+Gonzales,2,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Gonzales,2,"Justice, Supreme Court",6,,Under Votes,55,2,38,15
+Gonzales,2,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,712,31,591,90
+Gonzales,2,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,264,17,174,73
+Gonzales,2,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Gonzales,2,"Presiding Judge, Ct of Crim App",,,Under Votes,60,2,41,17
+Gonzales,2,"Judge, Ct of Crim App",7,REP,Gina Parker,709,30,585,94
+Gonzales,2,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,262,18,176,68
+Gonzales,2,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Gonzales,2,"Judge, Ct of Crim App",7,,Under Votes,65,2,45,18
+Gonzales,2,"Judge, Ct of Crim App",8,REP,Lee Finley,719,30,593,96
+Gonzales,2,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,250,18,168,64
+Gonzales,2,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Gonzales,2,"Judge, Ct of Crim App",8,,Under Votes,67,2,45,20
+Gonzales,2,"Member, State BoE",3,DEM,Marisa Perez-Diaz,453,21,321,111
+Gonzales,2,"Member, State BoE",3,,Over Votes,0,0,0,0
+Gonzales,2,"Member, State BoE",3,,Under Votes,583,29,485,69
+Gonzales,2,State Representative,44,REP,Alan Schoolcraft,685,28,567,90
+Gonzales,2,State Representative,44,DEM,Eric Norman,277,21,187,69
+Gonzales,2,State Representative,44,,Over Votes,0,0,0,0
+Gonzales,2,State Representative,44,,Under Votes,74,1,52,21
+Gonzales,2,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,703,30,579,94
+Gonzales,2,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,254,18,169,67
+Gonzales,2,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Gonzales,2,"Chief Justice, 13th Ct of App Dist",,,Under Votes,79,2,58,19
+Gonzales,2,"Justice, 13th Ct of App Dist",2,REP,Jenny Cron,690,30,569,91
+Gonzales,2,"Justice, 13th Ct of App Dist",2,DEM,Nora Longoria,264,18,175,71
+Gonzales,2,"Justice, 13th Ct of App Dist",2,,Over Votes,0,0,0,0
+Gonzales,2,"Justice, 13th Ct of App Dist",2,,Under Votes,82,2,62,18
+Gonzales,2,"Justice, 13th Ct of App Dist",4,REP,Ysmael D. Fonseca,685,31,571,83
+Gonzales,2,"Justice, 13th Ct of App Dist",4,DEM,Joe Martinez,266,17,171,78
+Gonzales,2,"Justice, 13th Ct of App Dist",4,,Over Votes,0,0,0,0
+Gonzales,2,"Justice, 13th Ct of App Dist",4,,Under Votes,85,2,64,19
+Gonzales,2,"Justice, 13th Ct of App Dist",5,REP,Jon West,719,31,589,99
+Gonzales,2,"Justice, 13th Ct of App Dist",5,DEM,Regi Complian Richardson,240,17,160,63
+Gonzales,2,"Justice, 13th Ct of App Dist",5,,Over Votes,0,0,0,0
+Gonzales,2,"Justice, 13th Ct of App Dist",5,,Under Votes,77,2,57,18
+Gonzales,2,"Dist Judge, 25th Judicial Dist",,REP,Bill Old,807,35,653,119
+Gonzales,2,"Dist Judge, 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,2,"Dist Judge, 25th Judicial Dist",,,Under Votes,229,15,153,61
+Gonzales,2,"Dist Judge, 2nd 25th Judicial Dist",,REP,Jessica Richard Crawford,767,32,616,119
+Gonzales,2,"Dist Judge, 2nd 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,2,"Dist Judge, 2nd 25th Judicial Dist",,,Under Votes,269,18,190,61
+Gonzales,2,County Attorney,,REP,"Eduardo ""Eddie"" Xavier Escobar",813,34,650,129
+Gonzales,2,County Attorney,,,Over Votes,0,0,0,0
+Gonzales,2,County Attorney,,,Under Votes,223,16,156,51
+Gonzales,2,Sheriff,,REP,Keith A. Schmidt,708,34,583,91
+Gonzales,2,Sheriff,,DEM,Clay Allen,265,12,185,68
+Gonzales,2,Sheriff,,,Over Votes,0,0,0,0
+Gonzales,2,Sheriff,,,Under Votes,63,4,38,21
+Gonzales,2,County Tax Assessor-Collector,,REP,Crystal Cedillo,835,37,665,133
+Gonzales,2,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gonzales,2,County Tax Assessor-Collector,,,Under Votes,201,13,141,47
+Gonzales,2,County Commissioner,1,REP,"Anton W ""Tony"" Matias",818,37,653,128
+Gonzales,2,County Commissioner,1,Over Votes,0,0,0,0,
+Gonzales,2,County Commissioner,1,Under Votes,218,13,153,52,
+Gonzales,3,Registered Voters,,,,1778,,,
+Gonzales,3,Ballots Cast,,,,960,32,744,184
+Gonzales,3,Ballots Cast Blank,,,,0,0,0,0
+Gonzales,3,President,,REP,Donald J. Trump,704,22,570,112
+Gonzales,3,President,,DEM,Kamala D. Harris,241,9,163,69
+Gonzales,3,President,,LIB,Chase Oliver,3,0,1,2
+Gonzales,3,President,,GRN,Jill Stein,4,0,4,0
+Gonzales,3,President,,,Write-ins,1,0,1,0
+Gonzales,3,President,,,Over Votes,0,0,0,0
+Gonzales,3,President,,,Under Votes,7,1,5,1
+Gonzales,3,U.S. Senate,,REP,Ted Cruz,661,23,544,94
+Gonzales,3,U.S. Senate,,DEM,Colin Allred,253,9,173,71
+Gonzales,3,U.S. Senate,,LIB,Ted Brown,18,0,12,6
+Gonzales,3,U.S. Senate,,,Write-ins,1,0,1,0
+Gonzales,3,U.S. Senate,,,Over Votes,0,0,0,0
+Gonzales,3,U.S. Senate,,,Under Votes,27,0,14,13
+Gonzales,3,U.S. House,27,REP,Michael Cloud,699,23,566,110
+Gonzales,3,U.S. House,27,DEM,Tanya Lloyd,216,9,154,53
+Gonzales,3,U.S. House,27,,Over Votes,0,0,0,0
+Gonzales,3,U.S. House,27,,Under Votes,45,0,24,21
+Gonzales,3,Railroad Commissioner,,REP,Christi Craddick,653,23,536,94
+Gonzales,3,Railroad Commissioner,,DEM,Katherine Culbert,190,8,135,47
+Gonzales,3,Railroad Commissioner,,LIB,Hawk Dunlap,19,0,16,3
+Gonzales,3,Railroad Commissioner,,GRN,Eddie Espinoza,43,1,25,17
+Gonzales,3,Railroad Commissioner,,,Write-ins,0,0,0,0
+Gonzales,3,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gonzales,3,Railroad Commissioner,,,Under Votes,55,0,32,23
+Gonzales,3,"Justice, Supreme Court",2,REP,Jimmy Blacklock,684,22,562,100
+Gonzales,3,"Justice, Supreme Court",2,DEM,DaSean Jones,216,8,149,59
+Gonzales,3,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Gonzales,3,"Justice, Supreme Court",2,,Under Votes,60,2,33,25
+Gonzales,3,"Justice, Supreme Court",4,REP,John Devine,677,22,553,102
+Gonzales,3,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,219,9,153,57
+Gonzales,3,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Gonzales,3,"Justice, Supreme Court",4,,Under Votes,64,1,38,25
+Gonzales,3,"Justice, Supreme Court",6,REP,Jane Bland,662,20,544,98
+Gonzales,3,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,209,11,145,53
+Gonzales,3,"Justice, Supreme Court",6,LIB,J. David Roberson,20,0,12,8
+Gonzales,3,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Gonzales,3,"Justice, Supreme Court",6,,Under Votes,69,1,43,25
+Gonzales,3,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,664,22,541,101
+Gonzales,3,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,218,9,154,55
+Gonzales,3,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Gonzales,3,"Presiding Judge, Ct of Crim App",,,Under Votes,78,1,49,28
+Gonzales,3,"Judge, Ct of Crim App",7,REP,Gina Parker,669,21,547,101
+Gonzales,3,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,216,10,150,56
+Gonzales,3,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Gonzales,3,"Judge, Ct of Crim App",7,,Under Votes,75,1,47,27
+Gonzales,3,"Judge, Ct of Crim App",8,REP,Lee Finley,674,22,554,98
+Gonzales,3,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,205,9,141,55
+Gonzales,3,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Gonzales,3,"Judge, Ct of Crim App",8,,Under Votes,81,1,49,31
+Gonzales,3,"Member, State BoE",3,DEM,Marisa Perez-Diaz,415,15,298,102
+Gonzales,3,"Member, State BoE",3,,Over Votes,0,0,0,0
+Gonzales,3,"Member, State BoE",3,,Under Votes,545,17,446,82
+Gonzales,3,State Representative,44,REP,Alan Schoolcraft,646,21,529,96
+Gonzales,3,State Representative,44,DEM,Eric Norman,230,11,162,57
+Gonzales,3,State Representative,44,,Over Votes,0,0,0,0
+Gonzales,3,State Representative,44,,Under Votes,84,0,53,31
+Gonzales,3,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,656,22,534,100
+Gonzales,3,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,222,9,156,57
+Gonzales,3,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Gonzales,3,"Chief Justice, 13th Ct of App Dist",,,Under Votes,82,1,53,28
+Gonzales,3,"Justice, 13th Ct of App Dist",2,REP,Jenny Cron,647,20,532,95
+Gonzales,3,"Justice, 13th Ct of App Dist",2,DEM,Nora Longoria,229,11,158,60
+Gonzales,3,"Justice, 13th Ct of App Dist",2,,Over Votes,0,0,0,0
+Gonzales,3,"Justice, 13th Ct of App Dist",2,,Under Votes,84,1,54,29
+Gonzales,3,"Justice, 13th Ct of App Dist",4,REP,Ysmael D. Fonseca,650,21,531,98
+Gonzales,3,"Justice, 13th Ct of App Dist",4,DEM,Joe Martinez,223,10,156,57
+Gonzales,3,"Justice, 13th Ct of App Dist",4,,Over Votes,0,0,0,0
+Gonzales,3,"Justice, 13th Ct of App Dist",4,,Under Votes,87,1,57,29
+Gonzales,3,"Justice, 13th Ct of App Dist",5,REP,Jon West,676,22,553,101
+Gonzales,3,"Justice, 13th Ct of App Dist",5,DEM,Regi Complian Richardson,202,9,140,53
+Gonzales,3,"Justice, 13th Ct of App Dist",5,,Over Votes,0,0,0,0
+Gonzales,3,"Justice, 13th Ct of App Dist",5,,Under Votes,62,5,50,7
+Gonzales,3,"Dist Judge, 25th Judicial Dist",,REP,Bill Old,754,25,607,122
+Gonzales,3,"Dist Judge, 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,3,"Dist Judge, 25th Judicial Dist",,,Under Votes,206,7,137,62
+Gonzales,3,"Dist Judge, 2nd 25th Judicial Dist",,REP,Jessica Richard Crawford,733,24,589,120
+Gonzales,3,"Dist Judge, 2nd 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,3,"Dist Judge, 2nd 25th Judicial Dist",,,Under Votes,227,8,155,64
+Gonzales,3,County Attorney,,REP,"Eduardo ""Eddie"" Xavier Escobar",774,24,617,133
+Gonzales,3,County Attorney,,,Over Votes,0,0,0,0
+Gonzales,3,County Attorney,,,Under Votes,186,8,127,51
+Gonzales,3,Sheriff,,REP,Keith A. Schmidt,671,22,543,106
+Gonzales,3,Sheriff,,DEM,Clay Allen,227,9,164,54
+Gonzales,3,Sheriff,,,Over Votes,0,0,0,0
+Gonzales,3,Sheriff,,,Under Votes,62,1,37,24
+Gonzales,3,County Tax Assessor-Collector,,REP,Crystal Cedillo,783,28,621,134
+Gonzales,3,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gonzales,3,County Tax Assessor-Collector,,,Under Votes,177,4,123,50
+Gonzales,3,County Commissioner,3,REP,Roy A Staton,775,24,619,132
+Gonzales,3,County Commissioner,3,Over Votes,0,0,0,0,
+Gonzales,3,County Commissioner,3,Under Votes,185,8,125,52,
+Gonzales,3,Constable,1,REP,Johnnie Hall,752,22,610,120
+Gonzales,3,Constable,1,Over Votes,0,0,0,0,
+Gonzales,3,Constable,1,Under Votes,208,10,134,64,
+Gonzales,4,Registered Voters,,,,1098,,,
+Gonzales,4,Ballots Cast,,,,425,2,292,131
+Gonzales,4,Ballots Cast Blank,,,,0,0,0,0
+Gonzales,4,President,,REP,Donald J. Trump,295,1,200,94
+Gonzales,4,President,,DEM,Kamala D. Harris,128,1,91,36
+Gonzales,4,President,,LIB,Chase Oliver,0,0,0,0
+Gonzales,4,President,,GRN,Jill Stein,0,0,0,0
+Gonzales,4,President,,,Write-ins,1,0,0,1
+Gonzales,4,President,,,Over Votes,0,0,0,0
+Gonzales,4,President,,,Under Votes,1,0,1,0
+Gonzales,4,U.S. Senate,,REP,Ted Cruz,258,1,185,72
+Gonzales,4,U.S. Senate,,DEM,Colin Allred,133,1,93,39
+Gonzales,4,U.S. Senate,,LIB,Ted Brown,18,0,6,12
+Gonzales,4,U.S. Senate,,,Write-ins,1,0,1,0
+Gonzales,4,U.S. Senate,,,Over Votes,0,0,0,0
+Gonzales,4,U.S. Senate,,,Under Votes,15,0,7,8
+Gonzales,4,U.S. House,27,REP,Michael Cloud,273,0,187,86
+Gonzales,4,U.S. House,27,DEM,Tanya Lloyd,116,1,82,33
+Gonzales,4,U.S. House,27,,Over Votes,0,0,0,0
+Gonzales,4,U.S. House,27,,Under Votes,36,1,23,12
+Gonzales,4,Railroad Commissioner,,REP,Christi Craddick,255,1,179,75
+Gonzales,4,Railroad Commissioner,,DEM,Katherine Culbert,101,1,72,28
+Gonzales,4,Railroad Commissioner,,LIB,Hawk Dunlap,11,0,7,4
+Gonzales,4,Railroad Commissioner,,GRN,Eddie Espinoza,16,0,8,8
+Gonzales,4,Railroad Commissioner,,,Write-ins,0,0,0,0
+Gonzales,4,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gonzales,4,Railroad Commissioner,,,Under Votes,42,0,26,16
+Gonzales,4,"Justice, Supreme Court",2,REP,Jimmy Blacklock,269,1,184,84
+Gonzales,4,"Justice, Supreme Court",2,DEM,DaSean Jones,115,1,82,32
+Gonzales,4,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Gonzales,4,"Justice, Supreme Court",2,,Under Votes,41,0,26,15
+Gonzales,4,"Justice, Supreme Court",4,REP,John Devine,264,1,179,84
+Gonzales,4,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,116,1,86,29
+Gonzales,4,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Gonzales,4,"Justice, Supreme Court",4,,Under Votes,45,0,27,18
+Gonzales,4,"Justice, Supreme Court",6,REP,Jane Bland,251,1,173,77
+Gonzales,4,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,121,1,83,37
+Gonzales,4,"Justice, Supreme Court",6,LIB,J. David Roberson,9,0,9,0
+Gonzales,4,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Gonzales,4,"Justice, Supreme Court",6,,Under Votes,44,0,27,17
+Gonzales,4,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,263,1,180,82
+Gonzales,4,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,117,1,84,32
+Gonzales,4,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Gonzales,4,"Presiding Judge, Ct of Crim App",,,Under Votes,45,0,28,17
+Gonzales,4,"Judge, Ct of Crim App",7,REP,Gina Parker,268,1,185,82
+Gonzales,4,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,113,1,80,32
+Gonzales,4,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Gonzales,4,"Judge, Ct of Crim App",7,,Under Votes,44,0,27,17
+Gonzales,4,"Judge, Ct of Crim App",8,REP,Lee Finley,262,1,182,79
+Gonzales,4,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,111,1,78,32
+Gonzales,4,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Gonzales,4,"Judge, Ct of Crim App",8,,Under Votes,52,0,32,20
+Gonzales,4,"Member, State BoE",3,DEM,Marisa Perez-Diaz,203,1,134,68
+Gonzales,4,"Member, State BoE",3,,Over Votes,0,0,0,0
+Gonzales,4,"Member, State BoE",3,,Under Votes,222,1,158,63
+Gonzales,4,State Representative,44,REP,Alan Schoolcraft,264,1,183,80
+Gonzales,4,State Representative,44,DEM,Eric Norman,108,1,77,30
+Gonzales,4,State Representative,44,,Over Votes,0,0,0,0
+Gonzales,4,State Representative,44,,Under Votes,53,0,32,21
+Gonzales,4,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,255,1,176,78
+Gonzales,4,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,120,1,82,37
+Gonzales,4,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Gonzales,4,"Chief Justice, 13th Ct of App Dist",,,Under Votes,50,0,34,16
+Gonzales,4,"Justice, 13th Ct of App Dist",2,REP,Jenny Cron,259,1,181,77
+Gonzales,4,"Justice, 13th Ct of App Dist",2,DEM,Nora Longoria,118,1,81,36
+Gonzales,4,"Justice, 13th Ct of App Dist",2,,Over Votes,0,0,0,0
+Gonzales,4,"Justice, 13th Ct of App Dist",2,,Under Votes,48,0,30,18
+Gonzales,4,"Justice, 13th Ct of App Dist",4,REP,Ysmael D. Fonseca,263,1,180,82
+Gonzales,4,"Justice, 13th Ct of App Dist",4,DEM,Joe Martinez,118,1,84,33
+Gonzales,4,"Justice, 13th Ct of App Dist",4,,Over Votes,0,0,0,0
+Gonzales,4,"Justice, 13th Ct of App Dist",4,,Under Votes,44,0,28,16
+Gonzales,4,"Justice, 13th Ct of App Dist",5,REP,Jon West,266,1,183,82
+Gonzales,4,"Justice, 13th Ct of App Dist",5,DEM,Regi Complian Richardson,107,1,77,29
+Gonzales,4,"Justice, 13th Ct of App Dist",5,,Over Votes,0,0,0,0
+Gonzales,4,"Justice, 13th Ct of App Dist",5,,Under Votes,52,0,32,20
+Gonzales,4,"Dist Judge, 25th Judicial Dist",,REP,Bill Old,296,2,207,87
+Gonzales,4,"Dist Judge, 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,4,"Dist Judge, 25th Judicial Dist",,,Under Votes,129,0,85,44
+Gonzales,4,"Dist Judge, 2nd 25th Judicial Dist",,REP,Jessica Richard Crawford,294,2,205,87
+Gonzales,4,"Dist Judge, 2nd 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,4,"Dist Judge, 2nd 25th Judicial Dist",,,Under Votes,131,0,87,44
+Gonzales,4,County Attorney,,REP,"Eduardo ""Eddie"" Xavier Escobar",300,2,209,89
+Gonzales,4,County Attorney,,,Over Votes,0,0,0,0
+Gonzales,4,County Attorney,,,Under Votes,125,0,83,42
+Gonzales,4,Sheriff,,REP,Keith A. Schmidt,250,1,178,71
+Gonzales,4,Sheriff,,DEM,Clay Allen,137,1,96,40
+Gonzales,4,Sheriff,,,Over Votes,0,0,0,0
+Gonzales,4,Sheriff,,,Under Votes,38,0,18,20
+Gonzales,4,County Tax Assessor-Collector,,REP,Crystal Cedillo,322,2,225,95
+Gonzales,4,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gonzales,4,County Tax Assessor-Collector,,,Under Votes,103,0,67,36
+Gonzales,4,Constable,4,REP,John J. Moreno,333,2,233,98
+Gonzales,4,Constable,4,Over Votes,0,0,0,0,
+Gonzales,4,Constable,4,Under Votes,92,0,59,33,
+Gonzales,5,Registered Voters,,,,550,,,
+Gonzales,5,Ballots Cast,,,,411,9,325,77
+Gonzales,5,Ballots Cast Blank,,,,0,0,0,0
+Gonzales,5,President,,REP,Donald J. Trump,342,8,272,62
+Gonzales,5,President,,DEM,Kamala D. Harris,64,1,49,14
+Gonzales,5,President,,LIB,Chase Oliver,1,0,1,0
+Gonzales,5,President,,GRN,Jill Stein,0,0,0,0
+Gonzales,5,President,,,Write-ins,4,0,3,1
+Gonzales,5,President,,,Over Votes,0,0,0,0
+Gonzales,5,President,,,Under Votes,0,0,0,0
+Gonzales,5,U.S. Senate,,REP,Ted Cruz,332,8,268,56
+Gonzales,5,U.S. Senate,,DEM,Colin Allred,68,1,51,16
+Gonzales,5,U.S. Senate,,LIB,Ted Brown,8,0,5,3
+Gonzales,5,U.S. Senate,,,Write-ins,0,0,0,0
+Gonzales,5,U.S. Senate,,,Over Votes,0,0,0,0
+Gonzales,5,U.S. Senate,,,Under Votes,3,0,1,2
+Gonzales,5,U.S. House,27,REP,Michael Cloud,341,8,271,62
+Gonzales,5,U.S. House,27,DEM,Tanya Lloyd,59,1,47,11
+Gonzales,5,U.S. House,27,,Over Votes,0,0,0,0
+Gonzales,5,U.S. House,27,,Under Votes,11,0,7,4
+Gonzales,5,Railroad Commissioner,,REP,Christi Craddick,406,12,289,105
+Gonzales,5,Railroad Commissioner,,DEM,Katherine Culbert,79,4,55,20
+Gonzales,5,Railroad Commissioner,,LIB,Hawk Dunlap,16,0,10,6
+Gonzales,5,Railroad Commissioner,,GRN,Eddie Espinoza,8,2,5,1
+Gonzales,5,Railroad Commissioner,,,Write-ins,0,0,0,0
+Gonzales,5,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gonzales,5,Railroad Commissioner,,,Under Votes,16,0,9,7
+Gonzales,5,"Justice, Supreme Court",2,REP,Jimmy Blacklock,419,11,303,105
+Gonzales,5,"Justice, Supreme Court",2,DEM,DaSean Jones,87,6,55,26
+Gonzales,5,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Gonzales,5,"Justice, Supreme Court",2,,Under Votes,19,1,10,8
+Gonzales,5,"Justice, Supreme Court",4,REP,John Devine,415,13,299,103
+Gonzales,5,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,87,4,57,26
+Gonzales,5,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Gonzales,5,"Justice, Supreme Court",4,,Under Votes,23,1,12,10
+Gonzales,5,"Justice, Supreme Court",6,REP,Jane Bland,406,11,293,102
+Gonzales,5,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,75,4,49,23
+Gonzales,5,"Justice, Supreme Court",6,LIB,J. David Roberson,20,2,14,4
+Gonzales,5,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Gonzales,5,"Justice, Supreme Court",6,,Under Votes,23,1,12,10
+Gonzales,5,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,416,11,303,102
+Gonzales,5,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,86,6,54,26
+Gonzales,5,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Gonzales,5,"Presiding Judge, Ct of Crim App",,,Under Votes,23,1,11,11
+Gonzales,5,"Judge, Ct of Crim App",7,REP,Gina Parker,416,13,298,105
+Gonzales,5,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,83,4,55,24
+Gonzales,5,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Gonzales,5,"Judge, Ct of Crim App",7,,Under Votes,26,1,15,10
+Gonzales,5,"Judge, Ct of Crim App",8,REP,Lee Finley,413,13,296,104
+Gonzales,5,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,84,4,55,25
+Gonzales,5,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Gonzales,5,"Judge, Ct of Crim App",8,,Under Votes,28,1,17,10
+Gonzales,5,"Member, State BoE",3,DEM,Marisa Perez-Diaz,187,9,122,56
+Gonzales,5,"Member, State BoE",3,,Over Votes,0,0,0,0
+Gonzales,5,"Member, State BoE",3,,Under Votes,338,9,246,83
+Gonzales,5,State Representative,44,REP,Alan Schoolcraft,405,13,289,103
+Gonzales,5,State Representative,44,DEM,Eric Norman,95,4,64,27
+Gonzales,5,State Representative,44,,Over Votes,0,0,0,0
+Gonzales,5,State Representative,44,,Under Votes,25,1,15,9
+Gonzales,5,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,409,11,292,106
+Gonzales,5,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,85,6,55,24
+Gonzales,5,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Gonzales,5,"Chief Justice, 13th Ct of App Dist",,,Under Votes,30,1,20,9
+Gonzales,5,"Justice, 13th Ct of App Dist",2,REP,Jenny Cron,412,11,296,105
+Gonzales,5,"Justice, 13th Ct of App Dist",2,DEM,Nora Longoria,86,6,55,25
+Gonzales,5,"Justice, 13th Ct of App Dist",2,,Over Votes,0,0,0,0
+Gonzales,5,"Justice, 13th Ct of App Dist",2,,Under Votes,27,1,17,9
+Gonzales,5,"Justice, 13th Ct of App Dist",4,REP,Ysmael D. Fonseca,409,12,292,105
+Gonzales,5,"Justice, 13th Ct of App Dist",4,DEM,Joe Martinez,85,5,57,23
+Gonzales,5,"Justice, 13th Ct of App Dist",4,,Over Votes,0,0,0,0
+Gonzales,5,"Justice, 13th Ct of App Dist",4,,Under Votes,31,1,19,11
+Gonzales,5,"Justice, 13th Ct of App Dist",5,REP,Jon West,422,11,301,110
+Gonzales,5,"Justice, 13th Ct of App Dist",5,DEM,Regi Complian Richardson,77,6,51,20
+Gonzales,5,"Justice, 13th Ct of App Dist",5,,Over Votes,0,0,0,0
+Gonzales,5,"Justice, 13th Ct of App Dist",5,,Under Votes,26,1,16,9
+Gonzales,5,"Dist Judge, 25th Judicial Dist",,REP,Bill Old,448,13,321,114
+Gonzales,5,"Dist Judge, 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,5,"Dist Judge, 25th Judicial Dist",,,Under Votes,77,5,47,25
+Gonzales,5,"Dist Judge, 2nd 25th Judicial Dist",,REP,Jessica Richard Crawford,428,13,305,110
+Gonzales,5,"Dist Judge, 2nd 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,5,"Dist Judge, 2nd 25th Judicial Dist",,,Under Votes,97,5,63,29
+Gonzales,5,County Attorney,,REP,"Eduardo ""Eddie"" Xavier Escobar",446,13,318,115
+Gonzales,5,County Attorney,,,Over Votes,0,0,0,0
+Gonzales,5,County Attorney,,,Under Votes,79,5,50,24
+Gonzales,5,Sheriff,,REP,Keith A. Schmidt,405,13,284,108
+Gonzales,5,Sheriff,,DEM,Clay Allen,101,4,73,24
+Gonzales,5,Sheriff,,,Over Votes,0,0,0,0
+Gonzales,5,Sheriff,,,Under Votes,19,1,11,7
+Gonzales,5,County Tax Assessor-Collector,,REP,Crystal Cedillo,456,14,322,120
+Gonzales,5,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gonzales,5,County Tax Assessor-Collector,,,Under Votes,69,4,46,19
+Gonzales,5,County Commissioner,3,REP,Roy A Staton,453,13,323,117
+Gonzales,5,County Commissioner,3,Over Votes,0,0,0,0,
+Gonzales,5,County Commissioner,3,Under Votes,72,5,45,22,
+Gonzales,5,Constable,1,REP,Johnnie Hall,439,13,311,115
+Gonzales,5,Constable,1,Over Votes,0,0,0,0,
+Gonzales,5,Constable,1,Under Votes,86,5,57,24,
+Gonzales,6,Registered Voters,,,,541,,,
+Gonzales,6,Ballots Cast,,,,349,9,291,49
+Gonzales,6,Ballots Cast Blank,,,,0,0,0,0
+Gonzales,6,President,,REP,Donald J. Trump,301,4,254,43
+Gonzales,6,President,,DEM,Kamala D. Harris,48,5,37,6
+Gonzales,6,President,,LIB,Chase Oliver,0,0,0,0
+Gonzales,6,President,,GRN,Jill Stein,0,0,0,0
+Gonzales,6,President,,,Write-ins,0,0,0,0
+Gonzales,6,President,,,Over Votes,0,0,0,0
+Gonzales,6,President,,,Under Votes,0,0,0,0
+Gonzales,6,U.S. Senate,,REP,Ted Cruz,286,4,246,36
+Gonzales,6,U.S. Senate,,DEM,Colin Allred,55,5,41,9
+Gonzales,6,U.S. Senate,,LIB,Ted Brown,5,0,3,2
+Gonzales,6,U.S. Senate,,,Write-ins,0,0,0,0
+Gonzales,6,U.S. Senate,,,Over Votes,0,0,0,0
+Gonzales,6,U.S. Senate,,,Under Votes,3,0,1,2
+Gonzales,6,U.S. House,27,REP,Michael Cloud,281,5,236,40
+Gonzales,6,U.S. House,27,DEM,Tanya Lloyd,46,4,36,6
+Gonzales,6,U.S. House,27,,Over Votes,0,0,0,0
+Gonzales,6,U.S. House,27,,Under Votes,22,0,19,3
+Gonzales,6,Railroad Commissioner,,REP,Christi Craddick,280,5,237,38
+Gonzales,6,Railroad Commissioner,,DEM,Katherine Culbert,44,4,34,6
+Gonzales,6,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,5,2
+Gonzales,6,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0
+Gonzales,6,Railroad Commissioner,,,Write-ins,0,0,0,0
+Gonzales,6,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gonzales,6,Railroad Commissioner,,,Under Votes,16,0,13,3
+Gonzales,6,"Justice, Supreme Court",2,REP,Jimmy Blacklock,283,4,239,40
+Gonzales,6,"Justice, Supreme Court",2,DEM,DaSean Jones,48,5,37,6
+Gonzales,6,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Gonzales,6,"Justice, Supreme Court",2,,Under Votes,18,0,15,3
+Gonzales,6,"Justice, Supreme Court",4,REP,John Devine,286,4,242,40
+Gonzales,6,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,46,5,36,5
+Gonzales,6,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Gonzales,6,"Justice, Supreme Court",4,,Under Votes,17,0,13,4
+Gonzales,6,"Justice, Supreme Court",6,REP,Jane Bland,275,4,234,37
+Gonzales,6,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,46,5,35,6
+Gonzales,6,"Justice, Supreme Court",6,LIB,J. David Roberson,6,0,4,2
+Gonzales,6,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Gonzales,6,"Justice, Supreme Court",6,,Under Votes,22,0,18,4
+Gonzales,6,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,275,4,231,40
+Gonzales,6,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,47,5,37,5
+Gonzales,6,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Gonzales,6,"Presiding Judge, Ct of Crim App",,,Under Votes,27,0,23,4
+Gonzales,6,"Judge, Ct of Crim App",7,REP,Gina Parker,278,4,234,40
+Gonzales,6,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,43,5,34,4
+Gonzales,6,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Gonzales,6,"Judge, Ct of Crim App",7,,Under Votes,28,0,23,5
+Gonzales,6,"Judge, Ct of Crim App",8,REP,Lee Finley,278,4,235,39
+Gonzales,6,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,42,5,33,4
+Gonzales,6,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Gonzales,6,"Judge, Ct of Crim App",8,,Under Votes,29,0,23,6
+Gonzales,6,"Member, State BoE",3,DEM,Marisa Perez-Diaz,95,4,74,17
+Gonzales,6,"Member, State BoE",3,,Over Votes,0,0,0,0
+Gonzales,6,"Member, State BoE",3,,Under Votes,254,5,217,32
+Gonzales,6,State Representative,44,REP,Alan Schoolcraft,275,5,232,38
+Gonzales,6,State Representative,44,DEM,Eric Norman,47,4,38,5
+Gonzales,6,State Representative,44,,Over Votes,0,0,0,0
+Gonzales,6,State Representative,44,,Under Votes,27,0,21,6
+Gonzales,6,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,271,5,227,39
+Gonzales,6,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,48,4,38,6
+Gonzales,6,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Gonzales,6,"Chief Justice, 13th Ct of App Dist",,,Under Votes,30,0,26,4
+Gonzales,6,"Justice, 13th Ct of App Dist",2,REP,Jenny Cron,270,5,227,38
+Gonzales,6,"Justice, 13th Ct of App Dist",2,DEM,Nora Longoria,47,4,36,7
+Gonzales,6,"Justice, 13th Ct of App Dist",2,,Over Votes,0,0,0,0
+Gonzales,6,"Justice, 13th Ct of App Dist",2,,Under Votes,32,0,28,4
+Gonzales,6,"Justice, 13th Ct of App Dist",4,REP,Ysmael D. Fonseca,269,4,228,37
+Gonzales,6,"Justice, 13th Ct of App Dist",4,DEM,Joe Martinez,48,5,36,7
+Gonzales,6,"Justice, 13th Ct of App Dist",4,,Over Votes,0,0,0,0
+Gonzales,6,"Justice, 13th Ct of App Dist",4,,Under Votes,32,0,27,5
+Gonzales,6,"Justice, 13th Ct of App Dist",5,REP,Jon West,272,4,229,39
+Gonzales,6,"Justice, 13th Ct of App Dist",5,DEM,Regi Complian Richardson,44,5,34,5
+Gonzales,6,"Justice, 13th Ct of App Dist",5,,Over Votes,0,0,0,0
+Gonzales,6,"Justice, 13th Ct of App Dist",5,,Under Votes,33,0,28,5
+Gonzales,6,"Dist Judge, 25th Judicial Dist",,REP,Bill Old,287,4,241,42
+Gonzales,6,"Dist Judge, 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,6,"Dist Judge, 25th Judicial Dist",,,Under Votes,62,5,50,7
+Gonzales,6,"Dist Judge, 2nd 25th Judicial Dist",,REP,Jessica Richard Crawford,282,4,220,38
+Gonzales,6,"Dist Judge, 2nd 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,6,"Dist Judge, 2nd 25th Judicial Dist",,,Under Votes,87,5,71,11
+Gonzales,6,County Attorney,,REP,"Eduardo ""Eddie"" Xavier Escobar",278,4,234,40
+Gonzales,6,County Attorney,,,Over Votes,0,0,0,0
+Gonzales,6,County Attorney,,,Under Votes,71,5,57,9
+Gonzales,6,Sheriff,,REP,Keith A. Schmidt,257,3,222,32
+Gonzales,6,Sheriff,,DEM,Clay Allen,78,5,58,15
+Gonzales,6,Sheriff,,,Over Votes,0,0,0,0
+Gonzales,6,Sheriff,,,Under Votes,14,1,11,2
+Gonzales,6,County Tax Assessor-Collector,,REP,Crystal Cedillo,289,5,246,38
+Gonzales,6,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gonzales,6,County Tax Assessor-Collector,,,Under Votes,60,4,45,11
+Gonzales,6,Constable,4,REP,John J. Moreno,280,5,232,43
+Gonzales,6,Constable,4,Over Votes,0,0,0,0,
+Gonzales,6,Constable,4,Under Votes,69,4,59,6,
+Gonzales,7,Registered Voters,,,,550,,,
+Gonzales,7,Ballots Cast,,,,411,9,325,77
+Gonzales,7,Ballots Cast Blank,,,,0,0,0,0
+Gonzales,7,President,,REP,Donald J. Trump,342,8,272,62
+Gonzales,7,President,,DEM,Kamala D. Harris,64,1,49,14
+Gonzales,7,President,,LIB,Chase Oliver,0,0,0,0
+Gonzales,7,President,,GRN,Jill Stein,0,0,0,0
+Gonzales,7,President,,,Write-ins,4,0,3,1
+Gonzales,7,President,,,Over Votes,0,0,0,0
+Gonzales,7,President,,,Under Votes,0,0,0,0
+Gonzales,7,U.S. Senate,,REP,Ted Cruz,332,8,268,56
+Gonzales,7,U.S. Senate,,DEM,Colin Allred,68,1,51,16
+Gonzales,7,U.S. Senate,,LIB,Ted Brown,8,0,5,3
+Gonzales,7,U.S. Senate,,,Write-ins,0,0,0,0
+Gonzales,7,U.S. Senate,,,Over Votes,0,0,0,0
+Gonzales,7,U.S. Senate,,,Under Votes,3,0,1,2
+Gonzales,7,U.S. House,27,REP,Michael Cloud,341,8,271,62
+Gonzales,7,U.S. House,27,DEM,Tanya Lloyd,59,1,47,11
+Gonzales,7,U.S. House,27,,Over Votes,0,0,0,0
+Gonzales,7,U.S. House,27,,Under Votes,11,0,7,4
+Gonzales,7,Railroad Commissioner,,REP,Christi Craddick,333,8,266,59
+Gonzales,7,Railroad Commissioner,,DEM,Katherine Culbert,55,1,44,10
+Gonzales,7,Railroad Commissioner,,LIB,Hawk Dunlap,11,0,9,2
+Gonzales,7,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,2,3
+Gonzales,7,Railroad Commissioner,,,Write-ins,0,0,0,0
+Gonzales,7,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gonzales,7,Railroad Commissioner,,,Under Votes,7,0,4,3
+Gonzales,7,"Justice, Supreme Court",2,REP,Jimmy Blacklock,342,8,272,62
+Gonzales,7,"Justice, Supreme Court",2,DEM,DaSean Jones,59,1,46,12
+Gonzales,7,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Gonzales,7,"Justice, Supreme Court",2,,Under Votes,10,0,7,3
+Gonzales,7,"Justice, Supreme Court",4,REP,John Devine,340,8,271,61
+Gonzales,7,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,61,1,47,13
+Gonzales,7,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Gonzales,7,"Justice, Supreme Court",4,,Under Votes,10,0,7,3
+Gonzales,7,"Justice, Supreme Court",6,REP,Jane Bland,337,8,266,63
+Gonzales,7,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,56,1,45,10
+Gonzales,7,"Justice, Supreme Court",6,LIB,J. David Roberson,7,0,6,1
+Gonzales,7,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Gonzales,7,"Justice, Supreme Court",6,,Under Votes,11,0,8,3
+Gonzales,7,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,338,8,270,60
+Gonzales,7,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,59,1,45,13
+Gonzales,7,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Gonzales,7,"Presiding Judge, Ct of Crim App",,,Under Votes,14,0,10,4
+Gonzales,7,"Judge, Ct of Crim App",7,REP,Gina Parker,344,8,273,63
+Gonzales,7,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,56,1,44,11
+Gonzales,7,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Gonzales,7,"Judge, Ct of Crim App",7,,Under Votes,11,0,8,3
+Gonzales,7,"Judge, Ct of Crim App",8,REP,Lee Finley,342,8,272,62
+Gonzales,7,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,56,1,43,12
+Gonzales,7,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Gonzales,7,"Judge, Ct of Crim App",8,,Under Votes,13,0,10,3
+Gonzales,7,"Member, State BoE",3,DEM,Marisa Perez-Diaz,141,2,109,30
+Gonzales,7,"Member, State BoE",3,,Over Votes,0,0,0,0
+Gonzales,7,"Member, State BoE",3,,Under Votes,270,7,216,47
+Gonzales,7,State Representative,44,REP,Alan Schoolcraft,339,8,270,61
+Gonzales,7,State Representative,44,DEM,Eric Norman,58,1,44,13
+Gonzales,7,State Representative,44,,Over Votes,0,0,0,0
+Gonzales,7,State Representative,44,,Under Votes,14,0,11,3
+Gonzales,7,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,333,8,264,61
+Gonzales,7,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,62,1,48,13
+Gonzales,7,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Gonzales,7,"Chief Justice, 13th Ct of App Dist",,,Under Votes,16,0,13,3
+Gonzales,7,"Justice, 13th Ct of App Dist",2,REP,Jenny Cron,334,8,265,61
+Gonzales,7,"Justice, 13th Ct of App Dist",2,DEM,Nora Longoria,60,1,46,13
+Gonzales,7,"Justice, 13th Ct of App Dist",2,,Over Votes,0,0,0,0
+Gonzales,7,"Justice, 13th Ct of App Dist",2,,Under Votes,17,0,14,3
+Gonzales,7,"Justice, 13th Ct of App Dist",4,REP,Ysmael D. Fonseca,333,8,264,61
+Gonzales,7,"Justice, 13th Ct of App Dist",4,DEM,Joe Martinez,59,1,46,12
+Gonzales,7,"Justice, 13th Ct of App Dist",4,,Over Votes,0,0,0,0
+Gonzales,7,"Justice, 13th Ct of App Dist",4,,Under Votes,19,0,15,4
+Gonzales,7,"Justice, 13th Ct of App Dist",5,REP,Jon West,340,8,271,61
+Gonzales,7,"Justice, 13th Ct of App Dist",5,DEM,Regi Complian Richardson,57,1,43,13
+Gonzales,7,"Justice, 13th Ct of App Dist",5,,Over Votes,0,0,0,0
+Gonzales,7,"Justice, 13th Ct of App Dist",5,,Under Votes,14,0,11,3
+Gonzales,7,"Dist Judge, 25th Judicial Dist",,REP,Bill Old,348,8,275,65
+Gonzales,7,"Dist Judge, 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,7,"Dist Judge, 25th Judicial Dist",,,Under Votes,63,1,50,12
+Gonzales,7,"Dist Judge, 2nd 25th Judicial Dist",,REP,Jessica Richard Crawford,338,8,268,62
+Gonzales,7,"Dist Judge, 2nd 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,7,"Dist Judge, 2nd 25th Judicial Dist",,,Under Votes,73,1,57,15
+Gonzales,7,County Attorney,,REP,"Eduardo ""Eddie"" Xavier Escobar",348,8,274,66
+Gonzales,7,County Attorney,,,Over Votes,0,0,0,0
+Gonzales,7,County Attorney,,,Under Votes,63,1,51,11
+Gonzales,7,Sheriff,,REP,Keith A. Schmidt,308,7,243,58
+Gonzales,7,Sheriff,,DEM,Clay Allen,82,2,66,14
+Gonzales,7,Sheriff,,,Over Votes,0,0,0,0
+Gonzales,7,Sheriff,,,Under Votes,21,0,16,5
+Gonzales,7,County Tax Assessor-Collector,,REP,Crystal Cedillo,352,8,276,68
+Gonzales,7,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gonzales,7,County Tax Assessor-Collector,,,Under Votes,59,1,49,9
+Gonzales,7,County Commissioner,3,REP,Roy A Staton,357,8,281,68
+Gonzales,7,County Commissioner,3,Over Votes,0,0,0,0,
+Gonzales,7,County Commissioner,3,Under Votes,54,1,44,9,
+Gonzales,7,Constable,1,REP,Johnnie Hall,342,7,272,63
+Gonzales,7,Constable,1,Over Votes,0,0,0,0,
+Gonzales,7,Constable,1,Under Votes,69,2,53,14,
+Gonzales,8,Registered Voters,,,,467,,,
+Gonzales,8,Ballots Cast,,,,291,11,204,76
+Gonzales,8,Ballots Cast Blank,,,,0,0,0,0
+Gonzales,8,President,,REP,Donald J. Trump,240,4,171,65
+Gonzales,8,President,,DEM,Kamala D. Harris,46,6,31,9
+Gonzales,8,President,,LIB,Chase Oliver,3,0,1,2
+Gonzales,8,President,,GRN,Jill Stein,1,0,1,0
+Gonzales,8,President,,,Write-ins,0,0,0,0
+Gonzales,8,President,,,Over Votes,0,0,0,0
+Gonzales,8,President,,,Under Votes,1,1,0,0
+Gonzales,8,U.S. Senate,,REP,Ted Cruz,232,4,166,62
+Gonzales,8,U.S. Senate,,DEM,Colin Allred,45,5,30,10
+Gonzales,8,U.S. Senate,,LIB,Ted Brown,11,1,8,2
+Gonzales,8,U.S. Senate,,,Write-ins,0,0,0,0
+Gonzales,8,U.S. Senate,,,Over Votes,0,0,0,0
+Gonzales,8,U.S. Senate,,,Under Votes,3,1,0,2
+Gonzales,8,U.S. House,27,REP,Michael Cloud,242,7,170,65
+Gonzales,8,U.S. House,27,DEM,Tanya Lloyd,39,3,29,7
+Gonzales,8,U.S. House,27,,Over Votes,0,0,0,0
+Gonzales,8,U.S. House,27,,Under Votes,10,1,5,4
+Gonzales,8,Railroad Commissioner,,REP,Christi Craddick,243,7,171,65
+Gonzales,8,Railroad Commissioner,,DEM,Katherine Culbert,33,2,24,7
+Gonzales,8,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,6,1
+Gonzales,8,Railroad Commissioner,,GRN,Eddie Espinoza,3,1,2,0
+Gonzales,8,Railroad Commissioner,,,Write-ins,0,0,0,0
+Gonzales,8,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gonzales,8,Railroad Commissioner,,,Under Votes,5,1,1,3
+Gonzales,8,"Justice, Supreme Court",2,REP,Jimmy Blacklock,243,7,171,65
+Gonzales,8,"Justice, Supreme Court",2,DEM,DaSean Jones,41,3,30,8
+Gonzales,8,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Gonzales,8,"Justice, Supreme Court",2,,Under Votes,7,1,3,3
+Gonzales,8,"Justice, Supreme Court",4,REP,John Devine,239,7,169,63
+Gonzales,8,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,41,2,30,9
+Gonzales,8,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Gonzales,8,"Justice, Supreme Court",4,,Under Votes,11,2,5,4
+Gonzales,8,"Justice, Supreme Court",6,REP,Jane Bland,235,7,167,61
+Gonzales,8,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,39,3,28,8
+Gonzales,8,"Justice, Supreme Court",6,LIB,J. David Roberson,8,0,6,2
+Gonzales,8,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Gonzales,8,"Justice, Supreme Court",6,,Under Votes,9,1,3,5
+Gonzales,8,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,240,7,170,63
+Gonzales,8,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,40,3,29,8
+Gonzales,8,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Gonzales,8,"Presiding Judge, Ct of Crim App",,,Under Votes,11,1,5,5
+Gonzales,8,"Judge, Ct of Crim App",7,REP,Gina Parker,238,7,169,62
+Gonzales,8,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,41,3,29,9
+Gonzales,8,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Gonzales,8,"Judge, Ct of Crim App",7,,Under Votes,12,1,6,5
+Gonzales,8,"Judge, Ct of Crim App",8,REP,Lee Finley,240,7,171,62
+Gonzales,8,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,39,3,28,8
+Gonzales,8,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Gonzales,8,"Judge, Ct of Crim App",8,,Under Votes,12,1,5,6
+Gonzales,8,"Member, State BoE",3,DEM,Marisa Perez-Diaz,102,5,69,28
+Gonzales,8,"Member, State BoE",3,,Over Votes,0,0,0,0
+Gonzales,8,"Member, State BoE",3,,Under Votes,189,6,135,48
+Gonzales,8,State Representative,44,REP,Alan Schoolcraft,229,7,163,59
+Gonzales,8,State Representative,44,DEM,Eric Norman,45,4,33,8
+Gonzales,8,State Representative,44,,Over Votes,0,0,0,0
+Gonzales,8,State Representative,44,,Under Votes,17,0,8,9
+Gonzales,8,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,232,6,166,60
+Gonzales,8,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,41,3,28,10
+Gonzales,8,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Gonzales,8,"Chief Justice, 13th Ct of App Dist",,,Under Votes,18,2,10,6
+Gonzales,8,"Justice, 13th Ct of App Dist",2,REP,Jenny Cron,234,6,165,63
+Gonzales,8,"Justice, 13th Ct of App Dist",2,DEM,Nora Longoria,41,3,31,7
+Gonzales,8,"Justice, 13th Ct of App Dist",2,,Over Votes,0,0,0,0
+Gonzales,8,"Justice, 13th Ct of App Dist",2,,Under Votes,16,2,8,6
+Gonzales,8,"Justice, 13th Ct of App Dist",4,REP,Ysmael D. Fonseca,231,6,165,60
+Gonzales,8,"Justice, 13th Ct of App Dist",4,DEM,Joe Martinez,41,3,30,8
+Gonzales,8,"Justice, 13th Ct of App Dist",4,,Over Votes,0,0,0,0
+Gonzales,8,"Justice, 13th Ct of App Dist",4,,Under Votes,19,2,9,8
+Gonzales,8,"Justice, 13th Ct of App Dist",5,REP,Jon West,237,7,166,64
+Gonzales,8,"Justice, 13th Ct of App Dist",5,DEM,Regi Complian Richardson,38,3,29,6
+Gonzales,8,"Justice, 13th Ct of App Dist",5,,Over Votes,0,0,0,0
+Gonzales,8,"Justice, 13th Ct of App Dist",5,,Under Votes,16,1,9,6
+Gonzales,8,"Dist Judge, 25th Judicial Dist",,REP,Bill Old,256,8,183,65
+Gonzales,8,"Dist Judge, 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,8,"Dist Judge, 25th Judicial Dist",,,Under Votes,35,3,21,11
+Gonzales,8,"Dist Judge, 2nd 25th Judicial Dist",,REP,Jessica Richard Crawford,242,8,176,58
+Gonzales,8,"Dist Judge, 2nd 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,8,"Dist Judge, 2nd 25th Judicial Dist",,,Under Votes,49,3,28,18
+Gonzales,8,County Attorney,,REP,"Eduardo ""Eddie"" Xavier Escobar",253,7,185,61
+Gonzales,8,County Attorney,,,Over Votes,0,0,0,0
+Gonzales,8,County Attorney,,,Under Votes,38,4,19,15
+Gonzales,8,Sheriff,,REP,Keith A. Schmidt,232,8,162,62
+Gonzales,8,Sheriff,,DEM,Clay Allen,52,3,39,10
+Gonzales,8,Sheriff,,,Over Votes,0,0,0,0
+Gonzales,8,Sheriff,,,Under Votes,7,0,3,4
+Gonzales,8,County Tax Assessor-Collector,,REP,Crystal Cedillo,254,9,182,63
+Gonzales,8,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gonzales,8,County Tax Assessor-Collector,,,Under Votes,37,2,22,13
+Gonzales,8,County Commissioner,3,REP,Roy A Staton,252,8,182,62
+Gonzales,8,County Commissioner,3,Over Votes,0,0,0,0,
+Gonzales,8,County Commissioner,3,Under Votes,39,3,22,14,
+Gonzales,8,Constable,1,REP,Derek Johnson,246,8,179,59
+Gonzales,8,Constable,1,Over Votes,0,0,0,0,
+Gonzales,8,Constable,1,Under Votes,45,3,25,17,
+Gonzales,9,Registered Voters,,,,1254,,,
+Gonzales,9,Ballots Cast,,,,719,31,531,157
+Gonzales,9,Ballots Cast Blank,,,,0,0,0,0
+Gonzales,9,President,,REP,Donald J. Trump,450,17,344,89
+Gonzales,9,President,,DEM,Kamala D. Harris,263,14,182,67
+Gonzales,9,President,,LIB,Chase Oliver,3,0,3,0
+Gonzales,9,President,,GRN,Jill Stein,1,0,1,0
+Gonzales,9,President,,,Write-ins,0,0,0,0
+Gonzales,9,President,,,Over Votes,0,0,0,0
+Gonzales,9,President,,,Under Votes,2,0,1,1
+Gonzales,9,U.S. Senate,,REP,Ted Cruz,424,15,331,78
+Gonzales,9,U.S. Senate,,DEM,Colin Allred,257,16,181,60
+Gonzales,9,U.S. Senate,,LIB,Ted Brown,13,0,5,8
+Gonzales,9,U.S. Senate,,,Write-ins,1,0,0,1
+Gonzales,9,U.S. Senate,,,Over Votes,0,0,0,0
+Gonzales,9,U.S. Senate,,,Under Votes,24,0,14,10
+Gonzales,9,U.S. House,27,REP,Michael Cloud,434,17,332,85
+Gonzales,9,U.S. House,27,DEM,Tanya Lloyd,222,13,159,50
+Gonzales,9,U.S. House,27,,Over Votes,0,0,0,0
+Gonzales,9,U.S. House,27,,Under Votes,63,1,40,22
+Gonzales,9,Railroad Commissioner,,REP,Christi Craddick,414,17,322,74
+Gonzales,9,Railroad Commissioner,,DEM,Katherine Culbert,195,12,142,41
+Gonzales,9,Railroad Commissioner,,LIB,Hawk Dunlap,13,0,6,7
+Gonzales,9,Railroad Commissioner,,GRN,Eddie Espinoza,29,1,15,13
+Gonzales,9,Railroad Commissioner,,,Write-ins,0,0,0,0
+Gonzales,9,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gonzales,9,Railroad Commissioner,,,Under Votes,68,1,45,22
+Gonzales,9,"Justice, Supreme Court",2,REP,Jimmy Blacklock,434,19,332,83
+Gonzales,9,"Justice, Supreme Court",2,DEM,DaSean Jones,212,9,154,49
+Gonzales,9,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Gonzales,9,"Justice, Supreme Court",2,,Under Votes,73,3,45,25
+Gonzales,9,"Justice, Supreme Court",4,REP,John Devine,424,17,329,78
+Gonzales,9,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,223,12,159,52
+Gonzales,9,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Gonzales,9,"Justice, Supreme Court",4,,Under Votes,72,2,43,27
+Gonzales,9,"Justice, Supreme Court",6,REP,Jane Bland,407,17,314,76
+Gonzales,9,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,213,12,151,50
+Gonzales,9,"Justice, Supreme Court",6,LIB,J. David Roberson,23,0,16,7
+Gonzales,9,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Gonzales,9,"Justice, Supreme Court",6,,Under Votes,76,2,50,24
+Gonzales,9,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,418,17,325,76
+Gonzales,9,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,224,13,154,57
+Gonzales,9,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Gonzales,9,"Presiding Judge, Ct of Crim App",,,Under Votes,77,1,52,24
+Gonzales,9,"Judge, Ct of Crim App",7,REP,Gina Parker,417,17,318,82
+Gonzales,9,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,217,13,152,52
+Gonzales,9,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Gonzales,9,"Judge, Ct of Crim App",7,,Under Votes,85,1,61,23
+Gonzales,9,"Judge, Ct of Crim App",8,REP,Lee Finley,424,17,326,81
+Gonzales,9,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,214,12,150,52
+Gonzales,9,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Gonzales,9,"Judge, Ct of Crim App",8,,Under Votes,81,2,55,24
+Gonzales,9,"Member, State BoE",3,DEM,Marisa Perez-Diaz,317,15,222,80
+Gonzales,9,"Member, State BoE",3,,Over Votes,0,0,0,0
+Gonzales,9,"Member, State BoE",3,,Under Votes,402,16,309,77
+Gonzales,9,State Representative,44,REP,Alan Schoolcraft,410,14,317,79
+Gonzales,9,State Representative,44,DEM,Eric Norman,230,15,161,54
+Gonzales,9,State Representative,44,,Over Votes,0,0,0,0
+Gonzales,9,State Representative,44,,Under Votes,79,2,53,24
+Gonzales,9,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,414,17,319,78
+Gonzales,9,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,221,13,152,56
+Gonzales,9,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Gonzales,9,"Chief Justice, 13th Ct of App Dist",,,Under Votes,84,1,60,23
+Gonzales,9,"Justice, 13th Ct of App Dist",2,REP,Jenny Cron,402,17,308,77
+Gonzales,9,"Justice, 13th Ct of App Dist",2,DEM,Nora Longoria,226,14,155,57
+Gonzales,9,"Justice, 13th Ct of App Dist",2,,Over Votes,0,0,0,0
+Gonzales,9,"Justice, 13th Ct of App Dist",2,,Under Votes,91,0,68,23
+Gonzales,9,"Justice, 13th Ct of App Dist",4,REP,Ysmael D. Fonseca,414,17,315,82
+Gonzales,9,"Justice, 13th Ct of App Dist",4,DEM,Joe Martinez,220,13,156,51
+Gonzales,9,"Justice, 13th Ct of App Dist",4,,Over Votes,0,0,0,0
+Gonzales,9,"Justice, 13th Ct of App Dist",4,,Under Votes,85,1,60,24
+Gonzales,9,"Justice, 13th Ct of App Dist",5,REP,Jon West,416,17,316,83
+Gonzales,9,"Justice, 13th Ct of App Dist",5,DEM,Regi Complian Richardson,211,13,148,50
+Gonzales,9,"Justice, 13th Ct of App Dist",5,,Over Votes,0,0,0,0
+Gonzales,9,"Justice, 13th Ct of App Dist",5,,Under Votes,92,1,67,24
+Gonzales,9,"Dist Judge, 25th Judicial Dist",,REP,Bill Old,474,20,358,96
+Gonzales,9,"Dist Judge, 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,9,"Dist Judge, 25th Judicial Dist",,,Under Votes,245,11,173,61
+Gonzales,9,"Dist Judge, 2nd 25th Judicial Dist",,REP,Jessica Richard Crawford,453,20,338,95
+Gonzales,9,"Dist Judge, 2nd 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,9,"Dist Judge, 2nd 25th Judicial Dist",,,Under Votes,266,11,192,62
+Gonzales,9,County Attorney,,REP,"Eduardo ""Eddie"" Xavier Escobar",482,21,362,99
+Gonzales,9,County Attorney,,,Over Votes,0,0,0,0
+Gonzales,9,County Attorney,,,Under Votes,237,10,169,58
+Gonzales,9,Sheriff,,REP,Keith A. Schmidt,415,18,315,82
+Gonzales,9,Sheriff,,DEM,Clay Allen,240,11,171,58
+Gonzales,9,Sheriff,,,Over Votes,0,0,0,0
+Gonzales,9,Sheriff,,,Under Votes,64,2,45,17
+Gonzales,9,County Tax Assessor-Collector,,REP,Crystal Cedillo,530,26,386,118
+Gonzales,9,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gonzales,9,County Tax Assessor-Collector,,,Under Votes,189,5,145,39
+Gonzales,9,County Commissioner,3,REP,Derek Johnson,493,21,368,104
+Gonzales,9,County Commissioner,3,Over Votes,0,0,0,0,
+Gonzales,9,County Commissioner,3,Under Votes,226,10,163,53,
+Gonzales,10,Registered Voters,,,,718,,,
+Gonzales,10,Ballots Cast,,,,412,14,279,119
+Gonzales,10,Ballots Cast Blank,,,,0,0,0,0
+Gonzales,10,President,,REP,Donald J. Trump,347,10,238,99
+Gonzales,10,President,,DEM,Kamala D. Harris,61,4,39,18
+Gonzales,10,President,,LIB,Chase Oliver,0,0,0,0
+Gonzales,10,President,,GRN,Jill Stein,2,0,1,1
+Gonzales,10,President,,,Write-ins,0,0,0,0
+Gonzales,10,President,,,Over Votes,0,0,0,0
+Gonzales,10,President,,,Under Votes,2,0,1,1
+Gonzales,10,U.S. Senate,,REP,Ted Cruz,320,10,227,83
+Gonzales,10,U.S. Senate,,DEM,Colin Allred,69,4,46,19
+Gonzales,10,U.S. Senate,,LIB,Ted Brown,11,0,1,10
+Gonzales,10,U.S. Senate,,,Write-ins,0,0,0,0
+Gonzales,10,U.S. Senate,,,Over Votes,0,0,0,0
+Gonzales,10,U.S. Senate,,,Under Votes,12,0,5,7
+Gonzales,10,U.S. House,27,REP,Michael Cloud,321,10,224,87
+Gonzales,10,U.S. House,27,DEM,Tanya Lloyd,59,3,39,17
+Gonzales,10,U.S. House,27,,Over Votes,0,0,0,0
+Gonzales,10,U.S. House,27,,Under Votes,32,1,16,15
+Gonzales,10,Railroad Commissioner,,REP,Christi Craddick,307,10,220,77
+Gonzales,10,Railroad Commissioner,,DEM,Katherine Culbert,54,3,34,17
+Gonzales,10,Railroad Commissioner,,LIB,Hawk Dunlap,13,1,6,6
+Gonzales,10,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,3,5
+Gonzales,10,Railroad Commissioner,,,Write-ins,0,0,0,0
+Gonzales,10,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gonzales,10,Railroad Commissioner,,,Under Votes,30,0,16,14
+Gonzales,10,"Justice, Supreme Court",2,REP,Jimmy Blacklock,321,10,227,84
+Gonzales,10,"Justice, Supreme Court",2,DEM,DaSean Jones,58,4,37,17
+Gonzales,10,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Gonzales,10,"Justice, Supreme Court",2,,Under Votes,33,0,15,18
+Gonzales,10,"Justice, Supreme Court",4,REP,John Devine,320,10,227,83
+Gonzales,10,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,61,4,39,18
+Gonzales,10,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Gonzales,10,"Justice, Supreme Court",4,,Under Votes,31,0,13,18
+Gonzales,10,"Justice, Supreme Court",6,REP,Jane Bland,312,10,219,83
+Gonzales,10,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,55,3,37,15
+Gonzales,10,"Justice, Supreme Court",6,LIB,J. David Roberson,10,0,4,6
+Gonzales,10,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Gonzales,10,"Justice, Supreme Court",6,,Under Votes,35,1,19,15
+Gonzales,10,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,318,10,221,87
+Gonzales,10,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,56,3,37,16
+Gonzales,10,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Gonzales,10,"Presiding Judge, Ct of Crim App",,,Under Votes,38,1,21,16
+Gonzales,10,"Judge, Ct of Crim App",7,REP,Gina Parker,321,9,225,87
+Gonzales,10,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,55,3,37,15
+Gonzales,10,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Gonzales,10,"Judge, Ct of Crim App",7,,Under Votes,36,2,17,17
+Gonzales,10,"Judge, Ct of Crim App",8,REP,Lee Finley,324,10,227,87
+Gonzales,10,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,53,4,34,15
+Gonzales,10,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Gonzales,10,"Judge, Ct of Crim App",8,,Under Votes,35,0,18,17
+Gonzales,10,"Member, State BoE",3,DEM,Marisa Perez-Diaz,141,5,88,48
+Gonzales,10,"Member, State BoE",3,,Over Votes,0,0,0,0
+Gonzales,10,"Member, State BoE",3,,Under Votes,271,9,191,71
+Gonzales,10,State Representative,44,REP,Alan Schoolcraft,318,10,222,86
+Gonzales,10,State Representative,44,DEM,Eric Norman,61,3,41,17
+Gonzales,10,State Representative,44,,Over Votes,0,0,0,0
+Gonzales,10,State Representative,44,,Under Votes,33,1,16,16
+Gonzales,10,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,313,10,220,83
+Gonzales,10,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,65,4,41,20
+Gonzales,10,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Gonzales,10,"Chief Justice, 13th Ct of App Dist",,,Under Votes,34,0,18,16
+Gonzales,10,"Justice, 13th Ct of App Dist",2,REP,Jenny Cron,307,10,217,80
+Gonzales,10,"Justice, 13th Ct of App Dist",2,DEM,Nora Longoria,67,4,42,21
+Gonzales,10,"Justice, 13th Ct of App Dist",2,,Over Votes,0,0,0,0
+Gonzales,10,"Justice, 13th Ct of App Dist",2,,Under Votes,38,0,20,18
+Gonzales,10,"Justice, 13th Ct of App Dist",4,REP,Ysmael D. Fonseca,312,10,221,81
+Gonzales,10,"Justice, 13th Ct of App Dist",4,DEM,Joe Martinez,64,3,39,22
+Gonzales,10,"Justice, 13th Ct of App Dist",4,,Over Votes,0,0,0,0
+Gonzales,10,"Justice, 13th Ct of App Dist",4,,Under Votes,36,1,19,16
+Gonzales,10,"Justice, 13th Ct of App Dist",5,REP,Jon West,325,10,228,87
+Gonzales,10,"Justice, 13th Ct of App Dist",5,DEM,Regi Complian Richardson,50,3,33,14
+Gonzales,10,"Justice, 13th Ct of App Dist",5,,Over Votes,0,0,0,0
+Gonzales,10,"Justice, 13th Ct of App Dist",5,,Under Votes,37,1,18,18
+Gonzales,10,"Dist Judge, 25th Judicial Dist",,REP,Bill Old,320,11,220,89
+Gonzales,10,"Dist Judge, 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,10,"Dist Judge, 25th Judicial Dist",,,Under Votes,92,3,59,30
+Gonzales,10,"Dist Judge, 2nd 25th Judicial Dist",,REP,Jessica Richard Crawford,312,11,215,86
+Gonzales,10,"Dist Judge, 2nd 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,10,"Dist Judge, 2nd 25th Judicial Dist",,,Under Votes,100,3,64,33
+Gonzales,10,County Attorney,,REP,"Eduardo ""Eddie"" Xavier Escobar",330,11,226,93
+Gonzales,10,County Attorney,,,Over Votes,0,0,0,0
+Gonzales,10,County Attorney,,,Under Votes,82,3,53,26
+Gonzales,10,Sheriff,,REP,Keith A. Schmidt,279,8,189,73
+Gonzales,10,Sheriff,,DEM,Clay Allen,118,6,78,34
+Gonzales,10,Sheriff,,,Over Votes,0,0,0,0
+Gonzales,10,Sheriff,,,Under Votes,24,0,12,12
+Gonzales,10,County Tax Assessor-Collector,,REP,Crystal Cedillo,338,12,233,93
+Gonzales,10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gonzales,10,County Tax Assessor-Collector,,,Under Votes,74,2,46,26
+Gonzales,10,Constable,4,REP,John J. Moreno,343,12,233,98
+Gonzales,10,Constable,4,Over Votes,0,0,0,0,
+Gonzales,10,Constable,4,Under Votes,69,2,46,21,
+Gonzales,11,Registered Voters,,,,246,,,
+Gonzales,11,Ballots Cast,,,,203,9,162,32
+Gonzales,11,Ballots Cast Blank,,,,0,0,0,0
+Gonzales,11,President,,REP,Donald J. Trump,187,8,151,28
+Gonzales,11,President,,DEM,Kamala D. Harris,16,1,11,4
+Gonzales,11,President,,LIB,Chase Oliver,0,0,0,0
+Gonzales,11,President,,GRN,Jill Stein,0,0,0,0
+Gonzales,11,President,,,Write-ins,0,0,0,0
+Gonzales,11,President,,,Over Votes,0,0,0,0
+Gonzales,11,President,,,Under Votes,0,0,0,0
+Gonzales,11,U.S. Senate,,REP,Ted Cruz,180,6,147,27
+Gonzales,11,U.S. Senate,,DEM,Colin Allred,19,1,13,5
+Gonzales,11,U.S. Senate,,LIB,Ted Brown,3,2,1,0
+Gonzales,11,U.S. Senate,,,Write-ins,0,0,0,0
+Gonzales,11,U.S. Senate,,,Over Votes,0,0,0,0
+Gonzales,11,U.S. Senate,,,Under Votes,1,0,1,0
+Gonzales,11,U.S. House,27,REP,Michael Cloud,183,8,148,27
+Gonzales,11,U.S. House,27,DEM,Tanya Lloyd,17,1,12,4
+Gonzales,11,U.S. House,27,,Over Votes,0,0,0,0
+Gonzales,11,U.S. House,27,,Under Votes,3,0,2,1
+Gonzales,11,Railroad Commissioner,,REP,Christi Craddick,175,8,141,26
+Gonzales,11,Railroad Commissioner,,DEM,Katherine Culbert,15,0,11,4
+Gonzales,11,Railroad Commissioner,,LIB,Hawk Dunlap,8,1,6,1
+Gonzales,11,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+Gonzales,11,Railroad Commissioner,,,Write-ins,0,0,0,0
+Gonzales,11,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gonzales,11,Railroad Commissioner,,,Under Votes,4,0,4,0
+Gonzales,11,"Justice, Supreme Court",2,REP,Jimmy Blacklock,183,8,148,27
+Gonzales,11,"Justice, Supreme Court",2,DEM,DaSean Jones,15,1,10,4
+Gonzales,11,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Gonzales,11,"Justice, Supreme Court",2,,Under Votes,5,0,4,1
+Gonzales,11,"Justice, Supreme Court",4,REP,John Devine,182,8,148,26
+Gonzales,11,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,16,1,10,5
+Gonzales,11,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Gonzales,11,"Justice, Supreme Court",4,,Under Votes,5,0,4,1
+Gonzales,11,"Justice, Supreme Court",6,REP,Jane Bland,182,8,148,26
+Gonzales,11,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,15,1,9,5
+Gonzales,11,"Justice, Supreme Court",6,LIB,J. David Roberson,0,0,0,0
+Gonzales,11,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Gonzales,11,"Justice, Supreme Court",6,,Under Votes,6,0,5,1
+Gonzales,11,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,181,8,147,26
+Gonzales,11,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,17,1,11,5
+Gonzales,11,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Gonzales,11,"Presiding Judge, Ct of Crim App",,,Under Votes,5,0,4,1
+Gonzales,11,"Judge, Ct of Crim App",7,REP,Gina Parker,180,8,146,26
+Gonzales,11,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,16,1,10,5
+Gonzales,11,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Gonzales,11,"Judge, Ct of Crim App",7,,Under Votes,7,0,6,1
+Gonzales,11,"Judge, Ct of Crim App",8,REP,Lee Finley,185,8,149,28
+Gonzales,11,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,11,1,7,3
+Gonzales,11,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Gonzales,11,"Judge, Ct of Crim App",8,,Under Votes,7,0,6,1
+Gonzales,11,"Member, State BoE",3,DEM,Marisa Perez-Diaz,49,2,35,12
+Gonzales,11,"Member, State BoE",3,,Over Votes,0,0,0,0
+Gonzales,11,"Member, State BoE",3,,Under Votes,154,7,127,20
+Gonzales,11,State Representative,44,REP,Alan Schoolcraft,178,8,143,27
+Gonzales,11,State Representative,44,DEM,Eric Norman,16,1,12,3
+Gonzales,11,State Representative,44,,Over Votes,0,0,0,0
+Gonzales,11,State Representative,44,,Under Votes,9,0,7,2
+Gonzales,11,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,180,8,146,26
+Gonzales,11,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,16,1,10,5
+Gonzales,11,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Gonzales,11,"Chief Justice, 13th Ct of App Dist",,,Under Votes,7,0,6,1
+Gonzales,11,"Justice, 13th Ct of App Dist",2,REP,Jenny Cron,180,8,147,25
+Gonzales,11,"Justice, 13th Ct of App Dist",2,DEM,Nora Longoria,16,1,9,6
+Gonzales,11,"Justice, 13th Ct of App Dist",2,,Over Votes,0,0,0,0
+Gonzales,11,"Justice, 13th Ct of App Dist",2,,Under Votes,7,0,6,1
+Gonzales,11,"Justice, 13th Ct of App Dist",4,REP,Ysmael D. Fonseca,179,8,145,26
+Gonzales,11,"Justice, 13th Ct of App Dist",4,DEM,Joe Martinez,15,1,9,5
+Gonzales,11,"Justice, 13th Ct of App Dist",4,,Over Votes,0,0,0,0
+Gonzales,11,"Justice, 13th Ct of App Dist",4,,Under Votes,9,0,8,1
+Gonzales,11,"Justice, 13th Ct of App Dist",5,REP,Jon West,181,8,146,27
+Gonzales,11,"Justice, 13th Ct of App Dist",5,DEM,Regi Complian Richardson,14,1,9,4
+Gonzales,11,"Justice, 13th Ct of App Dist",5,,Over Votes,0,0,0,0
+Gonzales,11,"Justice, 13th Ct of App Dist",5,,Under Votes,8,0,7,1
+Gonzales,11,"Dist Judge, 25th Judicial Dist",,REP,Bill Old,175,8,139,28
+Gonzales,11,"Dist Judge, 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,11,"Dist Judge, 25th Judicial Dist",,,Under Votes,28,1,23,4
+Gonzales,11,"Dist Judge, 2nd 25th Judicial Dist",,REP,Jessica Richard Crawford,174,8,139,27
+Gonzales,11,"Dist Judge, 2nd 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,11,"Dist Judge, 2nd 25th Judicial Dist",,,Under Votes,29,1,23,5
+Gonzales,11,County Attorney,,REP,"Eduardo ""Eddie"" Xavier Escobar",176,8,141,27
+Gonzales,11,County Attorney,,,Over Votes,0,0,0,0
+Gonzales,11,County Attorney,,,Under Votes,27,1,21,5
+Gonzales,11,Sheriff,,REP,Keith A. Schmidt,167,7,135,25
+Gonzales,11,Sheriff,,DEM,Clay Allen,31,2,23,6
+Gonzales,11,Sheriff,,,Over Votes,0,0,0,0
+Gonzales,11,Sheriff,,,Under Votes,5,0,4,1
+Gonzales,11,County Tax Assessor-Collector,,REP,Crystal Cedillo,178,6,143,29
+Gonzales,11,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gonzales,11,County Tax Assessor-Collector,,,Under Votes,25,3,19,3
+Gonzales,11,Constable,3,REP,Derek Johnson,177,8,142,27
+Gonzales,11,Constable,3,Over Votes,0,0,0,0,
+Gonzales,11,Constable,3,Under Votes,26,1,20,5,
+Gonzales,12,Registered Voters,,,,185,,,
+Gonzales,12,Ballots Cast,,,,121,5,94,22
+Gonzales,12,Ballots Cast Blank,,,,1,0,0,1
+Gonzales,12,President,,REP,Donald J. Trump,92,0,75,17
+Gonzales,12,President,,DEM,Kamala D. Harris,28,5,19,4
+Gonzales,12,President,,LIB,Chase Oliver,0,0,0,0
+Gonzales,12,President,,GRN,Jill Stein,0,0,0,0
+Gonzales,12,President,,,Write-ins,0,0,0,0
+Gonzales,12,President,,,Over Votes,0,0,0,0
+Gonzales,12,President,,,Under Votes,0,0,0,0
+Gonzales,12,U.S. Senate,,REP,Ted Cruz,90,0,75,15
+Gonzales,12,U.S. Senate,,DEM,Colin Allred,29,5,19,5
+Gonzales,12,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Gonzales,12,U.S. Senate,,,Write-ins,0,0,0,0
+Gonzales,12,U.S. Senate,,,Over Votes,0,0,0,0
+Gonzales,12,U.S. Senate,,,Under Votes,2,0,0,2
+Gonzales,12,U.S. House,27,REP,Michael Cloud,90,0,74,16
+Gonzales,12,U.S. House,27,DEM,Tanya Lloyd,26,5,18,3
+Gonzales,12,U.S. House,27,,Over Votes,0,0,0,0
+Gonzales,12,U.S. House,27,,Under Votes,5,0,2,3
+Gonzales,12,Railroad Commissioner,,REP,Christi Craddick,83,1,69,13
+Gonzales,12,Railroad Commissioner,,DEM,Katherine Culbert,22,4,15,3
+Gonzales,12,Railroad Commissioner,,LIB,Hawk Dunlap,4,0,3,1
+Gonzales,12,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Gonzales,12,Railroad Commissioner,,,Write-ins,0,0,0,0
+Gonzales,12,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gonzales,12,Railroad Commissioner,,,Under Votes,11,0,6,5
+Gonzales,12,"Justice, Supreme Court",2,REP,Jimmy Blacklock,84,1,70,13
+Gonzales,12,"Justice, Supreme Court",2,DEM,DaSean Jones,25,4,18,3
+Gonzales,12,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Gonzales,12,"Justice, Supreme Court",2,,Under Votes,12,0,6,6
+Gonzales,12,"Justice, Supreme Court",4,REP,John Devine,81,1,66,14
+Gonzales,12,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,28,4,20,4
+Gonzales,12,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Gonzales,12,"Justice, Supreme Court",4,,Under Votes,14,0,8,6
+Gonzales,12,"Justice, Supreme Court",6,REP,Jane Bland,86,1,71,14
+Gonzales,12,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,24,4,17,3
+Gonzales,12,"Justice, Supreme Court",6,LIB,J. David Roberson,1,0,0,1
+Gonzales,12,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Gonzales,12,"Justice, Supreme Court",6,,Under Votes,10,0,6,4
+Gonzales,12,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,84,1,69,14
+Gonzales,12,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,26,4,19,3
+Gonzales,12,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Gonzales,12,"Presiding Judge, Ct of Crim App",,,Under Votes,11,0,6,5
+Gonzales,12,"Judge, Ct of Crim App",7,REP,Gina Parker,87,1,72,14
+Gonzales,12,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,23,4,16,3
+Gonzales,12,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Gonzales,12,"Judge, Ct of Crim App",7,,Under Votes,11,0,6,5
+Gonzales,12,"Judge, Ct of Crim App",8,REP,Lee Finley,86,1,71,14
+Gonzales,12,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,23,4,16,3
+Gonzales,12,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Gonzales,12,"Judge, Ct of Crim App",8,,Under Votes,12,0,7,5
+Gonzales,12,"Member, State BoE",3,DEM,Marisa Perez-Diaz,52,5,38,9
+Gonzales,12,"Member, State BoE",3,,Over Votes,0,0,0,0
+Gonzales,12,"Member, State BoE",3,,Under Votes,69,0,56,13
+Gonzales,12,State Representative,44,REP,Alan Schoolcraft,87,1,73,13
+Gonzales,12,State Representative,44,DEM,Eric Norman,27,4,19,4
+Gonzales,12,State Representative,44,,Over Votes,0,0,0,0
+Gonzales,12,State Representative,44,,Under Votes,7,0,2,5
+Gonzales,12,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,86,1,71,14
+Gonzales,12,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,25,4,18,3
+Gonzales,12,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Gonzales,12,"Chief Justice, 13th Ct of App Dist",,,Under Votes,10,0,5,5
+Gonzales,12,"Justice, 13th Ct of App Dist",2,REP,Jenny Cron,86,1,72,13
+Gonzales,12,"Justice, 13th Ct of App Dist",2,DEM,Nora Longoria,25,4,17,4
+Gonzales,12,"Justice, 13th Ct of App Dist",2,,Over Votes,0,0,0,0
+Gonzales,12,"Justice, 13th Ct of App Dist",2,,Under Votes,10,0,5,5
+Gonzales,12,"Justice, 13th Ct of App Dist",4,REP,Ysmael D. Fonseca,82,1,67,14
+Gonzales,12,"Justice, 13th Ct of App Dist",4,DEM,Joe Martinez,27,4,20,3
+Gonzales,12,"Justice, 13th Ct of App Dist",4,,Over Votes,0,0,0,0
+Gonzales,12,"Justice, 13th Ct of App Dist",4,,Under Votes,12,0,7,5
+Gonzales,12,"Justice, 13th Ct of App Dist",5,REP,Jon West,83,1,68,14
+Gonzales,12,"Justice, 13th Ct of App Dist",5,DEM,Regi Complian Richardson,26,4,19,3
+Gonzales,12,"Justice, 13th Ct of App Dist",5,,Over Votes,0,0,0,0
+Gonzales,12,"Justice, 13th Ct of App Dist",5,,Under Votes,12,0,7,5
+Gonzales,12,"Dist Judge, 25th Judicial Dist",,REP,Bill Old,95,1,79,15
+Gonzales,12,"Dist Judge, 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,12,"Dist Judge, 25th Judicial Dist",,,Under Votes,26,4,15,7
+Gonzales,12,"Dist Judge, 2nd 25th Judicial Dist",,REP,Jessica Richard Crawford,85,1,70,14
+Gonzales,12,"Dist Judge, 2nd 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,12,"Dist Judge, 2nd 25th Judicial Dist",,,Under Votes,36,4,24,8
+Gonzales,12,County Attorney,,REP,"Eduardo ""Eddie"" Xavier Escobar",93,1,76,16
+Gonzales,12,County Attorney,,,Over Votes,0,0,0,0
+Gonzales,12,County Attorney,,,Under Votes,28,4,18,6
+Gonzales,12,Sheriff,,REP,Keith A. Schmidt,86,4,71,11
+Gonzales,12,Sheriff,,DEM,Clay Allen,22,1,16,5
+Gonzales,12,Sheriff,,,Over Votes,0,0,0,0
+Gonzales,12,Sheriff,,,Under Votes,13,0,7,6
+Gonzales,12,County Tax Assessor-Collector,,REP,Crystal Cedillo,97,3,80,14
+Gonzales,12,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gonzales,12,County Tax Assessor-Collector,,,Under Votes,24,2,14,8
+Gonzales,12,Constable,1,REP,Johnnie Hall,96,1,78,17
+Gonzales,12,Constable,1,Over Votes,0,0,0,0,
+Gonzales,12,Constable,1,Under Votes,25,4,16,5,
+Gonzales,13,Registered Voters,,,,394,,,
+Gonzales,13,Ballots Cast,,,,263,5,178,80
+Gonzales,13,Ballots Cast Blank,,,,0,0,0,0
+Gonzales,13,President,,REP,Donald J. Trump,224,4,151,69
+Gonzales,13,President,,DEM,Kamala D. Harris,37,1,26,10
+Gonzales,13,President,,LIB,Chase Oliver,0,0,0,0
+Gonzales,13,President,,GRN,Jill Stein,0,0,0,0
+Gonzales,13,President,,,Write-ins,2,0,1,1
+Gonzales,13,President,,,Over Votes,0,0,0,0
+Gonzales,13,President,,,Under Votes,0,0,0,0
+Gonzales,13,U.S. Senate,,REP,Ted Cruz,216,4,143,63
+Gonzales,13,U.S. Senate,,DEM,Colin Allred,45,1,30,14
+Gonzales,13,U.S. Senate,,LIB,Ted Brown,4,0,1,3
+Gonzales,13,U.S. Senate,,,Write-ins,1,0,1,0
+Gonzales,13,U.S. Senate,,,Over Votes,0,0,0,0
+Gonzales,13,U.S. Senate,,,Under Votes,0,0,0,0
+Gonzales,13,U.S. House,27,REP,Michael Cloud,219,4,148,67
+Gonzales,13,U.S. House,27,DEM,Tanya Lloyd,32,1,22,9
+Gonzales,13,U.S. House,27,,Over Votes,0,0,0,0
+Gonzales,13,U.S. House,27,,Under Votes,12,0,8,4
+Gonzales,13,Railroad Commissioner,,REP,Christi Craddick,213,3,143,67
+Gonzales,13,Railroad Commissioner,,DEM,Katherine Culbert,30,1,20,9
+Gonzales,13,Railroad Commissioner,,LIB,Hawk Dunlap,5,1,4,0
+Gonzales,13,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,3,1
+Gonzales,13,Railroad Commissioner,,,Write-ins,1,0,1,0
+Gonzales,13,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gonzales,13,Railroad Commissioner,,,Under Votes,10,0,7,3
+Gonzales,13,"Justice, Supreme Court",2,REP,Jimmy Blacklock,220,4,150,66
+Gonzales,13,"Justice, Supreme Court",2,DEM,DaSean Jones,31,1,20,10
+Gonzales,13,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Gonzales,13,"Justice, Supreme Court",2,,Under Votes,12,0,8,4
+Gonzales,13,"Justice, Supreme Court",4,REP,John Devine,216,4,148,64
+Gonzales,13,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,36,1,24,11
+Gonzales,13,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Gonzales,13,"Justice, Supreme Court",4,,Under Votes,11,0,6,5
+Gonzales,13,"Justice, Supreme Court",6,REP,Jane Bland,209,4,143,62
+Gonzales,13,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,35,1,23,11
+Gonzales,13,"Justice, Supreme Court",6,LIB,J. David Roberson,4,0,3,1
+Gonzales,13,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Gonzales,13,"Justice, Supreme Court",6,,Under Votes,15,0,9,6
+Gonzales,13,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,212,4,146,62
+Gonzales,13,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,35,1,22,12
+Gonzales,13,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Gonzales,13,"Presiding Judge, Ct of Crim App",,,Under Votes,16,0,10,6
+Gonzales,13,"Judge, Ct of Crim App",7,REP,Gina Parker,207,3,143,61
+Gonzales,13,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,39,1,26,12
+Gonzales,13,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Gonzales,13,"Judge, Ct of Crim App",7,,Under Votes,17,1,9,7
+Gonzales,13,"Judge, Ct of Crim App",8,REP,Lee Finley,213,4,145,64
+Gonzales,13,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,34,1,24,9
+Gonzales,13,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Gonzales,13,"Judge, Ct of Crim App",8,,Under Votes,16,0,9,7
+Gonzales,13,"Member, State BoE",3,DEM,Marisa Perez-Diaz,86,1,54,31
+Gonzales,13,"Member, State BoE",3,,Over Votes,0,0,0,0
+Gonzales,13,"Member, State BoE",3,,Under Votes,177,4,124,49
+Gonzales,13,State Representative,44,REP,Alan Schoolcraft,207,3,142,62
+Gonzales,13,State Representative,44,DEM,Eric Norman,38,1,25,12
+Gonzales,13,State Representative,44,,Over Votes,0,0,0,0
+Gonzales,13,State Representative,44,,Under Votes,18,1,11,6
+Gonzales,13,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,207,3,142,62
+Gonzales,13,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,37,1,25,11
+Gonzales,13,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Gonzales,13,"Chief Justice, 13th Ct of App Dist",,,Under Votes,19,1,11,7
+Gonzales,13,"Justice, 13th Ct of App Dist",2,REP,Jenny Cron,209,3,143,63
+Gonzales,13,"Justice, 13th Ct of App Dist",2,DEM,Nora Longoria,35,1,24,10
+Gonzales,13,"Justice, 13th Ct of App Dist",2,,Over Votes,0,0,0,0
+Gonzales,13,"Justice, 13th Ct of App Dist",2,,Under Votes,19,1,11,7
+Gonzales,13,"Justice, 13th Ct of App Dist",4,REP,Ysmael D. Fonseca,204,3,140,61
+Gonzales,13,"Justice, 13th Ct of App Dist",4,DEM,Joe Martinez,40,1,27,12
+Gonzales,13,"Justice, 13th Ct of App Dist",4,,Over Votes,0,0,0,0
+Gonzales,13,"Justice, 13th Ct of App Dist",4,,Under Votes,19,1,11,7
+Gonzales,13,"Justice, 13th Ct of App Dist",5,REP,Jon West,210,3,144,63
+Gonzales,13,"Justice, 13th Ct of App Dist",5,DEM,Regi Complian Richardson,36,1,24,11
+Gonzales,13,"Justice, 13th Ct of App Dist",5,,Over Votes,0,0,0,0
+Gonzales,13,"Justice, 13th Ct of App Dist",5,,Under Votes,17,1,10,6
+Gonzales,13,"Dist Judge, 25th Judicial Dist",,REP,Bill Old,217,3,148,66
+Gonzales,13,"Dist Judge, 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,13,"Dist Judge, 25th Judicial Dist",,,Under Votes,46,2,30,14
+Gonzales,13,"Dist Judge, 2nd 25th Judicial Dist",,REP,Jessica Richard Crawford,209,3,142,64
+Gonzales,13,"Dist Judge, 2nd 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,13,"Dist Judge, 2nd 25th Judicial Dist",,,Under Votes,54,2,36,16
+Gonzales,13,County Attorney,,REP,"Eduardo ""Eddie"" Xavier Escobar",214,3,149,62
+Gonzales,13,County Attorney,,,Over Votes,0,0,0,0
+Gonzales,13,County Attorney,,,Under Votes,49,2,29,18
+Gonzales,13,Sheriff,,REP,Keith A. Schmidt,199,3,137,59
+Gonzales,13,Sheriff,,DEM,Clay Allen,54,1,36,17
+Gonzales,13,Sheriff,,,Over Votes,0,0,0,0
+Gonzales,13,Sheriff,,,Under Votes,10,1,5,4
+Gonzales,13,County Tax Assessor-Collector,,REP,Crystal Cedillo,221,4,148,69
+Gonzales,13,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gonzales,13,County Tax Assessor-Collector,,,Under Votes,42,1,30,11
+Gonzales,13,Constable,4,REP,John J. Moreno,221,3,149,69
+Gonzales,13,Constable,4,Over Votes,0,0,0,0,
+Gonzales,13,Constable,4,Under Votes,42,2,29,11,
+Gonzales,14,Registered Voters,,,,87,,,
+Gonzales,14,Ballots Cast,,,,72,4,50,18
+Gonzales,14,Ballots Cast Blank,,,,0,0,0,0
+Gonzales,14,President,,REP,Donald J. Trump,63,2,48,13
+Gonzales,14,President,,DEM,Kamala D. Harris,9,2,2,5
+Gonzales,14,President,,LIB,Chase Oliver,0,0,0,0
+Gonzales,14,President,,GRN,Jill Stein,0,0,0,0
+Gonzales,14,President,,,Write-ins,0,0,0,0
+Gonzales,14,President,,,Over Votes,0,0,0,0
+Gonzales,14,President,,,Under Votes,0,0,0,0
+Gonzales,14,U.S. Senate,,REP,Ted Cruz,61,2,47,12
+Gonzales,14,U.S. Senate,,DEM,Colin Allred,9,2,2,5
+Gonzales,14,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+Gonzales,14,U.S. Senate,,,Write-ins,0,0,0,0
+Gonzales,14,U.S. Senate,,,Over Votes,0,0,0,0
+Gonzales,14,U.S. Senate,,,Under Votes,1,0,1,0
+Gonzales,14,U.S. House,27,REP,Michael Cloud,62,2,48,12
+Gonzales,14,U.S. House,27,DEM,Tanya Lloyd,10,2,2,6
+Gonzales,14,U.S. House,27,,Over Votes,0,0,0,0
+Gonzales,14,U.S. House,27,,Under Votes,0,0,0,0
+Gonzales,14,Railroad Commissioner,,REP,Christi Craddick,61,2,48,11
+Gonzales,14,Railroad Commissioner,,DEM,Katherine Culbert,10,2,2,6
+Gonzales,14,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,0,1
+Gonzales,14,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Gonzales,14,Railroad Commissioner,,,Write-ins,0,0,0,0
+Gonzales,14,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gonzales,14,Railroad Commissioner,,,Under Votes,0,0,0,0
+Gonzales,14,"Justice, Supreme Court",2,REP,Jimmy Blacklock,64,2,49,13
+Gonzales,14,"Justice, Supreme Court",2,DEM,DaSean Jones,8,2,1,5
+Gonzales,14,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Gonzales,14,"Justice, Supreme Court",2,,Under Votes,0,0,0,0
+Gonzales,14,"Justice, Supreme Court",4,REP,John Devine,63,2,48,13
+Gonzales,14,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,9,2,2,5
+Gonzales,14,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Gonzales,14,"Justice, Supreme Court",4,,Under Votes,0,0,0,0
+Gonzales,14,"Justice, Supreme Court",6,REP,Jane Bland,60,2,48,10
+Gonzales,14,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,9,2,1,6
+Gonzales,14,"Justice, Supreme Court",6,LIB,J. David Roberson,1,0,0,1
+Gonzales,14,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Gonzales,14,"Justice, Supreme Court",6,,Under Votes,2,0,1,1
+Gonzales,14,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,61,2,48,11
+Gonzales,14,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,9,2,1,6
+Gonzales,14,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Gonzales,14,"Presiding Judge, Ct of Crim App",,,Under Votes,2,0,1,1
+Gonzales,14,"Judge, Ct of Crim App",7,REP,Gina Parker,60,2,47,11
+Gonzales,14,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,10,2,2,6
+Gonzales,14,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Gonzales,14,"Judge, Ct of Crim App",7,,Under Votes,2,0,1,1
+Gonzales,14,"Judge, Ct of Crim App",8,REP,Lee Finley,61,2,47,12
+Gonzales,14,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,9,2,2,5
+Gonzales,14,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Gonzales,14,"Judge, Ct of Crim App",8,,Under Votes,2,0,1,1
+Gonzales,14,"Member, State BoE",3,DEM,Marisa Perez-Diaz,25,2,14,9
+Gonzales,14,"Member, State BoE",3,,Over Votes,0,0,0,0
+Gonzales,14,"Member, State BoE",3,,Under Votes,47,2,36,9
+Gonzales,14,State Representative,44,REP,Alan Schoolcraft,62,2,48,12
+Gonzales,14,State Representative,44,DEM,Eric Norman,9,2,2,5
+Gonzales,14,State Representative,44,,Over Votes,0,0,0,0
+Gonzales,14,State Representative,44,,Under Votes,1,0,0,1
+Gonzales,14,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,62,2,47,13
+Gonzales,14,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,8,2,1,5
+Gonzales,14,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Gonzales,14,"Chief Justice, 13th Ct of App Dist",,,Under Votes,2,0,2,0
+Gonzales,14,"Justice, 13th Ct of App Dist",2,REP,Jenny Cron,60,2,47,11
+Gonzales,14,"Justice, 13th Ct of App Dist",2,DEM,Nora Longoria,10,2,1,7
+Gonzales,14,"Justice, 13th Ct of App Dist",2,,Over Votes,0,0,0,0
+Gonzales,14,"Justice, 13th Ct of App Dist",2,,Under Votes,2,0,2,0
+Gonzales,14,"Justice, 13th Ct of App Dist",4,REP,Ysmael D. Fonseca,60,2,48,10
+Gonzales,14,"Justice, 13th Ct of App Dist",4,DEM,Joe Martinez,9,2,1,6
+Gonzales,14,"Justice, 13th Ct of App Dist",4,,Over Votes,0,0,0,0
+Gonzales,14,"Justice, 13th Ct of App Dist",4,,Under Votes,3,0,2,1
+Gonzales,14,"Justice, 13th Ct of App Dist",5,REP,Jon West,62,2,48,12
+Gonzales,14,"Justice, 13th Ct of App Dist",5,DEM,Regi Complian Richardson,8,2,1,5
+Gonzales,14,"Justice, 13th Ct of App Dist",5,,Over Votes,0,0,0,0
+Gonzales,14,"Justice, 13th Ct of App Dist",5,,Under Votes,2,0,1,1
+Gonzales,14,"Dist Judge, 25th Judicial Dist",,REP,Bill Old,65,4,47,14
+Gonzales,14,"Dist Judge, 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,14,"Dist Judge, 25th Judicial Dist",,,Under Votes,7,0,3,4
+Gonzales,14,"Dist Judge, 2nd 25th Judicial Dist",,REP,Jessica Richard Crawford,64,4,46,14
+Gonzales,14,"Dist Judge, 2nd 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,14,"Dist Judge, 2nd 25th Judicial Dist",,,Under Votes,8,0,4,4
+Gonzales,14,County Attorney,,REP,"Eduardo ""Eddie"" Xavier Escobar",64,3,46,15
+Gonzales,14,County Attorney,,,Over Votes,0,0,0,0
+Gonzales,14,County Attorney,,,Under Votes,8,1,4,3
+Gonzales,14,Sheriff,,REP,Keith A. Schmidt,62,2,48,12
+Gonzales,14,Sheriff,,DEM,Clay Allen,10,2,2,6
+Gonzales,14,Sheriff,,,Over Votes,0,0,0,0
+Gonzales,14,Sheriff,,,Under Votes,0,0,0,0
+Gonzales,14,County Tax Assessor-Collector,,REP,Crystal Cedillo,65,4,46,15
+Gonzales,14,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gonzales,14,County Tax Assessor-Collector,,,Under Votes,7,0,4,3
+Gonzales,14,County Commissioner,1,REP,"Anton W ""Tony"" Matias",68,4,48,16
+Gonzales,14,County Commissioner,1,Over Votes,0,0,0,0,
+Gonzales,14,County Commissioner,1,Under Votes,4,0,2,2,
+Gonzales,14,Constable,1,REP,Johnnie Hall,65,4,47,14
+Gonzales,14,Constable,1,Over Votes,0,0,0,0,
+Gonzales,14,Constable,1,Under Votes,7,0,3,4,
+Gonzales,15,Registered Voters,,,,381,,,
+Gonzales,15,Ballots Cast,,,,278,12,232,34
+Gonzales,15,Ballots Cast Blank,,,,0,0,0,0
+Gonzales,15,President,,REP,Donald J. Trump,242,10,203,29
+Gonzales,15,President,,DEM,Kamala D. Harris,33,2,26,5
+Gonzales,15,President,,LIB,Chase Oliver,2,0,2,0
+Gonzales,15,President,,GRN,Jill Stein,1,0,1,0
+Gonzales,15,President,,,Write-ins,0,0,0,0
+Gonzales,15,President,,,Over Votes,0,0,0,0
+Gonzales,15,President,,,Under Votes,0,0,0,0
+Gonzales,15,U.S. Senate,,REP,Ted Cruz,224,10,189,25
+Gonzales,15,U.S. Senate,,DEM,Colin Allred,39,2,30,7
+Gonzales,15,U.S. Senate,,LIB,Ted Brown,8,0,6,2
+Gonzales,15,U.S. Senate,,,Write-ins,0,0,0,0
+Gonzales,15,U.S. Senate,,,Over Votes,0,0,0,0
+Gonzales,15,U.S. Senate,,,Under Votes,7,0,7,0
+Gonzales,15,U.S. House,27,REP,Michael Cloud,235,9,198,28
+Gonzales,15,U.S. House,27,DEM,Tanya Lloyd,22,0,18,4
+Gonzales,15,U.S. House,27,,Over Votes,0,0,0,0
+Gonzales,15,U.S. House,27,,Under Votes,21,3,16,2
+Gonzales,15,Railroad Commissioner,,REP,Christi Craddick,223,10,186,27
+Gonzales,15,Railroad Commissioner,,DEM,Katherine Culbert,20,0,17,3
+Gonzales,15,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,5,0
+Gonzales,15,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,5,1
+Gonzales,15,Railroad Commissioner,,,Write-ins,0,0,0,0
+Gonzales,15,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gonzales,15,Railroad Commissioner,,,Under Votes,24,2,19,3
+Gonzales,15,"Justice, Supreme Court",2,REP,Jimmy Blacklock,225,7,191,27
+Gonzales,15,"Justice, Supreme Court",2,DEM,DaSean Jones,24,0,20,4
+Gonzales,15,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Gonzales,15,"Justice, Supreme Court",2,,Under Votes,29,5,21,3
+Gonzales,15,"Justice, Supreme Court",4,REP,John Devine,223,7,189,27
+Gonzales,15,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,24,0,20,4
+Gonzales,15,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Gonzales,15,"Justice, Supreme Court",4,,Under Votes,31,5,23,3
+Gonzales,15,"Justice, Supreme Court",6,REP,Jane Bland,221,7,187,27
+Gonzales,15,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,22,0,19,3
+Gonzales,15,"Justice, Supreme Court",6,LIB,J. David Roberson,6,0,5,1
+Gonzales,15,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Gonzales,15,"Justice, Supreme Court",6,,Under Votes,29,5,21,3
+Gonzales,15,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,226,7,191,28
+Gonzales,15,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,23,0,20,3
+Gonzales,15,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Gonzales,15,"Presiding Judge, Ct of Crim App",,,Under Votes,29,5,21,3
+Gonzales,15,"Judge, Ct of Crim App",7,REP,Gina Parker,225,7,191,27
+Gonzales,15,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,22,0,18,4
+Gonzales,15,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Gonzales,15,"Judge, Ct of Crim App",7,,Under Votes,31,5,23,3
+Gonzales,15,"Judge, Ct of Crim App",8,REP,Lee Finley,227,7,192,28
+Gonzales,15,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,19,0,16,3
+Gonzales,15,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Gonzales,15,"Judge, Ct of Crim App",8,,Under Votes,32,5,24,3
+Gonzales,15,"Member, State BoE",3,DEM,Marisa Perez-Diaz,98,2,80,16
+Gonzales,15,"Member, State BoE",3,,Over Votes,0,0,0,0
+Gonzales,15,"Member, State BoE",3,,Under Votes,180,10,152,18
+Gonzales,15,State Representative,44,REP,Alan Schoolcraft,223,9,187,27
+Gonzales,15,State Representative,44,DEM,Eric Norman,33,1,27,5
+Gonzales,15,State Representative,44,,Over Votes,0,0,0,0
+Gonzales,15,State Representative,44,,Under Votes,22,2,18,2
+Gonzales,15,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,221,7,187,27
+Gonzales,15,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,25,0,21,4
+Gonzales,15,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Gonzales,15,"Chief Justice, 13th Ct of App Dist",,,Under Votes,32,5,24,3
+Gonzales,15,"Justice, 13th Ct of App Dist",2,REP,Jenny Cron,220,7,186,27
+Gonzales,15,"Justice, 13th Ct of App Dist",2,DEM,Nora Longoria,26,0,22,4
+Gonzales,15,"Justice, 13th Ct of App Dist",2,,Over Votes,0,0,0,0
+Gonzales,15,"Justice, 13th Ct of App Dist",2,,Under Votes,32,5,24,3
+Gonzales,15,"Justice, 13th Ct of App Dist",4,REP,Ysmael D. Fonseca,214,7,180,27
+Gonzales,15,"Justice, 13th Ct of App Dist",4,DEM,Joe Martinez,27,0,23,4
+Gonzales,15,"Justice, 13th Ct of App Dist",4,,Over Votes,0,0,0,0
+Gonzales,15,"Justice, 13th Ct of App Dist",4,,Under Votes,37,5,29,3
+Gonzales,15,"Justice, 13th Ct of App Dist",5,REP,Jon West,223,7,189,27
+Gonzales,15,"Justice, 13th Ct of App Dist",5,DEM,Regi Complian Richardson,20,0,16,4
+Gonzales,15,"Justice, 13th Ct of App Dist",5,,Over Votes,0,0,0,0
+Gonzales,15,"Justice, 13th Ct of App Dist",5,,Under Votes,35,5,27,3
+Gonzales,15,"Dist Judge, 25th Judicial Dist",,REP,Bill Old,231,9,195,27
+Gonzales,15,"Dist Judge, 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,15,"Dist Judge, 25th Judicial Dist",,,Under Votes,47,3,37,7
+Gonzales,15,"Dist Judge, 2nd 25th Judicial Dist",,REP,Jessica Richard Crawford,216,8,182,26
+Gonzales,15,"Dist Judge, 2nd 25th Judicial Dist",,,Over Votes,0,0,0,0
+Gonzales,15,"Dist Judge, 2nd 25th Judicial Dist",,,Under Votes,62,4,50,8
+Gonzales,15,County Attorney,,REP,"Eduardo ""Eddie"" Xavier Escobar",233,10,195,28
+Gonzales,15,County Attorney,,,Over Votes,0,0,0,0
+Gonzales,15,County Attorney,,,Under Votes,45,2,37,6
+Gonzales,15,Sheriff,,REP,Keith A. Schmidt,225,10,194,21
+Gonzales,15,Sheriff,,DEM,Clay Allen,41,2,28,11
+Gonzales,15,Sheriff,,,Over Votes,0,0,0,0
+Gonzales,15,Sheriff,,,Under Votes,12,0,10,2
+Gonzales,15,County Tax Assessor-Collector,,REP,Crystal Cedillo,244,12,203,29
+Gonzales,15,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gonzales,15,County Tax Assessor-Collector,,,Under Votes,34,0,29,5
+Gonzales,15,County Commissioner,1,REP,"Anton W ""Tony"" Matias",238,12,199,27
+Gonzales,15,County Commissioner,1,Over Votes,0,0,0,0,
+Gonzales,15,County Commissioner,1,Under Votes,40,0,33,7,
+Gonzales,15,Constable,1,REP,Johnnie Hall,241,12,201,28
+Gonzales,15,Constable,1,Over Votes,0,0,0,0,
+Gonzales,15,Constable,1,Under Votes,37,0,31,6,
