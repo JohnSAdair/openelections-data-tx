@@ -1,0 +1,880 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Houston,1,Registered Voters,,,,1181,,,
+Houston,1,Ballots Cast,,,,709,57,536,116
+Houston,1,Ballots Cast Blank,,,,1,0,1,0
+Houston,1,President,,REP,Donald J. Trump,461,19,373,69
+Houston,1,President,,DEM,Kamala D. Harris,236,35,155,46
+Houston,1,President,,LIB,Chase Oliver,4,0,3,1
+Houston,1,President,,GRN,Jill Stein,4,2,2,0
+Houston,1,President,,,Write-ins,1,0,1,0
+Houston,1,U.S. Senate,,REP,Ted Cruz,442,19,364,59
+Houston,1,U.S. Senate,,DEM,Colin Allred,235,34,151,50
+Houston,1,U.S. Senate,,LIB,Ted Brown,16,3,11,2
+Houston,1,U.S. Senate,,,Write-ins,1,0,0,1
+Houston,1,U.S. House,17,REP,Pete Sessions,459,22,376,61
+Houston,1,U.S. House,17,DEM,Mark Lorenzen,219,34,142,43
+Houston,1,Railroad Commissioner,,REP,Christi Craddick,433,19,357,57
+Houston,1,Railroad Commissioner,,DEM,Katherine Culbert,218,34,145,39
+Houston,1,Railroad Commissioner,,LIB,Hawk Dunlap,21,2,12,7
+Houston,1,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,3,1
+Houston,1,Railroad Commissioner,,,Write-ins,2,0,1,1
+Houston,1,"Justice, Supreme Court",2,REP,Jimmy Blacklock,458,21,375,62
+Houston,1,"Justice, Supreme Court",2,DEM,DaSean Jones,217,33,142,42
+Houston,1,"Justice, Supreme Court",4,REP,John Devine,451,21,370,60
+Houston,1,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,221,33,144,44
+Houston,1,"Justice, Supreme Court",6,REP,Jane Bland,425,19,350,56
+Houston,1,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,222,34,146,42
+Houston,1,"Justice, Supreme Court",6,LIB,J. David Roberson,22,2,13,7
+Houston,1,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,443,20,363,60
+Houston,1,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,224,35,147,42
+Houston,1,"Judge, Ct of Crim App",7,REP,Gina Parker,441,21,360,60
+Houston,1,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,223,33,146,44
+Houston,1,"Judge, Ct of Crim App",8,REP,Lee Finley,445,21,363,61
+Houston,1,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,219,33,144,42
+Houston,1,State Representative,9,REP,Trent Ashby,514,29,410,75
+Houston,1,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,488,25,394,69
+Houston,1,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,489,25,395,69
+Houston,1,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,500,25,404,71
+Houston,1,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,439,46,316,77
+Houston,1,County Attorney,,REP,Kristina Massey,492,26,392,74
+Houston,1,Sheriff,,REP,Zak Benge,521,31,416,74
+Houston,1,County Tax Assessor-Collector,,REP,James Angerstein,379,16,303,60
+Houston,1,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,313,39,223,51
+Houston,1,County Commissioner,1,REP,Gary Lovell,506,28,405,73
+Houston,1,Constable,2,REP,"Kenneth ""Red"" Smith",502,24,403,75
+Houston,1,Proposition A City of Crockett,,,For,349,22,272,55
+Houston,1,Proposition A City of Crockett,,,Against,178,29,113,36
+Houston,1,Proposition B City of Crockett,,,For,370,27,282,61
+Houston,1,Proposition B City of Crockett,,,Against,143,22,93,28
+Houston,2,Registered Voters,,,,1511,,,
+Houston,2,Ballots Cast,,,,1005,53,781,171
+Houston,2,Ballots Cast Blank,,,,0,0,0,0
+Houston,2,President,,REP,Donald J. Trump,761,24,602,135
+Houston,2,President,,DEM,Kamala D. Harris,233,29,170,34
+Houston,2,President,,LIB,Chase Oliver,3,0,3,0
+Houston,2,President,,GRN,Jill Stein,1,0,1,0
+Houston,2,President,,,Write-ins,0,0,0,0
+Houston,2,U.S. Senate,,REP,Ted Cruz,731,24,587,120
+Houston,2,U.S. Senate,,DEM,Colin Allred,236,29,166,41
+Houston,2,U.S. Senate,,LIB,Ted Brown,21,0,17,4
+Houston,2,U.S. Senate,,,Write-ins,0,0,0,0
+Houston,2,U.S. House,17,REP,Pete Sessions,765,24,611,130
+Houston,2,U.S. House,17,DEM,Mark Lorenzen,212,29,151,32
+Houston,2,Railroad Commissioner,,REP,Christi Craddick,731,24,582,125
+Houston,2,Railroad Commissioner,,DEM,Katherine Culbert,221,29,159,33
+Houston,2,Railroad Commissioner,,LIB,Hawk Dunlap,16,0,16,0
+Houston,2,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1
+Houston,2,Railroad Commissioner,,,Write-ins,0,0,0,0
+Houston,2,"Justice, Supreme Court",2,REP,Jimmy Blacklock,751,22,599,130
+Houston,2,"Justice, Supreme Court",2,DEM,DaSean Jones,209,29,148,32
+Houston,2,"Justice, Supreme Court",4,REP,John Devine,748,24,596,128
+Houston,2,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,213,29,151,33
+Houston,2,"Justice, Supreme Court",6,REP,Jane Bland,738,24,588,126
+Houston,2,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,207,28,148,31
+Houston,2,"Justice, Supreme Court",6,LIB,J. David Roberson,12,0,10,2
+Houston,2,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,742,24,593,125
+Houston,2,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,215,29,153,33
+Houston,2,"Judge, Ct of Crim App",7,REP,Gina Parker,741,24,590,127
+Houston,2,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,219,29,156,34
+Houston,2,"Judge, Ct of Crim App",8,REP,Lee Finley,745,24,592,129
+Houston,2,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,211,29,151,31
+Houston,2,State Representative,9,REP,Trent Ashby,796,26,634,136
+Houston,2,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,766,25,610,131
+Houston,2,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,775,25,617,133
+Houston,2,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,790,25,630,135
+Houston,2,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,513,38,382,93
+Houston,2,County Attorney,,REP,Kristina Massey,760,24,606,130
+Houston,2,Sheriff,,REP,Zak Benge,784,25,619,140
+Houston,2,County Tax Assessor-Collector,,REP,James Angerstein,608,20,479,109
+Houston,2,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,377,32,286,59
+Houston,2,Constable,2,REP,"Kenneth ""Red"" Smith",793,24,634,135
+Houston,2,Proposition A City of Crockett,,,For,60,4,44,12
+Houston,2,Proposition A City of Crockett,,,Against,83,13,52,18
+Houston,2,Proposition B City of Crockett,,,For,70,6,52,12
+Houston,2,Proposition B City of Crockett,,,Against,72,12,42,18
+Houston,3,Registered Voters,,,,1485,,,
+Houston,3,Ballots Cast,,,,799,118,520,161
+Houston,3,Ballots Cast Blank,,,,1,1,0,0
+Houston,3,President,,REP,Donald J. Trump,330,13,257,60
+Houston,3,President,,DEM,Kamala D. Harris,450,101,255,94
+Houston,3,President,,LIB,Chase Oliver,1,0,1,0
+Houston,3,President,,GRN,Jill Stein,1,0,1,0
+Houston,3,President,,,Write-ins,3,0,1,2
+Houston,3,U.S. Senate,,REP,Ted Cruz,329,16,261,52
+Houston,3,U.S. Senate,,DEM,Colin Allred,443,100,243,100
+Houston,3,U.S. Senate,,LIB,Ted Brown,13,0,7,6
+Houston,3,U.S. Senate,,,Write-ins,1,0,0,1
+Houston,3,U.S. House,17,REP,Pete Sessions,337,15,262,60
+Houston,3,U.S. House,17,DEM,Mark Lorenzen,416,100,227,89
+Houston,3,Railroad Commissioner,,REP,Christi Craddick,319,14,252,53
+Houston,3,Railroad Commissioner,,DEM,Katherine Culbert,424,102,230,92
+Houston,3,Railroad Commissioner,,LIB,Hawk Dunlap,12,0,7,5
+Houston,3,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,6,2
+Houston,3,Railroad Commissioner,,,Write-ins,1,0,0,1
+Houston,3,"Justice, Supreme Court",2,REP,Jimmy Blacklock,336,14,262,60
+Houston,3,"Justice, Supreme Court",2,DEM,DaSean Jones,419,99,230,90
+Houston,3,"Justice, Supreme Court",4,REP,John Devine,330,13,262,55
+Houston,3,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,423,101,229,93
+Houston,3,"Justice, Supreme Court",6,REP,Jane Bland,325,14,253,58
+Houston,3,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,426,99,237,90
+Houston,3,"Justice, Supreme Court",6,LIB,J. David Roberson,4,0,3,1
+Houston,3,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,322,13,254,55
+Houston,3,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,428,100,235,93
+Houston,3,"Judge, Ct of Crim App",7,REP,Gina Parker,327,14,256,57
+Houston,3,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,421,97,232,92
+Houston,3,"Judge, Ct of Crim App",8,REP,Lee Finley,333,13,262,58
+Houston,3,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,416,99,226,91
+Houston,3,State Representative,9,REP,Trent Ashby,422,30,299,93
+Houston,3,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,396,23,284,89
+Houston,3,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,417,25,302,90
+Houston,3,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,424,26,307,91
+Houston,3,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,565,105,342,118
+Houston,3,County Attorney,,REP,Kristina Massey,415,24,302,89
+Houston,3,Sheriff,,REP,Zak Benge,423,31,300,92
+Houston,3,County Tax Assessor-Collector,,REP,James Angerstein,263,12,197,54
+Houston,3,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,507,102,302,103
+Houston,3,County Commissioner,3,REP,Gene Stokes,410,25,297,88
+Houston,3,Constable,1,REP,Morris Luker,424,28,303,93
+Houston,3,Proposition A City of Crockett,,,For,106,13,55,38
+Houston,3,Proposition A City of Crockett,,,Against,272,73,139,60
+Houston,3,Proposition B City of Crockett,,,For,152,23,78,51
+Houston,3,Proposition B City of Crockett,,,Against,209,59,103,47
+Houston,3,Proposition A Lovelady Independent School District,,,For,15,0,13,2
+Houston,3,Proposition A Lovelady Independent School District,,,Against,12,2,8,2
+Houston,4,Registered Voters,,,,1898,,,
+Houston,4,Ballots Cast,,,,1245,77,993,175
+Houston,4,Ballots Cast Blank,,,,0,0,0,0
+Houston,4,President,,REP,Donald J. Trump,919,33,770,116
+Houston,4,President,,DEM,Kamala D. Harris,311,43,210,58
+Houston,4,President,,LIB,Chase Oliver,7,0,7,0
+Houston,4,President,,GRN,Jill Stein,5,1,3,1
+Houston,4,President,,,Write-ins,0,0,0,0
+Houston,4,U.S. Senate,,REP,Ted Cruz,879,32,747,100
+Houston,4,U.S. Senate,,DEM,Colin Allred,325,44,222,59
+Houston,4,U.S. Senate,,LIB,Ted Brown,24,1,14,9
+Houston,4,U.S. Senate,,,Write-ins,1,0,1,0
+Houston,4,U.S. House,17,REP,Pete Sessions,906,34,759,113
+Houston,4,U.S. House,17,DEM,Mark Lorenzen,287,43,194,50
+Houston,4,Railroad Commissioner,,REP,Christi Craddick,865,32,729,104
+Houston,4,Railroad Commissioner,,DEM,Katherine Culbert,284,41,196,47
+Houston,4,Railroad Commissioner,,LIB,Hawk Dunlap,32,2,21,9
+Houston,4,Railroad Commissioner,,GRN,Eddie Espinoza,10,0,8,2
+Houston,4,Railroad Commissioner,,,Write-ins,0,0,0,0
+Houston,4,"Justice, Supreme Court",2,REP,Jimmy Blacklock,904,35,759,110
+Houston,4,"Justice, Supreme Court",2,DEM,DaSean Jones,274,39,184,51
+Houston,4,"Justice, Supreme Court",4,REP,John Devine,872,34,734,104
+Houston,4,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,300,41,204,55
+Houston,4,"Justice, Supreme Court",6,REP,Jane Bland,869,32,734,103
+Houston,4,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,280,41,188,51
+Houston,4,"Justice, Supreme Court",6,LIB,J. David Roberson,30,2,21,7
+Houston,4,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,880,33,741,106
+Houston,4,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,293,41,200,52
+Houston,4,"Judge, Ct of Crim App",7,REP,Gina Parker,885,34,743,108
+Houston,4,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,285,38,196,51
+Houston,4,"Judge, Ct of Crim App",8,REP,Lee Finley,888,35,747,106
+Houston,4,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,279,40,188,51
+Houston,4,State Representative,9,REP,Trent Ashby,974,37,815,122
+Houston,4,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,927,39,764,124
+Houston,4,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,940,38,777,125
+Houston,4,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,961,38,801,122
+Houston,4,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,679,51,526,102
+Houston,4,County Attorney,,REP,Kristina Massey,942,37,781,124
+Houston,4,Sheriff,,REP,Zak Benge,968,41,801,126
+Houston,4,County Tax Assessor-Collector,,REP,James Angerstein,752,26,623,103
+Houston,4,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,457,48,342,67
+Houston,4,Constable,1,REP,Morris Luker,939,38,776,125
+Houston,4,Proposition A City of Crockett,,,For,617,28,513,76
+Houston,4,Proposition A City of Crockett,,,Against,218,33,148,37
+Houston,4,Proposition B City of Crockett,,,For,640,35,516,89
+Houston,4,Proposition B City of Crockett,,,Against,191,27,138,26
+Houston,5,Registered Voters,,,,1385,,,
+Houston,5,Ballots Cast,,,,991,33,648,310
+Houston,5,Ballots Cast Blank,,,,0,0,0,0
+Houston,5,President,,REP,Donald J. Trump,870,26,575,269
+Houston,5,President,,DEM,Kamala D. Harris,111,6,66,39
+Houston,5,President,,LIB,Chase Oliver,1,0,0,1
+Houston,5,President,,GRN,Jill Stein,1,0,1,0
+Houston,5,President,,,Write-ins,2,0,1,1
+Houston,5,U.S. Senate,,REP,Ted Cruz,858,27,573,258
+Houston,5,U.S. Senate,,DEM,Colin Allred,117,6,69,42
+Houston,5,U.S. Senate,,LIB,Ted Brown,7,0,2,5
+Houston,5,U.S. Senate,,,Write-ins,0,0,0,0
+Houston,5,U.S. House,17,REP,Pete Sessions,860,27,574,259
+Houston,5,U.S. House,17,DEM,Mark Lorenzen,105,6,61,38
+Houston,5,Railroad Commissioner,,REP,Christi Craddick,833,27,556,250
+Houston,5,Railroad Commissioner,,DEM,Katherine Culbert,100,6,56,38
+Houston,5,Railroad Commissioner,,LIB,Hawk Dunlap,16,0,13,3
+Houston,5,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,6,1
+Houston,5,Railroad Commissioner,,,Write-ins,0,0,0,0
+Houston,5,"Justice, Supreme Court",2,REP,Jimmy Blacklock,852,27,568,257
+Houston,5,"Justice, Supreme Court",2,DEM,DaSean Jones,108,6,65,37
+Houston,5,"Justice, Supreme Court",4,REP,John Devine,844,27,565,252
+Houston,5,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,114,6,66,42
+Houston,5,"Justice, Supreme Court",6,REP,Jane Bland,834,27,562,245
+Houston,5,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,109,6,64,39
+Houston,5,"Justice, Supreme Court",6,LIB,J. David Roberson,10,0,7,3
+Houston,5,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,840,26,563,251
+Houston,5,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,111,7,68,36
+Houston,5,"Judge, Ct of Crim App",7,REP,Gina Parker,834,27,560,247
+Houston,5,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,111,6,66,39
+Houston,5,"Judge, Ct of Crim App",8,REP,Lee Finley,837,26,560,251
+Houston,5,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,105,6,63,36
+Houston,5,State Representative,9,REP,Trent Ashby,871,27,583,261
+Houston,5,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,851,26,573,252
+Houston,5,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,856,27,574,255
+Houston,5,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,866,27,588,251
+Houston,5,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,453,17,287,149
+Houston,5,County Attorney,,REP,Kristina Massey,856,27,580,249
+Houston,5,Sheriff,,REP,Zak Benge,855,25,573,257
+Houston,5,County Tax Assessor-Collector,,REP,James Angerstein,734,21,497,216
+Houston,5,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,229,11,138,80
+Houston,5,County Commissioner,1,REP,Gary Lovell,877,26,588,263
+Houston,5,Constable,2,REP,"Kenneth ""Red"" Smith",856,26,573,257
+Houston,6,Registered Voters,,,,1172,,,
+Houston,6,Ballots Cast,,,,802,20,461,321
+Houston,6,Ballots Cast Blank,,,,0,0,0,0
+Houston,6,President,,REP,Donald J. Trump,629,15,375,239
+Houston,6,President,,DEM,Kamala D. Harris,165,5,83,77
+Houston,6,President,,LIB,Chase Oliver,5,0,2,3
+Houston,6,President,,GRN,Jill Stein,1,0,1,0
+Houston,6,President,,,Write-ins,0,0,0,0
+Houston,6,U.S. Senate,,REP,Ted Cruz,609,15,364,230
+Houston,6,U.S. Senate,,DEM,Colin Allred,173,5,91,77
+Houston,6,U.S. Senate,,LIB,Ted Brown,7,0,2,5
+Houston,6,U.S. Senate,,,Write-ins,0,0,0,0
+Houston,6,U.S. House,17,REP,Pete Sessions,614,15,365,234
+Houston,6,U.S. House,17,DEM,Mark Lorenzen,159,5,82,72
+Houston,6,Railroad Commissioner,,REP,Christi Craddick,587,15,349,223
+Houston,6,Railroad Commissioner,,DEM,Katherine Culbert,158,5,83,70
+Houston,6,Railroad Commissioner,,LIB,Hawk Dunlap,24,0,15,9
+Houston,6,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,1,2
+Houston,6,Railroad Commissioner,,,Write-ins,0,0,0,0
+Houston,6,"Justice, Supreme Court",2,REP,Jimmy Blacklock,604,15,361,228
+Houston,6,"Justice, Supreme Court",2,DEM,DaSean Jones,160,5,85,70
+Houston,6,"Justice, Supreme Court",4,REP,John Devine,602,15,360,227
+Houston,6,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,167,5,88,74
+Houston,6,"Justice, Supreme Court",6,REP,Jane Bland,593,15,358,220
+Houston,6,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,164,5,86,73
+Houston,6,"Justice, Supreme Court",6,LIB,J. David Roberson,14,0,3,11
+Houston,6,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,596,15,358,223
+Houston,6,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,169,5,87,77
+Houston,6,"Judge, Ct of Crim App",7,REP,Gina Parker,602,15,360,227
+Houston,6,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,164,5,86,73
+Houston,6,"Judge, Ct of Crim App",8,REP,Lee Finley,604,15,363,226
+Houston,6,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,160,5,81,74
+Houston,6,State Representative,9,REP,Trent Ashby,646,15,383,248
+Houston,6,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,624,15,367,242
+Houston,6,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,627,15,371,241
+Houston,6,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,635,16,378,241
+Houston,6,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,417,11,223,183
+Houston,6,County Attorney,,REP,Kristina Massey,629,15,375,239
+Houston,6,Sheriff,,REP,Zak Benge,628,15,374,239
+Houston,6,County Tax Assessor-Collector,,REP,James Angerstein,515,10,315,190
+Houston,6,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,249,8,130,111
+Houston,6,County Commissioner,1,REP,Gary Lovell,877,26,588,263
+Houston,6,Constable,2,REP,"Kenneth ""Red"" Smith",637,15,375,247
+Houston,7,Registered Voters,,,,901,,,
+Houston,7,Ballots Cast,,,,642,14,347,281
+Houston,7,Ballots Cast Blank,,,,0,0,0,0
+Houston,7,President,,REP,Donald J. Trump,556,7,306,243
+Houston,7,President,,DEM,Kamala D. Harris,84,6,41,37
+Houston,7,President,,LIB,Chase Oliver,0,0,0,0
+Houston,7,President,,GRN,Jill Stein,0,0,0,0
+Houston,7,President,,,Write-ins,1,0,0,1
+Houston,7,U.S. Senate,,REP,Ted Cruz,541,8,302,231
+Houston,7,U.S. Senate,,DEM,Colin Allred,83,5,38,40
+Houston,7,U.S. Senate,,LIB,Ted Brown,14,0,4,10
+Houston,7,U.S. Senate,,,Write-ins,0,0,0,0
+Houston,7,U.S. House,17,REP,Pete Sessions,540,10,294,236
+Houston,7,U.S. House,17,DEM,Mark Lorenzen,73,3,34,36
+Houston,7,Railroad Commissioner,,REP,Christi Craddick,529,10,288,231
+Houston,7,Railroad Commissioner,,DEM,Katherine Culbert,70,3,37,30
+Houston,7,Railroad Commissioner,,LIB,Hawk Dunlap,16,0,10,6
+Houston,7,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Houston,7,Railroad Commissioner,,,Write-ins,2,0,0,2
+Houston,7,"Justice, Supreme Court",2,REP,Jimmy Blacklock,542,10,299,233
+Houston,7,"Justice, Supreme Court",2,DEM,DaSean Jones,78,3,38,37
+Houston,7,"Justice, Supreme Court",4,REP,John Devine,540,10,299,231
+Houston,7,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,77,3,37,37
+Houston,7,"Justice, Supreme Court",6,REP,Jane Bland,531,10,292,229
+Houston,7,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,73,3,36,34
+Houston,7,"Justice, Supreme Court",6,LIB,J. David Roberson,7,0,4,3
+Houston,7,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,541,10,301,230
+Houston,7,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,69,3,35,31
+Houston,7,"Judge, Ct of Crim App",7,REP,Gina Parker,540,10,298,232
+Houston,7,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,70,3,36,31
+Houston,7,"Judge, Ct of Crim App",8,REP,Lee Finley,542,10,299,233
+Houston,7,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,67,3,36,28
+Houston,7,State Representative,9,REP,Trent Ashby,573,12,304,257
+Houston,7,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,547,12,296,239
+Houston,7,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,554,12,299,243
+Houston,7,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,549,12,298,239
+Houston,7,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,303,7,149,147
+Houston,7,County Attorney,,REP,Kristina Massey,549,12,296,241
+Houston,7,Sheriff,,REP,Zak Benge,563,12,300,251
+Houston,7,County Tax Assessor-Collector,,REP,James Angerstein,464,10,253,201
+Houston,7,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,146,3,74,69
+Houston,7,County Commissioner,3,REP,Gene Stokes,561,12,297,252
+Houston,7,Constable,1,REP,Morris Luker,555,12,293,250
+Houston,7,Proposition A Lovelady Independent School District,,,For,292,5,146,141
+Houston,7,Proposition A Lovelady Independent School District,,,Against,299,8,174,117
+Houston,8,Registered Voters,,,,375,,,
+Houston,8,Ballots Cast,,,,295,11,162,122
+Houston,8,Ballots Cast Blank,,,,0,0,0,0
+Houston,8,President,,REP,Donald J. Trump,245,7,139,99
+Houston,8,President,,DEM,Kamala D. Harris,47,4,22,21
+Houston,8,President,,LIB,Chase Oliver,1,0,0,1
+Houston,8,President,,GRN,Jill Stein,0,0,0,0
+Houston,8,President,,,Write-ins,0,0,0,0
+Houston,8,U.S. Senate,,REP,Ted Cruz,237,7,135,95
+Houston,8,U.S. Senate,,DEM,Colin Allred,47,4,22,21
+Houston,8,U.S. Senate,,LIB,Ted Brown,6,0,3,3
+Houston,8,U.S. Senate,,,Write-ins,0,0,0,0
+Houston,8,U.S. House,17,REP,Pete Sessions,245,9,138,98
+Houston,8,U.S. House,17,DEM,Mark Lorenzen,40,2,21,17
+Houston,8,Railroad Commissioner,,REP,Christi Craddick,229,7,133,89
+Houston,8,Railroad Commissioner,,DEM,Katherine Culbert,44,4,22,18
+Houston,8,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,3,5
+Houston,8,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+Houston,8,Railroad Commissioner,,,Write-ins,0,0,0,0
+Houston,8,"Justice, Supreme Court",2,REP,Jimmy Blacklock,237,9,135,93
+Houston,8,"Justice, Supreme Court",2,DEM,DaSean Jones,43,2,22,19
+Houston,8,"Justice, Supreme Court",4,REP,John Devine,229,9,131,89
+Houston,8,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,49,2,24,23
+Houston,8,"Justice, Supreme Court",6,REP,Jane Bland,226,9,131,86
+Houston,8,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,47,2,24,21
+Houston,8,"Justice, Supreme Court",6,LIB,J. David Roberson,6,0,3,3
+Houston,8,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,228,9,131,88
+Houston,8,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,48,2,25,21
+Houston,8,"Judge, Ct of Crim App",7,REP,Gina Parker,236,9,135,92
+Houston,8,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,40,2,21,17
+Houston,8,"Judge, Ct of Crim App",8,REP,Lee Finley,237,9,137,91
+Houston,8,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,38,2,20,16
+Houston,8,State Representative,9,REP,Trent Ashby,252,9,140,103
+Houston,8,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,237,9,134,94
+Houston,8,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,240,9,134,97
+Houston,8,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,244,9,137,98
+Houston,8,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,138,5,73,60
+Houston,8,County Attorney,,REP,Kristina Massey,240,9,134,97
+Houston,8,Sheriff,,REP,Zak Benge,246,8,134,104
+Houston,8,County Tax Assessor-Collector,,REP,James Angerstein,207,7,112,88
+Houston,8,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,79,4,47,28
+Houston,8,County Commissioner,1,REP,Gary Lovell,255,9,135,111
+Houston,8,Constable,2,REP,"Kenneth ""Red"" Smith",242,9,129,104
+Houston,9,Registered Voters,,,,502,,,
+Houston,9,Ballots Cast,,,,387,13,235,139
+Houston,9,Ballots Cast Blank,,,,0,0,0,0
+Houston,9,President,,REP,Donald J. Trump,361,10,219,132
+Houston,9,President,,DEM,Kamala D. Harris,26,3,16,7
+Houston,9,President,,LIB,Chase Oliver,0,0,0,0
+Houston,9,President,,GRN,Jill Stein,0,0,0,0
+Houston,9,President,,,Write-ins,0,0,0,0
+Houston,9,U.S. Senate,,REP,Ted Cruz,349,10,212,127
+Houston,9,U.S. Senate,,DEM,Colin Allred,27,3,16,8
+Houston,9,U.S. Senate,,LIB,Ted Brown,4,0,3,1
+Houston,9,U.S. Senate,,,Write-ins,1,0,1,0
+Houston,9,U.S. House,17,REP,Pete Sessions,356,11,214,131
+Houston,9,U.S. House,17,DEM,Mark Lorenzen,23,2,14,7
+Houston,9,Railroad Commissioner,,REP,Christi Craddick,333,11,197,125
+Houston,9,Railroad Commissioner,,DEM,Katherine Culbert,25,2,17,6
+Houston,9,Railroad Commissioner,,LIB,Hawk Dunlap,15,0,9,6
+Houston,9,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Houston,9,Railroad Commissioner,,,Write-ins,0,0,0,0
+Houston,9,"Justice, Supreme Court",2,REP,Jimmy Blacklock,348,11,209,128
+Houston,9,"Justice, Supreme Court",2,DEM,DaSean Jones,25,2,15,8
+Houston,9,"Justice, Supreme Court",4,REP,John Devine,347,11,207,129
+Houston,9,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,25,2,16,7
+Houston,9,"Justice, Supreme Court",6,REP,Jane Bland,342,10,206,126
+Houston,9,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,26,3,15,8
+Houston,9,"Justice, Supreme Court",6,LIB,J. David Roberson,6,0,4,2
+Houston,9,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,347,11,209,127
+Houston,9,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,26,2,15,9
+Houston,9,"Judge, Ct of Crim App",7,REP,Gina Parker,348,11,210,127
+Houston,9,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,24,2,14,8
+Houston,9,"Judge, Ct of Crim App",8,REP,Lee Finley,351,11,213,127
+Houston,9,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,23,2,12,9
+Houston,9,State Representative,9,REP,Trent Ashby,354,11,213,130
+Houston,9,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,343,11,209,123
+Houston,9,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,343,11,210,122
+Houston,9,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,350,11,214,125
+Houston,9,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,161,9,88,64
+Houston,9,County Attorney,,REP,Kristina Massey,343,11,209,123
+Houston,9,Sheriff,,REP,Zak Benge,351,12,212,127
+Houston,9,County Tax Assessor-Collector,,REP,James Angerstein,299,11,188,100
+Houston,9,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,74,2,39,33
+Houston,9,County Commissioner,3,REP,Gene Stokes,349,11,211,127
+Houston,9,Constable,1,REP,Morris Luker,343,11,209,123
+Houston,9,Proposition A Lovelady Independent School District,,,For,132,3,77,52
+Houston,9,Proposition A Lovelady Independent School District,,,Against,219,9,133,77
+Houston,10,Registered Voters,,,,291,,,
+Houston,10,Ballots Cast,,,,192,5,105,82
+Houston,10,Ballots Cast Blank,,,,0,0,0,0
+Houston,10,President,,REP,Donald J. Trump,156,3,86,67
+Houston,10,President,,DEM,Kamala D. Harris,33,2,19,12
+Houston,10,President,,LIB,Chase Oliver,2,0,0,2
+Houston,10,President,,GRN,Jill Stein,0,0,0,0
+Houston,10,President,,,Write-ins,0,0,0,0
+Houston,10,U.S. Senate,,REP,Ted Cruz,155,3,85,67
+Houston,10,U.S. Senate,,DEM,Colin Allred,32,2,19,11
+Houston,10,U.S. Senate,,LIB,Ted Brown,3,0,1,2
+Houston,10,U.S. Senate,,,Write-ins,0,0,0,0
+Houston,10,U.S. House,17,REP,Pete Sessions,154,3,84,67
+Houston,10,U.S. House,17,DEM,Mark Lorenzen,32,2,18,12
+Houston,10,Railroad Commissioner,,REP,Christi Craddick,139,3,74,62
+Houston,10,Railroad Commissioner,,DEM,Katherine Culbert,32,2,19,11
+Houston,10,Railroad Commissioner,,LIB,Hawk Dunlap,9,0,4,5
+Houston,10,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+Houston,10,Railroad Commissioner,,,Write-ins,0,0,0,0
+Houston,10,"Justice, Supreme Court",2,REP,Jimmy Blacklock,152,3,80,69
+Houston,10,"Justice, Supreme Court",2,DEM,DaSean Jones,29,2,18,9
+Houston,10,"Justice, Supreme Court",4,REP,John Devine,149,3,79,67
+Houston,10,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,31,2,18,11
+Houston,10,"Justice, Supreme Court",6,REP,Jane Bland,140,3,74,63
+Houston,10,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,32,2,19,11
+Houston,10,"Justice, Supreme Court",6,LIB,J. David Roberson,5,0,2,3
+Houston,10,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,146,3,78,65
+Houston,10,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,33,2,18,13
+Houston,10,"Judge, Ct of Crim App",7,REP,Gina Parker,144,3,79,62
+Houston,10,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,34,2,17,15
+Houston,10,"Judge, Ct of Crim App",8,REP,Lee Finley,145,3,78,64
+Houston,10,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,33,2,18,13
+Houston,10,State Representative,9,REP,Trent Ashby,153,3,82,68
+Houston,10,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,150,4,77,69
+Houston,10,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,146,3,79,64
+Houston,10,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,151,3,79,69
+Houston,10,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,79,2,41,36
+Houston,10,County Attorney,,REP,Kristina Massey,154,3,82,69
+Houston,10,Sheriff,,REP,Zak Benge,161,4,84,73
+Houston,10,County Tax Assessor-Collector,,REP,James Angerstein,126,2,68,56
+Houston,10,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,59,2,35,22
+Houston,10,Proposition A Lovelady Independent School District,,,For,55,1,30,24
+Houston,10,Proposition A Lovelady Independent School District,,,Against,113,2,60,51
+Houston,11,Registered Voters,,,,143,,,
+Houston,11,Ballots Cast,,,,114,1,89,24
+Houston,11,Ballots Cast Blank,,,,0,0,0,0
+Houston,11,President,,REP,Donald J. Trump,99,0,79,20
+Houston,11,President,,DEM,Kamala D. Harris,15,1,10,4
+Houston,11,President,,LIB,Chase Oliver,0,0,0,0
+Houston,11,President,,GRN,Jill Stein,0,0,0,0
+Houston,11,President,,,Write-ins,0,0,0,0
+Houston,11,U.S. Senate,,REP,Ted Cruz,95,0,77,18
+Houston,11,U.S. Senate,,DEM,Colin Allred,16,1,10,5
+Houston,11,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+Houston,11,U.S. Senate,,,Write-ins,0,0,0,0
+Houston,11,U.S. House,17,REP,Pete Sessions,92,0,73,19
+Houston,11,U.S. House,17,DEM,Mark Lorenzen,16,1,10,5
+Houston,11,Railroad Commissioner,,REP,Christi Craddick,91,0,74,17
+Houston,11,Railroad Commissioner,,DEM,Katherine Culbert,14,0,10,4
+Houston,11,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,0,1
+Houston,11,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+Houston,11,Railroad Commissioner,,,Write-ins,0,0,0,0
+Houston,11,"Justice, Supreme Court",2,REP,Jimmy Blacklock,91,0,73,18
+Houston,11,"Justice, Supreme Court",2,DEM,DaSean Jones,15,0,10,5
+Houston,11,"Justice, Supreme Court",4,REP,John Devine,90,0,73,17
+Houston,11,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,14,0,10,4
+Houston,11,"Justice, Supreme Court",6,REP,Jane Bland,90,0,73,17
+Houston,11,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,14,0,10,4
+Houston,11,"Justice, Supreme Court",6,LIB,J. David Roberson,2,0,0,2
+Houston,11,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,90,0,72,18
+Houston,11,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,16,0,11,5
+Houston,11,"Judge, Ct of Crim App",7,REP,Gina Parker,91,0,73,18
+Houston,11,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,15,0,10,5
+Houston,11,"Judge, Ct of Crim App",8,REP,Lee Finley,90,0,72,18
+Houston,11,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,15,0,10,5
+Houston,11,State Representative,9,REP,Trent Ashby,90,0,72,18
+Houston,11,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,90,0,72,18
+Houston,11,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,90,0,72,18
+Houston,11,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,92,0,71,21
+Houston,11,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,50,0,38,12
+Houston,11,County Attorney,,REP,Kristina Massey,90,0,71,19
+Houston,11,Sheriff,,REP,Zak Benge,93,0,75,18
+Houston,11,County Tax Assessor-Collector,,REP,James Angerstein,79,0,63,16
+Houston,11,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,26,0,20,6
+Houston,11,Constable,1,REP,Morris Luker,94,0,75,19
+Houston,12,Registered Voters,,,,157,,,
+Houston,12,Ballots Cast,,,,121,2,101,18
+Houston,12,Ballots Cast Blank,,,,0,0,0,0
+Houston,12,President,,REP,Donald J. Trump,104,1,87,16
+Houston,12,President,,DEM,Kamala D. Harris,17,1,14,2
+Houston,12,President,,LIB,Chase Oliver,0,0,0,0
+Houston,12,President,,GRN,Jill Stein,0,0,0,0
+Houston,12,President,,,Write-ins,0,0,0,0
+Houston,12,U.S. Senate,,REP,Ted Cruz,102,1,85,16
+Houston,12,U.S. Senate,,DEM,Colin Allred,16,1,13,2
+Houston,12,U.S. Senate,,LIB,Ted Brown,2,0,2,0
+Houston,12,U.S. Senate,,,Write-ins,0,0,0,0
+Houston,12,U.S. House,17,REP,Pete Sessions,102,1,84,17
+Houston,12,U.S. House,17,DEM,Mark Lorenzen,13,1,12,0
+Houston,12,Railroad Commissioner,,REP,Christi Craddick,98,1,82,15
+Houston,12,Railroad Commissioner,,DEM,Katherine Culbert,14,1,13,0
+Houston,12,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,1,2
+Houston,12,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Houston,12,Railroad Commissioner,,,Write-ins,0,0,0,0
+Houston,12,"Justice, Supreme Court",2,REP,Jimmy Blacklock,100,1,82,17
+Houston,12,"Justice, Supreme Court",2,DEM,DaSean Jones,13,1,12,0
+Houston,12,"Justice, Supreme Court",4,REP,John Devine,99,1,82,16
+Houston,12,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,15,1,13,1
+Houston,12,"Justice, Supreme Court",6,REP,Jane Bland,98,1,81,16
+Houston,12,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,14,1,13,0
+Houston,12,"Justice, Supreme Court",6,LIB,J. David Roberson,3,0,2,1
+Houston,12,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,98,1,81,16
+Houston,12,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,16,1,14,1
+Houston,12,"Judge, Ct of Crim App",7,REP,Gina Parker,100,1,82,17
+Houston,12,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,13,1,12,0
+Houston,12,"Judge, Ct of Crim App",8,REP,Lee Finley,100,1,83,16
+Houston,12,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,12,1,11,0
+Houston,12,State Representative,9,REP,Trent Ashby,104,1,87,16
+Houston,12,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,101,1,84,16
+Houston,12,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,98,1,81,16
+Houston,12,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,100,1,83,16
+Houston,12,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,47,2,39,6
+Houston,12,County Attorney,,REP,Kristina Massey,98,1,80,17
+Houston,12,Sheriff,,REP,Zak Benge,102,1,84,17
+Houston,12,County Tax Assessor-Collector,,REP,James Angerstein,79,0,67,12
+Houston,12,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,31,2,24,5
+Houston,12,Constable,1,REP,Morris Luker,101,1,83,17
+Houston,14,Registered Voters,,,,253,,,
+Houston,14,Ballots Cast,,,,187,4,123,60
+Houston,14,Ballots Cast Blank,,,,0,0,0,0
+Houston,14,President,,REP,Donald J. Trump,169,4,111,54
+Houston,14,President,,DEM,Kamala D. Harris,17,0,12,5
+Houston,14,President,,LIB,Chase Oliver,1,0,0,1
+Houston,14,President,,GRN,Jill Stein,0,0,0,0
+Houston,14,President,,,Write-ins,0,0,0,0
+Houston,14,U.S. Senate,,REP,Ted Cruz,167,4,110,53
+Houston,14,U.S. Senate,,DEM,Colin Allred,16,0,11,5
+Houston,14,U.S. Senate,,LIB,Ted Brown,1,0,1,0
+Houston,14,U.S. Senate,,,Write-ins,0,0,0,0
+Houston,14,U.S. House,17,REP,Pete Sessions,167,4,108,55
+Houston,14,U.S. House,17,DEM,Mark Lorenzen,13,0,10,3
+Houston,14,Railroad Commissioner,,REP,Christi Craddick,161,4,103,54
+Houston,14,Railroad Commissioner,,DEM,Katherine Culbert,12,0,10,2
+Houston,14,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,1,1
+Houston,14,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Houston,14,Railroad Commissioner,,,Write-ins,0,0,0,0
+Houston,14,"Justice, Supreme Court",2,REP,Jimmy Blacklock,160,4,104,52
+Houston,14,"Justice, Supreme Court",2,DEM,DaSean Jones,14,0,11,3
+Houston,14,"Justice, Supreme Court",4,REP,John Devine,160,4,104,52
+Houston,14,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,15,0,11,4
+Houston,14,"Justice, Supreme Court",6,REP,Jane Bland,158,4,103,51
+Houston,14,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,15,0,12,3
+Houston,14,"Justice, Supreme Court",6,LIB,J. David Roberson,2,0,0,2
+Houston,14,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,160,4,104,52
+Houston,14,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,15,0,11,4
+Houston,14,"Judge, Ct of Crim App",7,REP,Gina Parker,159,4,104,51
+Houston,14,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,14,0,11,3
+Houston,14,"Judge, Ct of Crim App",8,REP,Lee Finley,160,4,105,51
+Houston,14,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,12,0,10,2
+Houston,14,State Representative,9,REP,Trent Ashby,169,4,112,53
+Houston,14,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,159,4,104,51
+Houston,14,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,162,4,106,52
+Houston,14,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,160,2,106,52
+Houston,14,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,71,1,44,26
+Houston,14,County Attorney,,REP,Kristina Massey,158,4,104,50
+Houston,14,Sheriff,,REP,Zak Benge,166,4,107,55
+Houston,14,County Tax Assessor-Collector,,REP,James Angerstein,144,4,93,47
+Houston,14,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,40,0,28,12
+Houston,15,Registered Voters,,,,283,,,
+Houston,15,Ballots Cast,,,,210,10,134,66
+Houston,15,Ballots Cast Blank,,,,0,0,0,0
+Houston,15,President,,REP,Donald J. Trump,168,5,114,49
+Houston,15,President,,DEM,Kamala D. Harris,41,5,19,17
+Houston,15,President,,LIB,Chase Oliver,1,0,1,0
+Houston,15,President,,GRN,Jill Stein,0,0,0,0
+Houston,15,President,,,Write-ins,0,0,0,0
+Houston,15,U.S. Senate,,REP,Ted Cruz,166,4,115,47
+Houston,15,U.S. Senate,,DEM,Colin Allred,40,5,18,17
+Houston,15,U.S. Senate,,LIB,Ted Brown,4,1,1,2
+Houston,15,U.S. Senate,,,Write-ins,0,0,0,0
+Houston,15,U.S. House,17,REP,Pete Sessions,167,5,114,48
+Houston,15,U.S. House,17,DEM,Mark Lorenzen,37,5,15,17
+Houston,15,Railroad Commissioner,,REP,Christi Craddick,161,4,110,47
+Houston,15,Railroad Commissioner,,DEM,Katherine Culbert,39,5,16,18
+Houston,15,Railroad Commissioner,,LIB,Hawk Dunlap,4,1,2,1
+Houston,15,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Houston,15,Railroad Commissioner,,,Write-ins,0,0,0,0
+Houston,15,"Justice, Supreme Court",2,REP,Jimmy Blacklock,167,5,113,49
+Houston,15,"Justice, Supreme Court",2,DEM,DaSean Jones,38,5,16,17
+Houston,15,"Justice, Supreme Court",4,REP,John Devine,166,5,112,49
+Houston,15,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,38,5,16,17
+Houston,15,"Justice, Supreme Court",6,REP,Jane Bland,163,4,113,46
+Houston,15,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,37,5,15,17
+Houston,15,"Justice, Supreme Court",6,LIB,J. David Roberson,4,1,0,3
+Houston,15,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,163,5,111,47
+Houston,15,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,38,5,16,17
+Houston,15,"Judge, Ct of Crim App",7,REP,Gina Parker,166,5,112,49
+Houston,15,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,37,5,15,17
+Houston,15,"Judge, Ct of Crim App",8,REP,Lee Finley,167,5,113,49
+Houston,15,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,36,5,14,17
+Houston,15,State Representative,9,REP,Trent Ashby,183,5,122,56
+Houston,15,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,172,4,117,51
+Houston,15,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,173,4,117,52
+Houston,15,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,171,4,117,50
+Houston,15,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,102,7,53,42
+Houston,15,County Attorney,,REP,Kristina Massey,173,4,118,51
+Houston,15,Sheriff,,REP,Zak Benge,176,3,119,54
+Houston,15,County Tax Assessor-Collector,,REP,James Angerstein,140,4,101,35
+Houston,15,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,67,6,30,31
+Houston,15,County Commissioner,3,REP,Gene Stokes,172,4,117,51
+Houston,15,Constable,1,REP,Morris Luker,172,4,117,51
+Houston,15,Proposition A Lovelady Independent School District,,,For,87,0,34,53
+Houston,15,Proposition A Lovelady Independent School District,,,Against,146,8,49,89
+Houston,16,Registered Voters,,,,316,,,
+Houston,16,Ballots Cast,,,,231,5,178,48
+Houston,16,Ballots Cast Blank,,,,0,0,0,0
+Houston,16,President,,REP,Donald J. Trump,210,3,164,43
+Houston,16,President,,DEM,Kamala D. Harris,19,2,13,4
+Houston,16,President,,LIB,Chase Oliver,0,0,0,0
+Houston,16,President,,GRN,Jill Stein,0,0,0,0
+Houston,16,President,,,Write-ins,0,0,0,0
+Houston,16,U.S. Senate,,REP,Ted Cruz,205,3,159,43
+Houston,16,U.S. Senate,,DEM,Colin Allred,23,2,16,5
+Houston,16,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Houston,16,U.S. Senate,,,Write-ins,0,0,0,0
+Houston,16,U.S. House,17,REP,Pete Sessions,206,3,161,42
+Houston,16,U.S. House,17,DEM,Mark Lorenzen,20,2,13,5
+Houston,16,Railroad Commissioner,,REP,Christi Craddick,204,3,160,41
+Houston,16,Railroad Commissioner,,DEM,Katherine Culbert,19,2,13,4
+Houston,16,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,1,2
+Houston,16,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+Houston,16,Railroad Commissioner,,,Write-ins,0,0,0,0
+Houston,16,"Justice, Supreme Court",2,REP,Jimmy Blacklock,209,3,163,43
+Houston,16,"Justice, Supreme Court",2,DEM,DaSean Jones,19,2,12,5
+Houston,16,"Justice, Supreme Court",4,REP,John Devine,206,3,160,43
+Houston,16,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,19,2,12,5
+Houston,16,"Justice, Supreme Court",6,REP,Jane Bland,208,3,164,41
+Houston,16,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,18,2,11,5
+Houston,16,"Justice, Supreme Court",6,LIB,J. David Roberson,2,0,0,2
+Houston,16,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,205,3,160,42
+Houston,16,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,21,2,13,6
+Houston,16,"Judge, Ct of Crim App",7,REP,Gina Parker,207,3,163,41
+Houston,16,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,19,2,12,5
+Houston,16,"Judge, Ct of Crim App",8,REP,Lee Finley,207,3,162,42
+Houston,16,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,19,2,12,5
+Houston,16,State Representative,9,REP,Trent Ashby,213,3,167,43
+Houston,16,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,205,3,160,42
+Houston,16,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,208,3,164,41
+Houston,16,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,209,4,164,41
+Houston,16,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,102,1,80,21
+Houston,16,County Attorney,,REP,Kristina Massey,208,2,164,42
+Houston,16,Sheriff,,REP,Zak Benge,210,3,162,45
+Houston,16,County Tax Assessor-Collector,,REP,James Angerstein,188,3,144,41
+Houston,16,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,41,2,32,7
+Houston,16,County Commissioner,1,REP,Gary Lovell,207,2,161,44
+Houston,16,Constable,2,REP,"Kenneth ""Red"" Smith",206,3,161,42
+Houston,17,Registered Voters,,,,339,,,
+Houston,17,Ballots Cast,,,,253,8,90,155
+Houston,17,Ballots Cast Blank,,,,1,0,0,1
+Houston,17,President,,REP,Donald J. Trump,238,6,86,146
+Houston,17,President,,DEM,Kamala D. Harris,12,2,3,7
+Houston,17,President,,LIB,Chase Oliver,0,0,0,0
+Houston,17,President,,GRN,Jill Stein,0,0,0,0
+Houston,17,President,,,Write-ins,1,0,0,1
+Houston,17,U.S. Senate,,REP,Ted Cruz,235,6,86,143
+Houston,17,U.S. Senate,,DEM,Colin Allred,15,2,4,9
+Houston,17,U.S. Senate,,LIB,Ted Brown,2,0,0,2
+Houston,17,U.S. Senate,,,Write-ins,0,0,0,0
+Houston,17,U.S. House,17,REP,Pete Sessions,237,5,86,146
+Houston,17,U.S. House,17,DEM,Mark Lorenzen,10,2,2,6
+Houston,17,Railroad Commissioner,,REP,Christi Craddick,228,5,81,142
+Houston,17,Railroad Commissioner,,DEM,Katherine Culbert,9,2,3,4
+Houston,17,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,3,4
+Houston,17,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Houston,17,Railroad Commissioner,,,Write-ins,0,0,0,0
+Houston,17,"Justice, Supreme Court",2,REP,Jimmy Blacklock,236,5,84,147
+Houston,17,"Justice, Supreme Court",2,DEM,DaSean Jones,8,2,3,3
+Houston,17,"Justice, Supreme Court",4,REP,John Devine,234,5,83,146
+Houston,17,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,10,2,3,5
+Houston,17,"Justice, Supreme Court",6,REP,Jane Bland,229,5,84,140
+Houston,17,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,12,2,3,7
+Houston,17,"Justice, Supreme Court",6,LIB,J. David Roberson,2,0,0,2
+Houston,17,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,230,5,83,142
+Houston,17,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,12,2,3,7
+Houston,17,"Judge, Ct of Crim App",7,REP,Gina Parker,230,5,84,141
+Houston,17,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,11,2,3,6
+Houston,17,"Judge, Ct of Crim App",8,REP,Lee Finley,231,5,84,142
+Houston,17,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,11,2,3,6
+Houston,17,State Representative,9,REP,Trent Ashby,231,5,81,145
+Houston,17,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,228,5,80,143
+Houston,17,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,231,6,81,144
+Houston,17,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,231,6,83,142
+Houston,17,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,88,3,23,62
+Houston,17,County Attorney,,REP,Kristina Massey,224,4,79,141
+Houston,17,Sheriff,,REP,Zak Benge,236,6,84,146
+Houston,17,County Tax Assessor-Collector,,REP,James Angerstein,205,5,74,126
+Houston,17,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,37,3,14,20
+Houston,17,County Commissioner,3,REP,Gene Stokes,231,6,82,143
+Houston,17,Constable,1,REP,Morris Luker,222,6,75,141
+Houston,17,Proposition A Lovelady Independent School District,,,For,87,0,34,53
+Houston,17,Proposition A Lovelady Independent School District,,,Against,146,8,49,89
+Houston,18,Registered Voters,,,,158,,,
+Houston,18,Ballots Cast,,,,113,12,61,40
+Houston,18,Ballots Cast Blank,,,,0,0,0,0
+Houston,18,President,,REP,Donald J. Trump,72,4,39,29
+Houston,18,President,,DEM,Kamala D. Harris,39,8,21,10
+Houston,18,President,,LIB,Chase Oliver,1,0,1,0
+Houston,18,President,,GRN,Jill Stein,1,0,0,1
+Houston,18,President,,,Write-ins,0,0,0,0
+Houston,18,U.S. Senate,,REP,Ted Cruz,69,6,38,25
+Houston,18,U.S. Senate,,DEM,Colin Allred,38,6,23,9
+Houston,18,U.S. Senate,,LIB,Ted Brown,2,0,0,2
+Houston,18,U.S. Senate,,,Write-ins,0,0,0,0
+Houston,18,U.S. House,17,REP,Pete Sessions,71,5,40,26
+Houston,18,U.S. House,17,DEM,Mark Lorenzen,37,7,20,10
+Houston,18,Railroad Commissioner,,REP,Christi Craddick,67,5,37,25
+Houston,18,Railroad Commissioner,,DEM,Katherine Culbert,37,7,21,9
+Houston,18,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Houston,18,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,2,1
+Houston,18,Railroad Commissioner,,,Write-ins,0,0,0,0
+Houston,18,"Justice, Supreme Court",2,REP,Jimmy Blacklock,70,5,41,24
+Houston,18,"Justice, Supreme Court",2,DEM,DaSean Jones,37,7,20,10
+Houston,18,"Justice, Supreme Court",4,REP,John Devine,69,5,39,25
+Houston,18,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,37,7,21,9
+Houston,18,"Justice, Supreme Court",6,REP,Jane Bland,65,5,36,24
+Houston,18,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,38,7,21,10
+Houston,18,"Justice, Supreme Court",6,LIB,J. David Roberson,1,0,1,0
+Houston,18,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,68,5,39,24
+Houston,18,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,38,7,20,11
+Houston,18,"Judge, Ct of Crim App",7,REP,Gina Parker,69,5,39,25
+Houston,18,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,35,5,20,10
+Houston,18,"Judge, Ct of Crim App",8,REP,Lee Finley,69,5,38,26
+Houston,18,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,37,7,21,9
+Houston,18,State Representative,9,REP,Trent Ashby,83,8,44,31
+Houston,18,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,82,9,42,31
+Houston,18,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,80,9,39,32
+Houston,18,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,81,8,43,30
+Houston,18,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,63,12,29,22
+Houston,18,County Attorney,,REP,Kristina Massey,83,9,41,33
+Houston,18,Sheriff,,REP,Zak Benge,81,9,39,33
+Houston,18,County Tax Assessor-Collector,,REP,James Angerstein,57,3,34,20
+Houston,18,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,51,9,26,16
+Houston,18,County Commissioner,3,REP,Gene Stokes,79,9,41,29
+Houston,18,Constable,1,REP,Morris Luker,78,9,39,30
+Houston,18,Proposition A Lovelady Independent School District,,,For,48,4,23,21
+Houston,18,Proposition A Lovelady Independent School District,,,Against,48,7,28,13
+Houston,19,Registered Voters,,,,670,,,
+Houston,19,Ballots Cast,,,,489,29,229,231
+Houston,19,Ballots Cast Blank,,,,0,0,0,0
+Houston,19,President,,REP,Donald J. Trump,380,14,184,182
+Houston,19,President,,DEM,Kamala D. Harris,102,15,42,45
+Houston,19,President,,LIB,Chase Oliver,2,0,1,1
+Houston,19,President,,GRN,Jill Stein,3,0,1,2
+Houston,19,President,,,Write-ins,0,0,0,0
+Houston,19,U.S. Senate,,REP,Ted Cruz,362,14,179,169
+Houston,19,U.S. Senate,,DEM,Colin Allred,110,15,43,52
+Houston,19,U.S. Senate,,LIB,Ted Brown,8,0,3,5
+Houston,19,U.S. Senate,,,Write-ins,0,0,0,0
+Houston,19,U.S. House,17,REP,Pete Sessions,369,14,180,175
+Houston,19,U.S. House,17,DEM,Mark Lorenzen,98,14,41,43
+Houston,19,Railroad Commissioner,,REP,Christi Craddick,356,14,178,164
+Houston,19,Railroad Commissioner,,DEM,Katherine Culbert,93,13,38,42
+Houston,19,Railroad Commissioner,,LIB,Hawk Dunlap,10,0,6,4
+Houston,19,Railroad Commissioner,,GRN,Eddie Espinoza,2,1,1,0
+Houston,19,Railroad Commissioner,,,Write-ins,0,0,0,0
+Houston,19,"Justice, Supreme Court",2,REP,Jimmy Blacklock,366,14,180,172
+Houston,19,"Justice, Supreme Court",2,DEM,DaSean Jones,96,14,41,41
+Houston,19,"Justice, Supreme Court",4,REP,John Devine,365,14,180,171
+Houston,19,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,95,14,40,41
+Houston,19,"Justice, Supreme Court",6,REP,Jane Bland,354,14,177,163
+Houston,19,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,92,12,40,40
+Houston,19,"Justice, Supreme Court",6,LIB,J. David Roberson,9,1,2,6
+Houston,19,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,356,15,176,165
+Houston,19,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,96,13,41,42
+Houston,19,"Judge, Ct of Crim App",7,REP,Gina Parker,360,14,179,167
+Houston,19,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,91,13,37,41
+Houston,19,"Judge, Ct of Crim App",8,REP,Lee Finley,361,14,179,168
+Houston,19,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,91,14,38,39
+Houston,19,State Representative,9,REP,Trent Ashby,388,15,187,186
+Houston,19,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,363,15,175,173
+Houston,19,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,372,15,183,174
+Houston,19,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,378,13,185,180
+Houston,19,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,229,15,103,111
+Houston,19,County Attorney,,REP,Kristina Massey,364,15,181,168
+Houston,19,Sheriff,,REP,Zak Benge,398,17,195,186
+Houston,19,County Tax Assessor-Collector,,REP,James Angerstein,314,12,167,135
+Houston,19,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,153,15,55,83
+Houston,19,Constable,1,REP,Morris Luker,383,15,184,184
+Houston,20,Registered Voters,,,,236,,,
+Houston,20,Ballots Cast,,,,164,7,89,68
+Houston,20,Ballots Cast Blank,,,,0,0,0,0
+Houston,20,President,,REP,Donald J. Trump,155,7,85,63
+Houston,20,President,,DEM,Kamala D. Harris,9,0,4,5
+Houston,20,President,,LIB,Chase Oliver,0,0,0,0
+Houston,20,President,,GRN,Jill Stein,0,0,0,0
+Houston,20,President,,,Write-ins,0,0,0,0
+Houston,20,U.S. Senate,,REP,Ted Cruz,146,7,82,57
+Houston,20,U.S. Senate,,DEM,Colin Allred,13,0,6,7
+Houston,20,U.S. Senate,,LIB,Ted Brown,4,0,1,3
+Houston,20,U.S. Senate,,,Write-ins,0,0,0,0
+Houston,20,U.S. House,17,REP,Pete Sessions,155,7,87,61
+Houston,20,U.S. House,17,DEM,Mark Lorenzen,6,0,1,5
+Houston,20,Railroad Commissioner,,REP,Christi Craddick,153,7,85,61
+Houston,20,Railroad Commissioner,,DEM,Katherine Culbert,5,0,1,4
+Houston,20,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,2,0
+Houston,20,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Houston,20,Railroad Commissioner,,,Write-ins,0,0,0,0
+Houston,20,"Justice, Supreme Court",2,REP,Jimmy Blacklock,155,7,85,63
+Houston,20,"Justice, Supreme Court",2,DEM,DaSean Jones,5,0,2,3
+Houston,20,"Justice, Supreme Court",4,REP,John Devine,154,7,87,60
+Houston,20,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,6,0,1,5
+Houston,20,"Justice, Supreme Court",6,REP,Jane Bland,152,7,85,60
+Houston,20,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,6,0,3,3
+Houston,20,"Justice, Supreme Court",6,LIB,J. David Roberson,0,0,0,0
+Houston,20,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,153,7,87,59
+Houston,20,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,5,0,1,4
+Houston,20,"Judge, Ct of Crim App",7,REP,Gina Parker,152,7,85,60
+Houston,20,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,5,0,2,3
+Houston,20,"Judge, Ct of Crim App",8,REP,Lee Finley,153,7,86,60
+Houston,20,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,4,0,1,3
+Houston,20,State Representative,9,REP,Trent Ashby,153,7,84,62
+Houston,20,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,148,7,83,58
+Houston,20,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,146,7,80,59
+Houston,20,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,150,7,82,61
+Houston,20,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,61,3,28,30
+Houston,20,County Attorney,,REP,Kristina Massey,148,7,81,60
+Houston,20,Sheriff,,REP,Zak Benge,153,7,84,62
+Houston,20,County Tax Assessor-Collector,,REP,James Angerstein,134,7,74,53
+Houston,20,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,23,0,10,13
+Houston,20,Constable,1,REP,Morris Luker,150,7,81,62
+Houston,21,Registered Voters,,,,393,,,
+Houston,21,Ballots Cast,,,,290,16,141,133
+Houston,21,Ballots Cast Blank,,,,0,0,0,0
+Houston,21,President,,REP,Donald J. Trump,222,9,115,98
+Houston,21,President,,DEM,Kamala D. Harris,64,5,24,35
+Houston,21,President,,LIB,Chase Oliver,0,0,0,0
+Houston,21,President,,GRN,Jill Stein,0,0,0,0
+Houston,21,President,,,Write-ins,3,2,1,0
+Houston,21,U.S. Senate,,REP,Ted Cruz,218,8,112,98
+Houston,21,U.S. Senate,,DEM,Colin Allred,61,4,23,34
+Houston,21,U.S. Senate,,LIB,Ted Brown,6,1,5,0
+Houston,21,U.S. Senate,,,Write-ins,2,2,0,0
+Houston,21,U.S. House,17,REP,Pete Sessions,224,11,115,98
+Houston,21,U.S. House,17,DEM,Mark Lorenzen,57,5,21,31
+Houston,21,Railroad Commissioner,,REP,Christi Craddick,219,11,111,97
+Houston,21,Railroad Commissioner,,DEM,Katherine Culbert,54,4,20,30
+Houston,21,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,2,1
+Houston,21,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+Houston,21,Railroad Commissioner,,,Write-ins,0,0,0,0
+Houston,21,"Justice, Supreme Court",2,REP,Jimmy Blacklock,222,11,114,97
+Houston,21,"Justice, Supreme Court",2,DEM,DaSean Jones,56,5,18,33
+Houston,21,"Justice, Supreme Court",4,REP,John Devine,222,11,113,98
+Houston,21,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,57,5,20,32
+Houston,21,"Justice, Supreme Court",6,REP,Jane Bland,219,11,111,97
+Houston,21,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,53,5,18,30
+Houston,21,"Justice, Supreme Court",6,LIB,J. David Roberson,3,0,3,0
+Houston,21,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,218,11,110,97
+Houston,21,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,56,4,20,31
+Houston,21,"Judge, Ct of Crim App",7,REP,Gina Parker,220,11,112,97
+Houston,21,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,53,5,17,31
+Houston,21,"Judge, Ct of Crim App",8,REP,Lee Finley,219,11,110,98
+Houston,21,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,50,5,17,28
+Houston,21,State Representative,9,REP,Trent Ashby,241,12,125,104
+Houston,21,"Justice, 12th Ct of App Dist",3,REP,Greg Neeley,228,12,114,102
+Houston,21,"Dist Judge, 3rd Judicial Dist",,REP,Mark A. Calhoon,230,12,116,102
+Houston,21,"Dist Judge, 349th Judicial Dist",,REP,Pam Foster Fletcher,232,12,117,103
+Houston,21,"Dist Attorney, 349th Judicial Dist",,DEM,Daphne Session,128,8,53,67
+Houston,21,County Attorney,,REP,Kristina Massey,231,12,118,101
+Houston,21,Sheriff,,REP,Zak Benge,246,13,126,107
+Houston,21,County Tax Assessor-Collector,,REP,James Angerstein,199,10,108,81
+Houston,21,County Tax Assessor-Collector,,DEM,Laronica Wooten Smith,82,6,26,50
+Houston,21,Constable,1,REP,Morris Luker,239,12,124,103

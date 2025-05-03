@@ -1,0 +1,333 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Hemphill,101,Registered Voters,,,,485,,,
+Hemphill,101,Ballots Cast,,,,331,9,249,73
+Hemphill,101,Ballots Cast Blank,,,,0,0,0,0
+Hemphill,101,President,,REP,Donald J. Trump,289,9,215,65
+Hemphill,101,President,,DEM,Kamala D. Harris,37,0,29,8
+Hemphill,101,President,,LIB,Chase Oliver,3,0,3,0
+Hemphill,101,President,,GRN,Jill Stein,0,0,0,0
+Hemphill,101,President,,,Write-ins,0,0,0,0
+Hemphill,101,U.S. Senate,,REP,Ted Cruz,281,9,208,64
+Hemphill,101,U.S. Senate,,DEM,Colin Allred,41,0,33,8
+Hemphill,101,U.S. Senate,,LIB,Ted Brown,4,0,3,1
+Hemphill,101,U.S. Senate,,,Write-ins,0,0,0,0
+Hemphill,101,U.S. House,13,REP,Ronny Jackson,286,9,211,66
+Hemphill,101,Railroad Commissioner,,REP,Christi Craddick,269,8,198,63
+Hemphill,101,Railroad Commissioner,,DEM,Katherine Culbert,30,0,25,5
+Hemphill,101,Railroad Commissioner,,LIB,Hawk Dunlap,9,0,9,0
+Hemphill,101,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,4,3
+Hemphill,101,Railroad Commissioner,,,Write-ins,0,0,0,0
+Hemphill,101,"Justice, Supreme Court",2,REP,Jimmy Blacklock,277,8,205,64
+Hemphill,101,"Justice, Supreme Court",2,DEM,DaSean Jones,33,0,27,6
+Hemphill,101,"Justice, Supreme Court",4,REP,John Devine,274,8,203,63
+Hemphill,101,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,34,0,28,6
+Hemphill,101,"Justice, Supreme Court",6,REP,Jane Bland,270,8,197,65
+Hemphill,101,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,34,0,28,6
+Hemphill,101,"Justice, Supreme Court",6,LIB,J. David Roberson,7,0,7,0
+Hemphill,101,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,275,8,205,62
+Hemphill,101,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,35,0,27,8
+Hemphill,101,"Judge, Ct of Crim App",7,REP,Gina Parker,274,8,204,62
+Hemphill,101,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,37,0,29,8
+Hemphill,101,"Judge, Ct of Crim App",8,REP,Lee Finley,277,8,206,63
+Hemphill,101,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,33,0,26,7
+Hemphill,101,"Member, State BoE",15,REP,Aaron Kinsey,263,8,193,62
+Hemphill,101,"Member, State BoE",15,DEM,Morgan Kirkpatrick,37,0,32,5
+Hemphill,101,"Member, State BoE",15,LIB,Jack B. Westbrook,9,0,7,2
+Hemphill,101,State Representative,88,REP,Ken King,293,9,216,68
+Hemphill,101,"Justice, 7th Ct of App Dist",2,REP,Judy Parker,264,6,200,58
+Hemphill,101,"Justice, 7th Ct of App Dist",3,REP,Alex Yarbrough,262,6,194,62
+Hemphill,101,"Dist Attorney, 31st Judicial Dist",,REP,Franklin McDonough,253,5,189,59
+Hemphill,101,County Attorney,,REP,Kyle Miller,275,6,204,65
+Hemphill,101,Sheriff,,REP,Brent Clapp,274,5,206,63
+Hemphill,101,County Tax Assessor-Collector,,REP,Chris Jackson,284,6,211,67
+Hemphill,101,County Commissioner,1,REP,Dawn E. Webb,294,6,221,67
+Hemphill,201,Registered Voters,,,,517,,,
+Hemphill,201,Ballots Cast,,,,349,7,264,78
+Hemphill,201,Ballots Cast Blank,,,,0,0,0,0
+Hemphill,201,President,,REP,Donald J. Trump,292,6,219,67
+Hemphill,201,President,,DEM,Kamala D. Harris,51,1,39,11
+Hemphill,201,President,,LIB,Chase Oliver,1,0,1,0
+Hemphill,201,President,,GRN,Jill Stein,2,0,2,0
+Hemphill,201,President,,,Write-ins,0,0,0,0
+Hemphill,201,U.S. Senate,,REP,Ted Cruz,289,6,219,64
+Hemphill,201,U.S. Senate,,DEM,Colin Allred,49,1,38,10
+Hemphill,201,U.S. Senate,,LIB,Ted Brown,4,0,4,0
+Hemphill,201,U.S. Senate,,,Write-ins,0,0,0,0
+Hemphill,201,U.S. House,13,REP,Ronny Jackson,298,6,221,71
+Hemphill,201,Railroad Commissioner,,REP,Christi Craddick,273,4,206,63
+Hemphill,201,Railroad Commissioner,,DEM,Katherine Culbert,38,1,31,6
+Hemphill,201,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,6,1
+Hemphill,201,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,4,2
+Hemphill,201,Railroad Commissioner,,,Write-ins,0,0,0,0
+Hemphill,201,"Justice, Supreme Court",2,REP,Jimmy Blacklock,280,5,209,66
+Hemphill,201,"Justice, Supreme Court",2,DEM,DaSean Jones,39,1,32,6
+Hemphill,201,"Justice, Supreme Court",4,REP,John Devine,272,5,205,62
+Hemphill,201,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,41,1,31,9
+Hemphill,201,"Justice, Supreme Court",6,REP,Jane Bland,275,5,207,63
+Hemphill,201,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,41,1,30,10
+Hemphill,201,"Justice, Supreme Court",6,LIB,J. David Roberson,2,0,2,0
+Hemphill,201,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,279,5,209,65
+Hemphill,201,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,37,1,28,8
+Hemphill,201,"Judge, Ct of Crim App",7,REP,Gina Parker,278,5,209,64
+Hemphill,201,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,35,1,27,7
+Hemphill,201,"Judge, Ct of Crim App",8,REP,Lee Finley,273,5,209,59
+Hemphill,201,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,35,1,25,9
+Hemphill,201,"Member, State BoE",15,REP,Aaron Kinsey,269,5,205,59
+Hemphill,201,"Member, State BoE",15,DEM,Morgan Kirkpatrick,45,1,35,9
+Hemphill,201,"Member, State BoE",15,LIB,Jack B. Westbrook,4,0,2,2
+Hemphill,201,State Representative,88,REP,Ken King,300,6,225,69
+Hemphill,201,"Justice, 7th Ct of App Dist",2,REP,Judy Parker,276,5,209,62
+Hemphill,201,"Justice, 7th Ct of App Dist",3,REP,Alex Yarbrough,277,5,209,63
+Hemphill,201,"Dist Attorney, 31st Judicial Dist",,REP,Franklin McDonough,262,5,197,60
+Hemphill,201,County Attorney,,REP,Kyle Miller,278,6,208,64
+Hemphill,201,Sheriff,,REP,Brent Clapp,279,6,207,66
+Hemphill,201,County Tax Assessor-Collector,,REP,Chris Jackson,296,6,226,64
+Hemphill,202,Registered Voters,,,,30,,,
+Hemphill,202,Ballots Cast,,,,22,0,5,17
+Hemphill,202,Ballots Cast Blank,,,,0,0,0,0
+Hemphill,202,President,,REP,Donald J. Trump,22,0,5,17
+Hemphill,202,President,,DEM,Kamala D. Harris,0,0,0,0
+Hemphill,202,President,,LIB,Chase Oliver,0,0,0,0
+Hemphill,202,President,,GRN,Jill Stein,0,0,0,0
+Hemphill,202,President,,,Write-ins,0,0,0,0
+Hemphill,202,U.S. Senate,,REP,Ted Cruz,22,0,5,17
+Hemphill,202,U.S. Senate,,DEM,Colin Allred,0,0,0,0
+Hemphill,202,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Hemphill,202,U.S. Senate,,,Write-ins,0,0,0,0
+Hemphill,202,U.S. House,13,REP,Ronny Jackson,22,0,5,17
+Hemphill,202,Railroad Commissioner,,REP,Christi Craddick,19,0,4,15
+Hemphill,202,Railroad Commissioner,,DEM,Katherine Culbert,0,0,0,0
+Hemphill,202,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,1,1
+Hemphill,202,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Hemphill,202,Railroad Commissioner,,,Write-ins,0,0,0,0
+Hemphill,202,"Justice, Supreme Court",2,REP,Jimmy Blacklock,21,0,5,16
+Hemphill,202,"Justice, Supreme Court",2,DEM,DaSean Jones,0,0,0,0
+Hemphill,202,"Justice, Supreme Court",4,REP,John Devine,21,0,5,16
+Hemphill,202,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,0,0,0,0
+Hemphill,202,"Justice, Supreme Court",6,REP,Jane Bland,21,0,5,16
+Hemphill,202,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,0,0,0,0
+Hemphill,202,"Justice, Supreme Court",6,LIB,J. David Roberson,0,0,0,0
+Hemphill,202,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,21,0,5,16
+Hemphill,202,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,0,0,0,0
+Hemphill,202,"Judge, Ct of Crim App",7,REP,Gina Parker,21,0,5,16
+Hemphill,202,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,0,0,0,0
+Hemphill,202,"Judge, Ct of Crim App",8,REP,Lee Finley,21,0,5,16
+Hemphill,202,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,0,0,0,0
+Hemphill,202,"Member, State BoE",15,REP,Aaron Kinsey,21,0,5,16
+Hemphill,202,"Member, State BoE",15,DEM,Morgan Kirkpatrick,0,0,0,0
+Hemphill,202,"Member, State BoE",15,LIB,Jack B. Westbrook,0,0,0,0
+Hemphill,202,State Representative,88,REP,Ken King,22,0,5,17
+Hemphill,202,"Justice, 7th Ct of App Dist",2,REP,Judy Parker,21,0,5,16
+Hemphill,202,"Justice, 7th Ct of App Dist",3,REP,Alex Yarbrough,21,0,5,16
+Hemphill,202,"Dist Attorney, 31st Judicial Dist",,REP,Franklin McDonough,21,0,5,16
+Hemphill,202,County Attorney,,REP,Kyle Miller,22,0,5,17
+Hemphill,202,Sheriff,,REP,Brent Clapp,22,0,5,17
+Hemphill,202,County Tax Assessor-Collector,,REP,Chris Jackson,22,0,5,17
+Hemphill,301,Registered Voters,,,,620,,,
+Hemphill,301,Ballots Cast,,,,452,32,354,66
+Hemphill,301,Ballots Cast Blank,,,,0,0,0,0
+Hemphill,301,President,,REP,Donald J. Trump,398,25,316,57
+Hemphill,301,President,,DEM,Kamala D. Harris,50,7,34,9
+Hemphill,301,President,,LIB,Chase Oliver,1,0,1,0
+Hemphill,301,President,,GRN,Jill Stein,0,0,0,0
+Hemphill,301,President,,,Write-ins,1,0,1,0
+Hemphill,301,U.S. Senate,,REP,Ted Cruz,389,25,309,55
+Hemphill,301,U.S. Senate,,DEM,Colin Allred,49,7,33,9
+Hemphill,301,U.S. Senate,,LIB,Ted Brown,7,0,5,2
+Hemphill,301,U.S. Senate,,,Write-ins,0,0,0,0
+Hemphill,301,U.S. House,13,REP,Ronny Jackson,394,24,314,56
+Hemphill,301,Railroad Commissioner,,REP,Christi Craddick,363,22,291,50
+Hemphill,301,Railroad Commissioner,,DEM,Katherine Culbert,44,6,29,9
+Hemphill,301,Railroad Commissioner,,LIB,Hawk Dunlap,14,1,10,3
+Hemphill,301,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,5,2
+Hemphill,301,Railroad Commissioner,,,Write-ins,1,0,1,0
+Hemphill,301,"Justice, Supreme Court",2,REP,Jimmy Blacklock,373,23,297,53
+Hemphill,301,"Justice, Supreme Court",2,DEM,DaSean Jones,50,7,34,9
+Hemphill,301,"Justice, Supreme Court",4,REP,John Devine,367,22,291,54
+Hemphill,301,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,49,6,35,8
+Hemphill,301,"Justice, Supreme Court",6,REP,Jane Bland,362,23,289,50
+Hemphill,301,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,48,6,34,8
+Hemphill,301,"Justice, Supreme Court",6,LIB,J. David Roberson,11,0,7,4
+Hemphill,301,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,375,23,301,51
+Hemphill,301,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,48,7,31,10
+Hemphill,301,"Judge, Ct of Crim App",7,REP,Gina Parker,372,22,295,55
+Hemphill,301,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,41,7,27,7
+Hemphill,301,"Judge, Ct of Crim App",8,REP,Lee Finley,374,22,299,53
+Hemphill,301,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,47,6,31,10
+Hemphill,301,"Member, State BoE",15,REP,Aaron Kinsey,356,21,283,52
+Hemphill,301,"Member, State BoE",15,DEM,Morgan Kirkpatrick,58,6,41,11
+Hemphill,301,"Member, State BoE",15,LIB,Jack B. Westbrook,15,2,11,2
+Hemphill,301,State Representative,88,REP,Ken King,386,22,304,60
+Hemphill,301,"Justice, 7th Ct of App Dist",2,REP,Judy Parker,361,21,287,53
+Hemphill,301,"Justice, 7th Ct of App Dist",3,REP,Alex Yarbrough,361,21,287,53
+Hemphill,301,"Dist Attorney, 31st Judicial Dist",,REP,Franklin McDonough,338,20,273,45
+Hemphill,301,County Attorney,,REP,Kyle Miller,367,20,295,52
+Hemphill,301,Sheriff,,REP,Brent Clapp,368,18,295,55
+Hemphill,301,County Tax Assessor-Collector,,REP,Chris Jackson,391,21,314,56
+Hemphill,301,County Commissioner,3,REP,Dale Schafer,395,20,315,60
+Hemphill,302,Registered Voters,,,,28,,,
+Hemphill,302,Ballots Cast,,,,24,2,15,7
+Hemphill,302,Ballots Cast Blank,,,,0,0,0,0
+Hemphill,302,President,,REP,Donald J. Trump,22,2,15,5
+Hemphill,302,President,,DEM,Kamala D. Harris,2,1,0,1
+Hemphill,302,President,,LIB,Chase Oliver,0,0,0,0
+Hemphill,302,President,,GRN,Jill Stein,0,0,0,0
+Hemphill,302,President,,,Write-ins,0,0,0,0
+Hemphill,302,U.S. Senate,,REP,Ted Cruz,23,1,15,7
+Hemphill,302,U.S. Senate,,DEM,Colin Allred,1,1,0,0
+Hemphill,302,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Hemphill,302,U.S. Senate,,,Write-ins,0,0,0,0
+Hemphill,302,U.S. House,13,REP,Ronny Jackson,20,1,15,4
+Hemphill,302,Railroad Commissioner,,REP,Christi Craddick,20,2,15,3
+Hemphill,302,Railroad Commissioner,,DEM,Katherine Culbert,1,0,0,1
+Hemphill,302,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,0,2
+Hemphill,302,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Hemphill,302,Railroad Commissioner,,,Write-ins,0,0,0,0
+Hemphill,302,"Justice, Supreme Court",2,REP,Jimmy Blacklock,21,2,13,6
+Hemphill,302,"Justice, Supreme Court",2,DEM,DaSean Jones,0,0,0,0
+Hemphill,302,"Justice, Supreme Court",4,REP,John Devine,21,1,13,7
+Hemphill,302,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,1,1,0,0
+Hemphill,302,"Justice, Supreme Court",6,REP,Jane Bland,20,1,13,6
+Hemphill,302,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,1,1,0,0
+Hemphill,302,"Justice, Supreme Court",6,LIB,J. David Roberson,1,0,0,1
+Hemphill,302,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,21,1,13,7
+Hemphill,302,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,1,1,0,0
+Hemphill,302,"Judge, Ct of Crim App",7,REP,Gina Parker,22,2,13,7
+Hemphill,302,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,0,0,0,0
+Hemphill,302,"Judge, Ct of Crim App",8,REP,Lee Finley,21,2,12,7
+Hemphill,302,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,0,0,0,0
+Hemphill,302,"Member, State BoE",15,REP,Aaron Kinsey,16,1,12,3
+Hemphill,302,"Member, State BoE",15,DEM,Morgan Kirkpatrick,1,1,0,0
+Hemphill,302,"Member, State BoE",15,LIB,Jack B. Westbrook,4,0,1,3
+Hemphill,302,State Representative,88,REP,Ken King,21,2,14,5
+Hemphill,302,"Justice, 7th Ct of App Dist",2,REP,Judy Parker,23,2,15,6
+Hemphill,302,"Justice, 7th Ct of App Dist",3,REP,Alex Yarbrough,22,2,14,6
+Hemphill,302,"Dist Attorney, 31st Judicial Dist",,REP,Franklin McDonough,20,2,15,3
+Hemphill,302,County Attorney,,REP,Kyle Miller,18,1,14,3
+Hemphill,302,Sheriff,,REP,Brent Clapp,20,2,13,5
+Hemphill,302,County Tax Assessor-Collector,,REP,Chris Jackson,24,2,15,7
+Hemphill,302,County Commissioner,3,REP,Dale Schafer,18,2,14,2
+Hemphill,303,Registered Voters,,,,91,,,
+Hemphill,303,Ballots Cast,,,,79,6,38,35
+Hemphill,303,Ballots Cast Blank,,,,0,0,0,0
+Hemphill,303,President,,REP,Donald J. Trump,64,4,30,30
+Hemphill,303,President,,DEM,Kamala D. Harris,12,2,8,2
+Hemphill,303,President,,LIB,Chase Oliver,0,0,0,0
+Hemphill,303,President,,GRN,Jill Stein,0,0,0,0
+Hemphill,303,President,,,Write-ins,0,0,0,0
+Hemphill,303,U.S. Senate,,REP,Ted Cruz,64,4,30,30
+Hemphill,303,U.S. Senate,,DEM,Colin Allred,13,2,8,3
+Hemphill,303,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+Hemphill,303,U.S. Senate,,,Write-ins,0,0,0,0
+Hemphill,303,U.S. House,13,REP,Ronny Jackson,61,4,29,28
+Hemphill,303,Railroad Commissioner,,REP,Christi Craddick,62,6,28,28
+Hemphill,303,Railroad Commissioner,,DEM,Katherine Culbert,10,0,8,2
+Hemphill,303,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,1,1
+Hemphill,303,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Hemphill,303,Railroad Commissioner,,,Write-ins,0,0,0,0
+Hemphill,303,"Justice, Supreme Court",2,REP,Jimmy Blacklock,64,6,30,28
+Hemphill,303,"Justice, Supreme Court",2,DEM,DaSean Jones,9,0,8,1
+Hemphill,303,"Justice, Supreme Court",4,REP,John Devine,62,4,30,28
+Hemphill,303,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,11,2,7,2
+Hemphill,303,"Justice, Supreme Court",6,REP,Jane Bland,61,4,30,27
+Hemphill,303,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,12,2,8,2
+Hemphill,303,"Justice, Supreme Court",6,LIB,J. David Roberson,1,0,0,1
+Hemphill,303,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,63,4,30,29
+Hemphill,303,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,12,2,8,2
+Hemphill,303,"Judge, Ct of Crim App",7,REP,Gina Parker,62,6,28,28
+Hemphill,303,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,11,0,9,2
+Hemphill,303,"Judge, Ct of Crim App",8,REP,Lee Finley,62,6,28,28
+Hemphill,303,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,10,0,8,2
+Hemphill,303,"Member, State BoE",15,REP,Aaron Kinsey,60,4,29,27
+Hemphill,303,"Member, State BoE",15,DEM,Morgan Kirkpatrick,12,2,8,2
+Hemphill,303,"Member, State BoE",15,LIB,Jack B. Westbrook,1,0,0,1
+Hemphill,303,State Representative,88,REP,Ken King,69,6,32,31
+Hemphill,303,"Justice, 7th Ct of App Dist",2,REP,Judy Parker,63,6,29,28
+Hemphill,303,"Justice, 7th Ct of App Dist",3,REP,Alex Yarbrough,62,6,28,28
+Hemphill,303,"Dist Attorney, 31st Judicial Dist",,REP,Franklin McDonough,60,6,25,29
+Hemphill,303,County Attorney,,REP,Kyle Miller,67,6,31,30
+Hemphill,303,Sheriff,,REP,Brent Clapp,65,6,29,30
+Hemphill,303,County Tax Assessor-Collector,,REP,Chris Jackson,65,6,29,30
+Hemphill,303,County Commissioner,3,REP,Dale Schafer,69,6,33,30
+Hemphill,401,Registered Voters,,,,450,,,
+Hemphill,401,Ballots Cast,,,,270,10,182,78
+Hemphill,401,Ballots Cast Blank,,,,0,0,0,0
+Hemphill,401,President,,REP,Donald J. Trump,246,7,170,69
+Hemphill,401,President,,DEM,Kamala D. Harris,22,3,12,7
+Hemphill,401,President,,LIB,Chase Oliver,0,0,0,0
+Hemphill,401,President,,GRN,Jill Stein,1,0,0,1
+Hemphill,401,President,,,Write-ins,0,0,0,0
+Hemphill,401,U.S. Senate,,REP,Ted Cruz,237,8,165,64
+Hemphill,401,U.S. Senate,,DEM,Colin Allred,22,2,12,8
+Hemphill,401,U.S. Senate,,LIB,Ted Brown,7,0,2,5
+Hemphill,401,U.S. Senate,,,Write-ins,0,0,0,0
+Hemphill,401,U.S. House,13,REP,Ronny Jackson,244,7,167,70
+Hemphill,401,Railroad Commissioner,,REP,Christi Craddick,230,6,157,67
+Hemphill,401,Railroad Commissioner,,DEM,Katherine Culbert,16,2,8,6
+Hemphill,401,Railroad Commissioner,,LIB,Hawk Dunlap,6,1,3,2
+Hemphill,401,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0
+Hemphill,401,Railroad Commissioner,,,Write-ins,0,0,0,0
+Hemphill,401,"Justice, Supreme Court",2,REP,Jimmy Blacklock,236,6,162,68
+Hemphill,401,"Justice, Supreme Court",2,DEM,DaSean Jones,19,3,10,6
+Hemphill,401,"Justice, Supreme Court",4,REP,John Devine,235,7,161,67
+Hemphill,401,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,19,2,11,6
+Hemphill,401,"Justice, Supreme Court",6,REP,Jane Bland,232,8,159,65
+Hemphill,401,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,15,1,8,6
+Hemphill,401,"Justice, Supreme Court",6,LIB,J. David Roberson,6,0,4,2
+Hemphill,401,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,236,7,162,67
+Hemphill,401,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,17,2,9,6
+Hemphill,401,"Judge, Ct of Crim App",7,REP,Gina Parker,234,7,161,66
+Hemphill,401,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,17,2,8,7
+Hemphill,401,"Judge, Ct of Crim App",8,REP,Lee Finley,237,7,163,67
+Hemphill,401,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,16,2,8,6
+Hemphill,401,"Member, State BoE",15,REP,Aaron Kinsey,223,6,154,63
+Hemphill,401,"Member, State BoE",15,DEM,Morgan Kirkpatrick,22,3,12,7
+Hemphill,401,"Member, State BoE",15,LIB,Jack B. Westbrook,7,0,3,4
+Hemphill,401,State Representative,88,REP,Ken King,238,6,163,69
+Hemphill,401,"Justice, 7th Ct of App Dist",2,REP,Judy Parker,230,7,157,66
+Hemphill,401,"Justice, 7th Ct of App Dist",3,REP,Alex Yarbrough,230,7,156,67
+Hemphill,401,"Dist Attorney, 31st Judicial Dist",,REP,Franklin McDonough,215,6,143,66
+Hemphill,401,County Attorney,,REP,Kyle Miller,225,6,153,66
+Hemphill,401,Sheriff,,REP,Brent Clapp,225,6,150,69
+Hemphill,401,County Tax Assessor-Collector,,REP,Chris Jackson,236,7,162,67
+Hemphill,402,Registered Voters,,,,128,,,
+Hemphill,402,Ballots Cast,,,,97,3,68,26
+Hemphill,402,Ballots Cast Blank,,,,0,0,0,0
+Hemphill,402,President,,REP,Donald J. Trump,79,2,54,23
+Hemphill,402,President,,DEM,Kamala D. Harris,16,1,13,2
+Hemphill,402,President,,LIB,Chase Oliver,2,0,1,1
+Hemphill,402,President,,GRN,Jill Stein,0,0,0,0
+Hemphill,402,President,,,Write-ins,0,0,0,0
+Hemphill,402,U.S. Senate,,REP,Ted Cruz,75,2,51,22
+Hemphill,402,U.S. Senate,,DEM,Colin Allred,20,1,16,3
+Hemphill,402,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+Hemphill,402,U.S. Senate,,,Write-ins,0,0,0,0
+Hemphill,402,U.S. House,13,REP,Ronny Jackson,74,1,52,21
+Hemphill,402,Railroad Commissioner,,REP,Christi Craddick,77,2,54,21
+Hemphill,402,Railroad Commissioner,,DEM,Katherine Culbert,14,1,12,1
+Hemphill,402,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,1,0
+Hemphill,402,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Hemphill,402,Railroad Commissioner,,,Write-ins,0,0,0,0
+Hemphill,402,"Justice, Supreme Court",2,REP,Jimmy Blacklock,76,2,53,21
+Hemphill,402,"Justice, Supreme Court",2,DEM,DaSean Jones,16,1,13,2
+Hemphill,402,"Justice, Supreme Court",4,REP,John Devine,74,2,52,20
+Hemphill,402,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,16,1,13,2
+Hemphill,402,"Justice, Supreme Court",6,REP,Jane Bland,76,2,53,21
+Hemphill,402,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,13,1,11,1
+Hemphill,402,"Justice, Supreme Court",6,LIB,J. David Roberson,2,0,1,1
+Hemphill,402,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,76,2,53,21
+Hemphill,402,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,14,1,11,2
+Hemphill,402,"Judge, Ct of Crim App",7,REP,Gina Parker,78,2,55,21
+Hemphill,402,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,13,1,10,2
+Hemphill,402,"Judge, Ct of Crim App",8,REP,Lee Finley,75,2,53,20
+Hemphill,402,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,14,1,11,2
+Hemphill,402,"Member, State BoE",15,REP,Aaron Kinsey,73,2,50,21
+Hemphill,402,"Member, State BoE",15,DEM,Morgan Kirkpatrick,17,1,15,1
+Hemphill,402,"Member, State BoE",15,LIB,Jack B. Westbrook,2,0,1,1
+Hemphill,402,State Representative,88,REP,Ken King,84,2,57,25
+Hemphill,402,"Justice, 7th Ct of App Dist",2,REP,Judy Parker,79,2,55,22
+Hemphill,402,"Justice, 7th Ct of App Dist",3,REP,Alex Yarbrough,78,2,54,22
+Hemphill,402,"Dist Attorney, 31st Judicial Dist",,REP,Franklin McDonough,75,2,52,21
+Hemphill,402,County Attorney,,REP,Kyle Miller,80,1,56,23
+Hemphill,402,Sheriff,,REP,Brent Clapp,80,2,56,22
+Hemphill,402,County Tax Assessor-Collector,,REP,Chris Jackson,85,2,59,24
