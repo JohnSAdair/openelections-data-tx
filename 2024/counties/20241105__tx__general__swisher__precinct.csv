@@ -1,0 +1,624 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Swisher,Precinct 1,Registered Voters,,,,576,,,
+Swisher,Precinct 1,Ballots Cast,,,,326,19,232,75
+Swisher,Precinct 1,Ballots Cast Blank,,,,0,0,0,0
+Swisher,Precinct 1,President,,REP,Donald J. Trump,269,9,205,55
+Swisher,Precinct 1,President,,DEM,Kamala D. Harris,52,10,26,16
+Swisher,Precinct 1,President,,LIB,Chase Oliver,2,0,0,2
+Swisher,Precinct 1,President,,GRN,Jill Stein,1,0,0,1
+Swisher,Precinct 1,President,,,Write-ins,2,0,1,1
+Swisher,Precinct 1,President,,,Over Votes,0,0,0,0
+Swisher,Precinct 1,President,,,Under Votes,0,0,0,0
+Swisher,Precinct 1,U.S. Senate,,REP,Ted Cruz,259,9,201,49
+Swisher,Precinct 1,U.S. Senate,,DEM,Colin Allred,56,10,28,18
+Swisher,Precinct 1,U.S. Senate,,LIB,Ted Brown,6,0,1,5
+Swisher,Precinct 1,U.S. Senate,,,Write-ins,0,0,0,0
+Swisher,Precinct 1,U.S. Senate,,,Over Votes,0,0,0,0
+Swisher,Precinct 1,U.S. Senate,,,Under Votes,5,0,2,3
+Swisher,Precinct 1,U.S. House,19,REP,Jodey C. Arrington,267,9,205,53
+Swisher,Precinct 1,U.S. House,19,LIB,Bernard Johnson,22,2,13,7
+Swisher,Precinct 1,U.S. House,19,IND,Nathan Lewis,17,5,7,5
+Swisher,Precinct 1,U.S. House,19,,Over Votes,0,0,0,0
+Swisher,Precinct 1,U.S. House,19,,Under Votes,20,3,7,10
+Swisher,Precinct 1,Railroad Commissioner,,REP,Christi Craddick,246,8,191,47
+Swisher,Precinct 1,Railroad Commissioner,,DEM,Katherine Culbert,48,10,25,13
+Swisher,Precinct 1,Railroad Commissioner,,LIB,Hawk Dunlap,9,0,7,2
+Swisher,Precinct 1,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,2,5
+Swisher,Precinct 1,Railroad Commissioner,,,Write-ins,0,0,0,0
+Swisher,Precinct 1,Railroad Commissioner,,,Over Votes,0,0,0,0
+Swisher,Precinct 1,Railroad Commissioner,,,Under Votes,16,1,7,8
+Swisher,Precinct 1,"Justice, Supreme Court",2,REP,Jimmy Blacklock,261,8,198,55
+Swisher,Precinct 1,"Justice, Supreme Court",2,DEM,DaSean Jones,50,10,26,14
+Swisher,Precinct 1,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Swisher,Precinct 1,"Justice, Supreme Court",2,,Under Votes,15,1,8,6
+Swisher,Precinct 1,"Justice, Supreme Court",4,REP,John Devine,256,8,195,53
+Swisher,Precinct 1,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,52,10,28,14
+Swisher,Precinct 1,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Swisher,Precinct 1,"Justice, Supreme Court",4,,Under Votes,18,1,9,8
+Swisher,Precinct 1,"Justice, Supreme Court",6,REP,Jane Bland,253,8,196,49
+Swisher,Precinct 1,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,48,10,23,15
+Swisher,Precinct 1,"Justice, Supreme Court",6,LIB,J. David Roberson,6,0,4,2
+Swisher,Precinct 1,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Swisher,Precinct 1,"Justice, Supreme Court",6,,Under Votes,19,1,9,9
+Swisher,Precinct 1,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,256,8,197,51
+Swisher,Precinct 1,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,50,10,25,15
+Swisher,Precinct 1,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Swisher,Precinct 1,"Presiding Judge, Ct of Crim App",,,Under Votes,20,1,10,9
+Swisher,Precinct 1,"Judge, Ct of Crim App",7,REP,Gina Parker,254,8,195,51
+Swisher,Precinct 1,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,52,10,28,14
+Swisher,Precinct 1,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Swisher,Precinct 1,"Judge, Ct of Crim App",7,,Under Votes,20,1,9,10
+Swisher,Precinct 1,"Judge, Ct of Crim App",8,REP,Lee Finley,264,8,201,55
+Swisher,Precinct 1,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,43,10,22,11
+Swisher,Precinct 1,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Swisher,Precinct 1,"Judge, Ct of Crim App",8,,Under Votes,19,1,9,9
+Swisher,Precinct 1,"Member, State BoE",15,REP,Aaron Kinsey,248,7,193,48
+Swisher,Precinct 1,"Member, State BoE",15,DEM,Morgan Kirkpatrick,49,9,25,15
+Swisher,Precinct 1,"Member, State BoE",15,LIB,Jack B. Westbrook,8,1,4,3
+Swisher,Precinct 1,"Member, State BoE",15,,Over Votes,0,0,0,0
+Swisher,Precinct 1,"Member, State BoE",15,,Under Votes,21,2,10,9
+Swisher,Precinct 1,State Representative,88,REP,Ken King,284,10,214,60
+Swisher,Precinct 1,State Representative,88,,Over Votes,0,0,0,0
+Swisher,Precinct 1,State Representative,88,,Under Votes,42,9,18,15
+Swisher,Precinct 1,"Justice, 7th Ct of App Dist",2,REP,Judy Parker,276,9,207,60
+Swisher,Precinct 1,"Justice, 7th Ct of App Dist",2,,Over Votes,0,0,0,0
+Swisher,Precinct 1,"Justice, 7th Ct of App Dist",2,,Under Votes,50,10,25,15
+Swisher,Precinct 1,"Justice, 7th Ct of App Dist",3,REP,Alex Yarbrough,268,9,202,57
+Swisher,Precinct 1,"Justice, 7th Ct of App Dist",3,,Over Votes,0,0,0,0
+Swisher,Precinct 1,"Justice, 7th Ct of App Dist",3,,Under Votes,58,10,30,18
+Swisher,Precinct 1,County Attorney,,REP,Amy M. McAtee,287,9,216,62
+Swisher,Precinct 1,County Attorney,,,Over Votes,0,0,0,0
+Swisher,Precinct 1,County Attorney,,,Under Votes,39,10,16,13
+Swisher,Precinct 1,Sheriff,,REP,Kyle Schmalzried,287,9,214,64
+Swisher,Precinct 1,Sheriff,,,Over Votes,0,0,0,0
+Swisher,Precinct 1,Sheriff,,,Under Votes,39,10,18,11
+Swisher,Precinct 1,County Tax Assessor-Collector,,REP,"Deborah ""Debbie"" Lemons",292,12,216,64
+Swisher,Precinct 1,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Swisher,Precinct 1,County Tax Assessor-Collector,,,Under Votes,34,7,16,11
+Swisher,Precinct 1,County Commissioner,1,REP,Michael Sims,282,11,212,59
+Swisher,Precinct 1,County Commissioner,1,,Over Votes,0,0,0,0
+Swisher,Precinct 1,County Commissioner,1,,Under Votes,44,8,20,16
+Swisher,Precinct 2,Registered Voters,,,,947,,,
+Swisher,Precinct 2,Ballots Cast,,,,516,23,371,122
+Swisher,Precinct 2,Ballots Cast Blank,,,,0,0,0,0
+Swisher,Precinct 2,President,,REP,Donald J. Trump,418,15,307,96
+Swisher,Precinct 2,President,,DEM,Kamala D. Harris,94,7,61,26
+Swisher,Precinct 2,President,,LIB,Chase Oliver,3,0,3,0
+Swisher,Precinct 2,President,,GRN,Jill Stein,1,1,0,0
+Swisher,Precinct 2,President,,,Write-ins,0,0,0,0
+Swisher,Precinct 2,President,,,Over Votes,0,0,0,0
+Swisher,Precinct 2,President,,,Under Votes,0,0,0,0
+Swisher,Precinct 2,U.S. Senate,,REP,Ted Cruz,390,15,292,83
+Swisher,Precinct 2,U.S. Senate,,DEM,Colin Allred,97,7,57,33
+Swisher,Precinct 2,U.S. Senate,,LIB,Ted Brown,14,0,12,2
+Swisher,Precinct 2,U.S. Senate,,,Write-ins,0,0,0,0
+Swisher,Precinct 2,U.S. Senate,,,Over Votes,0,0,0,0
+Swisher,Precinct 2,U.S. Senate,,,Under Votes,15,1,10,4
+Swisher,Precinct 2,U.S. House,19,REP,Jodey C. Arrington,407,16,299,92
+Swisher,Precinct 2,U.S. House,19,LIB,Bernard Johnson,38,0,25,13
+Swisher,Precinct 2,U.S. House,19,IND,Nathan Lewis,30,0,23,7
+Swisher,Precinct 2,U.S. House,19,,Over Votes,0,0,0,0
+Swisher,Precinct 2,U.S. House,19,,Under Votes,41,7,24,10
+Swisher,Precinct 2,Railroad Commissioner,,REP,Christi Craddick,385,14,282,89
+Swisher,Precinct 2,Railroad Commissioner,,DEM,Katherine Culbert,80,6,55,19
+Swisher,Precinct 2,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,7,1
+Swisher,Precinct 2,Railroad Commissioner,,GRN,Eddie Espinoza,17,0,10,7
+Swisher,Precinct 2,Railroad Commissioner,,,Write-ins,0,0,0,0
+Swisher,Precinct 2,Railroad Commissioner,,,Over Votes,0,0,0,0
+Swisher,Precinct 2,Railroad Commissioner,,,Under Votes,26,3,17,6
+Swisher,Precinct 2,"Justice, Supreme Court",2,REP,Jimmy Blacklock,395,14,290,91
+Swisher,Precinct 2,"Justice, Supreme Court",2,DEM,DaSean Jones,89,6,59,24
+Swisher,Precinct 2,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Swisher,Precinct 2,"Justice, Supreme Court",2,,Under Votes,32,3,22,7
+Swisher,Precinct 2,"Justice, Supreme Court",4,REP,John Devine,397,14,295,88
+Swisher,Precinct 2,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,90,6,59,25
+Swisher,Precinct 2,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Swisher,Precinct 2,"Justice, Supreme Court",4,,Under Votes,29,3,17,9
+Swisher,Precinct 2,"Justice, Supreme Court",6,REP,Jane Bland,379,13,283,83
+Swisher,Precinct 2,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,89,6,59,24
+Swisher,Precinct 2,"Justice, Supreme Court",6,LIB,J. David Roberson,18,0,12,6
+Swisher,Precinct 2,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Swisher,Precinct 2,"Justice, Supreme Court",6,,Under Votes,30,4,17,9
+Swisher,Precinct 2,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,393,13,294,86
+Swisher,Precinct 2,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,91,6,59,26
+Swisher,Precinct 2,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Swisher,Precinct 2,"Presiding Judge, Ct of Crim App",,,Under Votes,32,4,18,10
+Swisher,Precinct 2,"Judge, Ct of Crim App",7,REP,Gina Parker,393,12,295,86
+Swisher,Precinct 2,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,88,6,57,25
+Swisher,Precinct 2,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Swisher,Precinct 2,"Judge, Ct of Crim App",7,,Under Votes,35,5,19,11
+Swisher,Precinct 2,"Judge, Ct of Crim App",8,REP,Lee Finley,397,14,296,87
+Swisher,Precinct 2,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,86,6,54,26
+Swisher,Precinct 2,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Swisher,Precinct 2,"Judge, Ct of Crim App",8,,Under Votes,33,3,21,9
+Swisher,Precinct 2,"Member, State BoE",15,REP,Aaron Kinsey,379,13,281,85
+Swisher,Precinct 2,"Member, State BoE",15,DEM,Morgan Kirkpatrick,94,6,61,27
+Swisher,Precinct 2,"Member, State BoE",15,LIB,Jack B. Westbrook,14,0,11,3
+Swisher,Precinct 2,"Member, State BoE",15,,Over Votes,0,0,0,0
+Swisher,Precinct 2,"Member, State BoE",15,,Under Votes,29,4,18,7
+Swisher,Precinct 2,State Representative,88,REP,Ken King,441,15,322,104
+Swisher,Precinct 2,State Representative,88,,Over Votes,0,0,0,0
+Swisher,Precinct 2,State Representative,88,,Under Votes,75,8,49,18
+Swisher,Precinct 2,"Justice, 7th Ct of App Dist",2,REP,Judy Parker,427,14,311,102
+Swisher,Precinct 2,"Justice, 7th Ct of App Dist",2,,Over Votes,0,0,0,0
+Swisher,Precinct 2,"Justice, 7th Ct of App Dist",2,,Under Votes,89,9,60,20
+Swisher,Precinct 2,"Justice, 7th Ct of App Dist",3,REP,Alex Yarbrough,420,14,308,98
+Swisher,Precinct 2,"Justice, 7th Ct of App Dist",3,,Over Votes,0,0,0,0
+Swisher,Precinct 2,"Justice, 7th Ct of App Dist",3,,Under Votes,96,9,63,24
+Swisher,Precinct 2,County Attorney,,REP,Amy M. McAtee,460,17,335,108
+Swisher,Precinct 2,County Attorney,,,Over Votes,0,0,0,0
+Swisher,Precinct 2,County Attorney,,,Under Votes,56,6,36,14
+Swisher,Precinct 2,Sheriff,,REP,Kyle Schmalzried,456,18,329,109
+Swisher,Precinct 2,Sheriff,,,Over Votes,0,0,0,0
+Swisher,Precinct 2,Sheriff,,,Under Votes,60,5,42,13
+Swisher,Precinct 2,County Tax Assessor-Collector,,REP,"Deborah ""Debbie"" Lemons",458,17,333,108
+Swisher,Precinct 2,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Swisher,Precinct 2,County Tax Assessor-Collector,,,Under Votes,58,6,38,14
+Swisher,Precinct 3,Registered Voters,,,,680,,,
+Swisher,Precinct 3,Ballots Cast,,,,471,28,362,81
+Swisher,Precinct 3,Ballots Cast Blank,,,,0,0,0,0
+Swisher,Precinct 3,President,,REP,Donald J. Trump,378,16,299,63
+Swisher,Precinct 3,President,,DEM,Kamala D. Harris,89,11,62,16
+Swisher,Precinct 3,President,,LIB,Chase Oliver,1,0,1,0
+Swisher,Precinct 3,President,,GRN,Jill Stein,1,0,0,1
+Swisher,Precinct 3,President,,,Write-ins,0,0,0,0
+Swisher,Precinct 3,President,,,Over Votes,0,0,0,0
+Swisher,Precinct 3,President,,,Under Votes,2,1,0,1
+Swisher,Precinct 3,U.S. Senate,,REP,Ted Cruz,363,17,287,59
+Swisher,Precinct 3,U.S. Senate,,DEM,Colin Allred,96,11,66,19
+Swisher,Precinct 3,U.S. Senate,,LIB,Ted Brown,7,0,6,1
+Swisher,Precinct 3,U.S. Senate,,,Write-ins,0,0,0,0
+Swisher,Precinct 3,U.S. Senate,,,Over Votes,0,0,0,0
+Swisher,Precinct 3,U.S. Senate,,,Under Votes,5,0,3,2
+Swisher,Precinct 3,U.S. House,19,REP,Jodey C. Arrington,387,19,306,62
+Swisher,Precinct 3,U.S. House,19,LIB,Bernard Johnson,35,2,20,13
+Swisher,Precinct 3,U.S. House,19,IND,Nathan Lewis,24,0,20,4
+Swisher,Precinct 3,U.S. House,19,,Over Votes,0,0,0,0
+Swisher,Precinct 3,U.S. House,19,,Under Votes,25,7,16,2
+Swisher,Precinct 3,Railroad Commissioner,,REP,Christi Craddick,363,14,287,62
+Swisher,Precinct 3,Railroad Commissioner,,DEM,Katherine Culbert,77,7,57,13
+Swisher,Precinct 3,Railroad Commissioner,,LIB,Hawk Dunlap,9,2,6,1
+Swisher,Precinct 3,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,2,3
+Swisher,Precinct 3,Railroad Commissioner,,,Write-ins,0,0,0,0
+Swisher,Precinct 3,Railroad Commissioner,,,Over Votes,0,0,0,0
+Swisher,Precinct 3,Railroad Commissioner,,,Under Votes,17,5,10,2
+Swisher,Precinct 3,"Justice, Supreme Court",2,REP,Jimmy Blacklock,372,16,297,59
+Swisher,Precinct 3,"Justice, Supreme Court",2,DEM,DaSean Jones,81,8,55,18
+Swisher,Precinct 3,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Swisher,Precinct 3,"Justice, Supreme Court",2,,Under Votes,18,4,10,4
+Swisher,Precinct 3,"Justice, Supreme Court",4,REP,John Devine,369,15,294,60
+Swisher,Precinct 3,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,86,8,59,19
+Swisher,Precinct 3,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Swisher,Precinct 3,"Justice, Supreme Court",4,,Under Votes,16,5,9,2
+Swisher,Precinct 3,"Justice, Supreme Court",6,REP,Jane Bland,366,17,290,59
+Swisher,Precinct 3,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,81,6,57,18
+Swisher,Precinct 3,"Justice, Supreme Court",6,LIB,J. David Roberson,8,1,5,2
+Swisher,Precinct 3,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Swisher,Precinct 3,"Justice, Supreme Court",6,,Under Votes,16,4,10,2
+Swisher,Precinct 3,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,368,16,291,61
+Swisher,Precinct 3,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,87,8,61,18
+Swisher,Precinct 3,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Swisher,Precinct 3,"Presiding Judge, Ct of Crim App",,,Under Votes,16,4,10,2
+Swisher,Precinct 3,"Judge, Ct of Crim App",7,REP,Gina Parker,366,17,290,59
+Swisher,Precinct 3,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,83,7,56,20
+Swisher,Precinct 3,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Swisher,Precinct 3,"Judge, Ct of Crim App",7,,Under Votes,22,4,16,2
+Swisher,Precinct 3,"Judge, Ct of Crim App",8,REP,Lee Finley,373,17,292,64
+Swisher,Precinct 3,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,79,7,58,14
+Swisher,Precinct 3,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Swisher,Precinct 3,"Judge, Ct of Crim App",8,,Under Votes,19,4,12,3
+Swisher,Precinct 3,"Member, State BoE",15,REP,Aaron Kinsey,363,16,289,58
+Swisher,Precinct 3,"Member, State BoE",15,DEM,Morgan Kirkpatrick,83,8,57,18
+Swisher,Precinct 3,"Member, State BoE",15,LIB,Jack B. Westbrook,6,0,4,2
+Swisher,Precinct 3,"Member, State BoE",15,,Over Votes,0,0,0,0
+Swisher,Precinct 3,"Member, State BoE",15,,Under Votes,19,4,12,3
+Swisher,Precinct 3,State Representative,88,REP,Ken King,416,22,322,72
+Swisher,Precinct 3,State Representative,88,,Over Votes,0,0,0,0
+Swisher,Precinct 3,State Representative,88,,Under Votes,55,6,40,9
+Swisher,Precinct 3,"Justice, 7th Ct of App Dist",2,REP,Judy Parker,405,21,313,71
+Swisher,Precinct 3,"Justice, 7th Ct of App Dist",2,,Over Votes,0,0,0,0
+Swisher,Precinct 3,"Justice, 7th Ct of App Dist",2,,Under Votes,66,7,49,10
+Swisher,Precinct 3,"Justice, 7th Ct of App Dist",3,REP,Alex Yarbrough,387,21,302,64
+Swisher,Precinct 3,"Justice, 7th Ct of App Dist",3,,Over Votes,0,0,0,0
+Swisher,Precinct 3,"Justice, 7th Ct of App Dist",3,,Under Votes,84,7,60,17
+Swisher,Precinct 3,County Attorney,,REP,Amy M. McAtee,425,22,330,73
+Swisher,Precinct 3,County Attorney,,,Over Votes,0,0,0,0
+Swisher,Precinct 3,County Attorney,,,Under Votes,46,6,32,8
+Swisher,Precinct 3,Sheriff,,REP,Kyle Schmalzried,419,22,326,71
+Swisher,Precinct 3,Sheriff,,,Over Votes,0,0,0,0
+Swisher,Precinct 3,Sheriff,,,Under Votes,52,6,36,10
+Swisher,Precinct 3,County Tax Assessor-Collector,,REP,"Deborah ""Debbie"" Lemons",430,23,332,75
+Swisher,Precinct 3,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Swisher,Precinct 3,County Tax Assessor-Collector,,,Under Votes,41,5,30,6
+Swisher,Precinct 3,County Commissioner,3,REP,Ed Weiser,423,22,331,70
+Swisher,Precinct 3,County Commissioner,3,,Over Votes,0,0,0,0
+Swisher,Precinct 3,County Commissioner,3,,Under Votes,48,6,31,11
+Swisher,Precinct 4,Registered Voters,,,,495,,,
+Swisher,Precinct 4,Ballots Cast,,,,191,15,131,45
+Swisher,Precinct 4,Ballots Cast Blank,,,,0,0,0,0
+Swisher,Precinct 4,President,,REP,Donald J. Trump,139,8,104,27
+Swisher,Precinct 4,President,,DEM,Kamala D. Harris,49,6,26,17
+Swisher,Precinct 4,President,,LIB,Chase Oliver,0,0,0,0
+Swisher,Precinct 4,President,,GRN,Jill Stein,1,0,1,0
+Swisher,Precinct 4,President,,,Write-ins,0,0,0,0
+Swisher,Precinct 4,President,,,Over Votes,0,0,0,0
+Swisher,Precinct 4,President,,,Under Votes,2,1,0,1
+Swisher,Precinct 4,U.S. Senate,,REP,Ted Cruz,123,8,93,22
+Swisher,Precinct 4,U.S. Senate,,DEM,Colin Allred,56,6,30,20
+Swisher,Precinct 4,U.S. Senate,,LIB,Ted Brown,4,0,4,0
+Swisher,Precinct 4,U.S. Senate,,,Write-ins,0,0,0,0
+Swisher,Precinct 4,U.S. Senate,,,Over Votes,0,0,0,0
+Swisher,Precinct 4,U.S. Senate,,,Under Votes,8,1,4,3
+Swisher,Precinct 4,U.S. House,19,REP,Jodey C. Arrington,131,8,100,23
+Swisher,Precinct 4,U.S. House,19,LIB,Bernard Johnson,22,0,12,10
+Swisher,Precinct 4,U.S. House,19,IND,Nathan Lewis,15,3,8,4
+Swisher,Precinct 4,U.S. House,19,,Over Votes,0,0,0,0
+Swisher,Precinct 4,U.S. House,19,,Under Votes,23,4,11,8
+Swisher,Precinct 4,Railroad Commissioner,,REP,Christi Craddick,122,7,93,22
+Swisher,Precinct 4,Railroad Commissioner,,DEM,Katherine Culbert,48,6,25,17
+Swisher,Precinct 4,Railroad Commissioner,,LIB,Hawk Dunlap,4,0,4,0
+Swisher,Precinct 4,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,3,2
+Swisher,Precinct 4,Railroad Commissioner,,,Write-ins,0,0,0,0
+Swisher,Precinct 4,Railroad Commissioner,,,Over Votes,0,0,0,0
+Swisher,Precinct 4,Railroad Commissioner,,,Under Votes,12,2,6,4
+Swisher,Precinct 4,"Justice, Supreme Court",2,REP,Jimmy Blacklock,130,7,98,25
+Swisher,Precinct 4,"Justice, Supreme Court",2,DEM,DaSean Jones,48,6,25,17
+Swisher,Precinct 4,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Swisher,Precinct 4,"Justice, Supreme Court",2,,Under Votes,13,2,8,3
+Swisher,Precinct 4,"Justice, Supreme Court",4,REP,John Devine,126,7,95,24
+Swisher,Precinct 4,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,50,6,27,17
+Swisher,Precinct 4,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Swisher,Precinct 4,"Justice, Supreme Court",4,,Under Votes,15,2,9,4
+Swisher,Precinct 4,"Justice, Supreme Court",6,REP,Jane Bland,122,7,92,23
+Swisher,Precinct 4,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,47,6,24,17
+Swisher,Precinct 4,"Justice, Supreme Court",6,LIB,J. David Roberson,5,0,4,1
+Swisher,Precinct 4,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Swisher,Precinct 4,"Justice, Supreme Court",6,,Under Votes,17,2,11,4
+Swisher,Precinct 4,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,121,6,94,21
+Swisher,Precinct 4,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,55,7,28,20
+Swisher,Precinct 4,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Swisher,Precinct 4,"Presiding Judge, Ct of Crim App",,,Under Votes,15,2,9,4
+Swisher,Precinct 4,"Judge, Ct of Crim App",7,REP,Gina Parker,129,7,98,24
+Swisher,Precinct 4,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,49,6,26,17
+Swisher,Precinct 4,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Swisher,Precinct 4,"Judge, Ct of Crim App",7,,Under Votes,13,2,7,4
+Swisher,Precinct 4,"Judge, Ct of Crim App",8,REP,Lee Finley,126,7,95,24
+Swisher,Precinct 4,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,49,6,26,17
+Swisher,Precinct 4,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Swisher,Precinct 4,"Judge, Ct of Crim App",8,,Under Votes,16,2,10,4
+Swisher,Precinct 4,"Member, State BoE",15,REP,Aaron Kinsey,121,6,92,23
+Swisher,Precinct 4,"Member, State BoE",15,DEM,Morgan Kirkpatrick,51,7,27,17
+Swisher,Precinct 4,"Member, State BoE",15,LIB,Jack B. Westbrook,3,0,2,1
+Swisher,Precinct 4,"Member, State BoE",15,,Over Votes,0,0,0,0
+Swisher,Precinct 4,"Member, State BoE",15,,Under Votes,16,2,10,4
+Swisher,Precinct 4,State Representative,88,REP,Ken King,147,7,108,32
+Swisher,Precinct 4,State Representative,88,,Over Votes,0,0,0,0
+Swisher,Precinct 4,State Representative,88,,Under Votes,44,8,23,13
+Swisher,Precinct 4,"Justice, 7th Ct of App Dist",2,REP,Judy Parker,143,7,105,31
+Swisher,Precinct 4,"Justice, 7th Ct of App Dist",2,,Over Votes,0,0,0,0
+Swisher,Precinct 4,"Justice, 7th Ct of App Dist",2,,Under Votes,48,8,26,14
+Swisher,Precinct 4,"Justice, 7th Ct of App Dist",3,REP,Alex Yarbrough,138,6,103,29
+Swisher,Precinct 4,"Justice, 7th Ct of App Dist",3,,Over Votes,0,0,0,0
+Swisher,Precinct 4,"Justice, 7th Ct of App Dist",3,,Under Votes,53,9,28,16
+Swisher,Precinct 4,County Attorney,,REP,Amy M. McAtee,153,8,111,34
+Swisher,Precinct 4,County Attorney,,,Over Votes,0,0,0,0
+Swisher,Precinct 4,County Attorney,,,Under Votes,38,7,20,11
+Swisher,Precinct 4,Sheriff,,REP,Kyle Schmalzried,153,10,111,32
+Swisher,Precinct 4,Sheriff,,,Over Votes,0,0,0,0
+Swisher,Precinct 4,Sheriff,,,Under Votes,38,5,20,13
+Swisher,Precinct 4,County Tax Assessor-Collector,,REP,"Deborah ""Debbie"" Lemons",162,12,117,33
+Swisher,Precinct 4,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Swisher,Precinct 4,County Tax Assessor-Collector,,,Under Votes,29,3,14,12
+Swisher,Precinct 6,Registered Voters,,,,358,,,
+Swisher,Precinct 6,Ballots Cast,,,,197,5,93,99
+Swisher,Precinct 6,Ballots Cast Blank,,,,0,0,0,0
+Swisher,Precinct 6,President,,REP,Donald J. Trump,151,2,76,73
+Swisher,Precinct 6,President,,DEM,Kamala D. Harris,39,3,13,23
+Swisher,Precinct 6,President,,LIB,Chase Oliver,4,0,2,2
+Swisher,Precinct 6,President,,GRN,Jill Stein,0,0,0,0
+Swisher,Precinct 6,President,,,Write-ins,1,0,0,1
+Swisher,Precinct 6,President,,,Over Votes,0,0,0,0
+Swisher,Precinct 6,President,,,Under Votes,2,0,2,0
+Swisher,Precinct 6,U.S. Senate,,REP,Ted Cruz,147,2,73,72
+Swisher,Precinct 6,U.S. Senate,,DEM,Colin Allred,44,3,16,25
+Swisher,Precinct 6,U.S. Senate,,LIB,Ted Brown,2,0,0,2
+Swisher,Precinct 6,U.S. Senate,,,Write-ins,0,0,0,0
+Swisher,Precinct 6,U.S. Senate,,,Over Votes,0,0,0,0
+Swisher,Precinct 6,U.S. Senate,,,Under Votes,4,0,4,0
+Swisher,Precinct 6,U.S. House,19,REP,Jodey C. Arrington,157,3,78,76
+Swisher,Precinct 6,U.S. House,19,LIB,Bernard Johnson,14,0,6,8
+Swisher,Precinct 6,U.S. House,19,IND,Nathan Lewis,13,0,4,9
+Swisher,Precinct 6,U.S. House,19,,Over Votes,0,0,0,0
+Swisher,Precinct 6,U.S. House,19,,Under Votes,13,2,5,6
+Swisher,Precinct 6,Railroad Commissioner,,REP,Christi Craddick,141,3,72,66
+Swisher,Precinct 6,Railroad Commissioner,,DEM,Katherine Culbert,38,2,13,23
+Swisher,Precinct 6,Railroad Commissioner,,LIB,Hawk Dunlap,4,0,3,1
+Swisher,Precinct 6,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,1,6
+Swisher,Precinct 6,Railroad Commissioner,,,Write-ins,0,0,0,0
+Swisher,Precinct 6,Railroad Commissioner,,,Over Votes,0,0,0,0
+Swisher,Precinct 6,Railroad Commissioner,,,Under Votes,7,0,4,3
+Swisher,Precinct 6,"Justice, Supreme Court",2,REP,Jimmy Blacklock,144,3,73,68
+Swisher,Precinct 6,"Justice, Supreme Court",2,DEM,DaSean Jones,40,1,13,26
+Swisher,Precinct 6,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Swisher,Precinct 6,"Justice, Supreme Court",2,,Under Votes,13,1,7,5
+Swisher,Precinct 6,"Justice, Supreme Court",4,REP,John Devine,144,2,72,70
+Swisher,Precinct 6,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,42,2,15,25
+Swisher,Precinct 6,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Swisher,Precinct 6,"Justice, Supreme Court",4,,Under Votes,11,1,6,4
+Swisher,Precinct 6,"Justice, Supreme Court",6,REP,Jane Bland,144,2,73,69
+Swisher,Precinct 6,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,41,2,14,25
+Swisher,Precinct 6,"Justice, Supreme Court",6,LIB,J. David Roberson,3,0,1,2
+Swisher,Precinct 6,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Swisher,Precinct 6,"Justice, Supreme Court",6,,Under Votes,9,1,5,3
+Swisher,Precinct 6,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,144,2,72,70
+Swisher,Precinct 6,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,42,2,15,25
+Swisher,Precinct 6,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Swisher,Precinct 6,"Presiding Judge, Ct of Crim App",,,Under Votes,11,1,6,4
+Swisher,Precinct 6,"Judge, Ct of Crim App",7,REP,Gina Parker,144,1,73,70
+Swisher,Precinct 6,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,41,2,14,25
+Swisher,Precinct 6,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Swisher,Precinct 6,"Judge, Ct of Crim App",7,,Under Votes,12,2,6,4
+Swisher,Precinct 6,"Judge, Ct of Crim App",8,REP,Lee Finley,145,2,73,70
+Swisher,Precinct 6,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,39,2,13,24
+Swisher,Precinct 6,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Swisher,Precinct 6,"Judge, Ct of Crim App",8,,Under Votes,13,1,7,5
+Swisher,Precinct 6,"Member, State BoE",15,REP,Aaron Kinsey,137,2,68,67
+Swisher,Precinct 6,"Member, State BoE",15,DEM,Morgan Kirkpatrick,43,2,15,26
+Swisher,Precinct 6,"Member, State BoE",15,LIB,Jack B. Westbrook,6,0,4,2
+Swisher,Precinct 6,"Member, State BoE",15,,Over Votes,0,0,0,0
+Swisher,Precinct 6,"Member, State BoE",15,,Under Votes,11,1,6,4
+Swisher,Precinct 6,State Representative,88,REP,Ken King,161,2,79,80
+Swisher,Precinct 6,State Representative,88,,Over Votes,0,0,0,0
+Swisher,Precinct 6,State Representative,88,,Under Votes,36,3,14,19
+Swisher,Precinct 6,"Justice, 7th Ct of App Dist",2,REP,Judy Parker,154,1,75,78
+Swisher,Precinct 6,"Justice, 7th Ct of App Dist",2,,Over Votes,0,0,0,0
+Swisher,Precinct 6,"Justice, 7th Ct of App Dist",2,,Under Votes,43,4,18,21
+Swisher,Precinct 6,"Justice, 7th Ct of App Dist",3,REP,Alex Yarbrough,157,2,74,81
+Swisher,Precinct 6,"Justice, 7th Ct of App Dist",3,,Over Votes,0,0,0,0
+Swisher,Precinct 6,"Justice, 7th Ct of App Dist",3,,Under Votes,40,3,19,18
+Swisher,Precinct 6,County Attorney,,REP,Amy M. McAtee,164,2,80,82
+Swisher,Precinct 6,County Attorney,,,Over Votes,0,0,0,0
+Swisher,Precinct 6,County Attorney,,,Under Votes,33,3,13,17
+Swisher,Precinct 6,Sheriff,,REP,Kyle Schmalzried,167,1,83,83
+Swisher,Precinct 6,Sheriff,,,Over Votes,0,0,0,0
+Swisher,Precinct 6,Sheriff,,,Under Votes,30,4,10,16
+Swisher,Precinct 6,County Tax Assessor-Collector,,REP,"Deborah ""Debbie"" Lemons",173,3,81,89
+Swisher,Precinct 6,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Swisher,Precinct 6,County Tax Assessor-Collector,,,Under Votes,24,2,12,10
+Swisher,Precinct 6,County Commissioner,3,REP,Ed Weiser,160,10,77,73
+Swisher,Precinct 6,County Commissioner,3,,Over Votes,0,0,0,0
+Swisher,Precinct 6,County Commissioner,3,,Under Votes,32,5,10,17
+Swisher,Precinct 7,Registered Voters,,,,502,,,
+Swisher,Precinct 7,Ballots Cast,,,,362,14,162,186
+Swisher,Precinct 7,Ballots Cast Blank,,,,0,0,0,0
+Swisher,Precinct 7,President,,REP,Donald J. Trump,320,8,148,164
+Swisher,Precinct 7,President,,DEM,Kamala D. Harris,39,6,12,21
+Swisher,Precinct 7,President,,LIB,Chase Oliver,2,0,2,0
+Swisher,Precinct 7,President,,GRN,Jill Stein,1,0,0,1
+Swisher,Precinct 7,President,,,Write-ins,0,0,0,0
+Swisher,Precinct 7,President,,,Over Votes,0,0,0,0
+Swisher,Precinct 7,President,,,Under Votes,0,0,0,0
+Swisher,Precinct 7,U.S. Senate,,REP,Ted Cruz,305,8,148,149
+Swisher,Precinct 7,U.S. Senate,,DEM,Colin Allred,45,6,12,27
+Swisher,Precinct 7,U.S. Senate,,LIB,Ted Brown,9,0,2,7
+Swisher,Precinct 7,U.S. Senate,,,Write-ins,0,0,0,0
+Swisher,Precinct 7,U.S. Senate,,,Over Votes,0,0,0,0
+Swisher,Precinct 7,U.S. Senate,,,Under Votes,3,0,0,3
+Swisher,Precinct 7,U.S. House,19,REP,Jodey C. Arrington,302,8,146,148
+Swisher,Precinct 7,U.S. House,19,LIB,Bernard Johnson,23,0,5,18
+Swisher,Precinct 7,U.S. House,19,IND,Nathan Lewis,14,4,3,7
+Swisher,Precinct 7,U.S. House,19,,Over Votes,0,0,0,0
+Swisher,Precinct 7,U.S. House,19,,Under Votes,23,2,8,13
+Swisher,Precinct 7,Railroad Commissioner,,REP,Christi Craddick,299,9,142,148
+Swisher,Precinct 7,Railroad Commissioner,,DEM,Katherine Culbert,37,4,12,21
+Swisher,Precinct 7,Railroad Commissioner,,LIB,Hawk Dunlap,12,0,5,7
+Swisher,Precinct 7,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,1,4
+Swisher,Precinct 7,Railroad Commissioner,,,Write-ins,0,0,0,0
+Swisher,Precinct 7,Railroad Commissioner,,,Over Votes,1,1,0,0
+Swisher,Precinct 7,Railroad Commissioner,,,Under Votes,8,0,2,6
+Swisher,Precinct 7,"Justice, Supreme Court",2,REP,Jimmy Blacklock,312,9,148,155
+Swisher,Precinct 7,"Justice, Supreme Court",2,DEM,DaSean Jones,40,5,14,21
+Swisher,Precinct 7,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Swisher,Precinct 7,"Justice, Supreme Court",2,,Under Votes,10,0,0,10
+Swisher,Precinct 7,"Justice, Supreme Court",4,REP,John Devine,312,8,147,157
+Swisher,Precinct 7,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,42,6,14,22
+Swisher,Precinct 7,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Swisher,Precinct 7,"Justice, Supreme Court",4,,Under Votes,8,0,1,7
+Swisher,Precinct 7,"Justice, Supreme Court",6,REP,Jane Bland,302,8,143,151
+Swisher,Precinct 7,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,38,6,14,18
+Swisher,Precinct 7,"Justice, Supreme Court",6,LIB,J. David Roberson,14,0,4,10
+Swisher,Precinct 7,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Swisher,Precinct 7,"Justice, Supreme Court",6,,Under Votes,8,0,1,7
+Swisher,Precinct 7,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,310,8,147,155
+Swisher,Precinct 7,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,44,6,15,23
+Swisher,Precinct 7,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Swisher,Precinct 7,"Presiding Judge, Ct of Crim App",,,Under Votes,8,0,0,8
+Swisher,Precinct 7,"Judge, Ct of Crim App",7,REP,Gina Parker,307,8,146,153
+Swisher,Precinct 7,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,43,5,14,24
+Swisher,Precinct 7,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Swisher,Precinct 7,"Judge, Ct of Crim App",7,,Under Votes,12,1,2,9
+Swisher,Precinct 7,"Judge, Ct of Crim App",8,REP,Lee Finley,311,8,147,156
+Swisher,Precinct 7,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,41,6,14,21
+Swisher,Precinct 7,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Swisher,Precinct 7,"Judge, Ct of Crim App",8,,Under Votes,10,0,1,9
+Swisher,Precinct 7,"Member, State BoE",15,REP,Aaron Kinsey,300,8,142,150
+Swisher,Precinct 7,"Member, State BoE",15,DEM,Morgan Kirkpatrick,43,6,14,23
+Swisher,Precinct 7,"Member, State BoE",15,LIB,Jack B. Westbrook,11,0,4,7
+Swisher,Precinct 7,"Member, State BoE",15,,Over Votes,0,0,0,0
+Swisher,Precinct 7,"Member, State BoE",15,,Under Votes,8,0,2,6
+Swisher,Precinct 7,State Representative,88,REP,Ken King,318,10,143,165
+Swisher,Precinct 7,State Representative,88,,Over Votes,0,0,0,0
+Swisher,Precinct 7,State Representative,88,,Under Votes,44,4,19,21
+Swisher,Precinct 7,"Justice, 7th Ct of App Dist",2,REP,Judy Parker,320,10,147,163
+Swisher,Precinct 7,"Justice, 7th Ct of App Dist",2,,Over Votes,0,0,0,0
+Swisher,Precinct 7,"Justice, 7th Ct of App Dist",2,,Under Votes,42,4,15,23
+Swisher,Precinct 7,"Justice, 7th Ct of App Dist",3,REP,Alex Yarbrough,317,9,147,161
+Swisher,Precinct 7,"Justice, 7th Ct of App Dist",3,,Over Votes,0,0,0,0
+Swisher,Precinct 7,"Justice, 7th Ct of App Dist",3,,Under Votes,45,5,15,25
+Swisher,Precinct 7,County Attorney,,REP,Amy M. McAtee,322,11,146,165
+Swisher,Precinct 7,County Attorney,,,Over Votes,0,0,0,0
+Swisher,Precinct 7,County Attorney,,,Under Votes,40,3,16,21
+Swisher,Precinct 7,Sheriff,,REP,Kyle Schmalzried,325,12,143,170
+Swisher,Precinct 7,Sheriff,,,Over Votes,0,0,0,0
+Swisher,Precinct 7,Sheriff,,,Under Votes,37,2,19,16
+Swisher,Precinct 7,County Tax Assessor-Collector,,REP,"Deborah ""Debbie"" Lemons",326,13,145,168
+Swisher,Precinct 7,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Swisher,Precinct 7,County Tax Assessor-Collector,,,Under Votes,36,1,17,18
+Swisher,Precinct 7,County Commissioner,1,REP,Michael Sims,319,12,140,167
+Swisher,Precinct 7,County Commissioner,1,,Over Votes,0,0,0,0
+Swisher,Precinct 7,County Commissioner,1,,Under Votes,43,2,22,19
+Swisher,Precinct 9,Registered Voters,,,,30,,,
+Swisher,Precinct 9,Ballots Cast,,,,20,1,18,1
+Swisher,Precinct 9,Ballots Cast Blank,,,,0,0,0,0
+Swisher,Precinct 9,President,,REP,Donald J. Trump,16,1,14,1
+Swisher,Precinct 9,President,,DEM,Kamala D. Harris,3,0,3,0
+Swisher,Precinct 9,President,,LIB,Chase Oliver,0,0,0,0
+Swisher,Precinct 9,President,,GRN,Jill Stein,1,0,1,0
+Swisher,Precinct 9,President,,,Write-ins,0,0,0,0
+Swisher,Precinct 9,President,,,Over Votes,0,0,0,0
+Swisher,Precinct 9,President,,,Under Votes,0,0,0,0
+Swisher,Precinct 9,U.S. Senate,,REP,Ted Cruz,16,1,14,1
+Swisher,Precinct 9,U.S. Senate,,DEM,Colin Allred,4,0,4,0
+Swisher,Precinct 9,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Swisher,Precinct 9,U.S. Senate,,,Write-ins,0,0,0,0
+Swisher,Precinct 9,U.S. Senate,,,Over Votes,0,0,0,0
+Swisher,Precinct 9,U.S. Senate,,,Under Votes,0,0,0,0
+Swisher,Precinct 9,U.S. House,19,REP,Jodey C. Arrington,14,1,12,1
+Swisher,Precinct 9,U.S. House,19,LIB,Bernard Johnson,1,0,1,0
+Swisher,Precinct 9,U.S. House,19,IND,Nathan Lewis,3,0,3,0
+Swisher,Precinct 9,U.S. House,19,,Over Votes,0,0,0,0
+Swisher,Precinct 9,U.S. House,19,,Under Votes,2,0,2,0
+Swisher,Precinct 9,Railroad Commissioner,,REP,Christi Craddick,15,1,13,1
+Swisher,Precinct 9,Railroad Commissioner,,DEM,Katherine Culbert,3,0,3,0
+Swisher,Precinct 9,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,1,0
+Swisher,Precinct 9,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Swisher,Precinct 9,Railroad Commissioner,,,Write-ins,0,0,0,0
+Swisher,Precinct 9,Railroad Commissioner,,,Over Votes,0,0,0,0
+Swisher,Precinct 9,Railroad Commissioner,,,Under Votes,1,0,1,0
+Swisher,Precinct 9,"Justice, Supreme Court",2,REP,Jimmy Blacklock,13,1,11,1
+Swisher,Precinct 9,"Justice, Supreme Court",2,DEM,DaSean Jones,5,0,5,0
+Swisher,Precinct 9,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Swisher,Precinct 9,"Justice, Supreme Court",2,,Under Votes,2,0,2,0
+Swisher,Precinct 9,"Justice, Supreme Court",4,REP,John Devine,13,1,11,1
+Swisher,Precinct 9,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,4,0,4,0
+Swisher,Precinct 9,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Swisher,Precinct 9,"Justice, Supreme Court",4,,Under Votes,3,0,3,0
+Swisher,Precinct 9,"Justice, Supreme Court",6,REP,Jane Bland,13,1,11,1
+Swisher,Precinct 9,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,4,0,4,0
+Swisher,Precinct 9,"Justice, Supreme Court",6,LIB,J. David Roberson,0,0,0,0
+Swisher,Precinct 9,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Swisher,Precinct 9,"Justice, Supreme Court",6,,Under Votes,3,0,3,0
+Swisher,Precinct 9,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,13,1,11,1
+Swisher,Precinct 9,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,4,0,4,0
+Swisher,Precinct 9,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Swisher,Precinct 9,"Presiding Judge, Ct of Crim App",,,Under Votes,3,0,3,0
+Swisher,Precinct 9,"Judge, Ct of Crim App",7,REP,Gina Parker,13,1,11,1
+Swisher,Precinct 9,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,4,0,4,0
+Swisher,Precinct 9,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Swisher,Precinct 9,"Judge, Ct of Crim App",7,,Under Votes,3,0,3,0
+Swisher,Precinct 9,"Judge, Ct of Crim App",8,REP,Lee Finley,14,1,12,1
+Swisher,Precinct 9,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,4,0,4,0
+Swisher,Precinct 9,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Swisher,Precinct 9,"Judge, Ct of Crim App",8,,Under Votes,2,0,2,0
+Swisher,Precinct 9,"Member, State BoE",15,REP,Aaron Kinsey,13,1,11,1
+Swisher,Precinct 9,"Member, State BoE",15,DEM,Morgan Kirkpatrick,4,0,4,0
+Swisher,Precinct 9,"Member, State BoE",15,LIB,Jack B. Westbrook,0,0,0,0
+Swisher,Precinct 9,"Member, State BoE",15,,Over Votes,0,0,0,0
+Swisher,Precinct 9,"Member, State BoE",15,,Under Votes,3,0,3,0
+Swisher,Precinct 9,State Representative,88,REP,Ken King,17,1,15,1
+Swisher,Precinct 9,State Representative,88,,Over Votes,0,0,0,0
+Swisher,Precinct 9,State Representative,88,,Under Votes,3,0,3,0
+Swisher,Precinct 9,"Justice, 7th Ct of App Dist",2,REP,Judy Parker,15,1,13,1
+Swisher,Precinct 9,"Justice, 7th Ct of App Dist",2,,Over Votes,0,0,0,0
+Swisher,Precinct 9,"Justice, 7th Ct of App Dist",2,,Under Votes,5,0,5,0
+Swisher,Precinct 9,"Justice, 7th Ct of App Dist",3,REP,Alex Yarbrough,15,1,13,1
+Swisher,Precinct 9,"Justice, 7th Ct of App Dist",3,,Over Votes,0,0,0,0
+Swisher,Precinct 9,"Justice, 7th Ct of App Dist",3,,Under Votes,5,0,5,0
+Swisher,Precinct 9,County Attorney,,REP,Amy M. McAtee,18,1,16,1
+Swisher,Precinct 9,County Attorney,,,Over Votes,0,0,0,0
+Swisher,Precinct 9,County Attorney,,,Under Votes,2,0,2,0
+Swisher,Precinct 9,Sheriff,,REP,Kyle Schmalzried,18,1,16,1
+Swisher,Precinct 9,Sheriff,,,Over Votes,0,0,0,0
+Swisher,Precinct 9,Sheriff,,,Under Votes,2,0,2,0
+Swisher,Precinct 9,County Tax Assessor-Collector,,REP,"Deborah ""Debbie"" Lemons",16,1,14,1
+Swisher,Precinct 9,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Swisher,Precinct 9,County Tax Assessor-Collector,,,Under Votes,4,0,4,0
+Swisher,Precinct 11,Registered Voters,,,,317,,,
+Swisher,Precinct 11,Ballots Cast,,,,192,15,87,90
+Swisher,Precinct 11,Ballots Cast Blank,,,,0,0,0,0
+Swisher,Precinct 11,President,,REP,Donald J. Trump,149,11,74,64
+Swisher,Precinct 11,President,,DEM,Kamala D. Harris,38,4,10,24
+Swisher,Precinct 11,President,,LIB,Chase Oliver,1,0,0,1
+Swisher,Precinct 11,President,,GRN,Jill Stein,3,0,3,0
+Swisher,Precinct 11,President,,,Write-ins,0,0,0,0
+Swisher,Precinct 11,President,,,Over Votes,0,0,0,0
+Swisher,Precinct 11,President,,,Under Votes,1,0,0,1
+Swisher,Precinct 11,U.S. Senate,,REP,Ted Cruz,141,10,74,57
+Swisher,Precinct 11,U.S. Senate,,DEM,Colin Allred,42,5,12,25
+Swisher,Precinct 11,U.S. Senate,,LIB,Ted Brown,7,0,1,6
+Swisher,Precinct 11,U.S. Senate,,,Write-ins,0,0,0,0
+Swisher,Precinct 11,U.S. Senate,,,Over Votes,0,0,0,0
+Swisher,Precinct 11,U.S. Senate,,,Under Votes,2,0,0,2
+Swisher,Precinct 11,U.S. House,19,REP,Jodey C. Arrington,154,11,79,64
+Swisher,Precinct 11,U.S. House,19,LIB,Bernard Johnson,18,2,5,11
+Swisher,Precinct 11,U.S. House,19,IND,Nathan Lewis,7,0,2,5
+Swisher,Precinct 11,U.S. House,19,,Over Votes,0,0,0,0
+Swisher,Precinct 11,U.S. House,19,,Under Votes,13,2,1,10
+Swisher,Precinct 11,Railroad Commissioner,,REP,Christi Craddick,142,9,72,61
+Swisher,Precinct 11,Railroad Commissioner,,DEM,Katherine Culbert,33,4,9,20
+Swisher,Precinct 11,Railroad Commissioner,,LIB,Hawk Dunlap,12,2,5,5
+Swisher,Precinct 11,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,1,3
+Swisher,Precinct 11,Railroad Commissioner,,,Write-ins,0,0,0,0
+Swisher,Precinct 11,Railroad Commissioner,,,Over Votes,0,0,0,0
+Swisher,Precinct 11,Railroad Commissioner,,,Under Votes,1,0,0,1
+Swisher,Precinct 11,"Justice, Supreme Court",2,REP,Jimmy Blacklock,148,9,75,64
+Swisher,Precinct 11,"Justice, Supreme Court",2,DEM,DaSean Jones,37,4,11,22
+Swisher,Precinct 11,"Justice, Supreme Court",2,,Over Votes,0,0,0,0
+Swisher,Precinct 11,"Justice, Supreme Court",2,,Under Votes,7,2,1,4
+Swisher,Precinct 11,"Justice, Supreme Court",4,REP,John Devine,147,9,73,65
+Swisher,Precinct 11,"Justice, Supreme Court",4,DEM,Christine Vinh Weems,36,4,13,19
+Swisher,Precinct 11,"Justice, Supreme Court",4,,Over Votes,0,0,0,0
+Swisher,Precinct 11,"Justice, Supreme Court",4,,Under Votes,9,2,1,6
+Swisher,Precinct 11,"Justice, Supreme Court",6,REP,Jane Bland,144,9,73,62
+Swisher,Precinct 11,"Justice, Supreme Court",6,DEM,Bonnie Lee Goldstein,34,4,12,18
+Swisher,Precinct 11,"Justice, Supreme Court",6,LIB,J. David Roberson,5,0,0,5
+Swisher,Precinct 11,"Justice, Supreme Court",6,,Over Votes,0,0,0,0
+Swisher,Precinct 11,"Justice, Supreme Court",6,,Under Votes,9,2,2,5
+Swisher,Precinct 11,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,148,9,74,65
+Swisher,Precinct 11,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,36,4,11,21
+Swisher,Precinct 11,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Swisher,Precinct 11,"Presiding Judge, Ct of Crim App",,,Under Votes,8,2,2,4
+Swisher,Precinct 11,"Judge, Ct of Crim App",7,REP,Gina Parker,142,8,73,61
+Swisher,Precinct 11,"Judge, Ct of Crim App",7,DEM,Nancy Mulder,37,4,11,22
+Swisher,Precinct 11,"Judge, Ct of Crim App",7,,Over Votes,0,0,0,0
+Swisher,Precinct 11,"Judge, Ct of Crim App",7,,Under Votes,13,3,3,7
+Swisher,Precinct 11,"Judge, Ct of Crim App",8,REP,Lee Finley,154,9,75,70
+Swisher,Precinct 11,"Judge, Ct of Crim App",8,DEM,Chika Anyiam,32,4,10,18
+Swisher,Precinct 11,"Judge, Ct of Crim App",8,,Over Votes,0,0,0,0
+Swisher,Precinct 11,"Judge, Ct of Crim App",8,,Under Votes,6,2,2,2
+Swisher,Precinct 11,"Member, State BoE",15,REP,Aaron Kinsey,146,9,74,63
+Swisher,Precinct 11,"Member, State BoE",15,DEM,Morgan Kirkpatrick,31,4,10,17
+Swisher,Precinct 11,"Member, State BoE",15,LIB,Jack B. Westbrook,6,0,0,6
+Swisher,Precinct 11,"Member, State BoE",15,,Over Votes,0,0,0,0
+Swisher,Precinct 11,"Member, State BoE",15,,Under Votes,9,2,3,4
+Swisher,Precinct 11,State Representative,88,REP,Ken King,163,10,81,72
+Swisher,Precinct 11,State Representative,88,,Over Votes,0,0,0,0
+Swisher,Precinct 11,State Representative,88,,Under Votes,29,5,6,18
+Swisher,Precinct 11,"Justice, 7th Ct of App Dist",2,REP,Judy Parker,160,9,80,71
+Swisher,Precinct 11,"Justice, 7th Ct of App Dist",2,,Over Votes,0,0,0,0
+Swisher,Precinct 11,"Justice, 7th Ct of App Dist",2,,Under Votes,32,6,7,19
+Swisher,Precinct 11,"Justice, 7th Ct of App Dist",3,REP,Alex Yarbrough,157,10,79,68
+Swisher,Precinct 11,"Justice, 7th Ct of App Dist",3,,Over Votes,0,0,0,0
+Swisher,Precinct 11,"Justice, 7th Ct of App Dist",3,,Under Votes,35,5,8,22
+Swisher,Precinct 11,County Attorney,,REP,Amy M. McAtee,163,10,78,75
+Swisher,Precinct 11,County Attorney,,,Over Votes,0,0,0,0
+Swisher,Precinct 11,County Attorney,,,Under Votes,29,5,9,15
+Swisher,Precinct 11,Sheriff,,REP,Kyle Schmalzried,162,10,76,76
+Swisher,Precinct 11,Sheriff,,,Over Votes,0,0,0,0
+Swisher,Precinct 11,Sheriff,,,Under Votes,30,5,11,14
+Swisher,Precinct 11,County Tax Assessor-Collector,,REP,"Deborah ""Debbie"" Lemons",169,9,80,80
+Swisher,Precinct 11,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Swisher,Precinct 11,County Tax Assessor-Collector,,,Under Votes,23,6,7,10
+Swisher,Precinct 11,County Commissioner,3,REP,Ed Weiser,160,10,77,73
+Swisher,Precinct 11,County Commissioner,3,,Over Votes,0,0,0,0
+Swisher,Precinct 11,County Commissioner,3,,Under Votes,32,5,10,17
