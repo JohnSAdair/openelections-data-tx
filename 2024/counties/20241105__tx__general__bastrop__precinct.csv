@@ -1,0 +1,1573 @@
+county,precinct,office,district,party,candidate,absentee,early_voting,election_day,votes
+Bastrop,Precinct 1001,Registered Voters,,,,,,,396
+Bastrop,Precinct 1001,Ballots Cast,,,,10,249,47,306
+Bastrop,Precinct 1002,Registered Voters,,,,,,,743
+Bastrop,Precinct 1002,Ballots Cast,,,,28,482,76,586
+Bastrop,Precinct 1003,Registered Voters,,,,,,,2864
+Bastrop,Precinct 1003,Ballots Cast,,,,61,1729,349,2139
+Bastrop,Precinct 1004,Registered Voters,,,,,,,2397
+Bastrop,Precinct 1004,Ballots Cast,,,,78,1235,227,1540
+Bastrop,Precinct 1005,Registered Voters,,,,,,,1222
+Bastrop,Precinct 1005,Ballots Cast,,,,56,664,127,847
+Bastrop,Precinct 1006,Registered Voters,,,,,,,2944
+Bastrop,Precinct 1006,Ballots Cast,,,,62,1023,417,1502
+Bastrop,Precinct 1007,Registered Voters,,,,,,,3340
+Bastrop,Precinct 1007,Ballots Cast,,,,80,2082,393,2555
+Bastrop,Precinct 1008,Registered Voters,,,,,,,1764
+Bastrop,Precinct 1008,Ballots Cast,,,,56,1044,193,1293
+Bastrop,Precinct 1009,Registered Voters,,,,,,,2315
+Bastrop,Precinct 1009,Ballots Cast,,,,40,1044,299,1383
+Bastrop,Precinct 2010,Registered Voters,,,,,,,719
+Bastrop,Precinct 2010,Ballots Cast,,,,16,335,70,421
+Bastrop,Precinct 2011,Registered Voters,,,,,,,2902
+Bastrop,Precinct 2011,Ballots Cast,,,,55,1540,378,1973
+Bastrop,Precinct 2012,Registered Voters,,,,,,,1755
+Bastrop,Precinct 2012,Ballots Cast,,,,51,1110,191,1352
+Bastrop,Precinct 2013,Registered Voters,,,,,,,3312
+Bastrop,Precinct 2013,Ballots Cast,,,,85,1749,410,2244
+Bastrop,Precinct 2014,Registered Voters,,,,,,,3298
+Bastrop,Precinct 2014,Ballots Cast,,,,86,1663,495,2244
+Bastrop,Precinct 2015,Registered Voters,,,,,,,3197
+Bastrop,Precinct 2015,Ballots Cast,,,,79,1769,372,2220
+Bastrop,Precinct 2016,Registered Voters,,,,,,,2886
+Bastrop,Precinct 2016,Ballots Cast,,,,50,1684,407,2141
+Bastrop,Precinct 3017,Registered Voters,,,,,,,2908
+Bastrop,Precinct 3017,Ballots Cast,,,,85,1490,355,1930
+Bastrop,Precinct 3018,Registered Voters,,,,,,,1726
+Bastrop,Precinct 3018,Ballots Cast,,,,36,820,368,1224
+Bastrop,Precinct 3019,Registered Voters,,,,,,,2986
+Bastrop,Precinct 3019,Ballots Cast,,,,41,1182,324,1547
+Bastrop,Precinct 3020,Registered Voters,,,,,,,3731
+Bastrop,Precinct 3020,Ballots Cast,,,,53,1332,423,1808
+Bastrop,Precinct 4021,Registered Voters,,,,,,,2910
+Bastrop,Precinct 4021,Ballots Cast,,,,67,1347,380,1794
+Bastrop,Precinct 4022,Registered Voters,,,,,,,2647
+Bastrop,Precinct 4022,Ballots Cast,,,,52,1372,296,1720
+Bastrop,Precinct 4023,Registered Voters,,,,,,,1548
+Bastrop,Precinct 4023,Ballots Cast,,,,36,687,315,1038
+Bastrop,Precinct 4024,Registered Voters,,,,,,,1872
+Bastrop,Precinct 4024,Ballots Cast,,,,28,944,238,1210
+Bastrop,Precinct 4025,Registered Voters,,,,,,,2497
+Bastrop,Precinct 4025,Ballots Cast,,,,51,1035,292,1378
+Bastrop,Precinct 4026,Registered Voters,,,,,,,2544
+Bastrop,Precinct 4026,Ballots Cast,,,,29,1282,323,1634
+Bastrop,Precinct 1001,President,,REP,Donald J. Trump/JD Vance,5,157,40,202
+Bastrop,Precinct 1001,President,,DEM,Kamala D. Harris/Tim Walz,5,87,7,99
+Bastrop,Precinct 1001,President,,LIB,Chase Oliver/Mike ter Maat,0,2,0,2
+Bastrop,Precinct 1001,President,,GRN,Jill Stein/Rudolph Ware,0,2,0,2
+Bastrop,Precinct 1001,President,,,Write-in,0,1,0,1
+Bastrop,Precinct 1002,President,,REP,Donald J. Trump/JD Vance,11,273,52,336
+Bastrop,Precinct 1002,President,,DEM,Kamala D. Harris/Tim Walz,17,199,21,237
+Bastrop,Precinct 1002,President,,LIB,Chase Oliver/Mike ter Maat,0,8,2,10
+Bastrop,Precinct 1002,President,,GRN,Jill Stein/Rudolph Ware,0,1,0,1
+Bastrop,Precinct 1002,President,,,Write-in,0,1,1,2
+Bastrop,Precinct 1003,President,,REP,Donald J. Trump/JD Vance,21,1081,230,1332
+Bastrop,Precinct 1003,President,,DEM,Kamala D. Harris/Tim Walz,39,618,112,769
+Bastrop,Precinct 1003,President,,LIB,Chase Oliver/Mike ter Maat,1,11,5,17
+Bastrop,Precinct 1003,President,,GRN,Jill Stein/Rudolph Ware,0,8,0,8
+Bastrop,Precinct 1003,President,,,Write-in,0,4,1,5
+Bastrop,Precinct 1004,President,,REP,Donald J. Trump/JD Vance,19,592,109,720
+Bastrop,Precinct 1004,President,,DEM,Kamala D. Harris/Tim Walz,58,617,102,777
+Bastrop,Precinct 1004,President,,LIB,Chase Oliver/Mike ter Maat,0,7,6,13
+Bastrop,Precinct 1004,President,,GRN,Jill Stein/Rudolph Ware,1,7,7,15
+Bastrop,Precinct 1004,President,,,Write-in,0,4,1,5
+Bastrop,Precinct 1005,President,,REP,Donald J. Trump/JD Vance,18,420,79,517
+Bastrop,Precinct 1005,President,,DEM,Kamala D. Harris/Tim Walz,36,237,39,312
+Bastrop,Precinct 1005,President,,LIB,Chase Oliver/Mike ter Maat,0,1,5,6
+Bastrop,Precinct 1005,President,,GRN,Jill Stein/Rudolph Ware,0,2,0,2
+Bastrop,Precinct 1005,President,,,Write-in,0,2,4,6
+Bastrop,Precinct 1006,President,,REP,Donald J. Trump/JD Vance,28,581,250,859
+Bastrop,Precinct 1006,President,,DEM,Kamala D. Harris/Tim Walz,34,429,156,619
+Bastrop,Precinct 1006,President,,LIB,Chase Oliver/Mike ter Maat,0,3,4,7
+Bastrop,Precinct 1006,President,,GRN,Jill Stein/Rudolph Ware,0,6,4,10
+Bastrop,Precinct 1006,President,,,Write-in,0,3,3,6
+Bastrop,Precinct 1007,President,,REP,Donald J. Trump/JD Vance,33,1223,241,1497
+Bastrop,Precinct 1007,President,,DEM,Kamala D. Harris/Tim Walz,45,823,133,1001
+Bastrop,Precinct 1007,President,,LIB,Chase Oliver/Mike ter Maat,0,14,6,20
+Bastrop,Precinct 1007,President,,GRN,Jill Stein/Rudolph Ware,0,9,6,15
+Bastrop,Precinct 1007,President,,,Write-in,1,7,3,11
+Bastrop,Precinct 1008,President,,REP,Donald J. Trump/JD Vance,16,535,111,662
+Bastrop,Precinct 1008,President,,DEM,Kamala D. Harris/Tim Walz,38,493,76,607
+Bastrop,Precinct 1008,President,,LIB,Chase Oliver/Mike ter Maat,2,10,4,16
+Bastrop,Precinct 1008,President,,GRN,Jill Stein/Rudolph Ware,0,2,2,4
+Bastrop,Precinct 1008,President,,,Write-in,0,4,0,4
+Bastrop,Precinct 1009,President,,REP,Donald J. Trump/JD Vance,18,577,174,769
+Bastrop,Precinct 1009,President,,DEM,Kamala D. Harris/Tim Walz,21,448,119,588
+Bastrop,Precinct 1009,President,,LIB,Chase Oliver/Mike ter Maat,1,2,1,4
+Bastrop,Precinct 1009,President,,GRN,Jill Stein/Rudolph Ware,0,8,1,9
+Bastrop,Precinct 1009,President,,,Write-in,0,8,0,8
+Bastrop,Precinct 2010,President,,REP,Donald J. Trump/JD Vance,9,194,37,240
+Bastrop,Precinct 2010,President,,DEM,Kamala D. Harris/Tim Walz,7,136,29,172
+Bastrop,Precinct 2010,President,,LIB,Chase Oliver/Mike ter Maat,0,1,2,3
+Bastrop,Precinct 2010,President,,GRN,Jill Stein/Rudolph Ware,0,3,1,4
+Bastrop,Precinct 2010,President,,,Write-in,0,0,1,1
+Bastrop,Precinct 2011,President,,REP,Donald J. Trump/JD Vance,24,848,229,1101
+Bastrop,Precinct 2011,President,,DEM,Kamala D. Harris/Tim Walz,31,674,135,840
+Bastrop,Precinct 2011,President,,LIB,Chase Oliver/Mike ter Maat,0,5,7,12
+Bastrop,Precinct 2011,President,,GRN,Jill Stein/Rudolph Ware,0,4,5,9
+Bastrop,Precinct 2011,President,,,Write-in,0,4,2,6
+Bastrop,Precinct 2012,President,,REP,Donald J. Trump/JD Vance,23,757,124,904
+Bastrop,Precinct 2012,President,,DEM,Kamala D. Harris/Tim Walz,27,329,60,416
+Bastrop,Precinct 2012,President,,LIB,Chase Oliver/Mike ter Maat,0,7,5,12
+Bastrop,Precinct 2012,President,,GRN,Jill Stein/Rudolph Ware,0,3,0,3
+Bastrop,Precinct 2012,President,,,Write-in,0,6,1,7
+Bastrop,Precinct 2013,President,,REP,Donald J. Trump/JD Vance,36,1096,270,1402
+Bastrop,Precinct 2013,President,,DEM,Kamala D. Harris/Tim Walz,49,633,127,809
+Bastrop,Precinct 2013,President,,LIB,Chase Oliver/Mike ter Maat,0,7,9,16
+Bastrop,Precinct 2013,President,,GRN,Jill Stein/Rudolph Ware,0,7,2,9
+Bastrop,Precinct 2013,President,,,Write-in,0,3,2,5
+Bastrop,Precinct 2014,President,,REP,Donald J. Trump/JD Vance,36,1128,347,1511
+Bastrop,Precinct 2014,President,,DEM,Kamala D. Harris/Tim Walz,50,516,128,694
+Bastrop,Precinct 2014,President,,LIB,Chase Oliver/Mike ter Maat,0,8,6,14
+Bastrop,Precinct 2014,President,,GRN,Jill Stein/Rudolph Ware,0,5,4,9
+Bastrop,Precinct 2014,President,,,Write-in,0,2,7,9
+Bastrop,Precinct 2015,President,,REP,Donald J. Trump/JD Vance,31,1143,223,1397
+Bastrop,Precinct 2015,President,,DEM,Kamala D. Harris/Tim Walz,48,603,139,790
+Bastrop,Precinct 2015,President,,LIB,Chase Oliver/Mike ter Maat,0,7,3,10
+Bastrop,Precinct 2015,President,,GRN,Jill Stein/Rudolph Ware,0,5,5,10
+Bastrop,Precinct 2015,President,,,Write-in,0,4,1,5
+Bastrop,Precinct 2016,President,,REP,Donald J. Trump/JD Vance,19,1285,287,1591
+Bastrop,Precinct 2016,President,,DEM,Kamala D. Harris/Tim Walz,31,381,108,520
+Bastrop,Precinct 2016,President,,LIB,Chase Oliver/Mike ter Maat,0,11,6,17
+Bastrop,Precinct 2016,President,,GRN,Jill Stein/Rudolph Ware,0,4,3,7
+Bastrop,Precinct 2016,President,,,Write-in,0,2,3,5
+Bastrop,Precinct 3017,President,,REP,Donald J. Trump/JD Vance,35,936,221,1192
+Bastrop,Precinct 3017,President,,DEM,Kamala D. Harris/Tim Walz,48,528,126,702
+Bastrop,Precinct 3017,President,,LIB,Chase Oliver/Mike ter Maat,0,9,5,14
+Bastrop,Precinct 3017,President,,GRN,Jill Stein/Rudolph Ware,0,8,0,8
+Bastrop,Precinct 3017,President,,,Write-in,0,5,2,7
+Bastrop,Precinct 3018,President,,REP,Donald J. Trump/JD Vance,14,573,279,866
+Bastrop,Precinct 3018,President,,DEM,Kamala D. Harris/Tim Walz,22,238,83,343
+Bastrop,Precinct 3018,President,,LIB,Chase Oliver/Mike ter Maat,0,4,3,7
+Bastrop,Precinct 3018,President,,GRN,Jill Stein/Rudolph Ware,0,1,3,4
+Bastrop,Precinct 3018,President,,,Write-in,0,2,0,2
+Bastrop,Precinct 3019,President,,REP,Donald J. Trump/JD Vance,9,650,173,832
+Bastrop,Precinct 3019,President,,DEM,Kamala D. Harris/Tim Walz,31,514,145,690
+Bastrop,Precinct 3019,President,,LIB,Chase Oliver/Mike ter Maat,0,9,1,10
+Bastrop,Precinct 3019,President,,GRN,Jill Stein/Rudolph Ware,1,6,3,10
+Bastrop,Precinct 3019,President,,,Write-in,0,1,1,2
+Bastrop,Precinct 3020,President,,REP,Donald J. Trump/JD Vance,15,585,182,782
+Bastrop,Precinct 3020,President,,DEM,Kamala D. Harris/Tim Walz,38,727,231,996
+Bastrop,Precinct 3020,President,,LIB,Chase Oliver/Mike ter Maat,0,4,3,7
+Bastrop,Precinct 3020,President,,GRN,Jill Stein/Rudolph Ware,0,9,5,14
+Bastrop,Precinct 3020,President,,,Write-in,0,3,1,4
+Bastrop,Precinct 4021,President,,REP,Donald J. Trump/JD Vance,29,754,213,996
+Bastrop,Precinct 4021,President,,DEM,Kamala D. Harris/Tim Walz,38,570,153,761
+Bastrop,Precinct 4021,President,,LIB,Chase Oliver/Mike ter Maat,0,11,4,15
+Bastrop,Precinct 4021,President,,GRN,Jill Stein/Rudolph Ware,0,8,7,15
+Bastrop,Precinct 4021,President,,,Write-in,0,2,2,4
+Bastrop,Precinct 4022,President,,REP,Donald J. Trump/JD Vance,21,812,145,978
+Bastrop,Precinct 4022,President,,DEM,Kamala D. Harris/Tim Walz,30,540,144,714
+Bastrop,Precinct 4022,President,,LIB,Chase Oliver/Mike ter Maat,0,8,6,14
+Bastrop,Precinct 4022,President,,GRN,Jill Stein/Rudolph Ware,0,2,0,2
+Bastrop,Precinct 4022,President,,,Write-in,0,6,1,7
+Bastrop,Precinct 4023,President,,REP,Donald J. Trump/JD Vance,15,480,219,714
+Bastrop,Precinct 4023,President,,DEM,Kamala D. Harris/Tim Walz,21,198,92,311
+Bastrop,Precinct 4023,President,,LIB,Chase Oliver/Mike ter Maat,0,4,1,5
+Bastrop,Precinct 4023,President,,GRN,Jill Stein/Rudolph Ware,0,3,2,5
+Bastrop,Precinct 4023,President,,,Write-in,0,1,0,1
+Bastrop,Precinct 4024,President,,REP,Donald J. Trump/JD Vance,13,564,127,704
+Bastrop,Precinct 4024,President,,DEM,Kamala D. Harris/Tim Walz,14,358,105,477
+Bastrop,Precinct 4024,President,,LIB,Chase Oliver/Mike ter Maat,0,11,5,16
+Bastrop,Precinct 4024,President,,GRN,Jill Stein/Rudolph Ware,0,3,0,3
+Bastrop,Precinct 4024,President,,,Write-in,0,4,0,4
+Bastrop,Precinct 4025,President,,REP,Donald J. Trump/JD Vance,16,400,100,516
+Bastrop,Precinct 4025,President,,DEM,Kamala D. Harris/Tim Walz,33,621,180,834
+Bastrop,Precinct 4025,President,,LIB,Chase Oliver/Mike ter Maat,1,5,5,11
+Bastrop,Precinct 4025,President,,GRN,Jill Stein/Rudolph Ware,0,4,4,8
+Bastrop,Precinct 4025,President,,,Write-in,1,5,1,7
+Bastrop,Precinct 4026,President,,REP,Donald J. Trump/JD Vance,6,536,139,681
+Bastrop,Precinct 4026,President,,DEM,Kamala D. Harris/Tim Walz,23,721,167,911
+Bastrop,Precinct 4026,President,,LIB,Chase Oliver/Mike ter Maat,0,13,8,21
+Bastrop,Precinct 4026,President,,GRN,Jill Stein/Rudolph Ware,0,9,4,13
+Bastrop,Precinct 4026,President,,,Write-in,0,1,4,5
+Bastrop,Precinct 1001,U.S. Senate,,REP,Ted Cruz,4,148,40,192
+Bastrop,Precinct 1001,U.S. Senate,,DEM,Colin Allred,5,86,6,97
+Bastrop,Precinct 1001,U.S. Senate,,LIB,Ted Brown,1,11,0,12
+Bastrop,Precinct 1001,U.S. Senate,,,Write-in,0,0,0,0
+Bastrop,Precinct 1002,U.S. Senate,,REP,Ted Cruz,12,255,42,309
+Bastrop,Precinct 1002,U.S. Senate,,DEM,Colin Allred,16,216,27,259
+Bastrop,Precinct 1002,U.S. Senate,,LIB,Ted Brown,0,8,2,10
+Bastrop,Precinct 1002,U.S. Senate,,,Write-in,0,0,0,0
+Bastrop,Precinct 1003,U.S. Senate,,REP,Ted Cruz,21,1033,207,1261
+Bastrop,Precinct 1003,U.S. Senate,,DEM,Colin Allred,36,645,123,804
+Bastrop,Precinct 1003,U.S. Senate,,LIB,Ted Brown,3,38,12,53
+Bastrop,Precinct 1003,U.S. Senate,,,Write-in,0,1,1,2
+Bastrop,Precinct 1004,U.S. Senate,,REP,Ted Cruz,21,550,92,663
+Bastrop,Precinct 1004,U.S. Senate,,DEM,Colin Allred,55,649,115,819
+Bastrop,Precinct 1004,U.S. Senate,,LIB,Ted Brown,2,23,16,41
+Bastrop,Precinct 1004,U.S. Senate,,,Write-in,0,2,0,2
+Bastrop,Precinct 1005,U.S. Senate,,REP,Ted Cruz,18,389,73,480
+Bastrop,Precinct 1005,U.S. Senate,,DEM,Colin Allred,32,246,42,320
+Bastrop,Precinct 1005,U.S. Senate,,LIB,Ted Brown,3,17,7,27
+Bastrop,Precinct 1005,U.S. Senate,,,Write-in,0,0,1,1
+Bastrop,Precinct 1006,U.S. Senate,,REP,Ted Cruz,26,535,212,773
+Bastrop,Precinct 1006,U.S. Senate,,DEM,Colin Allred,35,437,170,642
+Bastrop,Precinct 1006,U.S. Senate,,LIB,Ted Brown,0,35,25,60
+Bastrop,Precinct 1006,U.S. Senate,,,Write-in,0,0,0,0
+Bastrop,Precinct 1007,U.S. Senate,,REP,Ted Cruz,33,1158,223,1414
+Bastrop,Precinct 1007,U.S. Senate,,DEM,Colin Allred,45,845,144,1034
+Bastrop,Precinct 1007,U.S. Senate,,LIB,Ted Brown,0,57,17,74
+Bastrop,Precinct 1007,U.S. Senate,,,Write-in,0,0,1,1
+Bastrop,Precinct 1008,U.S. Senate,,REP,Ted Cruz,18,527,100,645
+Bastrop,Precinct 1008,U.S. Senate,,DEM,Colin Allred,35,481,82,598
+Bastrop,Precinct 1008,U.S. Senate,,LIB,Ted Brown,1,27,7,35
+Bastrop,Precinct 1008,U.S. Senate,,,Write-in,0,0,0,0
+Bastrop,Precinct 1009,U.S. Senate,,REP,Ted Cruz,16,531,142,689
+Bastrop,Precinct 1009,U.S. Senate,,DEM,Colin Allred,20,464,127,611
+Bastrop,Precinct 1009,U.S. Senate,,LIB,Ted Brown,3,30,20,53
+Bastrop,Precinct 1009,U.S. Senate,,,Write-in,0,2,1,3
+Bastrop,Precinct 2010,U.S. Senate,,REP,Ted Cruz,9,185,32,226
+Bastrop,Precinct 2010,U.S. Senate,,DEM,Colin Allred,7,141,30,178
+Bastrop,Precinct 2010,U.S. Senate,,LIB,Ted Brown,0,4,3,7
+Bastrop,Precinct 2010,U.S. Senate,,,Write-in,0,0,2,2
+Bastrop,Precinct 2011,U.S. Senate,,REP,Ted Cruz,23,793,200,1016
+Bastrop,Precinct 2011,U.S. Senate,,DEM,Colin Allred,32,693,149,874
+Bastrop,Precinct 2011,U.S. Senate,,LIB,Ted Brown,0,25,20,45
+Bastrop,Precinct 2011,U.S. Senate,,,Write-in,0,2,0,2
+Bastrop,Precinct 2012,U.S. Senate,,REP,Ted Cruz,23,735,109,867
+Bastrop,Precinct 2012,U.S. Senate,,DEM,Colin Allred,26,341,66,433
+Bastrop,Precinct 2012,U.S. Senate,,LIB,Ted Brown,1,17,11,29
+Bastrop,Precinct 2012,U.S. Senate,,,Write-in,0,1,0,1
+Bastrop,Precinct 2013,U.S. Senate,,REP,Ted Cruz,35,1057,242,1334
+Bastrop,Precinct 2013,U.S. Senate,,DEM,Colin Allred,49,636,141,826
+Bastrop,Precinct 2013,U.S. Senate,,LIB,Ted Brown,1,39,16,56
+Bastrop,Precinct 2013,U.S. Senate,,,Write-in,0,1,0,1
+Bastrop,Precinct 2014,U.S. Senate,,REP,Ted Cruz,37,1084,321,1442
+Bastrop,Precinct 2014,U.S. Senate,,DEM,Colin Allred,44,527,136,707
+Bastrop,Precinct 2014,U.S. Senate,,LIB,Ted Brown,1,36,31,68
+Bastrop,Precinct 2014,U.S. Senate,,,Write-in,2,0,1,3
+Bastrop,Precinct 2015,U.S. Senate,,REP,Ted Cruz,31,1087,191,1309
+Bastrop,Precinct 2015,U.S. Senate,,DEM,Colin Allred,45,625,154,824
+Bastrop,Precinct 2015,U.S. Senate,,LIB,Ted Brown,2,40,16,58
+Bastrop,Precinct 2015,U.S. Senate,,,Write-in,0,0,0,0
+Bastrop,Precinct 2016,U.S. Senate,,REP,Ted Cruz,17,1243,270,1530
+Bastrop,Precinct 2016,U.S. Senate,,DEM,Colin Allred,32,386,111,529
+Bastrop,Precinct 2016,U.S. Senate,,LIB,Ted Brown,1,41,16,58
+Bastrop,Precinct 2016,U.S. Senate,,,Write-in,0,0,0,0
+Bastrop,Precinct 3017,U.S. Senate,,REP,Ted Cruz,36,899,186,1121
+Bastrop,Precinct 3017,U.S. Senate,,DEM,Colin Allred,44,549,138,731
+Bastrop,Precinct 3017,U.S. Senate,,LIB,Ted Brown,4,31,21,56
+Bastrop,Precinct 3017,U.S. Senate,,,Write-in,0,1,0,1
+Bastrop,Precinct 3018,U.S. Senate,,REP,Ted Cruz,13,561,246,820
+Bastrop,Precinct 3018,U.S. Senate,,DEM,Colin Allred,21,240,95,356
+Bastrop,Precinct 3018,U.S. Senate,,LIB,Ted Brown,0,14,19,33
+Bastrop,Precinct 3018,U.S. Senate,,,Write-in,0,0,0,0
+Bastrop,Precinct 3019,U.S. Senate,,REP,Ted Cruz,9,607,139,755
+Bastrop,Precinct 3019,U.S. Senate,,DEM,Colin Allred,30,522,150,702
+Bastrop,Precinct 3019,U.S. Senate,,LIB,Ted Brown,1,34,20,55
+Bastrop,Precinct 3019,U.S. Senate,,,Write-in,0,2,2,4
+Bastrop,Precinct 3020,U.S. Senate,,REP,Ted Cruz,16,524,155,695
+Bastrop,Precinct 3020,U.S. Senate,,DEM,Colin Allred,36,735,234,1005
+Bastrop,Precinct 3020,U.S. Senate,,LIB,Ted Brown,1,43,26,70
+Bastrop,Precinct 3020,U.S. Senate,,,Write-in,0,1,0,1
+Bastrop,Precinct 4021,U.S. Senate,,REP,Ted Cruz,28,715,196,939
+Bastrop,Precinct 4021,U.S. Senate,,DEM,Colin Allred,38,581,161,780
+Bastrop,Precinct 4021,U.S. Senate,,LIB,Ted Brown,1,31,13,45
+Bastrop,Precinct 4021,U.S. Senate,,,Write-in,0,1,3,4
+Bastrop,Precinct 4022,U.S. Senate,,REP,Ted Cruz,17,788,120,925
+Bastrop,Precinct 4022,U.S. Senate,,DEM,Colin Allred,32,552,143,727
+Bastrop,Precinct 4022,U.S. Senate,,LIB,Ted Brown,2,19,24,45
+Bastrop,Precinct 4022,U.S. Senate,,,Write-in,0,1,1,2
+Bastrop,Precinct 4023,U.S. Senate,,REP,Ted Cruz,10,462,200,672
+Bastrop,Precinct 4023,U.S. Senate,,DEM,Colin Allred,20,204,97,321
+Bastrop,Precinct 4023,U.S. Senate,,LIB,Ted Brown,5,13,15,33
+Bastrop,Precinct 4023,U.S. Senate,,,Write-in,0,0,0,0
+Bastrop,Precinct 4024,U.S. Senate,,REP,Ted Cruz,12,526,116,654
+Bastrop,Precinct 4024,U.S. Senate,,DEM,Colin Allred,13,379,106,498
+Bastrop,Precinct 4024,U.S. Senate,,LIB,Ted Brown,3,28,10,41
+Bastrop,Precinct 4024,U.S. Senate,,,Write-in,0,0,0,0
+Bastrop,Precinct 4025,U.S. Senate,,REP,Ted Cruz,17,372,86,475
+Bastrop,Precinct 4025,U.S. Senate,,DEM,Colin Allred,34,631,179,844
+Bastrop,Precinct 4025,U.S. Senate,,LIB,Ted Brown,0,19,17,36
+Bastrop,Precinct 4025,U.S. Senate,,,Write-in,0,3,0,3
+Bastrop,Precinct 4026,U.S. Senate,,REP,Ted Cruz,7,507,115,629
+Bastrop,Precinct 4026,U.S. Senate,,DEM,Colin Allred,21,727,178,926
+Bastrop,Precinct 4026,U.S. Senate,,LIB,Ted Brown,0,36,20,56
+Bastrop,Precinct 4026,U.S. Senate,,,Write-in,0,0,3,3
+Bastrop,Precinct 1003,U.S. House,10,REP,Michael T. McCaul,22,1060,218,1300
+Bastrop,Precinct 1003,U.S. House,10,DEM,Theresa Boisseau,36,592,100,728
+Bastrop,Precinct 1003,U.S. House,10,LIB,Jeff Miller,0,33,12,45
+Bastrop,Precinct 1004,U.S. House,10,REP,Michael T. McCaul,28,599,102,729
+Bastrop,Precinct 1004,U.S. House,10,DEM,Theresa Boisseau,49,572,93,714
+Bastrop,Precinct 1004,U.S. House,10,LIB,Jeff Miller,0,30,17,47
+Bastrop,Precinct 1006,U.S. House,10,REP,Michael T. McCaul,29,544,223,796
+Bastrop,Precinct 1006,U.S. House,10,DEM,Theresa Boisseau,30,404,144,578
+Bastrop,Precinct 1006,U.S. House,10,LIB,Jeff Miller,0,25,23,48
+Bastrop,Precinct 2010,U.S. House,10,REP,Michael T. McCaul,10,187,34,231
+Bastrop,Precinct 2010,U.S. House,10,DEM,Theresa Boisseau,6,131,28,165
+Bastrop,Precinct 2010,U.S. House,10,LIB,Jeff Miller,0,5,2,7
+Bastrop,Precinct 2013,U.S. House,10,REP,Michael T. McCaul,40,1087,254,1381
+Bastrop,Precinct 2013,U.S. House,10,DEM,Theresa Boisseau,45,570,118,733
+Bastrop,Precinct 2013,U.S. House,10,LIB,Jeff Miller,0,45,11,56
+Bastrop,Precinct 2014,U.S. House,10,REP,Michael T. McCaul,36,1105,339,1480
+Bastrop,Precinct 2014,U.S. House,10,DEM,Theresa Boisseau,47,486,113,646
+Bastrop,Precinct 2014,U.S. House,10,LIB,Jeff Miller,0,34,21,55
+Bastrop,Precinct 2015,U.S. House,10,REP,Michael T. McCaul,33,1135,199,1367
+Bastrop,Precinct 2015,U.S. House,10,DEM,Theresa Boisseau,44,565,137,746
+Bastrop,Precinct 2015,U.S. House,10,LIB,Jeff Miller,0,26,13,39
+Bastrop,Precinct 4021,U.S. House,10,REP,Michael T. McCaul,30,742,205,977
+Bastrop,Precinct 4021,U.S. House,10,DEM,Theresa Boisseau,35,528,143,706
+Bastrop,Precinct 4021,U.S. House,10,LIB,Jeff Miller,0,38,14,52
+Bastrop,Precinct 4022,U.S. House,10,REP,Michael T. McCaul,21,814,140,975
+Bastrop,Precinct 4022,U.S. House,10,DEM,Theresa Boisseau,29,497,132,658
+Bastrop,Precinct 4022,U.S. House,10,LIB,Jeff Miller,0,22,12,34
+Bastrop,Precinct 4023,U.S. House,10,REP,Michael T. McCaul,17,468,201,686
+Bastrop,Precinct 4023,U.S. House,10,DEM,Theresa Boisseau,16,183,86,285
+Bastrop,Precinct 4023,U.S. House,10,LIB,Jeff Miller,2,19,14,35
+Bastrop,Precinct 4024,U.S. House,10,REP,Michael T. McCaul,11,555,122,688
+Bastrop,Precinct 4024,U.S. House,10,DEM,Theresa Boisseau,13,327,95,435
+Bastrop,Precinct 4024,U.S. House,10,LIB,Jeff Miller,3,24,8,35
+Bastrop,Precinct 4025,U.S. House,10,REP,Michael T. McCaul,17,378,83,478
+Bastrop,Precinct 4025,U.S. House,10,DEM,Theresa Boisseau,31,596,173,800
+Bastrop,Precinct 4025,U.S. House,10,LIB,Jeff Miller,1,31,13,45
+Bastrop,Precinct 4026,U.S. House,10,REP,Michael T. McCaul,7,529,136,672
+Bastrop,Precinct 4026,U.S. House,10,DEM,Theresa Boisseau,21,681,158,860
+Bastrop,Precinct 4026,U.S. House,10,LIB,Jeff Miller,0,49,11,60
+Bastrop,Precinct 1001,U.S. House,27,REP,Michael Cloud,5,160,38,203
+Bastrop,Precinct 1001,U.S. House,27,DEM,Tanya Lloyd,5,78,6,89
+Bastrop,Precinct 1002,U.S. House,27,REP,Michael Cloud,11,276,48,335
+Bastrop,Precinct 1002,U.S. House,27,DEM,Tanya Lloyd,16,199,19,234
+Bastrop,Precinct 1005,U.S. House,27,REP,Michael Cloud,17,412,81,510
+Bastrop,Precinct 1005,U.S. House,27,DEM,Tanya Lloyd,33,221,37,291
+Bastrop,Precinct 1007,U.S. House,27,REP,Michael Cloud,35,1206,247,1488
+Bastrop,Precinct 1007,U.S. House,27,DEM,Tanya Lloyd,43,796,123,962
+Bastrop,Precinct 1008,U.S. House,27,REP,Michael Cloud,18,538,108,664
+Bastrop,Precinct 1008,U.S. House,27,DEM,Tanya Lloyd,36,477,73,586
+Bastrop,Precinct 1009,U.S. House,27,REP,Michael Cloud,18,558,159,735
+Bastrop,Precinct 1009,U.S. House,27,DEM,Tanya Lloyd,21,441,119,581
+Bastrop,Precinct 2011,U.S. House,27,REP,Michael Cloud,25,821,208,1054
+Bastrop,Precinct 2011,U.S. House,27,DEM,Tanya Lloyd,30,623,145,798
+Bastrop,Precinct 2012,U.S. House,27,REP,Michael Cloud,25,769,117,911
+Bastrop,Precinct 2012,U.S. House,27,DEM,Tanya Lloyd,24,300,61,385
+Bastrop,Precinct 2016,U.S. House,27,REP,Michael Cloud,19,1275,278,1572
+Bastrop,Precinct 2016,U.S. House,27,DEM,Tanya Lloyd,31,354,105,490
+Bastrop,Precinct 3017,U.S. House,27,REP,Michael Cloud,38,930,207,1175
+Bastrop,Precinct 3017,U.S. House,27,DEM,Tanya Lloyd,44,510,119,673
+Bastrop,Precinct 3018,U.S. House,27,REP,Michael Cloud,13,577,270,860
+Bastrop,Precinct 3018,U.S. House,27,DEM,Tanya Lloyd,19,221,79,319
+Bastrop,Precinct 3019,U.S. House,27,REP,Michael Cloud,9,638,159,806
+Bastrop,Precinct 3019,U.S. House,27,DEM,Tanya Lloyd,30,494,137,661
+Bastrop,Precinct 3020,U.S. House,27,REP,Michael Cloud,19,556,164,739
+Bastrop,Precinct 3020,U.S. House,27,DEM,Tanya Lloyd,34,707,231,972
+Bastrop,Precinct 1001,Railroad Commissioner,,REP,Christi Craddick,4,154,37,195
+Bastrop,Precinct 1001,Railroad Commissioner,,DEM,Katherine Culbert,5,68,3,76
+Bastrop,Precinct 1001,Railroad Commissioner,,LIB,Hawk Dunlap,0,14,3,17
+Bastrop,Precinct 1001,Railroad Commissioner,,GRN,Eddie Espinoza,0,5,1,6
+Bastrop,Precinct 1001,Railroad Commissioner,,,Write-in,0,0,0,0
+Bastrop,Precinct 1002,Railroad Commissioner,,REP,Christi Craddick,11,271,45,327
+Bastrop,Precinct 1002,Railroad Commissioner,,DEM,Katherine Culbert,15,173,17,205
+Bastrop,Precinct 1002,Railroad Commissioner,,LIB,Hawk Dunlap,0,14,4,18
+Bastrop,Precinct 1002,Railroad Commissioner,,GRN,Eddie Espinoza,0,14,0,14
+Bastrop,Precinct 1002,Railroad Commissioner,,,Write-in,1,0,0,1
+Bastrop,Precinct 1003,Railroad Commissioner,,REP,Christi Craddick,23,1046,203,1272
+Bastrop,Precinct 1003,Railroad Commissioner,,DEM,Katherine Culbert,32,566,96,694
+Bastrop,Precinct 1003,Railroad Commissioner,,LIB,Hawk Dunlap,0,40,17,57
+Bastrop,Precinct 1003,Railroad Commissioner,,GRN,Eddie Espinoza,0,26,8,34
+Bastrop,Precinct 1003,Railroad Commissioner,,,Write-in,0,0,0,0
+Bastrop,Precinct 1004,Railroad Commissioner,,REP,Christi Craddick,22,576,98,696
+Bastrop,Precinct 1004,Railroad Commissioner,,DEM,Katherine Culbert,47,561,88,696
+Bastrop,Precinct 1004,Railroad Commissioner,,LIB,Hawk Dunlap,0,29,10,39
+Bastrop,Precinct 1004,Railroad Commissioner,,GRN,Eddie Espinoza,1,28,14,43
+Bastrop,Precinct 1004,Railroad Commissioner,,,Write-in,1,0,0,1
+Bastrop,Precinct 1005,Railroad Commissioner,,REP,Christi Craddick,17,389,78,484
+Bastrop,Precinct 1005,Railroad Commissioner,,DEM,Katherine Culbert,31,207,33,271
+Bastrop,Precinct 1005,Railroad Commissioner,,LIB,Hawk Dunlap,1,26,5,32
+Bastrop,Precinct 1005,Railroad Commissioner,,GRN,Eddie Espinoza,1,14,3,18
+Bastrop,Precinct 1005,Railroad Commissioner,,,Write-in,0,0,0,0
+Bastrop,Precinct 1006,Railroad Commissioner,,REP,Christi Craddick,26,537,206,769
+Bastrop,Precinct 1006,Railroad Commissioner,,DEM,Katherine Culbert,29,384,138,551
+Bastrop,Precinct 1006,Railroad Commissioner,,LIB,Hawk Dunlap,0,34,23,57
+Bastrop,Precinct 1006,Railroad Commissioner,,GRN,Eddie Espinoza,2,23,23,48
+Bastrop,Precinct 1006,Railroad Commissioner,,,Write-in,1,0,0,1
+Bastrop,Precinct 1007,Railroad Commissioner,,REP,Christi Craddick,33,1187,223,1443
+Bastrop,Precinct 1007,Railroad Commissioner,,DEM,Katherine Culbert,41,735,104,880
+Bastrop,Precinct 1007,Railroad Commissioner,,LIB,Hawk Dunlap,2,66,21,89
+Bastrop,Precinct 1007,Railroad Commissioner,,GRN,Eddie Espinoza,0,40,16,56
+Bastrop,Precinct 1007,Railroad Commissioner,,,Write-in,0,0,2,2
+Bastrop,Precinct 1008,Railroad Commissioner,,REP,Christi Craddick,16,531,95,642
+Bastrop,Precinct 1008,Railroad Commissioner,,DEM,Katherine Culbert,34,435,60,529
+Bastrop,Precinct 1008,Railroad Commissioner,,LIB,Hawk Dunlap,0,36,13,49
+Bastrop,Precinct 1008,Railroad Commissioner,,GRN,Eddie Espinoza,1,17,9,27
+Bastrop,Precinct 1008,Railroad Commissioner,,,Write-in,0,1,1,2
+Bastrop,Precinct 1009,Railroad Commissioner,,REP,Christi Craddick,16,541,145,702
+Bastrop,Precinct 1009,Railroad Commissioner,,DEM,Katherine Culbert,19,410,96,525
+Bastrop,Precinct 1009,Railroad Commissioner,,LIB,Hawk Dunlap,1,29,18,48
+Bastrop,Precinct 1009,Railroad Commissioner,,GRN,Eddie Espinoza,0,25,19,44
+Bastrop,Precinct 1009,Railroad Commissioner,,,Write-in,1,0,0,1
+Bastrop,Precinct 2010,Railroad Commissioner,,REP,Christi Craddick,10,185,32,227
+Bastrop,Precinct 2010,Railroad Commissioner,,DEM,Katherine Culbert,6,123,25,154
+Bastrop,Precinct 2010,Railroad Commissioner,,LIB,Hawk Dunlap,0,8,4,12
+Bastrop,Precinct 2010,Railroad Commissioner,,GRN,Eddie Espinoza,0,7,2,9
+Bastrop,Precinct 2010,Railroad Commissioner,,,Write-in,0,0,0,0
+Bastrop,Precinct 2011,Railroad Commissioner,,REP,Christi Craddick,24,790,185,999
+Bastrop,Precinct 2011,Railroad Commissioner,,DEM,Katherine Culbert,29,599,123,751
+Bastrop,Precinct 2011,Railroad Commissioner,,LIB,Hawk Dunlap,1,56,21,78
+Bastrop,Precinct 2011,Railroad Commissioner,,GRN,Eddie Espinoza,0,30,19,49
+Bastrop,Precinct 2011,Railroad Commissioner,,,Write-in,0,2,1,3
+Bastrop,Precinct 2012,Railroad Commissioner,,REP,Christi Craddick,22,746,111,879
+Bastrop,Precinct 2012,Railroad Commissioner,,DEM,Katherine Culbert,21,278,52,351
+Bastrop,Precinct 2012,Railroad Commissioner,,LIB,Hawk Dunlap,2,32,12,46
+Bastrop,Precinct 2012,Railroad Commissioner,,GRN,Eddie Espinoza,0,13,6,19
+Bastrop,Precinct 2012,Railroad Commissioner,,,Write-in,0,1,0,1
+Bastrop,Precinct 2013,Railroad Commissioner,,REP,Christi Craddick,37,1066,248,1351
+Bastrop,Precinct 2013,Railroad Commissioner,,DEM,Katherine Culbert,47,537,103,687
+Bastrop,Precinct 2013,Railroad Commissioner,,LIB,Hawk Dunlap,0,55,17,72
+Bastrop,Precinct 2013,Railroad Commissioner,,GRN,Eddie Espinoza,0,32,17,49
+Bastrop,Precinct 2013,Railroad Commissioner,,,Write-in,0,1,0,1
+Bastrop,Precinct 2014,Railroad Commissioner,,REP,Christi Craddick,36,1080,324,1440
+Bastrop,Precinct 2014,Railroad Commissioner,,DEM,Katherine Culbert,42,460,103,605
+Bastrop,Precinct 2014,Railroad Commissioner,,LIB,Hawk Dunlap,2,51,28,81
+Bastrop,Precinct 2014,Railroad Commissioner,,GRN,Eddie Espinoza,2,26,12,40
+Bastrop,Precinct 2014,Railroad Commissioner,,,Write-in,2,1,0,3
+Bastrop,Precinct 2015,Railroad Commissioner,,REP,Christi Craddick,30,1099,194,1323
+Bastrop,Precinct 2015,Railroad Commissioner,,DEM,Katherine Culbert,39,532,128,699
+Bastrop,Precinct 2015,Railroad Commissioner,,LIB,Hawk Dunlap,0,38,7,45
+Bastrop,Precinct 2015,Railroad Commissioner,,GRN,Eddie Espinoza,3,40,16,59
+Bastrop,Precinct 2015,Railroad Commissioner,,,Write-in,0,0,0,0
+Bastrop,Precinct 2016,Railroad Commissioner,,REP,Christi Craddick,18,1234,268,1520
+Bastrop,Precinct 2016,Railroad Commissioner,,DEM,Katherine Culbert,27,333,88,448
+Bastrop,Precinct 2016,Railroad Commissioner,,LIB,Hawk Dunlap,0,43,18,61
+Bastrop,Precinct 2016,Railroad Commissioner,,GRN,Eddie Espinoza,1,21,11,33
+Bastrop,Precinct 2016,Railroad Commissioner,,,Write-in,0,0,0,0
+Bastrop,Precinct 3017,Railroad Commissioner,,REP,Christi Craddick,36,904,194,1134
+Bastrop,Precinct 3017,Railroad Commissioner,,DEM,Katherine Culbert,44,471,102,617
+Bastrop,Precinct 3017,Railroad Commissioner,,LIB,Hawk Dunlap,1,37,21,59
+Bastrop,Precinct 3017,Railroad Commissioner,,GRN,Eddie Espinoza,0,22,10,32
+Bastrop,Precinct 3017,Railroad Commissioner,,,Write-in,1,0,0,1
+Bastrop,Precinct 3018,Railroad Commissioner,,REP,Christi Craddick,13,552,242,807
+Bastrop,Precinct 3018,Railroad Commissioner,,DEM,Katherine Culbert,20,201,71,292
+Bastrop,Precinct 3018,Railroad Commissioner,,LIB,Hawk Dunlap,0,27,22,49
+Bastrop,Precinct 3018,Railroad Commissioner,,GRN,Eddie Espinoza,0,13,9,22
+Bastrop,Precinct 3018,Railroad Commissioner,,,Write-in,0,0,0,0
+Bastrop,Precinct 3019,Railroad Commissioner,,REP,Christi Craddick,9,604,146,759
+Bastrop,Precinct 3019,Railroad Commissioner,,DEM,Katherine Culbert,27,449,110,586
+Bastrop,Precinct 3019,Railroad Commissioner,,LIB,Hawk Dunlap,0,41,10,51
+Bastrop,Precinct 3019,Railroad Commissioner,,GRN,Eddie Espinoza,2,42,26,70
+Bastrop,Precinct 3019,Railroad Commissioner,,,Write-in,1,0,2,3
+Bastrop,Precinct 3020,Railroad Commissioner,,REP,Christi Craddick,15,516,145,676
+Bastrop,Precinct 3020,Railroad Commissioner,,DEM,Katherine Culbert,34,646,202,882
+Bastrop,Precinct 3020,Railroad Commissioner,,LIB,Hawk Dunlap,0,41,22,63
+Bastrop,Precinct 3020,Railroad Commissioner,,GRN,Eddie Espinoza,3,61,26,90
+Bastrop,Precinct 3020,Railroad Commissioner,,,Write-in,1,0,1,2
+Bastrop,Precinct 4021,Railroad Commissioner,,REP,Christi Craddick,28,734,194,956
+Bastrop,Precinct 4021,Railroad Commissioner,,DEM,Katherine Culbert,32,501,131,664
+Bastrop,Precinct 4021,Railroad Commissioner,,LIB,Hawk Dunlap,1,41,19,61
+Bastrop,Precinct 4021,Railroad Commissioner,,GRN,Eddie Espinoza,0,25,18,43
+Bastrop,Precinct 4021,Railroad Commissioner,,,Write-in,0,1,0,1
+Bastrop,Precinct 4022,Railroad Commissioner,,REP,Christi Craddick,19,795,136,950
+Bastrop,Precinct 4022,Railroad Commissioner,,DEM,Katherine Culbert,29,476,124,629
+Bastrop,Precinct 4022,Railroad Commissioner,,LIB,Hawk Dunlap,0,44,10,54
+Bastrop,Precinct 4022,Railroad Commissioner,,GRN,Eddie Espinoza,0,21,11,32
+Bastrop,Precinct 4022,Railroad Commissioner,,,Write-in,1,0,0,1
+Bastrop,Precinct 4023,Railroad Commissioner,,REP,Christi Craddick,13,475,197,685
+Bastrop,Precinct 4023,Railroad Commissioner,,DEM,Katherine Culbert,17,171,77,265
+Bastrop,Precinct 4023,Railroad Commissioner,,LIB,Hawk Dunlap,2,19,18,39
+Bastrop,Precinct 4023,Railroad Commissioner,,GRN,Eddie Espinoza,1,8,6,15
+Bastrop,Precinct 4023,Railroad Commissioner,,,Write-in,0,0,0,0
+Bastrop,Precinct 4024,Railroad Commissioner,,REP,Christi Craddick,11,545,110,666
+Bastrop,Precinct 4024,Railroad Commissioner,,DEM,Katherine Culbert,12,314,89,415
+Bastrop,Precinct 4024,Railroad Commissioner,,LIB,Hawk Dunlap,0,26,7,33
+Bastrop,Precinct 4024,Railroad Commissioner,,GRN,Eddie Espinoza,1,16,11,28
+Bastrop,Precinct 4024,Railroad Commissioner,,,Write-in,0,0,0,0
+Bastrop,Precinct 4025,Railroad Commissioner,,REP,Christi Craddick,15,377,74,466
+Bastrop,Precinct 4025,Railroad Commissioner,,DEM,Katherine Culbert,31,569,162,762
+Bastrop,Precinct 4025,Railroad Commissioner,,LIB,Hawk Dunlap,0,20,11,31
+Bastrop,Precinct 4025,Railroad Commissioner,,GRN,Eddie Espinoza,2,37,22,61
+Bastrop,Precinct 4025,Railroad Commissioner,,,Write-in,0,2,0,2
+Bastrop,Precinct 4026,Railroad Commissioner,,REP,Christi Craddick,7,516,119,642
+Bastrop,Precinct 4026,Railroad Commissioner,,DEM,Katherine Culbert,21,640,148,809
+Bastrop,Precinct 4026,Railroad Commissioner,,LIB,Hawk Dunlap,0,49,16,65
+Bastrop,Precinct 4026,Railroad Commissioner,,GRN,Eddie Espinoza,0,40,19,59
+Bastrop,Precinct 4026,Railroad Commissioner,,,Write-in,0,1,1,2
+Bastrop,Precinct 1001,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,5,166,38,209
+Bastrop,Precinct 1001,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,4,75,6,85
+Bastrop,Precinct 1002,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,14,281,45,340
+Bastrop,Precinct 1002,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,13,189,23,225
+Bastrop,Precinct 1003,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,22,1078,213,1313
+Bastrop,Precinct 1003,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,33,591,109,733
+Bastrop,Precinct 1004,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,18,587,106,711
+Bastrop,Precinct 1004,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,50,604,104,758
+Bastrop,Precinct 1005,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,19,410,83,512
+Bastrop,Precinct 1005,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,30,220,35,285
+Bastrop,Precinct 1006,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,28,548,237,813
+Bastrop,Precinct 1006,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,30,416,152,598
+Bastrop,Precinct 1007,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,33,1229,240,1502
+Bastrop,Precinct 1007,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,43,785,127,955
+Bastrop,Precinct 1008,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,16,550,103,669
+Bastrop,Precinct 1008,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,36,467,72,575
+Bastrop,Precinct 1009,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,16,564,163,743
+Bastrop,Precinct 1009,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,20,438,111,569
+Bastrop,Precinct 2010,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,11,188,34,233
+Bastrop,Precinct 2010,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,5,134,30,169
+Bastrop,Precinct 2011,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,24,836,208,1068
+Bastrop,Precinct 2011,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,30,641,142,813
+Bastrop,Precinct 2012,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,24,765,116,905
+Bastrop,Precinct 2012,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,22,298,63,383
+Bastrop,Precinct 2013,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,37,1110,264,1411
+Bastrop,Precinct 2013,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,47,583,117,747
+Bastrop,Precinct 2014,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,36,1125,341,1502
+Bastrop,Precinct 2014,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,46,496,121,663
+Bastrop,Precinct 2015,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,31,1114,202,1347
+Bastrop,Precinct 2015,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,41,590,140,771
+Bastrop,Precinct 2016,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,17,1283,280,1580
+Bastrop,Precinct 2016,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,29,350,102,481
+Bastrop,Precinct 3017,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,37,922,204,1163
+Bastrop,Precinct 3017,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,42,508,117,667
+Bastrop,Precinct 3018,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,12,570,267,849
+Bastrop,Precinct 3018,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,21,224,78,323
+Bastrop,Precinct 3019,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,10,647,153,810
+Bastrop,Precinct 3019,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,28,484,141,653
+Bastrop,Precinct 3020,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,16,548,162,726
+Bastrop,Precinct 3020,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,35,709,229,973
+Bastrop,Precinct 4021,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,28,755,205,988
+Bastrop,Precinct 4021,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,32,540,151,723
+Bastrop,Precinct 4022,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,17,827,143,987
+Bastrop,Precinct 4022,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,30,508,135,673
+Bastrop,Precinct 4023,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,14,486,217,717
+Bastrop,Precinct 4023,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,17,183,79,279
+Bastrop,Precinct 4024,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,10,558,122,690
+Bastrop,Precinct 4024,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,13,346,100,459
+Bastrop,Precinct 4025,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,17,394,93,504
+Bastrop,Precinct 4025,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,30,603,174,807
+Bastrop,Precinct 4026,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,8,539,135,682
+Bastrop,Precinct 4026,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,20,704,163,887
+Bastrop,Precinct 1001,"Justice, Supreme Court, Pl 4",,REP,John Devine,5,159,38,202
+Bastrop,Precinct 1001,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,4,82,7,93
+Bastrop,Precinct 1002,"Justice, Supreme Court, Pl 4",,REP,John Devine,12,270,44,326
+Bastrop,Precinct 1002,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,14,197,23,234
+Bastrop,Precinct 1003,"Justice, Supreme Court, Pl 4",,REP,John Devine,22,1065,211,1298
+Bastrop,Precinct 1003,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,32,601,108,741
+Bastrop,Precinct 1004,"Justice, Supreme Court, Pl 4",,REP,John Devine,16,572,105,693
+Bastrop,Precinct 1004,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,50,608,101,759
+Bastrop,Precinct 1005,"Justice, Supreme Court, Pl 4",,REP,John Devine,18,404,82,504
+Bastrop,Precinct 1005,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,32,226,37,295
+Bastrop,Precinct 1006,"Justice, Supreme Court, Pl 4",,REP,John Devine,28,544,226,798
+Bastrop,Precinct 1006,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,30,426,159,615
+Bastrop,Precinct 1007,"Justice, Supreme Court, Pl 4",,REP,John Devine,33,1222,237,1492
+Bastrop,Precinct 1007,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,43,793,130,966
+Bastrop,Precinct 1008,"Justice, Supreme Court, Pl 4",,REP,John Devine,16,540,99,655
+Bastrop,Precinct 1008,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,36,472,78,586
+Bastrop,Precinct 1009,"Justice, Supreme Court, Pl 4",,REP,John Devine,16,557,150,723
+Bastrop,Precinct 1009,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,19,442,123,584
+Bastrop,Precinct 2010,"Justice, Supreme Court, Pl 4",,REP,John Devine,9,183,33,225
+Bastrop,Precinct 2010,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,7,135,33,175
+Bastrop,Precinct 2011,"Justice, Supreme Court, Pl 4",,REP,John Devine,24,822,208,1054
+Bastrop,Precinct 2011,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,30,652,140,822
+Bastrop,Precinct 2012,"Justice, Supreme Court, Pl 4",,REP,John Devine,23,756,116,895
+Bastrop,Precinct 2012,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,22,306,63,391
+Bastrop,Precinct 2013,"Justice, Supreme Court, Pl 4",,REP,John Devine,35,1079,255,1369
+Bastrop,Precinct 2013,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,48,598,123,769
+Bastrop,Precinct 2014,"Justice, Supreme Court, Pl 4",,REP,John Devine,35,1104,332,1471
+Bastrop,Precinct 2014,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,46,508,122,676
+Bastrop,Precinct 2015,"Justice, Supreme Court, Pl 4",,REP,John Devine,30,1084,198,1312
+Bastrop,Precinct 2015,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,42,609,143,794
+Bastrop,Precinct 2016,"Justice, Supreme Court, Pl 4",,REP,John Devine,16,1258,269,1543
+Bastrop,Precinct 2016,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,29,365,110,504
+Bastrop,Precinct 3017,"Justice, Supreme Court, Pl 4",,REP,John Devine,34,910,202,1146
+Bastrop,Precinct 3017,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,44,508,115,667
+Bastrop,Precinct 3018,"Justice, Supreme Court, Pl 4",,REP,John Devine,12,563,259,834
+Bastrop,Precinct 3018,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,21,228,82,331
+Bastrop,Precinct 3019,"Justice, Supreme Court, Pl 4",,REP,John Devine,9,628,154,791
+Bastrop,Precinct 3019,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,28,504,142,674
+Bastrop,Precinct 3020,"Justice, Supreme Court, Pl 4",,REP,John Devine,15,551,163,729
+Bastrop,Precinct 3020,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,36,701,231,968
+Bastrop,Precinct 4021,"Justice, Supreme Court, Pl 4",,REP,John Devine,27,738,208,973
+Bastrop,Precinct 4021,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,32,555,143,730
+Bastrop,Precinct 4022,"Justice, Supreme Court, Pl 4",,REP,John Devine,16,806,139,961
+Bastrop,Precinct 4022,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,31,524,139,694
+Bastrop,Precinct 4023,"Justice, Supreme Court, Pl 4",,REP,John Devine,14,480,204,698
+Bastrop,Precinct 4023,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,19,188,91,298
+Bastrop,Precinct 4024,"Justice, Supreme Court, Pl 4",,REP,John Devine,9,557,114,680
+Bastrop,Precinct 4024,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,13,344,102,459
+Bastrop,Precinct 4025,"Justice, Supreme Court, Pl 4",,REP,John Devine,16,379,90,485
+Bastrop,Precinct 4025,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,30,614,174,818
+Bastrop,Precinct 4026,"Justice, Supreme Court, Pl 4",,REP,John Devine,7,529,126,662
+Bastrop,Precinct 4026,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,21,712,169,902
+Bastrop,Precinct 1001,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,5,159,35,199
+Bastrop,Precinct 1001,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,4,73,6,83
+Bastrop,Precinct 1001,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,0,8,2,10
+Bastrop,Precinct 1002,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,12,266,45,323
+Bastrop,Precinct 1002,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,14,184,22,220
+Bastrop,Precinct 1002,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,0,17,1,18
+Bastrop,Precinct 1003,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,21,1042,201,1264
+Bastrop,Precinct 1003,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,33,584,101,718
+Bastrop,Precinct 1003,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,1,40,17,58
+Bastrop,Precinct 1004,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,20,555,97,672
+Bastrop,Precinct 1004,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,46,590,100,736
+Bastrop,Precinct 1004,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,0,32,11,43
+Bastrop,Precinct 1005,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,18,399,76,493
+Bastrop,Precinct 1005,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,29,215,36,280
+Bastrop,Precinct 1005,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,2,19,5,26
+Bastrop,Precinct 1006,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,28,521,205,754
+Bastrop,Precinct 1006,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,29,406,148,583
+Bastrop,Precinct 1006,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,1,43,35,79
+Bastrop,Precinct 1007,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,37,1191,223,1451
+Bastrop,Precinct 1007,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,39,766,112,917
+Bastrop,Precinct 1007,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,1,60,31,92
+Bastrop,Precinct 1008,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,14,523,96,633
+Bastrop,Precinct 1008,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,38,450,71,559
+Bastrop,Precinct 1008,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,0,36,8,44
+Bastrop,Precinct 1009,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,16,542,146,704
+Bastrop,Precinct 1009,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,18,432,107,557
+Bastrop,Precinct 1009,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,1,31,21,53
+Bastrop,Precinct 2010,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,10,184,34,228
+Bastrop,Precinct 2010,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,6,125,25,156
+Bastrop,Precinct 2010,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,0,9,6,15
+Bastrop,Precinct 2011,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,23,795,189,1007
+Bastrop,Precinct 2011,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,31,622,125,778
+Bastrop,Precinct 2011,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,0,58,30,88
+Bastrop,Precinct 2012,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,23,756,109,888
+Bastrop,Precinct 2012,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,23,292,61,376
+Bastrop,Precinct 2012,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,0,18,10,28
+Bastrop,Precinct 2013,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,38,1050,248,1336
+Bastrop,Precinct 2013,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,46,577,113,736
+Bastrop,Precinct 2013,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,0,53,16,69
+Bastrop,Precinct 2014,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,34,1081,316,1431
+Bastrop,Precinct 2014,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,46,487,117,650
+Bastrop,Precinct 2014,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,1,40,25,66
+Bastrop,Precinct 2015,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,28,1072,195,1295
+Bastrop,Precinct 2015,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,42,573,135,750
+Bastrop,Precinct 2015,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,1,51,13,65
+Bastrop,Precinct 2016,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,19,1240,266,1525
+Bastrop,Precinct 2016,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,24,345,102,471
+Bastrop,Precinct 2016,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,2,43,13,58
+Bastrop,Precinct 3017,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,34,905,180,1119
+Bastrop,Precinct 3017,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,44,492,118,654
+Bastrop,Precinct 3017,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,0,31,19,50
+Bastrop,Precinct 3018,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,12,551,243,806
+Bastrop,Precinct 3018,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,21,217,77,315
+Bastrop,Precinct 3018,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,0,24,22,46
+Bastrop,Precinct 3019,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,9,606,148,763
+Bastrop,Precinct 3019,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,28,487,127,642
+Bastrop,Precinct 3019,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,0,39,22,61
+Bastrop,Precinct 3020,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,15,535,146,696
+Bastrop,Precinct 3020,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,36,683,213,932
+Bastrop,Precinct 3020,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,0,46,30,76
+Bastrop,Precinct 4021,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,28,711,195,934
+Bastrop,Precinct 4021,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,30,538,140,708
+Bastrop,Precinct 4021,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,2,44,18,64
+Bastrop,Precinct 4022,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,18,797,134,949
+Bastrop,Precinct 4022,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,29,508,126,663
+Bastrop,Precinct 4022,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,0,28,16,44
+Bastrop,Precinct 4023,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,15,463,201,679
+Bastrop,Precinct 4023,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,17,183,79,279
+Bastrop,Precinct 4023,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,1,21,16,38
+Bastrop,Precinct 4024,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,10,534,113,657
+Bastrop,Precinct 4024,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,13,335,96,444
+Bastrop,Precinct 4024,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,0,27,7,34
+Bastrop,Precinct 4025,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,15,358,81,454
+Bastrop,Precinct 4025,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,32,606,166,804
+Bastrop,Precinct 4025,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,0,29,19,48
+Bastrop,Precinct 4026,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,6,510,120,636
+Bastrop,Precinct 4026,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,21,687,154,862
+Bastrop,Precinct 4026,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,0,42,21,63
+Bastrop,Precinct 1001,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,3,156,35,194
+Bastrop,Precinct 1001,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,5,80,7,92
+Bastrop,Precinct 1002,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,13,268,45,326
+Bastrop,Precinct 1002,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,13,198,23,234
+Bastrop,Precinct 1003,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,21,1067,213,1301
+Bastrop,Precinct 1003,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,33,588,105,726
+Bastrop,Precinct 1004,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,20,553,97,670
+Bastrop,Precinct 1004,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,48,615,109,772
+Bastrop,Precinct 1005,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,17,410,79,506
+Bastrop,Precinct 1005,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,30,221,38,289
+Bastrop,Precinct 1006,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,27,550,220,797
+Bastrop,Precinct 1006,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,31,418,166,615
+Bastrop,Precinct 1007,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,33,1220,242,1495
+Bastrop,Precinct 1007,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,43,789,121,953
+Bastrop,Precinct 1008,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,14,541,103,658
+Bastrop,Precinct 1008,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,37,465,73,575
+Bastrop,Precinct 1009,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,16,563,153,732
+Bastrop,Precinct 1009,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,19,439,120,578
+Bastrop,Precinct 2010,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,10,184,37,231
+Bastrop,Precinct 2010,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,6,133,28,167
+Bastrop,Precinct 2011,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,24,828,202,1054
+Bastrop,Precinct 2011,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,29,640,143,812
+Bastrop,Precinct 2012,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,23,768,114,905
+Bastrop,Precinct 2012,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,23,295,65,383
+Bastrop,Precinct 2013,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,35,1082,260,1377
+Bastrop,Precinct 2013,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,48,598,119,765
+Bastrop,Precinct 2014,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,34,1099,327,1460
+Bastrop,Precinct 2014,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,45,505,130,680
+Bastrop,Precinct 2015,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,30,1082,199,1311
+Bastrop,Precinct 2015,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,42,608,140,790
+Bastrop,Precinct 2016,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,18,1261,268,1547
+Bastrop,Precinct 2016,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,27,357,109,493
+Bastrop,Precinct 3017,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,33,910,194,1137
+Bastrop,Precinct 3017,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,44,516,122,682
+Bastrop,Precinct 3018,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,11,564,262,837
+Bastrop,Precinct 3018,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,20,226,79,325
+Bastrop,Precinct 3019,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,9,625,157,791
+Bastrop,Precinct 3019,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,28,498,140,666
+Bastrop,Precinct 3020,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,15,550,161,726
+Bastrop,Precinct 3020,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,35,713,220,968
+Bastrop,Precinct 4021,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,28,738,196,962
+Bastrop,Precinct 4021,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,32,553,154,739
+Bastrop,Precinct 4022,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,18,805,137,960
+Bastrop,Precinct 4022,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,29,528,136,693
+Bastrop,Precinct 4023,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,15,475,206,696
+Bastrop,Precinct 4023,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,18,191,88,297
+Bastrop,Precinct 4024,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,9,550,117,676
+Bastrop,Precinct 4024,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,13,346,101,460
+Bastrop,Precinct 4025,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,16,371,81,468
+Bastrop,Precinct 4025,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,30,616,181,827
+Bastrop,Precinct 4026,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,7,538,126,671
+Bastrop,Precinct 4026,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,21,706,166,893
+Bastrop,Precinct 1001,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,4,159,36,199
+Bastrop,Precinct 1001,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,4,75,6,85
+Bastrop,Precinct 1002,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,12,272,46,330
+Bastrop,Precinct 1002,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,13,194,21,228
+Bastrop,Precinct 1003,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,22,1060,216,1298
+Bastrop,Precinct 1003,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,33,594,105,732
+Bastrop,Precinct 1004,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,18,570,100,688
+Bastrop,Precinct 1004,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,48,596,104,748
+Bastrop,Precinct 1005,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,15,407,81,503
+Bastrop,Precinct 1005,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,31,223,37,291
+Bastrop,Precinct 1006,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,27,548,228,803
+Bastrop,Precinct 1006,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,31,415,158,604
+Bastrop,Precinct 1007,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,35,1223,242,1500
+Bastrop,Precinct 1007,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,41,783,120,944
+Bastrop,Precinct 1008,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,14,533,104,651
+Bastrop,Precinct 1008,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,37,473,72,582
+Bastrop,Precinct 1009,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,14,562,160,736
+Bastrop,Precinct 1009,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,19,433,111,563
+Bastrop,Precinct 2010,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,9,181,35,225
+Bastrop,Precinct 2010,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,7,134,30,171
+Bastrop,Precinct 2011,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,24,820,207,1051
+Bastrop,Precinct 2011,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,30,640,137,807
+Bastrop,Precinct 2012,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,24,765,114,903
+Bastrop,Precinct 2012,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,20,295,64,379
+Bastrop,Precinct 2013,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,35,1083,254,1372
+Bastrop,Precinct 2013,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,48,595,123,766
+Bastrop,Precinct 2014,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,35,1100,334,1469
+Bastrop,Precinct 2014,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,44,497,117,658
+Bastrop,Precinct 2015,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,31,1084,196,1311
+Bastrop,Precinct 2015,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,39,599,139,777
+Bastrop,Precinct 2016,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,17,1265,268,1550
+Bastrop,Precinct 2016,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,29,354,112,495
+Bastrop,Precinct 3017,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,36,917,202,1155
+Bastrop,Precinct 3017,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,43,504,116,663
+Bastrop,Precinct 3018,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,13,567,260,840
+Bastrop,Precinct 3018,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,20,221,80,321
+Bastrop,Precinct 3019,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,9,626,158,793
+Bastrop,Precinct 3019,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,27,497,138,662
+Bastrop,Precinct 3020,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,13,552,165,730
+Bastrop,Precinct 3020,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,37,702,218,957
+Bastrop,Precinct 4021,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,25,746,201,972
+Bastrop,Precinct 4021,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,32,537,150,719
+Bastrop,Precinct 4022,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,17,818,142,977
+Bastrop,Precinct 4022,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,29,512,130,671
+Bastrop,Precinct 4023,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,15,480,213,708
+Bastrop,Precinct 4023,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,17,184,79,280
+Bastrop,Precinct 4024,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,9,551,115,675
+Bastrop,Precinct 4024,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,13,342,102,457
+Bastrop,Precinct 4025,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,14,381,85,480
+Bastrop,Precinct 4025,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,31,604,179,814
+Bastrop,Precinct 4026,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,7,524,127,658
+Bastrop,Precinct 4026,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,21,711,166,898
+Bastrop,Precinct 1001,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,5,159,36,200
+Bastrop,Precinct 1001,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,4,74,6,84
+Bastrop,Precinct 1002,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,12,283,46,341
+Bastrop,Precinct 1002,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,14,185,22,221
+Bastrop,Precinct 1003,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,23,1074,219,1316
+Bastrop,Precinct 1003,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,32,576,99,707
+Bastrop,Precinct 1004,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,18,579,103,700
+Bastrop,Precinct 1004,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,49,590,103,742
+Bastrop,Precinct 1005,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,18,411,80,509
+Bastrop,Precinct 1005,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,29,220,35,284
+Bastrop,Precinct 1006,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,28,550,237,815
+Bastrop,Precinct 1006,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,28,408,146,582
+Bastrop,Precinct 1007,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,34,1239,245,1518
+Bastrop,Precinct 1007,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,43,764,116,923
+Bastrop,Precinct 1008,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,16,538,103,657
+Bastrop,Precinct 1008,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,35,467,71,573
+Bastrop,Precinct 1009,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,15,566,163,744
+Bastrop,Precinct 1009,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,20,431,108,559
+Bastrop,Precinct 2010,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,9,185,36,230
+Bastrop,Precinct 2010,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,6,131,29,166
+Bastrop,Precinct 2011,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,24,840,206,1070
+Bastrop,Precinct 2011,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,30,621,136,787
+Bastrop,Precinct 2012,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,24,769,116,909
+Bastrop,Precinct 2012,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,21,291,60,372
+Bastrop,Precinct 2013,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,38,1084,259,1381
+Bastrop,Precinct 2013,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,46,588,115,749
+Bastrop,Precinct 2014,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,36,1113,333,1482
+Bastrop,Precinct 2014,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,43,486,114,643
+Bastrop,Precinct 2015,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,30,1106,201,1337
+Bastrop,Precinct 2015,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,40,577,134,751
+Bastrop,Precinct 2016,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,19,1274,269,1562
+Bastrop,Precinct 2016,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,27,342,105,474
+Bastrop,Precinct 3017,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,36,916,203,1155
+Bastrop,Precinct 3017,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,42,497,112,651
+Bastrop,Precinct 3018,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,13,570,263,846
+Bastrop,Precinct 3018,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,20,215,78,313
+Bastrop,Precinct 3019,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,9,636,159,804
+Bastrop,Precinct 3019,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,28,478,133,639
+Bastrop,Precinct 3020,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,15,563,168,746
+Bastrop,Precinct 3020,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,37,688,215,940
+Bastrop,Precinct 4021,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,27,746,205,978
+Bastrop,Precinct 4021,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,32,535,142,709
+Bastrop,Precinct 4022,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,18,826,139,983
+Bastrop,Precinct 4022,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,29,504,134,667
+Bastrop,Precinct 4023,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,15,485,218,718
+Bastrop,Precinct 4023,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,17,176,76,269
+Bastrop,Precinct 4024,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,9,555,119,683
+Bastrop,Precinct 4024,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,13,333,96,442
+Bastrop,Precinct 4025,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,15,387,90,492
+Bastrop,Precinct 4025,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,31,597,172,800
+Bastrop,Precinct 4026,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,7,543,126,676
+Bastrop,Precinct 4026,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,21,690,163,874
+Bastrop,Precinct 1001,State Representative,17,REP,Stan Gerdes,4,153,38,195
+Bastrop,Precinct 1001,State Representative,17,DEM,Desiree Venable,5,80,6,91
+Bastrop,Precinct 1002,State Representative,17,REP,Stan Gerdes,15,280,47,342
+Bastrop,Precinct 1002,State Representative,17,DEM,Desiree Venable,12,189,22,223
+Bastrop,Precinct 1003,State Representative,17,REP,Stan Gerdes,24,1063,213,1300
+Bastrop,Precinct 1003,State Representative,17,DEM,Desiree Venable,31,609,111,751
+Bastrop,Precinct 1004,State Representative,17,REP,Stan Gerdes,25,573,100,698
+Bastrop,Precinct 1004,State Representative,17,DEM,Desiree Venable,44,604,111,759
+Bastrop,Precinct 1005,State Representative,17,REP,Stan Gerdes,19,407,82,508
+Bastrop,Precinct 1005,State Representative,17,DEM,Desiree Venable,31,230,36,297
+Bastrop,Precinct 1006,State Representative,17,REP,Stan Gerdes,27,537,217,781
+Bastrop,Precinct 1006,State Representative,17,DEM,Desiree Venable,27,406,165,598
+Bastrop,Precinct 1007,State Representative,17,REP,Stan Gerdes,36,1202,233,1471
+Bastrop,Precinct 1007,State Representative,17,DEM,Desiree Venable,40,791,134,965
+Bastrop,Precinct 1008,State Representative,17,REP,Stan Gerdes,16,526,99,641
+Bastrop,Precinct 1008,State Representative,17,DEM,Desiree Venable,36,473,77,586
+Bastrop,Precinct 1009,State Representative,17,REP,Stan Gerdes,16,559,149,724
+Bastrop,Precinct 1009,State Representative,17,DEM,Desiree Venable,20,440,125,585
+Bastrop,Precinct 2010,State Representative,17,REP,Stan Gerdes,11,186,33,230
+Bastrop,Precinct 2010,State Representative,17,DEM,Desiree Venable,5,131,34,170
+Bastrop,Precinct 2011,State Representative,17,REP,Stan Gerdes,24,812,200,1036
+Bastrop,Precinct 2011,State Representative,17,DEM,Desiree Venable,29,625,148,802
+Bastrop,Precinct 2012,State Representative,17,REP,Stan Gerdes,26,762,117,905
+Bastrop,Precinct 2012,State Representative,17,DEM,Desiree Venable,21,306,61,388
+Bastrop,Precinct 2013,State Representative,17,REP,Stan Gerdes,38,1081,259,1378
+Bastrop,Precinct 2013,State Representative,17,DEM,Desiree Venable,45,588,122,755
+Bastrop,Precinct 2014,State Representative,17,REP,Stan Gerdes,36,1100,332,1468
+Bastrop,Precinct 2014,State Representative,17,DEM,Desiree Venable,45,502,122,669
+Bastrop,Precinct 2015,State Representative,17,REP,Stan Gerdes,27,1075,201,1303
+Bastrop,Precinct 2015,State Representative,17,DEM,Desiree Venable,46,621,140,807
+Bastrop,Precinct 2016,State Representative,17,REP,Stan Gerdes,18,1246,275,1539
+Bastrop,Precinct 2016,State Representative,17,DEM,Desiree Venable,28,376,105,509
+Bastrop,Precinct 3017,State Representative,17,REP,Stan Gerdes,36,923,198,1157
+Bastrop,Precinct 3017,State Representative,17,DEM,Desiree Venable,42,504,124,670
+Bastrop,Precinct 3018,State Representative,17,REP,Stan Gerdes,12,557,271,840
+Bastrop,Precinct 3018,State Representative,17,DEM,Desiree Venable,20,230,75,325
+Bastrop,Precinct 3019,State Representative,17,REP,Stan Gerdes,9,632,149,790
+Bastrop,Precinct 3019,State Representative,17,DEM,Desiree Venable,27,494,142,663
+Bastrop,Precinct 3020,State Representative,17,REP,Stan Gerdes,15,551,154,720
+Bastrop,Precinct 3020,State Representative,17,DEM,Desiree Venable,37,693,232,962
+Bastrop,Precinct 4021,State Representative,17,REP,Stan Gerdes,28,734,202,964
+Bastrop,Precinct 4021,State Representative,17,DEM,Desiree Venable,31,552,151,734
+Bastrop,Precinct 4022,State Representative,17,REP,Stan Gerdes,17,820,134,971
+Bastrop,Precinct 4022,State Representative,17,DEM,Desiree Venable,30,506,142,678
+Bastrop,Precinct 4023,State Representative,17,REP,Stan Gerdes,15,471,204,690
+Bastrop,Precinct 4023,State Representative,17,DEM,Desiree Venable,18,189,91,298
+Bastrop,Precinct 4024,State Representative,17,REP,Stan Gerdes,10,545,112,667
+Bastrop,Precinct 4024,State Representative,17,DEM,Desiree Venable,13,348,109,470
+Bastrop,Precinct 4025,State Representative,17,REP,Stan Gerdes,15,371,83,469
+Bastrop,Precinct 4025,State Representative,17,DEM,Desiree Venable,31,608,187,826
+Bastrop,Precinct 4026,State Representative,17,REP,Stan Gerdes,7,534,124,665
+Bastrop,Precinct 4026,State Representative,17,DEM,Desiree Venable,20,701,172,893
+Bastrop,Precinct 1001,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,5,158,35,198
+Bastrop,Precinct 1001,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,4,78,7,89
+Bastrop,Precinct 1002,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,12,270,46,328
+Bastrop,Precinct 1002,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,14,195,21,230
+Bastrop,Precinct 1003,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,22,1059,214,1295
+Bastrop,Precinct 1003,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,33,592,101,726
+Bastrop,Precinct 1004,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,19,565,101,685
+Bastrop,Precinct 1004,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,49,599,105,753
+Bastrop,Precinct 1005,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,15,403,80,498
+Bastrop,Precinct 1005,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,32,224,37,293
+Bastrop,Precinct 1006,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,27,547,229,803
+Bastrop,Precinct 1006,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,31,405,156,592
+Bastrop,Precinct 1007,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,31,1194,235,1460
+Bastrop,Precinct 1007,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,45,793,126,964
+Bastrop,Precinct 1008,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,16,526,100,642
+Bastrop,Precinct 1008,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,35,474,75,584
+Bastrop,Precinct 1009,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,16,551,155,722
+Bastrop,Precinct 1009,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,18,441,116,575
+Bastrop,Precinct 2010,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,10,183,35,228
+Bastrop,Precinct 2010,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,6,132,30,168
+Bastrop,Precinct 2011,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,24,802,198,1024
+Bastrop,Precinct 2011,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,29,631,144,804
+Bastrop,Precinct 2012,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,23,760,112,895
+Bastrop,Precinct 2012,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,23,296,64,383
+Bastrop,Precinct 2013,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,36,1061,258,1355
+Bastrop,Precinct 2013,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,48,606,116,770
+Bastrop,Precinct 2014,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,33,1101,325,1459
+Bastrop,Precinct 2014,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,45,497,123,665
+Bastrop,Precinct 2015,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,32,1085,201,1318
+Bastrop,Precinct 2015,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,41,594,133,768
+Bastrop,Precinct 2016,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,20,1249,266,1535
+Bastrop,Precinct 2016,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,25,362,108,495
+Bastrop,Precinct 3017,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,37,909,191,1137
+Bastrop,Precinct 3017,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,41,507,126,674
+Bastrop,Precinct 3018,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,12,564,256,832
+Bastrop,Precinct 3018,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,21,222,83,326
+Bastrop,Precinct 3019,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,9,624,155,788
+Bastrop,Precinct 3019,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,27,500,131,658
+Bastrop,Precinct 3020,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,14,557,153,724
+Bastrop,Precinct 3020,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,37,687,228,952
+Bastrop,Precinct 4021,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,27,737,197,961
+Bastrop,Precinct 4021,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,31,546,152,729
+Bastrop,Precinct 4022,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,16,815,133,964
+Bastrop,Precinct 4022,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,31,509,137,677
+Bastrop,Precinct 4023,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,15,471,208,694
+Bastrop,Precinct 4023,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,18,189,83,290
+Bastrop,Precinct 4024,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,10,548,113,671
+Bastrop,Precinct 4024,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,13,342,103,458
+Bastrop,Precinct 4025,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,16,374,82,472
+Bastrop,Precinct 4025,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,30,615,177,822
+Bastrop,Precinct 4026,"Justice, 3rd Ct of App Dist, Pl 2",,REP,John Messinger,7,532,119,658
+Bastrop,Precinct 4026,"Justice, 3rd Ct of App Dist, Pl 2",,DEM,Maggie Ellis,21,704,169,894
+Bastrop,Precinct 1001,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,7,128,24,159
+Bastrop,Precinct 1002,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,12,261,31,304
+Bastrop,Precinct 1003,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,33,879,174,1086
+Bastrop,Precinct 1004,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,49,755,146,950
+Bastrop,Precinct 1005,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,35,346,62,443
+Bastrop,Precinct 1006,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,34,575,251,860
+Bastrop,Precinct 1007,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,48,1092,209,1349
+Bastrop,Precinct 1008,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,39,598,105,742
+Bastrop,Precinct 1009,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,19,567,179,765
+Bastrop,Precinct 2010,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,7,182,45,234
+Bastrop,Precinct 2011,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,32,890,222,1144
+Bastrop,Precinct 2012,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,21,505,110,636
+Bastrop,Precinct 2013,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,51,907,211,1169
+Bastrop,Precinct 2014,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,54,764,224,1042
+Bastrop,Precinct 2015,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,45,874,211,1130
+Bastrop,Precinct 2016,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,31,658,200,889
+Bastrop,Precinct 3017,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,47,746,178,971
+Bastrop,Precinct 3018,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,23,362,186,571
+Bastrop,Precinct 3019,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,30,704,199,933
+Bastrop,Precinct 3020,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,38,838,276,1152
+Bastrop,Precinct 4021,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,33,723,221,977
+Bastrop,Precinct 4022,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,32,740,190,962
+Bastrop,Precinct 4023,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,20,312,174,506
+Bastrop,Precinct 4024,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,14,479,140,633
+Bastrop,Precinct 4025,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,30,709,200,939
+Bastrop,Precinct 4026,"Justice, 3rd Ct of App Dist, Pl 3",,DEM,Chari Kelly,24,867,216,1107
+Bastrop,Precinct 1001,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,7,128,23,158
+Bastrop,Precinct 1002,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,12,264,30,306
+Bastrop,Precinct 1003,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,34,876,174,1084
+Bastrop,Precinct 1004,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,50,757,143,950
+Bastrop,Precinct 1005,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,33,347,64,444
+Bastrop,Precinct 1006,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,34,568,248,850
+Bastrop,Precinct 1007,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,50,1092,209,1351
+Bastrop,Precinct 1008,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,39,592,107,738
+Bastrop,Precinct 1009,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,18,572,179,769
+Bastrop,Precinct 2010,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,7,185,45,237
+Bastrop,Precinct 2011,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,32,883,221,1136
+Bastrop,Precinct 2012,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,23,506,111,640
+Bastrop,Precinct 2013,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,50,900,218,1168
+Bastrop,Precinct 2014,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,58,760,215,1033
+Bastrop,Precinct 2015,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,44,865,210,1119
+Bastrop,Precinct 2016,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,32,660,200,892
+Bastrop,Precinct 3017,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,49,740,184,973
+Bastrop,Precinct 3018,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,23,361,184,568
+Bastrop,Precinct 3019,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,30,708,197,935
+Bastrop,Precinct 3020,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,39,841,274,1154
+Bastrop,Precinct 4021,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,31,722,218,971
+Bastrop,Precinct 4022,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,33,738,186,957
+Bastrop,Precinct 4023,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,20,312,171,503
+Bastrop,Precinct 4024,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,14,475,139,628
+Bastrop,Precinct 4025,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,30,707,203,940
+Bastrop,Precinct 4026,"Justice, 3rd Ct of App Dist, Pl 5",,DEM,Karin Crump,23,863,214,1100
+Bastrop,Precinct 1001,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,7,126,24,157
+Bastrop,Precinct 1002,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,12,262,31,305
+Bastrop,Precinct 1003,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,33,881,176,1090
+Bastrop,Precinct 1004,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,50,751,147,948
+Bastrop,Precinct 1005,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,35,350,64,449
+Bastrop,Precinct 1006,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,34,562,252,848
+Bastrop,Precinct 1007,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,49,1100,211,1360
+Bastrop,Precinct 1008,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,38,598,108,744
+Bastrop,Precinct 1009,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,18,577,179,774
+Bastrop,Precinct 2010,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,7,181,45,233
+Bastrop,Precinct 2011,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,32,888,221,1141
+Bastrop,Precinct 2012,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,23,506,111,640
+Bastrop,Precinct 2013,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,51,898,210,1159
+Bastrop,Precinct 2014,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,56,754,216,1026
+Bastrop,Precinct 2015,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,45,871,211,1127
+Bastrop,Precinct 2016,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,32,654,199,885
+Bastrop,Precinct 3017,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,46,752,181,979
+Bastrop,Precinct 3018,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,23,366,185,574
+Bastrop,Precinct 3019,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,30,713,205,948
+Bastrop,Precinct 3020,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,41,856,280,1177
+Bastrop,Precinct 4021,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,32,721,219,972
+Bastrop,Precinct 4022,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,34,740,188,962
+Bastrop,Precinct 4023,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,20,311,168,499
+Bastrop,Precinct 4024,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,14,472,137,623
+Bastrop,Precinct 4025,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,31,714,204,949
+Bastrop,Precinct 4026,"Justice, 3rd Ct of App Dist, Pl 6",,DEM,Gisela D. Triana,23,859,218,1100
+Bastrop,Precinct 1001,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,5,178,37,220
+Bastrop,Precinct 1002,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,19,337,51,407
+Bastrop,Precinct 1003,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,22,1203,243,1468
+Bastrop,Precinct 1004,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,27,696,136,859
+Bastrop,Precinct 1005,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,21,477,89,587
+Bastrop,Precinct 1006,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,31,636,278,945
+Bastrop,Precinct 1007,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,35,1424,291,1750
+Bastrop,Precinct 1008,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,17,684,123,824
+Bastrop,Precinct 1009,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,17,664,205,886
+Bastrop,Precinct 2010,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,9,225,48,282
+Bastrop,Precinct 2011,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,24,998,262,1284
+Bastrop,Precinct 2012,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,24,819,148,991
+Bastrop,Precinct 2013,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,44,1237,306,1587
+Bastrop,Precinct 2014,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,44,1198,359,1601
+Bastrop,Precinct 2015,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,38,1207,245,1490
+Bastrop,Precinct 2016,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,23,1294,304,1621
+Bastrop,Precinct 3017,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,43,1048,231,1322
+Bastrop,Precinct 3018,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,18,602,279,899
+Bastrop,Precinct 3019,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,13,765,207,985
+Bastrop,Precinct 3020,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,16,778,255,1049
+Bastrop,Precinct 4021,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,33,840,238,1111
+Bastrop,Precinct 4022,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,19,919,189,1127
+Bastrop,Precinct 4023,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,21,520,242,783
+Bastrop,Precinct 4024,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,11,621,155,787
+Bastrop,Precinct 4025,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,23,515,141,679
+Bastrop,Precinct 4026,"Dist Judge, 21st Judicial Dist",,REP,Carson Campbell,9,713,185,907
+Bastrop,Precinct 1001,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,5,175,38,218
+Bastrop,Precinct 1002,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,17,334,53,404
+Bastrop,Precinct 1003,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,21,1186,241,1448
+Bastrop,Precinct 1004,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,25,679,133,837
+Bastrop,Precinct 1005,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,20,482,94,596
+Bastrop,Precinct 1006,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,31,617,267,915
+Bastrop,Precinct 1007,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,33,1422,287,1742
+Bastrop,Precinct 1008,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,18,679,125,822
+Bastrop,Precinct 1009,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,16,654,198,868
+Bastrop,Precinct 2010,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,8,214,48,270
+Bastrop,Precinct 2011,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,21,1004,254,1279
+Bastrop,Precinct 2012,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,22,832,143,997
+Bastrop,Precinct 2013,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,41,1212,300,1553
+Bastrop,Precinct 2014,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,42,1181,350,1573
+Bastrop,Precinct 2015,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,38,1178,238,1454
+Bastrop,Precinct 2016,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,23,1319,297,1639
+Bastrop,Precinct 3017,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,46,1041,228,1315
+Bastrop,Precinct 3018,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,18,602,287,907
+Bastrop,Precinct 3019,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,13,749,208,970
+Bastrop,Precinct 3020,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,16,772,248,1036
+Bastrop,Precinct 4021,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,33,829,234,1096
+Bastrop,Precinct 4022,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,20,906,183,1109
+Bastrop,Precinct 4023,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,19,511,237,767
+Bastrop,Precinct 4024,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,11,616,153,780
+Bastrop,Precinct 4025,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,22,509,140,671
+Bastrop,Precinct 4026,"Dist Judge, 335th Judicial Dist",,REP,John D. Winkelmann,8,715,179,902
+Bastrop,Precinct 1001,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,7,140,26,173
+Bastrop,Precinct 1002,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,13,281,31,325
+Bastrop,Precinct 1003,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,32,943,187,1162
+Bastrop,Precinct 1004,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,51,805,148,1004
+Bastrop,Precinct 1005,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,34,387,74,495
+Bastrop,Precinct 1006,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,38,592,260,890
+Bastrop,Precinct 1007,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,50,1155,217,1422
+Bastrop,Precinct 1008,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,42,611,109,762
+Bastrop,Precinct 1009,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,20,617,182,819
+Bastrop,Precinct 2010,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,8,200,50,258
+Bastrop,Precinct 2011,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,31,928,230,1189
+Bastrop,Precinct 2012,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,25,573,114,712
+Bastrop,Precinct 2013,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,49,946,228,1223
+Bastrop,Precinct 2014,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,57,847,239,1143
+Bastrop,Precinct 2015,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,47,987,220,1254
+Bastrop,Precinct 2016,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,30,758,218,1006
+Bastrop,Precinct 3017,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,49,845,197,1091
+Bastrop,Precinct 3018,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,22,438,208,668
+Bastrop,Precinct 3019,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,30,720,208,958
+Bastrop,Precinct 3020,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,40,858,282,1180
+Bastrop,Precinct 4021,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,33,734,228,995
+Bastrop,Precinct 4022,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,31,732,187,950
+Bastrop,Precinct 4023,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,22,347,182,551
+Bastrop,Precinct 4024,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,14,497,143,654
+Bastrop,Precinct 4025,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,28,708,204,940
+Bastrop,Precinct 4026,"Dist Judge, 423rd Judicial Dist",,DEM,Chris Duggan,21,872,207,1100
+Bastrop,Precinct 1001,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,5,174,36,215
+Bastrop,Precinct 1002,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,17,335,52,404
+Bastrop,Precinct 1003,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,21,1198,235,1454
+Bastrop,Precinct 1004,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,28,689,133,850
+Bastrop,Precinct 1005,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,21,472,95,588
+Bastrop,Precinct 1006,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,31,619,272,922
+Bastrop,Precinct 1007,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,33,1420,284,1737
+Bastrop,Precinct 1008,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,18,678,128,824
+Bastrop,Precinct 1009,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,17,653,204,874
+Bastrop,Precinct 2010,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,9,219,47,275
+Bastrop,Precinct 2011,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,24,1003,260,1287
+Bastrop,Precinct 2012,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,22,819,144,985
+Bastrop,Precinct 2013,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,42,1224,303,1569
+Bastrop,Precinct 2014,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,42,1193,360,1595
+Bastrop,Precinct 2015,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,39,1186,246,1471
+Bastrop,Precinct 2016,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,23,1293,295,1611
+Bastrop,Precinct 3017,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,46,1030,223,1299
+Bastrop,Precinct 3018,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,19,597,284,900
+Bastrop,Precinct 3019,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,13,748,208,969
+Bastrop,Precinct 3020,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,18,780,244,1042
+Bastrop,Precinct 4021,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,33,836,232,1101
+Bastrop,Precinct 4022,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,19,909,189,1117
+Bastrop,Precinct 4023,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,21,514,238,773
+Bastrop,Precinct 4024,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,12,621,153,786
+Bastrop,Precinct 4025,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,20,519,136,675
+Bastrop,Precinct 4026,"Dist Judge, 465th Judicial Dist",,REP,Elizabeth Beyer,8,721,183,912
+Bastrop,Precinct 1001,Sheriff,,REP,Maurice Cook,5,174,38,217
+Bastrop,Precinct 1002,Sheriff,,REP,Maurice Cook,19,341,54,414
+Bastrop,Precinct 1003,Sheriff,,REP,Maurice Cook,24,1216,245,1485
+Bastrop,Precinct 1004,Sheriff,,REP,Maurice Cook,30,700,140,870
+Bastrop,Precinct 1005,Sheriff,,REP,Maurice Cook,23,491,92,606
+Bastrop,Precinct 1006,Sheriff,,REP,Maurice Cook,33,646,284,963
+Bastrop,Precinct 1007,Sheriff,,REP,Maurice Cook,38,1435,290,1763
+Bastrop,Precinct 1008,Sheriff,,REP,Maurice Cook,19,692,130,841
+Bastrop,Precinct 1009,Sheriff,,REP,Maurice Cook,17,659,206,882
+Bastrop,Precinct 2010,Sheriff,,REP,Maurice Cook,8,221,48,277
+Bastrop,Precinct 2011,Sheriff,,REP,Maurice Cook,25,1007,267,1299
+Bastrop,Precinct 2012,Sheriff,,REP,Maurice Cook,22,856,140,1018
+Bastrop,Precinct 2013,Sheriff,,REP,Maurice Cook,45,1234,309,1588
+Bastrop,Precinct 2014,Sheriff,,REP,Maurice Cook,42,1210,365,1617
+Bastrop,Precinct 2015,Sheriff,,REP,Maurice Cook,42,1228,246,1516
+Bastrop,Precinct 2016,Sheriff,,REP,Maurice Cook,23,1327,306,1656
+Bastrop,Precinct 3017,Sheriff,,REP,Maurice Cook,47,1049,234,1330
+Bastrop,Precinct 3018,Sheriff,,REP,Maurice Cook,17,589,286,892
+Bastrop,Precinct 3019,Sheriff,,REP,Maurice Cook,11,749,211,971
+Bastrop,Precinct 3020,Sheriff,,REP,Maurice Cook,20,778,246,1044
+Bastrop,Precinct 4021,Sheriff,,REP,Maurice Cook,34,854,251,1139
+Bastrop,Precinct 4022,Sheriff,,REP,Maurice Cook,20,925,190,1135
+Bastrop,Precinct 4023,Sheriff,,REP,Maurice Cook,21,514,246,781
+Bastrop,Precinct 4024,Sheriff,,REP,Maurice Cook,13,648,159,820
+Bastrop,Precinct 4025,Sheriff,,REP,Maurice Cook,23,543,143,709
+Bastrop,Precinct 4026,Sheriff,,REP,Maurice Cook,11,734,189,934
+Bastrop,Precinct 1001,County Tax Assessor-Collector,,REP,Ellen Owens,5,174,36,215
+Bastrop,Precinct 1002,County Tax Assessor-Collector,,REP,Ellen Owens,18,345,51,414
+Bastrop,Precinct 1003,County Tax Assessor-Collector,,REP,Ellen Owens,25,1165,233,1423
+Bastrop,Precinct 1004,County Tax Assessor-Collector,,REP,Ellen Owens,32,693,134,859
+Bastrop,Precinct 1005,County Tax Assessor-Collector,,REP,Ellen Owens,22,489,95,606
+Bastrop,Precinct 1006,County Tax Assessor-Collector,,REP,Ellen Owens,34,617,270,921
+Bastrop,Precinct 1007,County Tax Assessor-Collector,,REP,Ellen Owens,38,1439,287,1764
+Bastrop,Precinct 1008,County Tax Assessor-Collector,,REP,Ellen Owens,20,685,126,831
+Bastrop,Precinct 1009,County Tax Assessor-Collector,,REP,Ellen Owens,22,671,202,895
+Bastrop,Precinct 2010,County Tax Assessor-Collector,,REP,Ellen Owens,9,223,46,278
+Bastrop,Precinct 2011,County Tax Assessor-Collector,,REP,Ellen Owens,27,1016,257,1300
+Bastrop,Precinct 2012,County Tax Assessor-Collector,,REP,Ellen Owens,25,839,144,1008
+Bastrop,Precinct 2013,County Tax Assessor-Collector,,REP,Ellen Owens,45,1217,298,1560
+Bastrop,Precinct 2014,County Tax Assessor-Collector,,REP,Ellen Owens,44,1179,362,1585
+Bastrop,Precinct 2015,County Tax Assessor-Collector,,REP,Ellen Owens,40,1185,245,1470
+Bastrop,Precinct 2016,County Tax Assessor-Collector,,REP,Ellen Owens,24,1322,306,1652
+Bastrop,Precinct 3017,County Tax Assessor-Collector,,REP,Ellen Owens,49,1054,231,1334
+Bastrop,Precinct 3018,County Tax Assessor-Collector,,REP,Ellen Owens,22,610,283,915
+Bastrop,Precinct 3019,County Tax Assessor-Collector,,REP,Ellen Owens,13,757,211,981
+Bastrop,Precinct 3020,County Tax Assessor-Collector,,REP,Ellen Owens,21,803,253,1077
+Bastrop,Precinct 4021,County Tax Assessor-Collector,,REP,Ellen Owens,36,830,242,1108
+Bastrop,Precinct 4022,County Tax Assessor-Collector,,REP,Ellen Owens,22,920,189,1131
+Bastrop,Precinct 4023,County Tax Assessor-Collector,,REP,Ellen Owens,23,506,241,770
+Bastrop,Precinct 4024,County Tax Assessor-Collector,,REP,Ellen Owens,14,620,157,791
+Bastrop,Precinct 4025,County Tax Assessor-Collector,,REP,Ellen Owens,25,539,150,714
+Bastrop,Precinct 4026,County Tax Assessor-Collector,,REP,Ellen Owens,10,739,196,945
+Bastrop,Precinct 1001,County Commissioner Pct 1,,REP,Butch Carmack,4,159,38,201
+Bastrop,Precinct 1001,County Commissioner Pct 1,,DEM,Joseph B. Thompson,5,75,5,85
+Bastrop,Precinct 1002,County Commissioner Pct 1,,REP,Butch Carmack,14,286,46,346
+Bastrop,Precinct 1002,County Commissioner Pct 1,,DEM,Joseph B. Thompson,12,180,21,213
+Bastrop,Precinct 1003,County Commissioner Pct 1,,REP,Butch Carmack,22,1093,208,1323
+Bastrop,Precinct 1003,County Commissioner Pct 1,,DEM,Joseph B. Thompson,32,557,110,699
+Bastrop,Precinct 1004,County Commissioner Pct 1,,REP,Butch Carmack,18,574,100,692
+Bastrop,Precinct 1004,County Commissioner Pct 1,,DEM,Joseph B. Thompson,49,585,100,734
+Bastrop,Precinct 1005,County Commissioner Pct 1,,REP,Butch Carmack,15,396,77,488
+Bastrop,Precinct 1005,County Commissioner Pct 1,,DEM,Joseph B. Thompson,30,228,38,296
+Bastrop,Precinct 1006,County Commissioner Pct 1,,REP,Butch Carmack,29,530,219,778
+Bastrop,Precinct 1006,County Commissioner Pct 1,,DEM,Joseph B. Thompson,28,403,150,581
+Bastrop,Precinct 1007,County Commissioner Pct 1,,REP,Butch Carmack,35,1226,229,1490
+Bastrop,Precinct 1007,County Commissioner Pct 1,,DEM,Joseph B. Thompson,40,745,130,915
+Bastrop,Precinct 1008,County Commissioner Pct 1,,REP,Butch Carmack,16,534,101,651
+Bastrop,Precinct 1008,County Commissioner Pct 1,,DEM,Joseph B. Thompson,34,453,71,558
+Bastrop,Precinct 1009,County Commissioner Pct 1,,REP,Butch Carmack,14,556,153,723
+Bastrop,Precinct 1009,County Commissioner Pct 1,,DEM,Joseph B. Thompson,18,423,117,558
+Bastrop,Precinct 3017,County Commissioner Pct 3,,REP,Mark Meuth,55,1057,238,1350
+Bastrop,Precinct 3018,County Commissioner Pct 3,,REP,Mark Meuth,22,636,297,955
+Bastrop,Precinct 3019,County Commissioner Pct 3,,REP,Mark Meuth,13,749,205,967
+Bastrop,Precinct 3020,County Commissioner Pct 3,,REP,Mark Meuth,20,765,244,1029
+Bastrop,Precinct 2010,"Justice of the Peace, Unexpired Pct 2",,REP,Zachary Carter,9,221,50,280
+Bastrop,Precinct 2011,"Justice of the Peace, Unexpired Pct 2",,REP,Zachary Carter,24,985,260,1269
+Bastrop,Precinct 2012,"Justice of the Peace, Unexpired Pct 2",,REP,Zachary Carter,24,804,141,969
+Bastrop,Precinct 2013,"Justice of the Peace, Unexpired Pct 2",,REP,Zachary Carter,43,1231,306,1580
+Bastrop,Precinct 2014,"Justice of the Peace, Unexpired Pct 2",,REP,Zachary Carter,43,1191,356,1590
+Bastrop,Precinct 2015,"Justice of the Peace, Unexpired Pct 2",,REP,Zachary Carter,38,1210,244,1492
+Bastrop,Precinct 2016,"Justice of the Peace, Unexpired Pct 2",,REP,Zachary Carter,23,1287,293,1603
+Bastrop,Precinct 1001,Constable Pct 1,,REP,Wayne Wood,5,177,35,217
+Bastrop,Precinct 1002,Constable Pct 1,,REP,Wayne Wood,18,334,51,403
+Bastrop,Precinct 1003,Constable Pct 1,,REP,Wayne Wood,22,1202,240,1464
+Bastrop,Precinct 1004,Constable Pct 1,,REP,Wayne Wood,29,690,132,851
+Bastrop,Precinct 1005,Constable Pct 1,,REP,Wayne Wood,21,470,93,584
+Bastrop,Precinct 1006,Constable Pct 1,,REP,Wayne Wood,31,635,275,941
+Bastrop,Precinct 1007,Constable Pct 1,,REP,Wayne Wood,34,1416,286,1736
+Bastrop,Precinct 1008,Constable Pct 1,,REP,Wayne Wood,19,666,124,809
+Bastrop,Precinct 1009,Constable Pct 1,,REP,Wayne Wood,17,650,202,869
+Bastrop,Precinct 2010,Constable Pct 2,,REP,James L. Scoggins,9,174,32,215
+Bastrop,Precinct 2010,Constable Pct 2,,DEM,August 'Gus' Meduna Jr,7,141,30,178
+Bastrop,Precinct 2011,Constable Pct 2,,REP,James L. Scoggins,23,776,197,996
+Bastrop,Precinct 2011,Constable Pct 2,,DEM,August 'Gus' Meduna Jr,30,624,136,790
+Bastrop,Precinct 2012,Constable Pct 2,,REP,James L. Scoggins,21,718,105,844
+Bastrop,Precinct 2012,Constable Pct 2,,DEM,August 'Gus' Meduna Jr,23,338,70,431
+Bastrop,Precinct 2013,Constable Pct 2,,REP,James L. Scoggins,36,1053,243,1332
+Bastrop,Precinct 2013,Constable Pct 2,,DEM,August 'Gus' Meduna Jr,47,590,130,767
+Bastrop,Precinct 2014,Constable Pct 2,,REP,James L. Scoggins,38,1002,291,1331
+Bastrop,Precinct 2014,Constable Pct 2,,DEM,August 'Gus' Meduna Jr,44,577,149,770
+Bastrop,Precinct 2015,Constable Pct 2,,REP,James L. Scoggins,26,917,182,1125
+Bastrop,Precinct 2015,Constable Pct 2,,DEM,August 'Gus' Meduna Jr,48,755,156,959
+Bastrop,Precinct 2016,Constable Pct 2,,REP,James L. Scoggins,15,1071,214,1300
+Bastrop,Precinct 2016,Constable Pct 2,,DEM,August 'Gus' Meduna Jr,32,524,158,714
+Bastrop,Precinct 3017,Constable Pct 3,,REP,Tim Sparkman,50,1047,241,1338
+Bastrop,Precinct 3018,Constable Pct 3,,REP,Tim Sparkman,22,612,290,924
+Bastrop,Precinct 3019,Constable Pct 3,,REP,Tim Sparkman,12,742,204,958
+Bastrop,Precinct 3020,Constable Pct 3,,REP,Tim Sparkman,19,766,240,1025
+Bastrop,Precinct 4021,Constable Pct 4,,REP,Joey Dzienowski,33,838,239,1110
+Bastrop,Precinct 4022,Constable Pct 4,,REP,Joey Dzienowski,20,915,190,1125
+Bastrop,Precinct 4023,Constable Pct 4,,REP,Joey Dzienowski,22,510,248,780
+Bastrop,Precinct 4024,Constable Pct 4,,REP,Joey Dzienowski,13,642,156,811
+Bastrop,Precinct 4025,Constable Pct 4,,REP,Joey Dzienowski,22,532,143,697
+Bastrop,Precinct 4026,Constable Pct 4,,REP,Joey Dzienowski,8,724,186,918
+Bastrop,Precinct 4021,"ACC, Trustee, Place 7",,,Lynn Taylor,15,395,110,520
+Bastrop,Precinct 4021,"ACC, Trustee, Place 7",,Cole,Wilson,6,196,65,267
+Bastrop,Precinct 4022,"ACC, Trustee, Place 7",,,Lynn Taylor,16,480,117,613
+Bastrop,Precinct 4022,"ACC, Trustee, Place 7",,Cole,Wilson,7,218,40,265
+Bastrop,Precinct 4023,"ACC, Trustee, Place 7",,,Lynn Taylor,0,2,3,5
+Bastrop,Precinct 4023,"ACC, Trustee, Place 7",,Cole,Wilson,0,0,2,2
+Bastrop,Precinct 4024,"ACC, Trustee, Place 7",,,Lynn Taylor,8,354,99,461
+Bastrop,Precinct 4024,"ACC, Trustee, Place 7",,Cole,Wilson,4,179,36,219
+Bastrop,Precinct 4025,"ACC, Trustee, Place 7",,,Lynn Taylor,14,422,106,542
+Bastrop,Precinct 4025,"ACC, Trustee, Place 7",,Cole,Wilson,10,181,52,243
+Bastrop,Precinct 4026,"ACC, Trustee, Place 7",,,Lynn Taylor,12,538,125,675
+Bastrop,Precinct 4026,"ACC, Trustee, Place 7",,Cole,Wilson,4,254,64,322
+Bastrop,Precinct 4021,"ACC, Trustee, Place 8",,,Gharakhanian,21,477,152,650
+Bastrop,Precinct 4022,"ACC, Trustee, Place 8",,,Gharakhanian,15,575,137,727
+Bastrop,Precinct 4023,"ACC, Trustee, Place 8",,,Gharakhanian,0,2,5,7
+Bastrop,Precinct 4024,"ACC, Trustee, Place 8",,,Gharakhanian,8,447,120,575
+Bastrop,Precinct 4025,"ACC, Trustee, Place 8",,,Gharakhanian,23,497,131,651
+Bastrop,Precinct 4026,"ACC, Trustee, Place 8",,,Gharakhanian,12,684,160,856
+Bastrop,Precinct 4021,"ACC, Trustee, Place 9",,Joe,Sefton,6,206,78,290
+Bastrop,Precinct 4021,"ACC, Trustee, Place 9",,Julie,Ann Nitsch,16,368,94,478
+Bastrop,Precinct 4022,"ACC, Trustee, Place 9",,Joe,Sefton,3,295,69,367
+Bastrop,Precinct 4022,"ACC, Trustee, Place 9",,Julie,Ann Nitsch,20,388,80,488
+Bastrop,Precinct 4023,"ACC, Trustee, Place 9",,Joe,Sefton,0,1,0,1
+Bastrop,Precinct 4023,"ACC, Trustee, Place 9",,Julie,Ann Nitsch,0,1,5,6
+Bastrop,Precinct 4024,"ACC, Trustee, Place 9",,Joe,Sefton,4,229,60,293
+Bastrop,Precinct 4024,"ACC, Trustee, Place 9",,Julie,Ann Nitsch,7,288,73,368
+Bastrop,Precinct 4025,"ACC, Trustee, Place 9",,Joe,Sefton,9,181,48,238
+Bastrop,Precinct 4025,"ACC, Trustee, Place 9",,Julie,Ann Nitsch,18,404,109,531
+Bastrop,Precinct 4026,"ACC, Trustee, Place 9",,Joe,Sefton,6,255,75,336
+Bastrop,Precinct 4026,"ACC, Trustee, Place 9",,Julie,Ann Nitsch,9,523,112,644
+Bastrop,Precinct 1002,Unincorporated ESD No.3,,,For,0,38,5,43
+Bastrop,Precinct 1002,Unincorporated ESD No.3,,,Against,0,10,1,11
+Bastrop,Precinct 1003,Unincorporated ESD No.3,,,For,13,215,35,263
+Bastrop,Precinct 1003,Unincorporated ESD No.3,,,Against,6,109,15,130
+Bastrop,Precinct 1006,Unincorporated ESD No.3,,,For,35,656,263,954
+Bastrop,Precinct 1006,Unincorporated ESD No.3,,,Against,19,209,89,317
+Bastrop,Precinct 1007,Unincorporated ESD No.3,,,For,0,19,11,30
+Bastrop,Precinct 1007,Unincorporated ESD No.3,,,Against,0,13,1,14
+Bastrop,Precinct 1008,Unincorporated ESD No.3,,,For,11,116,21,148
+Bastrop,Precinct 1008,Unincorporated ESD No.3,,,Against,2,50,8,60
+Bastrop,Precinct 1009,Unincorporated ESD No.3,,,For,13,327,75,415
+Bastrop,Precinct 1009,Unincorporated ESD No.3,,,Against,5,161,21,187
+Bastrop,Precinct 2012,Unincorporated ESD No.3,,,For,23,464,80,567
+Bastrop,Precinct 2012,Unincorporated ESD No.3,,,Against,12,231,35,278
+Bastrop,Precinct 2013,Unincorporated ESD No.3,,,For,46,987,213,1246
+Bastrop,Precinct 2013,Unincorporated ESD No.3,,,Against,25,401,101,527
+Bastrop,Precinct 2014,Unincorporated ESD No.3,,,For,57,933,283,1273
+Bastrop,Precinct 2014,Unincorporated ESD No.3,,,Against,18,545,142,705
+Bastrop,Precinct 2015,Unincorporated ESD No.3,,,For,2,159,38,199
+Bastrop,Precinct 2015,Unincorporated ESD No.3,,,Against,3,104,13,120
+Bastrop,Precinct 2016,Unincorporated ESD No.3,,,For,22,850,214,1086
+Bastrop,Precinct 2016,Unincorporated ESD No.3,,,Against,15,527,122,664
+Bastrop,Precinct 3017,Unincorporated ESD No.3,,,For,42,604,142,788
+Bastrop,Precinct 3017,Unincorporated ESD No.3,,,Against,13,325,56,394
+Bastrop,Precinct 3018,Unincorporated ESD No.3,,,For,27,474,228,729
+Bastrop,Precinct 3018,Unincorporated ESD No.3,,,Against,6,247,104,357
+Bastrop,Precinct 3019,Unincorporated ESD No.3,,,For,23,503,165,691
+Bastrop,Precinct 3019,Unincorporated ESD No.3,,,Against,4,234,53,291
+Bastrop,Precinct 3020,Unincorporated ESD No.3,,,For,15,328,112,455
+Bastrop,Precinct 3020,Unincorporated ESD No.3,,,Against,2,111,32,145
+Bastrop,Precinct 4021,Unincorporated ESD No.3,,,For,20,504,157,681
+Bastrop,Precinct 4021,Unincorporated ESD No.3,,,Against,13,265,85,363
+Bastrop,Precinct 4022,Unincorporated ESD No.3,,,For,26,612,123,761
+Bastrop,Precinct 4022,Unincorporated ESD No.3,,,Against,9,330,49,388
+Bastrop,Precinct 4023,Unincorporated ESD No.3,,,For,25,414,178,617
+Bastrop,Precinct 4023,Unincorporated ESD No.3,,,Against,6,221,106,333
+Bastrop,Precinct 4024,Unincorporated ESD No.3,,,For,17,397,110,524
+Bastrop,Precinct 4024,Unincorporated ESD No.3,,,Against,4,244,47,295
+Bastrop,Precinct 1001,City of Bastrop ESD No. 3,,,For,8,170,24,202
+Bastrop,Precinct 1001,City of Bastrop ESD No. 3,,,Against,1,63,18,82
+Bastrop,Precinct 1003,City of Bastrop ESD No. 3,,,For,0,0,0,0
+Bastrop,Precinct 1003,City of Bastrop ESD No. 3,,,Against,0,0,0,0
+Bastrop,Precinct 1004,City of Bastrop ESD No. 3,,,For,42,765,163,970
+Bastrop,Precinct 1004,City of Bastrop ESD No. 3,,,Against,20,358,43,421
+Bastrop,Precinct 1005,City of Bastrop ESD No. 3,,,For,38,435,89,562
+Bastrop,Precinct 1005,City of Bastrop ESD No. 3,,,Against,8,166,20,194
+Bastrop,Precinct 1007,City of Bastrop ESD No. 3,,,For,0,0,0,0
+Bastrop,Precinct 1007,City of Bastrop ESD No. 3,,,Against,0,0,0,0
+Bastrop,Precinct 2010,City of Bastrop ESD No. 3,,,For,5,222,48,275
+Bastrop,Precinct 2010,City of Bastrop ESD No. 3,,,Against,9,85,15,109
+Bastrop,Precinct 2011,City of Bastrop ESD No. 3,,,For,29,1052,264,1345
+Bastrop,Precinct 2011,City of Bastrop ESD No. 3,,,Against,22,318,77,417
+Bastrop,Precinct 3017,City of Bastrop ESD No. 3,,,For,0,0,0,0
+Bastrop,Precinct 3017,City of Bastrop ESD No. 3,,,Against,0,0,0,0
+Bastrop,Precinct 1002,City of Bastrop ETJ ESD No. 3,,,For,12,280,43,335
+Bastrop,Precinct 1002,City of Bastrop ETJ ESD No. 3,,,Against,13,125,17,155
+Bastrop,Precinct 1003,City of Bastrop ETJ ESD No. 3,,,For,25,850,174,1049
+Bastrop,Precinct 1003,City of Bastrop ETJ ESD No. 3,,,Against,10,422,84,516
+Bastrop,Precinct 1006,City of Bastrop ETJ ESD No. 3,,,For,0,21,8,29
+Bastrop,Precinct 1006,City of Bastrop ETJ ESD No. 3,,,Against,0,7,3,10
+Bastrop,Precinct 1007,City of Bastrop ETJ ESD No. 3,,,For,60,1333,249,1642
+Bastrop,Precinct 1007,City of Bastrop ETJ ESD No. 3,,,Against,11,538,104,653
+Bastrop,Precinct 1008,City of Bastrop ETJ ESD No. 3,,,For,30,546,98,674
+Bastrop,Precinct 1008,City of Bastrop ETJ ESD No. 3,,,Against,8,239,39,286
+Bastrop,Precinct 1009,City of Bastrop ETJ ESD No. 3,,,For,13,283,114,410
+Bastrop,Precinct 1009,City of Bastrop ETJ ESD No. 3,,,Against,4,149,45,198
+Bastrop,Precinct 2012,City of Bastrop ETJ ESD No. 3,,,For,3,182,37,222
+Bastrop,Precinct 2012,City of Bastrop ETJ ESD No. 3,,,Against,6,88,10,104
+Bastrop,Precinct 2013,City of Bastrop ETJ ESD No. 3,,,For,6,158,27,191
+Bastrop,Precinct 2013,City of Bastrop ETJ ESD No. 3,,,Against,2,62,16,80
+Bastrop,Precinct 3017,City of Bastrop ETJ ESD No. 3,,,For,17,274,64,355
+Bastrop,Precinct 3017,City of Bastrop ETJ ESD No. 3,,,Against,7,152,25,184
+Bastrop,Precinct 3019,City of Bastrop ETJ ESD No. 3,,,For,2,204,37,243
+Bastrop,Precinct 3019,City of Bastrop ETJ ESD No. 3,,,Against,3,106,16,125
+Bastrop,Precinct 3020,City of Bastrop ETJ ESD No. 3,,,For,9,289,87,385
+Bastrop,Precinct 3020,City of Bastrop ETJ ESD No. 3,,,Against,5,84,27,116
+Bastrop,Precinct 4021,City of Bastrop ETJ ESD No. 3,,,For,10,292,74,376
+Bastrop,Precinct 4021,City of Bastrop ETJ ESD No. 3,,,Against,13,138,28,179
+Bastrop,Precinct 4022,City of Bastrop ETJ ESD No. 3,,,For,2,88,28,118
+Bastrop,Precinct 4022,City of Bastrop ETJ ESD No. 3,,,Against,0,29,9,38
+Bastrop,Precinct 3020,City of Mustang Ridge ETJ ESD No.3,,,For,0,5,1,6
+Bastrop,Precinct 3020,City of Mustang Ridge ETJ ESD No.3,,,Against,1,2,0,3
+Bastrop,Precinct 2012,City of Smithville ESD No.3,,,For,2,21,6,29
+Bastrop,Precinct 2012,City of Smithville ESD No.3,,,Against,0,17,2,19
+Bastrop,Precinct 2015,City of Smithville ESD No.3,,,For,32,763,203,998
+Bastrop,Precinct 2015,City of Smithville ESD No.3,,,Against,22,479,74,575
+Bastrop,Precinct 2016,City of Smithville ESD No.3,,,For,2,62,16,80
+Bastrop,Precinct 2016,City of Smithville ESD No.3,,,Against,1,51,2,54
+Bastrop,Precinct 2012,City of Smithville ETJ ESD No. 3,,,For,0,6,0,6
+Bastrop,Precinct 2012,City of Smithville ETJ ESD No. 3,,,Against,0,2,2,4
+Bastrop,Precinct 2014,City of Smithville ETJ ESD No. 3,,,For,0,19,1,20
+Bastrop,Precinct 2014,City of Smithville ETJ ESD No. 3,,,Against,0,12,1,13
+Bastrop,Precinct 2015,City of Smithville ETJ ESD No. 3,,,For,1,71,9,81
+Bastrop,Precinct 2015,City of Smithville ETJ ESD No. 3,,,Against,3,36,2,41
+Bastrop,Precinct 2016,City of Smithville ETJ ESD No. 3,,,For,0,9,4,13
+Bastrop,Precinct 2016,City of Smithville ETJ ESD No. 3,,,Against,0,17,0,17
+Bastrop,Precinct 4024,Proposition A Lund Farms,,,For,0,1,0,1
+Bastrop,Precinct 4024,Proposition A Lund Farms,,,Against,0,0,0,0
+Bastrop,Precinct 4024,Director Election Lund Farms (Vote For 5),,,Kidd,0,1,0,1
+Bastrop,Precinct 4024,Director Election Lund Farms (Vote For 5),,Reid,Olson,0,1,0,1
+Bastrop,Precinct 4024,Director Election Lund Farms (Vote For 5),,Ben,Wiggins,0,1,0,1
+Bastrop,Precinct 4024,Director Election Lund Farms (Vote For 5),,,Koroscik,0,1,0,1
+Bastrop,Precinct 4024,Director Election Lund Farms (Vote For 5),,,Straub,0,1,0,1
+Bastrop,Precinct 4024,Proposition B Lund Farms,,,For,0,1,0,1
+Bastrop,Precinct 4024,Proposition B Lund Farms,,,Against,0,0,0,0
+Bastrop,Precinct 4024,Proposition C Lund Farms,,,For,0,1,0,1
+Bastrop,Precinct 4024,Proposition C Lund Farms,,,Against,0,0,0,0
+Bastrop,Precinct 4024,Proposition D Lund Farms,,,For,0,1,0,1
+Bastrop,Precinct 4024,Proposition D Lund Farms,,,Against,0,0,0,0
+Bastrop,Precinct 4024,Proposition E Lund Farms,,,For,0,1,0,1
+Bastrop,Precinct 4024,Proposition E Lund Farms,,,Against,0,0,0,0
+Bastrop,Precinct 4024,Proposition F Lund Farms,,,For,0,1,0,1
+Bastrop,Precinct 4024,Proposition F Lund Farms,,,Against,0,0,0,0
+Bastrop,Precinct 4024,Proposition G Lund Farms,,,For,0,1,0,1
+Bastrop,Precinct 4024,Proposition G Lund Farms,,,Against,0,0,0,0
+Bastrop,Precinct 1001,PROPOSITION A City of Bastrop,,,For,7,117,17,141
+Bastrop,Precinct 1001,PROPOSITION A City of Bastrop,,,Against,2,104,24,130
+Bastrop,Precinct 1003,PROPOSITION A City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1003,PROPOSITION A City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1004,PROPOSITION A City of Bastrop,,,For,43,690,114,847
+Bastrop,Precinct 1004,PROPOSITION A City of Bastrop,,,Against,21,413,79,513
+Bastrop,Precinct 1005,PROPOSITION A City of Bastrop,,,For,28,332,61,421
+Bastrop,Precinct 1005,PROPOSITION A City of Bastrop,,,Against,13,255,45,313
+Bastrop,Precinct 1007,PROPOSITION A City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1007,PROPOSITION A City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 2010,PROPOSITION A City of Bastrop,,,For,6,171,29,206
+Bastrop,Precinct 2010,PROPOSITION A City of Bastrop,,,Against,9,116,28,153
+Bastrop,Precinct 2011,PROPOSITION A City of Bastrop,,,For,30,785,169,984
+Bastrop,Precinct 2011,PROPOSITION A City of Bastrop,,,Against,21,509,146,676
+Bastrop,Precinct 3017,PROPOSITION A City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 3017,PROPOSITION A City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1001,PROPOSITION B City of Bastrop,,,For,9,166,25,200
+Bastrop,Precinct 1001,PROPOSITION B City of Bastrop,,,Against,0,45,15,60
+Bastrop,Precinct 1003,PROPOSITION B City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1003,PROPOSITION B City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1004,PROPOSITION B City of Bastrop,,,For,52,927,158,1137
+Bastrop,Precinct 1004,PROPOSITION B City of Bastrop,,,Against,10,154,32,196
+Bastrop,Precinct 1005,PROPOSITION B City of Bastrop,,,For,38,474,92,604
+Bastrop,Precinct 1005,PROPOSITION B City of Bastrop,,,Against,3,102,13,118
+Bastrop,Precinct 1007,PROPOSITION B City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1007,PROPOSITION B City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 2010,PROPOSITION B City of Bastrop,,,For,11,226,46,283
+Bastrop,Precinct 2010,PROPOSITION B City of Bastrop,,,Against,3,53,9,65
+Bastrop,Precinct 2011,PROPOSITION B City of Bastrop,,,For,45,1111,249,1405
+Bastrop,Precinct 2011,PROPOSITION B City of Bastrop,,,Against,6,173,55,234
+Bastrop,Precinct 3017,PROPOSITION B City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 3017,PROPOSITION B City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1001,PROPOSITION C City of Bastrop,,,For,9,201,35,245
+Bastrop,Precinct 1001,PROPOSITION C City of Bastrop,,,Against,0,20,5,25
+Bastrop,Precinct 1003,PROPOSITION C City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1003,PROPOSITION C City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1004,PROPOSITION C City of Bastrop,,,For,59,1026,182,1267
+Bastrop,Precinct 1004,PROPOSITION C City of Bastrop,,,Against,5,77,13,95
+Bastrop,Precinct 1005,PROPOSITION C City of Bastrop,,,For,44,542,100,686
+Bastrop,Precinct 1005,PROPOSITION C City of Bastrop,,,Against,1,52,7,60
+Bastrop,Precinct 1007,PROPOSITION C City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1007,PROPOSITION C City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 2010,PROPOSITION C City of Bastrop,,,For,13,266,57,336
+Bastrop,Precinct 2010,PROPOSITION C City of Bastrop,,,Against,2,28,1,31
+Bastrop,Precinct 2011,PROPOSITION C City of Bastrop,,,For,51,1241,306,1598
+Bastrop,Precinct 2011,PROPOSITION C City of Bastrop,,,Against,1,76,15,92
+Bastrop,Precinct 3017,PROPOSITION C City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 3017,PROPOSITION C City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1001,PROPOSITION D City of Bastrop,,,For,9,208,34,251
+Bastrop,Precinct 1001,PROPOSITION D City of Bastrop,,,Against,0,17,5,22
+Bastrop,Precinct 1003,PROPOSITION D City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1003,PROPOSITION D City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1004,PROPOSITION D City of Bastrop,,,For,59,1028,183,1270
+Bastrop,Precinct 1004,PROPOSITION D City of Bastrop,,,Against,5,79,10,94
+Bastrop,Precinct 1005,PROPOSITION D City of Bastrop,,,For,47,548,100,695
+Bastrop,Precinct 1005,PROPOSITION D City of Bastrop,,,Against,0,50,7,57
+Bastrop,Precinct 1007,PROPOSITION D City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1007,PROPOSITION D City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 2010,PROPOSITION D City of Bastrop,,,For,13,269,57,339
+Bastrop,Precinct 2010,PROPOSITION D City of Bastrop,,,Against,2,27,1,30
+Bastrop,Precinct 2011,PROPOSITION D City of Bastrop,,,For,51,1250,304,1605
+Bastrop,Precinct 2011,PROPOSITION D City of Bastrop,,,Against,1,76,14,91
+Bastrop,Precinct 3017,PROPOSITION D City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 3017,PROPOSITION D City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1001,PROPOSITION E City of Bastrop,,,For,9,180,30,219
+Bastrop,Precinct 1001,PROPOSITION E City of Bastrop,,,Against,0,26,8,34
+Bastrop,Precinct 1003,PROPOSITION E City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1003,PROPOSITION E City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1004,PROPOSITION E City of Bastrop,,,For,52,903,161,1116
+Bastrop,Precinct 1004,PROPOSITION E City of Bastrop,,,Against,7,141,21,169
+Bastrop,Precinct 1005,PROPOSITION E City of Bastrop,,,For,37,489,90,616
+Bastrop,Precinct 1005,PROPOSITION E City of Bastrop,,,Against,2,73,8,83
+Bastrop,Precinct 1007,PROPOSITION E City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1007,PROPOSITION E City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 2010,PROPOSITION E City of Bastrop,,,For,10,226,51,287
+Bastrop,Precinct 2010,PROPOSITION E City of Bastrop,,,Against,4,47,4,55
+Bastrop,Precinct 2011,PROPOSITION E City of Bastrop,,,For,49,1103,268,1420
+Bastrop,Precinct 2011,PROPOSITION E City of Bastrop,,,Against,1,135,32,168
+Bastrop,Precinct 3017,PROPOSITION E City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 3017,PROPOSITION E City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1001,PROPOSITION F City of Bastrop,,,For,8,154,24,186
+Bastrop,Precinct 1001,PROPOSITION F City of Bastrop,,,Against,0,49,11,60
+Bastrop,Precinct 1003,PROPOSITION F City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1003,PROPOSITION F City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1004,PROPOSITION F City of Bastrop,,,For,43,772,128,943
+Bastrop,Precinct 1004,PROPOSITION F City of Bastrop,,,Against,14,219,36,269
+Bastrop,Precinct 1005,PROPOSITION F City of Bastrop,,,For,34,419,66,519
+Bastrop,Precinct 1005,PROPOSITION F City of Bastrop,,,Against,3,128,20,151
+Bastrop,Precinct 1007,PROPOSITION F City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1007,PROPOSITION F City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 2010,PROPOSITION F City of Bastrop,,,For,9,207,44,260
+Bastrop,Precinct 2010,PROPOSITION F City of Bastrop,,,Against,5,59,10,74
+Bastrop,Precinct 2011,PROPOSITION F City of Bastrop,,,For,41,943,220,1204
+Bastrop,Precinct 2011,PROPOSITION F City of Bastrop,,,Against,6,234,57,297
+Bastrop,Precinct 3017,PROPOSITION F City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 3017,PROPOSITION F City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1001,PROPOSITION G City of Bastrop,,,For,4,77,7,88
+Bastrop,Precinct 1001,PROPOSITION G City of Bastrop,,,Against,5,141,32,178
+Bastrop,Precinct 1003,PROPOSITION G City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1003,PROPOSITION G City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1004,PROPOSITION G City of Bastrop,,,For,38,536,88,662
+Bastrop,Precinct 1004,PROPOSITION G City of Bastrop,,,Against,22,570,112,704
+Bastrop,Precinct 1005,PROPOSITION G City of Bastrop,,,For,29,233,35,297
+Bastrop,Precinct 1005,PROPOSITION G City of Bastrop,,,Against,13,370,73,456
+Bastrop,Precinct 1007,PROPOSITION G City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1007,PROPOSITION G City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 2010,PROPOSITION G City of Bastrop,,,For,5,130,28,163
+Bastrop,Precinct 2010,PROPOSITION G City of Bastrop,,,Against,10,163,33,206
+Bastrop,Precinct 2011,PROPOSITION G City of Bastrop,,,For,27,563,107,697
+Bastrop,Precinct 2011,PROPOSITION G City of Bastrop,,,Against,25,769,221,1015
+Bastrop,Precinct 3017,PROPOSITION G City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 3017,PROPOSITION G City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1001,PROPOSITION H City of Bastrop,,,For,7,154,29,190
+Bastrop,Precinct 1001,PROPOSITION H City of Bastrop,,,Against,2,58,10,70
+Bastrop,Precinct 1003,PROPOSITION H City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1003,PROPOSITION H City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1004,PROPOSITION H City of Bastrop,,,For,51,792,138,981
+Bastrop,Precinct 1004,PROPOSITION H City of Bastrop,,,Against,12,277,46,335
+Bastrop,Precinct 1005,PROPOSITION H City of Bastrop,,,For,32,418,73,523
+Bastrop,Precinct 1005,PROPOSITION H City of Bastrop,,,Against,9,153,26,188
+Bastrop,Precinct 1007,PROPOSITION H City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1007,PROPOSITION H City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 2010,PROPOSITION H City of Bastrop,,,For,9,207,39,255
+Bastrop,Precinct 2010,PROPOSITION H City of Bastrop,,,Against,4,70,18,92
+Bastrop,Precinct 2011,PROPOSITION H City of Bastrop,,,For,43,984,228,1255
+Bastrop,Precinct 2011,PROPOSITION H City of Bastrop,,,Against,8,272,79,359
+Bastrop,Precinct 3017,PROPOSITION H City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 3017,PROPOSITION H City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1001,PROPOSITION I City of Bastrop,,,For,5,126,22,153
+Bastrop,Precinct 1001,PROPOSITION I City of Bastrop,,,Against,4,92,18,114
+Bastrop,Precinct 1003,PROPOSITION I City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1003,PROPOSITION I City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1004,PROPOSITION I City of Bastrop,,,For,39,652,114,805
+Bastrop,Precinct 1004,PROPOSITION I City of Bastrop,,,Against,23,425,68,516
+Bastrop,Precinct 1005,PROPOSITION I City of Bastrop,,,For,32,332,58,422
+Bastrop,Precinct 1005,PROPOSITION I City of Bastrop,,,Against,9,248,45,302
+Bastrop,Precinct 1007,PROPOSITION I City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1007,PROPOSITION I City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 2010,PROPOSITION I City of Bastrop,,,For,13,170,31,214
+Bastrop,Precinct 2010,PROPOSITION I City of Bastrop,,,Against,3,119,27,149
+Bastrop,Precinct 2011,PROPOSITION I City of Bastrop,,,For,38,746,165,949
+Bastrop,Precinct 2011,PROPOSITION I City of Bastrop,,,Against,12,523,151,686
+Bastrop,Precinct 3017,PROPOSITION I City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 3017,PROPOSITION I City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1001,PROPOSITION J City of Bastrop,,,For,9,178,32,219
+Bastrop,Precinct 1001,PROPOSITION J City of Bastrop,,,Against,0,32,7,39
+Bastrop,Precinct 1003,PROPOSITION J City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1003,PROPOSITION J City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1004,PROPOSITION J City of Bastrop,,,For,51,921,162,1134
+Bastrop,Precinct 1004,PROPOSITION J City of Bastrop,,,Against,9,146,26,181
+Bastrop,Precinct 1005,PROPOSITION J City of Bastrop,,,For,38,510,91,639
+Bastrop,Precinct 1005,PROPOSITION J City of Bastrop,,,Against,2,74,9,85
+Bastrop,Precinct 1007,PROPOSITION J City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1007,PROPOSITION J City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 2010,PROPOSITION J City of Bastrop,,,For,11,248,50,309
+Bastrop,Precinct 2010,PROPOSITION J City of Bastrop,,,Against,5,35,7,47
+Bastrop,Precinct 2011,PROPOSITION J City of Bastrop,,,For,47,1131,280,1458
+Bastrop,Precinct 2011,PROPOSITION J City of Bastrop,,,Against,3,131,30,164
+Bastrop,Precinct 3017,PROPOSITION J City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 3017,PROPOSITION J City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1001,PROPOSITION K City of Bastrop,,,For,7,158,31,196
+Bastrop,Precinct 1001,PROPOSITION K City of Bastrop,,,Against,2,50,9,61
+Bastrop,Precinct 1003,PROPOSITION K City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1003,PROPOSITION K City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1004,PROPOSITION K City of Bastrop,,,For,41,751,145,937
+Bastrop,Precinct 1004,PROPOSITION K City of Bastrop,,,Against,20,292,37,349
+Bastrop,Precinct 1005,PROPOSITION K City of Bastrop,,,For,31,409,75,515
+Bastrop,Precinct 1005,PROPOSITION K City of Bastrop,,,Against,9,160,21,190
+Bastrop,Precinct 1007,PROPOSITION K City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1007,PROPOSITION K City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 2010,PROPOSITION K City of Bastrop,,,For,5,193,39,237
+Bastrop,Precinct 2010,PROPOSITION K City of Bastrop,,,Against,9,90,16,115
+Bastrop,Precinct 2011,PROPOSITION K City of Bastrop,,,For,35,928,224,1187
+Bastrop,Precinct 2011,PROPOSITION K City of Bastrop,,,Against,16,302,74,392
+Bastrop,Precinct 3017,PROPOSITION K City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 3017,PROPOSITION K City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1001,PROPOSITION L City of Bastrop,,,For,3,99,17,119
+Bastrop,Precinct 1001,PROPOSITION L City of Bastrop,,,Against,6,127,23,156
+Bastrop,Precinct 1003,PROPOSITION L City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1003,PROPOSITION L City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1004,PROPOSITION L City of Bastrop,,,For,25,415,77,517
+Bastrop,Precinct 1004,PROPOSITION L City of Bastrop,,,Against,39,688,118,845
+Bastrop,Precinct 1005,PROPOSITION L City of Bastrop,,,For,23,238,41,302
+Bastrop,Precinct 1005,PROPOSITION L City of Bastrop,,,Against,20,354,68,442
+Bastrop,Precinct 1007,PROPOSITION L City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1007,PROPOSITION L City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 2010,PROPOSITION L City of Bastrop,,,For,4,96,24,124
+Bastrop,Precinct 2010,PROPOSITION L City of Bastrop,,,Against,11,197,35,243
+Bastrop,Precinct 2011,PROPOSITION L City of Bastrop,,,For,16,457,130,603
+Bastrop,Precinct 2011,PROPOSITION L City of Bastrop,,,Against,35,859,192,1086
+Bastrop,Precinct 3017,PROPOSITION L City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 3017,PROPOSITION L City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1001,PROPOSITION M City of Bastrop,,,For,7,164,29,200
+Bastrop,Precinct 1001,PROPOSITION M City of Bastrop,,,Against,2,66,13,81
+Bastrop,Precinct 1003,PROPOSITION M City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1003,PROPOSITION M City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 1004,PROPOSITION M City of Bastrop,,,For,43,786,148,977
+Bastrop,Precinct 1004,PROPOSITION M City of Bastrop,,,Against,20,345,55,420
+Bastrop,Precinct 1005,PROPOSITION M City of Bastrop,,,For,30,410,84,524
+Bastrop,Precinct 1005,PROPOSITION M City of Bastrop,,,Against,10,200,32,242
+Bastrop,Precinct 1007,PROPOSITION M City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 1007,PROPOSITION M City of Bastrop,,,Against,0,0,0,0
+Bastrop,Precinct 2010,PROPOSITION M City of Bastrop,,,For,6,210,47,263
+Bastrop,Precinct 2010,PROPOSITION M City of Bastrop,,,Against,9,95,15,119
+Bastrop,Precinct 2011,PROPOSITION M City of Bastrop,,,For,29,956,255,1240
+Bastrop,Precinct 2011,PROPOSITION M City of Bastrop,,,Against,22,414,89,525
+Bastrop,Precinct 3017,PROPOSITION M City of Bastrop,,,For,0,0,0,0
+Bastrop,Precinct 3017,PROPOSITION M City of Bastrop,,,Against,0,0,0,0
