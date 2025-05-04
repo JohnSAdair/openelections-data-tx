@@ -1,0 +1,858 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Bosque,Iredell,Ballots Cast,,,,592,18,329,245
+Bosque,Iredell,Ballots Cast Blank,,,,0,0,0,0
+Bosque,Iredell,President,,REP,Donald J. Trump,535,11,305,219
+Bosque,Iredell,President,,DEM,Kamala D. Harris,50,7,22,21
+Bosque,Iredell,President,,LIB,Chase Oliver,2,0,0,2
+Bosque,Iredell,President,,GRN,Jill Stein,1,0,1,0
+Bosque,Iredell,President,,,Write-ins,1,0,1,0
+Bosque,Iredell,President,,,Over Votes,1,0,0,1
+Bosque,Iredell,President,,,Under Votes,2,0,0,2
+Bosque,Iredell,U.S. Senate,,REP,Ted Cruz,520,11,294,215
+Bosque,Iredell,U.S. Senate,,DEM,Colin Allred,63,7,31,25
+Bosque,Iredell,U.S. Senate,,LIB,Ted Brown,4,0,2,2
+Bosque,Iredell,U.S. Senate,,,Write-ins,1,0,1,0
+Bosque,Iredell,U.S. Senate,,,Over Votes,1,0,0,1
+Bosque,Iredell,U.S. Senate,,,Under Votes,3,0,1,2
+Bosque,Iredell,U.S. House,31,REP,John Carter,525,12,296,217
+Bosque,Iredell,U.S. House,31,DEM,Stuart Whitlow,48,6,26,16
+Bosque,Iredell,U.S. House,31,,Over Votes,2,0,2,0
+Bosque,Iredell,U.S. House,31,,Under Votes,17,0,5,12
+Bosque,Iredell,Railroad Commissioner,,REP,Christi Craddick,511,11,292,208
+Bosque,Iredell,Railroad Commissioner,,DEM,Katherine Culbert,46,7,23,16
+Bosque,Iredell,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,7,10
+Bosque,Iredell,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1
+Bosque,Iredell,Railroad Commissioner,,,Write-ins,0,0,0,0
+Bosque,Iredell,Railroad Commissioner,,,Over Votes,1,0,0,1
+Bosque,Iredell,Railroad Commissioner,,,Under Votes,15,0,6,9
+Bosque,Iredell,"Justice, Supreme Court,Pl 2",,REP,Jimmy Blacklock,524,11,299,214
+Bosque,Iredell,"Justice, Supreme Court,Pl 2",,DEM,DaSean Jones,48,7,24,17
+Bosque,Iredell,"Justice, Supreme Court,Pl 2",,,Over Votes,0,0,0,0
+Bosque,Iredell,"Justice, Supreme Court,Pl 2",,,Under Votes,20,0,6,14
+Bosque,Iredell,"Justice, Supreme Court,Pl 4",,REP,John Devine,521,11,299,211
+Bosque,Iredell,"Justice, Supreme Court,Pl 4",,DEM,Christine Vinh Weems,50,7,25,18
+Bosque,Iredell,"Justice, Supreme Court,Pl 4",,,Over Votes,0,0,0,0
+Bosque,Iredell,"Justice, Supreme Court,Pl 4",,,Under Votes,21,0,5,16
+Bosque,Iredell,"Justice, Supreme Court,Pl 6",,REP,Jane Bland,519,11,295,213
+Bosque,Iredell,"Justice, Supreme Court,Pl 6",,DEM,Bonnie Lee Goldstein,46,7,23,16
+Bosque,Iredell,"Justice, Supreme Court,Pl 6",,LIB,J. David Roberson,10,0,5,5
+Bosque,Iredell,"Justice, Supreme Court,Pl 6",,,Over Votes,1,0,1,0
+Bosque,Iredell,"Justice, Supreme Court,Pl 6",,,Under Votes,16,0,5,11
+Bosque,Iredell,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,525,11,301,213
+Bosque,Iredell,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,47,7,22,18
+Bosque,Iredell,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Bosque,Iredell,"Presiding Judge, Ct of Crim App",,,Under Votes,20,0,6,14
+Bosque,Iredell,"Judge, Ct of Crim App,Pl 7",,REP,Gina Parker,523,11,301,211
+Bosque,Iredell,"Judge, Ct of Crim App,Pl 7",,DEM,Nancy Mulder,42,6,21,15
+Bosque,Iredell,"Judge, Ct of Crim App,Pl 7",,,Over Votes,0,0,0,0
+Bosque,Iredell,"Judge, Ct of Crim App,Pl 7",,,Under Votes,27,1,7,19
+Bosque,Iredell,"Judge, Ct of Crim App,Pl 8",,REP,Lee Finley,528,11,303,214
+Bosque,Iredell,"Judge, Ct of Crim App,Pl 8",,DEM,Chika Anyiam,43,7,20,16
+Bosque,Iredell,"Judge, Ct of Crim App,Pl 8",,,Over Votes,0,0,0,0
+Bosque,Iredell,"Judge, Ct of Crim App,Pl 8",,,Under Votes,21,0,6,15
+Bosque,Iredell,State Representative,13,REP,Angelia Orr,496,11,285,200
+Bosque,Iredell,State Representative,13,DEM,Albert Hunter,69,7,31,31
+Bosque,Iredell,State Representative,13,,Over Votes,6,0,6,0
+Bosque,Iredell,State Representative,13,,Under Votes,21,0,7,14
+Bosque,Iredell,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,518,11,296,211
+Bosque,Iredell,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Bosque,Iredell,"Chief Justice, 10th Ct of App Dist",,,Under Votes,74,7,33,34
+Bosque,Iredell,"Dist Attorney, 220th Judicial Dist",,REP,Adam Sibley,517,11,294,212
+Bosque,Iredell,"Dist Attorney, 220th Judicial Dist",,,Over Votes,0,0,0,0
+Bosque,Iredell,"Dist Attorney, 220th Judicial Dist",,,Under Votes,75,7,35,33
+Bosque,Iredell,County Attorney,,REP,Zach Brown,526,11,302,213
+Bosque,Iredell,County Attorney,,,Over Votes,0,0,0,0
+Bosque,Iredell,County Attorney,,,Under Votes,66,7,27,32
+Bosque,Iredell,Sheriff,,REP,Trace Hendricks,519,12,295,212
+Bosque,Iredell,Sheriff,,,Over Votes,0,0,0,0
+Bosque,Iredell,Sheriff,,,Under Votes,73,6,34,33
+Bosque,Iredell,County Tax Assessor-Collector,,REP,Arlene Swiney,531,12,300,219
+Bosque,Iredell,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Bosque,Iredell,County Tax Assessor-Collector,,,Under Votes,61,6,29,26
+Bosque,Iredell,County Treasurer - Unexpired Term,,REP,Pam Browning,519,12,297,210
+Bosque,Iredell,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Bosque,Iredell,County Treasurer - Unexpired Term,,,Under Votes,73,6,32,35
+Bosque,Iredell,Constable Pct 1,Pct 1,REP,Scott Ferguson,527,12,299,216
+Bosque,Iredell,Constable Pct 1,Pct 1,,Over Votes,0,0,0,0
+Bosque,Iredell,Constable Pct 1,Pct 1,,Under Votes,65,6,30,29
+Bosque,Walnut Springs,Ballots Cast,,,,668,7,396,265
+Bosque,Walnut Springs,Ballots Cast Blank,,,,0,0,0,0
+Bosque,Walnut Springs,President,,REP,Donald J. Trump,553,6,333,214
+Bosque,Walnut Springs,President,,DEM,Kamala D. Harris,104,1,57,46
+Bosque,Walnut Springs,President,,LIB,Chase Oliver,6,0,4,2
+Bosque,Walnut Springs,President,,GRN,Jill Stein,1,0,0,1
+Bosque,Walnut Springs,President,,,Write-ins,0,0,0,0
+Bosque,Walnut Springs,President,,,Over Votes,1,0,0,1
+Bosque,Walnut Springs,President,,,Under Votes,3,0,2,1
+Bosque,Walnut Springs,U.S. Senate,,REP,Ted Cruz,518,5,320,193
+Bosque,Walnut Springs,U.S. Senate,,DEM,Colin Allred,125,1,70,54
+Bosque,Walnut Springs,U.S. Senate,,LIB,Ted Brown,19,0,6,13
+Bosque,Walnut Springs,U.S. Senate,,,Write-ins,0,0,0,0
+Bosque,Walnut Springs,U.S. Senate,,,Over Votes,1,0,0,1
+Bosque,Walnut Springs,U.S. Senate,,,Under Votes,5,1,0,4
+Bosque,Walnut Springs,U.S. House,31,REP,John Carter,534,6,325,203
+Bosque,Walnut Springs,U.S. House,31,DEM,Stuart Whitlow,105,1,54,50
+Bosque,Walnut Springs,U.S. House,31,,Over Votes,7,0,7,0
+Bosque,Walnut Springs,U.S. House,31,,Under Votes,22,0,10,12
+Bosque,Walnut Springs,Railroad Commissioner,,REP,Christi Craddick,514,5,313,196
+Bosque,Walnut Springs,Railroad Commissioner,,DEM,Katherine Culbert,94,1,51,42
+Bosque,Walnut Springs,Railroad Commissioner,,LIB,Hawk Dunlap,26,0,13,13
+Bosque,Walnut Springs,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,8,3
+Bosque,Walnut Springs,Railroad Commissioner,,,Write-ins,0,0,0,0
+Bosque,Walnut Springs,Railroad Commissioner,,,Over Votes,0,0,0,0
+Bosque,Walnut Springs,Railroad Commissioner,,,Under Votes,23,1,11,11
+Bosque,Walnut Springs,"Justice, Supreme Court,Pl 2",,REP,Jimmy Blacklock,539,5,327,207
+Bosque,Walnut Springs,"Justice, Supreme Court,Pl 2",,DEM,DaSean Jones,102,1,55,46
+Bosque,Walnut Springs,"Justice, Supreme Court,Pl 2",,,Over Votes,0,0,0,0
+Bosque,Walnut Springs,"Justice, Supreme Court,Pl 2",,,Under Votes,27,1,14,12
+Bosque,Walnut Springs,"Justice, Supreme Court,Pl 4",,REP,John Devine,528,5,320,203
+Bosque,Walnut Springs,"Justice, Supreme Court,Pl 4",,DEM,Christine Vinh Weems,107,1,57,49
+Bosque,Walnut Springs,"Justice, Supreme Court,Pl 4",,,Over Votes,0,0,0,0
+Bosque,Walnut Springs,"Justice, Supreme Court,Pl 4",,,Under Votes,33,1,19,13
+Bosque,Walnut Springs,"Justice, Supreme Court,Pl 6",,REP,Jane Bland,523,5,319,199
+Bosque,Walnut Springs,"Justice, Supreme Court,Pl 6",,DEM,Bonnie Lee Goldstein,95,1,49,45
+Bosque,Walnut Springs,"Justice, Supreme Court,Pl 6",,LIB,J. David Roberson,22,0,13,9
+Bosque,Walnut Springs,"Justice, Supreme Court,Pl 6",,,Over Votes,0,0,0,0
+Bosque,Walnut Springs,"Justice, Supreme Court,Pl 6",,,Under Votes,28,1,15,12
+Bosque,Walnut Springs,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,533,5,327,201
+Bosque,Walnut Springs,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,106,1,54,51
+Bosque,Walnut Springs,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Bosque,Walnut Springs,"Presiding Judge, Ct of Crim App",,,Under Votes,29,1,15,13
+Bosque,Walnut Springs,"Judge, Ct of Crim App,Pl 7",,REP,Gina Parker,528,5,323,200
+Bosque,Walnut Springs,"Judge, Ct of Crim App,Pl 7",,DEM,Nancy Mulder,103,1,54,48
+Bosque,Walnut Springs,"Judge, Ct of Crim App,Pl 7",,,Over Votes,0,0,0,0
+Bosque,Walnut Springs,"Judge, Ct of Crim App,Pl 7",,,Under Votes,37,1,19,17
+Bosque,Walnut Springs,"Judge, Ct of Crim App,Pl 8",,REP,Lee Finley,540,5,327,208
+Bosque,Walnut Springs,"Judge, Ct of Crim App,Pl 8",,DEM,Chika Anyiam,97,1,52,44
+Bosque,Walnut Springs,"Judge, Ct of Crim App,Pl 8",,,Over Votes,0,0,0,0
+Bosque,Walnut Springs,"Judge, Ct of Crim App,Pl 8",,,Under Votes,31,1,17,13
+Bosque,Walnut Springs,State Representative,13,REP,Angelia Orr,504,5,300,199
+Bosque,Walnut Springs,State Representative,13,DEM,Albert Hunter,133,1,76,56
+Bosque,Walnut Springs,State Representative,13,,Over Votes,7,0,7,0
+Bosque,Walnut Springs,State Representative,13,,Under Votes,24,1,13,10
+Bosque,Walnut Springs,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,545,5,333,207
+Bosque,Walnut Springs,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Bosque,Walnut Springs,"Chief Justice, 10th Ct of App Dist",,,Under Votes,123,2,63,58
+Bosque,Walnut Springs,"Dist Attorney, 220th Judicial Dist",,REP,Adam Sibley,532,5,323,204
+Bosque,Walnut Springs,"Dist Attorney, 220th Judicial Dist",,,Over Votes,0,0,0,0
+Bosque,Walnut Springs,"Dist Attorney, 220th Judicial Dist",,,Under Votes,136,2,73,61
+Bosque,Walnut Springs,County Attorney,,REP,Zach Brown,543,5,328,210
+Bosque,Walnut Springs,County Attorney,,,Over Votes,0,0,0,0
+Bosque,Walnut Springs,County Attorney,,,Under Votes,125,2,68,55
+Bosque,Walnut Springs,Sheriff,,REP,Trace Hendricks,533,5,321,207
+Bosque,Walnut Springs,Sheriff,,,Over Votes,0,0,0,0
+Bosque,Walnut Springs,Sheriff,,,Under Votes,135,2,75,58
+Bosque,Walnut Springs,County Tax Assessor-Collector,,REP,Arlene Swiney,552,5,337,210
+Bosque,Walnut Springs,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Bosque,Walnut Springs,County Tax Assessor-Collector,,,Under Votes,116,2,59,55
+Bosque,Walnut Springs,County Treasurer - Unexpired Term,,REP,Pam Browning,533,5,323,205
+Bosque,Walnut Springs,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Bosque,Walnut Springs,County Treasurer - Unexpired Term,,,Under Votes,135,2,73,60
+Bosque,Walnut Springs,Constable Pct 1,Pct 1,REP,Scott Ferguson,538,5,328,205
+Bosque,Walnut Springs,Constable Pct 1,Pct 1,,Over Votes,0,0,0,0
+Bosque,Walnut Springs,Constable Pct 1,Pct 1,,Under Votes,130,2,68,60
+Bosque,Meridian 3,Ballots Cast,,,,824,21,642,161
+Bosque,Meridian 3,Ballots Cast Blank,,,,0,0,0,0
+Bosque,Meridian 3,President,,REP,Donald J. Trump,688,15,549,124
+Bosque,Meridian 3,President,,DEM,Kamala D. Harris,123,6,85,32
+Bosque,Meridian 3,President,,LIB,Chase Oliver,7,0,5,2
+Bosque,Meridian 3,President,,GRN,Jill Stein,0,0,0,0
+Bosque,Meridian 3,President,,,Write-ins,0,0,0,0
+Bosque,Meridian 3,President,,,Over Votes,1,0,0,1
+Bosque,Meridian 3,President,,,Under Votes,5,0,3,2
+Bosque,Meridian 3,U.S. Senate,,REP,Ted Cruz,656,14,532,110
+Bosque,Meridian 3,U.S. Senate,,DEM,Colin Allred,139,6,93,40
+Bosque,Meridian 3,U.S. Senate,,LIB,Ted Brown,20,0,12,8
+Bosque,Meridian 3,U.S. Senate,,,Write-ins,0,0,0,0
+Bosque,Meridian 3,U.S. Senate,,,Over Votes,1,0,1,0
+Bosque,Meridian 3,U.S. Senate,,,Under Votes,8,1,4,3
+Bosque,Meridian 3,U.S. House,31,REP,John Carter,692,14,546,132
+Bosque,Meridian 3,U.S. House,31,DEM,Stuart Whitlow,105,6,74,25
+Bosque,Meridian 3,U.S. House,31,,Over Votes,10,0,10,0
+Bosque,Meridian 3,U.S. House,31,,Under Votes,17,1,12,4
+Bosque,Meridian 3,Railroad Commissioner,,REP,Christi Craddick,674,14,537,123
+Bosque,Meridian 3,Railroad Commissioner,,DEM,Katherine Culbert,99,6,68,25
+Bosque,Meridian 3,Railroad Commissioner,,LIB,Hawk Dunlap,19,0,13,6
+Bosque,Meridian 3,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,5,1
+Bosque,Meridian 3,Railroad Commissioner,,,Write-ins,2,0,2,0
+Bosque,Meridian 3,Railroad Commissioner,,,Over Votes,1,0,1,0
+Bosque,Meridian 3,Railroad Commissioner,,,Under Votes,23,1,16,6
+Bosque,Meridian 3,"Justice, Supreme Court,Pl 2",,REP,Jimmy Blacklock,689,14,548,127
+Bosque,Meridian 3,"Justice, Supreme Court,Pl 2",,DEM,DaSean Jones,107,6,75,26
+Bosque,Meridian 3,"Justice, Supreme Court,Pl 2",,,Over Votes,1,0,1,0
+Bosque,Meridian 3,"Justice, Supreme Court,Pl 2",,,Under Votes,27,1,18,8
+Bosque,Meridian 3,"Justice, Supreme Court,Pl 4",,REP,John Devine,685,14,546,125
+Bosque,Meridian 3,"Justice, Supreme Court,Pl 4",,DEM,Christine Vinh Weems,107,6,73,28
+Bosque,Meridian 3,"Justice, Supreme Court,Pl 4",,,Over Votes,1,0,1,0
+Bosque,Meridian 3,"Justice, Supreme Court,Pl 4",,,Under Votes,31,1,22,8
+Bosque,Meridian 3,"Justice, Supreme Court,Pl 6",,REP,Jane Bland,676,14,539,123
+Bosque,Meridian 3,"Justice, Supreme Court,Pl 6",,DEM,Bonnie Lee Goldstein,100,5,70,25
+Bosque,Meridian 3,"Justice, Supreme Court,Pl 6",,LIB,J. David Roberson,14,0,10,4
+Bosque,Meridian 3,"Justice, Supreme Court,Pl 6",,,Over Votes,1,0,1,0
+Bosque,Meridian 3,"Justice, Supreme Court,Pl 6",,,Under Votes,33,2,22,9
+Bosque,Meridian 3,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,686,14,544,128
+Bosque,Meridian 3,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,107,6,76,25
+Bosque,Meridian 3,"Presiding Judge, Ct of Crim App",,,Over Votes,1,0,1,0
+Bosque,Meridian 3,"Presiding Judge, Ct of Crim App",,,Under Votes,30,1,21,8
+Bosque,Meridian 3,"Judge, Ct of Crim App,Pl 7",,REP,Gina Parker,677,14,538,125
+Bosque,Meridian 3,"Judge, Ct of Crim App,Pl 7",,DEM,Nancy Mulder,104,6,72,26
+Bosque,Meridian 3,"Judge, Ct of Crim App,Pl 7",,,Over Votes,1,0,1,0
+Bosque,Meridian 3,"Judge, Ct of Crim App,Pl 7",,,Under Votes,42,1,31,10
+Bosque,Meridian 3,"Judge, Ct of Crim App,Pl 8",,REP,Lee Finley,685,14,544,127
+Bosque,Meridian 3,"Judge, Ct of Crim App,Pl 8",,DEM,Chika Anyiam,102,5,73,24
+Bosque,Meridian 3,"Judge, Ct of Crim App,Pl 8",,,Over Votes,1,0,1,0
+Bosque,Meridian 3,"Judge, Ct of Crim App,Pl 8",,,Under Votes,36,2,24,10
+Bosque,Meridian 3,State Representative,13,REP,Angelia Orr,626,14,498,114
+Bosque,Meridian 3,State Representative,13,DEM,Albert Hunter,169,6,120,43
+Bosque,Meridian 3,State Representative,13,,Over Votes,12,0,12,0
+Bosque,Meridian 3,State Representative,13,,Under Votes,17,1,12,4
+Bosque,Meridian 3,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,686,14,541,131
+Bosque,Meridian 3,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Bosque,Meridian 3,"Chief Justice, 10th Ct of App Dist",,,Under Votes,138,7,101,30
+Bosque,Meridian 3,"Dist Attorney, 220th Judicial Dist",,REP,Adam Sibley,682,13,533,136
+Bosque,Meridian 3,"Dist Attorney, 220th Judicial Dist",,,Over Votes,0,0,0,0
+Bosque,Meridian 3,"Dist Attorney, 220th Judicial Dist",,,Under Votes,142,8,109,25
+Bosque,Meridian 3,County Attorney,,REP,Zach Brown,689,14,540,135
+Bosque,Meridian 3,County Attorney,,,Over Votes,0,0,0,0
+Bosque,Meridian 3,County Attorney,,,Under Votes,135,7,102,26
+Bosque,Meridian 3,Sheriff,,REP,Trace Hendricks,693,14,544,135
+Bosque,Meridian 3,Sheriff,,,Over Votes,0,0,0,0
+Bosque,Meridian 3,Sheriff,,,Under Votes,131,7,98,26
+Bosque,Meridian 3,County Tax Assessor-Collector,,REP,Arlene Swiney,700,15,550,135
+Bosque,Meridian 3,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Bosque,Meridian 3,County Tax Assessor-Collector,,,Under Votes,124,6,92,26
+Bosque,Meridian 3,County Treasurer - Unexpired Term,,REP,Pam Browning,672,13,529,130
+Bosque,Meridian 3,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Bosque,Meridian 3,County Treasurer - Unexpired Term,,,Under Votes,152,8,113,31
+Bosque,Meridian 3,Constable Pct 1,Pct 1,REP,Scott Ferguson,690,14,543,133
+Bosque,Meridian 3,Constable Pct 1,Pct 1,,Over Votes,0,0,0,0
+Bosque,Meridian 3,Constable Pct 1,Pct 1,,Under Votes,134,7,99,28
+Bosque,Meridian 4,Ballots Cast,,,,454,15,358,81
+Bosque,Meridian 4,Ballots Cast Blank,,,,0,0,0,0
+Bosque,Meridian 4,President,,REP,Donald J. Trump,388,9,310,69
+Bosque,Meridian 4,President,,DEM,Kamala D. Harris,64,6,46,12
+Bosque,Meridian 4,President,,LIB,Chase Oliver,1,0,1,0
+Bosque,Meridian 4,President,,GRN,Jill Stein,0,0,0,0
+Bosque,Meridian 4,President,,,Write-ins,1,0,1,0
+Bosque,Meridian 4,President,,,Over Votes,0,0,0,0
+Bosque,Meridian 4,President,,,Under Votes,0,0,0,0
+Bosque,Meridian 4,U.S. Senate,,REP,Ted Cruz,372,9,298,65
+Bosque,Meridian 4,U.S. Senate,,DEM,Colin Allred,68,6,47,15
+Bosque,Meridian 4,U.S. Senate,,LIB,Ted Brown,11,0,10,1
+Bosque,Meridian 4,U.S. Senate,,,Write-ins,2,0,2,0
+Bosque,Meridian 4,U.S. Senate,,,Over Votes,0,0,0,0
+Bosque,Meridian 4,U.S. Senate,,,Under Votes,1,0,1,0
+Bosque,Meridian 4,U.S. House,31,REP,John Carter,388,9,314,65
+Bosque,Meridian 4,U.S. House,31,DEM,Stuart Whitlow,56,6,38,12
+Bosque,Meridian 4,U.S. House,31,,Over Votes,1,0,1,0
+Bosque,Meridian 4,U.S. House,31,,Under Votes,9,0,5,4
+Bosque,Meridian 4,Railroad Commissioner,,REP,Christi Craddick,373,9,303,61
+Bosque,Meridian 4,Railroad Commissioner,,DEM,Katherine Culbert,56,5,39,12
+Bosque,Meridian 4,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,5,2
+Bosque,Meridian 4,Railroad Commissioner,,GRN,Eddie Espinoza,4,1,2,1
+Bosque,Meridian 4,Railroad Commissioner,,,Write-ins,3,0,3,0
+Bosque,Meridian 4,Railroad Commissioner,,,Over Votes,0,0,0,0
+Bosque,Meridian 4,Railroad Commissioner,,,Under Votes,11,0,6,5
+Bosque,Meridian 4,"Justice, Supreme Court,Pl 2",,REP,Jimmy Blacklock,383,9,309,65
+Bosque,Meridian 4,"Justice, Supreme Court,Pl 2",,DEM,DaSean Jones,59,6,42,11
+Bosque,Meridian 4,"Justice, Supreme Court,Pl 2",,,Over Votes,0,0,0,0
+Bosque,Meridian 4,"Justice, Supreme Court,Pl 2",,,Under Votes,12,0,7,5
+Bosque,Meridian 4,"Justice, Supreme Court,Pl 4",,REP,John Devine,379,9,307,63
+Bosque,Meridian 4,"Justice, Supreme Court,Pl 4",,DEM,Christine Vinh Weems,59,6,41,12
+Bosque,Meridian 4,"Justice, Supreme Court,Pl 4",,,Over Votes,0,0,0,0
+Bosque,Meridian 4,"Justice, Supreme Court,Pl 4",,,Under Votes,16,0,10,6
+Bosque,Meridian 4,"Justice, Supreme Court,Pl 6",,REP,Jane Bland,373,9,302,62
+Bosque,Meridian 4,"Justice, Supreme Court,Pl 6",,DEM,Bonnie Lee Goldstein,60,6,41,13
+Bosque,Meridian 4,"Justice, Supreme Court,Pl 6",,LIB,J. David Roberson,8,0,7,1
+Bosque,Meridian 4,"Justice, Supreme Court,Pl 6",,,Over Votes,0,0,0,0
+Bosque,Meridian 4,"Justice, Supreme Court,Pl 6",,,Under Votes,13,0,8,5
+Bosque,Meridian 4,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,381,9,307,65
+Bosque,Meridian 4,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,60,6,44,10
+Bosque,Meridian 4,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Bosque,Meridian 4,"Presiding Judge, Ct of Crim App",,,Under Votes,13,0,7,6
+Bosque,Meridian 4,"Judge, Ct of Crim App,Pl 7",,REP,Gina Parker,381,9,310,62
+Bosque,Meridian 4,"Judge, Ct of Crim App,Pl 7",,DEM,Nancy Mulder,55,6,38,11
+Bosque,Meridian 4,"Judge, Ct of Crim App,Pl 7",,,Over Votes,0,0,0,0
+Bosque,Meridian 4,"Judge, Ct of Crim App,Pl 7",,,Under Votes,18,0,10,8
+Bosque,Meridian 4,"Judge, Ct of Crim App,Pl 8",,REP,Lee Finley,386,9,312,65
+Bosque,Meridian 4,"Judge, Ct of Crim App,Pl 8",,DEM,Chika Anyiam,53,6,37,10
+Bosque,Meridian 4,"Judge, Ct of Crim App,Pl 8",,,Over Votes,0,0,0,0
+Bosque,Meridian 4,"Judge, Ct of Crim App,Pl 8",,,Under Votes,15,0,9,6
+Bosque,Meridian 4,State Representative,13,REP,Angelia Orr,359,9,290,60
+Bosque,Meridian 4,State Representative,13,DEM,Albert Hunter,83,6,61,16
+Bosque,Meridian 4,State Representative,13,,Over Votes,1,0,1,0
+Bosque,Meridian 4,State Representative,13,,Under Votes,11,0,6,5
+Bosque,Meridian 4,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,395,10,321,64
+Bosque,Meridian 4,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Bosque,Meridian 4,"Chief Justice, 10th Ct of App Dist",,,Under Votes,59,5,37,17
+Bosque,Meridian 4,"Dist Attorney, 220th Judicial Dist",,REP,Adam Sibley,392,10,318,64
+Bosque,Meridian 4,"Dist Attorney, 220th Judicial Dist",,,Over Votes,0,0,0,0
+Bosque,Meridian 4,"Dist Attorney, 220th Judicial Dist",,,Under Votes,62,5,40,17
+Bosque,Meridian 4,County Attorney,,REP,Zach Brown,400,10,322,68
+Bosque,Meridian 4,County Attorney,,,Over Votes,0,0,0,0
+Bosque,Meridian 4,County Attorney,,,Under Votes,54,5,36,13
+Bosque,Meridian 4,Sheriff,,REP,Trace Hendricks,400,10,320,70
+Bosque,Meridian 4,Sheriff,,,Over Votes,0,0,0,0
+Bosque,Meridian 4,Sheriff,,,Under Votes,54,5,38,11
+Bosque,Meridian 4,County Tax Assessor-Collector,,REP,Arlene Swiney,399,10,322,67
+Bosque,Meridian 4,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Bosque,Meridian 4,County Tax Assessor-Collector,,,Under Votes,55,5,36,14
+Bosque,Meridian 4,County Treasurer - Unexpired Term,,REP,Pam Browning,392,10,316,66
+Bosque,Meridian 4,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Bosque,Meridian 4,County Treasurer - Unexpired Term,,,Under Votes,62,5,42,15
+Bosque,Meridian 4,County Commissioner Precinct 1,Pct 1,REP,Billy Hall,375,10,303,62
+Bosque,Meridian 4,County Commissioner Precinct 1,Pct 1,,Write-ins,26,0,22,4
+Bosque,Meridian 4,County Commissioner Precinct 1,Pct 1,,Over Votes,1,0,1,0
+Bosque,Meridian 4,County Commissioner Precinct 1,Pct 1,,Under Votes,52,5,32,15
+Bosque,Meridian 4,Constable Pct 1,Pct 1,REP,Scott Ferguson,402,10,325,67
+Bosque,Meridian 4,Constable Pct 1,Pct 1,,Over Votes,0,0,0,0
+Bosque,Meridian 4,Constable Pct 1,Pct 1,,Under Votes,52,5,33,14
+Bosque,Lakeside,Ballots Cast,,,,1369,24,918,427
+Bosque,Lakeside,Ballots Cast Blank,,,,0,0,0,0
+Bosque,Lakeside,President,,REP,Donald J. Trump,1117,10,751,356
+Bosque,Lakeside,President,,DEM,Kamala D. Harris,237,13,160,64
+Bosque,Lakeside,President,,LIB,Chase Oliver,5,0,3,2
+Bosque,Lakeside,President,,GRN,Jill Stein,4,0,3,1
+Bosque,Lakeside,President,,,Write-ins,4,0,1,3
+Bosque,Lakeside,President,,,Over Votes,0,0,0,0
+Bosque,Lakeside,President,,,Under Votes,2,1,0,1
+Bosque,Lakeside,U.S. Senate,,REP,Ted Cruz,1063,10,724,329
+Bosque,Lakeside,U.S. Senate,,DEM,Colin Allred,267,14,178,75
+Bosque,Lakeside,U.S. Senate,,LIB,Ted Brown,29,0,13,16
+Bosque,Lakeside,U.S. Senate,,,Write-ins,3,0,0,3
+Bosque,Lakeside,U.S. Senate,,,Over Votes,0,0,0,0
+Bosque,Lakeside,U.S. Senate,,,Under Votes,7,0,3,4
+Bosque,Lakeside,U.S. House,31,REP,John Carter,1117,11,748,358
+Bosque,Lakeside,U.S. House,31,DEM,Stuart Whitlow,211,12,142,57
+Bosque,Lakeside,U.S. House,31,,Over Votes,8,0,8,0
+Bosque,Lakeside,U.S. House,31,,Under Votes,33,1,20,12
+Bosque,Lakeside,Railroad Commissioner,,REP,Christi Craddick,1080,11,725,344
+Bosque,Lakeside,Railroad Commissioner,,DEM,Katherine Culbert,200,11,135,54
+Bosque,Lakeside,Railroad Commissioner,,LIB,Hawk Dunlap,39,0,25,14
+Bosque,Lakeside,Railroad Commissioner,,GRN,Eddie Espinoza,12,1,7,4
+Bosque,Lakeside,Railroad Commissioner,,,Write-ins,1,0,1,0
+Bosque,Lakeside,Railroad Commissioner,,,Over Votes,1,0,1,0
+Bosque,Lakeside,Railroad Commissioner,,,Under Votes,36,1,24,11
+Bosque,Lakeside,"Justice, Supreme Court,Pl 2",,REP,Jimmy Blacklock,1115,12,752,351
+Bosque,Lakeside,"Justice, Supreme Court,Pl 2",,DEM,DaSean Jones,212,12,139,61
+Bosque,Lakeside,"Justice, Supreme Court,Pl 2",,,Over Votes,0,0,0,0
+Bosque,Lakeside,"Justice, Supreme Court,Pl 2",,,Under Votes,42,0,27,15
+Bosque,Lakeside,"Justice, Supreme Court,Pl 4",,REP,John Devine,1096,11,739,346
+Bosque,Lakeside,"Justice, Supreme Court,Pl 4",,DEM,Christine Vinh Weems,224,13,145,66
+Bosque,Lakeside,"Justice, Supreme Court,Pl 4",,,Over Votes,0,0,0,0
+Bosque,Lakeside,"Justice, Supreme Court,Pl 4",,,Under Votes,49,0,34,15
+Bosque,Lakeside,"Justice, Supreme Court,Pl 6",,REP,Jane Bland,1091,12,738,341
+Bosque,Lakeside,"Justice, Supreme Court,Pl 6",,DEM,Bonnie Lee Goldstein,203,12,139,52
+Bosque,Lakeside,"Justice, Supreme Court,Pl 6",,LIB,J. David Roberson,28,0,13,15
+Bosque,Lakeside,"Justice, Supreme Court,Pl 6",,,Over Votes,0,0,0,0
+Bosque,Lakeside,"Justice, Supreme Court,Pl 6",,,Under Votes,47,0,28,19
+Bosque,Lakeside,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1102,10,747,345
+Bosque,Lakeside,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,223,14,145,64
+Bosque,Lakeside,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Bosque,Lakeside,"Presiding Judge, Ct of Crim App",,,Under Votes,44,0,26,18
+Bosque,Lakeside,"Judge, Ct of Crim App,Pl 7",,REP,Gina Parker,1102,11,740,351
+Bosque,Lakeside,"Judge, Ct of Crim App,Pl 7",,DEM,Nancy Mulder,205,13,141,51
+Bosque,Lakeside,"Judge, Ct of Crim App,Pl 7",,,Over Votes,0,0,0,0
+Bosque,Lakeside,"Judge, Ct of Crim App,Pl 7",,,Under Votes,62,0,37,25
+Bosque,Lakeside,"Judge, Ct of Crim App,Pl 8",,REP,Lee Finley,1113,12,746,355
+Bosque,Lakeside,"Judge, Ct of Crim App,Pl 8",,DEM,Chika Anyiam,202,12,138,52
+Bosque,Lakeside,"Judge, Ct of Crim App,Pl 8",,,Over Votes,0,0,0,0
+Bosque,Lakeside,"Judge, Ct of Crim App,Pl 8",,,Under Votes,54,0,34,20
+Bosque,Lakeside,State Representative,13,REP,Angelia Orr,1086,11,733,342
+Bosque,Lakeside,State Representative,13,DEM,Albert Hunter,222,13,145,64
+Bosque,Lakeside,State Representative,13,,Over Votes,11,0,10,1
+Bosque,Lakeside,State Representative,13,,Under Votes,50,0,30,20
+Bosque,Lakeside,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,1142,12,768,362
+Bosque,Lakeside,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Bosque,Lakeside,"Chief Justice, 10th Ct of App Dist",,,Under Votes,227,12,150,65
+Bosque,Lakeside,"Dist Attorney, 220th Judicial Dist",,REP,Adam Sibley,1111,12,753,346
+Bosque,Lakeside,"Dist Attorney, 220th Judicial Dist",,,Over Votes,0,0,0,0
+Bosque,Lakeside,"Dist Attorney, 220th Judicial Dist",,,Under Votes,258,12,165,81
+Bosque,Lakeside,County Attorney,,REP,Zach Brown,1153,12,775,366
+Bosque,Lakeside,County Attorney,,,Over Votes,0,0,0,0
+Bosque,Lakeside,County Attorney,,,Under Votes,216,12,143,61
+Bosque,Lakeside,Sheriff,,REP,Trace Hendricks,1158,13,776,369
+Bosque,Lakeside,Sheriff,,,Over Votes,0,0,0,0
+Bosque,Lakeside,Sheriff,,,Under Votes,211,11,142,58
+Bosque,Lakeside,County Tax Assessor-Collector,,REP,Arlene Swiney,1157,16,776,365
+Bosque,Lakeside,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Bosque,Lakeside,County Tax Assessor-Collector,,,Under Votes,212,8,142,62
+Bosque,Lakeside,County Treasurer - Unexpired Term,,REP,Pam Browning,1130,14,761,355
+Bosque,Lakeside,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Bosque,Lakeside,County Treasurer - Unexpired Term,,,Under Votes,239,10,157,72
+Bosque,Lakeside,County Commissioner Precinct 1,Pct 1,REP,Billy Hall,1014,10,680,324
+Bosque,Lakeside,County Commissioner Precinct 1,Pct 1,,Write-ins,155,2,98,55
+Bosque,Lakeside,County Commissioner Precinct 1,Pct 1,,Over Votes,0,0,0,0
+Bosque,Lakeside,County Commissioner Precinct 1,Pct 1,,Under Votes,200,12,140,48
+Bosque,Lakeside,Constable Pct 1,Pct 1,REP,Scott Ferguson,1133,10,765,358
+Bosque,Lakeside,Constable Pct 1,Pct 1,,Over Votes,0,0,0,0
+Bosque,Lakeside,Constable Pct 1,Pct 1,,Under Votes,236,14,153,69
+Bosque,Laguna Park,Ballots Cast,,,,981,29,628,324
+Bosque,Laguna Park,Ballots Cast Blank,,,,1,0,1,0
+Bosque,Laguna Park,President,,REP,Donald J. Trump,817,19,533,265
+Bosque,Laguna Park,President,,DEM,Kamala D. Harris,151,10,86,55
+Bosque,Laguna Park,President,,LIB,Chase Oliver,4,0,4,0
+Bosque,Laguna Park,President,,GRN,Jill Stein,5,0,2,3
+Bosque,Laguna Park,President,,,Write-ins,2,0,2,0
+Bosque,Laguna Park,President,,,Over Votes,0,0,0,0
+Bosque,Laguna Park,President,,,Under Votes,2,0,1,1
+Bosque,Laguna Park,U.S. Senate,,REP,Ted Cruz,790,19,524,247
+Bosque,Laguna Park,U.S. Senate,,DEM,Colin Allred,166,9,90,67
+Bosque,Laguna Park,U.S. Senate,,LIB,Ted Brown,18,1,10,7
+Bosque,Laguna Park,U.S. Senate,,,Write-ins,1,0,0,1
+Bosque,Laguna Park,U.S. Senate,,,Over Votes,0,0,0,0
+Bosque,Laguna Park,U.S. Senate,,,Under Votes,6,0,4,2
+Bosque,Laguna Park,U.S. House,31,REP,John Carter,814,18,539,257
+Bosque,Laguna Park,U.S. House,31,DEM,Stuart Whitlow,141,8,74,59
+Bosque,Laguna Park,U.S. House,31,,Over Votes,3,0,3,0
+Bosque,Laguna Park,U.S. House,31,,Under Votes,23,3,12,8
+Bosque,Laguna Park,Railroad Commissioner,,REP,Christi Craddick,791,18,528,245
+Bosque,Laguna Park,Railroad Commissioner,,DEM,Katherine Culbert,134,7,79,48
+Bosque,Laguna Park,Railroad Commissioner,,LIB,Hawk Dunlap,23,0,7,16
+Bosque,Laguna Park,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,3,4
+Bosque,Laguna Park,Railroad Commissioner,,,Write-ins,1,0,1,0
+Bosque,Laguna Park,Railroad Commissioner,,,Over Votes,1,1,0,0
+Bosque,Laguna Park,Railroad Commissioner,,,Under Votes,24,3,10,11
+Bosque,Laguna Park,"Justice, Supreme Court,Pl 2",,REP,Jimmy Blacklock,804,18,540,246
+Bosque,Laguna Park,"Justice, Supreme Court,Pl 2",,DEM,DaSean Jones,142,6,76,60
+Bosque,Laguna Park,"Justice, Supreme Court,Pl 2",,,Over Votes,1,1,0,0
+Bosque,Laguna Park,"Justice, Supreme Court,Pl 2",,,Under Votes,34,4,12,18
+Bosque,Laguna Park,"Justice, Supreme Court,Pl 4",,REP,John Devine,797,18,534,245
+Bosque,Laguna Park,"Justice, Supreme Court,Pl 4",,DEM,Christine Vinh Weems,149,7,82,60
+Bosque,Laguna Park,"Justice, Supreme Court,Pl 4",,,Over Votes,1,1,0,0
+Bosque,Laguna Park,"Justice, Supreme Court,Pl 4",,,Under Votes,34,3,12,19
+Bosque,Laguna Park,"Justice, Supreme Court,Pl 6",,REP,Jane Bland,789,17,528,244
+Bosque,Laguna Park,"Justice, Supreme Court,Pl 6",,DEM,Bonnie Lee Goldstein,141,8,83,50
+Bosque,Laguna Park,"Justice, Supreme Court,Pl 6",,LIB,J. David Roberson,19,0,7,12
+Bosque,Laguna Park,"Justice, Supreme Court,Pl 6",,,Over Votes,1,1,0,0
+Bosque,Laguna Park,"Justice, Supreme Court,Pl 6",,,Under Votes,31,3,10,18
+Bosque,Laguna Park,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,797,19,538,240
+Bosque,Laguna Park,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,147,6,79,62
+Bosque,Laguna Park,"Presiding Judge, Ct of Crim App",,,Over Votes,1,1,0,0
+Bosque,Laguna Park,"Presiding Judge, Ct of Crim App",,,Under Votes,36,3,11,22
+Bosque,Laguna Park,"Judge, Ct of Crim App,Pl 7",,REP,Gina Parker,801,17,534,250
+Bosque,Laguna Park,"Judge, Ct of Crim App,Pl 7",,DEM,Nancy Mulder,142,7,81,54
+Bosque,Laguna Park,"Judge, Ct of Crim App,Pl 7",,,Over Votes,1,1,0,0
+Bosque,Laguna Park,"Judge, Ct of Crim App,Pl 7",,,Under Votes,37,4,13,20
+Bosque,Laguna Park,"Judge, Ct of Crim App,Pl 8",,REP,Lee Finley,815,19,540,256
+Bosque,Laguna Park,"Judge, Ct of Crim App,Pl 8",,DEM,Chika Anyiam,130,6,75,49
+Bosque,Laguna Park,"Judge, Ct of Crim App,Pl 8",,,Over Votes,2,1,1,0
+Bosque,Laguna Park,"Judge, Ct of Crim App,Pl 8",,,Under Votes,34,3,12,19
+Bosque,Laguna Park,State Representative,13,REP,Angelia Orr,789,18,519,252
+Bosque,Laguna Park,State Representative,13,DEM,Albert Hunter,153,7,91,55
+Bosque,Laguna Park,State Representative,13,,Over Votes,7,1,6,0
+Bosque,Laguna Park,State Representative,13,,Under Votes,32,3,12,17
+Bosque,Laguna Park,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,824,18,545,261
+Bosque,Laguna Park,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Bosque,Laguna Park,"Chief Justice, 10th Ct of App Dist",,,Under Votes,157,11,83,63
+Bosque,Laguna Park,"Dist Attorney, 220th Judicial Dist",,REP,Adam Sibley,816,18,541,257
+Bosque,Laguna Park,"Dist Attorney, 220th Judicial Dist",,,Over Votes,0,0,0,0
+Bosque,Laguna Park,"Dist Attorney, 220th Judicial Dist",,,Under Votes,165,11,87,67
+Bosque,Laguna Park,County Attorney,,REP,Zach Brown,836,18,549,269
+Bosque,Laguna Park,County Attorney,,,Over Votes,0,0,0,0
+Bosque,Laguna Park,County Attorney,,,Under Votes,145,11,79,55
+Bosque,Laguna Park,Sheriff,,REP,Trace Hendricks,835,18,550,267
+Bosque,Laguna Park,Sheriff,,,Over Votes,0,0,0,0
+Bosque,Laguna Park,Sheriff,,,Under Votes,146,11,78,57
+Bosque,Laguna Park,County Tax Assessor-Collector,,REP,Arlene Swiney,835,18,544,273
+Bosque,Laguna Park,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Bosque,Laguna Park,County Tax Assessor-Collector,,,Under Votes,146,11,84,51
+Bosque,Laguna Park,County Treasurer - Unexpired Term,,REP,Pam Browning,830,18,544,268
+Bosque,Laguna Park,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Bosque,Laguna Park,County Treasurer - Unexpired Term,,,Under Votes,151,11,84,56
+Bosque,Laguna Park,County Commissioner Precinct 1,Pct 1,REP,Billy Hall,787,18,516,253
+Bosque,Laguna Park,County Commissioner Precinct 1,Pct 1,,Write-ins,49,0,32,17
+Bosque,Laguna Park,County Commissioner Precinct 1,Pct 1,,Over Votes,2,1,1,0
+Bosque,Laguna Park,County Commissioner Precinct 1,Pct 1,,Under Votes,143,10,79,54
+Bosque,Laguna Park,Constable Pct 1,Pct 1,REP,Scott Ferguson,829,18,545,266
+Bosque,Laguna Park,Constable Pct 1,Pct 1,,Over Votes,0,0,0,0
+Bosque,Laguna Park,Constable Pct 1,Pct 1,,Under Votes,152,11,83,58
+Bosque,Cranfills Gap,Ballots Cast,,,,577,12,396,169
+Bosque,Cranfills Gap,Ballots Cast Blank,,,,0,0,0,0
+Bosque,Cranfills Gap,President,,REP,Donald J. Trump,496,6,339,151
+Bosque,Cranfills Gap,President,,DEM,Kamala D. Harris,70,6,52,12
+Bosque,Cranfills Gap,President,,LIB,Chase Oliver,6,0,2,4
+Bosque,Cranfills Gap,President,,GRN,Jill Stein,2,0,1,1
+Bosque,Cranfills Gap,President,,,Write-ins,1,0,0,1
+Bosque,Cranfills Gap,President,,,Over Votes,0,0,0,0
+Bosque,Cranfills Gap,President,,,Under Votes,2,0,2,0
+Bosque,Cranfills Gap,U.S. Senate,,REP,Ted Cruz,488,6,335,147
+Bosque,Cranfills Gap,U.S. Senate,,DEM,Colin Allred,78,6,55,17
+Bosque,Cranfills Gap,U.S. Senate,,LIB,Ted Brown,8,0,4,4
+Bosque,Cranfills Gap,U.S. Senate,,,Write-ins,1,0,0,1
+Bosque,Cranfills Gap,U.S. Senate,,,Over Votes,0,0,0,0
+Bosque,Cranfills Gap,U.S. Senate,,,Under Votes,2,0,2,0
+Bosque,Cranfills Gap,U.S. House,31,REP,John Carter,510,7,347,156
+Bosque,Cranfills Gap,U.S. House,31,DEM,Stuart Whitlow,57,5,43,9
+Bosque,Cranfills Gap,U.S. House,31,,Over Votes,1,0,1,0
+Bosque,Cranfills Gap,U.S. House,31,,Under Votes,9,0,5,4
+Bosque,Cranfills Gap,Railroad Commissioner,,REP,Christi Craddick,492,7,343,142
+Bosque,Cranfills Gap,Railroad Commissioner,,DEM,Katherine Culbert,52,4,37,11
+Bosque,Cranfills Gap,Railroad Commissioner,,LIB,Hawk Dunlap,15,0,10,5
+Bosque,Cranfills Gap,Railroad Commissioner,,GRN,Eddie Espinoza,4,1,2,1
+Bosque,Cranfills Gap,Railroad Commissioner,,,Write-ins,2,0,0,2
+Bosque,Cranfills Gap,Railroad Commissioner,,,Over Votes,0,0,0,0
+Bosque,Cranfills Gap,Railroad Commissioner,,,Under Votes,12,0,4,8
+Bosque,Cranfills Gap,"Justice, Supreme Court,Pl 2",,REP,Jimmy Blacklock,505,7,349,149
+Bosque,Cranfills Gap,"Justice, Supreme Court,Pl 2",,DEM,DaSean Jones,58,5,41,12
+Bosque,Cranfills Gap,"Justice, Supreme Court,Pl 2",,,Over Votes,0,0,0,0
+Bosque,Cranfills Gap,"Justice, Supreme Court,Pl 2",,,Under Votes,14,0,6,8
+Bosque,Cranfills Gap,"Justice, Supreme Court,Pl 4",,REP,John Devine,497,7,343,147
+Bosque,Cranfills Gap,"Justice, Supreme Court,Pl 4",,DEM,Christine Vinh Weems,63,5,44,14
+Bosque,Cranfills Gap,"Justice, Supreme Court,Pl 4",,,Over Votes,0,0,0,0
+Bosque,Cranfills Gap,"Justice, Supreme Court,Pl 4",,,Under Votes,17,0,9,8
+Bosque,Cranfills Gap,"Justice, Supreme Court,Pl 6",,REP,Jane Bland,486,7,337,142
+Bosque,Cranfills Gap,"Justice, Supreme Court,Pl 6",,DEM,Bonnie Lee Goldstein,59,5,43,11
+Bosque,Cranfills Gap,"Justice, Supreme Court,Pl 6",,LIB,J. David Roberson,18,0,11,7
+Bosque,Cranfills Gap,"Justice, Supreme Court,Pl 6",,,Over Votes,0,0,0,0
+Bosque,Cranfills Gap,"Justice, Supreme Court,Pl 6",,,Under Votes,14,0,5,9
+Bosque,Cranfills Gap,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,502,7,346,149
+Bosque,Cranfills Gap,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,60,5,45,10
+Bosque,Cranfills Gap,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Bosque,Cranfills Gap,"Presiding Judge, Ct of Crim App",,,Under Votes,15,0,5,10
+Bosque,Cranfills Gap,"Judge, Ct of Crim App,Pl 7",,REP,Gina Parker,495,7,343,145
+Bosque,Cranfills Gap,"Judge, Ct of Crim App,Pl 7",,DEM,Nancy Mulder,60,5,43,12
+Bosque,Cranfills Gap,"Judge, Ct of Crim App,Pl 7",,,Over Votes,0,0,0,0
+Bosque,Cranfills Gap,"Judge, Ct of Crim App,Pl 7",,,Under Votes,22,0,10,12
+Bosque,Cranfills Gap,"Judge, Ct of Crim App,Pl 8",,REP,Lee Finley,506,8,351,147
+Bosque,Cranfills Gap,"Judge, Ct of Crim App,Pl 8",,DEM,Chika Anyiam,53,4,40,9
+Bosque,Cranfills Gap,"Judge, Ct of Crim App,Pl 8",,,Over Votes,0,0,0,0
+Bosque,Cranfills Gap,"Judge, Ct of Crim App,Pl 8",,,Under Votes,18,0,5,13
+Bosque,Cranfills Gap,State Representative,13,REP,Angelia Orr,489,7,339,143
+Bosque,Cranfills Gap,State Representative,13,DEM,Albert Hunter,68,5,45,18
+Bosque,Cranfills Gap,State Representative,13,,Over Votes,4,0,4,0
+Bosque,Cranfills Gap,State Representative,13,,Under Votes,16,0,8,8
+Bosque,Cranfills Gap,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,509,8,353,148
+Bosque,Cranfills Gap,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Bosque,Cranfills Gap,"Chief Justice, 10th Ct of App Dist",,,Under Votes,68,4,43,21
+Bosque,Cranfills Gap,"Dist Attorney, 220th Judicial Dist",,REP,Adam Sibley,506,8,351,147
+Bosque,Cranfills Gap,"Dist Attorney, 220th Judicial Dist",,,Over Votes,0,0,0,0
+Bosque,Cranfills Gap,"Dist Attorney, 220th Judicial Dist",,,Under Votes,71,4,45,22
+Bosque,Cranfills Gap,County Attorney,,REP,Zach Brown,511,9,353,149
+Bosque,Cranfills Gap,County Attorney,,,Over Votes,0,0,0,0
+Bosque,Cranfills Gap,County Attorney,,,Under Votes,66,3,43,20
+Bosque,Cranfills Gap,Sheriff,,REP,Trace Hendricks,509,9,355,145
+Bosque,Cranfills Gap,Sheriff,,,Over Votes,0,0,0,0
+Bosque,Cranfills Gap,Sheriff,,,Under Votes,68,3,41,24
+Bosque,Cranfills Gap,County Tax Assessor-Collector,,REP,Arlene Swiney,513,9,353,151
+Bosque,Cranfills Gap,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Bosque,Cranfills Gap,County Tax Assessor-Collector,,,Under Votes,64,3,43,18
+Bosque,Cranfills Gap,County Treasurer - Unexpired Term,,REP,Pam Browning,515,9,359,147
+Bosque,Cranfills Gap,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Bosque,Cranfills Gap,County Treasurer - Unexpired Term,,,Under Votes,62,3,37,22
+Bosque,Cranfills Gap,Constable Pct 2,Pct 2,REP,Jay Sparkman,514,9,356,149
+Bosque,Cranfills Gap,Constable Pct 2,Pct 2,,Over Votes,0,0,0,0
+Bosque,Cranfills Gap,Constable Pct 2,Pct 2,,Under Votes,63,3,40,20
+Bosque,Clifton 8,Ballots Cast,,,,1729,66,1381,282
+Bosque,Clifton 8,Ballots Cast Blank,,,,1,0,1,0
+Bosque,Clifton 8,President,,REP,Donald J. Trump,1374,37,1114,223
+Bosque,Clifton 8,President,,DEM,Kamala D. Harris,331,28,248,55
+Bosque,Clifton 8,President,,LIB,Chase Oliver,8,0,7,1
+Bosque,Clifton 8,President,,GRN,Jill Stein,5,0,4,1
+Bosque,Clifton 8,President,,,Write-ins,3,0,3,0
+Bosque,Clifton 8,President,,,Over Votes,0,0,0,0
+Bosque,Clifton 8,President,,,Under Votes,8,1,5,2
+Bosque,Clifton 8,U.S. Senate,,REP,Ted Cruz,1313,38,1069,206
+Bosque,Clifton 8,U.S. Senate,,DEM,Colin Allred,367,26,281,60
+Bosque,Clifton 8,U.S. Senate,,LIB,Ted Brown,34,2,22,10
+Bosque,Clifton 8,U.S. Senate,,,Write-ins,2,0,0,2
+Bosque,Clifton 8,U.S. Senate,,,Over Votes,1,0,1,0
+Bosque,Clifton 8,U.S. Senate,,,Under Votes,12,0,8,4
+Bosque,Clifton 8,U.S. House,31,REP,John Carter,1386,40,1119,227
+Bosque,Clifton 8,U.S. House,31,DEM,Stuart Whitlow,290,24,219,47
+Bosque,Clifton 8,U.S. House,31,,Over Votes,6,0,6,0
+Bosque,Clifton 8,U.S. House,31,,Under Votes,47,2,37,8
+Bosque,Clifton 8,Railroad Commissioner,,REP,Christi Craddick,1357,40,1101,216
+Bosque,Clifton 8,Railroad Commissioner,,DEM,Katherine Culbert,269,20,206,43
+Bosque,Clifton 8,Railroad Commissioner,,LIB,Hawk Dunlap,39,2,30,7
+Bosque,Clifton 8,Railroad Commissioner,,GRN,Eddie Espinoza,12,0,6,6
+Bosque,Clifton 8,Railroad Commissioner,,,Write-ins,1,0,1,0
+Bosque,Clifton 8,Railroad Commissioner,,,Over Votes,1,0,1,0
+Bosque,Clifton 8,Railroad Commissioner,,,Under Votes,50,4,36,10
+Bosque,Clifton 8,"Justice, Supreme Court,Pl 2",,REP,Jimmy Blacklock,1373,39,1117,217
+Bosque,Clifton 8,"Justice, Supreme Court,Pl 2",,DEM,DaSean Jones,291,23,218,50
+Bosque,Clifton 8,"Justice, Supreme Court,Pl 2",,,Over Votes,1,0,1,0
+Bosque,Clifton 8,"Justice, Supreme Court,Pl 2",,,Under Votes,64,4,45,15
+Bosque,Clifton 8,"Justice, Supreme Court,Pl 4",,REP,John Devine,1360,39,1102,219
+Bosque,Clifton 8,"Justice, Supreme Court,Pl 4",,DEM,Christine Vinh Weems,298,23,230,45
+Bosque,Clifton 8,"Justice, Supreme Court,Pl 4",,,Over Votes,1,0,1,0
+Bosque,Clifton 8,"Justice, Supreme Court,Pl 4",,,Under Votes,70,4,48,18
+Bosque,Clifton 8,"Justice, Supreme Court,Pl 6",,REP,Jane Bland,1353,39,1103,211
+Bosque,Clifton 8,"Justice, Supreme Court,Pl 6",,DEM,Bonnie Lee Goldstein,276,20,211,45
+Bosque,Clifton 8,"Justice, Supreme Court,Pl 6",,LIB,J. David Roberson,35,2,22,11
+Bosque,Clifton 8,"Justice, Supreme Court,Pl 6",,,Over Votes,2,0,2,0
+Bosque,Clifton 8,"Justice, Supreme Court,Pl 6",,,Under Votes,63,5,43,15
+Bosque,Clifton 8,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1352,40,1100,212
+Bosque,Clifton 8,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,306,22,230,54
+Bosque,Clifton 8,"Presiding Judge, Ct of Crim App",,,Over Votes,1,0,1,0
+Bosque,Clifton 8,"Presiding Judge, Ct of Crim App",,,Under Votes,70,4,50,16
+Bosque,Clifton 8,"Judge, Ct of Crim App,Pl 7",,REP,Gina Parker,1349,37,1098,214
+Bosque,Clifton 8,"Judge, Ct of Crim App,Pl 7",,DEM,Nancy Mulder,288,24,215,49
+Bosque,Clifton 8,"Judge, Ct of Crim App,Pl 7",,,Over Votes,1,0,1,0
+Bosque,Clifton 8,"Judge, Ct of Crim App,Pl 7",,,Under Votes,91,5,67,19
+Bosque,Clifton 8,"Judge, Ct of Crim App,Pl 8",,REP,Lee Finley,1373,39,1114,220
+Bosque,Clifton 8,"Judge, Ct of Crim App,Pl 8",,DEM,Chika Anyiam,275,23,207,45
+Bosque,Clifton 8,"Judge, Ct of Crim App,Pl 8",,,Over Votes,1,0,1,0
+Bosque,Clifton 8,"Judge, Ct of Crim App,Pl 8",,,Under Votes,80,4,59,17
+Bosque,Clifton 8,State Representative,13,REP,Angelia Orr,1316,37,1073,206
+Bosque,Clifton 8,State Representative,13,DEM,Albert Hunter,344,25,256,63
+Bosque,Clifton 8,State Representative,13,,Over Votes,10,0,10,0
+Bosque,Clifton 8,State Representative,13,,Under Votes,59,4,42,13
+Bosque,Clifton 8,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,1458,53,1165,240
+Bosque,Clifton 8,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Bosque,Clifton 8,"Chief Justice, 10th Ct of App Dist",,,Under Votes,271,13,216,42
+Bosque,Clifton 8,"Dist Attorney, 220th Judicial Dist",,REP,Adam Sibley,1478,57,1178,243
+Bosque,Clifton 8,"Dist Attorney, 220th Judicial Dist",,,Over Votes,0,0,0,0
+Bosque,Clifton 8,"Dist Attorney, 220th Judicial Dist",,,Under Votes,251,9,203,39
+Bosque,Clifton 8,County Attorney,,REP,Zach Brown,1498,58,1192,248
+Bosque,Clifton 8,County Attorney,,,Over Votes,0,0,0,0
+Bosque,Clifton 8,County Attorney,,,Under Votes,231,8,189,34
+Bosque,Clifton 8,Sheriff,,REP,Trace Hendricks,1481,56,1179,246
+Bosque,Clifton 8,Sheriff,,,Over Votes,0,0,0,0
+Bosque,Clifton 8,Sheriff,,,Under Votes,248,10,202,36
+Bosque,Clifton 8,County Tax Assessor-Collector,,REP,Arlene Swiney,1480,58,1177,245
+Bosque,Clifton 8,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Bosque,Clifton 8,County Tax Assessor-Collector,,,Under Votes,249,8,204,37
+Bosque,Clifton 8,County Treasurer - Unexpired Term,,REP,Pam Browning,1457,54,1164,239
+Bosque,Clifton 8,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Bosque,Clifton 8,County Treasurer - Unexpired Term,,,Under Votes,272,12,217,43
+Bosque,Clifton 8,Constable Pct 2,Pct 2,REP,Jay Sparkman,1487,58,1182,247
+Bosque,Clifton 8,Constable Pct 2,Pct 2,,Over Votes,0,0,0,0
+Bosque,Clifton 8,Constable Pct 2,Pct 2,,Under Votes,242,8,199,35
+Bosque,Clifton 9,Ballots Cast,,,,628,17,500,111
+Bosque,Clifton 9,Ballots Cast Blank,,,,0,0,0,0
+Bosque,Clifton 9,President,,REP,Donald J. Trump,515,11,414,90
+Bosque,Clifton 9,President,,DEM,Kamala D. Harris,106,6,81,19
+Bosque,Clifton 9,President,,LIB,Chase Oliver,3,0,3,0
+Bosque,Clifton 9,President,,GRN,Jill Stein,2,0,1,1
+Bosque,Clifton 9,President,,,Write-ins,0,0,0,0
+Bosque,Clifton 9,President,,,Over Votes,0,0,0,0
+Bosque,Clifton 9,President,,,Under Votes,2,0,1,1
+Bosque,Clifton 9,U.S. Senate,,REP,Ted Cruz,497,10,406,81
+Bosque,Clifton 9,U.S. Senate,,DEM,Colin Allred,112,7,84,21
+Bosque,Clifton 9,U.S. Senate,,LIB,Ted Brown,11,0,6,5
+Bosque,Clifton 9,U.S. Senate,,,Write-ins,2,0,1,1
+Bosque,Clifton 9,U.S. Senate,,,Over Votes,0,0,0,0
+Bosque,Clifton 9,U.S. Senate,,,Under Votes,6,0,3,3
+Bosque,Clifton 9,U.S. House,31,REP,John Carter,514,11,415,88
+Bosque,Clifton 9,U.S. House,31,DEM,Stuart Whitlow,94,6,71,17
+Bosque,Clifton 9,U.S. House,31,,Over Votes,2,0,2,0
+Bosque,Clifton 9,U.S. House,31,,Under Votes,18,0,12,6
+Bosque,Clifton 9,Railroad Commissioner,,REP,Christi Craddick,503,11,411,81
+Bosque,Clifton 9,Railroad Commissioner,,DEM,Katherine Culbert,89,5,66,18
+Bosque,Clifton 9,Railroad Commissioner,,LIB,Hawk Dunlap,12,1,7,4
+Bosque,Clifton 9,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,2,2
+Bosque,Clifton 9,Railroad Commissioner,,,Write-ins,1,0,0,1
+Bosque,Clifton 9,Railroad Commissioner,,,Over Votes,0,0,0,0
+Bosque,Clifton 9,Railroad Commissioner,,,Under Votes,19,0,14,5
+Bosque,Clifton 9,"Justice, Supreme Court,Pl 2",,REP,Jimmy Blacklock,513,12,414,87
+Bosque,Clifton 9,"Justice, Supreme Court,Pl 2",,DEM,DaSean Jones,96,5,72,19
+Bosque,Clifton 9,"Justice, Supreme Court,Pl 2",,,Over Votes,0,0,0,0
+Bosque,Clifton 9,"Justice, Supreme Court,Pl 2",,,Under Votes,19,0,14,5
+Bosque,Clifton 9,"Justice, Supreme Court,Pl 4",,REP,John Devine,505,11,411,83
+Bosque,Clifton 9,"Justice, Supreme Court,Pl 4",,DEM,Christine Vinh Weems,101,6,72,23
+Bosque,Clifton 9,"Justice, Supreme Court,Pl 4",,,Over Votes,0,0,0,0
+Bosque,Clifton 9,"Justice, Supreme Court,Pl 4",,,Under Votes,22,0,17,5
+Bosque,Clifton 9,"Justice, Supreme Court,Pl 6",,REP,Jane Bland,505,11,409,85
+Bosque,Clifton 9,"Justice, Supreme Court,Pl 6",,DEM,Bonnie Lee Goldstein,97,6,72,19
+Bosque,Clifton 9,"Justice, Supreme Court,Pl 6",,LIB,J. David Roberson,7,0,5,2
+Bosque,Clifton 9,"Justice, Supreme Court,Pl 6",,,Over Votes,0,0,0,0
+Bosque,Clifton 9,"Justice, Supreme Court,Pl 6",,,Under Votes,19,0,14,5
+Bosque,Clifton 9,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,511,11,414,86
+Bosque,Clifton 9,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,98,6,71,21
+Bosque,Clifton 9,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Bosque,Clifton 9,"Presiding Judge, Ct of Crim App",,,Under Votes,19,0,15,4
+Bosque,Clifton 9,"Judge, Ct of Crim App,Pl 7",,REP,Gina Parker,506,11,411,84
+Bosque,Clifton 9,"Judge, Ct of Crim App,Pl 7",,DEM,Nancy Mulder,97,6,70,21
+Bosque,Clifton 9,"Judge, Ct of Crim App,Pl 7",,,Over Votes,0,0,0,0
+Bosque,Clifton 9,"Judge, Ct of Crim App,Pl 7",,,Under Votes,25,0,19,6
+Bosque,Clifton 9,"Judge, Ct of Crim App,Pl 8",,REP,Lee Finley,516,12,416,88
+Bosque,Clifton 9,"Judge, Ct of Crim App,Pl 8",,DEM,Chika Anyiam,87,5,65,17
+Bosque,Clifton 9,"Judge, Ct of Crim App,Pl 8",,,Over Votes,0,0,0,0
+Bosque,Clifton 9,"Judge, Ct of Crim App,Pl 8",,,Under Votes,25,0,19,6
+Bosque,Clifton 9,State Representative,13,REP,Angelia Orr,498,11,401,86
+Bosque,Clifton 9,State Representative,13,DEM,Albert Hunter,109,6,82,21
+Bosque,Clifton 9,State Representative,13,,Over Votes,4,0,4,0
+Bosque,Clifton 9,State Representative,13,,Under Votes,17,0,13,4
+Bosque,Clifton 9,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,531,13,425,93
+Bosque,Clifton 9,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Bosque,Clifton 9,"Chief Justice, 10th Ct of App Dist",,,Under Votes,97,4,75,18
+Bosque,Clifton 9,"Dist Attorney, 220th Judicial Dist",,REP,Adam Sibley,533,13,424,96
+Bosque,Clifton 9,"Dist Attorney, 220th Judicial Dist",,,Over Votes,0,0,0,0
+Bosque,Clifton 9,"Dist Attorney, 220th Judicial Dist",,,Under Votes,95,4,76,15
+Bosque,Clifton 9,County Attorney,,REP,Zach Brown,542,14,432,96
+Bosque,Clifton 9,County Attorney,,,Over Votes,0,0,0,0
+Bosque,Clifton 9,County Attorney,,,Under Votes,86,3,68,15
+Bosque,Clifton 9,Sheriff,,REP,Trace Hendricks,541,13,428,100
+Bosque,Clifton 9,Sheriff,,,Over Votes,0,0,0,0
+Bosque,Clifton 9,Sheriff,,,Under Votes,87,4,72,11
+Bosque,Clifton 9,County Tax Assessor-Collector,,REP,Arlene Swiney,546,13,434,99
+Bosque,Clifton 9,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Bosque,Clifton 9,County Tax Assessor-Collector,,,Under Votes,82,4,66,12
+Bosque,Clifton 9,County Treasurer - Unexpired Term,,REP,Pam Browning,534,13,426,95
+Bosque,Clifton 9,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Bosque,Clifton 9,County Treasurer - Unexpired Term,,,Under Votes,94,4,74,16
+Bosque,Clifton 9,County Commissioner Pct 3,Pct 3,REP,Larry (Shotgun) Philipp,511,11,408,92
+Bosque,Clifton 9,County Commissioner Pct 3,Pct 3,,Over Votes,0,0,0,0
+Bosque,Clifton 9,County Commissioner Pct 3,Pct 3,,Under Votes,117,6,92,19
+Bosque,Clifton 9,Constable Pct 2,Pct 2,REP,Jay Sparkman,540,12,430,98
+Bosque,Clifton 9,Constable Pct 2,Pct 2,,Over Votes,0,0,0,0
+Bosque,Clifton 9,Constable Pct 2,Pct 2,,Under Votes,88,5,70,13
+Bosque,Valley Mills,Ballots Cast,,,,1082,14,595,473
+Bosque,Valley Mills,Ballots Cast Blank,,,,1,0,0,1
+Bosque,Valley Mills,President,,REP,Donald J. Trump,876,9,493,374
+Bosque,Valley Mills,President,,DEM,Kamala D. Harris,190,5,93,92
+Bosque,Valley Mills,President,,LIB,Chase Oliver,5,0,4,1
+Bosque,Valley Mills,President,,GRN,Jill Stein,4,0,1,3
+Bosque,Valley Mills,President,,,Write-ins,3,0,1,2
+Bosque,Valley Mills,President,,,Over Votes,1,0,1,0
+Bosque,Valley Mills,President,,,Under Votes,3,0,2,1
+Bosque,Valley Mills,U.S. Senate,,REP,Ted Cruz,834,8,477,349
+Bosque,Valley Mills,U.S. Senate,,DEM,Colin Allred,220,6,102,112
+Bosque,Valley Mills,U.S. Senate,,LIB,Ted Brown,18,0,9,9
+Bosque,Valley Mills,U.S. Senate,,,Write-ins,4,0,3,1
+Bosque,Valley Mills,U.S. Senate,,,Over Votes,0,0,0,0
+Bosque,Valley Mills,U.S. Senate,,,Under Votes,6,0,4,2
+Bosque,Valley Mills,U.S. House,31,REP,John Carter,873,9,498,366
+Bosque,Valley Mills,U.S. House,31,DEM,Stuart Whitlow,183,4,88,91
+Bosque,Valley Mills,U.S. House,31,,Over Votes,1,0,1,0
+Bosque,Valley Mills,U.S. House,31,,Under Votes,25,1,8,16
+Bosque,Valley Mills,Railroad Commissioner,,REP,Christi Craddick,850,9,488,353
+Bosque,Valley Mills,Railroad Commissioner,,DEM,Katherine Culbert,162,4,80,78
+Bosque,Valley Mills,Railroad Commissioner,,LIB,Hawk Dunlap,32,0,14,18
+Bosque,Valley Mills,Railroad Commissioner,,GRN,Eddie Espinoza,12,0,5,7
+Bosque,Valley Mills,Railroad Commissioner,,,Write-ins,1,0,1,0
+Bosque,Valley Mills,Railroad Commissioner,,,Over Votes,0,0,0,0
+Bosque,Valley Mills,Railroad Commissioner,,,Under Votes,25,1,7,17
+Bosque,Valley Mills,"Justice, Supreme Court,Pl 2",,REP,Jimmy Blacklock,876,9,500,367
+Bosque,Valley Mills,"Justice, Supreme Court,Pl 2",,DEM,DaSean Jones,175,4,83,88
+Bosque,Valley Mills,"Justice, Supreme Court,Pl 2",,,Over Votes,0,0,0,0
+Bosque,Valley Mills,"Justice, Supreme Court,Pl 2",,,Under Votes,31,1,12,18
+Bosque,Valley Mills,"Justice, Supreme Court,Pl 4",,REP,John Devine,864,8,493,363
+Bosque,Valley Mills,"Justice, Supreme Court,Pl 4",,DEM,Christine Vinh Weems,182,5,87,90
+Bosque,Valley Mills,"Justice, Supreme Court,Pl 4",,,Over Votes,0,0,0,0
+Bosque,Valley Mills,"Justice, Supreme Court,Pl 4",,,Under Votes,36,1,15,20
+Bosque,Valley Mills,"Justice, Supreme Court,Pl 6",,REP,Jane Bland,853,8,492,353
+Bosque,Valley Mills,"Justice, Supreme Court,Pl 6",,DEM,Bonnie Lee Goldstein,174,5,83,86
+Bosque,Valley Mills,"Justice, Supreme Court,Pl 6",,LIB,J. David Roberson,26,0,12,14
+Bosque,Valley Mills,"Justice, Supreme Court,Pl 6",,,Over Votes,1,0,0,1
+Bosque,Valley Mills,"Justice, Supreme Court,Pl 6",,,Under Votes,28,1,8,19
+Bosque,Valley Mills,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,861,9,494,358
+Bosque,Valley Mills,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,189,4,91,94
+Bosque,Valley Mills,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Bosque,Valley Mills,"Presiding Judge, Ct of Crim App",,,Under Votes,32,1,10,21
+Bosque,Valley Mills,"Judge, Ct of Crim App,Pl 7",,REP,Gina Parker,861,9,494,358
+Bosque,Valley Mills,"Judge, Ct of Crim App,Pl 7",,DEM,Nancy Mulder,179,4,86,89
+Bosque,Valley Mills,"Judge, Ct of Crim App,Pl 7",,,Over Votes,0,0,0,0
+Bosque,Valley Mills,"Judge, Ct of Crim App,Pl 7",,,Under Votes,42,1,15,26
+Bosque,Valley Mills,"Judge, Ct of Crim App,Pl 8",,REP,Lee Finley,879,9,499,371
+Bosque,Valley Mills,"Judge, Ct of Crim App,Pl 8",,DEM,Chika Anyiam,161,4,81,76
+Bosque,Valley Mills,"Judge, Ct of Crim App,Pl 8",,,Over Votes,0,0,0,0
+Bosque,Valley Mills,"Judge, Ct of Crim App,Pl 8",,,Under Votes,42,1,15,26
+Bosque,Valley Mills,State Representative,13,REP,Angelia Orr,866,9,496,361
+Bosque,Valley Mills,State Representative,13,DEM,Albert Hunter,190,4,92,94
+Bosque,Valley Mills,State Representative,13,,Over Votes,1,0,1,0
+Bosque,Valley Mills,State Representative,13,,Under Votes,25,1,6,18
+Bosque,Valley Mills,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,922,10,524,388
+Bosque,Valley Mills,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Bosque,Valley Mills,"Chief Justice, 10th Ct of App Dist",,,Under Votes,160,4,71,85
+Bosque,Valley Mills,"Dist Attorney, 220th Judicial Dist",,REP,Adam Sibley,909,10,518,381
+Bosque,Valley Mills,"Dist Attorney, 220th Judicial Dist",,,Over Votes,0,0,0,0
+Bosque,Valley Mills,"Dist Attorney, 220th Judicial Dist",,,Under Votes,173,4,77,92
+Bosque,Valley Mills,County Attorney,,REP,Zach Brown,913,10,519,384
+Bosque,Valley Mills,County Attorney,,,Over Votes,0,0,0,0
+Bosque,Valley Mills,County Attorney,,,Under Votes,169,4,76,89
+Bosque,Valley Mills,Sheriff,,REP,Trace Hendricks,906,11,517,378
+Bosque,Valley Mills,Sheriff,,,Over Votes,0,0,0,0
+Bosque,Valley Mills,Sheriff,,,Under Votes,176,3,78,95
+Bosque,Valley Mills,County Tax Assessor-Collector,,REP,Arlene Swiney,925,11,524,390
+Bosque,Valley Mills,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Bosque,Valley Mills,County Tax Assessor-Collector,,,Under Votes,157,3,71,83
+Bosque,Valley Mills,County Treasurer - Unexpired Term,,REP,Pam Browning,907,10,516,381
+Bosque,Valley Mills,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Bosque,Valley Mills,County Treasurer - Unexpired Term,,,Under Votes,175,4,79,92
+Bosque,Valley Mills,County Commissioner Pct 3,Pct 3,REP,Larry (Shotgun) Philipp,915,10,518,387
+Bosque,Valley Mills,County Commissioner Pct 3,Pct 3,,Over Votes,0,0,0,0
+Bosque,Valley Mills,County Commissioner Pct 3,Pct 3,,Under Votes,167,4,77,86
+Bosque,Valley Mills,Constable Pct 2,Pct 2,REP,Jay Sparkman,915,10,517,388
+Bosque,Valley Mills,Constable Pct 2,Pct 2,,Over Votes,0,0,0,0
+Bosque,Valley Mills,Constable Pct 2,Pct 2,,Under Votes,167,4,78,85
+Bosque,Cayote,Ballots Cast,,,,716,24,432,260
+Bosque,Cayote,Ballots Cast Blank,,,,0,0,0,0
+Bosque,Cayote,President,,REP,Donald J. Trump,610,15,378,217
+Bosque,Cayote,President,,DEM,Kamala D. Harris,98,9,51,38
+Bosque,Cayote,President,,LIB,Chase Oliver,4,0,0,4
+Bosque,Cayote,President,,GRN,Jill Stein,3,0,3,0
+Bosque,Cayote,President,,,Write-ins,0,0,0,0
+Bosque,Cayote,President,,,Over Votes,0,0,0,0
+Bosque,Cayote,President,,,Under Votes,1,0,0,1
+Bosque,Cayote,U.S. Senate,,REP,Ted Cruz,592,15,369,208
+Bosque,Cayote,U.S. Senate,,DEM,Colin Allred,107,9,56,42
+Bosque,Cayote,U.S. Senate,,LIB,Ted Brown,14,0,5,9
+Bosque,Cayote,U.S. Senate,,,Write-ins,2,0,1,1
+Bosque,Cayote,U.S. Senate,,,Over Votes,0,0,0,0
+Bosque,Cayote,U.S. Senate,,,Under Votes,1,0,1,0
+Bosque,Cayote,U.S. House,31,REP,John Carter,622,15,381,226
+Bosque,Cayote,U.S. House,31,DEM,Stuart Whitlow,85,8,48,29
+Bosque,Cayote,U.S. House,31,,Over Votes,1,0,1,0
+Bosque,Cayote,U.S. House,31,,Under Votes,8,1,2,5
+Bosque,Cayote,Railroad Commissioner,,REP,Christi Craddick,597,13,374,210
+Bosque,Cayote,Railroad Commissioner,,DEM,Katherine Culbert,72,9,37,26
+Bosque,Cayote,Railroad Commissioner,,LIB,Hawk Dunlap,25,0,9,16
+Bosque,Cayote,Railroad Commissioner,,GRN,Eddie Espinoza,9,0,6,3
+Bosque,Cayote,Railroad Commissioner,,,Write-ins,1,0,1,0
+Bosque,Cayote,Railroad Commissioner,,,Over Votes,0,0,0,0
+Bosque,Cayote,Railroad Commissioner,,,Under Votes,12,2,5,5
+Bosque,Cayote,"Justice, Supreme Court,Pl 2",,REP,Jimmy Blacklock,615,13,382,220
+Bosque,Cayote,"Justice, Supreme Court,Pl 2",,DEM,DaSean Jones,82,8,42,32
+Bosque,Cayote,"Justice, Supreme Court,Pl 2",,,Over Votes,0,0,0,0
+Bosque,Cayote,"Justice, Supreme Court,Pl 2",,,Under Votes,19,3,8,8
+Bosque,Cayote,"Justice, Supreme Court,Pl 4",,REP,John Devine,603,12,374,217
+Bosque,Cayote,"Justice, Supreme Court,Pl 4",,DEM,Christine Vinh Weems,96,9,51,36
+Bosque,Cayote,"Justice, Supreme Court,Pl 4",,,Over Votes,0,0,0,0
+Bosque,Cayote,"Justice, Supreme Court,Pl 4",,,Under Votes,17,3,7,7
+Bosque,Cayote,"Justice, Supreme Court,Pl 6",,REP,Jane Bland,603,13,375,215
+Bosque,Cayote,"Justice, Supreme Court,Pl 6",,DEM,Bonnie Lee Goldstein,81,8,45,28
+Bosque,Cayote,"Justice, Supreme Court,Pl 6",,LIB,J. David Roberson,13,0,3,10
+Bosque,Cayote,"Justice, Supreme Court,Pl 6",,,Over Votes,0,0,0,0
+Bosque,Cayote,"Justice, Supreme Court,Pl 6",,,Under Votes,19,3,9,7
+Bosque,Cayote,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,606,12,375,219
+Bosque,Cayote,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,89,8,48,33
+Bosque,Cayote,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Bosque,Cayote,"Presiding Judge, Ct of Crim App",,,Under Votes,21,4,9,8
+Bosque,Cayote,"Judge, Ct of Crim App,Pl 7",,REP,Gina Parker,607,11,377,219
+Bosque,Cayote,"Judge, Ct of Crim App,Pl 7",,DEM,Nancy Mulder,82,8,45,29
+Bosque,Cayote,"Judge, Ct of Crim App,Pl 7",,,Over Votes,0,0,0,0
+Bosque,Cayote,"Judge, Ct of Crim App,Pl 7",,,Under Votes,27,5,10,12
+Bosque,Cayote,"Judge, Ct of Crim App,Pl 8",,REP,Lee Finley,617,13,382,222
+Bosque,Cayote,"Judge, Ct of Crim App,Pl 8",,DEM,Chika Anyiam,80,8,43,29
+Bosque,Cayote,"Judge, Ct of Crim App,Pl 8",,,Over Votes,0,0,0,0
+Bosque,Cayote,"Judge, Ct of Crim App,Pl 8",,,Under Votes,19,3,7,9
+Bosque,Cayote,State Representative,13,REP,Angelia Orr,606,13,375,218
+Bosque,Cayote,State Representative,13,DEM,Albert Hunter,90,8,46,36
+Bosque,Cayote,State Representative,13,,Over Votes,1,0,1,0
+Bosque,Cayote,State Representative,13,,Under Votes,19,3,10,6
+Bosque,Cayote,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,623,14,376,233
+Bosque,Cayote,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Bosque,Cayote,"Chief Justice, 10th Ct of App Dist",,,Under Votes,93,10,56,27
+Bosque,Cayote,"Dist Attorney, 220th Judicial Dist",,REP,Adam Sibley,619,14,376,229
+Bosque,Cayote,"Dist Attorney, 220th Judicial Dist",,,Over Votes,0,0,0,0
+Bosque,Cayote,"Dist Attorney, 220th Judicial Dist",,,Under Votes,97,10,56,31
+Bosque,Cayote,County Attorney,,REP,Zach Brown,631,14,385,232
+Bosque,Cayote,County Attorney,,,Over Votes,0,0,0,0
+Bosque,Cayote,County Attorney,,,Under Votes,85,10,47,28
+Bosque,Cayote,Sheriff,,REP,Trace Hendricks,630,14,381,235
+Bosque,Cayote,Sheriff,,,Over Votes,0,0,0,0
+Bosque,Cayote,Sheriff,,,Under Votes,86,10,51,25
+Bosque,Cayote,County Tax Assessor-Collector,,REP,Arlene Swiney,635,16,384,235
+Bosque,Cayote,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Bosque,Cayote,County Tax Assessor-Collector,,,Under Votes,81,8,48,25
+Bosque,Cayote,County Treasurer - Unexpired Term,,REP,Pam Browning,619,17,374,228
+Bosque,Cayote,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Bosque,Cayote,County Treasurer - Unexpired Term,,,Under Votes,97,7,58,32
+Bosque,Cayote,County Commissioner Pct 3,Pct 3,REP,Larry (Shotgun) Philipp,617,17,376,224
+Bosque,Cayote,County Commissioner Pct 3,Pct 3,,Over Votes,0,0,0,0
+Bosque,Cayote,County Commissioner Pct 3,Pct 3,,Under Votes,99,7,56,36
+Bosque,Cayote,Constable Pct 2,Pct 2,REP,Jay Sparkman,624,16,373,235
+Bosque,Cayote,Constable Pct 2,Pct 2,,Over Votes,0,0,0,0
+Bosque,Cayote,Constable Pct 2,Pct 2,,Under Votes,92,8,59,25
