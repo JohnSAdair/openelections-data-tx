@@ -1,0 +1,700 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Starr,Precinct 1,Ballots Cast,,,,1674,19,1330,325
+Starr,Precinct 1,Ballots Cast Blank,,,,3,0,2,1
+Starr,Precinct 1,President,,REP,Donald J. Trump,873,9,683,181
+Starr,Precinct 1,President,,DEM,Kamala D. Harris,732,10,587,135
+Starr,Precinct 1,President,,LIB,Chase Oliver,3,0,3,0
+Starr,Precinct 1,President,,GRN,Jill Stein,2,0,1,1
+Starr,Precinct 1,President,,,Write-ins,1,0,1,0
+Starr,Precinct 1,U.S. Senate,,REP,Ted Cruz,681,7,528,146
+Starr,Precinct 1,U.S. Senate,,DEM,Colin Allred,744,11,602,131
+Starr,Precinct 1,U.S. Senate,,LIB,Ted Brown,37,0,25,12
+Starr,Precinct 1,U.S. Senate,,,Write-ins,0,0,0,0
+Starr,Precinct 1,U.S. House,28,REP,Jay Furman,474,3,373,98
+Starr,Precinct 1,U.S. House,28,DEM,Henry Cuellar,1020,16,809,195
+Starr,Precinct 1,Railroad Commissioner,,REP,Christi Craddick,495,8,383,104
+Starr,Precinct 1,Railroad Commissioner,,DEM,Katherine Culbert,604,11,478,115
+Starr,Precinct 1,Railroad Commissioner,,LIB,Hawk Dunlap,37,0,28,9
+Starr,Precinct 1,Railroad Commissioner,,GRN,Eddie Espinoza,138,0,111,27
+Starr,Precinct 1,Railroad Commissioner,,,Write-ins,6,0,4,2
+Starr,Precinct 1,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,591,8,452,131
+Starr,Precinct 1,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,649,11,520,118
+Starr,Precinct 1,"Justice, Supreme Court, Pl 4",,REP,John Devine,572,7,439,126
+Starr,Precinct 1,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,664,12,531,121
+Starr,Precinct 1,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,532,8,409,115
+Starr,Precinct 1,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,650,11,522,117
+Starr,Precinct 1,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,68,0,51,17
+Starr,Precinct 1,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,560,8,433,119
+Starr,Precinct 1,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,664,11,529,124
+Starr,Precinct 1,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,554,8,419,127
+Starr,Precinct 1,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,646,11,520,115
+Starr,Precinct 1,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,587,8,456,123
+Starr,Precinct 1,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,634,11,502,121
+Starr,Precinct 1,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,931,14,733,184
+Starr,Precinct 1,State Representative,31,REP,Ryan Guillen,1113,14,858,241
+Starr,Precinct 1,"Justice, 4th Ct of App Dist, Pl 2",,DEM,Velia J. Meza,878,14,686,178
+Starr,Precinct 1,"Justice, 4th Ct of App Dist, Pl 3",,REP,Todd McCray,490,8,375,107
+Starr,Precinct 1,"Justice, 4th Ct of App Dist, Pl 3",,DEM,Cynthia Marie Chapa,719,11,571,137
+Starr,Precinct 1,"Justice, 4th Ct of App Dist, Pl 4",,REP,Lori Massey Brissette,480,8,363,109
+Starr,Precinct 1,"Justice, 4th Ct of App Dist, Pl 4",,DEM,Luz Elena Chapa,716,11,569,136
+Starr,Precinct 1,"Justice, 4th Ct of App Dist, Pl 5",,REP,Adrian Spears,461,7,361,93
+Starr,Precinct 1,"Justice, 4th Ct of App Dist, Pl 5",,DEM,Liza A. Rodriguez,736,12,574,150
+Starr,Precinct 1,"Justice, 4th Ct of App Dist, Pl 7",,REP,Lori I. Valenzuela,803,13,613,177
+Starr,Precinct 1,"Dist Judge, 381st Judicial Dist",,DEM,Jose Luis Garza,1000,13,784,203
+Starr,Precinct 1,"Dist Attorney, 229th Judicial Dist",,DEM,Gocha Allen Ramirez,966,14,757,195
+Starr,Precinct 1,County Attorney,,DEM,Rene Montalvo,961,13,748,200
+Starr,Precinct 1,Sheriff,,REP,Alberto Ramon Olivares,539,5,417,117
+Starr,Precinct 1,Sheriff,,DEM,"Rene ""Orta"" Fuentes",1051,13,861,177
+Starr,Precinct 1,County Tax Assessor-Collector,,REP,Claudia M. Alcazar,542,4,427,111
+Starr,Precinct 1,County Tax Assessor-Collector,,DEM,Ameida Salinas,909,14,732,163
+Starr,Precinct 1,Constable Pct 4,,REP,Billy Martin,422,5,320,97
+Starr,Precinct 1,Constable Pct 4,,DEM,Joel Rocha,1008,12,817,179
+Starr,Precinct 2,Ballots Cast,,,,1426,29,1086,311
+Starr,Precinct 2,Ballots Cast Blank,,,,2,0,2,0
+Starr,Precinct 2,President,,REP,Donald J. Trump,735,7,550,178
+Starr,Precinct 2,President,,DEM,Kamala D. Harris,606,20,464,122
+Starr,Precinct 2,President,,LIB,Chase Oliver,2,0,2,0
+Starr,Precinct 2,President,,GRN,Jill Stein,5,0,5,0
+Starr,Precinct 2,President,,,Write-ins,0,0,0,0
+Starr,Precinct 2,U.S. Senate,,REP,Ted Cruz,546,7,404,135
+Starr,Precinct 2,U.S. Senate,,DEM,Colin Allred,593,19,449,125
+Starr,Precinct 2,U.S. Senate,,LIB,Ted Brown,38,0,31,7
+Starr,Precinct 2,U.S. Senate,,,Write-ins,1,0,1,0
+Starr,Precinct 2,U.S. House,28,REP,Jay Furman,376,5,274,97
+Starr,Precinct 2,U.S. House,28,DEM,Henry Cuellar,835,24,641,170
+Starr,Precinct 2,Railroad Commissioner,,REP,Christi Craddick,418,4,302,112
+Starr,Precinct 2,Railroad Commissioner,,DEM,Katherine Culbert,499,19,373,107
+Starr,Precinct 2,Railroad Commissioner,,LIB,Hawk Dunlap,11,0,10,1
+Starr,Precinct 2,Railroad Commissioner,,GRN,Eddie Espinoza,111,2,89,20
+Starr,Precinct 2,Railroad Commissioner,,,Write-ins,7,0,4,3
+Starr,Precinct 2,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,462,4,336,122
+Starr,Precinct 2,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,535,21,399,115
+Starr,Precinct 2,"Justice, Supreme Court, Pl 4",,REP,John Devine,452,5,330,117
+Starr,Precinct 2,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,547,20,413,114
+Starr,Precinct 2,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,422,4,302,116
+Starr,Precinct 2,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,544,21,408,115
+Starr,Precinct 2,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,55,0,43,12
+Starr,Precinct 2,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,440,4,321,115
+Starr,Precinct 2,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,555,21,414,120
+Starr,Precinct 2,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,433,2,319,112
+Starr,Precinct 2,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,542,22,406,114
+Starr,Precinct 2,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,461,3,338,120
+Starr,Precinct 2,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,513,22,381,110
+Starr,Precinct 2,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,732,22,550,160
+Starr,Precinct 2,State Representative,31,REP,Ryan Guillen,891,17,659,215
+Starr,Precinct 2,"Justice, 4th Ct of App Dist, Pl 2",,DEM,Velia J. Meza,695,19,521,155
+Starr,Precinct 2,"Justice, 4th Ct of App Dist, Pl 3",,REP,Todd McCray,393,3,288,102
+Starr,Precinct 2,"Justice, 4th Ct of App Dist, Pl 3",,DEM,Cynthia Marie Chapa,594,20,450,124
+Starr,Precinct 2,"Justice, 4th Ct of App Dist, Pl 4",,REP,Lori Massey Brissette,391,4,289,98
+Starr,Precinct 2,"Justice, 4th Ct of App Dist, Pl 4",,DEM,Luz Elena Chapa,596,20,444,132
+Starr,Precinct 2,"Justice, 4th Ct of App Dist, Pl 5",,REP,Adrian Spears,375,3,274,98
+Starr,Precinct 2,"Justice, 4th Ct of App Dist, Pl 5",,DEM,Liza A. Rodriguez,605,21,454,130
+Starr,Precinct 2,"Justice, 4th Ct of App Dist, Pl 7",,REP,Lori I. Valenzuela,644,12,469,163
+Starr,Precinct 2,"Dist Judge, 381st Judicial Dist",,DEM,Jose Luis Garza,820,19,613,188
+Starr,Precinct 2,"Dist Attorney, 229th Judicial Dist",,DEM,Gocha Allen Ramirez,814,20,606,188
+Starr,Precinct 2,County Attorney,,DEM,Rene Montalvo,791,21,596,174
+Starr,Precinct 2,Sheriff,,REP,Alberto Ramon Olivares,435,2,323,110
+Starr,Precinct 2,Sheriff,,DEM,"Rene ""Orta"" Fuentes",899,25,711,163
+Starr,Precinct 2,County Tax Assessor-Collector,,REP,Claudia M. Alcazar,440,4,315,121
+Starr,Precinct 2,County Tax Assessor-Collector,,DEM,Ameida Salinas,755,23,603,129
+Starr,Precinct 2,Constable Pct 4,,REP,Billy Martin,350,2,256,92
+Starr,Precinct 2,Constable Pct 4,,DEM,Joel Rocha,834,25,660,149
+Starr,Precinct 3,Ballots Cast,,,,1014,8,735,271
+Starr,Precinct 3,Ballots Cast Blank,,,,0,0,0,0
+Starr,Precinct 3,President,,REP,Donald J. Trump,593,2,422,169
+Starr,Precinct 3,President,,DEM,Kamala D. Harris,367,6,265,96
+Starr,Precinct 3,President,,LIB,Chase Oliver,4,0,3,1
+Starr,Precinct 3,President,,GRN,Jill Stein,5,0,4,1
+Starr,Precinct 3,President,,,Write-ins,1,0,0,1
+Starr,Precinct 3,U.S. Senate,,REP,Ted Cruz,411,2,302,107
+Starr,Precinct 3,U.S. Senate,,DEM,Colin Allred,349,6,246,97
+Starr,Precinct 3,U.S. Senate,,LIB,Ted Brown,20,0,15,5
+Starr,Precinct 3,U.S. Senate,,,Write-ins,2,0,1,1
+Starr,Precinct 3,U.S. House,28,REP,Jay Furman,228,2,158,68
+Starr,Precinct 3,U.S. House,28,DEM,Henry Cuellar,616,6,445,165
+Starr,Precinct 3,Railroad Commissioner,,REP,Christi Craddick,262,1,195,66
+Starr,Precinct 3,Railroad Commissioner,,DEM,Katherine Culbert,284,5,200,79
+Starr,Precinct 3,Railroad Commissioner,,LIB,Hawk Dunlap,21,0,12,9
+Starr,Precinct 3,Railroad Commissioner,,GRN,Eddie Espinoza,90,0,60,30
+Starr,Precinct 3,Railroad Commissioner,,,Write-ins,4,0,2,2
+Starr,Precinct 3,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,321,2,230,89
+Starr,Precinct 3,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,312,5,225,82
+Starr,Precinct 3,"Justice, Supreme Court, Pl 4",,REP,John Devine,314,2,228,84
+Starr,Precinct 3,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,311,5,223,83
+Starr,Precinct 3,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,287,2,214,71
+Starr,Precinct 3,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,313,5,220,88
+Starr,Precinct 3,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,42,0,27,15
+Starr,Precinct 3,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,326,2,236,88
+Starr,Precinct 3,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,303,5,219,79
+Starr,Precinct 3,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,289,2,213,74
+Starr,Precinct 3,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,330,5,236,89
+Starr,Precinct 3,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,314,2,229,83
+Starr,Precinct 3,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,306,5,221,80
+Starr,Precinct 3,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,484,6,343,135
+Starr,Precinct 3,State Representative,31,REP,Ryan Guillen,611,3,457,151
+Starr,Precinct 3,"Justice, 4th Ct of App Dist, Pl 2",,DEM,Velia J. Meza,453,6,333,114
+Starr,Precinct 3,"Justice, 4th Ct of App Dist, Pl 3",,REP,Todd McCray,241,2,182,57
+Starr,Precinct 3,"Justice, 4th Ct of App Dist, Pl 3",,DEM,Cynthia Marie Chapa,379,5,277,97
+Starr,Precinct 3,"Justice, 4th Ct of App Dist, Pl 4",,REP,Lori Massey Brissette,255,2,191,62
+Starr,Precinct 3,"Justice, 4th Ct of App Dist, Pl 4",,DEM,Luz Elena Chapa,359,5,262,92
+Starr,Precinct 3,"Justice, 4th Ct of App Dist, Pl 5",,REP,Adrian Spears,244,2,182,60
+Starr,Precinct 3,"Justice, 4th Ct of App Dist, Pl 5",,DEM,Liza A. Rodriguez,372,5,269,98
+Starr,Precinct 3,"Justice, 4th Ct of App Dist, Pl 7",,REP,Lori I. Valenzuela,449,2,337,110
+Starr,Precinct 3,"Dist Judge, 381st Judicial Dist",,DEM,Jose Luis Garza,535,7,395,133
+Starr,Precinct 3,"Dist Attorney, 229th Judicial Dist",,DEM,Gocha Allen Ramirez,532,8,393,131
+Starr,Precinct 3,County Attorney,,DEM,Rene Montalvo,494,7,364,123
+Starr,Precinct 3,Sheriff,,REP,Alberto Ramon Olivares,351,1,267,83
+Starr,Precinct 3,Sheriff,,DEM,"Rene ""Orta"" Fuentes",571,6,425,140
+Starr,Precinct 3,County Tax Assessor-Collector,,REP,Claudia M. Alcazar,267,1,204,62
+Starr,Precinct 3,County Tax Assessor-Collector,,DEM,Ameida Salinas,596,6,443,147
+Starr,Precinct 3,County Commissioner Pct 1,,DEM,"Jose Francisco ""Kiko"" Perez Jr.",558,7,409,142
+Starr,Precinct 3,Constable Pct 8,,DEM,Fermin Orta,566,7,419,140
+Starr,Precinct 4,Ballots Cast,,,,363,11,128,224
+Starr,Precinct 4,Ballots Cast Blank,,,,0,0,0,0
+Starr,Precinct 4,President,,REP,Donald J. Trump,193,1,71,121
+Starr,Precinct 4,President,,DEM,Kamala D. Harris,164,9,57,98
+Starr,Precinct 4,President,,LIB,Chase Oliver,1,0,0,1
+Starr,Precinct 4,President,,GRN,Jill Stein,0,0,0,0
+Starr,Precinct 4,President,,,Write-ins,1,0,0,1
+Starr,Precinct 4,U.S. Senate,,REP,Ted Cruz,162,2,58,102
+Starr,Precinct 4,U.S. Senate,,DEM,Colin Allred,179,9,65,105
+Starr,Precinct 4,U.S. Senate,,LIB,Ted Brown,8,0,1,7
+Starr,Precinct 4,U.S. Senate,,,Write-ins,0,0,0,0
+Starr,Precinct 4,U.S. House,28,REP,Jay Furman,129,1,47,81
+Starr,Precinct 4,U.S. House,28,DEM,Henry Cuellar,220,9,75,136
+Starr,Precinct 4,Railroad Commissioner,,REP,Christi Craddick,151,1,51,99
+Starr,Precinct 4,Railroad Commissioner,,DEM,Katherine Culbert,147,7,53,87
+Starr,Precinct 4,Railroad Commissioner,,LIB,Hawk Dunlap,9,0,2,7
+Starr,Precinct 4,Railroad Commissioner,,GRN,Eddie Espinoza,21,1,6,14
+Starr,Precinct 4,Railroad Commissioner,,,Write-ins,1,0,1,0
+Starr,Precinct 4,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,164,2,57,105
+Starr,Precinct 4,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,157,8,55,94
+Starr,Precinct 4,"Justice, Supreme Court, Pl 4",,REP,John Devine,166,1,58,107
+Starr,Precinct 4,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,157,9,56,92
+Starr,Precinct 4,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,155,1,54,100
+Starr,Precinct 4,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,155,9,57,89
+Starr,Precinct 4,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,15,1,2,12
+Starr,Precinct 4,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,166,1,60,105
+Starr,Precinct 4,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,156,9,52,95
+Starr,Precinct 4,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,152,2,53,97
+Starr,Precinct 4,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,164,9,56,99
+Starr,Precinct 4,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,167,2,57,108
+Starr,Precinct 4,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,151,8,54,89
+Starr,Precinct 4,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,241,9,79,153
+Starr,Precinct 4,State Representative,31,REP,Ryan Guillen,270,6,91,173
+Starr,Precinct 4,"Justice, 4th Ct of App Dist, Pl 2",,DEM,Velia J. Meza,231,9,74,148
+Starr,Precinct 4,"Justice, 4th Ct of App Dist, Pl 3",,REP,Todd McCray,142,1,53,88
+Starr,Precinct 4,"Justice, 4th Ct of App Dist, Pl 3",,DEM,Cynthia Marie Chapa,173,9,55,109
+Starr,Precinct 4,"Justice, 4th Ct of App Dist, Pl 4",,REP,Lori Massey Brissette,146,3,53,90
+Starr,Precinct 4,"Justice, 4th Ct of App Dist, Pl 4",,DEM,Luz Elena Chapa,165,7,54,104
+Starr,Precinct 4,"Justice, 4th Ct of App Dist, Pl 5",,REP,Adrian Spears,141,1,52,88
+Starr,Precinct 4,"Justice, 4th Ct of App Dist, Pl 5",,DEM,Liza A. Rodriguez,173,9,58,106
+Starr,Precinct 4,"Justice, 4th Ct of App Dist, Pl 7",,REP,Lori I. Valenzuela,223,4,77,142
+Starr,Precinct 4,"Dist Judge, 381st Judicial Dist",,DEM,Jose Luis Garza,272,10,86,176
+Starr,Precinct 4,"Dist Attorney, 229th Judicial Dist",,DEM,Gocha Allen Ramirez,252,9,80,163
+Starr,Precinct 4,County Attorney,,DEM,Rene Montalvo,255,9,85,161
+Starr,Precinct 4,Sheriff,,REP,Alberto Ramon Olivares,137,1,44,92
+Starr,Precinct 4,Sheriff,,DEM,"Rene ""Orta"" Fuentes",209,9,75,125
+Starr,Precinct 4,County Tax Assessor-Collector,,REP,Claudia M. Alcazar,128,2,46,80
+Starr,Precinct 4,County Tax Assessor-Collector,,DEM,Ameida Salinas,204,9,68,127
+Starr,Precinct 4,Constable Pct 5,,DEM,Richard Garza,255,9,79,167
+Starr,Precinct 5,Ballots Cast,,,,75,0,38,37
+Starr,Precinct 5,Ballots Cast Blank,,,,0,0,0,0
+Starr,Precinct 5,President,,REP,Donald J. Trump,42,0,18,24
+Starr,Precinct 5,President,,DEM,Kamala D. Harris,26,0,16,10
+Starr,Precinct 5,President,,LIB,Chase Oliver,0,0,0,0
+Starr,Precinct 5,President,,GRN,Jill Stein,1,0,1,0
+Starr,Precinct 5,President,,,Write-ins,1,0,1,0
+Starr,Precinct 5,U.S. Senate,,REP,Ted Cruz,38,0,17,21
+Starr,Precinct 5,U.S. Senate,,DEM,Colin Allred,29,0,18,11
+Starr,Precinct 5,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Starr,Precinct 5,U.S. Senate,,,Write-ins,0,0,0,0
+Starr,Precinct 5,U.S. House,28,REP,Jay Furman,26,0,14,12
+Starr,Precinct 5,U.S. House,28,DEM,Henry Cuellar,38,0,21,17
+Starr,Precinct 5,Railroad Commissioner,,REP,Christi Craddick,29,0,14,15
+Starr,Precinct 5,Railroad Commissioner,,DEM,Katherine Culbert,25,0,16,9
+Starr,Precinct 5,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,1,1
+Starr,Precinct 5,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1
+Starr,Precinct 5,Railroad Commissioner,,,Write-ins,0,0,0,0
+Starr,Precinct 5,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,31,0,16,15
+Starr,Precinct 5,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,26,0,16,10
+Starr,Precinct 5,"Justice, Supreme Court, Pl 4",,REP,John Devine,30,0,15,15
+Starr,Precinct 5,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,25,0,15,10
+Starr,Precinct 5,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,29,0,14,15
+Starr,Precinct 5,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,24,0,15,9
+Starr,Precinct 5,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,3,0,1,2
+Starr,Precinct 5,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,31,0,14,17
+Starr,Precinct 5,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,24,0,16,8
+Starr,Precinct 5,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,30,0,16,14
+Starr,Precinct 5,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,24,0,14,10
+Starr,Precinct 5,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,30,0,14,16
+Starr,Precinct 5,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,24,0,15,9
+Starr,Precinct 5,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,36,0,21,15
+Starr,Precinct 5,State Representative,31,REP,Ryan Guillen,63,0,34,29
+Starr,Precinct 5,"Justice, 4th Ct of App Dist, Pl 2",,DEM,Velia J. Meza,36,0,21,15
+Starr,Precinct 5,"Justice, 4th Ct of App Dist, Pl 3",,REP,Todd McCray,26,0,13,13
+Starr,Precinct 5,"Justice, 4th Ct of App Dist, Pl 3",,DEM,Cynthia Marie Chapa,28,0,16,12
+Starr,Precinct 5,"Justice, 4th Ct of App Dist, Pl 4",,REP,Lori Massey Brissette,26,0,14,12
+Starr,Precinct 5,"Justice, 4th Ct of App Dist, Pl 4",,DEM,Luz Elena Chapa,28,0,15,13
+Starr,Precinct 5,"Justice, 4th Ct of App Dist, Pl 5",,REP,Adrian Spears,23,0,12,11
+Starr,Precinct 5,"Justice, 4th Ct of App Dist, Pl 5",,DEM,Liza A. Rodriguez,30,0,17,13
+Starr,Precinct 5,"Justice, 4th Ct of App Dist, Pl 7",,REP,Lori I. Valenzuela,37,0,20,17
+Starr,Precinct 5,"Dist Judge, 381st Judicial Dist",,DEM,Jose Luis Garza,44,0,25,19
+Starr,Precinct 5,"Dist Attorney, 229th Judicial Dist",,DEM,Gocha Allen Ramirez,43,0,24,19
+Starr,Precinct 5,County Attorney,,DEM,Rene Montalvo,39,0,22,17
+Starr,Precinct 5,Sheriff,,REP,Alberto Ramon Olivares,38,0,18,20
+Starr,Precinct 5,Sheriff,,DEM,"Rene ""Orta"" Fuentes",34,0,18,16
+Starr,Precinct 5,County Tax Assessor-Collector,,REP,Claudia M. Alcazar,25,0,16,9
+Starr,Precinct 5,County Tax Assessor-Collector,,DEM,Ameida Salinas,37,0,18,19
+Starr,Precinct 5,County Commissioner Pct 1,,DEM,"Jose Francisco ""Kiko"" Perez Jr.",45,0,25,20
+Starr,Precinct 5,Constable Pct 1,,DEM,Cornelio (Cone) Alvarez Jr.,43,0,24,19
+Starr,Precinct 6,Ballots Cast,,,,2057,30,1559,468
+Starr,Precinct 6,Ballots Cast Blank,,,,3,0,2,1
+Starr,Precinct 6,President,,REP,Donald J. Trump,1088,14,829,245
+Starr,Precinct 6,President,,DEM,Kamala D. Harris,873,15,656,202
+Starr,Precinct 6,President,,LIB,Chase Oliver,6,0,4,2
+Starr,Precinct 6,President,,GRN,Jill Stein,5,0,4,1
+Starr,Precinct 6,President,,,Write-ins,0,0,0,0
+Starr,Precinct 6,U.S. Senate,,REP,Ted Cruz,804,8,614,182
+Starr,Precinct 6,U.S. Senate,,DEM,Colin Allred,784,16,587,181
+Starr,Precinct 6,U.S. Senate,,LIB,Ted Brown,43,0,32,11
+Starr,Precinct 6,U.S. Senate,,,Write-ins,4,0,3,1
+Starr,Precinct 6,U.S. House,28,REP,Jay Furman,410,5,311,94
+Starr,Precinct 6,U.S. House,28,DEM,Henry Cuellar,1382,23,1048,311
+Starr,Precinct 6,Railroad Commissioner,,REP,Christi Craddick,510,7,385,118
+Starr,Precinct 6,Railroad Commissioner,,DEM,Katherine Culbert,683,12,514,157
+Starr,Precinct 6,Railroad Commissioner,,LIB,Hawk Dunlap,33,0,26,7
+Starr,Precinct 6,Railroad Commissioner,,GRN,Eddie Espinoza,144,2,119,23
+Starr,Precinct 6,Railroad Commissioner,,,Write-ins,8,0,5,3
+Starr,Precinct 6,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,613,9,469,135
+Starr,Precinct 6,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,720,10,549,161
+Starr,Precinct 6,"Justice, Supreme Court, Pl 4",,REP,John Devine,604,9,463,132
+Starr,Precinct 6,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,713,11,544,158
+Starr,Precinct 6,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,547,6,417,124
+Starr,Precinct 6,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,719,14,549,156
+Starr,Precinct 6,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,87,0,71,16
+Starr,Precinct 6,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,620,6,475,139
+Starr,Precinct 6,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,698,13,534,151
+Starr,Precinct 6,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,563,6,427,130
+Starr,Precinct 6,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,724,12,561,151
+Starr,Precinct 6,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,612,7,470,135
+Starr,Precinct 6,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,693,12,530,151
+Starr,Precinct 6,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,1045,20,801,224
+Starr,Precinct 6,State Representative,31,REP,Ryan Guillen,1239,18,921,300
+Starr,Precinct 6,"Justice, 4th Ct of App Dist, Pl 2",,DEM,Velia J. Meza,976,18,740,218
+Starr,Precinct 6,"Justice, 4th Ct of App Dist, Pl 3",,REP,Todd McCray,497,7,371,119
+Starr,Precinct 6,"Justice, 4th Ct of App Dist, Pl 3",,DEM,Cynthia Marie Chapa,810,15,612,183
+Starr,Precinct 6,"Justice, 4th Ct of App Dist, Pl 4",,REP,Lori Massey Brissette,475,6,352,117
+Starr,Precinct 6,"Justice, 4th Ct of App Dist, Pl 4",,DEM,Luz Elena Chapa,814,17,618,179
+Starr,Precinct 6,"Justice, 4th Ct of App Dist, Pl 5",,REP,Adrian Spears,462,6,344,112
+Starr,Precinct 6,"Justice, 4th Ct of App Dist, Pl 5",,DEM,Liza A. Rodriguez,825,16,631,178
+Starr,Precinct 6,"Justice, 4th Ct of App Dist, Pl 7",,REP,Lori I. Valenzuela,901,14,679,208
+Starr,Precinct 6,"Dist Judge, 381st Judicial Dist",,DEM,Jose Luis Garza,1070,16,825,229
+Starr,Precinct 6,"Dist Attorney, 229th Judicial Dist",,DEM,Gocha Allen Ramirez,1111,17,847,247
+Starr,Precinct 6,County Attorney,,DEM,Rene Montalvo,1052,19,810,223
+Starr,Precinct 6,Sheriff,,REP,Alberto Ramon Olivares,667,2,511,154
+Starr,Precinct 6,Sheriff,,DEM,"Rene ""Orta"" Fuentes",1204,23,924,257
+Starr,Precinct 6,County Tax Assessor-Collector,,REP,Claudia M. Alcazar,535,5,409,121
+Starr,Precinct 6,County Tax Assessor-Collector,,DEM,Ameida Salinas,1191,19,914,258
+Starr,Precinct 6,Constable Pct 2,,DEM,Reynaldo Rodriguez,1070,18,812,240
+Starr,Precinct 7,Ballots Cast,,,,406,5,214,187
+Starr,Precinct 7,Ballots Cast Blank,,,,0,0,0,0
+Starr,Precinct 7,President,,REP,Donald J. Trump,231,0,120,111
+Starr,Precinct 7,President,,DEM,Kamala D. Harris,166,5,88,73
+Starr,Precinct 7,President,,LIB,Chase Oliver,0,0,0,0
+Starr,Precinct 7,President,,GRN,Jill Stein,0,0,0,0
+Starr,Precinct 7,President,,,Write-ins,0,0,0,0
+Starr,Precinct 7,U.S. Senate,,REP,Ted Cruz,164,0,93,71
+Starr,Precinct 7,U.S. Senate,,DEM,Colin Allred,165,5,82,78
+Starr,Precinct 7,U.S. Senate,,LIB,Ted Brown,4,0,2,2
+Starr,Precinct 7,U.S. Senate,,,Write-ins,0,0,0,0
+Starr,Precinct 7,U.S. House,28,REP,Jay Furman,95,0,51,44
+Starr,Precinct 7,U.S. House,28,DEM,Henry Cuellar,253,4,137,112
+Starr,Precinct 7,Railroad Commissioner,,REP,Christi Craddick,117,0,68,49
+Starr,Precinct 7,Railroad Commissioner,,DEM,Katherine Culbert,132,4,70,58
+Starr,Precinct 7,Railroad Commissioner,,LIB,Hawk Dunlap,4,0,2,2
+Starr,Precinct 7,Railroad Commissioner,,GRN,Eddie Espinoza,23,0,10,13
+Starr,Precinct 7,Railroad Commissioner,,,Write-ins,0,0,0,0
+Starr,Precinct 7,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,127,0,71,56
+Starr,Precinct 7,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,134,4,69,61
+Starr,Precinct 7,"Justice, Supreme Court, Pl 4",,REP,John Devine,126,0,71,55
+Starr,Precinct 7,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,136,4,67,65
+Starr,Precinct 7,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,114,0,67,47
+Starr,Precinct 7,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,133,4,72,57
+Starr,Precinct 7,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,17,0,3,14
+Starr,Precinct 7,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,130,0,72,58
+Starr,Precinct 7,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,133,4,69,60
+Starr,Precinct 7,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,116,0,68,48
+Starr,Precinct 7,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,130,4,62,64
+Starr,Precinct 7,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,132,0,72,60
+Starr,Precinct 7,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,125,4,66,55
+Starr,Precinct 7,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,189,4,92,93
+Starr,Precinct 7,State Representative,31,REP,Ryan Guillen,240,3,132,105
+Starr,Precinct 7,"Justice, 4th Ct of App Dist, Pl 2",,DEM,Velia J. Meza,183,4,91,88
+Starr,Precinct 7,"Justice, 4th Ct of App Dist, Pl 3",,REP,Todd McCray,105,0,62,43
+Starr,Precinct 7,"Justice, 4th Ct of App Dist, Pl 3",,DEM,Cynthia Marie Chapa,147,4,72,71
+Starr,Precinct 7,"Justice, 4th Ct of App Dist, Pl 4",,REP,Lori Massey Brissette,101,0,58,43
+Starr,Precinct 7,"Justice, 4th Ct of App Dist, Pl 4",,DEM,Luz Elena Chapa,151,4,76,71
+Starr,Precinct 7,"Justice, 4th Ct of App Dist, Pl 5",,REP,Adrian Spears,108,0,63,45
+Starr,Precinct 7,"Justice, 4th Ct of App Dist, Pl 5",,DEM,Liza A. Rodriguez,147,4,74,69
+Starr,Precinct 7,"Justice, 4th Ct of App Dist, Pl 7",,REP,Lori I. Valenzuela,174,3,93,78
+Starr,Precinct 7,"Dist Judge, 381st Judicial Dist",,DEM,Jose Luis Garza,204,4,97,103
+Starr,Precinct 7,"Dist Attorney, 229th Judicial Dist",,DEM,Gocha Allen Ramirez,202,4,99,99
+Starr,Precinct 7,County Attorney,,DEM,Rene Montalvo,193,4,100,89
+Starr,Precinct 7,Sheriff,,REP,Alberto Ramon Olivares,148,0,85,63
+Starr,Precinct 7,Sheriff,,DEM,"Rene ""Orta"" Fuentes",226,5,115,106
+Starr,Precinct 7,County Tax Assessor-Collector,,REP,Claudia M. Alcazar,117,0,68,49
+Starr,Precinct 7,County Tax Assessor-Collector,,DEM,Ameida Salinas,208,5,111,92
+Starr,Precinct 7,Constable Pct 7,,DEM,Ivan Garza,266,3,132,131
+Starr,Precinct 8,Ballots Cast,,,,1889,18,1438,433
+Starr,Precinct 8,Ballots Cast Blank,,,,4,0,2,2
+Starr,Precinct 8,President,,REP,Donald J. Trump,1130,8,862,260
+Starr,Precinct 8,President,,DEM,Kamala D. Harris,670,10,505,155
+Starr,Precinct 8,President,,LIB,Chase Oliver,4,0,3,1
+Starr,Precinct 8,President,,GRN,Jill Stein,3,0,3,0
+Starr,Precinct 8,President,,,Write-ins,3,0,3,0
+Starr,Precinct 8,U.S. Senate,,REP,Ted Cruz,826,6,633,187
+Starr,Precinct 8,U.S. Senate,,DEM,Colin Allred,678,8,508,162
+Starr,Precinct 8,U.S. Senate,,LIB,Ted Brown,39,0,29,10
+Starr,Precinct 8,U.S. Senate,,,Write-ins,2,0,2,0
+Starr,Precinct 8,U.S. House,28,REP,Jay Furman,527,6,393,128
+Starr,Precinct 8,U.S. House,28,DEM,Henry Cuellar,1018,9,774,235
+Starr,Precinct 8,Railroad Commissioner,,REP,Christi Craddick,572,6,443,123
+Starr,Precinct 8,Railroad Commissioner,,DEM,Katherine Culbert,531,9,391,131
+Starr,Precinct 8,Railroad Commissioner,,LIB,Hawk Dunlap,29,0,20,9
+Starr,Precinct 8,Railroad Commissioner,,GRN,Eddie Espinoza,157,0,112,45
+Starr,Precinct 8,Railroad Commissioner,,,Write-ins,4,0,3,1
+Starr,Precinct 8,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,671,6,507,158
+Starr,Precinct 8,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,576,8,430,138
+Starr,Precinct 8,"Justice, Supreme Court, Pl 4",,REP,John Devine,666,6,506,154
+Starr,Precinct 8,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,576,8,427,141
+Starr,Precinct 8,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,621,6,470,145
+Starr,Precinct 8,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,582,8,429,145
+Starr,Precinct 8,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,69,0,57,12
+Starr,Precinct 8,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,664,6,502,156
+Starr,Precinct 8,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,577,8,429,140
+Starr,Precinct 8,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,625,4,476,145
+Starr,Precinct 8,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,585,8,438,139
+Starr,Precinct 8,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,656,6,500,150
+Starr,Precinct 8,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,561,8,414,139
+Starr,Precinct 8,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,874,11,658,205
+Starr,Precinct 8,State Representative,31,REP,Ryan Guillen,1157,10,863,284
+Starr,Precinct 8,"Justice, 4th Ct of App Dist, Pl 2",,DEM,Velia J. Meza,823,8,614,201
+Starr,Precinct 8,"Justice, 4th Ct of App Dist, Pl 3",,REP,Todd McCray,557,7,418,132
+Starr,Precinct 8,"Justice, 4th Ct of App Dist, Pl 3",,DEM,Cynthia Marie Chapa,651,7,486,158
+Starr,Precinct 8,"Justice, 4th Ct of App Dist, Pl 4",,REP,Lori Massey Brissette,529,6,406,117
+Starr,Precinct 8,"Justice, 4th Ct of App Dist, Pl 4",,DEM,Luz Elena Chapa,674,9,502,163
+Starr,Precinct 8,"Justice, 4th Ct of App Dist, Pl 5",,REP,Adrian Spears,536,7,407,122
+Starr,Precinct 8,"Justice, 4th Ct of App Dist, Pl 5",,DEM,Liza A. Rodriguez,647,8,483,156
+Starr,Precinct 8,"Justice, 4th Ct of App Dist, Pl 7",,REP,Lori I. Valenzuela,840,10,627,203
+Starr,Precinct 8,"Dist Judge, 381st Judicial Dist",,DEM,Jose Luis Garza,978,9,738,231
+Starr,Precinct 8,"Dist Attorney, 229th Judicial Dist",,DEM,Gocha Allen Ramirez,975,11,737,227
+Starr,Precinct 8,County Attorney,,DEM,Rene Montalvo,973,9,733,231
+Starr,Precinct 8,Sheriff,,REP,Alberto Ramon Olivares,680,5,530,145
+Starr,Precinct 8,Sheriff,,DEM,"Rene ""Orta"" Fuentes",1062,11,794,257
+Starr,Precinct 8,County Tax Assessor-Collector,,REP,Claudia M. Alcazar,577,6,448,123
+Starr,Precinct 8,County Tax Assessor-Collector,,DEM,Ameida Salinas,875,10,664,201
+Starr,Precinct 8,County Commissioner Pct 3,,REP,Marissa Sepulveda,581,4,422,155
+Starr,Precinct 8,County Commissioner Pct 3,,DEM,"Eleazar ""Elias"" Velasquez",1144,12,888,244
+Starr,Precinct 8,Constable Pct 6,,DEM,"Jose ""Papa Joe"" Garza",1181,12,890,279
+Starr,Precinct 9,Ballots Cast,,,,1407,33,950,424
+Starr,Precinct 9,Ballots Cast Blank,,,,2,0,2,0
+Starr,Precinct 9,President,,REP,Donald J. Trump,816,13,549,254
+Starr,Precinct 9,President,,DEM,Kamala D. Harris,540,20,356,164
+Starr,Precinct 9,President,,LIB,Chase Oliver,5,0,3,2
+Starr,Precinct 9,President,,GRN,Jill Stein,5,0,5,0
+Starr,Precinct 9,President,,,Write-ins,0,0,0,0
+Starr,Precinct 9,U.S. Senate,,REP,Ted Cruz,564,8,380,176
+Starr,Precinct 9,U.S. Senate,,DEM,Colin Allred,543,11,371,161
+Starr,Precinct 9,U.S. Senate,,LIB,Ted Brown,33,0,20,13
+Starr,Precinct 9,U.S. Senate,,,Write-ins,3,0,3,0
+Starr,Precinct 9,U.S. House,28,REP,Jay Furman,358,6,239,113
+Starr,Precinct 9,U.S. House,28,DEM,Henry Cuellar,780,13,526,241
+Starr,Precinct 9,Railroad Commissioner,,REP,Christi Craddick,398,6,265,127
+Starr,Precinct 9,Railroad Commissioner,,DEM,Katherine Culbert,433,10,285,138
+Starr,Precinct 9,Railroad Commissioner,,LIB,Hawk Dunlap,13,0,7,6
+Starr,Precinct 9,Railroad Commissioner,,GRN,Eddie Espinoza,101,1,77,23
+Starr,Precinct 9,Railroad Commissioner,,,Write-ins,2,0,2,0
+Starr,Precinct 9,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,469,8,318,143
+Starr,Precinct 9,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,464,9,309,146
+Starr,Precinct 9,"Justice, Supreme Court, Pl 4",,REP,John Devine,455,8,309,138
+Starr,Precinct 9,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,456,9,307,140
+Starr,Precinct 9,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,406,6,274,126
+Starr,Precinct 9,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,485,11,320,154
+Starr,Precinct 9,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,38,0,27,11
+Starr,Precinct 9,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,446,6,306,134
+Starr,Precinct 9,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,468,11,306,151
+Starr,Precinct 9,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,420,6,280,134
+Starr,Precinct 9,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,470,10,315,145
+Starr,Precinct 9,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,449,6,304,139
+Starr,Precinct 9,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,449,11,300,138
+Starr,Precinct 9,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,705,14,481,210
+Starr,Precinct 9,State Representative,31,REP,Ryan Guillen,813,10,552,251
+Starr,Precinct 9,"Justice, 4th Ct of App Dist, Pl 2",,DEM,Velia J. Meza,650,11,444,195
+Starr,Precinct 9,"Justice, 4th Ct of App Dist, Pl 3",,REP,Todd McCray,377,6,251,120
+Starr,Precinct 9,"Justice, 4th Ct of App Dist, Pl 3",,DEM,Cynthia Marie Chapa,512,10,349,153
+Starr,Precinct 9,"Justice, 4th Ct of App Dist, Pl 4",,REP,Lori Massey Brissette,373,6,244,123
+Starr,Precinct 9,"Justice, 4th Ct of App Dist, Pl 4",,DEM,Luz Elena Chapa,499,10,344,145
+Starr,Precinct 9,"Justice, 4th Ct of App Dist, Pl 5",,REP,Adrian Spears,368,6,243,119
+Starr,Precinct 9,"Justice, 4th Ct of App Dist, Pl 5",,DEM,Liza A. Rodriguez,509,10,345,154
+Starr,Precinct 9,"Justice, 4th Ct of App Dist, Pl 7",,REP,Lori I. Valenzuela,606,8,403,195
+Starr,Precinct 9,"Dist Judge, 381st Judicial Dist",,DEM,Jose Luis Garza,737,12,503,222
+Starr,Precinct 9,"Dist Attorney, 229th Judicial Dist",,DEM,Gocha Allen Ramirez,747,12,517,218
+Starr,Precinct 9,County Attorney,,DEM,Rene Montalvo,743,11,510,222
+Starr,Precinct 9,Sheriff,,REP,Alberto Ramon Olivares,475,4,334,137
+Starr,Precinct 9,Sheriff,,DEM,"Rene ""Orta"" Fuentes",822,27,551,244
+Starr,Precinct 9,County Tax Assessor-Collector,,REP,Claudia M. Alcazar,404,4,282,118
+Starr,Precinct 9,County Tax Assessor-Collector,,DEM,Ameida Salinas,712,26,468,218
+Starr,Precinct 9,County Commissioner Pct 3,,REP,Marissa Sepulveda,320,2,211,107
+Starr,Precinct 9,County Commissioner Pct 3,,DEM,"Eleazar ""Elias"" Velasquez",999,27,689,283
+Starr,Precinct 9,Constable Pct 3,,DEM,Jason Venecia,794,14,548,232
+Starr,Precinct 10,Ballots Cast,,,,1677,16,1142,519
+Starr,Precinct 10,Ballots Cast Blank,,,,0,0,0,0
+Starr,Precinct 10,President,,REP,Donald J. Trump,968,10,650,308
+Starr,Precinct 10,President,,DEM,Kamala D. Harris,654,5,450,199
+Starr,Precinct 10,President,,LIB,Chase Oliver,1,0,1,0
+Starr,Precinct 10,President,,GRN,Jill Stein,1,0,1,0
+Starr,Precinct 10,President,,,Write-ins,0,0,0,0
+Starr,Precinct 10,U.S. Senate,,REP,Ted Cruz,744,9,509,226
+Starr,Precinct 10,U.S. Senate,,DEM,Colin Allred,662,4,448,210
+Starr,Precinct 10,U.S. Senate,,LIB,Ted Brown,31,0,22,9
+Starr,Precinct 10,U.S. Senate,,,Write-ins,1,0,1,0
+Starr,Precinct 10,U.S. House,28,REP,Jay Furman,506,7,347,152
+Starr,Precinct 10,U.S. House,28,DEM,Henry Cuellar,951,8,651,292
+Starr,Precinct 10,Railroad Commissioner,,REP,Christi Craddick,558,9,389,160
+Starr,Precinct 10,Railroad Commissioner,,DEM,Katherine Culbert,562,4,383,175
+Starr,Precinct 10,Railroad Commissioner,,LIB,Hawk Dunlap,18,0,14,4
+Starr,Precinct 10,Railroad Commissioner,,GRN,Eddie Espinoza,113,0,74,39
+Starr,Precinct 10,Railroad Commissioner,,,Write-ins,2,0,2,0
+Starr,Precinct 10,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,640,9,444,187
+Starr,Precinct 10,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,575,4,389,182
+Starr,Precinct 10,"Justice, Supreme Court, Pl 4",,REP,John Devine,620,8,427,185
+Starr,Precinct 10,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,581,4,399,178
+Starr,Precinct 10,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,572,9,395,168
+Starr,Precinct 10,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,598,4,410,184
+Starr,Precinct 10,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,52,0,32,20
+Starr,Precinct 10,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,627,9,438,180
+Starr,Precinct 10,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,582,4,392,186
+Starr,Precinct 10,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,602,9,417,176
+Starr,Precinct 10,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,578,4,394,180
+Starr,Precinct 10,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,630,9,438,183
+Starr,Precinct 10,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,562,4,381,177
+Starr,Precinct 10,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,874,7,587,280
+Starr,Precinct 10,State Representative,31,REP,Ryan Guillen,1081,12,719,350
+Starr,Precinct 10,"Justice, 4th Ct of App Dist, Pl 2",,DEM,Velia J. Meza,819,7,544,268
+Starr,Precinct 10,"Justice, 4th Ct of App Dist, Pl 3",,REP,Todd McCray,538,9,375,154
+Starr,Precinct 10,"Justice, 4th Ct of App Dist, Pl 3",,DEM,Cynthia Marie Chapa,651,4,436,211
+Starr,Precinct 10,"Justice, 4th Ct of App Dist, Pl 4",,REP,Lori Massey Brissette,536,9,374,153
+Starr,Precinct 10,"Justice, 4th Ct of App Dist, Pl 4",,DEM,Luz Elena Chapa,637,4,426,207
+Starr,Precinct 10,"Justice, 4th Ct of App Dist, Pl 5",,REP,Adrian Spears,512,9,356,147
+Starr,Precinct 10,"Justice, 4th Ct of App Dist, Pl 5",,DEM,Liza A. Rodriguez,663,4,445,214
+Starr,Precinct 10,"Justice, 4th Ct of App Dist, Pl 7",,REP,Lori I. Valenzuela,796,8,532,256
+Starr,Precinct 10,"Dist Judge, 381st Judicial Dist",,DEM,Jose Luis Garza,945,7,637,301
+Starr,Precinct 10,"Dist Attorney, 229th Judicial Dist",,DEM,Gocha Allen Ramirez,928,8,625,295
+Starr,Precinct 10,County Attorney,,DEM,Rene Montalvo,901,7,600,294
+Starr,Precinct 10,Sheriff,,REP,Alberto Ramon Olivares,668,6,452,210
+Starr,Precinct 10,Sheriff,,DEM,"Rene ""Orta"" Fuentes",915,5,641,269
+Starr,Precinct 10,County Tax Assessor-Collector,,REP,Claudia M. Alcazar,564,5,395,164
+Starr,Precinct 10,County Tax Assessor-Collector,,DEM,Ameida Salinas,849,6,591,252
+Starr,Precinct 10,County Commissioner Pct 1,,DEM,"Jose Francisco ""Kiko"" Perez Jr.",980,8,646,326
+Starr,Precinct 10,Constable Pct 1,,DEM,Cornelio (Cone) Alvarez Jr.,955,5,635,315
+Starr,Precinct 11,Ballots Cast,,,,1681,17,1301,363
+Starr,Precinct 11,Ballots Cast Blank,,,,0,0,0,0
+Starr,Precinct 11,President,,REP,Donald J. Trump,850,4,639,207
+Starr,Precinct 11,President,,DEM,Kamala D. Harris,785,13,618,154
+Starr,Precinct 11,President,,LIB,Chase Oliver,2,0,2,0
+Starr,Precinct 11,President,,GRN,Jill Stein,1,0,1,0
+Starr,Precinct 11,President,,,Write-ins,1,0,1,0
+Starr,Precinct 11,U.S. Senate,,REP,Ted Cruz,623,6,471,146
+Starr,Precinct 11,U.S. Senate,,DEM,Colin Allred,712,11,546,155
+Starr,Precinct 11,U.S. Senate,,LIB,Ted Brown,25,0,22,3
+Starr,Precinct 11,U.S. Senate,,,Write-ins,4,0,4,0
+Starr,Precinct 11,U.S. House,28,REP,Jay Furman,342,1,260,81
+Starr,Precinct 11,U.S. House,28,DEM,Henry Cuellar,1152,16,893,243
+Starr,Precinct 11,Railroad Commissioner,,REP,Christi Craddick,415,2,314,99
+Starr,Precinct 11,Railroad Commissioner,,DEM,Katherine Culbert,609,12,469,128
+Starr,Precinct 11,Railroad Commissioner,,LIB,Hawk Dunlap,16,0,15,1
+Starr,Precinct 11,Railroad Commissioner,,GRN,Eddie Espinoza,117,0,83,34
+Starr,Precinct 11,Railroad Commissioner,,,Write-ins,6,0,2,4
+Starr,Precinct 11,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,493,3,370,120
+Starr,Precinct 11,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,634,10,488,136
+Starr,Precinct 11,"Justice, Supreme Court, Pl 4",,REP,John Devine,489,3,369,117
+Starr,Precinct 11,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,631,10,486,135
+Starr,Precinct 11,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,451,3,339,109
+Starr,Precinct 11,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,639,10,483,146
+Starr,Precinct 11,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,57,0,45,12
+Starr,Precinct 11,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,495,3,373,119
+Starr,Precinct 11,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,635,10,485,140
+Starr,Precinct 11,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,466,3,349,114
+Starr,Precinct 11,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,627,9,480,138
+Starr,Precinct 11,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,490,3,364,123
+Starr,Precinct 11,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,614,10,476,128
+Starr,Precinct 11,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,905,14,687,204
+Starr,Precinct 11,State Representative,31,REP,Ryan Guillen,991,9,759,223
+Starr,Precinct 11,"Justice, 4th Ct of App Dist, Pl 2",,DEM,Velia J. Meza,822,11,629,182
+Starr,Precinct 11,"Justice, 4th Ct of App Dist, Pl 3",,REP,Todd McCray,389,3,287,99
+Starr,Precinct 11,"Justice, 4th Ct of App Dist, Pl 3",,DEM,Cynthia Marie Chapa,690,11,534,145
+Starr,Precinct 11,"Justice, 4th Ct of App Dist, Pl 4",,REP,Lori Massey Brissette,391,3,292,96
+Starr,Precinct 11,"Justice, 4th Ct of App Dist, Pl 4",,DEM,Luz Elena Chapa,681,11,526,144
+Starr,Precinct 11,"Justice, 4th Ct of App Dist, Pl 5",,REP,Adrian Spears,370,3,279,88
+Starr,Precinct 11,"Justice, 4th Ct of App Dist, Pl 5",,DEM,Liza A. Rodriguez,704,11,543,150
+Starr,Precinct 11,"Justice, 4th Ct of App Dist, Pl 7",,REP,Lori I. Valenzuela,728,4,544,180
+Starr,Precinct 11,"Dist Judge, 381st Judicial Dist",,DEM,Jose Luis Garza,886,11,681,194
+Starr,Precinct 11,"Dist Attorney, 229th Judicial Dist",,DEM,Gocha Allen Ramirez,916,15,700,201
+Starr,Precinct 11,County Attorney,,DEM,Rene Montalvo,876,12,679,185
+Starr,Precinct 11,Sheriff,,REP,Alberto Ramon Olivares,525,1,402,122
+Starr,Precinct 11,Sheriff,,DEM,"Rene ""Orta"" Fuentes",1002,14,788,200
+Starr,Precinct 11,County Tax Assessor-Collector,,REP,Claudia M. Alcazar,412,4,297,111
+Starr,Precinct 11,County Tax Assessor-Collector,,DEM,Ameida Salinas,1032,11,827,194
+Starr,Precinct 11,Constable Pct 2,,DEM,Reynaldo Rodriguez,914,12,706,196
+Starr,Precinct 12,Ballots Cast,,,,1696,9,1272,415
+Starr,Precinct 12,Ballots Cast Blank,,,,0,0,0,0
+Starr,Precinct 12,President,,REP,Donald J. Trump,985,1,729,255
+Starr,Precinct 12,President,,DEM,Kamala D. Harris,658,8,494,156
+Starr,Precinct 12,President,,LIB,Chase Oliver,2,0,2,0
+Starr,Precinct 12,President,,GRN,Jill Stein,1,0,1,0
+Starr,Precinct 12,President,,,Write-ins,3,0,2,1
+Starr,Precinct 12,U.S. Senate,,REP,Ted Cruz,793,3,592,198
+Starr,Precinct 12,U.S. Senate,,DEM,Colin Allred,675,6,504,165
+Starr,Precinct 12,U.S. Senate,,LIB,Ted Brown,38,0,29,9
+Starr,Precinct 12,U.S. Senate,,,Write-ins,1,0,1,0
+Starr,Precinct 12,U.S. House,28,REP,Jay Furman,553,0,397,156
+Starr,Precinct 12,U.S. House,28,DEM,Henry Cuellar,968,9,737,222
+Starr,Precinct 12,Railroad Commissioner,,REP,Christi Craddick,616,1,453,162
+Starr,Precinct 12,Railroad Commissioner,,DEM,Katherine Culbert,554,8,421,125
+Starr,Precinct 12,Railroad Commissioner,,LIB,Hawk Dunlap,29,0,18,11
+Starr,Precinct 12,Railroad Commissioner,,GRN,Eddie Espinoza,121,0,88,33
+Starr,Precinct 12,Railroad Commissioner,,,Write-ins,5,0,3,2
+Starr,Precinct 12,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,685,2,512,171
+Starr,Precinct 12,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,606,7,451,148
+Starr,Precinct 12,"Justice, Supreme Court, Pl 4",,REP,John Devine,682,1,504,177
+Starr,Precinct 12,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,602,8,452,142
+Starr,Precinct 12,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,643,1,476,166
+Starr,Precinct 12,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,614,7,461,146
+Starr,Precinct 12,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,50,0,35,15
+Starr,Precinct 12,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,667,1,498,168
+Starr,Precinct 12,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,624,8,462,154
+Starr,Precinct 12,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,657,1,493,163
+Starr,Precinct 12,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,589,8,439,142
+Starr,Precinct 12,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,691,1,513,177
+Starr,Precinct 12,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,574,8,427,139
+Starr,Precinct 12,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,938,8,693,237
+Starr,Precinct 12,State Representative,31,REP,Ryan Guillen,1162,4,847,311
+Starr,Precinct 12,"Justice, 4th Ct of App Dist, Pl 2",,DEM,Velia J. Meza,892,9,647,236
+Starr,Precinct 12,"Justice, 4th Ct of App Dist, Pl 3",,REP,Todd McCray,576,1,427,148
+Starr,Precinct 12,"Justice, 4th Ct of App Dist, Pl 3",,DEM,Cynthia Marie Chapa,679,7,500,172
+Starr,Precinct 12,"Justice, 4th Ct of App Dist, Pl 4",,REP,Lori Massey Brissette,578,1,437,140
+Starr,Precinct 12,"Justice, 4th Ct of App Dist, Pl 4",,DEM,Luz Elena Chapa,673,8,487,178
+Starr,Precinct 12,"Justice, 4th Ct of App Dist, Pl 5",,REP,Adrian Spears,550,1,407,142
+Starr,Precinct 12,"Justice, 4th Ct of App Dist, Pl 5",,DEM,Liza A. Rodriguez,684,8,511,165
+Starr,Precinct 12,"Justice, 4th Ct of App Dist, Pl 7",,REP,Lori I. Valenzuela,908,3,669,236
+Starr,Precinct 12,"Dist Judge, 381st Judicial Dist",,DEM,Jose Luis Garza,996,7,736,253
+Starr,Precinct 12,"Dist Attorney, 229th Judicial Dist",,DEM,Gocha Allen Ramirez,996,7,733,256
+Starr,Precinct 12,County Attorney,,DEM,Rene Montalvo,979,7,719,253
+Starr,Precinct 12,Sheriff,,REP,Alberto Ramon Olivares,645,1,480,164
+Starr,Precinct 12,Sheriff,,DEM,"Rene ""Orta"" Fuentes",975,7,741,227
+Starr,Precinct 12,County Tax Assessor-Collector,,REP,Claudia M. Alcazar,623,0,464,159
+Starr,Precinct 12,County Tax Assessor-Collector,,DEM,Ameida Salinas,846,8,641,197
+Starr,Precinct 12,County Commissioner Pct 1,,DEM,"Jose Francisco ""Kiko"" Perez Jr.",964,8,704,252
+Starr,Precinct 12,Constable Pct 1,,DEM,Cornelio (Cone) Alvarez Jr.,980,8,715,257
+Starr,Precinct 13,Ballots Cast,,,,852,12,662,178
+Starr,Precinct 13,Ballots Cast Blank,,,,2,0,2,0
+Starr,Precinct 13,President,,REP,Donald J. Trump,481,3,379,99
+Starr,Precinct 13,President,,DEM,Kamala D. Harris,318,9,239,70
+Starr,Precinct 13,President,,LIB,Chase Oliver,2,0,1,1
+Starr,Precinct 13,President,,GRN,Jill Stein,2,0,2,0
+Starr,Precinct 13,President,,,Write-ins,1,0,1,0
+Starr,Precinct 13,U.S. Senate,,REP,Ted Cruz,348,2,273,73
+Starr,Precinct 13,U.S. Senate,,DEM,Colin Allred,323,9,241,73
+Starr,Precinct 13,U.S. Senate,,LIB,Ted Brown,18,0,15,3
+Starr,Precinct 13,U.S. Senate,,,Write-ins,2,0,2,0
+Starr,Precinct 13,U.S. House,28,REP,Jay Furman,257,3,194,60
+Starr,Precinct 13,U.S. House,28,DEM,Henry Cuellar,426,8,327,91
+Starr,Precinct 13,Railroad Commissioner,,REP,Christi Craddick,273,1,214,58
+Starr,Precinct 13,Railroad Commissioner,,DEM,Katherine Culbert,253,9,178,66
+Starr,Precinct 13,Railroad Commissioner,,LIB,Hawk Dunlap,11,0,8,3
+Starr,Precinct 13,Railroad Commissioner,,GRN,Eddie Espinoza,62,0,49,13
+Starr,Precinct 13,Railroad Commissioner,,,Write-ins,1,0,1,0
+Starr,Precinct 13,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,307,1,239,67
+Starr,Precinct 13,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,280,9,201,70
+Starr,Precinct 13,"Justice, Supreme Court, Pl 4",,REP,John Devine,306,1,236,69
+Starr,Precinct 13,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,271,8,197,66
+Starr,Precinct 13,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,290,1,225,64
+Starr,Precinct 13,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,283,9,204,70
+Starr,Precinct 13,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,25,0,19,6
+Starr,Precinct 13,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,313,1,245,67
+Starr,Precinct 13,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,263,9,190,64
+Starr,Precinct 13,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,284,1,222,61
+Starr,Precinct 13,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,286,9,202,75
+Starr,Precinct 13,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,314,1,245,68
+Starr,Precinct 13,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,263,9,190,64
+Starr,Precinct 13,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,434,10,321,103
+Starr,Precinct 13,State Representative,31,REP,Ryan Guillen,520,7,403,110
+Starr,Precinct 13,"Justice, 4th Ct of App Dist, Pl 2",,DEM,Velia J. Meza,400,10,298,92
+Starr,Precinct 13,"Justice, 4th Ct of App Dist, Pl 3",,REP,Todd McCray,257,1,203,53
+Starr,Precinct 13,"Justice, 4th Ct of App Dist, Pl 3",,DEM,Cynthia Marie Chapa,308,9,222,77
+Starr,Precinct 13,"Justice, 4th Ct of App Dist, Pl 4",,REP,Lori Massey Brissette,248,1,194,53
+Starr,Precinct 13,"Justice, 4th Ct of App Dist, Pl 4",,DEM,Luz Elena Chapa,313,9,227,77
+Starr,Precinct 13,"Justice, 4th Ct of App Dist, Pl 5",,REP,Adrian Spears,243,1,186,56
+Starr,Precinct 13,"Justice, 4th Ct of App Dist, Pl 5",,DEM,Liza A. Rodriguez,323,9,239,75
+Starr,Precinct 13,"Justice, 4th Ct of App Dist, Pl 7",,REP,Lori I. Valenzuela,419,6,324,89
+Starr,Precinct 13,"Dist Judge, 381st Judicial Dist",,DEM,Jose Luis Garza,459,8,347,104
+Starr,Precinct 13,"Dist Attorney, 229th Judicial Dist",,DEM,Gocha Allen Ramirez,459,10,344,105
+Starr,Precinct 13,County Attorney,,DEM,Rene Montalvo,438,8,333,97
+Starr,Precinct 13,Sheriff,,REP,Alberto Ramon Olivares,279,1,210,68
+Starr,Precinct 13,Sheriff,,DEM,"Rene ""Orta"" Fuentes",499,7,405,87
+Starr,Precinct 13,County Tax Assessor-Collector,,REP,Claudia M. Alcazar,271,1,213,57
+Starr,Precinct 13,County Tax Assessor-Collector,,DEM,Ameida Salinas,413,7,321,85
+Starr,Precinct 13,Constable Pct 4,,REP,Billy Martin,241,1,189,51
+Starr,Precinct 13,Constable Pct 4,,DEM,Joel Rocha,445,7,347,91
+Starr,Precinct 14,Ballots Cast,,,,843,11,591,241
+Starr,Precinct 14,Ballots Cast Blank,,,,0,0,0,0
+Starr,Precinct 14,President,,REP,Donald J. Trump,502,9,333,160
+Starr,Precinct 14,President,,DEM,Kamala D. Harris,303,2,225,76
+Starr,Precinct 14,President,,LIB,Chase Oliver,4,0,2,2
+Starr,Precinct 14,President,,GRN,Jill Stein,3,0,2,1
+Starr,Precinct 14,President,,,Write-ins,0,0,0,0
+Starr,Precinct 14,U.S. Senate,,REP,Ted Cruz,377,6,261,110
+Starr,Precinct 14,U.S. Senate,,DEM,Colin Allred,309,0,221,88
+Starr,Precinct 14,U.S. Senate,,LIB,Ted Brown,22,0,16,6
+Starr,Precinct 14,U.S. Senate,,,Write-ins,0,0,0,0
+Starr,Precinct 14,U.S. House,28,REP,Jay Furman,251,4,175,72
+Starr,Precinct 14,U.S. House,28,DEM,Henry Cuellar,449,3,321,125
+Starr,Precinct 14,Railroad Commissioner,,REP,Christi Craddick,269,4,188,77
+Starr,Precinct 14,Railroad Commissioner,,DEM,Katherine Culbert,260,0,188,72
+Starr,Precinct 14,Railroad Commissioner,,LIB,Hawk Dunlap,16,0,13,3
+Starr,Precinct 14,Railroad Commissioner,,GRN,Eddie Espinoza,61,0,42,19
+Starr,Precinct 14,Railroad Commissioner,,,Write-ins,1,0,1,0
+Starr,Precinct 14,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,299,4,212,83
+Starr,Precinct 14,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,288,0,204,84
+Starr,Precinct 14,"Justice, Supreme Court, Pl 4",,REP,John Devine,302,4,213,85
+Starr,Precinct 14,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,278,0,200,78
+Starr,Precinct 14,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,284,4,197,83
+Starr,Precinct 14,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,280,0,202,78
+Starr,Precinct 14,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,27,1,18,8
+Starr,Precinct 14,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,306,4,213,89
+Starr,Precinct 14,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,275,0,199,76
+Starr,Precinct 14,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,278,4,195,79
+Starr,Precinct 14,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,284,0,202,82
+Starr,Precinct 14,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,304,4,215,85
+Starr,Precinct 14,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,268,0,188,80
+Starr,Precinct 14,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,422,1,296,125
+Starr,Precinct 14,State Representative,31,REP,Ryan Guillen,515,5,354,156
+Starr,Precinct 14,"Justice, 4th Ct of App Dist, Pl 2",,DEM,Velia J. Meza,383,1,263,119
+Starr,Precinct 14,"Justice, 4th Ct of App Dist, Pl 3",,REP,Todd McCray,255,4,178,73
+Starr,Precinct 14,"Justice, 4th Ct of App Dist, Pl 3",,DEM,Cynthia Marie Chapa,294,0,207,87
+Starr,Precinct 14,"Justice, 4th Ct of App Dist, Pl 4",,REP,Lori Massey Brissette,257,4,183,70
+Starr,Precinct 14,"Justice, 4th Ct of App Dist, Pl 4",,DEM,Luz Elena Chapa,282,0,194,88
+Starr,Precinct 14,"Justice, 4th Ct of App Dist, Pl 5",,REP,Adrian Spears,253,4,177,72
+Starr,Precinct 14,"Justice, 4th Ct of App Dist, Pl 5",,DEM,Liza A. Rodriguez,295,0,207,88
+Starr,Precinct 14,"Justice, 4th Ct of App Dist, Pl 7",,REP,Lori I. Valenzuela,394,4,267,123
+Starr,Precinct 14,"Dist Judge, 381st Judicial Dist",,DEM,Jose Luis Garza,430,1,301,128
+Starr,Precinct 14,"Dist Attorney, 229th Judicial Dist",,DEM,Gocha Allen Ramirez,430,1,304,125
+Starr,Precinct 14,County Attorney,,DEM,Rene Montalvo,431,1,299,131
+Starr,Precinct 14,Sheriff,,REP,Alberto Ramon Olivares,320,2,229,89
+Starr,Precinct 14,Sheriff,,DEM,"Rene ""Orta"" Fuentes",426,8,300,118
+Starr,Precinct 14,County Tax Assessor-Collector,,REP,Claudia M. Alcazar,255,4,176,75
+Starr,Precinct 14,County Tax Assessor-Collector,,DEM,Ameida Salinas,379,6,272,101
+Starr,Precinct 14,County Commissioner Pct 3,,REP,Marissa Sepulveda,235,4,160,71
+Starr,Precinct 14,County Commissioner Pct 3,,DEM,"Eleazar ""Elias"" Velasquez",521,6,372,143
+Starr,Precinct 14,Constable Pct 3,,DEM,Jason Venecia,442,2,305,135
