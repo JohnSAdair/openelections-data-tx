@@ -1,0 +1,407 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Coleman,PRECINCT 1,Registered Voters,,,,1621,,,
+Coleman,PRECINCT 1,Ballots Cast,,,,1063,52,870,141
+Coleman,PRECINCT 1,Ballots Cast - Blank,,,,0,0,0,0
+Coleman,PRECINCT 1,President,,REP,Donald J. Trump,957,37,792,128
+Coleman,PRECINCT 1,President,,DEM,Kamala D. Harris,100,15,74,11
+Coleman,PRECINCT 1,President,,LIB,Chase Oliver,2,0,1,1
+Coleman,PRECINCT 1,President,,GRN,Jill Stein,0,0,0,0
+Coleman,PRECINCT 1,President,,,Write-ins,1,0,0,1
+Coleman,PRECINCT 1,President,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,President,,,Under Votes,3,0,3,0
+Coleman,PRECINCT 1,U.S. Senate,,REP,Ted Cruz,934,35,779,120
+Coleman,PRECINCT 1,U.S. Senate,,DEM,Colin Allred,107,15,79,13
+Coleman,PRECINCT 1,U.S. Senate,,LIB,Ted Brown,14,2,7,5
+Coleman,PRECINCT 1,U.S. Senate,,,Write-ins,0,0,0,0
+Coleman,PRECINCT 1,U.S. Senate,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,U.S. Senate,,,Under Votes,8,0,5,3
+Coleman,PRECINCT 1,U.S. House,11,REP,August Pfluger,916,37,762,117
+Coleman,PRECINCT 1,U.S. House,11,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,U.S. House,11,,Under Votes,147,15,108,24
+Coleman,PRECINCT 1,Railroad Commissioner,,REP,Christi Craddick,914,39,758,117
+Coleman,PRECINCT 1,Railroad Commissioner,,DEM,Katherine Culbert,72,9,56,7
+Coleman,PRECINCT 1,Railroad Commissioner,,LIB,Hawk Dunlap,23,2,16,5
+Coleman,PRECINCT 1,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,5,1
+Coleman,PRECINCT 1,Railroad Commissioner,,,Write-ins,0,0,0,0
+Coleman,PRECINCT 1,Railroad Commissioner,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,Railroad Commissioner,,,Under Votes,48,2,35,11
+Coleman,PRECINCT 1,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,942,39,781,122
+Coleman,PRECINCT 1,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,77,11,56,10
+Coleman,PRECINCT 1,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,"Justice, Supreme Court, Pl 2",,,Under Votes,44,2,33,9
+Coleman,PRECINCT 1,"Justice, Supreme Court, Pl 4",,REP,John Devine,925,39,765,121
+Coleman,PRECINCT 1,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,80,9,62,9
+Coleman,PRECINCT 1,"Justice, Supreme Court, Pl 4",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,"Justice, Supreme Court, Pl 4",,,Under Votes,58,4,43,11
+Coleman,PRECINCT 1,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,927,35,776,116
+Coleman,PRECINCT 1,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,78,12,58,8
+Coleman,PRECINCT 1,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,18,2,8,8
+Coleman,PRECINCT 1,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,"Justice, Supreme Court, Pl 6",,,Under Votes,40,3,28,9
+Coleman,PRECINCT 1,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,936,38,779,119
+Coleman,PRECINCT 1,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,88,12,63,13
+Coleman,PRECINCT 1,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,"Presiding Judge, Ct of Crim App",,,Under Votes,39,2,28,9
+Coleman,PRECINCT 1,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,930,40,770,120
+Coleman,PRECINCT 1,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,86,9,66,11
+Coleman,PRECINCT 1,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,"Judge, Ct of Crim App, Pl 7",,,Under Votes,47,3,34,10
+Coleman,PRECINCT 1,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,942,40,782,120
+Coleman,PRECINCT 1,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,74,10,55,9
+Coleman,PRECINCT 1,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,"Judge, Ct of Crim App, Pl 8",,,Under Votes,47,2,33,12
+Coleman,PRECINCT 1,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,912,36,759,117
+Coleman,PRECINCT 1,"Member, State BoE, Dist 15",,DEM,Morgan Kirkpatrick,85,11,66,8
+Coleman,PRECINCT 1,"Member, State BoE, Dist 15",,LIB,Jack B. Westbrook,19,0,12,7
+Coleman,PRECINCT 1,"Member, State BoE, Dist 15",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,"Member, State BoE, Dist 15",,,Under Votes,47,5,33,9
+Coleman,PRECINCT 1,State Representative,72,REP,Drew Darby,935,35,777,123
+Coleman,PRECINCT 1,State Representative,72,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,State Representative,72,,Under Votes,128,17,93,18
+Coleman,PRECINCT 1,"Chief Justice, 11th Ct of App Dist",,REP,John Bailey,930,37,772,121
+Coleman,PRECINCT 1,"Chief Justice, 11th Ct of App Dist",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,"Chief Justice, 11th Ct of App Dist",,,Under Votes,133,15,98,20
+Coleman,PRECINCT 1,"Dist Judge, 42nd Judicial Dist",,REP,Arimy Beasley,910,33,760,117
+Coleman,PRECINCT 1,"Dist Judge, 42nd Judicial Dist",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,"Dist Judge, 42nd Judicial Dist",,,Under Votes,153,19,110,24
+Coleman,PRECINCT 1,"Dist Attorney, 42nd Judicial Dist",,REP,Heath Hemphill,936,33,784,119
+Coleman,PRECINCT 1,"Dist Attorney, 42nd Judicial Dist",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,"Dist Attorney, 42nd Judicial Dist",,,Under Votes,127,19,86,22
+Coleman,PRECINCT 1,County Attorney,,REP,Hayden J. Wise,953,34,796,123
+Coleman,PRECINCT 1,County Attorney,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,County Attorney,,,Under Votes,110,18,74,18
+Coleman,PRECINCT 1,Sheriff,,REP,Les Cogdill,948,37,790,121
+Coleman,PRECINCT 1,Sheriff,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,Sheriff,,,Under Votes,115,15,80,20
+Coleman,PRECINCT 1,County Tax Assessor-Collector,,REP,Jamie Dodgen,944,34,792,118
+Coleman,PRECINCT 1,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,County Tax Assessor-Collector,,,Under Votes,119,18,78,23
+Coleman,PRECINCT 1,County Commissioner Pct 1,,REP,Matt Henderson,914,30,769,115
+Coleman,PRECINCT 1,County Commissioner Pct 1,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,County Commissioner Pct 1,,,Under Votes,149,22,101,26
+Coleman,PRECINCT 1,Constable,,REP,Johnny Barkemeyer,937,35,779,123
+Coleman,PRECINCT 1,Constable,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 1,Constable,,,Under Votes,126,17,91,18
+Coleman,PRECINCT 2,Registered Voters,,,,1176,,,
+Coleman,PRECINCT 2,Ballots Cast,,,,820,45,614,161
+Coleman,PRECINCT 2,Ballots Cast - Blank,,,,0,0,0,0
+Coleman,PRECINCT 2,President,,REP,Donald J. Trump,706,33,537,136
+Coleman,PRECINCT 2,President,,DEM,Kamala D. Harris,108,12,72,24
+Coleman,PRECINCT 2,President,,LIB,Chase Oliver,2,0,1,1
+Coleman,PRECINCT 2,President,,GRN,Jill Stein,1,0,1,0
+Coleman,PRECINCT 2,President,,,Write-ins,1,0,1,0
+Coleman,PRECINCT 2,President,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,President,,,Under Votes,2,0,2,0
+Coleman,PRECINCT 2,U.S. Senate,,REP,Ted Cruz,682,33,525,124
+Coleman,PRECINCT 2,U.S. Senate,,DEM,Colin Allred,107,11,72,24
+Coleman,PRECINCT 2,U.S. Senate,,LIB,Ted Brown,17,1,6,10
+Coleman,PRECINCT 2,U.S. Senate,,,Write-ins,0,0,0,0
+Coleman,PRECINCT 2,U.S. Senate,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,U.S. Senate,,,Under Votes,14,0,11,3
+Coleman,PRECINCT 2,U.S. House,11,REP,August Pfluger,674,27,517,130
+Coleman,PRECINCT 2,U.S. House,11,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,U.S. House,11,,Under Votes,146,18,97,31
+Coleman,PRECINCT 2,Railroad Commissioner,,REP,Christi Craddick,647,31,493,123
+Coleman,PRECINCT 2,Railroad Commissioner,,DEM,Katherine Culbert,87,10,60,17
+Coleman,PRECINCT 2,Railroad Commissioner,,LIB,Hawk Dunlap,31,3,16,12
+Coleman,PRECINCT 2,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,4,4
+Coleman,PRECINCT 2,Railroad Commissioner,,,Write-ins,0,0,0,0
+Coleman,PRECINCT 2,Railroad Commissioner,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,Railroad Commissioner,,,Under Votes,47,1,41,5
+Coleman,PRECINCT 2,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,686,32,521,133
+Coleman,PRECINCT 2,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,88,11,56,21
+Coleman,PRECINCT 2,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,"Justice, Supreme Court, Pl 2",,,Under Votes,46,2,37,7
+Coleman,PRECINCT 2,"Justice, Supreme Court, Pl 4",,REP,John Devine,671,33,508,130
+Coleman,PRECINCT 2,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,97,11,63,23
+Coleman,PRECINCT 2,"Justice, Supreme Court, Pl 4",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,"Justice, Supreme Court, Pl 4",,,Under Votes,52,1,43,8
+Coleman,PRECINCT 2,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,675,32,515,128
+Coleman,PRECINCT 2,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,89,10,57,22
+Coleman,PRECINCT 2,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,14,1,6,7
+Coleman,PRECINCT 2,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,"Justice, Supreme Court, Pl 6",,,Under Votes,42,2,36,4
+Coleman,PRECINCT 2,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,674,33,511,130
+Coleman,PRECINCT 2,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,102,11,66,25
+Coleman,PRECINCT 2,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,"Presiding Judge, Ct of Crim App",,,Under Votes,44,1,37,6
+Coleman,PRECINCT 2,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,678,33,512,133
+Coleman,PRECINCT 2,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,94,11,62,21
+Coleman,PRECINCT 2,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,"Judge, Ct of Crim App, Pl 7",,,Under Votes,48,1,40,7
+Coleman,PRECINCT 2,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,677,33,515,129
+Coleman,PRECINCT 2,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,96,11,60,25
+Coleman,PRECINCT 2,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,"Judge, Ct of Crim App, Pl 8",,,Under Votes,47,1,39,7
+Coleman,PRECINCT 2,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,663,28,505,130
+Coleman,PRECINCT 2,"Member, State BoE, Dist 15",,DEM,Morgan Kirkpatrick,86,10,58,18
+Coleman,PRECINCT 2,"Member, State BoE, Dist 15",,LIB,Jack B. Westbrook,22,1,12,9
+Coleman,PRECINCT 2,"Member, State BoE, Dist 15",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,"Member, State BoE, Dist 15",,,Under Votes,49,6,39,4
+Coleman,PRECINCT 2,State Representative,72,REP,Drew Darby,692,27,529,136
+Coleman,PRECINCT 2,State Representative,72,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,State Representative,72,,Under Votes,128,18,85,25
+Coleman,PRECINCT 2,"Chief Justice, 11th Ct of App Dist",,REP,John Bailey,684,26,526,132
+Coleman,PRECINCT 2,"Chief Justice, 11th Ct of App Dist",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,"Chief Justice, 11th Ct of App Dist",,,Under Votes,136,19,88,29
+Coleman,PRECINCT 2,"Dist Judge, 42nd Judicial Dist",,REP,Arimy Beasley,679,24,523,132
+Coleman,PRECINCT 2,"Dist Judge, 42nd Judicial Dist",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,"Dist Judge, 42nd Judicial Dist",,,Under Votes,141,21,91,29
+Coleman,PRECINCT 2,"Dist Attorney, 42nd Judicial Dist",,REP,Heath Hemphill,670,25,511,134
+Coleman,PRECINCT 2,"Dist Attorney, 42nd Judicial Dist",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,"Dist Attorney, 42nd Judicial Dist",,,Under Votes,150,20,103,27
+Coleman,PRECINCT 2,County Attorney,,REP,Hayden J. Wise,688,27,528,133
+Coleman,PRECINCT 2,County Attorney,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,County Attorney,,,Under Votes,132,18,86,28
+Coleman,PRECINCT 2,Sheriff,,REP,Les Cogdill,678,26,522,130
+Coleman,PRECINCT 2,Sheriff,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,Sheriff,,,Under Votes,142,19,92,31
+Coleman,PRECINCT 2,County Tax Assessor-Collector,,REP,Jamie Dodgen,693,28,532,133
+Coleman,PRECINCT 2,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,County Tax Assessor-Collector,,,Under Votes,127,17,82,28
+Coleman,PRECINCT 2,Constable,,REP,Johnny Barkemeyer,676,25,521,130
+Coleman,PRECINCT 2,Constable,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2,Constable,,,Under Votes,144,20,93,31
+Coleman,PRECINCT 2E,Registered Voters,,,,442,,,
+Coleman,PRECINCT 2E,Ballots Cast,,,,322,19,255,48
+Coleman,PRECINCT 2E,Ballots Cast - Blank,,,,0,0,0,0
+Coleman,PRECINCT 2E,President,,REP,Donald J. Trump,289,14,230,45
+Coleman,PRECINCT 2E,President,,DEM,Kamala D. Harris,32,5,24,3
+Coleman,PRECINCT 2E,President,,LIB,Chase Oliver,1,0,1,0
+Coleman,PRECINCT 2E,President,,GRN,Jill Stein,0,0,0,0
+Coleman,PRECINCT 2E,President,,,Write-ins,0,0,0,0
+Coleman,PRECINCT 2E,President,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,President,,,Under Votes,0,0,0,0
+Coleman,PRECINCT 2E,U.S. Senate,,REP,Ted Cruz,275,15,217,43
+Coleman,PRECINCT 2E,U.S. Senate,,DEM,Colin Allred,37,4,31,2
+Coleman,PRECINCT 2E,U.S. Senate,,LIB,Ted Brown,5,0,5,0
+Coleman,PRECINCT 2E,U.S. Senate,,,Write-ins,0,0,0,0
+Coleman,PRECINCT 2E,U.S. Senate,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,U.S. Senate,,,Under Votes,5,0,2,3
+Coleman,PRECINCT 2E,U.S. House,11,REP,August Pfluger,277,14,221,42
+Coleman,PRECINCT 2E,U.S. House,11,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,U.S. House,11,,Under Votes,45,5,34,6
+Coleman,PRECINCT 2E,Railroad Commissioner,,REP,Christi Craddick,263,14,208,41
+Coleman,PRECINCT 2E,Railroad Commissioner,,DEM,Katherine Culbert,29,3,24,2
+Coleman,PRECINCT 2E,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,8,0
+Coleman,PRECINCT 2E,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Coleman,PRECINCT 2E,Railroad Commissioner,,,Write-ins,0,0,0,0
+Coleman,PRECINCT 2E,Railroad Commissioner,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,Railroad Commissioner,,,Under Votes,22,2,15,5
+Coleman,PRECINCT 2E,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,274,13,220,41
+Coleman,PRECINCT 2E,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,29,3,24,2
+Coleman,PRECINCT 2E,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,"Justice, Supreme Court, Pl 2",,,Under Votes,19,3,11,5
+Coleman,PRECINCT 2E,"Justice, Supreme Court, Pl 4",,REP,John Devine,272,13,217,42
+Coleman,PRECINCT 2E,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,32,3,27,2
+Coleman,PRECINCT 2E,"Justice, Supreme Court, Pl 4",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,"Justice, Supreme Court, Pl 4",,,Under Votes,18,3,11,4
+Coleman,PRECINCT 2E,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,270,13,216,41
+Coleman,PRECINCT 2E,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,29,3,24,2
+Coleman,PRECINCT 2E,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,5,0,4,1
+Coleman,PRECINCT 2E,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,"Justice, Supreme Court, Pl 6",,,Under Votes,18,3,11,4
+Coleman,PRECINCT 2E,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,274,13,220,41
+Coleman,PRECINCT 2E,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,29,4,23,2
+Coleman,PRECINCT 2E,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,"Presiding Judge, Ct of Crim App",,,Under Votes,19,2,12,5
+Coleman,PRECINCT 2E,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,271,12,218,41
+Coleman,PRECINCT 2E,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,30,3,25,2
+Coleman,PRECINCT 2E,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,"Judge, Ct of Crim App, Pl 7",,,Under Votes,21,4,12,5
+Coleman,PRECINCT 2E,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,272,13,218,41
+Coleman,PRECINCT 2E,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,30,3,25,2
+Coleman,PRECINCT 2E,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,"Judge, Ct of Crim App, Pl 8",,,Under Votes,20,3,12,5
+Coleman,PRECINCT 2E,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,261,12,209,40
+Coleman,PRECINCT 2E,"Member, State BoE, Dist 15",,DEM,Morgan Kirkpatrick,35,3,29,3
+Coleman,PRECINCT 2E,"Member, State BoE, Dist 15",,LIB,Jack B. Westbrook,6,0,6,0
+Coleman,PRECINCT 2E,"Member, State BoE, Dist 15",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,"Member, State BoE, Dist 15",,,Under Votes,20,4,11,5
+Coleman,PRECINCT 2E,State Representative,72,REP,Drew Darby,278,14,222,42
+Coleman,PRECINCT 2E,State Representative,72,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,State Representative,72,,Under Votes,44,5,33,6
+Coleman,PRECINCT 2E,"Chief Justice, 11th Ct of App Dist",,REP,John Bailey,275,12,224,39
+Coleman,PRECINCT 2E,"Chief Justice, 11th Ct of App Dist",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,"Chief Justice, 11th Ct of App Dist",,,Under Votes,47,7,31,9
+Coleman,PRECINCT 2E,"Dist Judge, 42nd Judicial Dist",,REP,Arimy Beasley,275,12,222,41
+Coleman,PRECINCT 2E,"Dist Judge, 42nd Judicial Dist",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,"Dist Judge, 42nd Judicial Dist",,,Under Votes,47,7,33,7
+Coleman,PRECINCT 2E,"Dist Attorney, 42nd Judicial Dist",,REP,Heath Hemphill,273,12,220,41
+Coleman,PRECINCT 2E,"Dist Attorney, 42nd Judicial Dist",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,"Dist Attorney, 42nd Judicial Dist",,,Under Votes,49,7,35,7
+Coleman,PRECINCT 2E,County Attorney,,REP,Hayden J. Wise,280,14,224,42
+Coleman,PRECINCT 2E,County Attorney,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,County Attorney,,,Under Votes,42,5,31,6
+Coleman,PRECINCT 2E,Sheriff,,REP,Les Cogdill,279,12,227,40
+Coleman,PRECINCT 2E,Sheriff,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,Sheriff,,,Under Votes,43,7,28,8
+Coleman,PRECINCT 2E,County Tax Assessor-Collector,,REP,Jamie Dodgen,279,12,224,43
+Coleman,PRECINCT 2E,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,County Tax Assessor-Collector,,,Under Votes,43,7,31,5
+Coleman,PRECINCT 2E,Constable,,REP,Johnny Barkemeyer,274,14,219,41
+Coleman,PRECINCT 2E,Constable,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 2E,Constable,,,Under Votes,48,5,36,7
+Coleman,PRECINCT 3,Registered Voters,,,,1370,,,
+Coleman,PRECINCT 3,Ballots Cast,,,,898,38,742,118
+Coleman,PRECINCT 3,Ballots Cast - Blank,,,,0,0,0,0
+Coleman,PRECINCT 3,President,,REP,Donald J. Trump,794,33,664,97
+Coleman,PRECINCT 3,President,,DEM,Kamala D. Harris,90,4,67,19
+Coleman,PRECINCT 3,President,,LIB,Chase Oliver,4,0,3,1
+Coleman,PRECINCT 3,President,,GRN,Jill Stein,1,0,1,0
+Coleman,PRECINCT 3,President,,,Write-ins,4,0,3,1
+Coleman,PRECINCT 3,President,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,President,,,Under Votes,5,1,4,0
+Coleman,PRECINCT 3,U.S. Senate,,REP,Ted Cruz,765,29,650,86
+Coleman,PRECINCT 3,U.S. Senate,,DEM,Colin Allred,101,4,73,24
+Coleman,PRECINCT 3,U.S. Senate,,LIB,Ted Brown,17,4,10,3
+Coleman,PRECINCT 3,U.S. Senate,,,Write-ins,0,0,0,0
+Coleman,PRECINCT 3,U.S. Senate,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,U.S. Senate,,,Under Votes,15,1,9,5
+Coleman,PRECINCT 3,U.S. House,11,REP,August Pfluger,765,26,643,96
+Coleman,PRECINCT 3,U.S. House,11,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,U.S. House,11,,Under Votes,133,12,99,22
+Coleman,PRECINCT 3,Railroad Commissioner,,REP,Christi Craddick,739,30,624,85
+Coleman,PRECINCT 3,Railroad Commissioner,,DEM,Katherine Culbert,72,5,54,13
+Coleman,PRECINCT 3,Railroad Commissioner,,LIB,Hawk Dunlap,23,1,18,4
+Coleman,PRECINCT 3,Railroad Commissioner,,GRN,Eddie Espinoza,12,0,11,1
+Coleman,PRECINCT 3,Railroad Commissioner,,,Write-ins,0,0,0,0
+Coleman,PRECINCT 3,Railroad Commissioner,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,Railroad Commissioner,,,Under Votes,52,2,35,15
+Coleman,PRECINCT 3,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,771,30,651,90
+Coleman,PRECINCT 3,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,76,6,55,15
+Coleman,PRECINCT 3,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,"Justice, Supreme Court, Pl 2",,,Under Votes,51,2,36,13
+Coleman,PRECINCT 3,"Justice, Supreme Court, Pl 4",,REP,John Devine,758,32,638,88
+Coleman,PRECINCT 3,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,83,3,65,15
+Coleman,PRECINCT 3,"Justice, Supreme Court, Pl 4",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,"Justice, Supreme Court, Pl 4",,,Under Votes,57,3,39,15
+Coleman,PRECINCT 3,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,746,29,634,83
+Coleman,PRECINCT 3,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,81,6,58,17
+Coleman,PRECINCT 3,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,21,1,17,3
+Coleman,PRECINCT 3,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,"Justice, Supreme Court, Pl 6",,,Under Votes,50,2,33,15
+Coleman,PRECINCT 3,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,763,31,643,89
+Coleman,PRECINCT 3,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,81,5,62,14
+Coleman,PRECINCT 3,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,"Presiding Judge, Ct of Crim App",,,Under Votes,54,2,37,15
+Coleman,PRECINCT 3,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,764,29,646,89
+Coleman,PRECINCT 3,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,78,6,59,13
+Coleman,PRECINCT 3,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,"Judge, Ct of Crim App, Pl 7",,,Under Votes,56,3,37,16
+Coleman,PRECINCT 3,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,772,31,651,90
+Coleman,PRECINCT 3,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,73,4,56,13
+Coleman,PRECINCT 3,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,"Judge, Ct of Crim App, Pl 8",,,Under Votes,53,3,35,15
+Coleman,PRECINCT 3,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,745,26,631,88
+Coleman,PRECINCT 3,"Member, State BoE, Dist 15",,DEM,Morgan Kirkpatrick,81,5,61,15
+Coleman,PRECINCT 3,"Member, State BoE, Dist 15",,LIB,Jack B. Westbrook,13,0,12,1
+Coleman,PRECINCT 3,"Member, State BoE, Dist 15",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,"Member, State BoE, Dist 15",,,Under Votes,59,7,38,14
+Coleman,PRECINCT 3,State Representative,72,REP,Drew Darby,781,25,660,96
+Coleman,PRECINCT 3,State Representative,72,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,State Representative,72,,Under Votes,117,13,82,22
+Coleman,PRECINCT 3,"Chief Justice, 11th Ct of App Dist",,REP,John Bailey,772,27,651,94
+Coleman,PRECINCT 3,"Chief Justice, 11th Ct of App Dist",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,"Chief Justice, 11th Ct of App Dist",,,Under Votes,126,11,91,24
+Coleman,PRECINCT 3,"Dist Judge, 42nd Judicial Dist",,REP,Arimy Beasley,762,24,646,92
+Coleman,PRECINCT 3,"Dist Judge, 42nd Judicial Dist",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,"Dist Judge, 42nd Judicial Dist",,,Under Votes,136,14,96,26
+Coleman,PRECINCT 3,"Dist Attorney, 42nd Judicial Dist",,REP,Heath Hemphill,767,22,649,96
+Coleman,PRECINCT 3,"Dist Attorney, 42nd Judicial Dist",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,"Dist Attorney, 42nd Judicial Dist",,,Under Votes,131,16,93,22
+Coleman,PRECINCT 3,County Attorney,,REP,Hayden J. Wise,788,21,664,103
+Coleman,PRECINCT 3,County Attorney,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,County Attorney,,,Under Votes,110,17,78,15
+Coleman,PRECINCT 3,Sheriff,,REP,Les Cogdill,777,21,651,105
+Coleman,PRECINCT 3,Sheriff,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,Sheriff,,,Under Votes,121,17,91,13
+Coleman,PRECINCT 3,County Tax Assessor-Collector,,REP,Jamie Dodgen,794,22,675,97
+Coleman,PRECINCT 3,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,County Tax Assessor-Collector,,,Under Votes,104,16,67,21
+Coleman,PRECINCT 3,County Commissioner Pct 3,,REP,Scotty Lawrence,780,22,665,93
+Coleman,PRECINCT 3,County Commissioner Pct 3,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,County Commissioner Pct 3,,,Under Votes,118,16,77,25
+Coleman,PRECINCT 3,Constable,,REP,Johnny Barkemeyer,787,22,668,97
+Coleman,PRECINCT 3,Constable,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 3,Constable,,,Under Votes,111,16,74,21
+Coleman,PRECINCT 4,Registered Voters,,,,1530,,,
+Coleman,PRECINCT 4,Ballots Cast,,,,1078,44,914,120
+Coleman,PRECINCT 4,Ballots Cast - Blank,,,,0,0,0,0
+Coleman,PRECINCT 4,President,,REP,Donald J. Trump,966,37,819,110
+Coleman,PRECINCT 4,President,,DEM,Kamala D. Harris,98,6,83,9
+Coleman,PRECINCT 4,President,,LIB,Chase Oliver,2,1,1,0
+Coleman,PRECINCT 4,President,,GRN,Jill Stein,2,0,2,0
+Coleman,PRECINCT 4,President,,,Write-ins,3,0,2,1
+Coleman,PRECINCT 4,President,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,President,,,Under Votes,7,0,7,0
+Coleman,PRECINCT 4,U.S. Senate,,REP,Ted Cruz,929,37,789,103
+Coleman,PRECINCT 4,U.S. Senate,,DEM,Colin Allred,118,5,100,13
+Coleman,PRECINCT 4,U.S. Senate,,LIB,Ted Brown,14,2,12,0
+Coleman,PRECINCT 4,U.S. Senate,,,Write-ins,1,0,1,0
+Coleman,PRECINCT 4,U.S. Senate,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,U.S. Senate,,,Under Votes,16,0,12,4
+Coleman,PRECINCT 4,U.S. House,11,REP,August Pfluger,918,31,783,104
+Coleman,PRECINCT 4,U.S. House,11,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,U.S. House,11,,Under Votes,160,13,131,16
+Coleman,PRECINCT 4,Railroad Commissioner,,REP,Christi Craddick,917,34,778,105
+Coleman,PRECINCT 4,Railroad Commissioner,,DEM,Katherine Culbert,84,4,72,8
+Coleman,PRECINCT 4,Railroad Commissioner,,LIB,Hawk Dunlap,21,3,17,1
+Coleman,PRECINCT 4,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,3,1
+Coleman,PRECINCT 4,Railroad Commissioner,,,Write-ins,0,0,0,0
+Coleman,PRECINCT 4,Railroad Commissioner,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,Railroad Commissioner,,,Under Votes,52,3,44,5
+Coleman,PRECINCT 4,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,940,36,798,106
+Coleman,PRECINCT 4,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,84,5,71,8
+Coleman,PRECINCT 4,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,"Justice, Supreme Court, Pl 2",,,Under Votes,54,3,45,6
+Coleman,PRECINCT 4,"Justice, Supreme Court, Pl 4",,REP,John Devine,919,36,779,104
+Coleman,PRECINCT 4,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,93,4,82,7
+Coleman,PRECINCT 4,"Justice, Supreme Court, Pl 4",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,"Justice, Supreme Court, Pl 4",,,Under Votes,66,4,53,9
+Coleman,PRECINCT 4,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,918,35,783,100
+Coleman,PRECINCT 4,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,82,5,71,6
+Coleman,PRECINCT 4,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,13,1,9,3
+Coleman,PRECINCT 4,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,"Justice, Supreme Court, Pl 6",,,Under Votes,65,3,51,11
+Coleman,PRECINCT 4,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,918,36,778,104
+Coleman,PRECINCT 4,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,91,5,80,6
+Coleman,PRECINCT 4,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,"Presiding Judge, Ct of Crim App",,,Under Votes,69,3,56,10
+Coleman,PRECINCT 4,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,916,36,777,103
+Coleman,PRECINCT 4,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,91,5,78,8
+Coleman,PRECINCT 4,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,"Judge, Ct of Crim App, Pl 7",,,Under Votes,71,3,59,9
+Coleman,PRECINCT 4,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,929,35,790,104
+Coleman,PRECINCT 4,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,81,5,70,6
+Coleman,PRECINCT 4,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,"Judge, Ct of Crim App, Pl 8",,,Under Votes,68,4,54,10
+Coleman,PRECINCT 4,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,902,33,772,97
+Coleman,PRECINCT 4,"Member, State BoE, Dist 15",,DEM,Morgan Kirkpatrick,92,5,79,8
+Coleman,PRECINCT 4,"Member, State BoE, Dist 15",,LIB,Jack B. Westbrook,17,1,10,6
+Coleman,PRECINCT 4,"Member, State BoE, Dist 15",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,"Member, State BoE, Dist 15",,,Under Votes,67,5,53,9
+Coleman,PRECINCT 4,State Representative,72,REP,Drew Darby,924,29,791,104
+Coleman,PRECINCT 4,State Representative,72,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,State Representative,72,,Under Votes,154,15,123,16
+Coleman,PRECINCT 4,"Chief Justice, 11th Ct of App Dist",,REP,John Bailey,927,32,792,103
+Coleman,PRECINCT 4,"Chief Justice, 11th Ct of App Dist",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,"Chief Justice, 11th Ct of App Dist",,,Under Votes,151,12,122,17
+Coleman,PRECINCT 4,"Dist Judge, 42nd Judicial Dist",,REP,Arimy Beasley,918,29,787,102
+Coleman,PRECINCT 4,"Dist Judge, 42nd Judicial Dist",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,"Dist Judge, 42nd Judicial Dist",,,Under Votes,160,15,127,18
+Coleman,PRECINCT 4,"Dist Attorney, 42nd Judicial Dist",,REP,Heath Hemphill,930,30,799,101
+Coleman,PRECINCT 4,"Dist Attorney, 42nd Judicial Dist",,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,"Dist Attorney, 42nd Judicial Dist",,,Under Votes,148,14,115,19
+Coleman,PRECINCT 4,County Attorney,,REP,Hayden J. Wise,956,29,825,102
+Coleman,PRECINCT 4,County Attorney,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,County Attorney,,,Under Votes,122,15,89,18
+Coleman,PRECINCT 4,Sheriff,,REP,Les Cogdill,947,27,815,105
+Coleman,PRECINCT 4,Sheriff,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,Sheriff,,,Under Votes,131,17,99,15
+Coleman,PRECINCT 4,County Tax Assessor-Collector,,REP,Jamie Dodgen,941,29,810,102
+Coleman,PRECINCT 4,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,County Tax Assessor-Collector,,,Under Votes,137,15,104,18
+Coleman,PRECINCT 4,Constable,,REP,Johnny Barkemeyer,940,28,808,104
+Coleman,PRECINCT 4,Constable,,,Over Votes,0,0,0,0
+Coleman,PRECINCT 4,Constable,,,Under Votes,138,16,106,16
