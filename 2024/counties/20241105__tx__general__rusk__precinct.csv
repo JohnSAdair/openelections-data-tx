@@ -1,0 +1,1058 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Rusk,111,Ballots Cast,,,,641,,,
+Rusk,112,Ballots Cast,,,,1471,,,
+Rusk,113,Ballots Cast,,,,2083,,,
+Rusk,114,Ballots Cast,,,,1087,,,
+Rusk,201,Ballots Cast,,,,603,,,
+Rusk,212,Ballots Cast,,,,664,,,
+Rusk,213,Ballots Cast,,,,1439,,,
+Rusk,214,Ballots Cast,,,,1958,,,
+Rusk,215,Ballots Cast,,,,1538,,,
+Rusk,302,Ballots Cast,,,,644,,,
+Rusk,303,Ballots Cast,,,,829,,,
+Rusk,314,Ballots Cast,,,,826,,,
+Rusk,315,Ballots Cast,,,,676,,,
+Rusk,316,Ballots Cast,,,,379,,,
+Rusk,317,Ballots Cast,,,,397,,,
+Rusk,318,Ballots Cast,,,,851,,,
+Rusk,319,Ballots Cast,,,,285,,,
+Rusk,404,Ballots Cast,,,,1178,,,
+Rusk,405,Ballots Cast,,,,871,,,
+Rusk,416,Ballots Cast,,,,683,,,
+Rusk,417,Ballots Cast,,,,1056,,,
+Rusk,418,Ballots Cast,,,,1659,,,
+Rusk,417,Carlisle ISD,,NON,Barry Burton,110,0,65,45
+Rusk,418,Carlisle ISD,,NON,Barry Burton,100,4,69,27
+Rusk,417,Carlisle ISD,,NON,Dawn Martin,197,2,117,78
+Rusk,418,Carlisle ISD,,NON,Dawn Martin,176,8,122,46
+Rusk,417,Carlisle ISD,,NON,Kevin Curbo,139,1,84,54
+Rusk,418,Carlisle ISD,,NON,Kevin Curbo,162,9,112,41
+Rusk,417,Carlisle ISD,,NON,Lorin McKnight Mayo,46,0,25,21
+Rusk,418,Carlisle ISD,,NON,Lorin McKnight Mayo,56,2,37,17
+Rusk,303,City of Henderson,,NON,Gregory Jackson,258,9,195,54
+Rusk,404,City of Henderson,,NON,Gregory Jackson,23,1,19,3
+Rusk,201,City of Henderson,,NON,Henry Pace,461,20,372,69
+Rusk,302,City of Henderson,,NON,Henry Pace,497,23,384,90
+Rusk,303,City of Henderson,,NON,Henry Pace,633,19,474,140
+Rusk,314,City of Henderson,,NON,Henry Pace,26,0,23,3
+Rusk,404,City of Henderson,,NON,Henry Pace,896,39,730,127
+Rusk,405,City of Henderson,,NON,Henry Pace,686,30,551,105
+Rusk,302,City of Henderson,,NON,Michael Searcy,244,5,202,37
+Rusk,302,City of Henderson,,NON,Reginald Weatherton,234,20,162,52
+Rusk,112,City of Overton,,NON,Casey L True,640,16,322,302
+Rusk,112,City of Overton,,NON,Cory D Moose,492,10,228,254
+Rusk,112,City of Overton,,NON,Michael Paul Williams,635,15,319,301
+Rusk,112,City of Overton,,NON,Sheri Schmoll,182,7,100,75
+Rusk,112,Constable Pct 1,,REP,Richard Stanley,1167,27,662,478
+Rusk,113,Constable Pct 1,,REP,Richard Stanley,1693,56,1375,262
+Rusk,114,Constable Pct 1,,REP,Richard Stanley,844,18,560,266
+Rusk,213,Constable Pct 2,,REP,Matt Allison,1213,36,905,272
+Rusk,214,Constable Pct 2,,REP,Matt Allison,1640,37,1093,510
+Rusk,215,Constable Pct 2,,REP,Matt Allison,1285,20,692,573
+Rusk,315,Constable Pct 3,,REP,Rusty Hughes,572,11,418,143
+Rusk,316,Constable Pct 3,,REP,Rusty Hughes,319,8,195,116
+Rusk,317,Constable Pct 3,,REP,Rusty Hughes,259,17,135,107
+Rusk,318,Constable Pct 3,,REP,Rusty Hughes,681,19,344,318
+Rusk,319,Constable Pct 3,,REP,Rusty Hughes,204,4,127,73
+Rusk,417,Constable Pct 4,,REP,Jesse Stewart,827,15,556,256
+Rusk,418,Constable Pct 4,,REP,Jesse Stewart,1303,32,906,365
+Rusk,111,Constable Pct 5,,REP,Trey Hacker,525,16,428,81
+Rusk,201,Constable Pct 5,,REP,Trey Hacker,468,15,389,64
+Rusk,212,Constable Pct 5,,REP,Trey Hacker,550,13,467,70
+Rusk,302,Constable Pct 5,,REP,Trey Hacker,433,15,341,77
+Rusk,303,Constable Pct 5,,REP,Trey Hacker,540,17,401,122
+Rusk,314,Constable Pct 5,,REP,Trey Hacker,681,17,556,108
+Rusk,404,Constable Pct 5,,REP,Trey Hacker,955,48,783,124
+Rusk,405,Constable Pct 5,,REP,Trey Hacker,726,35,589,102
+Rusk,416,Constable Pct 5,,REP,Trey Hacker,562,16,441,105
+Rusk,111,County Attorney,,REP,Micheal E. Jimerson,538,16,436,86
+Rusk,112,County Attorney,,REP,Micheal E. Jimerson,1205,29,679,497
+Rusk,113,County Attorney,,REP,Micheal E. Jimerson,1722,57,1402,263
+Rusk,114,County Attorney,,REP,Micheal E. Jimerson,884,19,590,275
+Rusk,201,County Attorney,,REP,Micheal E. Jimerson,470,16,390,64
+Rusk,212,County Attorney,,REP,Micheal E. Jimerson,554,14,472,68
+Rusk,213,County Attorney,,REP,Micheal E. Jimerson,1208,36,906,266
+Rusk,214,County Attorney,,REP,Micheal E. Jimerson,1623,37,1076,510
+Rusk,215,County Attorney,,REP,Micheal E. Jimerson,1226,19,666,541
+Rusk,302,County Attorney,,REP,Micheal E. Jimerson,449,15,358,76
+Rusk,303,County Attorney,,REP,Micheal E. Jimerson,554,17,416,121
+Rusk,314,County Attorney,,REP,Micheal E. Jimerson,687,18,561,108
+Rusk,315,County Attorney,,REP,Micheal E. Jimerson,599,11,442,146
+Rusk,316,County Attorney,,REP,Micheal E. Jimerson,320,8,192,120
+Rusk,317,County Attorney,,REP,Micheal E. Jimerson,271,17,142,112
+Rusk,318,County Attorney,,REP,Micheal E. Jimerson,713,20,359,334
+Rusk,319,County Attorney,,REP,Micheal E. Jimerson,204,3,129,72
+Rusk,404,County Attorney,,REP,Micheal E. Jimerson,951,48,775,128
+Rusk,405,County Attorney,,REP,Micheal E. Jimerson,726,36,592,98
+Rusk,416,County Attorney,,REP,Micheal E. Jimerson,555,15,431,109
+Rusk,417,County Attorney,,REP,Micheal E. Jimerson,851,15,567,269
+Rusk,418,County Attorney,,REP,Micheal E. Jimerson,1345,34,940,371
+Rusk,111,County Commissioner Pct 1,,REP,Randy W Gaut,524,16,424,84
+Rusk,112,County Commissioner Pct 1,,REP,Randy W Gaut,1225,29,692,504
+Rusk,113,County Commissioner Pct 1,,REP,Randy W Gaut,1728,57,1404,267
+Rusk,114,County Commissioner Pct 1,,REP,Randy W Gaut,898,21,597,280
+Rusk,302,County Commissioner Pct 3,,REP,Greg Gibson,441,15,350,76
+Rusk,303,County Commissioner Pct 3,,REP,Greg Gibson,550,16,415,119
+Rusk,314,County Commissioner Pct 3,,REP,Greg Gibson,704,17,576,111
+Rusk,315,County Commissioner Pct 3,,REP,Greg Gibson,589,9,435,145
+Rusk,316,County Commissioner Pct 3,,REP,Greg Gibson,325,10,195,120
+Rusk,317,County Commissioner Pct 3,,REP,Greg Gibson,275,18,142,115
+Rusk,318,County Commissioner Pct 3,,REP,Greg Gibson,711,20,357,334
+Rusk,319,County Commissioner Pct 3,,REP,Greg Gibson,194,4,117,73
+Rusk,111,County Tax Assessor-Collector,,REP,Nesha Partin,548,16,445,87
+Rusk,112,County Tax Assessor-Collector,,REP,Nesha Partin,1208,29,685,494
+Rusk,113,County Tax Assessor-Collector,,REP,Nesha Partin,1713,58,1401,254
+Rusk,114,County Tax Assessor-Collector,,REP,Nesha Partin,895,20,600,275
+Rusk,201,County Tax Assessor-Collector,,REP,Nesha Partin,469,17,386,66
+Rusk,212,County Tax Assessor-Collector,,REP,Nesha Partin,555,14,470,71
+Rusk,213,County Tax Assessor-Collector,,REP,Nesha Partin,1209,37,904,268
+Rusk,214,County Tax Assessor-Collector,,REP,Nesha Partin,1632,40,1083,509
+Rusk,215,County Tax Assessor-Collector,,REP,Nesha Partin,1225,19,676,530
+Rusk,302,County Tax Assessor-Collector,,REP,Nesha Partin,447,17,357,73
+Rusk,303,County Tax Assessor-Collector,,REP,Nesha Partin,545,16,414,115
+Rusk,314,County Tax Assessor-Collector,,REP,Nesha Partin,717,18,587,112
+Rusk,315,County Tax Assessor-Collector,,REP,Nesha Partin,598,12,440,146
+Rusk,316,County Tax Assessor-Collector,,REP,Nesha Partin,321,10,193,118
+Rusk,317,County Tax Assessor-Collector,,REP,Nesha Partin,270,18,141,111
+Rusk,318,County Tax Assessor-Collector,,REP,Nesha Partin,712,22,356,334
+Rusk,319,County Tax Assessor-Collector,,REP,Nesha Partin,206,3,128,75
+Rusk,404,County Tax Assessor-Collector,,REP,Nesha Partin,967,50,786,131
+Rusk,405,County Tax Assessor-Collector,,REP,Nesha Partin,713,38,574,101
+Rusk,416,County Tax Assessor-Collector,,REP,Nesha Partin,567,16,443,108
+Rusk,417,County Tax Assessor-Collector,,REP,Nesha Partin,853,15,574,264
+Rusk,418,County Tax Assessor-Collector,,REP,Nesha Partin,1356,35,948,373
+Rusk,111,Dist Judge,,REP,David Hill,535,15,437,83
+Rusk,112,Dist Judge,,REP,David Hill,1210,29,692,489
+Rusk,113,Dist Judge,,REP,David Hill,1689,57,1372,260
+Rusk,114,Dist Judge,,REP,David Hill,875,18,586,271
+Rusk,201,Dist Judge,,REP,David Hill,464,15,382,67
+Rusk,212,Dist Judge,,REP,David Hill,553,13,469,71
+Rusk,213,Dist Judge,,REP,David Hill,1204,36,903,265
+Rusk,214,Dist Judge,,REP,David Hill,1603,36,1074,493
+Rusk,215,Dist Judge,,REP,David Hill,1222,19,670,533
+Rusk,302,Dist Judge,,REP,David Hill,437,15,350,72
+Rusk,303,Dist Judge,,REP,David Hill,540,15,407,118
+Rusk,314,Dist Judge,,REP,David Hill,704,17,581,106
+Rusk,315,Dist Judge,,REP,David Hill,592,11,438,143
+Rusk,316,Dist Judge,,REP,David Hill,315,7,192,116
+Rusk,317,Dist Judge,,REP,David Hill,264,18,135,111
+Rusk,318,Dist Judge,,REP,David Hill,706,17,362,327
+Rusk,319,Dist Judge,,REP,David Hill,202,3,127,72
+Rusk,404,Dist Judge,,REP,David Hill,948,48,776,124
+Rusk,405,Dist Judge,,REP,David Hill,708,33,573,102
+Rusk,416,Dist Judge,,REP,David Hill,570,17,444,109
+Rusk,417,Dist Judge,,REP,David Hill,846,15,573,258
+Rusk,418,Dist Judge,,REP,David Hill,1331,33,936,362
+Rusk,201,Henderson ISD,. 3,NON,John S Taylor,36,0,26,10
+Rusk,212,Henderson ISD,. 3,NON,John S Taylor,58,2,47,9
+Rusk,215,Henderson ISD,. 3,NON,John S Taylor,170,2,139,29
+Rusk,302,Henderson ISD,. 3,NON,John S Taylor,191,5,159,27
+Rusk,303,Henderson ISD,. 3,NON,John S Taylor,42,1,27,14
+Rusk,314,Henderson ISD,. 3,NON,John S Taylor,301,8,247,46
+Rusk,315,Henderson ISD,. 3,NON,John S Taylor,170,6,137,27
+Rusk,404,Henderson ISD,. 3,NON,John S Taylor,48,1,43,4
+Rusk,405,Henderson ISD,. 3,NON,John S Taylor,256,11,203,42
+Rusk,111,Henderson ISD,. 4,NON,Haven Cheatwood Charlo,46,2,39,5
+Rusk,201,Henderson ISD,. 4,NON,Haven Cheatwood Charlo,161,6,136,19
+Rusk,212,Henderson ISD,. 4,NON,Haven Cheatwood Charlo,128,3,111,14
+Rusk,213,Henderson ISD,. 4,NON,Haven Cheatwood Charlo,3,0,2,1
+Rusk,214,Henderson ISD,. 4,NON,Haven Cheatwood Charlo,33,3,24,6
+Rusk,215,Henderson ISD,. 4,NON,Haven Cheatwood Charlo,17,0,14,3
+Rusk,302,Henderson ISD,. 4,NON,Haven Cheatwood Charlo,5,1,4,0
+Rusk,111,Henderson ISD,. 4,NON,Russell C Brown,107,1,83,23
+Rusk,201,Henderson ISD,. 4,NON,Russell C Brown,286,17,230,39
+Rusk,212,Henderson ISD,. 4,NON,Russell C Brown,343,10,290,43
+Rusk,213,Henderson ISD,. 4,NON,Russell C Brown,13,0,10,3
+Rusk,214,Henderson ISD,. 4,NON,Russell C Brown,92,7,51,34
+Rusk,215,Henderson ISD,. 4,NON,Russell C Brown,53,1,44,8
+Rusk,302,Henderson ISD,. 4,NON,Russell C Brown,16,0,14,2
+Rusk,314,Henderson ISD,. 5,NON,Jon Best,177,9,137,31
+Rusk,315,Henderson ISD,. 5,NON,Jon Best,199,2,159,38
+Rusk,316,Henderson ISD,. 5,NON,Jon Best,147,3,90,54
+Rusk,317,Henderson ISD,. 5,NON,Jon Best,51,2,25,24
+Rusk,318,Henderson ISD,. 5,NON,Jon Best,10,0,6,4
+Rusk,416,Henderson ISD,. 5,NON,Jon Best,91,3,77,11
+Rusk,418,Henderson ISD,. 5,NON,Jon Best,189,2,144,43
+Rusk,314,Henderson ISD,. 5,NON,Sonny Simmons,186,1,155,30
+Rusk,315,Henderson ISD,. 5,NON,Sonny Simmons,179,1,116,62
+Rusk,316,Henderson ISD,. 5,NON,Sonny Simmons,149,6,81,62
+Rusk,317,Henderson ISD,. 5,NON,Sonny Simmons,56,3,32,21
+Rusk,318,Henderson ISD,. 5,NON,Sonny Simmons,7,0,2,5
+Rusk,416,Henderson ISD,. 5,NON,Sonny Simmons,98,5,74,19
+Rusk,418,Henderson ISD,. 5,NON,Sonny Simmons,223,1,163,59
+Rusk,111,Judge,7,REP,Gina Parker,506,17,413,76
+Rusk,112,Judge,7,REP,Gina Parker,1159,26,672,461
+Rusk,113,Judge,7,REP,Gina Parker,1624,56,1331,237
+Rusk,114,Judge,7,REP,Gina Parker,846,17,573,256
+Rusk,201,Judge,7,REP,Gina Parker,426,12,360,54
+Rusk,212,Judge,7,REP,Gina Parker,529,12,454,63
+Rusk,213,Judge,7,REP,Gina Parker,1154,31,863,260
+Rusk,214,Judge,7,REP,Gina Parker,1523,38,1022,463
+Rusk,215,Judge,7,REP,Gina Parker,1147,18,630,499
+Rusk,302,Judge,7,REP,Gina Parker,371,11,303,57
+Rusk,303,Judge,7,REP,Gina Parker,423,14,327,82
+Rusk,314,Judge,7,REP,Gina Parker,675,16,558,101
+Rusk,315,Judge,7,REP,Gina Parker,585,8,441,136
+Rusk,316,Judge,7,REP,Gina Parker,315,6,195,114
+Rusk,317,Judge,7,REP,Gina Parker,241,18,123,100
+Rusk,318,Judge,7,REP,Gina Parker,666,19,348,299
+Rusk,319,Judge,7,REP,Gina Parker,185,2,118,65
+Rusk,404,Judge,7,REP,Gina Parker,872,44,711,117
+Rusk,405,Judge,7,REP,Gina Parker,655,29,537,89
+Rusk,416,Judge,7,REP,Gina Parker,537,15,425,97
+Rusk,417,Judge,7,REP,Gina Parker,808,11,552,245
+Rusk,418,Judge,7,REP,Gina Parker,1316,32,940,344
+Rusk,111,Judge,7,DEM,Nancy Mulder,90,4,67,19
+Rusk,112,Judge,7,DEM,Nancy Mulder,237,16,121,100
+Rusk,113,Judge,7,DEM,Nancy Mulder,347,14,277,56
+Rusk,114,Judge,7,DEM,Nancy Mulder,182,18,114,50
+Rusk,201,Judge,7,DEM,Nancy Mulder,134,16,92,26
+Rusk,212,Judge,7,DEM,Nancy Mulder,93,6,70,17
+Rusk,213,Judge,7,DEM,Nancy Mulder,219,13,161,45
+Rusk,214,Judge,7,DEM,Nancy Mulder,365,23,227,115
+Rusk,215,Judge,7,DEM,Nancy Mulder,310,9,176,125
+Rusk,302,Judge,7,DEM,Nancy Mulder,223,18,155,50
+Rusk,303,Judge,7,DEM,Nancy Mulder,336,17,235,84
+Rusk,314,Judge,7,DEM,Nancy Mulder,94,2,70,22
+Rusk,315,Judge,7,DEM,Nancy Mulder,61,3,36,22
+Rusk,316,Judge,7,DEM,Nancy Mulder,35,3,16,16
+Rusk,317,Judge,7,DEM,Nancy Mulder,132,11,68,53
+Rusk,318,Judge,7,DEM,Nancy Mulder,130,11,50,69
+Rusk,319,Judge,7,DEM,Nancy Mulder,88,10,53,25
+Rusk,404,Judge,7,DEM,Nancy Mulder,211,8,169,34
+Rusk,405,Judge,7,DEM,Nancy Mulder,144,11,105,28
+Rusk,416,Judge,7,DEM,Nancy Mulder,103,7,71,25
+Rusk,417,Judge,7,DEM,Nancy Mulder,178,11,96,71
+Rusk,418,Judge,7,DEM,Nancy Mulder,235,9,131,95
+Rusk,111,Judge,8,DEM,Chika Anyiam,84,5,63,16
+Rusk,112,Judge,8,DEM,Chika Anyiam,229,13,118,98
+Rusk,113,Judge,8,DEM,Chika Anyiam,351,14,277,60
+Rusk,114,Judge,8,DEM,Chika Anyiam,176,17,116,43
+Rusk,201,Judge,8,DEM,Chika Anyiam,132,16,87,29
+Rusk,212,Judge,8,DEM,Chika Anyiam,91,7,67,17
+Rusk,213,Judge,8,DEM,Chika Anyiam,218,11,163,44
+Rusk,214,Judge,8,DEM,Chika Anyiam,352,21,219,112
+Rusk,215,Judge,8,DEM,Chika Anyiam,305,9,168,128
+Rusk,302,Judge,8,DEM,Chika Anyiam,225,18,155,52
+Rusk,303,Judge,8,DEM,Chika Anyiam,341,17,242,82
+Rusk,314,Judge,8,DEM,Chika Anyiam,89,2,67,20
+Rusk,315,Judge,8,DEM,Chika Anyiam,57,3,34,20
+Rusk,316,Judge,8,DEM,Chika Anyiam,35,3,16,16
+Rusk,317,Judge,8,DEM,Chika Anyiam,128,11,65,52
+Rusk,318,Judge,8,DEM,Chika Anyiam,126,11,47,68
+Rusk,319,Judge,8,DEM,Chika Anyiam,86,10,53,23
+Rusk,404,Judge,8,DEM,Chika Anyiam,203,8,161,34
+Rusk,405,Judge,8,DEM,Chika Anyiam,138,11,103,24
+Rusk,416,Judge,8,DEM,Chika Anyiam,98,7,65,26
+Rusk,417,Judge,8,DEM,Chika Anyiam,178,11,95,72
+Rusk,418,Judge,8,DEM,Chika Anyiam,237,10,131,96
+Rusk,111,Judge,8,REP,Lee Finley,511,16,421,74
+Rusk,112,Judge,8,REP,Lee Finley,1167,28,674,465
+Rusk,113,Judge,8,REP,Lee Finley,1608,56,1316,236
+Rusk,114,Judge,8,REP,Lee Finley,845,16,568,261
+Rusk,201,Judge,8,REP,Lee Finley,426,14,361,51
+Rusk,212,Judge,8,REP,Lee Finley,528,13,453,62
+Rusk,213,Judge,8,REP,Lee Finley,1155,32,862,261
+Rusk,214,Judge,8,REP,Lee Finley,1537,40,1030,467
+Rusk,215,Judge,8,REP,Lee Finley,1154,18,636,500
+Rusk,302,Judge,8,REP,Lee Finley,365,10,299,56
+Rusk,303,Judge,8,REP,Lee Finley,421,13,325,83
+Rusk,314,Judge,8,REP,Lee Finley,678,17,559,102
+Rusk,315,Judge,8,REP,Lee Finley,592,8,447,137
+Rusk,316,Judge,8,REP,Lee Finley,319,8,195,116
+Rusk,317,Judge,8,REP,Lee Finley,247,18,128,101
+Rusk,318,Judge,8,REP,Lee Finley,674,19,352,303
+Rusk,319,Judge,8,REP,Lee Finley,189,2,120,67
+Rusk,404,Judge,8,REP,Lee Finley,882,44,722,116
+Rusk,405,Judge,8,REP,Lee Finley,655,30,535,90
+Rusk,416,Judge,8,REP,Lee Finley,541,16,429,96
+Rusk,417,Judge,8,REP,Lee Finley,808,11,554,243
+Rusk,418,Judge,8,REP,Lee Finley,1316,32,938,346
+Rusk,111,Justice,2,DEM,DaSean Jones,90,5,66,19
+Rusk,112,Justice,2,DEM,DaSean Jones,238,13,125,100
+Rusk,113,Justice,2,DEM,DaSean Jones,350,12,274,64
+Rusk,114,Justice,2,DEM,DaSean Jones,176,18,111,47
+Rusk,201,Justice,2,DEM,DaSean Jones,132,17,86,29
+Rusk,212,Justice,2,DEM,DaSean Jones,93,7,70,16
+Rusk,213,Justice,2,DEM,DaSean Jones,226,11,166,49
+Rusk,214,Justice,2,DEM,DaSean Jones,353,22,219,112
+Rusk,215,Justice,2,DEM,DaSean Jones,304,9,166,129
+Rusk,302,Justice,2,DEM,DaSean Jones,230,18,159,53
+Rusk,303,Justice,2,DEM,DaSean Jones,345,17,246,82
+Rusk,314,Justice,2,DEM,DaSean Jones,90,1,68,21
+Rusk,315,Justice,2,DEM,DaSean Jones,57,4,34,19
+Rusk,316,Justice,2,DEM,DaSean Jones,35,4,16,15
+Rusk,317,Justice,2,DEM,DaSean Jones,125,11,63,51
+Rusk,318,Justice,2,DEM,DaSean Jones,122,10,46,66
+Rusk,319,Justice,2,DEM,DaSean Jones,78,10,47,21
+Rusk,404,Justice,2,DEM,DaSean Jones,215,8,171,36
+Rusk,405,Justice,2,DEM,DaSean Jones,145,10,104,31
+Rusk,416,Justice,2,DEM,DaSean Jones,101,7,68,26
+Rusk,417,Justice,2,DEM,DaSean Jones,178,11,96,71
+Rusk,418,Justice,2,DEM,DaSean Jones,246,10,141,95
+Rusk,111,Justice,2,REP,Jeff Rambin,522,16,424,82
+Rusk,112,Justice,2,REP,Jeff Rambin,1210,30,694,486
+Rusk,113,Justice,2,REP,Jeff Rambin,1689,56,1372,261
+Rusk,114,Justice,2,REP,Jeff Rambin,864,17,586,261
+Rusk,201,Justice,2,REP,Jeff Rambin,445,16,365,64
+Rusk,212,Justice,2,REP,Jeff Rambin,537,12,457,68
+Rusk,213,Justice,2,REP,Jeff Rambin,1205,35,903,267
+Rusk,214,Justice,2,REP,Jeff Rambin,1586,37,1057,492
+Rusk,215,Justice,2,REP,Jeff Rambin,1212,19,662,531
+Rusk,302,Justice,2,REP,Jeff Rambin,417,14,333,70
+Rusk,303,Justice,2,REP,Jeff Rambin,502,14,377,111
+Rusk,314,Justice,2,REP,Jeff Rambin,679,17,558,104
+Rusk,315,Justice,2,REP,Jeff Rambin,590,10,438,142
+Rusk,316,Justice,2,REP,Jeff Rambin,313,7,190,116
+Rusk,317,Justice,2,REP,Jeff Rambin,266,19,135,112
+Rusk,318,Justice,2,REP,Jeff Rambin,699,17,357,325
+Rusk,319,Justice,2,REP,Jeff Rambin,200,3,126,71
+Rusk,404,Justice,2,REP,Jeff Rambin,897,47,734,116
+Rusk,405,Justice,2,REP,Jeff Rambin,674,34,545,95
+Rusk,416,Justice,2,REP,Jeff Rambin,557,16,433,108
+Rusk,417,Justice,2,REP,Jeff Rambin,834,13,564,257
+Rusk,418,Justice,2,REP,Jeff Rambin,1324,34,928,362
+Rusk,111,Justice,2,REP,Jimmy Blacklock,516,17,421,78
+Rusk,112,Justice,2,REP,Jimmy Blacklock,1172,28,677,467
+Rusk,113,Justice,2,REP,Jimmy Blacklock,1634,58,1341,235
+Rusk,114,Justice,2,REP,Jimmy Blacklock,856,16,582,258
+Rusk,201,Justice,2,REP,Jimmy Blacklock,433,13,366,54
+Rusk,212,Justice,2,REP,Jimmy Blacklock,531,13,455,63
+Rusk,213,Justice,2,REP,Jimmy Blacklock,1158,34,863,261
+Rusk,214,Justice,2,REP,Jimmy Blacklock,1540,38,1035,467
+Rusk,215,Justice,2,REP,Jimmy Blacklock,1165,18,639,508
+Rusk,302,Justice,2,REP,Jimmy Blacklock,379,10,308,61
+Rusk,303,Justice,2,REP,Jimmy Blacklock,425,13,326,86
+Rusk,314,Justice,2,REP,Jimmy Blacklock,691,18,569,104
+Rusk,315,Justice,2,REP,Jimmy Blacklock,596,8,448,140
+Rusk,316,Justice,2,REP,Jimmy Blacklock,327,8,198,121
+Rusk,317,Justice,2,REP,Jimmy Blacklock,249,18,131,100
+Rusk,318,Justice,2,REP,Jimmy Blacklock,686,19,361,306
+Rusk,319,Justice,2,REP,Jimmy Blacklock,189,2,119,68
+Rusk,404,Justice,2,REP,Jimmy Blacklock,887,44,725,118
+Rusk,405,Justice,2,REP,Jimmy Blacklock,664,30,545,89
+Rusk,416,Justice,2,REP,Jimmy Blacklock,544,15,430,99
+Rusk,417,Justice,2,REP,Jimmy Blacklock,820,11,565,244
+Rusk,418,Justice,2,REP,Jimmy Blacklock,1326,33,941,352
+Rusk,111,Justice,3,REP,Greg Neeley,516,16,419,81
+Rusk,112,Justice,3,REP,Greg Neeley,1204,30,691,483
+Rusk,113,Justice,3,REP,Greg Neeley,1688,57,1372,259
+Rusk,114,Justice,3,REP,Greg Neeley,867,18,582,267
+Rusk,201,Justice,3,REP,Greg Neeley,442,14,364,64
+Rusk,212,Justice,3,REP,Greg Neeley,527,12,448,67
+Rusk,213,Justice,3,REP,Greg Neeley,1198,36,896,266
+Rusk,214,Justice,3,REP,Greg Neeley,1588,36,1057,495
+Rusk,215,Justice,3,REP,Greg Neeley,1211,19,660,532
+Rusk,302,Justice,3,REP,Greg Neeley,416,13,332,71
+Rusk,303,Justice,3,REP,Greg Neeley,509,14,381,114
+Rusk,314,Justice,3,REP,Greg Neeley,673,17,554,102
+Rusk,315,Justice,3,REP,Greg Neeley,583,10,429,144
+Rusk,316,Justice,3,REP,Greg Neeley,316,8,193,115
+Rusk,317,Justice,3,REP,Greg Neeley,255,19,127,109
+Rusk,318,Justice,3,REP,Greg Neeley,687,17,350,320
+Rusk,319,Justice,3,REP,Greg Neeley,196,3,123,70
+Rusk,404,Justice,3,REP,Greg Neeley,895,47,730,118
+Rusk,405,Justice,3,REP,Greg Neeley,666,35,536,95
+Rusk,416,Justice,3,REP,Greg Neeley,549,16,426,107
+Rusk,417,Justice,3,REP,Greg Neeley,837,15,564,258
+Rusk,418,Justice,3,REP,Greg Neeley,1310,34,922,354
+Rusk,111,Justice,4,DEM,Christine Vinh Weems,83,5,61,17
+Rusk,112,Justice,4,DEM,Christine Vinh Weems,242,14,122,106
+Rusk,113,Justice,4,DEM,Christine Vinh Weems,357,14,281,62
+Rusk,114,Justice,4,DEM,Christine Vinh Weems,182,18,114,50
+Rusk,201,Justice,4,DEM,Christine Vinh Weems,135,18,89,28
+Rusk,212,Justice,4,DEM,Christine Vinh Weems,96,7,72,17
+Rusk,213,Justice,4,DEM,Christine Vinh Weems,221,13,163,45
+Rusk,214,Justice,4,DEM,Christine Vinh Weems,368,24,228,116
+Rusk,215,Justice,4,DEM,Christine Vinh Weems,305,10,166,129
+Rusk,302,Justice,4,DEM,Christine Vinh Weems,229,20,158,51
+Rusk,303,Justice,4,DEM,Christine Vinh Weems,343,17,244,82
+Rusk,314,Justice,4,DEM,Christine Vinh Weems,99,1,72,26
+Rusk,315,Justice,4,DEM,Christine Vinh Weems,59,4,36,19
+Rusk,316,Justice,4,DEM,Christine Vinh Weems,37,4,16,17
+Rusk,317,Justice,4,DEM,Christine Vinh Weems,128,11,64,53
+Rusk,318,Justice,4,DEM,Christine Vinh Weems,128,11,50,67
+Rusk,319,Justice,4,DEM,Christine Vinh Weems,85,10,50,25
+Rusk,404,Justice,4,DEM,Christine Vinh Weems,217,8,171,38
+Rusk,405,Justice,4,DEM,Christine Vinh Weems,153,11,111,31
+Rusk,416,Justice,4,DEM,Christine Vinh Weems,105,7,71,27
+Rusk,417,Justice,4,DEM,Christine Vinh Weems,183,11,99,73
+Rusk,418,Justice,4,DEM,Christine Vinh Weems,249,9,137,103
+Rusk,111,Justice,4,REP,John Devine,516,17,421,78
+Rusk,112,Justice,4,REP,John Devine,1163,28,673,462
+Rusk,113,Justice,4,REP,John Devine,1609,53,1324,232
+Rusk,114,Justice,4,REP,John Devine,846,15,576,255
+Rusk,201,Justice,4,REP,John Devine,422,12,355,55
+Rusk,212,Justice,4,REP,John Devine,528,13,452,63
+Rusk,213,Justice,4,REP,John Devine,1151,31,858,262
+Rusk,214,Justice,4,REP,John Devine,1510,37,1015,458
+Rusk,215,Justice,4,REP,John Devine,1153,17,634,502
+Rusk,302,Justice,4,REP,John Devine,367,10,296,61
+Rusk,303,Justice,4,REP,John Devine,423,13,324,86
+Rusk,314,Justice,4,REP,John Devine,675,17,556,102
+Rusk,315,Justice,4,REP,John Devine,585,8,439,138
+Rusk,316,Justice,4,REP,John Devine,316,7,194,115
+Rusk,317,Justice,4,REP,John Devine,246,18,130,98
+Rusk,318,Justice,4,REP,John Devine,675,19,354,302
+Rusk,319,Justice,4,REP,John Devine,181,2,116,63
+Rusk,404,Justice,4,REP,John Devine,871,44,717,110
+Rusk,405,Justice,4,REP,John Devine,644,28,529,87
+Rusk,416,Justice,4,REP,John Devine,536,15,424,97
+Rusk,417,Justice,4,REP,John Devine,803,11,554,238
+Rusk,418,Justice,4,REP,John Devine,1312,32,937,343
+Rusk,111,Justice,6,DEM,Bonnie Lee Goldstein,88,5,66,17
+Rusk,112,Justice,6,DEM,Bonnie Lee Goldstein,235,14,121,100
+Rusk,113,Justice,6,DEM,Bonnie Lee Goldstein,337,12,269,56
+Rusk,114,Justice,6,DEM,Bonnie Lee Goldstein,178,18,112,48
+Rusk,201,Justice,6,DEM,Bonnie Lee Goldstein,131,16,85,30
+Rusk,212,Justice,6,DEM,Bonnie Lee Goldstein,93,7,70,16
+Rusk,213,Justice,6,DEM,Bonnie Lee Goldstein,218,13,161,44
+Rusk,214,Justice,6,DEM,Bonnie Lee Goldstein,359,23,223,113
+Rusk,215,Justice,6,DEM,Bonnie Lee Goldstein,302,8,169,125
+Rusk,302,Justice,6,DEM,Bonnie Lee Goldstein,232,20,158,54
+Rusk,303,Justice,6,DEM,Bonnie Lee Goldstein,345,17,243,85
+Rusk,314,Justice,6,DEM,Bonnie Lee Goldstein,86,1,63,22
+Rusk,315,Justice,6,DEM,Bonnie Lee Goldstein,60,4,35,21
+Rusk,316,Justice,6,DEM,Bonnie Lee Goldstein,37,4,20,13
+Rusk,317,Justice,6,DEM,Bonnie Lee Goldstein,130,11,66,53
+Rusk,318,Justice,6,DEM,Bonnie Lee Goldstein,124,11,49,64
+Rusk,319,Justice,6,DEM,Bonnie Lee Goldstein,88,10,53,25
+Rusk,404,Justice,6,DEM,Bonnie Lee Goldstein,216,8,172,36
+Rusk,405,Justice,6,DEM,Bonnie Lee Goldstein,138,10,102,26
+Rusk,416,Justice,6,DEM,Bonnie Lee Goldstein,102,7,69,26
+Rusk,417,Justice,6,DEM,Bonnie Lee Goldstein,184,11,101,72
+Rusk,418,Justice,6,DEM,Bonnie Lee Goldstein,238,9,132,97
+Rusk,111,Justice,6,LIB,J. David Roberson,16,0,11,5
+Rusk,112,Justice,6,LIB,J. David Roberson,33,0,11,22
+Rusk,113,Justice,6,LIB,J. David Roberson,44,0,31,13
+Rusk,114,Justice,6,LIB,J. David Roberson,17,0,11,6
+Rusk,201,Justice,6,LIB,J. David Roberson,14,2,10,2
+Rusk,212,Justice,6,LIB,J. David Roberson,11,0,9,2
+Rusk,213,Justice,6,LIB,J. David Roberson,26,0,19,7
+Rusk,214,Justice,6,LIB,J. David Roberson,31,0,15,16
+Rusk,215,Justice,6,LIB,J. David Roberson,29,1,10,18
+Rusk,302,Justice,6,LIB,J. David Roberson,10,0,9,1
+Rusk,303,Justice,6,LIB,J. David Roberson,15,0,12,3
+Rusk,314,Justice,6,LIB,J. David Roberson,12,0,9,3
+Rusk,315,Justice,6,LIB,J. David Roberson,17,0,10,7
+Rusk,316,Justice,6,LIB,J. David Roberson,3,0,1,2
+Rusk,317,Justice,6,LIB,J. David Roberson,6,0,3,3
+Rusk,318,Justice,6,LIB,J. David Roberson,23,1,7,15
+Rusk,319,Justice,6,LIB,J. David Roberson,2,0,2,0
+Rusk,404,Justice,6,LIB,J. David Roberson,19,0,16,3
+Rusk,405,Justice,6,LIB,J. David Roberson,17,1,12,4
+Rusk,416,Justice,6,LIB,J. David Roberson,13,0,10,3
+Rusk,417,Justice,6,LIB,J. David Roberson,24,0,13,11
+Rusk,418,Justice,6,LIB,J. David Roberson,24,1,11,12
+Rusk,111,Justice,6,REP,Jane Bland,498,17,408,73
+Rusk,112,Justice,6,REP,Jane Bland,1139,28,667,444
+Rusk,113,Justice,6,REP,Jane Bland,1603,58,1317,228
+Rusk,114,Justice,6,REP,Jane Bland,825,16,560,249
+Rusk,201,Justice,6,REP,Jane Bland,418,12,356,50
+Rusk,212,Justice,6,REP,Jane Bland,520,12,446,62
+Rusk,213,Justice,6,REP,Jane Bland,1137,31,849,257
+Rusk,214,Justice,6,REP,Jane Bland,1507,37,1017,453
+Rusk,215,Justice,6,REP,Jane Bland,1136,18,626,492
+Rusk,302,Justice,6,REP,Jane Bland,359,10,294,55
+Rusk,303,Justice,6,REP,Jane Bland,409,13,316,80
+Rusk,314,Justice,6,REP,Jane Bland,676,18,558,100
+Rusk,315,Justice,6,REP,Jane Bland,578,8,439,131
+Rusk,316,Justice,6,REP,Jane Bland,314,7,190,117
+Rusk,317,Justice,6,REP,Jane Bland,242,18,125,99
+Rusk,318,Justice,6,REP,Jane Bland,657,19,347,291
+Rusk,319,Justice,6,REP,Jane Bland,186,2,118,66
+Rusk,404,Justice,6,REP,Jane Bland,864,44,704,116
+Rusk,405,Justice,6,REP,Jane Bland,647,29,530,88
+Rusk,416,Justice,6,REP,Jane Bland,531,15,422,94
+Rusk,417,Justice,6,REP,Jane Bland,786,11,538,237
+Rusk,418,Justice,6,REP,Jane Bland,1302,33,933,336
+Rusk,316,Laneville ISD,,NON,Bryan Blanton,4,0,3,1
+Rusk,318,Laneville ISD,,NON,Bryan Blanton,0,0,0,0
+Rusk,319,Laneville ISD,,NON,Bryan Blanton,80,5,54,21
+Rusk,416,Laneville ISD,,NON,Bryan Blanton,6,0,4,2
+Rusk,418,Laneville ISD,,NON,Bryan Blanton,189,2,124,63
+Rusk,316,Laneville ISD,,NON,Greg Anderson,6,0,3,3
+Rusk,318,Laneville ISD,,NON,Greg Anderson,0,0,0,0
+Rusk,319,Laneville ISD,,NON,Greg Anderson,62,0,40,22
+Rusk,416,Laneville ISD,,NON,Greg Anderson,5,0,5,0
+Rusk,418,Laneville ISD,,NON,Greg Anderson,184,2,118,64
+Rusk,316,Laneville ISD,,NON,Jacqueline Johnson,6,1,4,1
+Rusk,318,Laneville ISD,,NON,Jacqueline Johnson,0,0,0,0
+Rusk,319,Laneville ISD,,NON,Jacqueline Johnson,35,3,23,9
+Rusk,416,Laneville ISD,,NON,Jacqueline Johnson,6,0,5,1
+Rusk,418,Laneville ISD,,NON,Jacqueline Johnson,127,5,81,41
+Rusk,316,Laneville ISD,,NON,Kaleigh Clark,11,0,9,2
+Rusk,318,Laneville ISD,,NON,Kaleigh Clark,0,0,0,0
+Rusk,319,Laneville ISD,,NON,Kaleigh Clark,40,0,23,17
+Rusk,416,Laneville ISD,,NON,Kaleigh Clark,3,0,3,0
+Rusk,418,Laneville ISD,,NON,Kaleigh Clark,178,6,110,62
+Rusk,316,Laneville ISD,,NON,Kevin Doss,7,0,6,1
+Rusk,318,Laneville ISD,,NON,Kevin Doss,0,0,0,0
+Rusk,319,Laneville ISD,,NON,Kevin Doss,62,2,42,18
+Rusk,416,Laneville ISD,,NON,Kevin Doss,4,0,2,2
+Rusk,418,Laneville ISD,,NON,Kevin Doss,162,4,109,49
+Rusk,316,Laneville ISD,,NON,Patrick Shipp,15,0,10,5
+Rusk,318,Laneville ISD,,NON,Patrick Shipp,0,0,0,0
+Rusk,319,Laneville ISD,,NON,Patrick Shipp,52,0,34,18
+Rusk,416,Laneville ISD,,NON,Patrick Shipp,6,0,6,0
+Rusk,418,Laneville ISD,,NON,Patrick Shipp,230,7,149,74
+Rusk,316,Laneville ISD,,NON,Rhonda Waggoner Smith,4,0,3,1
+Rusk,318,Laneville ISD,,NON,Rhonda Waggoner Smith,0,0,0,0
+Rusk,319,Laneville ISD,,NON,Rhonda Waggoner Smith,58,2,38,18
+Rusk,416,Laneville ISD,,NON,Rhonda Waggoner Smith,3,0,3,0
+Rusk,418,Laneville ISD,,NON,Rhonda Waggoner Smith,122,5,71,46
+Rusk,316,Laneville ISD,,NON,Terrance Loftis,2,0,1,1
+Rusk,318,Laneville ISD,,NON,Terrance Loftis,0,0,0,0
+Rusk,319,Laneville ISD,,NON,Terrance Loftis,30,0,18,12
+Rusk,416,Laneville ISD,,NON,Terrance Loftis,1,0,1,0
+Rusk,418,Laneville ISD,,NON,Terrance Loftis,102,0,64,38
+Rusk,112,Leverett's Chapel ISD,,NON,James Roy Rodgers,66,2,40,24
+Rusk,113,Leverett's Chapel ISD,,NON,James Roy Rodgers,10,3,5,2
+Rusk,112,Leverett's Chapel ISD,,NON,Jimmie Faye Waller,77,5,54,18
+Rusk,113,Leverett's Chapel ISD,,NON,Jimmie Faye Waller,11,0,7,4
+Rusk,112,Leverett's Chapel ISD,,NON,Manuel Dennis,85,2,59,24
+Rusk,113,Leverett's Chapel ISD,,NON,Manuel Dennis,21,4,11,6
+Rusk,112,Leverett's Chapel ISD,,NON,Mark Overman Jr.,79,3,44,32
+Rusk,113,Leverett's Chapel ISD,,NON,Mark Overman Jr.,7,3,2,2
+Rusk,112,Leverett's Chapel ISD,,NON,Robbie Waller,87,3,64,20
+Rusk,113,Leverett's Chapel ISD,,NON,Robbie Waller,14,0,11,3
+Rusk,316,Mount Enterprise ISD,,NON,Blake Webb,1,0,1,0
+Rusk,317,Mount Enterprise ISD,,NON,Blake Webb,7,0,5,2
+Rusk,318,Mount Enterprise ISD,,NON,Blake Webb,408,14,197,197
+Rusk,319,Mount Enterprise ISD,,NON,Blake Webb,24,0,16,8
+Rusk,418,Mount Enterprise ISD,,NON,Blake Webb,7,0,2,5
+Rusk,316,Mount Enterprise ISD,,NON,Brandon Jones,0,0,0,0
+Rusk,317,Mount Enterprise ISD,,NON,Brandon Jones,6,0,3,3
+Rusk,318,Mount Enterprise ISD,,NON,Brandon Jones,356,16,175,165
+Rusk,319,Mount Enterprise ISD,,NON,Brandon Jones,13,1,10,2
+Rusk,418,Mount Enterprise ISD,,NON,Brandon Jones,12,1,6,5
+Rusk,316,Mount Enterprise ISD,,NON,Hollie Henderson,1,1,0,0
+Rusk,317,Mount Enterprise ISD,,NON,Hollie Henderson,10,0,6,4
+Rusk,318,Mount Enterprise ISD,,NON,Hollie Henderson,288,10,141,137
+Rusk,319,Mount Enterprise ISD,,NON,Hollie Henderson,20,0,12,8
+Rusk,418,Mount Enterprise ISD,,NON,Hollie Henderson,5,2,3,0
+Rusk,316,Mount Enterprise ISD,,NON,John Walthall,0,0,0,0
+Rusk,317,Mount Enterprise ISD,,NON,John Walthall,8,0,4,4
+Rusk,318,Mount Enterprise ISD,,NON,John Walthall,369,13,177,179
+Rusk,319,Mount Enterprise ISD,,NON,John Walthall,18,0,7,11
+Rusk,418,Mount Enterprise ISD,,NON,John Walthall,9,0,3,6
+Rusk,316,Mount Enterprise ISD,,NON,Mark Phillips,0,0,0,0
+Rusk,317,Mount Enterprise ISD,,NON,Mark Phillips,1,0,1,0
+Rusk,318,Mount Enterprise ISD,,NON,Mark Phillips,153,5,74,74
+Rusk,319,Mount Enterprise ISD,,NON,Mark Phillips,7,0,3,4
+Rusk,418,Mount Enterprise ISD,,NON,Mark Phillips,5,0,4,1
+Rusk,316,Mount Enterprise ISD,,NON,Travis Owens,1,0,1,0
+Rusk,317,Mount Enterprise ISD,,NON,Travis Owens,11,0,6,5
+Rusk,318,Mount Enterprise ISD,,NON,Travis Owens,480,14,228,238
+Rusk,319,Mount Enterprise ISD,,NON,Travis Owens,31,1,19,11
+Rusk,418,Mount Enterprise ISD,,NON,Travis Owens,14,3,5,6
+Rusk,112,Overton ISD,,NON,Haylee Finley,868,20,465,383
+Rusk,113,Overton ISD,,NON,Haylee Finley,3,0,3,0
+Rusk,114,Overton ISD,,NON,Haylee Finley,0,0,0,0
+Rusk,112,Overton ISD,,NON,Mary Leigh Dike,862,21,462,379
+Rusk,113,Overton ISD,,NON,Mary Leigh Dike,3,0,3,0
+Rusk,114,Overton ISD,,NON,Mary Leigh Dike,0,0,0,0
+Rusk,112,Overton ISD,,NON,Scotty Moore,554,20,294,240
+Rusk,113,Overton ISD,,NON,Scotty Moore,3,0,3,0
+Rusk,114,Overton ISD,,NON,Scotty Moore,0,0,0,0
+Rusk,112,Overton ISD,,NON,Tara McFarland-Villanueva,392,6,193,193
+Rusk,113,Overton ISD,,NON,Tara McFarland-Villanueva,0,0,0,0
+Rusk,114,Overton ISD,,NON,Tara McFarland-Villanueva,0,0,0,0
+Rusk,111,President,,LIB,Chase Oliver/Mike ter Maat,3,0,2,1
+Rusk,112,President,,LIB,Chase Oliver/Mike ter Maat,6,0,1,5
+Rusk,113,President,,LIB,Chase Oliver/Mike ter Maat,5,0,3,2
+Rusk,114,President,,LIB,Chase Oliver/Mike ter Maat,5,0,5,0
+Rusk,201,President,,LIB,Chase Oliver/Mike ter Maat,1,0,1,0
+Rusk,212,President,,LIB,Chase Oliver/Mike ter Maat,4,0,4,0
+Rusk,213,President,,LIB,Chase Oliver/Mike ter Maat,8,0,5,3
+Rusk,214,President,,LIB,Chase Oliver/Mike ter Maat,10,0,7,3
+Rusk,215,President,,LIB,Chase Oliver/Mike ter Maat,4,0,2,2
+Rusk,302,President,,LIB,Chase Oliver/Mike ter Maat,2,0,2,0
+Rusk,303,President,,LIB,Chase Oliver/Mike ter Maat,6,0,5,1
+Rusk,314,President,,LIB,Chase Oliver/Mike ter Maat,1,0,1,0
+Rusk,315,President,,LIB,Chase Oliver/Mike ter Maat,2,0,1,1
+Rusk,316,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Rusk,317,President,,LIB,Chase Oliver/Mike ter Maat,1,1,0,0
+Rusk,318,President,,LIB,Chase Oliver/Mike ter Maat,3,0,1,2
+Rusk,319,President,,LIB,Chase Oliver/Mike ter Maat,1,0,1,0
+Rusk,404,President,,LIB,Chase Oliver/Mike ter Maat,5,0,3,2
+Rusk,405,President,,LIB,Chase Oliver/Mike ter Maat,4,0,1,3
+Rusk,416,President,,LIB,Chase Oliver/Mike ter Maat,2,0,1,1
+Rusk,417,President,,LIB,Chase Oliver/Mike ter Maat,2,0,0,2
+Rusk,418,President,,LIB,Chase Oliver/Mike ter Maat,6,0,2,4
+Rusk,111,President,,REP,Donald J. Trump/JD Vance,539,18,436,85
+Rusk,112,President,,REP,Donald J. Trump/JD Vance,1207,27,702,478
+Rusk,113,President,,REP,Donald J. Trump/JD Vance,1667,57,1368,242
+Rusk,114,President,,REP,Donald J. Trump/JD Vance,878,18,587,273
+Rusk,201,President,,REP,Donald J. Trump/JD Vance,445,12,381,52
+Rusk,212,President,,REP,Donald J. Trump/JD Vance,547,14,465,68
+Rusk,213,President,,REP,Donald J. Trump/JD Vance,1184,35,876,273
+Rusk,214,President,,REP,Donald J. Trump/JD Vance,1528,36,1028,464
+Rusk,215,President,,REP,Donald J. Trump/JD Vance,1185,20,651,514
+Rusk,302,President,,REP,Donald J. Trump/JD Vance,385,11,312,62
+Rusk,303,President,,REP,Donald J. Trump/JD Vance,450,13,342,95
+Rusk,314,President,,REP,Donald J. Trump/JD Vance,729,17,600,112
+Rusk,315,President,,REP,Donald J. Trump/JD Vance,606,9,455,142
+Rusk,316,President,,REP,Donald J. Trump/JD Vance,331,8,204,119
+Rusk,317,President,,REP,Donald J. Trump/JD Vance,256,16,133,107
+Rusk,318,President,,REP,Donald J. Trump/JD Vance,702,19,364,319
+Rusk,319,President,,REP,Donald J. Trump/JD Vance,191,2,120,69
+Rusk,404,President,,REP,Donald J. Trump/JD Vance,910,44,748,118
+Rusk,405,President,,REP,Donald J. Trump/JD Vance,707,31,582,94
+Rusk,416,President,,REP,Donald J. Trump/JD Vance,567,15,446,106
+Rusk,417,President,,REP,Donald J. Trump/JD Vance,846,12,582,252
+Rusk,418,President,,REP,Donald J. Trump/JD Vance,1374,32,975,367
+Rusk,111,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Rusk,112,President,,GRN,Jill Stein/Rudolph Ware,5,0,1,4
+Rusk,113,President,,GRN,Jill Stein/Rudolph Ware,5,0,5,0
+Rusk,114,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Rusk,201,President,,GRN,Jill Stein/Rudolph Ware,2,0,1,1
+Rusk,212,President,,GRN,Jill Stein/Rudolph Ware,3,0,2,1
+Rusk,213,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Rusk,214,President,,GRN,Jill Stein/Rudolph Ware,5,0,0,5
+Rusk,215,President,,GRN,Jill Stein/Rudolph Ware,3,0,0,3
+Rusk,302,President,,GRN,Jill Stein/Rudolph Ware,2,0,2,0
+Rusk,303,President,,GRN,Jill Stein/Rudolph Ware,4,0,3,1
+Rusk,314,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Rusk,315,President,,GRN,Jill Stein/Rudolph Ware,2,0,2,0
+Rusk,316,President,,GRN,Jill Stein/Rudolph Ware,1,0,0,1
+Rusk,317,President,,GRN,Jill Stein/Rudolph Ware,2,0,1,1
+Rusk,318,President,,GRN,Jill Stein/Rudolph Ware,2,0,0,2
+Rusk,319,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Rusk,404,President,,GRN,Jill Stein/Rudolph Ware,4,0,4,0
+Rusk,405,President,,GRN,Jill Stein/Rudolph Ware,4,0,4,0
+Rusk,416,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Rusk,417,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Rusk,418,President,,GRN,Jill Stein/Rudolph Ware,3,0,1,2
+Rusk,111,President,,DEM,Kamala D. Harris/Tim Walz,96,5,72,19
+Rusk,112,President,,DEM,Kamala D. Harris/Tim Walz,248,16,128,104
+Rusk,113,President,,DEM,Kamala D. Harris/Tim Walz,391,18,303,70
+Rusk,114,President,,DEM,Kamala D. Harris/Tim Walz,197,18,123,56
+Rusk,201,President,,DEM,Kamala D. Harris/Tim Walz,152,20,95,37
+Rusk,212,President,,DEM,Kamala D. Harris/Tim Walz,107,8,81,18
+Rusk,213,President,,DEM,Kamala D. Harris/Tim Walz,238,15,173,50
+Rusk,214,President,,DEM,Kamala D. Harris/Tim Walz,406,27,247,132
+Rusk,215,President,,DEM,Kamala D. Harris/Tim Walz,339,8,189,142
+Rusk,302,President,,DEM,Kamala D. Harris/Tim Walz,254,20,175,59
+Rusk,303,President,,DEM,Kamala D. Harris/Tim Walz,364,18,263,83
+Rusk,314,President,,DEM,Kamala D. Harris/Tim Walz,92,2,69,21
+Rusk,315,President,,DEM,Kamala D. Harris/Tim Walz,63,4,39,20
+Rusk,316,President,,DEM,Kamala D. Harris/Tim Walz,43,3,21,19
+Rusk,317,President,,DEM,Kamala D. Harris/Tim Walz,135,11,71,53
+Rusk,318,President,,DEM,Kamala D. Harris/Tim Walz,139,13,56,70
+Rusk,319,President,,DEM,Kamala D. Harris/Tim Walz,91,10,57,24
+Rusk,404,President,,DEM,Kamala D. Harris/Tim Walz,255,12,196,47
+Rusk,405,President,,DEM,Kamala D. Harris/Tim Walz,151,11,110,30
+Rusk,416,President,,DEM,Kamala D. Harris/Tim Walz,109,7,76,26
+Rusk,417,President,,DEM,Kamala D. Harris/Tim Walz,202,12,109,81
+Rusk,418,President,,DEM,Kamala D. Harris/Tim Walz,265,11,152,102
+Rusk,111,President,,NON,Write-in,2,0,2,0
+Rusk,112,President,,NON,Write-in,4,0,2,2
+Rusk,113,President,,NON,Write-in,8,1,5,2
+Rusk,114,President,,NON,Write-in,3,0,1,2
+Rusk,201,President,,NON,Write-in,2,0,2,0
+Rusk,212,President,,NON,Write-in,0,0,0,0
+Rusk,213,President,,NON,Write-in,4,0,3,1
+Rusk,214,President,,NON,Write-in,0,0,0,0
+Rusk,215,President,,NON,Write-in,2,0,1,1
+Rusk,302,President,,NON,Write-in,1,0,0,1
+Rusk,303,President,,NON,Write-in,2,0,1,1
+Rusk,314,President,,NON,Write-in,0,0,0,0
+Rusk,315,President,,NON,Write-in,1,0,1,0
+Rusk,316,President,,NON,Write-in,2,0,0,2
+Rusk,317,President,,NON,Write-in,0,0,0,0
+Rusk,318,President,,NON,Write-in,2,0,1,1
+Rusk,319,President,,NON,Write-in,0,0,0,0
+Rusk,404,President,,NON,Write-in,1,0,1,0
+Rusk,405,President,,NON,Write-in,0,0,0,0
+Rusk,416,President,,NON,Write-in,0,0,0,0
+Rusk,417,President,,NON,Write-in,4,0,2,2
+Rusk,418,President,,NON,Write-in,1,1,0,0
+Rusk,111,Presiding Judge,,REP,David J. Schenck,504,17,413,74
+Rusk,112,Presiding Judge,,REP,David J. Schenck,1165,28,678,459
+Rusk,113,Presiding Judge,,REP,David J. Schenck,1615,58,1321,236
+Rusk,114,Presiding Judge,,REP,David J. Schenck,836,16,568,252
+Rusk,201,Presiding Judge,,REP,David J. Schenck,425,12,364,49
+Rusk,212,Presiding Judge,,REP,David J. Schenck,527,13,452,62
+Rusk,213,Presiding Judge,,REP,David J. Schenck,1146,31,857,258
+Rusk,214,Presiding Judge,,REP,David J. Schenck,1524,38,1027,459
+Rusk,215,Presiding Judge,,REP,David J. Schenck,1148,18,627,503
+Rusk,302,Presiding Judge,,REP,David J. Schenck,367,11,297,59
+Rusk,303,Presiding Judge,,REP,David J. Schenck,412,13,317,82
+Rusk,314,Presiding Judge,,REP,David J. Schenck,675,18,558,99
+Rusk,315,Presiding Judge,,REP,David J. Schenck,593,8,450,135
+Rusk,316,Presiding Judge,,REP,David J. Schenck,318,8,194,116
+Rusk,317,Presiding Judge,,REP,David J. Schenck,248,19,127,102
+Rusk,318,Presiding Judge,,REP,David J. Schenck,674,19,355,300
+Rusk,319,Presiding Judge,,REP,David J. Schenck,186,2,120,64
+Rusk,404,Presiding Judge,,REP,David J. Schenck,863,44,704,115
+Rusk,405,Presiding Judge,,REP,David J. Schenck,657,29,538,90
+Rusk,416,Presiding Judge,,REP,David J. Schenck,530,15,421,94
+Rusk,417,Presiding Judge,,REP,David J. Schenck,810,11,552,247
+Rusk,418,Presiding Judge,,REP,David J. Schenck,1310,33,937,340
+Rusk,111,Presiding Judge,,DEM,Holly Taylor,93,5,70,18
+Rusk,112,Presiding Judge,,DEM,Holly Taylor,236,14,117,105
+Rusk,113,Presiding Judge,,DEM,Holly Taylor,361,12,287,62
+Rusk,114,Presiding Judge,,DEM,Holly Taylor,189,18,118,53
+Rusk,201,Presiding Judge,,DEM,Holly Taylor,136,18,88,30
+Rusk,212,Presiding Judge,,DEM,Holly Taylor,96,7,71,18
+Rusk,213,Presiding Judge,,DEM,Holly Taylor,229,13,168,48
+Rusk,214,Presiding Judge,,DEM,Holly Taylor,375,23,229,123
+Rusk,215,Presiding Judge,,DEM,Holly Taylor,315,9,178,128
+Rusk,302,Presiding Judge,,DEM,Holly Taylor,230,19,159,52
+Rusk,303,Presiding Judge,,DEM,Holly Taylor,353,17,250,86
+Rusk,314,Presiding Judge,,DEM,Holly Taylor,97,1,70,26
+Rusk,315,Presiding Judge,,DEM,Holly Taylor,61,3,35,23
+Rusk,316,Presiding Judge,,DEM,Holly Taylor,35,3,17,15
+Rusk,317,Presiding Judge,,DEM,Holly Taylor,129,10,68,51
+Rusk,318,Presiding Judge,,DEM,Holly Taylor,130,11,49,70
+Rusk,319,Presiding Judge,,DEM,Holly Taylor,89,10,53,26
+Rusk,404,Presiding Judge,,DEM,Holly Taylor,223,8,176,39
+Rusk,405,Presiding Judge,,DEM,Holly Taylor,141,11,104,26
+Rusk,416,Presiding Judge,,DEM,Holly Taylor,108,7,72,29
+Rusk,417,Presiding Judge,,DEM,Holly Taylor,182,11,99,72
+Rusk,418,Presiding Judge,,DEM,Holly Taylor,244,10,134,100
+Rusk,111,Railroad Commissioner,,REP,Christi Craddick,497,17,407,73
+Rusk,112,Railroad Commissioner,,REP,Christi Craddick,1103,26,631,446
+Rusk,113,Railroad Commissioner,,REP,Christi Craddick,1577,57,1297,223
+Rusk,114,Railroad Commissioner,,REP,Christi Craddick,828,18,560,250
+Rusk,201,Railroad Commissioner,,REP,Christi Craddick,408,13,345,50
+Rusk,212,Railroad Commissioner,,REP,Christi Craddick,510,13,438,59
+Rusk,213,Railroad Commissioner,,REP,Christi Craddick,1116,32,840,244
+Rusk,214,Railroad Commissioner,,REP,Christi Craddick,1458,39,988,431
+Rusk,215,Railroad Commissioner,,REP,Christi Craddick,1105,17,609,479
+Rusk,302,Railroad Commissioner,,REP,Christi Craddick,368,11,302,55
+Rusk,303,Railroad Commissioner,,REP,Christi Craddick,403,13,307,83
+Rusk,314,Railroad Commissioner,,REP,Christi Craddick,674,17,552,105
+Rusk,315,Railroad Commissioner,,REP,Christi Craddick,562,8,425,129
+Rusk,316,Railroad Commissioner,,REP,Christi Craddick,307,7,191,109
+Rusk,317,Railroad Commissioner,,REP,Christi Craddick,233,17,123,93
+Rusk,318,Railroad Commissioner,,REP,Christi Craddick,650,19,338,293
+Rusk,319,Railroad Commissioner,,REP,Christi Craddick,184,2,115,67
+Rusk,404,Railroad Commissioner,,REP,Christi Craddick,856,45,697,114
+Rusk,405,Railroad Commissioner,,REP,Christi Craddick,646,31,527,88
+Rusk,416,Railroad Commissioner,,REP,Christi Craddick,529,16,417,96
+Rusk,417,Railroad Commissioner,,REP,Christi Craddick,777,12,544,221
+Rusk,418,Railroad Commissioner,,REP,Christi Craddick,1296,34,927,335
+Rusk,111,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,5,1
+Rusk,112,Railroad Commissioner,,GRN,Eddie Espinoza,12,2,2,8
+Rusk,113,Railroad Commissioner,,GRN,Eddie Espinoza,21,0,11,10
+Rusk,114,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,6,5
+Rusk,201,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,5,3
+Rusk,212,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,9,2
+Rusk,213,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,2,4
+Rusk,214,Railroad Commissioner,,GRN,Eddie Espinoza,19,0,11,8
+Rusk,215,Railroad Commissioner,,GRN,Eddie Espinoza,15,0,7,8
+Rusk,302,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,3,5
+Rusk,303,Railroad Commissioner,,GRN,Eddie Espinoza,17,0,9,8
+Rusk,314,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,3,0
+Rusk,315,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,0,2
+Rusk,316,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,1,3
+Rusk,317,Railroad Commissioner,,GRN,Eddie Espinoza,4,1,1,2
+Rusk,318,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,1,4
+Rusk,319,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Rusk,404,Railroad Commissioner,,GRN,Eddie Espinoza,13,0,10,3
+Rusk,405,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,5,2
+Rusk,416,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,3,2
+Rusk,417,Railroad Commissioner,,GRN,Eddie Espinoza,22,0,11,11
+Rusk,418,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,1,3
+Rusk,111,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,13,4
+Rusk,112,Railroad Commissioner,,LIB,Hawk Dunlap,62,0,43,19
+Rusk,113,Railroad Commissioner,,LIB,Hawk Dunlap,60,0,45,15
+Rusk,114,Railroad Commissioner,,LIB,Hawk Dunlap,29,0,18,11
+Rusk,201,Railroad Commissioner,,LIB,Hawk Dunlap,14,1,12,1
+Rusk,212,Railroad Commissioner,,LIB,Hawk Dunlap,14,0,13,1
+Rusk,213,Railroad Commissioner,,LIB,Hawk Dunlap,39,1,25,13
+Rusk,214,Railroad Commissioner,,LIB,Hawk Dunlap,64,0,34,30
+Rusk,215,Railroad Commissioner,,LIB,Hawk Dunlap,51,2,22,27
+Rusk,302,Railroad Commissioner,,LIB,Hawk Dunlap,10,0,7,3
+Rusk,303,Railroad Commissioner,,LIB,Hawk Dunlap,25,0,21,4
+Rusk,314,Railroad Commissioner,,LIB,Hawk Dunlap,14,0,12,2
+Rusk,315,Railroad Commissioner,,LIB,Hawk Dunlap,31,0,22,9
+Rusk,316,Railroad Commissioner,,LIB,Hawk Dunlap,14,1,5,8
+Rusk,317,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,5,3
+Rusk,318,Railroad Commissioner,,LIB,Hawk Dunlap,33,1,18,14
+Rusk,319,Railroad Commissioner,,LIB,Hawk Dunlap,4,0,4,0
+Rusk,404,Railroad Commissioner,,LIB,Hawk Dunlap,26,1,21,4
+Rusk,405,Railroad Commissioner,,LIB,Hawk Dunlap,21,0,15,6
+Rusk,416,Railroad Commissioner,,LIB,Hawk Dunlap,15,0,11,4
+Rusk,417,Railroad Commissioner,,LIB,Hawk Dunlap,25,0,12,13
+Rusk,418,Railroad Commissioner,,LIB,Hawk Dunlap,29,0,15,14
+Rusk,111,Railroad Commissioner,,DEM,Katherine Culbert,85,5,61,19
+Rusk,112,Railroad Commissioner,,DEM,Katherine Culbert,223,14,117,92
+Rusk,113,Railroad Commissioner,,DEM,Katherine Culbert,316,12,256,48
+Rusk,114,Railroad Commissioner,,DEM,Katherine Culbert,167,15,106,46
+Rusk,201,Railroad Commissioner,,DEM,Katherine Culbert,127,16,81,30
+Rusk,212,Railroad Commissioner,,DEM,Katherine Culbert,92,7,68,17
+Rusk,213,Railroad Commissioner,,DEM,Katherine Culbert,209,12,153,44
+Rusk,214,Railroad Commissioner,,DEM,Katherine Culbert,349,22,217,110
+Rusk,215,Railroad Commissioner,,DEM,Katherine Culbert,291,8,162,121
+Rusk,302,Railroad Commissioner,,DEM,Katherine Culbert,224,19,155,50
+Rusk,303,Railroad Commissioner,,DEM,Katherine Culbert,327,17,235,75
+Rusk,314,Railroad Commissioner,,DEM,Katherine Culbert,87,2,64,21
+Rusk,315,Railroad Commissioner,,DEM,Katherine Culbert,52,4,30,18
+Rusk,316,Railroad Commissioner,,DEM,Katherine Culbert,33,4,17,12
+Rusk,317,Railroad Commissioner,,DEM,Katherine Culbert,128,10,65,53
+Rusk,318,Railroad Commissioner,,DEM,Katherine Culbert,120,11,46,63
+Rusk,319,Railroad Commissioner,,DEM,Katherine Culbert,81,10,48,23
+Rusk,404,Railroad Commissioner,,DEM,Katherine Culbert,208,7,166,35
+Rusk,405,Railroad Commissioner,,DEM,Katherine Culbert,134,10,100,24
+Rusk,416,Railroad Commissioner,,DEM,Katherine Culbert,94,7,64,23
+Rusk,417,Railroad Commissioner,,DEM,Katherine Culbert,175,10,94,71
+Rusk,418,Railroad Commissioner,,DEM,Katherine Culbert,239,9,133,97
+Rusk,111,Railroad Commissioner,,NON,Write-in,0,0,0,0
+Rusk,112,Railroad Commissioner,,NON,Write-in,0,0,0,0
+Rusk,113,Railroad Commissioner,,NON,Write-in,0,0,0,0
+Rusk,114,Railroad Commissioner,,NON,Write-in,0,0,0,0
+Rusk,201,Railroad Commissioner,,NON,Write-in,0,0,0,0
+Rusk,212,Railroad Commissioner,,NON,Write-in,0,0,0,0
+Rusk,213,Railroad Commissioner,,NON,Write-in,2,1,0,1
+Rusk,214,Railroad Commissioner,,NON,Write-in,0,0,0,0
+Rusk,215,Railroad Commissioner,,NON,Write-in,1,0,1,0
+Rusk,302,Railroad Commissioner,,NON,Write-in,1,0,0,1
+Rusk,303,Railroad Commissioner,,NON,Write-in,0,0,0,0
+Rusk,314,Railroad Commissioner,,NON,Write-in,0,0,0,0
+Rusk,315,Railroad Commissioner,,NON,Write-in,0,0,0,0
+Rusk,316,Railroad Commissioner,,NON,Write-in,0,0,0,0
+Rusk,317,Railroad Commissioner,,NON,Write-in,0,0,0,0
+Rusk,318,Railroad Commissioner,,NON,Write-in,0,0,0,0
+Rusk,319,Railroad Commissioner,,NON,Write-in,0,0,0,0
+Rusk,404,Railroad Commissioner,,NON,Write-in,0,0,0,0
+Rusk,405,Railroad Commissioner,,NON,Write-in,1,0,1,0
+Rusk,416,Railroad Commissioner,,NON,Write-in,0,0,0,0
+Rusk,417,Railroad Commissioner,,NON,Write-in,0,0,0,0
+Rusk,418,Railroad Commissioner,,NON,Write-in,1,0,1,0
+Rusk,111,Registered Voters,,,,989,,,
+Rusk,112,Registered Voters,,,,2416,,,
+Rusk,113,Registered Voters,,,,3288,,,
+Rusk,114,Registered Voters,,,,1693,,,
+Rusk,201,Registered Voters,,,,1017,,,
+Rusk,212,Registered Voters,,,,977,,,
+Rusk,213,Registered Voters,,,,2124,,,
+Rusk,214,Registered Voters,,,,2791,,,
+Rusk,215,Registered Voters,,,,2435,,,
+Rusk,302,Registered Voters,,,,1279,,,
+Rusk,303,Registered Voters,,,,1789,,,
+Rusk,314,Registered Voters,,,,1181,,,
+Rusk,315,Registered Voters,,,,935,,,
+Rusk,316,Registered Voters,,,,562,,,
+Rusk,317,Registered Voters,,,,746,,,
+Rusk,318,Registered Voters,,,,1264,,,
+Rusk,319,Registered Voters,,,,431,,,
+Rusk,404,Registered Voters,,,,1745,,,
+Rusk,405,Registered Voters,,,,1330,,,
+Rusk,416,Registered Voters,,,,1152,,,
+Rusk,417,Registered Voters,,,,1779,,,
+Rusk,418,Registered Voters,,,,2501,,,
+Rusk,111,Sheriff,,REP,Johnwayne Valdez,545,16,443,86
+Rusk,112,Sheriff,,REP,Johnwayne Valdez,1207,28,685,494
+Rusk,113,Sheriff,,REP,Johnwayne Valdez,1731,57,1412,262
+Rusk,114,Sheriff,,REP,Johnwayne Valdez,901,20,604,277
+Rusk,201,Sheriff,,REP,Johnwayne Valdez,477,17,392,68
+Rusk,212,Sheriff,,REP,Johnwayne Valdez,549,16,460,73
+Rusk,213,Sheriff,,REP,Johnwayne Valdez,1220,38,907,275
+Rusk,214,Sheriff,,REP,Johnwayne Valdez,1631,38,1082,511
+Rusk,215,Sheriff,,REP,Johnwayne Valdez,1257,20,678,559
+Rusk,302,Sheriff,,REP,Johnwayne Valdez,450,15,357,78
+Rusk,303,Sheriff,,REP,Johnwayne Valdez,556,16,418,122
+Rusk,314,Sheriff,,REP,Johnwayne Valdez,706,17,580,109
+Rusk,315,Sheriff,,REP,Johnwayne Valdez,597,11,444,142
+Rusk,316,Sheriff,,REP,Johnwayne Valdez,322,9,194,119
+Rusk,317,Sheriff,,REP,Johnwayne Valdez,267,18,136,113
+Rusk,318,Sheriff,,REP,Johnwayne Valdez,750,23,379,348
+Rusk,319,Sheriff,,REP,Johnwayne Valdez,201,4,124,73
+Rusk,404,Sheriff,,REP,Johnwayne Valdez,965,45,791,129
+Rusk,405,Sheriff,,REP,Johnwayne Valdez,719,36,587,96
+Rusk,416,Sheriff,,REP,Johnwayne Valdez,560,14,436,110
+Rusk,417,Sheriff,,REP,Johnwayne Valdez,849,15,567,267
+Rusk,418,Sheriff,,REP,Johnwayne Valdez,1353,36,945,372
+Rusk,111,State Representative,11,REP,Joanne Shofner,514,16,418,80
+Rusk,112,State Representative,11,REP,Joanne Shofner,1202,30,685,487
+Rusk,113,State Representative,11,REP,Joanne Shofner,1684,54,1368,262
+Rusk,114,State Representative,11,REP,Joanne Shofner,879,16,590,273
+Rusk,201,State Representative,11,REP,Joanne Shofner,451,15,371,65
+Rusk,212,State Representative,11,REP,Joanne Shofner,537,13,459,65
+Rusk,213,State Representative,11,REP,Joanne Shofner,1202,34,901,267
+Rusk,214,State Representative,11,REP,Joanne Shofner,1586,37,1054,495
+Rusk,215,State Representative,11,REP,Joanne Shofner,1208,17,655,536
+Rusk,302,State Representative,11,REP,Joanne Shofner,415,12,334,69
+Rusk,303,State Representative,11,REP,Joanne Shofner,511,13,386,112
+Rusk,314,State Representative,11,REP,Joanne Shofner,687,17,562,108
+Rusk,315,State Representative,11,REP,Joanne Shofner,578,9,430,139
+Rusk,316,State Representative,11,REP,Joanne Shofner,316,8,195,113
+Rusk,317,State Representative,11,REP,Joanne Shofner,265,20,136,109
+Rusk,318,State Representative,11,REP,Joanne Shofner,678,16,343,319
+Rusk,319,State Representative,11,REP,Joanne Shofner,200,3,126,71
+Rusk,404,State Representative,11,REP,Joanne Shofner,896,44,736,116
+Rusk,405,State Representative,11,REP,Joanne Shofner,675,33,545,97
+Rusk,416,State Representative,11,REP,Joanne Shofner,561,16,438,107
+Rusk,417,State Representative,11,REP,Joanne Shofner,839,10,562,267
+Rusk,418,State Representative,11,REP,Joanne Shofner,1326,34,930,362
+Rusk,111,THE LEGAL SALE OF ALL ALCOHOLIC BEVERAGES in JOP5,,NON,AGAINST,186,7,156,23
+Rusk,201,THE LEGAL SALE OF ALL ALCOHOLIC BEVERAGES in JOP5,,NON,AGAINST,188,16,152,20
+Rusk,212,THE LEGAL SALE OF ALL ALCOHOLIC BEVERAGES in JOP5,,NON,AGAINST,213,11,185,17
+Rusk,302,THE LEGAL SALE OF ALL ALCOHOLIC BEVERAGES in JOP5,,NON,AGAINST,154,7,119,28
+Rusk,303,THE LEGAL SALE OF ALL ALCOHOLIC BEVERAGES in JOP5,,NON,AGAINST,209,17,162,30
+Rusk,314,THE LEGAL SALE OF ALL ALCOHOLIC BEVERAGES in JOP5,,NON,AGAINST,239,10,211,18
+Rusk,404,THE LEGAL SALE OF ALL ALCOHOLIC BEVERAGES in JOP5,,NON,AGAINST,353,25,302,26
+Rusk,405,THE LEGAL SALE OF ALL ALCOHOLIC BEVERAGES in JOP5,,NON,AGAINST,273,21,222,30
+Rusk,416,THE LEGAL SALE OF ALL ALCOHOLIC BEVERAGES in JOP5,,NON,AGAINST,204,12,165,27
+Rusk,111,THE LEGAL SALE OF ALL ALCOHOLIC BEVERAGES in JOP5,,NON,FOR,406,12,321,73
+Rusk,201,THE LEGAL SALE OF ALL ALCOHOLIC BEVERAGES in JOP5,,NON,FOR,379,12,301,66
+Rusk,212,THE LEGAL SALE OF ALL ALCOHOLIC BEVERAGES in JOP5,,NON,FOR,411,7,341,63
+Rusk,302,THE LEGAL SALE OF ALL ALCOHOLIC BEVERAGES in JOP5,,NON,FOR,420,20,319,81
+Rusk,303,THE LEGAL SALE OF ALL ALCOHOLIC BEVERAGES in JOP5,,NON,FOR,538,13,391,134
+Rusk,314,THE LEGAL SALE OF ALL ALCOHOLIC BEVERAGES in JOP5,,NON,FOR,547,6,434,107
+Rusk,404,THE LEGAL SALE OF ALL ALCOHOLIC BEVERAGES in JOP5,,NON,FOR,758,24,601,133
+Rusk,405,THE LEGAL SALE OF ALL ALCOHOLIC BEVERAGES in JOP5,,NON,FOR,554,18,442,94
+Rusk,416,THE LEGAL SALE OF ALL ALCOHOLIC BEVERAGES in JOP5,,NON,FOR,439,11,333,95
+Rusk,111,U.S. House,1,REP,Nathaniel Moran,518,16,418,84
+Rusk,112,U.S. House,1,REP,Nathaniel Moran,1203,29,692,482
+Rusk,113,U.S. House,1,REP,Nathaniel Moran,1672,56,1363,253
+Rusk,114,U.S. House,1,REP,Nathaniel Moran,877,18,588,271
+Rusk,201,U.S. House,1,REP,Nathaniel Moran,451,17,365,69
+Rusk,212,U.S. House,1,REP,Nathaniel Moran,532,15,445,72
+Rusk,213,U.S. House,1,REP,Nathaniel Moran,1195,38,890,267
+Rusk,214,U.S. House,1,REP,Nathaniel Moran,1573,39,1044,490
+Rusk,215,U.S. House,1,REP,Nathaniel Moran,1182,18,648,516
+Rusk,302,U.S. House,1,REP,Nathaniel Moran,422,14,335,73
+Rusk,303,U.S. House,1,REP,Nathaniel Moran,527,14,396,117
+Rusk,314,U.S. House,1,REP,Nathaniel Moran,672,15,554,103
+Rusk,315,U.S. House,1,REP,Nathaniel Moran,567,9,422,136
+Rusk,316,U.S. House,1,REP,Nathaniel Moran,308,7,186,115
+Rusk,317,U.S. House,1,REP,Nathaniel Moran,259,19,133,107
+Rusk,318,U.S. House,1,REP,Nathaniel Moran,677,19,344,314
+Rusk,319,U.S. House,1,REP,Nathaniel Moran,196,4,124,68
+Rusk,404,U.S. House,1,REP,Nathaniel Moran,908,47,739,122
+Rusk,405,U.S. House,1,REP,Nathaniel Moran,688,31,555,102
+Rusk,416,U.S. House,1,REP,Nathaniel Moran,548,15,424,109
+Rusk,417,U.S. House,1,REP,Nathaniel Moran,827,11,562,254
+Rusk,418,U.S. House,1,REP,Nathaniel Moran,1318,31,935,352
+Rusk,111,U.S. Senate,,DEM,Colin Allred,96,5,70,21
+Rusk,112,U.S. Senate,,DEM,Colin Allred,273,15,137,121
+Rusk,113,U.S. Senate,,DEM,Colin Allred,413,17,316,80
+Rusk,114,U.S. Senate,,DEM,Colin Allred,204,19,126,59
+Rusk,201,U.S. Senate,,DEM,Colin Allred,152,19,99,34
+Rusk,212,U.S. Senate,,DEM,Colin Allred,114,9,83,22
+Rusk,213,U.S. Senate,,DEM,Colin Allred,249,14,179,56
+Rusk,214,U.S. Senate,,DEM,Colin Allred,414,27,243,144
+Rusk,215,U.S. Senate,,DEM,Colin Allred,353,9,194,150
+Rusk,302,U.S. Senate,,DEM,Colin Allred,252,20,171,61
+Rusk,303,U.S. Senate,,DEM,Colin Allred,373,19,268,86
+Rusk,314,U.S. Senate,,DEM,Colin Allred,101,2,75,24
+Rusk,315,U.S. Senate,,DEM,Colin Allred,69,3,45,21
+Rusk,316,U.S. Senate,,DEM,Colin Allred,45,4,21,20
+Rusk,317,U.S. Senate,,DEM,Colin Allred,134,9,70,55
+Rusk,318,U.S. Senate,,DEM,Colin Allred,146,13,55,78
+Rusk,319,U.S. Senate,,DEM,Colin Allred,88,10,54,24
+Rusk,404,U.S. Senate,,DEM,Colin Allred,265,12,206,47
+Rusk,405,U.S. Senate,,DEM,Colin Allred,165,12,118,35
+Rusk,416,U.S. Senate,,DEM,Colin Allred,112,8,75,29
+Rusk,417,U.S. Senate,,DEM,Colin Allred,200,12,108,80
+Rusk,418,U.S. Senate,,DEM,Colin Allred,282,12,156,114
+Rusk,111,U.S. Senate,,LIB,Ted Brown,10,0,7,3
+Rusk,112,U.S. Senate,,LIB,Ted Brown,34,0,13,21
+Rusk,113,U.S. Senate,,LIB,Ted Brown,32,1,24,7
+Rusk,114,U.S. Senate,,LIB,Ted Brown,16,0,6,10
+Rusk,201,U.S. Senate,,LIB,Ted Brown,7,0,6,1
+Rusk,212,U.S. Senate,,LIB,Ted Brown,7,0,5,2
+Rusk,213,U.S. Senate,,LIB,Ted Brown,22,3,15,4
+Rusk,214,U.S. Senate,,LIB,Ted Brown,23,1,11,11
+Rusk,215,U.S. Senate,,LIB,Ted Brown,22,1,6,15
+Rusk,302,U.S. Senate,,LIB,Ted Brown,13,0,9,4
+Rusk,303,U.S. Senate,,LIB,Ted Brown,15,1,11,3
+Rusk,314,U.S. Senate,,LIB,Ted Brown,15,0,10,5
+Rusk,315,U.S. Senate,,LIB,Ted Brown,8,0,6,2
+Rusk,316,U.S. Senate,,LIB,Ted Brown,9,0,6,3
+Rusk,317,U.S. Senate,,LIB,Ted Brown,4,1,1,2
+Rusk,318,U.S. Senate,,LIB,Ted Brown,12,0,3,9
+Rusk,319,U.S. Senate,,LIB,Ted Brown,5,0,5,0
+Rusk,404,U.S. Senate,,LIB,Ted Brown,22,0,18,4
+Rusk,405,U.S. Senate,,LIB,Ted Brown,26,0,16,10
+Rusk,416,U.S. Senate,,LIB,Ted Brown,6,0,4,2
+Rusk,417,U.S. Senate,,LIB,Ted Brown,21,0,10,11
+Rusk,418,U.S. Senate,,LIB,Ted Brown,27,0,14,13
+Rusk,111,U.S. Senate,,REP,Ted Cruz,529,17,432,80
+Rusk,112,U.S. Senate,,REP,Ted Cruz,1154,27,679,448
+Rusk,113,U.S. Senate,,REP,Ted Cruz,1609,55,1327,227
+Rusk,114,U.S. Senate,,REP,Ted Cruz,855,17,582,256
+Rusk,201,U.S. Senate,,REP,Ted Cruz,430,13,365,52
+Rusk,212,U.S. Senate,,REP,Ted Cruz,532,13,459,60
+Rusk,213,U.S. Senate,,REP,Ted Cruz,1146,32,856,258
+Rusk,214,U.S. Senate,,REP,Ted Cruz,1500,33,1020,447
+Rusk,215,U.S. Senate,,REP,Ted Cruz,1138,18,635,485
+Rusk,302,U.S. Senate,,REP,Ted Cruz,370,11,306,53
+Rusk,303,U.S. Senate,,REP,Ted Cruz,423,11,324,88
+Rusk,314,U.S. Senate,,REP,Ted Cruz,701,17,581,103
+Rusk,315,U.S. Senate,,REP,Ted Cruz,589,8,443,138
+Rusk,316,U.S. Senate,,REP,Ted Cruz,320,8,194,118
+Rusk,317,U.S. Senate,,REP,Ted Cruz,252,19,130,103
+Rusk,318,U.S. Senate,,REP,Ted Cruz,685,19,364,302
+Rusk,319,U.S. Senate,,REP,Ted Cruz,187,2,118,67
+Rusk,404,U.S. Senate,,REP,Ted Cruz,875,43,720,112
+Rusk,405,U.S. Senate,,REP,Ted Cruz,669,31,554,84
+Rusk,416,U.S. Senate,,REP,Ted Cruz,551,15,436,100
+Rusk,417,U.S. Senate,,REP,Ted Cruz,820,12,568,240
+Rusk,418,U.S. Senate,,REP,Ted Cruz,1330,33,953,344
+Rusk,111,U.S. Senate,,NON,Write-in,0,0,0,0
+Rusk,112,U.S. Senate,,NON,Write-in,0,0,0,0
+Rusk,113,U.S. Senate,,NON,Write-in,1,0,1,0
+Rusk,114,U.S. Senate,,NON,Write-in,0,0,0,0
+Rusk,201,U.S. Senate,,NON,Write-in,1,0,0,1
+Rusk,212,U.S. Senate,,NON,Write-in,0,0,0,0
+Rusk,213,U.S. Senate,,NON,Write-in,3,1,1,1
+Rusk,214,U.S. Senate,,NON,Write-in,0,0,0,0
+Rusk,215,U.S. Senate,,NON,Write-in,1,0,1,0
+Rusk,302,U.S. Senate,,NON,Write-in,0,0,0,0
+Rusk,303,U.S. Senate,,NON,Write-in,1,0,1,0
+Rusk,314,U.S. Senate,,NON,Write-in,0,0,0,0
+Rusk,315,U.S. Senate,,NON,Write-in,0,0,0,0
+Rusk,316,U.S. Senate,,NON,Write-in,0,0,0,0
+Rusk,317,U.S. Senate,,NON,Write-in,0,0,0,0
+Rusk,318,U.S. Senate,,NON,Write-in,0,0,0,0
+Rusk,319,U.S. Senate,,NON,Write-in,1,0,1,0
+Rusk,404,U.S. Senate,,NON,Write-in,1,0,1,0
+Rusk,405,U.S. Senate,,NON,Write-in,1,0,1,0
+Rusk,416,U.S. Senate,,NON,Write-in,0,0,0,0
+Rusk,417,U.S. Senate,,NON,Write-in,0,0,0,0
+Rusk,418,U.S. Senate,,NON,Write-in,1,0,0,1
+Rusk,111,West Rusk County CISD,,NON,AGAINST,186,8,150,28
+Rusk,112,West Rusk County CISD,,NON,AGAINST,49,0,27,22
+Rusk,114,West Rusk County CISD,,NON,AGAINST,474,15,314,145
+Rusk,416,West Rusk County CISD,,NON,AGAINST,240,11,184,45
+Rusk,417,West Rusk County CISD,,NON,AGAINST,422,13,289,120
+Rusk,111,West Rusk County CISD,,NON,Amber Thompson Clifford,47,0,36,11
+Rusk,112,West Rusk County CISD,,NON,Amber Thompson Clifford,13,0,8,5
+Rusk,114,West Rusk County CISD,,NON,Amber Thompson Clifford,182,3,116,63
+Rusk,416,West Rusk County CISD,,NON,Amber Thompson Clifford,53,0,43,10
+Rusk,417,West Rusk County CISD,,NON,Amber Thompson Clifford,133,0,101,32
+Rusk,111,West Rusk County CISD,,NON,Chris Pratt,98,1,82,15
+Rusk,112,West Rusk County CISD,,NON,Chris Pratt,22,0,14,8
+Rusk,114,West Rusk County CISD,,NON,Chris Pratt,281,2,178,101
+Rusk,416,West Rusk County CISD,,NON,Chris Pratt,112,3,78,31
+Rusk,417,West Rusk County CISD,,NON,Chris Pratt,243,6,164,73
+Rusk,111,West Rusk County CISD,,NON,Curtis Hughes,54,3,42,9
+Rusk,112,West Rusk County CISD,,NON,Curtis Hughes,16,0,8,8
+Rusk,114,West Rusk County CISD,,NON,Curtis Hughes,176,3,104,69
+Rusk,416,West Rusk County CISD,,NON,Curtis Hughes,88,3,64,21
+Rusk,417,West Rusk County CISD,,NON,Curtis Hughes,178,3,119,56
+Rusk,111,West Rusk County CISD,,NON,FOR,105,3,82,20
+Rusk,112,West Rusk County CISD,,NON,FOR,25,0,17,8
+Rusk,114,West Rusk County CISD,,NON,FOR,253,5,146,102
+Rusk,416,West Rusk County CISD,,NON,FOR,120,2,90,28
+Rusk,417,West Rusk County CISD,,NON,FOR,253,4,176,73
+Rusk,111,West Rusk County CISD,,NON,Mathew Eastwood,66,1,55,10
+Rusk,112,West Rusk County CISD,,NON,Mathew Eastwood,25,0,15,10
+Rusk,114,West Rusk County CISD,,NON,Mathew Eastwood,261,8,164,89
+Rusk,416,West Rusk County CISD,,NON,Mathew Eastwood,83,4,68,11
+Rusk,417,West Rusk County CISD,,NON,Mathew Eastwood,218,4,155,59
+Rusk,111,West Rusk County CISD,,NON,Sandra Smith,63,2,51,10
+Rusk,112,West Rusk County CISD,,NON,Sandra Smith,15,0,9,6
+Rusk,114,West Rusk County CISD,,NON,Sandra Smith,216,11,134,71
+Rusk,416,West Rusk County CISD,,NON,Sandra Smith,78,1,64,13
+Rusk,417,West Rusk County CISD,,NON,Sandra Smith,217,6,144,67
+Rusk,111,West Rusk County CISD,,NON,Stephanie Swanzy,54,0,44,10
+Rusk,112,West Rusk County CISD,,NON,Stephanie Swanzy,17,0,10,7
+Rusk,114,West Rusk County CISD,,NON,Stephanie Swanzy,173,1,96,76
+Rusk,416,West Rusk County CISD,,NON,Stephanie Swanzy,63,2,48,13
+Rusk,417,West Rusk County CISD,,NON,Stephanie Swanzy,118,2,89,27

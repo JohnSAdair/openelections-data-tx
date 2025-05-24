@@ -1,0 +1,1709 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Victoria,1,Ballots Cast,,,,253,,,
+Victoria,2,Ballots Cast,,,,552,,,
+Victoria,3,Ballots Cast,,,,735,,,
+Victoria,4,Ballots Cast,,,,631,,,
+Victoria,5,Ballots Cast,,,,1233,,,
+Victoria,6,Ballots Cast,,,,127,,,
+Victoria,7,Ballots Cast,,,,1214,,,
+Victoria,8,Ballots Cast,,,,1244,,,
+Victoria,9,Ballots Cast,,,,473,,,
+Victoria,10,Ballots Cast,,,,834,,,
+Victoria,11,Ballots Cast,,,,305,,,
+Victoria,12,Ballots Cast,,,,392,,,
+Victoria,13,Ballots Cast,,,,718,,,
+Victoria,14,Ballots Cast,,,,927,,,
+Victoria,15,Ballots Cast,,,,96,,,
+Victoria,16,Ballots Cast,,,,302,,,
+Victoria,17,Ballots Cast,,,,295,,,
+Victoria,18,Ballots Cast,,,,2760,,,
+Victoria,19,Ballots Cast,,,,1809,,,
+Victoria,20,Ballots Cast,,,,997,,,
+Victoria,21,Ballots Cast,,,,3115,,,
+Victoria,22,Ballots Cast,,,,1330,,,
+Victoria,23,Ballots Cast,,,,1287,,,
+Victoria,24,Ballots Cast,,,,1278,,,
+Victoria,25,Ballots Cast,,,,2655,,,
+Victoria,26,Ballots Cast,,,,591,,,
+Victoria,27,Ballots Cast,,,,1456,,,
+Victoria,28,Ballots Cast,,,,368,,,
+Victoria,29,Ballots Cast,,,,1913,,,
+Victoria,30,Ballots Cast,,,,324,,,
+Victoria,31,Ballots Cast,,,,730,,,
+Victoria,32,Ballots Cast,,,,628,,,
+Victoria,33,Ballots Cast,,,,3258,,,
+Victoria,34,Ballots Cast,,,,462,,,
+Victoria,35,Ballots Cast,,,,174,,,
+Victoria,1,Chief Justice,,DEM,Gina Benavides,124,19,71,34
+Victoria,2,Chief Justice,,DEM,Gina Benavides,211,17,149,45
+Victoria,3,Chief Justice,,DEM,Gina Benavides,229,20,153,56
+Victoria,4,Chief Justice,,DEM,Gina Benavides,289,31,168,90
+Victoria,5,Chief Justice,,DEM,Gina Benavides,535,52,355,128
+Victoria,6,Chief Justice,,DEM,Gina Benavides,63,7,40,16
+Victoria,7,Chief Justice,,DEM,Gina Benavides,616,78,363,175
+Victoria,8,Chief Justice,,DEM,Gina Benavides,491,45,318,128
+Victoria,9,Chief Justice,,DEM,Gina Benavides,159,19,109,31
+Victoria,10,Chief Justice,,DEM,Gina Benavides,262,26,187,49
+Victoria,11,Chief Justice,,DEM,Gina Benavides,58,6,37,15
+Victoria,12,Chief Justice,,DEM,Gina Benavides,121,1,49,71
+Victoria,13,Chief Justice,,DEM,Gina Benavides,250,20,107,123
+Victoria,14,Chief Justice,,DEM,Gina Benavides,209,14,137,58
+Victoria,15,Chief Justice,,DEM,Gina Benavides,15,5,7,3
+Victoria,16,Chief Justice,,DEM,Gina Benavides,45,7,31,7
+Victoria,17,Chief Justice,,DEM,Gina Benavides,100,8,61,31
+Victoria,18,Chief Justice,,DEM,Gina Benavides,461,51,280,130
+Victoria,19,Chief Justice,,DEM,Gina Benavides,637,42,450,145
+Victoria,20,Chief Justice,,DEM,Gina Benavides,147,13,95,39
+Victoria,21,Chief Justice,,DEM,Gina Benavides,667,76,447,144
+Victoria,22,Chief Justice,,DEM,Gina Benavides,160,17,86,57
+Victoria,23,Chief Justice,,DEM,Gina Benavides,221,22,142,57
+Victoria,24,Chief Justice,,DEM,Gina Benavides,172,27,116,29
+Victoria,25,Chief Justice,,DEM,Gina Benavides,789,81,530,178
+Victoria,26,Chief Justice,,DEM,Gina Benavides,97,6,51,40
+Victoria,27,Chief Justice,,DEM,Gina Benavides,122,11,74,37
+Victoria,28,Chief Justice,,DEM,Gina Benavides,32,2,22,8
+Victoria,29,Chief Justice,,DEM,Gina Benavides,474,58,323,93
+Victoria,30,Chief Justice,,DEM,Gina Benavides,103,11,67,25
+Victoria,31,Chief Justice,,DEM,Gina Benavides,266,36,170,60
+Victoria,32,Chief Justice,,DEM,Gina Benavides,295,23,178,94
+Victoria,33,Chief Justice,,DEM,Gina Benavides,736,80,517,139
+Victoria,34,Chief Justice,,DEM,Gina Benavides,245,32,135,78
+Victoria,35,Chief Justice,,DEM,Gina Benavides,98,7,54,37
+Victoria,1,Chief Justice,,REP,Jaime Tijerina,104,8,65,31
+Victoria,2,Chief Justice,,REP,Jaime Tijerina,306,9,238,59
+Victoria,3,Chief Justice,,REP,Jaime Tijerina,459,13,363,83
+Victoria,4,Chief Justice,,REP,Jaime Tijerina,301,10,205,86
+Victoria,5,Chief Justice,,REP,Jaime Tijerina,620,34,421,165
+Victoria,6,Chief Justice,,REP,Jaime Tijerina,47,0,31,16
+Victoria,7,Chief Justice,,REP,Jaime Tijerina,533,24,333,176
+Victoria,8,Chief Justice,,REP,Jaime Tijerina,672,25,435,212
+Victoria,9,Chief Justice,,REP,Jaime Tijerina,284,7,206,71
+Victoria,10,Chief Justice,,REP,Jaime Tijerina,532,44,368,120
+Victoria,11,Chief Justice,,REP,Jaime Tijerina,233,4,155,74
+Victoria,12,Chief Justice,,REP,Jaime Tijerina,240,3,114,123
+Victoria,13,Chief Justice,,REP,Jaime Tijerina,371,6,205,160
+Victoria,14,Chief Justice,,REP,Jaime Tijerina,664,25,467,172
+Victoria,15,Chief Justice,,REP,Jaime Tijerina,75,6,54,15
+Victoria,16,Chief Justice,,REP,Jaime Tijerina,245,9,179,57
+Victoria,17,Chief Justice,,REP,Jaime Tijerina,175,8,130,37
+Victoria,18,Chief Justice,,REP,Jaime Tijerina,2160,129,1559,472
+Victoria,19,Chief Justice,,REP,Jaime Tijerina,1050,42,739,269
+Victoria,20,Chief Justice,,REP,Jaime Tijerina,812,40,612,160
+Victoria,21,Chief Justice,,REP,Jaime Tijerina,2294,152,1674,468
+Victoria,22,Chief Justice,,REP,Jaime Tijerina,1126,59,714,353
+Victoria,23,Chief Justice,,REP,Jaime Tijerina,1016,39,689,288
+Victoria,24,Chief Justice,,REP,Jaime Tijerina,1043,69,763,211
+Victoria,25,Chief Justice,,REP,Jaime Tijerina,1709,140,1192,377
+Victoria,26,Chief Justice,,REP,Jaime Tijerina,470,16,318,136
+Victoria,27,Chief Justice,,REP,Jaime Tijerina,1292,36,725,531
+Victoria,28,Chief Justice,,REP,Jaime Tijerina,314,18,164,132
+Victoria,29,Chief Justice,,REP,Jaime Tijerina,1343,84,980,279
+Victoria,30,Chief Justice,,REP,Jaime Tijerina,197,20,115,62
+Victoria,31,Chief Justice,,REP,Jaime Tijerina,431,33,301,97
+Victoria,32,Chief Justice,,REP,Jaime Tijerina,279,12,172,95
+Victoria,33,Chief Justice,,REP,Jaime Tijerina,2376,196,1761,419
+Victoria,34,Chief Justice,,REP,Jaime Tijerina,183,4,114,65
+Victoria,35,Chief Justice,,REP,Jaime Tijerina,69,0,42,27
+Victoria,1,Constable Precinct 1,1,DEM,Jeff Meyer,152,18,90,44
+Victoria,4,Constable Precinct 1,1,DEM,Jeff Meyer,392,18,238,136
+Victoria,6,Constable Precinct 1,1,DEM,Jeff Meyer,75,2,53,20
+Victoria,7,Constable Precinct 1,1,DEM,Jeff Meyer,778,46,486,246
+Victoria,12,Constable Precinct 1,1,DEM,Jeff Meyer,258,3,120,135
+Victoria,13,Constable Precinct 1,1,DEM,Jeff Meyer,515,16,254,245
+Victoria,14,Constable Precinct 1,1,DEM,Jeff Meyer,654,29,461,164
+Victoria,31,Constable Precinct 1,1,DEM,Jeff Meyer,458,43,306,109
+Victoria,32,Constable Precinct 1,1,DEM,Jeff Meyer,391,19,240,132
+Victoria,34,Constable Precinct 1,1,DEM,Jeff Meyer,288,16,171,101
+Victoria,9,Constable Precinct 2,2,REP,Rex Mayes,340,13,245,82
+Victoria,17,Constable Precinct 2,2,REP,Rex Mayes,208,11,149,48
+Victoria,20,Constable Precinct 2,2,REP,Rex Mayes,866,46,635,185
+Victoria,21,Constable Precinct 2,2,REP,Rex Mayes,2573,179,1856,538
+Victoria,22,Constable Precinct 2,2,REP,Rex Mayes,1185,69,741,375
+Victoria,23,Constable Precinct 2,2,REP,Rex Mayes,1102,46,734,322
+Victoria,24,Constable Precinct 2,2,REP,Rex Mayes,1094,76,793,225
+Victoria,33,Constable Precinct 2,2,REP,Rex Mayes,2678,227,1961,490
+Victoria,2,Constable Precinct 3,3,REP,Kenneth Easley Jr,393,17,296,80
+Victoria,3,Constable Precinct 3,3,REP,Kenneth Easley Jr,546,18,419,109
+Victoria,5,Constable Precinct 3,3,REP,Kenneth Easley Jr,831,46,564,221
+Victoria,8,Constable Precinct 3,3,REP,Kenneth Easley Jr,887,37,576,274
+Victoria,15,Constable Precinct 3,3,REP,Kenneth Easley Jr,76,8,52,16
+Victoria,16,Constable Precinct 3,3,REP,Kenneth Easley Jr,265,11,190,64
+Victoria,18,Constable Precinct 3,3,REP,Kenneth Easley Jr,2344,144,1664,536
+Victoria,35,Constable Precinct 3,3,REP,Kenneth Easley Jr,111,2,63,46
+Victoria,10,Constable Precinct 4,4,REP,Aaron Burleson,616,49,424,143
+Victoria,11,Constable Precinct 4,4,REP,Aaron Burleson,261,8,170,83
+Victoria,19,Constable Precinct 4,4,REP,Aaron Burleson,1305,47,915,343
+Victoria,25,Constable Precinct 4,4,REP,Aaron Burleson,1994,151,1366,477
+Victoria,26,Constable Precinct 4,4,REP,Aaron Burleson,498,18,330,150
+Victoria,27,Constable Precinct 4,4,REP,Aaron Burleson,1302,38,726,538
+Victoria,28,Constable Precinct 4,4,REP,Aaron Burleson,312,18,162,132
+Victoria,29,Constable Precinct 4,4,REP,Aaron Burleson,1498,98,1082,318
+Victoria,30,Constable Precinct 4,4,REP,Aaron Burleson,248,30,151,67
+Victoria,1,County Commissioner Precinct 1,1,DEM,Danny Garcia,117,20,65,32
+Victoria,4,County Commissioner Precinct 1,1,DEM,Danny Garcia,302,31,176,95
+Victoria,6,County Commissioner Precinct 1,1,DEM,Danny Garcia,72,7,50,15
+Victoria,7,County Commissioner Precinct 1,1,DEM,Danny Garcia,606,80,355,171
+Victoria,12,County Commissioner Precinct 1,1,DEM,Danny Garcia,222,2,85,135
+Victoria,13,County Commissioner Precinct 1,1,DEM,Danny Garcia,513,25,219,269
+Victoria,14,County Commissioner Precinct 1,1,DEM,Danny Garcia,413,23,259,131
+Victoria,31,County Commissioner Precinct 1,1,DEM,Danny Garcia,282,38,180,64
+Victoria,32,County Commissioner Precinct 1,1,DEM,Danny Garcia,284,22,166,96
+Victoria,34,County Commissioner Precinct 1,1,DEM,Danny Garcia,242,27,125,90
+Victoria,1,County Commissioner Precinct 1,1,REP,Kenneth Wells,105,9,66,30
+Victoria,4,County Commissioner Precinct 1,1,REP,Kenneth Wells,289,11,195,83
+Victoria,6,County Commissioner Precinct 1,1,REP,Kenneth Wells,44,0,25,19
+Victoria,7,County Commissioner Precinct 1,1,REP,Kenneth Wells,534,29,328,177
+Victoria,12,County Commissioner Precinct 1,1,REP,Kenneth Wells,156,2,82,72
+Victoria,13,County Commissioner Precinct 1,1,REP,Kenneth Wells,170,1,104,65
+Victoria,14,County Commissioner Precinct 1,1,REP,Kenneth Wells,491,18,358,115
+Victoria,31,County Commissioner Precinct 1,1,REP,Kenneth Wells,415,30,295,90
+Victoria,32,County Commissioner Precinct 1,1,REP,Kenneth Wells,293,14,185,94
+Victoria,34,County Commissioner Precinct 1,1,REP,Kenneth Wells,186,8,122,56
+Victoria,2,County Commissioner Precinct 3,3,REP,Shannon Martin,397,17,294,86
+Victoria,3,County Commissioner Precinct 3,3,REP,Shannon Martin,546,19,421,106
+Victoria,5,County Commissioner Precinct 3,3,REP,Shannon Martin,822,45,556,221
+Victoria,8,County Commissioner Precinct 3,3,REP,Shannon Martin,880,37,569,274
+Victoria,15,County Commissioner Precinct 3,3,REP,Shannon Martin,72,7,49,16
+Victoria,16,County Commissioner Precinct 3,3,REP,Shannon Martin,260,10,189,61
+Victoria,18,County Commissioner Precinct 3,3,REP,Shannon Martin,2352,148,1671,533
+Victoria,35,County Commissioner Precinct 3,3,REP,Shannon Martin,109,2,63,44
+Victoria,1,County Tax Assessor-Collector,,REP,Ashley Hernandez,157,19,95,43
+Victoria,2,County Tax Assessor-Collector,,REP,Ashley Hernandez,410,18,306,86
+Victoria,3,County Tax Assessor-Collector,,REP,Ashley Hernandez,569,24,434,111
+Victoria,4,County Tax Assessor-Collector,,REP,Ashley Hernandez,434,19,272,143
+Victoria,5,County Tax Assessor-Collector,,REP,Ashley Hernandez,875,52,589,234
+Victoria,6,County Tax Assessor-Collector,,REP,Ashley Hernandez,78,1,49,28
+Victoria,7,County Tax Assessor-Collector,,REP,Ashley Hernandez,820,52,490,278
+Victoria,8,County Tax Assessor-Collector,,REP,Ashley Hernandez,908,44,584,280
+Victoria,9,County Tax Assessor-Collector,,REP,Ashley Hernandez,367,15,264,88
+Victoria,10,County Tax Assessor-Collector,,REP,Ashley Hernandez,659,54,453,152
+Victoria,11,County Tax Assessor-Collector,,REP,Ashley Hernandez,265,8,173,84
+Victoria,12,County Tax Assessor-Collector,,REP,Ashley Hernandez,298,4,137,157
+Victoria,13,County Tax Assessor-Collector,,REP,Ashley Hernandez,496,15,253,228
+Victoria,14,County Tax Assessor-Collector,,REP,Ashley Hernandez,771,30,534,207
+Victoria,15,County Tax Assessor-Collector,,REP,Ashley Hernandez,76,7,53,16
+Victoria,16,County Tax Assessor-Collector,,REP,Ashley Hernandez,265,12,191,62
+Victoria,17,County Tax Assessor-Collector,,REP,Ashley Hernandez,218,10,156,52
+Victoria,18,County Tax Assessor-Collector,,REP,Ashley Hernandez,2383,157,1683,543
+Victoria,19,County Tax Assessor-Collector,,REP,Ashley Hernandez,1390,53,972,365
+Victoria,20,County Tax Assessor-Collector,,REP,Ashley Hernandez,872,48,640,184
+Victoria,21,County Tax Assessor-Collector,,REP,Ashley Hernandez,2630,187,1886,557
+Victoria,22,County Tax Assessor-Collector,,REP,Ashley Hernandez,1198,70,748,380
+Victoria,23,County Tax Assessor-Collector,,REP,Ashley Hernandez,1128,52,747,329
+Victoria,24,County Tax Assessor-Collector,,REP,Ashley Hernandez,1102,77,798,227
+Victoria,25,County Tax Assessor-Collector,,REP,Ashley Hernandez,2076,167,1418,491
+Victoria,26,County Tax Assessor-Collector,,REP,Ashley Hernandez,513,18,339,156
+Victoria,27,County Tax Assessor-Collector,,REP,Ashley Hernandez,1331,45,741,545
+Victoria,28,County Tax Assessor-Collector,,REP,Ashley Hernandez,327,18,169,140
+Victoria,29,County Tax Assessor-Collector,,REP,Ashley Hernandez,1587,117,1138,332
+Victoria,30,County Tax Assessor-Collector,,REP,Ashley Hernandez,265,30,159,76
+Victoria,31,County Tax Assessor-Collector,,REP,Ashley Hernandez,553,50,367,136
+Victoria,32,County Tax Assessor-Collector,,REP,Ashley Hernandez,421,27,256,138
+Victoria,33,County Tax Assessor-Collector,,REP,Ashley Hernandez,2750,236,2014,500
+Victoria,34,County Tax Assessor-Collector,,REP,Ashley Hernandez,291,16,168,107
+Victoria,35,County Tax Assessor-Collector,,REP,Ashley Hernandez,117,2,68,47
+Victoria,1,Dist Judge,,REP,Kemper Stephen Williams,141,16,88,37
+Victoria,2,Dist Judge,,REP,Kemper Stephen Williams,392,16,296,80
+Victoria,3,Dist Judge,,REP,Kemper Stephen Williams,540,19,415,106
+Victoria,4,Dist Judge,,REP,Kemper Stephen Williams,396,17,251,128
+Victoria,5,Dist Judge,,REP,Kemper Stephen Williams,815,45,555,215
+Victoria,6,Dist Judge,,REP,Kemper Stephen Williams,65,1,39,25
+Victoria,7,Dist Judge,,REP,Kemper Stephen Williams,742,38,446,258
+Victoria,8,Dist Judge,,REP,Kemper Stephen Williams,852,39,553,260
+Victoria,9,Dist Judge,,REP,Kemper Stephen Williams,345,15,248,82
+Victoria,10,Dist Judge,,REP,Kemper Stephen Williams,626,48,435,143
+Victoria,11,Dist Judge,,REP,Kemper Stephen Williams,257,8,169,80
+Victoria,12,Dist Judge,,REP,Kemper Stephen Williams,264,3,126,135
+Victoria,13,Dist Judge,,REP,Kemper Stephen Williams,437,12,222,203
+Victoria,14,Dist Judge,,REP,Kemper Stephen Williams,734,27,517,190
+Victoria,15,Dist Judge,,REP,Kemper Stephen Williams,74,8,52,14
+Victoria,16,Dist Judge,,REP,Kemper Stephen Williams,258,10,187,61
+Victoria,17,Dist Judge,,REP,Kemper Stephen Williams,210,10,152,48
+Victoria,18,Dist Judge,,REP,Kemper Stephen Williams,2303,144,1639,520
+Victoria,19,Dist Judge,,REP,Kemper Stephen Williams,1310,49,919,342
+Victoria,20,Dist Judge,,REP,Kemper Stephen Williams,857,45,628,184
+Victoria,21,Dist Judge,,REP,Kemper Stephen Williams,2558,181,1844,533
+Victoria,22,Dist Judge,,REP,Kemper Stephen Williams,1190,70,747,373
+Victoria,23,Dist Judge,,REP,Kemper Stephen Williams,1088,50,730,308
+Victoria,24,Dist Judge,,REP,Kemper Stephen Williams,1091,74,793,224
+Victoria,25,Dist Judge,,REP,Kemper Stephen Williams,2000,160,1361,479
+Victoria,26,Dist Judge,,REP,Kemper Stephen Williams,502,18,333,151
+Victoria,27,Dist Judge,,REP,Kemper Stephen Williams,1304,37,733,534
+Victoria,28,Dist Judge,,REP,Kemper Stephen Williams,321,17,169,135
+Victoria,29,Dist Judge,,REP,Kemper Stephen Williams,1546,103,1117,326
+Victoria,30,Dist Judge,,REP,Kemper Stephen Williams,247,30,149,68
+Victoria,31,Dist Judge,,REP,Kemper Stephen Williams,527,44,352,131
+Victoria,32,Dist Judge,,REP,Kemper Stephen Williams,371,18,228,125
+Victoria,33,Dist Judge,,REP,Kemper Stephen Williams,2677,227,1960,490
+Victoria,34,Dist Judge,,REP,Kemper Stephen Williams,277,15,158,104
+Victoria,35,Dist Judge,,REP,Kemper Stephen Williams,111,2,63,46
+Victoria,1,Dist Judge,,REP,Lisa Harvey Moore,147,17,88,42
+Victoria,2,Dist Judge,,REP,Lisa Harvey Moore,394,17,295,82
+Victoria,3,Dist Judge,,REP,Lisa Harvey Moore,538,18,414,106
+Victoria,4,Dist Judge,,REP,Lisa Harvey Moore,410,17,259,134
+Victoria,5,Dist Judge,,REP,Lisa Harvey Moore,813,44,552,217
+Victoria,6,Dist Judge,,REP,Lisa Harvey Moore,65,0,40,25
+Victoria,7,Dist Judge,,REP,Lisa Harvey Moore,752,43,453,256
+Victoria,8,Dist Judge,,REP,Lisa Harvey Moore,882,37,569,276
+Victoria,9,Dist Judge,,REP,Lisa Harvey Moore,353,15,253,85
+Victoria,10,Dist Judge,,REP,Lisa Harvey Moore,628,48,434,146
+Victoria,11,Dist Judge,,REP,Lisa Harvey Moore,260,8,173,79
+Victoria,12,Dist Judge,,REP,Lisa Harvey Moore,279,3,132,144
+Victoria,13,Dist Judge,,REP,Lisa Harvey Moore,470,10,239,221
+Victoria,14,Dist Judge,,REP,Lisa Harvey Moore,746,27,525,194
+Victoria,15,Dist Judge,,REP,Lisa Harvey Moore,73,7,50,16
+Victoria,16,Dist Judge,,REP,Lisa Harvey Moore,258,10,187,61
+Victoria,17,Dist Judge,,REP,Lisa Harvey Moore,213,10,155,48
+Victoria,18,Dist Judge,,REP,Lisa Harvey Moore,2336,147,1670,519
+Victoria,19,Dist Judge,,REP,Lisa Harvey Moore,1342,50,937,355
+Victoria,20,Dist Judge,,REP,Lisa Harvey Moore,868,45,639,184
+Victoria,21,Dist Judge,,REP,Lisa Harvey Moore,2580,172,1863,545
+Victoria,22,Dist Judge,,REP,Lisa Harvey Moore,1191,66,747,378
+Victoria,23,Dist Judge,,REP,Lisa Harvey Moore,1103,47,737,319
+Victoria,24,Dist Judge,,REP,Lisa Harvey Moore,1096,70,799,227
+Victoria,25,Dist Judge,,REP,Lisa Harvey Moore,2037,154,1394,489
+Victoria,26,Dist Judge,,REP,Lisa Harvey Moore,516,18,340,158
+Victoria,27,Dist Judge,,REP,Lisa Harvey Moore,1325,37,745,543
+Victoria,28,Dist Judge,,REP,Lisa Harvey Moore,326,18,173,135
+Victoria,29,Dist Judge,,REP,Lisa Harvey Moore,1543,103,1113,327
+Victoria,30,Dist Judge,,REP,Lisa Harvey Moore,249,28,149,72
+Victoria,31,Dist Judge,,REP,Lisa Harvey Moore,527,42,354,131
+Victoria,32,Dist Judge,,REP,Lisa Harvey Moore,402,18,246,138
+Victoria,33,Dist Judge,,REP,Lisa Harvey Moore,2695,223,1981,491
+Victoria,34,Dist Judge,,REP,Lisa Harvey Moore,264,15,154,95
+Victoria,35,Dist Judge,,REP,Lisa Harvey Moore,112,2,66,44
+Victoria,1,Judge,7,REP,Gina Parker,107,8,70,29
+Victoria,2,Judge,7,REP,Gina Parker,320,11,246,63
+Victoria,3,Judge,7,REP,Gina Parker,472,13,373,86
+Victoria,4,Judge,7,REP,Gina Parker,304,9,208,87
+Victoria,5,Judge,7,REP,Gina Parker,634,32,434,168
+Victoria,6,Judge,7,REP,Gina Parker,51,0,34,17
+Victoria,7,Judge,7,REP,Gina Parker,528,24,329,175
+Victoria,8,Judge,7,REP,Gina Parker,673,24,443,206
+Victoria,9,Judge,7,REP,Gina Parker,292,8,211,73
+Victoria,10,Judge,7,REP,Gina Parker,532,43,369,120
+Victoria,11,Judge,7,REP,Gina Parker,235,4,155,76
+Victoria,12,Judge,7,REP,Gina Parker,238,3,113,122
+Victoria,13,Judge,7,REP,Gina Parker,376,6,207,163
+Victoria,14,Judge,7,REP,Gina Parker,667,24,471,172
+Victoria,15,Judge,7,REP,Gina Parker,75,7,53,15
+Victoria,16,Judge,7,REP,Gina Parker,248,8,181,59
+Victoria,17,Judge,7,REP,Gina Parker,176,7,135,34
+Victoria,18,Judge,7,REP,Gina Parker,2179,129,1573,477
+Victoria,19,Judge,7,REP,Gina Parker,1069,41,756,272
+Victoria,20,Judge,7,REP,Gina Parker,832,40,626,166
+Victoria,21,Judge,7,REP,Gina Parker,2343,151,1715,477
+Victoria,22,Judge,7,REP,Gina Parker,1140,61,725,354
+Victoria,23,Judge,7,REP,Gina Parker,1038,39,705,294
+Victoria,24,Judge,7,REP,Gina Parker,1053,70,771,212
+Victoria,25,Judge,7,REP,Gina Parker,1724,137,1205,382
+Victoria,26,Judge,7,REP,Gina Parker,468,15,320,133
+Victoria,27,Judge,7,REP,Gina Parker,1299,35,731,533
+Victoria,28,Judge,7,REP,Gina Parker,316,18,166,132
+Victoria,29,Judge,7,REP,Gina Parker,1369,87,991,291
+Victoria,30,Judge,7,REP,Gina Parker,204,20,122,62
+Victoria,31,Judge,7,REP,Gina Parker,427,34,296,97
+Victoria,32,Judge,7,REP,Gina Parker,288,12,176,100
+Victoria,33,Judge,7,REP,Gina Parker,2407,193,1780,434
+Victoria,34,Judge,7,REP,Gina Parker,181,2,111,68
+Victoria,35,Judge,7,REP,Gina Parker,71,0,42,29
+Victoria,1,Judge,7,DEM,Nancy Mulder,122,19,69,34
+Victoria,2,Judge,7,DEM,Nancy Mulder,200,16,142,42
+Victoria,3,Judge,7,DEM,Nancy Mulder,216,20,146,50
+Victoria,4,Judge,7,DEM,Nancy Mulder,278,32,158,88
+Victoria,5,Judge,7,DEM,Nancy Mulder,517,51,344,122
+Victoria,6,Judge,7,DEM,Nancy Mulder,62,8,39,15
+Victoria,7,Judge,7,DEM,Nancy Mulder,607,74,360,173
+Victoria,8,Judge,7,DEM,Nancy Mulder,494,45,316,133
+Victoria,9,Judge,7,DEM,Nancy Mulder,153,18,108,27
+Victoria,10,Judge,7,DEM,Nancy Mulder,257,25,184,48
+Victoria,11,Judge,7,DEM,Nancy Mulder,59,6,38,15
+Victoria,12,Judge,7,DEM,Nancy Mulder,115,1,50,64
+Victoria,13,Judge,7,DEM,Nancy Mulder,244,20,107,117
+Victoria,14,Judge,7,DEM,Nancy Mulder,209,15,136,58
+Victoria,15,Judge,7,DEM,Nancy Mulder,14,4,7,3
+Victoria,16,Judge,7,DEM,Nancy Mulder,45,7,32,6
+Victoria,17,Judge,7,DEM,Nancy Mulder,102,8,60,34
+Victoria,18,Judge,7,DEM,Nancy Mulder,450,49,273,128
+Victoria,19,Judge,7,DEM,Nancy Mulder,622,42,438,142
+Victoria,20,Judge,7,DEM,Nancy Mulder,130,11,85,34
+Victoria,21,Judge,7,DEM,Nancy Mulder,626,74,415,137
+Victoria,22,Judge,7,DEM,Nancy Mulder,150,15,81,54
+Victoria,23,Judge,7,DEM,Nancy Mulder,204,21,130,53
+Victoria,24,Judge,7,DEM,Nancy Mulder,166,24,114,28
+Victoria,25,Judge,7,DEM,Nancy Mulder,786,80,531,175
+Victoria,26,Judge,7,DEM,Nancy Mulder,96,7,48,41
+Victoria,27,Judge,7,DEM,Nancy Mulder,116,11,70,35
+Victoria,28,Judge,7,DEM,Nancy Mulder,31,2,20,9
+Victoria,29,Judge,7,DEM,Nancy Mulder,449,54,313,82
+Victoria,30,Judge,7,DEM,Nancy Mulder,101,10,65,26
+Victoria,31,Judge,7,DEM,Nancy Mulder,271,35,176,60
+Victoria,32,Judge,7,DEM,Nancy Mulder,292,22,181,89
+Victoria,33,Judge,7,DEM,Nancy Mulder,705,79,501,125
+Victoria,34,Judge,7,DEM,Nancy Mulder,244,31,138,75
+Victoria,35,Judge,7,DEM,Nancy Mulder,93,6,52,35
+Victoria,1,Judge,8,DEM,Chika Anyiam,118,19,69,30
+Victoria,2,Judge,8,DEM,Chika Anyiam,203,15,142,46
+Victoria,3,Judge,8,DEM,Chika Anyiam,215,21,145,49
+Victoria,4,Judge,8,DEM,Chika Anyiam,261,25,150,86
+Victoria,5,Judge,8,DEM,Chika Anyiam,506,51,332,123
+Victoria,6,Judge,8,DEM,Chika Anyiam,61,8,38,15
+Victoria,7,Judge,8,DEM,Chika Anyiam,584,75,346,163
+Victoria,8,Judge,8,DEM,Chika Anyiam,484,43,312,129
+Victoria,9,Judge,8,DEM,Chika Anyiam,151,17,108,26
+Victoria,10,Judge,8,DEM,Chika Anyiam,247,23,181,43
+Victoria,11,Judge,8,DEM,Chika Anyiam,57,5,37,15
+Victoria,12,Judge,8,DEM,Chika Anyiam,107,1,47,59
+Victoria,13,Judge,8,DEM,Chika Anyiam,231,20,101,110
+Victoria,14,Judge,8,DEM,Chika Anyiam,195,12,130,53
+Victoria,15,Judge,8,DEM,Chika Anyiam,13,4,6,3
+Victoria,16,Judge,8,DEM,Chika Anyiam,45,7,31,7
+Victoria,17,Judge,8,DEM,Chika Anyiam,100,8,62,30
+Victoria,18,Judge,8,DEM,Chika Anyiam,429,50,258,121
+Victoria,19,Judge,8,DEM,Chika Anyiam,612,42,431,139
+Victoria,20,Judge,8,DEM,Chika Anyiam,129,10,82,37
+Victoria,21,Judge,8,DEM,Chika Anyiam,623,70,412,141
+Victoria,22,Judge,8,DEM,Chika Anyiam,141,13,77,51
+Victoria,23,Judge,8,DEM,Chika Anyiam,199,20,132,47
+Victoria,24,Judge,8,DEM,Chika Anyiam,160,24,110,26
+Victoria,25,Judge,8,DEM,Chika Anyiam,760,78,511,171
+Victoria,26,Judge,8,DEM,Chika Anyiam,89,5,47,37
+Victoria,27,Judge,8,DEM,Chika Anyiam,108,11,67,30
+Victoria,28,Judge,8,DEM,Chika Anyiam,28,2,19,7
+Victoria,29,Judge,8,DEM,Chika Anyiam,446,57,304,85
+Victoria,30,Judge,8,DEM,Chika Anyiam,96,10,63,23
+Victoria,31,Judge,8,DEM,Chika Anyiam,253,34,163,56
+Victoria,32,Judge,8,DEM,Chika Anyiam,289,22,179,88
+Victoria,33,Judge,8,DEM,Chika Anyiam,676,69,488,119
+Victoria,34,Judge,8,DEM,Chika Anyiam,234,32,132,70
+Victoria,35,Judge,8,DEM,Chika Anyiam,93,7,50,36
+Victoria,1,Judge,8,REP,Lee Finley,110,8,71,31
+Victoria,2,Judge,8,REP,Lee Finley,318,12,247,59
+Victoria,3,Judge,8,REP,Lee Finley,472,12,372,88
+Victoria,4,Judge,8,REP,Lee Finley,323,16,215,92
+Victoria,5,Judge,8,REP,Lee Finley,655,35,448,172
+Victoria,6,Judge,8,REP,Lee Finley,51,0,34,17
+Victoria,7,Judge,8,REP,Lee Finley,554,25,343,186
+Victoria,8,Judge,8,REP,Lee Finley,681,24,445,212
+Victoria,9,Judge,8,REP,Lee Finley,296,9,214,73
+Victoria,10,Judge,8,REP,Lee Finley,544,48,371,125
+Victoria,11,Judge,8,REP,Lee Finley,236,5,155,76
+Victoria,12,Judge,8,REP,Lee Finley,244,3,114,127
+Victoria,13,Judge,8,REP,Lee Finley,391,6,212,173
+Victoria,14,Judge,8,REP,Lee Finley,679,25,479,175
+Victoria,15,Judge,8,REP,Lee Finley,77,7,55,15
+Victoria,16,Judge,8,REP,Lee Finley,250,9,183,58
+Victoria,17,Judge,8,REP,Lee Finley,179,8,133,38
+Victoria,18,Judge,8,REP,Lee Finley,2201,130,1591,480
+Victoria,19,Judge,8,REP,Lee Finley,1082,45,762,275
+Victoria,20,Judge,8,REP,Lee Finley,834,42,629,163
+Victoria,21,Judge,8,REP,Lee Finley,2352,160,1721,471
+Victoria,22,Judge,8,REP,Lee Finley,1151,64,728,359
+Victoria,23,Judge,8,REP,Lee Finley,1044,40,704,300
+Victoria,24,Judge,8,REP,Lee Finley,1055,70,771,214
+Victoria,25,Judge,8,REP,Lee Finley,1746,140,1222,384
+Victoria,26,Judge,8,REP,Lee Finley,478,17,323,138
+Victoria,27,Judge,8,REP,Lee Finley,1306,36,732,538
+Victoria,28,Judge,8,REP,Lee Finley,318,18,167,133
+Victoria,29,Judge,8,REP,Lee Finley,1372,87,998,287
+Victoria,30,Judge,8,REP,Lee Finley,211,22,123,66
+Victoria,31,Judge,8,REP,Lee Finley,444,36,308,100
+Victoria,32,Judge,8,REP,Lee Finley,293,12,180,101
+Victoria,33,Judge,8,REP,Lee Finley,2439,206,1796,437
+Victoria,34,Judge,8,REP,Lee Finley,194,4,116,74
+Victoria,35,Judge,8,REP,Lee Finley,71,0,43,28
+Victoria,1,Justice,2,DEM,DaSean Jones,129,20,74,35
+Victoria,2,Justice,2,DEM,DaSean Jones,205,17,146,42
+Victoria,3,Justice,2,DEM,DaSean Jones,217,21,143,53
+Victoria,4,Justice,2,DEM,DaSean Jones,281,29,163,89
+Victoria,5,Justice,2,DEM,DaSean Jones,525,54,346,125
+Victoria,6,Justice,2,DEM,DaSean Jones,66,8,43,15
+Victoria,7,Justice,2,DEM,DaSean Jones,606,78,358,170
+Victoria,8,Justice,2,DEM,DaSean Jones,489,44,313,132
+Victoria,9,Justice,2,DEM,DaSean Jones,156,16,109,31
+Victoria,10,Justice,2,DEM,DaSean Jones,261,22,191,48
+Victoria,11,Justice,2,DEM,DaSean Jones,59,6,37,16
+Victoria,12,Justice,2,DEM,DaSean Jones,116,1,48,67
+Victoria,13,Justice,2,DEM,DaSean Jones,237,19,106,112
+Victoria,14,Justice,2,DEM,DaSean Jones,205,12,138,55
+Victoria,15,Justice,2,DEM,DaSean Jones,14,5,6,3
+Victoria,16,Justice,2,DEM,DaSean Jones,44,7,32,5
+Victoria,17,Justice,2,DEM,DaSean Jones,105,8,65,32
+Victoria,18,Justice,2,DEM,DaSean Jones,447,51,264,132
+Victoria,19,Justice,2,DEM,DaSean Jones,642,45,446,151
+Victoria,20,Justice,2,DEM,DaSean Jones,142,14,89,39
+Victoria,21,Justice,2,DEM,DaSean Jones,652,72,440,140
+Victoria,22,Justice,2,DEM,DaSean Jones,147,15,82,50
+Victoria,23,Justice,2,DEM,DaSean Jones,202,22,130,50
+Victoria,24,Justice,2,DEM,DaSean Jones,164,23,110,31
+Victoria,25,Justice,2,DEM,DaSean Jones,778,84,522,172
+Victoria,26,Justice,2,DEM,DaSean Jones,95,5,48,42
+Victoria,27,Justice,2,DEM,DaSean Jones,117,11,72,34
+Victoria,28,Justice,2,DEM,DaSean Jones,30,3,20,7
+Victoria,29,Justice,2,DEM,DaSean Jones,458,57,314,87
+Victoria,30,Justice,2,DEM,DaSean Jones,98,10,65,23
+Victoria,31,Justice,2,DEM,DaSean Jones,272,36,172,64
+Victoria,32,Justice,2,DEM,DaSean Jones,297,23,186,88
+Victoria,33,Justice,2,DEM,DaSean Jones,706,73,508,125
+Victoria,34,Justice,2,DEM,DaSean Jones,239,32,138,69
+Victoria,35,Justice,2,DEM,DaSean Jones,98,7,53,38
+Victoria,1,Justice,2,REP,Jenny Cron,94,6,61,27
+Victoria,2,Justice,2,REP,Jenny Cron,298,8,235,55
+Victoria,3,Justice,2,REP,Jenny Cron,453,12,359,82
+Victoria,4,Justice,2,REP,Jenny Cron,290,10,200,80
+Victoria,5,Justice,2,REP,Jenny Cron,604,32,418,154
+Victoria,6,Justice,2,REP,Jenny Cron,46,0,30,16
+Victoria,7,Justice,2,REP,Jenny Cron,501,22,318,161
+Victoria,8,Justice,2,REP,Jenny Cron,646,25,426,195
+Victoria,9,Justice,2,REP,Jenny Cron,285,7,206,72
+Victoria,10,Justice,2,REP,Jenny Cron,520,46,357,117
+Victoria,11,Justice,2,REP,Jenny Cron,232,3,154,75
+Victoria,12,Justice,2,REP,Jenny Cron,231,3,112,116
+Victoria,13,Justice,2,REP,Jenny Cron,352,6,199,147
+Victoria,14,Justice,2,REP,Jenny Cron,644,24,460,160
+Victoria,15,Justice,2,REP,Jenny Cron,69,5,50,14
+Victoria,16,Justice,2,REP,Jenny Cron,242,9,176,57
+Victoria,17,Justice,2,REP,Jenny Cron,167,7,126,34
+Victoria,18,Justice,2,REP,Jenny Cron,2160,128,1562,470
+Victoria,19,Justice,2,REP,Jenny Cron,1035,40,732,263
+Victoria,20,Justice,2,REP,Jenny Cron,806,37,609,160
+Victoria,21,Justice,2,REP,Jenny Cron,2275,155,1659,461
+Victoria,22,Justice,2,REP,Jenny Cron,1128,60,716,352
+Victoria,23,Justice,2,REP,Jenny Cron,1015,38,689,288
+Victoria,24,Justice,2,REP,Jenny Cron,1039,68,760,211
+Victoria,25,Justice,2,REP,Jenny Cron,1685,139,1174,372
+Victoria,26,Justice,2,REP,Jenny Cron,465,15,315,135
+Victoria,27,Justice,2,REP,Jenny Cron,1286,35,721,530
+Victoria,28,Justice,2,REP,Jenny Cron,311,18,162,131
+Victoria,29,Justice,2,REP,Jenny Cron,1336,84,969,283
+Victoria,30,Justice,2,REP,Jenny Cron,194,21,113,60
+Victoria,31,Justice,2,REP,Jenny Cron,424,33,296,95
+Victoria,32,Justice,2,REP,Jenny Cron,273,12,169,92
+Victoria,33,Justice,2,REP,Jenny Cron,2381,201,1752,428
+Victoria,34,Justice,2,REP,Jenny Cron,167,3,106,58
+Victoria,35,Justice,2,REP,Jenny Cron,61,0,38,23
+Victoria,1,Justice,2,REP,Jimmy Blacklock,102,7,68,27
+Victoria,2,Justice,2,REP,Jimmy Blacklock,319,10,247,62
+Victoria,3,Justice,2,REP,Jimmy Blacklock,477,15,372,90
+Victoria,4,Justice,2,REP,Jimmy Blacklock,309,13,211,85
+Victoria,5,Justice,2,REP,Jimmy Blacklock,631,33,428,170
+Victoria,6,Justice,2,REP,Jimmy Blacklock,52,0,33,19
+Victoria,7,Justice,2,REP,Jimmy Blacklock,545,26,333,186
+Victoria,8,Justice,2,REP,Jimmy Blacklock,686,25,451,210
+Victoria,9,Justice,2,REP,Jimmy Blacklock,300,11,214,75
+Victoria,10,Justice,2,REP,Jimmy Blacklock,539,48,370,121
+Victoria,11,Justice,2,REP,Jimmy Blacklock,236,4,159,73
+Victoria,12,Justice,2,REP,Jimmy Blacklock,242,3,114,125
+Victoria,13,Justice,2,REP,Jimmy Blacklock,383,5,206,172
+Victoria,14,Justice,2,REP,Jimmy Blacklock,671,27,470,174
+Victoria,15,Justice,2,REP,Jimmy Blacklock,75,6,54,15
+Victoria,16,Justice,2,REP,Jimmy Blacklock,250,9,181,60
+Victoria,17,Justice,2,REP,Jimmy Blacklock,172,8,128,36
+Victoria,18,Justice,2,REP,Jimmy Blacklock,2204,133,1594,477
+Victoria,19,Justice,2,REP,Jimmy Blacklock,1076,41,762,273
+Victoria,20,Justice,2,REP,Jimmy Blacklock,830,40,629,161
+Victoria,21,Justice,2,REP,Jimmy Blacklock,2336,160,1699,477
+Victoria,22,Justice,2,REP,Jimmy Blacklock,1149,62,730,357
+Victoria,23,Justice,2,REP,Jimmy Blacklock,1039,38,702,299
+Victoria,24,Justice,2,REP,Jimmy Blacklock,1066,72,784,210
+Victoria,25,Justice,2,REP,Jimmy Blacklock,1748,139,1218,391
+Victoria,26,Justice,2,REP,Jimmy Blacklock,477,17,324,136
+Victoria,27,Justice,2,REP,Jimmy Blacklock,1309,37,734,538
+Victoria,28,Justice,2,REP,Jimmy Blacklock,319,18,167,134
+Victoria,29,Justice,2,REP,Jimmy Blacklock,1379,89,999,291
+Victoria,30,Justice,2,REP,Jimmy Blacklock,213,22,125,66
+Victoria,31,Justice,2,REP,Jimmy Blacklock,430,34,300,96
+Victoria,32,Justice,2,REP,Jimmy Blacklock,296,12,178,106
+Victoria,33,Justice,2,REP,Jimmy Blacklock,2421,204,1786,431
+Victoria,34,Justice,2,REP,Jimmy Blacklock,188,4,110,74
+Victoria,35,Justice,2,REP,Jimmy Blacklock,68,0,41,27
+Victoria,1,Justice,2,DEM,Nora Longoria,133,21,75,37
+Victoria,2,Justice,2,DEM,Nora Longoria,220,18,153,49
+Victoria,3,Justice,2,DEM,Nora Longoria,233,20,156,57
+Victoria,4,Justice,2,DEM,Nora Longoria,292,32,168,92
+Victoria,5,Justice,2,DEM,Nora Longoria,549,51,358,140
+Victoria,6,Justice,2,DEM,Nora Longoria,64,7,41,16
+Victoria,7,Justice,2,DEM,Nora Longoria,634,77,373,184
+Victoria,8,Justice,2,DEM,Nora Longoria,516,45,327,144
+Victoria,9,Justice,2,DEM,Nora Longoria,158,18,111,29
+Victoria,10,Justice,2,DEM,Nora Longoria,275,24,199,52
+Victoria,11,Justice,2,DEM,Nora Longoria,59,7,37,15
+Victoria,12,Justice,2,DEM,Nora Longoria,126,1,52,73
+Victoria,13,Justice,2,DEM,Nora Longoria,263,20,109,134
+Victoria,14,Justice,2,DEM,Nora Longoria,224,15,142,67
+Victoria,15,Justice,2,DEM,Nora Longoria,19,6,10,3
+Victoria,16,Justice,2,DEM,Nora Longoria,50,7,35,8
+Victoria,17,Justice,2,DEM,Nora Longoria,109,9,67,33
+Victoria,18,Justice,2,DEM,Nora Longoria,464,52,277,135
+Victoria,19,Justice,2,DEM,Nora Longoria,647,43,454,150
+Victoria,20,Justice,2,DEM,Nora Longoria,147,13,96,38
+Victoria,21,Justice,2,DEM,Nora Longoria,684,75,462,147
+Victoria,22,Justice,2,DEM,Nora Longoria,159,17,84,58
+Victoria,23,Justice,2,DEM,Nora Longoria,226,23,144,59
+Victoria,24,Justice,2,DEM,Nora Longoria,174,26,119,29
+Victoria,25,Justice,2,DEM,Nora Longoria,808,78,544,186
+Victoria,26,Justice,2,DEM,Nora Longoria,101,7,54,40
+Victoria,27,Justice,2,DEM,Nora Longoria,126,11,78,37
+Victoria,28,Justice,2,DEM,Nora Longoria,32,2,21,9
+Victoria,29,Justice,2,DEM,Nora Longoria,478,59,332,87
+Victoria,30,Justice,2,DEM,Nora Longoria,108,10,71,27
+Victoria,31,Justice,2,DEM,Nora Longoria,270,35,173,62
+Victoria,32,Justice,2,DEM,Nora Longoria,303,23,182,98
+Victoria,33,Justice,2,DEM,Nora Longoria,725,77,518,130
+Victoria,34,Justice,2,DEM,Nora Longoria,257,33,141,83
+Victoria,35,Justice,2,DEM,Nora Longoria,105,7,57,41
+Victoria,1,Justice,4,DEM,Christine Vinh Weems,126,20,72,34
+Victoria,2,Justice,4,DEM,Christine Vinh Weems,210,18,148,44
+Victoria,3,Justice,4,DEM,Christine Vinh Weems,223,21,147,55
+Victoria,4,Justice,4,DEM,Christine Vinh Weems,284,31,166,87
+Victoria,5,Justice,4,DEM,Christine Vinh Weems,528,53,346,129
+Victoria,6,Justice,4,DEM,Christine Vinh Weems,68,8,44,16
+Victoria,7,Justice,4,DEM,Christine Vinh Weems,612,77,364,171
+Victoria,8,Justice,4,DEM,Christine Vinh Weems,489,42,320,127
+Victoria,9,Justice,4,DEM,Christine Vinh Weems,160,18,112,30
+Victoria,10,Justice,4,DEM,Christine Vinh Weems,264,24,191,49
+Victoria,11,Justice,4,DEM,Christine Vinh Weems,59,6,37,16
+Victoria,12,Justice,4,DEM,Christine Vinh Weems,115,1,49,65
+Victoria,13,Justice,4,DEM,Christine Vinh Weems,246,20,105,121
+Victoria,14,Justice,4,DEM,Christine Vinh Weems,205,14,130,61
+Victoria,15,Justice,4,DEM,Christine Vinh Weems,14,4,7,3
+Victoria,16,Justice,4,DEM,Christine Vinh Weems,49,7,34,8
+Victoria,17,Justice,4,DEM,Christine Vinh Weems,105,8,65,32
+Victoria,18,Justice,4,DEM,Christine Vinh Weems,459,50,273,136
+Victoria,19,Justice,4,DEM,Christine Vinh Weems,642,41,451,150
+Victoria,20,Justice,4,DEM,Christine Vinh Weems,141,13,89,39
+Victoria,21,Justice,4,DEM,Christine Vinh Weems,664,76,442,146
+Victoria,22,Justice,4,DEM,Christine Vinh Weems,153,15,85,53
+Victoria,23,Justice,4,DEM,Christine Vinh Weems,221,23,142,56
+Victoria,24,Justice,4,DEM,Christine Vinh Weems,163,24,111,28
+Victoria,25,Justice,4,DEM,Christine Vinh Weems,792,85,528,179
+Victoria,26,Justice,4,DEM,Christine Vinh Weems,102,8,54,40
+Victoria,27,Justice,4,DEM,Christine Vinh Weems,121,11,71,39
+Victoria,28,Justice,4,DEM,Christine Vinh Weems,32,3,19,10
+Victoria,29,Justice,4,DEM,Christine Vinh Weems,461,55,317,89
+Victoria,30,Justice,4,DEM,Christine Vinh Weems,101,10,66,25
+Victoria,31,Justice,4,DEM,Christine Vinh Weems,275,37,175,63
+Victoria,32,Justice,4,DEM,Christine Vinh Weems,299,23,183,93
+Victoria,33,Justice,4,DEM,Christine Vinh Weems,726,78,527,121
+Victoria,34,Justice,4,DEM,Christine Vinh Weems,247,31,138,78
+Victoria,35,Justice,4,DEM,Christine Vinh Weems,98,7,54,37
+Victoria,1,Justice,4,DEM,Joe Martinez,127,20,72,35
+Victoria,2,Justice,4,DEM,Joe Martinez,207,16,146,45
+Victoria,3,Justice,4,DEM,Joe Martinez,220,20,145,55
+Victoria,4,Justice,4,DEM,Joe Martinez,293,31,163,99
+Victoria,5,Justice,4,DEM,Joe Martinez,540,54,354,132
+Victoria,6,Justice,4,DEM,Joe Martinez,62,6,40,16
+Victoria,7,Justice,4,DEM,Joe Martinez,620,80,363,177
+Victoria,8,Justice,4,DEM,Joe Martinez,493,44,314,135
+Victoria,9,Justice,4,DEM,Joe Martinez,160,19,110,31
+Victoria,10,Justice,4,DEM,Joe Martinez,261,25,188,48
+Victoria,11,Justice,4,DEM,Joe Martinez,58,7,35,16
+Victoria,12,Justice,4,DEM,Joe Martinez,126,1,50,75
+Victoria,13,Justice,4,DEM,Joe Martinez,260,20,110,130
+Victoria,14,Justice,4,DEM,Joe Martinez,214,15,134,65
+Victoria,15,Justice,4,DEM,Joe Martinez,15,6,6,3
+Victoria,16,Justice,4,DEM,Joe Martinez,51,7,36,8
+Victoria,17,Justice,4,DEM,Joe Martinez,103,7,63,33
+Victoria,18,Justice,4,DEM,Joe Martinez,455,49,273,133
+Victoria,19,Justice,4,DEM,Joe Martinez,631,40,445,146
+Victoria,20,Justice,4,DEM,Joe Martinez,143,13,91,39
+Victoria,21,Justice,4,DEM,Joe Martinez,663,75,434,154
+Victoria,22,Justice,4,DEM,Joe Martinez,157,17,83,57
+Victoria,23,Justice,4,DEM,Joe Martinez,215,22,135,58
+Victoria,24,Justice,4,DEM,Joe Martinez,171,25,116,30
+Victoria,25,Justice,4,DEM,Joe Martinez,790,84,528,178
+Victoria,26,Justice,4,DEM,Joe Martinez,101,8,52,41
+Victoria,27,Justice,4,DEM,Joe Martinez,117,11,71,35
+Victoria,28,Justice,4,DEM,Joe Martinez,34,2,23,9
+Victoria,29,Justice,4,DEM,Joe Martinez,450,54,316,80
+Victoria,30,Justice,4,DEM,Joe Martinez,102,10,66,26
+Victoria,31,Justice,4,DEM,Joe Martinez,268,37,166,65
+Victoria,32,Justice,4,DEM,Joe Martinez,303,22,183,98
+Victoria,33,Justice,4,DEM,Joe Martinez,706,75,511,120
+Victoria,34,Justice,4,DEM,Joe Martinez,249,32,138,79
+Victoria,35,Justice,4,DEM,Joe Martinez,99,7,53,39
+Victoria,1,Justice,4,REP,John Devine,101,6,65,30
+Victoria,2,Justice,4,REP,John Devine,314,9,246,59
+Victoria,3,Justice,4,REP,John Devine,473,13,371,89
+Victoria,4,Justice,4,REP,John Devine,299,11,206,82
+Victoria,5,Justice,4,REP,John Devine,623,33,424,166
+Victoria,6,Justice,4,REP,John Devine,51,0,33,18
+Victoria,7,Justice,4,REP,John Devine,538,27,329,182
+Victoria,8,Justice,4,REP,John Devine,679,26,440,213
+Victoria,9,Justice,4,REP,John Devine,291,10,208,73
+Victoria,10,Justice,4,REP,John Devine,535,47,368,120
+Victoria,11,Justice,4,REP,John Devine,234,4,157,73
+Victoria,12,Justice,4,REP,John Devine,243,3,115,125
+Victoria,13,Justice,4,REP,John Devine,374,6,207,161
+Victoria,14,Justice,4,REP,John Devine,670,26,477,167
+Victoria,15,Justice,4,REP,John Devine,76,7,54,15
+Victoria,16,Justice,4,REP,John Devine,245,9,180,56
+Victoria,17,Justice,4,REP,John Devine,172,8,130,34
+Victoria,18,Justice,4,REP,John Devine,2185,132,1577,476
+Victoria,19,Justice,4,REP,John Devine,1064,43,750,271
+Victoria,20,Justice,4,REP,John Devine,823,40,624,159
+Victoria,21,Justice,4,REP,John Devine,2320,159,1693,468
+Victoria,22,Justice,4,REP,John Devine,1139,61,723,355
+Victoria,23,Justice,4,REP,John Devine,1020,37,690,293
+Victoria,24,Justice,4,REP,John Devine,1061,72,778,211
+Victoria,25,Justice,4,REP,John Devine,1720,137,1202,381
+Victoria,26,Justice,4,REP,John Devine,468,14,318,136
+Victoria,27,Justice,4,REP,John Devine,1300,36,731,533
+Victoria,28,Justice,4,REP,John Devine,316,18,167,131
+Victoria,29,Justice,4,REP,John Devine,1374,90,995,289
+Victoria,30,Justice,4,REP,John Devine,212,22,126,64
+Victoria,31,Justice,4,REP,John Devine,426,33,297,96
+Victoria,32,Justice,4,REP,John Devine,291,12,179,100
+Victoria,33,Justice,4,REP,John Devine,2401,200,1766,435
+Victoria,34,Justice,4,REP,John Devine,179,4,110,65
+Victoria,35,Justice,4,REP,John Devine,68,0,41,27
+Victoria,1,Justice,4,REP,Ysmael D. Fonseca,101,7,65,29
+Victoria,2,Justice,4,REP,Ysmael D. Fonseca,307,9,239,59
+Victoria,3,Justice,4,REP,Ysmael D. Fonseca,462,12,367,83
+Victoria,4,Justice,4,REP,Ysmael D. Fonseca,297,11,209,77
+Victoria,5,Justice,4,REP,Ysmael D. Fonseca,611,31,420,160
+Victoria,6,Justice,4,REP,Ysmael D. Fonseca,47,0,31,16
+Victoria,7,Justice,4,REP,Ysmael D. Fonseca,523,23,329,171
+Victoria,8,Justice,4,REP,Ysmael D. Fonseca,666,25,438,203
+Victoria,9,Justice,4,REP,Ysmael D. Fonseca,283,7,206,70
+Victoria,10,Justice,4,REP,Ysmael D. Fonseca,528,42,367,119
+Victoria,11,Justice,4,REP,Ysmael D. Fonseca,232,3,157,72
+Victoria,12,Justice,4,REP,Ysmael D. Fonseca,233,3,113,117
+Victoria,13,Justice,4,REP,Ysmael D. Fonseca,358,6,201,151
+Victoria,14,Justice,4,REP,Ysmael D. Fonseca,653,24,466,163
+Victoria,15,Justice,4,REP,Ysmael D. Fonseca,73,5,53,15
+Victoria,16,Justice,4,REP,Ysmael D. Fonseca,238,7,175,56
+Victoria,17,Justice,4,REP,Ysmael D. Fonseca,173,8,130,35
+Victoria,18,Justice,4,REP,Ysmael D. Fonseca,2160,130,1566,464
+Victoria,19,Justice,4,REP,Ysmael D. Fonseca,1055,40,744,271
+Victoria,20,Justice,4,REP,Ysmael D. Fonseca,814,39,615,160
+Victoria,21,Justice,4,REP,Ysmael D. Fonseca,2287,154,1679,454
+Victoria,22,Justice,4,REP,Ysmael D. Fonseca,1126,59,715,352
+Victoria,23,Justice,4,REP,Ysmael D. Fonseca,1023,37,697,289
+Victoria,24,Justice,4,REP,Ysmael D. Fonseca,1035,64,762,209
+Victoria,25,Justice,4,REP,Ysmael D. Fonseca,1697,132,1191,374
+Victoria,26,Justice,4,REP,Ysmael D. Fonseca,461,14,312,135
+Victoria,27,Justice,4,REP,Ysmael D. Fonseca,1295,35,727,533
+Victoria,28,Justice,4,REP,Ysmael D. Fonseca,310,18,162,130
+Victoria,29,Justice,4,REP,Ysmael D. Fonseca,1361,87,985,289
+Victoria,30,Justice,4,REP,Ysmael D. Fonseca,201,21,118,62
+Victoria,31,Justice,4,REP,Ysmael D. Fonseca,426,32,302,92
+Victoria,32,Justice,4,REP,Ysmael D. Fonseca,272,12,168,92
+Victoria,33,Justice,4,REP,Ysmael D. Fonseca,2393,195,1762,436
+Victoria,34,Justice,4,REP,Ysmael D. Fonseca,179,4,110,65
+Victoria,35,Justice,4,REP,Ysmael D. Fonseca,65,0,41,24
+Victoria,1,Justice,5,REP,Jon West,105,11,66,28
+Victoria,2,Justice,5,REP,Jon West,312,9,243,60
+Victoria,3,Justice,5,REP,Jon West,469,13,368,88
+Victoria,4,Justice,5,REP,Jon West,314,13,210,91
+Victoria,5,Justice,5,REP,Jon West,641,33,436,172
+Victoria,6,Justice,5,REP,Jon West,50,0,32,18
+Victoria,7,Justice,5,REP,Jon West,542,25,338,179
+Victoria,8,Justice,5,REP,Jon West,682,23,449,210
+Victoria,9,Justice,5,REP,Jon West,293,9,213,71
+Victoria,10,Justice,5,REP,Jon West,538,45,370,123
+Victoria,11,Justice,5,REP,Jon West,235,4,156,75
+Victoria,12,Justice,5,REP,Jon West,241,3,112,126
+Victoria,13,Justice,5,REP,Jon West,379,6,209,164
+Victoria,14,Justice,5,REP,Jon West,670,25,474,171
+Victoria,15,Justice,5,REP,Jon West,73,6,53,14
+Victoria,16,Justice,5,REP,Jon West,250,9,183,58
+Victoria,17,Justice,5,REP,Jon West,178,7,132,39
+Victoria,18,Justice,5,REP,Jon West,2194,130,1579,485
+Victoria,19,Justice,5,REP,Jon West,1071,41,758,272
+Victoria,20,Justice,5,REP,Jon West,831,42,622,167
+Victoria,21,Justice,5,REP,Jon West,2337,158,1706,473
+Victoria,22,Justice,5,REP,Jon West,1146,64,722,360
+Victoria,23,Justice,5,REP,Jon West,1046,40,706,300
+Victoria,24,Justice,5,REP,Jon West,1056,70,772,214
+Victoria,25,Justice,5,REP,Jon West,1742,136,1216,390
+Victoria,26,Justice,5,REP,Jon West,473,17,321,135
+Victoria,27,Justice,5,REP,Jon West,1308,36,734,538
+Victoria,28,Justice,5,REP,Jon West,317,18,167,132
+Victoria,29,Justice,5,REP,Jon West,1364,87,990,287
+Victoria,30,Justice,5,REP,Jon West,206,20,121,65
+Victoria,31,Justice,5,REP,Jon West,432,35,300,97
+Victoria,32,Justice,5,REP,Jon West,282,11,172,99
+Victoria,33,Justice,5,REP,Jon West,2426,207,1782,437
+Victoria,34,Justice,5,REP,Jon West,185,4,115,66
+Victoria,35,Justice,5,REP,Jon West,69,0,42,27
+Victoria,1,Justice,5,DEM,Regi Compian Richardson,120,16,70,34
+Victoria,2,Justice,5,DEM,Regi Compian Richardson,200,17,140,43
+Victoria,3,Justice,5,DEM,Regi Compian Richardson,212,19,142,51
+Victoria,4,Justice,5,DEM,Regi Compian Richardson,268,29,156,83
+Victoria,5,Justice,5,DEM,Regi Compian Richardson,512,52,342,118
+Victoria,6,Justice,5,DEM,Regi Compian Richardson,60,7,39,14
+Victoria,7,Justice,5,DEM,Regi Compian Richardson,589,76,348,165
+Victoria,8,Justice,5,DEM,Regi Compian Richardson,480,45,306,129
+Victoria,9,Justice,5,DEM,Regi Compian Richardson,149,17,105,27
+Victoria,10,Justice,5,DEM,Regi Compian Richardson,251,23,183,45
+Victoria,11,Justice,5,DEM,Regi Compian Richardson,56,6,35,15
+Victoria,12,Justice,5,DEM,Regi Compian Richardson,111,1,49,61
+Victoria,13,Justice,5,DEM,Regi Compian Richardson,234,20,100,114
+Victoria,14,Justice,5,DEM,Regi Compian Richardson,201,12,130,59
+Victoria,15,Justice,5,DEM,Regi Compian Richardson,16,5,7,4
+Victoria,16,Justice,5,DEM,Regi Compian Richardson,42,7,28,7
+Victoria,17,Justice,5,DEM,Regi Compian Richardson,98,8,61,29
+Victoria,18,Justice,5,DEM,Regi Compian Richardson,426,49,258,119
+Victoria,19,Justice,5,DEM,Regi Compian Richardson,615,41,432,142
+Victoria,20,Justice,5,DEM,Regi Compian Richardson,125,9,84,32
+Victoria,21,Justice,5,DEM,Regi Compian Richardson,620,72,412,136
+Victoria,22,Justice,5,DEM,Regi Compian Richardson,142,13,80,49
+Victoria,23,Justice,5,DEM,Regi Compian Richardson,194,20,128,46
+Victoria,24,Justice,5,DEM,Regi Compian Richardson,159,24,109,26
+Victoria,25,Justice,5,DEM,Regi Compian Richardson,748,82,503,163
+Victoria,26,Justice,5,DEM,Regi Compian Richardson,88,5,46,37
+Victoria,27,Justice,5,DEM,Regi Compian Richardson,105,10,65,30
+Victoria,28,Justice,5,DEM,Regi Compian Richardson,28,2,18,8
+Victoria,29,Justice,5,DEM,Regi Compian Richardson,444,55,305,84
+Victoria,30,Justice,5,DEM,Regi Compian Richardson,96,10,63,23
+Victoria,31,Justice,5,DEM,Regi Compian Richardson,259,34,165,60
+Victoria,32,Justice,5,DEM,Regi Compian Richardson,287,23,176,88
+Victoria,33,Justice,5,DEM,Regi Compian Richardson,675,70,486,119
+Victoria,34,Justice,5,DEM,Regi Compian Richardson,240,32,131,77
+Victoria,35,Justice,5,DEM,Regi Compian Richardson,95,7,52,36
+Victoria,1,Justice,6,DEM,Bonnie Lee Goldstein,119,19,68,32
+Victoria,2,Justice,6,DEM,Bonnie Lee Goldstein,205,17,144,44
+Victoria,3,Justice,6,DEM,Bonnie Lee Goldstein,211,21,140,50
+Victoria,4,Justice,6,DEM,Bonnie Lee Goldstein,269,31,155,83
+Victoria,5,Justice,6,DEM,Bonnie Lee Goldstein,517,53,346,118
+Victoria,6,Justice,6,DEM,Bonnie Lee Goldstein,61,8,38,15
+Victoria,7,Justice,6,DEM,Bonnie Lee Goldstein,589,80,344,165
+Victoria,8,Justice,6,DEM,Bonnie Lee Goldstein,474,44,304,126
+Victoria,9,Justice,6,DEM,Bonnie Lee Goldstein,159,18,113,28
+Victoria,10,Justice,6,DEM,Bonnie Lee Goldstein,247,21,180,46
+Victoria,11,Justice,6,DEM,Bonnie Lee Goldstein,57,6,37,14
+Victoria,12,Justice,6,DEM,Bonnie Lee Goldstein,111,1,48,62
+Victoria,13,Justice,6,DEM,Bonnie Lee Goldstein,238,20,102,116
+Victoria,14,Justice,6,DEM,Bonnie Lee Goldstein,198,15,129,54
+Victoria,15,Justice,6,DEM,Bonnie Lee Goldstein,14,4,6,4
+Victoria,16,Justice,6,DEM,Bonnie Lee Goldstein,44,7,30,7
+Victoria,17,Justice,6,DEM,Bonnie Lee Goldstein,102,8,64,30
+Victoria,18,Justice,6,DEM,Bonnie Lee Goldstein,437,52,259,126
+Victoria,19,Justice,6,DEM,Bonnie Lee Goldstein,610,44,427,139
+Victoria,20,Justice,6,DEM,Bonnie Lee Goldstein,127,13,82,32
+Victoria,21,Justice,6,DEM,Bonnie Lee Goldstein,632,75,422,135
+Victoria,22,Justice,6,DEM,Bonnie Lee Goldstein,147,15,84,48
+Victoria,23,Justice,6,DEM,Bonnie Lee Goldstein,203,21,134,48
+Victoria,24,Justice,6,DEM,Bonnie Lee Goldstein,169,24,116,29
+Victoria,25,Justice,6,DEM,Bonnie Lee Goldstein,760,83,512,165
+Victoria,26,Justice,6,DEM,Bonnie Lee Goldstein,93,7,46,40
+Victoria,27,Justice,6,DEM,Bonnie Lee Goldstein,110,11,65,34
+Victoria,28,Justice,6,DEM,Bonnie Lee Goldstein,29,2,18,9
+Victoria,29,Justice,6,DEM,Bonnie Lee Goldstein,452,54,317,81
+Victoria,30,Justice,6,DEM,Bonnie Lee Goldstein,97,10,64,23
+Victoria,31,Justice,6,DEM,Bonnie Lee Goldstein,261,34,170,57
+Victoria,32,Justice,6,DEM,Bonnie Lee Goldstein,291,23,179,89
+Victoria,33,Justice,6,DEM,Bonnie Lee Goldstein,686,76,496,114
+Victoria,34,Justice,6,DEM,Bonnie Lee Goldstein,234,32,133,69
+Victoria,35,Justice,6,DEM,Bonnie Lee Goldstein,94,7,52,35
+Victoria,1,Justice,6,LIB,J. David Roberson,10,0,6,4
+Victoria,2,Justice,6,LIB,J. David Roberson,11,0,5,6
+Victoria,3,Justice,6,LIB,J. David Roberson,33,0,20,13
+Victoria,4,Justice,6,LIB,J. David Roberson,19,0,8,11
+Victoria,5,Justice,6,LIB,J. David Roberson,33,0,18,15
+Victoria,6,Justice,6,LIB,J. David Roberson,2,0,2,0
+Victoria,7,Justice,6,LIB,J. David Roberson,40,0,27,13
+Victoria,8,Justice,6,LIB,J. David Roberson,29,0,17,12
+Victoria,9,Justice,6,LIB,J. David Roberson,10,0,8,2
+Victoria,10,Justice,6,LIB,J. David Roberson,25,2,16,7
+Victoria,11,Justice,6,LIB,J. David Roberson,3,0,2,1
+Victoria,12,Justice,6,LIB,J. David Roberson,10,0,2,8
+Victoria,13,Justice,6,LIB,J. David Roberson,14,0,8,6
+Victoria,14,Justice,6,LIB,J. David Roberson,12,0,9,3
+Victoria,15,Justice,6,LIB,J. David Roberson,5,2,3,0
+Victoria,16,Justice,6,LIB,J. David Roberson,4,0,2,2
+Victoria,17,Justice,6,LIB,J. David Roberson,8,0,4,4
+Victoria,18,Justice,6,LIB,J. David Roberson,51,1,32,18
+Victoria,19,Justice,6,LIB,J. David Roberson,49,3,32,14
+Victoria,20,Justice,6,LIB,J. David Roberson,15,2,6,7
+Victoria,21,Justice,6,LIB,J. David Roberson,67,3,45,19
+Victoria,22,Justice,6,LIB,J. David Roberson,13,1,5,7
+Victoria,23,Justice,6,LIB,J. David Roberson,27,0,17,10
+Victoria,24,Justice,6,LIB,J. David Roberson,17,0,12,5
+Victoria,25,Justice,6,LIB,J. David Roberson,60,2,32,26
+Victoria,26,Justice,6,LIB,J. David Roberson,8,0,4,4
+Victoria,27,Justice,6,LIB,J. David Roberson,15,0,6,9
+Victoria,28,Justice,6,LIB,J. David Roberson,2,0,1,1
+Victoria,29,Justice,6,LIB,J. David Roberson,40,2,25,13
+Victoria,30,Justice,6,LIB,J. David Roberson,8,1,5,2
+Victoria,31,Justice,6,LIB,J. David Roberson,19,1,7,11
+Victoria,32,Justice,6,LIB,J. David Roberson,14,0,5,9
+Victoria,33,Justice,6,LIB,J. David Roberson,57,2,39,16
+Victoria,34,Justice,6,LIB,J. David Roberson,14,0,5,9
+Victoria,35,Justice,6,LIB,J. David Roberson,6,0,3,3
+Victoria,1,Justice,6,REP,Jane Bland,101,8,68,25
+Victoria,2,Justice,6,REP,Jane Bland,306,10,242,54
+Victoria,3,Justice,6,REP,Jane Bland,450,14,359,77
+Victoria,4,Justice,6,REP,Jane Bland,301,11,207,83
+Victoria,5,Justice,6,REP,Jane Bland,614,34,419,161
+Victoria,6,Justice,6,REP,Jane Bland,49,0,33,16
+Victoria,7,Justice,6,REP,Jane Bland,511,24,315,172
+Victoria,8,Justice,6,REP,Jane Bland,665,24,438,203
+Victoria,9,Justice,6,REP,Jane Bland,282,10,202,70
+Victoria,10,Justice,6,REP,Jane Bland,523,48,360,115
+Victoria,11,Justice,6,REP,Jane Bland,233,4,153,76
+Victoria,12,Justice,6,REP,Jane Bland,234,3,112,119
+Victoria,13,Justice,6,REP,Jane Bland,371,6,205,160
+Victoria,14,Justice,6,REP,Jane Bland,671,25,473,173
+Victoria,15,Justice,6,REP,Jane Bland,71,5,52,14
+Victoria,16,Justice,6,REP,Jane Bland,244,9,180,55
+Victoria,17,Justice,6,REP,Jane Bland,167,8,125,34
+Victoria,18,Justice,6,REP,Jane Bland,2154,131,1556,467
+Victoria,19,Justice,6,REP,Jane Bland,1049,41,744,264
+Victoria,20,Justice,6,REP,Jane Bland,822,39,622,161
+Victoria,21,Justice,6,REP,Jane Bland,2285,154,1665,466
+Victoria,22,Justice,6,REP,Jane Bland,1129,61,716,352
+Victoria,23,Justice,6,REP,Jane Bland,1016,39,685,292
+Victoria,24,Justice,6,REP,Jane Bland,1040,71,761,208
+Victoria,25,Justice,6,REP,Jane Bland,1695,139,1189,367
+Victoria,26,Justice,6,REP,Jane Bland,470,15,321,134
+Victoria,27,Justice,6,REP,Jane Bland,1292,37,727,528
+Victoria,28,Justice,6,REP,Jane Bland,317,18,168,131
+Victoria,29,Justice,6,REP,Jane Bland,1338,88,969,281
+Victoria,30,Justice,6,REP,Jane Bland,201,19,119,63
+Victoria,31,Justice,6,REP,Jane Bland,424,35,297,92
+Victoria,32,Justice,6,REP,Jane Bland,280,12,175,93
+Victoria,33,Justice,6,REP,Jane Bland,2382,200,1752,430
+Victoria,34,Justice,6,REP,Jane Bland,181,4,113,64
+Victoria,35,Justice,6,REP,Jane Bland,66,0,40,26
+Victoria,1,President,,LIB,Chase Oliver/Mike ter Maat,1,1,0,0
+Victoria,2,President,,LIB,Chase Oliver/Mike ter Maat,3,0,2,1
+Victoria,3,President,,LIB,Chase Oliver/Mike ter Maat,8,0,6,2
+Victoria,4,President,,LIB,Chase Oliver/Mike ter Maat,2,0,0,2
+Victoria,5,President,,LIB,Chase Oliver/Mike ter Maat,6,0,4,2
+Victoria,6,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Victoria,7,President,,LIB,Chase Oliver/Mike ter Maat,8,0,6,2
+Victoria,8,President,,LIB,Chase Oliver/Mike ter Maat,5,0,2,3
+Victoria,9,President,,LIB,Chase Oliver/Mike ter Maat,1,0,0,1
+Victoria,10,President,,LIB,Chase Oliver/Mike ter Maat,4,0,2,2
+Victoria,11,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Victoria,12,President,,LIB,Chase Oliver/Mike ter Maat,2,0,0,2
+Victoria,13,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Victoria,14,President,,LIB,Chase Oliver/Mike ter Maat,3,0,0,3
+Victoria,15,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Victoria,16,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Victoria,17,President,,LIB,Chase Oliver/Mike ter Maat,1,0,0,1
+Victoria,18,President,,LIB,Chase Oliver/Mike ter Maat,8,2,4,2
+Victoria,19,President,,LIB,Chase Oliver/Mike ter Maat,6,1,2,3
+Victoria,20,President,,LIB,Chase Oliver/Mike ter Maat,3,0,0,3
+Victoria,21,President,,LIB,Chase Oliver/Mike ter Maat,12,0,9,3
+Victoria,22,President,,LIB,Chase Oliver/Mike ter Maat,4,2,1,1
+Victoria,23,President,,LIB,Chase Oliver/Mike ter Maat,8,1,4,3
+Victoria,24,President,,LIB,Chase Oliver/Mike ter Maat,2,0,2,0
+Victoria,25,President,,LIB,Chase Oliver/Mike ter Maat,5,1,1,3
+Victoria,26,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Victoria,27,President,,LIB,Chase Oliver/Mike ter Maat,4,0,3,1
+Victoria,28,President,,LIB,Chase Oliver/Mike ter Maat,1,0,0,1
+Victoria,29,President,,LIB,Chase Oliver/Mike ter Maat,8,0,3,5
+Victoria,30,President,,LIB,Chase Oliver/Mike ter Maat,1,0,1,0
+Victoria,31,President,,LIB,Chase Oliver/Mike ter Maat,3,0,2,1
+Victoria,32,President,,LIB,Chase Oliver/Mike ter Maat,4,1,3,0
+Victoria,33,President,,LIB,Chase Oliver/Mike ter Maat,19,4,8,7
+Victoria,34,President,,LIB,Chase Oliver/Mike ter Maat,1,0,1,0
+Victoria,35,President,,LIB,Chase Oliver/Mike ter Maat,3,0,0,3
+Victoria,1,President,,REP,Donald J. Trump/JD Vance,112,5,72,35
+Victoria,2,President,,REP,Donald J. Trump/JD Vance,321,10,249,62
+Victoria,3,President,,REP,Donald J. Trump/JD Vance,486,15,375,96
+Victoria,4,President,,REP,Donald J. Trump/JD Vance,335,11,223,101
+Victoria,5,President,,REP,Donald J. Trump/JD Vance,655,35,440,180
+Victoria,6,President,,REP,Donald J. Trump/JD Vance,56,0,33,23
+Victoria,7,President,,REP,Donald J. Trump/JD Vance,570,26,349,195
+Victoria,8,President,,REP,Donald J. Trump/JD Vance,717,25,465,227
+Victoria,9,President,,REP,Donald J. Trump/JD Vance,295,9,209,77
+Victoria,10,President,,REP,Donald J. Trump/JD Vance,543,47,371,125
+Victoria,11,President,,REP,Donald J. Trump/JD Vance,233,2,157,74
+Victoria,12,President,,REP,Donald J. Trump/JD Vance,259,3,119,137
+Victoria,13,President,,REP,Donald J. Trump/JD Vance,443,6,222,215
+Victoria,14,President,,REP,Donald J. Trump/JD Vance,699,23,491,185
+Victoria,15,President,,REP,Donald J. Trump/JD Vance,79,6,58,15
+Victoria,16,President,,REP,Donald J. Trump/JD Vance,249,9,180,60
+Victoria,17,President,,REP,Donald J. Trump/JD Vance,185,8,137,40
+Victoria,18,President,,REP,Donald J. Trump/JD Vance,2238,130,1614,494
+Victoria,19,President,,REP,Donald J. Trump/JD Vance,1128,44,786,298
+Victoria,20,President,,REP,Donald J. Trump/JD Vance,833,35,633,165
+Victoria,21,President,,REP,Donald J. Trump/JD Vance,2376,156,1726,494
+Victoria,22,President,,REP,Donald J. Trump/JD Vance,1141,56,727,358
+Victoria,23,President,,REP,Donald J. Trump/JD Vance,1049,39,714,296
+Victoria,24,President,,REP,Donald J. Trump/JD Vance,1079,71,791,217
+Victoria,25,President,,REP,Donald J. Trump/JD Vance,1784,132,1242,410
+Victoria,26,President,,REP,Donald J. Trump/JD Vance,486,15,330,141
+Victoria,27,President,,REP,Donald J. Trump/JD Vance,1314,40,735,539
+Victoria,28,President,,REP,Donald J. Trump/JD Vance,328,19,169,140
+Victoria,29,President,,REP,Donald J. Trump/JD Vance,1366,87,997,282
+Victoria,30,President,,REP,Donald J. Trump/JD Vance,214,21,130,63
+Victoria,31,President,,REP,Donald J. Trump/JD Vance,440,32,309,99
+Victoria,32,President,,REP,Donald J. Trump/JD Vance,306,12,187,107
+Victoria,33,President,,REP,Donald J. Trump/JD Vance,2414,200,1782,432
+Victoria,34,President,,REP,Donald J. Trump/JD Vance,206,5,124,77
+Victoria,35,President,,REP,Donald J. Trump/JD Vance,71,0,42,29
+Victoria,1,President,,GRN,Jill Stein/Rudolph Ware,1,0,0,1
+Victoria,2,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Victoria,3,President,,GRN,Jill Stein/Rudolph Ware,4,0,4,0
+Victoria,4,President,,GRN,Jill Stein/Rudolph Ware,1,0,0,1
+Victoria,5,President,,GRN,Jill Stein/Rudolph Ware,4,0,2,2
+Victoria,6,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Victoria,7,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Victoria,8,President,,GRN,Jill Stein/Rudolph Ware,5,0,1,4
+Victoria,9,President,,GRN,Jill Stein/Rudolph Ware,2,0,1,1
+Victoria,10,President,,GRN,Jill Stein/Rudolph Ware,1,0,0,1
+Victoria,11,President,,GRN,Jill Stein/Rudolph Ware,3,0,3,0
+Victoria,12,President,,GRN,Jill Stein/Rudolph Ware,2,0,0,2
+Victoria,13,President,,GRN,Jill Stein/Rudolph Ware,2,0,1,1
+Victoria,14,President,,GRN,Jill Stein/Rudolph Ware,4,0,2,2
+Victoria,15,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Victoria,16,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Victoria,17,President,,GRN,Jill Stein/Rudolph Ware,3,0,2,1
+Victoria,18,President,,GRN,Jill Stein/Rudolph Ware,5,0,2,3
+Victoria,19,President,,GRN,Jill Stein/Rudolph Ware,7,0,4,3
+Victoria,20,President,,GRN,Jill Stein/Rudolph Ware,2,0,1,1
+Victoria,21,President,,GRN,Jill Stein/Rudolph Ware,10,0,6,4
+Victoria,22,President,,GRN,Jill Stein/Rudolph Ware,1,1,0,0
+Victoria,23,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Victoria,24,President,,GRN,Jill Stein/Rudolph Ware,4,0,3,1
+Victoria,25,President,,GRN,Jill Stein/Rudolph Ware,6,0,3,3
+Victoria,26,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Victoria,27,President,,GRN,Jill Stein/Rudolph Ware,2,0,0,2
+Victoria,28,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Victoria,29,President,,GRN,Jill Stein/Rudolph Ware,9,1,2,6
+Victoria,30,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Victoria,31,President,,GRN,Jill Stein/Rudolph Ware,2,0,0,2
+Victoria,32,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Victoria,33,President,,GRN,Jill Stein/Rudolph Ware,10,0,9,1
+Victoria,34,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Victoria,35,President,,GRN,Jill Stein/Rudolph Ware,1,0,0,1
+Victoria,1,President,,DEM,Kamala D. Harris/Tim Walz,134,24,74,36
+Victoria,2,President,,DEM,Kamala D. Harris/Tim Walz,222,20,154,48
+Victoria,3,President,,DEM,Kamala D. Harris/Tim Walz,235,23,158,54
+Victoria,4,President,,DEM,Kamala D. Harris/Tim Walz,289,32,169,88
+Victoria,5,President,,DEM,Kamala D. Harris/Tim Walz,559,54,366,139
+Victoria,6,President,,DEM,Kamala D. Harris/Tim Walz,70,8,47,15
+Victoria,7,President,,DEM,Kamala D. Harris/Tim Walz,624,84,370,170
+Victoria,8,President,,DEM,Kamala D. Harris/Tim Walz,506,45,325,136
+Victoria,9,President,,DEM,Kamala D. Harris/Tim Walz,172,18,121,33
+Victoria,10,President,,DEM,Kamala D. Harris/Tim Walz,284,27,207,50
+Victoria,11,President,,DEM,Kamala D. Harris/Tim Walz,67,9,40,18
+Victoria,12,President,,DEM,Kamala D. Harris/Tim Walz,127,1,53,73
+Victoria,13,President,,DEM,Kamala D. Harris/Tim Walz,265,20,114,131
+Victoria,14,President,,DEM,Kamala D. Harris/Tim Walz,216,16,140,60
+Victoria,15,President,,DEM,Kamala D. Harris/Tim Walz,17,7,6,4
+Victoria,16,President,,DEM,Kamala D. Harris/Tim Walz,48,7,33,8
+Victoria,17,President,,DEM,Kamala D. Harris/Tim Walz,105,9,64,32
+Victoria,18,President,,DEM,Kamala D. Harris/Tim Walz,489,56,299,134
+Victoria,19,President,,DEM,Kamala D. Harris/Tim Walz,659,48,460,151
+Victoria,20,President,,DEM,Kamala D. Harris/Tim Walz,150,18,95,37
+Victoria,21,President,,DEM,Kamala D. Harris/Tim Walz,707,87,468,152
+Victoria,22,President,,DEM,Kamala D. Harris/Tim Walz,173,21,95,57
+Victoria,23,President,,DEM,Kamala D. Harris/Tim Walz,224,24,142,58
+Victoria,24,President,,DEM,Kamala D. Harris/Tim Walz,188,26,130,32
+Victoria,25,President,,DEM,Kamala D. Harris/Tim Walz,846,100,558,188
+Victoria,26,President,,DEM,Kamala D. Harris/Tim Walz,104,8,52,44
+Victoria,27,President,,DEM,Kamala D. Harris/Tim Walz,128,12,78,38
+Victoria,28,President,,DEM,Kamala D. Harris/Tim Walz,37,2,24,11
+Victoria,29,President,,DEM,Kamala D. Harris/Tim Walz,515,61,355,99
+Victoria,30,President,,DEM,Kamala D. Harris/Tim Walz,106,12,68,26
+Victoria,31,President,,DEM,Kamala D. Harris/Tim Walz,283,37,181,65
+Victoria,32,President,,DEM,Kamala D. Harris/Tim Walz,314,24,192,98
+Victoria,33,President,,DEM,Kamala D. Harris/Tim Walz,782,82,564,136
+Victoria,34,President,,DEM,Kamala D. Harris/Tim Walz,255,31,142,82
+Victoria,35,President,,DEM,Kamala D. Harris/Tim Walz,98,9,57,32
+Victoria,1,President,,,Write-in,1,0,1,0
+Victoria,2,President,,,Write-in,4,0,3,1
+Victoria,3,President,,,Write-in,0,0,0,0
+Victoria,4,President,,,Write-in,0,0,0,0
+Victoria,5,President,,,Write-in,1,0,1,0
+Victoria,6,President,,,Write-in,1,0,1,0
+Victoria,7,President,,,Write-in,0,0,0,0
+Victoria,8,President,,,Write-in,2,0,1,1
+Victoria,9,President,,,Write-in,1,1,0,0
+Victoria,10,President,,,Write-in,0,0,0,0
+Victoria,11,President,,,Write-in,0,0,0,0
+Victoria,12,President,,,Write-in,1,0,0,1
+Victoria,13,President,,,Write-in,0,0,0,0
+Victoria,14,President,,,Write-in,2,2,0,0
+Victoria,15,President,,,Write-in,0,0,0,0
+Victoria,16,President,,,Write-in,1,0,0,1
+Victoria,17,President,,,Write-in,1,0,0,1
+Victoria,18,President,,,Write-in,5,0,1,4
+Victoria,19,President,,,Write-in,3,0,3,0
+Victoria,20,President,,,Write-in,3,1,2,0
+Victoria,21,President,,,Write-in,3,0,2,1
+Victoria,22,President,,,Write-in,3,0,2,1
+Victoria,23,President,,,Write-in,3,0,1,2
+Victoria,24,President,,,Write-in,1,0,0,1
+Victoria,25,President,,,Write-in,6,0,4,2
+Victoria,26,President,,,Write-in,0,0,0,0
+Victoria,27,President,,,Write-in,2,0,2,0
+Victoria,28,President,,,Write-in,0,0,0,0
+Victoria,29,President,,,Write-in,7,0,4,3
+Victoria,30,President,,,Write-in,1,0,0,1
+Victoria,31,President,,,Write-in,1,1,0,0
+Victoria,32,President,,,Write-in,0,0,0,0
+Victoria,33,President,,,Write-in,13,0,6,7
+Victoria,34,President,,,Write-in,0,0,0,0
+Victoria,35,President,,,Write-in,0,0,0,0
+Victoria,1,Presiding Judge,,REP,David J. Schenck,101,7,68,26
+Victoria,2,Presiding Judge,,REP,David J. Schenck,312,10,241,61
+Victoria,3,Presiding Judge,,REP,David J. Schenck,464,13,370,81
+Victoria,4,Presiding Judge,,REP,David J. Schenck,302,11,206,85
+Victoria,5,Presiding Judge,,REP,David J. Schenck,630,33,428,169
+Victoria,6,Presiding Judge,,REP,David J. Schenck,49,0,32,17
+Victoria,7,Presiding Judge,,REP,David J. Schenck,528,25,329,174
+Victoria,8,Presiding Judge,,REP,David J. Schenck,672,23,446,203
+Victoria,9,Presiding Judge,,REP,David J. Schenck,291,8,211,72
+Victoria,10,Presiding Judge,,REP,David J. Schenck,532,47,364,121
+Victoria,11,Presiding Judge,,REP,David J. Schenck,234,4,155,75
+Victoria,12,Presiding Judge,,REP,David J. Schenck,237,3,114,120
+Victoria,13,Presiding Judge,,REP,David J. Schenck,379,6,212,161
+Victoria,14,Presiding Judge,,REP,David J. Schenck,657,24,463,170
+Victoria,15,Presiding Judge,,REP,David J. Schenck,76,7,54,15
+Victoria,16,Presiding Judge,,REP,David J. Schenck,248,9,183,56
+Victoria,17,Presiding Judge,,REP,David J. Schenck,175,8,130,37
+Victoria,18,Presiding Judge,,REP,David J. Schenck,2182,130,1569,483
+Victoria,19,Presiding Judge,,REP,David J. Schenck,1059,42,750,267
+Victoria,20,Presiding Judge,,REP,David J. Schenck,829,42,624,163
+Victoria,21,Presiding Judge,,REP,David J. Schenck,2312,156,1688,468
+Victoria,22,Presiding Judge,,REP,David J. Schenck,1133,61,722,350
+Victoria,23,Presiding Judge,,REP,David J. Schenck,1027,39,695,293
+Victoria,24,Presiding Judge,,REP,David J. Schenck,1056,71,772,213
+Victoria,25,Presiding Judge,,REP,David J. Schenck,1715,140,1196,379
+Victoria,26,Presiding Judge,,REP,David J. Schenck,469,17,317,135
+Victoria,27,Presiding Judge,,REP,David J. Schenck,1298,35,730,533
+Victoria,28,Presiding Judge,,REP,David J. Schenck,316,18,166,132
+Victoria,29,Presiding Judge,,REP,David J. Schenck,1352,87,982,283
+Victoria,30,Presiding Judge,,REP,David J. Schenck,206,20,122,64
+Victoria,31,Presiding Judge,,REP,David J. Schenck,434,33,304,97
+Victoria,32,Presiding Judge,,REP,David J. Schenck,284,12,179,93
+Victoria,33,Presiding Judge,,REP,David J. Schenck,2400,202,1772,426
+Victoria,34,Presiding Judge,,REP,David J. Schenck,175,3,109,63
+Victoria,35,Presiding Judge,,REP,David J. Schenck,72,0,44,28
+Victoria,1,Presiding Judge,,DEM,Holly Taylor,129,21,74,34
+Victoria,2,Presiding Judge,,DEM,Holly Taylor,212,17,150,45
+Victoria,3,Presiding Judge,,DEM,Holly Taylor,224,20,148,56
+Victoria,4,Presiding Judge,,DEM,Holly Taylor,283,30,164,89
+Victoria,5,Presiding Judge,,DEM,Holly Taylor,532,54,352,126
+Victoria,6,Presiding Judge,,DEM,Holly Taylor,64,8,41,15
+Victoria,7,Presiding Judge,,DEM,Holly Taylor,610,78,356,176
+Victoria,8,Presiding Judge,,DEM,Holly Taylor,496,45,315,136
+Victoria,9,Presiding Judge,,DEM,Holly Taylor,157,18,110,29
+Victoria,10,Presiding Judge,,DEM,Holly Taylor,264,24,192,48
+Victoria,11,Presiding Judge,,DEM,Holly Taylor,59,6,38,15
+Victoria,12,Presiding Judge,,DEM,Holly Taylor,117,1,48,68
+Victoria,13,Presiding Judge,,DEM,Holly Taylor,246,19,106,121
+Victoria,14,Presiding Judge,,DEM,Holly Taylor,220,16,146,58
+Victoria,15,Presiding Judge,,DEM,Holly Taylor,15,5,7,3
+Victoria,16,Presiding Judge,,DEM,Holly Taylor,46,7,31,8
+Victoria,17,Presiding Judge,,DEM,Holly Taylor,103,7,65,31
+Victoria,18,Presiding Judge,,DEM,Holly Taylor,461,54,279,128
+Victoria,19,Presiding Judge,,DEM,Holly Taylor,648,46,452,150
+Victoria,20,Presiding Judge,,DEM,Holly Taylor,134,11,87,36
+Victoria,21,Presiding Judge,,DEM,Holly Taylor,669,73,448,148
+Victoria,22,Presiding Judge,,DEM,Holly Taylor,159,16,83,60
+Victoria,23,Presiding Judge,,DEM,Holly Taylor,216,21,140,55
+Victoria,24,Presiding Judge,,DEM,Holly Taylor,167,24,115,28
+Victoria,25,Presiding Judge,,DEM,Holly Taylor,799,82,539,178
+Victoria,26,Presiding Judge,,DEM,Holly Taylor,100,5,53,42
+Victoria,27,Presiding Judge,,DEM,Holly Taylor,119,11,69,39
+Victoria,28,Presiding Judge,,DEM,Holly Taylor,31,2,20,9
+Victoria,29,Presiding Judge,,DEM,Holly Taylor,473,57,323,93
+Victoria,30,Presiding Judge,,DEM,Holly Taylor,96,9,63,24
+Victoria,31,Presiding Judge,,DEM,Holly Taylor,269,36,172,61
+Victoria,32,Presiding Judge,,DEM,Holly Taylor,301,23,182,96
+Victoria,33,Presiding Judge,,DEM,Holly Taylor,719,76,509,134
+Victoria,34,Presiding Judge,,DEM,Holly Taylor,251,33,140,78
+Victoria,35,Presiding Judge,,DEM,Holly Taylor,95,7,51,37
+Victoria,1,Railroad Commissioner,,REP,Christi Craddick,96,7,62,27
+Victoria,2,Railroad Commissioner,,REP,Christi Craddick,305,11,241,53
+Victoria,3,Railroad Commissioner,,REP,Christi Craddick,466,15,366,85
+Victoria,4,Railroad Commissioner,,REP,Christi Craddick,291,10,206,75
+Victoria,5,Railroad Commissioner,,REP,Christi Craddick,615,36,421,158
+Victoria,6,Railroad Commissioner,,REP,Christi Craddick,48,0,31,17
+Victoria,7,Railroad Commissioner,,REP,Christi Craddick,518,24,317,177
+Victoria,8,Railroad Commissioner,,REP,Christi Craddick,649,25,422,202
+Victoria,9,Railroad Commissioner,,REP,Christi Craddick,283,9,203,71
+Victoria,10,Railroad Commissioner,,REP,Christi Craddick,514,46,353,115
+Victoria,11,Railroad Commissioner,,REP,Christi Craddick,230,3,153,74
+Victoria,12,Railroad Commissioner,,REP,Christi Craddick,227,3,108,116
+Victoria,13,Railroad Commissioner,,REP,Christi Craddick,353,6,203,144
+Victoria,14,Railroad Commissioner,,REP,Christi Craddick,655,27,460,168
+Victoria,15,Railroad Commissioner,,REP,Christi Craddick,71,6,50,15
+Victoria,16,Railroad Commissioner,,REP,Christi Craddick,239,9,178,52
+Victoria,17,Railroad Commissioner,,REP,Christi Craddick,172,8,127,37
+Victoria,18,Railroad Commissioner,,REP,Christi Craddick,2125,134,1537,454
+Victoria,19,Railroad Commissioner,,REP,Christi Craddick,1050,41,744,265
+Victoria,20,Railroad Commissioner,,REP,Christi Craddick,807,37,614,156
+Victoria,21,Railroad Commissioner,,REP,Christi Craddick,2261,155,1652,454
+Victoria,22,Railroad Commissioner,,REP,Christi Craddick,1124,64,707,353
+Victoria,23,Railroad Commissioner,,REP,Christi Craddick,1026,39,693,294
+Victoria,24,Railroad Commissioner,,REP,Christi Craddick,1035,69,756,210
+Victoria,25,Railroad Commissioner,,REP,Christi Craddick,1677,139,1179,359
+Victoria,26,Railroad Commissioner,,REP,Christi Craddick,465,16,315,134
+Victoria,27,Railroad Commissioner,,REP,Christi Craddick,1286,38,718,530
+Victoria,28,Railroad Commissioner,,REP,Christi Craddick,311,18,162,131
+Victoria,29,Railroad Commissioner,,REP,Christi Craddick,1359,85,989,285
+Victoria,30,Railroad Commissioner,,REP,Christi Craddick,198,20,117,61
+Victoria,31,Railroad Commissioner,,REP,Christi Craddick,408,32,287,89
+Victoria,32,Railroad Commissioner,,REP,Christi Craddick,282,12,175,95
+Victoria,33,Railroad Commissioner,,REP,Christi Craddick,2370,199,1751,420
+Victoria,34,Railroad Commissioner,,REP,Christi Craddick,166,4,104,58
+Victoria,35,Railroad Commissioner,,REP,Christi Craddick,64,0,41,23
+Victoria,1,Railroad Commissioner,,GRN,Eddie Espinoza,12,0,8,4
+Victoria,2,Railroad Commissioner,,GRN,Eddie Espinoza,22,0,11,11
+Victoria,3,Railroad Commissioner,,GRN,Eddie Espinoza,14,0,8,6
+Victoria,4,Railroad Commissioner,,GRN,Eddie Espinoza,27,1,10,16
+Victoria,5,Railroad Commissioner,,GRN,Eddie Espinoza,45,0,27,18
+Victoria,6,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,3,3
+Victoria,7,Railroad Commissioner,,GRN,Eddie Espinoza,56,3,32,21
+Victoria,8,Railroad Commissioner,,GRN,Eddie Espinoza,34,1,14,19
+Victoria,9,Railroad Commissioner,,GRN,Eddie Espinoza,14,1,9,4
+Victoria,10,Railroad Commissioner,,GRN,Eddie Espinoza,21,1,12,8
+Victoria,11,Railroad Commissioner,,GRN,Eddie Espinoza,4,1,3,0
+Victoria,12,Railroad Commissioner,,GRN,Eddie Espinoza,16,0,6,10
+Victoria,13,Railroad Commissioner,,GRN,Eddie Espinoza,41,0,14,27
+Victoria,14,Railroad Commissioner,,GRN,Eddie Espinoza,22,2,15,5
+Victoria,15,Railroad Commissioner,,GRN,Eddie Espinoza,2,1,1,0
+Victoria,16,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1
+Victoria,17,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,5,2
+Victoria,18,Railroad Commissioner,,GRN,Eddie Espinoza,40,2,24,14
+Victoria,19,Railroad Commissioner,,GRN,Eddie Espinoza,30,3,18,9
+Victoria,20,Railroad Commissioner,,GRN,Eddie Espinoza,11,1,7,3
+Victoria,21,Railroad Commissioner,,GRN,Eddie Espinoza,34,2,19,13
+Victoria,22,Railroad Commissioner,,GRN,Eddie Espinoza,10,0,6,4
+Victoria,23,Railroad Commissioner,,GRN,Eddie Espinoza,15,2,10,3
+Victoria,24,Railroad Commissioner,,GRN,Eddie Espinoza,11,1,7,3
+Victoria,25,Railroad Commissioner,,GRN,Eddie Espinoza,45,0,23,22
+Victoria,26,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,4,7
+Victoria,27,Railroad Commissioner,,GRN,Eddie Espinoza,10,0,4,6
+Victoria,28,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0
+Victoria,29,Railroad Commissioner,,GRN,Eddie Espinoza,27,2,17,8
+Victoria,30,Railroad Commissioner,,GRN,Eddie Espinoza,8,1,4,3
+Victoria,31,Railroad Commissioner,,GRN,Eddie Espinoza,19,2,12,5
+Victoria,32,Railroad Commissioner,,GRN,Eddie Espinoza,25,0,16,9
+Victoria,33,Railroad Commissioner,,GRN,Eddie Espinoza,41,2,25,14
+Victoria,34,Railroad Commissioner,,GRN,Eddie Espinoza,27,2,13,12
+Victoria,35,Railroad Commissioner,,GRN,Eddie Espinoza,14,0,5,9
+Victoria,1,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,3,0
+Victoria,2,Railroad Commissioner,,LIB,Hawk Dunlap,10,0,5,5
+Victoria,3,Railroad Commissioner,,LIB,Hawk Dunlap,23,0,15,8
+Victoria,4,Railroad Commissioner,,LIB,Hawk Dunlap,13,0,8,5
+Victoria,5,Railroad Commissioner,,LIB,Hawk Dunlap,28,0,17,11
+Victoria,6,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,1,0
+Victoria,7,Railroad Commissioner,,LIB,Hawk Dunlap,23,1,18,4
+Victoria,8,Railroad Commissioner,,LIB,Hawk Dunlap,32,0,23,9
+Victoria,9,Railroad Commissioner,,LIB,Hawk Dunlap,11,0,9,2
+Victoria,10,Railroad Commissioner,,LIB,Hawk Dunlap,19,0,14,5
+Victoria,11,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,6,2
+Victoria,12,Railroad Commissioner,,LIB,Hawk Dunlap,9,0,2,7
+Victoria,13,Railroad Commissioner,,LIB,Hawk Dunlap,11,0,2,9
+Victoria,14,Railroad Commissioner,,LIB,Hawk Dunlap,14,0,11,3
+Victoria,15,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,5,0
+Victoria,16,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,2,5
+Victoria,17,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,3,3
+Victoria,18,Railroad Commissioner,,LIB,Hawk Dunlap,70,2,43,25
+Victoria,19,Railroad Commissioner,,LIB,Hawk Dunlap,40,2,26,12
+Victoria,20,Railroad Commissioner,,LIB,Hawk Dunlap,17,2,9,6
+Victoria,21,Railroad Commissioner,,LIB,Hawk Dunlap,72,5,47,20
+Victoria,22,Railroad Commissioner,,LIB,Hawk Dunlap,25,1,15,9
+Victoria,23,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,8,9
+Victoria,24,Railroad Commissioner,,LIB,Hawk Dunlap,24,2,19,3
+Victoria,25,Railroad Commissioner,,LIB,Hawk Dunlap,64,0,39,25
+Victoria,26,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,7,0
+Victoria,27,Railroad Commissioner,,LIB,Hawk Dunlap,29,0,17,12
+Victoria,28,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,3,5
+Victoria,29,Railroad Commissioner,,LIB,Hawk Dunlap,31,0,18,13
+Victoria,30,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,5,2
+Victoria,31,Railroad Commissioner,,LIB,Hawk Dunlap,17,1,11,5
+Victoria,32,Railroad Commissioner,,LIB,Hawk Dunlap,16,0,7,9
+Victoria,33,Railroad Commissioner,,LIB,Hawk Dunlap,55,2,35,18
+Victoria,34,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,1,4
+Victoria,35,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,4,1
+Victoria,1,Railroad Commissioner,,DEM,Katherine Culbert,121,22,65,34
+Victoria,2,Railroad Commissioner,,DEM,Katherine Culbert,191,16,139,36
+Victoria,3,Railroad Commissioner,,DEM,Katherine Culbert,205,19,140,46
+Victoria,4,Railroad Commissioner,,DEM,Katherine Culbert,263,31,152,80
+Victoria,5,Railroad Commissioner,,DEM,Katherine Culbert,478,53,317,108
+Victoria,6,Railroad Commissioner,,DEM,Katherine Culbert,62,8,40,14
+Victoria,7,Railroad Commissioner,,DEM,Katherine Culbert,562,76,331,155
+Victoria,8,Railroad Commissioner,,DEM,Katherine Culbert,467,44,307,116
+Victoria,9,Railroad Commissioner,,DEM,Katherine Culbert,146,17,102,27
+Victoria,10,Railroad Commissioner,,DEM,Katherine Culbert,252,24,186,42
+Victoria,11,Railroad Commissioner,,DEM,Katherine Culbert,55,6,34,15
+Victoria,12,Railroad Commissioner,,DEM,Katherine Culbert,108,1,46,61
+Victoria,13,Railroad Commissioner,,DEM,Katherine Culbert,223,20,97,106
+Victoria,14,Railroad Commissioner,,DEM,Katherine Culbert,195,11,127,57
+Victoria,15,Railroad Commissioner,,DEM,Katherine Culbert,14,5,6,3
+Victoria,16,Railroad Commissioner,,DEM,Katherine Culbert,45,7,32,6
+Victoria,17,Railroad Commissioner,,DEM,Katherine Culbert,96,8,59,29
+Victoria,18,Railroad Commissioner,,DEM,Katherine Culbert,425,49,257,119
+Victoria,19,Railroad Commissioner,,DEM,Katherine Culbert,600,42,420,138
+Victoria,20,Railroad Commissioner,,DEM,Katherine Culbert,131,14,85,32
+Victoria,21,Railroad Commissioner,,DEM,Katherine Culbert,616,71,414,131
+Victoria,22,Railroad Commissioner,,DEM,Katherine Culbert,141,16,82,43
+Victoria,23,Railroad Commissioner,,DEM,Katherine Culbert,189,21,121,47
+Victoria,24,Railroad Commissioner,,DEM,Katherine Culbert,159,24,111,24
+Victoria,25,Railroad Commissioner,,DEM,Katherine Culbert,735,85,493,157
+Victoria,26,Railroad Commissioner,,DEM,Katherine Culbert,85,6,43,36
+Victoria,27,Railroad Commissioner,,DEM,Katherine Culbert,107,11,68,28
+Victoria,28,Railroad Commissioner,,DEM,Katherine Culbert,30,3,19,8
+Victoria,29,Railroad Commissioner,,DEM,Katherine Culbert,425,54,299,72
+Victoria,30,Railroad Commissioner,,DEM,Katherine Culbert,98,11,65,22
+Victoria,31,Railroad Commissioner,,DEM,Katherine Culbert,256,35,161,60
+Victoria,32,Railroad Commissioner,,DEM,Katherine Culbert,272,23,166,83
+Victoria,33,Railroad Commissioner,,DEM,Katherine Culbert,668,76,485,107
+Victoria,34,Railroad Commissioner,,DEM,Katherine Culbert,235,30,135,70
+Victoria,35,Railroad Commissioner,,DEM,Katherine Culbert,85,7,46,32
+Victoria,1,Railroad Commissioner,,,Write-in,1,0,1,0
+Victoria,2,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,3,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,4,Railroad Commissioner,,,Write-in,1,0,1,0
+Victoria,5,Railroad Commissioner,,,Write-in,1,1,0,0
+Victoria,6,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,7,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,8,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,9,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,10,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,11,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,12,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,13,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,14,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,15,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,16,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,17,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,18,Railroad Commissioner,,,Write-in,1,0,1,0
+Victoria,19,Railroad Commissioner,,,Write-in,2,0,2,0
+Victoria,20,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,21,Railroad Commissioner,,,Write-in,1,0,1,0
+Victoria,22,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,23,Railroad Commissioner,,,Write-in,2,0,2,0
+Victoria,24,Railroad Commissioner,,,Write-in,1,0,0,1
+Victoria,25,Railroad Commissioner,,,Write-in,1,0,1,0
+Victoria,26,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,27,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,28,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,29,Railroad Commissioner,,,Write-in,1,0,0,1
+Victoria,30,Railroad Commissioner,,,Write-in,1,0,0,1
+Victoria,31,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,32,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,33,Railroad Commissioner,,,Write-in,1,0,1,0
+Victoria,34,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,35,Railroad Commissioner,,,Write-in,0,0,0,0
+Victoria,1,Registered Voters,,,,588,,,
+Victoria,2,Registered Voters,,,,896,,,
+Victoria,3,Registered Voters,,,,1207,,,
+Victoria,4,Registered Voters,,,,1579,,,
+Victoria,5,Registered Voters,,,,2708,,,
+Victoria,6,Registered Voters,,,,330,,,
+Victoria,7,Registered Voters,,,,2498,,,
+Victoria,8,Registered Voters,,,,2709,,,
+Victoria,9,Registered Voters,,,,882,,,
+Victoria,10,Registered Voters,,,,1273,,,
+Victoria,11,Registered Voters,,,,435,,,
+Victoria,12,Registered Voters,,,,700,,,
+Victoria,13,Registered Voters,,,,1785,,,
+Victoria,14,Registered Voters,,,,1467,,,
+Victoria,15,Registered Voters,,,,135,,,
+Victoria,16,Registered Voters,,,,463,,,
+Victoria,17,Registered Voters,,,,620,,,
+Victoria,18,Registered Voters,,,,4252,,,
+Victoria,19,Registered Voters,,,,3073,,,
+Victoria,20,Registered Voters,,,,1398,,,
+Victoria,21,Registered Voters,,,,4332,,,
+Victoria,22,Registered Voters,,,,1699,,,
+Victoria,23,Registered Voters,,,,1800,,,
+Victoria,24,Registered Voters,,,,1669,,,
+Victoria,25,Registered Voters,,,,4355,,,
+Victoria,26,Registered Voters,,,,829,,,
+Victoria,27,Registered Voters,,,,1887,,,
+Victoria,28,Registered Voters,,,,490,,,
+Victoria,29,Registered Voters,,,,2564,,,
+Victoria,30,Registered Voters,,,,557,,,
+Victoria,31,Registered Voters,,,,1317,,,
+Victoria,32,Registered Voters,,,,1438,,,
+Victoria,33,Registered Voters,,,,4513,,,
+Victoria,34,Registered Voters,,,,1227,,,
+Victoria,35,Registered Voters,,,,556,,,
+Victoria,1,Sheriff,,REP,Justin Marr,152,19,93,40
+Victoria,2,Sheriff,,REP,Justin Marr,405,18,306,81
+Victoria,3,Sheriff,,REP,Justin Marr,561,21,431,109
+Victoria,4,Sheriff,,REP,Justin Marr,425,19,267,139
+Victoria,5,Sheriff,,REP,Justin Marr,861,48,584,229
+Victoria,6,Sheriff,,REP,Justin Marr,69,2,41,26
+Victoria,7,Sheriff,,REP,Justin Marr,777,44,468,265
+Victoria,8,Sheriff,,REP,Justin Marr,912,39,585,288
+Victoria,9,Sheriff,,REP,Justin Marr,357,15,251,91
+Victoria,10,Sheriff,,REP,Justin Marr,649,52,447,150
+Victoria,11,Sheriff,,REP,Justin Marr,269,8,177,84
+Victoria,12,Sheriff,,REP,Justin Marr,301,4,139,158
+Victoria,13,Sheriff,,REP,Justin Marr,492,13,245,234
+Victoria,14,Sheriff,,REP,Justin Marr,776,29,545,202
+Victoria,15,Sheriff,,REP,Justin Marr,73,7,51,15
+Victoria,16,Sheriff,,REP,Justin Marr,264,10,191,63
+Victoria,17,Sheriff,,REP,Justin Marr,220,11,156,53
+Victoria,18,Sheriff,,REP,Justin Marr,2403,149,1708,546
+Victoria,19,Sheriff,,REP,Justin Marr,1377,54,963,360
+Victoria,20,Sheriff,,REP,Justin Marr,892,48,653,191
+Victoria,21,Sheriff,,REP,Justin Marr,2651,183,1909,559
+Victoria,22,Sheriff,,REP,Justin Marr,1206,69,754,383
+Victoria,23,Sheriff,,REP,Justin Marr,1154,51,769,334
+Victoria,24,Sheriff,,REP,Justin Marr,1119,75,818,226
+Victoria,25,Sheriff,,REP,Justin Marr,2095,160,1438,497
+Victoria,26,Sheriff,,REP,Justin Marr,512,18,338,156
+Victoria,27,Sheriff,,REP,Justin Marr,1351,44,757,550
+Victoria,28,Sheriff,,REP,Justin Marr,334,18,175,141
+Victoria,29,Sheriff,,REP,Justin Marr,1594,110,1145,339
+Victoria,30,Sheriff,,REP,Justin Marr,262,30,157,75
+Victoria,31,Sheriff,,REP,Justin Marr,549,45,367,137
+Victoria,32,Sheriff,,REP,Justin Marr,404,21,244,139
+Victoria,33,Sheriff,,REP,Justin Marr,2754,236,2020,498
+Victoria,34,Sheriff,,REP,Justin Marr,281,16,161,104
+Victoria,35,Sheriff,,REP,Justin Marr,111,2,64,45
+Victoria,1,State Representative,30,REP,AJ Louderback,97,11,59,27
+Victoria,2,State Representative,30,REP,AJ Louderback,310,10,240,60
+Victoria,3,State Representative,30,REP,AJ Louderback,471,15,369,87
+Victoria,4,State Representative,30,REP,AJ Louderback,312,12,205,95
+Victoria,5,State Representative,30,REP,AJ Louderback,627,32,428,167
+Victoria,6,State Representative,30,REP,AJ Louderback,51,0,31,20
+Victoria,7,State Representative,30,REP,AJ Louderback,533,24,330,179
+Victoria,8,State Representative,30,REP,AJ Louderback,664,23,437,204
+Victoria,9,State Representative,30,REP,AJ Louderback,287,9,203,75
+Victoria,10,State Representative,30,REP,AJ Louderback,528,45,361,122
+Victoria,11,State Representative,30,REP,AJ Louderback,233,4,155,74
+Victoria,12,State Representative,30,REP,AJ Louderback,231,3,111,117
+Victoria,13,State Representative,30,REP,AJ Louderback,361,7,190,164
+Victoria,14,State Representative,30,REP,AJ Louderback,670,25,468,177
+Victoria,15,State Representative,30,REP,AJ Louderback,75,6,54,15
+Victoria,16,State Representative,30,REP,AJ Louderback,237,8,173,56
+Victoria,17,State Representative,30,REP,AJ Louderback,179,8,136,35
+Victoria,18,State Representative,30,REP,AJ Louderback,2177,135,1569,473
+Victoria,19,State Representative,30,REP,AJ Louderback,1069,44,753,272
+Victoria,20,State Representative,30,REP,AJ Louderback,803,36,610,157
+Victoria,21,State Representative,30,REP,AJ Louderback,2325,168,1681,476
+Victoria,22,State Representative,30,REP,AJ Louderback,1131,64,714,353
+Victoria,23,State Representative,30,REP,AJ Louderback,1014,38,690,286
+Victoria,24,State Representative,30,REP,AJ Louderback,1060,70,779,211
+Victoria,25,State Representative,30,REP,AJ Louderback,1703,137,1182,384
+Victoria,26,State Representative,30,REP,AJ Louderback,471,17,318,136
+Victoria,27,State Representative,30,REP,AJ Louderback,1288,38,717,533
+Victoria,28,State Representative,30,REP,AJ Louderback,323,18,172,133
+Victoria,29,State Representative,30,REP,AJ Louderback,1346,82,981,283
+Victoria,30,State Representative,30,REP,AJ Louderback,204,20,122,62
+Victoria,31,State Representative,30,REP,AJ Louderback,418,33,291,94
+Victoria,32,State Representative,30,REP,AJ Louderback,279,11,172,96
+Victoria,33,State Representative,30,REP,AJ Louderback,2349,198,1731,420
+Victoria,34,State Representative,30,REP,AJ Louderback,185,5,113,67
+Victoria,35,State Representative,30,REP,AJ Louderback,67,0,40,27
+Victoria,1,State Representative,30,DEM,Stephanie R. Bassham,130,19,75,36
+Victoria,2,State Representative,30,DEM,Stephanie R. Bassham,218,19,153,46
+Victoria,3,State Representative,30,DEM,Stephanie R. Bassham,232,21,153,58
+Victoria,4,State Representative,30,DEM,Stephanie R. Bassham,285,30,170,85
+Victoria,5,State Representative,30,DEM,Stephanie R. Bassham,538,53,349,136
+Victoria,6,State Representative,30,DEM,Stephanie R. Bassham,64,8,41,15
+Victoria,7,State Representative,30,DEM,Stephanie R. Bassham,609,81,359,169
+Victoria,8,State Representative,30,DEM,Stephanie R. Bassham,508,46,322,140
+Victoria,9,State Representative,30,DEM,Stephanie R. Bassham,164,19,116,29
+Victoria,10,State Representative,30,DEM,Stephanie R. Bassham,274,27,198,49
+Victoria,11,State Representative,30,DEM,Stephanie R. Bassham,63,6,41,16
+Victoria,12,State Representative,30,DEM,Stephanie R. Bassham,123,1,50,72
+Victoria,13,State Representative,30,DEM,Stephanie R. Bassham,267,19,117,131
+Victoria,14,State Representative,30,DEM,Stephanie R. Bassham,220,16,145,59
+Victoria,15,State Representative,30,DEM,Stephanie R. Bassham,15,5,7,3
+Victoria,16,State Representative,30,DEM,Stephanie R. Bassham,53,7,37,9
+Victoria,17,State Representative,30,DEM,Stephanie R. Bassham,103,9,61,33
+Victoria,18,State Representative,30,DEM,Stephanie R. Bassham,489,52,297,140
+Victoria,19,State Representative,30,DEM,Stephanie R. Bassham,648,41,459,148
+Victoria,20,State Representative,30,DEM,Stephanie R. Bassham,163,15,104,44
+Victoria,21,State Representative,30,DEM,Stephanie R. Bassham,684,71,462,151
+Victoria,22,State Representative,30,DEM,Stephanie R. Bassham,171,17,94,60
+Victoria,23,State Representative,30,DEM,Stephanie R. Bassham,232,25,148,59
+Victoria,24,State Representative,30,DEM,Stephanie R. Bassham,179,26,120,33
+Victoria,25,State Representative,30,DEM,Stephanie R. Bassham,826,91,552,183
+Victoria,26,State Representative,30,DEM,Stephanie R. Bassham,98,5,54,39
+Victoria,27,State Representative,30,DEM,Stephanie R. Bassham,142,12,85,45
+Victoria,28,State Representative,30,DEM,Stephanie R. Bassham,32,3,19,10
+Victoria,29,State Representative,30,DEM,Stephanie R. Bassham,494,59,337,98
+Victoria,30,State Representative,30,DEM,Stephanie R. Bassham,108,13,67,28
+Victoria,31,State Representative,30,DEM,Stephanie R. Bassham,280,37,179,64
+Victoria,32,State Representative,30,DEM,Stephanie R. Bassham,301,25,180,96
+Victoria,33,State Representative,30,DEM,Stephanie R. Bassham,779,84,551,144
+Victoria,34,State Representative,30,DEM,Stephanie R. Bassham,244,31,135,78
+Victoria,35,State Representative,30,DEM,Stephanie R. Bassham,102,7,57,38
+Victoria,1,U.S. House,27,REP,Michael Cloud,109,9,68,32
+Victoria,2,U.S. House,27,REP,Michael Cloud,343,13,259,71
+Victoria,3,U.S. House,27,REP,Michael Cloud,491,16,380,95
+Victoria,4,U.S. House,27,REP,Michael Cloud,333,15,220,98
+Victoria,5,U.S. House,27,REP,Michael Cloud,672,37,453,182
+Victoria,6,U.S. House,27,REP,Michael Cloud,54,0,32,22
+Victoria,7,U.S. House,27,REP,Michael Cloud,570,29,343,198
+Victoria,8,U.S. House,27,REP,Michael Cloud,707,26,455,226
+Victoria,9,U.S. House,27,REP,Michael Cloud,301,10,214,77
+Victoria,10,U.S. House,27,REP,Michael Cloud,548,48,373,127
+Victoria,11,U.S. House,27,REP,Michael Cloud,242,3,162,77
+Victoria,12,U.S. House,27,REP,Michael Cloud,252,3,120,129
+Victoria,13,U.S. House,27,REP,Michael Cloud,402,7,215,180
+Victoria,14,U.S. House,27,REP,Michael Cloud,699,26,490,183
+Victoria,15,U.S. House,27,REP,Michael Cloud,78,7,55,16
+Victoria,16,U.S. House,27,REP,Michael Cloud,246,9,176,61
+Victoria,17,U.S. House,27,REP,Michael Cloud,184,8,135,41
+Victoria,18,U.S. House,27,REP,Michael Cloud,2267,140,1625,502
+Victoria,19,U.S. House,27,REP,Michael Cloud,1124,47,797,280
+Victoria,20,U.S. House,27,REP,Michael Cloud,843,40,637,166
+Victoria,21,U.S. House,27,REP,Michael Cloud,2392,165,1741,486
+Victoria,22,U.S. House,27,REP,Michael Cloud,1151,65,726,360
+Victoria,23,U.S. House,27,REP,Michael Cloud,1065,41,718,306
+Victoria,24,U.S. House,27,REP,Michael Cloud,1086,71,798,217
+Victoria,25,U.S. House,27,REP,Michael Cloud,1806,142,1257,407
+Victoria,26,U.S. House,27,REP,Michael Cloud,480,14,328,138
+Victoria,27,U.S. House,27,REP,Michael Cloud,1315,40,733,542
+Victoria,28,U.S. House,27,REP,Michael Cloud,325,18,171,136
+Victoria,29,U.S. House,27,REP,Michael Cloud,1405,91,1021,293
+Victoria,30,U.S. House,27,REP,Michael Cloud,223,23,134,66
+Victoria,31,U.S. House,27,REP,Michael Cloud,447,34,308,105
+Victoria,32,U.S. House,27,REP,Michael Cloud,302,13,191,98
+Victoria,33,U.S. House,27,REP,Michael Cloud,2483,209,1823,451
+Victoria,34,U.S. House,27,REP,Michael Cloud,199,5,114,80
+Victoria,35,U.S. House,27,REP,Michael Cloud,77,0,47,30
+Victoria,1,U.S. House,27,DEM,Tanya Lloyd,126,22,71,33
+Victoria,2,U.S. House,27,DEM,Tanya Lloyd,198,16,142,40
+Victoria,3,U.S. House,27,DEM,Tanya Lloyd,228,21,154,53
+Victoria,4,U.S. House,27,DEM,Tanya Lloyd,268,27,164,77
+Victoria,5,U.S. House,27,DEM,Tanya Lloyd,511,53,338,120
+Victoria,6,U.S. House,27,DEM,Tanya Lloyd,66,8,44,14
+Victoria,7,U.S. House,27,DEM,Tanya Lloyd,595,77,357,161
+Victoria,8,U.S. House,27,DEM,Tanya Lloyd,487,44,319,124
+Victoria,9,U.S. House,27,DEM,Tanya Lloyd,157,18,110,29
+Victoria,10,U.S. House,27,DEM,Tanya Lloyd,270,26,198,46
+Victoria,11,U.S. House,27,DEM,Tanya Lloyd,60,7,37,16
+Victoria,12,U.S. House,27,DEM,Tanya Lloyd,119,1,48,70
+Victoria,13,U.S. House,27,DEM,Tanya Lloyd,240,19,101,120
+Victoria,14,U.S. House,27,DEM,Tanya Lloyd,205,15,134,56
+Victoria,15,U.S. House,27,DEM,Tanya Lloyd,13,4,6,3
+Victoria,16,U.S. House,27,DEM,Tanya Lloyd,48,7,34,7
+Victoria,17,U.S. House,27,DEM,Tanya Lloyd,103,9,63,31
+Victoria,18,U.S. House,27,DEM,Tanya Lloyd,437,49,262,126
+Victoria,19,U.S. House,27,DEM,Tanya Lloyd,620,43,432,145
+Victoria,20,U.S. House,27,DEM,Tanya Lloyd,135,14,86,35
+Victoria,21,U.S. House,27,DEM,Tanya Lloyd,648,77,429,142
+Victoria,22,U.S. House,27,DEM,Tanya Lloyd,159,16,87,56
+Victoria,23,U.S. House,27,DEM,Tanya Lloyd,203,23,129,51
+Victoria,24,U.S. House,27,DEM,Tanya Lloyd,166,25,113,28
+Victoria,25,U.S. House,27,DEM,Tanya Lloyd,775,89,511,175
+Victoria,26,U.S. House,27,DEM,Tanya Lloyd,99,8,47,44
+Victoria,27,U.S. House,27,DEM,Tanya Lloyd,118,12,73,33
+Victoria,28,U.S. House,27,DEM,Tanya Lloyd,32,3,20,9
+Victoria,29,U.S. House,27,DEM,Tanya Lloyd,476,58,326,92
+Victoria,30,U.S. House,27,DEM,Tanya Lloyd,96,9,64,23
+Victoria,31,U.S. House,27,DEM,Tanya Lloyd,262,36,170,56
+Victoria,32,U.S. House,27,DEM,Tanya Lloyd,291,23,173,95
+Victoria,33,U.S. House,27,DEM,Tanya Lloyd,707,78,508,121
+Victoria,34,U.S. House,27,DEM,Tanya Lloyd,239,31,139,69
+Victoria,35,U.S. House,27,DEM,Tanya Lloyd,90,7,50,33
+Victoria,1,U.S. Senate,,DEM,Colin Allred,129,24,65,40
+Victoria,2,U.S. Senate,,DEM,Colin Allred,216,19,151,46
+Victoria,3,U.S. Senate,,DEM,Colin Allred,242,22,156,64
+Victoria,4,U.S. Senate,,DEM,Colin Allred,296,29,173,94
+Victoria,5,U.S. Senate,,DEM,Colin Allred,560,53,367,140
+Victoria,6,U.S. Senate,,DEM,Colin Allred,70,8,46,16
+Victoria,7,U.S. Senate,,DEM,Colin Allred,625,83,364,178
+Victoria,8,U.S. Senate,,DEM,Colin Allred,531,46,337,148
+Victoria,9,U.S. Senate,,DEM,Colin Allred,177,19,123,35
+Victoria,10,U.S. Senate,,DEM,Colin Allred,284,26,208,50
+Victoria,11,U.S. Senate,,DEM,Colin Allred,66,5,43,18
+Victoria,12,U.S. Senate,,DEM,Colin Allred,119,1,49,69
+Victoria,13,U.S. Senate,,DEM,Colin Allred,264,20,113,131
+Victoria,14,U.S. Senate,,DEM,Colin Allred,229,16,151,62
+Victoria,15,U.S. Senate,,DEM,Colin Allred,17,5,7,5
+Victoria,16,U.S. Senate,,DEM,Colin Allred,54,7,36,11
+Victoria,17,U.S. Senate,,DEM,Colin Allred,107,8,66,33
+Victoria,18,U.S. Senate,,DEM,Colin Allred,504,56,296,152
+Victoria,19,U.S. Senate,,DEM,Colin Allred,673,44,464,165
+Victoria,20,U.S. Senate,,DEM,Colin Allred,159,16,101,42
+Victoria,21,U.S. Senate,,DEM,Colin Allred,722,85,473,164
+Victoria,22,U.S. Senate,,DEM,Colin Allred,170,19,95,56
+Victoria,23,U.S. Senate,,DEM,Colin Allred,231,25,148,58
+Victoria,24,U.S. Senate,,DEM,Colin Allred,178,26,117,35
+Victoria,25,U.S. Senate,,DEM,Colin Allred,866,90,572,204
+Victoria,26,U.S. Senate,,DEM,Colin Allred,105,7,57,41
+Victoria,27,U.S. Senate,,DEM,Colin Allred,143,12,85,46
+Victoria,28,U.S. Senate,,DEM,Colin Allred,40,3,25,12
+Victoria,29,U.S. Senate,,DEM,Colin Allred,519,60,354,105
+Victoria,30,U.S. Senate,,DEM,Colin Allred,109,11,69,29
+Victoria,31,U.S. Senate,,DEM,Colin Allred,293,35,186,72
+Victoria,32,U.S. Senate,,DEM,Colin Allred,317,25,193,99
+Victoria,33,U.S. Senate,,DEM,Colin Allred,804,83,567,154
+Victoria,34,U.S. Senate,,DEM,Colin Allred,258,32,144,82
+Victoria,35,U.S. Senate,,DEM,Colin Allred,99,8,56,35
+Victoria,1,U.S. Senate,,LIB,Ted Brown,11,0,11,0
+Victoria,2,U.S. Senate,,LIB,Ted Brown,7,0,4,3
+Victoria,3,U.S. Senate,,LIB,Ted Brown,24,1,19,4
+Victoria,4,U.S. Senate,,LIB,Ted Brown,19,0,9,10
+Victoria,5,U.S. Senate,,LIB,Ted Brown,29,0,19,10
+Victoria,6,U.S. Senate,,LIB,Ted Brown,1,0,1,0
+Victoria,7,U.S. Senate,,LIB,Ted Brown,31,0,22,9
+Victoria,8,U.S. Senate,,LIB,Ted Brown,30,0,19,11
+Victoria,9,U.S. Senate,,LIB,Ted Brown,10,0,6,4
+Victoria,10,U.S. Senate,,LIB,Ted Brown,15,1,9,5
+Victoria,11,U.S. Senate,,LIB,Ted Brown,2,1,1,0
+Victoria,12,U.S. Senate,,LIB,Ted Brown,9,0,3,6
+Victoria,13,U.S. Senate,,LIB,Ted Brown,8,0,2,6
+Victoria,14,U.S. Senate,,LIB,Ted Brown,12,1,6,5
+Victoria,15,U.S. Senate,,LIB,Ted Brown,1,0,1,0
+Victoria,16,U.S. Senate,,LIB,Ted Brown,5,0,2,3
+Victoria,17,U.S. Senate,,LIB,Ted Brown,7,0,4,3
+Victoria,18,U.S. Senate,,LIB,Ted Brown,59,1,34,24
+Victoria,19,U.S. Senate,,LIB,Ted Brown,41,2,22,17
+Victoria,20,U.S. Senate,,LIB,Ted Brown,11,2,5,4
+Victoria,21,U.S. Senate,,LIB,Ted Brown,45,2,28,15
+Victoria,22,U.S. Senate,,LIB,Ted Brown,20,2,9,9
+Victoria,23,U.S. Senate,,LIB,Ted Brown,22,0,5,17
+Victoria,24,U.S. Senate,,LIB,Ted Brown,20,0,15,5
+Victoria,25,U.S. Senate,,LIB,Ted Brown,58,2,33,23
+Victoria,26,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+Victoria,27,U.S. Senate,,LIB,Ted Brown,11,0,4,7
+Victoria,28,U.S. Senate,,LIB,Ted Brown,5,0,3,2
+Victoria,29,U.S. Senate,,LIB,Ted Brown,34,0,24,10
+Victoria,30,U.S. Senate,,LIB,Ted Brown,5,0,2,3
+Victoria,31,U.S. Senate,,LIB,Ted Brown,12,0,4,8
+Victoria,32,U.S. Senate,,LIB,Ted Brown,11,0,6,5
+Victoria,33,U.S. Senate,,LIB,Ted Brown,58,3,34,21
+Victoria,34,U.S. Senate,,LIB,Ted Brown,8,0,6,2
+Victoria,35,U.S. Senate,,LIB,Ted Brown,8,0,1,7
+Victoria,1,U.S. Senate,,REP,Ted Cruz,98,7,64,27
+Victoria,2,U.S. Senate,,REP,Ted Cruz,320,10,248,62
+Victoria,3,U.S. Senate,,REP,Ted Cruz,454,14,360,80
+Victoria,4,U.S. Senate,,REP,Ted Cruz,298,14,202,82
+Victoria,5,U.S. Senate,,REP,Ted Cruz,604,34,410,160
+Victoria,6,U.S. Senate,,REP,Ted Cruz,54,0,33,21
+Victoria,7,U.S. Senate,,REP,Ted Cruz,528,26,327,175
+Victoria,8,U.S. Senate,,REP,Ted Cruz,655,25,429,201
+Victoria,9,U.S. Senate,,REP,Ted Cruz,277,9,197,71
+Victoria,10,U.S. Senate,,REP,Ted Cruz,526,47,361,118
+Victoria,11,U.S. Senate,,REP,Ted Cruz,234,4,156,74
+Victoria,12,U.S. Senate,,REP,Ted Cruz,249,3,118,128
+Victoria,13,U.S. Senate,,REP,Ted Cruz,400,6,212,182
+Victoria,14,U.S. Senate,,REP,Ted Cruz,673,25,472,176
+Victoria,15,U.S. Senate,,REP,Ted Cruz,78,8,56,14
+Victoria,16,U.S. Senate,,REP,Ted Cruz,239,9,177,53
+Victoria,17,U.S. Senate,,REP,Ted Cruz,179,9,132,38
+Victoria,18,U.S. Senate,,REP,Ted Cruz,2163,133,1573,457
+Victoria,19,U.S. Senate,,REP,Ted Cruz,1059,43,757,259
+Victoria,20,U.S. Senate,,REP,Ted Cruz,817,36,623,158
+Victoria,21,U.S. Senate,,REP,Ted Cruz,2303,155,1681,467
+Victoria,22,U.S. Senate,,REP,Ted Cruz,1129,60,718,351
+Victoria,23,U.S. Senate,,REP,Ted Cruz,1017,38,695,284
+Victoria,24,U.S. Senate,,REP,Ted Cruz,1054,71,779,204
+Victoria,25,U.S. Senate,,REP,Ted Cruz,1687,142,1185,360
+Victoria,26,U.S. Senate,,REP,Ted Cruz,473,15,321,137
+Victoria,27,U.S. Senate,,REP,Ted Cruz,1292,39,728,525
+Victoria,28,U.S. Senate,,REP,Ted Cruz,317,18,165,134
+Victoria,29,U.S. Senate,,REP,Ted Cruz,1337,90,973,274
+Victoria,30,U.S. Senate,,REP,Ted Cruz,206,22,127,57
+Victoria,31,U.S. Senate,,REP,Ted Cruz,409,34,292,83
+Victoria,32,U.S. Senate,,REP,Ted Cruz,282,12,175,95
+Victoria,33,U.S. Senate,,REP,Ted Cruz,2353,201,1750,402
+Victoria,34,U.S. Senate,,REP,Ted Cruz,176,4,103,69
+Victoria,35,U.S. Senate,,REP,Ted Cruz,62,0,41,21
+Victoria,1,U.S. Senate,,,Write-in,1,0,1,0
+Victoria,2,U.S. Senate,,,Write-in,1,0,1,0
+Victoria,3,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,4,U.S. Senate,,,Write-in,1,0,1,0
+Victoria,5,U.S. Senate,,,Write-in,1,1,0,0
+Victoria,6,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,7,U.S. Senate,,,Write-in,1,0,0,1
+Victoria,8,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,9,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,10,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,11,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,12,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,13,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,14,U.S. Senate,,,Write-in,1,0,0,1
+Victoria,15,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,16,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,17,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,18,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,19,U.S. Senate,,,Write-in,1,0,1,0
+Victoria,20,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,21,U.S. Senate,,,Write-in,2,0,2,0
+Victoria,22,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,23,U.S. Senate,,,Write-in,2,0,1,1
+Victoria,24,U.S. Senate,,,Write-in,1,0,1,0
+Victoria,25,U.S. Senate,,,Write-in,2,0,2,0
+Victoria,26,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,27,U.S. Senate,,,Write-in,2,1,1,0
+Victoria,28,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,29,U.S. Senate,,,Write-in,1,0,0,1
+Victoria,30,U.S. Senate,,,Write-in,1,0,0,1
+Victoria,31,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,32,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,33,U.S. Senate,,,Write-in,2,0,2,0
+Victoria,34,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,35,U.S. Senate,,,Write-in,0,0,0,0
+Victoria,27,VOTER-APPROVAL TAX RATE ELECTION Industrial ISD,,,AGAINST,831,29,493,309
+Victoria,27,VOTER-APPROVAL TAX RATE ELECTION Industrial ISD,,,FOR,515,18,267,230
+Victoria,1,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,116,17,66,33
+Victoria,2,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,255,11,191,53
+Victoria,3,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,350,24,270,56
+Victoria,4,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,271,28,168,75
+Victoria,5,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,560,59,366,135
+Victoria,6,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,47,4,26,17
+Victoria,7,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,533,46,327,160
+Victoria,8,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,561,39,364,158
+Victoria,9,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,192,15,133,44
+Victoria,10,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,390,36,284,70
+Victoria,11,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,194,3,126,65
+Victoria,12,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,0,0,0,0
+Victoria,14,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,494,22,346,126
+Victoria,15,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,49,6,31,12
+Victoria,16,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,191,10,138,43
+Victoria,17,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,135,7,97,31
+Victoria,18,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,1577,119,1136,322
+Victoria,19,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,832,47,593,192
+Victoria,20,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,559,23,425,111
+Victoria,21,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,1568,123,1148,297
+Victoria,22,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,698,47,439,212
+Victoria,23,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,254,10,190,54
+Victoria,24,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,668,48,507,113
+Victoria,25,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,1239,112,861,266
+Victoria,26,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,345,14,231,100
+Victoria,27,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,29,1,12,16
+Victoria,28,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,221,17,116,88
+Victoria,29,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,934,72,693,169
+Victoria,30,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,150,15,95,40
+Victoria,31,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,331,33,226,72
+Victoria,32,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,264,19,170,75
+Victoria,33,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,1528,134,1146,248
+Victoria,34,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,200,25,115,60
+Victoria,35,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,AGAINST,80,5,51,24
+Victoria,1,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,97,11,59,27
+Victoria,2,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,250,14,185,51
+Victoria,3,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,332,13,239,80
+Victoria,4,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,273,10,171,92
+Victoria,5,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,526,27,359,140
+Victoria,6,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,57,3,40,14
+Victoria,7,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,515,52,308,155
+Victoria,8,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,538,28,344,166
+Victoria,9,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,235,12,166,57
+Victoria,10,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,378,31,255,92
+Victoria,11,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,92,7,62,23
+Victoria,12,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,0,0,0,0
+Victoria,14,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,275,14,197,64
+Victoria,15,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,25,4,15,6
+Victoria,16,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,85,5,58,22
+Victoria,17,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,124,8,82,34
+Victoria,18,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,954,62,627,265
+Victoria,19,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,803,32,559,212
+Victoria,20,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,374,28,268,78
+Victoria,21,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,1320,100,914,306
+Victoria,22,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,422,26,257,139
+Victoria,23,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,190,14,132,44
+Victoria,24,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,433,33,297,103
+Victoria,25,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,1164,94,789,281
+Victoria,26,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,208,8,129,71
+Victoria,27,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,16,2,8,6
+Victoria,28,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,120,4,67,49
+Victoria,29,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,871,69,605,197
+Victoria,30,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,146,15,90,41
+Victoria,31,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,341,31,227,83
+Victoria,32,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,262,11,157,94
+Victoria,33,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,1520,133,1098,289
+Victoria,34,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,177,8,102,67
+Victoria,35,VOTER-APPROVAL TAX RATE ELECTION Victoria ISD,,,FOR,73,2,41,30
