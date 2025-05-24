@@ -1,0 +1,345 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Jones,Precinct 1,"Registered Voters",,,,2186,,,
+Jones,Precinct 1,"Ballots Cast",,,,1214,49,676,489
+Jones,Precinct 1,"Ballots Cast Blank",,,,0,0,0,0
+Jones,Precinct 1,"President",,REP,"Donald J. Trump/JD Vance",976,23,565,388
+Jones,Precinct 1,"President",,DEM,"Kamala D. Harris/Tim Walz",219,24,105,90
+Jones,Precinct 1,"President",,LIB,"Chase Oliver/Mike ter Maat",6,1,3,2
+Jones,Precinct 1,"President",,GRN,"Jill Stein/Rudolph Ware",4,0,0,4
+Jones,Precinct 1,"President",,,"Write-ins",1,0,0,1
+Jones,Precinct 1,"President",,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"President",,,"Under Votes",8,1,3,4
+Jones,Precinct 1,"U.S. Senate",,REP,"Ted Cruz",954,24,557,373
+Jones,Precinct 1,"U.S. Senate",,DEM,"Colin Allred",228,24,104,100
+Jones,Precinct 1,"U.S. Senate",,LIB,"Ted Brown",10,0,5,5
+Jones,Precinct 1,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jones,Precinct 1,"U.S. Senate",,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"U.S. Senate",,,"Under Votes",22,1,10,11
+Jones,Precinct 1,"U.S. House",19,REP,"Jodey C. Arrington",983,28,568,387
+Jones,Precinct 1,"U.S. House",19,DEM,"Bernard Johnson",73,6,33,34
+Jones,Precinct 1,"U.S. House",19,IND,"Nathan Lewis",76,7,42,27
+Jones,Precinct 1,"U.S. House",19,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"U.S. House",19,,"Under Votes",82,8,43,31
+Jones,Precinct 1,"Railroad Commissioner",,REP,"Christi Craddick",914,24,531,359
+Jones,Precinct 1,"Railroad Commissioner",,DEM,"Katherine Culbert",185,21,90,74
+Jones,Precinct 1,"Railroad Commissioner",,LIB,"Hawk Dunlap",26,2,10,14
+Jones,Precinct 1,"Railroad Commissioner",,GRN,"Eddie Espinoza",27,0,11,16
+Jones,Precinct 1,"Railroad Commissioner",,,"Write-ins",1,1,0,0
+Jones,Precinct 1,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"Railroad Commissioner",,,"Under Votes",61,1,34,26
+Jones,Precinct 1,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",949,27,551,371
+Jones,Precinct 1,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",203,20,90,93
+Jones,Precinct 1,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"Justice, Supreme Court",Pl 2,,"Under Votes",62,2,35,25
+Jones,Precinct 1,"Justice, Supreme Court",Pl 4,REP,"John Devine",946,26,550,370
+Jones,Precinct 1,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",207,21,100,86
+Jones,Precinct 1,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"Justice, Supreme Court",Pl 4,,"Under Votes",61,2,31,28
+Jones,Precinct 1,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",929,25,539,365
+Jones,Precinct 1,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",200,20,96,84
+Jones,Precinct 1,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",22,3,7,12
+Jones,Precinct 1,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"Justice, Supreme Court",Pl 6,,"Under Votes",63,1,34,28
+Jones,Precinct 1,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",949,25,552,372
+Jones,Precinct 1,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",201,22,91,88
+Jones,Precinct 1,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"Presiding Judge, Ct of Crim App",,,"Under Votes",64,2,34,28
+Jones,Precinct 1,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",943,23,545,375
+Jones,Precinct 1,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",203,22,95,86
+Jones,Precinct 1,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"Judge, Ct of Crim App",Pl 7,,"Under Votes",68,4,36,28
+Jones,Precinct 1,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",952,26,549,377
+Jones,Precinct 1,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",194,21,89,84
+Jones,Precinct 1,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"Judge, Ct of Crim App",Pl 8,,"Under Votes",68,2,38,28
+Jones,Precinct 1,"Member, State BoE",Dist 15,REP,"Aaron Kinsey",923,25,530,368
+Jones,Precinct 1,"Member, State BoE",Dist 15,DEM,"Morgan Kirkpatrick",198,21,94,83
+Jones,Precinct 1,"Member, State BoE",Dist 15,LIB,"Jack B. Westbrook",19,1,9,9
+Jones,Precinct 1,"Member, State BoE",Dist 15,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"Member, State BoE",Dist 15,,"Under Votes",74,2,43,29
+Jones,Precinct 1,"State Representative",71,REP,"Stan Lambert",963,27,552,384
+Jones,Precinct 1,"State Representative",71,DEM,"Linda Goolsbee",191,19,89,83
+Jones,Precinct 1,"State Representative",71,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"State Representative",71,,"Under Votes",60,3,35,22
+Jones,Precinct 1,"Chief Justice, 11th Ct of App Dist",,REP,"John Bailey",1004,27,566,411
+Jones,Precinct 1,"Chief Justice, 11th Ct of App Dist",,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"Chief Justice, 11th Ct of App Dist",,,"Under Votes",210,22,110,78
+Jones,Precinct 1,"Dist Attorney, 259th Judicial Dist",,REP,"Isaac M. Castro",978,30,546,402
+Jones,Precinct 1,"Dist Attorney, 259th Judicial Dist",,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"Dist Attorney, 259th Judicial Dist",,,"Under Votes",236,19,130,87
+Jones,Precinct 1,"County Attorney",,REP,"Chad Cowan",1000,31,567,402
+Jones,Precinct 1,"County Attorney",,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"County Attorney",,,"Under Votes",214,18,109,87
+Jones,Precinct 1,"Sheriff",,REP,"Danny Jimenez",1001,31,565,405
+Jones,Precinct 1,"Sheriff",,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"Sheriff",,,"Under Votes",213,18,111,84
+Jones,Precinct 1,"County Tax Assessor-Collector",,REP,"Gloria J. Little",999,31,564,404
+Jones,Precinct 1,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"County Tax Assessor-Collector",,,"Under Votes",215,18,112,85
+Jones,Precinct 1,"County Commissioner",Pct 1,REP,"Roy Spalding",1012,30,573,409
+Jones,Precinct 1,"County Commissioner",Pct 1,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"County Commissioner",Pct 1,,"Under Votes",202,19,103,80
+Jones,Precinct 1,"County Constable",,REP,"Nic Puente",973,29,544,400
+Jones,Precinct 1,"County Constable",,,"Over Votes",0,0,0,0
+Jones,Precinct 1,"County Constable",,,"Under Votes",241,20,132,89
+Jones,Precinct 2,"Registered Voters",,,,2603,,,
+Jones,Precinct 2,"Ballots Cast",,,,1631,67,843,721
+Jones,Precinct 2,"Ballots Cast Blank",,,,0,0,0,0
+Jones,Precinct 2,"President",,REP,"Donald J. Trump/JD Vance",1263,42,727,494
+Jones,Precinct 2,"President",,DEM,"Kamala D. Harris/Tim Walz",247,24,112,111
+Jones,Precinct 2,"President",,LIB,"Chase Oliver/Mike ter Maat",9,1,2,6
+Jones,Precinct 2,"President",,GRN,"Jill Stein/Rudolph Ware",3,0,0,3
+Jones,Precinct 2,"President",,,"Write-ins",7,0,2,5
+Jones,Precinct 2,"President",,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"President",,,"Under Votes",2,0,2,0
+Jones,Precinct 2,"U.S. Senate",,REP,"Ted Cruz",1271,39,697,535
+Jones,Precinct 2,"U.S. Senate",,DEM,"Colin Allred",294,25,123,146
+Jones,Precinct 2,"U.S. Senate",,LIB,"Ted Brown",42,0,14,28
+Jones,Precinct 2,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jones,Precinct 2,"U.S. Senate",,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"U.S. Senate",,,"Under Votes",24,3,9,12
+Jones,Precinct 2,"U.S. House",19,REP,"Jodey C. Arrington",1355,50,721,584
+Jones,Precinct 2,"U.S. House",19,DEM,"Bernard Johnson",93,5,45,43
+Jones,Precinct 2,"U.S. House",19,IND,"Nathan Lewis",104,7,47,50
+Jones,Precinct 2,"U.S. House",19,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"U.S. House",19,,"Under Votes",77,3,30,44
+Jones,Precinct 2,"Railroad Commissioner",,REP,"Christi Craddick",1276,36,691,549
+Jones,Precinct 2,"Railroad Commissioner",,DEM,"Katherine Culbert",210,24,92,94
+Jones,Precinct 2,"Railroad Commissioner",,LIB,"Hawk Dunlap",47,2,25,20
+Jones,Precinct 2,"Railroad Commissioner",,GRN,"Eddie Espinoza",22,0,7,15
+Jones,Precinct 2,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Jones,Precinct 2,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"Railroad Commissioner",,,"Under Votes",76,5,28,43
+Jones,Precinct 2,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1308,39,704,565
+Jones,Precinct 2,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",229,23,101,105
+Jones,Precinct 2,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"Justice, Supreme Court",Pl 2,,"Under Votes",94,5,38,51
+Jones,Precinct 2,"Justice, Supreme Court",Pl 4,REP,"John Devine",1286,38,701,547
+Jones,Precinct 2,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",247,24,105,118
+Jones,Precinct 2,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"Justice, Supreme Court",Pl 4,,"Under Votes",98,5,37,56
+Jones,Precinct 2,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1257,37,686,534
+Jones,Precinct 2,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",240,25,104,111
+Jones,Precinct 2,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",32,0,13,19
+Jones,Precinct 2,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"Justice, Supreme Court",Pl 6,,"Under Votes",102,5,40,57
+Jones,Precinct 2,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1278,38,697,543
+Jones,Precinct 2,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",253,24,111,118
+Jones,Precinct 2,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"Presiding Judge, Ct of Crim App",,,"Under Votes",100,5,35,60
+Jones,Precinct 2,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1283,36,701,546
+Jones,Precinct 2,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",238,24,105,109
+Jones,Precinct 2,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"Judge, Ct of Crim App",Pl 7,,"Under Votes",110,7,37,66
+Jones,Precinct 2,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1297,38,704,555
+Jones,Precinct 2,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",221,23,98,100
+Jones,Precinct 2,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"Judge, Ct of Crim App",Pl 8,,"Under Votes",113,6,41,66
+Jones,Precinct 2,"Member, State BoE",Dist 15,REP,"Aaron Kinsey",1248,39,686,523
+Jones,Precinct 2,"Member, State BoE",Dist 15,DEM,"Morgan Kirkpatrick",238,24,98,116
+Jones,Precinct 2,"Member, State BoE",Dist 15,LIB,"Jack B. Westbrook",38,0,15,23
+Jones,Precinct 2,"Member, State BoE",Dist 15,,"Over Votes",1,0,1,0
+Jones,Precinct 2,"Member, State BoE",Dist 15,,"Under Votes",106,4,43,59
+Jones,Precinct 2,"State Representative",71,REP,"Stan Lambert",1349,45,722,582
+Jones,Precinct 2,"State Representative",71,DEM,"Linda Goolsbee",206,21,90,95
+Jones,Precinct 2,"State Representative",71,,"Over Votes",2,0,2,0
+Jones,Precinct 2,"State Representative",71,,"Under Votes",74,1,29,44
+Jones,Precinct 2,"Chief Justice, 11th Ct of App Dist",,REP,"John Bailey",1368,43,730,595
+Jones,Precinct 2,"Chief Justice, 11th Ct of App Dist",,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"Chief Justice, 11th Ct of App Dist",,,"Under Votes",263,24,113,126
+Jones,Precinct 2,"Dist Attorney, 259th Judicial Dist",,REP,"Isaac M. Castro",1327,48,692,587
+Jones,Precinct 2,"Dist Attorney, 259th Judicial Dist",,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"Dist Attorney, 259th Judicial Dist",,,"Under Votes",304,19,151,134
+Jones,Precinct 2,"County Attorney",,REP,"Chad Cowan",1396,50,733,613
+Jones,Precinct 2,"County Attorney",,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"County Attorney",,,"Under Votes",235,17,110,108
+Jones,Precinct 2,"Sheriff",,REP,"Danny Jimenez",1434,53,751,630
+Jones,Precinct 2,"Sheriff",,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"Sheriff",,,"Under Votes",197,14,92,91
+Jones,Precinct 2,"County Tax Assessor-Collector",,REP,"Gloria J. Little",1434,50,754,630
+Jones,Precinct 2,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"County Tax Assessor-Collector",,,"Under Votes",197,17,89,91
+Jones,Precinct 2,"County Constable",,REP,"Nic Puente",1354,49,718,587
+Jones,Precinct 2,"County Constable",,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"County Constable",,,"Under Votes",277,18,125,134
+Jones,Precinct 2,"Trustee, At -Large Paint Creek ISD",,,"Alexis Nicole Eader",3,0,1,2
+Jones,Precinct 2,"Trustee, At -Large Paint Creek ISD",,,"Heather Guess Waters",5,0,0,5
+Jones,Precinct 2,"Trustee, At -Large Paint Creek ISD",,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"Trustee, At -Large Paint Creek ISD",,,"Under Votes",1,0,1,0
+Jones,Precinct 2,"PROPOSITION A Paint Creek ISD",,,For,2,0,0,2
+Jones,Precinct 2,"PROPOSITION A Paint Creek ISD",,,Against,6,0,1,5
+Jones,Precinct 2,"PROPOSITION A Paint Creek ISD",,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"PROPOSITION A Paint Creek ISD",,,"Under Votes",1,0,1,0
+Jones,Precinct 2,"PROPOSITION B Paint Creek ISD",,,For,3,0,0,3
+Jones,Precinct 2,"PROPOSITION B Paint Creek ISD",,,Against,5,0,1,4
+Jones,Precinct 2,"PROPOSITION B Paint Creek ISD",,,"Over Votes",0,0,0,0
+Jones,Precinct 2,"PROPOSITION B Paint Creek ISD",,,"Under Votes",1,0,1,0
+Jones,Precinct 3,"Registered Voters",,,,3057,,,
+Jones,Precinct 3,"Ballots Cast",,,,2105,48,1237,820
+Jones,Precinct 3,"Ballots Cast Blank",,,,0,0,0,0
+Jones,Precinct 3,"President",,REP,"Donald J. Trump/JD Vance",1858,32,1104,722
+Jones,Precinct 3,"President",,DEM,"Kamala D. Harris/Tim Walz",212,12,120,80
+Jones,Precinct 3,"President",,LIB,"Chase Oliver/Mike ter Maat",11,0,8,3
+Jones,Precinct 3,"President",,GRN,"Jill Stein/Rudolph Ware",9,4,3,2
+Jones,Precinct 3,"President",,,"Write-ins",2,0,0,2
+Jones,Precinct 3,"President",,,"Over Votes",0,0,0,0
+Jones,Precinct 3,"President",,,"Under Votes",3,0,2,1
+Jones,Precinct 3,"U.S. Senate",,REP,"Ted Cruz",1812,32,1089,691
+Jones,Precinct 3,"U.S. Senate",,DEM,"Colin Allred",246,14,131,101
+Jones,Precinct 3,"U.S. Senate",,LIB,"Ted Brown",37,2,16,19
+Jones,Precinct 3,"U.S. Senate",,,"Write-ins",1,0,0,1
+Jones,Precinct 3,"U.S. Senate",,,"Over Votes",0,0,0,0
+Jones,Precinct 3,"U.S. Senate",,,"Under Votes",9,0,1,8
+Jones,Precinct 3,"U.S. House",19,REP,"Jodey C. Arrington",1856,34,1107,715
+Jones,Precinct 3,"U.S. House",19,DEM,"Bernard Johnson",97,6,54,37
+Jones,Precinct 3,"U.S. House",19,IND,"Nathan Lewis",95,4,52,39
+Jones,Precinct 3,"U.S. House",19,,"Over Votes",0,0,0,0
+Jones,Precinct 3,"U.S. House",19,,"Under Votes",57,4,24,29
+Jones,Precinct 3,"Railroad Commissioner",,REP,"Christi Craddick",1759,32,1053,674
+Jones,Precinct 3,"Railroad Commissioner",,DEM,"Katherine Culbert",164,9,92,63
+Jones,Precinct 3,"Railroad Commissioner",,LIB,"Hawk Dunlap",75,2,39,34
+Jones,Precinct 3,"Railroad Commissioner",,GRN,"Eddie Espinoza",37,0,20,17
+Jones,Precinct 3,"Railroad Commissioner",,,"Write-ins",2,1,1,0
+Jones,Precinct 3,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Jones,Precinct 3,"Railroad Commissioner",,,"Under Votes",68,4,32,32
+Jones,Precinct 3,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1846,36,1098,712
+Jones,Precinct 3,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",191,9,110,72
+Jones,Precinct 3,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Jones,Precinct 3,"Justice, Supreme Court",Pl 2,,"Under Votes",68,3,29,36
+Jones,Precinct 3,"Justice, Supreme Court",Pl 4,REP,"John Devine",1823,35,1086,702
+Jones,Precinct 3,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",208,10,119,79
+Jones,Precinct 3,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Jones,Precinct 3,"Justice, Supreme Court",Pl 4,,"Under Votes",74,3,32,39
+Jones,Precinct 3,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1781,33,1070,678
+Jones,Precinct 3,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",180,10,102,68
+Jones,Precinct 3,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",61,2,31,28
+Jones,Precinct 3,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Jones,Precinct 3,"Justice, Supreme Court",Pl 6,,"Under Votes",83,3,34,46
+Jones,Precinct 3,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1818,34,1081,703
+Jones,Precinct 3,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",206,11,115,80
+Jones,Precinct 3,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Jones,Precinct 3,"Presiding Judge, Ct of Crim App",,,"Under Votes",81,3,36,42
+Jones,Precinct 3,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1834,34,1092,708
+Jones,Precinct 3,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",183,10,106,67
+Jones,Precinct 3,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Jones,Precinct 3,"Judge, Ct of Crim App",Pl 7,,"Under Votes",88,4,39,45
+Jones,Precinct 3,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1845,35,1098,712
+Jones,Precinct 3,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",174,10,98,66
+Jones,Precinct 3,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Jones,Precinct 3,"Judge, Ct of Crim App",Pl 8,,"Under Votes",86,3,41,42
+Jones,Precinct 3,"Member, State BoE",Dist 15,REP,"Aaron Kinsey",1770,31,1065,674
+Jones,Precinct 3,"Member, State BoE",Dist 15,DEM,"Morgan Kirkpatrick",193,10,104,79
+Jones,Precinct 3,"Member, State BoE",Dist 15,LIB,"Jack B. Westbrook",54,4,28,22
+Jones,Precinct 3,"Member, State BoE",Dist 15,,"Over Votes",1,0,1,0
+Jones,Precinct 3,"Member, State BoE",Dist 15,,"Under Votes",87,4,39,44
+Jones,Precinct 3,"State Representative",71,REP,"Stan Lambert",1833,35,1093,705
+Jones,Precinct 3,"State Representative",71,DEM,"Linda Goolsbee",197,11,105,81
+Jones,Precinct 3,"State Representative",71,,"Over Votes",0,0,0,0
+Jones,Precinct 3,"State Representative",71,,"Under Votes",75,2,39,34
+Jones,Precinct 3,"Chief Justice, 11th Ct of App Dist",,REP,"John Bailey",1890,36,1120,734
+Jones,Precinct 3,"Chief Justice, 11th Ct of App Dist",,,"Over Votes",0,0,0,0
+Jones,Precinct 3,"Chief Justice, 11th Ct of App Dist",,,"Under Votes",215,12,117,86
+Jones,Precinct 3,"Dist Attorney, 259th Judicial Dist",,REP,"Isaac M. Castro",1792,37,1047,708
+Jones,Precinct 3,"Dist Attorney, 259th Judicial Dist",,,"Over Votes",0,0,0,0
+Jones,Precinct 3,"Dist Attorney, 259th Judicial Dist",,,"Under Votes",313,11,190,112
+Jones,Precinct 3,"County Attorney",,REP,"Chad Cowan",1851,36,1097,718
+Jones,Precinct 3,"County Attorney",,,"Over Votes",0,0,0,0
+Jones,Precinct 3,"County Attorney",,,"Under Votes",254,12,140,102
+Jones,Precinct 3,"Sheriff",,REP,"Danny Jimenez",1839,35,1083,721
+Jones,Precinct 3,"Sheriff",,,"Over Votes",0,0,0,0
+Jones,Precinct 3,"Sheriff",,,"Under Votes",266,13,154,99
+Jones,Precinct 3,"County Tax Assessor-Collector",,REP,"Gloria J. Little",1843,37,1090,716
+Jones,Precinct 3,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Jones,Precinct 3,"County Tax Assessor-Collector",,,"Under Votes",262,11,147,104
+Jones,Precinct 3,"County Commissioner",Pct 3,REP,"Danny Collett",1855,39,1092,724
+Jones,Precinct 3,"County Commissioner",Pct 3,,"Over Votes",0,0,0,0
+Jones,Precinct 3,"County Commissioner",Pct 3,,"Under Votes",250,9,145,96
+Jones,Precinct 3,"County Constable",,REP,"Nic Puente",1805,34,1068,703
+Jones,Precinct 3,"County Constable",,,"Over Votes",0,0,0,0
+Jones,Precinct 3,"County Constable",,,"Under Votes",300,14,169,117
+Jones,Precinct 4,"Registered Voters",,,,3017,,,
+Jones,Precinct 4,"Ballots Cast",,,,2029,78,1276,675
+Jones,Precinct 4,"Ballots Cast Blank",,,,0,0,0,0
+Jones,Precinct 4,"President",,REP,"Donald J. Trump/JD Vance",1781,57,1139,585
+Jones,Precinct 4,"President",,DEM,"Kamala D. Harris/Tim Walz",229,21,136,72
+Jones,Precinct 4,"President",,LIB,"Chase Oliver/Mike ter Maat",7,0,4,3
+Jones,Precinct 4,"President",,GRN,"Jill Stein/Rudolph Ware",2,0,1,1
+Jones,Precinct 4,"President",,,"Write-ins",3,0,1,2
+Jones,Precinct 4,"President",,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"President",,,"Under Votes",7,0,5,2
+Jones,Precinct 4,"U.S. Senate",,REP,"Ted Cruz",1692,57,1093,542
+Jones,Precinct 4,"U.S. Senate",,DEM,"Colin Allred",271,21,143,107
+Jones,Precinct 4,"U.S. Senate",,LIB,"Ted Brown",44,0,23,21
+Jones,Precinct 4,"U.S. Senate",,,"Write-ins",2,0,1,1
+Jones,Precinct 4,"U.S. Senate",,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"U.S. Senate",,,"Under Votes",20,0,16,4
+Jones,Precinct 4,"U.S. House",19,REP,"Jodey C. Arrington",1766,58,1137,571
+Jones,Precinct 4,"U.S. House",19,DEM,"Bernard Johnson",96,8,46,42
+Jones,Precinct 4,"U.S. House",19,IND,"Nathan Lewis",113,6,60,47
+Jones,Precinct 4,"U.S. House",19,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"U.S. House",19,,"Under Votes",54,6,33,15
+Jones,Precinct 4,"Railroad Commissioner",,REP,"Christi Craddick",1683,56,1087,540
+Jones,Precinct 4,"Railroad Commissioner",,DEM,"Katherine Culbert",202,20,101,81
+Jones,Precinct 4,"Railroad Commissioner",,LIB,"Hawk Dunlap",55,2,35,18
+Jones,Precinct 4,"Railroad Commissioner",,GRN,"Eddie Espinoza",32,0,18,14
+Jones,Precinct 4,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Jones,Precinct 4,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"Railroad Commissioner",,,"Under Votes",57,0,35,22
+Jones,Precinct 4,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1742,56,1125,561
+Jones,Precinct 4,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",220,21,107,92
+Jones,Precinct 4,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"Justice, Supreme Court",Pl 2,,"Under Votes",67,1,44,22
+Jones,Precinct 4,"Justice, Supreme Court",Pl 4,REP,"John Devine",1728,55,1115,558
+Jones,Precinct 4,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",232,21,120,91
+Jones,Precinct 4,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"Justice, Supreme Court",Pl 4,,"Under Votes",69,2,41,26
+Jones,Precinct 4,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1701,54,1103,544
+Jones,Precinct 4,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",211,19,113,79
+Jones,Precinct 4,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",51,3,21,27
+Jones,Precinct 4,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"Justice, Supreme Court",Pl 6,,"Under Votes",66,2,39,25
+Jones,Precinct 4,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1725,55,1115,555
+Jones,Precinct 4,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",232,21,118,93
+Jones,Precinct 4,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"Presiding Judge, Ct of Crim App",,,"Under Votes",72,2,43,27
+Jones,Precinct 4,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1724,55,1114,555
+Jones,Precinct 4,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",227,19,115,93
+Jones,Precinct 4,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"Judge, Ct of Crim App",Pl 7,,"Under Votes",78,4,47,27
+Jones,Precinct 4,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1747,56,1128,563
+Jones,Precinct 4,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",201,20,101,80
+Jones,Precinct 4,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"Judge, Ct of Crim App",Pl 8,,"Under Votes",81,2,47,32
+Jones,Precinct 4,"Member, State BoE",Dist 15,REP,"Aaron Kinsey",1667,52,1091,524
+Jones,Precinct 4,"Member, State BoE",Dist 15,DEM,"Morgan Kirkpatrick",229,21,117,91
+Jones,Precinct 4,"Member, State BoE",Dist 15,LIB,"Jack B. Westbrook",59,1,30,28
+Jones,Precinct 4,"Member, State BoE",Dist 15,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"Member, State BoE",Dist 15,,"Under Votes",74,4,38,32
+Jones,Precinct 4,"State Representative",71,REP,"Stan Lambert",1747,58,1132,557
+Jones,Precinct 4,"State Representative",71,DEM,"Linda Goolsbee",221,19,108,94
+Jones,Precinct 4,"State Representative",71,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"State Representative",71,,"Under Votes",61,1,36,24
+Jones,Precinct 4,"Chief Justice, 11th Ct of App Dist",,REP,"John Bailey",1795,59,1141,595
+Jones,Precinct 4,"Chief Justice, 11th Ct of App Dist",,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"Chief Justice, 11th Ct of App Dist",,,"Under Votes",234,19,135,80
+Jones,Precinct 4,"Dist Attorney, 259th Judicial Dist",,REP,"Isaac M. Castro",1738,57,1090,591
+Jones,Precinct 4,"Dist Attorney, 259th Judicial Dist",,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"Dist Attorney, 259th Judicial Dist",,,"Under Votes",291,21,186,84
+Jones,Precinct 4,"County Attorney",,REP,"Chad Cowan",1795,59,1143,593
+Jones,Precinct 4,"County Attorney",,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"County Attorney",,,"Under Votes",234,19,133,82
+Jones,Precinct 4,"Sheriff",,REP,"Danny Jimenez",1803,61,1147,595
+Jones,Precinct 4,"Sheriff",,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"Sheriff",,,"Under Votes",226,17,129,80
+Jones,Precinct 4,"County Tax Assessor-Collector",,REP,"Gloria J. Little",1809,63,1147,599
+Jones,Precinct 4,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"County Tax Assessor-Collector",,,"Under Votes",220,15,129,76
+Jones,Precinct 4,"County Constable",,REP,"Nic Puente",1742,58,1109,575
+Jones,Precinct 4,"County Constable",,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"County Constable",,,"Under Votes",287,20,167,100
+Jones,Precinct 4,"Trustee Roby CISD",,,"Danny Garison",4,0,3,1
+Jones,Precinct 4,"Trustee Roby CISD",,,"Brent Whitefield",5,0,3,2
+Jones,Precinct 4,"Trustee Roby CISD",,,"Chris Estes",4,2,2,0
+Jones,Precinct 4,"Trustee Roby CISD",,,"Carter Edmondson",3,0,3,0
+Jones,Precinct 4,"Trustee Roby CISD",,,"Over Votes",0,0,0,0
+Jones,Precinct 4,"Trustee Roby CISD",,,"Under Votes",17,4,7,6

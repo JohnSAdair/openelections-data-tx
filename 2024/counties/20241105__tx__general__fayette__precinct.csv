@@ -1,0 +1,1051 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Fayette,101N La Grange,"Registered Voters",,,,2043,,,
+Fayette,101N La Grange,"Ballots Cast",,,,1389,61,1051,277
+Fayette,101N La Grange,"Ballots Cast Blank",,,,0,0,0,0
+Fayette,101N La Grange,"President",,REP,"Donald J. Trump/JD Vance",1026,36,810,180
+Fayette,101N La Grange,"President",,DEM,"Kamala D. Harris/Tim Walz",336,25,224,87
+Fayette,101N La Grange,"President",,LIB,"Chase Oliver/Mike ter Maat",8,0,4,4
+Fayette,101N La Grange,"President",,GRN,"Jill Stein/Rudolph Ware",6,0,3,3
+Fayette,101N La Grange,"President",,,"Write-ins",4,0,4,0
+Fayette,101N La Grange,"President",,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"President",,,"Under Votes",8,0,4,4
+Fayette,101N La Grange,"U.S. Senate",,REP,"Ted Cruz",991,34,793,164
+Fayette,101N La Grange,"U.S. Senate",,DEM,"Colin Allred",350,25,234,91
+Fayette,101N La Grange,"U.S. Senate",,LIB,"Ted Brown",35,1,16,18
+Fayette,101N La Grange,"U.S. Senate",,,"Write-ins",0,0,0,0
+Fayette,101N La Grange,"U.S. Senate",,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"U.S. Senate",,,"Under Votes",13,0,8,5
+Fayette,101N La Grange,"U.S. House",10,REP,"Michael T. McCaul",1044,39,826,179
+Fayette,101N La Grange,"U.S. House",10,DEM,"Theresa Boisseau",295,20,197,78
+Fayette,101N La Grange,"U.S. House",10,LIB,"Jeff Miller",24,1,9,14
+Fayette,101N La Grange,"U.S. House",10,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"U.S. House",10,,"Under Votes",26,1,19,6
+Fayette,101N La Grange,"Railroad Commissioner",,REP,"Christi Craddick",1010,36,795,179
+Fayette,101N La Grange,"Railroad Commissioner",,DEM,"Katherine Culbert",297,23,202,72
+Fayette,101N La Grange,"Railroad Commissioner",,LIB,"Hawk Dunlap",30,0,19,11
+Fayette,101N La Grange,"Railroad Commissioner",,GRN,"Eddie Espinoza",13,1,7,5
+Fayette,101N La Grange,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Fayette,101N La Grange,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"Railroad Commissioner",,,"Under Votes",39,1,28,10
+Fayette,101N La Grange,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1028,37,812,179
+Fayette,101N La Grange,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",318,23,208,87
+Fayette,101N La Grange,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"Justice, Supreme Court",Pl 2,,"Under Votes",43,1,31,11
+Fayette,101N La Grange,"Justice, Supreme Court",Pl 4,REP,"John Devine",1010,35,799,176
+Fayette,101N La Grange,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",328,22,217,89
+Fayette,101N La Grange,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"Justice, Supreme Court",Pl 4,,"Under Votes",51,4,35,12
+Fayette,101N La Grange,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",997,37,788,172
+Fayette,101N La Grange,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",305,23,204,78
+Fayette,101N La Grange,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",39,0,21,18
+Fayette,101N La Grange,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"Justice, Supreme Court",Pl 6,,"Under Votes",48,1,38,9
+Fayette,101N La Grange,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1014,37,803,174
+Fayette,101N La Grange,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",317,23,208,86
+Fayette,101N La Grange,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"Presiding Judge, Ct of Crim App",,,"Under Votes",58,1,40,17
+Fayette,101N La Grange,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1019,36,803,180
+Fayette,101N La Grange,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",306,22,205,79
+Fayette,101N La Grange,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"Judge, Ct of Crim App",Pl 7,,"Under Votes",64,3,43,18
+Fayette,101N La Grange,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1026,37,800,189
+Fayette,101N La Grange,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",304,23,204,77
+Fayette,101N La Grange,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"Judge, Ct of Crim App",Pl 8,,"Under Votes",59,1,47,11
+Fayette,101N La Grange,"Member, State BoE",10,REP,"Tom Maynard",1004,38,798,168
+Fayette,101N La Grange,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",329,22,211,96
+Fayette,101N La Grange,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"Member, State BoE",10,,"Under Votes",56,1,42,13
+Fayette,101N La Grange,"State Representative",85,REP,"Stan Kitzman",1122,42,859,221
+Fayette,101N La Grange,"State Representative",85,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"State Representative",85,,"Under Votes",267,19,192,56
+Fayette,101N La Grange,"Justice, 3rd Ct of App Dist",Pl 2,REP,"John Messinger",999,36,794,169
+Fayette,101N La Grange,"Justice, 3rd Ct of App Dist",Pl 2,DEM,"Maggie Ellis",326,23,210,93
+Fayette,101N La Grange,"Justice, 3rd Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"Justice, 3rd Ct of App Dist",Pl 2,,"Under Votes",64,2,47,15
+Fayette,101N La Grange,"Justice, 3rd Ct of App Dist",Pl 3,DEM,"Chari Kelly",653,32,467,154
+Fayette,101N La Grange,"Justice, 3rd Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"Justice, 3rd Ct of App Dist",Pl 3,,"Under Votes",736,29,584,123
+Fayette,101N La Grange,"Justice, 3rd Ct of App Dist",Pl 5,DEM,"Karin Crump",638,31,460,147
+Fayette,101N La Grange,"Justice, 3rd Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"Justice, 3rd Ct of App Dist",Pl 5,,"Under Votes",751,30,591,130
+Fayette,101N La Grange,"Justice, 3rd Ct of App Dist",Pl 6,DEM,"Gisela D. Triana",646,30,470,146
+Fayette,101N La Grange,"Justice, 3rd Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"Justice, 3rd Ct of App Dist",Pl 6,,"Under Votes",743,31,581,131
+Fayette,101N La Grange,"County Attorney",,REP,"James Herbrich",1172,49,886,237
+Fayette,101N La Grange,"County Attorney",,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"County Attorney",,,"Under Votes",217,12,165,40
+Fayette,101N La Grange,"Sheriff",,REP,"Keith Korenek",1163,49,882,232
+Fayette,101N La Grange,"Sheriff",,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"Sheriff",,,"Under Votes",226,12,169,45
+Fayette,101N La Grange,"County Tax Assessor-Collector",,REP,"Sylvia Mendoza",1168,49,886,233
+Fayette,101N La Grange,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"County Tax Assessor-Collector",,,"Under Votes",221,12,165,44
+Fayette,101N La Grange,"County Commissioner",Pct 1,REP,"Jason McBroom",1158,47,876,235
+Fayette,101N La Grange,"County Commissioner",Pct 1,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"County Commissioner",Pct 1,,"Under Votes",231,14,175,42
+Fayette,101N La Grange,"Constable",Pct 1,REP,"WM Billy Roensch",1134,49,855,230
+Fayette,101N La Grange,"Constable",Pct 1,,"Over Votes",0,0,0,0
+Fayette,101N La Grange,"Constable",Pct 1,,"Under Votes",255,12,196,47
+Fayette,110 Warda,"Registered Voters",,,,1055,,,
+Fayette,110 Warda,"Ballots Cast",,,,811,37,547,227
+Fayette,110 Warda,"Ballots Cast Blank",,,,0,0,0,0
+Fayette,110 Warda,"President",,REP,"Donald J. Trump/JD Vance",649,25,451,173
+Fayette,110 Warda,"President",,DEM,"Kamala D. Harris/Tim Walz",140,12,85,43
+Fayette,110 Warda,"President",,LIB,"Chase Oliver/Mike ter Maat",13,0,10,3
+Fayette,110 Warda,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,0,1
+Fayette,110 Warda,"President",,,"Write-ins",1,0,1,0
+Fayette,110 Warda,"President",,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"President",,,"Under Votes",10,0,4,6
+Fayette,110 Warda,"U.S. Senate",,REP,"Ted Cruz",645,24,449,172
+Fayette,110 Warda,"U.S. Senate",,DEM,"Colin Allred",147,12,88,47
+Fayette,110 Warda,"U.S. Senate",,LIB,"Ted Brown",13,0,6,7
+Fayette,110 Warda,"U.S. Senate",,,"Write-ins",0,0,0,0
+Fayette,110 Warda,"U.S. Senate",,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"U.S. Senate",,,"Under Votes",6,1,0,5
+Fayette,110 Warda,"U.S. House",10,REP,"Michael T. McCaul",670,25,466,179
+Fayette,110 Warda,"U.S. House",10,DEM,"Theresa Boisseau",113,11,64,38
+Fayette,110 Warda,"U.S. House",10,LIB,"Jeff Miller",13,0,7,6
+Fayette,110 Warda,"U.S. House",10,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"U.S. House",10,,"Under Votes",15,1,10,4
+Fayette,110 Warda,"Railroad Commissioner",,REP,"Christi Craddick",653,22,460,171
+Fayette,110 Warda,"Railroad Commissioner",,DEM,"Katherine Culbert",119,11,69,39
+Fayette,110 Warda,"Railroad Commissioner",,LIB,"Hawk Dunlap",21,2,10,9
+Fayette,110 Warda,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,1,1,1
+Fayette,110 Warda,"Railroad Commissioner",,,"Write-ins",1,1,0,0
+Fayette,110 Warda,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"Railroad Commissioner",,,"Under Votes",14,0,11,3
+Fayette,110 Warda,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",669,24,463,182
+Fayette,110 Warda,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",122,12,73,37
+Fayette,110 Warda,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"Justice, Supreme Court",Pl 2,,"Under Votes",20,1,11,8
+Fayette,110 Warda,"Justice, Supreme Court",Pl 4,REP,"John Devine",651,24,451,176
+Fayette,110 Warda,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",126,11,76,39
+Fayette,110 Warda,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"Justice, Supreme Court",Pl 4,,"Under Votes",34,2,20,12
+Fayette,110 Warda,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",654,25,458,171
+Fayette,110 Warda,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",127,11,73,43
+Fayette,110 Warda,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",8,0,1,7
+Fayette,110 Warda,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"Justice, Supreme Court",Pl 6,,"Under Votes",22,1,15,6
+Fayette,110 Warda,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",660,25,459,176
+Fayette,110 Warda,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",127,11,74,42
+Fayette,110 Warda,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"Presiding Judge, Ct of Crim App",,,"Under Votes",24,1,14,9
+Fayette,110 Warda,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",656,26,457,173
+Fayette,110 Warda,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",125,10,74,41
+Fayette,110 Warda,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"Judge, Ct of Crim App",Pl 7,,"Under Votes",30,1,16,13
+Fayette,110 Warda,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",669,25,459,185
+Fayette,110 Warda,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",114,11,68,35
+Fayette,110 Warda,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"Judge, Ct of Crim App",Pl 8,,"Under Votes",28,1,20,7
+Fayette,110 Warda,"Member, State BoE",10,REP,"Tom Maynard",667,27,455,185
+Fayette,110 Warda,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",116,9,73,34
+Fayette,110 Warda,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"Member, State BoE",10,,"Under Votes",28,1,19,8
+Fayette,110 Warda,"State Representative",85,REP,"Stan Kitzman",694,27,475,192
+Fayette,110 Warda,"State Representative",85,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"State Representative",85,,"Under Votes",117,10,72,35
+Fayette,110 Warda,"Justice, 3rd Ct of App Dist",Pl 2,REP,"John Messinger",646,25,448,173
+Fayette,110 Warda,"Justice, 3rd Ct of App Dist",Pl 2,DEM,"Maggie Ellis",129,11,75,43
+Fayette,110 Warda,"Justice, 3rd Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"Justice, 3rd Ct of App Dist",Pl 2,,"Under Votes",36,1,24,11
+Fayette,110 Warda,"Justice, 3rd Ct of App Dist",Pl 3,DEM,"Chari Kelly",309,15,197,97
+Fayette,110 Warda,"Justice, 3rd Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"Justice, 3rd Ct of App Dist",Pl 3,,"Under Votes",502,22,350,130
+Fayette,110 Warda,"Justice, 3rd Ct of App Dist",Pl 5,DEM,"Karin Crump",305,14,197,94
+Fayette,110 Warda,"Justice, 3rd Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"Justice, 3rd Ct of App Dist",Pl 5,,"Under Votes",506,23,350,133
+Fayette,110 Warda,"Justice, 3rd Ct of App Dist",Pl 6,DEM,"Gisela D. Triana",302,14,195,93
+Fayette,110 Warda,"Justice, 3rd Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"Justice, 3rd Ct of App Dist",Pl 6,,"Under Votes",509,23,352,134
+Fayette,110 Warda,"County Attorney",,REP,"James Herbrich",717,32,485,200
+Fayette,110 Warda,"County Attorney",,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"County Attorney",,,"Under Votes",94,5,62,27
+Fayette,110 Warda,"Sheriff",,REP,"Keith Korenek",712,31,480,201
+Fayette,110 Warda,"Sheriff",,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"Sheriff",,,"Under Votes",99,6,67,26
+Fayette,110 Warda,"County Tax Assessor-Collector",,REP,"Sylvia Mendoza",710,31,478,201
+Fayette,110 Warda,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"County Tax Assessor-Collector",,,"Under Votes",101,6,69,26
+Fayette,110 Warda,"County Commissioner",Pct 1,REP,"Jason McBroom",691,32,469,190
+Fayette,110 Warda,"County Commissioner",Pct 1,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"County Commissioner",Pct 1,,"Under Votes",120,5,78,37
+Fayette,110 Warda,"Constable",Pct 1,REP,"WM Billy Roensch",708,32,476,200
+Fayette,110 Warda,"Constable",Pct 1,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"Constable",Pct 1,,"Under Votes",103,5,71,27
+Fayette,110 Warda,"PROPOSITION A RTC ISD",,,For,50,2,37,11
+Fayette,110 Warda,"PROPOSITION A RTC ISD",,,Against,16,0,11,5
+Fayette,110 Warda,"PROPOSITION A RTC ISD",,,"Over Votes",0,0,0,0
+Fayette,110 Warda,"PROPOSITION A RTC ISD",,,"Under Votes",745,35,500,210
+Fayette,112 Plum,"Registered Voters",,,,1293,,,
+Fayette,112 Plum,"Ballots Cast",,,,883,23,590,270
+Fayette,112 Plum,"Ballots Cast Blank",,,,0,0,0,0
+Fayette,112 Plum,"President",,REP,"Donald J. Trump/JD Vance",737,14,503,220
+Fayette,112 Plum,"President",,DEM,"Kamala D. Harris/Tim Walz",134,9,82,43
+Fayette,112 Plum,"President",,LIB,"Chase Oliver/Mike ter Maat",6,0,3,3
+Fayette,112 Plum,"President",,GRN,"Jill Stein/Rudolph Ware",3,0,0,3
+Fayette,112 Plum,"President",,,"Write-ins",0,0,0,0
+Fayette,112 Plum,"President",,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"President",,,"Under Votes",3,0,2,1
+Fayette,112 Plum,"U.S. Senate",,REP,"Ted Cruz",709,13,486,210
+Fayette,112 Plum,"U.S. Senate",,DEM,"Colin Allred",140,9,82,49
+Fayette,112 Plum,"U.S. Senate",,LIB,"Ted Brown",24,1,17,6
+Fayette,112 Plum,"U.S. Senate",,,"Write-ins",1,0,0,1
+Fayette,112 Plum,"U.S. Senate",,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"U.S. Senate",,,"Under Votes",9,0,5,4
+Fayette,112 Plum,"U.S. House",10,REP,"Michael T. McCaul",718,15,497,216
+Fayette,112 Plum,"U.S. House",10,DEM,"Theresa Boisseau",123,8,77,38
+Fayette,112 Plum,"U.S. House",10,LIB,"Jeff Miller",23,0,11,12
+Fayette,112 Plum,"U.S. House",10,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"U.S. House",10,,"Under Votes",19,0,5,14
+Fayette,112 Plum,"Railroad Commissioner",,REP,"Christi Craddick",692,14,477,201
+Fayette,112 Plum,"Railroad Commissioner",,DEM,"Katherine Culbert",128,8,79,41
+Fayette,112 Plum,"Railroad Commissioner",,LIB,"Hawk Dunlap",33,0,21,12
+Fayette,112 Plum,"Railroad Commissioner",,GRN,"Eddie Espinoza",6,1,0,5
+Fayette,112 Plum,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Fayette,112 Plum,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"Railroad Commissioner",,,"Under Votes",24,0,13,11
+Fayette,112 Plum,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",727,14,494,219
+Fayette,112 Plum,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",130,8,79,43
+Fayette,112 Plum,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"Justice, Supreme Court",Pl 2,,"Under Votes",26,1,17,8
+Fayette,112 Plum,"Justice, Supreme Court",Pl 4,REP,"John Devine",707,14,484,209
+Fayette,112 Plum,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",140,8,86,46
+Fayette,112 Plum,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"Justice, Supreme Court",Pl 4,,"Under Votes",36,1,20,15
+Fayette,112 Plum,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",695,13,476,206
+Fayette,112 Plum,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",133,8,81,44
+Fayette,112 Plum,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",24,0,13,11
+Fayette,112 Plum,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"Justice, Supreme Court",Pl 6,,"Under Votes",31,2,20,9
+Fayette,112 Plum,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",713,12,486,215
+Fayette,112 Plum,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",138,8,84,46
+Fayette,112 Plum,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"Presiding Judge, Ct of Crim App",,,"Under Votes",32,3,20,9
+Fayette,112 Plum,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",715,13,489,213
+Fayette,112 Plum,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",133,8,80,45
+Fayette,112 Plum,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"Judge, Ct of Crim App",Pl 7,,"Under Votes",35,2,21,12
+Fayette,112 Plum,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",721,13,489,219
+Fayette,112 Plum,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",130,8,80,42
+Fayette,112 Plum,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"Judge, Ct of Crim App",Pl 8,,"Under Votes",32,2,21,9
+Fayette,112 Plum,"Member, State BoE",10,REP,"Tom Maynard",715,13,481,221
+Fayette,112 Plum,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",136,8,84,44
+Fayette,112 Plum,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"Member, State BoE",10,,"Under Votes",32,2,25,5
+Fayette,112 Plum,"State Representative",85,REP,"Stan Kitzman",743,13,500,230
+Fayette,112 Plum,"State Representative",85,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"State Representative",85,,"Under Votes",140,10,90,40
+Fayette,112 Plum,"Justice, 3rd Ct of App Dist",Pl 2,REP,"John Messinger",705,12,483,210
+Fayette,112 Plum,"Justice, 3rd Ct of App Dist",Pl 2,DEM,"Maggie Ellis",143,9,84,50
+Fayette,112 Plum,"Justice, 3rd Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"Justice, 3rd Ct of App Dist",Pl 2,,"Under Votes",35,2,23,10
+Fayette,112 Plum,"Justice, 3rd Ct of App Dist",Pl 3,DEM,"Chari Kelly",343,8,223,112
+Fayette,112 Plum,"Justice, 3rd Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"Justice, 3rd Ct of App Dist",Pl 3,,"Under Votes",540,15,367,158
+Fayette,112 Plum,"Justice, 3rd Ct of App Dist",Pl 5,DEM,"Karin Crump",336,8,219,109
+Fayette,112 Plum,"Justice, 3rd Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"Justice, 3rd Ct of App Dist",Pl 5,,"Under Votes",547,15,371,161
+Fayette,112 Plum,"Justice, 3rd Ct of App Dist",Pl 6,DEM,"Gisela D. Triana",334,8,222,104
+Fayette,112 Plum,"Justice, 3rd Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"Justice, 3rd Ct of App Dist",Pl 6,,"Under Votes",549,15,368,166
+Fayette,112 Plum,"County Attorney",,REP,"James Herbrich",758,15,502,241
+Fayette,112 Plum,"County Attorney",,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"County Attorney",,,"Under Votes",125,8,88,29
+Fayette,112 Plum,"Sheriff",,REP,"Keith Korenek",758,13,507,238
+Fayette,112 Plum,"Sheriff",,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"Sheriff",,,"Under Votes",125,10,83,32
+Fayette,112 Plum,"County Tax Assessor-Collector",,REP,"Sylvia Mendoza",754,14,503,237
+Fayette,112 Plum,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"County Tax Assessor-Collector",,,"Under Votes",129,9,87,33
+Fayette,112 Plum,"County Commissioner",Pct 1,REP,"Jason McBroom",749,15,498,236
+Fayette,112 Plum,"County Commissioner",Pct 1,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"County Commissioner",Pct 1,,"Under Votes",134,8,92,34
+Fayette,112 Plum,"Constable",Pct 1,REP,"WM Billy Roensch",745,13,500,232
+Fayette,112 Plum,"Constable",Pct 1,,"Over Votes",0,0,0,0
+Fayette,112 Plum,"Constable",Pct 1,,"Under Votes",138,10,90,38
+Fayette,201E La Grange,"Registered Voters",,,,1364,,,
+Fayette,201E La Grange,"Ballots Cast",,,,962,37,757,168
+Fayette,201E La Grange,"Ballots Cast Blank",,,,0,0,0,0
+Fayette,201E La Grange,"President",,REP,"Donald J. Trump/JD Vance",771,19,622,130
+Fayette,201E La Grange,"President",,DEM,"Kamala D. Harris/Tim Walz",178,17,124,37
+Fayette,201E La Grange,"President",,LIB,"Chase Oliver/Mike ter Maat",6,0,6,0
+Fayette,201E La Grange,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Fayette,201E La Grange,"President",,,"Write-ins",3,1,2,0
+Fayette,201E La Grange,"President",,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"President",,,"Under Votes",4,0,3,1
+Fayette,201E La Grange,"U.S. Senate",,REP,"Ted Cruz",745,20,601,124
+Fayette,201E La Grange,"U.S. Senate",,DEM,"Colin Allred",187,17,131,39
+Fayette,201E La Grange,"U.S. Senate",,LIB,"Ted Brown",15,0,12,3
+Fayette,201E La Grange,"U.S. Senate",,,"Write-ins",1,0,0,1
+Fayette,201E La Grange,"U.S. Senate",,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"U.S. Senate",,,"Under Votes",14,0,10,4
+Fayette,201E La Grange,"U.S. House",10,REP,"Michael T. McCaul",765,24,613,128
+Fayette,201E La Grange,"U.S. House",10,DEM,"Theresa Boisseau",148,11,107,30
+Fayette,201E La Grange,"U.S. House",10,LIB,"Jeff Miller",14,1,9,4
+Fayette,201E La Grange,"U.S. House",10,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"U.S. House",10,,"Under Votes",35,1,28,6
+Fayette,201E La Grange,"Railroad Commissioner",,REP,"Christi Craddick",742,20,596,126
+Fayette,201E La Grange,"Railroad Commissioner",,DEM,"Katherine Culbert",151,14,106,31
+Fayette,201E La Grange,"Railroad Commissioner",,LIB,"Hawk Dunlap",20,0,17,3
+Fayette,201E La Grange,"Railroad Commissioner",,GRN,"Eddie Espinoza",9,0,8,1
+Fayette,201E La Grange,"Railroad Commissioner",,,"Write-ins",1,0,1,0
+Fayette,201E La Grange,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"Railroad Commissioner",,,"Under Votes",39,3,30,6
+Fayette,201E La Grange,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",761,20,612,129
+Fayette,201E La Grange,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",158,14,111,33
+Fayette,201E La Grange,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"Justice, Supreme Court",Pl 2,,"Under Votes",43,3,34,6
+Fayette,201E La Grange,"Justice, Supreme Court",Pl 4,REP,"John Devine",758,19,612,127
+Fayette,201E La Grange,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",159,15,113,31
+Fayette,201E La Grange,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"Justice, Supreme Court",Pl 4,,"Under Votes",45,3,32,10
+Fayette,201E La Grange,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",743,20,597,126
+Fayette,201E La Grange,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",156,13,111,32
+Fayette,201E La Grange,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",18,0,14,4
+Fayette,201E La Grange,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"Justice, Supreme Court",Pl 6,,"Under Votes",45,4,35,6
+Fayette,201E La Grange,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",753,19,609,125
+Fayette,201E La Grange,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",157,14,111,32
+Fayette,201E La Grange,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"Presiding Judge, Ct of Crim App",,,"Under Votes",52,4,37,11
+Fayette,201E La Grange,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",762,20,614,128
+Fayette,201E La Grange,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",150,14,108,28
+Fayette,201E La Grange,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"Judge, Ct of Crim App",Pl 7,,"Under Votes",50,3,35,12
+Fayette,201E La Grange,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",762,20,614,128
+Fayette,201E La Grange,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",152,14,106,32
+Fayette,201E La Grange,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"Judge, Ct of Crim App",Pl 8,,"Under Votes",48,3,37,8
+Fayette,201E La Grange,"Member, State BoE",10,REP,"Tom Maynard",751,19,604,128
+Fayette,201E La Grange,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",163,15,115,33
+Fayette,201E La Grange,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"Member, State BoE",10,,"Under Votes",48,3,38,7
+Fayette,201E La Grange,"State Representative",85,REP,"Stan Kitzman",789,24,630,135
+Fayette,201E La Grange,"State Representative",85,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"State Representative",85,,"Under Votes",173,13,127,33
+Fayette,201E La Grange,"Justice, 3rd Ct of App Dist",Pl 2,REP,"John Messinger",744,20,603,121
+Fayette,201E La Grange,"Justice, 3rd Ct of App Dist",Pl 2,DEM,"Maggie Ellis",160,14,109,37
+Fayette,201E La Grange,"Justice, 3rd Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"Justice, 3rd Ct of App Dist",Pl 2,,"Under Votes",58,3,45,10
+Fayette,201E La Grange,"Justice, 3rd Ct of App Dist",Pl 3,DEM,"Chari Kelly",365,17,273,75
+Fayette,201E La Grange,"Justice, 3rd Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"Justice, 3rd Ct of App Dist",Pl 3,,"Under Votes",597,20,484,93
+Fayette,201E La Grange,"Justice, 3rd Ct of App Dist",Pl 5,DEM,"Karin Crump",365,18,272,75
+Fayette,201E La Grange,"Justice, 3rd Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"Justice, 3rd Ct of App Dist",Pl 5,,"Under Votes",597,19,485,93
+Fayette,201E La Grange,"Justice, 3rd Ct of App Dist",Pl 6,DEM,"Gisela D. Triana",369,17,276,76
+Fayette,201E La Grange,"Justice, 3rd Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"Justice, 3rd Ct of App Dist",Pl 6,,"Under Votes",593,20,481,92
+Fayette,201E La Grange,"County Attorney",,REP,"James Herbrich",830,28,654,148
+Fayette,201E La Grange,"County Attorney",,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"County Attorney",,,"Under Votes",132,9,103,20
+Fayette,201E La Grange,"Sheriff",,REP,"Keith Korenek",837,27,660,150
+Fayette,201E La Grange,"Sheriff",,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"Sheriff",,,"Under Votes",125,10,97,18
+Fayette,201E La Grange,"County Tax Assessor-Collector",,REP,"Sylvia Mendoza",829,27,653,149
+Fayette,201E La Grange,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"County Tax Assessor-Collector",,,"Under Votes",133,10,104,19
+Fayette,201E La Grange,"Constable",Pct 2,REP,"Roger Wunderlich",826,27,656,143
+Fayette,201E La Grange,"Constable",Pct 2,,"Over Votes",0,0,0,0
+Fayette,201E La Grange,"Constable",Pct 2,,"Under Votes",136,10,101,25
+Fayette,204 Fayetteville,"Registered Voters",,,,1519,,,
+Fayette,204 Fayetteville,"Ballots Cast",,,,1181,29,763,389
+Fayette,204 Fayetteville,"Ballots Cast Blank",,,,0,0,0,0
+Fayette,204 Fayetteville,"President",,REP,"Donald J. Trump/JD Vance",999,18,658,323
+Fayette,204 Fayetteville,"President",,DEM,"Kamala D. Harris/Tim Walz",165,11,94,60
+Fayette,204 Fayetteville,"President",,LIB,"Chase Oliver/Mike ter Maat",4,0,2,2
+Fayette,204 Fayetteville,"President",,GRN,"Jill Stein/Rudolph Ware",3,0,2,1
+Fayette,204 Fayetteville,"President",,,"Write-ins",7,0,4,3
+Fayette,204 Fayetteville,"President",,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"President",,,"Under Votes",3,0,3,0
+Fayette,204 Fayetteville,"U.S. Senate",,REP,"Ted Cruz",981,16,644,321
+Fayette,204 Fayetteville,"U.S. Senate",,DEM,"Colin Allred",168,9,100,59
+Fayette,204 Fayetteville,"U.S. Senate",,LIB,"Ted Brown",18,2,9,7
+Fayette,204 Fayetteville,"U.S. Senate",,,"Write-ins",2,0,2,0
+Fayette,204 Fayetteville,"U.S. Senate",,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"U.S. Senate",,,"Under Votes",12,2,8,2
+Fayette,204 Fayetteville,"U.S. House",10,REP,"Michael T. McCaul",1004,19,650,335
+Fayette,204 Fayetteville,"U.S. House",10,DEM,"Theresa Boisseau",140,8,89,43
+Fayette,204 Fayetteville,"U.S. House",10,LIB,"Jeff Miller",13,0,7,6
+Fayette,204 Fayetteville,"U.S. House",10,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"U.S. House",10,,"Under Votes",24,2,17,5
+Fayette,204 Fayetteville,"Railroad Commissioner",,REP,"Christi Craddick",999,17,634,318
+Fayette,204 Fayetteville,"Railroad Commissioner",,DEM,"Katherine Culbert",143,10,88,45
+Fayette,204 Fayetteville,"Railroad Commissioner",,LIB,"Hawk Dunlap",26,0,16,10
+Fayette,204 Fayetteville,"Railroad Commissioner",,GRN,"Eddie Espinoza",12,0,5,7
+Fayette,204 Fayetteville,"Railroad Commissioner",,,"Write-ins",2,0,1,1
+Fayette,204 Fayetteville,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"Railroad Commissioner",,,"Under Votes",27,2,19,6
+Fayette,204 Fayetteville,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",993,17,649,327
+Fayette,204 Fayetteville,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",153,10,93,50
+Fayette,204 Fayetteville,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"Justice, Supreme Court",Pl 2,,"Under Votes",35,2,21,12
+Fayette,204 Fayetteville,"Justice, Supreme Court",Pl 4,REP,"John Devine",974,17,647,310
+Fayette,204 Fayetteville,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",151,10,88,53
+Fayette,204 Fayetteville,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"Justice, Supreme Court",Pl 4,,"Under Votes",56,2,28,26
+Fayette,204 Fayetteville,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",974,17,642,315
+Fayette,204 Fayetteville,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",145,10,81,54
+Fayette,204 Fayetteville,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",22,0,13,9
+Fayette,204 Fayetteville,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"Justice, Supreme Court",Pl 6,,"Under Votes",40,2,27,11
+Fayette,204 Fayetteville,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",983,17,651,315
+Fayette,204 Fayetteville,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",152,10,85,57
+Fayette,204 Fayetteville,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"Presiding Judge, Ct of Crim App",,,"Under Votes",46,2,27,17
+Fayette,204 Fayetteville,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",983,17,650,316
+Fayette,204 Fayetteville,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",140,8,86,46
+Fayette,204 Fayetteville,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"Judge, Ct of Crim App",Pl 7,,"Under Votes",58,4,27,27
+Fayette,204 Fayetteville,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",996,17,651,328
+Fayette,204 Fayetteville,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",140,10,84,46
+Fayette,204 Fayetteville,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"Judge, Ct of Crim App",Pl 8,,"Under Votes",45,2,28,15
+Fayette,204 Fayetteville,"Member, State BoE",10,REP,"Tom Maynard",992,17,646,329
+Fayette,204 Fayetteville,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",147,10,88,49
+Fayette,204 Fayetteville,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"Member, State BoE",10,,"Under Votes",42,2,29,11
+Fayette,204 Fayetteville,"State Representative",85,REP,"Stan Kitzman",998,21,653,324
+Fayette,204 Fayetteville,"State Representative",85,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"State Representative",85,,"Under Votes",183,8,110,65
+Fayette,204 Fayetteville,"Justice, 3rd Ct of App Dist",Pl 2,REP,"John Messinger",977,17,646,314
+Fayette,204 Fayetteville,"Justice, 3rd Ct of App Dist",Pl 2,DEM,"Maggie Ellis",152,9,88,55
+Fayette,204 Fayetteville,"Justice, 3rd Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"Justice, 3rd Ct of App Dist",Pl 2,,"Under Votes",52,3,29,20
+Fayette,204 Fayetteville,"Justice, 3rd Ct of App Dist",Pl 3,DEM,"Chari Kelly",434,12,270,152
+Fayette,204 Fayetteville,"Justice, 3rd Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"Justice, 3rd Ct of App Dist",Pl 3,,"Under Votes",747,17,493,237
+Fayette,204 Fayetteville,"Justice, 3rd Ct of App Dist",Pl 5,DEM,"Karin Crump",412,12,259,141
+Fayette,204 Fayetteville,"Justice, 3rd Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"Justice, 3rd Ct of App Dist",Pl 5,,"Under Votes",769,17,504,248
+Fayette,204 Fayetteville,"Justice, 3rd Ct of App Dist",Pl 6,DEM,"Gisela D. Triana",416,12,268,136
+Fayette,204 Fayetteville,"Justice, 3rd Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"Justice, 3rd Ct of App Dist",Pl 6,,"Under Votes",765,17,495,253
+Fayette,204 Fayetteville,"County Attorney",,REP,"James Herbrich",1031,22,669,340
+Fayette,204 Fayetteville,"County Attorney",,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"County Attorney",,,"Under Votes",150,7,94,49
+Fayette,204 Fayetteville,"Sheriff",,REP,"Keith Korenek",1056,25,682,349
+Fayette,204 Fayetteville,"Sheriff",,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"Sheriff",,,"Under Votes",125,4,81,40
+Fayette,204 Fayetteville,"County Tax Assessor-Collector",,REP,"Sylvia Mendoza",1028,24,664,340
+Fayette,204 Fayetteville,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"County Tax Assessor-Collector",,,"Under Votes",153,5,99,49
+Fayette,204 Fayetteville,"Constable",Pct 2,REP,"Roger Wunderlich",1038,24,673,341
+Fayette,204 Fayetteville,"Constable",Pct 2,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"Constable",Pct 2,,"Under Votes",143,5,90,48
+Fayette,204 Fayetteville,"PROPOSITION A RTC ISD",,,For,35,0,25,10
+Fayette,204 Fayetteville,"PROPOSITION A RTC ISD",,,Against,19,0,14,5
+Fayette,204 Fayetteville,"PROPOSITION A RTC ISD",,,"Over Votes",0,0,0,0
+Fayette,204 Fayetteville,"PROPOSITION A RTC ISD",,,"Under Votes",1127,29,724,374
+Fayette,207 Round Top,"Registered Voters",,,,2015,,,
+Fayette,207 Round Top,"Ballots Cast",,,,1576,78,1033,465
+Fayette,207 Round Top,"Ballots Cast Blank",,,,0,0,0,0
+Fayette,207 Round Top,"President",,REP,"Donald J. Trump/JD Vance",1279,45,854,380
+Fayette,207 Round Top,"President",,DEM,"Kamala D. Harris/Tim Walz",280,32,173,75
+Fayette,207 Round Top,"President",,LIB,"Chase Oliver/Mike ter Maat",4,0,1,3
+Fayette,207 Round Top,"President",,GRN,"Jill Stein/Rudolph Ware",3,1,1,1
+Fayette,207 Round Top,"President",,,"Write-ins",4,0,0,4
+Fayette,207 Round Top,"President",,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"President",,,"Under Votes",6,0,4,2
+Fayette,207 Round Top,"U.S. Senate",,REP,"Ted Cruz",1251,44,836,371
+Fayette,207 Round Top,"U.S. Senate",,DEM,"Colin Allred",290,32,180,78
+Fayette,207 Round Top,"U.S. Senate",,LIB,"Ted Brown",15,0,6,9
+Fayette,207 Round Top,"U.S. Senate",,,"Write-ins",0,0,0,0
+Fayette,207 Round Top,"U.S. Senate",,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"U.S. Senate",,,"Under Votes",20,2,11,7
+Fayette,207 Round Top,"U.S. House",10,REP,"Michael T. McCaul",1282,46,854,382
+Fayette,207 Round Top,"U.S. House",10,DEM,"Theresa Boisseau",238,29,147,62
+Fayette,207 Round Top,"U.S. House",10,LIB,"Jeff Miller",19,0,11,8
+Fayette,207 Round Top,"U.S. House",10,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"U.S. House",10,,"Under Votes",37,3,21,13
+Fayette,207 Round Top,"Railroad Commissioner",,REP,"Christi Craddick",1231,42,817,372
+Fayette,207 Round Top,"Railroad Commissioner",,DEM,"Katherine Culbert",248,30,160,58
+Fayette,207 Round Top,"Railroad Commissioner",,LIB,"Hawk Dunlap",41,2,26,13
+Fayette,207 Round Top,"Railroad Commissioner",,GRN,"Eddie Espinoza",8,0,4,4
+Fayette,207 Round Top,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Fayette,207 Round Top,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"Railroad Commissioner",,,"Under Votes",48,4,26,18
+Fayette,207 Round Top,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1272,46,845,381
+Fayette,207 Round Top,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",246,28,155,63
+Fayette,207 Round Top,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"Justice, Supreme Court",Pl 2,,"Under Votes",58,4,33,21
+Fayette,207 Round Top,"Justice, Supreme Court",Pl 4,REP,"John Devine",1242,44,824,364
+Fayette,207 Round Top,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",259,29,166,64
+Fayette,207 Round Top,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"Justice, Supreme Court",Pl 4,,"Under Votes",75,5,43,27
+Fayette,207 Round Top,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1247,43,827,377
+Fayette,207 Round Top,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",256,31,161,64
+Fayette,207 Round Top,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",15,0,9,6
+Fayette,207 Round Top,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"Justice, Supreme Court",Pl 6,,"Under Votes",58,4,36,18
+Fayette,207 Round Top,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1254,44,830,380
+Fayette,207 Round Top,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",259,30,168,61
+Fayette,207 Round Top,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"Presiding Judge, Ct of Crim App",,,"Under Votes",63,4,35,24
+Fayette,207 Round Top,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1250,45,833,372
+Fayette,207 Round Top,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",252,28,165,59
+Fayette,207 Round Top,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"Judge, Ct of Crim App",Pl 7,,"Under Votes",74,5,35,34
+Fayette,207 Round Top,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1268,45,837,386
+Fayette,207 Round Top,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",236,29,152,55
+Fayette,207 Round Top,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"Judge, Ct of Crim App",Pl 8,,"Under Votes",72,4,44,24
+Fayette,207 Round Top,"Member, State BoE",10,REP,"Tom Maynard",1258,45,836,377
+Fayette,207 Round Top,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",253,29,158,66
+Fayette,207 Round Top,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"Member, State BoE",10,,"Under Votes",65,4,39,22
+Fayette,207 Round Top,"State Representative",85,REP,"Stan Kitzman",1318,47,872,399
+Fayette,207 Round Top,"State Representative",85,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"State Representative",85,,"Under Votes",258,31,161,66
+Fayette,207 Round Top,"Justice, 3rd Ct of App Dist",Pl 2,REP,"John Messinger",1237,44,823,370
+Fayette,207 Round Top,"Justice, 3rd Ct of App Dist",Pl 2,DEM,"Maggie Ellis",262,30,166,66
+Fayette,207 Round Top,"Justice, 3rd Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"Justice, 3rd Ct of App Dist",Pl 2,,"Under Votes",77,4,44,29
+Fayette,207 Round Top,"Justice, 3rd Ct of App Dist",Pl 3,DEM,"Chari Kelly",559,35,367,157
+Fayette,207 Round Top,"Justice, 3rd Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"Justice, 3rd Ct of App Dist",Pl 3,,"Under Votes",1017,43,666,308
+Fayette,207 Round Top,"Justice, 3rd Ct of App Dist",Pl 5,DEM,"Karin Crump",538,36,354,148
+Fayette,207 Round Top,"Justice, 3rd Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"Justice, 3rd Ct of App Dist",Pl 5,,"Under Votes",1038,42,679,317
+Fayette,207 Round Top,"Justice, 3rd Ct of App Dist",Pl 6,DEM,"Gisela D. Triana",534,36,351,147
+Fayette,207 Round Top,"Justice, 3rd Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"Justice, 3rd Ct of App Dist",Pl 6,,"Under Votes",1042,42,682,318
+Fayette,207 Round Top,"County Attorney",,REP,"James Herbrich",1330,52,878,400
+Fayette,207 Round Top,"County Attorney",,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"County Attorney",,,"Under Votes",246,26,155,65
+Fayette,207 Round Top,"Sheriff",,REP,"Keith Korenek",1337,54,886,397
+Fayette,207 Round Top,"Sheriff",,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"Sheriff",,,"Under Votes",239,24,147,68
+Fayette,207 Round Top,"County Tax Assessor-Collector",,REP,"Sylvia Mendoza",1329,55,872,402
+Fayette,207 Round Top,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"County Tax Assessor-Collector",,,"Under Votes",247,23,161,63
+Fayette,207 Round Top,"Constable",Pct 2,REP,"Roger Wunderlich",1339,53,883,403
+Fayette,207 Round Top,"Constable",Pct 2,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"Constable",Pct 2,,"Under Votes",237,25,150,62
+Fayette,207 Round Top,"PROPOSITION A RTC ISD",,,For,879,40,534,305
+Fayette,207 Round Top,"PROPOSITION A RTC ISD",,,Against,276,18,169,89
+Fayette,207 Round Top,"PROPOSITION A RTC ISD",,,"Over Votes",0,0,0,0
+Fayette,207 Round Top,"PROPOSITION A RTC ISD",,,"Under Votes",421,20,330,71
+Fayette,301W La Grange,"Registered Voters",,,,1757,,,
+Fayette,301W La Grange,"Ballots Cast",,,,1290,54,982,254
+Fayette,301W La Grange,"Ballots Cast Blank",,,,0,0,0,0
+Fayette,301W La Grange,"President",,REP,"Donald J. Trump/JD Vance",1000,31,774,195
+Fayette,301W La Grange,"President",,DEM,"Kamala D. Harris/Tim Walz",271,21,197,53
+Fayette,301W La Grange,"President",,LIB,"Chase Oliver/Mike ter Maat",9,2,4,3
+Fayette,301W La Grange,"President",,GRN,"Jill Stein/Rudolph Ware",3,0,1,2
+Fayette,301W La Grange,"President",,,"Write-ins",2,0,1,1
+Fayette,301W La Grange,"President",,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"President",,,"Under Votes",5,0,5,0
+Fayette,301W La Grange,"U.S. Senate",,REP,"Ted Cruz",960,30,747,183
+Fayette,301W La Grange,"U.S. Senate",,DEM,"Colin Allred",295,21,216,58
+Fayette,301W La Grange,"U.S. Senate",,LIB,"Ted Brown",20,2,10,8
+Fayette,301W La Grange,"U.S. Senate",,,"Write-ins",1,0,0,1
+Fayette,301W La Grange,"U.S. Senate",,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"U.S. Senate",,,"Under Votes",14,1,9,4
+Fayette,301W La Grange,"U.S. House",10,REP,"Michael T. McCaul",999,30,774,195
+Fayette,301W La Grange,"U.S. House",10,DEM,"Theresa Boisseau",226,22,163,41
+Fayette,301W La Grange,"U.S. House",10,LIB,"Jeff Miller",29,1,17,11
+Fayette,301W La Grange,"U.S. House",10,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"U.S. House",10,,"Under Votes",36,1,28,7
+Fayette,301W La Grange,"Railroad Commissioner",,REP,"Christi Craddick",972,29,758,185
+Fayette,301W La Grange,"Railroad Commissioner",,DEM,"Katherine Culbert",224,22,161,41
+Fayette,301W La Grange,"Railroad Commissioner",,LIB,"Hawk Dunlap",29,1,18,10
+Fayette,301W La Grange,"Railroad Commissioner",,GRN,"Eddie Espinoza",15,0,11,4
+Fayette,301W La Grange,"Railroad Commissioner",,,"Write-ins",2,0,1,1
+Fayette,301W La Grange,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"Railroad Commissioner",,,"Under Votes",48,2,33,13
+Fayette,301W La Grange,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",989,31,768,190
+Fayette,301W La Grange,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",238,20,169,49
+Fayette,301W La Grange,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"Justice, Supreme Court",Pl 2,,"Under Votes",63,3,45,15
+Fayette,301W La Grange,"Justice, Supreme Court",Pl 4,REP,"John Devine",982,28,771,183
+Fayette,301W La Grange,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",241,22,171,48
+Fayette,301W La Grange,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"Justice, Supreme Court",Pl 4,,"Under Votes",67,4,40,23
+Fayette,301W La Grange,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",975,30,763,182
+Fayette,301W La Grange,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",237,21,165,51
+Fayette,301W La Grange,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",22,1,12,9
+Fayette,301W La Grange,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"Justice, Supreme Court",Pl 6,,"Under Votes",56,2,42,12
+Fayette,301W La Grange,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",991,31,767,193
+Fayette,301W La Grange,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",237,20,175,42
+Fayette,301W La Grange,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"Presiding Judge, Ct of Crim App",,,"Under Votes",62,3,40,19
+Fayette,301W La Grange,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",982,32,764,186
+Fayette,301W La Grange,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",238,19,172,47
+Fayette,301W La Grange,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"Judge, Ct of Crim App",Pl 7,,"Under Votes",70,3,46,21
+Fayette,301W La Grange,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",994,30,772,192
+Fayette,301W La Grange,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",230,21,162,47
+Fayette,301W La Grange,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"Judge, Ct of Crim App",Pl 8,,"Under Votes",66,3,48,15
+Fayette,301W La Grange,"Member, State BoE",10,REP,"Tom Maynard",997,31,769,197
+Fayette,301W La Grange,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",232,20,167,45
+Fayette,301W La Grange,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"Member, State BoE",10,,"Under Votes",61,3,46,12
+Fayette,301W La Grange,"State Representative",85,REP,"Stan Kitzman",1042,32,804,206
+Fayette,301W La Grange,"State Representative",85,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"State Representative",85,,"Under Votes",248,22,178,48
+Fayette,301W La Grange,"Justice, 3rd Ct of App Dist",Pl 2,REP,"John Messinger",980,30,765,185
+Fayette,301W La Grange,"Justice, 3rd Ct of App Dist",Pl 2,DEM,"Maggie Ellis",239,21,166,52
+Fayette,301W La Grange,"Justice, 3rd Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"Justice, 3rd Ct of App Dist",Pl 2,,"Under Votes",71,3,51,17
+Fayette,301W La Grange,"Justice, 3rd Ct of App Dist",Pl 3,DEM,"Chari Kelly",534,22,390,122
+Fayette,301W La Grange,"Justice, 3rd Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"Justice, 3rd Ct of App Dist",Pl 3,,"Under Votes",756,32,592,132
+Fayette,301W La Grange,"Justice, 3rd Ct of App Dist",Pl 5,DEM,"Karin Crump",514,20,373,121
+Fayette,301W La Grange,"Justice, 3rd Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"Justice, 3rd Ct of App Dist",Pl 5,,"Under Votes",776,34,609,133
+Fayette,301W La Grange,"Justice, 3rd Ct of App Dist",Pl 6,DEM,"Gisela D. Triana",510,21,372,117
+Fayette,301W La Grange,"Justice, 3rd Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"Justice, 3rd Ct of App Dist",Pl 6,,"Under Votes",780,33,610,137
+Fayette,301W La Grange,"County Attorney",,REP,"James Herbrich",1110,40,857,213
+Fayette,301W La Grange,"County Attorney",,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"County Attorney",,,"Under Votes",180,14,125,41
+Fayette,301W La Grange,"Sheriff",,REP,"Keith Korenek",1114,41,852,221
+Fayette,301W La Grange,"Sheriff",,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"Sheriff",,,"Under Votes",176,13,130,33
+Fayette,301W La Grange,"County Tax Assessor-Collector",,REP,"Sylvia Mendoza",1103,40,846,217
+Fayette,301W La Grange,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"County Tax Assessor-Collector",,,"Under Votes",187,14,136,37
+Fayette,301W La Grange,"County Commissioner",Pct 3,REP,"Harvey Berckenhoff",1073,38,821,214
+Fayette,301W La Grange,"County Commissioner",Pct 3,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"County Commissioner",Pct 3,,"Under Votes",217,16,161,40
+Fayette,301W La Grange,"Constable",Pct 3,REP,"Robert H. Chambers",1067,36,821,210
+Fayette,301W La Grange,"Constable",Pct 3,,"Over Votes",0,0,0,0
+Fayette,301W La Grange,"Constable",Pct 3,,"Under Votes",223,18,161,44
+Fayette,315 Cistern,"Registered Voters",,,,741,,,
+Fayette,315 Cistern,"Ballots Cast",,,,612,28,334,250
+Fayette,315 Cistern,"Ballots Cast Blank",,,,0,0,0,0
+Fayette,315 Cistern,"President",,REP,"Donald J. Trump/JD Vance",496,20,273,203
+Fayette,315 Cistern,"President",,DEM,"Kamala D. Harris/Tim Walz",102,7,59,36
+Fayette,315 Cistern,"President",,LIB,"Chase Oliver/Mike ter Maat",2,0,0,2
+Fayette,315 Cistern,"President",,GRN,"Jill Stein/Rudolph Ware",3,1,0,2
+Fayette,315 Cistern,"President",,,"Write-ins",0,0,0,0
+Fayette,315 Cistern,"President",,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"President",,,"Under Votes",9,0,2,7
+Fayette,315 Cistern,"U.S. Senate",,REP,"Ted Cruz",484,20,264,200
+Fayette,315 Cistern,"U.S. Senate",,DEM,"Colin Allred",110,7,61,42
+Fayette,315 Cistern,"U.S. Senate",,LIB,"Ted Brown",12,0,6,6
+Fayette,315 Cistern,"U.S. Senate",,,"Write-ins",0,0,0,0
+Fayette,315 Cistern,"U.S. Senate",,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"U.S. Senate",,,"Under Votes",6,1,3,2
+Fayette,315 Cistern,"U.S. House",10,REP,"Michael T. McCaul",489,19,266,204
+Fayette,315 Cistern,"U.S. House",10,DEM,"Theresa Boisseau",91,7,50,34
+Fayette,315 Cistern,"U.S. House",10,LIB,"Jeff Miller",9,0,6,3
+Fayette,315 Cistern,"U.S. House",10,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"U.S. House",10,,"Under Votes",23,2,4,17
+Fayette,315 Cistern,"Railroad Commissioner",,REP,"Christi Craddick",485,20,265,200
+Fayette,315 Cistern,"Railroad Commissioner",,DEM,"Katherine Culbert",87,6,53,28
+Fayette,315 Cistern,"Railroad Commissioner",,LIB,"Hawk Dunlap",12,0,2,10
+Fayette,315 Cistern,"Railroad Commissioner",,GRN,"Eddie Espinoza",4,0,3,1
+Fayette,315 Cistern,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Fayette,315 Cistern,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"Railroad Commissioner",,,"Under Votes",24,2,11,11
+Fayette,315 Cistern,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",495,19,271,205
+Fayette,315 Cistern,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",91,7,50,34
+Fayette,315 Cistern,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"Justice, Supreme Court",Pl 2,,"Under Votes",26,2,13,11
+Fayette,315 Cistern,"Justice, Supreme Court",Pl 4,REP,"John Devine",485,19,268,198
+Fayette,315 Cistern,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",98,6,58,34
+Fayette,315 Cistern,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"Justice, Supreme Court",Pl 4,,"Under Votes",29,3,8,18
+Fayette,315 Cistern,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",488,19,270,199
+Fayette,315 Cistern,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",88,7,50,31
+Fayette,315 Cistern,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",11,0,3,8
+Fayette,315 Cistern,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"Justice, Supreme Court",Pl 6,,"Under Votes",25,2,11,12
+Fayette,315 Cistern,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",491,19,267,205
+Fayette,315 Cistern,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",93,7,54,32
+Fayette,315 Cistern,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"Presiding Judge, Ct of Crim App",,,"Under Votes",28,2,13,13
+Fayette,315 Cistern,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",489,18,270,201
+Fayette,315 Cistern,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",92,7,52,33
+Fayette,315 Cistern,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"Judge, Ct of Crim App",Pl 7,,"Under Votes",31,3,12,16
+Fayette,315 Cistern,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",491,19,266,206
+Fayette,315 Cistern,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",91,6,53,32
+Fayette,315 Cistern,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"Judge, Ct of Crim App",Pl 8,,"Under Votes",30,3,15,12
+Fayette,315 Cistern,"Member, State BoE",10,REP,"Tom Maynard",483,19,264,200
+Fayette,315 Cistern,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",99,7,55,37
+Fayette,315 Cistern,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"Member, State BoE",10,,"Under Votes",30,2,15,13
+Fayette,315 Cistern,"State Representative",85,REP,"Stan Kitzman",504,18,278,208
+Fayette,315 Cistern,"State Representative",85,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"State Representative",85,,"Under Votes",108,10,56,42
+Fayette,315 Cistern,"Justice, 3rd Ct of App Dist",Pl 2,REP,"John Messinger",492,19,266,207
+Fayette,315 Cistern,"Justice, 3rd Ct of App Dist",Pl 2,DEM,"Maggie Ellis",90,7,53,30
+Fayette,315 Cistern,"Justice, 3rd Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"Justice, 3rd Ct of App Dist",Pl 2,,"Under Votes",30,2,15,13
+Fayette,315 Cistern,"Justice, 3rd Ct of App Dist",Pl 3,DEM,"Chari Kelly",219,7,122,90
+Fayette,315 Cistern,"Justice, 3rd Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"Justice, 3rd Ct of App Dist",Pl 3,,"Under Votes",393,21,212,160
+Fayette,315 Cistern,"Justice, 3rd Ct of App Dist",Pl 5,DEM,"Karin Crump",211,8,119,84
+Fayette,315 Cistern,"Justice, 3rd Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"Justice, 3rd Ct of App Dist",Pl 5,,"Under Votes",401,20,215,166
+Fayette,315 Cistern,"Justice, 3rd Ct of App Dist",Pl 6,DEM,"Gisela D. Triana",208,7,119,82
+Fayette,315 Cistern,"Justice, 3rd Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"Justice, 3rd Ct of App Dist",Pl 6,,"Under Votes",404,21,215,168
+Fayette,315 Cistern,"County Attorney",,REP,"James Herbrich",523,20,288,215
+Fayette,315 Cistern,"County Attorney",,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"County Attorney",,,"Under Votes",89,8,46,35
+Fayette,315 Cistern,"Sheriff",,REP,"Keith Korenek",538,23,287,228
+Fayette,315 Cistern,"Sheriff",,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"Sheriff",,,"Under Votes",74,5,47,22
+Fayette,315 Cistern,"County Tax Assessor-Collector",,REP,"Sylvia Mendoza",522,20,284,218
+Fayette,315 Cistern,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"County Tax Assessor-Collector",,,"Under Votes",90,8,50,32
+Fayette,315 Cistern,"County Commissioner",Pct 3,REP,"Harvey Berckenhoff",514,22,278,214
+Fayette,315 Cistern,"County Commissioner",Pct 3,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"County Commissioner",Pct 3,,"Under Votes",98,6,56,36
+Fayette,315 Cistern,"Constable",Pct 3,REP,"Robert H. Chambers",523,20,282,221
+Fayette,315 Cistern,"Constable",Pct 3,,"Over Votes",0,0,0,0
+Fayette,315 Cistern,"Constable",Pct 3,,"Under Votes",89,8,52,29
+Fayette,316 Flatonia,"Registered Voters",,,,2172,,,
+Fayette,316 Flatonia,"Ballots Cast",,,,1592,81,863,648
+Fayette,316 Flatonia,"Ballots Cast Blank",,,,0,0,0,0
+Fayette,316 Flatonia,"President",,REP,"Donald J. Trump/JD Vance",1256,37,718,501
+Fayette,316 Flatonia,"President",,DEM,"Kamala D. Harris/Tim Walz",320,44,139,137
+Fayette,316 Flatonia,"President",,LIB,"Chase Oliver/Mike ter Maat",9,0,3,6
+Fayette,316 Flatonia,"President",,GRN,"Jill Stein/Rudolph Ware",2,0,1,1
+Fayette,316 Flatonia,"President",,,"Write-ins",2,0,1,1
+Fayette,316 Flatonia,"President",,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"President",,,"Under Votes",10,0,1,9
+Fayette,316 Flatonia,"U.S. Senate",,REP,"Ted Cruz",1227,39,704,484
+Fayette,316 Flatonia,"U.S. Senate",,DEM,"Colin Allred",327,40,144,143
+Fayette,316 Flatonia,"U.S. Senate",,LIB,"Ted Brown",20,0,8,12
+Fayette,316 Flatonia,"U.S. Senate",,,"Write-ins",2,0,1,1
+Fayette,316 Flatonia,"U.S. Senate",,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"U.S. Senate",,,"Under Votes",16,2,6,8
+Fayette,316 Flatonia,"U.S. House",10,REP,"Michael T. McCaul",1240,43,705,492
+Fayette,316 Flatonia,"U.S. House",10,DEM,"Theresa Boisseau",276,36,126,114
+Fayette,316 Flatonia,"U.S. House",10,LIB,"Jeff Miller",25,1,6,18
+Fayette,316 Flatonia,"U.S. House",10,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"U.S. House",10,,"Under Votes",51,1,26,24
+Fayette,316 Flatonia,"Railroad Commissioner",,REP,"Christi Craddick",1196,37,692,467
+Fayette,316 Flatonia,"Railroad Commissioner",,DEM,"Katherine Culbert",286,40,138,108
+Fayette,316 Flatonia,"Railroad Commissioner",,LIB,"Hawk Dunlap",33,2,11,21
+Fayette,316 Flatonia,"Railroad Commissioner",,GRN,"Eddie Espinoza",20,1,6,13
+Fayette,316 Flatonia,"Railroad Commissioner",,,"Write-ins",1,1,0,0
+Fayette,316 Flatonia,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"Railroad Commissioner",,,"Under Votes",56,0,16,40
+Fayette,316 Flatonia,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1229,41,698,490
+Fayette,316 Flatonia,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",294,37,133,124
+Fayette,316 Flatonia,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"Justice, Supreme Court",Pl 2,,"Under Votes",69,3,32,34
+Fayette,316 Flatonia,"Justice, Supreme Court",Pl 4,REP,"John Devine",1204,38,691,475
+Fayette,316 Flatonia,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",290,38,129,123
+Fayette,316 Flatonia,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"Justice, Supreme Court",Pl 4,,"Under Votes",98,5,43,50
+Fayette,316 Flatonia,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1209,39,690,480
+Fayette,316 Flatonia,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",286,38,124,124
+Fayette,316 Flatonia,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",24,1,12,11
+Fayette,316 Flatonia,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"Justice, Supreme Court",Pl 6,,"Under Votes",73,3,37,33
+Fayette,316 Flatonia,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1213,41,692,480
+Fayette,316 Flatonia,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",294,38,130,126
+Fayette,316 Flatonia,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"Presiding Judge, Ct of Crim App",,,"Under Votes",85,2,41,42
+Fayette,316 Flatonia,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1221,41,694,486
+Fayette,316 Flatonia,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",278,38,127,113
+Fayette,316 Flatonia,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"Judge, Ct of Crim App",Pl 7,,"Under Votes",93,2,42,49
+Fayette,316 Flatonia,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1240,42,701,497
+Fayette,316 Flatonia,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",269,37,122,110
+Fayette,316 Flatonia,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"Judge, Ct of Crim App",Pl 8,,"Under Votes",83,2,40,41
+Fayette,316 Flatonia,"Member, State BoE",10,REP,"Tom Maynard",1217,41,689,487
+Fayette,316 Flatonia,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",306,38,132,136
+Fayette,316 Flatonia,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"Member, State BoE",10,,"Under Votes",69,2,42,25
+Fayette,316 Flatonia,"State Representative",85,REP,"Stan Kitzman",1294,46,718,530
+Fayette,316 Flatonia,"State Representative",85,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"State Representative",85,,"Under Votes",298,35,145,118
+Fayette,316 Flatonia,"Justice, 3rd Ct of App Dist",Pl 2,REP,"John Messinger",1204,41,690,473
+Fayette,316 Flatonia,"Justice, 3rd Ct of App Dist",Pl 2,DEM,"Maggie Ellis",295,37,123,135
+Fayette,316 Flatonia,"Justice, 3rd Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"Justice, 3rd Ct of App Dist",Pl 2,,"Under Votes",93,3,50,40
+Fayette,316 Flatonia,"Justice, 3rd Ct of App Dist",Pl 3,DEM,"Chari Kelly",612,45,293,274
+Fayette,316 Flatonia,"Justice, 3rd Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"Justice, 3rd Ct of App Dist",Pl 3,,"Under Votes",980,36,570,374
+Fayette,316 Flatonia,"Justice, 3rd Ct of App Dist",Pl 5,DEM,"Karin Crump",603,46,295,262
+Fayette,316 Flatonia,"Justice, 3rd Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"Justice, 3rd Ct of App Dist",Pl 5,,"Under Votes",989,35,568,386
+Fayette,316 Flatonia,"Justice, 3rd Ct of App Dist",Pl 6,DEM,"Gisela D. Triana",594,45,289,260
+Fayette,316 Flatonia,"Justice, 3rd Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"Justice, 3rd Ct of App Dist",Pl 6,,"Under Votes",998,36,574,388
+Fayette,316 Flatonia,"County Attorney",,REP,"James Herbrich",1332,48,738,546
+Fayette,316 Flatonia,"County Attorney",,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"County Attorney",,,"Under Votes",260,33,125,102
+Fayette,316 Flatonia,"Sheriff",,REP,"Keith Korenek",1341,48,740,553
+Fayette,316 Flatonia,"Sheriff",,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"Sheriff",,,"Under Votes",251,33,123,95
+Fayette,316 Flatonia,"County Tax Assessor-Collector",,REP,"Sylvia Mendoza",1355,55,747,553
+Fayette,316 Flatonia,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"County Tax Assessor-Collector",,,"Under Votes",237,26,116,95
+Fayette,316 Flatonia,"County Commissioner",Pct 3,REP,"Harvey Berckenhoff",1334,50,739,545
+Fayette,316 Flatonia,"County Commissioner",Pct 3,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"County Commissioner",Pct 3,,"Under Votes",258,31,124,103
+Fayette,316 Flatonia,"Constable",Pct 3,REP,"Robert H. Chambers",1325,51,730,544
+Fayette,316 Flatonia,"Constable",Pct 3,,"Over Votes",0,0,0,0
+Fayette,316 Flatonia,"Constable",Pct 3,,"Under Votes",267,30,133,104
+Fayette,422 Ammannsville,"Registered Voters",,,,700,,,
+Fayette,422 Ammannsville,"Ballots Cast",,,,603,23,356,224
+Fayette,422 Ammannsville,"Ballots Cast Blank",,,,0,0,0,0
+Fayette,422 Ammannsville,"President",,REP,"Donald J. Trump/JD Vance",504,14,291,199
+Fayette,422 Ammannsville,"President",,DEM,"Kamala D. Harris/Tim Walz",94,8,63,23
+Fayette,422 Ammannsville,"President",,LIB,"Chase Oliver/Mike ter Maat",2,0,1,1
+Fayette,422 Ammannsville,"President",,GRN,"Jill Stein/Rudolph Ware",1,1,0,0
+Fayette,422 Ammannsville,"President",,,"Write-ins",1,0,1,0
+Fayette,422 Ammannsville,"President",,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"President",,,"Under Votes",1,0,0,1
+Fayette,422 Ammannsville,"U.S. Senate",,REP,"Ted Cruz",491,14,288,189
+Fayette,422 Ammannsville,"U.S. Senate",,DEM,"Colin Allred",103,9,63,31
+Fayette,422 Ammannsville,"U.S. Senate",,LIB,"Ted Brown",7,0,3,4
+Fayette,422 Ammannsville,"U.S. Senate",,,"Write-ins",0,0,0,0
+Fayette,422 Ammannsville,"U.S. Senate",,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"U.S. Senate",,,"Under Votes",2,0,0,2
+Fayette,422 Ammannsville,"U.S. House",10,REP,"Michael T. McCaul",501,14,293,194
+Fayette,422 Ammannsville,"U.S. House",10,DEM,"Theresa Boisseau",79,9,53,17
+Fayette,422 Ammannsville,"U.S. House",10,LIB,"Jeff Miller",7,0,3,4
+Fayette,422 Ammannsville,"U.S. House",10,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"U.S. House",10,,"Under Votes",16,0,7,9
+Fayette,422 Ammannsville,"Railroad Commissioner",,REP,"Christi Craddick",489,15,285,189
+Fayette,422 Ammannsville,"Railroad Commissioner",,DEM,"Katherine Culbert",80,8,53,19
+Fayette,422 Ammannsville,"Railroad Commissioner",,LIB,"Hawk Dunlap",10,0,5,5
+Fayette,422 Ammannsville,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,2,1
+Fayette,422 Ammannsville,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Fayette,422 Ammannsville,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"Railroad Commissioner",,,"Under Votes",21,0,11,10
+Fayette,422 Ammannsville,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",499,17,291,191
+Fayette,422 Ammannsville,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",80,6,54,20
+Fayette,422 Ammannsville,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"Justice, Supreme Court",Pl 2,,"Under Votes",24,0,11,13
+Fayette,422 Ammannsville,"Justice, Supreme Court",Pl 4,REP,"John Devine",488,13,288,187
+Fayette,422 Ammannsville,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",85,9,57,19
+Fayette,422 Ammannsville,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"Justice, Supreme Court",Pl 4,,"Under Votes",30,1,11,18
+Fayette,422 Ammannsville,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",484,15,282,187
+Fayette,422 Ammannsville,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",82,8,54,20
+Fayette,422 Ammannsville,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",8,0,4,4
+Fayette,422 Ammannsville,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"Justice, Supreme Court",Pl 6,,"Under Votes",29,0,16,13
+Fayette,422 Ammannsville,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",491,14,286,191
+Fayette,422 Ammannsville,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",84,9,57,18
+Fayette,422 Ammannsville,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"Presiding Judge, Ct of Crim App",,,"Under Votes",28,0,13,15
+Fayette,422 Ammannsville,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",486,15,286,185
+Fayette,422 Ammannsville,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",84,6,57,21
+Fayette,422 Ammannsville,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"Judge, Ct of Crim App",Pl 7,,"Under Votes",33,2,13,18
+Fayette,422 Ammannsville,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",494,14,290,190
+Fayette,422 Ammannsville,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",81,9,52,20
+Fayette,422 Ammannsville,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"Judge, Ct of Crim App",Pl 8,,"Under Votes",28,0,14,14
+Fayette,422 Ammannsville,"Member, State BoE",10,REP,"Tom Maynard",491,15,287,189
+Fayette,422 Ammannsville,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",86,8,54,24
+Fayette,422 Ammannsville,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"Member, State BoE",10,,"Under Votes",26,0,15,11
+Fayette,422 Ammannsville,"State Representative",85,REP,"Stan Kitzman",517,16,307,194
+Fayette,422 Ammannsville,"State Representative",85,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"State Representative",85,,"Under Votes",86,7,49,30
+Fayette,422 Ammannsville,"Justice, 3rd Ct of App Dist",Pl 2,REP,"John Messinger",484,14,282,188
+Fayette,422 Ammannsville,"Justice, 3rd Ct of App Dist",Pl 2,DEM,"Maggie Ellis",89,8,59,22
+Fayette,422 Ammannsville,"Justice, 3rd Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"Justice, 3rd Ct of App Dist",Pl 2,,"Under Votes",30,1,15,14
+Fayette,422 Ammannsville,"Justice, 3rd Ct of App Dist",Pl 3,DEM,"Chari Kelly",220,11,127,82
+Fayette,422 Ammannsville,"Justice, 3rd Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"Justice, 3rd Ct of App Dist",Pl 3,,"Under Votes",383,12,229,142
+Fayette,422 Ammannsville,"Justice, 3rd Ct of App Dist",Pl 5,DEM,"Karin Crump",213,11,121,81
+Fayette,422 Ammannsville,"Justice, 3rd Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"Justice, 3rd Ct of App Dist",Pl 5,,"Under Votes",390,12,235,143
+Fayette,422 Ammannsville,"Justice, 3rd Ct of App Dist",Pl 6,DEM,"Gisela D. Triana",212,10,122,80
+Fayette,422 Ammannsville,"Justice, 3rd Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"Justice, 3rd Ct of App Dist",Pl 6,,"Under Votes",391,13,234,144
+Fayette,422 Ammannsville,"County Attorney",,REP,"James Herbrich",523,20,309,194
+Fayette,422 Ammannsville,"County Attorney",,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"County Attorney",,,"Under Votes",80,3,47,30
+Fayette,422 Ammannsville,"Sheriff",,REP,"Keith Korenek",527,19,311,197
+Fayette,422 Ammannsville,"Sheriff",,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"Sheriff",,,"Under Votes",76,4,45,27
+Fayette,422 Ammannsville,"County Tax Assessor-Collector",,REP,"Sylvia Mendoza",520,19,307,194
+Fayette,422 Ammannsville,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"County Tax Assessor-Collector",,,"Under Votes",83,4,49,30
+Fayette,422 Ammannsville,"Constable",Pct 4,REP,"Jason Strickland",515,19,302,194
+Fayette,422 Ammannsville,"Constable",Pct 4,,"Over Votes",0,0,0,0
+Fayette,422 Ammannsville,"Constable",Pct 4,,"Under Votes",88,4,54,30
+Fayette,423 Holman,"Registered Voters",,,,894,,,
+Fayette,423 Holman,"Ballots Cast",,,,696,13,496,187
+Fayette,423 Holman,"Ballots Cast Blank",,,,0,0,0,0
+Fayette,423 Holman,"President",,REP,"Donald J. Trump/JD Vance",560,8,401,151
+Fayette,423 Holman,"President",,DEM,"Kamala D. Harris/Tim Walz",119,5,83,31
+Fayette,423 Holman,"President",,LIB,"Chase Oliver/Mike ter Maat",4,0,3,1
+Fayette,423 Holman,"President",,GRN,"Jill Stein/Rudolph Ware",2,0,1,1
+Fayette,423 Holman,"President",,,"Write-ins",4,0,3,1
+Fayette,423 Holman,"President",,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"President",,,"Under Votes",7,0,5,2
+Fayette,423 Holman,"U.S. Senate",,REP,"Ted Cruz",541,8,393,140
+Fayette,423 Holman,"U.S. Senate",,DEM,"Colin Allred",132,5,89,38
+Fayette,423 Holman,"U.S. Senate",,LIB,"Ted Brown",16,0,9,7
+Fayette,423 Holman,"U.S. Senate",,,"Write-ins",0,0,0,0
+Fayette,423 Holman,"U.S. Senate",,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"U.S. Senate",,,"Under Votes",7,0,5,2
+Fayette,423 Holman,"U.S. House",10,REP,"Michael T. McCaul",561,9,403,149
+Fayette,423 Holman,"U.S. House",10,DEM,"Theresa Boisseau",102,4,74,24
+Fayette,423 Holman,"U.S. House",10,LIB,"Jeff Miller",9,0,5,4
+Fayette,423 Holman,"U.S. House",10,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"U.S. House",10,,"Under Votes",24,0,14,10
+Fayette,423 Holman,"Railroad Commissioner",,REP,"Christi Craddick",546,8,398,140
+Fayette,423 Holman,"Railroad Commissioner",,DEM,"Katherine Culbert",105,4,76,25
+Fayette,423 Holman,"Railroad Commissioner",,LIB,"Hawk Dunlap",19,0,11,8
+Fayette,423 Holman,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,1,2
+Fayette,423 Holman,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Fayette,423 Holman,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"Railroad Commissioner",,,"Under Votes",23,1,10,12
+Fayette,423 Holman,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",560,8,402,150
+Fayette,423 Holman,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",110,4,83,23
+Fayette,423 Holman,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"Justice, Supreme Court",Pl 2,,"Under Votes",26,1,11,14
+Fayette,423 Holman,"Justice, Supreme Court",Pl 4,REP,"John Devine",551,8,401,142
+Fayette,423 Holman,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",120,4,86,30
+Fayette,423 Holman,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"Justice, Supreme Court",Pl 4,,"Under Votes",25,1,9,15
+Fayette,423 Holman,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",549,8,401,140
+Fayette,423 Holman,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",110,4,78,28
+Fayette,423 Holman,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",14,0,9,5
+Fayette,423 Holman,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"Justice, Supreme Court",Pl 6,,"Under Votes",23,1,7,15
+Fayette,423 Holman,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",557,8,403,146
+Fayette,423 Holman,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",114,4,83,27
+Fayette,423 Holman,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"Presiding Judge, Ct of Crim App",,,"Under Votes",25,1,10,14
+Fayette,423 Holman,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",556,8,401,147
+Fayette,423 Holman,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",113,4,84,25
+Fayette,423 Holman,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"Judge, Ct of Crim App",Pl 7,,"Under Votes",27,1,11,15
+Fayette,423 Holman,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",561,8,404,149
+Fayette,423 Holman,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",110,4,82,24
+Fayette,423 Holman,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"Judge, Ct of Crim App",Pl 8,,"Under Votes",25,1,10,14
+Fayette,423 Holman,"Member, State BoE",10,REP,"Tom Maynard",556,9,401,146
+Fayette,423 Holman,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",110,4,81,25
+Fayette,423 Holman,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"Member, State BoE",10,,"Under Votes",30,0,14,16
+Fayette,423 Holman,"State Representative",85,REP,"Stan Kitzman",590,9,421,160
+Fayette,423 Holman,"State Representative",85,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"State Representative",85,,"Under Votes",106,4,75,27
+Fayette,423 Holman,"Justice, 3rd Ct of App Dist",Pl 2,REP,"John Messinger",549,8,396,145
+Fayette,423 Holman,"Justice, 3rd Ct of App Dist",Pl 2,DEM,"Maggie Ellis",113,4,83,26
+Fayette,423 Holman,"Justice, 3rd Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"Justice, 3rd Ct of App Dist",Pl 2,,"Under Votes",34,1,17,16
+Fayette,423 Holman,"Justice, 3rd Ct of App Dist",Pl 3,DEM,"Chari Kelly",268,5,194,69
+Fayette,423 Holman,"Justice, 3rd Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"Justice, 3rd Ct of App Dist",Pl 3,,"Under Votes",428,8,302,118
+Fayette,423 Holman,"Justice, 3rd Ct of App Dist",Pl 5,DEM,"Karin Crump",258,5,191,62
+Fayette,423 Holman,"Justice, 3rd Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"Justice, 3rd Ct of App Dist",Pl 5,,"Under Votes",438,8,305,125
+Fayette,423 Holman,"Justice, 3rd Ct of App Dist",Pl 6,DEM,"Gisela D. Triana",268,5,197,66
+Fayette,423 Holman,"Justice, 3rd Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"Justice, 3rd Ct of App Dist",Pl 6,,"Under Votes",428,8,299,121
+Fayette,423 Holman,"County Attorney",,REP,"James Herbrich",610,10,436,164
+Fayette,423 Holman,"County Attorney",,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"County Attorney",,,"Under Votes",86,3,60,23
+Fayette,423 Holman,"Sheriff",,REP,"Keith Korenek",612,8,438,166
+Fayette,423 Holman,"Sheriff",,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"Sheriff",,,"Under Votes",84,5,58,21
+Fayette,423 Holman,"County Tax Assessor-Collector",,REP,"Sylvia Mendoza",600,11,428,161
+Fayette,423 Holman,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"County Tax Assessor-Collector",,,"Under Votes",96,2,68,26
+Fayette,423 Holman,"Constable",Pct 4,REP,"Jason Strickland",595,9,425,161
+Fayette,423 Holman,"Constable",Pct 4,,"Over Votes",0,0,0,0
+Fayette,423 Holman,"Constable",Pct 4,,"Under Votes",101,4,71,26
+Fayette,425 Schulenburg,"Registered Voters",,,,2723,,,
+Fayette,425 Schulenburg,"Ballots Cast",,,,1832,99,1006,727
+Fayette,425 Schulenburg,"Ballots Cast Blank",,,,0,0,0,0
+Fayette,425 Schulenburg,"President",,REP,"Donald J. Trump/JD Vance",1422,58,810,554
+Fayette,425 Schulenburg,"President",,DEM,"Kamala D. Harris/Tim Walz",376,40,183,153
+Fayette,425 Schulenburg,"President",,LIB,"Chase Oliver/Mike ter Maat",9,0,3,6
+Fayette,425 Schulenburg,"President",,GRN,"Jill Stein/Rudolph Ware",10,1,2,7
+Fayette,425 Schulenburg,"President",,,"Write-ins",4,0,2,2
+Fayette,425 Schulenburg,"President",,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"President",,,"Under Votes",11,0,6,5
+Fayette,425 Schulenburg,"U.S. Senate",,REP,"Ted Cruz",1383,57,796,530
+Fayette,425 Schulenburg,"U.S. Senate",,DEM,"Colin Allred",400,38,190,172
+Fayette,425 Schulenburg,"U.S. Senate",,LIB,"Ted Brown",30,2,11,17
+Fayette,425 Schulenburg,"U.S. Senate",,,"Write-ins",2,0,0,2
+Fayette,425 Schulenburg,"U.S. Senate",,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"U.S. Senate",,,"Under Votes",17,2,9,6
+Fayette,425 Schulenburg,"U.S. House",10,REP,"Michael T. McCaul",1416,62,813,541
+Fayette,425 Schulenburg,"U.S. House",10,DEM,"Theresa Boisseau",325,34,150,141
+Fayette,425 Schulenburg,"U.S. House",10,LIB,"Jeff Miller",27,0,9,18
+Fayette,425 Schulenburg,"U.S. House",10,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"U.S. House",10,,"Under Votes",64,3,34,27
+Fayette,425 Schulenburg,"Railroad Commissioner",,REP,"Christi Craddick",1391,56,804,531
+Fayette,425 Schulenburg,"Railroad Commissioner",,DEM,"Katherine Culbert",337,38,162,137
+Fayette,425 Schulenburg,"Railroad Commissioner",,LIB,"Hawk Dunlap",26,0,9,17
+Fayette,425 Schulenburg,"Railroad Commissioner",,GRN,"Eddie Espinoza",13,0,2,11
+Fayette,425 Schulenburg,"Railroad Commissioner",,,"Write-ins",2,0,0,2
+Fayette,425 Schulenburg,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"Railroad Commissioner",,,"Under Votes",63,5,29,29
+Fayette,425 Schulenburg,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1418,60,814,544
+Fayette,425 Schulenburg,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",343,34,161,148
+Fayette,425 Schulenburg,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"Justice, Supreme Court",Pl 2,,"Under Votes",71,5,31,35
+Fayette,425 Schulenburg,"Justice, Supreme Court",Pl 4,REP,"John Devine",1385,58,806,521
+Fayette,425 Schulenburg,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",349,33,164,152
+Fayette,425 Schulenburg,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"Justice, Supreme Court",Pl 4,,"Under Votes",98,8,36,54
+Fayette,425 Schulenburg,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1378,56,793,529
+Fayette,425 Schulenburg,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",342,36,159,147
+Fayette,425 Schulenburg,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",30,0,10,20
+Fayette,425 Schulenburg,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"Justice, Supreme Court",Pl 6,,"Under Votes",82,7,44,31
+Fayette,425 Schulenburg,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1392,55,804,533
+Fayette,425 Schulenburg,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",353,37,161,155
+Fayette,425 Schulenburg,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"Presiding Judge, Ct of Crim App",,,"Under Votes",87,7,41,39
+Fayette,425 Schulenburg,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1401,56,808,537
+Fayette,425 Schulenburg,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",333,35,155,143
+Fayette,425 Schulenburg,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"Judge, Ct of Crim App",Pl 7,,"Under Votes",98,8,43,47
+Fayette,425 Schulenburg,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1420,57,809,554
+Fayette,425 Schulenburg,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",323,35,148,140
+Fayette,425 Schulenburg,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"Judge, Ct of Crim App",Pl 8,,"Under Votes",89,7,49,33
+Fayette,425 Schulenburg,"Member, State BoE",10,REP,"Tom Maynard",1390,57,799,534
+Fayette,425 Schulenburg,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",353,35,156,162
+Fayette,425 Schulenburg,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"Member, State BoE",10,,"Under Votes",89,7,51,31
+Fayette,425 Schulenburg,"State Representative",85,REP,"Stan Kitzman",1494,69,827,598
+Fayette,425 Schulenburg,"State Representative",85,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"State Representative",85,,"Under Votes",338,30,179,129
+Fayette,425 Schulenburg,"Justice, 3rd Ct of App Dist",Pl 2,REP,"John Messinger",1384,53,798,533
+Fayette,425 Schulenburg,"Justice, 3rd Ct of App Dist",Pl 2,DEM,"Maggie Ellis",343,33,154,156
+Fayette,425 Schulenburg,"Justice, 3rd Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"Justice, 3rd Ct of App Dist",Pl 2,,"Under Votes",105,13,54,38
+Fayette,425 Schulenburg,"Justice, 3rd Ct of App Dist",Pl 3,DEM,"Chari Kelly",734,44,360,330
+Fayette,425 Schulenburg,"Justice, 3rd Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"Justice, 3rd Ct of App Dist",Pl 3,,"Under Votes",1098,55,646,397
+Fayette,425 Schulenburg,"Justice, 3rd Ct of App Dist",Pl 5,DEM,"Karin Crump",705,42,341,322
+Fayette,425 Schulenburg,"Justice, 3rd Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"Justice, 3rd Ct of App Dist",Pl 5,,"Under Votes",1127,57,665,405
+Fayette,425 Schulenburg,"Justice, 3rd Ct of App Dist",Pl 6,DEM,"Gisela D. Triana",714,41,351,322
+Fayette,425 Schulenburg,"Justice, 3rd Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"Justice, 3rd Ct of App Dist",Pl 6,,"Under Votes",1118,58,655,405
+Fayette,425 Schulenburg,"County Attorney",,REP,"James Herbrich",1514,75,838,601
+Fayette,425 Schulenburg,"County Attorney",,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"County Attorney",,,"Under Votes",318,24,168,126
+Fayette,425 Schulenburg,"Sheriff",,REP,"Keith Korenek",1573,79,875,619
+Fayette,425 Schulenburg,"Sheriff",,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"Sheriff",,,"Under Votes",259,20,131,108
+Fayette,425 Schulenburg,"County Tax Assessor-Collector",,REP,"Sylvia Mendoza",1571,81,855,635
+Fayette,425 Schulenburg,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"County Tax Assessor-Collector",,,"Under Votes",261,18,151,92
+Fayette,425 Schulenburg,"Constable",Pct 4,REP,"Jason Strickland",1553,79,854,620
+Fayette,425 Schulenburg,"Constable",Pct 4,,"Over Votes",0,0,0,0
+Fayette,425 Schulenburg,"Constable",Pct 4,,"Under Votes",279,20,152,107
