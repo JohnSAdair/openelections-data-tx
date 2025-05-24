@@ -1,0 +1,1368 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Colorado,101 - Columbus/Glidden,"Ballots Cast",,,,1483,68,1138,277
+Colorado,101 - Columbus/Glidden,"Ballots Cast Blank",,,,1,0,0,1
+Colorado,101 - Columbus/Glidden,"President",,REP,"Donald J. Trump/JD Vance",1109,40,868,201
+Colorado,101 - Columbus/Glidden,"President",,DEM,"Kamala D. Harris/Tim Walz",360,28,260,72
+Colorado,101 - Columbus/Glidden,"President",,LIB,"Chase Oliver/Mike ter Maat",6,0,5,1
+Colorado,101 - Columbus/Glidden,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Colorado,101 - Columbus/Glidden,"President",,,"Write-ins",4,0,2,2
+Colorado,101 - Columbus/Glidden,"President",,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"President",,,"Under Votes",4,0,3,1
+Colorado,101 - Columbus/Glidden,"U.S. Senate",,REP,"Ted Cruz",1056,40,836,180
+Colorado,101 - Columbus/Glidden,"U.S. Senate",,DEM,"Colin Allred",378,27,269,82
+Colorado,101 - Columbus/Glidden,"U.S. Senate",,LIB,"Ted Brown",18,0,12,6
+Colorado,101 - Columbus/Glidden,"U.S. Senate",,,"Write-ins",1,0,1,0
+Colorado,101 - Columbus/Glidden,"U.S. Senate",,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"U.S. Senate",,,"Under Votes",30,1,20,9
+Colorado,101 - Columbus/Glidden,"U.S. House",10,REP,"Michael T. McCaul",1088,41,852,195
+Colorado,101 - Columbus/Glidden,"U.S. House",10,DEM,"Theresa Boisseau",312,24,222,66
+Colorado,101 - Columbus/Glidden,"U.S. House",10,LIB,"Jeff Miller",26,0,22,4
+Colorado,101 - Columbus/Glidden,"U.S. House",10,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"U.S. House",10,,"Under Votes",57,3,42,12
+Colorado,101 - Columbus/Glidden,"Railroad Commissioner",,REP,"Christi Craddick",1049,40,829,180
+Colorado,101 - Columbus/Glidden,"Railroad Commissioner",,DEM,"Katherine Culbert",319,23,233,63
+Colorado,101 - Columbus/Glidden,"Railroad Commissioner",,LIB,"Hawk Dunlap",30,1,22,7
+Colorado,101 - Columbus/Glidden,"Railroad Commissioner",,GRN,"Eddie Espinoza",22,0,11,11
+Colorado,101 - Columbus/Glidden,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Railroad Commissioner",,,"Under Votes",63,4,43,16
+Colorado,101 - Columbus/Glidden,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1076,40,850,186
+Colorado,101 - Columbus/Glidden,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",336,24,240,72
+Colorado,101 - Columbus/Glidden,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Justice, Supreme Court",Pl 2,,"Under Votes",71,4,48,19
+Colorado,101 - Columbus/Glidden,"Justice, Supreme Court",Pl 4,REP,"John Devine",1074,40,852,182
+Colorado,101 - Columbus/Glidden,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",335,23,238,74
+Colorado,101 - Columbus/Glidden,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Justice, Supreme Court",Pl 4,,"Under Votes",74,5,48,21
+Colorado,101 - Columbus/Glidden,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1059,40,840,179
+Colorado,101 - Columbus/Glidden,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",317,23,227,67
+Colorado,101 - Columbus/Glidden,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",30,0,19,11
+Colorado,101 - Columbus/Glidden,"Justice, Supreme Court",Pl 6,,"Over Votes",1,0,0,1
+Colorado,101 - Columbus/Glidden,"Justice, Supreme Court",Pl 6,,"Under Votes",76,5,52,19
+Colorado,101 - Columbus/Glidden,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1074,39,856,179
+Colorado,101 - Columbus/Glidden,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",331,24,232,75
+Colorado,101 - Columbus/Glidden,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Presiding Judge, Ct of Crim App",,,"Under Votes",78,5,50,23
+Colorado,101 - Columbus/Glidden,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1074,39,859,176
+Colorado,101 - Columbus/Glidden,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",319,21,226,72
+Colorado,101 - Columbus/Glidden,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Judge, Ct of Crim App",Pl 7,,"Under Votes",90,8,53,29
+Colorado,101 - Columbus/Glidden,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1083,41,856,186
+Colorado,101 - Columbus/Glidden,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",316,22,228,66
+Colorado,101 - Columbus/Glidden,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Judge, Ct of Crim App",Pl 8,,"Under Votes",84,5,54,25
+Colorado,101 - Columbus/Glidden,"Member, State BoE",10,REP,"Tom Maynard",1071,38,849,184
+Colorado,101 - Columbus/Glidden,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",337,26,237,74
+Colorado,101 - Columbus/Glidden,"Member, State BoE",10,,"Over Votes",1,0,1,0
+Colorado,101 - Columbus/Glidden,"Member, State BoE",10,,"Under Votes",74,4,51,19
+Colorado,101 - Columbus/Glidden,"State Senate",17,REP,"Joan Huffman",1090,40,858,192
+Colorado,101 - Columbus/Glidden,"State Senate",17,DEM,"Kathy Cheng",317,23,227,67
+Colorado,101 - Columbus/Glidden,"State Senate",17,,"Over Votes",1,0,1,0
+Colorado,101 - Columbus/Glidden,"State Senate",17,,"Under Votes",75,5,52,18
+Colorado,101 - Columbus/Glidden,"State Representative",85,REP,"Stan Kitzman",1141,39,892,210
+Colorado,101 - Columbus/Glidden,"State Representative",85,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"State Representative",85,,"Under Votes",342,29,246,67
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",1074,40,851,183
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",320,22,229,69
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",89,6,58,25
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",1069,39,846,184
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",323,23,228,72
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",91,6,64,21
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",1070,38,846,186
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",323,24,228,71
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",90,6,64,20
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",1070,40,846,184
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",322,20,227,75
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",91,8,65,18
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",1069,40,844,185
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",323,21,229,73
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",91,7,65,19
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",1069,38,845,186
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",326,23,232,71
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",88,7,61,20
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",1071,40,845,186
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",317,22,224,71
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",95,6,69,20
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 5,REP,"Martiza Michele Antu",1047,38,830,179
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",338,24,241,73
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",98,6,67,25
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",1074,40,849,185
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",318,21,227,70
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",91,7,62,22
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",1066,40,840,186
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret ""Meg"" Poissant",327,22,235,70
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",90,6,63,21
+Colorado,101 - Columbus/Glidden,"Dist Judge, 25th Judicial Dist",,REP,"Bill Old",1141,40,894,207
+Colorado,101 - Columbus/Glidden,"Dist Judge, 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Dist Judge, 25th Judicial Dist",,,"Under Votes",342,28,244,70
+Colorado,101 - Columbus/Glidden,"Dist Judge, 2nd 25th Judicial Dist",,REP,"Jessica Richard Crawford",1167,41,916,210
+Colorado,101 - Columbus/Glidden,"Dist Judge, 2nd 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Dist Judge, 2nd 25th Judicial Dist",,,"Under Votes",316,27,222,67
+Colorado,101 - Columbus/Glidden,"County Attorney",,REP,"Jay Johannes",1187,43,927,217
+Colorado,101 - Columbus/Glidden,"County Attorney",,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"County Attorney",,,"Under Votes",296,25,211,60
+Colorado,101 - Columbus/Glidden,"Sheriff",,REP,"Justin Lindemann",1197,43,939,215
+Colorado,101 - Columbus/Glidden,"Sheriff",,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Sheriff",,,"Under Votes",286,25,199,62
+Colorado,101 - Columbus/Glidden,"County Tax Assessor-Collector",,REP,"Melinda A. Zajicek",1209,44,946,219
+Colorado,101 - Columbus/Glidden,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"County Tax Assessor-Collector",,,"Under Votes",274,24,192,58
+Colorado,101 - Columbus/Glidden,"County Commissioner",Pct 1,REP,"Shannon Owers",1184,41,929,214
+Colorado,101 - Columbus/Glidden,"County Commissioner",Pct 1,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"County Commissioner",Pct 1,,"Under Votes",299,27,209,63
+Colorado,101 - Columbus/Glidden,"Constable",Pct 1,REP,"Richard J. LaCourse",1216,43,954,219
+Colorado,101 - Columbus/Glidden,"Constable",Pct 1,,"Over Votes",0,0,0,0
+Colorado,101 - Columbus/Glidden,"Constable",Pct 1,,"Under Votes",267,25,184,58
+Colorado,102 - Rock Island,"Ballots Cast",,,,235,4,153,78
+Colorado,102 - Rock Island,"Ballots Cast Blank",,,,1,1,0,0
+Colorado,102 - Rock Island,"President",,REP,"Donald J. Trump/JD Vance",188,1,117,70
+Colorado,102 - Rock Island,"President",,DEM,"Kamala D. Harris/Tim Walz",44,2,35,7
+Colorado,102 - Rock Island,"President",,LIB,"Chase Oliver/Mike ter Maat",1,0,1,0
+Colorado,102 - Rock Island,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Colorado,102 - Rock Island,"President",,,"Write-ins",0,0,0,0
+Colorado,102 - Rock Island,"President",,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"President",,,"Under Votes",2,1,0,1
+Colorado,102 - Rock Island,"U.S. Senate",,REP,"Ted Cruz",177,1,110,66
+Colorado,102 - Rock Island,"U.S. Senate",,DEM,"Colin Allred",46,2,35,9
+Colorado,102 - Rock Island,"U.S. Senate",,LIB,"Ted Brown",7,0,4,3
+Colorado,102 - Rock Island,"U.S. Senate",,,"Write-ins",0,0,0,0
+Colorado,102 - Rock Island,"U.S. Senate",,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"U.S. Senate",,,"Under Votes",5,1,4,0
+Colorado,102 - Rock Island,"U.S. House",10,REP,"Michael T. McCaul",177,1,112,64
+Colorado,102 - Rock Island,"U.S. House",10,DEM,"Theresa Boisseau",40,2,29,9
+Colorado,102 - Rock Island,"U.S. House",10,LIB,"Jeff Miller",3,0,3,0
+Colorado,102 - Rock Island,"U.S. House",10,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"U.S. House",10,,"Under Votes",15,1,9,5
+Colorado,102 - Rock Island,"Railroad Commissioner",,REP,"Christi Craddick",176,1,111,64
+Colorado,102 - Rock Island,"Railroad Commissioner",,DEM,"Katherine Culbert",37,1,29,7
+Colorado,102 - Rock Island,"Railroad Commissioner",,LIB,"Hawk Dunlap",6,0,5,1
+Colorado,102 - Rock Island,"Railroad Commissioner",,GRN,"Eddie Espinoza",4,1,1,2
+Colorado,102 - Rock Island,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Colorado,102 - Rock Island,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Railroad Commissioner",,,"Under Votes",12,1,7,4
+Colorado,102 - Rock Island,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",182,1,115,66
+Colorado,102 - Rock Island,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",42,1,33,8
+Colorado,102 - Rock Island,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Justice, Supreme Court",Pl 2,,"Under Votes",11,2,5,4
+Colorado,102 - Rock Island,"Justice, Supreme Court",Pl 4,REP,"John Devine",178,1,114,63
+Colorado,102 - Rock Island,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",47,2,34,11
+Colorado,102 - Rock Island,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Justice, Supreme Court",Pl 4,,"Under Votes",10,1,5,4
+Colorado,102 - Rock Island,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",180,1,114,65
+Colorado,102 - Rock Island,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",40,1,31,8
+Colorado,102 - Rock Island,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",5,1,3,1
+Colorado,102 - Rock Island,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Justice, Supreme Court",Pl 6,,"Under Votes",10,1,5,4
+Colorado,102 - Rock Island,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",183,1,115,67
+Colorado,102 - Rock Island,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",39,2,30,7
+Colorado,102 - Rock Island,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Presiding Judge, Ct of Crim App",,,"Under Votes",13,1,8,4
+Colorado,102 - Rock Island,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",181,1,113,67
+Colorado,102 - Rock Island,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",41,1,33,7
+Colorado,102 - Rock Island,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Judge, Ct of Crim App",Pl 7,,"Under Votes",13,2,7,4
+Colorado,102 - Rock Island,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",179,1,111,67
+Colorado,102 - Rock Island,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",41,1,32,8
+Colorado,102 - Rock Island,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Judge, Ct of Crim App",Pl 8,,"Under Votes",15,2,10,3
+Colorado,102 - Rock Island,"Member, State BoE",10,REP,"Tom Maynard",178,1,110,67
+Colorado,102 - Rock Island,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",41,1,32,8
+Colorado,102 - Rock Island,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Member, State BoE",10,,"Under Votes",16,2,11,3
+Colorado,102 - Rock Island,"State Senate",17,REP,"Joan Huffman",177,1,111,65
+Colorado,102 - Rock Island,"State Senate",17,DEM,"Kathy Cheng",44,2,32,10
+Colorado,102 - Rock Island,"State Senate",17,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"State Senate",17,,"Under Votes",14,1,10,3
+Colorado,102 - Rock Island,"State Representative",85,REP,"Stan Kitzman",187,1,120,66
+Colorado,102 - Rock Island,"State Representative",85,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"State Representative",85,,"Under Votes",48,3,33,12
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",178,1,114,63
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",42,2,30,10
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",15,1,9,5
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",176,1,110,65
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",39,2,29,8
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",20,1,14,5
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",171,1,107,63
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",42,2,31,9
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",22,1,15,6
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",177,1,111,65
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",38,2,28,8
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",20,1,14,5
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",177,1,112,64
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",39,2,28,9
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",19,1,13,5
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",175,1,109,65
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",39,2,30,7
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",21,1,14,6
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",177,1,109,67
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",39,2,30,7
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",19,1,14,4
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 5,REP,"Martiza Michele Antu",176,1,110,65
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",39,2,29,8
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",20,1,14,5
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",176,1,110,65
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",40,2,29,9
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",19,1,14,4
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",174,1,109,64
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret ""Meg"" Poissant",41,2,30,9
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",20,1,14,5
+Colorado,102 - Rock Island,"Dist Judge, 25th Judicial Dist",,REP,"Bill Old",183,1,119,63
+Colorado,102 - Rock Island,"Dist Judge, 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Dist Judge, 25th Judicial Dist",,,"Under Votes",52,3,34,15
+Colorado,102 - Rock Island,"Dist Judge, 2nd 25th Judicial Dist",,REP,"Jessica Richard Crawford",187,1,121,65
+Colorado,102 - Rock Island,"Dist Judge, 2nd 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Dist Judge, 2nd 25th Judicial Dist",,,"Under Votes",48,3,32,13
+Colorado,102 - Rock Island,"County Attorney",,REP,"Jay Johannes",184,1,121,62
+Colorado,102 - Rock Island,"County Attorney",,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"County Attorney",,,"Under Votes",51,3,32,16
+Colorado,102 - Rock Island,"Sheriff",,REP,"Justin Lindemann",191,2,127,62
+Colorado,102 - Rock Island,"Sheriff",,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Sheriff",,,"Under Votes",44,2,26,16
+Colorado,102 - Rock Island,"County Tax Assessor-Collector",,REP,"Melinda A. Zajicek",183,2,121,60
+Colorado,102 - Rock Island,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"County Tax Assessor-Collector",,,"Under Votes",52,2,32,18
+Colorado,102 - Rock Island,"County Commissioner",Pct 1,REP,"Shannon Owers",186,2,123,61
+Colorado,102 - Rock Island,"County Commissioner",Pct 1,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"County Commissioner",Pct 1,,"Under Votes",49,2,30,17
+Colorado,102 - Rock Island,"Constable",Pct 1,REP,"Richard J. LaCourse",188,2,124,62
+Colorado,102 - Rock Island,"Constable",Pct 1,,"Over Votes",0,0,0,0
+Colorado,102 - Rock Island,"Constable",Pct 1,,"Under Votes",47,2,29,16
+Colorado,103 - Garwood/Nada,"Ballots Cast",,,,437,10,228,199
+Colorado,103 - Garwood/Nada,"Ballots Cast Blank",,,,0,0,0,0
+Colorado,103 - Garwood/Nada,"President",,REP,"Donald J. Trump/JD Vance",392,7,207,178
+Colorado,103 - Garwood/Nada,"President",,DEM,"Kamala D. Harris/Tim Walz",43,3,21,19
+Colorado,103 - Garwood/Nada,"President",,LIB,"Chase Oliver/Mike ter Maat",1,0,0,1
+Colorado,103 - Garwood/Nada,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Colorado,103 - Garwood/Nada,"President",,,"Write-ins",0,0,0,0
+Colorado,103 - Garwood/Nada,"President",,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"President",,,"Under Votes",1,0,0,1
+Colorado,103 - Garwood/Nada,"U.S. Senate",,REP,"Ted Cruz",380,7,204,169
+Colorado,103 - Garwood/Nada,"U.S. Senate",,DEM,"Colin Allred",47,3,19,25
+Colorado,103 - Garwood/Nada,"U.S. Senate",,LIB,"Ted Brown",8,0,3,5
+Colorado,103 - Garwood/Nada,"U.S. Senate",,,"Write-ins",0,0,0,0
+Colorado,103 - Garwood/Nada,"U.S. Senate",,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"U.S. Senate",,,"Under Votes",2,0,2,0
+Colorado,103 - Garwood/Nada,"U.S. House",10,REP,"Michael T. McCaul",381,7,203,171
+Colorado,103 - Garwood/Nada,"U.S. House",10,DEM,"Theresa Boisseau",41,3,20,18
+Colorado,103 - Garwood/Nada,"U.S. House",10,LIB,"Jeff Miller",2,0,1,1
+Colorado,103 - Garwood/Nada,"U.S. House",10,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"U.S. House",10,,"Under Votes",13,0,4,9
+Colorado,103 - Garwood/Nada,"Railroad Commissioner",,REP,"Christi Craddick",379,7,204,168
+Colorado,103 - Garwood/Nada,"Railroad Commissioner",,DEM,"Katherine Culbert",39,2,19,18
+Colorado,103 - Garwood/Nada,"Railroad Commissioner",,LIB,"Hawk Dunlap",4,0,2,2
+Colorado,103 - Garwood/Nada,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,1,2
+Colorado,103 - Garwood/Nada,"Railroad Commissioner",,,"Write-ins",1,0,0,1
+Colorado,103 - Garwood/Nada,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Railroad Commissioner",,,"Under Votes",11,1,2,8
+Colorado,103 - Garwood/Nada,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",378,7,203,168
+Colorado,103 - Garwood/Nada,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",42,2,21,19
+Colorado,103 - Garwood/Nada,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Justice, Supreme Court",Pl 2,,"Under Votes",17,1,4,12
+Colorado,103 - Garwood/Nada,"Justice, Supreme Court",Pl 4,REP,"John Devine",384,8,206,170
+Colorado,103 - Garwood/Nada,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",39,1,20,18
+Colorado,103 - Garwood/Nada,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Justice, Supreme Court",Pl 4,,"Under Votes",14,1,2,11
+Colorado,103 - Garwood/Nada,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",380,8,202,170
+Colorado,103 - Garwood/Nada,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",38,1,20,17
+Colorado,103 - Garwood/Nada,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",4,0,3,1
+Colorado,103 - Garwood/Nada,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Justice, Supreme Court",Pl 6,,"Under Votes",15,1,3,11
+Colorado,103 - Garwood/Nada,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",377,6,203,168
+Colorado,103 - Garwood/Nada,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",43,2,22,19
+Colorado,103 - Garwood/Nada,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Presiding Judge, Ct of Crim App",,,"Under Votes",17,2,3,12
+Colorado,103 - Garwood/Nada,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",376,6,203,167
+Colorado,103 - Garwood/Nada,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",39,2,20,17
+Colorado,103 - Garwood/Nada,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Judge, Ct of Crim App",Pl 7,,"Under Votes",22,2,5,15
+Colorado,103 - Garwood/Nada,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",384,7,206,171
+Colorado,103 - Garwood/Nada,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",35,1,19,15
+Colorado,103 - Garwood/Nada,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Judge, Ct of Crim App",Pl 8,,"Under Votes",18,2,3,13
+Colorado,103 - Garwood/Nada,"Member, State BoE",10,REP,"Tom Maynard",378,7,202,169
+Colorado,103 - Garwood/Nada,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",41,2,21,18
+Colorado,103 - Garwood/Nada,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Member, State BoE",10,,"Under Votes",18,1,5,12
+Colorado,103 - Garwood/Nada,"State Senate",17,REP,"Joan Huffman",383,8,204,171
+Colorado,103 - Garwood/Nada,"State Senate",17,DEM,"Kathy Cheng",39,1,19,19
+Colorado,103 - Garwood/Nada,"State Senate",17,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"State Senate",17,,"Under Votes",15,1,5,9
+Colorado,103 - Garwood/Nada,"State Representative",85,REP,"Stan Kitzman",387,8,205,174
+Colorado,103 - Garwood/Nada,"State Representative",85,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"State Representative",85,,"Under Votes",50,2,23,25
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",383,7,203,173
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",38,2,20,16
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",16,1,5,10
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",379,7,203,169
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",38,2,20,16
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",20,1,5,14
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",383,7,205,171
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",37,2,19,16
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",17,1,4,12
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",379,7,202,170
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",36,1,19,16
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",22,2,7,13
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",378,7,202,169
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",36,1,19,16
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",23,2,7,14
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",379,8,200,171
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",36,1,19,16
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",22,1,9,12
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",380,7,201,172
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",35,1,21,13
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",22,2,6,14
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 5,REP,"Martiza Michele Antu",373,7,200,166
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",42,2,21,19
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",22,1,7,14
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",379,7,202,170
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",38,2,20,16
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",20,1,6,13
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",380,7,204,169
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret ""Meg"" Poissant",36,2,18,16
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",21,1,6,14
+Colorado,103 - Garwood/Nada,"Dist Judge, 25th Judicial Dist",,REP,"Bill Old",390,8,210,172
+Colorado,103 - Garwood/Nada,"Dist Judge, 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Dist Judge, 25th Judicial Dist",,,"Under Votes",47,2,18,27
+Colorado,103 - Garwood/Nada,"Dist Judge, 2nd 25th Judicial Dist",,REP,"Jessica Richard Crawford",391,8,210,173
+Colorado,103 - Garwood/Nada,"Dist Judge, 2nd 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Dist Judge, 2nd 25th Judicial Dist",,,"Under Votes",46,2,18,26
+Colorado,103 - Garwood/Nada,"County Attorney",,REP,"Jay Johannes",391,8,208,175
+Colorado,103 - Garwood/Nada,"County Attorney",,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"County Attorney",,,"Under Votes",46,2,20,24
+Colorado,103 - Garwood/Nada,"Sheriff",,REP,"Justin Lindemann",399,8,209,182
+Colorado,103 - Garwood/Nada,"Sheriff",,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Sheriff",,,"Under Votes",38,2,19,17
+Colorado,103 - Garwood/Nada,"County Tax Assessor-Collector",,REP,"Melinda A. Zajicek",397,9,208,180
+Colorado,103 - Garwood/Nada,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"County Tax Assessor-Collector",,,"Under Votes",40,1,20,19
+Colorado,103 - Garwood/Nada,"County Commissioner",Pct 3,REP,"Keith Ellis Neuendorff",395,8,208,179
+Colorado,103 - Garwood/Nada,"County Commissioner",Pct 3,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"County Commissioner",Pct 3,,"Under Votes",42,2,20,20
+Colorado,103 - Garwood/Nada,"Justice of the Peace -Pct 3 Unexpired",,REP,"Donald J. Clark",390,8,204,178
+Colorado,103 - Garwood/Nada,"Justice of the Peace -Pct 3 Unexpired",,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Justice of the Peace -Pct 3 Unexpired",,,"Under Votes",47,2,24,21
+Colorado,103 - Garwood/Nada,"Constable",Pct 3,REP,"Ivan V. Menke",390,8,204,178
+Colorado,103 - Garwood/Nada,"Constable",Pct 3,,"Over Votes",0,0,0,0
+Colorado,103 - Garwood/Nada,"Constable",Pct 3,,"Under Votes",47,2,24,21
+Colorado,201 - Weimar/Oakland,"Ballots Cast",,,,2367,82,1953,332
+Colorado,201 - Weimar/Oakland,"Ballots Cast Blank",,,,0,0,0,0
+Colorado,201 - Weimar/Oakland,"President",,REP,"Donald J. Trump/JD Vance",1877,43,1592,242
+Colorado,201 - Weimar/Oakland,"President",,DEM,"Kamala D. Harris/Tim Walz",460,38,338,84
+Colorado,201 - Weimar/Oakland,"President",,LIB,"Chase Oliver/Mike ter Maat",9,0,8,1
+Colorado,201 - Weimar/Oakland,"President",,GRN,"Jill Stein/Rudolph Ware",3,0,3,0
+Colorado,201 - Weimar/Oakland,"President",,,"Write-ins",4,1,3,0
+Colorado,201 - Weimar/Oakland,"President",,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"President",,,"Under Votes",14,0,9,5
+Colorado,201 - Weimar/Oakland,"U.S. Senate",,REP,"Ted Cruz",1821,42,1552,227
+Colorado,201 - Weimar/Oakland,"U.S. Senate",,DEM,"Colin Allred",479,37,349,93
+Colorado,201 - Weimar/Oakland,"U.S. Senate",,LIB,"Ted Brown",42,2,32,8
+Colorado,201 - Weimar/Oakland,"U.S. Senate",,,"Write-ins",0,0,0,0
+Colorado,201 - Weimar/Oakland,"U.S. Senate",,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"U.S. Senate",,,"Under Votes",25,1,20,4
+Colorado,201 - Weimar/Oakland,"U.S. House",10,REP,"Michael T. McCaul",1880,43,1593,244
+Colorado,201 - Weimar/Oakland,"U.S. House",10,DEM,"Theresa Boisseau",390,35,279,76
+Colorado,201 - Weimar/Oakland,"U.S. House",10,LIB,"Jeff Miller",34,0,29,5
+Colorado,201 - Weimar/Oakland,"U.S. House",10,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"U.S. House",10,,"Under Votes",63,4,52,7
+Colorado,201 - Weimar/Oakland,"Railroad Commissioner",,REP,"Christi Craddick",1856,38,1578,240
+Colorado,201 - Weimar/Oakland,"Railroad Commissioner",,DEM,"Katherine Culbert",381,32,279,70
+Colorado,201 - Weimar/Oakland,"Railroad Commissioner",,LIB,"Hawk Dunlap",35,3,24,8
+Colorado,201 - Weimar/Oakland,"Railroad Commissioner",,GRN,"Eddie Espinoza",21,0,17,4
+Colorado,201 - Weimar/Oakland,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Railroad Commissioner",,,"Under Votes",74,9,55,10
+Colorado,201 - Weimar/Oakland,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1901,41,1620,240
+Colorado,201 - Weimar/Oakland,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",392,33,280,79
+Colorado,201 - Weimar/Oakland,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Justice, Supreme Court",Pl 2,,"Under Votes",74,8,53,13
+Colorado,201 - Weimar/Oakland,"Justice, Supreme Court",Pl 4,REP,"John Devine",1884,42,1610,232
+Colorado,201 - Weimar/Oakland,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",406,33,286,87
+Colorado,201 - Weimar/Oakland,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Justice, Supreme Court",Pl 4,,"Under Votes",77,7,57,13
+Colorado,201 - Weimar/Oakland,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1875,41,1596,238
+Colorado,201 - Weimar/Oakland,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",374,32,267,75
+Colorado,201 - Weimar/Oakland,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",27,1,21,5
+Colorado,201 - Weimar/Oakland,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Justice, Supreme Court",Pl 6,,"Under Votes",91,8,69,14
+Colorado,201 - Weimar/Oakland,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1890,41,1611,238
+Colorado,201 - Weimar/Oakland,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",386,34,275,77
+Colorado,201 - Weimar/Oakland,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Presiding Judge, Ct of Crim App",,,"Under Votes",91,7,67,17
+Colorado,201 - Weimar/Oakland,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1889,40,1611,238
+Colorado,201 - Weimar/Oakland,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",379,32,271,76
+Colorado,201 - Weimar/Oakland,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Judge, Ct of Crim App",Pl 7,,"Under Votes",99,10,71,18
+Colorado,201 - Weimar/Oakland,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1902,41,1620,241
+Colorado,201 - Weimar/Oakland,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",366,33,258,75
+Colorado,201 - Weimar/Oakland,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Judge, Ct of Crim App",Pl 8,,"Under Votes",99,8,75,16
+Colorado,201 - Weimar/Oakland,"Member, State BoE",10,REP,"Tom Maynard",1872,41,1597,234
+Colorado,201 - Weimar/Oakland,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",404,34,288,82
+Colorado,201 - Weimar/Oakland,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Member, State BoE",10,,"Under Votes",91,7,68,16
+Colorado,201 - Weimar/Oakland,"State Senate",17,REP,"Joan Huffman",1896,41,1611,244
+Colorado,201 - Weimar/Oakland,"State Senate",17,DEM,"Kathy Cheng",381,31,273,77
+Colorado,201 - Weimar/Oakland,"State Senate",17,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"State Senate",17,,"Under Votes",90,10,69,11
+Colorado,201 - Weimar/Oakland,"State Representative",85,REP,"Stan Kitzman",1975,48,1664,263
+Colorado,201 - Weimar/Oakland,"State Representative",85,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"State Representative",85,,"Under Votes",392,34,289,69
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",1884,40,1605,239
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",380,31,274,75
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",1,0,1,0
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",103,11,74,18
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",1867,37,1588,242
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",386,33,276,77
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",114,12,89,13
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",1862,40,1585,237
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",388,31,277,80
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",117,11,91,15
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",1859,39,1579,241
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",392,32,285,75
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",116,11,89,16
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",1857,38,1582,237
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",387,32,276,79
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",123,12,95,16
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",1879,40,1596,243
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",376,32,268,76
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",112,10,89,13
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",1871,37,1593,241
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",375,33,267,75
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",121,12,93,16
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 5,REP,"Martiza Michele Antu",1856,37,1579,240
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",385,33,276,76
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",126,12,98,16
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",1875,38,1593,244
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",371,32,269,70
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",121,12,91,18
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",1864,38,1590,236
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret ""Meg"" Poissant",386,32,273,81
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",117,12,90,15
+Colorado,201 - Weimar/Oakland,"Dist Judge, 25th Judicial Dist",,REP,"Bill Old",1982,51,1668,263
+Colorado,201 - Weimar/Oakland,"Dist Judge, 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Dist Judge, 25th Judicial Dist",,,"Under Votes",385,31,285,69
+Colorado,201 - Weimar/Oakland,"Dist Judge, 2nd 25th Judicial Dist",,REP,"Jessica Richard Crawford",1991,48,1682,261
+Colorado,201 - Weimar/Oakland,"Dist Judge, 2nd 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Dist Judge, 2nd 25th Judicial Dist",,,"Under Votes",376,34,271,71
+Colorado,201 - Weimar/Oakland,"County Attorney",,REP,"Jay Johannes",2019,54,1700,265
+Colorado,201 - Weimar/Oakland,"County Attorney",,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"County Attorney",,,"Under Votes",348,28,253,67
+Colorado,201 - Weimar/Oakland,"Sheriff",,REP,"Justin Lindemann",2030,56,1710,264
+Colorado,201 - Weimar/Oakland,"Sheriff",,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Sheriff",,,"Under Votes",337,26,243,68
+Colorado,201 - Weimar/Oakland,"County Tax Assessor-Collector",,REP,"Melinda A. Zajicek",2024,60,1698,266
+Colorado,201 - Weimar/Oakland,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"County Tax Assessor-Collector",,,"Under Votes",343,22,255,66
+Colorado,201 - Weimar/Oakland,"Constable",Pct 2,REP,"Lonnie L. Hinze",2046,58,1718,270
+Colorado,201 - Weimar/Oakland,"Constable",Pct 2,,"Over Votes",0,0,0,0
+Colorado,201 - Weimar/Oakland,"Constable",Pct 2,,"Under Votes",321,24,235,62
+Colorado,202 - Sheridan,"Ballots Cast",,,,447,12,238,197
+Colorado,202 - Sheridan,"Ballots Cast Blank",,,,0,0,0,0
+Colorado,202 - Sheridan,"President",,REP,"Donald J. Trump/JD Vance",396,8,212,176
+Colorado,202 - Sheridan,"President",,DEM,"Kamala D. Harris/Tim Walz",48,4,25,19
+Colorado,202 - Sheridan,"President",,LIB,"Chase Oliver/Mike ter Maat",1,0,1,0
+Colorado,202 - Sheridan,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,1,0
+Colorado,202 - Sheridan,"President",,,"Write-ins",1,0,0,1
+Colorado,202 - Sheridan,"President",,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"President",,,"Under Votes",0,0,0,0
+Colorado,202 - Sheridan,"U.S. Senate",,REP,"Ted Cruz",381,8,204,169
+Colorado,202 - Sheridan,"U.S. Senate",,DEM,"Colin Allred",57,4,31,22
+Colorado,202 - Sheridan,"U.S. Senate",,LIB,"Ted Brown",6,0,0,6
+Colorado,202 - Sheridan,"U.S. Senate",,,"Write-ins",0,0,0,0
+Colorado,202 - Sheridan,"U.S. Senate",,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"U.S. Senate",,,"Under Votes",3,0,3,0
+Colorado,202 - Sheridan,"U.S. House",10,REP,"Michael T. McCaul",391,7,207,177
+Colorado,202 - Sheridan,"U.S. House",10,DEM,"Theresa Boisseau",38,3,22,13
+Colorado,202 - Sheridan,"U.S. House",10,LIB,"Jeff Miller",7,1,2,4
+Colorado,202 - Sheridan,"U.S. House",10,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"U.S. House",10,,"Under Votes",11,1,7,3
+Colorado,202 - Sheridan,"Railroad Commissioner",,REP,"Christi Craddick",384,7,201,176
+Colorado,202 - Sheridan,"Railroad Commissioner",,DEM,"Katherine Culbert",36,3,23,10
+Colorado,202 - Sheridan,"Railroad Commissioner",,LIB,"Hawk Dunlap",10,1,4,5
+Colorado,202 - Sheridan,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,1,2
+Colorado,202 - Sheridan,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Colorado,202 - Sheridan,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Railroad Commissioner",,,"Under Votes",14,1,9,4
+Colorado,202 - Sheridan,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",395,7,208,180
+Colorado,202 - Sheridan,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",40,4,22,14
+Colorado,202 - Sheridan,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Justice, Supreme Court",Pl 2,,"Under Votes",12,1,8,3
+Colorado,202 - Sheridan,"Justice, Supreme Court",Pl 4,REP,"John Devine",381,7,200,174
+Colorado,202 - Sheridan,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",47,4,26,17
+Colorado,202 - Sheridan,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Justice, Supreme Court",Pl 4,,"Under Votes",19,1,12,6
+Colorado,202 - Sheridan,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",381,7,199,175
+Colorado,202 - Sheridan,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",43,4,25,14
+Colorado,202 - Sheridan,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",5,0,2,3
+Colorado,202 - Sheridan,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Justice, Supreme Court",Pl 6,,"Under Votes",18,1,12,5
+Colorado,202 - Sheridan,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",389,7,205,177
+Colorado,202 - Sheridan,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",42,4,23,15
+Colorado,202 - Sheridan,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Presiding Judge, Ct of Crim App",,,"Under Votes",16,1,10,5
+Colorado,202 - Sheridan,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",378,7,201,170
+Colorado,202 - Sheridan,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",46,4,26,16
+Colorado,202 - Sheridan,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Judge, Ct of Crim App",Pl 7,,"Under Votes",23,1,11,11
+Colorado,202 - Sheridan,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",390,7,206,177
+Colorado,202 - Sheridan,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",39,4,21,14
+Colorado,202 - Sheridan,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Judge, Ct of Crim App",Pl 8,,"Under Votes",18,1,11,6
+Colorado,202 - Sheridan,"Member, State BoE",10,REP,"Tom Maynard",384,8,202,174
+Colorado,202 - Sheridan,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",42,3,23,16
+Colorado,202 - Sheridan,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Member, State BoE",10,,"Under Votes",21,1,13,7
+Colorado,202 - Sheridan,"State Senate",17,REP,"Joan Huffman",384,7,201,176
+Colorado,202 - Sheridan,"State Senate",17,DEM,"Kathy Cheng",38,4,21,13
+Colorado,202 - Sheridan,"State Senate",17,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"State Senate",17,,"Under Votes",25,1,16,8
+Colorado,202 - Sheridan,"State Representative",85,REP,"Stan Kitzman",397,8,204,185
+Colorado,202 - Sheridan,"State Representative",85,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"State Representative",85,,"Under Votes",50,4,34,12
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",385,7,203,175
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",42,4,23,15
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",20,1,12,7
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",379,7,201,171
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",45,4,24,17
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",23,1,13,9
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",381,7,200,174
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",44,4,25,15
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",22,1,13,8
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",381,8,201,172
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",43,3,24,16
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",23,1,13,9
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",382,7,202,173
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",40,4,21,15
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",25,1,15,9
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",378,7,199,172
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",45,4,25,16
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",24,1,14,9
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",383,8,200,175
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",41,3,24,14
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",23,1,14,8
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 5,REP,"Martiza Michele Antu",377,7,199,171
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",47,4,26,17
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",23,1,13,9
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",381,7,202,172
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",41,4,21,16
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",25,1,15,9
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",382,7,202,173
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret ""Meg"" Poissant",41,4,22,15
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",24,1,14,9
+Colorado,202 - Sheridan,"Dist Judge, 25th Judicial Dist",,REP,"Bill Old",398,9,205,184
+Colorado,202 - Sheridan,"Dist Judge, 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Dist Judge, 25th Judicial Dist",,,"Under Votes",49,3,33,13
+Colorado,202 - Sheridan,"Dist Judge, 2nd 25th Judicial Dist",,REP,"Jessica Richard Crawford",396,9,203,184
+Colorado,202 - Sheridan,"Dist Judge, 2nd 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Dist Judge, 2nd 25th Judicial Dist",,,"Under Votes",51,3,35,13
+Colorado,202 - Sheridan,"County Attorney",,REP,"Jay Johannes",399,9,208,182
+Colorado,202 - Sheridan,"County Attorney",,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"County Attorney",,,"Under Votes",48,3,30,15
+Colorado,202 - Sheridan,"Sheriff",,REP,"Justin Lindemann",400,9,206,185
+Colorado,202 - Sheridan,"Sheriff",,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Sheriff",,,"Under Votes",47,3,32,12
+Colorado,202 - Sheridan,"County Tax Assessor-Collector",,REP,"Melinda A. Zajicek",395,9,204,182
+Colorado,202 - Sheridan,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"County Tax Assessor-Collector",,,"Under Votes",52,3,34,15
+Colorado,202 - Sheridan,"Constable",Pct 4,REP,"Darrell Stancik",395,9,203,183
+Colorado,202 - Sheridan,"Constable",Pct 4,,"Over Votes",0,0,0,0
+Colorado,202 - Sheridan,"Constable",Pct 4,,"Under Votes",52,3,35,14
+Colorado,302 - Frelsburg/Brushy,"Ballots Cast",,,,994,34,729,231
+Colorado,302 - Frelsburg/Brushy,"Ballots Cast Blank",,,,0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"President",,REP,"Donald J. Trump/JD Vance",863,18,640,205
+Colorado,302 - Frelsburg/Brushy,"President",,DEM,"Kamala D. Harris/Tim Walz",122,16,84,22
+Colorado,302 - Frelsburg/Brushy,"President",,LIB,"Chase Oliver/Mike ter Maat",4,0,1,3
+Colorado,302 - Frelsburg/Brushy,"President",,GRN,"Jill Stein/Rudolph Ware",3,0,2,1
+Colorado,302 - Frelsburg/Brushy,"President",,,"Write-ins",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"President",,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"President",,,"Under Votes",2,0,2,0
+Colorado,302 - Frelsburg/Brushy,"U.S. Senate",,REP,"Ted Cruz",863,19,643,201
+Colorado,302 - Frelsburg/Brushy,"U.S. Senate",,DEM,"Colin Allred",119,15,82,22
+Colorado,302 - Frelsburg/Brushy,"U.S. Senate",,LIB,"Ted Brown",8,0,1,7
+Colorado,302 - Frelsburg/Brushy,"U.S. Senate",,,"Write-ins",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"U.S. Senate",,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"U.S. Senate",,,"Under Votes",4,0,3,1
+Colorado,302 - Frelsburg/Brushy,"U.S. House",10,REP,"Michael T. McCaul",865,18,638,209
+Colorado,302 - Frelsburg/Brushy,"U.S. House",10,DEM,"Theresa Boisseau",102,13,73,16
+Colorado,302 - Frelsburg/Brushy,"U.S. House",10,LIB,"Jeff Miller",4,0,2,2
+Colorado,302 - Frelsburg/Brushy,"U.S. House",10,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"U.S. House",10,,"Under Votes",23,3,16,4
+Colorado,302 - Frelsburg/Brushy,"Railroad Commissioner",,REP,"Christi Craddick",843,18,626,199
+Colorado,302 - Frelsburg/Brushy,"Railroad Commissioner",,DEM,"Katherine Culbert",102,15,69,18
+Colorado,302 - Frelsburg/Brushy,"Railroad Commissioner",,LIB,"Hawk Dunlap",20,1,14,5
+Colorado,302 - Frelsburg/Brushy,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,1,2
+Colorado,302 - Frelsburg/Brushy,"Railroad Commissioner",,,"Write-ins",1,0,0,1
+Colorado,302 - Frelsburg/Brushy,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Railroad Commissioner",,,"Under Votes",25,0,19,6
+Colorado,302 - Frelsburg/Brushy,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",867,20,640,207
+Colorado,302 - Frelsburg/Brushy,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",97,13,68,16
+Colorado,302 - Frelsburg/Brushy,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Justice, Supreme Court",Pl 2,,"Under Votes",30,1,21,8
+Colorado,302 - Frelsburg/Brushy,"Justice, Supreme Court",Pl 4,REP,"John Devine",850,18,632,200
+Colorado,302 - Frelsburg/Brushy,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",106,15,73,18
+Colorado,302 - Frelsburg/Brushy,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Justice, Supreme Court",Pl 4,,"Under Votes",38,1,24,13
+Colorado,302 - Frelsburg/Brushy,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",853,21,630,202
+Colorado,302 - Frelsburg/Brushy,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",100,11,72,17
+Colorado,302 - Frelsburg/Brushy,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",6,0,4,2
+Colorado,302 - Frelsburg/Brushy,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Justice, Supreme Court",Pl 6,,"Under Votes",35,2,23,10
+Colorado,302 - Frelsburg/Brushy,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",853,18,630,205
+Colorado,302 - Frelsburg/Brushy,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",105,13,74,18
+Colorado,302 - Frelsburg/Brushy,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Presiding Judge, Ct of Crim App",,,"Under Votes",36,3,25,8
+Colorado,302 - Frelsburg/Brushy,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",849,18,634,197
+Colorado,302 - Frelsburg/Brushy,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",100,11,71,18
+Colorado,302 - Frelsburg/Brushy,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Judge, Ct of Crim App",Pl 7,,"Under Votes",45,5,24,16
+Colorado,302 - Frelsburg/Brushy,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",858,18,636,204
+Colorado,302 - Frelsburg/Brushy,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",96,14,69,13
+Colorado,302 - Frelsburg/Brushy,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Judge, Ct of Crim App",Pl 8,,"Under Votes",40,2,24,14
+Colorado,302 - Frelsburg/Brushy,"Member, State BoE",10,REP,"Tom Maynard",851,18,628,205
+Colorado,302 - Frelsburg/Brushy,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",101,15,73,13
+Colorado,302 - Frelsburg/Brushy,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Member, State BoE",10,,"Under Votes",42,1,28,13
+Colorado,302 - Frelsburg/Brushy,"State Senate",17,REP,"Joan Huffman",863,19,639,205
+Colorado,302 - Frelsburg/Brushy,"State Senate",17,DEM,"Kathy Cheng",100,15,68,17
+Colorado,302 - Frelsburg/Brushy,"State Senate",17,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"State Senate",17,,"Under Votes",31,0,22,9
+Colorado,302 - Frelsburg/Brushy,"State Representative",85,REP,"Stan Kitzman",864,24,635,205
+Colorado,302 - Frelsburg/Brushy,"State Representative",85,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"State Representative",85,,"Under Votes",130,10,94,26
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",853,18,630,205
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",94,13,67,14
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",47,3,32,12
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",853,18,631,204
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",100,13,71,16
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",41,3,27,11
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",849,18,630,201
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",102,13,72,17
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",43,3,27,13
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",844,17,629,198
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",102,12,73,17
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",48,5,27,16
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",852,18,630,204
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",99,13,71,15
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",43,3,28,12
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",850,17,629,204
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",100,13,71,16
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",44,4,29,11
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",859,19,634,206
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",90,12,66,12
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",45,3,29,13
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 5,REP,"Martiza Michele Antu",839,17,625,197
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",104,12,74,18
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",51,5,30,16
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",855,17,632,206
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",95,13,68,14
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",44,4,29,11
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",856,19,634,203
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret ""Meg"" Poissant",97,12,68,17
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",41,3,27,11
+Colorado,302 - Frelsburg/Brushy,"Dist Judge, 25th Judicial Dist",,REP,"Bill Old",876,24,643,209
+Colorado,302 - Frelsburg/Brushy,"Dist Judge, 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Dist Judge, 25th Judicial Dist",,,"Under Votes",118,10,86,22
+Colorado,302 - Frelsburg/Brushy,"Dist Judge, 2nd 25th Judicial Dist",,REP,"Jessica Richard Crawford",842,24,610,208
+Colorado,302 - Frelsburg/Brushy,"Dist Judge, 2nd 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Dist Judge, 2nd 25th Judicial Dist",,,"Under Votes",152,10,119,23
+Colorado,302 - Frelsburg/Brushy,"County Attorney",,REP,"Jay Johannes",884,25,647,212
+Colorado,302 - Frelsburg/Brushy,"County Attorney",,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"County Attorney",,,"Under Votes",110,9,82,19
+Colorado,302 - Frelsburg/Brushy,"Sheriff",,REP,"Justin Lindemann",889,24,651,214
+Colorado,302 - Frelsburg/Brushy,"Sheriff",,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Sheriff",,,"Under Votes",105,10,78,17
+Colorado,302 - Frelsburg/Brushy,"County Tax Assessor-Collector",,REP,"Melinda A. Zajicek",879,24,644,211
+Colorado,302 - Frelsburg/Brushy,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"County Tax Assessor-Collector",,,"Under Votes",115,10,85,20
+Colorado,302 - Frelsburg/Brushy,"County Commissioner",Pct 3,REP,"Keith Ellis Neuendorff",885,24,650,211
+Colorado,302 - Frelsburg/Brushy,"County Commissioner",Pct 3,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"County Commissioner",Pct 3,,"Under Votes",109,10,79,20
+Colorado,302 - Frelsburg/Brushy,"Justice of the Peace -Pct 3 Unexpired",,REP,"Donald J. Clark",877,22,645,210
+Colorado,302 - Frelsburg/Brushy,"Justice of the Peace -Pct 3 Unexpired",,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Justice of the Peace -Pct 3 Unexpired",,,"Under Votes",117,12,84,21
+Colorado,302 - Frelsburg/Brushy,"Constable",Pct 3,REP,"Ivan V. Menke",830,22,601,207
+Colorado,302 - Frelsburg/Brushy,"Constable",Pct 3,,"Over Votes",0,0,0,0
+Colorado,302 - Frelsburg/Brushy,"Constable",Pct 3,,"Under Votes",164,12,128,24
+Colorado,303 - Mentz,"Ballots Cast",,,,507,16,386,105
+Colorado,303 - Mentz,"Ballots Cast Blank",,,,0,0,0,0
+Colorado,303 - Mentz,"President",,REP,"Donald J. Trump/JD Vance",420,5,330,85
+Colorado,303 - Mentz,"President",,DEM,"Kamala D. Harris/Tim Walz",82,10,55,17
+Colorado,303 - Mentz,"President",,LIB,"Chase Oliver/Mike ter Maat",2,0,1,1
+Colorado,303 - Mentz,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Colorado,303 - Mentz,"President",,,"Write-ins",3,1,0,2
+Colorado,303 - Mentz,"President",,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"President",,,"Under Votes",0,0,0,0
+Colorado,303 - Mentz,"U.S. Senate",,REP,"Ted Cruz",410,5,323,82
+Colorado,303 - Mentz,"U.S. Senate",,DEM,"Colin Allred",86,9,57,20
+Colorado,303 - Mentz,"U.S. Senate",,LIB,"Ted Brown",8,1,5,2
+Colorado,303 - Mentz,"U.S. Senate",,,"Write-ins",1,0,0,1
+Colorado,303 - Mentz,"U.S. Senate",,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"U.S. Senate",,,"Under Votes",2,1,1,0
+Colorado,303 - Mentz,"U.S. House",10,REP,"Michael T. McCaul",424,4,333,87
+Colorado,303 - Mentz,"U.S. House",10,DEM,"Theresa Boisseau",67,8,43,16
+Colorado,303 - Mentz,"U.S. House",10,LIB,"Jeff Miller",7,2,4,1
+Colorado,303 - Mentz,"U.S. House",10,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"U.S. House",10,,"Under Votes",9,2,6,1
+Colorado,303 - Mentz,"Railroad Commissioner",,REP,"Christi Craddick",417,4,326,87
+Colorado,303 - Mentz,"Railroad Commissioner",,DEM,"Katherine Culbert",61,7,44,10
+Colorado,303 - Mentz,"Railroad Commissioner",,LIB,"Hawk Dunlap",9,1,6,2
+Colorado,303 - Mentz,"Railroad Commissioner",,GRN,"Eddie Espinoza",7,0,3,4
+Colorado,303 - Mentz,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Colorado,303 - Mentz,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Railroad Commissioner",,,"Under Votes",13,4,7,2
+Colorado,303 - Mentz,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",421,5,327,89
+Colorado,303 - Mentz,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",67,8,46,13
+Colorado,303 - Mentz,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Justice, Supreme Court",Pl 2,,"Under Votes",19,3,13,3
+Colorado,303 - Mentz,"Justice, Supreme Court",Pl 4,REP,"John Devine",415,6,324,85
+Colorado,303 - Mentz,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",68,7,46,15
+Colorado,303 - Mentz,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Justice, Supreme Court",Pl 4,,"Under Votes",24,3,16,5
+Colorado,303 - Mentz,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",418,5,326,87
+Colorado,303 - Mentz,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",66,7,47,12
+Colorado,303 - Mentz,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",3,0,0,3
+Colorado,303 - Mentz,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Justice, Supreme Court",Pl 6,,"Under Votes",20,4,13,3
+Colorado,303 - Mentz,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",416,5,324,87
+Colorado,303 - Mentz,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",70,7,50,13
+Colorado,303 - Mentz,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Presiding Judge, Ct of Crim App",,,"Under Votes",21,4,12,5
+Colorado,303 - Mentz,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",421,7,328,86
+Colorado,303 - Mentz,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",64,5,46,13
+Colorado,303 - Mentz,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Judge, Ct of Crim App",Pl 7,,"Under Votes",22,4,12,6
+Colorado,303 - Mentz,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",423,7,328,88
+Colorado,303 - Mentz,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",58,5,43,10
+Colorado,303 - Mentz,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Judge, Ct of Crim App",Pl 8,,"Under Votes",26,4,15,7
+Colorado,303 - Mentz,"Member, State BoE",10,REP,"Tom Maynard",422,6,329,87
+Colorado,303 - Mentz,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",65,7,45,13
+Colorado,303 - Mentz,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Member, State BoE",10,,"Under Votes",20,3,12,5
+Colorado,303 - Mentz,"State Senate",17,REP,"Joan Huffman",419,5,326,88
+Colorado,303 - Mentz,"State Senate",17,DEM,"Kathy Cheng",67,7,46,14
+Colorado,303 - Mentz,"State Senate",17,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"State Senate",17,,"Under Votes",21,4,14,3
+Colorado,303 - Mentz,"State Representative",85,REP,"Stan Kitzman",431,9,333,89
+Colorado,303 - Mentz,"State Representative",85,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"State Representative",85,,"Under Votes",76,7,53,16
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",418,5,325,88
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",66,7,48,11
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",23,4,13,6
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",413,5,322,86
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",68,7,47,14
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",26,4,17,5
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",411,5,321,85
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",72,6,51,15
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",24,5,14,5
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",412,5,322,85
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",71,6,50,15
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",24,5,14,5
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",413,5,322,86
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",67,7,49,11
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",27,4,15,8
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",415,5,325,85
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",68,7,47,14
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",24,4,14,6
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",416,5,324,87
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",65,6,47,12
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",26,5,15,6
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 5,REP,"Martiza Michele Antu",412,5,322,85
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",70,7,49,14
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",25,4,15,6
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",415,5,325,85
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",65,7,45,13
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",27,4,16,7
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",414,5,324,85
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret ""Meg"" Poissant",68,7,48,13
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",25,4,14,7
+Colorado,303 - Mentz,"Dist Judge, 25th Judicial Dist",,REP,"Bill Old",435,10,333,92
+Colorado,303 - Mentz,"Dist Judge, 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Dist Judge, 25th Judicial Dist",,,"Under Votes",72,6,53,13
+Colorado,303 - Mentz,"Dist Judge, 2nd 25th Judicial Dist",,REP,"Jessica Richard Crawford",427,9,326,92
+Colorado,303 - Mentz,"Dist Judge, 2nd 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Dist Judge, 2nd 25th Judicial Dist",,,"Under Votes",80,7,60,13
+Colorado,303 - Mentz,"County Attorney",,REP,"Jay Johannes",437,9,335,93
+Colorado,303 - Mentz,"County Attorney",,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"County Attorney",,,"Under Votes",70,7,51,12
+Colorado,303 - Mentz,"Sheriff",,REP,"Justin Lindemann",447,11,343,93
+Colorado,303 - Mentz,"Sheriff",,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Sheriff",,,"Under Votes",60,5,43,12
+Colorado,303 - Mentz,"County Tax Assessor-Collector",,REP,"Melinda A. Zajicek",447,9,342,96
+Colorado,303 - Mentz,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"County Tax Assessor-Collector",,,"Under Votes",60,7,44,9
+Colorado,303 - Mentz,"County Commissioner",Pct 3,REP,"Keith Ellis Neuendorff",447,11,344,92
+Colorado,303 - Mentz,"County Commissioner",Pct 3,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"County Commissioner",Pct 3,,"Under Votes",60,5,42,13
+Colorado,303 - Mentz,"Justice of the Peace -Pct 3 Unexpired",,REP,"Donald J. Clark",430,9,330,91
+Colorado,303 - Mentz,"Justice of the Peace -Pct 3 Unexpired",,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Justice of the Peace -Pct 3 Unexpired",,,"Under Votes",77,7,56,14
+Colorado,303 - Mentz,"Constable",Pct 3,REP,"Ivan V. Menke",430,12,321,97
+Colorado,303 - Mentz,"Constable",Pct 3,,"Over Votes",0,0,0,0
+Colorado,303 - Mentz,"Constable",Pct 3,,"Under Votes",77,4,65,8
+Colorado,304 - Bernardo,"Ballots Cast",,,,460,12,347,101
+Colorado,304 - Bernardo,"Ballots Cast Blank",,,,0,0,0,0
+Colorado,304 - Bernardo,"President",,REP,"Donald J. Trump/JD Vance",409,11,309,89
+Colorado,304 - Bernardo,"President",,DEM,"Kamala D. Harris/Tim Walz",43,1,33,9
+Colorado,304 - Bernardo,"President",,LIB,"Chase Oliver/Mike ter Maat",2,0,1,1
+Colorado,304 - Bernardo,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,1,0
+Colorado,304 - Bernardo,"President",,,"Write-ins",2,0,2,0
+Colorado,304 - Bernardo,"President",,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"President",,,"Under Votes",3,0,2,1
+Colorado,304 - Bernardo,"U.S. Senate",,REP,"Ted Cruz",400,11,302,87
+Colorado,304 - Bernardo,"U.S. Senate",,DEM,"Colin Allred",48,1,36,11
+Colorado,304 - Bernardo,"U.S. Senate",,LIB,"Ted Brown",6,0,5,1
+Colorado,304 - Bernardo,"U.S. Senate",,,"Write-ins",0,0,0,0
+Colorado,304 - Bernardo,"U.S. Senate",,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"U.S. Senate",,,"Under Votes",6,0,4,2
+Colorado,304 - Bernardo,"U.S. House",10,REP,"Michael T. McCaul",405,11,307,87
+Colorado,304 - Bernardo,"U.S. House",10,DEM,"Theresa Boisseau",33,1,26,6
+Colorado,304 - Bernardo,"U.S. House",10,LIB,"Jeff Miller",7,0,5,2
+Colorado,304 - Bernardo,"U.S. House",10,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"U.S. House",10,,"Under Votes",15,0,9,6
+Colorado,304 - Bernardo,"Railroad Commissioner",,REP,"Christi Craddick",404,11,305,88
+Colorado,304 - Bernardo,"Railroad Commissioner",,DEM,"Katherine Culbert",33,1,26,6
+Colorado,304 - Bernardo,"Railroad Commissioner",,LIB,"Hawk Dunlap",11,0,9,2
+Colorado,304 - Bernardo,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,2,0
+Colorado,304 - Bernardo,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Colorado,304 - Bernardo,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Railroad Commissioner",,,"Under Votes",10,0,5,5
+Colorado,304 - Bernardo,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",414,11,317,86
+Colorado,304 - Bernardo,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",33,1,24,8
+Colorado,304 - Bernardo,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Justice, Supreme Court",Pl 2,,"Under Votes",13,0,6,7
+Colorado,304 - Bernardo,"Justice, Supreme Court",Pl 4,REP,"John Devine",406,11,314,81
+Colorado,304 - Bernardo,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",36,1,28,7
+Colorado,304 - Bernardo,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Justice, Supreme Court",Pl 4,,"Under Votes",18,0,5,13
+Colorado,304 - Bernardo,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",405,11,310,84
+Colorado,304 - Bernardo,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",32,1,24,7
+Colorado,304 - Bernardo,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",9,0,8,1
+Colorado,304 - Bernardo,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Justice, Supreme Court",Pl 6,,"Under Votes",14,0,5,9
+Colorado,304 - Bernardo,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",408,11,312,85
+Colorado,304 - Bernardo,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",40,1,31,8
+Colorado,304 - Bernardo,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Presiding Judge, Ct of Crim App",,,"Under Votes",12,0,4,8
+Colorado,304 - Bernardo,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",407,10,315,82
+Colorado,304 - Bernardo,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",36,1,27,8
+Colorado,304 - Bernardo,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Judge, Ct of Crim App",Pl 7,,"Under Votes",17,1,5,11
+Colorado,304 - Bernardo,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",407,11,313,83
+Colorado,304 - Bernardo,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",35,1,27,7
+Colorado,304 - Bernardo,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Judge, Ct of Crim App",Pl 8,,"Under Votes",18,0,7,11
+Colorado,304 - Bernardo,"Member, State BoE",10,REP,"Tom Maynard",404,10,309,85
+Colorado,304 - Bernardo,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",36,1,28,7
+Colorado,304 - Bernardo,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Member, State BoE",10,,"Under Votes",20,1,10,9
+Colorado,304 - Bernardo,"State Senate",17,REP,"Joan Huffman",406,11,312,83
+Colorado,304 - Bernardo,"State Senate",17,DEM,"Kathy Cheng",37,1,27,9
+Colorado,304 - Bernardo,"State Senate",17,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"State Senate",17,,"Under Votes",17,0,8,9
+Colorado,304 - Bernardo,"State Representative",85,REP,"Stan Kitzman",409,9,313,87
+Colorado,304 - Bernardo,"State Representative",85,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"State Representative",85,,"Under Votes",51,3,34,14
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",410,10,317,83
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",32,1,24,7
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",18,1,6,11
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",398,11,304,83
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",40,1,32,7
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",22,0,11,11
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",401,11,308,82
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",38,1,30,7
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",21,0,9,12
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",403,11,309,83
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",38,1,28,9
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",19,0,10,9
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",401,11,307,83
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",37,1,27,9
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",22,0,13,9
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",400,11,301,88
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",40,1,31,8
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",20,0,15,5
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",400,11,303,86
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",35,1,26,8
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",25,0,18,7
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 5,REP,"Martiza Michele Antu",397,11,304,82
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",41,1,32,8
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",22,0,11,11
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",405,11,312,82
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",34,1,25,8
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",21,0,10,11
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",399,11,305,83
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret ""Meg"" Poissant",40,1,31,8
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",21,0,11,10
+Colorado,304 - Bernardo,"Dist Judge, 25th Judicial Dist",,REP,"Bill Old",410,11,314,85
+Colorado,304 - Bernardo,"Dist Judge, 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Dist Judge, 25th Judicial Dist",,,"Under Votes",50,1,33,16
+Colorado,304 - Bernardo,"Dist Judge, 2nd 25th Judicial Dist",,REP,"Jessica Richard Crawford",400,11,302,87
+Colorado,304 - Bernardo,"Dist Judge, 2nd 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Dist Judge, 2nd 25th Judicial Dist",,,"Under Votes",60,1,45,14
+Colorado,304 - Bernardo,"County Attorney",,REP,"Jay Johannes",414,11,314,89
+Colorado,304 - Bernardo,"County Attorney",,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"County Attorney",,,"Under Votes",46,1,33,12
+Colorado,304 - Bernardo,"Sheriff",,REP,"Justin Lindemann",422,11,321,90
+Colorado,304 - Bernardo,"Sheriff",,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Sheriff",,,"Under Votes",38,1,26,11
+Colorado,304 - Bernardo,"County Tax Assessor-Collector",,REP,"Melinda A. Zajicek",418,11,312,95
+Colorado,304 - Bernardo,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"County Tax Assessor-Collector",,,"Under Votes",42,1,35,6
+Colorado,304 - Bernardo,"County Commissioner",Pct 3,REP,"Keith Ellis Neuendorff",428,11,320,97
+Colorado,304 - Bernardo,"County Commissioner",Pct 3,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"County Commissioner",Pct 3,,"Under Votes",32,1,27,4
+Colorado,304 - Bernardo,"Justice of the Peace -Pct 3 Unexpired",,REP,"Donald J. Clark",412,11,311,90
+Colorado,304 - Bernardo,"Justice of the Peace -Pct 3 Unexpired",,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Justice of the Peace -Pct 3 Unexpired",,,"Under Votes",48,1,36,11
+Colorado,304 - Bernardo,"Constable",Pct 3,REP,"Ivan V. Menke",413,11,308,94
+Colorado,304 - Bernardo,"Constable",Pct 3,,"Over Votes",0,0,0,0
+Colorado,304 - Bernardo,"Constable",Pct 3,,"Under Votes",47,1,39,7
+Colorado,305 - North Columbus/Shaw's Bend,"Ballots Cast",,,,1296,63,1027,206
+Colorado,305 - North Columbus/Shaw's Bend,"Ballots Cast Blank",,,,0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"President",,REP,"Donald J. Trump/JD Vance",1030,44,840,146
+Colorado,305 - North Columbus/Shaw's Bend,"President",,DEM,"Kamala D. Harris/Tim Walz",255,19,177,59
+Colorado,305 - North Columbus/Shaw's Bend,"President",,LIB,"Chase Oliver/Mike ter Maat",9,0,8,1
+Colorado,305 - North Columbus/Shaw's Bend,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,1,0
+Colorado,305 - North Columbus/Shaw's Bend,"President",,,"Write-ins",1,0,1,0
+Colorado,305 - North Columbus/Shaw's Bend,"President",,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"President",,,"Under Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"U.S. Senate",,REP,"Ted Cruz",992,44,814,134
+Colorado,305 - North Columbus/Shaw's Bend,"U.S. Senate",,DEM,"Colin Allred",269,18,189,62
+Colorado,305 - North Columbus/Shaw's Bend,"U.S. Senate",,LIB,"Ted Brown",20,0,17,3
+Colorado,305 - North Columbus/Shaw's Bend,"U.S. Senate",,,"Write-ins",1,0,1,0
+Colorado,305 - North Columbus/Shaw's Bend,"U.S. Senate",,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"U.S. Senate",,,"Under Votes",14,1,6,7
+Colorado,305 - North Columbus/Shaw's Bend,"U.S. House",10,REP,"Michael T. McCaul",1014,44,829,141
+Colorado,305 - North Columbus/Shaw's Bend,"U.S. House",10,DEM,"Theresa Boisseau",220,18,151,51
+Colorado,305 - North Columbus/Shaw's Bend,"U.S. House",10,LIB,"Jeff Miller",21,0,18,3
+Colorado,305 - North Columbus/Shaw's Bend,"U.S. House",10,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"U.S. House",10,,"Under Votes",41,1,29,11
+Colorado,305 - North Columbus/Shaw's Bend,"Railroad Commissioner",,REP,"Christi Craddick",994,43,813,138
+Colorado,305 - North Columbus/Shaw's Bend,"Railroad Commissioner",,DEM,"Katherine Culbert",211,13,152,46
+Colorado,305 - North Columbus/Shaw's Bend,"Railroad Commissioner",,LIB,"Hawk Dunlap",26,0,22,4
+Colorado,305 - North Columbus/Shaw's Bend,"Railroad Commissioner",,GRN,"Eddie Espinoza",18,0,12,6
+Colorado,305 - North Columbus/Shaw's Bend,"Railroad Commissioner",,,"Write-ins",1,0,0,1
+Colorado,305 - North Columbus/Shaw's Bend,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"Railroad Commissioner",,,"Under Votes",46,7,28,11
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1017,43,836,138
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",229,15,158,56
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, Supreme Court",Pl 2,,"Under Votes",50,5,33,12
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, Supreme Court",Pl 4,REP,"John Devine",1003,43,824,136
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",234,15,165,54
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, Supreme Court",Pl 4,,"Under Votes",59,5,38,16
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",990,43,810,137
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",220,15,154,51
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",25,0,21,4
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, Supreme Court",Pl 6,,"Under Votes",61,5,42,14
+Colorado,305 - North Columbus/Shaw's Bend,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1003,42,826,135
+Colorado,305 - North Columbus/Shaw's Bend,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",235,16,162,57
+Colorado,305 - North Columbus/Shaw's Bend,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"Presiding Judge, Ct of Crim App",,,"Under Votes",58,5,39,14
+Colorado,305 - North Columbus/Shaw's Bend,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1003,40,830,133
+Colorado,305 - North Columbus/Shaw's Bend,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",218,14,153,51
+Colorado,305 - North Columbus/Shaw's Bend,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"Judge, Ct of Crim App",Pl 7,,"Under Votes",75,9,44,22
+Colorado,305 - North Columbus/Shaw's Bend,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1013,43,831,139
+Colorado,305 - North Columbus/Shaw's Bend,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",222,15,154,53
+Colorado,305 - North Columbus/Shaw's Bend,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"Judge, Ct of Crim App",Pl 8,,"Under Votes",61,5,42,14
+Colorado,305 - North Columbus/Shaw's Bend,"Member, State BoE",10,REP,"Tom Maynard",997,43,818,136
+Colorado,305 - North Columbus/Shaw's Bend,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",237,15,166,56
+Colorado,305 - North Columbus/Shaw's Bend,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"Member, State BoE",10,,"Under Votes",62,5,45,12
+Colorado,305 - North Columbus/Shaw's Bend,"State Senate",17,REP,"Joan Huffman",1010,43,825,142
+Colorado,305 - North Columbus/Shaw's Bend,"State Senate",17,DEM,"Kathy Cheng",221,14,157,50
+Colorado,305 - North Columbus/Shaw's Bend,"State Senate",17,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"State Senate",17,,"Under Votes",65,6,45,14
+Colorado,305 - North Columbus/Shaw's Bend,"State Representative",85,REP,"Stan Kitzman",1043,45,847,151
+Colorado,305 - North Columbus/Shaw's Bend,"State Representative",85,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"State Representative",85,,"Under Votes",253,18,180,55
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",1001,41,825,135
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",224,16,153,55
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",1,0,1,0
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",70,6,48,16
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",995,42,819,134
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",227,15,158,54
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",1,0,1,0
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",73,6,49,18
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",995,43,816,136
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",222,14,156,52
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",1,0,1,0
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",78,6,54,18
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",997,42,820,135
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",223,15,155,53
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",1,0,1,0
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",75,6,51,18
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",991,42,812,137
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",226,15,159,52
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",1,0,1,0
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",78,6,55,17
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",987,42,811,134
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",225,15,156,54
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",1,0,1,0
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",83,6,59,18
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",1006,41,827,138
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",209,14,147,48
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",1,0,1,0
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",80,8,52,20
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 5,REP,"Martiza Michele Antu",984,41,806,137
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",225,14,162,49
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",1,0,1,0
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",86,8,58,20
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",990,40,816,134
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",224,15,156,53
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",1,0,1,0
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",81,8,54,19
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",989,39,813,137
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret ""Meg"" Poissant",223,15,157,51
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",1,0,1,0
+Colorado,305 - North Columbus/Shaw's Bend,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",83,9,56,18
+Colorado,305 - North Columbus/Shaw's Bend,"Dist Judge, 25th Judicial Dist",,REP,"Bill Old",1061,48,859,154
+Colorado,305 - North Columbus/Shaw's Bend,"Dist Judge, 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"Dist Judge, 25th Judicial Dist",,,"Under Votes",235,15,168,52
+Colorado,305 - North Columbus/Shaw's Bend,"Dist Judge, 2nd 25th Judicial Dist",,REP,"Jessica Richard Crawford",1017,47,819,151
+Colorado,305 - North Columbus/Shaw's Bend,"Dist Judge, 2nd 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"Dist Judge, 2nd 25th Judicial Dist",,,"Under Votes",279,16,208,55
+Colorado,305 - North Columbus/Shaw's Bend,"County Attorney",,REP,"Jay Johannes",1072,45,866,161
+Colorado,305 - North Columbus/Shaw's Bend,"County Attorney",,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"County Attorney",,,"Under Votes",224,18,161,45
+Colorado,305 - North Columbus/Shaw's Bend,"Sheriff",,REP,"Justin Lindemann",1098,48,884,166
+Colorado,305 - North Columbus/Shaw's Bend,"Sheriff",,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"Sheriff",,,"Under Votes",198,15,143,40
+Colorado,305 - North Columbus/Shaw's Bend,"County Tax Assessor-Collector",,REP,"Melinda A. Zajicek",1094,50,878,166
+Colorado,305 - North Columbus/Shaw's Bend,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"County Tax Assessor-Collector",,,"Under Votes",202,13,149,40
+Colorado,305 - North Columbus/Shaw's Bend,"County Commissioner",Pct 3,REP,"Keith Ellis Neuendorff",1108,52,892,164
+Colorado,305 - North Columbus/Shaw's Bend,"County Commissioner",Pct 3,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"County Commissioner",Pct 3,,"Under Votes",188,11,135,42
+Colorado,305 - North Columbus/Shaw's Bend,"Justice of the Peace -Pct 3 Unexpired",,REP,"Donald J. Clark",1074,47,868,159
+Colorado,305 - North Columbus/Shaw's Bend,"Justice of the Peace -Pct 3 Unexpired",,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"Justice of the Peace -Pct 3 Unexpired",,,"Under Votes",222,16,159,47
+Colorado,305 - North Columbus/Shaw's Bend,"Constable",Pct 3,REP,"Ivan V. Menke",1042,51,831,160
+Colorado,305 - North Columbus/Shaw's Bend,"Constable",Pct 3,,"Over Votes",0,0,0,0
+Colorado,305 - North Columbus/Shaw's Bend,"Constable",Pct 3,,"Under Votes",254,12,196,46
+Colorado,401 - Altair/Alleyton,"Ballots Cast",,,,346,16,269,61
+Colorado,401 - Altair/Alleyton,"Ballots Cast Blank",,,,0,0,0,0
+Colorado,401 - Altair/Alleyton,"President",,REP,"Donald J. Trump/JD Vance",249,5,199,45
+Colorado,401 - Altair/Alleyton,"President",,DEM,"Kamala D. Harris/Tim Walz",91,11,64,16
+Colorado,401 - Altair/Alleyton,"President",,LIB,"Chase Oliver/Mike ter Maat",2,0,2,0
+Colorado,401 - Altair/Alleyton,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,1,0
+Colorado,401 - Altair/Alleyton,"President",,,"Write-ins",1,0,1,0
+Colorado,401 - Altair/Alleyton,"President",,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"President",,,"Under Votes",2,0,2,0
+Colorado,401 - Altair/Alleyton,"U.S. Senate",,REP,"Ted Cruz",241,6,194,41
+Colorado,401 - Altair/Alleyton,"U.S. Senate",,DEM,"Colin Allred",94,10,66,18
+Colorado,401 - Altair/Alleyton,"U.S. Senate",,LIB,"Ted Brown",4,0,3,1
+Colorado,401 - Altair/Alleyton,"U.S. Senate",,,"Write-ins",0,0,0,0
+Colorado,401 - Altair/Alleyton,"U.S. Senate",,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"U.S. Senate",,,"Under Votes",7,0,6,1
+Colorado,401 - Altair/Alleyton,"U.S. House",10,REP,"Michael T. McCaul",249,6,200,43
+Colorado,401 - Altair/Alleyton,"U.S. House",10,DEM,"Theresa Boisseau",82,10,59,13
+Colorado,401 - Altair/Alleyton,"U.S. House",10,LIB,"Jeff Miller",3,0,3,0
+Colorado,401 - Altair/Alleyton,"U.S. House",10,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"U.S. House",10,,"Under Votes",12,0,7,5
+Colorado,401 - Altair/Alleyton,"Railroad Commissioner",,REP,"Christi Craddick",237,4,192,41
+Colorado,401 - Altair/Alleyton,"Railroad Commissioner",,DEM,"Katherine Culbert",86,10,61,15
+Colorado,401 - Altair/Alleyton,"Railroad Commissioner",,LIB,"Hawk Dunlap",6,0,6,0
+Colorado,401 - Altair/Alleyton,"Railroad Commissioner",,GRN,"Eddie Espinoza",4,0,4,0
+Colorado,401 - Altair/Alleyton,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Railroad Commissioner",,,"Under Votes",13,2,6,5
+Colorado,401 - Altair/Alleyton,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",245,5,198,42
+Colorado,401 - Altair/Alleyton,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",83,9,60,14
+Colorado,401 - Altair/Alleyton,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Justice, Supreme Court",Pl 2,,"Under Votes",18,2,11,5
+Colorado,401 - Altair/Alleyton,"Justice, Supreme Court",Pl 4,REP,"John Devine",247,4,201,42
+Colorado,401 - Altair/Alleyton,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",83,10,60,13
+Colorado,401 - Altair/Alleyton,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Justice, Supreme Court",Pl 4,,"Under Votes",16,2,8,6
+Colorado,401 - Altair/Alleyton,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",244,5,197,42
+Colorado,401 - Altair/Alleyton,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",84,9,62,13
+Colorado,401 - Altair/Alleyton,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",2,0,2,0
+Colorado,401 - Altair/Alleyton,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Justice, Supreme Court",Pl 6,,"Under Votes",16,2,8,6
+Colorado,401 - Altair/Alleyton,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",245,4,199,42
+Colorado,401 - Altair/Alleyton,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",85,10,62,13
+Colorado,401 - Altair/Alleyton,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Presiding Judge, Ct of Crim App",,,"Under Votes",16,2,8,6
+Colorado,401 - Altair/Alleyton,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",246,5,201,40
+Colorado,401 - Altair/Alleyton,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",83,9,60,14
+Colorado,401 - Altair/Alleyton,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Judge, Ct of Crim App",Pl 7,,"Under Votes",17,2,8,7
+Colorado,401 - Altair/Alleyton,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",248,4,202,42
+Colorado,401 - Altair/Alleyton,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",81,10,58,13
+Colorado,401 - Altair/Alleyton,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Judge, Ct of Crim App",Pl 8,,"Under Votes",17,2,9,6
+Colorado,401 - Altair/Alleyton,"Member, State BoE",10,REP,"Tom Maynard",248,5,202,41
+Colorado,401 - Altair/Alleyton,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",82,9,59,14
+Colorado,401 - Altair/Alleyton,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Member, State BoE",10,,"Under Votes",16,2,8,6
+Colorado,401 - Altair/Alleyton,"State Senate",17,REP,"Joan Huffman",250,5,203,42
+Colorado,401 - Altair/Alleyton,"State Senate",17,DEM,"Kathy Cheng",80,9,58,13
+Colorado,401 - Altair/Alleyton,"State Senate",17,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"State Senate",17,,"Under Votes",16,2,8,6
+Colorado,401 - Altair/Alleyton,"State Representative",85,REP,"Stan Kitzman",259,7,210,42
+Colorado,401 - Altair/Alleyton,"State Representative",85,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"State Representative",85,,"Under Votes",87,9,59,19
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",241,5,196,40
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",84,9,60,15
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",21,2,13,6
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",242,4,195,43
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",82,10,59,13
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",22,2,15,5
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",241,4,195,42
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",83,10,60,13
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",22,2,14,6
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",239,5,193,41
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",83,9,61,13
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",24,2,15,7
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",241,4,195,42
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",80,10,58,12
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",25,2,16,7
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",244,4,198,42
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",80,10,58,12
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",22,2,13,7
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",241,5,193,43
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",79,9,60,10
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",26,2,16,8
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 5,REP,"Martiza Michele Antu",239,4,194,41
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",80,10,59,11
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",27,2,16,9
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",241,4,195,42
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",80,10,59,11
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",25,2,15,8
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",242,4,196,42
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret ""Meg"" Poissant",81,10,60,11
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",23,2,13,8
+Colorado,401 - Altair/Alleyton,"Dist Judge, 25th Judicial Dist",,REP,"Bill Old",262,9,211,42
+Colorado,401 - Altair/Alleyton,"Dist Judge, 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Dist Judge, 25th Judicial Dist",,,"Under Votes",84,7,58,19
+Colorado,401 - Altair/Alleyton,"Dist Judge, 2nd 25th Judicial Dist",,REP,"Jessica Richard Crawford",272,9,218,45
+Colorado,401 - Altair/Alleyton,"Dist Judge, 2nd 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Dist Judge, 2nd 25th Judicial Dist",,,"Under Votes",74,7,51,16
+Colorado,401 - Altair/Alleyton,"County Attorney",,REP,"Jay Johannes",270,10,214,46
+Colorado,401 - Altair/Alleyton,"County Attorney",,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"County Attorney",,,"Under Votes",76,6,55,15
+Colorado,401 - Altair/Alleyton,"Sheriff",,REP,"Justin Lindemann",284,10,222,52
+Colorado,401 - Altair/Alleyton,"Sheriff",,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Sheriff",,,"Under Votes",62,6,47,9
+Colorado,401 - Altair/Alleyton,"County Tax Assessor-Collector",,REP,"Melinda A. Zajicek",275,10,219,46
+Colorado,401 - Altair/Alleyton,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"County Tax Assessor-Collector",,,"Under Votes",71,6,50,15
+Colorado,401 - Altair/Alleyton,"Constable",Pct 4,REP,"Darrell Stancik",280,10,219,51
+Colorado,401 - Altair/Alleyton,"Constable",Pct 4,,"Over Votes",0,0,0,0
+Colorado,401 - Altair/Alleyton,"Constable",Pct 4,,"Under Votes",66,6,50,10
+Colorado,402 - Eagle Lake,"Ballots Cast",,,,1473,45,1075,353
+Colorado,402 - Eagle Lake,"Ballots Cast Blank",,,,0,0,0,0
+Colorado,402 - Eagle Lake,"President",,REP,"Donald J. Trump/JD Vance",891,19,673,199
+Colorado,402 - Eagle Lake,"President",,DEM,"Kamala D. Harris/Tim Walz",560,26,385,149
+Colorado,402 - Eagle Lake,"President",,LIB,"Chase Oliver/Mike ter Maat",8,0,6,2
+Colorado,402 - Eagle Lake,"President",,GRN,"Jill Stein/Rudolph Ware",7,0,4,3
+Colorado,402 - Eagle Lake,"President",,,"Write-ins",2,0,2,0
+Colorado,402 - Eagle Lake,"President",,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"President",,,"Under Votes",5,0,5,0
+Colorado,402 - Eagle Lake,"U.S. Senate",,REP,"Ted Cruz",833,19,639,175
+Colorado,402 - Eagle Lake,"U.S. Senate",,DEM,"Colin Allred",584,25,401,158
+Colorado,402 - Eagle Lake,"U.S. Senate",,LIB,"Ted Brown",31,0,18,13
+Colorado,402 - Eagle Lake,"U.S. Senate",,,"Write-ins",0,0,0,0
+Colorado,402 - Eagle Lake,"U.S. Senate",,,"Over Votes",3,0,0,3
+Colorado,402 - Eagle Lake,"U.S. Senate",,,"Under Votes",22,1,17,4
+Colorado,402 - Eagle Lake,"U.S. House",10,REP,"Michael T. McCaul",870,21,662,187
+Colorado,402 - Eagle Lake,"U.S. House",10,DEM,"Theresa Boisseau",512,23,359,130
+Colorado,402 - Eagle Lake,"U.S. House",10,LIB,"Jeff Miller",30,0,16,14
+Colorado,402 - Eagle Lake,"U.S. House",10,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"U.S. House",10,,"Under Votes",61,1,38,22
+Colorado,402 - Eagle Lake,"Railroad Commissioner",,REP,"Christi Craddick",844,18,642,184
+Colorado,402 - Eagle Lake,"Railroad Commissioner",,DEM,"Katherine Culbert",502,25,354,123
+Colorado,402 - Eagle Lake,"Railroad Commissioner",,LIB,"Hawk Dunlap",14,0,10,4
+Colorado,402 - Eagle Lake,"Railroad Commissioner",,GRN,"Eddie Espinoza",44,0,27,17
+Colorado,402 - Eagle Lake,"Railroad Commissioner",,,"Write-ins",1,0,0,1
+Colorado,402 - Eagle Lake,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Railroad Commissioner",,,"Under Votes",68,2,42,24
+Colorado,402 - Eagle Lake,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",876,20,664,192
+Colorado,402 - Eagle Lake,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",521,24,361,136
+Colorado,402 - Eagle Lake,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Justice, Supreme Court",Pl 2,,"Under Votes",76,1,50,25
+Colorado,402 - Eagle Lake,"Justice, Supreme Court",Pl 4,REP,"John Devine",865,18,660,187
+Colorado,402 - Eagle Lake,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",524,25,362,137
+Colorado,402 - Eagle Lake,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Justice, Supreme Court",Pl 4,,"Under Votes",84,2,53,29
+Colorado,402 - Eagle Lake,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",850,20,646,184
+Colorado,402 - Eagle Lake,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",523,23,366,134
+Colorado,402 - Eagle Lake,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",17,0,7,10
+Colorado,402 - Eagle Lake,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Justice, Supreme Court",Pl 6,,"Under Votes",83,2,56,25
+Colorado,402 - Eagle Lake,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",855,19,655,181
+Colorado,402 - Eagle Lake,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",530,23,363,144
+Colorado,402 - Eagle Lake,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Presiding Judge, Ct of Crim App",,,"Under Votes",88,3,57,28
+Colorado,402 - Eagle Lake,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",852,19,657,176
+Colorado,402 - Eagle Lake,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",516,22,358,136
+Colorado,402 - Eagle Lake,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Judge, Ct of Crim App",Pl 7,,"Under Votes",105,4,60,41
+Colorado,402 - Eagle Lake,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",869,22,659,188
+Colorado,402 - Eagle Lake,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",503,20,351,132
+Colorado,402 - Eagle Lake,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Judge, Ct of Crim App",Pl 8,,"Under Votes",101,3,65,33
+Colorado,402 - Eagle Lake,"Member, State BoE",10,REP,"Tom Maynard",841,21,646,174
+Colorado,402 - Eagle Lake,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",537,21,364,152
+Colorado,402 - Eagle Lake,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Member, State BoE",10,,"Under Votes",95,3,65,27
+Colorado,402 - Eagle Lake,"State Senate",17,REP,"Joan Huffman",856,19,654,183
+Colorado,402 - Eagle Lake,"State Senate",17,DEM,"Kathy Cheng",516,23,358,135
+Colorado,402 - Eagle Lake,"State Senate",17,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"State Senate",17,,"Under Votes",101,3,63,35
+Colorado,402 - Eagle Lake,"State Representative",85,REP,"Stan Kitzman",998,25,735,238
+Colorado,402 - Eagle Lake,"State Representative",85,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"State Representative",85,,"Under Votes",475,20,340,115
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",861,16,660,185
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",512,24,355,133
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",100,5,60,35
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",847,16,648,183
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",524,23,369,132
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",102,6,58,38
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",847,17,651,179
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",524,24,365,135
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",102,4,59,39
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",846,18,651,177
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",522,22,365,135
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",105,5,59,41
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",852,17,655,180
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",513,22,356,135
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",108,6,64,38
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",847,17,655,175
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",515,24,354,137
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",111,4,66,41
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",858,17,656,185
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",505,22,354,129
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",1,0,0,1
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",109,6,65,38
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 5,REP,"Martiza Michele Antu",837,18,639,180
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",518,22,365,131
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",118,5,71,42
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",854,18,652,184
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",516,21,364,131
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",103,6,59,38
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",848,17,653,178
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret ""Meg"" Poissant",520,23,361,136
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",105,5,61,39
+Colorado,402 - Eagle Lake,"Dist Judge, 25th Judicial Dist",,REP,"Bill Old",1004,27,747,230
+Colorado,402 - Eagle Lake,"Dist Judge, 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Dist Judge, 25th Judicial Dist",,,"Under Votes",469,18,328,123
+Colorado,402 - Eagle Lake,"Dist Judge, 2nd 25th Judicial Dist",,REP,"Jessica Richard Crawford",1022,26,759,237
+Colorado,402 - Eagle Lake,"Dist Judge, 2nd 25th Judicial Dist",,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Dist Judge, 2nd 25th Judicial Dist",,,"Under Votes",451,19,316,116
+Colorado,402 - Eagle Lake,"County Attorney",,REP,"Jay Johannes",1030,25,766,239
+Colorado,402 - Eagle Lake,"County Attorney",,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"County Attorney",,,"Under Votes",443,20,309,114
+Colorado,402 - Eagle Lake,"Sheriff",,REP,"Justin Lindemann",1088,32,804,252
+Colorado,402 - Eagle Lake,"Sheriff",,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Sheriff",,,"Under Votes",385,13,271,101
+Colorado,402 - Eagle Lake,"County Tax Assessor-Collector",,REP,"Melinda A. Zajicek",1052,31,779,242
+Colorado,402 - Eagle Lake,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"County Tax Assessor-Collector",,,"Under Votes",421,14,296,111
+Colorado,402 - Eagle Lake,"Constable",Pct 4,REP,"Darrell Stancik",1115,35,828,252
+Colorado,402 - Eagle Lake,"Constable",Pct 4,,"Over Votes",0,0,0,0
+Colorado,402 - Eagle Lake,"Constable",Pct 4,,"Under Votes",358,10,247,101

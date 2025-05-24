@@ -1,0 +1,610 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Leon,Pct #1 - Centerville,"Registered Voters",,,,1932,,,
+Leon,Pct #1 - Centerville,"Ballots Cast",,,,1360,58,1139,163
+Leon,Pct #1 - Centerville,"Ballots Cast Blank",,,,0,0,0,0
+Leon,Pct #1 - Centerville,"President",,REP,"Donald J. Trump/JD Vance",1182,42,1002,138
+Leon,Pct #1 - Centerville,"President",,DEM,"Kamala D. Harris/Tim Walz",162,16,124,22
+Leon,Pct #1 - Centerville,"President",,LIB,"Chase Oliver/Mike ter Maat",9,0,7,2
+Leon,Pct #1 - Centerville,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,1,0
+Leon,Pct #1 - Centerville,"President",,,"Write-ins",3,0,2,1
+Leon,Pct #1 - Centerville,"U.S. Senate",,REP,"Ted Cruz",1148,42,978,128
+Leon,Pct #1 - Centerville,"U.S. Senate",,DEM,"Colin Allred",168,14,127,27
+Leon,Pct #1 - Centerville,"U.S. Senate",,LIB,"Ted Brown",28,1,23,4
+Leon,Pct #1 - Centerville,"U.S. Senate",,,"Write-ins",0,0,0,0
+Leon,Pct #1 - Centerville,"U.S. House",17,REP,"Pete Sessions",1155,39,983,133
+Leon,Pct #1 - Centerville,"U.S. House",17,DEM,"Mark Lorenzen",152,16,116,20
+Leon,Pct #1 - Centerville,"Railroad Commissioner",,REP,"Christi Craddick",1116,38,951,127
+Leon,Pct #1 - Centerville,"Railroad Commissioner",,DEM,"Katherine Culbert",149,14,116,19
+Leon,Pct #1 - Centerville,"Railroad Commissioner",,LIB,"Hawk Dunlap",32,2,27,3
+Leon,Pct #1 - Centerville,"Railroad Commissioner",,GRN,"Eddie Espinoza",8,1,5,2
+Leon,Pct #1 - Centerville,"Railroad Commissioner",,,"Write-ins",1,0,0,1
+Leon,Pct #1 - Centerville,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1148,38,982,128
+Leon,Pct #1 - Centerville,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",146,16,109,21
+Leon,Pct #1 - Centerville,"Justice, Supreme Court",Pl 4,REP,"John Devine",1130,36,966,128
+Leon,Pct #1 - Centerville,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",159,18,121,20
+Leon,Pct #1 - Centerville,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1113,37,957,119
+Leon,Pct #1 - Centerville,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",156,17,116,23
+Leon,Pct #1 - Centerville,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",21,0,18,3
+Leon,Pct #1 - Centerville,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1121,37,959,125
+Leon,Pct #1 - Centerville,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",161,17,125,19
+Leon,Pct #1 - Centerville,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1132,40,972,120
+Leon,Pct #1 - Centerville,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",154,14,117,23
+Leon,Pct #1 - Centerville,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1129,38,968,123
+Leon,Pct #1 - Centerville,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",152,16,116,20
+Leon,Pct #1 - Centerville,"Member, State BoE",Dist 10,REP,"Tom Maynard",1128,41,959,128
+Leon,Pct #1 - Centerville,"Member, State BoE",Dist 10,DEM,"Raquel Saenz Ortiz",161,15,128,18
+Leon,Pct #1 - Centerville,"State Representative",13,REP,"Angelia Orr",1129,41,962,126
+Leon,Pct #1 - Centerville,"State Representative",13,DEM,"Albert Hunter",148,14,113,21
+Leon,Pct #1 - Centerville,"Chief Justice, 10th Ct of App Dist",,REP,"Matt Johnson",1178,42,1001,135
+Leon,Pct #1 - Centerville,"Dist Attorney, 369th Judicial Dist",,REP,"James Caleb Henson",1161,41,987,133
+Leon,Pct #1 - Centerville,"County Attorney",,REP,"Keith Cook",1195,43,1012,140
+Leon,Pct #1 - Centerville,"Sheriff",,REP,"Kevin Ellis",1216,47,1023,146
+Leon,Pct #1 - Centerville,"County Tax Assessor-Collector",,REP,"Victoria Willis",1182,43,1002,137
+Leon,Pct #1 - Centerville,"County Commissioner",Pct 1,REP,"Joey Sullivan",1156,43,976,137
+Leon,Pct #1 - Centerville,"Constable",Pct 2,REP,"John L. Franks",1209,45,1022,142
+Leon,Pct #1 - Centerville,"PROPOSITION A Buffalo ISD",,,FOR,9,0,7,2
+Leon,Pct #1 - Centerville,"PROPOSITION A Buffalo ISD",,,AGAINST,18,3,14,1
+Leon,Pct #2 - Guy's Store,"Registered Voters",,,,388,,,
+Leon,Pct #2 - Guy's Store,"Ballots Cast",,,,305,11,212,82
+Leon,Pct #2 - Guy's Store,"Ballots Cast Blank",,,,0,0,0,0
+Leon,Pct #2 - Guy's Store,"President",,REP,"Donald J. Trump/JD Vance",268,8,191,69
+Leon,Pct #2 - Guy's Store,"President",,DEM,"Kamala D. Harris/Tim Walz",33,2,18,13
+Leon,Pct #2 - Guy's Store,"President",,LIB,"Chase Oliver/Mike ter Maat",1,0,1,0
+Leon,Pct #2 - Guy's Store,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Leon,Pct #2 - Guy's Store,"President",,,"Write-ins",1,0,1,0
+Leon,Pct #2 - Guy's Store,"U.S. Senate",,REP,"Ted Cruz",259,8,184,67
+Leon,Pct #2 - Guy's Store,"U.S. Senate",,DEM,"Colin Allred",38,2,22,14
+Leon,Pct #2 - Guy's Store,"U.S. Senate",,LIB,"Ted Brown",3,0,3,0
+Leon,Pct #2 - Guy's Store,"U.S. Senate",,,"Write-ins",0,0,0,0
+Leon,Pct #2 - Guy's Store,"U.S. House",17,REP,"Pete Sessions",263,8,184,71
+Leon,Pct #2 - Guy's Store,"U.S. House",17,DEM,"Mark Lorenzen",28,2,19,7
+Leon,Pct #2 - Guy's Store,"Railroad Commissioner",,REP,"Christi Craddick",254,8,184,62
+Leon,Pct #2 - Guy's Store,"Railroad Commissioner",,DEM,"Katherine Culbert",24,2,15,7
+Leon,Pct #2 - Guy's Store,"Railroad Commissioner",,LIB,"Hawk Dunlap",6,0,4,2
+Leon,Pct #2 - Guy's Store,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,1,1
+Leon,Pct #2 - Guy's Store,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Leon,Pct #2 - Guy's Store,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",256,8,185,63
+Leon,Pct #2 - Guy's Store,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",28,2,17,9
+Leon,Pct #2 - Guy's Store,"Justice, Supreme Court",Pl 4,REP,"John Devine",253,7,184,62
+Leon,Pct #2 - Guy's Store,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",31,3,18,10
+Leon,Pct #2 - Guy's Store,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",251,6,184,61
+Leon,Pct #2 - Guy's Store,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",27,3,16,8
+Leon,Pct #2 - Guy's Store,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",6,0,4,2
+Leon,Pct #2 - Guy's Store,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",252,6,183,63
+Leon,Pct #2 - Guy's Store,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",31,3,21,7
+Leon,Pct #2 - Guy's Store,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",257,7,187,63
+Leon,Pct #2 - Guy's Store,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",26,2,17,7
+Leon,Pct #2 - Guy's Store,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",259,7,188,64
+Leon,Pct #2 - Guy's Store,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",23,2,15,6
+Leon,Pct #2 - Guy's Store,"Member, State BoE",Dist 10,REP,"Tom Maynard",253,6,184,63
+Leon,Pct #2 - Guy's Store,"Member, State BoE",Dist 10,DEM,"Raquel Saenz Ortiz",29,3,18,8
+Leon,Pct #2 - Guy's Store,"State Representative",13,REP,"Angelia Orr",253,8,183,62
+Leon,Pct #2 - Guy's Store,"State Representative",13,DEM,"Albert Hunter",32,2,20,10
+Leon,Pct #2 - Guy's Store,"Chief Justice, 10th Ct of App Dist",,REP,"Matt Johnson",264,5,193,66
+Leon,Pct #2 - Guy's Store,"Dist Attorney, 369th Judicial Dist",,REP,"James Caleb Henson",257,6,191,60
+Leon,Pct #2 - Guy's Store,"County Attorney",,REP,"Keith Cook",260,5,193,62
+Leon,Pct #2 - Guy's Store,"Sheriff",,REP,"Kevin Ellis",273,8,196,69
+Leon,Pct #2 - Guy's Store,"County Tax Assessor-Collector",,REP,"Victoria Willis",264,7,191,66
+Leon,Pct #2 - Guy's Store,"County Commissioner",Pct 1,REP,"Joey Sullivan",263,8,196,59
+Leon,Pct #2 - Guy's Store,"Constable",Pct 2,REP,"John L. Franks",276,8,197,71
+Leon,Pct #3 - Leona,"Registered Voters",,,,676,,,
+Leon,Pct #3 - Leona,"Ballots Cast",,,,481,10,347,124
+Leon,Pct #3 - Leona,"Ballots Cast Blank",,,,0,0,0,0
+Leon,Pct #3 - Leona,"President",,REP,"Donald J. Trump/JD Vance",428,9,315,104
+Leon,Pct #3 - Leona,"President",,DEM,"Kamala D. Harris/Tim Walz",49,0,30,19
+Leon,Pct #3 - Leona,"President",,LIB,"Chase Oliver/Mike ter Maat",3,0,2,1
+Leon,Pct #3 - Leona,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Leon,Pct #3 - Leona,"President",,,"Write-ins",1,1,0,0
+Leon,Pct #3 - Leona,"U.S. Senate",,REP,"Ted Cruz",417,10,307,100
+Leon,Pct #3 - Leona,"U.S. Senate",,DEM,"Colin Allred",51,0,32,19
+Leon,Pct #3 - Leona,"U.S. Senate",,LIB,"Ted Brown",5,0,5,0
+Leon,Pct #3 - Leona,"U.S. Senate",,,"Write-ins",0,0,0,0
+Leon,Pct #3 - Leona,"U.S. House",17,REP,"Pete Sessions",421,9,314,98
+Leon,Pct #3 - Leona,"U.S. House",17,DEM,"Mark Lorenzen",40,1,24,15
+Leon,Pct #3 - Leona,"Railroad Commissioner",,REP,"Christi Craddick",410,10,302,98
+Leon,Pct #3 - Leona,"Railroad Commissioner",,DEM,"Katherine Culbert",40,0,26,14
+Leon,Pct #3 - Leona,"Railroad Commissioner",,LIB,"Hawk Dunlap",12,0,11,1
+Leon,Pct #3 - Leona,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,2,0
+Leon,Pct #3 - Leona,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Leon,Pct #3 - Leona,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",422,10,314,98
+Leon,Pct #3 - Leona,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",40,0,26,14
+Leon,Pct #3 - Leona,"Justice, Supreme Court",Pl 4,REP,"John Devine",421,10,313,98
+Leon,Pct #3 - Leona,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",41,0,27,14
+Leon,Pct #3 - Leona,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",414,10,308,96
+Leon,Pct #3 - Leona,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",41,0,26,15
+Leon,Pct #3 - Leona,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",7,0,7,0
+Leon,Pct #3 - Leona,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",415,10,309,96
+Leon,Pct #3 - Leona,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",49,0,33,16
+Leon,Pct #3 - Leona,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",421,10,313,98
+Leon,Pct #3 - Leona,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",43,0,28,15
+Leon,Pct #3 - Leona,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",421,10,315,96
+Leon,Pct #3 - Leona,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",42,0,27,15
+Leon,Pct #3 - Leona,"Member, State BoE",Dist 10,REP,"Tom Maynard",419,10,312,97
+Leon,Pct #3 - Leona,"Member, State BoE",Dist 10,DEM,"Raquel Saenz Ortiz",45,0,30,15
+Leon,Pct #3 - Leona,"State Representative",13,REP,"Angelia Orr",415,10,308,97
+Leon,Pct #3 - Leona,"State Representative",13,DEM,"Albert Hunter",43,0,29,14
+Leon,Pct #3 - Leona,"Chief Justice, 10th Ct of App Dist",,REP,"Matt Johnson",432,10,324,98
+Leon,Pct #3 - Leona,"Dist Attorney, 369th Judicial Dist",,REP,"James Caleb Henson",425,10,318,97
+Leon,Pct #3 - Leona,"County Attorney",,REP,"Keith Cook",431,10,321,100
+Leon,Pct #3 - Leona,"Sheriff",,REP,"Kevin Ellis",436,9,324,103
+Leon,Pct #3 - Leona,"County Tax Assessor-Collector",,REP,"Victoria Willis",427,10,316,101
+Leon,Pct #3 - Leona,"County Commissioner",Pct 1,REP,"Joey Sullivan",429,9,320,100
+Leon,Pct #3 - Leona,"Constable",Pct 2,REP,"John L. Franks",433,10,319,104
+Leon,Pct #4 - Normangee,"Registered Voters",,,,1003,,,
+Leon,Pct #4 - Normangee,"Ballots Cast",,,,703,19,280,404
+Leon,Pct #4 - Normangee,"Ballots Cast Blank",,,,0,0,0,0
+Leon,Pct #4 - Normangee,"President",,REP,"Donald J. Trump/JD Vance",634,17,241,376
+Leon,Pct #4 - Normangee,"President",,DEM,"Kamala D. Harris/Tim Walz",67,2,38,27
+Leon,Pct #4 - Normangee,"President",,LIB,"Chase Oliver/Mike ter Maat",0,0,0,0
+Leon,Pct #4 - Normangee,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Leon,Pct #4 - Normangee,"President",,,"Write-ins",2,0,1,1
+Leon,Pct #4 - Normangee,"U.S. Senate",,REP,"Ted Cruz",610,16,233,361
+Leon,Pct #4 - Normangee,"U.S. Senate",,DEM,"Colin Allred",74,3,38,33
+Leon,Pct #4 - Normangee,"U.S. Senate",,LIB,"Ted Brown",12,0,7,5
+Leon,Pct #4 - Normangee,"U.S. Senate",,,"Write-ins",1,0,0,1
+Leon,Pct #4 - Normangee,"U.S. House",17,REP,"Pete Sessions",619,18,234,367
+Leon,Pct #4 - Normangee,"U.S. House",17,DEM,"Mark Lorenzen",62,1,32,29
+Leon,Pct #4 - Normangee,"Railroad Commissioner",,REP,"Christi Craddick",608,16,235,357
+Leon,Pct #4 - Normangee,"Railroad Commissioner",,DEM,"Katherine Culbert",62,2,35,25
+Leon,Pct #4 - Normangee,"Railroad Commissioner",,LIB,"Hawk Dunlap",13,0,4,9
+Leon,Pct #4 - Normangee,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,0,2
+Leon,Pct #4 - Normangee,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Leon,Pct #4 - Normangee,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",630,16,242,372
+Leon,Pct #4 - Normangee,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",54,2,31,21
+Leon,Pct #4 - Normangee,"Justice, Supreme Court",Pl 4,REP,"John Devine",620,14,239,367
+Leon,Pct #4 - Normangee,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",63,3,35,25
+Leon,Pct #4 - Normangee,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",616,16,237,363
+Leon,Pct #4 - Normangee,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",61,1,36,24
+Leon,Pct #4 - Normangee,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",9,0,4,5
+Leon,Pct #4 - Normangee,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",619,17,239,363
+Leon,Pct #4 - Normangee,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",60,1,34,25
+Leon,Pct #4 - Normangee,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",616,16,238,362
+Leon,Pct #4 - Normangee,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",65,2,35,28
+Leon,Pct #4 - Normangee,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",619,16,239,364
+Leon,Pct #4 - Normangee,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",63,2,34,27
+Leon,Pct #4 - Normangee,"Member, State BoE",Dist 10,REP,"Tom Maynard",613,15,234,364
+Leon,Pct #4 - Normangee,"Member, State BoE",Dist 10,DEM,"Raquel Saenz Ortiz",62,2,34,26
+Leon,Pct #4 - Normangee,"State Representative",13,REP,"Angelia Orr",618,16,236,366
+Leon,Pct #4 - Normangee,"State Representative",13,DEM,"Albert Hunter",61,2,32,27
+Leon,Pct #4 - Normangee,"Chief Justice, 10th Ct of App Dist",,REP,"Matt Johnson",629,16,242,371
+Leon,Pct #4 - Normangee,"Dist Attorney, 369th Judicial Dist",,REP,"James Caleb Henson",623,16,241,366
+Leon,Pct #4 - Normangee,"County Attorney",,REP,"Keith Cook",630,16,245,369
+Leon,Pct #4 - Normangee,"Sheriff",,REP,"Kevin Ellis",624,16,236,372
+Leon,Pct #4 - Normangee,"County Tax Assessor-Collector",,REP,"Victoria Willis",617,16,239,362
+Leon,Pct #4 - Normangee,"Constable",Pct 4,REP,"David Welch",608,16,233,359
+Leon,Pct #5 - Flynn,"Registered Voters",,,,623,,,
+Leon,Pct #5 - Flynn,"Ballots Cast",,,,481,15,290,176
+Leon,Pct #5 - Flynn,"Ballots Cast Blank",,,,0,0,0,0
+Leon,Pct #5 - Flynn,"President",,REP,"Donald J. Trump/JD Vance",429,12,260,157
+Leon,Pct #5 - Flynn,"President",,DEM,"Kamala D. Harris/Tim Walz",50,3,29,18
+Leon,Pct #5 - Flynn,"President",,LIB,"Chase Oliver/Mike ter Maat",1,0,1,0
+Leon,Pct #5 - Flynn,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Leon,Pct #5 - Flynn,"President",,,"Write-ins",1,0,0,1
+Leon,Pct #5 - Flynn,"U.S. Senate",,REP,"Ted Cruz",423,13,259,151
+Leon,Pct #5 - Flynn,"U.S. Senate",,DEM,"Colin Allred",52,2,30,20
+Leon,Pct #5 - Flynn,"U.S. Senate",,LIB,"Ted Brown",5,0,1,4
+Leon,Pct #5 - Flynn,"U.S. Senate",,,"Write-ins",1,0,0,1
+Leon,Pct #5 - Flynn,"U.S. House",17,REP,"Pete Sessions",427,12,261,154
+Leon,Pct #5 - Flynn,"U.S. House",17,DEM,"Mark Lorenzen",45,3,25,17
+Leon,Pct #5 - Flynn,"Railroad Commissioner",,REP,"Christi Craddick",408,11,257,140
+Leon,Pct #5 - Flynn,"Railroad Commissioner",,DEM,"Katherine Culbert",44,2,25,17
+Leon,Pct #5 - Flynn,"Railroad Commissioner",,LIB,"Hawk Dunlap",18,1,5,12
+Leon,Pct #5 - Flynn,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,0,1
+Leon,Pct #5 - Flynn,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Leon,Pct #5 - Flynn,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",425,13,260,152
+Leon,Pct #5 - Flynn,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",46,2,27,17
+Leon,Pct #5 - Flynn,"Justice, Supreme Court",Pl 4,REP,"John Devine",422,12,261,149
+Leon,Pct #5 - Flynn,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",49,3,27,19
+Leon,Pct #5 - Flynn,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",412,13,254,145
+Leon,Pct #5 - Flynn,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",45,2,26,17
+Leon,Pct #5 - Flynn,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",12,0,3,9
+Leon,Pct #5 - Flynn,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",423,12,256,155
+Leon,Pct #5 - Flynn,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",48,3,28,17
+Leon,Pct #5 - Flynn,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",421,12,257,152
+Leon,Pct #5 - Flynn,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",50,3,27,20
+Leon,Pct #5 - Flynn,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",426,13,258,155
+Leon,Pct #5 - Flynn,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",46,2,27,17
+Leon,Pct #5 - Flynn,"Member, State BoE",Dist 10,REP,"Tom Maynard",422,11,258,153
+Leon,Pct #5 - Flynn,"Member, State BoE",Dist 10,DEM,"Raquel Saenz Ortiz",47,3,26,18
+Leon,Pct #5 - Flynn,"State Representative",13,REP,"Angelia Orr",420,11,258,151
+Leon,Pct #5 - Flynn,"State Representative",13,DEM,"Albert Hunter",46,2,26,18
+Leon,Pct #5 - Flynn,"Chief Justice, 10th Ct of App Dist",,REP,"Matt Johnson",434,12,264,158
+Leon,Pct #5 - Flynn,"Dist Attorney, 369th Judicial Dist",,REP,"James Caleb Henson",434,12,267,155
+Leon,Pct #5 - Flynn,"County Attorney",,REP,"Keith Cook",434,12,266,156
+Leon,Pct #5 - Flynn,"Sheriff",,REP,"Kevin Ellis",445,13,271,161
+Leon,Pct #5 - Flynn,"County Tax Assessor-Collector",,REP,"Victoria Willis",426,12,264,150
+Leon,Pct #5 - Flynn,"Constable",Pct 4,REP,"David Welch",427,12,262,153
+Leon,Pct #6 - Hilltop Lakes,"Registered Voters",,,,1197,,,
+Leon,Pct #6 - Hilltop Lakes,"Ballots Cast",,,,939,35,382,522
+Leon,Pct #6 - Hilltop Lakes,"Ballots Cast Blank",,,,0,0,0,0
+Leon,Pct #6 - Hilltop Lakes,"President",,REP,"Donald J. Trump/JD Vance",828,29,342,457
+Leon,Pct #6 - Hilltop Lakes,"President",,DEM,"Kamala D. Harris/Tim Walz",102,6,37,59
+Leon,Pct #6 - Hilltop Lakes,"President",,LIB,"Chase Oliver/Mike ter Maat",5,0,1,4
+Leon,Pct #6 - Hilltop Lakes,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,0,1
+Leon,Pct #6 - Hilltop Lakes,"President",,,"Write-ins",1,0,1,0
+Leon,Pct #6 - Hilltop Lakes,"U.S. Senate",,REP,"Ted Cruz",810,30,336,444
+Leon,Pct #6 - Hilltop Lakes,"U.S. Senate",,DEM,"Colin Allred",105,5,41,59
+Leon,Pct #6 - Hilltop Lakes,"U.S. Senate",,LIB,"Ted Brown",16,0,3,13
+Leon,Pct #6 - Hilltop Lakes,"U.S. Senate",,,"Write-ins",0,0,0,0
+Leon,Pct #6 - Hilltop Lakes,"U.S. House",17,REP,"Pete Sessions",826,31,337,458
+Leon,Pct #6 - Hilltop Lakes,"U.S. House",17,DEM,"Mark Lorenzen",92,4,35,53
+Leon,Pct #6 - Hilltop Lakes,"Railroad Commissioner",,REP,"Christi Craddick",813,31,334,448
+Leon,Pct #6 - Hilltop Lakes,"Railroad Commissioner",,DEM,"Katherine Culbert",86,4,34,48
+Leon,Pct #6 - Hilltop Lakes,"Railroad Commissioner",,LIB,"Hawk Dunlap",15,0,6,9
+Leon,Pct #6 - Hilltop Lakes,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,1,2
+Leon,Pct #6 - Hilltop Lakes,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Leon,Pct #6 - Hilltop Lakes,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",820,31,337,452
+Leon,Pct #6 - Hilltop Lakes,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",98,4,39,55
+Leon,Pct #6 - Hilltop Lakes,"Justice, Supreme Court",Pl 4,REP,"John Devine",817,28,339,450
+Leon,Pct #6 - Hilltop Lakes,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",100,6,37,57
+Leon,Pct #6 - Hilltop Lakes,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",814,30,338,446
+Leon,Pct #6 - Hilltop Lakes,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",93,5,35,53
+Leon,Pct #6 - Hilltop Lakes,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",10,0,2,8
+Leon,Pct #6 - Hilltop Lakes,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",818,29,336,453
+Leon,Pct #6 - Hilltop Lakes,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",97,6,38,53
+Leon,Pct #6 - Hilltop Lakes,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",823,31,339,453
+Leon,Pct #6 - Hilltop Lakes,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",92,4,35,53
+Leon,Pct #6 - Hilltop Lakes,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",821,30,336,455
+Leon,Pct #6 - Hilltop Lakes,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",91,4,38,49
+Leon,Pct #6 - Hilltop Lakes,"Member, State BoE",Dist 10,REP,"Tom Maynard",815,30,336,449
+Leon,Pct #6 - Hilltop Lakes,"Member, State BoE",Dist 10,DEM,"Raquel Saenz Ortiz",99,5,36,58
+Leon,Pct #6 - Hilltop Lakes,"State Representative",13,REP,"Angelia Orr",822,30,336,456
+Leon,Pct #6 - Hilltop Lakes,"State Representative",13,DEM,"Albert Hunter",87,4,34,49
+Leon,Pct #6 - Hilltop Lakes,"Chief Justice, 10th Ct of App Dist",,REP,"Matt Johnson",834,30,340,464
+Leon,Pct #6 - Hilltop Lakes,"Dist Attorney, 369th Judicial Dist",,REP,"James Caleb Henson",814,30,330,454
+Leon,Pct #6 - Hilltop Lakes,"County Attorney",,REP,"Keith Cook",832,30,337,465
+Leon,Pct #6 - Hilltop Lakes,"Sheriff",,REP,"Kevin Ellis",813,30,331,452
+Leon,Pct #6 - Hilltop Lakes,"County Tax Assessor-Collector",,REP,"Victoria Willis",807,30,325,452
+Leon,Pct #6 - Hilltop Lakes,"Constable",Pct 4,REP,"David Welch",803,30,319,454
+Leon,Pct #7 - Marquez,"Registered Voters",,,,667,,,
+Leon,Pct #7 - Marquez,"Ballots Cast",,,,490,21,291,178
+Leon,Pct #7 - Marquez,"Ballots Cast Blank",,,,0,0,0,0
+Leon,Pct #7 - Marquez,"President",,REP,"Donald J. Trump/JD Vance",452,12,275,165
+Leon,Pct #7 - Marquez,"President",,DEM,"Kamala D. Harris/Tim Walz",33,8,15,10
+Leon,Pct #7 - Marquez,"President",,LIB,"Chase Oliver/Mike ter Maat",2,0,1,1
+Leon,Pct #7 - Marquez,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Leon,Pct #7 - Marquez,"President",,,"Write-ins",2,1,0,1
+Leon,Pct #7 - Marquez,"U.S. Senate",,REP,"Ted Cruz",435,12,264,159
+Leon,Pct #7 - Marquez,"U.S. Senate",,DEM,"Colin Allred",45,9,23,13
+Leon,Pct #7 - Marquez,"U.S. Senate",,LIB,"Ted Brown",5,0,2,3
+Leon,Pct #7 - Marquez,"U.S. Senate",,,"Write-ins",0,0,0,0
+Leon,Pct #7 - Marquez,"U.S. House",17,REP,"Pete Sessions",445,12,268,165
+Leon,Pct #7 - Marquez,"U.S. House",17,DEM,"Mark Lorenzen",30,7,14,9
+Leon,Pct #7 - Marquez,"Railroad Commissioner",,REP,"Christi Craddick",423,11,262,150
+Leon,Pct #7 - Marquez,"Railroad Commissioner",,DEM,"Katherine Culbert",29,7,12,10
+Leon,Pct #7 - Marquez,"Railroad Commissioner",,LIB,"Hawk Dunlap",14,0,7,7
+Leon,Pct #7 - Marquez,"Railroad Commissioner",,GRN,"Eddie Espinoza",4,0,1,3
+Leon,Pct #7 - Marquez,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Leon,Pct #7 - Marquez,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",438,12,267,159
+Leon,Pct #7 - Marquez,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",30,7,14,9
+Leon,Pct #7 - Marquez,"Justice, Supreme Court",Pl 4,REP,"John Devine",436,11,266,159
+Leon,Pct #7 - Marquez,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",34,8,16,10
+Leon,Pct #7 - Marquez,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",422,11,257,154
+Leon,Pct #7 - Marquez,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",31,7,14,10
+Leon,Pct #7 - Marquez,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",10,0,8,2
+Leon,Pct #7 - Marquez,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",429,12,263,154
+Leon,Pct #7 - Marquez,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",35,7,16,12
+Leon,Pct #7 - Marquez,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",433,12,266,155
+Leon,Pct #7 - Marquez,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",31,7,14,10
+Leon,Pct #7 - Marquez,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",434,11,267,156
+Leon,Pct #7 - Marquez,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",29,7,12,10
+Leon,Pct #7 - Marquez,"Member, State BoE",Dist 10,REP,"Tom Maynard",429,11,261,157
+Leon,Pct #7 - Marquez,"Member, State BoE",Dist 10,DEM,"Raquel Saenz Ortiz",33,7,17,9
+Leon,Pct #7 - Marquez,"State Representative",13,REP,"Angelia Orr",425,13,255,157
+Leon,Pct #7 - Marquez,"State Representative",13,DEM,"Albert Hunter",34,6,18,10
+Leon,Pct #7 - Marquez,"Chief Justice, 10th Ct of App Dist",,REP,"Matt Johnson",422,9,257,156
+Leon,Pct #7 - Marquez,"Dist Attorney, 369th Judicial Dist",,REP,"James Caleb Henson",413,9,248,156
+Leon,Pct #7 - Marquez,"County Attorney",,REP,"Keith Cook",422,9,257,156
+Leon,Pct #7 - Marquez,"Sheriff",,REP,"Kevin Ellis",422,9,253,160
+Leon,Pct #7 - Marquez,"County Tax Assessor-Collector",,REP,"Victoria Willis",401,10,240,151
+Leon,Pct #7 - Marquez,"Constable",Pct 4,REP,"David Welch",368,9,218,141
+Leon,Pct #8 - Jewett,"Registered Voters",,,,1238,,,
+Leon,Pct #8 - Jewett,"Ballots Cast",,,,822,14,503,305
+Leon,Pct #8 - Jewett,"Ballots Cast Blank",,,,0,0,0,0
+Leon,Pct #8 - Jewett,"President",,REP,"Donald J. Trump/JD Vance",717,8,446,263
+Leon,Pct #8 - Jewett,"President",,DEM,"Kamala D. Harris/Tim Walz",99,6,55,38
+Leon,Pct #8 - Jewett,"President",,LIB,"Chase Oliver/Mike ter Maat",3,0,2,1
+Leon,Pct #8 - Jewett,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,0,1
+Leon,Pct #8 - Jewett,"President",,,"Write-ins",1,0,0,1
+Leon,Pct #8 - Jewett,"U.S. Senate",,REP,"Ted Cruz",691,8,436,247
+Leon,Pct #8 - Jewett,"U.S. Senate",,DEM,"Colin Allred",100,4,56,40
+Leon,Pct #8 - Jewett,"U.S. Senate",,LIB,"Ted Brown",17,2,7,8
+Leon,Pct #8 - Jewett,"U.S. Senate",,,"Write-ins",1,0,1,0
+Leon,Pct #8 - Jewett,"U.S. House",17,REP,"Pete Sessions",703,8,439,256
+Leon,Pct #8 - Jewett,"U.S. House",17,DEM,"Mark Lorenzen",97,6,54,37
+Leon,Pct #8 - Jewett,"Railroad Commissioner",,REP,"Christi Craddick",681,8,434,239
+Leon,Pct #8 - Jewett,"Railroad Commissioner",,DEM,"Katherine Culbert",85,4,47,34
+Leon,Pct #8 - Jewett,"Railroad Commissioner",,LIB,"Hawk Dunlap",19,0,8,11
+Leon,Pct #8 - Jewett,"Railroad Commissioner",,GRN,"Eddie Espinoza",6,0,1,5
+Leon,Pct #8 - Jewett,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Leon,Pct #8 - Jewett,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",711,8,445,258
+Leon,Pct #8 - Jewett,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",79,4,47,28
+Leon,Pct #8 - Jewett,"Justice, Supreme Court",Pl 4,REP,"John Devine",700,8,441,251
+Leon,Pct #8 - Jewett,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",86,4,51,31
+Leon,Pct #8 - Jewett,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",686,8,434,244
+Leon,Pct #8 - Jewett,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",87,4,48,35
+Leon,Pct #8 - Jewett,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",18,0,9,9
+Leon,Pct #8 - Jewett,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",699,7,440,252
+Leon,Pct #8 - Jewett,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",91,5,51,35
+Leon,Pct #8 - Jewett,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",696,8,440,248
+Leon,Pct #8 - Jewett,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",89,3,50,36
+Leon,Pct #8 - Jewett,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",706,8,444,254
+Leon,Pct #8 - Jewett,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",83,4,49,30
+Leon,Pct #8 - Jewett,"Member, State BoE",Dist 10,REP,"Tom Maynard",699,8,438,253
+Leon,Pct #8 - Jewett,"Member, State BoE",Dist 10,DEM,"Raquel Saenz Ortiz",89,4,53,32
+Leon,Pct #8 - Jewett,"State Representative",13,REP,"Angelia Orr",702,7,441,254
+Leon,Pct #8 - Jewett,"State Representative",13,DEM,"Albert Hunter",83,4,48,31
+Leon,Pct #8 - Jewett,"Chief Justice, 10th Ct of App Dist",,REP,"Matt Johnson",726,8,455,263
+Leon,Pct #8 - Jewett,"Dist Attorney, 369th Judicial Dist",,REP,"James Caleb Henson",716,9,445,262
+Leon,Pct #8 - Jewett,"County Attorney",,REP,"Keith Cook",732,11,454,267
+Leon,Pct #8 - Jewett,"Sheriff",,REP,"Kevin Ellis",738,11,458,269
+Leon,Pct #8 - Jewett,"County Tax Assessor-Collector",,REP,"Victoria Willis",709,11,436,262
+Leon,Pct #8 - Jewett,"County Commissioner",Pct 3,REP,"Kyle Workman",710,9,438,263
+Leon,Pct #8 - Jewett,"Constable",Pct 1,REP,"Glenn Hightower",700,9,441,250
+Leon,Pct #9 - Concord,"Registered Voters",,,,473,,,
+Leon,Pct #9 - Concord,"Ballots Cast",,,,345,3,232,110
+Leon,Pct #9 - Concord,"Ballots Cast Blank",,,,0,0,0,0
+Leon,Pct #9 - Concord,"President",,REP,"Donald J. Trump/JD Vance",319,3,212,104
+Leon,Pct #9 - Concord,"President",,DEM,"Kamala D. Harris/Tim Walz",24,0,20,4
+Leon,Pct #9 - Concord,"President",,LIB,"Chase Oliver/Mike ter Maat",1,0,0,1
+Leon,Pct #9 - Concord,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Leon,Pct #9 - Concord,"President",,,"Write-ins",1,0,0,1
+Leon,Pct #9 - Concord,"U.S. Senate",,REP,"Ted Cruz",308,3,203,102
+Leon,Pct #9 - Concord,"U.S. Senate",,DEM,"Colin Allred",26,0,24,2
+Leon,Pct #9 - Concord,"U.S. Senate",,LIB,"Ted Brown",8,0,2,6
+Leon,Pct #9 - Concord,"U.S. Senate",,,"Write-ins",0,0,0,0
+Leon,Pct #9 - Concord,"U.S. House",17,REP,"Pete Sessions",317,3,210,104
+Leon,Pct #9 - Concord,"U.S. House",17,DEM,"Mark Lorenzen",21,0,17,4
+Leon,Pct #9 - Concord,"Railroad Commissioner",,REP,"Christi Craddick",308,3,204,101
+Leon,Pct #9 - Concord,"Railroad Commissioner",,DEM,"Katherine Culbert",17,0,15,2
+Leon,Pct #9 - Concord,"Railroad Commissioner",,LIB,"Hawk Dunlap",8,0,6,2
+Leon,Pct #9 - Concord,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,1,0
+Leon,Pct #9 - Concord,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Leon,Pct #9 - Concord,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",313,3,207,103
+Leon,Pct #9 - Concord,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",19,0,17,2
+Leon,Pct #9 - Concord,"Justice, Supreme Court",Pl 4,REP,"John Devine",311,3,203,105
+Leon,Pct #9 - Concord,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",22,0,20,2
+Leon,Pct #9 - Concord,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",311,3,207,101
+Leon,Pct #9 - Concord,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",20,0,18,2
+Leon,Pct #9 - Concord,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",3,0,0,3
+Leon,Pct #9 - Concord,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",311,3,205,103
+Leon,Pct #9 - Concord,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",22,0,19,3
+Leon,Pct #9 - Concord,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",311,3,205,103
+Leon,Pct #9 - Concord,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",22,0,20,2
+Leon,Pct #9 - Concord,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",312,3,205,104
+Leon,Pct #9 - Concord,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",21,0,19,2
+Leon,Pct #9 - Concord,"Member, State BoE",Dist 10,REP,"Tom Maynard",312,3,207,102
+Leon,Pct #9 - Concord,"Member, State BoE",Dist 10,DEM,"Raquel Saenz Ortiz",20,0,17,3
+Leon,Pct #9 - Concord,"State Representative",13,REP,"Angelia Orr",310,3,205,102
+Leon,Pct #9 - Concord,"State Representative",13,DEM,"Albert Hunter",23,0,19,4
+Leon,Pct #9 - Concord,"Chief Justice, 10th Ct of App Dist",,REP,"Matt Johnson",313,3,210,100
+Leon,Pct #9 - Concord,"Dist Attorney, 369th Judicial Dist",,REP,"James Caleb Henson",310,3,207,100
+Leon,Pct #9 - Concord,"County Attorney",,REP,"Keith Cook",314,3,209,102
+Leon,Pct #9 - Concord,"Sheriff",,REP,"Kevin Ellis",313,3,207,103
+Leon,Pct #9 - Concord,"County Tax Assessor-Collector",,REP,"Victoria Willis",308,3,206,99
+Leon,Pct #9 - Concord,"County Commissioner",Pct 3,REP,"Kyle Workman",302,3,203,96
+Leon,Pct #9 - Concord,"Constable",Pct 1,REP,"Glenn Hightower",310,3,207,100
+Leon,Pct #10 - W. Buffalo,"Registered Voters",,,,1205,,,
+Leon,Pct #10 - W. Buffalo,"Ballots Cast",,,,835,20,647,168
+Leon,Pct #10 - W. Buffalo,"Ballots Cast Blank",,,,0,0,0,0
+Leon,Pct #10 - W. Buffalo,"President",,REP,"Donald J. Trump/JD Vance",754,15,599,140
+Leon,Pct #10 - W. Buffalo,"President",,DEM,"Kamala D. Harris/Tim Walz",74,5,45,24
+Leon,Pct #10 - W. Buffalo,"President",,LIB,"Chase Oliver/Mike ter Maat",2,0,0,2
+Leon,Pct #10 - W. Buffalo,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Leon,Pct #10 - W. Buffalo,"President",,,"Write-ins",2,0,0,2
+Leon,Pct #10 - W. Buffalo,"U.S. Senate",,REP,"Ted Cruz",726,14,577,135
+Leon,Pct #10 - W. Buffalo,"U.S. Senate",,DEM,"Colin Allred",87,6,56,25
+Leon,Pct #10 - W. Buffalo,"U.S. Senate",,LIB,"Ted Brown",16,0,9,7
+Leon,Pct #10 - W. Buffalo,"U.S. Senate",,,"Write-ins",0,0,0,0
+Leon,Pct #10 - W. Buffalo,"U.S. House",17,REP,"Pete Sessions",755,17,600,138
+Leon,Pct #10 - W. Buffalo,"U.S. House",17,DEM,"Mark Lorenzen",64,3,37,24
+Leon,Pct #10 - W. Buffalo,"Railroad Commissioner",,REP,"Christi Craddick",725,16,579,130
+Leon,Pct #10 - W. Buffalo,"Railroad Commissioner",,DEM,"Katherine Culbert",60,3,34,23
+Leon,Pct #10 - W. Buffalo,"Railroad Commissioner",,LIB,"Hawk Dunlap",22,0,14,8
+Leon,Pct #10 - W. Buffalo,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,2,0
+Leon,Pct #10 - W. Buffalo,"Railroad Commissioner",,,"Write-ins",2,0,0,2
+Leon,Pct #10 - W. Buffalo,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",744,13,593,138
+Leon,Pct #10 - W. Buffalo,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",62,3,35,24
+Leon,Pct #10 - W. Buffalo,"Justice, Supreme Court",Pl 4,REP,"John Devine",744,15,591,138
+Leon,Pct #10 - W. Buffalo,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",61,2,36,23
+Leon,Pct #10 - W. Buffalo,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",729,15,582,132
+Leon,Pct #10 - W. Buffalo,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",62,2,37,23
+Leon,Pct #10 - W. Buffalo,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",14,0,7,7
+Leon,Pct #10 - W. Buffalo,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",736,15,586,135
+Leon,Pct #10 - W. Buffalo,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",67,2,39,26
+Leon,Pct #10 - W. Buffalo,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",739,14,589,136
+Leon,Pct #10 - W. Buffalo,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",61,2,35,24
+Leon,Pct #10 - W. Buffalo,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",744,15,590,139
+Leon,Pct #10 - W. Buffalo,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",59,2,34,23
+Leon,Pct #10 - W. Buffalo,"Member, State BoE",Dist 10,REP,"Tom Maynard",741,15,587,139
+Leon,Pct #10 - W. Buffalo,"Member, State BoE",Dist 10,DEM,"Raquel Saenz Ortiz",64,2,38,24
+Leon,Pct #10 - W. Buffalo,"State Representative",13,REP,"Angelia Orr",741,15,586,140
+Leon,Pct #10 - W. Buffalo,"State Representative",13,DEM,"Albert Hunter",58,1,35,22
+Leon,Pct #10 - W. Buffalo,"Chief Justice, 10th Ct of App Dist",,REP,"Matt Johnson",760,13,596,151
+Leon,Pct #10 - W. Buffalo,"Dist Attorney, 369th Judicial Dist",,REP,"James Caleb Henson",747,13,585,149
+Leon,Pct #10 - W. Buffalo,"County Attorney",,REP,"Keith Cook",749,12,587,150
+Leon,Pct #10 - W. Buffalo,"Sheriff",,REP,"Kevin Ellis",761,13,605,143
+Leon,Pct #10 - W. Buffalo,"County Tax Assessor-Collector",,REP,"Victoria Willis",743,12,588,143
+Leon,Pct #10 - W. Buffalo,"County Commissioner",Pct 3,REP,"Kyle Workman",730,13,578,139
+Leon,Pct #10 - W. Buffalo,"Constable",Pct 1,REP,"Glenn Hightower",738,13,584,141
+Leon,Pct #10 - W. Buffalo,"PROPOSITION A Buffalo ISD",,,FOR,448,8,348,92
+Leon,Pct #10 - W. Buffalo,"PROPOSITION A Buffalo ISD",,,AGAINST,257,6,192,59
+Leon,Pct #11 - E. Buffalo,"Registered Voters",,,,1093,,,
+Leon,Pct #11 - E. Buffalo,"Ballots Cast",,,,718,18,602,98
+Leon,Pct #11 - E. Buffalo,"Ballots Cast Blank",,,,0,0,0,0
+Leon,Pct #11 - E. Buffalo,"President",,REP,"Donald J. Trump/JD Vance",598,12,516,70
+Leon,Pct #11 - E. Buffalo,"President",,DEM,"Kamala D. Harris/Tim Walz",113,6,81,26
+Leon,Pct #11 - E. Buffalo,"President",,LIB,"Chase Oliver/Mike ter Maat",1,0,1,0
+Leon,Pct #11 - E. Buffalo,"President",,GRN,"Jill Stein/Rudolph Ware",3,0,2,1
+Leon,Pct #11 - E. Buffalo,"President",,,"Write-ins",1,0,0,1
+Leon,Pct #11 - E. Buffalo,"U.S. Senate",,REP,"Ted Cruz",575,12,498,65
+Leon,Pct #11 - E. Buffalo,"U.S. Senate",,DEM,"Colin Allred",120,6,88,26
+Leon,Pct #11 - E. Buffalo,"U.S. Senate",,LIB,"Ted Brown",15,0,12,3
+Leon,Pct #11 - E. Buffalo,"U.S. Senate",,,"Write-ins",0,0,0,0
+Leon,Pct #11 - E. Buffalo,"U.S. House",17,REP,"Pete Sessions",595,12,514,69
+Leon,Pct #11 - E. Buffalo,"U.S. House",17,DEM,"Mark Lorenzen",104,6,73,25
+Leon,Pct #11 - E. Buffalo,"Railroad Commissioner",,REP,"Christi Craddick",579,12,502,65
+Leon,Pct #11 - E. Buffalo,"Railroad Commissioner",,DEM,"Katherine Culbert",91,6,62,23
+Leon,Pct #11 - E. Buffalo,"Railroad Commissioner",,LIB,"Hawk Dunlap",16,0,14,2
+Leon,Pct #11 - E. Buffalo,"Railroad Commissioner",,GRN,"Eddie Espinoza",10,0,6,4
+Leon,Pct #11 - E. Buffalo,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Leon,Pct #11 - E. Buffalo,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",595,13,514,68
+Leon,Pct #11 - E. Buffalo,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",100,5,69,26
+Leon,Pct #11 - E. Buffalo,"Justice, Supreme Court",Pl 4,REP,"John Devine",592,12,510,70
+Leon,Pct #11 - E. Buffalo,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",103,6,72,25
+Leon,Pct #11 - E. Buffalo,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",581,12,500,69
+Leon,Pct #11 - E. Buffalo,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",97,6,68,23
+Leon,Pct #11 - E. Buffalo,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",17,0,14,3
+Leon,Pct #11 - E. Buffalo,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",578,12,499,67
+Leon,Pct #11 - E. Buffalo,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",111,6,77,28
+Leon,Pct #11 - E. Buffalo,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",580,10,501,69
+Leon,Pct #11 - E. Buffalo,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",106,7,73,26
+Leon,Pct #11 - E. Buffalo,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",598,12,513,73
+Leon,Pct #11 - E. Buffalo,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",90,6,62,22
+Leon,Pct #11 - E. Buffalo,"Member, State BoE",Dist 10,REP,"Tom Maynard",586,13,503,70
+Leon,Pct #11 - E. Buffalo,"Member, State BoE",Dist 10,DEM,"Raquel Saenz Ortiz",107,5,77,25
+Leon,Pct #11 - E. Buffalo,"State Representative",13,REP,"Angelia Orr",592,12,510,70
+Leon,Pct #11 - E. Buffalo,"State Representative",13,DEM,"Albert Hunter",95,6,64,25
+Leon,Pct #11 - E. Buffalo,"Chief Justice, 10th Ct of App Dist",,REP,"Matt Johnson",617,13,523,81
+Leon,Pct #11 - E. Buffalo,"Dist Attorney, 369th Judicial Dist",,REP,"James Caleb Henson",617,12,524,81
+Leon,Pct #11 - E. Buffalo,"County Attorney",,REP,"Keith Cook",616,12,528,76
+Leon,Pct #11 - E. Buffalo,"Sheriff",,REP,"Kevin Ellis",621,12,530,79
+Leon,Pct #11 - E. Buffalo,"County Tax Assessor-Collector",,REP,"Victoria Willis",613,14,520,79
+Leon,Pct #11 - E. Buffalo,"Constable",Pct 1,REP,"Glenn Hightower",595,12,503,80
+Leon,Pct #11 - E. Buffalo,"PROPOSITION A Buffalo ISD",,,FOR,459,11,380,68
+Leon,Pct #11 - E. Buffalo,"PROPOSITION A Buffalo ISD",,,AGAINST,239,6,209,24
+Leon,Pct #12 - Oakwood,"Registered Voters",,,,905,,,
+Leon,Pct #12 - Oakwood,"Ballots Cast",,,,672,24,372,276
+Leon,Pct #12 - Oakwood,"Ballots Cast Blank",,,,0,0,0,0
+Leon,Pct #12 - Oakwood,"President",,REP,"Donald J. Trump/JD Vance",526,13,309,204
+Leon,Pct #12 - Oakwood,"President",,DEM,"Kamala D. Harris/Tim Walz",135,11,58,66
+Leon,Pct #12 - Oakwood,"President",,LIB,"Chase Oliver/Mike ter Maat",4,0,1,3
+Leon,Pct #12 - Oakwood,"President",,GRN,"Jill Stein/Rudolph Ware",4,0,2,2
+Leon,Pct #12 - Oakwood,"President",,,"Write-ins",1,0,1,0
+Leon,Pct #12 - Oakwood,"U.S. Senate",,REP,"Ted Cruz",502,13,301,188
+Leon,Pct #12 - Oakwood,"U.S. Senate",,DEM,"Colin Allred",150,10,62,78
+Leon,Pct #12 - Oakwood,"U.S. Senate",,LIB,"Ted Brown",16,1,7,8
+Leon,Pct #12 - Oakwood,"U.S. Senate",,,"Write-ins",0,0,0,0
+Leon,Pct #12 - Oakwood,"U.S. House",17,REP,"Pete Sessions",535,13,314,208
+Leon,Pct #12 - Oakwood,"U.S. House",17,DEM,"Mark Lorenzen",125,11,53,61
+Leon,Pct #12 - Oakwood,"Railroad Commissioner",,REP,"Christi Craddick",515,13,305,197
+Leon,Pct #12 - Oakwood,"Railroad Commissioner",,DEM,"Katherine Culbert",120,10,53,57
+Leon,Pct #12 - Oakwood,"Railroad Commissioner",,LIB,"Hawk Dunlap",16,0,9,7
+Leon,Pct #12 - Oakwood,"Railroad Commissioner",,GRN,"Eddie Espinoza",7,0,2,5
+Leon,Pct #12 - Oakwood,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Leon,Pct #12 - Oakwood,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",521,13,306,202
+Leon,Pct #12 - Oakwood,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",128,9,59,60
+Leon,Pct #12 - Oakwood,"Justice, Supreme Court",Pl 4,REP,"John Devine",520,13,307,200
+Leon,Pct #12 - Oakwood,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",127,10,56,61
+Leon,Pct #12 - Oakwood,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",514,13,304,197
+Leon,Pct #12 - Oakwood,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",122,10,55,57
+Leon,Pct #12 - Oakwood,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",15,0,7,8
+Leon,Pct #12 - Oakwood,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",518,12,304,202
+Leon,Pct #12 - Oakwood,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",135,11,62,62
+Leon,Pct #12 - Oakwood,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",524,12,306,206
+Leon,Pct #12 - Oakwood,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",126,10,59,57
+Leon,Pct #12 - Oakwood,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",529,13,309,207
+Leon,Pct #12 - Oakwood,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",123,10,57,56
+Leon,Pct #12 - Oakwood,"Member, State BoE",Dist 10,REP,"Tom Maynard",528,13,308,207
+Leon,Pct #12 - Oakwood,"Member, State BoE",Dist 10,DEM,"Raquel Saenz Ortiz",125,10,57,58
+Leon,Pct #12 - Oakwood,"State Representative",13,REP,"Angelia Orr",518,13,300,205
+Leon,Pct #12 - Oakwood,"State Representative",13,DEM,"Albert Hunter",129,10,59,60
+Leon,Pct #12 - Oakwood,"Chief Justice, 10th Ct of App Dist",,REP,"Matt Johnson",556,14,321,221
+Leon,Pct #12 - Oakwood,"Dist Attorney, 369th Judicial Dist",,REP,"James Caleb Henson",561,14,318,229
+Leon,Pct #12 - Oakwood,"County Attorney",,REP,"Keith Cook",565,14,326,225
+Leon,Pct #12 - Oakwood,"Sheriff",,REP,"Kevin Ellis",577,14,331,232
+Leon,Pct #12 - Oakwood,"County Tax Assessor-Collector",,REP,"Victoria Willis",565,14,325,226
+Leon,Pct #12 - Oakwood,"Constable",Pct 1,REP,"Glenn Hightower",557,13,319,225
+Leon,Pct #12 - Oakwood,"PROPOSITION A Buffalo ISD",,,FOR,112,2,93,17
+Leon,Pct #12 - Oakwood,"PROPOSITION A Buffalo ISD",,,AGAINST,94,4,68,22
+Leon,Pct #12 - Oakwood,"Voter-Approval Tax Rate Election Oakwood ISD",,,FOR,238,5,110,123
+Leon,Pct #12 - Oakwood,"Voter-Approval Tax Rate Election Oakwood ISD",,,AGAINST,190,10,84,96
+Leon,Pct #13 - Flo,"Registered Voters",,,,949,,,
+Leon,Pct #13 - Flo,"Ballots Cast",,,,727,22,562,143
+Leon,Pct #13 - Flo,"Ballots Cast Blank",,,,0,0,0,0
+Leon,Pct #13 - Flo,"President",,REP,"Donald J. Trump/JD Vance",665,20,515,130
+Leon,Pct #13 - Flo,"President",,DEM,"Kamala D. Harris/Tim Walz",55,2,42,11
+Leon,Pct #13 - Flo,"President",,LIB,"Chase Oliver/Mike ter Maat",2,0,1,1
+Leon,Pct #13 - Flo,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,0,1
+Leon,Pct #13 - Flo,"President",,,"Write-ins",2,0,1,1
+Leon,Pct #13 - Flo,"U.S. Senate",,REP,"Ted Cruz",652,20,504,128
+Leon,Pct #13 - Flo,"U.S. Senate",,DEM,"Colin Allred",62,2,48,12
+Leon,Pct #13 - Flo,"U.S. Senate",,LIB,"Ted Brown",10,0,9,1
+Leon,Pct #13 - Flo,"U.S. Senate",,,"Write-ins",0,0,0,0
+Leon,Pct #13 - Flo,"U.S. House",17,REP,"Pete Sessions",658,20,511,127
+Leon,Pct #13 - Flo,"U.S. House",17,DEM,"Mark Lorenzen",54,1,43,10
+Leon,Pct #13 - Flo,"Railroad Commissioner",,REP,"Christi Craddick",641,21,500,120
+Leon,Pct #13 - Flo,"Railroad Commissioner",,DEM,"Katherine Culbert",47,1,36,10
+Leon,Pct #13 - Flo,"Railroad Commissioner",,LIB,"Hawk Dunlap",16,0,13,3
+Leon,Pct #13 - Flo,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,2,0
+Leon,Pct #13 - Flo,"Railroad Commissioner",,,"Write-ins",1,0,1,0
+Leon,Pct #13 - Flo,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",653,20,509,124
+Leon,Pct #13 - Flo,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",56,2,44,10
+Leon,Pct #13 - Flo,"Justice, Supreme Court",Pl 4,REP,"John Devine",654,20,508,126
+Leon,Pct #13 - Flo,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",54,2,43,9
+Leon,Pct #13 - Flo,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",651,20,507,124
+Leon,Pct #13 - Flo,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",48,2,38,8
+Leon,Pct #13 - Flo,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",11,0,9,2
+Leon,Pct #13 - Flo,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",657,21,510,126
+Leon,Pct #13 - Flo,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",54,1,44,9
+Leon,Pct #13 - Flo,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",654,21,510,123
+Leon,Pct #13 - Flo,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",54,1,42,11
+Leon,Pct #13 - Flo,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",657,20,512,125
+Leon,Pct #13 - Flo,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",52,2,40,10
+Leon,Pct #13 - Flo,"Member, State BoE",Dist 10,REP,"Tom Maynard",655,21,506,128
+Leon,Pct #13 - Flo,"Member, State BoE",Dist 10,DEM,"Raquel Saenz Ortiz",49,1,40,8
+Leon,Pct #13 - Flo,"State Representative",13,REP,"Angelia Orr",655,21,508,126
+Leon,Pct #13 - Flo,"State Representative",13,DEM,"Albert Hunter",51,1,40,10
+Leon,Pct #13 - Flo,"Chief Justice, 10th Ct of App Dist",,REP,"Matt Johnson",663,21,513,129
+Leon,Pct #13 - Flo,"Dist Attorney, 369th Judicial Dist",,REP,"James Caleb Henson",659,21,513,125
+Leon,Pct #13 - Flo,"County Attorney",,REP,"Keith Cook",669,21,519,129
+Leon,Pct #13 - Flo,"Sheriff",,REP,"Kevin Ellis",675,21,524,130
+Leon,Pct #13 - Flo,"County Tax Assessor-Collector",,REP,"Victoria Willis",657,21,514,122
+Leon,Pct #13 - Flo,"Constable",Pct 1,REP,"Glenn Hightower",656,20,514,122
+Leon,Pct #13 - Flo,"PROPOSITION A Buffalo ISD",,,FOR,238,8,188,42
+Leon,Pct #13 - Flo,"PROPOSITION A Buffalo ISD",,,AGAINST,280,5,210,65
+Leon,Pct #14 - Malvern,"Registered Voters",,,,309,,,
+Leon,Pct #14 - Malvern,"Ballots Cast",,,,221,11,160,50
+Leon,Pct #14 - Malvern,"Ballots Cast Blank",,,,0,0,0,0
+Leon,Pct #14 - Malvern,"President",,REP,"Donald J. Trump/JD Vance",182,8,134,40
+Leon,Pct #14 - Malvern,"President",,DEM,"Kamala D. Harris/Tim Walz",37,3,24,10
+Leon,Pct #14 - Malvern,"President",,LIB,"Chase Oliver/Mike ter Maat",0,0,0,0
+Leon,Pct #14 - Malvern,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Leon,Pct #14 - Malvern,"President",,,"Write-ins",2,0,2,0
+Leon,Pct #14 - Malvern,"U.S. Senate",,REP,"Ted Cruz",178,8,132,38
+Leon,Pct #14 - Malvern,"U.S. Senate",,DEM,"Colin Allred",37,3,23,11
+Leon,Pct #14 - Malvern,"U.S. Senate",,LIB,"Ted Brown",3,0,3,0
+Leon,Pct #14 - Malvern,"U.S. Senate",,,"Write-ins",0,0,0,0
+Leon,Pct #14 - Malvern,"U.S. House",17,REP,"Pete Sessions",181,8,134,39
+Leon,Pct #14 - Malvern,"U.S. House",17,DEM,"Mark Lorenzen",33,3,21,9
+Leon,Pct #14 - Malvern,"Railroad Commissioner",,REP,"Christi Craddick",180,8,134,38
+Leon,Pct #14 - Malvern,"Railroad Commissioner",,DEM,"Katherine Culbert",34,3,23,8
+Leon,Pct #14 - Malvern,"Railroad Commissioner",,LIB,"Hawk Dunlap",1,0,1,0
+Leon,Pct #14 - Malvern,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Leon,Pct #14 - Malvern,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Leon,Pct #14 - Malvern,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",182,8,136,38
+Leon,Pct #14 - Malvern,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",30,3,19,8
+Leon,Pct #14 - Malvern,"Justice, Supreme Court",Pl 4,REP,"John Devine",178,8,133,37
+Leon,Pct #14 - Malvern,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",35,3,23,9
+Leon,Pct #14 - Malvern,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",172,6,130,36
+Leon,Pct #14 - Malvern,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",36,3,24,9
+Leon,Pct #14 - Malvern,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",5,1,3,1
+Leon,Pct #14 - Malvern,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",178,8,133,37
+Leon,Pct #14 - Malvern,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",36,3,24,9
+Leon,Pct #14 - Malvern,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",177,7,134,36
+Leon,Pct #14 - Malvern,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",36,3,24,9
+Leon,Pct #14 - Malvern,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",181,8,136,37
+Leon,Pct #14 - Malvern,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",34,3,21,10
+Leon,Pct #14 - Malvern,"Member, State BoE",Dist 10,REP,"Tom Maynard",180,8,134,38
+Leon,Pct #14 - Malvern,"Member, State BoE",Dist 10,DEM,"Raquel Saenz Ortiz",29,3,18,8
+Leon,Pct #14 - Malvern,"State Representative",13,REP,"Angelia Orr",173,8,131,34
+Leon,Pct #14 - Malvern,"State Representative",13,DEM,"Albert Hunter",37,3,23,11
+Leon,Pct #14 - Malvern,"Chief Justice, 10th Ct of App Dist",,REP,"Matt Johnson",187,8,141,38
+Leon,Pct #14 - Malvern,"Dist Attorney, 369th Judicial Dist",,REP,"James Caleb Henson",183,7,138,38
+Leon,Pct #14 - Malvern,"County Attorney",,REP,"Keith Cook",183,8,136,39
+Leon,Pct #14 - Malvern,"Sheriff",,REP,"Kevin Ellis",189,8,139,42
+Leon,Pct #14 - Malvern,"County Tax Assessor-Collector",,REP,"Victoria Willis",187,8,139,40
+Leon,Pct #14 - Malvern,"County Commissioner",Pct 1,REP,"Joey Sullivan",181,7,131,43
+Leon,Pct #14 - Malvern,"Constable",Pct 2,REP,"John L. Franks",185,8,136,41
+Leon,Pct #14 - Malvern,"PROPOSITION A Buffalo ISD",,,FOR,10,0,8,2
+Leon,Pct #14 - Malvern,"PROPOSITION A Buffalo ISD",,,AGAINST,7,3,2,2

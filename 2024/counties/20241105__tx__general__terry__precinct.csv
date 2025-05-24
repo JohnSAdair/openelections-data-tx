@@ -1,0 +1,476 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Terry,101,"Ballots Cast",,,,1187,42,968,177
+Terry,101,"Ballots Cast Blank",,,,0,0,0,0
+Terry,101,"President",,REP,"Donald J. Trump",1030,32,851,147
+Terry,101,"President",,DEM,"Kamala D. Harris",142,9,105,28
+Terry,101,"President",,LIB,"Chase Oliver",5,0,4,1
+Terry,101,"President",,GRN,"Jill Stein",2,0,1,1
+Terry,101,"President",,,"Write-ins",1,0,1,0
+Terry,101,"President",,,"Over Votes",0,0,0,0
+Terry,101,"President",,,"Under Votes",7,1,6,0
+Terry,101,"U.S. Senate",,REP,"Ted Cruz",1006,34,834,138
+Terry,101,"U.S. Senate",,DEM,"Colin Allred",143,8,107,28
+Terry,101,"U.S. Senate",,LIB,"Ted Brown",23,0,16,7
+Terry,101,"U.S. Senate",,,"Write-ins",3,0,1,2
+Terry,101,"U.S. Senate",,,"Over Votes",0,0,0,0
+Terry,101,"U.S. Senate",,,"Under Votes",12,0,10,2
+Terry,101,"U.S. House",19,REP,"Jodey C. Arrington",1029,35,851,143
+Terry,101,"U.S. House",19,DEM,"Bernard Johnson",117,7,87,23
+Terry,101,"U.S. House",19,IND,"Nathan Lewis",19,0,14,5
+Terry,101,"U.S. House",19,,"Over Votes",0,0,0,0
+Terry,101,"U.S. House",19,,"Under Votes",22,0,16,6
+Terry,101,"Railroad Commissioner",,REP,"Christi Craddick",948,33,793,122
+Terry,101,"Railroad Commissioner",,DEM,"Katherine Culbert",128,8,98,22
+Terry,101,"Railroad Commissioner",,LIB,"Hawk Dunlap",49,0,37,12
+Terry,101,"Railroad Commissioner",,GRN,"Eddie Espinoza",24,0,15,9
+Terry,101,"Railroad Commissioner",,,"Write-ins",1,0,0,1
+Terry,101,"Railroad Commissioner",,,"Over Votes",1,1,0,0
+Terry,101,"Railroad Commissioner",,,"Under Votes",36,0,25,11
+Terry,101,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1003,33,832,138
+Terry,101,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",136,8,103,25
+Terry,101,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Terry,101,"Justice, Supreme Court",Pl 2,,"Under Votes",48,1,33,14
+Terry,101,"Justice, Supreme Court",Pl 4,REP,"John Devine",989,33,820,136
+Terry,101,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",142,8,107,27
+Terry,101,"Justice, Supreme Court",Pl 4,,"Over Votes",1,1,0,0
+Terry,101,"Justice, Supreme Court",Pl 4,,"Under Votes",55,0,41,14
+Terry,101,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",987,34,819,134
+Terry,101,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",133,8,100,25
+Terry,101,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",25,0,19,6
+Terry,101,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Terry,101,"Justice, Supreme Court",Pl 6,,"Under Votes",42,0,30,12
+Terry,101,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",989,34,823,132
+Terry,101,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",143,8,106,29
+Terry,101,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Terry,101,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",55,0,39,16
+Terry,101,"Judge, Court of Criminal Appeals",Pl 7,REP,"Gina Parker",981,33,814,134
+Terry,101,"Judge, Court of Criminal Appeals",Pl 7,DEM,"Nancy Mulder",134,8,102,24
+Terry,101,"Judge, Court of Criminal Appeals",Pl 7,,"Over Votes",0,0,0,0
+Terry,101,"Judge, Court of Criminal Appeals",Pl 7,,"Under Votes",72,1,52,19
+Terry,101,"Judge, Court of Criminal Appeals",Pl 8,REP,"Lee Finley",1000,34,833,133
+Terry,101,"Judge, Court of Criminal Appeals",Pl 8,DEM,"Chika Anyiam",135,8,100,27
+Terry,101,"Judge, Court of Criminal Appeals",Pl 8,,"Over Votes",0,0,0,0
+Terry,101,"Judge, Court of Criminal Appeals",Pl 8,,"Under Votes",52,0,35,17
+Terry,101,"Member, State Board of Education",Dist 15,REP,"Aaron Kinsey",956,32,797,127
+Terry,101,"Member, State Board of Education",Dist 15,DEM,"Morgan Kirkpatrick",145,9,105,31
+Terry,101,"Member, State Board of Education",Dist 15,LIB,"Jack B. Westbrook",24,1,18,5
+Terry,101,"Member, State Board of Education",Dist 15,,"Over Votes",0,0,0,0
+Terry,101,"Member, State Board of Education",Dist 15,,"Under Votes",62,0,48,14
+Terry,101,"State Representative",83,REP,"Dustin Burrows",1027,35,845,147
+Terry,101,"State Representative",83,,"Over Votes",0,0,0,0
+Terry,101,"State Representative",83,,"Under Votes",160,7,123,30
+Terry,101,"Justice, 7th Court of Appeals District",Pl 2,REP,"Judy Parker",1008,35,832,141
+Terry,101,"Justice, 7th Court of Appeals District",Pl 2,,"Over Votes",0,0,0,0
+Terry,101,"Justice, 7th Court of Appeals District",Pl 2,,"Under Votes",179,7,136,36
+Terry,101,"Justice, 7th Court of Appeals District",Pl 3,REP,"Alex Yarbrough",1002,36,827,139
+Terry,101,"Justice, 7th Court of Appeals District",Pl 3,,"Over Votes",0,0,0,0
+Terry,101,"Justice, 7th Court of Appeals District",Pl 3,,"Under Votes",185,6,141,38
+Terry,101,"District Judge",121st Judicial Dist,REP,"John A. ""Trey"" Didway",1022,36,841,145
+Terry,101,"District Judge",121st Judicial Dist,,"Over Votes",0,0,0,0
+Terry,101,"District Judge",121st Judicial Dist,,"Under Votes",165,6,127,32
+Terry,101,"County Attorney",,REP,"Jo'Shae Ferguson-Worley",961,34,785,142
+Terry,101,"County Attorney",,,"Over Votes",0,0,0,0
+Terry,101,"County Attorney",,,"Under Votes",226,8,183,35
+Terry,101,"Sheriff",,REP,"Timothy Click",1055,39,866,150
+Terry,101,"Sheriff",,,"Over Votes",0,0,0,0
+Terry,101,"Sheriff",,,"Under Votes",132,3,102,27
+Terry,101,"County Tax Assessor-Collector",,REP,"Rexann W Furlow",1039,37,852,150
+Terry,101,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Terry,101,"County Tax Assessor-Collector",,,"Under Votes",148,5,116,27
+Terry,101,"County Commissioner",Pct 1,REP,"Myron Bovkoon",1006,37,825,144
+Terry,101,"County Commissioner",Pct 1,,"Over Votes",0,0,0,0
+Terry,101,"County Commissioner",Pct 1,,"Under Votes",181,5,143,33
+Terry,201,"Ballots Cast",,,,462,11,341,110
+Terry,201,"Ballots Cast Blank",,,,0,0,0,0
+Terry,201,"President",,REP,"Donald J. Trump",361,4,281,76
+Terry,201,"President",,DEM,"Kamala D. Harris",99,7,59,33
+Terry,201,"President",,LIB,"Chase Oliver",1,0,0,1
+Terry,201,"President",,GRN,"Jill Stein",0,0,0,0
+Terry,201,"President",,,"Write-ins",0,0,0,0
+Terry,201,"President",,,"Over Votes",0,0,0,0
+Terry,201,"President",,,"Under Votes",1,0,1,0
+Terry,201,"U.S. Senate",,REP,"Ted Cruz",336,4,266,66
+Terry,201,"U.S. Senate",,DEM,"Colin Allred",107,7,62,38
+Terry,201,"U.S. Senate",,LIB,"Ted Brown",6,0,3,3
+Terry,201,"U.S. Senate",,,"Write-ins",0,0,0,0
+Terry,201,"U.S. Senate",,,"Over Votes",0,0,0,0
+Terry,201,"U.S. Senate",,,"Under Votes",13,0,10,3
+Terry,201,"U.S. House",19,REP,"Jodey C. Arrington",362,6,280,76
+Terry,201,"U.S. House",19,DEM,"Bernard Johnson",75,5,45,25
+Terry,201,"U.S. House",19,IND,"Nathan Lewis",7,0,5,2
+Terry,201,"U.S. House",19,,"Over Votes",0,0,0,0
+Terry,201,"U.S. House",19,,"Under Votes",18,0,11,7
+Terry,201,"Railroad Commissioner",,REP,"Christi Craddick",323,6,248,69
+Terry,201,"Railroad Commissioner",,DEM,"Katherine Culbert",74,4,46,24
+Terry,201,"Railroad Commissioner",,LIB,"Hawk Dunlap",15,0,12,3
+Terry,201,"Railroad Commissioner",,GRN,"Eddie Espinoza",19,0,15,4
+Terry,201,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Terry,201,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Terry,201,"Railroad Commissioner",,,"Under Votes",31,1,20,10
+Terry,201,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",339,5,262,72
+Terry,201,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",87,5,54,28
+Terry,201,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Terry,201,"Justice, Supreme Court",Pl 2,,"Under Votes",36,1,25,10
+Terry,201,"Justice, Supreme Court",Pl 4,REP,"John Devine",327,4,252,71
+Terry,201,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",94,6,57,31
+Terry,201,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Terry,201,"Justice, Supreme Court",Pl 4,,"Under Votes",41,1,32,8
+Terry,201,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",325,6,252,67
+Terry,201,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",88,4,52,32
+Terry,201,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",15,0,13,2
+Terry,201,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Terry,201,"Justice, Supreme Court",Pl 6,,"Under Votes",34,1,24,9
+Terry,201,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",331,5,257,69
+Terry,201,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",96,5,59,32
+Terry,201,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Terry,201,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",35,1,25,9
+Terry,201,"Judge, Court of Criminal Appeals",Pl 7,REP,"Gina Parker",326,5,250,71
+Terry,201,"Judge, Court of Criminal Appeals",Pl 7,DEM,"Nancy Mulder",88,5,54,29
+Terry,201,"Judge, Court of Criminal Appeals",Pl 7,,"Over Votes",0,0,0,0
+Terry,201,"Judge, Court of Criminal Appeals",Pl 7,,"Under Votes",48,1,37,10
+Terry,201,"Judge, Court of Criminal Appeals",Pl 8,REP,"Lee Finley",342,5,261,76
+Terry,201,"Judge, Court of Criminal Appeals",Pl 8,DEM,"Chika Anyiam",80,5,50,25
+Terry,201,"Judge, Court of Criminal Appeals",Pl 8,,"Over Votes",0,0,0,0
+Terry,201,"Judge, Court of Criminal Appeals",Pl 8,,"Under Votes",40,1,30,9
+Terry,201,"Member, State Board of Education",Dist 15,REP,"Aaron Kinsey",330,6,255,69
+Terry,201,"Member, State Board of Education",Dist 15,DEM,"Morgan Kirkpatrick",86,4,54,28
+Terry,201,"Member, State Board of Education",Dist 15,LIB,"Jack B. Westbrook",8,0,4,4
+Terry,201,"Member, State Board of Education",Dist 15,,"Over Votes",0,0,0,0
+Terry,201,"Member, State Board of Education",Dist 15,,"Under Votes",38,1,28,9
+Terry,201,"State Representative",83,REP,"Dustin Burrows",374,6,289,79
+Terry,201,"State Representative",83,,"Over Votes",0,0,0,0
+Terry,201,"State Representative",83,,"Under Votes",88,5,52,31
+Terry,201,"Justice, 7th Court of Appeals District",Pl 2,REP,"Judy Parker",367,7,281,79
+Terry,201,"Justice, 7th Court of Appeals District",Pl 2,,"Over Votes",0,0,0,0
+Terry,201,"Justice, 7th Court of Appeals District",Pl 2,,"Under Votes",95,4,60,31
+Terry,201,"Justice, 7th Court of Appeals District",Pl 3,REP,"Alex Yarbrough",368,7,282,79
+Terry,201,"Justice, 7th Court of Appeals District",Pl 3,,"Over Votes",0,0,0,0
+Terry,201,"Justice, 7th Court of Appeals District",Pl 3,,"Under Votes",94,4,59,31
+Terry,201,"District Judge",121st Judicial Dist,REP,"John A. ""Trey"" Didway",373,7,289,77
+Terry,201,"District Judge",121st Judicial Dist,,"Over Votes",0,0,0,0
+Terry,201,"District Judge",121st Judicial Dist,,"Under Votes",89,4,52,33
+Terry,201,"County Attorney",,REP,"Jo'Shae Ferguson-Worley",371,7,281,83
+Terry,201,"County Attorney",,,"Over Votes",0,0,0,0
+Terry,201,"County Attorney",,,"Under Votes",91,4,60,27
+Terry,201,"Sheriff",,REP,"Timothy Click",384,9,291,84
+Terry,201,"Sheriff",,,"Over Votes",0,0,0,0
+Terry,201,"Sheriff",,,"Under Votes",78,2,50,26
+Terry,201,"County Tax Assessor-Collector",,REP,"Rexann W Furlow",392,8,299,85
+Terry,201,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Terry,201,"County Tax Assessor-Collector",,,"Under Votes",70,3,42,25
+Terry,202,"Ballots Cast",,,,335,7,153,175
+Terry,202,"Ballots Cast Blank",,,,1,0,1,0
+Terry,202,"President",,REP,"Donald J. Trump",276,6,130,140
+Terry,202,"President",,DEM,"Kamala D. Harris",55,1,20,34
+Terry,202,"President",,LIB,"Chase Oliver",2,0,1,1
+Terry,202,"President",,GRN,"Jill Stein",0,0,0,0
+Terry,202,"President",,,"Write-ins",1,0,1,0
+Terry,202,"President",,,"Over Votes",0,0,0,0
+Terry,202,"President",,,"Under Votes",1,0,1,0
+Terry,202,"U.S. Senate",,REP,"Ted Cruz",261,6,125,130
+Terry,202,"U.S. Senate",,DEM,"Colin Allred",56,1,21,34
+Terry,202,"U.S. Senate",,LIB,"Ted Brown",9,0,1,8
+Terry,202,"U.S. Senate",,,"Write-ins",1,0,0,1
+Terry,202,"U.S. Senate",,,"Over Votes",0,0,0,0
+Terry,202,"U.S. Senate",,,"Under Votes",8,0,6,2
+Terry,202,"U.S. House",19,REP,"Jodey C. Arrington",270,6,131,133
+Terry,202,"U.S. House",19,DEM,"Bernard Johnson",43,1,14,28
+Terry,202,"U.S. House",19,IND,"Nathan Lewis",8,0,1,7
+Terry,202,"U.S. House",19,,"Over Votes",0,0,0,0
+Terry,202,"U.S. House",19,,"Under Votes",14,0,7,7
+Terry,202,"Railroad Commissioner",,REP,"Christi Craddick",250,6,122,122
+Terry,202,"Railroad Commissioner",,DEM,"Katherine Culbert",48,1,16,31
+Terry,202,"Railroad Commissioner",,LIB,"Hawk Dunlap",5,0,1,4
+Terry,202,"Railroad Commissioner",,GRN,"Eddie Espinoza",13,0,5,8
+Terry,202,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Terry,202,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Terry,202,"Railroad Commissioner",,,"Under Votes",19,0,9,10
+Terry,202,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",261,6,128,127
+Terry,202,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",52,1,15,36
+Terry,202,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Terry,202,"Justice, Supreme Court",Pl 2,,"Under Votes",22,0,10,12
+Terry,202,"Justice, Supreme Court",Pl 4,REP,"John Devine",249,6,120,123
+Terry,202,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",60,1,22,37
+Terry,202,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Terry,202,"Justice, Supreme Court",Pl 4,,"Under Votes",26,0,11,15
+Terry,202,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",260,6,128,126
+Terry,202,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",47,1,16,30
+Terry,202,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",6,0,1,5
+Terry,202,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Terry,202,"Justice, Supreme Court",Pl 6,,"Under Votes",22,0,8,14
+Terry,202,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",260,6,123,131
+Terry,202,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",52,1,21,30
+Terry,202,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Terry,202,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",23,0,9,14
+Terry,202,"Judge, Court of Criminal Appeals",Pl 7,REP,"Gina Parker",254,6,122,126
+Terry,202,"Judge, Court of Criminal Appeals",Pl 7,DEM,"Nancy Mulder",50,1,16,33
+Terry,202,"Judge, Court of Criminal Appeals",Pl 7,,"Over Votes",0,0,0,0
+Terry,202,"Judge, Court of Criminal Appeals",Pl 7,,"Under Votes",31,0,15,16
+Terry,202,"Judge, Court of Criminal Appeals",Pl 8,REP,"Lee Finley",269,6,129,134
+Terry,202,"Judge, Court of Criminal Appeals",Pl 8,DEM,"Chika Anyiam",45,1,15,29
+Terry,202,"Judge, Court of Criminal Appeals",Pl 8,,"Over Votes",0,0,0,0
+Terry,202,"Judge, Court of Criminal Appeals",Pl 8,,"Under Votes",21,0,9,12
+Terry,202,"Member, State Board of Education",Dist 15,REP,"Aaron Kinsey",242,6,119,117
+Terry,202,"Member, State Board of Education",Dist 15,DEM,"Morgan Kirkpatrick",54,1,20,33
+Terry,202,"Member, State Board of Education",Dist 15,LIB,"Jack B. Westbrook",5,0,3,2
+Terry,202,"Member, State Board of Education",Dist 15,,"Over Votes",0,0,0,0
+Terry,202,"Member, State Board of Education",Dist 15,,"Under Votes",34,0,11,23
+Terry,202,"State Representative",83,REP,"Dustin Burrows",268,6,128,134
+Terry,202,"State Representative",83,,"Over Votes",0,0,0,0
+Terry,202,"State Representative",83,,"Under Votes",67,1,25,41
+Terry,202,"Justice, 7th Court of Appeals District",Pl 2,REP,"Judy Parker",268,7,132,129
+Terry,202,"Justice, 7th Court of Appeals District",Pl 2,,"Over Votes",0,0,0,0
+Terry,202,"Justice, 7th Court of Appeals District",Pl 2,,"Under Votes",67,0,21,46
+Terry,202,"Justice, 7th Court of Appeals District",Pl 3,REP,"Alex Yarbrough",265,7,129,129
+Terry,202,"Justice, 7th Court of Appeals District",Pl 3,,"Over Votes",0,0,0,0
+Terry,202,"Justice, 7th Court of Appeals District",Pl 3,,"Under Votes",70,0,24,46
+Terry,202,"District Judge",121st Judicial Dist,REP,"John A. ""Trey"" Didway",264,7,129,128
+Terry,202,"District Judge",121st Judicial Dist,,"Over Votes",0,0,0,0
+Terry,202,"District Judge",121st Judicial Dist,,"Under Votes",71,0,24,47
+Terry,202,"County Attorney",,REP,"Jo'Shae Ferguson-Worley",267,7,126,134
+Terry,202,"County Attorney",,,"Over Votes",0,0,0,0
+Terry,202,"County Attorney",,,"Under Votes",68,0,27,41
+Terry,202,"Sheriff",,REP,"Timothy Click",276,7,134,135
+Terry,202,"Sheriff",,,"Over Votes",0,0,0,0
+Terry,202,"Sheriff",,,"Under Votes",59,0,19,40
+Terry,202,"County Tax Assessor-Collector",,REP,"Rexann W Furlow",278,7,133,138
+Terry,202,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Terry,202,"County Tax Assessor-Collector",,,"Under Votes",57,0,20,37
+Terry,301,"Ballots Cast",,,,654,15,457,182
+Terry,301,"Ballots Cast Blank",,,,0,0,0,0
+Terry,301,"President",,REP,"Donald J. Trump",476,7,340,129
+Terry,301,"President",,DEM,"Kamala D. Harris",170,8,110,52
+Terry,301,"President",,LIB,"Chase Oliver",2,0,2,0
+Terry,301,"President",,GRN,"Jill Stein",0,0,0,0
+Terry,301,"President",,,"Write-ins",1,0,1,0
+Terry,301,"President",,,"Over Votes",0,0,0,0
+Terry,301,"President",,,"Under Votes",5,0,4,1
+Terry,301,"U.S. Senate",,REP,"Ted Cruz",426,6,313,107
+Terry,301,"U.S. Senate",,DEM,"Colin Allred",166,8,102,56
+Terry,301,"U.S. Senate",,LIB,"Ted Brown",25,0,17,8
+Terry,301,"U.S. Senate",,,"Write-ins",4,0,3,1
+Terry,301,"U.S. Senate",,,"Over Votes",0,0,0,0
+Terry,301,"U.S. Senate",,,"Under Votes",33,1,22,10
+Terry,301,"U.S. House",19,REP,"Jodey C. Arrington",447,7,326,114
+Terry,301,"U.S. House",19,DEM,"Bernard Johnson",140,7,89,44
+Terry,301,"U.S. House",19,IND,"Nathan Lewis",13,0,7,6
+Terry,301,"U.S. House",19,,"Over Votes",0,0,0,0
+Terry,301,"U.S. House",19,,"Under Votes",54,1,35,18
+Terry,301,"Railroad Commissioner",,REP,"Christi Craddick",397,6,294,97
+Terry,301,"Railroad Commissioner",,DEM,"Katherine Culbert",131,7,81,43
+Terry,301,"Railroad Commissioner",,LIB,"Hawk Dunlap",15,0,11,4
+Terry,301,"Railroad Commissioner",,GRN,"Eddie Espinoza",44,1,25,18
+Terry,301,"Railroad Commissioner",,,"Write-ins",1,0,0,1
+Terry,301,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Terry,301,"Railroad Commissioner",,,"Under Votes",66,1,46,19
+Terry,301,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",428,5,318,105
+Terry,301,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",145,7,86,52
+Terry,301,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Terry,301,"Justice, Supreme Court",Pl 2,,"Under Votes",81,3,53,25
+Terry,301,"Justice, Supreme Court",Pl 4,REP,"John Devine",412,5,306,101
+Terry,301,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",156,8,94,54
+Terry,301,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Terry,301,"Justice, Supreme Court",Pl 4,,"Under Votes",86,2,57,27
+Terry,301,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",397,5,296,96
+Terry,301,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",149,8,92,49
+Terry,301,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",29,0,16,13
+Terry,301,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Terry,301,"Justice, Supreme Court",Pl 6,,"Under Votes",79,2,53,24
+Terry,301,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",415,5,304,106
+Terry,301,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",161,7,103,51
+Terry,301,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Terry,301,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",78,3,50,25
+Terry,301,"Judge, Court of Criminal Appeals",Pl 7,REP,"Gina Parker",409,5,301,103
+Terry,301,"Judge, Court of Criminal Appeals",Pl 7,DEM,"Nancy Mulder",152,9,97,46
+Terry,301,"Judge, Court of Criminal Appeals",Pl 7,,"Over Votes",0,0,0,0
+Terry,301,"Judge, Court of Criminal Appeals",Pl 7,,"Under Votes",93,1,59,33
+Terry,301,"Judge, Court of Criminal Appeals",Pl 8,REP,"Lee Finley",419,5,310,104
+Terry,301,"Judge, Court of Criminal Appeals",Pl 8,DEM,"Chika Anyiam",150,7,94,49
+Terry,301,"Judge, Court of Criminal Appeals",Pl 8,,"Over Votes",0,0,0,0
+Terry,301,"Judge, Court of Criminal Appeals",Pl 8,,"Under Votes",85,3,53,29
+Terry,301,"Member, State Board of Education",Dist 15,REP,"Aaron Kinsey",397,6,302,89
+Terry,301,"Member, State Board of Education",Dist 15,DEM,"Morgan Kirkpatrick",151,7,95,49
+Terry,301,"Member, State Board of Education",Dist 15,LIB,"Jack B. Westbrook",20,0,7,13
+Terry,301,"Member, State Board of Education",Dist 15,,"Over Votes",0,0,0,0
+Terry,301,"Member, State Board of Education",Dist 15,,"Under Votes",86,2,53,31
+Terry,301,"State Representative",83,REP,"Dustin Burrows",460,5,333,122
+Terry,301,"State Representative",83,,"Over Votes",0,0,0,0
+Terry,301,"State Representative",83,,"Under Votes",194,10,124,60
+Terry,301,"Justice, 7th Court of Appeals District",Pl 2,REP,"Judy Parker",456,5,326,125
+Terry,301,"Justice, 7th Court of Appeals District",Pl 2,,"Over Votes",0,0,0,0
+Terry,301,"Justice, 7th Court of Appeals District",Pl 2,,"Under Votes",198,10,131,57
+Terry,301,"Justice, 7th Court of Appeals District",Pl 3,REP,"Alex Yarbrough",444,6,320,118
+Terry,301,"Justice, 7th Court of Appeals District",Pl 3,,"Over Votes",0,0,0,0
+Terry,301,"Justice, 7th Court of Appeals District",Pl 3,,"Under Votes",210,9,137,64
+Terry,301,"District Judge",121st Judicial Dist,REP,"John A. ""Trey"" Didway",454,6,329,119
+Terry,301,"District Judge",121st Judicial Dist,,"Over Votes",0,0,0,0
+Terry,301,"District Judge",121st Judicial Dist,,"Under Votes",200,9,128,63
+Terry,301,"County Attorney",,REP,"Jo'Shae Ferguson-Worley",439,5,315,119
+Terry,301,"County Attorney",,,"Over Votes",0,0,0,0
+Terry,301,"County Attorney",,,"Under Votes",215,10,142,63
+Terry,301,"Sheriff",,REP,"Timothy Click",469,7,332,130
+Terry,301,"Sheriff",,,"Over Votes",0,0,0,0
+Terry,301,"Sheriff",,,"Under Votes",185,8,125,52
+Terry,301,"County Tax Assessor-Collector",,REP,"Rexann W Furlow",477,8,339,130
+Terry,301,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Terry,301,"County Tax Assessor-Collector",,,"Under Votes",177,7,118,52
+Terry,301,"County Commissioner",Pct 3,REP,"Martin Lefevere",379,6,279,94
+Terry,301,"County Commissioner",Pct 3,DEM,"Shorty Martinez",229,9,149,71
+Terry,301,"County Commissioner",Pct 3,,"Over Votes",0,0,0,0
+Terry,301,"County Commissioner",Pct 3,,"Under Votes",46,0,29,17
+Terry,401,"Ballots Cast",,,,627,9,474,144
+Terry,401,"Ballots Cast Blank",,,,0,0,0,0
+Terry,401,"President",,REP,"Donald J. Trump",505,6,396,103
+Terry,401,"President",,DEM,"Kamala D. Harris",114,2,75,37
+Terry,401,"President",,LIB,"Chase Oliver",2,0,2,0
+Terry,401,"President",,GRN,"Jill Stein",0,0,0,0
+Terry,401,"President",,,"Write-ins",3,1,1,1
+Terry,401,"President",,,"Over Votes",0,0,0,0
+Terry,401,"President",,,"Under Votes",3,0,0,3
+Terry,401,"U.S. Senate",,REP,"Ted Cruz",468,6,372,90
+Terry,401,"U.S. Senate",,DEM,"Colin Allred",128,3,86,39
+Terry,401,"U.S. Senate",,LIB,"Ted Brown",11,0,6,5
+Terry,401,"U.S. Senate",,,"Write-ins",0,0,0,0
+Terry,401,"U.S. Senate",,,"Over Votes",0,0,0,0
+Terry,401,"U.S. Senate",,,"Under Votes",20,0,10,10
+Terry,401,"U.S. House",19,REP,"Jodey C. Arrington",490,6,384,100
+Terry,401,"U.S. House",19,DEM,"Bernard Johnson",97,3,63,31
+Terry,401,"U.S. House",19,IND,"Nathan Lewis",12,0,8,4
+Terry,401,"U.S. House",19,,"Over Votes",0,0,0,0
+Terry,401,"U.S. House",19,,"Under Votes",28,0,19,9
+Terry,401,"Railroad Commissioner",,REP,"Christi Craddick",459,5,360,94
+Terry,401,"Railroad Commissioner",,DEM,"Katherine Culbert",98,4,66,28
+Terry,401,"Railroad Commissioner",,LIB,"Hawk Dunlap",13,0,11,2
+Terry,401,"Railroad Commissioner",,GRN,"Eddie Espinoza",22,0,16,6
+Terry,401,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Terry,401,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Terry,401,"Railroad Commissioner",,,"Under Votes",35,0,21,14
+Terry,401,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",480,6,375,99
+Terry,401,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",106,3,74,29
+Terry,401,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Terry,401,"Justice, Supreme Court",Pl 2,,"Under Votes",41,0,25,16
+Terry,401,"Justice, Supreme Court",Pl 4,REP,"John Devine",469,6,371,92
+Terry,401,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",115,3,79,33
+Terry,401,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Terry,401,"Justice, Supreme Court",Pl 4,,"Under Votes",43,0,24,19
+Terry,401,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",464,5,366,93
+Terry,401,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",108,3,73,32
+Terry,401,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",18,1,13,4
+Terry,401,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Terry,401,"Justice, Supreme Court",Pl 6,,"Under Votes",37,0,22,15
+Terry,401,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",479,6,376,97
+Terry,401,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",108,3,73,32
+Terry,401,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Terry,401,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",40,0,25,15
+Terry,401,"Judge, Court of Criminal Appeals",Pl 7,REP,"Gina Parker",454,5,361,88
+Terry,401,"Judge, Court of Criminal Appeals",Pl 7,DEM,"Nancy Mulder",109,3,73,33
+Terry,401,"Judge, Court of Criminal Appeals",Pl 7,,"Over Votes",0,0,0,0
+Terry,401,"Judge, Court of Criminal Appeals",Pl 7,,"Under Votes",64,1,40,23
+Terry,401,"Judge, Court of Criminal Appeals",Pl 8,REP,"Lee Finley",493,6,384,103
+Terry,401,"Judge, Court of Criminal Appeals",Pl 8,DEM,"Chika Anyiam",92,3,66,23
+Terry,401,"Judge, Court of Criminal Appeals",Pl 8,,"Over Votes",0,0,0,0
+Terry,401,"Judge, Court of Criminal Appeals",Pl 8,,"Under Votes",42,0,24,18
+Terry,401,"Member, State Board of Education",Dist 15,REP,"Aaron Kinsey",447,6,352,89
+Terry,401,"Member, State Board of Education",Dist 15,DEM,"Morgan Kirkpatrick",114,3,77,34
+Terry,401,"Member, State Board of Education",Dist 15,LIB,"Jack B. Westbrook",15,0,12,3
+Terry,401,"Member, State Board of Education",Dist 15,,"Over Votes",0,0,0,0
+Terry,401,"Member, State Board of Education",Dist 15,,"Under Votes",51,0,33,18
+Terry,401,"State Representative",83,REP,"Dustin Burrows",494,5,383,106
+Terry,401,"State Representative",83,,"Over Votes",0,0,0,0
+Terry,401,"State Representative",83,,"Under Votes",133,4,91,38
+Terry,401,"Justice, 7th Court of Appeals District",Pl 2,REP,"Judy Parker",496,6,385,105
+Terry,401,"Justice, 7th Court of Appeals District",Pl 2,,"Over Votes",0,0,0,0
+Terry,401,"Justice, 7th Court of Appeals District",Pl 2,,"Under Votes",131,3,89,39
+Terry,401,"Justice, 7th Court of Appeals District",Pl 3,REP,"Alex Yarbrough",495,6,382,107
+Terry,401,"Justice, 7th Court of Appeals District",Pl 3,,"Over Votes",0,0,0,0
+Terry,401,"Justice, 7th Court of Appeals District",Pl 3,,"Under Votes",132,3,92,37
+Terry,401,"District Judge",121st Judicial Dist,REP,"John A. ""Trey"" Didway",510,6,395,109
+Terry,401,"District Judge",121st Judicial Dist,,"Over Votes",0,0,0,0
+Terry,401,"District Judge",121st Judicial Dist,,"Under Votes",117,3,79,35
+Terry,401,"County Attorney",,REP,"Jo'Shae Ferguson-Worley",478,6,369,103
+Terry,401,"County Attorney",,,"Over Votes",0,0,0,0
+Terry,401,"County Attorney",,,"Under Votes",149,3,105,41
+Terry,401,"Sheriff",,REP,"Timothy Click",509,6,395,108
+Terry,401,"Sheriff",,,"Over Votes",0,0,0,0
+Terry,401,"Sheriff",,,"Under Votes",118,3,79,36
+Terry,401,"County Tax Assessor-Collector",,REP,"Rexann W Furlow",500,6,387,107
+Terry,401,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Terry,401,"County Tax Assessor-Collector",,,"Under Votes",127,3,87,37
+Terry,402,"Ballots Cast",,,,178,4,107,67
+Terry,402,"Ballots Cast Blank",,,,0,0,0,0
+Terry,402,"President",,REP,"Donald J. Trump",167,2,102,63
+Terry,402,"President",,DEM,"Kamala D. Harris",7,2,5,0
+Terry,402,"President",,LIB,"Chase Oliver",1,0,0,1
+Terry,402,"President",,GRN,"Jill Stein",2,0,0,2
+Terry,402,"President",,,"Write-ins",1,0,0,1
+Terry,402,"President",,,"Over Votes",0,0,0,0
+Terry,402,"President",,,"Under Votes",0,0,0,0
+Terry,402,"U.S. Senate",,REP,"Ted Cruz",166,2,101,63
+Terry,402,"U.S. Senate",,DEM,"Colin Allred",9,2,5,2
+Terry,402,"U.S. Senate",,LIB,"Ted Brown",1,0,1,0
+Terry,402,"U.S. Senate",,,"Write-ins",0,0,0,0
+Terry,402,"U.S. Senate",,,"Over Votes",0,0,0,0
+Terry,402,"U.S. Senate",,,"Under Votes",2,0,0,2
+Terry,402,"U.S. House",19,REP,"Jodey C. Arrington",165,2,101,62
+Terry,402,"U.S. House",19,DEM,"Bernard Johnson",6,2,4,0
+Terry,402,"U.S. House",19,IND,"Nathan Lewis",3,0,0,3
+Terry,402,"U.S. House",19,,"Over Votes",0,0,0,0
+Terry,402,"U.S. House",19,,"Under Votes",4,0,2,2
+Terry,402,"Railroad Commissioner",,REP,"Christi Craddick",163,2,98,63
+Terry,402,"Railroad Commissioner",,DEM,"Katherine Culbert",7,2,5,0
+Terry,402,"Railroad Commissioner",,LIB,"Hawk Dunlap",3,0,3,0
+Terry,402,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,0,2
+Terry,402,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Terry,402,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Terry,402,"Railroad Commissioner",,,"Under Votes",3,0,1,2
+Terry,402,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",167,2,101,64
+Terry,402,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",7,2,5,0
+Terry,402,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Terry,402,"Justice, Supreme Court",Pl 2,,"Under Votes",4,0,1,3
+Terry,402,"Justice, Supreme Court",Pl 4,REP,"John Devine",163,2,99,62
+Terry,402,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",9,2,5,2
+Terry,402,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Terry,402,"Justice, Supreme Court",Pl 4,,"Under Votes",6,0,3,3
+Terry,402,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",163,2,98,63
+Terry,402,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",8,2,6,0
+Terry,402,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",1,0,1,0
+Terry,402,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Terry,402,"Justice, Supreme Court",Pl 6,,"Under Votes",6,0,2,4
+Terry,402,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",162,2,99,61
+Terry,402,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",10,2,6,2
+Terry,402,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Terry,402,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",6,0,2,4
+Terry,402,"Judge, Court of Criminal Appeals",Pl 7,REP,"Gina Parker",164,2,99,63
+Terry,402,"Judge, Court of Criminal Appeals",Pl 7,DEM,"Nancy Mulder",8,2,5,1
+Terry,402,"Judge, Court of Criminal Appeals",Pl 7,,"Over Votes",0,0,0,0
+Terry,402,"Judge, Court of Criminal Appeals",Pl 7,,"Under Votes",6,0,3,3
+Terry,402,"Judge, Court of Criminal Appeals",Pl 8,REP,"Lee Finley",166,2,101,63
+Terry,402,"Judge, Court of Criminal Appeals",Pl 8,DEM,"Chika Anyiam",8,2,5,1
+Terry,402,"Judge, Court of Criminal Appeals",Pl 8,,"Over Votes",0,0,0,0
+Terry,402,"Judge, Court of Criminal Appeals",Pl 8,,"Under Votes",4,0,1,3
+Terry,402,"Member, State Board of Education",Dist 15,REP,"Aaron Kinsey",163,2,98,63
+Terry,402,"Member, State Board of Education",Dist 15,DEM,"Morgan Kirkpatrick",7,2,5,0
+Terry,402,"Member, State Board of Education",Dist 15,LIB,"Jack B. Westbrook",2,0,2,0
+Terry,402,"Member, State Board of Education",Dist 15,,"Over Votes",0,0,0,0
+Terry,402,"Member, State Board of Education",Dist 15,,"Under Votes",6,0,2,4
+Terry,402,"State Representative",83,REP,"Dustin Burrows",157,2,95,60
+Terry,402,"State Representative",83,,"Over Votes",0,0,0,0
+Terry,402,"State Representative",83,,"Under Votes",21,2,12,7
+Terry,402,"Justice, 7th Court of Appeals District",Pl 2,REP,"Judy Parker",157,2,98,57
+Terry,402,"Justice, 7th Court of Appeals District",Pl 2,,"Over Votes",0,0,0,0
+Terry,402,"Justice, 7th Court of Appeals District",Pl 2,,"Under Votes",21,2,9,10
+Terry,402,"Justice, 7th Court of Appeals District",Pl 3,REP,"Alex Yarbrough",156,2,97,57
+Terry,402,"Justice, 7th Court of Appeals District",Pl 3,,"Over Votes",0,0,0,0
+Terry,402,"Justice, 7th Court of Appeals District",Pl 3,,"Under Votes",22,2,10,10
+Terry,402,"District Judge",121st Judicial Dist,REP,"John A. ""Trey"" Didway",154,2,94,58
+Terry,402,"District Judge",121st Judicial Dist,,"Over Votes",0,0,0,0
+Terry,402,"District Judge",121st Judicial Dist,,"Under Votes",24,2,13,9
+Terry,402,"County Attorney",,REP,"Jo'Shae Ferguson-Worley",137,2,81,54
+Terry,402,"County Attorney",,,"Over Votes",0,0,0,0
+Terry,402,"County Attorney",,,"Under Votes",41,2,26,13
+Terry,402,"Sheriff",,REP,"Timothy Click",158,2,97,59
+Terry,402,"Sheriff",,,"Over Votes",0,0,0,0
+Terry,402,"Sheriff",,,"Under Votes",20,2,10,8
+Terry,402,"County Tax Assessor-Collector",,REP,"Rexann W Furlow",154,2,94,58
+Terry,402,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Terry,402,"County Tax Assessor-Collector",,,"Under Votes",24,2,13,9
