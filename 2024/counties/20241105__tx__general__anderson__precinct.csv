@@ -1,0 +1,978 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Anderson,1-Pal High,"Registered Voters",,,,1863,,,
+Anderson,1-Pal High,"Ballots Cast",,,,1118,41,841,236
+Anderson,1-Pal High,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,1-Pal High,"President",,REP,"Donald J. Trump/JD Vance",776,23,604,149
+Anderson,1-Pal High,"President",,DEM,"Kamala D. Harris/Tim Walz",325,18,225,82
+Anderson,1-Pal High,"President",,LIB,"Chase Oliver/Mike ter Maat",7,0,3,4
+Anderson,1-Pal High,"President",,GRN,"Jill Stein/Rudolph Ware",3,0,2,1
+Anderson,1-Pal High,"President",,,"Write-ins",5,0,5,0
+Anderson,1-Pal High,"U.S. Senate",,REP,"Ted Cruz",742,23,583,136
+Anderson,1-Pal High,"U.S. Senate",,DEM,"Colin Allred",330,18,228,84
+Anderson,1-Pal High,"U.S. Senate",,LIB,"Ted Brown",25,0,15,10
+Anderson,1-Pal High,"U.S. Senate",,,"Write-ins",3,0,3,0
+Anderson,1-Pal High,"U.S. House",6,REP,"Jake Ellzey",773,24,606,143
+Anderson,1-Pal High,"U.S. House",6,DEM,"John Love III",299,17,207,75
+Anderson,1-Pal High,"Railroad Commissioner",,REP,"Christi Craddick",741,20,582,139
+Anderson,1-Pal High,"Railroad Commissioner",,DEM,"Katherine Culbert",286,16,200,70
+Anderson,1-Pal High,"Railroad Commissioner",,LIB,"Hawk Dunlap",22,0,18,4
+Anderson,1-Pal High,"Railroad Commissioner",,GRN,"Eddie Espinoza",12,0,9,3
+Anderson,1-Pal High,"Railroad Commissioner",,,"Write-ins",1,0,0,1
+Anderson,1-Pal High,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",760,20,599,141
+Anderson,1-Pal High,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",306,16,213,77
+Anderson,1-Pal High,"Justice, Supreme Court",Pl 4,REP,"John Devine",756,20,597,139
+Anderson,1-Pal High,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",304,16,211,77
+Anderson,1-Pal High,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",736,20,583,133
+Anderson,1-Pal High,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",301,15,210,76
+Anderson,1-Pal High,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",30,1,20,9
+Anderson,1-Pal High,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",751,20,592,139
+Anderson,1-Pal High,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",310,17,216,77
+Anderson,1-Pal High,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",757,21,592,144
+Anderson,1-Pal High,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",302,16,214,72
+Anderson,1-Pal High,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",758,21,594,143
+Anderson,1-Pal High,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",299,16,211,72
+Anderson,1-Pal High,"Member, State BoE",10,REP,"Tom Maynard",757,20,595,142
+Anderson,1-Pal High,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",306,17,214,75
+Anderson,1-Pal High,"State Representative",8,REP,"Cody Harris",770,22,598,150
+Anderson,1-Pal High,"State Representative",8,DEM,"Carolyn F. Salter",311,15,225,71
+Anderson,1-Pal High,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",876,24,670,182
+Anderson,1-Pal High,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",887,24,683,180
+Anderson,1-Pal High,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",894,23,686,185
+Anderson,1-Pal High,"Sheriff",,REP,"Rudy Flores",893,25,677,191
+Anderson,1-Pal High,"County Tax Assessor-Collector",,REP,"Tommy Cross",866,25,659,182
+Anderson,1-Pal High,"County Commissioner",Pct 1,REP,"Greg Chapin",868,23,667,178
+Anderson,1-Pal High,"Constable",Pct 1,REP,"David Franklin",869,23,663,183
+Anderson,2-Elkhart 1st Bapt.,"Registered Voters",,,,2850,,,
+Anderson,2-Elkhart 1st Bapt.,"Ballots Cast",,,,1873,43,1321,509
+Anderson,2-Elkhart 1st Bapt.,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,2-Elkhart 1st Bapt.,"President",,REP,"Donald J. Trump/JD Vance",1682,23,1195,464
+Anderson,2-Elkhart 1st Bapt.,"President",,DEM,"Kamala D. Harris/Tim Walz",182,19,122,41
+Anderson,2-Elkhart 1st Bapt.,"President",,LIB,"Chase Oliver/Mike ter Maat",2,0,0,2
+Anderson,2-Elkhart 1st Bapt.,"President",,GRN,"Jill Stein/Rudolph Ware",4,0,3,1
+Anderson,2-Elkhart 1st Bapt.,"President",,,"Write-ins",1,0,0,1
+Anderson,2-Elkhart 1st Bapt.,"U.S. Senate",,REP,"Ted Cruz",1620,23,1154,443
+Anderson,2-Elkhart 1st Bapt.,"U.S. Senate",,DEM,"Colin Allred",215,20,143,52
+Anderson,2-Elkhart 1st Bapt.,"U.S. Senate",,LIB,"Ted Brown",25,0,15,10
+Anderson,2-Elkhart 1st Bapt.,"U.S. Senate",,,"Write-ins",0,0,0,0
+Anderson,2-Elkhart 1st Bapt.,"U.S. House",6,REP,"Jake Ellzey",1631,24,1155,452
+Anderson,2-Elkhart 1st Bapt.,"U.S. House",6,DEM,"John Love III",179,19,124,36
+Anderson,2-Elkhart 1st Bapt.,"Railroad Commissioner",,REP,"Christi Craddick",1579,22,1127,430
+Anderson,2-Elkhart 1st Bapt.,"Railroad Commissioner",,DEM,"Katherine Culbert",173,17,119,37
+Anderson,2-Elkhart 1st Bapt.,"Railroad Commissioner",,LIB,"Hawk Dunlap",44,1,27,16
+Anderson,2-Elkhart 1st Bapt.,"Railroad Commissioner",,GRN,"Eddie Espinoza",8,2,3,3
+Anderson,2-Elkhart 1st Bapt.,"Railroad Commissioner",,,"Write-ins",1,0,1,0
+Anderson,2-Elkhart 1st Bapt.,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1610,24,1148,438
+Anderson,2-Elkhart 1st Bapt.,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",193,19,130,44
+Anderson,2-Elkhart 1st Bapt.,"Justice, Supreme Court",Pl 4,REP,"John Devine",1605,24,1148,433
+Anderson,2-Elkhart 1st Bapt.,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",194,19,127,48
+Anderson,2-Elkhart 1st Bapt.,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1592,25,1137,430
+Anderson,2-Elkhart 1st Bapt.,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",184,18,126,40
+Anderson,2-Elkhart 1st Bapt.,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",24,0,14,10
+Anderson,2-Elkhart 1st Bapt.,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1605,23,1146,436
+Anderson,2-Elkhart 1st Bapt.,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",197,19,131,47
+Anderson,2-Elkhart 1st Bapt.,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1612,25,1149,438
+Anderson,2-Elkhart 1st Bapt.,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",183,17,125,41
+Anderson,2-Elkhart 1st Bapt.,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1617,25,1154,438
+Anderson,2-Elkhart 1st Bapt.,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",178,17,121,40
+Anderson,2-Elkhart 1st Bapt.,"Member, State BoE",10,REP,"Tom Maynard",1609,25,1147,437
+Anderson,2-Elkhart 1st Bapt.,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",189,18,125,46
+Anderson,2-Elkhart 1st Bapt.,"State Representative",8,REP,"Cody Harris",1637,25,1159,453
+Anderson,2-Elkhart 1st Bapt.,"State Representative",8,DEM,"Carolyn F. Salter",190,18,129,43
+Anderson,2-Elkhart 1st Bapt.,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",1666,28,1188,450
+Anderson,2-Elkhart 1st Bapt.,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",1663,30,1174,459
+Anderson,2-Elkhart 1st Bapt.,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",1667,29,1180,458
+Anderson,2-Elkhart 1st Bapt.,"Sheriff",,REP,"Rudy Flores",1651,32,1171,448
+Anderson,2-Elkhart 1st Bapt.,"County Tax Assessor-Collector",,REP,"Tommy Cross",1634,28,1162,444
+Anderson,2-Elkhart 1st Bapt.,"County Commissioner",Pct 1,REP,"Greg Chapin",1685,29,1197,459
+Anderson,2-Elkhart 1st Bapt.,"Constable",Pct 1,REP,"David Franklin",1659,31,1173,455
+Anderson,2-Elkhart 1st Bapt.,"Board Trustee Place 1 Slocum ISD",,,"Danny Kessel",14,0,10,4
+Anderson,2-Elkhart 1st Bapt.,"Board Trustee Place 2 Slocum ISD",,,"John Barton",14,0,10,4
+Anderson,2-Elkhart 1st Bapt.,"Board Trustee Place 6 Slocum ISD",,,"Adriann Sbrusch",7,0,6,1
+Anderson,2-Elkhart 1st Bapt.,"Board Trustee Place 6 Slocum ISD",,,"John Day",8,0,5,3
+Anderson,2-Elkhart 1st Bapt.,"Board Trustee Place 7 Slocum ISD",,,"Josh Lindsey",11,0,9,2
+Anderson,2-Elkhart 1st Bapt.,"Board Trustee Place 7 Slocum ISD",,,"David Hart",3,0,1,2
+Anderson,3-Swanson Hill,"Registered Voters",,,,1262,,,
+Anderson,3-Swanson Hill,"Ballots Cast",,,,863,24,693,146
+Anderson,3-Swanson Hill,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,3-Swanson Hill,"President",,REP,"Donald J. Trump/JD Vance",744,14,608,122
+Anderson,3-Swanson Hill,"President",,DEM,"Kamala D. Harris/Tim Walz",110,8,81,21
+Anderson,3-Swanson Hill,"President",,LIB,"Chase Oliver/Mike ter Maat",3,0,1,2
+Anderson,3-Swanson Hill,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,1,0
+Anderson,3-Swanson Hill,"President",,,"Write-ins",1,0,1,0
+Anderson,3-Swanson Hill,"U.S. Senate",,REP,"Ted Cruz",712,16,586,110
+Anderson,3-Swanson Hill,"U.S. Senate",,DEM,"Colin Allred",124,8,88,28
+Anderson,3-Swanson Hill,"U.S. Senate",,LIB,"Ted Brown",21,0,15,6
+Anderson,3-Swanson Hill,"U.S. Senate",,,"Write-ins",0,0,0,0
+Anderson,3-Swanson Hill,"U.S. House",6,REP,"Jake Ellzey",731,15,600,116
+Anderson,3-Swanson Hill,"U.S. House",6,DEM,"John Love III",102,8,73,21
+Anderson,3-Swanson Hill,"Railroad Commissioner",,REP,"Christi Craddick",691,14,564,113
+Anderson,3-Swanson Hill,"Railroad Commissioner",,DEM,"Katherine Culbert",101,8,70,23
+Anderson,3-Swanson Hill,"Railroad Commissioner",,LIB,"Hawk Dunlap",25,0,24,1
+Anderson,3-Swanson Hill,"Railroad Commissioner",,GRN,"Eddie Espinoza",10,0,9,1
+Anderson,3-Swanson Hill,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Anderson,3-Swanson Hill,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",719,14,591,114
+Anderson,3-Swanson Hill,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",107,8,76,23
+Anderson,3-Swanson Hill,"Justice, Supreme Court",Pl 4,REP,"John Devine",707,13,583,111
+Anderson,3-Swanson Hill,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",115,8,83,24
+Anderson,3-Swanson Hill,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",705,13,580,112
+Anderson,3-Swanson Hill,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",98,7,69,22
+Anderson,3-Swanson Hill,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",20,1,17,2
+Anderson,3-Swanson Hill,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",708,13,584,111
+Anderson,3-Swanson Hill,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",109,8,78,23
+Anderson,3-Swanson Hill,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",713,13,587,113
+Anderson,3-Swanson Hill,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",101,6,73,22
+Anderson,3-Swanson Hill,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",716,13,589,114
+Anderson,3-Swanson Hill,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",94,6,68,20
+Anderson,3-Swanson Hill,"Member, State BoE",10,REP,"Tom Maynard",713,14,584,115
+Anderson,3-Swanson Hill,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",103,7,76,20
+Anderson,3-Swanson Hill,"State Representative",8,REP,"Cody Harris",729,15,599,115
+Anderson,3-Swanson Hill,"State Representative",8,DEM,"Carolyn F. Salter",107,7,76,24
+Anderson,3-Swanson Hill,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",747,13,610,124
+Anderson,3-Swanson Hill,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",749,13,612,124
+Anderson,3-Swanson Hill,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",733,14,594,125
+Anderson,3-Swanson Hill,"Sheriff",,REP,"Rudy Flores",739,15,601,123
+Anderson,3-Swanson Hill,"County Tax Assessor-Collector",,REP,"Tommy Cross",735,15,600,120
+Anderson,3-Swanson Hill,"County Commissioner",Pct 1,REP,"Greg Chapin",745,16,604,125
+Anderson,3-Swanson Hill,"Constable",Pct 1,REP,"David Franklin",734,14,600,120
+Anderson,3-Swanson Hill,"Board Trustee Place 1 Slocum ISD",,,"Danny Kessel",26,0,16,10
+Anderson,3-Swanson Hill,"Board Trustee Place 2 Slocum ISD",,,"John Barton",26,0,15,11
+Anderson,3-Swanson Hill,"Board Trustee Place 6 Slocum ISD",,,"Adriann Sbrusch",12,1,6,5
+Anderson,3-Swanson Hill,"Board Trustee Place 6 Slocum ISD",,,"John Day",14,0,8,6
+Anderson,3-Swanson Hill,"Board Trustee Place 7 Slocum ISD",,,"Josh Lindsey",14,1,7,6
+Anderson,3-Swanson Hill,"Board Trustee Place 7 Slocum ISD",,,"David Hart",11,0,7,4
+Anderson,4-Slocum 1st Bapt.,"Registered Voters",,,,1707,,,
+Anderson,4-Slocum 1st Bapt.,"Ballots Cast",,,,1194,29,811,354
+Anderson,4-Slocum 1st Bapt.,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,4-Slocum 1st Bapt.,"President",,REP,"Donald J. Trump/JD Vance",1067,19,728,320
+Anderson,4-Slocum 1st Bapt.,"President",,DEM,"Kamala D. Harris/Tim Walz",109,9,71,29
+Anderson,4-Slocum 1st Bapt.,"President",,LIB,"Chase Oliver/Mike ter Maat",3,0,2,1
+Anderson,4-Slocum 1st Bapt.,"President",,GRN,"Jill Stein/Rudolph Ware",6,0,4,2
+Anderson,4-Slocum 1st Bapt.,"President",,,"Write-ins",3,0,1,2
+Anderson,4-Slocum 1st Bapt.,"U.S. Senate",,REP,"Ted Cruz",1032,20,704,308
+Anderson,4-Slocum 1st Bapt.,"U.S. Senate",,DEM,"Colin Allred",135,9,87,39
+Anderson,4-Slocum 1st Bapt.,"U.S. Senate",,LIB,"Ted Brown",18,0,14,4
+Anderson,4-Slocum 1st Bapt.,"U.S. Senate",,,"Write-ins",1,0,1,0
+Anderson,4-Slocum 1st Bapt.,"U.S. House",6,REP,"Jake Ellzey",1061,20,726,315
+Anderson,4-Slocum 1st Bapt.,"U.S. House",6,DEM,"John Love III",108,9,72,27
+Anderson,4-Slocum 1st Bapt.,"Railroad Commissioner",,REP,"Christi Craddick",1015,19,697,299
+Anderson,4-Slocum 1st Bapt.,"Railroad Commissioner",,DEM,"Katherine Culbert",101,9,70,22
+Anderson,4-Slocum 1st Bapt.,"Railroad Commissioner",,LIB,"Hawk Dunlap",33,0,22,11
+Anderson,4-Slocum 1st Bapt.,"Railroad Commissioner",,GRN,"Eddie Espinoza",12,0,7,5
+Anderson,4-Slocum 1st Bapt.,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Anderson,4-Slocum 1st Bapt.,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1047,18,723,306
+Anderson,4-Slocum 1st Bapt.,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",108,9,70,29
+Anderson,4-Slocum 1st Bapt.,"Justice, Supreme Court",Pl 4,REP,"John Devine",1037,18,716,303
+Anderson,4-Slocum 1st Bapt.,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",117,9,76,32
+Anderson,4-Slocum 1st Bapt.,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1024,17,708,299
+Anderson,4-Slocum 1st Bapt.,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",106,9,71,26
+Anderson,4-Slocum 1st Bapt.,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",24,1,17,6
+Anderson,4-Slocum 1st Bapt.,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1039,18,720,301
+Anderson,4-Slocum 1st Bapt.,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",117,9,76,32
+Anderson,4-Slocum 1st Bapt.,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1034,17,715,302
+Anderson,4-Slocum 1st Bapt.,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",116,9,78,29
+Anderson,4-Slocum 1st Bapt.,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1045,17,727,301
+Anderson,4-Slocum 1st Bapt.,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",106,9,68,29
+Anderson,4-Slocum 1st Bapt.,"Member, State BoE",10,REP,"Tom Maynard",1042,19,720,303
+Anderson,4-Slocum 1st Bapt.,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",113,9,72,32
+Anderson,4-Slocum 1st Bapt.,"State Representative",8,REP,"Cody Harris",1052,18,723,311
+Anderson,4-Slocum 1st Bapt.,"State Representative",8,DEM,"Carolyn F. Salter",119,9,81,29
+Anderson,4-Slocum 1st Bapt.,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",1056,16,730,310
+Anderson,4-Slocum 1st Bapt.,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",1076,17,743,316
+Anderson,4-Slocum 1st Bapt.,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",1068,17,735,316
+Anderson,4-Slocum 1st Bapt.,"Sheriff",,REP,"Rudy Flores",1042,17,716,309
+Anderson,4-Slocum 1st Bapt.,"County Tax Assessor-Collector",,REP,"Tommy Cross",1052,17,726,309
+Anderson,4-Slocum 1st Bapt.,"County Commissioner",Pct 1,REP,"Greg Chapin",1081,20,743,318
+Anderson,4-Slocum 1st Bapt.,"Constable",Pct 1,REP,"David Franklin",1080,20,734,326
+Anderson,4-Slocum 1st Bapt.,"Board Trustee Place 1 Slocum ISD",,,"Danny Kessel",565,7,367,191
+Anderson,4-Slocum 1st Bapt.,"Board Trustee Place 2 Slocum ISD",,,"John Barton",551,6,363,182
+Anderson,4-Slocum 1st Bapt.,"Board Trustee Place 6 Slocum ISD",,,"Adriann Sbrusch",297,2,183,112
+Anderson,4-Slocum 1st Bapt.,"Board Trustee Place 6 Slocum ISD",,,"John Day",301,5,198,98
+Anderson,4-Slocum 1st Bapt.,"Board Trustee Place 7 Slocum ISD",,,"Josh Lindsey",370,1,232,137
+Anderson,4-Slocum 1st Bapt.,"Board Trustee Place 7 Slocum ISD",,,"David Hart",204,5,132,67
+Anderson,5-Vol Fire#2 Slo,"Registered Voters",,,,302,,,
+Anderson,5-Vol Fire#2 Slo,"Ballots Cast",,,,223,2,140,81
+Anderson,5-Vol Fire#2 Slo,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,5-Vol Fire#2 Slo,"President",,REP,"Donald J. Trump/JD Vance",200,2,123,75
+Anderson,5-Vol Fire#2 Slo,"President",,DEM,"Kamala D. Harris/Tim Walz",17,0,13,4
+Anderson,5-Vol Fire#2 Slo,"President",,LIB,"Chase Oliver/Mike ter Maat",2,0,1,1
+Anderson,5-Vol Fire#2 Slo,"President",,GRN,"Jill Stein/Rudolph Ware",3,0,3,0
+Anderson,5-Vol Fire#2 Slo,"President",,,"Write-ins",0,0,0,0
+Anderson,5-Vol Fire#2 Slo,"U.S. Senate",,REP,"Ted Cruz",198,2,125,71
+Anderson,5-Vol Fire#2 Slo,"U.S. Senate",,DEM,"Colin Allred",19,0,13,6
+Anderson,5-Vol Fire#2 Slo,"U.S. Senate",,LIB,"Ted Brown",6,0,2,4
+Anderson,5-Vol Fire#2 Slo,"U.S. Senate",,,"Write-ins",0,0,0,0
+Anderson,5-Vol Fire#2 Slo,"U.S. House",6,REP,"Jake Ellzey",202,2,125,75
+Anderson,5-Vol Fire#2 Slo,"U.S. House",6,DEM,"John Love III",17,0,12,5
+Anderson,5-Vol Fire#2 Slo,"Railroad Commissioner",,REP,"Christi Craddick",194,2,120,72
+Anderson,5-Vol Fire#2 Slo,"Railroad Commissioner",,DEM,"Katherine Culbert",16,0,12,4
+Anderson,5-Vol Fire#2 Slo,"Railroad Commissioner",,LIB,"Hawk Dunlap",8,0,4,4
+Anderson,5-Vol Fire#2 Slo,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,1,0
+Anderson,5-Vol Fire#2 Slo,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Anderson,5-Vol Fire#2 Slo,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",199,2,123,74
+Anderson,5-Vol Fire#2 Slo,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",18,0,12,6
+Anderson,5-Vol Fire#2 Slo,"Justice, Supreme Court",Pl 4,REP,"John Devine",197,2,121,74
+Anderson,5-Vol Fire#2 Slo,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",19,0,13,6
+Anderson,5-Vol Fire#2 Slo,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",192,2,118,72
+Anderson,5-Vol Fire#2 Slo,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",18,0,12,6
+Anderson,5-Vol Fire#2 Slo,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",7,0,5,2
+Anderson,5-Vol Fire#2 Slo,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",198,2,122,74
+Anderson,5-Vol Fire#2 Slo,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",17,0,11,6
+Anderson,5-Vol Fire#2 Slo,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",199,2,122,75
+Anderson,5-Vol Fire#2 Slo,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",15,0,10,5
+Anderson,5-Vol Fire#2 Slo,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",198,2,122,74
+Anderson,5-Vol Fire#2 Slo,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",16,0,10,6
+Anderson,5-Vol Fire#2 Slo,"Member, State BoE",10,REP,"Tom Maynard",199,2,122,75
+Anderson,5-Vol Fire#2 Slo,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",17,0,12,5
+Anderson,5-Vol Fire#2 Slo,"State Representative",8,REP,"Cody Harris",199,2,125,72
+Anderson,5-Vol Fire#2 Slo,"State Representative",8,DEM,"Carolyn F. Salter",19,0,13,6
+Anderson,5-Vol Fire#2 Slo,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",207,2,129,76
+Anderson,5-Vol Fire#2 Slo,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",209,1,130,78
+Anderson,5-Vol Fire#2 Slo,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",210,2,131,77
+Anderson,5-Vol Fire#2 Slo,"Sheriff",,REP,"Rudy Flores",189,2,118,69
+Anderson,5-Vol Fire#2 Slo,"County Tax Assessor-Collector",,REP,"Tommy Cross",196,2,121,73
+Anderson,5-Vol Fire#2 Slo,"County Commissioner",Pct 1,REP,"Greg Chapin",209,2,131,76
+Anderson,5-Vol Fire#2 Slo,"Constable",Pct 1,REP,"David Franklin",201,2,127,72
+Anderson,5-Vol Fire#2 Slo,"Board Trustee Place 1 Slocum ISD",,,"Danny Kessel",189,2,119,68
+Anderson,5-Vol Fire#2 Slo,"Board Trustee Place 2 Slocum ISD",,,"John Barton",177,2,109,66
+Anderson,5-Vol Fire#2 Slo,"Board Trustee Place 6 Slocum ISD",,,"Adriann Sbrusch",116,2,70,44
+Anderson,5-Vol Fire#2 Slo,"Board Trustee Place 6 Slocum ISD",,,"John Day",77,0,48,29
+Anderson,5-Vol Fire#2 Slo,"Board Trustee Place 7 Slocum ISD",,,"Josh Lindsey",141,2,86,53
+Anderson,5-Vol Fire#2 Slo,"Board Trustee Place 7 Slocum ISD",,,"David Hart",45,0,28,17
+Anderson,6-New Christian Fllwh.,"Registered Voters",,,,1510,,,
+Anderson,6-New Christian Fllwh.,"Ballots Cast",,,,779,51,567,161
+Anderson,6-New Christian Fllwh.,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,6-New Christian Fllwh.,"President",,REP,"Donald J. Trump/JD Vance",429,22,338,69
+Anderson,6-New Christian Fllwh.,"President",,DEM,"Kamala D. Harris/Tim Walz",340,26,224,90
+Anderson,6-New Christian Fllwh.,"President",,LIB,"Chase Oliver/Mike ter Maat",1,0,1,0
+Anderson,6-New Christian Fllwh.,"President",,GRN,"Jill Stein/Rudolph Ware",2,1,0,1
+Anderson,6-New Christian Fllwh.,"President",,,"Write-ins",1,0,1,0
+Anderson,6-New Christian Fllwh.,"U.S. Senate",,REP,"Ted Cruz",406,21,322,63
+Anderson,6-New Christian Fllwh.,"U.S. Senate",,DEM,"Colin Allred",340,26,228,86
+Anderson,6-New Christian Fllwh.,"U.S. Senate",,LIB,"Ted Brown",14,0,8,6
+Anderson,6-New Christian Fllwh.,"U.S. Senate",,,"Write-ins",1,1,0,0
+Anderson,6-New Christian Fllwh.,"U.S. House",6,REP,"Jake Ellzey",425,21,335,69
+Anderson,6-New Christian Fllwh.,"U.S. House",6,DEM,"John Love III",311,27,207,77
+Anderson,6-New Christian Fllwh.,"Railroad Commissioner",,REP,"Christi Craddick",410,21,326,63
+Anderson,6-New Christian Fllwh.,"Railroad Commissioner",,DEM,"Katherine Culbert",301,26,199,76
+Anderson,6-New Christian Fllwh.,"Railroad Commissioner",,LIB,"Hawk Dunlap",16,1,11,4
+Anderson,6-New Christian Fllwh.,"Railroad Commissioner",,GRN,"Eddie Espinoza",8,0,5,3
+Anderson,6-New Christian Fllwh.,"Railroad Commissioner",,,"Write-ins",1,0,1,0
+Anderson,6-New Christian Fllwh.,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",419,21,334,64
+Anderson,6-New Christian Fllwh.,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",312,26,205,81
+Anderson,6-New Christian Fllwh.,"Justice, Supreme Court",Pl 4,REP,"John Devine",415,21,332,62
+Anderson,6-New Christian Fllwh.,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",313,27,205,81
+Anderson,6-New Christian Fllwh.,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",412,22,327,63
+Anderson,6-New Christian Fllwh.,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",301,25,203,73
+Anderson,6-New Christian Fllwh.,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",16,0,11,5
+Anderson,6-New Christian Fllwh.,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",415,21,331,63
+Anderson,6-New Christian Fllwh.,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",316,27,210,79
+Anderson,6-New Christian Fllwh.,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",418,21,331,66
+Anderson,6-New Christian Fllwh.,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",307,26,205,76
+Anderson,6-New Christian Fllwh.,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",422,21,336,65
+Anderson,6-New Christian Fllwh.,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",303,26,200,77
+Anderson,6-New Christian Fllwh.,"Member, State BoE",10,REP,"Tom Maynard",408,21,323,64
+Anderson,6-New Christian Fllwh.,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",318,27,212,79
+Anderson,6-New Christian Fllwh.,"State Representative",8,REP,"Cody Harris",408,21,319,68
+Anderson,6-New Christian Fllwh.,"State Representative",8,DEM,"Carolyn F. Salter",335,27,228,80
+Anderson,6-New Christian Fllwh.,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",523,24,401,98
+Anderson,6-New Christian Fllwh.,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",544,24,419,101
+Anderson,6-New Christian Fllwh.,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",538,28,411,99
+Anderson,6-New Christian Fllwh.,"Sheriff",,REP,"Rudy Flores",557,31,425,101
+Anderson,6-New Christian Fllwh.,"County Tax Assessor-Collector",,REP,"Tommy Cross",505,25,389,91
+Anderson,6-New Christian Fllwh.,"Constable",Pct 2,REP,"Marvin Jenkins",580,27,441,112
+Anderson,7-Washington,"Registered Voters",,,,1335,,,
+Anderson,7-Washington,"Ballots Cast",,,,505,28,349,128
+Anderson,7-Washington,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,7-Washington,"President",,REP,"Donald J. Trump/JD Vance",167,4,127,36
+Anderson,7-Washington,"President",,DEM,"Kamala D. Harris/Tim Walz",330,23,217,90
+Anderson,7-Washington,"President",,LIB,"Chase Oliver/Mike ter Maat",4,0,3,1
+Anderson,7-Washington,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,1,0
+Anderson,7-Washington,"President",,,"Write-ins",0,0,0,0
+Anderson,7-Washington,"U.S. Senate",,REP,"Ted Cruz",152,4,119,29
+Anderson,7-Washington,"U.S. Senate",,DEM,"Colin Allred",322,23,216,83
+Anderson,7-Washington,"U.S. Senate",,LIB,"Ted Brown",14,0,5,9
+Anderson,7-Washington,"U.S. Senate",,,"Write-ins",0,0,0,0
+Anderson,7-Washington,"U.S. House",6,REP,"Jake Ellzey",160,4,121,35
+Anderson,7-Washington,"U.S. House",6,DEM,"John Love III",309,22,203,84
+Anderson,7-Washington,"Railroad Commissioner",,REP,"Christi Craddick",148,4,114,30
+Anderson,7-Washington,"Railroad Commissioner",,DEM,"Katherine Culbert",292,20,194,78
+Anderson,7-Washington,"Railroad Commissioner",,LIB,"Hawk Dunlap",19,2,11,6
+Anderson,7-Washington,"Railroad Commissioner",,GRN,"Eddie Espinoza",15,1,9,5
+Anderson,7-Washington,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Anderson,7-Washington,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",163,5,123,35
+Anderson,7-Washington,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",311,23,203,85
+Anderson,7-Washington,"Justice, Supreme Court",Pl 4,REP,"John Devine",160,5,121,34
+Anderson,7-Washington,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",317,23,208,86
+Anderson,7-Washington,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",151,5,116,30
+Anderson,7-Washington,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",306,23,205,78
+Anderson,7-Washington,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",11,0,4,7
+Anderson,7-Washington,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",156,5,116,35
+Anderson,7-Washington,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",312,23,210,79
+Anderson,7-Washington,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",161,5,121,35
+Anderson,7-Washington,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",305,23,204,78
+Anderson,7-Washington,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",167,5,125,37
+Anderson,7-Washington,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",297,23,201,73
+Anderson,7-Washington,"Member, State BoE",10,REP,"Tom Maynard",153,4,117,32
+Anderson,7-Washington,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",305,23,201,81
+Anderson,7-Washington,"State Representative",8,REP,"Cody Harris",163,5,125,33
+Anderson,7-Washington,"State Representative",8,DEM,"Carolyn F. Salter",307,23,201,83
+Anderson,7-Washington,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",250,9,179,62
+Anderson,7-Washington,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",272,11,197,64
+Anderson,7-Washington,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",282,12,205,65
+Anderson,7-Washington,"Sheriff",,REP,"Rudy Flores",303,11,220,72
+Anderson,7-Washington,"County Tax Assessor-Collector",,REP,"Tommy Cross",277,10,201,66
+Anderson,7-Washington,"Constable",Pct 2,REP,"Marvin Jenkins",337,16,239,82
+Anderson,8-Antioch,"Registered Voters",,,,431,,,
+Anderson,8-Antioch,"Ballots Cast",,,,217,4,161,52
+Anderson,8-Antioch,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,8-Antioch,"President",,REP,"Donald J. Trump/JD Vance",104,0,80,24
+Anderson,8-Antioch,"President",,DEM,"Kamala D. Harris/Tim Walz",112,4,80,28
+Anderson,8-Antioch,"President",,LIB,"Chase Oliver/Mike ter Maat",0,0,0,0
+Anderson,8-Antioch,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,1,0
+Anderson,8-Antioch,"President",,,"Write-ins",0,0,0,0
+Anderson,8-Antioch,"U.S. Senate",,REP,"Ted Cruz",95,0,73,22
+Anderson,8-Antioch,"U.S. Senate",,DEM,"Colin Allred",113,4,80,29
+Anderson,8-Antioch,"U.S. Senate",,LIB,"Ted Brown",4,0,4,0
+Anderson,8-Antioch,"U.S. Senate",,,"Write-ins",0,0,0,0
+Anderson,8-Antioch,"U.S. House",6,REP,"Jake Ellzey",101,0,78,23
+Anderson,8-Antioch,"U.S. House",6,DEM,"John Love III",103,4,72,27
+Anderson,8-Antioch,"Railroad Commissioner",,REP,"Christi Craddick",97,0,73,24
+Anderson,8-Antioch,"Railroad Commissioner",,DEM,"Katherine Culbert",103,4,75,24
+Anderson,8-Antioch,"Railroad Commissioner",,LIB,"Hawk Dunlap",3,0,3,0
+Anderson,8-Antioch,"Railroad Commissioner",,GRN,"Eddie Espinoza",7,0,4,3
+Anderson,8-Antioch,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Anderson,8-Antioch,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",107,0,83,24
+Anderson,8-Antioch,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",103,4,73,26
+Anderson,8-Antioch,"Justice, Supreme Court",Pl 4,REP,"John Devine",102,0,80,22
+Anderson,8-Antioch,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",106,4,75,27
+Anderson,8-Antioch,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",98,0,77,21
+Anderson,8-Antioch,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",106,4,75,27
+Anderson,8-Antioch,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",6,0,4,2
+Anderson,8-Antioch,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",98,0,77,21
+Anderson,8-Antioch,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",107,4,76,27
+Anderson,8-Antioch,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",99,0,77,22
+Anderson,8-Antioch,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",106,4,76,26
+Anderson,8-Antioch,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",104,0,81,23
+Anderson,8-Antioch,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",102,4,72,26
+Anderson,8-Antioch,"Member, State BoE",10,REP,"Tom Maynard",97,0,75,22
+Anderson,8-Antioch,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",109,4,77,28
+Anderson,8-Antioch,"State Representative",8,REP,"Cody Harris",103,0,79,24
+Anderson,8-Antioch,"State Representative",8,DEM,"Carolyn F. Salter",100,4,70,26
+Anderson,8-Antioch,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",131,0,99,32
+Anderson,8-Antioch,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",141,0,107,34
+Anderson,8-Antioch,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",138,0,104,34
+Anderson,8-Antioch,"Sheriff",,REP,"Rudy Flores",146,1,109,36
+Anderson,8-Antioch,"County Tax Assessor-Collector",,REP,"Tommy Cross",127,0,98,29
+Anderson,8-Antioch,"Constable",Pct 2,REP,"Marvin Jenkins",146,3,110,33
+Anderson,9-Tucker,"Registered Voters",,,,1469,,,
+Anderson,9-Tucker,"Ballots Cast",,,,929,28,724,177
+Anderson,9-Tucker,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,9-Tucker,"President",,REP,"Donald J. Trump/JD Vance",776,22,615,139
+Anderson,9-Tucker,"President",,DEM,"Kamala D. Harris/Tim Walz",146,6,105,35
+Anderson,9-Tucker,"President",,LIB,"Chase Oliver/Mike ter Maat",4,0,2,2
+Anderson,9-Tucker,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,1,0
+Anderson,9-Tucker,"President",,,"Write-ins",2,0,0,2
+Anderson,9-Tucker,"U.S. Senate",,REP,"Ted Cruz",741,22,587,132
+Anderson,9-Tucker,"U.S. Senate",,DEM,"Colin Allred",166,6,122,38
+Anderson,9-Tucker,"U.S. Senate",,LIB,"Ted Brown",15,0,9,6
+Anderson,9-Tucker,"U.S. Senate",,,"Write-ins",0,0,0,0
+Anderson,9-Tucker,"U.S. House",6,REP,"Jake Ellzey",762,21,601,140
+Anderson,9-Tucker,"U.S. House",6,DEM,"John Love III",144,6,105,33
+Anderson,9-Tucker,"Railroad Commissioner",,REP,"Christi Craddick",731,21,578,132
+Anderson,9-Tucker,"Railroad Commissioner",,DEM,"Katherine Culbert",138,5,101,32
+Anderson,9-Tucker,"Railroad Commissioner",,LIB,"Hawk Dunlap",25,0,19,6
+Anderson,9-Tucker,"Railroad Commissioner",,GRN,"Eddie Espinoza",7,0,5,2
+Anderson,9-Tucker,"Railroad Commissioner",,,"Write-ins",2,0,1,1
+Anderson,9-Tucker,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",767,20,608,139
+Anderson,9-Tucker,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",138,5,98,35
+Anderson,9-Tucker,"Justice, Supreme Court",Pl 4,REP,"John Devine",753,21,594,138
+Anderson,9-Tucker,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",151,5,110,36
+Anderson,9-Tucker,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",746,21,593,132
+Anderson,9-Tucker,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",143,5,102,36
+Anderson,9-Tucker,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",16,0,12,4
+Anderson,9-Tucker,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",756,21,599,136
+Anderson,9-Tucker,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",149,5,106,38
+Anderson,9-Tucker,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",761,21,602,138
+Anderson,9-Tucker,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",145,5,104,36
+Anderson,9-Tucker,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",765,21,604,140
+Anderson,9-Tucker,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",137,5,100,32
+Anderson,9-Tucker,"Member, State BoE",10,REP,"Tom Maynard",755,20,592,143
+Anderson,9-Tucker,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",140,6,104,30
+Anderson,9-Tucker,"State Representative",8,REP,"Cody Harris",765,21,600,144
+Anderson,9-Tucker,"State Representative",8,DEM,"Carolyn F. Salter",140,6,103,31
+Anderson,9-Tucker,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",814,21,637,156
+Anderson,9-Tucker,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",824,21,644,159
+Anderson,9-Tucker,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",824,22,642,160
+Anderson,9-Tucker,"Sheriff",,REP,"Rudy Flores",827,23,648,156
+Anderson,9-Tucker,"County Tax Assessor-Collector",,REP,"Tommy Cross",819,22,641,156
+Anderson,9-Tucker,"Constable",Pct 2,REP,"Marvin Jenkins",821,23,640,158
+Anderson,10-Harmony,"Registered Voters",,,,600,,,
+Anderson,10-Harmony,"Ballots Cast",,,,376,5,262,109
+Anderson,10-Harmony,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,10-Harmony,"President",,REP,"Donald J. Trump/JD Vance",317,4,221,92
+Anderson,10-Harmony,"President",,DEM,"Kamala D. Harris/Tim Walz",56,1,39,16
+Anderson,10-Harmony,"President",,LIB,"Chase Oliver/Mike ter Maat",0,0,0,0
+Anderson,10-Harmony,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,0,1
+Anderson,10-Harmony,"President",,,"Write-ins",0,0,0,0
+Anderson,10-Harmony,"U.S. Senate",,REP,"Ted Cruz",309,4,217,88
+Anderson,10-Harmony,"U.S. Senate",,DEM,"Colin Allred",62,1,43,18
+Anderson,10-Harmony,"U.S. Senate",,LIB,"Ted Brown",3,0,1,2
+Anderson,10-Harmony,"U.S. Senate",,,"Write-ins",0,0,0,0
+Anderson,10-Harmony,"U.S. House",6,REP,"Jake Ellzey",312,4,218,90
+Anderson,10-Harmony,"U.S. House",6,DEM,"John Love III",50,1,34,15
+Anderson,10-Harmony,"Railroad Commissioner",,REP,"Christi Craddick",306,4,218,84
+Anderson,10-Harmony,"Railroad Commissioner",,DEM,"Katherine Culbert",48,1,31,16
+Anderson,10-Harmony,"Railroad Commissioner",,LIB,"Hawk Dunlap",6,0,5,1
+Anderson,10-Harmony,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,1,0
+Anderson,10-Harmony,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Anderson,10-Harmony,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",312,4,222,86
+Anderson,10-Harmony,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",50,1,33,16
+Anderson,10-Harmony,"Justice, Supreme Court",Pl 4,REP,"John Devine",309,4,218,87
+Anderson,10-Harmony,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",52,1,36,15
+Anderson,10-Harmony,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",311,4,220,87
+Anderson,10-Harmony,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",51,1,35,15
+Anderson,10-Harmony,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",1,0,0,1
+Anderson,10-Harmony,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",311,4,219,88
+Anderson,10-Harmony,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",54,1,37,16
+Anderson,10-Harmony,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",314,4,221,89
+Anderson,10-Harmony,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",50,1,34,15
+Anderson,10-Harmony,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",311,4,218,89
+Anderson,10-Harmony,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",50,1,35,14
+Anderson,10-Harmony,"Member, State BoE",10,REP,"Tom Maynard",312,4,220,88
+Anderson,10-Harmony,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",50,1,33,16
+Anderson,10-Harmony,"State Representative",8,REP,"Cody Harris",312,4,218,90
+Anderson,10-Harmony,"State Representative",8,DEM,"Carolyn F. Salter",52,1,33,18
+Anderson,10-Harmony,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",325,4,228,93
+Anderson,10-Harmony,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",328,4,227,97
+Anderson,10-Harmony,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",327,4,228,95
+Anderson,10-Harmony,"Sheriff",,REP,"Rudy Flores",330,4,230,96
+Anderson,10-Harmony,"County Tax Assessor-Collector",,REP,"Tommy Cross",321,4,222,95
+Anderson,10-Harmony,"Constable",Pct 2,REP,"Marvin Jenkins",323,4,222,97
+Anderson,11-Tenn Colony,"Registered Voters",,,,1310,,,
+Anderson,11-Tenn Colony,"Ballots Cast",,,,866,19,504,343
+Anderson,11-Tenn Colony,"Ballots Cast Blank",,,,1,0,1,0
+Anderson,11-Tenn Colony,"President",,REP,"Donald J. Trump/JD Vance",703,15,403,285
+Anderson,11-Tenn Colony,"President",,DEM,"Kamala D. Harris/Tim Walz",156,4,97,55
+Anderson,11-Tenn Colony,"President",,LIB,"Chase Oliver/Mike ter Maat",2,0,2,0
+Anderson,11-Tenn Colony,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Anderson,11-Tenn Colony,"President",,,"Write-ins",2,0,0,2
+Anderson,11-Tenn Colony,"U.S. Senate",,REP,"Ted Cruz",689,14,394,281
+Anderson,11-Tenn Colony,"U.S. Senate",,DEM,"Colin Allred",156,5,96,55
+Anderson,11-Tenn Colony,"U.S. Senate",,LIB,"Ted Brown",12,0,8,4
+Anderson,11-Tenn Colony,"U.S. Senate",,,"Write-ins",0,0,0,0
+Anderson,11-Tenn Colony,"U.S. House",6,REP,"Jake Ellzey",689,14,393,282
+Anderson,11-Tenn Colony,"U.S. House",6,DEM,"John Love III",143,4,88,51
+Anderson,11-Tenn Colony,"Railroad Commissioner",,REP,"Christi Craddick",662,14,380,268
+Anderson,11-Tenn Colony,"Railroad Commissioner",,DEM,"Katherine Culbert",136,4,85,47
+Anderson,11-Tenn Colony,"Railroad Commissioner",,LIB,"Hawk Dunlap",28,0,12,16
+Anderson,11-Tenn Colony,"Railroad Commissioner",,GRN,"Eddie Espinoza",8,0,3,5
+Anderson,11-Tenn Colony,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Anderson,11-Tenn Colony,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",697,15,395,287
+Anderson,11-Tenn Colony,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",139,4,86,49
+Anderson,11-Tenn Colony,"Justice, Supreme Court",Pl 4,REP,"John Devine",689,15,390,284
+Anderson,11-Tenn Colony,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",145,4,89,52
+Anderson,11-Tenn Colony,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",679,14,387,278
+Anderson,11-Tenn Colony,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",140,4,86,50
+Anderson,11-Tenn Colony,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",15,1,8,6
+Anderson,11-Tenn Colony,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",688,14,392,282
+Anderson,11-Tenn Colony,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",145,4,88,53
+Anderson,11-Tenn Colony,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",691,13,392,286
+Anderson,11-Tenn Colony,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",144,4,90,50
+Anderson,11-Tenn Colony,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",696,14,395,287
+Anderson,11-Tenn Colony,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",135,4,84,47
+Anderson,11-Tenn Colony,"Member, State BoE",10,REP,"Tom Maynard",686,14,387,285
+Anderson,11-Tenn Colony,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",143,4,89,50
+Anderson,11-Tenn Colony,"State Representative",8,REP,"Cody Harris",689,15,391,283
+Anderson,11-Tenn Colony,"State Representative",8,DEM,"Carolyn F. Salter",142,4,87,51
+Anderson,11-Tenn Colony,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",734,16,420,298
+Anderson,11-Tenn Colony,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",742,17,421,304
+Anderson,11-Tenn Colony,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",735,16,418,301
+Anderson,11-Tenn Colony,"Sheriff",,REP,"Rudy Flores",750,17,424,309
+Anderson,11-Tenn Colony,"County Tax Assessor-Collector",,REP,"Tommy Cross",733,17,412,304
+Anderson,11-Tenn Colony,"Constable",Pct 2,REP,"Marvin Jenkins",762,17,432,313
+Anderson,13-PISD Admin,"Registered Voters",,,,1391,,,
+Anderson,13-PISD Admin,"Ballots Cast",,,,1015,20,683,312
+Anderson,13-PISD Admin,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,13-PISD Admin,"President",,REP,"Donald J. Trump/JD Vance",900,15,602,283
+Anderson,13-PISD Admin,"President",,DEM,"Kamala D. Harris/Tim Walz",104,5,77,22
+Anderson,13-PISD Admin,"President",,LIB,"Chase Oliver/Mike ter Maat",3,0,2,1
+Anderson,13-PISD Admin,"President",,GRN,"Jill Stein/Rudolph Ware",2,0,0,2
+Anderson,13-PISD Admin,"President",,,"Write-ins",3,0,1,2
+Anderson,13-PISD Admin,"U.S. Senate",,REP,"Ted Cruz",883,15,589,279
+Anderson,13-PISD Admin,"U.S. Senate",,DEM,"Colin Allred",119,5,85,29
+Anderson,13-PISD Admin,"U.S. Senate",,LIB,"Ted Brown",10,0,7,3
+Anderson,13-PISD Admin,"U.S. Senate",,,"Write-ins",0,0,0,0
+Anderson,13-PISD Admin,"U.S. House",6,REP,"Jake Ellzey",885,15,592,278
+Anderson,13-PISD Admin,"U.S. House",6,DEM,"John Love III",97,4,72,21
+Anderson,13-PISD Admin,"Railroad Commissioner",,REP,"Christi Craddick",873,15,583,275
+Anderson,13-PISD Admin,"Railroad Commissioner",,DEM,"Katherine Culbert",91,4,67,20
+Anderson,13-PISD Admin,"Railroad Commissioner",,LIB,"Hawk Dunlap",18,1,14,3
+Anderson,13-PISD Admin,"Railroad Commissioner",,GRN,"Eddie Espinoza",7,0,5,2
+Anderson,13-PISD Admin,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Anderson,13-PISD Admin,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",891,16,600,275
+Anderson,13-PISD Admin,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",92,4,67,21
+Anderson,13-PISD Admin,"Justice, Supreme Court",Pl 4,REP,"John Devine",881,15,594,272
+Anderson,13-PISD Admin,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",100,5,70,25
+Anderson,13-PISD Admin,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",875,14,584,277
+Anderson,13-PISD Admin,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",93,5,69,19
+Anderson,13-PISD Admin,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",15,1,8,6
+Anderson,13-PISD Admin,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",875,15,584,276
+Anderson,13-PISD Admin,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",100,5,75,20
+Anderson,13-PISD Admin,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",886,15,594,277
+Anderson,13-PISD Admin,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",97,5,69,23
+Anderson,13-PISD Admin,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",884,15,587,282
+Anderson,13-PISD Admin,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",94,5,72,17
+Anderson,13-PISD Admin,"Member, State BoE",10,REP,"Tom Maynard",871,15,585,271
+Anderson,13-PISD Admin,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",103,5,73,25
+Anderson,13-PISD Admin,"State Representative",8,REP,"Cody Harris",885,15,591,279
+Anderson,13-PISD Admin,"State Representative",8,DEM,"Carolyn F. Salter",98,5,68,25
+Anderson,13-PISD Admin,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",904,14,614,276
+Anderson,13-PISD Admin,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",898,14,608,276
+Anderson,13-PISD Admin,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",895,15,608,272
+Anderson,13-PISD Admin,"Sheriff",,REP,"Rudy Flores",908,13,611,284
+Anderson,13-PISD Admin,"County Tax Assessor-Collector",,REP,"Tommy Cross",877,12,594,271
+Anderson,13-PISD Admin,"County Commissioner",Pct 3,REP,"John B. Wilbanks",897,14,608,275
+Anderson,13-PISD Admin,"Constable",Pct 3,REP,"Alan ""Bubba"" Fox",874,13,590,271
+Anderson,15-Engledow,"Registered Voters",,,,932,,,
+Anderson,15-Engledow,"Ballots Cast",,,,675,9,528,138
+Anderson,15-Engledow,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,15-Engledow,"President",,REP,"Donald J. Trump/JD Vance",577,6,451,120
+Anderson,15-Engledow,"President",,DEM,"Kamala D. Harris/Tim Walz",90,3,73,14
+Anderson,15-Engledow,"President",,LIB,"Chase Oliver/Mike ter Maat",3,0,2,1
+Anderson,15-Engledow,"President",,GRN,"Jill Stein/Rudolph Ware",3,0,0,3
+Anderson,15-Engledow,"President",,,"Write-ins",0,0,0,0
+Anderson,15-Engledow,"U.S. Senate",,REP,"Ted Cruz",558,4,438,116
+Anderson,15-Engledow,"U.S. Senate",,DEM,"Colin Allred",102,4,79,19
+Anderson,15-Engledow,"U.S. Senate",,LIB,"Ted Brown",9,0,7,2
+Anderson,15-Engledow,"U.S. Senate",,,"Write-ins",0,0,0,0
+Anderson,15-Engledow,"U.S. House",6,REP,"Jake Ellzey",575,6,451,118
+Anderson,15-Engledow,"U.S. House",6,DEM,"John Love III",84,3,66,15
+Anderson,15-Engledow,"Railroad Commissioner",,REP,"Christi Craddick",568,6,446,116
+Anderson,15-Engledow,"Railroad Commissioner",,DEM,"Katherine Culbert",79,3,63,13
+Anderson,15-Engledow,"Railroad Commissioner",,LIB,"Hawk Dunlap",8,0,5,3
+Anderson,15-Engledow,"Railroad Commissioner",,GRN,"Eddie Espinoza",4,0,3,1
+Anderson,15-Engledow,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Anderson,15-Engledow,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",572,6,449,117
+Anderson,15-Engledow,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",83,3,65,15
+Anderson,15-Engledow,"Justice, Supreme Court",Pl 4,REP,"John Devine",569,6,446,117
+Anderson,15-Engledow,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",86,3,68,15
+Anderson,15-Engledow,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",564,6,441,117
+Anderson,15-Engledow,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",79,3,64,12
+Anderson,15-Engledow,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",7,0,4,3
+Anderson,15-Engledow,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",568,6,445,117
+Anderson,15-Engledow,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",84,3,66,15
+Anderson,15-Engledow,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",567,5,445,117
+Anderson,15-Engledow,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",82,3,64,15
+Anderson,15-Engledow,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",570,7,447,116
+Anderson,15-Engledow,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",81,2,63,16
+Anderson,15-Engledow,"Member, State BoE",10,REP,"Tom Maynard",563,6,440,117
+Anderson,15-Engledow,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",81,3,64,14
+Anderson,15-Engledow,"State Representative",8,REP,"Cody Harris",567,7,443,117
+Anderson,15-Engledow,"State Representative",8,DEM,"Carolyn F. Salter",94,2,75,17
+Anderson,15-Engledow,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",586,8,461,117
+Anderson,15-Engledow,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",596,8,469,119
+Anderson,15-Engledow,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",593,8,467,118
+Anderson,15-Engledow,"Sheriff",,REP,"Rudy Flores",597,8,469,120
+Anderson,15-Engledow,"County Tax Assessor-Collector",,REP,"Tommy Cross",578,7,454,117
+Anderson,15-Engledow,"County Commissioner",Pct 3,REP,"John B. Wilbanks",587,7,460,120
+Anderson,15-Engledow,"Constable",Pct 3,REP,"Alan ""Bubba"" Fox",585,8,461,116
+Anderson,15-Engledow,"Board Trustee Place 1 Slocum ISD",,,"Danny Kessel",117,3,80,34
+Anderson,15-Engledow,"Board Trustee Place 2 Slocum ISD",,,"John Barton",115,3,78,34
+Anderson,15-Engledow,"Board Trustee Place 6 Slocum ISD",,,"Adriann Sbrusch",55,0,47,8
+Anderson,15-Engledow,"Board Trustee Place 6 Slocum ISD",,,"John Day",61,3,33,25
+Anderson,15-Engledow,"Board Trustee Place 7 Slocum ISD",,,"Josh Lindsey",75,2,57,16
+Anderson,15-Engledow,"Board Trustee Place 7 Slocum ISD",,,"David Hart",39,1,22,16
+Anderson,16-Neches 1st Bapt.,"Registered Voters",,,,1002,,,
+Anderson,16-Neches 1st Bapt.,"Ballots Cast",,,,676,14,417,245
+Anderson,16-Neches 1st Bapt.,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,16-Neches 1st Bapt.,"President",,REP,"Donald J. Trump/JD Vance",561,6,349,206
+Anderson,16-Neches 1st Bapt.,"President",,DEM,"Kamala D. Harris/Tim Walz",109,8,65,36
+Anderson,16-Neches 1st Bapt.,"President",,LIB,"Chase Oliver/Mike ter Maat",3,0,2,1
+Anderson,16-Neches 1st Bapt.,"President",,GRN,"Jill Stein/Rudolph Ware",2,0,1,1
+Anderson,16-Neches 1st Bapt.,"President",,,"Write-ins",0,0,0,0
+Anderson,16-Neches 1st Bapt.,"U.S. Senate",,REP,"Ted Cruz",541,6,340,195
+Anderson,16-Neches 1st Bapt.,"U.S. Senate",,DEM,"Colin Allred",121,8,71,42
+Anderson,16-Neches 1st Bapt.,"U.S. Senate",,LIB,"Ted Brown",11,0,5,6
+Anderson,16-Neches 1st Bapt.,"U.S. Senate",,,"Write-ins",0,0,0,0
+Anderson,16-Neches 1st Bapt.,"U.S. House",6,REP,"Jake Ellzey",550,6,347,197
+Anderson,16-Neches 1st Bapt.,"U.S. House",6,DEM,"John Love III",107,8,64,35
+Anderson,16-Neches 1st Bapt.,"Railroad Commissioner",,REP,"Christi Craddick",530,6,336,188
+Anderson,16-Neches 1st Bapt.,"Railroad Commissioner",,DEM,"Katherine Culbert",104,8,63,33
+Anderson,16-Neches 1st Bapt.,"Railroad Commissioner",,LIB,"Hawk Dunlap",21,0,10,11
+Anderson,16-Neches 1st Bapt.,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,1,1
+Anderson,16-Neches 1st Bapt.,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Anderson,16-Neches 1st Bapt.,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",551,6,346,199
+Anderson,16-Neches 1st Bapt.,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",104,8,64,32
+Anderson,16-Neches 1st Bapt.,"Justice, Supreme Court",Pl 4,REP,"John Devine",542,6,343,193
+Anderson,16-Neches 1st Bapt.,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",110,8,65,37
+Anderson,16-Neches 1st Bapt.,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",542,6,341,195
+Anderson,16-Neches 1st Bapt.,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",102,8,62,32
+Anderson,16-Neches 1st Bapt.,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",16,0,7,9
+Anderson,16-Neches 1st Bapt.,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",548,6,342,200
+Anderson,16-Neches 1st Bapt.,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",109,8,65,36
+Anderson,16-Neches 1st Bapt.,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",547,6,343,198
+Anderson,16-Neches 1st Bapt.,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",107,8,63,36
+Anderson,16-Neches 1st Bapt.,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",547,6,341,200
+Anderson,16-Neches 1st Bapt.,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",106,8,64,34
+Anderson,16-Neches 1st Bapt.,"Member, State BoE",10,REP,"Tom Maynard",545,6,339,200
+Anderson,16-Neches 1st Bapt.,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",106,8,63,35
+Anderson,16-Neches 1st Bapt.,"State Representative",8,REP,"Cody Harris",536,5,334,197
+Anderson,16-Neches 1st Bapt.,"State Representative",8,DEM,"Carolyn F. Salter",119,9,72,38
+Anderson,16-Neches 1st Bapt.,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",571,7,356,208
+Anderson,16-Neches 1st Bapt.,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",571,7,357,207
+Anderson,16-Neches 1st Bapt.,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",567,6,351,210
+Anderson,16-Neches 1st Bapt.,"Sheriff",,REP,"Rudy Flores",572,6,358,208
+Anderson,16-Neches 1st Bapt.,"County Tax Assessor-Collector",,REP,"Tommy Cross",555,7,349,199
+Anderson,16-Neches 1st Bapt.,"County Commissioner",Pct 3,REP,"John B. Wilbanks",575,7,360,208
+Anderson,16-Neches 1st Bapt.,"Constable",Pct 3,REP,"Alan ""Bubba"" Fox",561,7,348,206
+Anderson,17-DAV Post,"Registered Voters",,,,875,,,
+Anderson,17-DAV Post,"Ballots Cast",,,,578,23,445,110
+Anderson,17-DAV Post,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,17-DAV Post,"President",,REP,"Donald J. Trump/JD Vance",469,15,373,81
+Anderson,17-DAV Post,"President",,DEM,"Kamala D. Harris/Tim Walz",103,8,69,26
+Anderson,17-DAV Post,"President",,LIB,"Chase Oliver/Mike ter Maat",5,0,3,2
+Anderson,17-DAV Post,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Anderson,17-DAV Post,"President",,,"Write-ins",0,0,0,0
+Anderson,17-DAV Post,"U.S. Senate",,REP,"Ted Cruz",457,14,367,76
+Anderson,17-DAV Post,"U.S. Senate",,DEM,"Colin Allred",108,8,72,28
+Anderson,17-DAV Post,"U.S. Senate",,LIB,"Ted Brown",4,1,1,2
+Anderson,17-DAV Post,"U.S. Senate",,,"Write-ins",0,0,0,0
+Anderson,17-DAV Post,"U.S. House",6,REP,"Jake Ellzey",458,14,364,80
+Anderson,17-DAV Post,"U.S. House",6,DEM,"John Love III",90,8,63,19
+Anderson,17-DAV Post,"Railroad Commissioner",,REP,"Christi Craddick",448,14,357,77
+Anderson,17-DAV Post,"Railroad Commissioner",,DEM,"Katherine Culbert",88,7,59,22
+Anderson,17-DAV Post,"Railroad Commissioner",,LIB,"Hawk Dunlap",12,0,10,2
+Anderson,17-DAV Post,"Railroad Commissioner",,GRN,"Eddie Espinoza",4,1,3,0
+Anderson,17-DAV Post,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Anderson,17-DAV Post,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",449,13,360,76
+Anderson,17-DAV Post,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",96,6,66,24
+Anderson,17-DAV Post,"Justice, Supreme Court",Pl 4,REP,"John Devine",444,11,358,75
+Anderson,17-DAV Post,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",96,6,66,24
+Anderson,17-DAV Post,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",441,12,356,73
+Anderson,17-DAV Post,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",93,5,63,25
+Anderson,17-DAV Post,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",15,2,10,3
+Anderson,17-DAV Post,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",454,11,366,77
+Anderson,17-DAV Post,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",96,8,64,24
+Anderson,17-DAV Post,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",456,12,367,77
+Anderson,17-DAV Post,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",93,7,62,24
+Anderson,17-DAV Post,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",455,11,365,79
+Anderson,17-DAV Post,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",91,6,63,22
+Anderson,17-DAV Post,"Member, State BoE",10,REP,"Tom Maynard",449,13,361,75
+Anderson,17-DAV Post,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",102,8,67,27
+Anderson,17-DAV Post,"State Representative",8,REP,"Cody Harris",458,13,363,82
+Anderson,17-DAV Post,"State Representative",8,DEM,"Carolyn F. Salter",103,10,70,23
+Anderson,17-DAV Post,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",471,15,369,87
+Anderson,17-DAV Post,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",476,17,373,86
+Anderson,17-DAV Post,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",475,18,367,90
+Anderson,17-DAV Post,"Sheriff",,REP,"Rudy Flores",484,19,375,90
+Anderson,17-DAV Post,"County Tax Assessor-Collector",,REP,"Tommy Cross",464,17,362,85
+Anderson,17-DAV Post,"County Commissioner",Pct 3,REP,"John B. Wilbanks",471,17,366,88
+Anderson,17-DAV Post,"Constable",Pct 3,REP,"Alan ""Bubba"" Fox",467,17,361,89
+Anderson,18-Frankston,"Registered Voters",,,,2297,,,
+Anderson,18-Frankston,"Ballots Cast",,,,1590,58,937,595
+Anderson,18-Frankston,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,18-Frankston,"President",,REP,"Donald J. Trump/JD Vance",1342,37,817,488
+Anderson,18-Frankston,"President",,DEM,"Kamala D. Harris/Tim Walz",228,21,112,95
+Anderson,18-Frankston,"President",,LIB,"Chase Oliver/Mike ter Maat",7,0,2,5
+Anderson,18-Frankston,"President",,GRN,"Jill Stein/Rudolph Ware",5,0,3,2
+Anderson,18-Frankston,"President",,,"Write-ins",2,0,0,2
+Anderson,18-Frankston,"U.S. Senate",,REP,"Ted Cruz",1292,33,797,462
+Anderson,18-Frankston,"U.S. Senate",,DEM,"Colin Allred",250,23,121,106
+Anderson,18-Frankston,"U.S. Senate",,LIB,"Ted Brown",27,0,7,20
+Anderson,18-Frankston,"U.S. Senate",,,"Write-ins",0,0,0,0
+Anderson,18-Frankston,"U.S. House",6,REP,"Jake Ellzey",1316,36,802,478
+Anderson,18-Frankston,"U.S. House",6,DEM,"John Love III",215,20,103,92
+Anderson,18-Frankston,"Railroad Commissioner",,REP,"Christi Craddick",1289,37,791,461
+Anderson,18-Frankston,"Railroad Commissioner",,DEM,"Katherine Culbert",209,18,105,86
+Anderson,18-Frankston,"Railroad Commissioner",,LIB,"Hawk Dunlap",38,0,18,20
+Anderson,18-Frankston,"Railroad Commissioner",,GRN,"Eddie Espinoza",12,1,3,8
+Anderson,18-Frankston,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Anderson,18-Frankston,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1319,37,807,475
+Anderson,18-Frankston,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",221,19,107,95
+Anderson,18-Frankston,"Justice, Supreme Court",Pl 4,REP,"John Devine",1301,34,798,469
+Anderson,18-Frankston,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",237,21,116,100
+Anderson,18-Frankston,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1293,35,797,461
+Anderson,18-Frankston,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",221,19,101,101
+Anderson,18-Frankston,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",22,1,12,9
+Anderson,18-Frankston,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1302,36,798,468
+Anderson,18-Frankston,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",226,17,109,100
+Anderson,18-Frankston,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1301,33,800,468
+Anderson,18-Frankston,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",226,20,105,101
+Anderson,18-Frankston,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1316,37,807,472
+Anderson,18-Frankston,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",213,18,100,95
+Anderson,18-Frankston,"Member, State BoE",10,REP,"Tom Maynard",1306,37,800,469
+Anderson,18-Frankston,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",216,19,98,99
+Anderson,18-Frankston,"State Representative",8,REP,"Cody Harris",1304,37,797,470
+Anderson,18-Frankston,"State Representative",8,DEM,"Carolyn F. Salter",223,19,108,96
+Anderson,18-Frankston,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",1364,40,814,510
+Anderson,18-Frankston,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",1359,40,815,504
+Anderson,18-Frankston,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",1353,40,811,502
+Anderson,18-Frankston,"Sheriff",,REP,"Rudy Flores",1371,43,822,506
+Anderson,18-Frankston,"County Tax Assessor-Collector",,REP,"Tommy Cross",1338,41,797,500
+Anderson,18-Frankston,"County Commissioner",Pct 3,REP,"John B. Wilbanks",1346,41,812,493
+Anderson,18-Frankston,"Constable",Pct 3,REP,"Alan ""Bubba"" Fox",1329,41,799,489
+Anderson,18-Frankston,"Trustee, Place 3 LaPoynor ISD",,,"Mander Clark",24,0,15,9
+Anderson,18-Frankston,"Trustee, Place 3 LaPoynor ISD",,,"Lesley Young",17,0,12,5
+Anderson,18-Frankston,"Trustee, Place 3 LaPoynor ISD",,,"Clayton Hamil",20,0,16,4
+Anderson,18-Frankston,"Trustee, Place 6 LaPoynor ISD",,,"Cornelius ""Rudy"" Hambrick",21,0,16,5
+Anderson,18-Frankston,"Trustee, Place 6 LaPoynor ISD",,,"Bo Walker",48,0,33,15
+Anderson,18-Frankston,"Trustee, Place 7 LaPoynor ISD",,,"Patrick DeBusk",61,0,41,20
+Anderson,19-Westwood Bapt.,"Registered Voters",,,,2342,,,
+Anderson,19-Westwood Bapt.,"Ballots Cast",,,,1370,31,998,341
+Anderson,19-Westwood Bapt.,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,19-Westwood Bapt.,"President",,REP,"Donald J. Trump/JD Vance",1014,19,751,244
+Anderson,19-Westwood Bapt.,"President",,DEM,"Kamala D. Harris/Tim Walz",347,11,242,94
+Anderson,19-Westwood Bapt.,"President",,LIB,"Chase Oliver/Mike ter Maat",5,0,2,3
+Anderson,19-Westwood Bapt.,"President",,GRN,"Jill Stein/Rudolph Ware",2,0,2,0
+Anderson,19-Westwood Bapt.,"President",,,"Write-ins",1,0,1,0
+Anderson,19-Westwood Bapt.,"U.S. Senate",,REP,"Ted Cruz",972,21,727,224
+Anderson,19-Westwood Bapt.,"U.S. Senate",,DEM,"Colin Allred",355,9,248,98
+Anderson,19-Westwood Bapt.,"U.S. Senate",,LIB,"Ted Brown",25,1,14,10
+Anderson,19-Westwood Bapt.,"U.S. Senate",,,"Write-ins",1,0,0,1
+Anderson,19-Westwood Bapt.,"U.S. House",6,REP,"Jake Ellzey",993,19,741,233
+Anderson,19-Westwood Bapt.,"U.S. House",6,DEM,"John Love III",324,10,224,90
+Anderson,19-Westwood Bapt.,"Railroad Commissioner",,REP,"Christi Craddick",970,19,738,213
+Anderson,19-Westwood Bapt.,"Railroad Commissioner",,DEM,"Katherine Culbert",303,10,207,86
+Anderson,19-Westwood Bapt.,"Railroad Commissioner",,LIB,"Hawk Dunlap",28,0,15,13
+Anderson,19-Westwood Bapt.,"Railroad Commissioner",,GRN,"Eddie Espinoza",18,0,10,8
+Anderson,19-Westwood Bapt.,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Anderson,19-Westwood Bapt.,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",996,21,747,228
+Anderson,19-Westwood Bapt.,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",323,7,220,96
+Anderson,19-Westwood Bapt.,"Justice, Supreme Court",Pl 4,REP,"John Devine",992,19,745,228
+Anderson,19-Westwood Bapt.,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",318,10,217,91
+Anderson,19-Westwood Bapt.,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",965,20,731,214
+Anderson,19-Westwood Bapt.,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",312,8,217,87
+Anderson,19-Westwood Bapt.,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",34,0,18,16
+Anderson,19-Westwood Bapt.,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",980,21,737,222
+Anderson,19-Westwood Bapt.,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",333,8,230,95
+Anderson,19-Westwood Bapt.,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",985,20,742,223
+Anderson,19-Westwood Bapt.,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",328,9,221,98
+Anderson,19-Westwood Bapt.,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",995,20,742,233
+Anderson,19-Westwood Bapt.,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",312,9,218,85
+Anderson,19-Westwood Bapt.,"Member, State BoE",10,REP,"Tom Maynard",987,19,744,224
+Anderson,19-Westwood Bapt.,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",319,9,216,94
+Anderson,19-Westwood Bapt.,"State Representative",8,REP,"Cody Harris",984,19,738,227
+Anderson,19-Westwood Bapt.,"State Representative",8,DEM,"Carolyn F. Salter",339,10,230,99
+Anderson,19-Westwood Bapt.,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",1126,20,836,270
+Anderson,19-Westwood Bapt.,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",1153,23,849,281
+Anderson,19-Westwood Bapt.,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",1152,23,848,281
+Anderson,19-Westwood Bapt.,"Sheriff",,REP,"Rudy Flores",1148,23,842,283
+Anderson,19-Westwood Bapt.,"County Tax Assessor-Collector",,REP,"Tommy Cross",1114,23,819,272
+Anderson,19-Westwood Bapt.,"Constable",Pct 4,REP,"James Muniz",1135,22,829,284
+Anderson,20-Freedom Fllwh.,"Registered Voters",,,,1216,,,
+Anderson,20-Freedom Fllwh.,"Ballots Cast",,,,719,23,563,133
+Anderson,20-Freedom Fllwh.,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,20-Freedom Fllwh.,"President",,REP,"Donald J. Trump/JD Vance",539,16,447,76
+Anderson,20-Freedom Fllwh.,"President",,DEM,"Kamala D. Harris/Tim Walz",168,7,105,56
+Anderson,20-Freedom Fllwh.,"President",,LIB,"Chase Oliver/Mike ter Maat",5,0,4,1
+Anderson,20-Freedom Fllwh.,"President",,GRN,"Jill Stein/Rudolph Ware",2,0,2,0
+Anderson,20-Freedom Fllwh.,"President",,,"Write-ins",4,0,4,0
+Anderson,20-Freedom Fllwh.,"U.S. Senate",,REP,"Ted Cruz",520,17,433,70
+Anderson,20-Freedom Fllwh.,"U.S. Senate",,DEM,"Colin Allred",178,6,116,56
+Anderson,20-Freedom Fllwh.,"U.S. Senate",,LIB,"Ted Brown",9,0,6,3
+Anderson,20-Freedom Fllwh.,"U.S. Senate",,,"Write-ins",2,0,2,0
+Anderson,20-Freedom Fllwh.,"U.S. House",6,REP,"Jake Ellzey",544,17,452,75
+Anderson,20-Freedom Fllwh.,"U.S. House",6,DEM,"John Love III",148,6,94,48
+Anderson,20-Freedom Fllwh.,"Railroad Commissioner",,REP,"Christi Craddick",524,17,441,66
+Anderson,20-Freedom Fllwh.,"Railroad Commissioner",,DEM,"Katherine Culbert",140,6,91,43
+Anderson,20-Freedom Fllwh.,"Railroad Commissioner",,LIB,"Hawk Dunlap",16,0,9,7
+Anderson,20-Freedom Fllwh.,"Railroad Commissioner",,GRN,"Eddie Espinoza",10,0,5,5
+Anderson,20-Freedom Fllwh.,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Anderson,20-Freedom Fllwh.,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",538,17,450,71
+Anderson,20-Freedom Fllwh.,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",154,6,99,49
+Anderson,20-Freedom Fllwh.,"Justice, Supreme Court",Pl 4,REP,"John Devine",524,16,439,69
+Anderson,20-Freedom Fllwh.,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",164,7,105,52
+Anderson,20-Freedom Fllwh.,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",520,17,432,71
+Anderson,20-Freedom Fllwh.,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",153,6,98,49
+Anderson,20-Freedom Fllwh.,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",17,0,14,3
+Anderson,20-Freedom Fllwh.,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",531,16,443,72
+Anderson,20-Freedom Fllwh.,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",154,6,101,47
+Anderson,20-Freedom Fllwh.,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",535,17,443,75
+Anderson,20-Freedom Fllwh.,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",153,6,101,46
+Anderson,20-Freedom Fllwh.,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",539,17,445,77
+Anderson,20-Freedom Fllwh.,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",147,6,96,45
+Anderson,20-Freedom Fllwh.,"Member, State BoE",10,REP,"Tom Maynard",525,16,438,71
+Anderson,20-Freedom Fllwh.,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",159,7,103,49
+Anderson,20-Freedom Fllwh.,"State Representative",8,REP,"Cody Harris",527,17,440,70
+Anderson,20-Freedom Fllwh.,"State Representative",8,DEM,"Carolyn F. Salter",172,6,110,56
+Anderson,20-Freedom Fllwh.,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",587,20,471,96
+Anderson,20-Freedom Fllwh.,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",594,20,472,102
+Anderson,20-Freedom Fllwh.,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",588,19,468,101
+Anderson,20-Freedom Fllwh.,"Sheriff",,REP,"Rudy Flores",614,19,490,105
+Anderson,20-Freedom Fllwh.,"County Tax Assessor-Collector",,REP,"Tommy Cross",580,20,466,94
+Anderson,20-Freedom Fllwh.,"Constable",Pct 4,REP,"James Muniz",594,20,475,99
+Anderson,21-Civic Center,"Registered Voters",,,,2004,,,
+Anderson,21-Civic Center,"Ballots Cast",,,,1328,29,1072,227
+Anderson,21-Civic Center,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,21-Civic Center,"President",,REP,"Donald J. Trump/JD Vance",1141,22,922,197
+Anderson,21-Civic Center,"President",,DEM,"Kamala D. Harris/Tim Walz",176,6,145,25
+Anderson,21-Civic Center,"President",,LIB,"Chase Oliver/Mike ter Maat",5,1,0,4
+Anderson,21-Civic Center,"President",,GRN,"Jill Stein/Rudolph Ware",2,0,2,0
+Anderson,21-Civic Center,"President",,,"Write-ins",1,0,1,0
+Anderson,21-Civic Center,"U.S. Senate",,REP,"Ted Cruz",1098,21,893,184
+Anderson,21-Civic Center,"U.S. Senate",,DEM,"Colin Allred",192,6,156,30
+Anderson,21-Civic Center,"U.S. Senate",,LIB,"Ted Brown",21,1,13,7
+Anderson,21-Civic Center,"U.S. Senate",,,"Write-ins",0,0,0,0
+Anderson,21-Civic Center,"U.S. House",6,REP,"Jake Ellzey",1123,22,909,192
+Anderson,21-Civic Center,"U.S. House",6,DEM,"John Love III",162,6,131,25
+Anderson,21-Civic Center,"Railroad Commissioner",,REP,"Christi Craddick",1065,20,875,170
+Anderson,21-Civic Center,"Railroad Commissioner",,DEM,"Katherine Culbert",157,5,128,24
+Anderson,21-Civic Center,"Railroad Commissioner",,LIB,"Hawk Dunlap",45,1,24,20
+Anderson,21-Civic Center,"Railroad Commissioner",,GRN,"Eddie Espinoza",16,0,12,4
+Anderson,21-Civic Center,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Anderson,21-Civic Center,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1123,20,913,190
+Anderson,21-Civic Center,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",163,6,131,26
+Anderson,21-Civic Center,"Justice, Supreme Court",Pl 4,REP,"John Devine",1111,20,900,191
+Anderson,21-Civic Center,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",175,6,143,26
+Anderson,21-Civic Center,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1098,20,898,180
+Anderson,21-Civic Center,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",157,6,126,25
+Anderson,21-Civic Center,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",32,0,18,14
+Anderson,21-Civic Center,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1117,20,907,190
+Anderson,21-Civic Center,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",168,6,134,28
+Anderson,21-Civic Center,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1123,19,909,195
+Anderson,21-Civic Center,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",160,6,131,23
+Anderson,21-Civic Center,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1119,20,907,192
+Anderson,21-Civic Center,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",160,6,131,23
+Anderson,21-Civic Center,"Member, State BoE",10,REP,"Tom Maynard",1117,21,908,188
+Anderson,21-Civic Center,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",168,5,135,28
+Anderson,21-Civic Center,"State Representative",8,REP,"Cody Harris",1127,19,914,194
+Anderson,21-Civic Center,"State Representative",8,DEM,"Carolyn F. Salter",164,7,131,26
+Anderson,21-Civic Center,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",1166,21,945,200
+Anderson,21-Civic Center,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",1171,21,949,201
+Anderson,21-Civic Center,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",1170,22,948,200
+Anderson,21-Civic Center,"Sheriff",,REP,"Rudy Flores",1167,22,946,199
+Anderson,21-Civic Center,"County Tax Assessor-Collector",,REP,"Tommy Cross",1138,21,921,196
+Anderson,21-Civic Center,"Constable",Pct 4,REP,"James Muniz",1130,22,914,194
+Anderson,22-Montalba,"Registered Voters",,,,1094,,,
+Anderson,22-Montalba,"Ballots Cast",,,,790,16,520,254
+Anderson,22-Montalba,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,22-Montalba,"President",,REP,"Donald J. Trump/JD Vance",683,12,442,229
+Anderson,22-Montalba,"President",,DEM,"Kamala D. Harris/Tim Walz",101,4,73,24
+Anderson,22-Montalba,"President",,LIB,"Chase Oliver/Mike ter Maat",3,0,3,0
+Anderson,22-Montalba,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,1,0
+Anderson,22-Montalba,"President",,,"Write-ins",0,0,0,0
+Anderson,22-Montalba,"U.S. Senate",,REP,"Ted Cruz",667,10,434,223
+Anderson,22-Montalba,"U.S. Senate",,DEM,"Colin Allred",107,5,80,22
+Anderson,22-Montalba,"U.S. Senate",,LIB,"Ted Brown",10,0,3,7
+Anderson,22-Montalba,"U.S. Senate",,,"Write-ins",0,0,0,0
+Anderson,22-Montalba,"U.S. House",6,REP,"Jake Ellzey",671,10,435,226
+Anderson,22-Montalba,"U.S. House",6,DEM,"John Love III",98,3,75,20
+Anderson,22-Montalba,"Railroad Commissioner",,REP,"Christi Craddick",646,10,420,216
+Anderson,22-Montalba,"Railroad Commissioner",,DEM,"Katherine Culbert",92,5,71,16
+Anderson,22-Montalba,"Railroad Commissioner",,LIB,"Hawk Dunlap",23,0,13,10
+Anderson,22-Montalba,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,2,1
+Anderson,22-Montalba,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Anderson,22-Montalba,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",671,11,433,227
+Anderson,22-Montalba,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",99,4,78,17
+Anderson,22-Montalba,"Justice, Supreme Court",Pl 4,REP,"John Devine",662,10,426,226
+Anderson,22-Montalba,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",104,5,80,19
+Anderson,22-Montalba,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",655,10,428,217
+Anderson,22-Montalba,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",96,5,72,19
+Anderson,22-Montalba,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",14,0,9,5
+Anderson,22-Montalba,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",658,10,430,218
+Anderson,22-Montalba,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",105,5,80,20
+Anderson,22-Montalba,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",658,10,429,219
+Anderson,22-Montalba,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",103,5,80,18
+Anderson,22-Montalba,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",663,11,434,218
+Anderson,22-Montalba,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",98,4,76,18
+Anderson,22-Montalba,"Member, State BoE",10,REP,"Tom Maynard",658,10,427,221
+Anderson,22-Montalba,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",102,5,78,19
+Anderson,22-Montalba,"State Representative",8,REP,"Cody Harris",670,10,435,225
+Anderson,22-Montalba,"State Representative",8,DEM,"Carolyn F. Salter",100,5,73,22
+Anderson,22-Montalba,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",690,11,451,228
+Anderson,22-Montalba,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",698,10,456,232
+Anderson,22-Montalba,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",697,11,457,229
+Anderson,22-Montalba,"Sheriff",,REP,"Rudy Flores",702,11,461,230
+Anderson,22-Montalba,"County Tax Assessor-Collector",,REP,"Tommy Cross",684,11,447,226
+Anderson,22-Montalba,"Constable",Pct 4,REP,"James Muniz",676,11,442,223
+Anderson,23-Pisgah Bapt.,"Registered Voters",,,,1391,,,
+Anderson,23-Pisgah Bapt.,"Ballots Cast",,,,1015,20,683,312
+Anderson,23-Pisgah Bapt.,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,23-Pisgah Bapt.,"President",,REP,"Donald J. Trump/JD Vance",900,15,602,283
+Anderson,23-Pisgah Bapt.,"President",,DEM,"Kamala D. Harris/Tim Walz",104,5,77,22
+Anderson,23-Pisgah Bapt.,"President",,LIB,"Chase Oliver/Mike ter Maat",3,0,2,1
+Anderson,23-Pisgah Bapt.,"President",,GRN,"Jill Stein/Rudolph Ware",2,0,0,2
+Anderson,23-Pisgah Bapt.,"President",,,"Write-ins",3,0,1,2
+Anderson,23-Pisgah Bapt.,"U.S. Senate",,REP,"Ted Cruz",883,15,589,279
+Anderson,23-Pisgah Bapt.,"U.S. Senate",,DEM,"Colin Allred",119,5,85,29
+Anderson,23-Pisgah Bapt.,"U.S. Senate",,LIB,"Ted Brown",10,0,7,3
+Anderson,23-Pisgah Bapt.,"U.S. Senate",,,"Write-ins",0,0,0,0
+Anderson,23-Pisgah Bapt.,"U.S. House",6,REP,"Jake Ellzey",885,15,592,278
+Anderson,23-Pisgah Bapt.,"U.S. House",6,DEM,"John Love III",97,4,72,21
+Anderson,23-Pisgah Bapt.,"Railroad Commissioner",,REP,"Christi Craddick",873,15,583,275
+Anderson,23-Pisgah Bapt.,"Railroad Commissioner",,DEM,"Katherine Culbert",91,4,67,20
+Anderson,23-Pisgah Bapt.,"Railroad Commissioner",,LIB,"Hawk Dunlap",18,1,14,3
+Anderson,23-Pisgah Bapt.,"Railroad Commissioner",,GRN,"Eddie Espinoza",7,0,5,2
+Anderson,23-Pisgah Bapt.,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Anderson,23-Pisgah Bapt.,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",891,16,600,275
+Anderson,23-Pisgah Bapt.,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",92,4,67,21
+Anderson,23-Pisgah Bapt.,"Justice, Supreme Court",Pl 4,REP,"John Devine",881,15,594,272
+Anderson,23-Pisgah Bapt.,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",100,5,70,25
+Anderson,23-Pisgah Bapt.,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",875,14,584,277
+Anderson,23-Pisgah Bapt.,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",93,5,69,19
+Anderson,23-Pisgah Bapt.,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",15,1,8,6
+Anderson,23-Pisgah Bapt.,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",875,15,584,276
+Anderson,23-Pisgah Bapt.,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",100,5,75,20
+Anderson,23-Pisgah Bapt.,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",886,15,594,277
+Anderson,23-Pisgah Bapt.,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",97,5,69,23
+Anderson,23-Pisgah Bapt.,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",884,15,587,282
+Anderson,23-Pisgah Bapt.,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",94,5,72,17
+Anderson,23-Pisgah Bapt.,"Member, State BoE",10,REP,"Tom Maynard",871,15,585,271
+Anderson,23-Pisgah Bapt.,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",103,5,73,25
+Anderson,23-Pisgah Bapt.,"State Representative",8,REP,"Cody Harris",885,15,591,279
+Anderson,23-Pisgah Bapt.,"State Representative",8,DEM,"Carolyn F. Salter",98,5,68,25
+Anderson,23-Pisgah Bapt.,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",904,14,614,276
+Anderson,23-Pisgah Bapt.,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",898,14,608,276
+Anderson,23-Pisgah Bapt.,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",895,15,608,272
+Anderson,23-Pisgah Bapt.,"Sheriff",,REP,"Rudy Flores",908,13,611,284
+Anderson,23-Pisgah Bapt.,"County Tax Assessor-Collector",,REP,"Tommy Cross",877,12,594,271
+Anderson,23-Pisgah Bapt.,"County Commissioner",Pct 3,REP,"John B. Wilbanks",897,14,608,275
+Anderson,23-Pisgah Bapt.,"Constable",Pct 3,REP,"Alan ""Bubba"" Fox",874,13,590,271
+Anderson,23-Pisgah Bapt.,"Trustee, Place 3 LaPoynor ISD",,,"Mander Clark",60,1,30,29
+Anderson,23-Pisgah Bapt.,"Trustee, Place 3 LaPoynor ISD",,,"Lesley Young",97,0,62,35
+Anderson,23-Pisgah Bapt.,"Trustee, Place 3 LaPoynor ISD",,,"Clayton Hamil",75,1,43,31
+Anderson,23-Pisgah Bapt.,"Trustee, Place 6 LaPoynor ISD",,,"Cornelius ""Rudy"" Hambrick",64,1,30,33
+Anderson,23-Pisgah Bapt.,"Trustee, Place 6 LaPoynor ISD",,,"Bo Walker",166,1,100,65
+Anderson,23-Pisgah Bapt.,"Trustee, Place 7 LaPoynor ISD",,,"Patrick DeBusk",206,2,118,86
+Anderson,24-Cayuga ISD,"Registered Voters",,,,927,,,
+Anderson,24-Cayuga ISD,"Ballots Cast",,,,680,8,472,200
+Anderson,24-Cayuga ISD,"Ballots Cast Blank",,,,0,0,0,0
+Anderson,24-Cayuga ISD,"President",,REP,"Donald J. Trump/JD Vance",628,7,433,188
+Anderson,24-Cayuga ISD,"President",,DEM,"Kamala D. Harris/Tim Walz",44,1,34,9
+Anderson,24-Cayuga ISD,"President",,LIB,"Chase Oliver/Mike ter Maat",2,0,2,0
+Anderson,24-Cayuga ISD,"President",,GRN,"Jill Stein/Rudolph Ware",2,0,1,1
+Anderson,24-Cayuga ISD,"President",,,"Write-ins",1,0,0,1
+Anderson,24-Cayuga ISD,"U.S. Senate",,REP,"Ted Cruz",622,6,430,186
+Anderson,24-Cayuga ISD,"U.S. Senate",,DEM,"Colin Allred",48,1,37,10
+Anderson,24-Cayuga ISD,"U.S. Senate",,LIB,"Ted Brown",6,1,4,1
+Anderson,24-Cayuga ISD,"U.S. Senate",,,"Write-ins",0,0,0,0
+Anderson,24-Cayuga ISD,"U.S. House",6,REP,"Jake Ellzey",620,6,428,186
+Anderson,24-Cayuga ISD,"U.S. House",6,DEM,"John Love III",42,1,32,9
+Anderson,24-Cayuga ISD,"Railroad Commissioner",,REP,"Christi Craddick",608,6,420,182
+Anderson,24-Cayuga ISD,"Railroad Commissioner",,DEM,"Katherine Culbert",37,1,31,5
+Anderson,24-Cayuga ISD,"Railroad Commissioner",,LIB,"Hawk Dunlap",13,0,8,5
+Anderson,24-Cayuga ISD,"Railroad Commissioner",,GRN,"Eddie Espinoza",4,0,0,4
+Anderson,24-Cayuga ISD,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Anderson,24-Cayuga ISD,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",622,6,430,186
+Anderson,24-Cayuga ISD,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",39,1,31,7
+Anderson,24-Cayuga ISD,"Justice, Supreme Court",Pl 4,REP,"John Devine",618,6,427,185
+Anderson,24-Cayuga ISD,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",39,0,31,8
+Anderson,24-Cayuga ISD,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",613,6,424,183
+Anderson,24-Cayuga ISD,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",39,1,31,7
+Anderson,24-Cayuga ISD,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",7,0,3,4
+Anderson,24-Cayuga ISD,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",616,6,426,184
+Anderson,24-Cayuga ISD,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",41,1,31,9
+Anderson,24-Cayuga ISD,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",613,6,425,182
+Anderson,24-Cayuga ISD,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",40,1,31,8
+Anderson,24-Cayuga ISD,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",614,6,425,183
+Anderson,24-Cayuga ISD,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",38,1,28,9
+Anderson,24-Cayuga ISD,"Member, State BoE",10,REP,"Tom Maynard",610,6,423,181
+Anderson,24-Cayuga ISD,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",42,1,31,10
+Anderson,24-Cayuga ISD,"State Representative",8,REP,"Cody Harris",612,6,422,184
+Anderson,24-Cayuga ISD,"State Representative",8,DEM,"Carolyn F. Salter",46,1,36,9
+Anderson,24-Cayuga ISD,"Justice, 12th Ct of App Dist",Pl 3,REP,"Greg Neeley",618,6,426,186
+Anderson,24-Cayuga ISD,"Dist Judge, 3rd Judicial Dist",,REP,"Mark A. Calhoon",617,6,427,184
+Anderson,24-Cayuga ISD,"Dist Judge, 349th Judicial Dist",,REP,"Pam Foster Fletcher",608,6,422,180
+Anderson,24-Cayuga ISD,"Sheriff",,REP,"Rudy Flores",617,6,423,188
+Anderson,24-Cayuga ISD,"County Tax Assessor-Collector",,REP,"Tommy Cross",606,6,421,179
+Anderson,24-Cayuga ISD,"Constable",Pct 4,REP,"James Muniz",595,6,413,176

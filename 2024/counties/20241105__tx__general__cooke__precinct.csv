@@ -1,0 +1,1741 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Cooke,Pct. 1,Registered Voters,,,,417,,,
+Cooke,Pct. 1,Ballots Cast,,,,335,5,287,43
+Cooke,Pct. 1,Ballots Cast Blank,,,,0,0,0,0
+Cooke,Pct. 1,President,,REP,Donald J. Trump/JD Vance,278,4,243,31
+Cooke,Pct. 1,President,,DEM,Kamala D. Harris/Tim Walz,52,1,41,10
+Cooke,Pct. 1,President,,LIB,Chase Oliver/Mike ter Maat,2,0,0,2
+Cooke,Pct. 1,President,,GRN,Jill Stein/Rudolph Ware,2,0,2,0
+Cooke,Pct. 1,President,,,Write-ins,0,0,0,0
+Cooke,Pct. 1,President,,,Over Votes,0,0,0,0
+Cooke,Pct. 1,President,,,Under Votes,1,0,1,0
+Cooke,Pct. 1,U.S. Senate,,REP,Ted Cruz,266,4,236,26
+Cooke,Pct. 1,U.S. Senate,,DEM,Colin Allred,56,1,43,12
+Cooke,Pct. 1,U.S. Senate,,LIB,Ted Brown,5,0,3,2
+Cooke,Pct. 1,U.S. Senate,,,Write-ins,0,0,0,0
+Cooke,Pct. 1,U.S. Senate,,,Over Votes,0,0,0,0
+Cooke,Pct. 1,U.S. Senate,,,Under Votes,8,0,5,3
+Cooke,Pct. 1,U.S. House,26,REP,Brandon Gill,265,3,233,29
+Cooke,Pct. 1,U.S. House,26,DEM,Ernest R. Lineberger III,41,1,32,8
+Cooke,Pct. 1,U.S. House,26,LIB,Phil Gray,5,0,2,3
+Cooke,Pct. 1,U.S. House,26,,Over Votes,0,0,0,0
+Cooke,Pct. 1,U.S. House,26,,Under Votes,24,1,20,3
+Cooke,Pct. 1,Railroad Commissioner,,REP,Christi Craddick,267,4,239,24
+Cooke,Pct. 1,Railroad Commissioner,,DEM,Katherine Culbert,40,1,30,9
+Cooke,Pct. 1,Railroad Commissioner,,LIB,Hawk Dunlap,9,0,5,4
+Cooke,Pct. 1,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,3,1
+Cooke,Pct. 1,Railroad Commissioner,,,Write-ins,0,0,0,0
+Cooke,Pct. 1,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cooke,Pct. 1,Railroad Commissioner,,,Under Votes,15,0,10,5
+Cooke,Pct. 1,"Justice, Supreme Court",Pl 2,REP,Jimmy Blacklock,272,4,238,30
+Cooke,Pct. 1,"Justice, Supreme Court",Pl 2,DEM,DaSean Jones,46,1,35,10
+Cooke,Pct. 1,"Justice, Supreme Court",Pl 2,,Over Votes,0,0,0,0
+Cooke,Pct. 1,"Justice, Supreme Court",Pl 2,,Under Votes,17,0,14,3
+Cooke,Pct. 1,"Justice, Supreme Court",Pl 4,REP,John Devine,272,4,241,27
+Cooke,Pct. 1,"Justice, Supreme Court",Pl 4,DEM,Christine Vinh Weems,44,1,33,10
+Cooke,Pct. 1,"Justice, Supreme Court",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 1,"Justice, Supreme Court",Pl 4,,Under Votes,19,0,13,6
+Cooke,Pct. 1,"Justice, Supreme Court",Pl 6,REP,Jane Bland,268,3,238,27
+Cooke,Pct. 1,"Justice, Supreme Court",Pl 6,DEM,Bonnie Lee Goldstein,41,1,34,6
+Cooke,Pct. 1,"Justice, Supreme Court",Pl 6,LIB,J. David Roberson,7,0,3,4
+Cooke,Pct. 1,"Justice, Supreme Court",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 1,"Justice, Supreme Court",Pl 6,,Under Votes,19,1,12,6
+Cooke,Pct. 1,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,273,4,240,29
+Cooke,Pct. 1,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,43,1,34,8
+Cooke,Pct. 1,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Cooke,Pct. 1,"Presiding Judge, Ct of Crim App",,,Under Votes,19,0,13,6
+Cooke,Pct. 1,"Judge, Ct of Crim App",Pl 7,REP,Gina Parker,272,3,241,28
+Cooke,Pct. 1,"Judge, Ct of Crim App",Pl 7,DEM,Nancy Mulder,42,1,32,9
+Cooke,Pct. 1,"Judge, Ct of Crim App",Pl 7,,Over Votes,0,0,0,0
+Cooke,Pct. 1,"Judge, Ct of Crim App",Pl 7,,Under Votes,21,1,14,6
+Cooke,Pct. 1,"Judge, Ct of Crim App",Pl 8,REP,Lee Finley,276,4,243,29
+Cooke,Pct. 1,"Judge, Ct of Crim App",Pl 8,DEM,Chika Anyiam,38,1,30,7
+Cooke,Pct. 1,"Judge, Ct of Crim App",Pl 8,,Over Votes,0,0,0,0
+Cooke,Pct. 1,"Judge, Ct of Crim App",Pl 8,,Under Votes,21,0,14,7
+Cooke,Pct. 1,"Member, State BoE",12,REP,Pam Little,268,4,234,30
+Cooke,Pct. 1,"Member, State BoE",12,DEM,George King,39,1,31,7
+Cooke,Pct. 1,"Member, State BoE",12,,Over Votes,0,0,0,0
+Cooke,Pct. 1,"Member, State BoE",12,,Under Votes,28,0,22,6
+Cooke,Pct. 1,State Senate,30,REP,Brent Hagenbuch,260,3,228,29
+Cooke,Pct. 1,State Senate,30,DEM,Dale Frey,41,1,33,7
+Cooke,Pct. 1,State Senate,30,,Over Votes,0,0,0,0
+Cooke,Pct. 1,State Senate,30,,Under Votes,34,1,26,7
+Cooke,Pct. 1,State Representative,68,REP,David Spiller,261,4,228,29
+Cooke,Pct. 1,State Representative,68,DEM,Stacey Swann,38,1,29,8
+Cooke,Pct. 1,State Representative,68,,Over Votes,0,0,0,0
+Cooke,Pct. 1,State Representative,68,,Under Votes,36,0,30,6
+Cooke,Pct. 1,"Chief Justice, 2nd Ct of App Dist",,REP,Bonnie Sudderth,266,4,230,32
+Cooke,Pct. 1,"Chief Justice, 2nd Ct of App Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 1,"Chief Justice, 2nd Ct of App Dist",,,Under Votes,69,1,57,11
+Cooke,Pct. 1,"Justice, 2nd Ct of App Dist",Pl 4,REP,Wade Birdwell,264,4,230,30
+Cooke,Pct. 1,"Justice, 2nd Ct of App Dist",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 1,"Justice, 2nd Ct of App Dist",Pl 4,,Under Votes,71,1,57,13
+Cooke,Pct. 1,"Justice, 2nd Ct of App Dist",Pl 5,REP,Dabney Bassel,262,2,230,30
+Cooke,Pct. 1,"Justice, 2nd Ct of App Dist",Pl 5,,Over Votes,0,0,0,0
+Cooke,Pct. 1,"Justice, 2nd Ct of App Dist",Pl 5,,Under Votes,73,3,57,13
+Cooke,Pct. 1,"Justice, 2nd Ct of App Dist",Pl 6,REP,Mike Wallach,262,4,228,30
+Cooke,Pct. 1,"Justice, 2nd Ct of App Dist",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 1,"Justice, 2nd Ct of App Dist",Pl 6,,Under Votes,73,1,59,13
+Cooke,Pct. 1,"Dist Judge, 235th Judicial Dist",,REP,Janelle M. Haverkamp,261,4,227,30
+Cooke,Pct. 1,"Dist Judge, 235th Judicial Dist",,DEM,Emmanuel Albarado,34,1,28,5
+Cooke,Pct. 1,"Dist Judge, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 1,"Dist Judge, 235th Judicial Dist",,,Under Votes,40,0,32,8
+Cooke,Pct. 1,"Dist Attorney, 235th Judicial Dist",,REP,John Warren,263,4,228,31
+Cooke,Pct. 1,"Dist Attorney, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 1,"Dist Attorney, 235th Judicial Dist",,,Under Votes,72,1,59,12
+Cooke,Pct. 1,County Attorney,,REP,Ed Zielinski,267,4,232,31
+Cooke,Pct. 1,County Attorney,,,Over Votes,0,0,0,0
+Cooke,Pct. 1,County Attorney,,,Under Votes,68,1,55,12
+Cooke,Pct. 1,Sheriff,,REP,Ray Sappington,269,5,232,32
+Cooke,Pct. 1,Sheriff,,,Over Votes,0,0,0,0
+Cooke,Pct. 1,Sheriff,,,Under Votes,66,0,55,11
+Cooke,Pct. 1,County Tax Assessor-Collector,,REP,Brandy Ann Carr,268,4,232,32
+Cooke,Pct. 1,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cooke,Pct. 1,County Tax Assessor-Collector,,,Under Votes,67,1,55,11
+Cooke,Pct. 1,County Treasurer - Unexpired Term,,REP,Susan Wells,258,4,224,30
+Cooke,Pct. 1,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Cooke,Pct. 1,County Treasurer - Unexpired Term,,,Under Votes,77,1,63,13
+Cooke,Pct. 1,County Commissioner,Pct 3,REP,Adam Paul Arendt,265,4,230,31
+Cooke,Pct. 1,County Commissioner,Pct 3,,Over Votes,0,0,0,0
+Cooke,Pct. 1,County Commissioner,Pct 3,,Under Votes,70,1,57,12
+Cooke,Pct. 1,Constable,Pct 2,REP,Chuck Owen,261,4,228,29
+Cooke,Pct. 1,Constable,Pct 2,,Over Votes,0,0,0,0
+Cooke,Pct. 1,Constable,Pct 2,,Under Votes,74,1,59,14
+Cooke,Pct. 1C,Registered Voters,,,,4217,,,
+Cooke,Pct. 1C,Ballots Cast,,,,2420,126,1867,427
+Cooke,Pct. 1C,Ballots Cast Blank,,,,0,0,0,0
+Cooke,Pct. 1C,President,,REP,Donald J. Trump/JD Vance,1736,73,1394,269
+Cooke,Pct. 1C,President,,DEM,Kamala D. Harris/Tim Walz,634,52,443,139
+Cooke,Pct. 1C,President,,LIB,Chase Oliver/Mike ter Maat,23,0,15,8
+Cooke,Pct. 1C,President,,GRN,Jill Stein/Rudolph Ware,10,0,7,3
+Cooke,Pct. 1C,President,,,Write-ins,6,0,3,3
+Cooke,Pct. 1C,President,,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,President,,,Under Votes,11,1,5,5
+Cooke,Pct. 1C,U.S. Senate,,REP,Ted Cruz,1620,67,1321,232
+Cooke,Pct. 1C,U.S. Senate,,DEM,Colin Allred,693,54,488,151
+Cooke,Pct. 1C,U.S. Senate,,LIB,Ted Brown,71,4,39,28
+Cooke,Pct. 1C,U.S. Senate,,,Write-ins,1,0,1,0
+Cooke,Pct. 1C,U.S. Senate,,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,U.S. Senate,,,Under Votes,35,1,18,16
+Cooke,Pct. 1C,U.S. House,26,REP,Brandon Gill,1714,72,1377,265
+Cooke,Pct. 1C,U.S. House,26,DEM,Ernest R. Lineberger III,539,47,382,110
+Cooke,Pct. 1C,U.S. House,26,LIB,Phil Gray,65,1,44,20
+Cooke,Pct. 1C,U.S. House,26,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,U.S. House,26,,Under Votes,102,6,64,32
+Cooke,Pct. 1C,Railroad Commissioner,,REP,Christi Craddick,1662,69,1344,249
+Cooke,Pct. 1C,Railroad Commissioner,,DEM,Katherine Culbert,501,36,361,104
+Cooke,Pct. 1C,Railroad Commissioner,,LIB,Hawk Dunlap,80,2,58,20
+Cooke,Pct. 1C,Railroad Commissioner,,GRN,Eddie Espinoza,42,3,22,17
+Cooke,Pct. 1C,Railroad Commissioner,,,Write-ins,1,0,0,1
+Cooke,Pct. 1C,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,Railroad Commissioner,,,Under Votes,134,16,82,36
+Cooke,Pct. 1C,"Justice, Supreme Court",Pl 2,REP,Jimmy Blacklock,1717,70,1381,266
+Cooke,Pct. 1C,"Justice, Supreme Court",Pl 2,DEM,DaSean Jones,560,41,396,123
+Cooke,Pct. 1C,"Justice, Supreme Court",Pl 2,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,"Justice, Supreme Court",Pl 2,,Under Votes,143,15,90,38
+Cooke,Pct. 1C,"Justice, Supreme Court",Pl 4,REP,John Devine,1689,68,1357,264
+Cooke,Pct. 1C,"Justice, Supreme Court",Pl 4,DEM,Christine Vinh Weems,584,41,418,125
+Cooke,Pct. 1C,"Justice, Supreme Court",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,"Justice, Supreme Court",Pl 4,,Under Votes,147,17,92,38
+Cooke,Pct. 1C,"Justice, Supreme Court",Pl 6,REP,Jane Bland,1649,69,1333,247
+Cooke,Pct. 1C,"Justice, Supreme Court",Pl 6,DEM,Bonnie Lee Goldstein,531,38,382,111
+Cooke,Pct. 1C,"Justice, Supreme Court",Pl 6,LIB,J. David Roberson,91,4,59,28
+Cooke,Pct. 1C,"Justice, Supreme Court",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,"Justice, Supreme Court",Pl 6,,Under Votes,149,15,93,41
+Cooke,Pct. 1C,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1709,71,1380,258
+Cooke,Pct. 1C,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,563,40,396,127
+Cooke,Pct. 1C,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,"Presiding Judge, Ct of Crim App",,,Under Votes,148,15,91,42
+Cooke,Pct. 1C,"Judge, Ct of Crim App",Pl 7,REP,Gina Parker,1697,68,1365,264
+Cooke,Pct. 1C,"Judge, Ct of Crim App",Pl 7,DEM,Nancy Mulder,564,40,405,119
+Cooke,Pct. 1C,"Judge, Ct of Crim App",Pl 7,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,"Judge, Ct of Crim App",Pl 7,,Under Votes,159,18,97,44
+Cooke,Pct. 1C,"Judge, Ct of Crim App",Pl 8,REP,Lee Finley,1709,69,1377,263
+Cooke,Pct. 1C,"Judge, Ct of Crim App",Pl 8,DEM,Chika Anyiam,547,41,385,121
+Cooke,Pct. 1C,"Judge, Ct of Crim App",Pl 8,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,"Judge, Ct of Crim App",Pl 8,,Under Votes,164,16,105,43
+Cooke,Pct. 1C,"Member, State BoE",12,REP,Pam Little,1709,72,1371,266
+Cooke,Pct. 1C,"Member, State BoE",12,DEM,George King,552,38,396,118
+Cooke,Pct. 1C,"Member, State BoE",12,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,"Member, State BoE",12,,Under Votes,159,16,100,43
+Cooke,Pct. 1C,State Senate,30,REP,Brent Hagenbuch,1708,71,1377,260
+Cooke,Pct. 1C,State Senate,30,DEM,Dale Frey,566,41,402,123
+Cooke,Pct. 1C,State Senate,30,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,State Senate,30,,Under Votes,146,14,88,44
+Cooke,Pct. 1C,State Representative,68,REP,David Spiller,1721,72,1385,264
+Cooke,Pct. 1C,State Representative,68,DEM,Stacey Swann,558,42,396,120
+Cooke,Pct. 1C,State Representative,68,,Over Votes,1,0,0,1
+Cooke,Pct. 1C,State Representative,68,,Under Votes,140,12,86,42
+Cooke,Pct. 1C,"Chief Justice, 2nd Ct of App Dist",,REP,Bonnie Sudderth,1909,77,1517,315
+Cooke,Pct. 1C,"Chief Justice, 2nd Ct of App Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,"Chief Justice, 2nd Ct of App Dist",,,Under Votes,511,49,350,112
+Cooke,Pct. 1C,"Justice, 2nd Ct of App Dist",Pl 4,REP,Wade Birdwell,1883,76,1495,312
+Cooke,Pct. 1C,"Justice, 2nd Ct of App Dist",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,"Justice, 2nd Ct of App Dist",Pl 4,,Under Votes,537,50,372,115
+Cooke,Pct. 1C,"Justice, 2nd Ct of App Dist",Pl 5,REP,Dabney Bassel,1853,76,1470,307
+Cooke,Pct. 1C,"Justice, 2nd Ct of App Dist",Pl 5,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,"Justice, 2nd Ct of App Dist",Pl 5,,Under Votes,567,50,397,120
+Cooke,Pct. 1C,"Justice, 2nd Ct of App Dist",Pl 6,REP,Mike Wallach,1865,74,1485,306
+Cooke,Pct. 1C,"Justice, 2nd Ct of App Dist",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,"Justice, 2nd Ct of App Dist",Pl 6,,Under Votes,555,52,382,121
+Cooke,Pct. 1C,"Dist Judge, 235th Judicial Dist",,REP,Janelle M. Haverkamp,1712,74,1367,271
+Cooke,Pct. 1C,"Dist Judge, 235th Judicial Dist",,DEM,Emmanuel Albarado,537,40,374,123
+Cooke,Pct. 1C,"Dist Judge, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,"Dist Judge, 235th Judicial Dist",,,Under Votes,171,12,126,33
+Cooke,Pct. 1C,"Dist Attorney, 235th Judicial Dist",,REP,John Warren,1896,77,1510,309
+Cooke,Pct. 1C,"Dist Attorney, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,"Dist Attorney, 235th Judicial Dist",,,Under Votes,524,49,357,118
+Cooke,Pct. 1C,County Attorney,,REP,Ed Zielinski,1892,78,1502,312
+Cooke,Pct. 1C,County Attorney,,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,County Attorney,,,Under Votes,528,48,365,115
+Cooke,Pct. 1C,Sheriff,,REP,Ray Sappington,1919,80,1531,308
+Cooke,Pct. 1C,Sheriff,,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,Sheriff,,,Under Votes,501,46,336,119
+Cooke,Pct. 1C,County Tax Assessor-Collector,,REP,Brandy Ann Carr,1931,79,1530,322
+Cooke,Pct. 1C,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,County Tax Assessor-Collector,,,Under Votes,489,47,337,105
+Cooke,Pct. 1C,County Treasurer - Unexpired Term,,REP,Susan Wells,1889,78,1497,314
+Cooke,Pct. 1C,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,County Treasurer - Unexpired Term,,,Under Votes,531,48,370,113
+Cooke,Pct. 1C,County Commissioner,Pct 3,REP,Adam Paul Arendt,1892,79,1503,310
+Cooke,Pct. 1C,County Commissioner,Pct 3,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,County Commissioner,Pct 3,,Under Votes,528,47,364,117
+Cooke,Pct. 1C,Constable,Pct 2,REP,Chuck Owen,1876,77,1490,309
+Cooke,Pct. 1C,Constable,Pct 2,,Over Votes,0,0,0,0
+Cooke,Pct. 1C,Constable,Pct 2,,Under Votes,544,49,377,118
+Cooke,Pct. 2,Registered Voters,,,,2609,,,
+Cooke,Pct. 2,Ballots Cast,,,,1175,49,791,335
+Cooke,Pct. 2,Ballots Cast Blank,,,,0,0,0,0
+Cooke,Pct. 2,President,,REP,Donald J. Trump/JD Vance,790,32,544,214
+Cooke,Pct. 2,President,,DEM,Kamala D. Harris/Tim Walz,368,16,234,118
+Cooke,Pct. 2,President,,LIB,Chase Oliver/Mike ter Maat,9,1,6,2
+Cooke,Pct. 2,President,,GRN,Jill Stein/Rudolph Ware,3,0,3,0
+Cooke,Pct. 2,President,,,Write-ins,4,0,4,0
+Cooke,Pct. 2,President,,,Over Votes,0,0,0,0
+Cooke,Pct. 2,President,,,Under Votes,1,0,0,1
+Cooke,Pct. 2,U.S. Senate,,REP,Ted Cruz,715,28,505,182
+Cooke,Pct. 2,U.S. Senate,,DEM,Colin Allred,390,19,251,120
+Cooke,Pct. 2,U.S. Senate,,LIB,Ted Brown,42,1,22,19
+Cooke,Pct. 2,U.S. Senate,,,Write-ins,0,0,0,0
+Cooke,Pct. 2,U.S. Senate,,,Over Votes,0,0,0,0
+Cooke,Pct. 2,U.S. Senate,,,Under Votes,28,1,13,14
+Cooke,Pct. 2,U.S. House,26,REP,Brandon Gill,742,29,520,193
+Cooke,Pct. 2,U.S. House,26,DEM,Ernest R. Lineberger III,329,18,205,106
+Cooke,Pct. 2,U.S. House,26,LIB,Phil Gray,39,0,26,13
+Cooke,Pct. 2,U.S. House,26,,Over Votes,0,0,0,0
+Cooke,Pct. 2,U.S. House,26,,Under Votes,65,2,40,23
+Cooke,Pct. 2,Railroad Commissioner,,REP,Christi Craddick,713,29,504,180
+Cooke,Pct. 2,Railroad Commissioner,,DEM,Katherine Culbert,325,15,202,108
+Cooke,Pct. 2,Railroad Commissioner,,LIB,Hawk Dunlap,33,0,21,12
+Cooke,Pct. 2,Railroad Commissioner,,GRN,Eddie Espinoza,34,1,23,10
+Cooke,Pct. 2,Railroad Commissioner,,,Write-ins,1,0,0,1
+Cooke,Pct. 2,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cooke,Pct. 2,Railroad Commissioner,,,Under Votes,69,4,41,24
+Cooke,Pct. 2,"Justice, Supreme Court",Pl 2,REP,Jimmy Blacklock,755,29,526,200
+Cooke,Pct. 2,"Justice, Supreme Court",Pl 2,DEM,DaSean Jones,340,16,217,107
+Cooke,Pct. 2,"Justice, Supreme Court",Pl 2,,Over Votes,0,0,0,0
+Cooke,Pct. 2,"Justice, Supreme Court",Pl 2,,Under Votes,80,4,48,28
+Cooke,Pct. 2,"Justice, Supreme Court",Pl 4,REP,John Devine,732,26,512,194
+Cooke,Pct. 2,"Justice, Supreme Court",Pl 4,DEM,Christine Vinh Weems,367,17,236,114
+Cooke,Pct. 2,"Justice, Supreme Court",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 2,"Justice, Supreme Court",Pl 4,,Under Votes,76,6,43,27
+Cooke,Pct. 2,"Justice, Supreme Court",Pl 6,REP,Jane Bland,714,27,506,181
+Cooke,Pct. 2,"Justice, Supreme Court",Pl 6,DEM,Bonnie Lee Goldstein,347,16,222,109
+Cooke,Pct. 2,"Justice, Supreme Court",Pl 6,LIB,J. David Roberson,37,0,20,17
+Cooke,Pct. 2,"Justice, Supreme Court",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 2,"Justice, Supreme Court",Pl 6,,Under Votes,77,6,43,28
+Cooke,Pct. 2,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,730,25,517,188
+Cooke,Pct. 2,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,361,17,227,117
+Cooke,Pct. 2,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Cooke,Pct. 2,"Presiding Judge, Ct of Crim App",,,Under Votes,84,7,47,30
+Cooke,Pct. 2,"Judge, Ct of Crim App",Pl 7,REP,Gina Parker,733,26,520,187
+Cooke,Pct. 2,"Judge, Ct of Crim App",Pl 7,DEM,Nancy Mulder,351,17,218,116
+Cooke,Pct. 2,"Judge, Ct of Crim App",Pl 7,,Over Votes,0,0,0,0
+Cooke,Pct. 2,"Judge, Ct of Crim App",Pl 7,,Under Votes,91,6,53,32
+Cooke,Pct. 2,"Judge, Ct of Crim App",Pl 8,REP,Lee Finley,754,28,530,196
+Cooke,Pct. 2,"Judge, Ct of Crim App",Pl 8,DEM,Chika Anyiam,335,15,213,107
+Cooke,Pct. 2,"Judge, Ct of Crim App",Pl 8,,Over Votes,0,0,0,0
+Cooke,Pct. 2,"Judge, Ct of Crim App",Pl 8,,Under Votes,86,6,48,32
+Cooke,Pct. 2,"Member, State BoE",12,REP,Pam Little,743,29,527,187
+Cooke,Pct. 2,"Member, State BoE",12,DEM,George King,349,14,218,117
+Cooke,Pct. 2,"Member, State BoE",12,,Over Votes,0,0,0,0
+Cooke,Pct. 2,"Member, State BoE",12,,Under Votes,83,6,46,31
+Cooke,Pct. 2,State Senate,30,REP,Brent Hagenbuch,739,28,516,195
+Cooke,Pct. 2,State Senate,30,DEM,Dale Frey,350,16,223,111
+Cooke,Pct. 2,State Senate,30,,Over Votes,0,0,0,0
+Cooke,Pct. 2,State Senate,30,,Under Votes,86,5,52,29
+Cooke,Pct. 2,State Representative,68,REP,David Spiller,744,29,516,199
+Cooke,Pct. 2,State Representative,68,DEM,Stacey Swann,349,15,226,108
+Cooke,Pct. 2,State Representative,68,,Over Votes,0,0,0,0
+Cooke,Pct. 2,State Representative,68,,Under Votes,82,5,49,28
+Cooke,Pct. 2,"Chief Justice, 2nd Ct of App Dist",,REP,Bonnie Sudderth,877,28,594,255
+Cooke,Pct. 2,"Chief Justice, 2nd Ct of App Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 2,"Chief Justice, 2nd Ct of App Dist",,,Under Votes,298,21,197,80
+Cooke,Pct. 2,"Justice, 2nd Ct of App Dist",Pl 4,REP,Wade Birdwell,861,28,588,245
+Cooke,Pct. 2,"Justice, 2nd Ct of App Dist",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 2,"Justice, 2nd Ct of App Dist",Pl 4,,Under Votes,314,21,203,90
+Cooke,Pct. 2,"Justice, 2nd Ct of App Dist",Pl 5,REP,Dabney Bassel,846,28,577,241
+Cooke,Pct. 2,"Justice, 2nd Ct of App Dist",Pl 5,,Over Votes,0,0,0,0
+Cooke,Pct. 2,"Justice, 2nd Ct of App Dist",Pl 5,,Under Votes,329,21,214,94
+Cooke,Pct. 2,"Justice, 2nd Ct of App Dist",Pl 6,REP,Mike Wallach,862,28,586,248
+Cooke,Pct. 2,"Justice, 2nd Ct of App Dist",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 2,"Justice, 2nd Ct of App Dist",Pl 6,,Under Votes,313,21,205,87
+Cooke,Pct. 2,"Dist Judge, 235th Judicial Dist",,REP,Janelle M. Haverkamp,732,27,519,186
+Cooke,Pct. 2,"Dist Judge, 235th Judicial Dist",,DEM,Emmanuel Albarado,352,15,220,117
+Cooke,Pct. 2,"Dist Judge, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 2,"Dist Judge, 235th Judicial Dist",,,Under Votes,91,7,52,32
+Cooke,Pct. 2,"Dist Attorney, 235th Judicial Dist",,REP,John Warren,864,29,588,247
+Cooke,Pct. 2,"Dist Attorney, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 2,"Dist Attorney, 235th Judicial Dist",,,Under Votes,311,20,203,88
+Cooke,Pct. 2,County Attorney,,REP,Ed Zielinski,870,31,588,251
+Cooke,Pct. 2,County Attorney,,,Over Votes,0,0,0,0
+Cooke,Pct. 2,County Attorney,,,Under Votes,305,18,203,84
+Cooke,Pct. 2,Sheriff,,REP,Ray Sappington,874,29,597,248
+Cooke,Pct. 2,Sheriff,,,Over Votes,0,0,0,0
+Cooke,Pct. 2,Sheriff,,,Under Votes,301,20,194,87
+Cooke,Pct. 2,County Tax Assessor-Collector,,REP,Brandy Ann Carr,883,31,603,249
+Cooke,Pct. 2,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cooke,Pct. 2,County Tax Assessor-Collector,,,Under Votes,292,18,188,86
+Cooke,Pct. 2,County Treasurer - Unexpired Term,,REP,Susan Wells,859,27,587,245
+Cooke,Pct. 2,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Cooke,Pct. 2,County Treasurer - Unexpired Term,,,Under Votes,316,22,204,90
+Cooke,Pct. 2,Constable,Pct 1,REP,Mark Westbrook,868,29,594,245
+Cooke,Pct. 2,Constable,Pct 1,,Over Votes,0,0,0,0
+Cooke,Pct. 2,Constable,Pct 1,,Under Votes,307,20,197,90
+Cooke,Pct. 3,Registered Voters,,,,709,,,
+Cooke,Pct. 3,Ballots Cast,,,,538,17,402,119
+Cooke,Pct. 3,Ballots Cast Blank,,,,0,0,0,0
+Cooke,Pct. 3,President,,REP,Donald J. Trump/JD Vance,472,14,354,104
+Cooke,Pct. 3,President,,DEM,Kamala D. Harris/Tim Walz,65,3,47,15
+Cooke,Pct. 3,President,,LIB,Chase Oliver/Mike ter Maat,1,0,1,0
+Cooke,Pct. 3,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Cooke,Pct. 3,President,,,Write-ins,0,0,0,0
+Cooke,Pct. 3,President,,,Over Votes,0,0,0,0
+Cooke,Pct. 3,President,,,Under Votes,0,0,0,0
+Cooke,Pct. 3,U.S. Senate,,REP,Ted Cruz,458,14,345,99
+Cooke,Pct. 3,U.S. Senate,,DEM,Colin Allred,68,3,49,16
+Cooke,Pct. 3,U.S. Senate,,LIB,Ted Brown,7,0,4,3
+Cooke,Pct. 3,U.S. Senate,,,Write-ins,0,0,0,0
+Cooke,Pct. 3,U.S. Senate,,,Over Votes,0,0,0,0
+Cooke,Pct. 3,U.S. Senate,,,Under Votes,5,0,4,1
+Cooke,Pct. 3,U.S. House,26,REP,Brandon Gill,463,14,346,103
+Cooke,Pct. 3,U.S. House,26,DEM,Ernest R. Lineberger III,53,3,39,11
+Cooke,Pct. 3,U.S. House,26,LIB,Phil Gray,4,0,3,1
+Cooke,Pct. 3,U.S. House,26,,Over Votes,0,0,0,0
+Cooke,Pct. 3,U.S. House,26,,Under Votes,18,0,14,4
+Cooke,Pct. 3,Railroad Commissioner,,REP,Christi Craddick,458,14,344,100
+Cooke,Pct. 3,Railroad Commissioner,,DEM,Katherine Culbert,50,2,38,10
+Cooke,Pct. 3,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,5,3
+Cooke,Pct. 3,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,1,2
+Cooke,Pct. 3,Railroad Commissioner,,,Write-ins,0,0,0,0
+Cooke,Pct. 3,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cooke,Pct. 3,Railroad Commissioner,,,Under Votes,19,1,14,4
+Cooke,Pct. 3,"Justice, Supreme Court",Pl 2,REP,Jimmy Blacklock,467,14,350,103
+Cooke,Pct. 3,"Justice, Supreme Court",Pl 2,DEM,DaSean Jones,53,2,40,11
+Cooke,Pct. 3,"Justice, Supreme Court",Pl 2,,Over Votes,0,0,0,0
+Cooke,Pct. 3,"Justice, Supreme Court",Pl 2,,Under Votes,18,1,12,5
+Cooke,Pct. 3,"Justice, Supreme Court",Pl 4,REP,John Devine,461,14,346,101
+Cooke,Pct. 3,"Justice, Supreme Court",Pl 4,DEM,Christine Vinh Weems,54,2,40,12
+Cooke,Pct. 3,"Justice, Supreme Court",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 3,"Justice, Supreme Court",Pl 4,,Under Votes,23,1,16,6
+Cooke,Pct. 3,"Justice, Supreme Court",Pl 6,REP,Jane Bland,460,14,346,100
+Cooke,Pct. 3,"Justice, Supreme Court",Pl 6,DEM,Bonnie Lee Goldstein,51,2,38,11
+Cooke,Pct. 3,"Justice, Supreme Court",Pl 6,LIB,J. David Roberson,3,0,1,2
+Cooke,Pct. 3,"Justice, Supreme Court",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 3,"Justice, Supreme Court",Pl 6,,Under Votes,24,1,17,6
+Cooke,Pct. 3,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,461,14,347,100
+Cooke,Pct. 3,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,53,2,38,13
+Cooke,Pct. 3,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Cooke,Pct. 3,"Presiding Judge, Ct of Crim App",,,Under Votes,24,1,17,6
+Cooke,Pct. 3,"Judge, Ct of Crim App",Pl 7,REP,Gina Parker,462,14,347,101
+Cooke,Pct. 3,"Judge, Ct of Crim App",Pl 7,DEM,Nancy Mulder,51,2,37,12
+Cooke,Pct. 3,"Judge, Ct of Crim App",Pl 7,,Over Votes,0,0,0,0
+Cooke,Pct. 3,"Judge, Ct of Crim App",Pl 7,,Under Votes,25,1,18,6
+Cooke,Pct. 3,"Judge, Ct of Crim App",Pl 8,REP,Lee Finley,464,14,349,101
+Cooke,Pct. 3,"Judge, Ct of Crim App",Pl 8,DEM,Chika Anyiam,49,2,35,12
+Cooke,Pct. 3,"Judge, Ct of Crim App",Pl 8,,Over Votes,0,0,0,0
+Cooke,Pct. 3,"Judge, Ct of Crim App",Pl 8,,Under Votes,25,1,18,6
+Cooke,Pct. 3,"Member, State BoE",12,REP,Pam Little,460,14,345,101
+Cooke,Pct. 3,"Member, State BoE",12,DEM,George King,52,2,37,13
+Cooke,Pct. 3,"Member, State BoE",12,,Over Votes,0,0,0,0
+Cooke,Pct. 3,"Member, State BoE",12,,Under Votes,26,1,20,5
+Cooke,Pct. 3,State Senate,30,REP,Brent Hagenbuch,453,13,340,100
+Cooke,Pct. 3,State Senate,30,DEM,Dale Frey,57,2,43,12
+Cooke,Pct. 3,State Senate,30,,Over Votes,0,0,0,0
+Cooke,Pct. 3,State Senate,30,,Under Votes,28,2,19,7
+Cooke,Pct. 3,State Representative,68,REP,David Spiller,463,14,346,103
+Cooke,Pct. 3,State Representative,68,DEM,Stacey Swann,52,2,40,10
+Cooke,Pct. 3,State Representative,68,,Over Votes,0,0,0,0
+Cooke,Pct. 3,State Representative,68,,Under Votes,23,1,16,6
+Cooke,Pct. 3,"Chief Justice, 2nd Ct of App Dist",,REP,Bonnie Sudderth,480,14,361,105
+Cooke,Pct. 3,"Chief Justice, 2nd Ct of App Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 3,"Chief Justice, 2nd Ct of App Dist",,,Under Votes,58,3,41,14
+Cooke,Pct. 3,"Justice, 2nd Ct of App Dist",Pl 4,REP,Wade Birdwell,471,13,356,102
+Cooke,Pct. 3,"Justice, 2nd Ct of App Dist",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 3,"Justice, 2nd Ct of App Dist",Pl 4,,Under Votes,67,4,46,17
+Cooke,Pct. 3,"Justice, 2nd Ct of App Dist",Pl 5,REP,Dabney Bassel,470,13,357,100
+Cooke,Pct. 3,"Justice, 2nd Ct of App Dist",Pl 5,,Over Votes,0,0,0,0
+Cooke,Pct. 3,"Justice, 2nd Ct of App Dist",Pl 5,,Under Votes,68,4,45,19
+Cooke,Pct. 3,"Justice, 2nd Ct of App Dist",Pl 6,REP,Mike Wallach,471,14,355,102
+Cooke,Pct. 3,"Justice, 2nd Ct of App Dist",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 3,"Justice, 2nd Ct of App Dist",Pl 6,,Under Votes,67,3,47,17
+Cooke,Pct. 3,"Dist Judge, 235th Judicial Dist",,REP,Janelle M. Haverkamp,464,15,348,101
+Cooke,Pct. 3,"Dist Judge, 235th Judicial Dist",,DEM,Emmanuel Albarado,57,0,42,15
+Cooke,Pct. 3,"Dist Judge, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 3,"Dist Judge, 235th Judicial Dist",,,Under Votes,17,2,12,3
+Cooke,Pct. 3,"Dist Attorney, 235th Judicial Dist",,REP,John Warren,471,14,357,100
+Cooke,Pct. 3,"Dist Attorney, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 3,"Dist Attorney, 235th Judicial Dist",,,Under Votes,67,3,45,19
+Cooke,Pct. 3,County Attorney,,REP,Ed Zielinski,468,15,352,101
+Cooke,Pct. 3,County Attorney,,,Over Votes,0,0,0,0
+Cooke,Pct. 3,County Attorney,,,Under Votes,70,2,50,18
+Cooke,Pct. 3,Sheriff,,REP,Ray Sappington,476,14,359,103
+Cooke,Pct. 3,Sheriff,,,Over Votes,0,0,0,0
+Cooke,Pct. 3,Sheriff,,,Under Votes,62,3,43,16
+Cooke,Pct. 3,County Tax Assessor-Collector,,REP,Brandy Ann Carr,483,15,363,105
+Cooke,Pct. 3,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cooke,Pct. 3,County Tax Assessor-Collector,,,Under Votes,55,2,39,14
+Cooke,Pct. 3,County Treasurer - Unexpired Term,,REP,Susan Wells,477,15,358,104
+Cooke,Pct. 3,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Cooke,Pct. 3,County Treasurer - Unexpired Term,,,Under Votes,61,2,44,15
+Cooke,Pct. 3,County Commissioner,Pct 3,REP,Adam Paul Arendt,458,12,345,101
+Cooke,Pct. 3,County Commissioner,Pct 3,,Over Votes,0,0,0,0
+Cooke,Pct. 3,County Commissioner,Pct 3,,Under Votes,80,5,57,18
+Cooke,Pct. 3,Constable,Pct 2,REP,Chuck Owen,469,14,354,101
+Cooke,Pct. 3,Constable,Pct 2,,Over Votes,0,0,0,0
+Cooke,Pct. 3,Constable,Pct 2,,Under Votes,69,3,48,18
+Cooke,Pct. 4,Registered Voters,,,,371,,,
+Cooke,Pct. 4,Ballots Cast,,,,252,10,204,38
+Cooke,Pct. 4,Ballots Cast Blank,,,,0,0,0,0
+Cooke,Pct. 4,President,,REP,Donald J. Trump/JD Vance,209,5,168,36
+Cooke,Pct. 4,President,,DEM,Kamala D. Harris/Tim Walz,39,5,32,2
+Cooke,Pct. 4,President,,LIB,Chase Oliver/Mike ter Maat,1,0,1,0
+Cooke,Pct. 4,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Cooke,Pct. 4,President,,,Write-ins,2,0,2,0
+Cooke,Pct. 4,President,,,Over Votes,0,0,0,0
+Cooke,Pct. 4,President,,,Under Votes,1,0,1,0
+Cooke,Pct. 4,U.S. Senate,,REP,Ted Cruz,201,5,164,32
+Cooke,Pct. 4,U.S. Senate,,DEM,Colin Allred,45,5,35,5
+Cooke,Pct. 4,U.S. Senate,,LIB,Ted Brown,2,0,1,1
+Cooke,Pct. 4,U.S. Senate,,,Write-ins,0,0,0,0
+Cooke,Pct. 4,U.S. Senate,,,Over Votes,0,0,0,0
+Cooke,Pct. 4,U.S. Senate,,,Under Votes,4,0,4,0
+Cooke,Pct. 4,U.S. House,26,REP,Brandon Gill,206,5,164,37
+Cooke,Pct. 4,U.S. House,26,DEM,Ernest R. Lineberger III,34,5,28,1
+Cooke,Pct. 4,U.S. House,26,LIB,Phil Gray,3,0,3,0
+Cooke,Pct. 4,U.S. House,26,,Over Votes,0,0,0,0
+Cooke,Pct. 4,U.S. House,26,,Under Votes,9,0,9,0
+Cooke,Pct. 4,Railroad Commissioner,,REP,Christi Craddick,206,5,167,34
+Cooke,Pct. 4,Railroad Commissioner,,DEM,Katherine Culbert,33,5,27,1
+Cooke,Pct. 4,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,3,2
+Cooke,Pct. 4,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Cooke,Pct. 4,Railroad Commissioner,,,Write-ins,0,0,0,0
+Cooke,Pct. 4,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cooke,Pct. 4,Railroad Commissioner,,,Under Votes,7,0,6,1
+Cooke,Pct. 4,"Justice, Supreme Court",Pl 2,REP,Jimmy Blacklock,213,5,172,36
+Cooke,Pct. 4,"Justice, Supreme Court",Pl 2,DEM,DaSean Jones,34,5,28,1
+Cooke,Pct. 4,"Justice, Supreme Court",Pl 2,,Over Votes,0,0,0,0
+Cooke,Pct. 4,"Justice, Supreme Court",Pl 2,,Under Votes,5,0,4,1
+Cooke,Pct. 4,"Justice, Supreme Court",Pl 4,REP,John Devine,210,5,169,36
+Cooke,Pct. 4,"Justice, Supreme Court",Pl 4,DEM,Christine Vinh Weems,35,5,29,1
+Cooke,Pct. 4,"Justice, Supreme Court",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 4,"Justice, Supreme Court",Pl 4,,Under Votes,7,0,6,1
+Cooke,Pct. 4,"Justice, Supreme Court",Pl 6,REP,Jane Bland,209,5,168,36
+Cooke,Pct. 4,"Justice, Supreme Court",Pl 6,DEM,Bonnie Lee Goldstein,33,5,27,1
+Cooke,Pct. 4,"Justice, Supreme Court",Pl 6,LIB,J. David Roberson,3,0,3,0
+Cooke,Pct. 4,"Justice, Supreme Court",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 4,"Justice, Supreme Court",Pl 6,,Under Votes,7,0,6,1
+Cooke,Pct. 4,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,207,5,167,35
+Cooke,Pct. 4,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,36,5,29,2
+Cooke,Pct. 4,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Cooke,Pct. 4,"Presiding Judge, Ct of Crim App",,,Under Votes,9,0,8,1
+Cooke,Pct. 4,"Judge, Ct of Crim App",Pl 7,REP,Gina Parker,211,5,170,36
+Cooke,Pct. 4,"Judge, Ct of Crim App",Pl 7,DEM,Nancy Mulder,32,5,26,1
+Cooke,Pct. 4,"Judge, Ct of Crim App",Pl 7,,Over Votes,0,0,0,0
+Cooke,Pct. 4,"Judge, Ct of Crim App",Pl 7,,Under Votes,9,0,8,1
+Cooke,Pct. 4,"Judge, Ct of Crim App",Pl 8,REP,Lee Finley,211,5,170,36
+Cooke,Pct. 4,"Judge, Ct of Crim App",Pl 8,DEM,Chika Anyiam,34,5,28,1
+Cooke,Pct. 4,"Judge, Ct of Crim App",Pl 8,,Over Votes,0,0,0,0
+Cooke,Pct. 4,"Judge, Ct of Crim App",Pl 8,,Under Votes,7,0,6,1
+Cooke,Pct. 4,"Member, State BoE",12,REP,Pam Little,207,5,166,36
+Cooke,Pct. 4,"Member, State BoE",12,DEM,George King,35,5,29,1
+Cooke,Pct. 4,"Member, State BoE",12,,Over Votes,0,0,0,0
+Cooke,Pct. 4,"Member, State BoE",12,,Under Votes,10,0,9,1
+Cooke,Pct. 4,State Senate,30,REP,Brent Hagenbuch,208,5,168,35
+Cooke,Pct. 4,State Senate,30,DEM,Dale Frey,35,5,28,2
+Cooke,Pct. 4,State Senate,30,,Over Votes,0,0,0,0
+Cooke,Pct. 4,State Senate,30,,Under Votes,9,0,8,1
+Cooke,Pct. 4,State Representative,68,REP,David Spiller,207,6,165,36
+Cooke,Pct. 4,State Representative,68,DEM,Stacey Swann,32,4,27,1
+Cooke,Pct. 4,State Representative,68,,Over Votes,0,0,0,0
+Cooke,Pct. 4,State Representative,68,,Under Votes,13,0,12,1
+Cooke,Pct. 4,"Chief Justice, 2nd Ct of App Dist",,REP,Bonnie Sudderth,216,5,175,36
+Cooke,Pct. 4,"Chief Justice, 2nd Ct of App Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 4,"Chief Justice, 2nd Ct of App Dist",,,Under Votes,36,5,29,2
+Cooke,Pct. 4,"Justice, 2nd Ct of App Dist",Pl 4,REP,Wade Birdwell,210,5,170,35
+Cooke,Pct. 4,"Justice, 2nd Ct of App Dist",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 4,"Justice, 2nd Ct of App Dist",Pl 4,,Under Votes,42,5,34,3
+Cooke,Pct. 4,"Justice, 2nd Ct of App Dist",Pl 5,REP,Dabney Bassel,206,5,166,35
+Cooke,Pct. 4,"Justice, 2nd Ct of App Dist",Pl 5,,Over Votes,0,0,0,0
+Cooke,Pct. 4,"Justice, 2nd Ct of App Dist",Pl 5,,Under Votes,46,5,38,3
+Cooke,Pct. 4,"Justice, 2nd Ct of App Dist",Pl 6,REP,Mike Wallach,208,5,168,35
+Cooke,Pct. 4,"Justice, 2nd Ct of App Dist",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 4,"Justice, 2nd Ct of App Dist",Pl 6,,Under Votes,44,5,36,3
+Cooke,Pct. 4,"Dist Judge, 235th Judicial Dist",,REP,Janelle M. Haverkamp,199,8,158,33
+Cooke,Pct. 4,"Dist Judge, 235th Judicial Dist",,DEM,Emmanuel Albarado,37,2,32,3
+Cooke,Pct. 4,"Dist Judge, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 4,"Dist Judge, 235th Judicial Dist",,,Under Votes,16,0,14,2
+Cooke,Pct. 4,"Dist Attorney, 235th Judicial Dist",,REP,John Warren,204,5,165,34
+Cooke,Pct. 4,"Dist Attorney, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 4,"Dist Attorney, 235th Judicial Dist",,,Under Votes,48,5,39,4
+Cooke,Pct. 4,County Attorney,,REP,Ed Zielinski,207,7,165,35
+Cooke,Pct. 4,County Attorney,,,Over Votes,0,0,0,0
+Cooke,Pct. 4,County Attorney,,,Under Votes,45,3,39,3
+Cooke,Pct. 4,Sheriff,,REP,Ray Sappington,214,8,171,35
+Cooke,Pct. 4,Sheriff,,,Over Votes,0,0,0,0
+Cooke,Pct. 4,Sheriff,,,Under Votes,38,2,33,3
+Cooke,Pct. 4,County Tax Assessor-Collector,,REP,Brandy Ann Carr,214,9,170,35
+Cooke,Pct. 4,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cooke,Pct. 4,County Tax Assessor-Collector,,,Under Votes,38,1,34,3
+Cooke,Pct. 4,County Treasurer - Unexpired Term,,REP,Susan Wells,207,7,166,34
+Cooke,Pct. 4,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Cooke,Pct. 4,County Treasurer - Unexpired Term,,,Under Votes,45,3,38,4
+Cooke,Pct. 4,County Commissioner,Pct 1,REP,Gary Hollowell,200,8,160,32
+Cooke,Pct. 4,County Commissioner,Pct 1,,Over Votes,0,0,0,0
+Cooke,Pct. 4,County Commissioner,Pct 1,,Under Votes,52,2,44,6
+Cooke,Pct. 4,Constable,Pct 1,REP,Mark Westbrook,209,6,169,34
+Cooke,Pct. 4,Constable,Pct 1,,Over Votes,0,0,0,0
+Cooke,Pct. 4,Constable,Pct 1,,Under Votes,43,4,35,4
+Cooke,Pct. 4C,Registered Voters,,,,2622,,,
+Cooke,Pct. 4C,Ballots Cast,,,,1565,44,1138,383
+Cooke,Pct. 4C,Ballots Cast Blank,,,,1,1,0,0
+Cooke,Pct. 4C,President,,REP,Donald J. Trump/JD Vance,1162,26,868,268
+Cooke,Pct. 4C,President,,DEM,Kamala D. Harris/Tim Walz,376,16,252,108
+Cooke,Pct. 4C,President,,LIB,Chase Oliver/Mike ter Maat,9,0,7,2
+Cooke,Pct. 4C,President,,GRN,Jill Stein/Rudolph Ware,4,1,3,0
+Cooke,Pct. 4C,President,,,Write-ins,9,0,5,4
+Cooke,Pct. 4C,President,,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,President,,,Under Votes,5,1,3,1
+Cooke,Pct. 4C,U.S. Senate,,REP,Ted Cruz,1092,26,821,245
+Cooke,Pct. 4C,U.S. Senate,,DEM,Colin Allred,403,17,271,115
+Cooke,Pct. 4C,U.S. Senate,,LIB,Ted Brown,41,0,28,13
+Cooke,Pct. 4C,U.S. Senate,,,Write-ins,2,0,1,1
+Cooke,Pct. 4C,U.S. Senate,,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,U.S. Senate,,,Under Votes,27,1,17,9
+Cooke,Pct. 4C,U.S. House,26,REP,Brandon Gill,1119,28,832,259
+Cooke,Pct. 4C,U.S. House,26,DEM,Ernest R. Lineberger III,332,13,229,90
+Cooke,Pct. 4C,U.S. House,26,LIB,Phil Gray,24,0,13,11
+Cooke,Pct. 4C,U.S. House,26,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,U.S. House,26,,Under Votes,90,3,64,23
+Cooke,Pct. 4C,Railroad Commissioner,,REP,Christi Craddick,1077,27,807,243
+Cooke,Pct. 4C,Railroad Commissioner,,DEM,Katherine Culbert,334,14,231,89
+Cooke,Pct. 4C,Railroad Commissioner,,LIB,Hawk Dunlap,40,1,25,14
+Cooke,Pct. 4C,Railroad Commissioner,,GRN,Eddie Espinoza,24,0,16,8
+Cooke,Pct. 4C,Railroad Commissioner,,,Write-ins,2,0,0,2
+Cooke,Pct. 4C,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,Railroad Commissioner,,,Under Votes,88,2,59,27
+Cooke,Pct. 4C,"Justice, Supreme Court",Pl 2,REP,Jimmy Blacklock,1111,27,831,253
+Cooke,Pct. 4C,"Justice, Supreme Court",Pl 2,DEM,DaSean Jones,362,15,244,103
+Cooke,Pct. 4C,"Justice, Supreme Court",Pl 2,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,"Justice, Supreme Court",Pl 2,,Under Votes,92,2,63,27
+Cooke,Pct. 4C,"Justice, Supreme Court",Pl 4,REP,John Devine,1110,27,827,256
+Cooke,Pct. 4C,"Justice, Supreme Court",Pl 4,DEM,Christine Vinh Weems,360,14,248,98
+Cooke,Pct. 4C,"Justice, Supreme Court",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,"Justice, Supreme Court",Pl 4,,Under Votes,95,3,63,29
+Cooke,Pct. 4C,"Justice, Supreme Court",Pl 6,REP,Jane Bland,1099,28,817,254
+Cooke,Pct. 4C,"Justice, Supreme Court",Pl 6,DEM,Bonnie Lee Goldstein,342,14,238,90
+Cooke,Pct. 4C,"Justice, Supreme Court",Pl 6,LIB,J. David Roberson,31,0,21,10
+Cooke,Pct. 4C,"Justice, Supreme Court",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,"Justice, Supreme Court",Pl 6,,Under Votes,93,2,62,29
+Cooke,Pct. 4C,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1110,27,829,254
+Cooke,Pct. 4C,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,358,15,243,100
+Cooke,Pct. 4C,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,"Presiding Judge, Ct of Crim App",,,Under Votes,97,2,66,29
+Cooke,Pct. 4C,"Judge, Ct of Crim App",Pl 7,REP,Gina Parker,1121,28,832,261
+Cooke,Pct. 4C,"Judge, Ct of Crim App",Pl 7,DEM,Nancy Mulder,343,14,237,92
+Cooke,Pct. 4C,"Judge, Ct of Crim App",Pl 7,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,"Judge, Ct of Crim App",Pl 7,,Under Votes,101,2,69,30
+Cooke,Pct. 4C,"Judge, Ct of Crim App",Pl 8,REP,Lee Finley,1127,27,837,263
+Cooke,Pct. 4C,"Judge, Ct of Crim App",Pl 8,DEM,Chika Anyiam,336,15,230,91
+Cooke,Pct. 4C,"Judge, Ct of Crim App",Pl 8,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,"Judge, Ct of Crim App",Pl 8,,Under Votes,102,2,71,29
+Cooke,Pct. 4C,"Member, State BoE",12,REP,Pam Little,1116,29,831,256
+Cooke,Pct. 4C,"Member, State BoE",12,DEM,George King,351,13,241,97
+Cooke,Pct. 4C,"Member, State BoE",12,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,"Member, State BoE",12,,Under Votes,98,2,66,30
+Cooke,Pct. 4C,State Senate,30,REP,Brent Hagenbuch,1115,27,832,256
+Cooke,Pct. 4C,State Senate,30,DEM,Dale Frey,354,15,240,99
+Cooke,Pct. 4C,State Senate,30,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,State Senate,30,,Under Votes,96,2,66,28
+Cooke,Pct. 4C,State Representative,68,REP,David Spiller,1119,27,830,262
+Cooke,Pct. 4C,State Representative,68,DEM,Stacey Swann,357,15,247,95
+Cooke,Pct. 4C,State Representative,68,,Over Votes,1,0,0,1
+Cooke,Pct. 4C,State Representative,68,,Under Votes,88,2,61,25
+Cooke,Pct. 4C,"Chief Justice, 2nd Ct of App Dist",,REP,Bonnie Sudderth,1372,32,1072,268
+Cooke,Pct. 4C,"Chief Justice, 2nd Ct of App Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,"Chief Justice, 2nd Ct of App Dist",,,Under Votes,193,12,166,15
+Cooke,Pct. 4C,"Justice, 2nd Ct of App Dist",Pl 4,REP,Wade Birdwell,1358,32,1061,265
+Cooke,Pct. 4C,"Justice, 2nd Ct of App Dist",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,"Justice, 2nd Ct of App Dist",Pl 4,,Under Votes,207,12,177,18
+Cooke,Pct. 4C,"Justice, 2nd Ct of App Dist",Pl 5,REP,Dabney Bassel,1356,32,1058,266
+Cooke,Pct. 4C,"Justice, 2nd Ct of App Dist",Pl 5,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,"Justice, 2nd Ct of App Dist",Pl 5,,Under Votes,209,12,180,17
+Cooke,Pct. 4C,"Justice, 2nd Ct of App Dist",Pl 6,REP,Mike Wallach,1360,32,1056,272
+Cooke,Pct. 4C,"Justice, 2nd Ct of App Dist",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,"Justice, 2nd Ct of App Dist",Pl 6,,Under Votes,205,12,182,11
+Cooke,Pct. 4C,"Dist Judge, 235th Judicial Dist",,REP,Janelle M. Haverkamp,1386,36,1104,246
+Cooke,Pct. 4C,"Dist Judge, 235th Judicial Dist",,DEM,Emmanuel Albarado,183,9,129,45
+Cooke,Pct. 4C,"Dist Judge, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,"Dist Judge, 235th Judicial Dist",,,Under Votes,96,2,105,-11
+Cooke,Pct. 4C,"Dist Attorney, 235th Judicial Dist",,REP,John Warren,1379,32,1095,252
+Cooke,Pct. 4C,"Dist Attorney, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,"Dist Attorney, 235th Judicial Dist",,,Under Votes,186,12,143,31
+Cooke,Pct. 4C,County Attorney,,REP,Ed Zielinski,1386,30,1087,269
+Cooke,Pct. 4C,County Attorney,,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,County Attorney,,,Under Votes,179,14,151,14
+Cooke,Pct. 4C,Sheriff,,REP,Ray Sappington,1387,31,1089,267
+Cooke,Pct. 4C,Sheriff,,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,Sheriff,,,Under Votes,178,13,149,16
+Cooke,Pct. 4C,County Tax Assessor-Collector,,REP,Brandy Ann Carr,1393,32,1089,272
+Cooke,Pct. 4C,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,County Tax Assessor-Collector,,,Under Votes,172,12,149,11
+Cooke,Pct. 4C,County Treasurer - Unexpired Term,,REP,Susan Wells,1367,29,1080,258
+Cooke,Pct. 4C,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,County Treasurer - Unexpired Term,,,Under Votes,198,15,158,25
+Cooke,Pct. 4C,County Commissioner,Pct 1,REP,Gary Hollowell,1485,25,1035,425
+Cooke,Pct. 4C,County Commissioner,Pct 1,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,County Commissioner,Pct 1,,Under Votes,80,19,103,58
+Cooke,Pct. 4C,Constable,Pct 2,REP,Chuck Owen,1539,32,1070,437
+Cooke,Pct. 4C,Constable,Pct 2,,Over Votes,0,0,0,0
+Cooke,Pct. 4C,Constable,Pct 2,,Under Votes,26,12,168,81
+Cooke,Pct. 6,Registered Voters,,,,2544,,,
+Cooke,Pct. 6,Ballots Cast,,,,1783,42,1222,519
+Cooke,Pct. 6,Ballots Cast Blank,,,,0,0,0,0
+Cooke,Pct. 6,President,,REP,Donald J. Trump/JD Vance,1581,31,1084,466
+Cooke,Pct. 6,President,,DEM,Kamala D. Harris/Tim Walz,186,11,127,48
+Cooke,Pct. 6,President,,LIB,Chase Oliver/Mike ter Maat,9,0,7,2
+Cooke,Pct. 6,President,,GRN,Jill Stein/Rudolph Ware,2,0,2,0
+Cooke,Pct. 6,President,,,Write-ins,0,0,0,0
+Cooke,Pct. 6,President,,,Over Votes,0,0,0,0
+Cooke,Pct. 6,President,,,Under Votes,5,0,2,3
+Cooke,Pct. 6,U.S. Senate,,REP,Ted Cruz,1528,31,1049,448
+Cooke,Pct. 6,U.S. Senate,,DEM,Colin Allred,203,10,143,50
+Cooke,Pct. 6,U.S. Senate,,LIB,Ted Brown,26,1,15,10
+Cooke,Pct. 6,U.S. Senate,,,Write-ins,1,0,0,1
+Cooke,Pct. 6,U.S. Senate,,,Over Votes,0,0,0,0
+Cooke,Pct. 6,U.S. Senate,,,Under Votes,25,0,15,10
+Cooke,Pct. 6,U.S. House,26,REP,Brandon Gill,1539,31,1057,451
+Cooke,Pct. 6,U.S. House,26,DEM,Ernest R. Lineberger III,160,9,111,40
+Cooke,Pct. 6,U.S. House,26,LIB,Phil Gray,29,2,19,8
+Cooke,Pct. 6,U.S. House,26,,Over Votes,0,0,0,0
+Cooke,Pct. 6,U.S. House,26,,Under Votes,55,0,35,20
+Cooke,Pct. 6,Railroad Commissioner,,REP,Christi Craddick,1508,32,1042,434
+Cooke,Pct. 6,Railroad Commissioner,,DEM,Katherine Culbert,156,9,105,42
+Cooke,Pct. 6,Railroad Commissioner,,LIB,Hawk Dunlap,45,1,27,17
+Cooke,Pct. 6,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,9,2
+Cooke,Pct. 6,Railroad Commissioner,,,Write-ins,0,0,0,0
+Cooke,Pct. 6,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cooke,Pct. 6,Railroad Commissioner,,,Under Votes,63,0,39,24
+Cooke,Pct. 6,"Justice, Supreme Court",Pl 2,REP,Jimmy Blacklock,1557,33,1071,453
+Cooke,Pct. 6,"Justice, Supreme Court",Pl 2,DEM,DaSean Jones,160,9,110,41
+Cooke,Pct. 6,"Justice, Supreme Court",Pl 2,,Over Votes,0,0,0,0
+Cooke,Pct. 6,"Justice, Supreme Court",Pl 2,,Under Votes,66,0,41,25
+Cooke,Pct. 6,"Justice, Supreme Court",Pl 4,REP,John Devine,1534,31,1055,448
+Cooke,Pct. 6,"Justice, Supreme Court",Pl 4,DEM,Christine Vinh Weems,180,10,123,47
+Cooke,Pct. 6,"Justice, Supreme Court",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 6,"Justice, Supreme Court",Pl 4,,Under Votes,69,1,44,24
+Cooke,Pct. 6,"Justice, Supreme Court",Pl 6,REP,Jane Bland,1507,31,1035,441
+Cooke,Pct. 6,"Justice, Supreme Court",Pl 6,DEM,Bonnie Lee Goldstein,169,9,116,44
+Cooke,Pct. 6,"Justice, Supreme Court",Pl 6,LIB,J. David Roberson,39,2,28,9
+Cooke,Pct. 6,"Justice, Supreme Court",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 6,"Justice, Supreme Court",Pl 6,,Under Votes,68,0,43,25
+Cooke,Pct. 6,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1536,33,1056,447
+Cooke,Pct. 6,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,169,8,116,45
+Cooke,Pct. 6,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Cooke,Pct. 6,"Presiding Judge, Ct of Crim App",,,Under Votes,78,1,50,27
+Cooke,Pct. 6,"Judge, Ct of Crim App",Pl 7,REP,Gina Parker,1533,33,1052,448
+Cooke,Pct. 6,"Judge, Ct of Crim App",Pl 7,DEM,Nancy Mulder,167,8,115,44
+Cooke,Pct. 6,"Judge, Ct of Crim App",Pl 7,,Over Votes,0,0,0,0
+Cooke,Pct. 6,"Judge, Ct of Crim App",Pl 7,,Under Votes,83,1,55,27
+Cooke,Pct. 6,"Judge, Ct of Crim App",Pl 8,REP,Lee Finley,1543,32,1059,452
+Cooke,Pct. 6,"Judge, Ct of Crim App",Pl 8,DEM,Chika Anyiam,162,9,114,39
+Cooke,Pct. 6,"Judge, Ct of Crim App",Pl 8,,Over Votes,0,0,0,0
+Cooke,Pct. 6,"Judge, Ct of Crim App",Pl 8,,Under Votes,78,1,49,28
+Cooke,Pct. 6,"Member, State BoE",12,REP,Pam Little,1536,32,1056,448
+Cooke,Pct. 6,"Member, State BoE",12,DEM,George King,171,9,121,41
+Cooke,Pct. 6,"Member, State BoE",12,,Over Votes,0,0,0,0
+Cooke,Pct. 6,"Member, State BoE",12,,Under Votes,76,1,45,30
+Cooke,Pct. 6,State Senate,30,REP,Brent Hagenbuch,1532,32,1054,446
+Cooke,Pct. 6,State Senate,30,DEM,Dale Frey,170,10,116,44
+Cooke,Pct. 6,State Senate,30,,Over Votes,0,0,0,0
+Cooke,Pct. 6,State Senate,30,,Under Votes,81,0,52,29
+Cooke,Pct. 6,State Representative,68,REP,David Spiller,1545,32,1063,450
+Cooke,Pct. 6,State Representative,68,DEM,Stacey Swann,163,10,111,42
+Cooke,Pct. 6,State Representative,68,,Over Votes,0,0,0,0
+Cooke,Pct. 6,State Representative,68,,Under Votes,75,0,48,27
+Cooke,Pct. 6,"Chief Justice, 2nd Ct of App Dist",,REP,Bonnie Sudderth,1556,32,1072,452
+Cooke,Pct. 6,"Chief Justice, 2nd Ct of App Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 6,"Chief Justice, 2nd Ct of App Dist",,,Under Votes,227,10,150,67
+Cooke,Pct. 6,"Justice, 2nd Ct of App Dist",Pl 4,REP,Wade Birdwell,1541,32,1061,448
+Cooke,Pct. 6,"Justice, 2nd Ct of App Dist",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 6,"Justice, 2nd Ct of App Dist",Pl 4,,Under Votes,242,10,161,71
+Cooke,Pct. 6,"Justice, 2nd Ct of App Dist",Pl 5,REP,Dabney Bassel,1522,32,1052,438
+Cooke,Pct. 6,"Justice, 2nd Ct of App Dist",Pl 5,,Over Votes,0,0,0,0
+Cooke,Pct. 6,"Justice, 2nd Ct of App Dist",Pl 5,,Under Votes,261,10,170,81
+Cooke,Pct. 6,"Justice, 2nd Ct of App Dist",Pl 6,REP,Mike Wallach,1530,32,1056,442
+Cooke,Pct. 6,"Justice, 2nd Ct of App Dist",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 6,"Justice, 2nd Ct of App Dist",Pl 6,,Under Votes,253,10,166,77
+Cooke,Pct. 6,"Dist Judge, 235th Judicial Dist",,REP,Janelle M. Haverkamp,1485,31,1022,432
+Cooke,Pct. 6,"Dist Judge, 235th Judicial Dist",,DEM,Emmanuel Albarado,183,7,128,48
+Cooke,Pct. 6,"Dist Judge, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 6,"Dist Judge, 235th Judicial Dist",,,Under Votes,115,4,72,39
+Cooke,Pct. 6,"Dist Attorney, 235th Judicial Dist",,REP,John Warren,1534,32,1058,444
+Cooke,Pct. 6,"Dist Attorney, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 6,"Dist Attorney, 235th Judicial Dist",,,Under Votes,249,10,164,75
+Cooke,Pct. 6,County Attorney,,REP,Ed Zielinski,1541,32,1060,449
+Cooke,Pct. 6,County Attorney,,,Over Votes,0,0,0,0
+Cooke,Pct. 6,County Attorney,,,Under Votes,242,10,162,70
+Cooke,Pct. 6,Sheriff,,REP,Ray Sappington,1551,33,1073,445
+Cooke,Pct. 6,Sheriff,,,Over Votes,0,0,0,0
+Cooke,Pct. 6,Sheriff,,,Under Votes,232,9,149,74
+Cooke,Pct. 6,County Tax Assessor-Collector,,REP,Brandy Ann Carr,1570,32,1081,457
+Cooke,Pct. 6,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cooke,Pct. 6,County Tax Assessor-Collector,,,Under Votes,213,10,141,62
+Cooke,Pct. 6,County Treasurer - Unexpired Term,,REP,Susan Wells,1535,32,1058,445
+Cooke,Pct. 6,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Cooke,Pct. 6,County Treasurer - Unexpired Term,,,Under Votes,248,10,164,74
+Cooke,Pct. 6,County Commissioner,Pct 1,REP,Gary Hollowell,1485,25,1035,425
+Cooke,Pct. 6,County Commissioner,Pct 1,,Over Votes,0,0,0,0
+Cooke,Pct. 6,County Commissioner,Pct 1,,Under Votes,298,17,187,94
+Cooke,Pct. 6,Constable,Pct 1,REP,Mark Westbrook,1549,32,1070,447
+Cooke,Pct. 6,Constable,Pct 1,,Over Votes,0,0,0,0
+Cooke,Pct. 6,Constable,Pct 1,,Under Votes,234,10,152,72
+Cooke,Pct. 7,Registered Voters,,,,1929,,,
+Cooke,Pct. 7,Ballots Cast,,,,1287,24,934,329
+Cooke,Pct. 7,Ballots Cast Blank,,,,0,0,0,0
+Cooke,Pct. 7,President,,REP,Donald J. Trump/JD Vance,1124,20,825,279
+Cooke,Pct. 7,President,,DEM,Kamala D. Harris/Tim Walz,145,4,95,46
+Cooke,Pct. 7,President,,LIB,Chase Oliver/Mike ter Maat,7,0,5,2
+Cooke,Pct. 7,President,,GRN,Jill Stein/Rudolph Ware,3,0,2,1
+Cooke,Pct. 7,President,,,Write-ins,3,0,2,1
+Cooke,Pct. 7,President,,,Over Votes,0,0,0,0
+Cooke,Pct. 7,President,,,Under Votes,5,0,5,0
+Cooke,Pct. 7,U.S. Senate,,REP,Ted Cruz,1084,19,801,264
+Cooke,Pct. 7,U.S. Senate,,DEM,Colin Allred,162,5,103,54
+Cooke,Pct. 7,U.S. Senate,,LIB,Ted Brown,28,0,18,10
+Cooke,Pct. 7,U.S. Senate,,,Write-ins,0,0,0,0
+Cooke,Pct. 7,U.S. Senate,,,Over Votes,0,0,0,0
+Cooke,Pct. 7,U.S. Senate,,,Under Votes,13,0,12,1
+Cooke,Pct. 7,U.S. House,26,REP,Brandon Gill,1104,21,806,277
+Cooke,Pct. 7,U.S. House,26,DEM,Ernest R. Lineberger III,124,3,82,39
+Cooke,Pct. 7,U.S. House,26,LIB,Phil Gray,26,0,19,7
+Cooke,Pct. 7,U.S. House,26,,Over Votes,0,0,0,0
+Cooke,Pct. 7,U.S. House,26,,Under Votes,33,0,27,6
+Cooke,Pct. 7,Railroad Commissioner,,REP,Christi Craddick,1072,21,790,261
+Cooke,Pct. 7,Railroad Commissioner,,DEM,Katherine Culbert,124,3,86,35
+Cooke,Pct. 7,Railroad Commissioner,,LIB,Hawk Dunlap,33,0,18,15
+Cooke,Pct. 7,Railroad Commissioner,,GRN,Eddie Espinoza,16,0,9,7
+Cooke,Pct. 7,Railroad Commissioner,,,Write-ins,0,0,0,0
+Cooke,Pct. 7,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cooke,Pct. 7,Railroad Commissioner,,,Under Votes,42,0,31,11
+Cooke,Pct. 7,"Justice, Supreme Court",Pl 2,REP,Jimmy Blacklock,1103,19,808,276
+Cooke,Pct. 7,"Justice, Supreme Court",Pl 2,DEM,DaSean Jones,140,5,92,43
+Cooke,Pct. 7,"Justice, Supreme Court",Pl 2,,Over Votes,0,0,0,0
+Cooke,Pct. 7,"Justice, Supreme Court",Pl 2,,Under Votes,44,0,34,10
+Cooke,Pct. 7,"Justice, Supreme Court",Pl 4,REP,John Devine,1098,20,807,271
+Cooke,Pct. 7,"Justice, Supreme Court",Pl 4,DEM,Christine Vinh Weems,145,4,97,44
+Cooke,Pct. 7,"Justice, Supreme Court",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 7,"Justice, Supreme Court",Pl 4,,Under Votes,44,0,30,14
+Cooke,Pct. 7,"Justice, Supreme Court",Pl 6,REP,Jane Bland,1086,20,797,269
+Cooke,Pct. 7,"Justice, Supreme Court",Pl 6,DEM,Bonnie Lee Goldstein,126,4,82,40
+Cooke,Pct. 7,"Justice, Supreme Court",Pl 6,LIB,J. David Roberson,34,0,26,8
+Cooke,Pct. 7,"Justice, Supreme Court",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 7,"Justice, Supreme Court",Pl 6,,Under Votes,41,0,29,12
+Cooke,Pct. 7,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1103,19,810,274
+Cooke,Pct. 7,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,141,5,95,41
+Cooke,Pct. 7,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Cooke,Pct. 7,"Presiding Judge, Ct of Crim App",,,Under Votes,43,0,29,14
+Cooke,Pct. 7,"Judge, Ct of Crim App",Pl 7,REP,Gina Parker,1101,19,808,274
+Cooke,Pct. 7,"Judge, Ct of Crim App",Pl 7,DEM,Nancy Mulder,140,5,95,40
+Cooke,Pct. 7,"Judge, Ct of Crim App",Pl 7,,Over Votes,0,0,0,0
+Cooke,Pct. 7,"Judge, Ct of Crim App",Pl 7,,Under Votes,46,0,31,15
+Cooke,Pct. 7,"Judge, Ct of Crim App",Pl 8,REP,Lee Finley,1111,19,814,278
+Cooke,Pct. 7,"Judge, Ct of Crim App",Pl 8,DEM,Chika Anyiam,130,5,88,37
+Cooke,Pct. 7,"Judge, Ct of Crim App",Pl 8,,Over Votes,0,0,0,0
+Cooke,Pct. 7,"Judge, Ct of Crim App",Pl 8,,Under Votes,46,0,32,14
+Cooke,Pct. 7,"Member, State BoE",12,REP,Pam Little,1096,19,805,272
+Cooke,Pct. 7,"Member, State BoE",12,DEM,George King,143,5,93,45
+Cooke,Pct. 7,"Member, State BoE",12,,Over Votes,0,0,0,0
+Cooke,Pct. 7,"Member, State BoE",12,,Under Votes,48,0,36,12
+Cooke,Pct. 7,State Senate,30,REP,Brent Hagenbuch,1100,19,806,275
+Cooke,Pct. 7,State Senate,30,DEM,Dale Frey,142,5,94,43
+Cooke,Pct. 7,State Senate,30,,Over Votes,0,0,0,0
+Cooke,Pct. 7,State Senate,30,,Under Votes,45,0,34,11
+Cooke,Pct. 7,State Representative,68,REP,David Spiller,1108,20,816,272
+Cooke,Pct. 7,State Representative,68,DEM,Stacey Swann,135,4,87,44
+Cooke,Pct. 7,State Representative,68,,Over Votes,0,0,0,0
+Cooke,Pct. 7,State Representative,68,,Under Votes,44,0,31,13
+Cooke,Pct. 7,"Chief Justice, 2nd Ct of App Dist",,REP,Bonnie Sudderth,1145,21,830,294
+Cooke,Pct. 7,"Chief Justice, 2nd Ct of App Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 7,"Chief Justice, 2nd Ct of App Dist",,,Under Votes,142,3,104,35
+Cooke,Pct. 7,"Justice, 2nd Ct of App Dist",Pl 4,REP,Wade Birdwell,1135,21,831,283
+Cooke,Pct. 7,"Justice, 2nd Ct of App Dist",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 7,"Justice, 2nd Ct of App Dist",Pl 4,,Under Votes,152,3,103,46
+Cooke,Pct. 7,"Justice, 2nd Ct of App Dist",Pl 5,REP,Dabney Bassel,1116,21,813,282
+Cooke,Pct. 7,"Justice, 2nd Ct of App Dist",Pl 5,,Over Votes,0,0,0,0
+Cooke,Pct. 7,"Justice, 2nd Ct of App Dist",Pl 5,,Under Votes,171,3,121,47
+Cooke,Pct. 7,"Justice, 2nd Ct of App Dist",Pl 6,REP,Mike Wallach,1126,21,823,282
+Cooke,Pct. 7,"Justice, 2nd Ct of App Dist",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 7,"Justice, 2nd Ct of App Dist",Pl 6,,Under Votes,161,3,111,47
+Cooke,Pct. 7,"Dist Judge, 235th Judicial Dist",,REP,Janelle M. Haverkamp,1039,20,759,260
+Cooke,Pct. 7,"Dist Judge, 235th Judicial Dist",,DEM,Emmanuel Albarado,171,4,120,47
+Cooke,Pct. 7,"Dist Judge, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 7,"Dist Judge, 235th Judicial Dist",,,Under Votes,77,0,55,22
+Cooke,Pct. 7,"Dist Attorney, 235th Judicial Dist",,REP,John Warren,1133,21,826,286
+Cooke,Pct. 7,"Dist Attorney, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 7,"Dist Attorney, 235th Judicial Dist",,,Under Votes,154,3,108,43
+Cooke,Pct. 7,County Attorney,,REP,Ed Zielinski,1122,21,818,283
+Cooke,Pct. 7,County Attorney,,,Over Votes,0,0,0,0
+Cooke,Pct. 7,County Attorney,,,Under Votes,165,3,116,46
+Cooke,Pct. 7,Sheriff,,REP,Ray Sappington,1137,21,824,292
+Cooke,Pct. 7,Sheriff,,,Over Votes,0,0,0,0
+Cooke,Pct. 7,Sheriff,,,Under Votes,150,3,110,37
+Cooke,Pct. 7,County Tax Assessor-Collector,,REP,Brandy Ann Carr,1151,21,834,296
+Cooke,Pct. 7,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cooke,Pct. 7,County Tax Assessor-Collector,,,Under Votes,136,3,100,33
+Cooke,Pct. 7,County Treasurer - Unexpired Term,,REP,Susan Wells,1131,21,817,293
+Cooke,Pct. 7,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Cooke,Pct. 7,County Treasurer - Unexpired Term,,,Under Votes,156,3,117,36
+Cooke,Pct. 7,County Commissioner,Pct 1,REP,Gary Hollowell,1111,18,807,286
+Cooke,Pct. 7,County Commissioner,Pct 1,,Over Votes,0,0,0,0
+Cooke,Pct. 7,County Commissioner,Pct 1,,Under Votes,176,6,127,43
+Cooke,Pct. 7,Constable,Pct 1,REP,Mark Westbrook,1134,21,822,291
+Cooke,Pct. 7,Constable,Pct 1,,Over Votes,0,0,0,0
+Cooke,Pct. 7,Constable,Pct 1,,Under Votes,153,3,112,38
+Cooke,Pct. 8,Registered Voters,,,,1195,,,
+Cooke,Pct. 8,Ballots Cast,,,,848,16,591,241
+Cooke,Pct. 8,Ballots Cast Blank,,,,0,0,0,0
+Cooke,Pct. 8,President,,REP,Donald J. Trump/JD Vance,754,14,533,207
+Cooke,Pct. 8,President,,DEM,Kamala D. Harris/Tim Walz,88,2,54,32
+Cooke,Pct. 8,President,,LIB,Chase Oliver/Mike ter Maat,2,0,2,0
+Cooke,Pct. 8,President,,GRN,Jill Stein/Rudolph Ware,1,0,0,1
+Cooke,Pct. 8,President,,,Write-ins,2,0,1,1
+Cooke,Pct. 8,President,,,Over Votes,0,0,0,0
+Cooke,Pct. 8,President,,,Under Votes,1,0,1,0
+Cooke,Pct. 8,U.S. Senate,,REP,Ted Cruz,719,14,509,196
+Cooke,Pct. 8,U.S. Senate,,DEM,Colin Allred,104,2,68,34
+Cooke,Pct. 8,U.S. Senate,,LIB,Ted Brown,20,0,13,7
+Cooke,Pct. 8,U.S. Senate,,,Write-ins,0,0,0,0
+Cooke,Pct. 8,U.S. Senate,,,Over Votes,0,0,0,0
+Cooke,Pct. 8,U.S. Senate,,,Under Votes,5,0,1,4
+Cooke,Pct. 8,U.S. House,26,REP,Brandon Gill,734,14,522,198
+Cooke,Pct. 8,U.S. House,26,DEM,Ernest R. Lineberger III,74,1,50,23
+Cooke,Pct. 8,U.S. House,26,LIB,Phil Gray,18,0,11,7
+Cooke,Pct. 8,U.S. House,26,,Over Votes,0,0,0,0
+Cooke,Pct. 8,U.S. House,26,,Under Votes,22,1,8,13
+Cooke,Pct. 8,Railroad Commissioner,,REP,Christi Craddick,722,13,517,192
+Cooke,Pct. 8,Railroad Commissioner,,DEM,Katherine Culbert,74,1,49,24
+Cooke,Pct. 8,Railroad Commissioner,,LIB,Hawk Dunlap,19,0,11,8
+Cooke,Pct. 8,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,3,2
+Cooke,Pct. 8,Railroad Commissioner,,,Write-ins,0,0,0,0
+Cooke,Pct. 8,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cooke,Pct. 8,Railroad Commissioner,,,Under Votes,28,2,11,15
+Cooke,Pct. 8,"Justice, Supreme Court",Pl 2,REP,Jimmy Blacklock,732,14,522,196
+Cooke,Pct. 8,"Justice, Supreme Court",Pl 2,DEM,DaSean Jones,85,1,54,30
+Cooke,Pct. 8,"Justice, Supreme Court",Pl 2,,Over Votes,0,0,0,0
+Cooke,Pct. 8,"Justice, Supreme Court",Pl 2,,Under Votes,31,1,15,15
+Cooke,Pct. 8,"Justice, Supreme Court",Pl 4,REP,John Devine,737,14,526,197
+Cooke,Pct. 8,"Justice, Supreme Court",Pl 4,DEM,Christine Vinh Weems,84,1,54,29
+Cooke,Pct. 8,"Justice, Supreme Court",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 8,"Justice, Supreme Court",Pl 4,,Under Votes,27,1,11,15
+Cooke,Pct. 8,"Justice, Supreme Court",Pl 6,REP,Jane Bland,723,13,517,193
+Cooke,Pct. 8,"Justice, Supreme Court",Pl 6,DEM,Bonnie Lee Goldstein,76,1,50,25
+Cooke,Pct. 8,"Justice, Supreme Court",Pl 6,LIB,J. David Roberson,17,0,12,5
+Cooke,Pct. 8,"Justice, Supreme Court",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 8,"Justice, Supreme Court",Pl 6,,Under Votes,32,2,12,18
+Cooke,Pct. 8,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,737,14,527,196
+Cooke,Pct. 8,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,80,1,52,27
+Cooke,Pct. 8,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Cooke,Pct. 8,"Presiding Judge, Ct of Crim App",,,Under Votes,31,1,12,18
+Cooke,Pct. 8,"Judge, Ct of Crim App",Pl 7,REP,Gina Parker,739,14,524,201
+Cooke,Pct. 8,"Judge, Ct of Crim App",Pl 7,DEM,Nancy Mulder,79,1,54,24
+Cooke,Pct. 8,"Judge, Ct of Crim App",Pl 7,,Over Votes,0,0,0,0
+Cooke,Pct. 8,"Judge, Ct of Crim App",Pl 7,,Under Votes,30,1,13,16
+Cooke,Pct. 8,"Judge, Ct of Crim App",Pl 8,REP,Lee Finley,737,14,524,199
+Cooke,Pct. 8,"Judge, Ct of Crim App",Pl 8,DEM,Chika Anyiam,77,1,53,23
+Cooke,Pct. 8,"Judge, Ct of Crim App",Pl 8,,Over Votes,0,0,0,0
+Cooke,Pct. 8,"Judge, Ct of Crim App",Pl 8,,Under Votes,34,1,14,19
+Cooke,Pct. 8,"Member, State BoE",12,REP,Pam Little,737,14,524,199
+Cooke,Pct. 8,"Member, State BoE",12,DEM,George King,75,1,50,24
+Cooke,Pct. 8,"Member, State BoE",12,,Over Votes,0,0,0,0
+Cooke,Pct. 8,"Member, State BoE",12,,Under Votes,36,1,17,18
+Cooke,Pct. 8,State Senate,30,REP,Brent Hagenbuch,738,14,524,200
+Cooke,Pct. 8,State Senate,30,DEM,Dale Frey,76,1,51,24
+Cooke,Pct. 8,State Senate,30,,Over Votes,0,0,0,0
+Cooke,Pct. 8,State Senate,30,,Under Votes,34,1,16,17
+Cooke,Pct. 8,State Representative,68,REP,David Spiller,729,14,518,197
+Cooke,Pct. 8,State Representative,68,DEM,Stacey Swann,78,1,52,25
+Cooke,Pct. 8,State Representative,68,,Over Votes,0,0,0,0
+Cooke,Pct. 8,State Representative,68,,Under Votes,41,1,21,19
+Cooke,Pct. 8,"Chief Justice, 2nd Ct of App Dist",,REP,Bonnie Sudderth,755,14,537,204
+Cooke,Pct. 8,"Chief Justice, 2nd Ct of App Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 8,"Chief Justice, 2nd Ct of App Dist",,,Under Votes,93,2,54,37
+Cooke,Pct. 8,"Justice, 2nd Ct of App Dist",Pl 4,REP,Wade Birdwell,755,14,539,202
+Cooke,Pct. 8,"Justice, 2nd Ct of App Dist",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 8,"Justice, 2nd Ct of App Dist",Pl 4,,Under Votes,93,2,52,39
+Cooke,Pct. 8,"Justice, 2nd Ct of App Dist",Pl 5,REP,Dabney Bassel,748,14,533,201
+Cooke,Pct. 8,"Justice, 2nd Ct of App Dist",Pl 5,,Over Votes,0,0,0,0
+Cooke,Pct. 8,"Justice, 2nd Ct of App Dist",Pl 5,,Under Votes,100,2,58,40
+Cooke,Pct. 8,"Justice, 2nd Ct of App Dist",Pl 6,REP,Mike Wallach,751,14,536,201
+Cooke,Pct. 8,"Justice, 2nd Ct of App Dist",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 8,"Justice, 2nd Ct of App Dist",Pl 6,,Under Votes,97,2,55,40
+Cooke,Pct. 8,"Dist Judge, 235th Judicial Dist",,REP,Janelle M. Haverkamp,702,13,499,190
+Cooke,Pct. 8,"Dist Judge, 235th Judicial Dist",,DEM,Emmanuel Albarado,97,1,66,30
+Cooke,Pct. 8,"Dist Judge, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 8,"Dist Judge, 235th Judicial Dist",,,Under Votes,49,2,26,21
+Cooke,Pct. 8,"Dist Attorney, 235th Judicial Dist",,REP,John Warren,754,14,535,205
+Cooke,Pct. 8,"Dist Attorney, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 8,"Dist Attorney, 235th Judicial Dist",,,Under Votes,94,2,56,36
+Cooke,Pct. 8,County Attorney,,REP,Ed Zielinski,748,14,530,204
+Cooke,Pct. 8,County Attorney,,,Over Votes,0,0,0,0
+Cooke,Pct. 8,County Attorney,,,Under Votes,100,2,61,37
+Cooke,Pct. 8,Sheriff,,REP,Ray Sappington,749,14,534,201
+Cooke,Pct. 8,Sheriff,,,Over Votes,0,0,0,0
+Cooke,Pct. 8,Sheriff,,,Under Votes,99,2,57,40
+Cooke,Pct. 8,County Tax Assessor-Collector,,REP,Brandy Ann Carr,759,15,539,205
+Cooke,Pct. 8,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cooke,Pct. 8,County Tax Assessor-Collector,,,Under Votes,89,1,52,36
+Cooke,Pct. 8,County Treasurer - Unexpired Term,,REP,Susan Wells,747,14,532,201
+Cooke,Pct. 8,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Cooke,Pct. 8,County Treasurer - Unexpired Term,,,Under Votes,101,2,59,40
+Cooke,Pct. 8,County Commissioner,Pct 3,REP,Adam Paul Arendt,745,14,531,200
+Cooke,Pct. 8,County Commissioner,Pct 3,,Over Votes,0,0,0,0
+Cooke,Pct. 8,County Commissioner,Pct 3,,Under Votes,103,2,60,41
+Cooke,Pct. 8,Constable,Pct 2,REP,Chuck Owen,745,14,531,200
+Cooke,Pct. 8,Constable,Pct 2,,Over Votes,0,0,0,0
+Cooke,Pct. 8,Constable,Pct 2,,Under Votes,103,2,60,41
+Cooke,Pct. 10,Registered Voters,,,,2468,,,
+Cooke,Pct. 10,Ballots Cast,,,,1783,42,1222,519
+Cooke,Pct. 10,Ballots Cast Blank,,,,0,0,0,0
+Cooke,Pct. 10,President,,REP,Donald J. Trump/JD Vance,1581,31,1084,466
+Cooke,Pct. 10,President,,DEM,Kamala D. Harris/Tim Walz,186,11,127,48
+Cooke,Pct. 10,President,,LIB,Chase Oliver/Mike ter Maat,9,0,7,2
+Cooke,Pct. 10,President,,GRN,Jill Stein/Rudolph Ware,2,0,2,0
+Cooke,Pct. 10,President,,,Write-ins,0,0,0,0
+Cooke,Pct. 10,President,,,Over Votes,0,0,0,0
+Cooke,Pct. 10,President,,,Under Votes,5,0,2,3
+Cooke,Pct. 10,U.S. Senate,,REP,Ted Cruz,1528,31,1049,448
+Cooke,Pct. 10,U.S. Senate,,DEM,Colin Allred,203,10,143,50
+Cooke,Pct. 10,U.S. Senate,,LIB,Ted Brown,26,1,15,10
+Cooke,Pct. 10,U.S. Senate,,,Write-ins,1,0,0,1
+Cooke,Pct. 10,U.S. Senate,,,Over Votes,0,0,0,0
+Cooke,Pct. 10,U.S. Senate,,,Under Votes,25,0,15,10
+Cooke,Pct. 10,U.S. House,26,REP,Brandon Gill,1539,31,1057,451
+Cooke,Pct. 10,U.S. House,26,DEM,Ernest R. Lineberger III,160,9,111,40
+Cooke,Pct. 10,U.S. House,26,LIB,Phil Gray,29,2,19,8
+Cooke,Pct. 10,U.S. House,26,,Over Votes,0,0,0,0
+Cooke,Pct. 10,U.S. House,26,,Under Votes,55,0,35,20
+Cooke,Pct. 10,Railroad Commissioner,,REP,Christi Craddick,1508,32,1042,434
+Cooke,Pct. 10,Railroad Commissioner,,DEM,Katherine Culbert,156,9,105,42
+Cooke,Pct. 10,Railroad Commissioner,,LIB,Hawk Dunlap,45,1,27,17
+Cooke,Pct. 10,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,9,2
+Cooke,Pct. 10,Railroad Commissioner,,,Write-ins,0,0,0,0
+Cooke,Pct. 10,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cooke,Pct. 10,Railroad Commissioner,,,Under Votes,63,0,39,24
+Cooke,Pct. 10,"Justice, Supreme Court",Pl 2,REP,Jimmy Blacklock,1557,33,1071,453
+Cooke,Pct. 10,"Justice, Supreme Court",Pl 2,DEM,DaSean Jones,160,9,110,41
+Cooke,Pct. 10,"Justice, Supreme Court",Pl 2,,Over Votes,0,0,0,0
+Cooke,Pct. 10,"Justice, Supreme Court",Pl 2,,Under Votes,66,0,41,25
+Cooke,Pct. 10,"Justice, Supreme Court",Pl 4,REP,John Devine,1534,31,1055,448
+Cooke,Pct. 10,"Justice, Supreme Court",Pl 4,DEM,Christine Vinh Weems,180,10,123,47
+Cooke,Pct. 10,"Justice, Supreme Court",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 10,"Justice, Supreme Court",Pl 4,,Under Votes,69,1,44,24
+Cooke,Pct. 10,"Justice, Supreme Court",Pl 6,REP,Jane Bland,1507,31,1035,441
+Cooke,Pct. 10,"Justice, Supreme Court",Pl 6,DEM,Bonnie Lee Goldstein,169,9,116,44
+Cooke,Pct. 10,"Justice, Supreme Court",Pl 6,LIB,J. David Roberson,39,2,28,9
+Cooke,Pct. 10,"Justice, Supreme Court",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 10,"Justice, Supreme Court",Pl 6,,Under Votes,68,0,43,25
+Cooke,Pct. 10,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1536,33,1056,447
+Cooke,Pct. 10,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,169,8,116,45
+Cooke,Pct. 10,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Cooke,Pct. 10,"Presiding Judge, Ct of Crim App",,,Under Votes,78,1,50,27
+Cooke,Pct. 10,"Judge, Ct of Crim App",Pl 7,REP,Gina Parker,1533,33,1052,448
+Cooke,Pct. 10,"Judge, Ct of Crim App",Pl 7,DEM,Nancy Mulder,167,8,115,44
+Cooke,Pct. 10,"Judge, Ct of Crim App",Pl 7,,Over Votes,0,0,0,0
+Cooke,Pct. 10,"Judge, Ct of Crim App",Pl 7,,Under Votes,83,1,55,27
+Cooke,Pct. 10,"Judge, Ct of Crim App",Pl 8,REP,Lee Finley,1543,32,1059,452
+Cooke,Pct. 10,"Judge, Ct of Crim App",Pl 8,DEM,Chika Anyiam,162,9,114,39
+Cooke,Pct. 10,"Judge, Ct of Crim App",Pl 8,,Over Votes,0,0,0,0
+Cooke,Pct. 10,"Judge, Ct of Crim App",Pl 8,,Under Votes,78,1,49,28
+Cooke,Pct. 10,"Member, State BoE",12,REP,Pam Little,1536,32,1056,448
+Cooke,Pct. 10,"Member, State BoE",12,DEM,George King,171,9,121,41
+Cooke,Pct. 10,"Member, State BoE",12,,Over Votes,0,0,0,0
+Cooke,Pct. 10,"Member, State BoE",12,,Under Votes,76,1,45,30
+Cooke,Pct. 10,State Senate,30,REP,Brent Hagenbuch,1532,32,1054,446
+Cooke,Pct. 10,State Senate,30,DEM,Dale Frey,170,10,116,44
+Cooke,Pct. 10,State Senate,30,,Over Votes,0,0,0,0
+Cooke,Pct. 10,State Senate,30,,Under Votes,81,0,52,29
+Cooke,Pct. 10,State Representative,68,REP,David Spiller,1545,32,1063,450
+Cooke,Pct. 10,State Representative,68,DEM,Stacey Swann,163,10,111,42
+Cooke,Pct. 10,State Representative,68,,Over Votes,0,0,0,0
+Cooke,Pct. 10,State Representative,68,,Under Votes,75,0,48,27
+Cooke,Pct. 10,"Chief Justice, 2nd Ct of App Dist",,REP,Bonnie Sudderth,1556,32,1072,452
+Cooke,Pct. 10,"Chief Justice, 2nd Ct of App Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 10,"Chief Justice, 2nd Ct of App Dist",,,Under Votes,227,10,150,67
+Cooke,Pct. 10,"Justice, 2nd Ct of App Dist",Pl 4,REP,Wade Birdwell,1541,32,1061,448
+Cooke,Pct. 10,"Justice, 2nd Ct of App Dist",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 10,"Justice, 2nd Ct of App Dist",Pl 4,,Under Votes,242,10,161,71
+Cooke,Pct. 10,"Justice, 2nd Ct of App Dist",Pl 5,REP,Dabney Bassel,1522,32,1052,438
+Cooke,Pct. 10,"Justice, 2nd Ct of App Dist",Pl 5,,Over Votes,0,0,0,0
+Cooke,Pct. 10,"Justice, 2nd Ct of App Dist",Pl 5,,Under Votes,261,10,170,81
+Cooke,Pct. 10,"Justice, 2nd Ct of App Dist",Pl 6,REP,Mike Wallach,1530,32,1056,442
+Cooke,Pct. 10,"Justice, 2nd Ct of App Dist",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 10,"Justice, 2nd Ct of App Dist",Pl 6,,Under Votes,253,10,166,77
+Cooke,Pct. 10,"Dist Judge, 235th Judicial Dist",,REP,Janelle M. Haverkamp,1485,31,1022,432
+Cooke,Pct. 10,"Dist Judge, 235th Judicial Dist",,DEM,Emmanuel Albarado,183,7,128,48
+Cooke,Pct. 10,"Dist Judge, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 10,"Dist Judge, 235th Judicial Dist",,,Under Votes,115,4,72,39
+Cooke,Pct. 10,"Dist Attorney, 235th Judicial Dist",,REP,John Warren,1534,32,1058,444
+Cooke,Pct. 10,"Dist Attorney, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 10,"Dist Attorney, 235th Judicial Dist",,,Under Votes,249,10,164,75
+Cooke,Pct. 10,County Attorney,,REP,Ed Zielinski,1541,32,1060,449
+Cooke,Pct. 10,County Attorney,,,Over Votes,0,0,0,0
+Cooke,Pct. 10,County Attorney,,,Under Votes,242,10,162,70
+Cooke,Pct. 10,Sheriff,,REP,Ray Sappington,1551,33,1073,445
+Cooke,Pct. 10,Sheriff,,,Over Votes,0,0,0,0
+Cooke,Pct. 10,Sheriff,,,Under Votes,232,9,149,74
+Cooke,Pct. 10,County Tax Assessor-Collector,,REP,Brandy Ann Carr,1570,32,1081,457
+Cooke,Pct. 10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cooke,Pct. 10,County Tax Assessor-Collector,,,Under Votes,213,10,141,62
+Cooke,Pct. 10,County Treasurer - Unexpired Term,,REP,Susan Wells,1535,32,1058,445
+Cooke,Pct. 10,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Cooke,Pct. 10,County Treasurer - Unexpired Term,,,Under Votes,248,10,164,74
+Cooke,Pct. 10,County Commissioner,Pct 1,REP,Gary Hollowell,1485,25,1035,425
+Cooke,Pct. 10,County Commissioner,Pct 1,,Over Votes,0,0,0,0
+Cooke,Pct. 10,County Commissioner,Pct 1,,Under Votes,298,17,187,94
+Cooke,Pct. 10,Constable,Pct 1,REP,Mark Westbrook,1549,32,1070,447
+Cooke,Pct. 10,Constable,Pct 1,,Over Votes,0,0,0,0
+Cooke,Pct. 10,Constable,Pct 1,,Under Votes,234,10,152,72
+Cooke,Pct. 11,Registered Voters,,,,1093,,,
+Cooke,Pct. 11,Ballots Cast,,,,718,18,602,98
+Cooke,Pct. 11,Ballots Cast Blank,,,,0,0,0,0
+Cooke,Pct. 11,President,,REP,Donald J. Trump/JD Vance,598,12,516,70
+Cooke,Pct. 11,President,,DEM,Kamala D. Harris/Tim Walz,113,6,81,26
+Cooke,Pct. 11,President,,LIB,Chase Oliver/Mike ter Maat,1,0,1,0
+Cooke,Pct. 11,President,,GRN,Jill Stein/Rudolph Ware,3,0,2,1
+Cooke,Pct. 11,President,,,Write-ins,1,0,0,1
+Cooke,Pct. 11,President,,,Over Votes,0,0,0,0
+Cooke,Pct. 11,President,,,Under Votes,2,0,2,0
+Cooke,Pct. 11,U.S. Senate,,REP,Ted Cruz,575,12,498,65
+Cooke,Pct. 11,U.S. Senate,,DEM,Colin Allred,120,6,88,26
+Cooke,Pct. 11,U.S. Senate,,LIB,Ted Brown,15,0,12,3
+Cooke,Pct. 11,U.S. Senate,,,Write-ins,0,0,0,0
+Cooke,Pct. 11,U.S. Senate,,,Over Votes,0,0,0,0
+Cooke,Pct. 11,U.S. Senate,,,Under Votes,8,0,4,4
+Cooke,Pct. 11,U.S. House,26,REP,Brandon Gill,595,12,514,69
+Cooke,Pct. 11,U.S. House,26,DEM,Ernest R. Lineberger III,104,6,73,25
+Cooke,Pct. 11,U.S. House,26,LIB,Phil Gray,10,0,6,4
+Cooke,Pct. 11,U.S. House,26,,Over Votes,0,0,0,0
+Cooke,Pct. 11,U.S. House,26,,Under Votes,9,0,9,0
+Cooke,Pct. 11,Railroad Commissioner,,REP,Christi Craddick,579,12,502,65
+Cooke,Pct. 11,Railroad Commissioner,,DEM,Katherine Culbert,91,6,62,23
+Cooke,Pct. 11,Railroad Commissioner,,LIB,Hawk Dunlap,16,0,14,2
+Cooke,Pct. 11,Railroad Commissioner,,GRN,Eddie Espinoza,10,0,6,4
+Cooke,Pct. 11,Railroad Commissioner,,,Write-ins,0,0,0,0
+Cooke,Pct. 11,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cooke,Pct. 11,Railroad Commissioner,,,Under Votes,22,0,18,4
+Cooke,Pct. 11,"Justice, Supreme Court",Pl 2,REP,Jimmy Blacklock,595,13,514,68
+Cooke,Pct. 11,"Justice, Supreme Court",Pl 2,DEM,DaSean Jones,100,5,69,26
+Cooke,Pct. 11,"Justice, Supreme Court",Pl 2,,Over Votes,0,0,0,0
+Cooke,Pct. 11,"Justice, Supreme Court",Pl 2,,Under Votes,23,0,19,4
+Cooke,Pct. 11,"Justice, Supreme Court",Pl 4,REP,John Devine,592,12,510,70
+Cooke,Pct. 11,"Justice, Supreme Court",Pl 4,DEM,Christine Vinh Weems,103,6,72,25
+Cooke,Pct. 11,"Justice, Supreme Court",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 11,"Justice, Supreme Court",Pl 4,,Under Votes,23,0,20,3
+Cooke,Pct. 11,"Justice, Supreme Court",Pl 6,REP,Jane Bland,581,12,500,69
+Cooke,Pct. 11,"Justice, Supreme Court",Pl 6,DEM,Bonnie Lee Goldstein,97,6,68,23
+Cooke,Pct. 11,"Justice, Supreme Court",Pl 6,LIB,J. David Roberson,17,0,14,3
+Cooke,Pct. 11,"Justice, Supreme Court",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 11,"Justice, Supreme Court",Pl 6,,Under Votes,23,0,20,3
+Cooke,Pct. 11,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,578,12,499,67
+Cooke,Pct. 11,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,111,6,77,28
+Cooke,Pct. 11,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Cooke,Pct. 11,"Presiding Judge, Ct of Crim App",,,Under Votes,29,0,26,3
+Cooke,Pct. 11,"Judge, Ct of Crim App",Pl 7,REP,Gina Parker,580,10,501,69
+Cooke,Pct. 11,"Judge, Ct of Crim App",Pl 7,DEM,Nancy Mulder,106,7,73,26
+Cooke,Pct. 11,"Judge, Ct of Crim App",Pl 7,,Over Votes,0,0,0,0
+Cooke,Pct. 11,"Judge, Ct of Crim App",Pl 7,,Under Votes,32,1,28,3
+Cooke,Pct. 11,"Judge, Ct of Crim App",Pl 8,REP,Lee Finley,598,12,513,73
+Cooke,Pct. 11,"Judge, Ct of Crim App",Pl 8,DEM,Chika Anyiam,90,6,62,22
+Cooke,Pct. 11,"Judge, Ct of Crim App",Pl 8,,Over Votes,0,0,0,0
+Cooke,Pct. 11,"Judge, Ct of Crim App",Pl 8,,Under Votes,30,0,27,3
+Cooke,Pct. 11,"Member, State BoE",12,REP,Pam Little,586,13,503,70
+Cooke,Pct. 11,"Member, State BoE",12,DEM,George King,107,5,77,25
+Cooke,Pct. 11,"Member, State BoE",12,,Over Votes,0,0,0,0
+Cooke,Pct. 11,"Member, State BoE",12,,Under Votes,25,0,22,3
+Cooke,Pct. 11,State Senate,30,REP,Brent Hagenbuch,592,12,511,69
+Cooke,Pct. 11,State Senate,30,DEM,Dale Frey,103,6,72,25
+Cooke,Pct. 11,State Senate,30,,Over Votes,0,0,0,0
+Cooke,Pct. 11,State Senate,30,,Under Votes,23,0,19,4
+Cooke,Pct. 11,State Representative,68,REP,David Spiller,592,12,510,70
+Cooke,Pct. 11,State Representative,68,DEM,Stacey Swann,95,6,64,25
+Cooke,Pct. 11,State Representative,68,,Over Votes,0,0,0,0
+Cooke,Pct. 11,State Representative,68,,Under Votes,31,0,28,3
+Cooke,Pct. 11,"Chief Justice, 2nd Ct of App Dist",,REP,Bonnie Sudderth,617,13,523,81
+Cooke,Pct. 11,"Chief Justice, 2nd Ct of App Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 11,"Chief Justice, 2nd Ct of App Dist",,,Under Votes,101,5,79,17
+Cooke,Pct. 11,"Justice, 2nd Ct of App Dist",Pl 4,REP,Wade Birdwell,617,12,524,81
+Cooke,Pct. 11,"Justice, 2nd Ct of App Dist",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 11,"Justice, 2nd Ct of App Dist",Pl 4,,Under Votes,101,6,78,17
+Cooke,Pct. 11,"Justice, 2nd Ct of App Dist",Pl 5,REP,Dabney Bassel,613,12,520,81
+Cooke,Pct. 11,"Justice, 2nd Ct of App Dist",Pl 5,,Over Votes,0,0,0,0
+Cooke,Pct. 11,"Justice, 2nd Ct of App Dist",Pl 5,,Under Votes,105,6,82,17
+Cooke,Pct. 11,"Justice, 2nd Ct of App Dist",Pl 6,REP,Mike Wallach,617,13,523,81
+Cooke,Pct. 11,"Justice, 2nd Ct of App Dist",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 11,"Justice, 2nd Ct of App Dist",Pl 6,,Under Votes,101,5,79,17
+Cooke,Pct. 11,"Dist Judge, 235th Judicial Dist",,REP,Janelle M. Haverkamp,586,13,503,70
+Cooke,Pct. 11,"Dist Judge, 235th Judicial Dist",,DEM,Emmanuel Albarado,107,5,77,25
+Cooke,Pct. 11,"Dist Judge, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 11,"Dist Judge, 235th Judicial Dist",,,Under Votes,25,0,22,3
+Cooke,Pct. 11,"Dist Attorney, 235th Judicial Dist",,REP,John Warren,613,14,520,79
+Cooke,Pct. 11,"Dist Attorney, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 11,"Dist Attorney, 235th Judicial Dist",,,Under Votes,105,4,82,19
+Cooke,Pct. 11,County Attorney,,REP,Ed Zielinski,616,12,528,76
+Cooke,Pct. 11,County Attorney,,,Over Votes,0,0,0,0
+Cooke,Pct. 11,County Attorney,,,Under Votes,102,6,74,22
+Cooke,Pct. 11,Sheriff,,REP,Ray Sappington,621,12,530,79
+Cooke,Pct. 11,Sheriff,,,Over Votes,0,0,0,0
+Cooke,Pct. 11,Sheriff,,,Under Votes,97,6,72,19
+Cooke,Pct. 11,County Tax Assessor-Collector,,REP,Brandy Ann Carr,613,14,520,79
+Cooke,Pct. 11,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cooke,Pct. 11,County Tax Assessor-Collector,,,Under Votes,105,4,82,19
+Cooke,Pct. 11,County Treasurer - Unexpired Term,,REP,Susan Wells,595,12,503,80
+Cooke,Pct. 11,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Cooke,Pct. 11,County Treasurer - Unexpired Term,,,Under Votes,123,6,99,18
+Cooke,Pct. 11,PROPOSITION A Buffalo ISD,,,FOR,459,11,380,68
+Cooke,Pct. 11,PROPOSITION A Buffalo ISD,,,AGAINST,239,6,209,24
+Cooke,Pct. 11,PROPOSITION A Buffalo ISD,,,Over Votes,0,0,0,0
+Cooke,Pct. 11,PROPOSITION A Buffalo ISD,,,Under Votes,20,1,13,6
+Cooke,Pct. 12,Registered Voters,,,,1239,,,
+Cooke,Pct. 12,Ballots Cast,,,,975,22,555,398
+Cooke,Pct. 12,Ballots Cast Blank,,,,1,0,0,1
+Cooke,Pct. 12,President,,REP,Donald J. Trump/JD Vance,828,17,470,341
+Cooke,Pct. 12,President,,DEM,Kamala D. Harris/Tim Walz,137,5,82,50
+Cooke,Pct. 12,President,,LIB,Chase Oliver/Mike ter Maat,4,0,1,3
+Cooke,Pct. 12,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Cooke,Pct. 12,President,,,Write-ins,1,0,0,1
+Cooke,Pct. 12,President,,,Over Votes,0,0,0,0
+Cooke,Pct. 12,President,,,Under Votes,4,0,1,3
+Cooke,Pct. 12,U.S. Senate,,REP,Ted Cruz,797,17,452,328
+Cooke,Pct. 12,U.S. Senate,,DEM,Colin Allred,152,5,90,57
+Cooke,Pct. 12,U.S. Senate,,LIB,Ted Brown,14,0,7,7
+Cooke,Pct. 12,U.S. Senate,,,Write-ins,1,0,1,0
+Cooke,Pct. 12,U.S. Senate,,,Over Votes,0,0,0,0
+Cooke,Pct. 12,U.S. Senate,,,Under Votes,11,0,5,6
+Cooke,Pct. 12,U.S. House,26,REP,Brandon Gill,807,17,455,335
+Cooke,Pct. 12,U.S. House,26,DEM,Ernest R. Lineberger III,121,5,72,44
+Cooke,Pct. 12,U.S. House,26,LIB,Phil Gray,18,0,11,7
+Cooke,Pct. 12,U.S. House,26,,Over Votes,0,0,0,0
+Cooke,Pct. 12,U.S. House,26,,Under Votes,29,0,17,12
+Cooke,Pct. 12,Railroad Commissioner,,REP,Christi Craddick,799,16,454,329
+Cooke,Pct. 12,Railroad Commissioner,,DEM,Katherine Culbert,115,5,69,41
+Cooke,Pct. 12,Railroad Commissioner,,LIB,Hawk Dunlap,21,0,12,9
+Cooke,Pct. 12,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,2,3
+Cooke,Pct. 12,Railroad Commissioner,,,Write-ins,1,0,0,1
+Cooke,Pct. 12,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cooke,Pct. 12,Railroad Commissioner,,,Under Votes,34,1,18,15
+Cooke,Pct. 12,"Justice, Supreme Court",Pl 2,REP,Jimmy Blacklock,828,17,469,342
+Cooke,Pct. 12,"Justice, Supreme Court",Pl 2,DEM,DaSean Jones,117,4,71,42
+Cooke,Pct. 12,"Justice, Supreme Court",Pl 2,,Over Votes,0,0,0,0
+Cooke,Pct. 12,"Justice, Supreme Court",Pl 2,,Under Votes,30,1,15,14
+Cooke,Pct. 12,"Justice, Supreme Court",Pl 4,REP,John Devine,815,16,467,332
+Cooke,Pct. 12,"Justice, Supreme Court",Pl 4,DEM,Christine Vinh Weems,125,5,73,47
+Cooke,Pct. 12,"Justice, Supreme Court",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 12,"Justice, Supreme Court",Pl 4,,Under Votes,35,1,15,19
+Cooke,Pct. 12,"Justice, Supreme Court",Pl 6,REP,Jane Bland,813,16,464,333
+Cooke,Pct. 12,"Justice, Supreme Court",Pl 6,DEM,Bonnie Lee Goldstein,112,5,69,38
+Cooke,Pct. 12,"Justice, Supreme Court",Pl 6,LIB,J. David Roberson,17,0,8,9
+Cooke,Pct. 12,"Justice, Supreme Court",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 12,"Justice, Supreme Court",Pl 6,,Under Votes,33,1,14,18
+Cooke,Pct. 12,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,808,16,461,331
+Cooke,Pct. 12,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,130,5,77,48
+Cooke,Pct. 12,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Cooke,Pct. 12,"Presiding Judge, Ct of Crim App",,,Under Votes,37,1,17,19
+Cooke,Pct. 12,"Judge, Ct of Crim App",Pl 7,REP,Gina Parker,816,16,462,338
+Cooke,Pct. 12,"Judge, Ct of Crim App",Pl 7,DEM,Nancy Mulder,123,5,76,42
+Cooke,Pct. 12,"Judge, Ct of Crim App",Pl 7,,Over Votes,0,0,0,0
+Cooke,Pct. 12,"Judge, Ct of Crim App",Pl 7,,Under Votes,36,1,17,18
+Cooke,Pct. 12,"Judge, Ct of Crim App",Pl 8,REP,Lee Finley,821,16,466,339
+Cooke,Pct. 12,"Judge, Ct of Crim App",Pl 8,DEM,Chika Anyiam,115,5,70,40
+Cooke,Pct. 12,"Judge, Ct of Crim App",Pl 8,,Over Votes,0,0,0,0
+Cooke,Pct. 12,"Judge, Ct of Crim App",Pl 8,,Under Votes,39,1,19,19
+Cooke,Pct. 12,"Member, State BoE",12,REP,Pam Little,798,15,450,333
+Cooke,Pct. 12,"Member, State BoE",12,DEM,George King,130,5,77,48
+Cooke,Pct. 12,"Member, State BoE",12,,Over Votes,0,0,0,0
+Cooke,Pct. 12,"Member, State BoE",12,,Under Votes,47,2,28,17
+Cooke,Pct. 12,State Senate,30,REP,Brent Hagenbuch,804,16,452,336
+Cooke,Pct. 12,State Senate,30,DEM,Dale Frey,121,5,74,42
+Cooke,Pct. 12,State Senate,30,,Over Votes,0,0,0,0
+Cooke,Pct. 12,State Senate,30,,Under Votes,50,1,29,20
+Cooke,Pct. 12,State Representative,68,REP,David Spiller,806,16,453,337
+Cooke,Pct. 12,State Representative,68,DEM,Stacey Swann,119,5,70,44
+Cooke,Pct. 12,State Representative,68,,Over Votes,0,0,0,0
+Cooke,Pct. 12,State Representative,68,,Under Votes,50,1,32,17
+Cooke,Pct. 12,"Chief Justice, 2nd Ct of App Dist",,REP,Bonnie Sudderth,843,17,473,353
+Cooke,Pct. 12,"Chief Justice, 2nd Ct of App Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 12,"Chief Justice, 2nd Ct of App Dist",,,Under Votes,132,5,82,45
+Cooke,Pct. 12,"Justice, 2nd Ct of App Dist",Pl 4,REP,Wade Birdwell,824,17,458,349
+Cooke,Pct. 12,"Justice, 2nd Ct of App Dist",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 12,"Justice, 2nd Ct of App Dist",Pl 4,,Under Votes,151,5,97,49
+Cooke,Pct. 12,"Justice, 2nd Ct of App Dist",Pl 5,REP,Dabney Bassel,812,17,454,341
+Cooke,Pct. 12,"Justice, 2nd Ct of App Dist",Pl 5,,Over Votes,0,0,0,0
+Cooke,Pct. 12,"Justice, 2nd Ct of App Dist",Pl 5,,Under Votes,163,5,101,57
+Cooke,Pct. 12,"Justice, 2nd Ct of App Dist",Pl 6,REP,Mike Wallach,816,17,454,345
+Cooke,Pct. 12,"Justice, 2nd Ct of App Dist",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 12,"Justice, 2nd Ct of App Dist",Pl 6,,Under Votes,159,5,101,53
+Cooke,Pct. 12,"Dist Judge, 235th Judicial Dist",,REP,Janelle M. Haverkamp,786,15,451,320
+Cooke,Pct. 12,"Dist Judge, 235th Judicial Dist",,DEM,Emmanuel Albarado,122,6,59,57
+Cooke,Pct. 12,"Dist Judge, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 12,"Dist Judge, 235th Judicial Dist",,,Under Votes,67,1,45,21
+Cooke,Pct. 12,"Dist Attorney, 235th Judicial Dist",,REP,John Warren,832,16,455,361
+Cooke,Pct. 12,"Dist Attorney, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 12,"Dist Attorney, 235th Judicial Dist",,,Under Votes,143,6,100,37
+Cooke,Pct. 12,County Attorney,,REP,Ed Zielinski,832,17,457,358
+Cooke,Pct. 12,County Attorney,,,Over Votes,0,0,0,0
+Cooke,Pct. 12,County Attorney,,,Under Votes,143,5,98,40
+Cooke,Pct. 12,Sheriff,,REP,Ray Sappington,833,17,457,359
+Cooke,Pct. 12,Sheriff,,,Over Votes,0,0,0,0
+Cooke,Pct. 12,Sheriff,,,Under Votes,142,5,98,39
+Cooke,Pct. 12,County Tax Assessor-Collector,,REP,Brandy Ann Carr,849,17,469,363
+Cooke,Pct. 12,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cooke,Pct. 12,County Tax Assessor-Collector,,,Under Votes,126,5,86,35
+Cooke,Pct. 12,County Treasurer - Unexpired Term,,REP,Susan Wells,819,17,452,350
+Cooke,Pct. 12,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Cooke,Pct. 12,County Treasurer - Unexpired Term,,,Under Votes,156,5,103,48
+Cooke,Pct. 12,County Commissioner,Pct 3,REP,Adam Paul Arendt,819,14,455,350
+Cooke,Pct. 12,County Commissioner,Pct 3,,Over Votes,0,0,0,0
+Cooke,Pct. 12,County Commissioner,Pct 3,,Under Votes,156,8,100,48
+Cooke,Pct. 12,Constable,Pct 2,REP,Chuck Owen,816,17,452,347
+Cooke,Pct. 12,Constable,Pct 2,,Over Votes,0,0,0,0
+Cooke,Pct. 12,Constable,Pct 2,,Under Votes,159,5,103,51
+Cooke,Pct. 12,"Trustee, Position 5 Slidell ISD",,,Marshall Bain Fortenberry,6,0,6,0
+Cooke,Pct. 12,"Trustee, Position 5 Slidell ISD",,,Tim Fletcher,0,0,0,0
+Cooke,Pct. 12,"Trustee, Position 5 Slidell ISD",,,Over Votes,0,0,0,0
+Cooke,Pct. 12,"Trustee, Position 5 Slidell ISD",,,Under Votes,0,0,0,0
+Cooke,Pct. 12,"Trustee, Position 6 Slidell ISD",,,Jason Paris,2,0,2,0
+Cooke,Pct. 12,"Trustee, Position 6 Slidell ISD",,,Ash Self,4,0,4,0
+Cooke,Pct. 12,"Trustee, Position 6 Slidell ISD",,,Over Votes,0,0,0,0
+Cooke,Pct. 12,"Trustee, Position 6 Slidell ISD",,,Under Votes,0,0,0,0
+Cooke,Pct. 12,"Trustee, Position 7 Slidell ISD",,,Alex Markel,1,0,1,0
+Cooke,Pct. 12,"Trustee, Position 7 Slidell ISD",,,Jeff Weber,5,0,5,0
+Cooke,Pct. 12,"Trustee, Position 7 Slidell ISD",,,Over Votes,0,0,0,0
+Cooke,Pct. 12,"Trustee, Position 7 Slidell ISD",,,Under Votes,0,0,0,0
+Cooke,Pct. 17,Registered Voters,,,,538,,,
+Cooke,Pct. 17,Ballots Cast,,,,441,17,237,187
+Cooke,Pct. 17,Ballots Cast Blank,,,,0,0,0,0
+Cooke,Pct. 17,President,,REP,Donald J. Trump/JD Vance,404,15,212,177
+Cooke,Pct. 17,President,,DEM,Kamala D. Harris/Tim Walz,35,1,25,9
+Cooke,Pct. 17,President,,LIB,Chase Oliver/Mike ter Maat,1,0,0,1
+Cooke,Pct. 17,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Cooke,Pct. 17,President,,,Write-ins,0,0,0,0
+Cooke,Pct. 17,President,,,Over Votes,0,0,0,0
+Cooke,Pct. 17,President,,,Under Votes,1,1,0,0
+Cooke,Pct. 17,U.S. Senate,,REP,Ted Cruz,401,15,211,175
+Cooke,Pct. 17,U.S. Senate,,DEM,Colin Allred,34,1,24,9
+Cooke,Pct. 17,U.S. Senate,,LIB,Ted Brown,2,0,1,1
+Cooke,Pct. 17,U.S. Senate,,,Write-ins,0,0,0,0
+Cooke,Pct. 17,U.S. Senate,,,Over Votes,0,0,0,0
+Cooke,Pct. 17,U.S. Senate,,,Under Votes,4,1,1,2
+Cooke,Pct. 17,U.S. House,26,REP,Brandon Gill,403,16,211,176
+Cooke,Pct. 17,U.S. House,26,DEM,Ernest R. Lineberger III,25,1,18,6
+Cooke,Pct. 17,U.S. House,26,LIB,Phil Gray,4,0,2,2
+Cooke,Pct. 17,U.S. House,26,,Over Votes,0,0,0,0
+Cooke,Pct. 17,U.S. House,26,,Under Votes,9,0,6,3
+Cooke,Pct. 17,Railroad Commissioner,,REP,Christi Craddick,403,17,208,178
+Cooke,Pct. 17,Railroad Commissioner,,DEM,Katherine Culbert,23,0,19,4
+Cooke,Pct. 17,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,5,1
+Cooke,Pct. 17,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Cooke,Pct. 17,Railroad Commissioner,,,Write-ins,0,0,0,0
+Cooke,Pct. 17,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cooke,Pct. 17,Railroad Commissioner,,,Under Votes,8,0,4,4
+Cooke,Pct. 17,"Justice, Supreme Court",Pl 2,REP,Jimmy Blacklock,405,17,212,176
+Cooke,Pct. 17,"Justice, Supreme Court",Pl 2,DEM,DaSean Jones,27,0,21,6
+Cooke,Pct. 17,"Justice, Supreme Court",Pl 2,,Over Votes,0,0,0,0
+Cooke,Pct. 17,"Justice, Supreme Court",Pl 2,,Under Votes,9,0,4,5
+Cooke,Pct. 17,"Justice, Supreme Court",Pl 4,REP,John Devine,403,17,209,177
+Cooke,Pct. 17,"Justice, Supreme Court",Pl 4,DEM,Christine Vinh Weems,28,0,22,6
+Cooke,Pct. 17,"Justice, Supreme Court",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 17,"Justice, Supreme Court",Pl 4,,Under Votes,10,0,6,4
+Cooke,Pct. 17,"Justice, Supreme Court",Pl 6,REP,Jane Bland,405,17,211,177
+Cooke,Pct. 17,"Justice, Supreme Court",Pl 6,DEM,Bonnie Lee Goldstein,24,0,19,5
+Cooke,Pct. 17,"Justice, Supreme Court",Pl 6,LIB,J. David Roberson,3,0,2,1
+Cooke,Pct. 17,"Justice, Supreme Court",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 17,"Justice, Supreme Court",Pl 6,,Under Votes,9,0,5,4
+Cooke,Pct. 17,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,400,16,210,174
+Cooke,Pct. 17,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,30,1,21,8
+Cooke,Pct. 17,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Cooke,Pct. 17,"Presiding Judge, Ct of Crim App",,,Under Votes,11,0,6,5
+Cooke,Pct. 17,"Judge, Ct of Crim App",Pl 7,REP,Gina Parker,402,16,211,175
+Cooke,Pct. 17,"Judge, Ct of Crim App",Pl 7,DEM,Nancy Mulder,26,0,20,6
+Cooke,Pct. 17,"Judge, Ct of Crim App",Pl 7,,Over Votes,0,0,0,0
+Cooke,Pct. 17,"Judge, Ct of Crim App",Pl 7,,Under Votes,13,1,6,6
+Cooke,Pct. 17,"Judge, Ct of Crim App",Pl 8,REP,Lee Finley,404,17,210,177
+Cooke,Pct. 17,"Judge, Ct of Crim App",Pl 8,DEM,Chika Anyiam,25,0,21,4
+Cooke,Pct. 17,"Judge, Ct of Crim App",Pl 8,,Over Votes,0,0,0,0
+Cooke,Pct. 17,"Judge, Ct of Crim App",Pl 8,,Under Votes,12,0,6,6
+Cooke,Pct. 17,"Member, State BoE",12,REP,Pam Little,397,17,207,173
+Cooke,Pct. 17,"Member, State BoE",12,DEM,George King,29,0,20,9
+Cooke,Pct. 17,"Member, State BoE",12,,Over Votes,0,0,0,0
+Cooke,Pct. 17,"Member, State BoE",12,,Under Votes,15,0,10,5
+Cooke,Pct. 17,State Senate,30,REP,Brent Hagenbuch,399,16,208,175
+Cooke,Pct. 17,State Senate,30,DEM,Dale Frey,29,1,21,7
+Cooke,Pct. 17,State Senate,30,,Over Votes,0,0,0,0
+Cooke,Pct. 17,State Senate,30,,Under Votes,13,0,8,5
+Cooke,Pct. 17,State Representative,68,REP,David Spiller,401,16,208,177
+Cooke,Pct. 17,State Representative,68,DEM,Stacey Swann,25,1,19,5
+Cooke,Pct. 17,State Representative,68,,Over Votes,0,0,0,0
+Cooke,Pct. 17,State Representative,68,,Under Votes,15,0,10,5
+Cooke,Pct. 17,"Chief Justice, 2nd Ct of App Dist",,REP,Bonnie Sudderth,399,15,213,171
+Cooke,Pct. 17,"Chief Justice, 2nd Ct of App Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 17,"Chief Justice, 2nd Ct of App Dist",,,Under Votes,42,2,24,16
+Cooke,Pct. 17,"Justice, 2nd Ct of App Dist",Pl 4,REP,Wade Birdwell,395,15,208,172
+Cooke,Pct. 17,"Justice, 2nd Ct of App Dist",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 17,"Justice, 2nd Ct of App Dist",Pl 4,,Under Votes,46,2,29,15
+Cooke,Pct. 17,"Justice, 2nd Ct of App Dist",Pl 5,REP,Dabney Bassel,394,15,208,171
+Cooke,Pct. 17,"Justice, 2nd Ct of App Dist",Pl 5,,Over Votes,0,0,0,0
+Cooke,Pct. 17,"Justice, 2nd Ct of App Dist",Pl 5,,Under Votes,47,2,29,16
+Cooke,Pct. 17,"Justice, 2nd Ct of App Dist",Pl 6,REP,Mike Wallach,395,15,208,172
+Cooke,Pct. 17,"Justice, 2nd Ct of App Dist",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 17,"Justice, 2nd Ct of App Dist",Pl 6,,Under Votes,46,2,29,15
+Cooke,Pct. 17,"Dist Judge, 235th Judicial Dist",,REP,Janelle M. Haverkamp,383,17,199,167
+Cooke,Pct. 17,"Dist Judge, 235th Judicial Dist",,DEM,Emmanuel Albarado,37,0,23,14
+Cooke,Pct. 17,"Dist Judge, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 17,"Dist Judge, 235th Judicial Dist",,,Under Votes,21,0,15,6
+Cooke,Pct. 17,"Dist Attorney, 235th Judicial Dist",,REP,John Warren,396,15,209,172
+Cooke,Pct. 17,"Dist Attorney, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 17,"Dist Attorney, 235th Judicial Dist",,,Under Votes,45,2,28,15
+Cooke,Pct. 17,County Attorney,,REP,Ed Zielinski,398,15,208,175
+Cooke,Pct. 17,County Attorney,,,Over Votes,0,0,0,0
+Cooke,Pct. 17,County Attorney,,,Under Votes,43,2,29,12
+Cooke,Pct. 17,Sheriff,,REP,Ray Sappington,400,14,210,176
+Cooke,Pct. 17,Sheriff,,,Over Votes,0,0,0,0
+Cooke,Pct. 17,Sheriff,,,Under Votes,41,3,27,11
+Cooke,Pct. 17,County Tax Assessor-Collector,,REP,Brandy Ann Carr,404,15,213,176
+Cooke,Pct. 17,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cooke,Pct. 17,County Tax Assessor-Collector,,,Under Votes,37,2,24,11
+Cooke,Pct. 17,County Treasurer - Unexpired Term,,REP,Susan Wells,391,15,205,171
+Cooke,Pct. 17,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Cooke,Pct. 17,County Treasurer - Unexpired Term,,,Under Votes,50,2,32,16
+Cooke,Pct. 17,County Commissioner,Pct 3,REP,Adam Paul Arendt,393,13,209,171
+Cooke,Pct. 17,County Commissioner,Pct 3,,Over Votes,0,0,0,0
+Cooke,Pct. 17,County Commissioner,Pct 3,,Under Votes,48,4,28,16
+Cooke,Pct. 17,Constable,Pct 2,REP,Chuck Owen,390,15,203,172
+Cooke,Pct. 17,Constable,Pct 2,,Over Votes,0,0,0,0
+Cooke,Pct. 17,Constable,Pct 2,,Under Votes,51,2,34,15
+Cooke,Pct. 18,Registered Voters,,,,1964,,,
+Cooke,Pct. 18,Ballots Cast,,,,1560,34,769,757
+Cooke,Pct. 18,Ballots Cast Blank,,,,1,0,0,1
+Cooke,Pct. 18,President,,REP,Donald J. Trump/JD Vance,1415,30,686,699
+Cooke,Pct. 18,President,,DEM,Kamala D. Harris/Tim Walz,124,3,73,48
+Cooke,Pct. 18,President,,LIB,Chase Oliver/Mike ter Maat,6,0,2,4
+Cooke,Pct. 18,President,,GRN,Jill Stein/Rudolph Ware,3,0,1,2
+Cooke,Pct. 18,President,,,Write-ins,4,0,4,0
+Cooke,Pct. 18,President,,,Over Votes,0,0,0,0
+Cooke,Pct. 18,President,,,Under Votes,8,1,3,4
+Cooke,Pct. 18,U.S. Senate,,REP,Ted Cruz,1381,29,675,677
+Cooke,Pct. 18,U.S. Senate,,DEM,Colin Allred,144,5,78,61
+Cooke,Pct. 18,U.S. Senate,,LIB,Ted Brown,18,0,9,9
+Cooke,Pct. 18,U.S. Senate,,,Write-ins,3,0,2,1
+Cooke,Pct. 18,U.S. Senate,,,Over Votes,0,0,0,0
+Cooke,Pct. 18,U.S. Senate,,,Under Votes,14,0,5,9
+Cooke,Pct. 18,U.S. House,26,REP,Brandon Gill,1385,31,678,676
+Cooke,Pct. 18,U.S. House,26,DEM,Ernest R. Lineberger III,102,3,57,42
+Cooke,Pct. 18,U.S. House,26,LIB,Phil Gray,20,0,11,9
+Cooke,Pct. 18,U.S. House,26,,Over Votes,0,0,0,0
+Cooke,Pct. 18,U.S. House,26,,Under Votes,53,0,23,30
+Cooke,Pct. 18,Railroad Commissioner,,REP,Christi Craddick,1366,32,674,660
+Cooke,Pct. 18,Railroad Commissioner,,DEM,Katherine Culbert,87,2,49,36
+Cooke,Pct. 18,Railroad Commissioner,,LIB,Hawk Dunlap,38,0,16,22
+Cooke,Pct. 18,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,3,2
+Cooke,Pct. 18,Railroad Commissioner,,,Write-ins,1,0,1,0
+Cooke,Pct. 18,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cooke,Pct. 18,Railroad Commissioner,,,Under Votes,63,0,26,37
+Cooke,Pct. 18,"Justice, Supreme Court",Pl 2,REP,Jimmy Blacklock,1399,31,691,677
+Cooke,Pct. 18,"Justice, Supreme Court",Pl 2,DEM,DaSean Jones,94,2,56,36
+Cooke,Pct. 18,"Justice, Supreme Court",Pl 2,,Over Votes,0,0,0,0
+Cooke,Pct. 18,"Justice, Supreme Court",Pl 2,,Under Votes,67,1,22,44
+Cooke,Pct. 18,"Justice, Supreme Court",Pl 4,REP,John Devine,1361,31,678,652
+Cooke,Pct. 18,"Justice, Supreme Court",Pl 4,DEM,Christine Vinh Weems,105,2,60,43
+Cooke,Pct. 18,"Justice, Supreme Court",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 18,"Justice, Supreme Court",Pl 4,,Under Votes,94,1,31,62
+Cooke,Pct. 18,"Justice, Supreme Court",Pl 6,REP,Jane Bland,1367,32,667,668
+Cooke,Pct. 18,"Justice, Supreme Court",Pl 6,DEM,Bonnie Lee Goldstein,94,2,57,35
+Cooke,Pct. 18,"Justice, Supreme Court",Pl 6,LIB,J. David Roberson,24,0,11,13
+Cooke,Pct. 18,"Justice, Supreme Court",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 18,"Justice, Supreme Court",Pl 6,,Under Votes,75,0,34,41
+Cooke,Pct. 18,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1378,30,677,671
+Cooke,Pct. 18,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,105,2,62,41
+Cooke,Pct. 18,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Cooke,Pct. 18,"Presiding Judge, Ct of Crim App",,,Under Votes,77,2,30,45
+Cooke,Pct. 18,"Judge, Ct of Crim App",Pl 7,REP,Gina Parker,1378,31,681,666
+Cooke,Pct. 18,"Judge, Ct of Crim App",Pl 7,DEM,Nancy Mulder,94,2,57,35
+Cooke,Pct. 18,"Judge, Ct of Crim App",Pl 7,,Over Votes,0,0,0,0
+Cooke,Pct. 18,"Judge, Ct of Crim App",Pl 7,,Under Votes,88,1,31,56
+Cooke,Pct. 18,"Judge, Ct of Crim App",Pl 8,REP,Lee Finley,1380,31,679,670
+Cooke,Pct. 18,"Judge, Ct of Crim App",Pl 8,DEM,Chika Anyiam,96,2,56,38
+Cooke,Pct. 18,"Judge, Ct of Crim App",Pl 8,,Over Votes,0,0,0,0
+Cooke,Pct. 18,"Judge, Ct of Crim App",Pl 8,,Under Votes,84,1,34,49
+Cooke,Pct. 18,"Member, State BoE",12,REP,Pam Little,1382,31,676,675
+Cooke,Pct. 18,"Member, State BoE",12,DEM,George King,98,3,59,36
+Cooke,Pct. 18,"Member, State BoE",12,,Over Votes,0,0,0,0
+Cooke,Pct. 18,"Member, State BoE",12,,Under Votes,80,0,34,46
+Cooke,Pct. 18,State Senate,30,REP,Brent Hagenbuch,1383,30,677,676
+Cooke,Pct. 18,State Senate,30,DEM,Dale Frey,100,2,58,40
+Cooke,Pct. 18,State Senate,30,,Over Votes,0,0,0,0
+Cooke,Pct. 18,State Senate,30,,Under Votes,77,2,34,41
+Cooke,Pct. 18,State Representative,68,REP,David Spiller,1389,31,680,678
+Cooke,Pct. 18,State Representative,68,DEM,Stacey Swann,99,2,57,40
+Cooke,Pct. 18,State Representative,68,,Over Votes,0,0,0,0
+Cooke,Pct. 18,State Representative,68,,Under Votes,72,1,32,39
+Cooke,Pct. 18,"Chief Justice, 2nd Ct of App Dist",,REP,Bonnie Sudderth,1372,29,681,662
+Cooke,Pct. 18,"Chief Justice, 2nd Ct of App Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 18,"Chief Justice, 2nd Ct of App Dist",,,Under Votes,188,5,88,95
+Cooke,Pct. 18,"Justice, 2nd Ct of App Dist",Pl 4,REP,Wade Birdwell,1358,28,676,654
+Cooke,Pct. 18,"Justice, 2nd Ct of App Dist",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 18,"Justice, 2nd Ct of App Dist",Pl 4,,Under Votes,202,6,93,103
+Cooke,Pct. 18,"Justice, 2nd Ct of App Dist",Pl 5,REP,Dabney Bassel,1356,28,670,658
+Cooke,Pct. 18,"Justice, 2nd Ct of App Dist",Pl 5,,Over Votes,0,0,0,0
+Cooke,Pct. 18,"Justice, 2nd Ct of App Dist",Pl 5,,Under Votes,204,6,99,99
+Cooke,Pct. 18,"Justice, 2nd Ct of App Dist",Pl 6,REP,Mike Wallach,1360,29,677,654
+Cooke,Pct. 18,"Justice, 2nd Ct of App Dist",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 18,"Justice, 2nd Ct of App Dist",Pl 6,,Under Votes,200,5,92,103
+Cooke,Pct. 18,"Dist Judge, 235th Judicial Dist",,REP,Janelle M. Haverkamp,1386,31,681,674
+Cooke,Pct. 18,"Dist Judge, 235th Judicial Dist",,DEM,Emmanuel Albarado,96,1,49,46
+Cooke,Pct. 18,"Dist Judge, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 18,"Dist Judge, 235th Judicial Dist",,,Under Votes,78,2,39,37
+Cooke,Pct. 18,"Dist Attorney, 235th Judicial Dist",,REP,John Warren,1379,30,685,664
+Cooke,Pct. 18,"Dist Attorney, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 18,"Dist Attorney, 235th Judicial Dist",,,Under Votes,181,4,84,93
+Cooke,Pct. 18,County Attorney,,REP,Ed Zielinski,1386,30,687,669
+Cooke,Pct. 18,County Attorney,,,Over Votes,0,0,0,0
+Cooke,Pct. 18,County Attorney,,,Under Votes,174,4,82,88
+Cooke,Pct. 18,Sheriff,,REP,Ray Sappington,1387,31,689,667
+Cooke,Pct. 18,Sheriff,,,Over Votes,0,0,0,0
+Cooke,Pct. 18,Sheriff,,,Under Votes,173,3,80,90
+Cooke,Pct. 18,County Tax Assessor-Collector,,REP,Brandy Ann Carr,1393,32,689,672
+Cooke,Pct. 18,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cooke,Pct. 18,County Tax Assessor-Collector,,,Under Votes,167,2,80,85
+Cooke,Pct. 18,County Treasurer - Unexpired Term,,REP,Susan Wells,1367,29,680,658
+Cooke,Pct. 18,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Cooke,Pct. 18,County Treasurer - Unexpired Term,,,Under Votes,193,5,89,99
+Cooke,Pct. 18,County Commissioner,Pct 1,REP,Gary Hollowell,1371,29,681,661
+Cooke,Pct. 18,County Commissioner,Pct 1,,Over Votes,0,0,0,0
+Cooke,Pct. 18,County Commissioner,Pct 1,,Under Votes,189,5,88,96
+Cooke,Pct. 18,Constable,Pct 1,REP,Mark Westbrook,1371,29,681,661
+Cooke,Pct. 18,Constable,Pct 1,,Over Votes,0,0,0,0
+Cooke,Pct. 18,Constable,Pct 1,,Under Votes,189,5,88,96
+Cooke,Pct. 18,Board of Trustees Saint Jo ISD,,,Tim Hennessey,27,1,14,12
+Cooke,Pct. 18,Board of Trustees Saint Jo ISD,,,Dee Weger,31,0,21,10
+Cooke,Pct. 18,Board of Trustees Saint Jo ISD,,,Leeton Phillips,34,0,20,14
+Cooke,Pct. 18,Board of Trustees Saint Jo ISD,,,Over Votes,0,0,0,0
+Cooke,Pct. 18,Board of Trustees Saint Jo ISD,,,Under Votes,64,1,45,18
+Cooke,Pct. 21,Registered Voters,,,,2609,,,
+Cooke,Pct. 21,Ballots Cast,,,,1175,49,791,335
+Cooke,Pct. 21,Ballots Cast Blank,,,,0,0,0,0
+Cooke,Pct. 21,President,,REP,Donald J. Trump/JD Vance,790,32,544,214
+Cooke,Pct. 21,President,,DEM,Kamala D. Harris/Tim Walz,368,16,234,118
+Cooke,Pct. 21,President,,LIB,Chase Oliver/Mike ter Maat,9,1,6,2
+Cooke,Pct. 21,President,,GRN,Jill Stein/Rudolph Ware,3,0,3,0
+Cooke,Pct. 21,President,,,Write-ins,4,0,4,0
+Cooke,Pct. 21,President,,,Over Votes,0,0,0,0
+Cooke,Pct. 21,President,,,Under Votes,1,0,0,1
+Cooke,Pct. 21,U.S. Senate,,REP,Ted Cruz,715,28,505,182
+Cooke,Pct. 21,U.S. Senate,,DEM,Colin Allred,390,19,251,120
+Cooke,Pct. 21,U.S. Senate,,LIB,Ted Brown,42,1,22,19
+Cooke,Pct. 21,U.S. Senate,,,Write-ins,0,0,0,0
+Cooke,Pct. 21,U.S. Senate,,,Over Votes,0,0,0,0
+Cooke,Pct. 21,U.S. Senate,,,Under Votes,28,1,13,14
+Cooke,Pct. 21,U.S. House,26,REP,Brandon Gill,742,29,520,193
+Cooke,Pct. 21,U.S. House,26,DEM,Ernest R. Lineberger III,329,18,205,106
+Cooke,Pct. 21,U.S. House,26,LIB,Phil Gray,39,0,26,13
+Cooke,Pct. 21,U.S. House,26,,Over Votes,0,0,0,0
+Cooke,Pct. 21,U.S. House,26,,Under Votes,65,2,40,23
+Cooke,Pct. 21,Railroad Commissioner,,REP,Christi Craddick,713,29,504,180
+Cooke,Pct. 21,Railroad Commissioner,,DEM,Katherine Culbert,325,15,202,108
+Cooke,Pct. 21,Railroad Commissioner,,LIB,Hawk Dunlap,33,0,21,12
+Cooke,Pct. 21,Railroad Commissioner,,GRN,Eddie Espinoza,34,1,23,10
+Cooke,Pct. 21,Railroad Commissioner,,,Write-ins,1,0,0,1
+Cooke,Pct. 21,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cooke,Pct. 21,Railroad Commissioner,,,Under Votes,69,4,41,24
+Cooke,Pct. 21,"Justice, Supreme Court",Pl 2,REP,Jimmy Blacklock,755,29,526,200
+Cooke,Pct. 21,"Justice, Supreme Court",Pl 2,DEM,DaSean Jones,340,16,217,107
+Cooke,Pct. 21,"Justice, Supreme Court",Pl 2,,Over Votes,0,0,0,0
+Cooke,Pct. 21,"Justice, Supreme Court",Pl 2,,Under Votes,80,4,48,28
+Cooke,Pct. 21,"Justice, Supreme Court",Pl 4,REP,John Devine,732,26,512,194
+Cooke,Pct. 21,"Justice, Supreme Court",Pl 4,DEM,Christine Vinh Weems,367,17,236,114
+Cooke,Pct. 21,"Justice, Supreme Court",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 21,"Justice, Supreme Court",Pl 4,,Under Votes,76,6,43,27
+Cooke,Pct. 21,"Justice, Supreme Court",Pl 6,REP,Jane Bland,714,27,506,181
+Cooke,Pct. 21,"Justice, Supreme Court",Pl 6,DEM,Bonnie Lee Goldstein,347,16,222,109
+Cooke,Pct. 21,"Justice, Supreme Court",Pl 6,LIB,J. David Roberson,37,0,20,17
+Cooke,Pct. 21,"Justice, Supreme Court",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 21,"Justice, Supreme Court",Pl 6,,Under Votes,77,6,43,28
+Cooke,Pct. 21,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,730,25,517,188
+Cooke,Pct. 21,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,361,17,227,117
+Cooke,Pct. 21,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Cooke,Pct. 21,"Presiding Judge, Ct of Crim App",,,Under Votes,84,7,47,30
+Cooke,Pct. 21,"Judge, Ct of Crim App",Pl 7,REP,Gina Parker,733,26,520,187
+Cooke,Pct. 21,"Judge, Ct of Crim App",Pl 7,DEM,Nancy Mulder,351,17,218,116
+Cooke,Pct. 21,"Judge, Ct of Crim App",Pl 7,,Over Votes,0,0,0,0
+Cooke,Pct. 21,"Judge, Ct of Crim App",Pl 7,,Under Votes,91,6,53,32
+Cooke,Pct. 21,"Judge, Ct of Crim App",Pl 8,REP,Lee Finley,754,28,530,196
+Cooke,Pct. 21,"Judge, Ct of Crim App",Pl 8,DEM,Chika Anyiam,335,15,213,107
+Cooke,Pct. 21,"Judge, Ct of Crim App",Pl 8,,Over Votes,0,0,0,0
+Cooke,Pct. 21,"Judge, Ct of Crim App",Pl 8,,Under Votes,86,6,48,32
+Cooke,Pct. 21,"Member, State BoE",12,REP,Pam Little,743,29,527,187
+Cooke,Pct. 21,"Member, State BoE",12,DEM,George King,349,14,218,117
+Cooke,Pct. 21,"Member, State BoE",12,,Over Votes,0,0,0,0
+Cooke,Pct. 21,"Member, State BoE",12,,Under Votes,83,6,46,31
+Cooke,Pct. 21,State Senate,30,REP,Brent Hagenbuch,739,28,516,195
+Cooke,Pct. 21,State Senate,30,DEM,Dale Frey,350,16,223,111
+Cooke,Pct. 21,State Senate,30,,Over Votes,0,0,0,0
+Cooke,Pct. 21,State Senate,30,,Under Votes,86,5,52,29
+Cooke,Pct. 21,State Representative,68,REP,David Spiller,744,29,516,199
+Cooke,Pct. 21,State Representative,68,DEM,Stacey Swann,349,15,226,108
+Cooke,Pct. 21,State Representative,68,,Over Votes,0,0,0,0
+Cooke,Pct. 21,State Representative,68,,Under Votes,82,5,49,28
+Cooke,Pct. 21,"Chief Justice, 2nd Ct of App Dist",,REP,Bonnie Sudderth,877,28,594,255
+Cooke,Pct. 21,"Chief Justice, 2nd Ct of App Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 21,"Chief Justice, 2nd Ct of App Dist",,,Under Votes,298,21,197,80
+Cooke,Pct. 21,"Justice, 2nd Ct of App Dist",Pl 4,REP,Wade Birdwell,861,28,588,245
+Cooke,Pct. 21,"Justice, 2nd Ct of App Dist",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 21,"Justice, 2nd Ct of App Dist",Pl 4,,Under Votes,314,21,203,90
+Cooke,Pct. 21,"Justice, 2nd Ct of App Dist",Pl 5,REP,Dabney Bassel,846,28,577,241
+Cooke,Pct. 21,"Justice, 2nd Ct of App Dist",Pl 5,,Over Votes,0,0,0,0
+Cooke,Pct. 21,"Justice, 2nd Ct of App Dist",Pl 5,,Under Votes,329,21,214,94
+Cooke,Pct. 21,"Justice, 2nd Ct of App Dist",Pl 6,REP,Mike Wallach,862,28,586,248
+Cooke,Pct. 21,"Justice, 2nd Ct of App Dist",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 21,"Justice, 2nd Ct of App Dist",Pl 6,,Under Votes,313,21,205,87
+Cooke,Pct. 21,"Dist Judge, 235th Judicial Dist",,REP,Janelle M. Haverkamp,732,27,519,186
+Cooke,Pct. 21,"Dist Judge, 235th Judicial Dist",,DEM,Emmanuel Albarado,352,15,220,117
+Cooke,Pct. 21,"Dist Judge, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 21,"Dist Judge, 235th Judicial Dist",,,Under Votes,91,7,52,32
+Cooke,Pct. 21,"Dist Attorney, 235th Judicial Dist",,REP,John Warren,864,29,588,247
+Cooke,Pct. 21,"Dist Attorney, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 21,"Dist Attorney, 235th Judicial Dist",,,Under Votes,311,20,203,88
+Cooke,Pct. 21,County Attorney,,REP,Ed Zielinski,870,31,588,251
+Cooke,Pct. 21,County Attorney,,,Over Votes,0,0,0,0
+Cooke,Pct. 21,County Attorney,,,Under Votes,305,18,203,84
+Cooke,Pct. 21,Sheriff,,REP,Ray Sappington,874,29,597,248
+Cooke,Pct. 21,Sheriff,,,Over Votes,0,0,0,0
+Cooke,Pct. 21,Sheriff,,,Under Votes,301,20,194,87
+Cooke,Pct. 21,County Tax Assessor-Collector,,REP,Brandy Ann Carr,883,31,603,249
+Cooke,Pct. 21,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cooke,Pct. 21,County Tax Assessor-Collector,,,Under Votes,292,18,188,86
+Cooke,Pct. 21,County Treasurer - Unexpired Term,,REP,Susan Wells,859,27,587,245
+Cooke,Pct. 21,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Cooke,Pct. 21,County Treasurer - Unexpired Term,,,Under Votes,316,22,204,90
+Cooke,Pct. 21,County Commissioner,Pct 1,REP,Gary Hollowell,868,29,594,245
+Cooke,Pct. 21,County Commissioner,Pct 1,,Over Votes,0,0,0,0
+Cooke,Pct. 21,County Commissioner,Pct 1,,Under Votes,307,20,197,90
+Cooke,Pct. 21,Constable,Pct 1,REP,Mark Westbrook,868,29,594,245
+Cooke,Pct. 21,Constable,Pct 1,,Over Votes,0,0,0,0
+Cooke,Pct. 21,Constable,Pct 1,,Under Votes,307,20,197,90
+Cooke,Pct. 22,Registered Voters,,,,2285,,,
+Cooke,Pct. 22,Ballots Cast,,,,1822,74,1200,548
+Cooke,Pct. 22,Ballots Cast Blank,,,,0,0,0,0
+Cooke,Pct. 22,President,,REP,Donald J. Trump/JD Vance,1496,49,984,463
+Cooke,Pct. 22,President,,DEM,Kamala D. Harris/Tim Walz,300,24,201,75
+Cooke,Pct. 22,President,,LIB,Chase Oliver/Mike ter Maat,10,0,7,3
+Cooke,Pct. 22,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Cooke,Pct. 22,President,,,Write-ins,9,1,4,4
+Cooke,Pct. 22,President,,,Over Votes,0,0,0,0
+Cooke,Pct. 22,President,,,Under Votes,6,0,3,3
+Cooke,Pct. 22,U.S. Senate,,REP,Ted Cruz,1453,50,971,432
+Cooke,Pct. 22,U.S. Senate,,DEM,Colin Allred,332,24,214,94
+Cooke,Pct. 22,U.S. Senate,,LIB,Ted Brown,24,0,12,12
+Cooke,Pct. 22,U.S. Senate,,,Write-ins,1,0,1,0
+Cooke,Pct. 22,U.S. Senate,,,Over Votes,0,0,0,0
+Cooke,Pct. 22,U.S. Senate,,,Under Votes,12,0,2,10
+Cooke,Pct. 22,U.S. House,26,REP,Brandon Gill,1497,54,987,456
+Cooke,Pct. 22,U.S. House,26,DEM,Ernest R. Lineberger III,244,17,168,59
+Cooke,Pct. 22,U.S. House,26,LIB,Phil Gray,22,0,14,8
+Cooke,Pct. 22,U.S. House,26,,Over Votes,0,0,0,0
+Cooke,Pct. 22,U.S. House,26,,Under Votes,59,3,31,25
+Cooke,Pct. 22,Railroad Commissioner,,REP,Christi Craddick,1487,51,989,447
+Cooke,Pct. 22,Railroad Commissioner,,DEM,Katherine Culbert,223,17,153,53
+Cooke,Pct. 22,Railroad Commissioner,,LIB,Hawk Dunlap,29,1,15,13
+Cooke,Pct. 22,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,3,1
+Cooke,Pct. 22,Railroad Commissioner,,,Write-ins,0,0,0,0
+Cooke,Pct. 22,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cooke,Pct. 22,Railroad Commissioner,,,Under Votes,79,5,40,34
+Cooke,Pct. 22,"Justice, Supreme Court",Pl 2,REP,Jimmy Blacklock,1530,54,1018,458
+Cooke,Pct. 22,"Justice, Supreme Court",Pl 2,DEM,DaSean Jones,214,15,142,57
+Cooke,Pct. 22,"Justice, Supreme Court",Pl 2,,Over Votes,0,0,0,0
+Cooke,Pct. 22,"Justice, Supreme Court",Pl 2,,Under Votes,78,5,40,33
+Cooke,Pct. 22,"Justice, Supreme Court",Pl 4,REP,John Devine,1500,51,996,453
+Cooke,Pct. 22,"Justice, Supreme Court",Pl 4,DEM,Christine Vinh Weems,237,17,158,62
+Cooke,Pct. 22,"Justice, Supreme Court",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 22,"Justice, Supreme Court",Pl 4,,Under Votes,85,6,46,33
+Cooke,Pct. 22,"Justice, Supreme Court",Pl 6,REP,Jane Bland,1483,53,988,442
+Cooke,Pct. 22,"Justice, Supreme Court",Pl 6,DEM,Bonnie Lee Goldstein,224,15,148,61
+Cooke,Pct. 22,"Justice, Supreme Court",Pl 6,LIB,J. David Roberson,27,1,15,11
+Cooke,Pct. 22,"Justice, Supreme Court",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 22,"Justice, Supreme Court",Pl 6,,Under Votes,88,5,49,34
+Cooke,Pct. 22,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1499,54,996,449
+Cooke,Pct. 22,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,228,16,150,62
+Cooke,Pct. 22,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Cooke,Pct. 22,"Presiding Judge, Ct of Crim App",,,Under Votes,95,4,54,37
+Cooke,Pct. 22,"Judge, Ct of Crim App",Pl 7,REP,Gina Parker,1508,53,996,459
+Cooke,Pct. 22,"Judge, Ct of Crim App",Pl 7,DEM,Nancy Mulder,222,17,149,56
+Cooke,Pct. 22,"Judge, Ct of Crim App",Pl 7,,Over Votes,0,0,0,0
+Cooke,Pct. 22,"Judge, Ct of Crim App",Pl 7,,Under Votes,92,4,55,33
+Cooke,Pct. 22,"Judge, Ct of Crim App",Pl 8,REP,Lee Finley,1512,53,1002,457
+Cooke,Pct. 22,"Judge, Ct of Crim App",Pl 8,DEM,Chika Anyiam,209,17,140,52
+Cooke,Pct. 22,"Judge, Ct of Crim App",Pl 8,,Over Votes,0,0,0,0
+Cooke,Pct. 22,"Judge, Ct of Crim App",Pl 8,,Under Votes,101,4,58,39
+Cooke,Pct. 22,"Member, State BoE",12,REP,Pam Little,1505,55,995,455
+Cooke,Pct. 22,"Member, State BoE",12,DEM,George King,222,14,148,60
+Cooke,Pct. 22,"Member, State BoE",12,,Over Votes,0,0,0,0
+Cooke,Pct. 22,"Member, State BoE",12,,Under Votes,95,5,57,33
+Cooke,Pct. 22,State Senate,30,REP,Brent Hagenbuch,1493,51,991,451
+Cooke,Pct. 22,State Senate,30,DEM,Dale Frey,229,16,152,61
+Cooke,Pct. 22,State Senate,30,,Over Votes,0,0,0,0
+Cooke,Pct. 22,State Senate,30,,Under Votes,100,7,57,36
+Cooke,Pct. 22,State Representative,68,REP,David Spiller,1499,51,993,455
+Cooke,Pct. 22,State Representative,68,DEM,Stacey Swann,228,15,156,57
+Cooke,Pct. 22,State Representative,68,,Over Votes,0,0,0,0
+Cooke,Pct. 22,State Representative,68,,Under Votes,95,8,51,36
+Cooke,Pct. 22,"Chief Justice, 2nd Ct of App Dist",,REP,Bonnie Sudderth,1570,54,1039,477
+Cooke,Pct. 22,"Chief Justice, 2nd Ct of App Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 22,"Chief Justice, 2nd Ct of App Dist",,,Under Votes,252,20,161,71
+Cooke,Pct. 22,"Justice, 2nd Ct of App Dist",Pl 4,REP,Wade Birdwell,1541,53,1019,469
+Cooke,Pct. 22,"Justice, 2nd Ct of App Dist",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 22,"Justice, 2nd Ct of App Dist",Pl 4,,Under Votes,281,21,181,79
+Cooke,Pct. 22,"Justice, 2nd Ct of App Dist",Pl 5,REP,Dabney Bassel,1525,51,1010,464
+Cooke,Pct. 22,"Justice, 2nd Ct of App Dist",Pl 5,,Over Votes,0,0,0,0
+Cooke,Pct. 22,"Justice, 2nd Ct of App Dist",Pl 5,,Under Votes,297,23,190,84
+Cooke,Pct. 22,"Justice, 2nd Ct of App Dist",Pl 6,REP,Mike Wallach,1529,51,1012,466
+Cooke,Pct. 22,"Justice, 2nd Ct of App Dist",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 22,"Justice, 2nd Ct of App Dist",Pl 6,,Under Votes,293,23,188,82
+Cooke,Pct. 22,"Dist Judge, 235th Judicial Dist",,REP,Janelle M. Haverkamp,1537,58,1011,468
+Cooke,Pct. 22,"Dist Judge, 235th Judicial Dist",,DEM,Emmanuel Albarado,183,11,126,46
+Cooke,Pct. 22,"Dist Judge, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 22,"Dist Judge, 235th Judicial Dist",,,Under Votes,102,5,63,34
+Cooke,Pct. 22,"Dist Attorney, 235th Judicial Dist",,REP,John Warren,1549,53,1018,478
+Cooke,Pct. 22,"Dist Attorney, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 22,"Dist Attorney, 235th Judicial Dist",,,Under Votes,273,21,182,70
+Cooke,Pct. 22,County Attorney,,REP,Ed Zielinski,1541,54,1017,470
+Cooke,Pct. 22,County Attorney,,,Over Votes,0,0,0,0
+Cooke,Pct. 22,County Attorney,,,Under Votes,281,20,183,78
+Cooke,Pct. 22,Sheriff,,REP,Ray Sappington,1551,55,1026,470
+Cooke,Pct. 22,Sheriff,,,Over Votes,0,0,0,0
+Cooke,Pct. 22,Sheriff,,,Under Votes,271,19,174,78
+Cooke,Pct. 22,County Tax Assessor-Collector,,REP,Brandy Ann Carr,1566,55,1032,479
+Cooke,Pct. 22,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cooke,Pct. 22,County Tax Assessor-Collector,,,Under Votes,256,19,168,69
+Cooke,Pct. 22,County Treasurer - Unexpired Term,,REP,Susan Wells,1546,55,1021,470
+Cooke,Pct. 22,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Cooke,Pct. 22,County Treasurer - Unexpired Term,,,Under Votes,276,19,179,78
+Cooke,Pct. 22,Constable,Pct 2,REP,Chuck Owen,1539,53,1017,469
+Cooke,Pct. 22,Constable,Pct 2,,Over Votes,0,0,0,0
+Cooke,Pct. 22,Constable,Pct 2,,Under Votes,283,21,183,79
+Cooke,Pct. 33,Registered Voters,,,,548,,,
+Cooke,Pct. 33,Ballots Cast,,,,429,7,271,151
+Cooke,Pct. 33,Ballots Cast Blank,,,,0,0,0,0
+Cooke,Pct. 33,President,,REP,Donald J. Trump/JD Vance,373,5,238,130
+Cooke,Pct. 33,President,,DEM,Kamala D. Harris/Tim Walz,49,1,29,19
+Cooke,Pct. 33,President,,LIB,Chase Oliver/Mike ter Maat,1,0,1,0
+Cooke,Pct. 33,President,,GRN,Jill Stein/Rudolph Ware,2,0,1,1
+Cooke,Pct. 33,President,,,Write-ins,2,1,1,0
+Cooke,Pct. 33,President,,,Over Votes,0,0,0,0
+Cooke,Pct. 33,President,,,Under Votes,2,0,1,1
+Cooke,Pct. 33,U.S. Senate,,REP,Ted Cruz,361,6,230,125
+Cooke,Pct. 33,U.S. Senate,,DEM,Colin Allred,51,1,31,19
+Cooke,Pct. 33,U.S. Senate,,LIB,Ted Brown,10,0,7,3
+Cooke,Pct. 33,U.S. Senate,,,Write-ins,0,0,0,0
+Cooke,Pct. 33,U.S. Senate,,,Over Votes,0,0,0,0
+Cooke,Pct. 33,U.S. Senate,,,Under Votes,7,0,3,4
+Cooke,Pct. 33,U.S. House,26,REP,Brandon Gill,364,6,234,124
+Cooke,Pct. 33,U.S. House,26,DEM,Ernest R. Lineberger III,41,1,23,17
+Cooke,Pct. 33,U.S. House,26,LIB,Phil Gray,5,0,2,3
+Cooke,Pct. 33,U.S. House,26,,Over Votes,0,0,0,0
+Cooke,Pct. 33,U.S. House,26,,Under Votes,19,0,12,7
+Cooke,Pct. 33,Railroad Commissioner,,REP,Christi Craddick,364,6,233,125
+Cooke,Pct. 33,Railroad Commissioner,,DEM,Katherine Culbert,39,1,22,16
+Cooke,Pct. 33,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,4,3
+Cooke,Pct. 33,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Cooke,Pct. 33,Railroad Commissioner,,,Write-ins,0,0,0,0
+Cooke,Pct. 33,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cooke,Pct. 33,Railroad Commissioner,,,Under Votes,18,0,11,7
+Cooke,Pct. 33,"Justice, Supreme Court",Pl 2,REP,Jimmy Blacklock,370,6,236,128
+Cooke,Pct. 33,"Justice, Supreme Court",Pl 2,DEM,DaSean Jones,37,1,20,16
+Cooke,Pct. 33,"Justice, Supreme Court",Pl 2,,Over Votes,0,0,0,0
+Cooke,Pct. 33,"Justice, Supreme Court",Pl 2,,Under Votes,22,0,15,7
+Cooke,Pct. 33,"Justice, Supreme Court",Pl 4,REP,John Devine,366,6,234,126
+Cooke,Pct. 33,"Justice, Supreme Court",Pl 4,DEM,Christine Vinh Weems,41,1,23,17
+Cooke,Pct. 33,"Justice, Supreme Court",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 33,"Justice, Supreme Court",Pl 4,,Under Votes,22,0,14,8
+Cooke,Pct. 33,"Justice, Supreme Court",Pl 6,REP,Jane Bland,366,6,231,129
+Cooke,Pct. 33,"Justice, Supreme Court",Pl 6,DEM,Bonnie Lee Goldstein,40,1,23,16
+Cooke,Pct. 33,"Justice, Supreme Court",Pl 6,LIB,J. David Roberson,5,0,4,1
+Cooke,Pct. 33,"Justice, Supreme Court",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 33,"Justice, Supreme Court",Pl 6,,Under Votes,18,0,13,5
+Cooke,Pct. 33,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,363,5,231,127
+Cooke,Pct. 33,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,43,2,23,18
+Cooke,Pct. 33,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Cooke,Pct. 33,"Presiding Judge, Ct of Crim App",,,Under Votes,23,0,17,6
+Cooke,Pct. 33,"Judge, Ct of Crim App",Pl 7,REP,Gina Parker,368,6,233,129
+Cooke,Pct. 33,"Judge, Ct of Crim App",Pl 7,DEM,Nancy Mulder,42,1,24,17
+Cooke,Pct. 33,"Judge, Ct of Crim App",Pl 7,,Over Votes,0,0,0,0
+Cooke,Pct. 33,"Judge, Ct of Crim App",Pl 7,,Under Votes,19,0,14,5
+Cooke,Pct. 33,"Judge, Ct of Crim App",Pl 8,REP,Lee Finley,368,6,234,128
+Cooke,Pct. 33,"Judge, Ct of Crim App",Pl 8,DEM,Chika Anyiam,38,1,22,15
+Cooke,Pct. 33,"Judge, Ct of Crim App",Pl 8,,Over Votes,0,0,0,0
+Cooke,Pct. 33,"Judge, Ct of Crim App",Pl 8,,Under Votes,23,0,15,8
+Cooke,Pct. 33,"Member, State BoE",12,REP,Pam Little,361,6,229,126
+Cooke,Pct. 33,"Member, State BoE",12,DEM,George King,43,1,23,19
+Cooke,Pct. 33,"Member, State BoE",12,,Over Votes,0,0,0,0
+Cooke,Pct. 33,"Member, State BoE",12,,Under Votes,25,0,19,6
+Cooke,Pct. 33,State Senate,30,REP,Brent Hagenbuch,364,6,229,129
+Cooke,Pct. 33,State Senate,30,DEM,Dale Frey,39,1,22,16
+Cooke,Pct. 33,State Senate,30,,Over Votes,0,0,0,0
+Cooke,Pct. 33,State Senate,30,,Under Votes,26,0,20,6
+Cooke,Pct. 33,State Representative,68,REP,David Spiller,365,6,230,129
+Cooke,Pct. 33,State Representative,68,DEM,Stacey Swann,38,1,21,16
+Cooke,Pct. 33,State Representative,68,,Over Votes,0,0,0,0
+Cooke,Pct. 33,State Representative,68,,Under Votes,26,0,20,6
+Cooke,Pct. 33,"Chief Justice, 2nd Ct of App Dist",,REP,Bonnie Sudderth,376,6,236,134
+Cooke,Pct. 33,"Chief Justice, 2nd Ct of App Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 33,"Chief Justice, 2nd Ct of App Dist",,,Under Votes,53,1,35,17
+Cooke,Pct. 33,"Justice, 2nd Ct of App Dist",Pl 4,REP,Wade Birdwell,364,6,231,127
+Cooke,Pct. 33,"Justice, 2nd Ct of App Dist",Pl 4,,Over Votes,0,0,0,0
+Cooke,Pct. 33,"Justice, 2nd Ct of App Dist",Pl 4,,Under Votes,65,1,40,24
+Cooke,Pct. 33,"Justice, 2nd Ct of App Dist",Pl 5,REP,Dabney Bassel,364,6,231,127
+Cooke,Pct. 33,"Justice, 2nd Ct of App Dist",Pl 5,,Over Votes,0,0,0,0
+Cooke,Pct. 33,"Justice, 2nd Ct of App Dist",Pl 5,,Under Votes,65,1,40,24
+Cooke,Pct. 33,"Justice, 2nd Ct of App Dist",Pl 6,REP,Mike Wallach,363,6,231,126
+Cooke,Pct. 33,"Justice, 2nd Ct of App Dist",Pl 6,,Over Votes,0,0,0,0
+Cooke,Pct. 33,"Justice, 2nd Ct of App Dist",Pl 6,,Under Votes,66,1,40,25
+Cooke,Pct. 33,"Dist Judge, 235th Judicial Dist",,REP,Janelle M. Haverkamp,340,6,221,113
+Cooke,Pct. 33,"Dist Judge, 235th Judicial Dist",,DEM,Emmanuel Albarado,47,1,25,21
+Cooke,Pct. 33,"Dist Judge, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 33,"Dist Judge, 235th Judicial Dist",,,Under Votes,42,0,25,17
+Cooke,Pct. 33,"Dist Attorney, 235th Judicial Dist",,REP,John Warren,371,6,233,132
+Cooke,Pct. 33,"Dist Attorney, 235th Judicial Dist",,,Over Votes,0,0,0,0
+Cooke,Pct. 33,"Dist Attorney, 235th Judicial Dist",,,Under Votes,58,1,38,19
+Cooke,Pct. 33,County Attorney,,REP,Ed Zielinski,360,6,228,126
+Cooke,Pct. 33,County Attorney,,,Over Votes,0,0,0,0
+Cooke,Pct. 33,County Attorney,,,Under Votes,69,1,43,25
+Cooke,Pct. 33,Sheriff,,REP,Ray Sappington,362,7,230,125
+Cooke,Pct. 33,Sheriff,,,Over Votes,0,0,0,0
+Cooke,Pct. 33,Sheriff,,,Under Votes,67,0,41,26
+Cooke,Pct. 33,County Tax Assessor-Collector,,REP,Brandy Ann Carr,368,7,235,126
+Cooke,Pct. 33,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cooke,Pct. 33,County Tax Assessor-Collector,,,Under Votes,61,0,36,25
+Cooke,Pct. 33,County Treasurer - Unexpired Term,,REP,Susan Wells,368,7,233,128
+Cooke,Pct. 33,County Treasurer - Unexpired Term,,,Over Votes,0,0,0,0
+Cooke,Pct. 33,County Treasurer - Unexpired Term,,,Under Votes,61,0,38,23
+Cooke,Pct. 33,Constable,Pct 1,REP,Mark Westbrook,370,7,234,129
+Cooke,Pct. 33,Constable,Pct 1,,Over Votes,0,0,0,0
+Cooke,Pct. 33,Constable,Pct 1,,Under Votes,59,0,37,22

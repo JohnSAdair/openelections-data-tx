@@ -1,0 +1,2397 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Washington,PRECINCT 101,"Registered Voters",,,,1356,,,
+Washington,PRECINCT 101,"Ballots Cast",,,,932,28,613,291
+Washington,PRECINCT 101,"Ballots Cast Blank",,,,0,0,0,0
+Washington,PRECINCT 101,"President",,REP,"Donald J. Trump/JD Vance",637,14,445,178
+Washington,PRECINCT 101,"President",,DEM,"Kamala D. Harris/Tim Walz",281,14,158,109
+Washington,PRECINCT 101,"President",,LIB,"Chase Oliver/Mike ter Maat",4,0,3,1
+Washington,PRECINCT 101,"President",,GRN,"Jill Stein/Rudolph Ware",2,0,2,0
+Washington,PRECINCT 101,"President",,,"Write-ins",4,0,4,0
+Washington,PRECINCT 101,"President",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"President",,,"Under Votes",4,0,1,3
+Washington,PRECINCT 101,"U.S. Senate",,REP,"Ted Cruz",634,14,440,180
+Washington,PRECINCT 101,"U.S. Senate",,DEM,"Colin Allred",281,14,160,107
+Washington,PRECINCT 101,"U.S. Senate",,LIB,"Ted Brown",12,0,9,3
+Washington,PRECINCT 101,"U.S. Senate",,,"Write-ins",1,0,1,0
+Washington,PRECINCT 101,"U.S. Senate",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"U.S. Senate",,,"Under Votes",4,0,3,1
+Washington,PRECINCT 101,"U.S. House",10,REP,"Michael McCaul",646,14,450,182
+Washington,PRECINCT 101,"U.S. House",10,DEM,"Theresa Boisseau",259,14,143,102
+Washington,PRECINCT 101,"U.S. House",10,LIB,"Jeff Miller",14,0,10,4
+Washington,PRECINCT 101,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"U.S. House",10,,"Under Votes",13,0,10,3
+Washington,PRECINCT 101,"Railroad Commissioner",,REP,"Christi Craddick",625,14,439,172
+Washington,PRECINCT 101,"Railroad Commissioner",,DEM,"Katherine Culbert",264,13,147,104
+Washington,PRECINCT 101,"Railroad Commissioner",,LIB,"Hawk Dunlap",21,0,13,8
+Washington,PRECINCT 101,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,3,0
+Washington,PRECINCT 101,"Railroad Commissioner",,,"Write-ins",1,0,1,0
+Washington,PRECINCT 101,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Railroad Commissioner",,,"Under Votes",18,1,10,7
+Washington,PRECINCT 101,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",647,14,451,182
+Washington,PRECINCT 101,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",263,13,148,102
+Washington,PRECINCT 101,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Justice, Supreme Court",Pl 2,,"Under Votes",22,1,14,7
+Washington,PRECINCT 101,"Justice, Supreme Court",Pl 4,REP,"John Devine",645,14,450,181
+Washington,PRECINCT 101,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",260,13,149,98
+Washington,PRECINCT 101,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Justice, Supreme Court",Pl 4,,"Under Votes",27,1,14,12
+Washington,PRECINCT 101,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",629,14,439,176
+Washington,PRECINCT 101,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",262,13,145,104
+Washington,PRECINCT 101,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",17,0,13,4
+Washington,PRECINCT 101,"Justice, Supreme Court",Pl 6,,"Over Votes",1,0,1,0
+Washington,PRECINCT 101,"Justice, Supreme Court",Pl 6,,"Under Votes",23,1,15,7
+Washington,PRECINCT 101,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",644,13,451,180
+Washington,PRECINCT 101,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",264,14,150,100
+Washington,PRECINCT 101,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Presiding Judge, Ct of Crim App",,,"Under Votes",24,1,12,11
+Washington,PRECINCT 101,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",623,12,441,170
+Washington,PRECINCT 101,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",262,14,145,103
+Washington,PRECINCT 101,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Judge, Ct of Crim App",Pl 7,,"Under Votes",47,2,27,18
+Washington,PRECINCT 101,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",646,14,452,180
+Washington,PRECINCT 101,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",261,13,148,100
+Washington,PRECINCT 101,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Judge, Ct of Crim App",Pl 8,,"Under Votes",25,1,13,11
+Washington,PRECINCT 101,"Member, State BoE",10,REP,"Tom Maynard",644,14,452,178
+Washington,PRECINCT 101,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",267,13,150,104
+Washington,PRECINCT 101,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Member, State BoE",10,,"Under Votes",21,1,11,9
+Washington,PRECINCT 101,"State Representative",12,REP,"Trey Wharton",645,14,451,180
+Washington,PRECINCT 101,"State Representative",12,DEM,"Dee Howard Mullins",258,11,147,100
+Washington,PRECINCT 101,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"State Representative",12,,"Under Votes",29,3,15,11
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",637,13,443,181
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",260,14,149,97
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",35,1,21,13
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",638,13,447,178
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",260,14,146,100
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",34,1,20,13
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",638,13,447,178
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",257,14,144,99
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",37,1,22,14
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",638,14,448,176
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",261,13,146,102
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",33,1,19,13
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",635,14,446,175
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",258,13,145,100
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",39,1,22,16
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",639,14,447,178
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",257,13,144,100
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",36,1,22,13
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",635,13,443,179
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",260,14,147,99
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",1,0,1,0
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",36,1,22,13
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",634,13,445,176
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",257,14,145,98
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",41,1,23,17
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",635,14,443,178
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",259,13,146,100
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",38,1,24,13
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",636,14,445,177
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",259,13,147,99
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",37,1,21,15
+Washington,PRECINCT 101,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",690,14,475,201
+Washington,PRECINCT 101,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Dist Judge, 21st Judicial Dist",,,"Under Votes",242,14,138,90
+Washington,PRECINCT 101,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",698,14,483,201
+Washington,PRECINCT 101,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Dist Judge, 335th Judicial Dist",,,"Under Votes",234,14,130,90
+Washington,PRECINCT 101,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",680,14,471,195
+Washington,PRECINCT 101,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",252,14,142,96
+Washington,PRECINCT 101,"County Attorney",,REP,"Renee Mueller",699,15,482,202
+Washington,PRECINCT 101,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"County Attorney",,,"Under Votes",233,13,131,89
+Washington,PRECINCT 101,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",697,14,480,203
+Washington,PRECINCT 101,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"District Clerk - Unexpired Term",,,"Under Votes",235,14,133,88
+Washington,PRECINCT 101,"Sheriff",,REP,"Trey Holleway",705,14,485,206
+Washington,PRECINCT 101,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Sheriff",,,"Under Votes",227,14,128,85
+Washington,PRECINCT 101,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",702,15,486,201
+Washington,PRECINCT 101,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"County Tax Assessor-Collector",,,"Under Votes",230,13,127,90
+Washington,PRECINCT 101,"County Commissioner",Pct 1,REP,"Misti Hartstack Corn",698,14,480,204
+Washington,PRECINCT 101,"County Commissioner",Pct 1,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"County Commissioner",Pct 1,,"Under Votes",234,14,133,87
+Washington,PRECINCT 101,"Constable",Pct 1,REP,"Ken Holle",697,14,481,202
+Washington,PRECINCT 101,"Constable",Pct 1,,"Over Votes",0,0,0,0
+Washington,PRECINCT 101,"Constable",Pct 1,,"Under Votes",235,14,132,89
+Washington,PRECINCT 104,"Registered Voters",,,,2159,,,
+Washington,PRECINCT 104,"Ballots Cast",,,,1099,43,868,188
+Washington,PRECINCT 104,"Ballots Cast Blank",,,,0,0,0,0
+Washington,PRECINCT 104,"President",,REP,"Donald J. Trump/JD Vance",453,7,372,74
+Washington,PRECINCT 104,"President",,DEM,"Kamala D. Harris/Tim Walz",634,34,489,111
+Washington,PRECINCT 104,"President",,LIB,"Chase Oliver/Mike ter Maat",3,1,2,0
+Washington,PRECINCT 104,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Washington,PRECINCT 104,"President",,,"Write-ins",5,0,2,3
+Washington,PRECINCT 104,"President",,,"Over Votes",1,0,1,0
+Washington,PRECINCT 104,"President",,,"Under Votes",3,1,2,0
+Washington,PRECINCT 104,"U.S. Senate",,REP,"Ted Cruz",405,5,338,62
+Washington,PRECINCT 104,"U.S. Senate",,DEM,"Colin Allred",647,36,497,114
+Washington,PRECINCT 104,"U.S. Senate",,LIB,"Ted Brown",21,0,14,7
+Washington,PRECINCT 104,"U.S. Senate",,,"Write-ins",4,0,3,1
+Washington,PRECINCT 104,"U.S. Senate",,,"Over Votes",1,0,1,0
+Washington,PRECINCT 104,"U.S. Senate",,,"Under Votes",21,2,15,4
+Washington,PRECINCT 104,"U.S. House",10,REP,"Michael McCaul",453,7,372,74
+Washington,PRECINCT 104,"U.S. House",10,DEM,"Theresa Boisseau",581,32,445,104
+Washington,PRECINCT 104,"U.S. House",10,LIB,"Jeff Miller",20,2,15,3
+Washington,PRECINCT 104,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"U.S. House",10,,"Under Votes",45,2,36,7
+Washington,PRECINCT 104,"Railroad Commissioner",,REP,"Christi Craddick",421,8,345,68
+Washington,PRECINCT 104,"Railroad Commissioner",,DEM,"Katherine Culbert",595,30,458,107
+Washington,PRECINCT 104,"Railroad Commissioner",,LIB,"Hawk Dunlap",19,1,14,4
+Washington,PRECINCT 104,"Railroad Commissioner",,GRN,"Eddie Espinoza",14,0,11,3
+Washington,PRECINCT 104,"Railroad Commissioner",,,"Write-ins",2,0,1,1
+Washington,PRECINCT 104,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Railroad Commissioner",,,"Under Votes",48,4,39,5
+Washington,PRECINCT 104,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",446,8,366,72
+Washington,PRECINCT 104,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",595,30,456,109
+Washington,PRECINCT 104,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Justice, Supreme Court",Pl 2,,"Under Votes",58,5,46,7
+Washington,PRECINCT 104,"Justice, Supreme Court",Pl 4,REP,"John Devine",423,7,350,66
+Washington,PRECINCT 104,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",617,31,473,113
+Washington,PRECINCT 104,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Justice, Supreme Court",Pl 4,,"Under Votes",59,5,45,9
+Washington,PRECINCT 104,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",421,8,348,65
+Washington,PRECINCT 104,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",602,30,462,110
+Washington,PRECINCT 104,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",23,1,16,6
+Washington,PRECINCT 104,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Justice, Supreme Court",Pl 6,,"Under Votes",53,4,42,7
+Washington,PRECINCT 104,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",428,7,353,68
+Washington,PRECINCT 104,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",618,32,472,114
+Washington,PRECINCT 104,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Presiding Judge, Ct of Crim App",,,"Under Votes",53,4,43,6
+Washington,PRECINCT 104,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",418,7,346,65
+Washington,PRECINCT 104,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",598,30,457,111
+Washington,PRECINCT 104,"Judge, Ct of Crim App",Pl 7,,"Over Votes",1,0,1,0
+Washington,PRECINCT 104,"Judge, Ct of Crim App",Pl 7,,"Under Votes",82,6,64,12
+Washington,PRECINCT 104,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",447,9,370,68
+Washington,PRECINCT 104,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",590,30,451,109
+Washington,PRECINCT 104,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Judge, Ct of Crim App",Pl 8,,"Under Votes",62,4,47,11
+Washington,PRECINCT 104,"Member, State BoE",10,REP,"Tom Maynard",441,9,366,66
+Washington,PRECINCT 104,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",606,30,460,116
+Washington,PRECINCT 104,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Member, State BoE",10,,"Under Votes",52,4,42,6
+Washington,PRECINCT 104,"State Representative",12,REP,"Trey Wharton",442,9,369,64
+Washington,PRECINCT 104,"State Representative",12,DEM,"Dee Howard Mullins",599,30,454,115
+Washington,PRECINCT 104,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"State Representative",12,,"Under Votes",58,4,45,9
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",433,7,358,68
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",597,31,458,108
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",69,5,52,12
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",430,9,356,65
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",602,29,462,111
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",67,5,50,12
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",424,8,355,61
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",604,28,460,116
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",71,7,53,11
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",431,7,359,65
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",602,31,460,111
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",66,5,49,12
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",427,8,357,62
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",600,30,457,113
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",72,5,54,13
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",429,8,356,65
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",604,30,462,112
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",66,5,50,11
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",438,9,362,67
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",594,29,454,111
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",67,5,52,10
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",422,7,350,65
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",599,31,459,109
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",78,5,59,14
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",427,8,354,65
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",598,30,457,111
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",74,5,57,12
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",428,9,353,66
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",599,28,460,111
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",72,6,55,11
+Washington,PRECINCT 104,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",610,13,492,105
+Washington,PRECINCT 104,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Dist Judge, 21st Judicial Dist",,,"Under Votes",489,30,376,83
+Washington,PRECINCT 104,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",621,14,505,102
+Washington,PRECINCT 104,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Dist Judge, 335th Judicial Dist",,,"Under Votes",478,29,363,86
+Washington,PRECINCT 104,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",602,13,489,100
+Washington,PRECINCT 104,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",497,30,379,88
+Washington,PRECINCT 104,"County Attorney",,REP,"Renee Mueller",634,13,507,114
+Washington,PRECINCT 104,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"County Attorney",,,"Under Votes",465,30,361,74
+Washington,PRECINCT 104,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",615,14,494,107
+Washington,PRECINCT 104,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"District Clerk - Unexpired Term",,,"Under Votes",484,29,374,81
+Washington,PRECINCT 104,"Sheriff",,REP,"Trey Holleway",631,14,511,106
+Washington,PRECINCT 104,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Sheriff",,,"Under Votes",468,29,357,82
+Washington,PRECINCT 104,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",640,14,514,112
+Washington,PRECINCT 104,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"County Tax Assessor-Collector",,,"Under Votes",459,29,354,76
+Washington,PRECINCT 104,"County Commissioner",Pct 1,REP,"Misti Hartstack Corn",620,14,500,106
+Washington,PRECINCT 104,"County Commissioner",Pct 1,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"County Commissioner",Pct 1,,"Under Votes",479,29,368,82
+Washington,PRECINCT 104,"Constable",Pct 1,REP,"Ken Holle",614,14,496,104
+Washington,PRECINCT 104,"Constable",Pct 1,,"Over Votes",0,0,0,0
+Washington,PRECINCT 104,"Constable",Pct 1,,"Under Votes",485,29,372,84
+Washington,PRECINCT 109,"Registered Voters",,,,1175,,,
+Washington,PRECINCT 109,"Ballots Cast",,,,865,19,671,175
+Washington,PRECINCT 109,"Ballots Cast Blank",,,,0,0,0,0
+Washington,PRECINCT 109,"President",,REP,"Donald J. Trump/JD Vance",716,11,566,139
+Washington,PRECINCT 109,"President",,DEM,"Kamala D. Harris/Tim Walz",141,8,101,32
+Washington,PRECINCT 109,"President",,LIB,"Chase Oliver/Mike ter Maat",4,0,3,1
+Washington,PRECINCT 109,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,1,0
+Washington,PRECINCT 109,"President",,,"Write-ins",1,0,0,1
+Washington,PRECINCT 109,"President",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"President",,,"Under Votes",2,0,0,2
+Washington,PRECINCT 109,"U.S. Senate",,REP,"Ted Cruz",702,11,555,136
+Washington,PRECINCT 109,"U.S. Senate",,DEM,"Colin Allred",144,6,104,34
+Washington,PRECINCT 109,"U.S. Senate",,LIB,"Ted Brown",12,0,8,4
+Washington,PRECINCT 109,"U.S. Senate",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 109,"U.S. Senate",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"U.S. Senate",,,"Under Votes",7,2,4,1
+Washington,PRECINCT 109,"U.S. House",10,REP,"Michael McCaul",712,10,560,142
+Washington,PRECINCT 109,"U.S. House",10,DEM,"Theresa Boisseau",116,6,85,25
+Washington,PRECINCT 109,"U.S. House",10,LIB,"Jeff Miller",15,1,9,5
+Washington,PRECINCT 109,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"U.S. House",10,,"Under Votes",22,2,17,3
+Washington,PRECINCT 109,"Railroad Commissioner",,REP,"Christi Craddick",706,10,554,142
+Washington,PRECINCT 109,"Railroad Commissioner",,DEM,"Katherine Culbert",118,6,89,23
+Washington,PRECINCT 109,"Railroad Commissioner",,LIB,"Hawk Dunlap",14,0,12,2
+Washington,PRECINCT 109,"Railroad Commissioner",,GRN,"Eddie Espinoza",4,0,3,1
+Washington,PRECINCT 109,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 109,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Railroad Commissioner",,,"Under Votes",23,3,13,7
+Washington,PRECINCT 109,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",723,11,569,143
+Washington,PRECINCT 109,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",118,6,86,26
+Washington,PRECINCT 109,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Justice, Supreme Court",Pl 2,,"Under Votes",24,2,16,6
+Washington,PRECINCT 109,"Justice, Supreme Court",Pl 4,REP,"John Devine",711,11,559,141
+Washington,PRECINCT 109,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",123,6,92,25
+Washington,PRECINCT 109,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Justice, Supreme Court",Pl 4,,"Under Votes",31,2,20,9
+Washington,PRECINCT 109,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",711,10,562,139
+Washington,PRECINCT 109,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",121,6,91,24
+Washington,PRECINCT 109,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",12,1,5,6
+Washington,PRECINCT 109,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Justice, Supreme Court",Pl 6,,"Under Votes",21,2,13,6
+Washington,PRECINCT 109,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",710,11,560,139
+Washington,PRECINCT 109,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",128,6,93,29
+Washington,PRECINCT 109,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Presiding Judge, Ct of Crim App",,,"Under Votes",27,2,18,7
+Washington,PRECINCT 109,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",695,11,547,137
+Washington,PRECINCT 109,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",120,6,88,26
+Washington,PRECINCT 109,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Judge, Ct of Crim App",Pl 7,,"Under Votes",50,2,36,12
+Washington,PRECINCT 109,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",719,11,566,142
+Washington,PRECINCT 109,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",118,6,86,26
+Washington,PRECINCT 109,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Judge, Ct of Crim App",Pl 8,,"Under Votes",28,2,19,7
+Washington,PRECINCT 109,"Member, State BoE",10,REP,"Tom Maynard",707,11,557,139
+Washington,PRECINCT 109,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",128,6,93,29
+Washington,PRECINCT 109,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Member, State BoE",10,,"Under Votes",30,2,21,7
+Washington,PRECINCT 109,"State Representative",12,REP,"Trey Wharton",720,11,564,145
+Washington,PRECINCT 109,"State Representative",12,DEM,"Dee Howard Mullins",119,6,90,23
+Washington,PRECINCT 109,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"State Representative",12,,"Under Votes",26,2,17,7
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",706,11,551,144
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",121,6,92,23
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",38,2,28,8
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",704,10,554,140
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",123,7,91,25
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",38,2,26,10
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",712,11,560,141
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",121,6,89,26
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",32,2,22,8
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",706,11,555,140
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",128,6,94,28
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",31,2,22,7
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",712,11,559,142
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",120,6,89,25
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",33,2,23,8
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",715,11,562,142
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",116,6,85,25
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",34,2,24,8
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",716,11,560,145
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",118,6,91,21
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",31,2,20,9
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",705,11,551,143
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",123,6,93,24
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",37,2,27,8
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",714,11,559,144
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",117,6,88,23
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",34,2,24,8
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",711,11,557,143
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",121,6,91,24
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",33,2,23,8
+Washington,PRECINCT 109,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",733,12,571,150
+Washington,PRECINCT 109,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Dist Judge, 21st Judicial Dist",,,"Under Votes",132,7,100,25
+Washington,PRECINCT 109,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",732,12,571,149
+Washington,PRECINCT 109,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Dist Judge, 335th Judicial Dist",,,"Under Votes",133,7,100,26
+Washington,PRECINCT 109,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",718,12,560,146
+Washington,PRECINCT 109,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",147,7,111,29
+Washington,PRECINCT 109,"County Attorney",,REP,"Renee Mueller",718,12,560,146
+Washington,PRECINCT 109,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"County Attorney",,,"Under Votes",147,7,111,29
+Washington,PRECINCT 109,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",722,12,563,147
+Washington,PRECINCT 109,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"District Clerk - Unexpired Term",,,"Under Votes",143,7,108,28
+Washington,PRECINCT 109,"Sheriff",,REP,"Trey Holleway",729,12,569,148
+Washington,PRECINCT 109,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Sheriff",,,"Under Votes",136,7,102,27
+Washington,PRECINCT 109,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",732,12,567,153
+Washington,PRECINCT 109,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"County Tax Assessor-Collector",,,"Under Votes",133,7,104,22
+Washington,PRECINCT 109,"County Commissioner",Pct 1,REP,"Misti Hartstack Corn",719,12,556,151
+Washington,PRECINCT 109,"County Commissioner",Pct 1,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"County Commissioner",Pct 1,,"Under Votes",146,7,115,24
+Washington,PRECINCT 109,"Constable",Pct 1,REP,"Ken Holle",728,10,566,152
+Washington,PRECINCT 109,"Constable",Pct 1,,"Over Votes",0,0,0,0
+Washington,PRECINCT 109,"Constable",Pct 1,,"Under Votes",137,9,105,23
+Washington,PRECINCT 115,"Registered Voters",,,,1048,,,
+Washington,PRECINCT 115,"Ballots Cast",,,,742,13,597,132
+Washington,PRECINCT 115,"Ballots Cast Blank",,,,0,0,0,0
+Washington,PRECINCT 115,"President",,REP,"Donald J. Trump/JD Vance",566,8,465,93
+Washington,PRECINCT 115,"President",,DEM,"Kamala D. Harris/Tim Walz",164,5,124,35
+Washington,PRECINCT 115,"President",,LIB,"Chase Oliver/Mike ter Maat",1,0,1,0
+Washington,PRECINCT 115,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,0,1
+Washington,PRECINCT 115,"President",,,"Write-ins",4,0,3,1
+Washington,PRECINCT 115,"President",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"President",,,"Under Votes",6,0,4,2
+Washington,PRECINCT 115,"U.S. Senate",,REP,"Ted Cruz",554,8,461,85
+Washington,PRECINCT 115,"U.S. Senate",,DEM,"Colin Allred",161,5,118,38
+Washington,PRECINCT 115,"U.S. Senate",,LIB,"Ted Brown",15,0,11,4
+Washington,PRECINCT 115,"U.S. Senate",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 115,"U.S. Senate",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"U.S. Senate",,,"Under Votes",12,0,7,5
+Washington,PRECINCT 115,"U.S. House",10,REP,"Michael McCaul",570,8,469,93
+Washington,PRECINCT 115,"U.S. House",10,DEM,"Theresa Boisseau",140,5,104,31
+Washington,PRECINCT 115,"U.S. House",10,LIB,"Jeff Miller",13,0,11,2
+Washington,PRECINCT 115,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"U.S. House",10,,"Under Votes",19,0,13,6
+Washington,PRECINCT 115,"Railroad Commissioner",,REP,"Christi Craddick",546,8,451,87
+Washington,PRECINCT 115,"Railroad Commissioner",,DEM,"Katherine Culbert",145,5,108,32
+Washington,PRECINCT 115,"Railroad Commissioner",,LIB,"Hawk Dunlap",18,0,13,5
+Washington,PRECINCT 115,"Railroad Commissioner",,GRN,"Eddie Espinoza",9,0,7,2
+Washington,PRECINCT 115,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 115,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Railroad Commissioner",,,"Under Votes",24,0,18,6
+Washington,PRECINCT 115,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",570,8,472,90
+Washington,PRECINCT 115,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",142,5,103,34
+Washington,PRECINCT 115,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Justice, Supreme Court",Pl 2,,"Under Votes",30,0,22,8
+Washington,PRECINCT 115,"Justice, Supreme Court",Pl 4,REP,"John Devine",556,8,458,90
+Washington,PRECINCT 115,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",153,5,114,34
+Washington,PRECINCT 115,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Justice, Supreme Court",Pl 4,,"Under Votes",33,0,25,8
+Washington,PRECINCT 115,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",551,8,455,88
+Washington,PRECINCT 115,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",141,5,104,32
+Washington,PRECINCT 115,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",18,0,13,5
+Washington,PRECINCT 115,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Justice, Supreme Court",Pl 6,,"Under Votes",32,0,25,7
+Washington,PRECINCT 115,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",558,8,460,90
+Washington,PRECINCT 115,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",150,5,113,32
+Washington,PRECINCT 115,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Presiding Judge, Ct of Crim App",,,"Under Votes",34,0,24,10
+Washington,PRECINCT 115,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",551,8,452,91
+Washington,PRECINCT 115,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",147,5,111,31
+Washington,PRECINCT 115,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Judge, Ct of Crim App",Pl 7,,"Under Votes",44,0,34,10
+Washington,PRECINCT 115,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",567,7,468,92
+Washington,PRECINCT 115,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",142,5,105,32
+Washington,PRECINCT 115,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Judge, Ct of Crim App",Pl 8,,"Under Votes",33,1,24,8
+Washington,PRECINCT 115,"Member, State BoE",10,REP,"Tom Maynard",560,8,463,89
+Washington,PRECINCT 115,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",150,5,111,34
+Washington,PRECINCT 115,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Member, State BoE",10,,"Under Votes",32,0,23,9
+Washington,PRECINCT 115,"State Representative",12,REP,"Trey Wharton",573,8,471,94
+Washington,PRECINCT 115,"State Representative",12,DEM,"Dee Howard Mullins",145,5,106,34
+Washington,PRECINCT 115,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"State Representative",12,,"Under Votes",24,0,20,4
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",567,8,468,91
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",141,5,103,33
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",34,0,26,8
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",556,8,457,91
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",149,4,111,34
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",37,1,29,7
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",557,8,460,89
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",144,5,105,34
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",41,0,32,9
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",557,8,458,91
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",145,5,108,32
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",40,0,31,9
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",558,8,459,91
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",141,5,104,32
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",43,0,34,9
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",563,8,464,91
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",141,5,104,32
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",38,0,29,9
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",562,8,464,90
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",135,5,98,32
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",45,0,35,10
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",548,8,451,89
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",142,5,106,31
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",52,0,40,12
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",554,8,455,91
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",139,5,105,29
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",49,0,37,12
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",554,8,455,91
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",145,5,109,31
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",43,0,33,10
+Washington,PRECINCT 115,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",588,9,483,96
+Washington,PRECINCT 115,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Dist Judge, 21st Judicial Dist",,,"Under Votes",154,4,114,36
+Washington,PRECINCT 115,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",590,9,486,95
+Washington,PRECINCT 115,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Dist Judge, 335th Judicial Dist",,,"Under Votes",152,4,111,37
+Washington,PRECINCT 115,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",578,9,476,93
+Washington,PRECINCT 115,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",164,4,121,39
+Washington,PRECINCT 115,"County Attorney",,REP,"Renee Mueller",585,10,480,95
+Washington,PRECINCT 115,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"County Attorney",,,"Under Votes",157,3,117,37
+Washington,PRECINCT 115,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",586,8,479,99
+Washington,PRECINCT 115,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"District Clerk - Unexpired Term",,,"Under Votes",156,5,118,33
+Washington,PRECINCT 115,"Sheriff",,REP,"Trey Holleway",598,10,490,98
+Washington,PRECINCT 115,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Sheriff",,,"Under Votes",144,3,107,34
+Washington,PRECINCT 115,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",594,10,488,96
+Washington,PRECINCT 115,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"County Tax Assessor-Collector",,,"Under Votes",148,3,109,36
+Washington,PRECINCT 115,"County Commissioner",Pct 1,REP,"Misti Hartstack Corn",593,9,487,97
+Washington,PRECINCT 115,"County Commissioner",Pct 1,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"County Commissioner",Pct 1,,"Under Votes",149,4,110,35
+Washington,PRECINCT 115,"Constable",Pct 1,REP,"Ken Holle",589,9,484,96
+Washington,PRECINCT 115,"Constable",Pct 1,,"Over Votes",0,0,0,0
+Washington,PRECINCT 115,"Constable",Pct 1,,"Under Votes",153,4,113,36
+Washington,PRECINCT 117,"Registered Voters",,,,111,,,
+Washington,PRECINCT 117,"Ballots Cast",,,,44,1,26,17
+Washington,PRECINCT 117,"Ballots Cast Blank",,,,0,0,0,0
+Washington,PRECINCT 117,"President",,REP,"Donald J. Trump/JD Vance",12,0,7,5
+Washington,PRECINCT 117,"President",,DEM,"Kamala D. Harris/Tim Walz",32,1,19,12
+Washington,PRECINCT 117,"President",,LIB,"Chase Oliver/Mike ter Maat",0,0,0,0
+Washington,PRECINCT 117,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Washington,PRECINCT 117,"President",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 117,"U.S. Senate",,REP,"Ted Cruz",9,0,5,4
+Washington,PRECINCT 117,"U.S. Senate",,DEM,"Colin Allred",35,1,21,13
+Washington,PRECINCT 117,"U.S. Senate",,LIB,"Ted Brown",0,0,0,0
+Washington,PRECINCT 117,"U.S. Senate",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 117,"U.S. House",10,REP,"Michael McCaul",12,0,7,5
+Washington,PRECINCT 117,"U.S. House",10,DEM,"Theresa Boisseau",31,1,18,12
+Washington,PRECINCT 117,"U.S. House",10,LIB,"Jeff Miller",1,0,1,0
+Washington,PRECINCT 117,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"U.S. House",10,,"Under Votes",0,0,0,0
+Washington,PRECINCT 117,"Railroad Commissioner",,REP,"Christi Craddick",11,0,7,4
+Washington,PRECINCT 117,"Railroad Commissioner",,DEM,"Katherine Culbert",31,1,18,12
+Washington,PRECINCT 117,"Railroad Commissioner",,LIB,"Hawk Dunlap",1,0,1,0
+Washington,PRECINCT 117,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Washington,PRECINCT 117,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 117,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Railroad Commissioner",,,"Under Votes",1,0,0,1
+Washington,PRECINCT 117,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",11,0,7,4
+Washington,PRECINCT 117,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",31,1,18,12
+Washington,PRECINCT 117,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Justice, Supreme Court",Pl 2,,"Under Votes",2,0,1,1
+Washington,PRECINCT 117,"Justice, Supreme Court",Pl 4,REP,"John Devine",12,0,8,4
+Washington,PRECINCT 117,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",31,1,18,12
+Washington,PRECINCT 117,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Justice, Supreme Court",Pl 4,,"Under Votes",1,0,0,1
+Washington,PRECINCT 117,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",11,0,7,4
+Washington,PRECINCT 117,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",31,1,18,12
+Washington,PRECINCT 117,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",1,0,1,0
+Washington,PRECINCT 117,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Justice, Supreme Court",Pl 6,,"Under Votes",1,0,0,1
+Washington,PRECINCT 117,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",12,0,8,4
+Washington,PRECINCT 117,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",30,1,17,12
+Washington,PRECINCT 117,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Presiding Judge, Ct of Crim App",,,"Under Votes",2,0,1,1
+Washington,PRECINCT 117,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",12,0,8,4
+Washington,PRECINCT 117,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",28,1,15,12
+Washington,PRECINCT 117,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Judge, Ct of Crim App",Pl 7,,"Under Votes",4,0,3,1
+Washington,PRECINCT 117,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",12,0,8,4
+Washington,PRECINCT 117,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",31,1,18,12
+Washington,PRECINCT 117,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Judge, Ct of Crim App",Pl 8,,"Under Votes",1,0,0,1
+Washington,PRECINCT 117,"Member, State BoE",10,REP,"Tom Maynard",12,0,8,4
+Washington,PRECINCT 117,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",31,1,18,12
+Washington,PRECINCT 117,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Member, State BoE",10,,"Under Votes",1,0,0,1
+Washington,PRECINCT 117,"State Representative",12,REP,"Trey Wharton",12,0,8,4
+Washington,PRECINCT 117,"State Representative",12,DEM,"Dee Howard Mullins",31,1,18,12
+Washington,PRECINCT 117,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"State Representative",12,,"Under Votes",1,0,0,1
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",11,0,7,4
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",32,1,19,12
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",1,0,0,1
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",12,0,8,4
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",31,1,18,12
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",1,0,0,1
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",12,0,8,4
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",31,1,18,12
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",1,0,0,1
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",11,0,7,4
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",32,1,19,12
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",1,0,0,1
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",11,0,7,4
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",32,1,19,12
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",1,0,0,1
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",12,0,8,4
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",31,1,18,12
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",1,0,0,1
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",11,0,7,4
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",31,0,19,12
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",2,1,0,1
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",12,0,8,4
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",30,0,18,12
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",2,1,0,1
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",12,0,8,4
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",30,0,18,12
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",2,1,0,1
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",12,0,8,4
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",30,0,18,12
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",2,1,0,1
+Washington,PRECINCT 117,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",20,0,14,6
+Washington,PRECINCT 117,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Dist Judge, 21st Judicial Dist",,,"Under Votes",24,1,12,11
+Washington,PRECINCT 117,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",24,0,15,9
+Washington,PRECINCT 117,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Dist Judge, 335th Judicial Dist",,,"Under Votes",20,1,11,8
+Washington,PRECINCT 117,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",20,0,13,7
+Washington,PRECINCT 117,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",24,1,13,10
+Washington,PRECINCT 117,"County Attorney",,REP,"Renee Mueller",20,0,13,7
+Washington,PRECINCT 117,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"County Attorney",,,"Under Votes",24,1,13,10
+Washington,PRECINCT 117,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",21,1,12,8
+Washington,PRECINCT 117,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"District Clerk - Unexpired Term",,,"Under Votes",23,0,14,9
+Washington,PRECINCT 117,"Sheriff",,REP,"Trey Holleway",21,0,12,9
+Washington,PRECINCT 117,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Sheriff",,,"Under Votes",23,1,14,8
+Washington,PRECINCT 117,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",20,0,12,8
+Washington,PRECINCT 117,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"County Tax Assessor-Collector",,,"Under Votes",24,1,14,9
+Washington,PRECINCT 117,"County Commissioner",Pct 1,REP,"Misti Hartstack Corn",20,0,12,8
+Washington,PRECINCT 117,"County Commissioner",Pct 1,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"County Commissioner",Pct 1,,"Under Votes",24,1,14,9
+Washington,PRECINCT 117,"Constable",Pct 1,REP,"Ken Holle",21,0,13,8
+Washington,PRECINCT 117,"Constable",Pct 1,,"Over Votes",0,0,0,0
+Washington,PRECINCT 117,"Constable",Pct 1,,"Under Votes",23,1,13,9
+Washington,PRECINCT 121,"Registered Voters",,,,98,,,
+Washington,PRECINCT 121,"Ballots Cast",,,,58,0,52,6
+Washington,PRECINCT 121,"Ballots Cast Blank",,,,0,0,0,0
+Washington,PRECINCT 121,"President",,REP,"Donald J. Trump/JD Vance",38,0,34,4
+Washington,PRECINCT 121,"President",,DEM,"Kamala D. Harris/Tim Walz",17,0,16,1
+Washington,PRECINCT 121,"President",,LIB,"Chase Oliver/Mike ter Maat",2,0,2,0
+Washington,PRECINCT 121,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,0,1
+Washington,PRECINCT 121,"President",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 121,"U.S. Senate",,REP,"Ted Cruz",38,0,34,4
+Washington,PRECINCT 121,"U.S. Senate",,DEM,"Colin Allred",16,0,15,1
+Washington,PRECINCT 121,"U.S. Senate",,LIB,"Ted Brown",3,0,2,1
+Washington,PRECINCT 121,"U.S. Senate",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 121,"U.S. House",10,REP,"Michael McCaul",38,0,33,5
+Washington,PRECINCT 121,"U.S. House",10,DEM,"Theresa Boisseau",17,0,16,1
+Washington,PRECINCT 121,"U.S. House",10,LIB,"Jeff Miller",1,0,1,0
+Washington,PRECINCT 121,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"U.S. House",10,,"Under Votes",2,0,2,0
+Washington,PRECINCT 121,"Railroad Commissioner",,REP,"Christi Craddick",34,0,30,4
+Washington,PRECINCT 121,"Railroad Commissioner",,DEM,"Katherine Culbert",17,0,16,1
+Washington,PRECINCT 121,"Railroad Commissioner",,LIB,"Hawk Dunlap",2,0,2,0
+Washington,PRECINCT 121,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,2,1
+Washington,PRECINCT 121,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 121,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Railroad Commissioner",,,"Under Votes",2,0,2,0
+Washington,PRECINCT 121,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",38,0,33,5
+Washington,PRECINCT 121,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",17,0,16,1
+Washington,PRECINCT 121,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Justice, Supreme Court",Pl 2,,"Under Votes",3,0,3,0
+Washington,PRECINCT 121,"Justice, Supreme Court",Pl 4,REP,"John Devine",38,0,33,5
+Washington,PRECINCT 121,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",18,0,17,1
+Washington,PRECINCT 121,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Justice, Supreme Court",Pl 4,,"Under Votes",2,0,2,0
+Washington,PRECINCT 121,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",37,0,32,5
+Washington,PRECINCT 121,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",18,0,17,1
+Washington,PRECINCT 121,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",1,0,1,0
+Washington,PRECINCT 121,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Justice, Supreme Court",Pl 6,,"Under Votes",2,0,2,0
+Washington,PRECINCT 121,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",38,0,33,5
+Washington,PRECINCT 121,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",18,0,17,1
+Washington,PRECINCT 121,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Presiding Judge, Ct of Crim App",,,"Under Votes",2,0,2,0
+Washington,PRECINCT 121,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",35,0,31,4
+Washington,PRECINCT 121,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",18,0,16,2
+Washington,PRECINCT 121,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Judge, Ct of Crim App",Pl 7,,"Under Votes",5,0,5,0
+Washington,PRECINCT 121,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",37,0,32,5
+Washington,PRECINCT 121,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",17,0,16,1
+Washington,PRECINCT 121,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Judge, Ct of Crim App",Pl 8,,"Under Votes",4,0,4,0
+Washington,PRECINCT 121,"Member, State BoE",10,REP,"Tom Maynard",36,0,32,4
+Washington,PRECINCT 121,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",19,0,17,2
+Washington,PRECINCT 121,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Member, State BoE",10,,"Under Votes",3,0,3,0
+Washington,PRECINCT 121,"State Representative",12,REP,"Trey Wharton",38,0,33,5
+Washington,PRECINCT 121,"State Representative",12,DEM,"Dee Howard Mullins",16,0,15,1
+Washington,PRECINCT 121,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"State Representative",12,,"Under Votes",4,0,4,0
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",38,0,33,5
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",17,0,16,1
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",3,0,3,0
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",38,0,33,5
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",16,0,15,1
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",4,0,4,0
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",38,0,33,5
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",17,0,16,1
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",3,0,3,0
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",38,0,33,5
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",16,0,15,1
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",4,0,4,0
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",38,0,33,5
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",16,0,15,1
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",4,0,4,0
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",38,0,33,5
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",16,0,15,1
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",4,0,4,0
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",38,0,33,5
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",16,0,15,1
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",4,0,4,0
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",37,0,32,5
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",17,0,16,1
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",4,0,4,0
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",38,0,33,5
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",16,0,15,1
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",4,0,4,0
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",38,0,33,5
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",16,0,15,1
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",4,0,4,0
+Washington,PRECINCT 121,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",40,0,35,5
+Washington,PRECINCT 121,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Dist Judge, 21st Judicial Dist",,,"Under Votes",18,0,17,1
+Washington,PRECINCT 121,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",42,0,37,5
+Washington,PRECINCT 121,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Dist Judge, 335th Judicial Dist",,,"Under Votes",16,0,15,1
+Washington,PRECINCT 121,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",39,0,34,5
+Washington,PRECINCT 121,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",19,0,18,1
+Washington,PRECINCT 121,"County Attorney",,REP,"Renee Mueller",46,0,41,5
+Washington,PRECINCT 121,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"County Attorney",,,"Under Votes",12,0,11,1
+Washington,PRECINCT 121,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",41,0,36,5
+Washington,PRECINCT 121,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"District Clerk - Unexpired Term",,,"Under Votes",17,0,16,1
+Washington,PRECINCT 121,"Sheriff",,REP,"Trey Holleway",45,0,40,5
+Washington,PRECINCT 121,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Sheriff",,,"Under Votes",13,0,12,1
+Washington,PRECINCT 121,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",46,0,41,5
+Washington,PRECINCT 121,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"County Tax Assessor-Collector",,,"Under Votes",12,0,11,1
+Washington,PRECINCT 121,"County Commissioner",Pct 1,REP,"Misti Hartstack Corn",42,0,37,5
+Washington,PRECINCT 121,"County Commissioner",Pct 1,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"County Commissioner",Pct 1,,"Under Votes",16,0,15,1
+Washington,PRECINCT 121,"Constable",Pct 1,REP,"Ken Holle",41,0,36,5
+Washington,PRECINCT 121,"Constable",Pct 1,,"Over Votes",0,0,0,0
+Washington,PRECINCT 121,"Constable",Pct 1,,"Under Votes",17,0,16,1
+Washington,PRECINCT 202,"Registered Voters",,,,4,,,
+Washington,PRECINCT 202,"Ballots Cast",,,,3,0,2,1
+Washington,PRECINCT 202,"Ballots Cast Blank",,,,0,0,0,0
+Washington,PRECINCT 202,"President",,REP,"Donald J. Trump/JD Vance",3,0,2,1
+Washington,PRECINCT 202,"President",,DEM,"Kamala D. Harris/Tim Walz",0,0,0,0
+Washington,PRECINCT 202,"President",,LIB,"Chase Oliver/Mike ter Maat",0,0,0,0
+Washington,PRECINCT 202,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Washington,PRECINCT 202,"President",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 202,"U.S. Senate",,REP,"Ted Cruz",2,0,1,1
+Washington,PRECINCT 202,"U.S. Senate",,DEM,"Colin Allred",0,0,0,0
+Washington,PRECINCT 202,"U.S. Senate",,LIB,"Ted Brown",0,0,0,0
+Washington,PRECINCT 202,"U.S. Senate",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 202,"U.S. House",10,REP,"Michael McCaul",2,0,1,1
+Washington,PRECINCT 202,"U.S. House",10,DEM,"Theresa Boisseau",0,0,0,0
+Washington,PRECINCT 202,"U.S. House",10,LIB,"Jeff Miller",0,0,0,0
+Washington,PRECINCT 202,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"U.S. House",10,,"Under Votes",1,0,1,0
+Washington,PRECINCT 202,"Railroad Commissioner",,REP,"Christi Craddick",1,0,0,1
+Washington,PRECINCT 202,"Railroad Commissioner",,DEM,"Katherine Culbert",0,0,0,0
+Washington,PRECINCT 202,"Railroad Commissioner",,LIB,"Hawk Dunlap",0,0,0,0
+Washington,PRECINCT 202,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Washington,PRECINCT 202,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 202,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Railroad Commissioner",,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1,0,0,1
+Washington,PRECINCT 202,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",0,0,0,0
+Washington,PRECINCT 202,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Justice, Supreme Court",Pl 2,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Justice, Supreme Court",Pl 4,REP,"John Devine",1,0,0,1
+Washington,PRECINCT 202,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",0,0,0,0
+Washington,PRECINCT 202,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Justice, Supreme Court",Pl 4,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1,0,0,1
+Washington,PRECINCT 202,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",0,0,0,0
+Washington,PRECINCT 202,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",0,0,0,0
+Washington,PRECINCT 202,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Justice, Supreme Court",Pl 6,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1,0,0,1
+Washington,PRECINCT 202,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",0,0,0,0
+Washington,PRECINCT 202,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Presiding Judge, Ct of Crim App",,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1,0,0,1
+Washington,PRECINCT 202,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",0,0,0,0
+Washington,PRECINCT 202,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Judge, Ct of Crim App",Pl 7,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1,0,0,1
+Washington,PRECINCT 202,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",0,0,0,0
+Washington,PRECINCT 202,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Judge, Ct of Crim App",Pl 8,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Member, State BoE",10,REP,"Tom Maynard",1,0,0,1
+Washington,PRECINCT 202,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",0,0,0,0
+Washington,PRECINCT 202,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Member, State BoE",10,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"State Representative",12,REP,"Trey Wharton",1,0,0,1
+Washington,PRECINCT 202,"State Representative",12,DEM,"Dee Howard Mullins",0,0,0,0
+Washington,PRECINCT 202,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"State Representative",12,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",1,0,0,1
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",0,0,0,0
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",1,0,0,1
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",0,0,0,0
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",1,0,0,1
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",0,0,0,0
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",1,0,0,1
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",0,0,0,0
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",1,0,0,1
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",0,0,0,0
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",1,0,0,1
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",0,0,0,0
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",1,0,0,1
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",0,0,0,0
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",1,0,0,1
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",0,0,0,0
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",1,0,0,1
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",0,0,0,0
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",1,0,0,1
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",0,0,0,0
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",2,0,1,1
+Washington,PRECINCT 202,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Dist Judge, 21st Judicial Dist",,,"Under Votes",1,0,1,0
+Washington,PRECINCT 202,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",2,0,1,1
+Washington,PRECINCT 202,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Dist Judge, 335th Judicial Dist",,,"Under Votes",1,0,1,0
+Washington,PRECINCT 202,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",2,0,1,1
+Washington,PRECINCT 202,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",1,0,1,0
+Washington,PRECINCT 202,"County Attorney",,REP,"Renee Mueller",1,0,0,1
+Washington,PRECINCT 202,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"County Attorney",,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",1,0,0,1
+Washington,PRECINCT 202,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"District Clerk - Unexpired Term",,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"Sheriff",,REP,"Trey Holleway",1,0,0,1
+Washington,PRECINCT 202,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Sheriff",,,"Under Votes",2,0,2,0
+Washington,PRECINCT 202,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",2,0,1,1
+Washington,PRECINCT 202,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"County Tax Assessor-Collector",,,"Under Votes",1,0,1,0
+Washington,PRECINCT 202,"Constable",Pct 2,REP,"Seth Klehm",2,0,1,1
+Washington,PRECINCT 202,"Constable",Pct 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 202,"Constable",Pct 2,,"Under Votes",1,0,1,0
+Washington,PRECINCT 203,"Registered Voters",,,,2134,,,
+Washington,PRECINCT 203,"Ballots Cast",,,,1616,50,1237,329
+Washington,PRECINCT 203,"Ballots Cast Blank",,,,1,0,0,1
+Washington,PRECINCT 203,"President",,REP,"Donald J. Trump/JD Vance",1297,34,1018,245
+Washington,PRECINCT 203,"President",,DEM,"Kamala D. Harris/Tim Walz",295,13,204,78
+Washington,PRECINCT 203,"President",,LIB,"Chase Oliver/Mike ter Maat",7,1,5,1
+Washington,PRECINCT 203,"President",,GRN,"Jill Stein/Rudolph Ware",6,0,4,2
+Washington,PRECINCT 203,"President",,,"Write-ins",7,2,3,2
+Washington,PRECINCT 203,"President",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"President",,,"Under Votes",4,0,3,1
+Washington,PRECINCT 203,"U.S. Senate",,REP,"Ted Cruz",1268,34,999,235
+Washington,PRECINCT 203,"U.S. Senate",,DEM,"Colin Allred",302,13,215,74
+Washington,PRECINCT 203,"U.S. Senate",,LIB,"Ted Brown",25,0,17,8
+Washington,PRECINCT 203,"U.S. Senate",,,"Write-ins",5,3,1,1
+Washington,PRECINCT 203,"U.S. Senate",,,"Over Votes",1,0,1,0
+Washington,PRECINCT 203,"U.S. Senate",,,"Under Votes",16,0,5,11
+Washington,PRECINCT 203,"U.S. House",10,REP,"Michael McCaul",1294,38,1016,240
+Washington,PRECINCT 203,"U.S. House",10,DEM,"Theresa Boisseau",248,11,170,67
+Washington,PRECINCT 203,"U.S. House",10,LIB,"Jeff Miller",40,1,26,13
+Washington,PRECINCT 203,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"U.S. House",10,,"Under Votes",34,0,25,9
+Washington,PRECINCT 203,"Railroad Commissioner",,REP,"Christi Craddick",1279,36,1001,242
+Washington,PRECINCT 203,"Railroad Commissioner",,DEM,"Katherine Culbert",239,11,167,61
+Washington,PRECINCT 203,"Railroad Commissioner",,LIB,"Hawk Dunlap",38,1,29,8
+Washington,PRECINCT 203,"Railroad Commissioner",,GRN,"Eddie Espinoza",13,0,8,5
+Washington,PRECINCT 203,"Railroad Commissioner",,,"Write-ins",3,2,1,0
+Washington,PRECINCT 203,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Railroad Commissioner",,,"Under Votes",44,0,31,13
+Washington,PRECINCT 203,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1314,39,1028,247
+Washington,PRECINCT 203,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",250,11,177,62
+Washington,PRECINCT 203,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Justice, Supreme Court",Pl 2,,"Under Votes",52,0,32,20
+Washington,PRECINCT 203,"Justice, Supreme Court",Pl 4,REP,"John Devine",1284,38,1003,243
+Washington,PRECINCT 203,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",272,11,192,69
+Washington,PRECINCT 203,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Justice, Supreme Court",Pl 4,,"Under Votes",60,1,42,17
+Washington,PRECINCT 203,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1286,39,1006,241
+Washington,PRECINCT 203,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",247,10,171,66
+Washington,PRECINCT 203,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",32,1,24,7
+Washington,PRECINCT 203,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Justice, Supreme Court",Pl 6,,"Under Votes",51,0,36,15
+Washington,PRECINCT 203,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1300,38,1018,244
+Washington,PRECINCT 203,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",261,12,181,68
+Washington,PRECINCT 203,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Presiding Judge, Ct of Crim App",,,"Under Votes",55,0,38,17
+Washington,PRECINCT 203,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1270,36,995,239
+Washington,PRECINCT 203,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",251,13,176,62
+Washington,PRECINCT 203,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Judge, Ct of Crim App",Pl 7,,"Under Votes",95,1,66,28
+Washington,PRECINCT 203,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1311,39,1023,249
+Washington,PRECINCT 203,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",244,10,172,62
+Washington,PRECINCT 203,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Judge, Ct of Crim App",Pl 8,,"Under Votes",61,1,42,18
+Washington,PRECINCT 203,"Member, State BoE",10,REP,"Tom Maynard",1302,38,1014,250
+Washington,PRECINCT 203,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",256,12,181,63
+Washington,PRECINCT 203,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Member, State BoE",10,,"Under Votes",58,0,42,16
+Washington,PRECINCT 203,"State Representative",12,REP,"Trey Wharton",1312,37,1030,245
+Washington,PRECINCT 203,"State Representative",12,DEM,"Dee Howard Mullins",255,12,175,68
+Washington,PRECINCT 203,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"State Representative",12,,"Under Votes",49,1,32,16
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",1303,38,1018,247
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",250,12,178,60
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",63,0,41,22
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",1293,37,1011,245
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",260,12,182,66
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",63,1,44,18
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",1302,39,1016,247
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",248,10,175,63
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",66,1,46,19
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",1293,37,1011,245
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",255,12,178,65
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",68,1,48,19
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",1295,38,1012,245
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",252,11,176,65
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",69,1,49,19
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",1304,38,1019,247
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",245,11,171,63
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",67,1,47,19
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",1302,39,1013,250
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",250,11,180,59
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",64,0,44,20
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",1286,39,998,249
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",246,11,181,54
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",84,0,58,26
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",1303,38,1019,246
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",242,11,169,62
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",71,1,49,21
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",1292,39,1011,242
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",254,11,176,67
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",70,0,50,20
+Washington,PRECINCT 203,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",1333,31,1115,187
+Washington,PRECINCT 203,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Dist Judge, 21st Judicial Dist",,,"Under Votes",339,16,262,61
+Washington,PRECINCT 203,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",1349,33,1128,188
+Washington,PRECINCT 203,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Dist Judge, 335th Judicial Dist",,,"Under Votes",323,14,249,60
+Washington,PRECINCT 203,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",1310,31,1098,181
+Washington,PRECINCT 203,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",362,16,279,67
+Washington,PRECINCT 203,"County Attorney",,REP,"Renee Mueller",1338,35,1118,185
+Washington,PRECINCT 203,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"County Attorney",,,"Under Votes",334,12,259,63
+Washington,PRECINCT 203,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",1326,33,1111,182
+Washington,PRECINCT 203,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"District Clerk - Unexpired Term",,,"Under Votes",346,14,266,66
+Washington,PRECINCT 203,"Sheriff",,REP,"Trey Holleway",1350,33,1133,184
+Washington,PRECINCT 203,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Sheriff",,,"Under Votes",322,14,244,64
+Washington,PRECINCT 203,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",1338,34,1116,188
+Washington,PRECINCT 203,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"County Tax Assessor-Collector",,,"Under Votes",334,13,261,60
+Washington,PRECINCT 203,"County Commissioner",Pct 3,REP,"Kirk Hanath",1326,35,1109,182
+Washington,PRECINCT 203,"County Commissioner",Pct 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"County Commissioner",Pct 3,,"Under Votes",346,12,268,66
+Washington,PRECINCT 203,"Constable",Pct 3,REP,"Brad Kuecker",1329,35,1111,183
+Washington,PRECINCT 203,"Constable",Pct 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 203,"Constable",Pct 3,,"Under Votes",343,12,266,65
+Washington,PRECINCT 205,"Registered Voters",,,,2665,,,
+Washington,PRECINCT 205,"Ballots Cast",,,,1981,72,1645,264
+Washington,PRECINCT 205,"Ballots Cast Blank",,,,0,0,0,0
+Washington,PRECINCT 205,"President",,REP,"Donald J. Trump/JD Vance",1462,37,1247,178
+Washington,PRECINCT 205,"President",,DEM,"Kamala D. Harris/Tim Walz",476,31,375,70
+Washington,PRECINCT 205,"President",,LIB,"Chase Oliver/Mike ter Maat",15,0,7,8
+Washington,PRECINCT 205,"President",,GRN,"Jill Stein/Rudolph Ware",6,0,3,3
+Washington,PRECINCT 205,"President",,,"Write-ins",9,0,7,2
+Washington,PRECINCT 205,"President",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"President",,,"Under Votes",13,4,6,3
+Washington,PRECINCT 205,"U.S. Senate",,REP,"Ted Cruz",1410,42,1201,167
+Washington,PRECINCT 205,"U.S. Senate",,DEM,"Colin Allred",506,29,401,76
+Washington,PRECINCT 205,"U.S. Senate",,LIB,"Ted Brown",49,0,33,16
+Washington,PRECINCT 205,"U.S. Senate",,,"Write-ins",2,0,1,1
+Washington,PRECINCT 205,"U.S. Senate",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"U.S. Senate",,,"Under Votes",14,1,9,4
+Washington,PRECINCT 205,"U.S. House",10,REP,"Michael McCaul",1506,48,1275,183
+Washington,PRECINCT 205,"U.S. House",10,DEM,"Theresa Boisseau",393,22,313,58
+Washington,PRECINCT 205,"U.S. House",10,LIB,"Jeff Miller",33,0,22,11
+Washington,PRECINCT 205,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"U.S. House",10,,"Under Votes",49,2,35,12
+Washington,PRECINCT 205,"Railroad Commissioner",,REP,"Christi Craddick",1450,43,1234,173
+Washington,PRECINCT 205,"Railroad Commissioner",,DEM,"Katherine Culbert",393,20,313,60
+Washington,PRECINCT 205,"Railroad Commissioner",,LIB,"Hawk Dunlap",60,1,46,13
+Washington,PRECINCT 205,"Railroad Commissioner",,GRN,"Eddie Espinoza",15,0,9,6
+Washington,PRECINCT 205,"Railroad Commissioner",,,"Write-ins",1,0,1,0
+Washington,PRECINCT 205,"Railroad Commissioner",,,"Over Votes",1,0,1,0
+Washington,PRECINCT 205,"Railroad Commissioner",,,"Under Votes",61,8,41,12
+Washington,PRECINCT 205,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1487,43,1263,181
+Washington,PRECINCT 205,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",410,21,323,66
+Washington,PRECINCT 205,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Justice, Supreme Court",Pl 2,,"Under Votes",84,8,59,17
+Washington,PRECINCT 205,"Justice, Supreme Court",Pl 4,REP,"John Devine",1458,41,1238,179
+Washington,PRECINCT 205,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",432,22,345,65
+Washington,PRECINCT 205,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Justice, Supreme Court",Pl 4,,"Under Votes",91,9,62,20
+Washington,PRECINCT 205,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1451,44,1230,177
+Washington,PRECINCT 205,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",405,21,323,61
+Washington,PRECINCT 205,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",48,0,38,10
+Washington,PRECINCT 205,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Justice, Supreme Court",Pl 6,,"Under Votes",77,7,54,16
+Washington,PRECINCT 205,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1478,41,1256,181
+Washington,PRECINCT 205,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",422,23,334,65
+Washington,PRECINCT 205,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Presiding Judge, Ct of Crim App",,,"Under Votes",81,8,55,18
+Washington,PRECINCT 205,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1434,41,1217,176
+Washington,PRECINCT 205,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",403,20,321,62
+Washington,PRECINCT 205,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Judge, Ct of Crim App",Pl 7,,"Under Votes",144,11,107,26
+Washington,PRECINCT 205,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1499,44,1265,190
+Washington,PRECINCT 205,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",391,20,317,54
+Washington,PRECINCT 205,"Judge, Ct of Crim App",Pl 8,,"Over Votes",1,0,1,0
+Washington,PRECINCT 205,"Judge, Ct of Crim App",Pl 8,,"Under Votes",90,8,62,20
+Washington,PRECINCT 205,"Member, State BoE",10,REP,"Tom Maynard",1468,43,1247,178
+Washington,PRECINCT 205,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",426,23,333,70
+Washington,PRECINCT 205,"Member, State BoE",10,,"Over Votes",1,0,1,0
+Washington,PRECINCT 205,"Member, State BoE",10,,"Under Votes",86,6,64,16
+Washington,PRECINCT 205,"State Representative",12,REP,"Trey Wharton",1481,45,1251,185
+Washington,PRECINCT 205,"State Representative",12,DEM,"Dee Howard Mullins",413,19,330,64
+Washington,PRECINCT 205,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"State Representative",12,,"Under Votes",87,8,64,15
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",1477,44,1247,186
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",395,18,322,55
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",109,10,76,23
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",1451,41,1232,178
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",426,21,341,64
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",104,10,72,22
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",1470,40,1248,182
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",406,22,323,61
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",105,10,74,21
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",1455,42,1230,183
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",412,20,334,58
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",114,10,81,23
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",1458,42,1240,176
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",411,19,327,65
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",112,11,78,23
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",1465,44,1244,177
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",404,18,325,61
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",112,10,76,26
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",1462,41,1240,181
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",404,18,328,58
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",115,13,77,25
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",1440,39,1227,174
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",419,21,336,62
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",122,12,82,28
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",1454,42,1233,179
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",408,19,328,61
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",1,0,1,0
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",118,11,83,24
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",1461,43,1240,178
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",408,18,327,63
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",112,11,78,23
+Washington,PRECINCT 205,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",1600,47,1341,212
+Washington,PRECINCT 205,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Dist Judge, 21st Judicial Dist",,,"Under Votes",381,25,304,52
+Washington,PRECINCT 205,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",1617,46,1357,214
+Washington,PRECINCT 205,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Dist Judge, 335th Judicial Dist",,,"Under Votes",364,26,288,50
+Washington,PRECINCT 205,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",1583,46,1325,212
+Washington,PRECINCT 205,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",398,26,320,52
+Washington,PRECINCT 205,"County Attorney",,REP,"Renee Mueller",1604,48,1342,214
+Washington,PRECINCT 205,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"County Attorney",,,"Under Votes",377,24,303,50
+Washington,PRECINCT 205,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",1594,47,1337,210
+Washington,PRECINCT 205,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"District Clerk - Unexpired Term",,,"Under Votes",387,25,308,54
+Washington,PRECINCT 205,"Sheriff",,REP,"Trey Holleway",1618,47,1359,212
+Washington,PRECINCT 205,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Sheriff",,,"Under Votes",363,25,286,52
+Washington,PRECINCT 205,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",1605,48,1344,213
+Washington,PRECINCT 205,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"County Tax Assessor-Collector",,,"Under Votes",376,24,301,51
+Washington,PRECINCT 205,"Constable",Pct 2,REP,"Seth Klehm",1588,47,1336,205
+Washington,PRECINCT 205,"Constable",Pct 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 205,"Constable",Pct 2,,"Under Votes",393,25,309,59
+Washington,PRECINCT 208,"Registered Voters",,,,1666,,,
+Washington,PRECINCT 208,"Ballots Cast",,,,1286,34,1036,216
+Washington,PRECINCT 208,"Ballots Cast Blank",,,,0,0,0,0
+Washington,PRECINCT 208,"President",,REP,"Donald J. Trump/JD Vance",1075,21,873,181
+Washington,PRECINCT 208,"President",,DEM,"Kamala D. Harris/Tim Walz",187,13,143,31
+Washington,PRECINCT 208,"President",,LIB,"Chase Oliver/Mike ter Maat",10,0,9,1
+Washington,PRECINCT 208,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Washington,PRECINCT 208,"President",,,"Write-ins",5,0,4,1
+Washington,PRECINCT 208,"President",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"President",,,"Under Votes",9,0,7,2
+Washington,PRECINCT 208,"U.S. Senate",,REP,"Ted Cruz",1056,20,858,178
+Washington,PRECINCT 208,"U.S. Senate",,DEM,"Colin Allred",205,11,162,32
+Washington,PRECINCT 208,"U.S. Senate",,LIB,"Ted Brown",14,1,7,6
+Washington,PRECINCT 208,"U.S. Senate",,,"Write-ins",1,0,1,0
+Washington,PRECINCT 208,"U.S. Senate",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"U.S. Senate",,,"Under Votes",10,2,8,0
+Washington,PRECINCT 208,"U.S. House",10,REP,"Michael McCaul",1092,22,884,186
+Washington,PRECINCT 208,"U.S. House",10,DEM,"Theresa Boisseau",152,10,115,27
+Washington,PRECINCT 208,"U.S. House",10,LIB,"Jeff Miller",18,1,16,1
+Washington,PRECINCT 208,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"U.S. House",10,,"Under Votes",24,1,21,2
+Washington,PRECINCT 208,"Railroad Commissioner",,REP,"Christi Craddick",1059,18,866,175
+Washington,PRECINCT 208,"Railroad Commissioner",,DEM,"Katherine Culbert",157,10,125,22
+Washington,PRECINCT 208,"Railroad Commissioner",,LIB,"Hawk Dunlap",25,0,17,8
+Washington,PRECINCT 208,"Railroad Commissioner",,GRN,"Eddie Espinoza",7,0,4,3
+Washington,PRECINCT 208,"Railroad Commissioner",,,"Write-ins",1,0,1,0
+Washington,PRECINCT 208,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Railroad Commissioner",,,"Under Votes",37,6,23,8
+Washington,PRECINCT 208,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1090,19,889,182
+Washington,PRECINCT 208,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",154,9,121,24
+Washington,PRECINCT 208,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Justice, Supreme Court",Pl 2,,"Under Votes",42,6,26,10
+Washington,PRECINCT 208,"Justice, Supreme Court",Pl 4,REP,"John Devine",1072,18,875,179
+Washington,PRECINCT 208,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",163,10,127,26
+Washington,PRECINCT 208,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Justice, Supreme Court",Pl 4,,"Under Votes",51,6,34,11
+Washington,PRECINCT 208,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1064,19,867,178
+Washington,PRECINCT 208,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",152,9,118,25
+Washington,PRECINCT 208,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",25,0,22,3
+Washington,PRECINCT 208,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Justice, Supreme Court",Pl 6,,"Under Votes",45,6,29,10
+Washington,PRECINCT 208,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1079,19,879,181
+Washington,PRECINCT 208,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",157,9,123,25
+Washington,PRECINCT 208,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Presiding Judge, Ct of Crim App",,,"Under Votes",50,6,34,10
+Washington,PRECINCT 208,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1053,18,857,178
+Washington,PRECINCT 208,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",152,10,115,27
+Washington,PRECINCT 208,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Judge, Ct of Crim App",Pl 7,,"Under Votes",81,6,64,11
+Washington,PRECINCT 208,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1083,18,885,180
+Washington,PRECINCT 208,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",150,10,115,25
+Washington,PRECINCT 208,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Judge, Ct of Crim App",Pl 8,,"Under Votes",53,6,36,11
+Washington,PRECINCT 208,"Member, State BoE",10,REP,"Tom Maynard",1078,18,880,180
+Washington,PRECINCT 208,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",162,10,123,29
+Washington,PRECINCT 208,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Member, State BoE",10,,"Under Votes",46,6,33,7
+Washington,PRECINCT 208,"State Representative",12,REP,"Trey Wharton",1103,21,897,185
+Washington,PRECINCT 208,"State Representative",12,DEM,"Dee Howard Mullins",147,9,116,22
+Washington,PRECINCT 208,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"State Representative",12,,"Under Votes",36,4,23,9
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",1079,19,880,180
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",147,9,115,23
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",60,6,41,13
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",1065,18,871,176
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",165,10,128,27
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",56,6,37,13
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",1070,18,874,178
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",162,10,127,25
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",54,6,35,13
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",1074,19,877,178
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",155,9,121,25
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",57,6,38,13
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",1065,18,869,178
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",155,9,124,22
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",66,7,43,16
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",1073,19,876,178
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",156,9,123,24
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",57,6,37,14
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",1071,18,875,178
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",151,10,120,21
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",64,6,41,17
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",1065,18,872,175
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",156,10,121,25
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",65,6,43,16
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",1075,19,878,178
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",148,9,118,21
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",63,6,40,17
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",1069,18,873,178
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",157,10,124,23
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",60,6,39,15
+Washington,PRECINCT 208,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",1122,23,913,186
+Washington,PRECINCT 208,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Dist Judge, 21st Judicial Dist",,,"Under Votes",164,11,123,30
+Washington,PRECINCT 208,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",1127,21,921,185
+Washington,PRECINCT 208,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Dist Judge, 335th Judicial Dist",,,"Under Votes",159,13,115,31
+Washington,PRECINCT 208,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",1106,19,903,184
+Washington,PRECINCT 208,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",180,15,133,32
+Washington,PRECINCT 208,"County Attorney",,REP,"Renee Mueller",1133,23,924,186
+Washington,PRECINCT 208,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"County Attorney",,,"Under Votes",153,11,112,30
+Washington,PRECINCT 208,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",1129,21,920,188
+Washington,PRECINCT 208,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"District Clerk - Unexpired Term",,,"Under Votes",157,13,116,28
+Washington,PRECINCT 208,"Sheriff",,REP,"Trey Holleway",1138,23,927,188
+Washington,PRECINCT 208,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Sheriff",,,"Under Votes",148,11,109,28
+Washington,PRECINCT 208,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",1129,23,914,192
+Washington,PRECINCT 208,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"County Tax Assessor-Collector",,,"Under Votes",157,11,122,24
+Washington,PRECINCT 208,"Constable",Pct 2,REP,"Seth Klehm",1128,20,918,190
+Washington,PRECINCT 208,"Constable",Pct 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 208,"Constable",Pct 2,,"Under Votes",158,14,118,26
+Washington,PRECINCT 307,"Registered Voters",,,,2303,,,
+Washington,PRECINCT 307,"Ballots Cast",,,,1672,47,1377,248
+Washington,PRECINCT 307,"Ballots Cast Blank",,,,1,0,0,1
+Washington,PRECINCT 307,"President",,REP,"Donald J. Trump/JD Vance",1238,29,1039,170
+Washington,PRECINCT 307,"President",,DEM,"Kamala D. Harris/Tim Walz",416,17,327,72
+Washington,PRECINCT 307,"President",,LIB,"Chase Oliver/Mike ter Maat",6,0,3,3
+Washington,PRECINCT 307,"President",,GRN,"Jill Stein/Rudolph Ware",2,0,1,1
+Washington,PRECINCT 307,"President",,,"Write-ins",3,0,1,2
+Washington,PRECINCT 307,"President",,,"Over Votes",1,0,1,0
+Washington,PRECINCT 307,"President",,,"Under Votes",6,1,5,0
+Washington,PRECINCT 307,"U.S. Senate",,REP,"Ted Cruz",1168,29,987,152
+Washington,PRECINCT 307,"U.S. Senate",,DEM,"Colin Allred",447,18,353,76
+Washington,PRECINCT 307,"U.S. Senate",,LIB,"Ted Brown",35,0,26,9
+Washington,PRECINCT 307,"U.S. Senate",,,"Write-ins",3,0,1,2
+Washington,PRECINCT 307,"U.S. Senate",,,"Over Votes",1,0,1,0
+Washington,PRECINCT 307,"U.S. Senate",,,"Under Votes",18,0,9,9
+Washington,PRECINCT 307,"U.S. House",10,REP,"Michael McCaul",1244,32,1051,161
+Washington,PRECINCT 307,"U.S. House",10,DEM,"Theresa Boisseau",350,13,273,64
+Washington,PRECINCT 307,"U.S. House",10,LIB,"Jeff Miller",27,0,18,9
+Washington,PRECINCT 307,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"U.S. House",10,,"Under Votes",51,2,35,14
+Washington,PRECINCT 307,"Railroad Commissioner",,REP,"Christi Craddick",1185,28,1004,153
+Washington,PRECINCT 307,"Railroad Commissioner",,DEM,"Katherine Culbert",364,13,287,64
+Washington,PRECINCT 307,"Railroad Commissioner",,LIB,"Hawk Dunlap",47,1,32,14
+Washington,PRECINCT 307,"Railroad Commissioner",,GRN,"Eddie Espinoza",17,1,13,3
+Washington,PRECINCT 307,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 307,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Railroad Commissioner",,,"Under Votes",58,4,40,14
+Washington,PRECINCT 307,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1232,30,1039,163
+Washington,PRECINCT 307,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",366,11,287,68
+Washington,PRECINCT 307,"Justice, Supreme Court",Pl 2,,"Over Votes",1,0,1,0
+Washington,PRECINCT 307,"Justice, Supreme Court",Pl 2,,"Under Votes",73,6,50,17
+Washington,PRECINCT 307,"Justice, Supreme Court",Pl 4,REP,"John Devine",1214,26,1032,156
+Washington,PRECINCT 307,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",385,15,297,73
+Washington,PRECINCT 307,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Justice, Supreme Court",Pl 4,,"Under Votes",73,6,48,19
+Washington,PRECINCT 307,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1196,27,1014,155
+Washington,PRECINCT 307,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",365,12,286,67
+Washington,PRECINCT 307,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",42,0,32,10
+Washington,PRECINCT 307,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Justice, Supreme Court",Pl 6,,"Under Votes",69,8,45,16
+Washington,PRECINCT 307,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1218,26,1032,160
+Washington,PRECINCT 307,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",374,14,290,70
+Washington,PRECINCT 307,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Presiding Judge, Ct of Crim App",,,"Under Votes",80,7,55,18
+Washington,PRECINCT 307,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1200,28,1016,156
+Washington,PRECINCT 307,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",373,12,291,70
+Washington,PRECINCT 307,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Judge, Ct of Crim App",Pl 7,,"Under Votes",99,7,70,22
+Washington,PRECINCT 307,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1233,29,1045,159
+Washington,PRECINCT 307,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",360,11,278,71
+Washington,PRECINCT 307,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Judge, Ct of Crim App",Pl 8,,"Under Votes",79,7,54,18
+Washington,PRECINCT 307,"Member, State BoE",10,REP,"Tom Maynard",1213,30,1029,154
+Washington,PRECINCT 307,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",388,13,299,76
+Washington,PRECINCT 307,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Member, State BoE",10,,"Under Votes",71,4,49,18
+Washington,PRECINCT 307,"State Representative",12,REP,"Trey Wharton",1234,27,1043,164
+Washington,PRECINCT 307,"State Representative",12,DEM,"Dee Howard Mullins",373,14,289,70
+Washington,PRECINCT 307,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"State Representative",12,,"Under Votes",65,6,45,14
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",1229,28,1039,162
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",352,11,273,68
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",91,8,65,18
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",1199,27,1016,156
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",377,13,292,72
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",96,7,69,20
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",1206,27,1020,159
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",363,13,283,67
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",103,7,74,22
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",1202,27,1015,160
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",368,13,289,66
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",102,7,73,22
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",1209,27,1026,156
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",361,13,278,70
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",102,7,73,22
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",1213,26,1030,157
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",358,14,276,68
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",101,7,71,23
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",1220,28,1030,162
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",350,12,273,65
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",102,7,74,21
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",1191,26,1006,159
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",374,14,293,67
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",107,7,78,22
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",1191,27,1011,153
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",362,12,280,70
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",119,8,86,25
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",1197,26,1014,157
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",367,14,284,69
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",108,7,79,22
+Washington,PRECINCT 307,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",1333,31,1115,187
+Washington,PRECINCT 307,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Dist Judge, 21st Judicial Dist",,,"Under Votes",339,16,262,61
+Washington,PRECINCT 307,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",1349,33,1128,188
+Washington,PRECINCT 307,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Dist Judge, 335th Judicial Dist",,,"Under Votes",323,14,249,60
+Washington,PRECINCT 307,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",1310,31,1098,181
+Washington,PRECINCT 307,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",362,16,279,67
+Washington,PRECINCT 307,"County Attorney",,REP,"Renee Mueller",1338,35,1118,185
+Washington,PRECINCT 307,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"County Attorney",,,"Under Votes",334,12,259,63
+Washington,PRECINCT 307,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",1326,33,1111,182
+Washington,PRECINCT 307,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"District Clerk - Unexpired Term",,,"Under Votes",346,14,266,66
+Washington,PRECINCT 307,"Sheriff",,REP,"Trey Holleway",1350,33,1133,184
+Washington,PRECINCT 307,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Sheriff",,,"Under Votes",322,14,244,64
+Washington,PRECINCT 307,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",1338,34,1116,188
+Washington,PRECINCT 307,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"County Tax Assessor-Collector",,,"Under Votes",334,13,261,60
+Washington,PRECINCT 307,"County Commissioner",Pct 3,REP,"Kirk Hanath",1326,35,1109,182
+Washington,PRECINCT 307,"County Commissioner",Pct 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"County Commissioner",Pct 3,,"Under Votes",346,12,268,66
+Washington,PRECINCT 307,"Constable",Pct 3,REP,"Brad Kuecker",1329,35,1111,183
+Washington,PRECINCT 307,"Constable",Pct 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 307,"Constable",Pct 3,,"Under Votes",343,12,266,65
+Washington,PRECINCT 311,"Registered Voters",,,,1349,,,
+Washington,PRECINCT 311,"Ballots Cast",,,,998,31,738,229
+Washington,PRECINCT 311,"Ballots Cast Blank",,,,1,0,1,0
+Washington,PRECINCT 311,"President",,REP,"Donald J. Trump/JD Vance",827,17,618,192
+Washington,PRECINCT 311,"President",,DEM,"Kamala D. Harris/Tim Walz",156,12,110,34
+Washington,PRECINCT 311,"President",,LIB,"Chase Oliver/Mike ter Maat",11,2,6,3
+Washington,PRECINCT 311,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,1,0
+Washington,PRECINCT 311,"President",,,"Write-ins",1,0,1,0
+Washington,PRECINCT 311,"President",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"President",,,"Under Votes",2,0,2,0
+Washington,PRECINCT 311,"U.S. Senate",,REP,"Ted Cruz",811,20,603,188
+Washington,PRECINCT 311,"U.S. Senate",,DEM,"Colin Allred",162,11,117,34
+Washington,PRECINCT 311,"U.S. Senate",,LIB,"Ted Brown",16,0,9,7
+Washington,PRECINCT 311,"U.S. Senate",,,"Write-ins",1,0,1,0
+Washington,PRECINCT 311,"U.S. Senate",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"U.S. Senate",,,"Under Votes",8,0,8,0
+Washington,PRECINCT 311,"U.S. House",10,REP,"Michael McCaul",840,24,625,191
+Washington,PRECINCT 311,"U.S. House",10,DEM,"Theresa Boisseau",121,7,90,24
+Washington,PRECINCT 311,"U.S. House",10,LIB,"Jeff Miller",22,0,10,12
+Washington,PRECINCT 311,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"U.S. House",10,,"Under Votes",15,0,13,2
+Washington,PRECINCT 311,"Railroad Commissioner",,REP,"Christi Craddick",813,20,612,181
+Washington,PRECINCT 311,"Railroad Commissioner",,DEM,"Katherine Culbert",129,11,92,26
+Washington,PRECINCT 311,"Railroad Commissioner",,LIB,"Hawk Dunlap",30,0,19,11
+Washington,PRECINCT 311,"Railroad Commissioner",,GRN,"Eddie Espinoza",5,0,3,2
+Washington,PRECINCT 311,"Railroad Commissioner",,,"Write-ins",2,0,1,1
+Washington,PRECINCT 311,"Railroad Commissioner",,,"Over Votes",1,0,1,0
+Washington,PRECINCT 311,"Railroad Commissioner",,,"Under Votes",18,0,10,8
+Washington,PRECINCT 311,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",842,19,630,193
+Washington,PRECINCT 311,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",127,10,92,25
+Washington,PRECINCT 311,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Justice, Supreme Court",Pl 2,,"Under Votes",29,2,16,11
+Washington,PRECINCT 311,"Justice, Supreme Court",Pl 4,REP,"John Devine",819,18,613,188
+Washington,PRECINCT 311,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",140,11,99,30
+Washington,PRECINCT 311,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Justice, Supreme Court",Pl 4,,"Under Votes",39,2,26,11
+Washington,PRECINCT 311,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",815,20,612,183
+Washington,PRECINCT 311,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",134,9,98,27
+Washington,PRECINCT 311,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",21,0,10,11
+Washington,PRECINCT 311,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Justice, Supreme Court",Pl 6,,"Under Votes",28,2,18,8
+Washington,PRECINCT 311,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",828,20,621,187
+Washington,PRECINCT 311,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",135,9,96,30
+Washington,PRECINCT 311,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Presiding Judge, Ct of Crim App",,,"Under Votes",35,2,21,12
+Washington,PRECINCT 311,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",796,17,600,179
+Washington,PRECINCT 311,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",137,10,97,30
+Washington,PRECINCT 311,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Judge, Ct of Crim App",Pl 7,,"Under Votes",65,4,41,20
+Washington,PRECINCT 311,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",835,18,625,192
+Washington,PRECINCT 311,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",126,10,92,24
+Washington,PRECINCT 311,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Judge, Ct of Crim App",Pl 8,,"Under Votes",37,3,21,13
+Washington,PRECINCT 311,"Member, State BoE",10,REP,"Tom Maynard",826,19,612,195
+Washington,PRECINCT 311,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",137,10,105,22
+Washington,PRECINCT 311,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Member, State BoE",10,,"Under Votes",35,2,21,12
+Washington,PRECINCT 311,"State Representative",12,REP,"Trey Wharton",837,20,620,197
+Washington,PRECINCT 311,"State Representative",12,DEM,"Dee Howard Mullins",138,11,80,47
+Washington,PRECINCT 311,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"State Representative",12,,"Under Votes",23,1,18,4
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",826,18,618,190
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",126,9,91,26
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",46,4,29,13
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",821,18,615,188
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",130,9,92,29
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",1,0,1,0
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",46,4,30,12
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",828,19,619,190
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",127,9,89,29
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",43,3,30,10
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",824,20,616,188
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",133,8,93,32
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",41,3,29,9
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",826,20,615,191
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",126,8,91,27
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",1,0,1,0
+Washington,PRECINCT 311,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",45,3,31,11
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",830,19,620,191
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",126,9,90,27
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",42,3,28,11
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",820,19,616,185
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",131,10,90,31
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",47,2,32,13
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",805,19,605,181
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",143,10,99,34
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",50,2,34,14
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",823,19,616,188
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",125,10,88,27
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",1,0,1,0
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",49,2,33,14
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",822,19,615,188
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",130,10,90,30
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",46,2,33,11
+Washington,PRECINCT 311,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",850,21,628,201
+Washington,PRECINCT 311,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Dist Judge, 21st Judicial Dist",,,"Under Votes",148,10,110,28
+Washington,PRECINCT 311,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",857,22,634,201
+Washington,PRECINCT 311,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Dist Judge, 335th Judicial Dist",,,"Under Votes",141,9,104,28
+Washington,PRECINCT 311,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",833,20,619,194
+Washington,PRECINCT 311,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",165,11,119,35
+Washington,PRECINCT 311,"County Attorney",,REP,"Renee Mueller",854,24,628,202
+Washington,PRECINCT 311,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"County Attorney",,,"Under Votes",144,7,110,27
+Washington,PRECINCT 311,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",847,21,629,197
+Washington,PRECINCT 311,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"District Clerk - Unexpired Term",,,"Under Votes",151,10,109,32
+Washington,PRECINCT 311,"Sheriff",,REP,"Trey Holleway",846,21,627,198
+Washington,PRECINCT 311,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Sheriff",,,"Under Votes",152,10,111,31
+Washington,PRECINCT 311,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",856,26,628,202
+Washington,PRECINCT 311,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"County Tax Assessor-Collector",,,"Under Votes",142,5,110,27
+Washington,PRECINCT 311,"County Commissioner",Pct 3,REP,"Kirk Hanath",842,26,620,196
+Washington,PRECINCT 311,"County Commissioner",Pct 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"County Commissioner",Pct 3,,"Under Votes",156,5,118,33
+Washington,PRECINCT 311,"Constable",Pct 3,REP,"Brad Kuecker",856,21,632,203
+Washington,PRECINCT 311,"Constable",Pct 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 311,"Constable",Pct 3,,"Under Votes",142,10,106,26
+Washington,PRECINCT 312,"Registered Voters",,,,1347,,,
+Washington,PRECINCT 312,"Ballots Cast",,,,1020,30,795,195
+Washington,PRECINCT 312,"Ballots Cast Blank",,,,0,0,0,0
+Washington,PRECINCT 312,"President",,REP,"Donald J. Trump/JD Vance",871,21,686,164
+Washington,PRECINCT 312,"President",,DEM,"Kamala D. Harris/Tim Walz",138,9,102,27
+Washington,PRECINCT 312,"President",,LIB,"Chase Oliver/Mike ter Maat",2,0,1,1
+Washington,PRECINCT 312,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,0,1
+Washington,PRECINCT 312,"President",,,"Write-ins",2,0,2,0
+Washington,PRECINCT 312,"President",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"President",,,"Under Votes",6,0,4,2
+Washington,PRECINCT 312,"U.S. Senate",,REP,"Ted Cruz",845,21,667,157
+Washington,PRECINCT 312,"U.S. Senate",,DEM,"Colin Allred",148,7,108,33
+Washington,PRECINCT 312,"U.S. Senate",,LIB,"Ted Brown",15,1,12,2
+Washington,PRECINCT 312,"U.S. Senate",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 312,"U.S. Senate",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"U.S. Senate",,,"Under Votes",12,1,8,3
+Washington,PRECINCT 312,"U.S. House",10,REP,"Michael McCaul",856,22,676,158
+Washington,PRECINCT 312,"U.S. House",10,DEM,"Theresa Boisseau",117,7,84,26
+Washington,PRECINCT 312,"U.S. House",10,LIB,"Jeff Miller",26,0,21,5
+Washington,PRECINCT 312,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"U.S. House",10,,"Under Votes",21,1,14,6
+Washington,PRECINCT 312,"Railroad Commissioner",,REP,"Christi Craddick",843,22,666,155
+Washington,PRECINCT 312,"Railroad Commissioner",,DEM,"Katherine Culbert",121,5,95,21
+Washington,PRECINCT 312,"Railroad Commissioner",,LIB,"Hawk Dunlap",25,0,16,9
+Washington,PRECINCT 312,"Railroad Commissioner",,GRN,"Eddie Espinoza",5,0,4,1
+Washington,PRECINCT 312,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 312,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Railroad Commissioner",,,"Under Votes",26,3,14,9
+Washington,PRECINCT 312,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",869,22,687,160
+Washington,PRECINCT 312,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",122,5,92,25
+Washington,PRECINCT 312,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Justice, Supreme Court",Pl 2,,"Under Votes",29,3,16,10
+Washington,PRECINCT 312,"Justice, Supreme Court",Pl 4,REP,"John Devine",851,21,677,153
+Washington,PRECINCT 312,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",134,5,103,26
+Washington,PRECINCT 312,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Justice, Supreme Court",Pl 4,,"Under Votes",35,4,15,16
+Washington,PRECINCT 312,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",857,21,679,157
+Washington,PRECINCT 312,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",120,5,89,26
+Washington,PRECINCT 312,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",20,1,14,5
+Washington,PRECINCT 312,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Justice, Supreme Court",Pl 6,,"Under Votes",23,3,13,7
+Washington,PRECINCT 312,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",858,21,682,155
+Washington,PRECINCT 312,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",130,6,96,28
+Washington,PRECINCT 312,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Presiding Judge, Ct of Crim App",,,"Under Votes",32,3,17,12
+Washington,PRECINCT 312,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",839,21,663,155
+Washington,PRECINCT 312,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",122,6,92,24
+Washington,PRECINCT 312,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Judge, Ct of Crim App",Pl 7,,"Under Votes",59,3,40,16
+Washington,PRECINCT 312,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",866,22,685,159
+Washington,PRECINCT 312,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",121,5,92,24
+Washington,PRECINCT 312,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Judge, Ct of Crim App",Pl 8,,"Under Votes",33,3,18,12
+Washington,PRECINCT 312,"Member, State BoE",10,REP,"Tom Maynard",862,22,684,156
+Washington,PRECINCT 312,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",122,5,90,27
+Washington,PRECINCT 312,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Member, State BoE",10,,"Under Votes",36,3,21,12
+Washington,PRECINCT 312,"State Representative",12,REP,"Trey Wharton",863,21,684,158
+Washington,PRECINCT 312,"State Representative",12,DEM,"Dee Howard Mullins",123,6,94,23
+Washington,PRECINCT 312,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"State Representative",12,,"Under Votes",34,3,17,14
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",850,22,674,154
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",117,5,88,24
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",53,3,33,17
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",848,22,672,154
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",122,5,92,25
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",50,3,31,16
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",852,21,675,156
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",120,6,91,23
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",48,3,29,16
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",844,22,667,155
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",121,5,94,22
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",55,3,34,18
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",845,21,668,156
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",121,6,92,23
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",54,3,35,16
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",848,22,673,153
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",120,4,91,25
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",52,4,31,17
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",856,21,678,157
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",116,6,89,21
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",48,3,28,17
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",844,22,667,155
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",121,5,92,24
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",55,3,36,16
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",851,21,673,157
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",114,6,86,22
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",1,0,1,0
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",54,3,35,16
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",857,22,678,157
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",113,5,86,22
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",50,3,31,16
+Washington,PRECINCT 312,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",876,20,693,163
+Washington,PRECINCT 312,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Dist Judge, 21st Judicial Dist",,,"Under Votes",144,10,102,32
+Washington,PRECINCT 312,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",882,20,695,167
+Washington,PRECINCT 312,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Dist Judge, 335th Judicial Dist",,,"Under Votes",138,10,100,28
+Washington,PRECINCT 312,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",867,21,685,161
+Washington,PRECINCT 312,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",153,9,110,34
+Washington,PRECINCT 312,"County Attorney",,REP,"Renee Mueller",878,21,693,164
+Washington,PRECINCT 312,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"County Attorney",,,"Under Votes",142,9,102,31
+Washington,PRECINCT 312,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",875,20,687,168
+Washington,PRECINCT 312,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"District Clerk - Unexpired Term",,,"Under Votes",145,10,108,27
+Washington,PRECINCT 312,"Sheriff",,REP,"Trey Holleway",879,22,690,167
+Washington,PRECINCT 312,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Sheriff",,,"Under Votes",141,8,105,28
+Washington,PRECINCT 312,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",880,22,685,173
+Washington,PRECINCT 312,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"County Tax Assessor-Collector",,,"Under Votes",140,8,110,22
+Washington,PRECINCT 312,"County Commissioner",Pct 3,REP,"Kirk Hanath",874,22,681,171
+Washington,PRECINCT 312,"County Commissioner",Pct 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"County Commissioner",Pct 3,,"Under Votes",146,8,114,24
+Washington,PRECINCT 312,"Constable",Pct 3,REP,"Brad Kuecker",880,21,688,171
+Washington,PRECINCT 312,"Constable",Pct 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 312,"Constable",Pct 3,,"Under Votes",140,9,107,24
+Washington,PRECINCT 320,"Registered Voters",,,,1911,,,
+Washington,PRECINCT 320,"Ballots Cast",,,,1526,46,1290,190
+Washington,PRECINCT 320,"Ballots Cast Blank",,,,0,0,0,0
+Washington,PRECINCT 320,"President",,REP,"Donald J. Trump/JD Vance",1300,31,1112,157
+Washington,PRECINCT 320,"President",,DEM,"Kamala D. Harris/Tim Walz",201,15,163,23
+Washington,PRECINCT 320,"President",,LIB,"Chase Oliver/Mike ter Maat",7,0,4,3
+Washington,PRECINCT 320,"President",,GRN,"Jill Stein/Rudolph Ware",3,0,3,0
+Washington,PRECINCT 320,"President",,,"Write-ins",8,0,3,5
+Washington,PRECINCT 320,"President",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"President",,,"Under Votes",7,0,5,2
+Washington,PRECINCT 320,"U.S. Senate",,REP,"Ted Cruz",1272,31,1089,152
+Washington,PRECINCT 320,"U.S. Senate",,DEM,"Colin Allred",218,15,174,29
+Washington,PRECINCT 320,"U.S. Senate",,LIB,"Ted Brown",21,0,17,4
+Washington,PRECINCT 320,"U.S. Senate",,,"Write-ins",3,0,1,2
+Washington,PRECINCT 320,"U.S. Senate",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"U.S. Senate",,,"Under Votes",12,0,9,3
+Washington,PRECINCT 320,"U.S. House",10,REP,"Michael McCaul",1320,31,1124,165
+Washington,PRECINCT 320,"U.S. House",10,DEM,"Theresa Boisseau",163,13,131,19
+Washington,PRECINCT 320,"U.S. House",10,LIB,"Jeff Miller",26,0,23,3
+Washington,PRECINCT 320,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"U.S. House",10,,"Under Votes",17,2,12,3
+Washington,PRECINCT 320,"Railroad Commissioner",,REP,"Christi Craddick",1280,30,1092,158
+Washington,PRECINCT 320,"Railroad Commissioner",,DEM,"Katherine Culbert",171,12,141,18
+Washington,PRECINCT 320,"Railroad Commissioner",,LIB,"Hawk Dunlap",32,0,26,6
+Washington,PRECINCT 320,"Railroad Commissioner",,GRN,"Eddie Espinoza",5,0,4,1
+Washington,PRECINCT 320,"Railroad Commissioner",,,"Write-ins",1,0,0,1
+Washington,PRECINCT 320,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Railroad Commissioner",,,"Under Votes",37,4,27,6
+Washington,PRECINCT 320,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1318,29,1126,163
+Washington,PRECINCT 320,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",162,12,130,20
+Washington,PRECINCT 320,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Justice, Supreme Court",Pl 2,,"Under Votes",46,5,34,7
+Washington,PRECINCT 320,"Justice, Supreme Court",Pl 4,REP,"John Devine",1292,29,1108,155
+Washington,PRECINCT 320,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",181,12,143,26
+Washington,PRECINCT 320,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Justice, Supreme Court",Pl 4,,"Under Votes",53,5,39,9
+Washington,PRECINCT 320,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1291,30,1104,157
+Washington,PRECINCT 320,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",173,11,140,22
+Washington,PRECINCT 320,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",16,0,14,2
+Washington,PRECINCT 320,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Justice, Supreme Court",Pl 6,,"Under Votes",46,5,32,9
+Washington,PRECINCT 320,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1302,31,1114,157
+Washington,PRECINCT 320,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",179,11,145,23
+Washington,PRECINCT 320,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Presiding Judge, Ct of Crim App",,,"Under Votes",45,4,31,10
+Washington,PRECINCT 320,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1256,28,1077,151
+Washington,PRECINCT 320,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",182,12,144,26
+Washington,PRECINCT 320,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Judge, Ct of Crim App",Pl 7,,"Under Votes",88,6,69,13
+Washington,PRECINCT 320,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1310,30,1121,159
+Washington,PRECINCT 320,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",168,12,134,22
+Washington,PRECINCT 320,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Judge, Ct of Crim App",Pl 8,,"Under Votes",48,4,35,9
+Washington,PRECINCT 320,"Member, State BoE",10,REP,"Tom Maynard",1308,30,1113,165
+Washington,PRECINCT 320,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",172,12,141,19
+Washington,PRECINCT 320,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Member, State BoE",10,,"Under Votes",46,4,36,6
+Washington,PRECINCT 320,"State Representative",12,REP,"Trey Wharton",1321,32,1126,163
+Washington,PRECINCT 320,"State Representative",12,DEM,"Dee Howard Mullins",168,12,135,21
+Washington,PRECINCT 320,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"State Representative",12,,"Under Votes",37,2,29,6
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",1294,31,1103,160
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",169,11,137,21
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",63,4,50,9
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",1288,30,1099,159
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",175,12,140,23
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",63,4,51,8
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",1284,30,1098,156
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",179,12,142,25
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",63,4,50,9
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",1282,30,1094,158
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",182,12,147,23
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",62,4,49,9
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",1291,30,1101,160
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",172,12,139,21
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",63,4,50,9
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",1299,30,1109,160
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",167,12,133,22
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",60,4,48,8
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",1289,29,1102,158
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",172,12,137,23
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",65,5,51,9
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",1272,28,1085,159
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",183,12,148,23
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",71,6,57,8
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",1282,28,1094,160
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",172,12,140,20
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",72,6,56,10
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",1287,28,1100,159
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",172,12,137,23
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",67,6,53,8
+Washington,PRECINCT 320,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",1349,34,1153,162
+Washington,PRECINCT 320,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Dist Judge, 21st Judicial Dist",,,"Under Votes",177,12,137,28
+Washington,PRECINCT 320,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",1352,34,1153,165
+Washington,PRECINCT 320,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Dist Judge, 335th Judicial Dist",,,"Under Votes",174,12,137,25
+Washington,PRECINCT 320,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",1317,32,1125,160
+Washington,PRECINCT 320,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",209,14,165,30
+Washington,PRECINCT 320,"County Attorney",,REP,"Renee Mueller",1332,34,1136,162
+Washington,PRECINCT 320,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"County Attorney",,,"Under Votes",194,12,154,28
+Washington,PRECINCT 320,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",1341,35,1144,162
+Washington,PRECINCT 320,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"District Clerk - Unexpired Term",,,"Under Votes",185,11,146,28
+Washington,PRECINCT 320,"Sheriff",,REP,"Trey Holleway",1361,36,1160,165
+Washington,PRECINCT 320,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Sheriff",,,"Under Votes",165,10,130,25
+Washington,PRECINCT 320,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",1345,35,1142,168
+Washington,PRECINCT 320,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"County Tax Assessor-Collector",,,"Under Votes",181,11,148,22
+Washington,PRECINCT 320,"County Commissioner",Pct 3,REP,"Kirk Hanath",1344,36,1147,161
+Washington,PRECINCT 320,"County Commissioner",Pct 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"County Commissioner",Pct 3,,"Under Votes",182,10,143,29
+Washington,PRECINCT 320,"Constable",Pct 3,REP,"Brad Kuecker",1358,37,1161,160
+Washington,PRECINCT 320,"Constable",Pct 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 320,"Constable",Pct 3,,"Under Votes",168,9,129,30
+Washington,PRECINCT 406,"Registered Voters",,,,2001,,,
+Washington,PRECINCT 406,"Ballots Cast",,,,1273,45,1022,206
+Washington,PRECINCT 406,"Ballots Cast Blank",,,,0,0,0,0
+Washington,PRECINCT 406,"President",,REP,"Donald J. Trump/JD Vance",911,29,766,116
+Washington,PRECINCT 406,"President",,DEM,"Kamala D. Harris/Tim Walz",349,16,246,87
+Washington,PRECINCT 406,"President",,LIB,"Chase Oliver/Mike ter Maat",6,0,5,1
+Washington,PRECINCT 406,"President",,GRN,"Jill Stein/Rudolph Ware",2,0,2,0
+Washington,PRECINCT 406,"President",,,"Write-ins",3,0,1,2
+Washington,PRECINCT 406,"President",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"President",,,"Under Votes",2,0,2,0
+Washington,PRECINCT 406,"U.S. Senate",,REP,"Ted Cruz",881,28,744,109
+Washington,PRECINCT 406,"U.S. Senate",,DEM,"Colin Allred",353,15,256,82
+Washington,PRECINCT 406,"U.S. Senate",,LIB,"Ted Brown",24,0,15,9
+Washington,PRECINCT 406,"U.S. Senate",,,"Write-ins",1,0,1,0
+Washington,PRECINCT 406,"U.S. Senate",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"U.S. Senate",,,"Under Votes",14,2,6,6
+Washington,PRECINCT 406,"U.S. House",10,REP,"Michael McCaul",908,28,767,113
+Washington,PRECINCT 406,"U.S. House",10,DEM,"Theresa Boisseau",289,14,210,65
+Washington,PRECINCT 406,"U.S. House",10,LIB,"Jeff Miller",23,0,14,9
+Washington,PRECINCT 406,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"U.S. House",10,,"Under Votes",53,3,31,19
+Washington,PRECINCT 406,"Railroad Commissioner",,REP,"Christi Craddick",892,26,756,110
+Washington,PRECINCT 406,"Railroad Commissioner",,DEM,"Katherine Culbert",285,12,208,65
+Washington,PRECINCT 406,"Railroad Commissioner",,LIB,"Hawk Dunlap",20,0,15,5
+Washington,PRECINCT 406,"Railroad Commissioner",,GRN,"Eddie Espinoza",15,2,6,7
+Washington,PRECINCT 406,"Railroad Commissioner",,,"Write-ins",1,0,1,0
+Washington,PRECINCT 406,"Railroad Commissioner",,,"Over Votes",1,0,1,0
+Washington,PRECINCT 406,"Railroad Commissioner",,,"Under Votes",59,5,35,19
+Washington,PRECINCT 406,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",912,28,773,111
+Washington,PRECINCT 406,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",286,12,206,68
+Washington,PRECINCT 406,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Justice, Supreme Court",Pl 2,,"Under Votes",75,5,43,27
+Washington,PRECINCT 406,"Justice, Supreme Court",Pl 4,REP,"John Devine",906,26,768,112
+Washington,PRECINCT 406,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",289,14,209,66
+Washington,PRECINCT 406,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Justice, Supreme Court",Pl 4,,"Under Votes",78,5,45,28
+Washington,PRECINCT 406,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",901,26,764,111
+Washington,PRECINCT 406,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",286,12,207,67
+Washington,PRECINCT 406,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",22,1,14,7
+Washington,PRECINCT 406,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Justice, Supreme Court",Pl 6,,"Under Votes",64,6,37,21
+Washington,PRECINCT 406,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",913,26,771,116
+Washington,PRECINCT 406,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",293,14,213,66
+Washington,PRECINCT 406,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Presiding Judge, Ct of Crim App",,,"Under Votes",67,5,38,24
+Washington,PRECINCT 406,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",888,24,756,108
+Washington,PRECINCT 406,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",277,13,199,65
+Washington,PRECINCT 406,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Judge, Ct of Crim App",Pl 7,,"Under Votes",108,8,67,33
+Washington,PRECINCT 406,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",922,28,779,115
+Washington,PRECINCT 406,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",273,12,197,64
+Washington,PRECINCT 406,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Judge, Ct of Crim App",Pl 8,,"Under Votes",78,5,46,27
+Washington,PRECINCT 406,"Member, State BoE",10,REP,"Tom Maynard",895,27,759,109
+Washington,PRECINCT 406,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",296,13,211,72
+Washington,PRECINCT 406,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Member, State BoE",10,,"Under Votes",82,5,52,25
+Washington,PRECINCT 406,"State Representative",12,REP,"Trey Wharton",905,27,763,115
+Washington,PRECINCT 406,"State Representative",12,DEM,"Dee Howard Mullins",286,13,211,62
+Washington,PRECINCT 406,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"State Representative",12,,"Under Votes",82,5,48,29
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",898,26,765,107
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",275,14,196,65
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",100,5,61,34
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",892,26,759,107
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",282,14,203,65
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",99,5,60,34
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",887,27,757,103
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",285,13,205,67
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",101,5,60,36
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",892,28,757,107
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",277,12,202,63
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",104,5,63,36
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",888,27,758,103
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",276,12,199,65
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",109,6,65,38
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",901,27,768,106
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",270,13,192,65
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",102,5,62,35
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",890,28,752,110
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",275,12,200,63
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",108,5,70,33
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",883,25,752,106
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",274,14,197,63
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",116,6,73,37
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",889,26,763,100
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",277,14,194,69
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",107,5,65,37
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",890,26,759,105
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",274,14,196,64
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",109,5,67,37
+Washington,PRECINCT 406,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",984,30,826,128
+Washington,PRECINCT 406,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Dist Judge, 21st Judicial Dist",,,"Under Votes",289,15,196,78
+Washington,PRECINCT 406,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",992,31,833,128
+Washington,PRECINCT 406,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Dist Judge, 335th Judicial Dist",,,"Under Votes",281,14,189,78
+Washington,PRECINCT 406,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",975,30,816,129
+Washington,PRECINCT 406,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",298,15,206,77
+Washington,PRECINCT 406,"County Attorney",,REP,"Renee Mueller",980,30,820,130
+Washington,PRECINCT 406,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"County Attorney",,,"Under Votes",293,15,202,76
+Washington,PRECINCT 406,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",973,30,815,128
+Washington,PRECINCT 406,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"District Clerk - Unexpired Term",,,"Under Votes",300,15,207,78
+Washington,PRECINCT 406,"Sheriff",,REP,"Trey Holleway",992,32,831,129
+Washington,PRECINCT 406,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Sheriff",,,"Under Votes",281,13,191,77
+Washington,PRECINCT 406,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",994,32,835,127
+Washington,PRECINCT 406,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"County Tax Assessor-Collector",,,"Under Votes",279,13,187,79
+Washington,PRECINCT 406,"Constable",Pct 4,REP,"Greg Rolling",975,30,820,125
+Washington,PRECINCT 406,"Constable",Pct 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 406,"Constable",Pct 4,,"Under Votes",298,15,202,81
+Washington,PRECINCT 410,"Registered Voters",,,,1311,,,
+Washington,PRECINCT 410,"Ballots Cast",,,,993,36,634,323
+Washington,PRECINCT 410,"Ballots Cast Blank",,,,0,0,0,0
+Washington,PRECINCT 410,"President",,REP,"Donald J. Trump/JD Vance",817,18,533,266
+Washington,PRECINCT 410,"President",,DEM,"Kamala D. Harris/Tim Walz",166,18,95,53
+Washington,PRECINCT 410,"President",,LIB,"Chase Oliver/Mike ter Maat",4,0,1,3
+Washington,PRECINCT 410,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,1,0
+Washington,PRECINCT 410,"President",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 410,"President",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"President",,,"Under Votes",5,0,4,1
+Washington,PRECINCT 410,"U.S. Senate",,REP,"Ted Cruz",802,18,534,250
+Washington,PRECINCT 410,"U.S. Senate",,DEM,"Colin Allred",168,16,92,60
+Washington,PRECINCT 410,"U.S. Senate",,LIB,"Ted Brown",9,1,4,4
+Washington,PRECINCT 410,"U.S. Senate",,,"Write-ins",1,0,1,0
+Washington,PRECINCT 410,"U.S. Senate",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"U.S. Senate",,,"Under Votes",13,1,3,9
+Washington,PRECINCT 410,"U.S. House",10,REP,"Michael McCaul",810,17,533,260
+Washington,PRECINCT 410,"U.S. House",10,DEM,"Theresa Boisseau",140,16,79,45
+Washington,PRECINCT 410,"U.S. House",10,LIB,"Jeff Miller",13,0,9,4
+Washington,PRECINCT 410,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"U.S. House",10,,"Under Votes",30,3,13,14
+Washington,PRECINCT 410,"Railroad Commissioner",,REP,"Christi Craddick",791,16,523,252
+Washington,PRECINCT 410,"Railroad Commissioner",,DEM,"Katherine Culbert",133,12,79,42
+Washington,PRECINCT 410,"Railroad Commissioner",,LIB,"Hawk Dunlap",18,0,11,7
+Washington,PRECINCT 410,"Railroad Commissioner",,GRN,"Eddie Espinoza",7,0,6,1
+Washington,PRECINCT 410,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 410,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Railroad Commissioner",,,"Under Votes",44,8,15,21
+Washington,PRECINCT 410,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",806,17,532,257
+Washington,PRECINCT 410,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",142,12,84,46
+Washington,PRECINCT 410,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Justice, Supreme Court",Pl 2,,"Under Votes",45,7,18,20
+Washington,PRECINCT 410,"Justice, Supreme Court",Pl 4,REP,"John Devine",799,15,530,254
+Washington,PRECINCT 410,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",143,11,85,47
+Washington,PRECINCT 410,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Justice, Supreme Court",Pl 4,,"Under Votes",51,10,19,22
+Washington,PRECINCT 410,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",795,16,526,253
+Washington,PRECINCT 410,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",141,12,86,43
+Washington,PRECINCT 410,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",13,0,7,6
+Washington,PRECINCT 410,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Justice, Supreme Court",Pl 6,,"Under Votes",44,8,15,21
+Washington,PRECINCT 410,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",805,16,529,260
+Washington,PRECINCT 410,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",139,12,82,45
+Washington,PRECINCT 410,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Presiding Judge, Ct of Crim App",,,"Under Votes",49,8,23,18
+Washington,PRECINCT 410,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",778,16,518,244
+Washington,PRECINCT 410,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",136,11,77,48
+Washington,PRECINCT 410,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Judge, Ct of Crim App",Pl 7,,"Under Votes",79,9,39,31
+Washington,PRECINCT 410,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",806,16,532,258
+Washington,PRECINCT 410,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",133,12,77,44
+Washington,PRECINCT 410,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Judge, Ct of Crim App",Pl 8,,"Under Votes",54,8,25,21
+Washington,PRECINCT 410,"Member, State BoE",10,REP,"Tom Maynard",802,16,532,254
+Washington,PRECINCT 410,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",139,12,80,47
+Washington,PRECINCT 410,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Member, State BoE",10,,"Under Votes",52,8,22,22
+Washington,PRECINCT 410,"State Representative",12,REP,"Trey Wharton",812,17,538,257
+Washington,PRECINCT 410,"State Representative",12,DEM,"Dee Howard Mullins",138,11,80,47
+Washington,PRECINCT 410,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"State Representative",12,,"Under Votes",43,8,16,19
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",798,15,528,255
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",136,11,81,44
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",59,10,25,24
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",792,16,527,249
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",143,12,82,49
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",58,8,25,25
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",799,16,526,257
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",139,11,84,44
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",55,9,24,22
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",787,15,522,250
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",145,11,85,49
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",61,10,27,24
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",797,15,526,256
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",136,13,80,43
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",60,8,28,24
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",791,15,524,252
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",144,11,84,49
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",58,10,26,22
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",797,16,526,255
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",135,11,81,43
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",61,9,27,25
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",779,15,516,248
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",144,12,85,47
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",70,9,33,28
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",791,16,523,252
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",133,11,78,44
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",69,9,33,27
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",790,15,524,251
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",141,12,82,47
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",62,9,28,25
+Washington,PRECINCT 410,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",823,17,544,262
+Washington,PRECINCT 410,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Dist Judge, 21st Judicial Dist",,,"Under Votes",170,19,90,61
+Washington,PRECINCT 410,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",819,17,542,260
+Washington,PRECINCT 410,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Dist Judge, 335th Judicial Dist",,,"Under Votes",174,19,92,63
+Washington,PRECINCT 410,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",812,17,535,260
+Washington,PRECINCT 410,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",181,19,99,63
+Washington,PRECINCT 410,"County Attorney",,REP,"Renee Mueller",823,18,537,268
+Washington,PRECINCT 410,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"County Attorney",,,"Under Votes",170,18,97,55
+Washington,PRECINCT 410,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",826,18,541,267
+Washington,PRECINCT 410,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"District Clerk - Unexpired Term",,,"Under Votes",167,18,93,56
+Washington,PRECINCT 410,"Sheriff",,REP,"Trey Holleway",824,17,544,263
+Washington,PRECINCT 410,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Sheriff",,,"Under Votes",169,19,90,60
+Washington,PRECINCT 410,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",825,18,538,269
+Washington,PRECINCT 410,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"County Tax Assessor-Collector",,,"Under Votes",168,18,96,54
+Washington,PRECINCT 410,"Constable",Pct 4,REP,"Greg Rolling",827,18,542,267
+Washington,PRECINCT 410,"Constable",Pct 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 410,"Constable",Pct 4,,"Under Votes",166,18,92,56
+Washington,PRECINCT 413,"Registered Voters",,,,1862,,,
+Washington,PRECINCT 413,"Ballots Cast",,,,1449,41,1196,212
+Washington,PRECINCT 413,"Ballots Cast Blank",,,,1,0,1,0
+Washington,PRECINCT 413,"President",,REP,"Donald J. Trump/JD Vance",1230,28,1019,183
+Washington,PRECINCT 413,"President",,DEM,"Kamala D. Harris/Tim Walz",204,11,168,25
+Washington,PRECINCT 413,"President",,LIB,"Chase Oliver/Mike ter Maat",9,2,5,2
+Washington,PRECINCT 413,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,0,1
+Washington,PRECINCT 413,"President",,,"Write-ins",1,0,0,1
+Washington,PRECINCT 413,"President",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"President",,,"Under Votes",4,0,4,0
+Washington,PRECINCT 413,"U.S. Senate",,REP,"Ted Cruz",1181,26,980,175
+Washington,PRECINCT 413,"U.S. Senate",,DEM,"Colin Allred",232,14,188,30
+Washington,PRECINCT 413,"U.S. Senate",,LIB,"Ted Brown",27,1,20,6
+Washington,PRECINCT 413,"U.S. Senate",,,"Write-ins",1,0,1,0
+Washington,PRECINCT 413,"U.S. Senate",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"U.S. Senate",,,"Under Votes",8,0,7,1
+Washington,PRECINCT 413,"U.S. House",10,REP,"Michael McCaul",1244,29,1028,187
+Washington,PRECINCT 413,"U.S. House",10,DEM,"Theresa Boisseau",167,9,137,21
+Washington,PRECINCT 413,"U.S. House",10,LIB,"Jeff Miller",24,3,17,4
+Washington,PRECINCT 413,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"U.S. House",10,,"Under Votes",14,0,14,0
+Washington,PRECINCT 413,"Railroad Commissioner",,REP,"Christi Craddick",1209,26,1002,181
+Washington,PRECINCT 413,"Railroad Commissioner",,DEM,"Katherine Culbert",166,9,139,18
+Washington,PRECINCT 413,"Railroad Commissioner",,LIB,"Hawk Dunlap",31,4,20,7
+Washington,PRECINCT 413,"Railroad Commissioner",,GRN,"Eddie Espinoza",9,0,7,2
+Washington,PRECINCT 413,"Railroad Commissioner",,,"Write-ins",1,0,1,0
+Washington,PRECINCT 413,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Railroad Commissioner",,,"Under Votes",33,2,27,4
+Washington,PRECINCT 413,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",1246,29,1031,186
+Washington,PRECINCT 413,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",171,9,139,23
+Washington,PRECINCT 413,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Justice, Supreme Court",Pl 2,,"Under Votes",32,3,26,3
+Washington,PRECINCT 413,"Justice, Supreme Court",Pl 4,REP,"John Devine",1219,28,1007,184
+Washington,PRECINCT 413,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",194,10,160,24
+Washington,PRECINCT 413,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Justice, Supreme Court",Pl 4,,"Under Votes",36,3,29,4
+Washington,PRECINCT 413,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",1222,28,1011,183
+Washington,PRECINCT 413,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",169,5,142,22
+Washington,PRECINCT 413,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",28,4,19,5
+Washington,PRECINCT 413,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Justice, Supreme Court",Pl 6,,"Under Votes",30,4,24,2
+Washington,PRECINCT 413,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1228,28,1015,185
+Washington,PRECINCT 413,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",186,9,154,23
+Washington,PRECINCT 413,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Presiding Judge, Ct of Crim App",,,"Under Votes",35,4,27,4
+Washington,PRECINCT 413,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",1193,26,985,182
+Washington,PRECINCT 413,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",181,8,150,23
+Washington,PRECINCT 413,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Judge, Ct of Crim App",Pl 7,,"Under Votes",75,7,61,7
+Washington,PRECINCT 413,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",1240,28,1028,184
+Washington,PRECINCT 413,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",171,8,139,24
+Washington,PRECINCT 413,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Judge, Ct of Crim App",Pl 8,,"Under Votes",38,5,29,4
+Washington,PRECINCT 413,"Member, State BoE",10,REP,"Tom Maynard",1233,29,1017,187
+Washington,PRECINCT 413,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",180,8,150,22
+Washington,PRECINCT 413,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Member, State BoE",10,,"Under Votes",36,4,29,3
+Washington,PRECINCT 413,"State Representative",12,REP,"Trey Wharton",1230,28,1015,187
+Washington,PRECINCT 413,"State Representative",12,DEM,"Dee Howard Mullins",187,10,153,24
+Washington,PRECINCT 413,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"State Representative",12,,"Under Votes",32,3,28,1
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",1227,28,1015,184
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",169,7,139,23
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",53,6,42,5
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",1211,25,1002,184
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",188,9,155,24
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",50,7,39,4
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",1212,27,1003,182
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",183,9,148,26
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",53,5,44,4
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",1208,27,998,183
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",189,9,155,25
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",52,5,43,4
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",1211,28,1000,183
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",180,7,149,24
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",58,6,47,5
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",1217,28,1007,182
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",176,8,142,26
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",56,5,47,4
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",1216,27,1004,185
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",178,9,146,23
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",55,5,46,4
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",1200,26,994,180
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",188,9,152,27
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",61,6,50,5
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",1217,29,1006,182
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",177,7,144,26
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",55,5,46,4
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",1217,28,1006,183
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",179,8,147,24
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",53,5,43,5
+Washington,PRECINCT 413,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",1260,31,1044,185
+Washington,PRECINCT 413,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Dist Judge, 21st Judicial Dist",,,"Under Votes",189,10,152,27
+Washington,PRECINCT 413,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",1269,28,1054,187
+Washington,PRECINCT 413,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Dist Judge, 335th Judicial Dist",,,"Under Votes",180,13,142,25
+Washington,PRECINCT 413,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",1235,27,1025,183
+Washington,PRECINCT 413,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",214,14,171,29
+Washington,PRECINCT 413,"County Attorney",,REP,"Renee Mueller",1247,31,1034,182
+Washington,PRECINCT 413,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"County Attorney",,,"Under Votes",202,10,162,30
+Washington,PRECINCT 413,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",1247,31,1031,185
+Washington,PRECINCT 413,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"District Clerk - Unexpired Term",,,"Under Votes",202,10,165,27
+Washington,PRECINCT 413,"Sheriff",,REP,"Trey Holleway",1254,31,1038,185
+Washington,PRECINCT 413,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Sheriff",,,"Under Votes",195,10,158,27
+Washington,PRECINCT 413,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",1253,32,1032,189
+Washington,PRECINCT 413,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"County Tax Assessor-Collector",,,"Under Votes",196,9,164,23
+Washington,PRECINCT 413,"Constable",Pct 4,REP,"Greg Rolling",1246,31,1033,182
+Washington,PRECINCT 413,"Constable",Pct 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 413,"Constable",Pct 4,,"Under Votes",203,10,163,30
+Washington,PRECINCT 418,"Registered Voters",,,,644,,,
+Washington,PRECINCT 418,"Ballots Cast",,,,393,13,327,53
+Washington,PRECINCT 418,"Ballots Cast Blank",,,,0,0,0,0
+Washington,PRECINCT 418,"President",,REP,"Donald J. Trump/JD Vance",276,8,235,33
+Washington,PRECINCT 418,"President",,DEM,"Kamala D. Harris/Tim Walz",108,5,86,17
+Washington,PRECINCT 418,"President",,LIB,"Chase Oliver/Mike ter Maat",4,0,3,1
+Washington,PRECINCT 418,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,1,0
+Washington,PRECINCT 418,"President",,,"Write-ins",3,0,2,1
+Washington,PRECINCT 418,"President",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"President",,,"Under Votes",1,0,0,1
+Washington,PRECINCT 418,"U.S. Senate",,REP,"Ted Cruz",266,8,226,32
+Washington,PRECINCT 418,"U.S. Senate",,DEM,"Colin Allred",116,5,93,18
+Washington,PRECINCT 418,"U.S. Senate",,LIB,"Ted Brown",9,0,6,3
+Washington,PRECINCT 418,"U.S. Senate",,,"Write-ins",1,0,1,0
+Washington,PRECINCT 418,"U.S. Senate",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"U.S. Senate",,,"Under Votes",1,0,1,0
+Washington,PRECINCT 418,"U.S. House",10,REP,"Michael McCaul",280,9,235,36
+Washington,PRECINCT 418,"U.S. House",10,DEM,"Theresa Boisseau",96,4,77,15
+Washington,PRECINCT 418,"U.S. House",10,LIB,"Jeff Miller",9,0,7,2
+Washington,PRECINCT 418,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"U.S. House",10,,"Under Votes",8,0,8,0
+Washington,PRECINCT 418,"Railroad Commissioner",,REP,"Christi Craddick",274,7,235,32
+Washington,PRECINCT 418,"Railroad Commissioner",,DEM,"Katherine Culbert",95,5,75,15
+Washington,PRECINCT 418,"Railroad Commissioner",,LIB,"Hawk Dunlap",10,0,7,3
+Washington,PRECINCT 418,"Railroad Commissioner",,GRN,"Eddie Espinoza",7,0,5,2
+Washington,PRECINCT 418,"Railroad Commissioner",,,"Write-ins",1,0,0,1
+Washington,PRECINCT 418,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Railroad Commissioner",,,"Under Votes",6,1,5,0
+Washington,PRECINCT 418,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",285,8,244,33
+Washington,PRECINCT 418,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",95,4,72,19
+Washington,PRECINCT 418,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Justice, Supreme Court",Pl 2,,"Under Votes",13,1,11,1
+Washington,PRECINCT 418,"Justice, Supreme Court",Pl 4,REP,"John Devine",278,7,239,32
+Washington,PRECINCT 418,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",99,5,76,18
+Washington,PRECINCT 418,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Justice, Supreme Court",Pl 4,,"Under Votes",16,1,12,3
+Washington,PRECINCT 418,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",276,7,238,31
+Washington,PRECINCT 418,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",95,5,74,16
+Washington,PRECINCT 418,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",9,0,6,3
+Washington,PRECINCT 418,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Justice, Supreme Court",Pl 6,,"Under Votes",13,1,9,3
+Washington,PRECINCT 418,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",280,7,240,33
+Washington,PRECINCT 418,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",97,5,73,19
+Washington,PRECINCT 418,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Presiding Judge, Ct of Crim App",,,"Under Votes",16,1,14,1
+Washington,PRECINCT 418,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",268,6,228,34
+Washington,PRECINCT 418,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",95,5,74,16
+Washington,PRECINCT 418,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Judge, Ct of Crim App",Pl 7,,"Under Votes",30,2,25,3
+Washington,PRECINCT 418,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",278,7,238,33
+Washington,PRECINCT 418,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",100,5,77,18
+Washington,PRECINCT 418,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Judge, Ct of Crim App",Pl 8,,"Under Votes",15,1,12,2
+Washington,PRECINCT 418,"Member, State BoE",10,REP,"Tom Maynard",272,7,235,30
+Washington,PRECINCT 418,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",109,5,81,23
+Washington,PRECINCT 418,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Member, State BoE",10,,"Under Votes",12,1,11,0
+Washington,PRECINCT 418,"State Representative",12,REP,"Trey Wharton",278,8,236,34
+Washington,PRECINCT 418,"State Representative",12,DEM,"Dee Howard Mullins",100,5,78,17
+Washington,PRECINCT 418,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"State Representative",12,,"Under Votes",15,0,13,2
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",282,6,239,37
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",93,4,74,15
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",18,3,14,1
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",275,7,234,34
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",100,5,78,17
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",18,1,15,2
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",276,7,234,35
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",100,5,79,16
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",17,1,14,2
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",277,7,238,32
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",95,5,72,18
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",1,0,1,0
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",20,1,16,3
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",277,7,237,33
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",95,4,74,17
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",21,2,16,3
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",278,7,238,33
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",94,5,73,16
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",21,1,16,4
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",282,7,240,35
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",92,5,70,17
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",19,1,17,1
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",276,7,235,34
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",98,5,76,17
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",19,1,16,2
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",277,7,237,33
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",96,5,74,17
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",20,1,16,3
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",277,7,235,35
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",96,5,76,15
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",20,1,16,3
+Washington,PRECINCT 418,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",302,9,255,38
+Washington,PRECINCT 418,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Dist Judge, 21st Judicial Dist",,,"Under Votes",91,4,72,15
+Washington,PRECINCT 418,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",301,9,255,37
+Washington,PRECINCT 418,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Dist Judge, 335th Judicial Dist",,,"Under Votes",92,4,72,16
+Washington,PRECINCT 418,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",301,9,255,37
+Washington,PRECINCT 418,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",92,4,72,16
+Washington,PRECINCT 418,"County Attorney",,REP,"Renee Mueller",300,9,252,39
+Washington,PRECINCT 418,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"County Attorney",,,"Under Votes",93,4,75,14
+Washington,PRECINCT 418,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",308,9,257,42
+Washington,PRECINCT 418,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"District Clerk - Unexpired Term",,,"Under Votes",85,4,70,11
+Washington,PRECINCT 418,"Sheriff",,REP,"Trey Holleway",307,9,259,39
+Washington,PRECINCT 418,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Sheriff",,,"Under Votes",86,4,68,14
+Washington,PRECINCT 418,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",304,10,255,39
+Washington,PRECINCT 418,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"County Tax Assessor-Collector",,,"Under Votes",89,3,72,14
+Washington,PRECINCT 418,"Constable",Pct 4,REP,"Greg Rolling",307,9,259,39
+Washington,PRECINCT 418,"Constable",Pct 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 418,"Constable",Pct 4,,"Under Votes",86,4,68,14
+Washington,PRECINCT 419,"Registered Voters",,,,564,,,
+Washington,PRECINCT 419,"Ballots Cast",,,,393,8,335,50
+Washington,PRECINCT 419,"Ballots Cast Blank",,,,0,0,0,0
+Washington,PRECINCT 419,"President",,REP,"Donald J. Trump/JD Vance",291,7,251,33
+Washington,PRECINCT 419,"President",,DEM,"Kamala D. Harris/Tim Walz",93,1,76,16
+Washington,PRECINCT 419,"President",,LIB,"Chase Oliver/Mike ter Maat",4,0,3,1
+Washington,PRECINCT 419,"President",,GRN,"Jill Stein/Rudolph Ware",2,0,2,0
+Washington,PRECINCT 419,"President",,,"Write-ins",1,0,1,0
+Washington,PRECINCT 419,"President",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"President",,,"Under Votes",2,0,2,0
+Washington,PRECINCT 419,"U.S. Senate",,REP,"Ted Cruz",282,6,245,31
+Washington,PRECINCT 419,"U.S. Senate",,DEM,"Colin Allred",99,1,81,17
+Washington,PRECINCT 419,"U.S. Senate",,LIB,"Ted Brown",7,0,6,1
+Washington,PRECINCT 419,"U.S. Senate",,,"Write-ins",0,0,0,0
+Washington,PRECINCT 419,"U.S. Senate",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"U.S. Senate",,,"Under Votes",5,1,3,1
+Washington,PRECINCT 419,"U.S. House",10,REP,"Michael McCaul",288,6,252,30
+Washington,PRECINCT 419,"U.S. House",10,DEM,"Theresa Boisseau",86,1,70,15
+Washington,PRECINCT 419,"U.S. House",10,LIB,"Jeff Miller",10,1,8,1
+Washington,PRECINCT 419,"U.S. House",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"U.S. House",10,,"Under Votes",9,0,5,4
+Washington,PRECINCT 419,"Railroad Commissioner",,REP,"Christi Craddick",279,5,243,31
+Washington,PRECINCT 419,"Railroad Commissioner",,DEM,"Katherine Culbert",82,1,70,11
+Washington,PRECINCT 419,"Railroad Commissioner",,LIB,"Hawk Dunlap",8,0,8,0
+Washington,PRECINCT 419,"Railroad Commissioner",,GRN,"Eddie Espinoza",8,0,5,3
+Washington,PRECINCT 419,"Railroad Commissioner",,,"Write-ins",1,0,1,0
+Washington,PRECINCT 419,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Railroad Commissioner",,,"Under Votes",15,2,8,5
+Washington,PRECINCT 419,"Justice, Supreme Court",Pl 2,REP,"Jimmy Blacklock",290,6,255,29
+Washington,PRECINCT 419,"Justice, Supreme Court",Pl 2,DEM,"DaSean Jones",89,1,73,15
+Washington,PRECINCT 419,"Justice, Supreme Court",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Justice, Supreme Court",Pl 2,,"Under Votes",14,1,7,6
+Washington,PRECINCT 419,"Justice, Supreme Court",Pl 4,REP,"John Devine",283,5,249,29
+Washington,PRECINCT 419,"Justice, Supreme Court",Pl 4,DEM,"Christine Vinh Weems",93,1,77,15
+Washington,PRECINCT 419,"Justice, Supreme Court",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Justice, Supreme Court",Pl 4,,"Under Votes",17,2,9,6
+Washington,PRECINCT 419,"Justice, Supreme Court",Pl 6,REP,"Jane Bland",279,5,245,29
+Washington,PRECINCT 419,"Justice, Supreme Court",Pl 6,DEM,"Bonnie Lee Goldstein",88,1,73,14
+Washington,PRECINCT 419,"Justice, Supreme Court",Pl 6,LIB,"J. David Roberson",10,0,8,2
+Washington,PRECINCT 419,"Justice, Supreme Court",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Justice, Supreme Court",Pl 6,,"Under Votes",16,2,9,5
+Washington,PRECINCT 419,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",282,5,250,27
+Washington,PRECINCT 419,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",96,1,78,17
+Washington,PRECINCT 419,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Presiding Judge, Ct of Crim App",,,"Under Votes",15,2,7,6
+Washington,PRECINCT 419,"Judge, Ct of Crim App",Pl 7,REP,"Gina Parker",273,5,240,28
+Washington,PRECINCT 419,"Judge, Ct of Crim App",Pl 7,DEM,"Nancy Mulder",93,1,78,14
+Washington,PRECINCT 419,"Judge, Ct of Crim App",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Judge, Ct of Crim App",Pl 7,,"Under Votes",27,2,17,8
+Washington,PRECINCT 419,"Judge, Ct of Crim App",Pl 8,REP,"Lee Finley",289,6,254,29
+Washington,PRECINCT 419,"Judge, Ct of Crim App",Pl 8,DEM,"Chika Anyiam",84,1,68,15
+Washington,PRECINCT 419,"Judge, Ct of Crim App",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Judge, Ct of Crim App",Pl 8,,"Under Votes",20,1,13,6
+Washington,PRECINCT 419,"Member, State BoE",10,REP,"Tom Maynard",286,5,252,29
+Washington,PRECINCT 419,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",92,1,75,16
+Washington,PRECINCT 419,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Member, State BoE",10,,"Under Votes",15,2,8,5
+Washington,PRECINCT 419,"State Representative",12,REP,"Trey Wharton",296,5,260,31
+Washington,PRECINCT 419,"State Representative",12,DEM,"Dee Howard Mullins",86,1,71,14
+Washington,PRECINCT 419,"State Representative",12,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"State Representative",12,,"Under Votes",11,2,4,5
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 2,REP,"Jennifer Caughey",286,5,251,30
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 2,DEM,"Brendetta Scott",87,1,72,14
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 2,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 2,,"Under Votes",20,2,12,6
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 6,REP,"Andrew Johnson",284,5,251,28
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 6,DEM,"Sarah Beth Landau",91,1,75,15
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 6,,"Under Votes",18,2,9,7
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 7,REP,"Clint Morgan",282,5,251,26
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 7,DEM,"Julie Countiss",91,0,74,17
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 7,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 7,,"Under Votes",20,3,10,7
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 8,REP,"Kristin M. Guiney",283,5,250,28
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 8,DEM,"Richard Hightower",88,0,73,15
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 8,,"Under Votes",22,3,12,7
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 9,REP,"Susanna Dokupil",280,5,248,27
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 9,DEM,"Amber Boyd-Cora",88,0,72,16
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 9,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Justice, 1st Ct of App Dist",Pl 9,,"Under Votes",25,3,15,7
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 3,REP,"Chad Bridges",286,5,253,28
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 3,DEM,"Velda Renita Faulkner",86,0,71,15
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 3,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 3,,"Under Votes",21,3,11,7
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 4,REP,"Tonya McLaughlin",288,5,253,30
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 4,DEM,"Charles Spain",85,1,70,14
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 4,,"Under Votes",20,2,12,6
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 5,REP,"Maritza Michele Antu",281,5,248,28
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 5,DEM,"Frances Bourliot",85,1,69,15
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 5,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 5,,"Under Votes",27,2,18,7
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 6,REP,"Katy Boatman",287,5,252,30
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 6,DEM,"Meagan Hassan",83,0,69,14
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 6,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 6,,"Under Votes",23,3,14,6
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 8,REP,"Brad Hart",283,5,250,28
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 8,DEM,"Margaret 'Meg' Poissant",90,0,74,16
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 8,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Justice, 14th Ct of App Dist",Pl 8,,"Under Votes",20,3,11,6
+Washington,PRECINCT 419,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",317,5,278,34
+Washington,PRECINCT 419,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Dist Judge, 21st Judicial Dist",,,"Under Votes",76,3,57,16
+Washington,PRECINCT 419,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",318,5,279,34
+Washington,PRECINCT 419,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Dist Judge, 335th Judicial Dist",,,"Under Votes",75,3,56,16
+Washington,PRECINCT 419,"Dist Attorney, 21st Judicial Dist",,REP,"Derek Estep",304,5,266,33
+Washington,PRECINCT 419,"Dist Attorney, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Dist Attorney, 21st Judicial Dist",,,"Under Votes",89,3,69,17
+Washington,PRECINCT 419,"County Attorney",,REP,"Renee Mueller",318,5,277,36
+Washington,PRECINCT 419,"County Attorney",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"County Attorney",,,"Under Votes",75,3,58,14
+Washington,PRECINCT 419,"District Clerk - Unexpired Term",,REP,"Kimberley Boyce",308,5,270,33
+Washington,PRECINCT 419,"District Clerk - Unexpired Term",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"District Clerk - Unexpired Term",,,"Under Votes",85,3,65,17
+Washington,PRECINCT 419,"Sheriff",,REP,"Trey Holleway",316,5,276,35
+Washington,PRECINCT 419,"Sheriff",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Sheriff",,,"Under Votes",77,3,59,15
+Washington,PRECINCT 419,"County Tax Assessor-Collector",,REP,"Cheryl Gaskamp",315,5,275,35
+Washington,PRECINCT 419,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"County Tax Assessor-Collector",,,"Under Votes",78,3,60,15
+Washington,PRECINCT 419,"Constable",Pct 4,REP,"Greg Rolling",303,5,264,34
+Washington,PRECINCT 419,"Constable",Pct 4,,"Over Votes",0,0,0,0
+Washington,PRECINCT 419,"Constable",Pct 4,,"Under Votes",90,3,71,16
