@@ -1,0 +1,472 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Aransas,1,"Registered Voters",,,,2652,,,
+Aransas,1,"Ballots Cast",,,,1839,0,0,0
+Aransas,1,"President",,REP,"Donald J. Trump",1503,46,1220,237
+Aransas,1,"President",,DEM,"Kamala D. Harris",310,29,235,46
+Aransas,1,"President",,LIB,"Chase Oliver",6,0,4,2
+Aransas,1,"President",,GRN,"Jill Stein",4,0,3,1
+Aransas,1,"President",,,"Cherunda Fox/Harlan McVay (W)",0,0,0,0
+Aransas,1,"President",,,"Claudia De la Cruz/Karina Garcia (W)",0,0,0,0
+Aransas,1,"President",,,"Cornel West/Melina Abdullah (W)",0,0,0,0
+Aransas,1,"President",,,"Jessie Cuellar/Wesley Lasley (W)",0,0,0,0
+Aransas,1,"President",,,"Peter Sonski/Lauren Onak (W)",1,0,0,1
+Aransas,1,"President",,,"Shiva Ayyadurai/Crystal Ellis (W)",0,0,0,0
+Aransas,1,"President",,,Under Votes,14,2,9,3
+Aransas,1,"President",,,Over Votes,1,0,1,0
+Aransas,1,"U.S. Senate",,REP,"Ted Cruz",1427,45,1167,215
+Aransas,1,"U.S. Senate",,DEM,"Colin Allred",355,31,261,63
+Aransas,1,"U.S. Senate",,LIB,"Ted Brown",40,0,32,8
+Aransas,1,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Aransas,1,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Aransas,1,"U.S. Senate",,,Under Votes,17,1,12,4
+Aransas,1,"U.S. Senate",,,Over Votes,0,0,0,0
+Aransas,1,"U.S. House",27,REP,"Michael Cloud",1503,51,1222,230
+Aransas,1,"U.S. House",27,DEM,"Tanya Lloyd",290,24,218,48
+Aransas,1,"U.S. House",27,,Under Votes,46,2,32,12
+Aransas,1,"U.S. House",27,,Over Votes,0,0,0,0
+Aransas,1,"Railroad Commissioner",,REP,"Christi Craddick",1454,44,1192,218
+Aransas,1,"Railroad Commissioner",,DEM,"Katherine Culbert",267,24,201,42
+Aransas,1,"Railroad Commissioner",,LIB,"Hawk Dunlap",42,3,30,9
+Aransas,1,"Railroad Commissioner",,GRN,"Eddie Espinoza",24,1,16,7
+Aransas,1,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Aransas,1,"Railroad Commissioner",,,Under Votes,51,4,33,14
+Aransas,1,"Railroad Commissioner",,,Over Votes,1,1,0,0
+Aransas,1,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",1488,42,1219,227
+Aransas,1,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",291,29,213,49
+Aransas,1,"Justice, Supreme Court","Place 2",,Under Votes,60,6,40,14
+Aransas,1,"Justice, Supreme Court","Place 2",,Over Votes,0,0,0,0
+Aransas,1,"Justice, Supreme Court","Place 4",REP,"John Devine",1482,44,1214,224
+Aransas,1,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",293,27,217,49
+Aransas,1,"Justice, Supreme Court","Place 4",,Under Votes,64,6,41,17
+Aransas,1,"Justice, Supreme Court","Place 4",,Over Votes,0,0,0,0
+Aransas,1,"Justice, Supreme Court","Place 6",REP,"Jane Bland",1454,43,1195,216
+Aransas,1,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",277,25,207,45
+Aransas,1,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",51,3,34,14
+Aransas,1,"Justice, Supreme Court","Place 6",,Under Votes,57,6,36,15
+Aransas,1,"Justice, Supreme Court","Place 6",,Over Votes,0,0,0,0
+Aransas,1,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1481,44,1209,228
+Aransas,1,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",301,27,224,50
+Aransas,1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,57,6,39,12
+Aransas,1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Aransas,1,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",1488,46,1215,227
+Aransas,1,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",285,25,212,48
+Aransas,1,"Judge, Court of Criminal Appeals","Place 7",,Under Votes,66,6,45,15
+Aransas,1,"Judge, Court of Criminal Appeals","Place 7",,Over Votes,0,0,0,0
+Aransas,1,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",1485,45,1209,231
+Aransas,1,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",279,26,208,45
+Aransas,1,"Judge, Court of Criminal Appeals","Place 8",,Under Votes,75,6,55,14
+Aransas,1,"Judge, Court of Criminal Appeals","Place 8",,Over Votes,0,0,0,0
+Aransas,1,"State Representative",32,REP,"Todd Hunter",1514,52,1231,231
+Aransas,1,"State Representative",32,DEM,"Cathy McAuliffe",271,20,204,47
+Aransas,1,"State Representative",32,,Under Votes,54,5,37,12
+Aransas,1,"State Representative",32,,Over Votes,0,0,0,0
+Aransas,1,"Chief Justice, 13th Court of Appeals District",,REP,"Jaime Tijerina",1463,45,1195,223
+Aransas,1,"Chief Justice, 13th Court of Appeals District",,DEM,"Gina Benavides",295,25,218,52
+Aransas,1,"Chief Justice, 13th Court of Appeals District",,,Under Votes,81,7,59,15
+Aransas,1,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Aransas,1,"Justice, 13th Court of Appeals District","Place 2",REP,"Jenny Cron",1451,43,1186,222
+Aransas,1,"Justice, 13th Court of Appeals District","Place 2",DEM,"Nora Longoria",301,26,225,50
+Aransas,1,"Justice, 13th Court of Appeals District","Place 2",,Under Votes,87,8,61,18
+Aransas,1,"Justice, 13th Court of Appeals District","Place 2",,Over Votes,0,0,0,0
+Aransas,1,"Justice, 13th Court of Appeals District","Place 4",REP,"Ysmael D. Fonseca",1451,45,1180,226
+Aransas,1,"Justice, 13th Court of Appeals District","Place 4",DEM,"Joe Martinez",292,25,220,47
+Aransas,1,"Justice, 13th Court of Appeals District","Place 4",,Under Votes,96,7,72,17
+Aransas,1,"Justice, 13th Court of Appeals District","Place 4",,Over Votes,0,0,0,0
+Aransas,1,"Justice, 13th Court of Appeals District","Place 5",REP,"Jon West",1474,47,1204,223
+Aransas,1,"Justice, 13th Court of Appeals District","Place 5",DEM,"Regi Compian Richardson",273,23,203,47
+Aransas,1,"Justice, 13th Court of Appeals District","Place 5",,Under Votes,92,7,65,20
+Aransas,1,"Justice, 13th Court of Appeals District","Place 5",,Over Votes,0,0,0,0
+Aransas,1,"District Judge, 343rd Judicial District",,REP,"Janna K. Whatley",1575,52,1276,247
+Aransas,1,"District Judge, 343rd Judicial District",,,Under Votes,264,25,196,43
+Aransas,1,"District Judge, 343rd Judicial District",,,Over Votes,0,0,0,0
+Aransas,1,"County Attorney",,REP,"Amanda Oster",1566,48,1269,249
+Aransas,1,"County Attorney",,,Under Votes,273,29,203,41
+Aransas,1,"County Attorney",,,Over Votes,0,0,0,0
+Aransas,1,"Sheriff",,REP,"Bill Mills",1557,55,1258,244
+Aransas,1,"Sheriff",,,Under Votes,282,22,214,46
+Aransas,1,"Sheriff",,,Over Votes,0,0,0,0
+Aransas,1,"County Tax Assessor-Collector",,REP,"Anna Marshall",1593,56,1288,249
+Aransas,1,"County Tax Assessor-Collector",,,Under Votes,246,21,184,41
+Aransas,1,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Aransas,1,"County Commissioner, Precinct 1",,REP,"Jack Chaney",1289,41,1046,202
+Aransas,1,"County Commissioner, Precinct 1",,IND,"Melissa Esquivel",428,21,345,62
+Aransas,1,"County Commissioner, Precinct 1",,,Under Votes,122,15,81,26
+Aransas,1,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Aransas,1,"County Constable, Precinct 1",,REP,"Doc Thomas",1580,51,1283,246
+Aransas,1,"County Constable, Precinct 1",,,Under Votes,259,26,189,44
+Aransas,1,"County Constable, Precinct 1",,,Over Votes,0,0,0,0
+Aransas,1A,"Registered Voters",,,,2061,,,
+Aransas,1A,"Ballots Cast",,,,1057,0,0,0
+Aransas,1A,"President",,REP,"Donald J. Trump",863,20,670,173
+Aransas,1A,"President",,DEM,"Kamala D. Harris",183,13,136,34
+Aransas,1A,"President",,LIB,"Chase Oliver",4,0,2,2
+Aransas,1A,"President",,GRN,"Jill Stein",3,0,1,2
+Aransas,1A,"President",,,"Cherunda Fox/Harlan McVay (W)",0,0,0,0
+Aransas,1A,"President",,,"Claudia De la Cruz/Karina Garcia (W)",0,0,0,0
+Aransas,1A,"President",,,"Cornel West/Melina Abdullah (W)",0,0,0,0
+Aransas,1A,"President",,,"Jessie Cuellar/Wesley Lasley (W)",0,0,0,0
+Aransas,1A,"President",,,"Peter Sonski/Lauren Onak (W)",1,0,1,0
+Aransas,1A,"President",,,"Shiva Ayyadurai/Crystal Ellis (W)",0,0,0,0
+Aransas,1A,"President",,,Under Votes,3,1,0,2
+Aransas,1A,"President",,,Over Votes,0,0,0,0
+Aransas,1A,"U.S. Senate",,REP,"Ted Cruz",810,20,632,158
+Aransas,1A,"U.S. Senate",,DEM,"Colin Allred",207,13,151,43
+Aransas,1A,"U.S. Senate",,LIB,"Ted Brown",27,1,18,8
+Aransas,1A,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Aransas,1A,"U.S. Senate",,,"Tracy Andrus (W)",1,0,1,0
+Aransas,1A,"U.S. Senate",,,Under Votes,12,0,8,4
+Aransas,1A,"U.S. Senate",,,Over Votes,0,0,0,0
+Aransas,1A,"U.S. House",27,REP,"Michael Cloud",850,20,658,172
+Aransas,1A,"U.S. House",27,DEM,"Tanya Lloyd",179,14,132,33
+Aransas,1A,"U.S. House",27,,Under Votes,28,0,20,8
+Aransas,1A,"U.S. House",27,,Over Votes,0,0,0,0
+Aransas,1A,"Railroad Commissioner",,REP,"Christi Craddick",815,20,641,154
+Aransas,1A,"Railroad Commissioner",,DEM,"Katherine Culbert",160,13,115,32
+Aransas,1A,"Railroad Commissioner",,LIB,"Hawk Dunlap",27,0,20,7
+Aransas,1A,"Railroad Commissioner",,GRN,"Eddie Espinoza",18,0,13,5
+Aransas,1A,"Railroad Commissioner",,,"Richard McKibbin (W)",1,0,0,1
+Aransas,1A,"Railroad Commissioner",,,Under Votes,36,1,21,14
+Aransas,1A,"Railroad Commissioner",,,Over Votes,0,0,0,0
+Aransas,1A,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",846,19,658,169
+Aransas,1A,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",178,13,133,32
+Aransas,1A,"Justice, Supreme Court","Place 2",,Under Votes,33,2,19,12
+Aransas,1A,"Justice, Supreme Court","Place 2",,Over Votes,0,0,0,0
+Aransas,1A,"Justice, Supreme Court","Place 4",REP,"John Devine",835,20,653,162
+Aransas,1A,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",183,13,134,36
+Aransas,1A,"Justice, Supreme Court","Place 4",,Under Votes,39,1,23,15
+Aransas,1A,"Justice, Supreme Court","Place 4",,Over Votes,0,0,0,0
+Aransas,1A,"Justice, Supreme Court","Place 6",REP,"Jane Bland",828,20,651,157
+Aransas,1A,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",166,13,122,31
+Aransas,1A,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",24,0,14,10
+Aransas,1A,"Justice, Supreme Court","Place 6",,Under Votes,39,1,23,15
+Aransas,1A,"Justice, Supreme Court","Place 6",,Over Votes,0,0,0,0
+Aransas,1A,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",836,20,652,164
+Aransas,1A,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",181,13,133,35
+Aransas,1A,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,40,1,25,14
+Aransas,1A,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Aransas,1A,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",845,20,661,164
+Aransas,1A,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",169,13,123,33
+Aransas,1A,"Judge, Court of Criminal Appeals","Place 7",,Under Votes,43,1,26,16
+Aransas,1A,"Judge, Court of Criminal Appeals","Place 7",,Over Votes,0,0,0,0
+Aransas,1A,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",843,19,661,163
+Aransas,1A,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",168,13,122,33
+Aransas,1A,"Judge, Court of Criminal Appeals","Place 8",,Under Votes,46,2,27,17
+Aransas,1A,"Judge, Court of Criminal Appeals","Place 8",,Over Votes,0,0,0,0
+Aransas,1A,"State Representative",32,REP,"Todd Hunter",841,21,654,166
+Aransas,1A,"State Representative",32,DEM,"Cathy McAuliffe",177,12,132,33
+Aransas,1A,"State Representative",32,,Under Votes,39,1,24,14
+Aransas,1A,"State Representative",32,,Over Votes,0,0,0,0
+Aransas,1A,"Chief Justice, 13th Court of Appeals District",,REP,"Jaime Tijerina",830,20,649,161
+Aransas,1A,"Chief Justice, 13th Court of Appeals District",,DEM,"Gina Benavides",180,13,133,34
+Aransas,1A,"Chief Justice, 13th Court of Appeals District",,,Under Votes,47,1,28,18
+Aransas,1A,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Aransas,1A,"Justice, 13th Court of Appeals District","Place 2",REP,"Jenny Cron",815,19,641,155
+Aransas,1A,"Justice, 13th Court of Appeals District","Place 2",DEM,"Nora Longoria",188,13,138,37
+Aransas,1A,"Justice, 13th Court of Appeals District","Place 2",,Under Votes,54,2,31,21
+Aransas,1A,"Justice, 13th Court of Appeals District","Place 2",,Over Votes,0,0,0,0
+Aransas,1A,"Justice, 13th Court of Appeals District","Place 4",REP,"Ysmael D. Fonseca",812,19,638,155
+Aransas,1A,"Justice, 13th Court of Appeals District","Place 4",DEM,"Joe Martinez",188,13,140,35
+Aransas,1A,"Justice, 13th Court of Appeals District","Place 4",,Under Votes,57,2,32,23
+Aransas,1A,"Justice, 13th Court of Appeals District","Place 4",,Over Votes,0,0,0,0
+Aransas,1A,"Justice, 13th Court of Appeals District","Place 5",REP,"Jon West",838,20,657,161
+Aransas,1A,"Justice, 13th Court of Appeals District","Place 5",DEM,"Regi Compian Richardson",161,13,118,30
+Aransas,1A,"Justice, 13th Court of Appeals District","Place 5",,Under Votes,58,1,35,22
+Aransas,1A,"Justice, 13th Court of Appeals District","Place 5",,Over Votes,0,0,0,0
+Aransas,1A,"District Judge, 343rd Judicial District",,REP,"Janna K. Whatley",872,21,679,172
+Aransas,1A,"District Judge, 343rd Judicial District",,,Under Votes,185,13,131,41
+Aransas,1A,"District Judge, 343rd Judicial District",,,Over Votes,0,0,0,0
+Aransas,1A,"County Attorney",,REP,"Amanda Oster",879,21,688,170
+Aransas,1A,"County Attorney",,,Under Votes,178,13,122,43
+Aransas,1A,"County Attorney",,,Over Votes,0,0,0,0
+Aransas,1A,"Sheriff",,REP,"Bill Mills",879,22,685,172
+Aransas,1A,"Sheriff",,,Under Votes,178,12,125,41
+Aransas,1A,"Sheriff",,,Over Votes,0,0,0,0
+Aransas,1A,"County Tax Assessor-Collector",,REP,"Anna Marshall",879,21,687,171
+Aransas,1A,"County Tax Assessor-Collector",,,Under Votes,178,13,123,42
+Aransas,1A,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Aransas,1A,"County Commissioner, Precinct 1",,REP,"Jack Chaney",729,17,575,137
+Aransas,1A,"County Commissioner, Precinct 1",,IND,"Melissa Esquivel",238,13,172,53
+Aransas,1A,"County Commissioner, Precinct 1",,,Under Votes,90,4,63,23
+Aransas,1A,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Aransas,1A,"County Constable, Precinct 1",,REP,"Doc Thomas",871,21,678,172
+Aransas,1A,"County Constable, Precinct 1",,,Under Votes,186,13,132,41
+Aransas,1A,"County Constable, Precinct 1",,,Over Votes,0,0,0,0
+Aransas,2,"Registered Voters",,,,4201,,,
+Aransas,2,"Ballots Cast",,,,2390,0,0,0
+Aransas,2,"President",,REP,"Donald J. Trump",1793,58,1410,325
+Aransas,2,"President",,DEM,"Kamala D. Harris",562,45,411,106
+Aransas,2,"President",,LIB,"Chase Oliver",20,1,14,5
+Aransas,2,"President",,GRN,"Jill Stein",6,0,0,6
+Aransas,2,"President",,,"Cherunda Fox/Harlan McVay (W)",0,0,0,0
+Aransas,2,"President",,,"Claudia De la Cruz/Karina Garcia (W)",0,0,0,0
+Aransas,2,"President",,,"Cornel West/Melina Abdullah (W)",0,0,0,0
+Aransas,2,"President",,,"Jessie Cuellar/Wesley Lasley (W)",0,0,0,0
+Aransas,2,"President",,,"Peter Sonski/Lauren Onak (W)",0,0,0,0
+Aransas,2,"President",,,"Shiva Ayyadurai/Crystal Ellis (W)",0,0,0,0
+Aransas,2,"President",,,Under Votes,8,0,7,1
+Aransas,2,"President",,,Over Votes,1,0,1,0
+Aransas,2,"U.S. Senate",,REP,"Ted Cruz",1677,58,1329,290
+Aransas,2,"U.S. Senate",,DEM,"Colin Allred",613,43,437,133
+Aransas,2,"U.S. Senate",,LIB,"Ted Brown",66,1,50,15
+Aransas,2,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Aransas,2,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Aransas,2,"U.S. Senate",,,Under Votes,34,2,27,5
+Aransas,2,"U.S. Senate",,,Over Votes,0,0,0,0
+Aransas,2,"U.S. House",27,REP,"Michael Cloud",1766,56,1387,323
+Aransas,2,"U.S. House",27,DEM,"Tanya Lloyd",545,41,393,111
+Aransas,2,"U.S. House",27,,Under Votes,79,7,63,9
+Aransas,2,"U.S. House",27,,Over Votes,0,0,0,0
+Aransas,2,"Railroad Commissioner",,REP,"Christi Craddick",1680,55,1328,297
+Aransas,2,"Railroad Commissioner",,DEM,"Katherine Culbert",520,41,377,102
+Aransas,2,"Railroad Commissioner",,LIB,"Hawk Dunlap",60,2,46,12
+Aransas,2,"Railroad Commissioner",,GRN,"Eddie Espinoza",53,1,34,18
+Aransas,2,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Aransas,2,"Railroad Commissioner",,,Under Votes,77,5,58,14
+Aransas,2,"Railroad Commissioner",,,Over Votes,0,0,0,0
+Aransas,2,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",1750,57,1381,312
+Aransas,2,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",549,41,392,116
+Aransas,2,"Justice, Supreme Court","Place 2",,Under Votes,91,6,70,15
+Aransas,2,"Justice, Supreme Court","Place 2",,Over Votes,0,0,0,0
+Aransas,2,"Justice, Supreme Court","Place 4",REP,"John Devine",1723,54,1359,310
+Aransas,2,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",572,43,414,115
+Aransas,2,"Justice, Supreme Court","Place 4",,Under Votes,95,7,70,18
+Aransas,2,"Justice, Supreme Court","Place 4",,Over Votes,0,0,0,0
+Aransas,2,"Justice, Supreme Court","Place 6",REP,"Jane Bland",1689,55,1340,294
+Aransas,2,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",537,40,387,110
+Aransas,2,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",78,3,50,25
+Aransas,2,"Justice, Supreme Court","Place 6",,Under Votes,86,6,66,14
+Aransas,2,"Justice, Supreme Court","Place 6",,Over Votes,0,0,0,0
+Aransas,2,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1730,52,1366,312
+Aransas,2,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",567,45,405,117
+Aransas,2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,92,6,72,14
+Aransas,2,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,1,0,0
+Aransas,2,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",1743,57,1374,312
+Aransas,2,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",546,41,391,114
+Aransas,2,"Judge, Court of Criminal Appeals","Place 7",,Under Votes,101,6,78,17
+Aransas,2,"Judge, Court of Criminal Appeals","Place 7",,Over Votes,0,0,0,0
+Aransas,2,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",1743,57,1371,315
+Aransas,2,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",532,41,386,105
+Aransas,2,"Judge, Court of Criminal Appeals","Place 8",,Under Votes,115,6,86,23
+Aransas,2,"Judge, Court of Criminal Appeals","Place 8",,Over Votes,0,0,0,0
+Aransas,2,"State Representative",32,REP,"Todd Hunter",1766,56,1395,315
+Aransas,2,"State Representative",32,DEM,"Cathy McAuliffe",526,44,369,113
+Aransas,2,"State Representative",32,,Under Votes,98,4,79,15
+Aransas,2,"State Representative",32,,Over Votes,0,0,0,0
+Aransas,2,"Chief Justice, 13th Court of Appeals District",,REP,"Jaime Tijerina",1706,57,1345,304
+Aransas,2,"Chief Justice, 13th Court of Appeals District",,DEM,"Gina Benavides",574,40,416,118
+Aransas,2,"Chief Justice, 13th Court of Appeals District",,,Under Votes,110,7,82,21
+Aransas,2,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Aransas,2,"Justice, 13th Court of Appeals District","Place 2",REP,"Jenny Cron",1692,54,1341,297
+Aransas,2,"Justice, 13th Court of Appeals District","Place 2",DEM,"Nora Longoria",580,42,412,126
+Aransas,2,"Justice, 13th Court of Appeals District","Place 2",,Under Votes,118,8,90,20
+Aransas,2,"Justice, 13th Court of Appeals District","Place 2",,Over Votes,0,0,0,0
+Aransas,2,"Justice, 13th Court of Appeals District","Place 4",REP,"Ysmael D. Fonseca",1666,50,1319,297
+Aransas,2,"Justice, 13th Court of Appeals District","Place 4",DEM,"Joe Martinez",589,44,424,121
+Aransas,2,"Justice, 13th Court of Appeals District","Place 4",,Under Votes,135,10,100,25
+Aransas,2,"Justice, 13th Court of Appeals District","Place 4",,Over Votes,0,0,0,0
+Aransas,2,"Justice, 13th Court of Appeals District","Place 5",REP,"Jon West",1745,57,1376,312
+Aransas,2,"Justice, 13th Court of Appeals District","Place 5",DEM,"Regi Compian Richardson",518,40,368,110
+Aransas,2,"Justice, 13th Court of Appeals District","Place 5",,Under Votes,127,7,99,21
+Aransas,2,"Justice, 13th Court of Appeals District","Place 5",,Over Votes,0,0,0,0
+Aransas,2,"District Judge, 343rd Judicial District",,REP,"Janna K. Whatley",1928,67,1495,366
+Aransas,2,"District Judge, 343rd Judicial District",,,Under Votes,462,37,348,77
+Aransas,2,"District Judge, 343rd Judicial District",,,Over Votes,0,0,0,0
+Aransas,2,"County Attorney",,REP,"Amanda Oster",1927,62,1491,374
+Aransas,2,"County Attorney",,,Under Votes,463,42,352,69
+Aransas,2,"County Attorney",,,Over Votes,0,0,0,0
+Aransas,2,"Sheriff",,REP,"Bill Mills",1913,68,1479,366
+Aransas,2,"Sheriff",,,Under Votes,477,36,364,77
+Aransas,2,"Sheriff",,,Over Votes,0,0,0,0
+Aransas,2,"County Tax Assessor-Collector",,REP,"Anna Marshall",1922,63,1493,366
+Aransas,2,"County Tax Assessor-Collector",,,Under Votes,468,41,350,77
+Aransas,2,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Aransas,2,"County Constable, Precinct 1",,REP,"Doc Thomas",1906,62,1481,363
+Aransas,2,"County Constable, Precinct 1",,,Under Votes,484,42,362,80
+Aransas,2,"County Constable, Precinct 1",,,Over Votes,0,0,0,0
+Aransas,3,"Registered Voters",,,,5208,,,
+Aransas,3,"Ballots Cast",,,,3770,0,0,0
+Aransas,3,"President",,REP,"Donald J. Trump",2828,119,2414,295
+Aransas,3,"President",,DEM,"Kamala D. Harris",906,84,708,114
+Aransas,3,"President",,LIB,"Chase Oliver",11,0,8,3
+Aransas,3,"President",,GRN,"Jill Stein",10,0,10,0
+Aransas,3,"President",,,"Cherunda Fox/Harlan McVay (W)",0,0,0,0
+Aransas,3,"President",,,"Claudia De la Cruz/Karina Garcia (W)",0,0,0,0
+Aransas,3,"President",,,"Cornel West/Melina Abdullah (W)",0,0,0,0
+Aransas,3,"President",,,"Jessie Cuellar/Wesley Lasley (W)",0,0,0,0
+Aransas,3,"President",,,"Peter Sonski/Lauren Onak (W)",0,0,0,0
+Aransas,3,"President",,,"Shiva Ayyadurai/Crystal Ellis (W)",0,0,0,0
+Aransas,3,"President",,,Under Votes,15,1,12,2
+Aransas,3,"President",,,Over Votes,0,0,0,0
+Aransas,3,"U.S. Senate",,REP,"Ted Cruz",2709,118,2326,265
+Aransas,3,"U.S. Senate",,DEM,"Colin Allred",960,84,748,128
+Aransas,3,"U.S. Senate",,LIB,"Ted Brown",63,2,46,15
+Aransas,3,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Aransas,3,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Aransas,3,"U.S. Senate",,,Under Votes,38,0,32,6
+Aransas,3,"U.S. Senate",,,Over Votes,0,0,0,0
+Aransas,3,"U.S. House",27,REP,"Michael Cloud",2876,123,2457,296
+Aransas,3,"U.S. House",27,DEM,"Tanya Lloyd",810,78,632,100
+Aransas,3,"U.S. House",27,,Under Votes,82,2,62,18
+Aransas,3,"U.S. House",27,,Over Votes,2,1,1,0
+Aransas,3,"Railroad Commissioner",,REP,"Christi Craddick",2780,126,2375,279
+Aransas,3,"Railroad Commissioner",,DEM,"Katherine Culbert",760,68,605,87
+Aransas,3,"Railroad Commissioner",,LIB,"Hawk Dunlap",73,2,57,14
+Aransas,3,"Railroad Commissioner",,GRN,"Eddie Espinoza",41,3,27,11
+Aransas,3,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Aransas,3,"Railroad Commissioner",,,Under Votes,116,5,88,23
+Aransas,3,"Railroad Commissioner",,,Over Votes,0,0,0,0
+Aransas,3,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",2850,126,2431,293
+Aransas,3,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",810,71,640,99
+Aransas,3,"Justice, Supreme Court","Place 2",,Under Votes,110,7,81,22
+Aransas,3,"Justice, Supreme Court","Place 2",,Over Votes,0,0,0,0
+Aransas,3,"Justice, Supreme Court","Place 4",REP,"John Devine",2811,121,2402,288
+Aransas,3,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",832,73,655,104
+Aransas,3,"Justice, Supreme Court","Place 4",,Under Votes,126,9,95,22
+Aransas,3,"Justice, Supreme Court","Place 4",,Over Votes,1,1,0,0
+Aransas,3,"Justice, Supreme Court","Place 6",REP,"Jane Bland",2786,121,2386,279
+Aransas,3,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",771,71,610,90
+Aransas,3,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",91,4,62,25
+Aransas,3,"Justice, Supreme Court","Place 6",,Under Votes,122,8,94,20
+Aransas,3,"Justice, Supreme Court","Place 6",,Over Votes,0,0,0,0
+Aransas,3,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",2834,126,2423,285
+Aransas,3,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",816,69,644,103
+Aransas,3,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,120,9,85,26
+Aransas,3,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Aransas,3,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",2828,120,2418,290
+Aransas,3,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",811,75,640,96
+Aransas,3,"Judge, Court of Criminal Appeals","Place 7",,Under Votes,131,9,94,28
+Aransas,3,"Judge, Court of Criminal Appeals","Place 7",,Over Votes,0,0,0,0
+Aransas,3,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",2854,123,2441,290
+Aransas,3,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",769,67,606,96
+Aransas,3,"Judge, Court of Criminal Appeals","Place 8",,Under Votes,146,13,105,28
+Aransas,3,"Judge, Court of Criminal Appeals","Place 8",,Over Votes,1,1,0,0
+Aransas,3,"State Representative",32,REP,"Todd Hunter",2925,136,2487,302
+Aransas,3,"State Representative",32,DEM,"Cathy McAuliffe",730,59,580,91
+Aransas,3,"State Representative",32,,Under Votes,115,9,85,21
+Aransas,3,"State Representative",32,,Over Votes,0,0,0,0
+Aransas,3,"Chief Justice, 13th Court of Appeals District",,REP,"Jaime Tijerina",2784,121,2380,283
+Aransas,3,"Chief Justice, 13th Court of Appeals District",,DEM,"Gina Benavides",827,70,656,101
+Aransas,3,"Chief Justice, 13th Court of Appeals District",,,Under Votes,159,13,116,30
+Aransas,3,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Aransas,3,"Justice, 13th Court of Appeals District","Place 2",REP,"Jenny Cron",2783,121,2378,284
+Aransas,3,"Justice, 13th Court of Appeals District","Place 2",DEM,"Nora Longoria",816,69,648,99
+Aransas,3,"Justice, 13th Court of Appeals District","Place 2",,Under Votes,171,14,126,31
+Aransas,3,"Justice, 13th Court of Appeals District","Place 2",,Over Votes,0,0,0,0
+Aransas,3,"Justice, 13th Court of Appeals District","Place 4",REP,"Ysmael D. Fonseca",2755,119,2358,278
+Aransas,3,"Justice, 13th Court of Appeals District","Place 4",DEM,"Joe Martinez",821,69,653,99
+Aransas,3,"Justice, 13th Court of Appeals District","Place 4",,Under Votes,194,16,141,37
+Aransas,3,"Justice, 13th Court of Appeals District","Place 4",,Over Votes,0,0,0,0
+Aransas,3,"Justice, 13th Court of Appeals District","Place 5",REP,"Jon West",2825,123,2415,287
+Aransas,3,"Justice, 13th Court of Appeals District","Place 5",DEM,"Regi Compian Richardson",749,68,593,88
+Aransas,3,"Justice, 13th Court of Appeals District","Place 5",,Under Votes,196,13,144,39
+Aransas,3,"Justice, 13th Court of Appeals District","Place 5",,Over Votes,0,0,0,0
+Aransas,3,"District Judge, 343rd Judicial District",,REP,"Janna K. Whatley",3105,146,2623,336
+Aransas,3,"District Judge, 343rd Judicial District",,,Under Votes,665,58,529,78
+Aransas,3,"District Judge, 343rd Judicial District",,,Over Votes,0,0,0,0
+Aransas,3,"County Attorney",,REP,"Amanda Oster",3077,143,2600,334
+Aransas,3,"County Attorney",,,Under Votes,693,61,552,80
+Aransas,3,"County Attorney",,,Over Votes,0,0,0,0
+Aransas,3,"Sheriff",,REP,"Bill Mills",3108,153,2618,337
+Aransas,3,"Sheriff",,,Under Votes,662,51,534,77
+Aransas,3,"Sheriff",,,Over Votes,0,0,0,0
+Aransas,3,"County Tax Assessor-Collector",,REP,"Anna Marshall",3132,150,2644,338
+Aransas,3,"County Tax Assessor-Collector",,,Under Votes,638,54,508,76
+Aransas,3,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Aransas,3,"County Commissioner, Precinct 3",,REP,"Pat Rousseau",3078,149,2598,331
+Aransas,3,"County Commissioner, Precinct 3",,,Under Votes,692,55,554,83
+Aransas,3,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Aransas,3,"County Constable, Precinct 2",,REP,"Gavin Harrison",3063,147,2585,331
+Aransas,3,"County Constable, Precinct 2",,,Under Votes,707,57,567,83
+Aransas,3,"County Constable, Precinct 2",,,Over Votes,0,0,0,0
+Aransas,4,"Registered Voters",,,,4277,,,
+Aransas,4,"Ballots Cast",,,,3005,0,0,0
+Aransas,4,"President",,REP,"Donald J. Trump",2282,110,1853,319
+Aransas,4,"President",,DEM,"Kamala D. Harris",673,62,526,85
+Aransas,4,"President",,LIB,"Chase Oliver",20,0,12,8
+Aransas,4,"President",,GRN,"Jill Stein",13,0,11,2
+Aransas,4,"President",,,"Cherunda Fox/Harlan McVay (W)",0,0,0,0
+Aransas,4,"President",,,"Claudia De la Cruz/Karina Garcia (W)",0,0,0,0
+Aransas,4,"President",,,"Cornel West/Melina Abdullah (W)",0,0,0,0
+Aransas,4,"President",,,"Jessie Cuellar/Wesley Lasley (W)",0,0,0,0
+Aransas,4,"President",,,"Peter Sonski/Lauren Onak (W)",1,0,1,0
+Aransas,4,"President",,,"Shiva Ayyadurai/Crystal Ellis (W)",0,0,0,0
+Aransas,4,"President",,,Under Votes,15,4,10,1
+Aransas,4,"President",,,Over Votes,1,1,0,0
+Aransas,4,"U.S. Senate",,REP,"Ted Cruz",2186,108,1794,284
+Aransas,4,"U.S. Senate",,DEM,"Colin Allred",725,65,561,99
+Aransas,4,"U.S. Senate",,LIB,"Ted Brown",65,2,41,22
+Aransas,4,"U.S. Senate",,,"Analisa Roche (W)",1,0,1,0
+Aransas,4,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Aransas,4,"U.S. Senate",,,Under Votes,28,2,16,10
+Aransas,4,"U.S. Senate",,,Over Votes,0,0,0,0
+Aransas,4,"U.S. House",27,REP,"Michael Cloud",2315,117,1884,314
+Aransas,4,"U.S. House",27,DEM,"Tanya Lloyd",612,54,475,83
+Aransas,4,"U.S. House",27,,Under Votes,78,6,54,18
+Aransas,4,"U.S. House",27,,Over Votes,0,0,0,0
+Aransas,4,"Railroad Commissioner",,REP,"Christi Craddick",2251,113,1845,293
+Aransas,4,"Railroad Commissioner",,DEM,"Katherine Culbert",571,46,451,74
+Aransas,4,"Railroad Commissioner",,LIB,"Hawk Dunlap",72,2,45,25
+Aransas,4,"Railroad Commissioner",,GRN,"Eddie Espinoza",28,0,21,7
+Aransas,4,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Aransas,4,"Railroad Commissioner",,,Under Votes,83,16,51,16
+Aransas,4,"Railroad Commissioner",,,Over Votes,0,0,0,0
+Aransas,4,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",2308,110,1888,310
+Aransas,4,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",604,50,469,85
+Aransas,4,"Justice, Supreme Court","Place 2",,Under Votes,93,17,56,20
+Aransas,4,"Justice, Supreme Court","Place 2",,Over Votes,0,0,0,0
+Aransas,4,"Justice, Supreme Court","Place 4",REP,"John Devine",2265,110,1847,308
+Aransas,4,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",641,50,504,87
+Aransas,4,"Justice, Supreme Court","Place 4",,Under Votes,99,17,62,20
+Aransas,4,"Justice, Supreme Court","Place 4",,Over Votes,0,0,0,0
+Aransas,4,"Justice, Supreme Court","Place 6",REP,"Jane Bland",2246,109,1842,295
+Aransas,4,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",595,50,469,76
+Aransas,4,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",60,1,37,22
+Aransas,4,"Justice, Supreme Court","Place 6",,Under Votes,104,17,65,22
+Aransas,4,"Justice, Supreme Court","Place 6",,Over Votes,0,0,0,0
+Aransas,4,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",2277,112,1858,307
+Aransas,4,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",621,47,489,85
+Aransas,4,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,107,18,66,23
+Aransas,4,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Aransas,4,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",2305,113,1883,309
+Aransas,4,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",595,46,466,83
+Aransas,4,"Judge, Court of Criminal Appeals","Place 7",,Under Votes,105,18,64,23
+Aransas,4,"Judge, Court of Criminal Appeals","Place 7",,Over Votes,0,0,0,0
+Aransas,4,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",2326,114,1901,311
+Aransas,4,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",566,45,441,80
+Aransas,4,"Judge, Court of Criminal Appeals","Place 8",,Under Votes,113,18,71,24
+Aransas,4,"Judge, Court of Criminal Appeals","Place 8",,Over Votes,0,0,0,0
+Aransas,4,"State Representative",32,REP,"Todd Hunter",2345,125,1892,328
+Aransas,4,"State Representative",32,DEM,"Cathy McAuliffe",559,40,446,73
+Aransas,4,"State Representative",32,,Under Votes,101,12,75,14
+Aransas,4,"State Representative",32,,Over Votes,0,0,0,0
+Aransas,4,"Chief Justice, 13th Court of Appeals District",,REP,"Jaime Tijerina",2245,110,1821,314
+Aransas,4,"Chief Justice, 13th Court of Appeals District",,DEM,"Gina Benavides",630,49,501,80
+Aransas,4,"Chief Justice, 13th Court of Appeals District",,,Under Votes,130,18,91,21
+Aransas,4,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Aransas,4,"Justice, 13th Court of Appeals District","Place 2",REP,"Jenny Cron",2267,108,1847,312
+Aransas,4,"Justice, 13th Court of Appeals District","Place 2",DEM,"Nora Longoria",606,50,474,82
+Aransas,4,"Justice, 13th Court of Appeals District","Place 2",,Under Votes,132,19,92,21
+Aransas,4,"Justice, 13th Court of Appeals District","Place 2",,Over Votes,0,0,0,0
+Aransas,4,"Justice, 13th Court of Appeals District","Place 4",REP,"Ysmael D. Fonseca",2219,109,1805,305
+Aransas,4,"Justice, 13th Court of Appeals District","Place 4",DEM,"Joe Martinez",627,48,494,85
+Aransas,4,"Justice, 13th Court of Appeals District","Place 4",,Under Votes,159,20,114,25
+Aransas,4,"Justice, 13th Court of Appeals District","Place 4",,Over Votes,0,0,0,0
+Aransas,4,"Justice, 13th Court of Appeals District","Place 5",REP,"Jon West",2290,111,1868,311
+Aransas,4,"Justice, 13th Court of Appeals District","Place 5",DEM,"Regi Compian Richardson",565,46,442,77
+Aransas,4,"Justice, 13th Court of Appeals District","Place 5",,Under Votes,150,20,103,27
+Aransas,4,"Justice, 13th Court of Appeals District","Place 5",,Over Votes,0,0,0,0
+Aransas,4,"District Judge, 343rd Judicial District",,REP,"Janna K. Whatley",2480,132,2008,340
+Aransas,4,"District Judge, 343rd Judicial District",,,Under Votes,525,45,405,75
+Aransas,4,"District Judge, 343rd Judicial District",,,Over Votes,0,0,0,0
+Aransas,4,"County Attorney",,REP,"Amanda Oster",2457,122,1997,338
+Aransas,4,"County Attorney",,,Under Votes,548,55,416,77
+Aransas,4,"County Attorney",,,Over Votes,0,0,0,0
+Aransas,4,"Sheriff",,REP,"Bill Mills",2472,130,2001,341
+Aransas,4,"Sheriff",,,Under Votes,533,47,412,74
+Aransas,4,"Sheriff",,,Over Votes,0,0,0,0
+Aransas,4,"County Tax Assessor-Collector",,REP,"Anna Marshall",2504,132,2027,345
+Aransas,4,"County Tax Assessor-Collector",,,Under Votes,501,45,386,70
+Aransas,4,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Aransas,4,"County Constable, Precinct 2",,REP,"Gavin Harrison",2459,132,1989,338
+Aransas,4,"County Constable, Precinct 2",,,Under Votes,546,45,424,77
+Aransas,4,"County Constable, Precinct 2",,,Over Votes,0,0,0,0
