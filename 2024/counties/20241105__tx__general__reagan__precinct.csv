@@ -1,0 +1,888 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Reagan,1,"Ballots Cast",,,,83,0,0,0
+Reagan,1,"President",,REP,"Donald J. Trump JD Vance",56,0,36,20
+Reagan,1,"President",,DEM,"Kamala D. Harris Tim Walz",23,1,16,6
+Reagan,1,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Reagan,1,"President",,GRN,"Jill Stein Rudolph Ware",3,0,2,1
+Reagan,1,"President",,,"Cherunda Fox / Harlan McVay (W)",0,0,0,0
+Reagan,1,"President",,,"Claudia De la Cruz / Karina Garcia (W)",0,0,0,0
+Reagan,1,"President",,,"Cornel West / Melina Abdullah (W)",0,0,0,0
+Reagan,1,"President",,,"Jessie Cuellar / Wesley Lasley (W)",0,0,0,0
+Reagan,1,"President",,,"Peter Sonski / Lauren Onak (W)",0,0,0,0
+Reagan,1,"President",,,"Shiva Ayyadurai / Crystal Ellis (W)",0,0,0,0
+Reagan,1,"President",,,Undervotes,1,0,0,1
+Reagan,1,"President",,,Overvotes,0,0,0,0
+Reagan,1,"U.S. Senate",,REP,"Ted Cruz",55,0,36,19
+Reagan,1,"U.S. Senate",,DEM,"Colin Allred",22,1,13,8
+Reagan,1,"U.S. Senate",,LIB,"Ted Brown",5,0,4,1
+Reagan,1,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Reagan,1,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Reagan,1,"U.S. Senate",,,Undervotes,1,0,1,0
+Reagan,1,"U.S. Senate",,,Overvotes,0,0,0,0
+Reagan,1,"U.S. House",23,REP,"Tony Gonzales",60,0,39,21
+Reagan,1,"U.S. House",23,DEM,"S. Limon",18,1,11,6
+Reagan,1,"U.S. House",23,,Undervotes,5,0,4,1
+Reagan,1,"U.S. House",23,,Overvotes,0,0,0,0
+Reagan,1,"Railroad Commissioner",,REP,"Christi Craddick",50,0,34,16
+Reagan,1,"Railroad Commissioner",,DEM,"Katherine Culbert",19,1,11,7
+Reagan,1,"Railroad Commissioner",,LIB,"Hawk Dunlap",5,0,4,1
+Reagan,1,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,1,2
+Reagan,1,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Reagan,1,"Railroad Commissioner",,,Undervotes,6,0,4,2
+Reagan,1,"Railroad Commissioner",,,Overvotes,0,0,0,0
+Reagan,1,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",54,0,36,18
+Reagan,1,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",24,1,15,8
+Reagan,1,"Justice, Supreme Court","Place 2",,Undervotes,5,0,3,2
+Reagan,1,"Justice, Supreme Court","Place 2",,Overvotes,0,0,0,0
+Reagan,1,"Justice, Supreme Court","Place 4",REP,"John Devine",59,0,38,21
+Reagan,1,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",18,1,12,5
+Reagan,1,"Justice, Supreme Court","Place 4",,Undervotes,6,0,4,2
+Reagan,1,"Justice, Supreme Court","Place 4",,Overvotes,0,0,0,0
+Reagan,1,"Justice, Supreme Court","Place 6",REP,"Jane Bland",53,0,34,19
+Reagan,1,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",19,1,12,6
+Reagan,1,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",3,0,2,1
+Reagan,1,"Justice, Supreme Court","Place 6",,Undervotes,8,0,6,2
+Reagan,1,"Justice, Supreme Court","Place 6",,Overvotes,0,0,0,0
+Reagan,1,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",58,0,37,21
+Reagan,1,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",19,1,13,5
+Reagan,1,"Presiding Judge, Court of Criminal Appeals",,,Undervotes,6,0,4,2
+Reagan,1,"Presiding Judge, Court of Criminal Appeals",,,Overvotes,0,0,0,0
+Reagan,1,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",59,0,38,21
+Reagan,1,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",19,1,12,6
+Reagan,1,"Judge, Court of Criminal Appeals","Place 7",,Undervotes,5,0,4,1
+Reagan,1,"Judge, Court of Criminal Appeals","Place 7",,Overvotes,0,0,0,0
+Reagan,1,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",60,0,38,22
+Reagan,1,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",16,0,11,5
+Reagan,1,"Judge, Court of Criminal Appeals","Place 8",,Undervotes,7,1,5,1
+Reagan,1,"Judge, Court of Criminal Appeals","Place 8",,Overvotes,0,0,0,0
+Reagan,1,"Member, State Board of Education",15,REP,"Aaron Kinsey",53,0,34,19
+Reagan,1,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",21,1,13,7
+Reagan,1,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",4,0,4,0
+Reagan,1,"Member, State Board of Education",15,,Undervotes,5,0,3,2
+Reagan,1,"Member, State Board of Education",15,,Overvotes,0,0,0,0
+Reagan,1,"State Representative",72,REP,"Drew Darby",67,1,43,23
+Reagan,1,"State Representative",72,,Undervotes,16,0,11,5
+Reagan,1,"State Representative",72,,Overvotes,0,0,0,0
+Reagan,1,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",47,0,27,20
+Reagan,1,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Undervotes,36,1,27,8
+Reagan,1,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Overvotes,0,0,0,0
+Reagan,1,"Justice, 8th Court of Appeals District","Place 2",DEM,"Lisa Soto",47,0,27,20
+Reagan,1,"Justice, 8th Court of Appeals District","Place 2",,Undervotes,36,1,27,8
+Reagan,1,"Justice, 8th Court of Appeals District","Place 2",,Overvotes,0,0,0,0
+Reagan,1,"Justice, 8th Court of Appeals District","Place 3",DEM,"Gina M. Palafox",45,0,25,20
+Reagan,1,"Justice, 8th Court of Appeals District","Place 3",,Undervotes,38,1,29,8
+Reagan,1,"Justice, 8th Court of Appeals District","Place 3",,Overvotes,0,0,0,0
+Reagan,1,"District Attorney, 112th Judicial District",,REP,"Stephen Dodd",72,0,47,25
+Reagan,1,"District Attorney, 112th Judicial District",,,Undervotes,11,1,7,3
+Reagan,1,"District Attorney, 112th Judicial District",,,Overvotes,0,0,0,0
+Reagan,1,"County Attorney",,REP,"Michele Dodd",70,0,47,23
+Reagan,1,"County Attorney",,,Undervotes,13,1,7,5
+Reagan,1,"County Attorney",,,Overvotes,0,0,0,0
+Reagan,1,"Sheriff",,REP,"Jeffrey Garner",70,0,47,23
+Reagan,1,"Sheriff",,,Undervotes,13,1,7,5
+Reagan,1,"Sheriff",,,Overvotes,0,0,0,0
+Reagan,1,"County Tax Assessor-Collector",,REP,"Cynthia Aguilar",72,0,48,24
+Reagan,1,"County Tax Assessor-Collector",,,Undervotes,11,1,6,4
+Reagan,1,"County Tax Assessor-Collector",,,Overvotes,0,0,0,0
+Reagan,1,"County Commissioner, Precinct 1",,REP,"Mike Vargas",72,0,47,25
+Reagan,1,"County Commissioner, Precinct 1",,,Undervotes,11,1,7,3
+Reagan,1,"County Commissioner, Precinct 1",,,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"Ballots Cast",,,,54,0,0,0
+Reagan,1 - RCISD 4,"President",,REP,"Donald J. Trump JD Vance",39,0,28,11
+Reagan,1 - RCISD 4,"President",,DEM,"Kamala D. Harris Tim Walz",15,0,12,3
+Reagan,1 - RCISD 4,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Reagan,1 - RCISD 4,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Reagan,1 - RCISD 4,"President",,,"Cherunda Fox / Harlan McVay (W)",0,0,0,0
+Reagan,1 - RCISD 4,"President",,,"Claudia De la Cruz / Karina Garcia (W)",0,0,0,0
+Reagan,1 - RCISD 4,"President",,,"Cornel West / Melina Abdullah (W)",0,0,0,0
+Reagan,1 - RCISD 4,"President",,,"Jessie Cuellar / Wesley Lasley (W)",0,0,0,0
+Reagan,1 - RCISD 4,"President",,,"Peter Sonski / Lauren Onak (W)",0,0,0,0
+Reagan,1 - RCISD 4,"President",,,"Shiva Ayyadurai / Crystal Ellis (W)",0,0,0,0
+Reagan,1 - RCISD 4,"President",,,Undervotes,0,0,0,0
+Reagan,1 - RCISD 4,"President",,,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"U.S. Senate",,REP,"Ted Cruz",37,0,27,10
+Reagan,1 - RCISD 4,"U.S. Senate",,DEM,"Colin Allred",16,0,12,4
+Reagan,1 - RCISD 4,"U.S. Senate",,LIB,"Ted Brown",0,0,0,0
+Reagan,1 - RCISD 4,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Reagan,1 - RCISD 4,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Reagan,1 - RCISD 4,"U.S. Senate",,,Undervotes,1,0,1,0
+Reagan,1 - RCISD 4,"U.S. Senate",,,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"U.S. House",23,REP,"Tony Gonzales",41,0,32,9
+Reagan,1 - RCISD 4,"U.S. House",23,DEM,"S. Limon",10,0,6,4
+Reagan,1 - RCISD 4,"U.S. House",23,,Undervotes,3,0,2,1
+Reagan,1 - RCISD 4,"U.S. House",23,,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"Railroad Commissioner",,REP,"Christi Craddick",32,0,24,8
+Reagan,1 - RCISD 4,"Railroad Commissioner",,DEM,"Katherine Culbert",11,0,7,4
+Reagan,1 - RCISD 4,"Railroad Commissioner",,LIB,"Hawk Dunlap",2,0,2,0
+Reagan,1 - RCISD 4,"Railroad Commissioner",,GRN,"Eddie Espinoza",4,0,4,0
+Reagan,1 - RCISD 4,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Reagan,1 - RCISD 4,"Railroad Commissioner",,,Undervotes,5,0,3,2
+Reagan,1 - RCISD 4,"Railroad Commissioner",,,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",36,0,28,8
+Reagan,1 - RCISD 4,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",13,0,9,4
+Reagan,1 - RCISD 4,"Justice, Supreme Court","Place 2",,Undervotes,5,0,3,2
+Reagan,1 - RCISD 4,"Justice, Supreme Court","Place 2",,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"Justice, Supreme Court","Place 4",REP,"John Devine",36,0,28,8
+Reagan,1 - RCISD 4,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",12,0,8,4
+Reagan,1 - RCISD 4,"Justice, Supreme Court","Place 4",,Undervotes,6,0,4,2
+Reagan,1 - RCISD 4,"Justice, Supreme Court","Place 4",,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"Justice, Supreme Court","Place 6",REP,"Jane Bland",32,0,24,8
+Reagan,1 - RCISD 4,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",15,0,11,4
+Reagan,1 - RCISD 4,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",1,0,1,0
+Reagan,1 - RCISD 4,"Justice, Supreme Court","Place 6",,Undervotes,6,0,4,2
+Reagan,1 - RCISD 4,"Justice, Supreme Court","Place 6",,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",34,0,26,8
+Reagan,1 - RCISD 4,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",15,0,11,4
+Reagan,1 - RCISD 4,"Presiding Judge, Court of Criminal Appeals",,,Undervotes,5,0,3,2
+Reagan,1 - RCISD 4,"Presiding Judge, Court of Criminal Appeals",,,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",33,0,25,8
+Reagan,1 - RCISD 4,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",15,0,11,4
+Reagan,1 - RCISD 4,"Judge, Court of Criminal Appeals","Place 7",,Undervotes,6,0,4,2
+Reagan,1 - RCISD 4,"Judge, Court of Criminal Appeals","Place 7",,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",33,0,25,8
+Reagan,1 - RCISD 4,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",14,0,10,4
+Reagan,1 - RCISD 4,"Judge, Court of Criminal Appeals","Place 8",,Undervotes,7,0,5,2
+Reagan,1 - RCISD 4,"Judge, Court of Criminal Appeals","Place 8",,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"Member, State Board of Education",15,REP,"Aaron Kinsey",32,0,24,8
+Reagan,1 - RCISD 4,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",15,0,11,4
+Reagan,1 - RCISD 4,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",1,0,1,0
+Reagan,1 - RCISD 4,"Member, State Board of Education",15,,Undervotes,6,0,4,2
+Reagan,1 - RCISD 4,"Member, State Board of Education",15,,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"State Representative",72,REP,"Drew Darby",45,0,33,12
+Reagan,1 - RCISD 4,"State Representative",72,,Undervotes,9,0,7,2
+Reagan,1 - RCISD 4,"State Representative",72,,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",34,0,27,7
+Reagan,1 - RCISD 4,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Undervotes,20,0,13,7
+Reagan,1 - RCISD 4,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"Justice, 8th Court of Appeals District","Place 2",DEM,"Lisa Soto",33,0,26,7
+Reagan,1 - RCISD 4,"Justice, 8th Court of Appeals District","Place 2",,Undervotes,21,0,14,7
+Reagan,1 - RCISD 4,"Justice, 8th Court of Appeals District","Place 2",,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"Justice, 8th Court of Appeals District","Place 3",DEM,"Gina M. Palafox",31,0,24,7
+Reagan,1 - RCISD 4,"Justice, 8th Court of Appeals District","Place 3",,Undervotes,23,0,16,7
+Reagan,1 - RCISD 4,"Justice, 8th Court of Appeals District","Place 3",,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"District Attorney, 112th Judicial District",,REP,"Stephen Dodd",48,0,34,14
+Reagan,1 - RCISD 4,"District Attorney, 112th Judicial District",,,Undervotes,6,0,6,0
+Reagan,1 - RCISD 4,"District Attorney, 112th Judicial District",,,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"County Attorney",,REP,"Michele Dodd",48,0,35,13
+Reagan,1 - RCISD 4,"County Attorney",,,Undervotes,6,0,5,1
+Reagan,1 - RCISD 4,"County Attorney",,,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"Sheriff",,REP,"Jeffrey Garner",48,0,35,13
+Reagan,1 - RCISD 4,"Sheriff",,,Undervotes,6,0,5,1
+Reagan,1 - RCISD 4,"Sheriff",,,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"County Tax Assessor-Collector",,REP,"Cynthia Aguilar",51,0,37,14
+Reagan,1 - RCISD 4,"County Tax Assessor-Collector",,,Undervotes,3,0,3,0
+Reagan,1 - RCISD 4,"County Tax Assessor-Collector",,,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"County Commissioner, Precinct 1",,REP,"Mike Vargas",48,0,34,14
+Reagan,1 - RCISD 4,"County Commissioner, Precinct 1",,,Undervotes,6,0,6,0
+Reagan,1 - RCISD 4,"County Commissioner, Precinct 1",,,Overvotes,0,0,0,0
+Reagan,1 - RCISD 4,"REAGAN COUNTY SINGLE MEMBER DISTRICT #4 - Vote for none or one",,,"Felix Sanchez",34,0,23,11
+Reagan,1 - RCISD 4,"REAGAN COUNTY SINGLE MEMBER DISTRICT #4 - Vote for none or one",,,"Jed W. Hruska",15,0,12,3
+Reagan,1 - RCISD 4,"REAGAN COUNTY SINGLE MEMBER DISTRICT #4 - Vote for none or one",,,Undervotes,5,0,5,0
+Reagan,1 - RCISD 4,"REAGAN COUNTY SINGLE MEMBER DISTRICT #4 - Vote for none or one",,,Overvotes,0,0,0,0
+Reagan,2,"Ballots Cast",,,,16,0,0,0
+Reagan,2,"President",,REP,"Donald J. Trump JD Vance",12,0,11,1
+Reagan,2,"President",,DEM,"Kamala D. Harris Tim Walz",4,1,3,0
+Reagan,2,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Reagan,2,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Reagan,2,"President",,,"Cherunda Fox / Harlan McVay (W)",0,0,0,0
+Reagan,2,"President",,,"Claudia De la Cruz / Karina Garcia (W)",0,0,0,0
+Reagan,2,"President",,,"Cornel West / Melina Abdullah (W)",0,0,0,0
+Reagan,2,"President",,,"Jessie Cuellar / Wesley Lasley (W)",0,0,0,0
+Reagan,2,"President",,,"Peter Sonski / Lauren Onak (W)",0,0,0,0
+Reagan,2,"President",,,"Shiva Ayyadurai / Crystal Ellis (W)",0,0,0,0
+Reagan,2,"President",,,Undervotes,0,0,0,0
+Reagan,2,"President",,,Overvotes,0,0,0,0
+Reagan,2,"U.S. Senate",,REP,"Ted Cruz",12,0,11,1
+Reagan,2,"U.S. Senate",,DEM,"Colin Allred",4,1,3,0
+Reagan,2,"U.S. Senate",,LIB,"Ted Brown",0,0,0,0
+Reagan,2,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Reagan,2,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Reagan,2,"U.S. Senate",,,Undervotes,0,0,0,0
+Reagan,2,"U.S. Senate",,,Overvotes,0,0,0,0
+Reagan,2,"U.S. House",23,REP,"Tony Gonzales",14,0,13,1
+Reagan,2,"U.S. House",23,DEM,"S. Limon",2,1,1,0
+Reagan,2,"U.S. House",23,,Undervotes,0,0,0,0
+Reagan,2,"U.S. House",23,,Overvotes,0,0,0,0
+Reagan,2,"Railroad Commissioner",,REP,"Christi Craddick",13,0,12,1
+Reagan,2,"Railroad Commissioner",,DEM,"Katherine Culbert",3,1,2,0
+Reagan,2,"Railroad Commissioner",,LIB,"Hawk Dunlap",0,0,0,0
+Reagan,2,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Reagan,2,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Reagan,2,"Railroad Commissioner",,,Undervotes,0,0,0,0
+Reagan,2,"Railroad Commissioner",,,Overvotes,0,0,0,0
+Reagan,2,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",11,0,10,1
+Reagan,2,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",5,1,4,0
+Reagan,2,"Justice, Supreme Court","Place 2",,Undervotes,0,0,0,0
+Reagan,2,"Justice, Supreme Court","Place 2",,Overvotes,0,0,0,0
+Reagan,2,"Justice, Supreme Court","Place 4",REP,"John Devine",12,0,11,1
+Reagan,2,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",4,1,3,0
+Reagan,2,"Justice, Supreme Court","Place 4",,Undervotes,0,0,0,0
+Reagan,2,"Justice, Supreme Court","Place 4",,Overvotes,0,0,0,0
+Reagan,2,"Justice, Supreme Court","Place 6",REP,"Jane Bland",11,0,10,1
+Reagan,2,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",4,1,3,0
+Reagan,2,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",1,0,1,0
+Reagan,2,"Justice, Supreme Court","Place 6",,Undervotes,0,0,0,0
+Reagan,2,"Justice, Supreme Court","Place 6",,Overvotes,0,0,0,0
+Reagan,2,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",14,0,13,1
+Reagan,2,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",2,1,1,0
+Reagan,2,"Presiding Judge, Court of Criminal Appeals",,,Undervotes,0,0,0,0
+Reagan,2,"Presiding Judge, Court of Criminal Appeals",,,Overvotes,0,0,0,0
+Reagan,2,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",13,0,12,1
+Reagan,2,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",3,1,2,0
+Reagan,2,"Judge, Court of Criminal Appeals","Place 7",,Undervotes,0,0,0,0
+Reagan,2,"Judge, Court of Criminal Appeals","Place 7",,Overvotes,0,0,0,0
+Reagan,2,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",14,0,13,1
+Reagan,2,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",2,1,1,0
+Reagan,2,"Judge, Court of Criminal Appeals","Place 8",,Undervotes,0,0,0,0
+Reagan,2,"Judge, Court of Criminal Appeals","Place 8",,Overvotes,0,0,0,0
+Reagan,2,"Member, State Board of Education",15,REP,"Aaron Kinsey",12,0,11,1
+Reagan,2,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",3,1,2,0
+Reagan,2,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",0,0,0,0
+Reagan,2,"Member, State Board of Education",15,,Undervotes,1,0,1,0
+Reagan,2,"Member, State Board of Education",15,,Overvotes,0,0,0,0
+Reagan,2,"State Representative",72,REP,"Drew Darby",14,1,12,1
+Reagan,2,"State Representative",72,,Undervotes,2,0,2,0
+Reagan,2,"State Representative",72,,Overvotes,0,0,0,0
+Reagan,2,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",8,1,6,1
+Reagan,2,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Undervotes,8,0,8,0
+Reagan,2,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Overvotes,0,0,0,0
+Reagan,2,"Justice, 8th Court of Appeals District","Place 2",DEM,"Lisa Soto",7,1,6,0
+Reagan,2,"Justice, 8th Court of Appeals District","Place 2",,Undervotes,9,0,8,1
+Reagan,2,"Justice, 8th Court of Appeals District","Place 2",,Overvotes,0,0,0,0
+Reagan,2,"Justice, 8th Court of Appeals District","Place 3",DEM,"Gina M. Palafox",7,1,6,0
+Reagan,2,"Justice, 8th Court of Appeals District","Place 3",,Undervotes,9,0,8,1
+Reagan,2,"Justice, 8th Court of Appeals District","Place 3",,Overvotes,0,0,0,0
+Reagan,2,"District Attorney, 112th Judicial District",,REP,"Stephen Dodd",14,1,12,1
+Reagan,2,"District Attorney, 112th Judicial District",,,Undervotes,2,0,2,0
+Reagan,2,"District Attorney, 112th Judicial District",,,Overvotes,0,0,0,0
+Reagan,2,"County Attorney",,REP,"Michele Dodd",14,1,12,1
+Reagan,2,"County Attorney",,,Undervotes,2,0,2,0
+Reagan,2,"County Attorney",,,Overvotes,0,0,0,0
+Reagan,2,"Sheriff",,REP,"Jeffrey Garner",14,1,12,1
+Reagan,2,"Sheriff",,,Undervotes,2,0,2,0
+Reagan,2,"Sheriff",,,Overvotes,0,0,0,0
+Reagan,2,"County Tax Assessor-Collector",,REP,"Cynthia Aguilar",14,1,12,1
+Reagan,2,"County Tax Assessor-Collector",,,Undervotes,2,0,2,0
+Reagan,2,"County Tax Assessor-Collector",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"Ballots Cast",,,,170,0,0,0
+Reagan,2 - RCISD 2,"President",,REP,"Donald J. Trump JD Vance",145,2,114,29
+Reagan,2 - RCISD 2,"President",,DEM,"Kamala D. Harris Tim Walz",22,0,13,9
+Reagan,2 - RCISD 2,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Reagan,2 - RCISD 2,"President",,GRN,"Jill Stein Rudolph Ware",1,0,1,0
+Reagan,2 - RCISD 2,"President",,,"Cherunda Fox / Harlan McVay (W)",0,0,0,0
+Reagan,2 - RCISD 2,"President",,,"Claudia De la Cruz / Karina Garcia (W)",0,0,0,0
+Reagan,2 - RCISD 2,"President",,,"Cornel West / Melina Abdullah (W)",0,0,0,0
+Reagan,2 - RCISD 2,"President",,,"Jessie Cuellar / Wesley Lasley (W)",0,0,0,0
+Reagan,2 - RCISD 2,"President",,,"Peter Sonski / Lauren Onak (W)",0,0,0,0
+Reagan,2 - RCISD 2,"President",,,"Shiva Ayyadurai / Crystal Ellis (W)",0,0,0,0
+Reagan,2 - RCISD 2,"President",,,Undervotes,1,0,1,0
+Reagan,2 - RCISD 2,"President",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"U.S. Senate",,REP,"Ted Cruz",137,2,109,26
+Reagan,2 - RCISD 2,"U.S. Senate",,DEM,"Colin Allred",26,0,15,11
+Reagan,2 - RCISD 2,"U.S. Senate",,LIB,"Ted Brown",4,0,3,1
+Reagan,2 - RCISD 2,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Reagan,2 - RCISD 2,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Reagan,2 - RCISD 2,"U.S. Senate",,,Undervotes,3,0,3,0
+Reagan,2 - RCISD 2,"U.S. Senate",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"U.S. House",23,REP,"Tony Gonzales",145,2,116,27
+Reagan,2 - RCISD 2,"U.S. House",23,DEM,"S. Limon",19,0,10,9
+Reagan,2 - RCISD 2,"U.S. House",23,,Undervotes,6,0,4,2
+Reagan,2 - RCISD 2,"U.S. House",23,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"Railroad Commissioner",,REP,"Christi Craddick",130,2,104,24
+Reagan,2 - RCISD 2,"Railroad Commissioner",,DEM,"Katherine Culbert",19,0,11,8
+Reagan,2 - RCISD 2,"Railroad Commissioner",,LIB,"Hawk Dunlap",8,0,6,2
+Reagan,2 - RCISD 2,"Railroad Commissioner",,GRN,"Eddie Espinoza",4,0,2,2
+Reagan,2 - RCISD 2,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Reagan,2 - RCISD 2,"Railroad Commissioner",,,Undervotes,9,0,7,2
+Reagan,2 - RCISD 2,"Railroad Commissioner",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",139,2,110,27
+Reagan,2 - RCISD 2,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",20,0,11,9
+Reagan,2 - RCISD 2,"Justice, Supreme Court","Place 2",,Undervotes,11,0,9,2
+Reagan,2 - RCISD 2,"Justice, Supreme Court","Place 2",,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"Justice, Supreme Court","Place 4",REP,"John Devine",139,2,110,27
+Reagan,2 - RCISD 2,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",19,0,11,8
+Reagan,2 - RCISD 2,"Justice, Supreme Court","Place 4",,Undervotes,12,0,9,3
+Reagan,2 - RCISD 2,"Justice, Supreme Court","Place 4",,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"Justice, Supreme Court","Place 6",REP,"Jane Bland",137,2,108,27
+Reagan,2 - RCISD 2,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",20,0,12,8
+Reagan,2 - RCISD 2,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",2,0,1,1
+Reagan,2 - RCISD 2,"Justice, Supreme Court","Place 6",,Undervotes,11,0,9,2
+Reagan,2 - RCISD 2,"Justice, Supreme Court","Place 6",,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",139,2,109,28
+Reagan,2 - RCISD 2,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",20,0,12,8
+Reagan,2 - RCISD 2,"Presiding Judge, Court of Criminal Appeals",,,Undervotes,11,0,9,2
+Reagan,2 - RCISD 2,"Presiding Judge, Court of Criminal Appeals",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",140,2,112,26
+Reagan,2 - RCISD 2,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",21,0,11,10
+Reagan,2 - RCISD 2,"Judge, Court of Criminal Appeals","Place 7",,Undervotes,9,0,7,2
+Reagan,2 - RCISD 2,"Judge, Court of Criminal Appeals","Place 7",,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",140,2,110,28
+Reagan,2 - RCISD 2,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",21,0,13,8
+Reagan,2 - RCISD 2,"Judge, Court of Criminal Appeals","Place 8",,Undervotes,9,0,7,2
+Reagan,2 - RCISD 2,"Judge, Court of Criminal Appeals","Place 8",,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"Member, State Board of Education",15,REP,"Aaron Kinsey",139,2,112,25
+Reagan,2 - RCISD 2,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",21,0,10,11
+Reagan,2 - RCISD 2,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",3,0,2,1
+Reagan,2 - RCISD 2,"Member, State Board of Education",15,,Undervotes,7,0,6,1
+Reagan,2 - RCISD 2,"Member, State Board of Education",15,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"State Representative",72,REP,"Drew Darby",154,2,119,33
+Reagan,2 - RCISD 2,"State Representative",72,,Undervotes,16,0,11,5
+Reagan,2 - RCISD 2,"State Representative",72,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",81,0,55,26
+Reagan,2 - RCISD 2,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Undervotes,89,2,75,12
+Reagan,2 - RCISD 2,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"Justice, 8th Court of Appeals District","Place 2",DEM,"Lisa Soto",75,0,50,25
+Reagan,2 - RCISD 2,"Justice, 8th Court of Appeals District","Place 2",,Undervotes,95,2,80,13
+Reagan,2 - RCISD 2,"Justice, 8th Court of Appeals District","Place 2",,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"Justice, 8th Court of Appeals District","Place 3",DEM,"Gina M. Palafox",77,0,51,26
+Reagan,2 - RCISD 2,"Justice, 8th Court of Appeals District","Place 3",,Undervotes,93,2,79,12
+Reagan,2 - RCISD 2,"Justice, 8th Court of Appeals District","Place 3",,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"District Attorney, 112th Judicial District",,REP,"Stephen Dodd",156,2,120,34
+Reagan,2 - RCISD 2,"District Attorney, 112th Judicial District",,,Undervotes,14,0,10,4
+Reagan,2 - RCISD 2,"District Attorney, 112th Judicial District",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"County Attorney",,REP,"Michele Dodd",154,2,118,34
+Reagan,2 - RCISD 2,"County Attorney",,,Undervotes,16,0,12,4
+Reagan,2 - RCISD 2,"County Attorney",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"Sheriff",,REP,"Jeffrey Garner",155,2,121,32
+Reagan,2 - RCISD 2,"Sheriff",,,Undervotes,15,0,9,6
+Reagan,2 - RCISD 2,"Sheriff",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"County Tax Assessor-Collector",,REP,"Cynthia Aguilar",158,2,122,34
+Reagan,2 - RCISD 2,"County Tax Assessor-Collector",,,Undervotes,12,0,8,4
+Reagan,2 - RCISD 2,"County Tax Assessor-Collector",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 2,"REAGAN COUNTY SINGLE MEMBER DISTRICT #2 - Vote for none or one",,,"Rudy Barrera",53,0,39,14
+Reagan,2 - RCISD 2,"REAGAN COUNTY SINGLE MEMBER DISTRICT #2 - Vote for none or one",,,"Jose Yanez Jr.",107,0,83,24
+Reagan,2 - RCISD 2,"REAGAN COUNTY SINGLE MEMBER DISTRICT #2 - Vote for none or one",,,Undervotes,10,2,8,0
+Reagan,2 - RCISD 2,"REAGAN COUNTY SINGLE MEMBER DISTRICT #2 - Vote for none or one",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"Ballots Cast",,,,137,0,0,0
+Reagan,2 - RCISD 3,"President",,REP,"Donald J. Trump JD Vance",123,0,88,35
+Reagan,2 - RCISD 3,"President",,DEM,"Kamala D. Harris Tim Walz",14,0,7,7
+Reagan,2 - RCISD 3,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Reagan,2 - RCISD 3,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Reagan,2 - RCISD 3,"President",,,"Cherunda Fox / Harlan McVay (W)",0,0,0,0
+Reagan,2 - RCISD 3,"President",,,"Claudia De la Cruz / Karina Garcia (W)",0,0,0,0
+Reagan,2 - RCISD 3,"President",,,"Cornel West / Melina Abdullah (W)",0,0,0,0
+Reagan,2 - RCISD 3,"President",,,"Jessie Cuellar / Wesley Lasley (W)",0,0,0,0
+Reagan,2 - RCISD 3,"President",,,"Peter Sonski / Lauren Onak (W)",0,0,0,0
+Reagan,2 - RCISD 3,"President",,,"Shiva Ayyadurai / Crystal Ellis (W)",0,0,0,0
+Reagan,2 - RCISD 3,"President",,,Undervotes,0,0,0,0
+Reagan,2 - RCISD 3,"President",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"U.S. Senate",,REP,"Ted Cruz",121,0,88,33
+Reagan,2 - RCISD 3,"U.S. Senate",,DEM,"Colin Allred",13,0,5,8
+Reagan,2 - RCISD 3,"U.S. Senate",,LIB,"Ted Brown",1,0,0,1
+Reagan,2 - RCISD 3,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Reagan,2 - RCISD 3,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Reagan,2 - RCISD 3,"U.S. Senate",,,Undervotes,2,0,2,0
+Reagan,2 - RCISD 3,"U.S. Senate",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"U.S. House",23,REP,"Tony Gonzales",118,0,82,36
+Reagan,2 - RCISD 3,"U.S. House",23,DEM,"S. Limon",16,0,10,6
+Reagan,2 - RCISD 3,"U.S. House",23,,Undervotes,3,0,3,0
+Reagan,2 - RCISD 3,"U.S. House",23,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"Railroad Commissioner",,REP,"Christi Craddick",108,0,76,32
+Reagan,2 - RCISD 3,"Railroad Commissioner",,DEM,"Katherine Culbert",13,0,6,7
+Reagan,2 - RCISD 3,"Railroad Commissioner",,LIB,"Hawk Dunlap",9,0,7,2
+Reagan,2 - RCISD 3,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,2,0
+Reagan,2 - RCISD 3,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Reagan,2 - RCISD 3,"Railroad Commissioner",,,Undervotes,5,0,4,1
+Reagan,2 - RCISD 3,"Railroad Commissioner",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",118,0,85,33
+Reagan,2 - RCISD 3,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",14,0,6,8
+Reagan,2 - RCISD 3,"Justice, Supreme Court","Place 2",,Undervotes,5,0,4,1
+Reagan,2 - RCISD 3,"Justice, Supreme Court","Place 2",,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"Justice, Supreme Court","Place 4",REP,"John Devine",121,0,87,34
+Reagan,2 - RCISD 3,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",12,0,5,7
+Reagan,2 - RCISD 3,"Justice, Supreme Court","Place 4",,Undervotes,4,0,3,1
+Reagan,2 - RCISD 3,"Justice, Supreme Court","Place 4",,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"Justice, Supreme Court","Place 6",REP,"Jane Bland",115,0,84,31
+Reagan,2 - RCISD 3,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",11,0,4,7
+Reagan,2 - RCISD 3,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",6,0,3,3
+Reagan,2 - RCISD 3,"Justice, Supreme Court","Place 6",,Undervotes,5,0,4,1
+Reagan,2 - RCISD 3,"Justice, Supreme Court","Place 6",,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",119,0,85,34
+Reagan,2 - RCISD 3,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",13,0,6,7
+Reagan,2 - RCISD 3,"Presiding Judge, Court of Criminal Appeals",,,Undervotes,5,0,4,1
+Reagan,2 - RCISD 3,"Presiding Judge, Court of Criminal Appeals",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",120,0,85,35
+Reagan,2 - RCISD 3,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",11,0,5,6
+Reagan,2 - RCISD 3,"Judge, Court of Criminal Appeals","Place 7",,Undervotes,6,0,5,1
+Reagan,2 - RCISD 3,"Judge, Court of Criminal Appeals","Place 7",,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",118,0,84,34
+Reagan,2 - RCISD 3,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",13,0,6,7
+Reagan,2 - RCISD 3,"Judge, Court of Criminal Appeals","Place 8",,Undervotes,6,0,5,1
+Reagan,2 - RCISD 3,"Judge, Court of Criminal Appeals","Place 8",,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"Member, State Board of Education",15,REP,"Aaron Kinsey",116,0,84,32
+Reagan,2 - RCISD 3,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",13,0,6,7
+Reagan,2 - RCISD 3,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",3,0,1,2
+Reagan,2 - RCISD 3,"Member, State Board of Education",15,,Undervotes,5,0,4,1
+Reagan,2 - RCISD 3,"Member, State Board of Education",15,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"State Representative",72,REP,"Drew Darby",124,0,85,39
+Reagan,2 - RCISD 3,"State Representative",72,,Undervotes,13,0,10,3
+Reagan,2 - RCISD 3,"State Representative",72,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",65,0,37,28
+Reagan,2 - RCISD 3,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Undervotes,72,0,58,14
+Reagan,2 - RCISD 3,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"Justice, 8th Court of Appeals District","Place 2",DEM,"Lisa Soto",61,0,33,28
+Reagan,2 - RCISD 3,"Justice, 8th Court of Appeals District","Place 2",,Undervotes,76,0,62,14
+Reagan,2 - RCISD 3,"Justice, 8th Court of Appeals District","Place 2",,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"Justice, 8th Court of Appeals District","Place 3",DEM,"Gina M. Palafox",58,0,31,27
+Reagan,2 - RCISD 3,"Justice, 8th Court of Appeals District","Place 3",,Undervotes,79,0,64,15
+Reagan,2 - RCISD 3,"Justice, 8th Court of Appeals District","Place 3",,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"District Attorney, 112th Judicial District",,REP,"Stephen Dodd",127,0,88,39
+Reagan,2 - RCISD 3,"District Attorney, 112th Judicial District",,,Undervotes,10,0,7,3
+Reagan,2 - RCISD 3,"District Attorney, 112th Judicial District",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"County Attorney",,REP,"Michele Dodd",127,0,87,40
+Reagan,2 - RCISD 3,"County Attorney",,,Undervotes,10,0,8,2
+Reagan,2 - RCISD 3,"County Attorney",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"Sheriff",,REP,"Jeffrey Garner",125,0,85,40
+Reagan,2 - RCISD 3,"Sheriff",,,Undervotes,12,0,10,2
+Reagan,2 - RCISD 3,"Sheriff",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"County Tax Assessor-Collector",,REP,"Cynthia Aguilar",128,0,88,40
+Reagan,2 - RCISD 3,"County Tax Assessor-Collector",,,Undervotes,9,0,7,2
+Reagan,2 - RCISD 3,"County Tax Assessor-Collector",,,Overvotes,0,0,0,0
+Reagan,2 - RCISD 3,"REAGAN COUNTY SINGLE MEMBER DISTRICT #3 - Vote for none or one",,,"Ruben T. Martinez",113,0,77,36
+Reagan,2 - RCISD 3,"REAGAN COUNTY SINGLE MEMBER DISTRICT #3 - Vote for none or one",,,Undervotes,24,0,18,6
+Reagan,2 - RCISD 3,"REAGAN COUNTY SINGLE MEMBER DISTRICT #3 - Vote for none or one",,,Overvotes,0,0,0,0
+Reagan,3,"Ballots Cast",,,,202,0,0,0
+Reagan,3,"President",,REP,"Donald J. Trump JD Vance",172,0,128,44
+Reagan,3,"President",,DEM,"Kamala D. Harris Tim Walz",26,0,17,9
+Reagan,3,"President",,LIB,"Chase Oliver Mike ter Maat",1,0,0,1
+Reagan,3,"President",,GRN,"Jill Stein Rudolph Ware",2,0,0,2
+Reagan,3,"President",,,"Cherunda Fox / Harlan McVay (W)",0,0,0,0
+Reagan,3,"President",,,"Claudia De la Cruz / Karina Garcia (W)",0,0,0,0
+Reagan,3,"President",,,"Cornel West / Melina Abdullah (W)",0,0,0,0
+Reagan,3,"President",,,"Jessie Cuellar / Wesley Lasley (W)",0,0,0,0
+Reagan,3,"President",,,"Peter Sonski / Lauren Onak (W)",0,0,0,0
+Reagan,3,"President",,,"Shiva Ayyadurai / Crystal Ellis (W)",0,0,0,0
+Reagan,3,"President",,,Undervotes,0,0,0,0
+Reagan,3,"President",,,Overvotes,0,0,0,0
+Reagan,3,"U.S. Senate",,REP,"Ted Cruz",162,0,125,37
+Reagan,3,"U.S. Senate",,DEM,"Colin Allred",34,0,18,16
+Reagan,3,"U.S. Senate",,LIB,"Ted Brown",2,0,1,1
+Reagan,3,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Reagan,3,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Reagan,3,"U.S. Senate",,,Undervotes,4,0,2,2
+Reagan,3,"U.S. Senate",,,Overvotes,0,0,0,0
+Reagan,3,"U.S. House",23,REP,"Tony Gonzales",166,0,123,43
+Reagan,3,"U.S. House",23,DEM,"S. Limon",24,0,15,9
+Reagan,3,"U.S. House",23,,Undervotes,12,0,8,4
+Reagan,3,"U.S. House",23,,Overvotes,0,0,0,0
+Reagan,3,"Railroad Commissioner",,REP,"Christi Craddick",153,0,119,34
+Reagan,3,"Railroad Commissioner",,DEM,"Katherine Culbert",25,0,16,9
+Reagan,3,"Railroad Commissioner",,LIB,"Hawk Dunlap",9,0,4,5
+Reagan,3,"Railroad Commissioner",,GRN,"Eddie Espinoza",4,0,2,2
+Reagan,3,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Reagan,3,"Railroad Commissioner",,,Undervotes,11,0,5,6
+Reagan,3,"Railroad Commissioner",,,Overvotes,0,0,0,0
+Reagan,3,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",160,0,123,37
+Reagan,3,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",28,0,16,12
+Reagan,3,"Justice, Supreme Court","Place 2",,Undervotes,14,0,7,7
+Reagan,3,"Justice, Supreme Court","Place 2",,Overvotes,0,0,0,0
+Reagan,3,"Justice, Supreme Court","Place 4",REP,"John Devine",157,0,121,36
+Reagan,3,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",31,0,17,14
+Reagan,3,"Justice, Supreme Court","Place 4",,Undervotes,14,0,8,6
+Reagan,3,"Justice, Supreme Court","Place 4",,Overvotes,0,0,0,0
+Reagan,3,"Justice, Supreme Court","Place 6",REP,"Jane Bland",151,0,116,35
+Reagan,3,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",29,0,17,12
+Reagan,3,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",7,0,5,2
+Reagan,3,"Justice, Supreme Court","Place 6",,Undervotes,15,0,8,7
+Reagan,3,"Justice, Supreme Court","Place 6",,Overvotes,0,0,0,0
+Reagan,3,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",158,0,121,37
+Reagan,3,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",28,0,17,11
+Reagan,3,"Presiding Judge, Court of Criminal Appeals",,,Undervotes,16,0,8,8
+Reagan,3,"Presiding Judge, Court of Criminal Appeals",,,Overvotes,0,0,0,0
+Reagan,3,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",161,0,122,39
+Reagan,3,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",28,0,17,11
+Reagan,3,"Judge, Court of Criminal Appeals","Place 7",,Undervotes,13,0,7,6
+Reagan,3,"Judge, Court of Criminal Appeals","Place 7",,Overvotes,0,0,0,0
+Reagan,3,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",160,0,120,40
+Reagan,3,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",28,0,18,10
+Reagan,3,"Judge, Court of Criminal Appeals","Place 8",,Undervotes,14,0,8,6
+Reagan,3,"Judge, Court of Criminal Appeals","Place 8",,Overvotes,0,0,0,0
+Reagan,3,"Member, State Board of Education",15,REP,"Aaron Kinsey",150,0,115,35
+Reagan,3,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",33,0,19,14
+Reagan,3,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",4,0,3,1
+Reagan,3,"Member, State Board of Education",15,,Undervotes,15,0,9,6
+Reagan,3,"Member, State Board of Education",15,,Overvotes,0,0,0,0
+Reagan,3,"State Representative",72,REP,"Drew Darby",183,0,131,52
+Reagan,3,"State Representative",72,,Undervotes,19,0,15,4
+Reagan,3,"State Representative",72,,Overvotes,0,0,0,0
+Reagan,3,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",92,0,57,35
+Reagan,3,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Undervotes,110,0,89,21
+Reagan,3,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Overvotes,0,0,0,0
+Reagan,3,"Justice, 8th Court of Appeals District","Place 2",DEM,"Lisa Soto",84,0,51,33
+Reagan,3,"Justice, 8th Court of Appeals District","Place 2",,Undervotes,118,0,95,23
+Reagan,3,"Justice, 8th Court of Appeals District","Place 2",,Overvotes,0,0,0,0
+Reagan,3,"Justice, 8th Court of Appeals District","Place 3",DEM,"Gina M. Palafox",81,0,48,33
+Reagan,3,"Justice, 8th Court of Appeals District","Place 3",,Undervotes,121,0,98,23
+Reagan,3,"Justice, 8th Court of Appeals District","Place 3",,Overvotes,0,0,0,0
+Reagan,3,"District Attorney, 112th Judicial District",,REP,"Stephen Dodd",190,0,138,52
+Reagan,3,"District Attorney, 112th Judicial District",,,Undervotes,12,0,8,4
+Reagan,3,"District Attorney, 112th Judicial District",,,Overvotes,0,0,0,0
+Reagan,3,"County Attorney",,REP,"Michele Dodd",188,0,137,51
+Reagan,3,"County Attorney",,,Undervotes,14,0,9,5
+Reagan,3,"County Attorney",,,Overvotes,0,0,0,0
+Reagan,3,"Sheriff",,REP,"Jeffrey Garner",186,0,137,49
+Reagan,3,"Sheriff",,,Undervotes,16,0,9,7
+Reagan,3,"Sheriff",,,Overvotes,0,0,0,0
+Reagan,3,"County Tax Assessor-Collector",,REP,"Cynthia Aguilar",191,0,138,53
+Reagan,3,"County Tax Assessor-Collector",,,Undervotes,11,0,8,3
+Reagan,3,"County Tax Assessor-Collector",,,Overvotes,0,0,0,0
+Reagan,3,"County Commissioner, Precinct 3",,REP,"John Holt",190,0,139,51
+Reagan,3,"County Commissioner, Precinct 3",,,Undervotes,12,0,7,5
+Reagan,3,"County Commissioner, Precinct 3",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"Ballots Cast",,,,5,0,0,0
+Reagan,3 - RCISD 2,"President",,REP,"Donald J. Trump JD Vance",5,0,4,1
+Reagan,3 - RCISD 2,"President",,DEM,"Kamala D. Harris Tim Walz",0,0,0,0
+Reagan,3 - RCISD 2,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Reagan,3 - RCISD 2,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Reagan,3 - RCISD 2,"President",,,"Cherunda Fox / Harlan McVay (W)",0,0,0,0
+Reagan,3 - RCISD 2,"President",,,"Claudia De la Cruz / Karina Garcia (W)",0,0,0,0
+Reagan,3 - RCISD 2,"President",,,"Cornel West / Melina Abdullah (W)",0,0,0,0
+Reagan,3 - RCISD 2,"President",,,"Jessie Cuellar / Wesley Lasley (W)",0,0,0,0
+Reagan,3 - RCISD 2,"President",,,"Peter Sonski / Lauren Onak (W)",0,0,0,0
+Reagan,3 - RCISD 2,"President",,,"Shiva Ayyadurai / Crystal Ellis (W)",0,0,0,0
+Reagan,3 - RCISD 2,"President",,,Undervotes,0,0,0,0
+Reagan,3 - RCISD 2,"President",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"U.S. Senate",,REP,"Ted Cruz",3,0,3,0
+Reagan,3 - RCISD 2,"U.S. Senate",,DEM,"Colin Allred",2,0,1,1
+Reagan,3 - RCISD 2,"U.S. Senate",,LIB,"Ted Brown",0,0,0,0
+Reagan,3 - RCISD 2,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Reagan,3 - RCISD 2,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Reagan,3 - RCISD 2,"U.S. Senate",,,Undervotes,0,0,0,0
+Reagan,3 - RCISD 2,"U.S. Senate",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"U.S. House",23,REP,"Tony Gonzales",5,0,4,1
+Reagan,3 - RCISD 2,"U.S. House",23,DEM,"S. Limon",0,0,0,0
+Reagan,3 - RCISD 2,"U.S. House",23,,Undervotes,0,0,0,0
+Reagan,3 - RCISD 2,"U.S. House",23,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"Railroad Commissioner",,REP,"Christi Craddick",4,0,4,0
+Reagan,3 - RCISD 2,"Railroad Commissioner",,DEM,"Katherine Culbert",0,0,0,0
+Reagan,3 - RCISD 2,"Railroad Commissioner",,LIB,"Hawk Dunlap",0,0,0,0
+Reagan,3 - RCISD 2,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Reagan,3 - RCISD 2,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Reagan,3 - RCISD 2,"Railroad Commissioner",,,Undervotes,1,0,0,1
+Reagan,3 - RCISD 2,"Railroad Commissioner",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",4,0,4,0
+Reagan,3 - RCISD 2,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",0,0,0,0
+Reagan,3 - RCISD 2,"Justice, Supreme Court","Place 2",,Undervotes,1,0,0,1
+Reagan,3 - RCISD 2,"Justice, Supreme Court","Place 2",,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"Justice, Supreme Court","Place 4",REP,"John Devine",4,0,4,0
+Reagan,3 - RCISD 2,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",0,0,0,0
+Reagan,3 - RCISD 2,"Justice, Supreme Court","Place 4",,Undervotes,1,0,0,1
+Reagan,3 - RCISD 2,"Justice, Supreme Court","Place 4",,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"Justice, Supreme Court","Place 6",REP,"Jane Bland",4,0,4,0
+Reagan,3 - RCISD 2,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",0,0,0,0
+Reagan,3 - RCISD 2,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",0,0,0,0
+Reagan,3 - RCISD 2,"Justice, Supreme Court","Place 6",,Undervotes,1,0,0,1
+Reagan,3 - RCISD 2,"Justice, Supreme Court","Place 6",,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",4,0,4,0
+Reagan,3 - RCISD 2,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",0,0,0,0
+Reagan,3 - RCISD 2,"Presiding Judge, Court of Criminal Appeals",,,Undervotes,1,0,0,1
+Reagan,3 - RCISD 2,"Presiding Judge, Court of Criminal Appeals",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",4,0,4,0
+Reagan,3 - RCISD 2,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",0,0,0,0
+Reagan,3 - RCISD 2,"Judge, Court of Criminal Appeals","Place 7",,Undervotes,1,0,0,1
+Reagan,3 - RCISD 2,"Judge, Court of Criminal Appeals","Place 7",,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",4,0,4,0
+Reagan,3 - RCISD 2,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",0,0,0,0
+Reagan,3 - RCISD 2,"Judge, Court of Criminal Appeals","Place 8",,Undervotes,1,0,0,1
+Reagan,3 - RCISD 2,"Judge, Court of Criminal Appeals","Place 8",,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"Member, State Board of Education",15,REP,"Aaron Kinsey",4,0,4,0
+Reagan,3 - RCISD 2,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",0,0,0,0
+Reagan,3 - RCISD 2,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",0,0,0,0
+Reagan,3 - RCISD 2,"Member, State Board of Education",15,,Undervotes,1,0,0,1
+Reagan,3 - RCISD 2,"Member, State Board of Education",15,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"State Representative",72,REP,"Drew Darby",5,0,4,1
+Reagan,3 - RCISD 2,"State Representative",72,,Undervotes,0,0,0,0
+Reagan,3 - RCISD 2,"State Representative",72,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",3,0,2,1
+Reagan,3 - RCISD 2,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Undervotes,2,0,2,0
+Reagan,3 - RCISD 2,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"Justice, 8th Court of Appeals District","Place 2",DEM,"Lisa Soto",2,0,2,0
+Reagan,3 - RCISD 2,"Justice, 8th Court of Appeals District","Place 2",,Undervotes,3,0,2,1
+Reagan,3 - RCISD 2,"Justice, 8th Court of Appeals District","Place 2",,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"Justice, 8th Court of Appeals District","Place 3",DEM,"Gina M. Palafox",2,0,2,0
+Reagan,3 - RCISD 2,"Justice, 8th Court of Appeals District","Place 3",,Undervotes,3,0,2,1
+Reagan,3 - RCISD 2,"Justice, 8th Court of Appeals District","Place 3",,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"District Attorney, 112th Judicial District",,REP,"Stephen Dodd",4,0,3,1
+Reagan,3 - RCISD 2,"District Attorney, 112th Judicial District",,,Undervotes,1,0,1,0
+Reagan,3 - RCISD 2,"District Attorney, 112th Judicial District",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"County Attorney",,REP,"Michele Dodd",4,0,3,1
+Reagan,3 - RCISD 2,"County Attorney",,,Undervotes,1,0,1,0
+Reagan,3 - RCISD 2,"County Attorney",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"Sheriff",,REP,"Jeffrey Garner",5,0,4,1
+Reagan,3 - RCISD 2,"Sheriff",,,Undervotes,0,0,0,0
+Reagan,3 - RCISD 2,"Sheriff",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"County Tax Assessor-Collector",,REP,"Cynthia Aguilar",4,0,3,1
+Reagan,3 - RCISD 2,"County Tax Assessor-Collector",,,Undervotes,1,0,1,0
+Reagan,3 - RCISD 2,"County Tax Assessor-Collector",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"County Commissioner, Precinct 3",,REP,"John Holt",4,0,3,1
+Reagan,3 - RCISD 2,"County Commissioner, Precinct 3",,,Undervotes,1,0,1,0
+Reagan,3 - RCISD 2,"County Commissioner, Precinct 3",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 2,"REAGAN COUNTY SINGLE MEMBER DISTRICT #2 - Vote for none or one",,,"Rudy Barrera",0,0,0,0
+Reagan,3 - RCISD 2,"REAGAN COUNTY SINGLE MEMBER DISTRICT #2 - Vote for none or one",,,"Jose Yanez Jr.",4,0,3,1
+Reagan,3 - RCISD 2,"REAGAN COUNTY SINGLE MEMBER DISTRICT #2 - Vote for none or one",,,Undervotes,1,0,1,0
+Reagan,3 - RCISD 2,"REAGAN COUNTY SINGLE MEMBER DISTRICT #2 - Vote for none or one",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"Ballots Cast",,,,63,0,0,0
+Reagan,3 - RCISD 3,"President",,REP,"Donald J. Trump JD Vance",53,5,36,12
+Reagan,3 - RCISD 3,"President",,DEM,"Kamala D. Harris Tim Walz",9,0,8,1
+Reagan,3 - RCISD 3,"President",,LIB,"Chase Oliver Mike ter Maat",1,0,0,1
+Reagan,3 - RCISD 3,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Reagan,3 - RCISD 3,"President",,,"Cherunda Fox / Harlan McVay (W)",0,0,0,0
+Reagan,3 - RCISD 3,"President",,,"Claudia De la Cruz / Karina Garcia (W)",0,0,0,0
+Reagan,3 - RCISD 3,"President",,,"Cornel West / Melina Abdullah (W)",0,0,0,0
+Reagan,3 - RCISD 3,"President",,,"Jessie Cuellar / Wesley Lasley (W)",0,0,0,0
+Reagan,3 - RCISD 3,"President",,,"Peter Sonski / Lauren Onak (W)",0,0,0,0
+Reagan,3 - RCISD 3,"President",,,"Shiva Ayyadurai / Crystal Ellis (W)",0,0,0,0
+Reagan,3 - RCISD 3,"President",,,Undervotes,0,0,0,0
+Reagan,3 - RCISD 3,"President",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"U.S. Senate",,REP,"Ted Cruz",53,5,36,12
+Reagan,3 - RCISD 3,"U.S. Senate",,DEM,"Colin Allred",9,0,8,1
+Reagan,3 - RCISD 3,"U.S. Senate",,LIB,"Ted Brown",1,0,0,1
+Reagan,3 - RCISD 3,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Reagan,3 - RCISD 3,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Reagan,3 - RCISD 3,"U.S. Senate",,,Undervotes,0,0,0,0
+Reagan,3 - RCISD 3,"U.S. Senate",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"U.S. House",23,REP,"Tony Gonzales",52,5,35,12
+Reagan,3 - RCISD 3,"U.S. House",23,DEM,"S. Limon",10,0,8,2
+Reagan,3 - RCISD 3,"U.S. House",23,,Undervotes,1,0,1,0
+Reagan,3 - RCISD 3,"U.S. House",23,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"Railroad Commissioner",,REP,"Christi Craddick",41,5,29,7
+Reagan,3 - RCISD 3,"Railroad Commissioner",,DEM,"Katherine Culbert",8,0,7,1
+Reagan,3 - RCISD 3,"Railroad Commissioner",,LIB,"Hawk Dunlap",11,0,6,5
+Reagan,3 - RCISD 3,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,1,0
+Reagan,3 - RCISD 3,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Reagan,3 - RCISD 3,"Railroad Commissioner",,,Undervotes,2,0,1,1
+Reagan,3 - RCISD 3,"Railroad Commissioner",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",53,5,35,13
+Reagan,3 - RCISD 3,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",9,0,8,1
+Reagan,3 - RCISD 3,"Justice, Supreme Court","Place 2",,Undervotes,1,0,1,0
+Reagan,3 - RCISD 3,"Justice, Supreme Court","Place 2",,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"Justice, Supreme Court","Place 4",REP,"John Devine",52,5,35,12
+Reagan,3 - RCISD 3,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",9,0,8,1
+Reagan,3 - RCISD 3,"Justice, Supreme Court","Place 4",,Undervotes,2,0,1,1
+Reagan,3 - RCISD 3,"Justice, Supreme Court","Place 4",,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"Justice, Supreme Court","Place 6",REP,"Jane Bland",51,5,35,11
+Reagan,3 - RCISD 3,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",9,0,8,1
+Reagan,3 - RCISD 3,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",1,0,0,1
+Reagan,3 - RCISD 3,"Justice, Supreme Court","Place 6",,Undervotes,2,0,1,1
+Reagan,3 - RCISD 3,"Justice, Supreme Court","Place 6",,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",51,5,34,12
+Reagan,3 - RCISD 3,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",9,0,8,1
+Reagan,3 - RCISD 3,"Presiding Judge, Court of Criminal Appeals",,,Undervotes,3,0,2,1
+Reagan,3 - RCISD 3,"Presiding Judge, Court of Criminal Appeals",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",51,5,35,11
+Reagan,3 - RCISD 3,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",10,0,8,2
+Reagan,3 - RCISD 3,"Judge, Court of Criminal Appeals","Place 7",,Undervotes,2,0,1,1
+Reagan,3 - RCISD 3,"Judge, Court of Criminal Appeals","Place 7",,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",52,5,35,12
+Reagan,3 - RCISD 3,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",9,0,8,1
+Reagan,3 - RCISD 3,"Judge, Court of Criminal Appeals","Place 8",,Undervotes,2,0,1,1
+Reagan,3 - RCISD 3,"Judge, Court of Criminal Appeals","Place 8",,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"Member, State Board of Education",15,REP,"Aaron Kinsey",50,5,34,11
+Reagan,3 - RCISD 3,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",9,0,8,1
+Reagan,3 - RCISD 3,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",2,0,1,1
+Reagan,3 - RCISD 3,"Member, State Board of Education",15,,Undervotes,2,0,1,1
+Reagan,3 - RCISD 3,"Member, State Board of Education",15,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"State Representative",72,REP,"Drew Darby",54,5,36,13
+Reagan,3 - RCISD 3,"State Representative",72,,Undervotes,9,0,8,1
+Reagan,3 - RCISD 3,"State Representative",72,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",31,5,20,6
+Reagan,3 - RCISD 3,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Undervotes,32,0,24,8
+Reagan,3 - RCISD 3,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"Justice, 8th Court of Appeals District","Place 2",DEM,"Lisa Soto",28,5,17,6
+Reagan,3 - RCISD 3,"Justice, 8th Court of Appeals District","Place 2",,Undervotes,35,0,27,8
+Reagan,3 - RCISD 3,"Justice, 8th Court of Appeals District","Place 2",,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"Justice, 8th Court of Appeals District","Place 3",DEM,"Gina M. Palafox",28,5,17,6
+Reagan,3 - RCISD 3,"Justice, 8th Court of Appeals District","Place 3",,Undervotes,35,0,27,8
+Reagan,3 - RCISD 3,"Justice, 8th Court of Appeals District","Place 3",,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"District Attorney, 112th Judicial District",,REP,"Stephen Dodd",56,5,38,13
+Reagan,3 - RCISD 3,"District Attorney, 112th Judicial District",,,Undervotes,7,0,6,1
+Reagan,3 - RCISD 3,"District Attorney, 112th Judicial District",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"County Attorney",,REP,"Michele Dodd",56,5,39,12
+Reagan,3 - RCISD 3,"County Attorney",,,Undervotes,7,0,5,2
+Reagan,3 - RCISD 3,"County Attorney",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"Sheriff",,REP,"Jeffrey Garner",50,5,34,11
+Reagan,3 - RCISD 3,"Sheriff",,,Undervotes,13,0,10,3
+Reagan,3 - RCISD 3,"Sheriff",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"County Tax Assessor-Collector",,REP,"Cynthia Aguilar",59,5,40,14
+Reagan,3 - RCISD 3,"County Tax Assessor-Collector",,,Undervotes,4,0,4,0
+Reagan,3 - RCISD 3,"County Tax Assessor-Collector",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"County Commissioner, Precinct 3",,REP,"John Holt",58,5,39,14
+Reagan,3 - RCISD 3,"County Commissioner, Precinct 3",,,Undervotes,5,0,5,0
+Reagan,3 - RCISD 3,"County Commissioner, Precinct 3",,,Overvotes,0,0,0,0
+Reagan,3 - RCISD 3,"REAGAN COUNTY SINGLE MEMBER DISTRICT #3 - Vote for none or one",,,"Ruben T. Martinez",49,3,34,12
+Reagan,3 - RCISD 3,"REAGAN COUNTY SINGLE MEMBER DISTRICT #3 - Vote for none or one",,,Undervotes,14,2,10,2
+Reagan,3 - RCISD 3,"REAGAN COUNTY SINGLE MEMBER DISTRICT #3 - Vote for none or one",,,Overvotes,0,0,0,0
+Reagan,4,"Ballots Cast",,,,202,0,0,0
+Reagan,4,"President",,REP,"Donald J. Trump JD Vance",179,2,138,39
+Reagan,4,"President",,DEM,"Kamala D. Harris Tim Walz",23,0,13,10
+Reagan,4,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Reagan,4,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Reagan,4,"President",,,"Cherunda Fox / Harlan McVay (W)",0,0,0,0
+Reagan,4,"President",,,"Claudia De la Cruz / Karina Garcia (W)",0,0,0,0
+Reagan,4,"President",,,"Cornel West / Melina Abdullah (W)",0,0,0,0
+Reagan,4,"President",,,"Jessie Cuellar / Wesley Lasley (W)",0,0,0,0
+Reagan,4,"President",,,"Peter Sonski / Lauren Onak (W)",0,0,0,0
+Reagan,4,"President",,,"Shiva Ayyadurai / Crystal Ellis (W)",0,0,0,0
+Reagan,4,"President",,,Undervotes,0,0,0,0
+Reagan,4,"President",,,Overvotes,0,0,0,0
+Reagan,4,"U.S. Senate",,REP,"Ted Cruz",169,2,132,35
+Reagan,4,"U.S. Senate",,DEM,"Colin Allred",24,0,16,8
+Reagan,4,"U.S. Senate",,LIB,"Ted Brown",3,0,1,2
+Reagan,4,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Reagan,4,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Reagan,4,"U.S. Senate",,,Undervotes,6,0,2,4
+Reagan,4,"U.S. Senate",,,Overvotes,0,0,0,0
+Reagan,4,"U.S. House",23,REP,"Tony Gonzales",178,1,137,40
+Reagan,4,"U.S. House",23,DEM,"S. Limon",15,0,9,6
+Reagan,4,"U.S. House",23,,Undervotes,9,1,5,3
+Reagan,4,"U.S. House",23,,Overvotes,0,0,0,0
+Reagan,4,"Railroad Commissioner",,REP,"Christi Craddick",159,1,126,32
+Reagan,4,"Railroad Commissioner",,DEM,"Katherine Culbert",21,0,13,8
+Reagan,4,"Railroad Commissioner",,LIB,"Hawk Dunlap",7,0,5,2
+Reagan,4,"Railroad Commissioner",,GRN,"Eddie Espinoza",6,0,3,3
+Reagan,4,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Reagan,4,"Railroad Commissioner",,,Undervotes,9,1,4,4
+Reagan,4,"Railroad Commissioner",,,Overvotes,0,0,0,0
+Reagan,4,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",171,1,134,36
+Reagan,4,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",16,0,9,7
+Reagan,4,"Justice, Supreme Court","Place 2",,Undervotes,15,1,8,6
+Reagan,4,"Justice, Supreme Court","Place 2",,Overvotes,0,0,0,0
+Reagan,4,"Justice, Supreme Court","Place 4",REP,"John Devine",168,1,132,35
+Reagan,4,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",21,0,12,9
+Reagan,4,"Justice, Supreme Court","Place 4",,Undervotes,13,1,7,5
+Reagan,4,"Justice, Supreme Court","Place 4",,Overvotes,0,0,0,0
+Reagan,4,"Justice, Supreme Court","Place 6",REP,"Jane Bland",163,1,130,32
+Reagan,4,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",19,0,12,7
+Reagan,4,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",7,0,2,5
+Reagan,4,"Justice, Supreme Court","Place 6",,Undervotes,13,1,7,5
+Reagan,4,"Justice, Supreme Court","Place 6",,Overvotes,0,0,0,0
+Reagan,4,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",167,1,130,36
+Reagan,4,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",22,0,12,10
+Reagan,4,"Presiding Judge, Court of Criminal Appeals",,,Undervotes,13,1,9,3
+Reagan,4,"Presiding Judge, Court of Criminal Appeals",,,Overvotes,0,0,0,0
+Reagan,4,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",172,1,135,36
+Reagan,4,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",19,0,9,10
+Reagan,4,"Judge, Court of Criminal Appeals","Place 7",,Undervotes,11,1,7,3
+Reagan,4,"Judge, Court of Criminal Appeals","Place 7",,Overvotes,0,0,0,0
+Reagan,4,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",169,1,131,37
+Reagan,4,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",18,0,9,9
+Reagan,4,"Judge, Court of Criminal Appeals","Place 8",,Undervotes,15,1,11,3
+Reagan,4,"Judge, Court of Criminal Appeals","Place 8",,Overvotes,0,0,0,0
+Reagan,4,"Member, State Board of Education",15,REP,"Aaron Kinsey",159,1,126,32
+Reagan,4,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",23,0,13,10
+Reagan,4,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",4,0,2,2
+Reagan,4,"Member, State Board of Education",15,,Undervotes,16,1,10,5
+Reagan,4,"Member, State Board of Education",15,,Overvotes,0,0,0,0
+Reagan,4,"State Representative",72,REP,"Drew Darby",175,1,134,40
+Reagan,4,"State Representative",72,,Undervotes,27,1,17,9
+Reagan,4,"State Representative",72,,Overvotes,0,0,0,0
+Reagan,4,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",91,0,62,29
+Reagan,4,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Undervotes,111,2,89,20
+Reagan,4,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Overvotes,0,0,0,0
+Reagan,4,"Justice, 8th Court of Appeals District","Place 2",DEM,"Lisa Soto",87,0,59,28
+Reagan,4,"Justice, 8th Court of Appeals District","Place 2",,Undervotes,115,2,92,21
+Reagan,4,"Justice, 8th Court of Appeals District","Place 2",,Overvotes,0,0,0,0
+Reagan,4,"Justice, 8th Court of Appeals District","Place 3",DEM,"Gina M. Palafox",79,0,56,23
+Reagan,4,"Justice, 8th Court of Appeals District","Place 3",,Undervotes,123,2,95,26
+Reagan,4,"Justice, 8th Court of Appeals District","Place 3",,Overvotes,0,0,0,0
+Reagan,4,"District Attorney, 112th Judicial District",,REP,"Stephen Dodd",173,1,135,37
+Reagan,4,"District Attorney, 112th Judicial District",,,Undervotes,29,1,16,12
+Reagan,4,"District Attorney, 112th Judicial District",,,Overvotes,0,0,0,0
+Reagan,4,"County Attorney",,REP,"Michele Dodd",176,1,135,40
+Reagan,4,"County Attorney",,,Undervotes,26,1,16,9
+Reagan,4,"County Attorney",,,Overvotes,0,0,0,0
+Reagan,4,"Sheriff",,REP,"Jeffrey Garner",182,1,138,43
+Reagan,4,"Sheriff",,,Undervotes,20,1,13,6
+Reagan,4,"Sheriff",,,Overvotes,0,0,0,0
+Reagan,4,"County Tax Assessor-Collector",,REP,"Cynthia Aguilar",186,1,142,43
+Reagan,4,"County Tax Assessor-Collector",,,Undervotes,16,1,9,6
+Reagan,4,"County Tax Assessor-Collector",,,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"Ballots Cast",,,,21,0,0,0
+Reagan,4 - RCISD 4,"President",,REP,"Donald J. Trump JD Vance",16,0,7,9
+Reagan,4 - RCISD 4,"President",,DEM,"Kamala D. Harris Tim Walz",5,0,2,3
+Reagan,4 - RCISD 4,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Reagan,4 - RCISD 4,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Reagan,4 - RCISD 4,"President",,,"Cherunda Fox / Harlan McVay (W)",0,0,0,0
+Reagan,4 - RCISD 4,"President",,,"Claudia De la Cruz / Karina Garcia (W)",0,0,0,0
+Reagan,4 - RCISD 4,"President",,,"Cornel West / Melina Abdullah (W)",0,0,0,0
+Reagan,4 - RCISD 4,"President",,,"Jessie Cuellar / Wesley Lasley (W)",0,0,0,0
+Reagan,4 - RCISD 4,"President",,,"Peter Sonski / Lauren Onak (W)",0,0,0,0
+Reagan,4 - RCISD 4,"President",,,"Shiva Ayyadurai / Crystal Ellis (W)",0,0,0,0
+Reagan,4 - RCISD 4,"President",,,Undervotes,0,0,0,0
+Reagan,4 - RCISD 4,"President",,,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"U.S. Senate",,REP,"Ted Cruz",15,0,7,8
+Reagan,4 - RCISD 4,"U.S. Senate",,DEM,"Colin Allred",6,0,2,4
+Reagan,4 - RCISD 4,"U.S. Senate",,LIB,"Ted Brown",0,0,0,0
+Reagan,4 - RCISD 4,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Reagan,4 - RCISD 4,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Reagan,4 - RCISD 4,"U.S. Senate",,,Undervotes,0,0,0,0
+Reagan,4 - RCISD 4,"U.S. Senate",,,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"U.S. House",23,REP,"Tony Gonzales",16,0,7,9
+Reagan,4 - RCISD 4,"U.S. House",23,DEM,"S. Limon",5,0,2,3
+Reagan,4 - RCISD 4,"U.S. House",23,,Undervotes,0,0,0,0
+Reagan,4 - RCISD 4,"U.S. House",23,,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"Railroad Commissioner",,REP,"Christi Craddick",12,0,6,6
+Reagan,4 - RCISD 4,"Railroad Commissioner",,DEM,"Katherine Culbert",6,0,2,4
+Reagan,4 - RCISD 4,"Railroad Commissioner",,LIB,"Hawk Dunlap",3,0,1,2
+Reagan,4 - RCISD 4,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Reagan,4 - RCISD 4,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Reagan,4 - RCISD 4,"Railroad Commissioner",,,Undervotes,0,0,0,0
+Reagan,4 - RCISD 4,"Railroad Commissioner",,,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",16,0,7,9
+Reagan,4 - RCISD 4,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",4,0,1,3
+Reagan,4 - RCISD 4,"Justice, Supreme Court","Place 2",,Undervotes,1,0,1,0
+Reagan,4 - RCISD 4,"Justice, Supreme Court","Place 2",,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"Justice, Supreme Court","Place 4",REP,"John Devine",16,0,7,9
+Reagan,4 - RCISD 4,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",5,0,2,3
+Reagan,4 - RCISD 4,"Justice, Supreme Court","Place 4",,Undervotes,0,0,0,0
+Reagan,4 - RCISD 4,"Justice, Supreme Court","Place 4",,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"Justice, Supreme Court","Place 6",REP,"Jane Bland",15,0,7,8
+Reagan,4 - RCISD 4,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",5,0,2,3
+Reagan,4 - RCISD 4,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",1,0,0,1
+Reagan,4 - RCISD 4,"Justice, Supreme Court","Place 6",,Undervotes,0,0,0,0
+Reagan,4 - RCISD 4,"Justice, Supreme Court","Place 6",,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",16,0,7,9
+Reagan,4 - RCISD 4,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",5,0,2,3
+Reagan,4 - RCISD 4,"Presiding Judge, Court of Criminal Appeals",,,Undervotes,0,0,0,0
+Reagan,4 - RCISD 4,"Presiding Judge, Court of Criminal Appeals",,,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",17,0,8,9
+Reagan,4 - RCISD 4,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",4,0,1,3
+Reagan,4 - RCISD 4,"Judge, Court of Criminal Appeals","Place 7",,Undervotes,0,0,0,0
+Reagan,4 - RCISD 4,"Judge, Court of Criminal Appeals","Place 7",,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",16,0,7,9
+Reagan,4 - RCISD 4,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",5,0,2,3
+Reagan,4 - RCISD 4,"Judge, Court of Criminal Appeals","Place 8",,Undervotes,0,0,0,0
+Reagan,4 - RCISD 4,"Judge, Court of Criminal Appeals","Place 8",,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"Member, State Board of Education",15,REP,"Aaron Kinsey",15,0,7,8
+Reagan,4 - RCISD 4,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",4,0,1,3
+Reagan,4 - RCISD 4,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",1,0,0,1
+Reagan,4 - RCISD 4,"Member, State Board of Education",15,,Undervotes,1,0,1,0
+Reagan,4 - RCISD 4,"Member, State Board of Education",15,,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"State Representative",72,REP,"Drew Darby",17,0,8,9
+Reagan,4 - RCISD 4,"State Representative",72,,Undervotes,4,0,1,3
+Reagan,4 - RCISD 4,"State Representative",72,,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",13,0,4,9
+Reagan,4 - RCISD 4,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Undervotes,8,0,5,3
+Reagan,4 - RCISD 4,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"Justice, 8th Court of Appeals District","Place 2",DEM,"Lisa Soto",14,0,5,9
+Reagan,4 - RCISD 4,"Justice, 8th Court of Appeals District","Place 2",,Undervotes,7,0,4,3
+Reagan,4 - RCISD 4,"Justice, 8th Court of Appeals District","Place 2",,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"Justice, 8th Court of Appeals District","Place 3",DEM,"Gina M. Palafox",13,0,4,9
+Reagan,4 - RCISD 4,"Justice, 8th Court of Appeals District","Place 3",,Undervotes,8,0,5,3
+Reagan,4 - RCISD 4,"Justice, 8th Court of Appeals District","Place 3",,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"District Attorney, 112th Judicial District",,REP,"Stephen Dodd",18,0,8,10
+Reagan,4 - RCISD 4,"District Attorney, 112th Judicial District",,,Undervotes,3,0,1,2
+Reagan,4 - RCISD 4,"District Attorney, 112th Judicial District",,,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"County Attorney",,REP,"Michele Dodd",18,0,8,10
+Reagan,4 - RCISD 4,"County Attorney",,,Undervotes,3,0,1,2
+Reagan,4 - RCISD 4,"County Attorney",,,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"Sheriff",,REP,"Jeffrey Garner",14,0,7,7
+Reagan,4 - RCISD 4,"Sheriff",,,Undervotes,7,0,2,5
+Reagan,4 - RCISD 4,"Sheriff",,,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"County Tax Assessor-Collector",,REP,"Cynthia Aguilar",17,0,8,9
+Reagan,4 - RCISD 4,"County Tax Assessor-Collector",,,Undervotes,4,0,1,3
+Reagan,4 - RCISD 4,"County Tax Assessor-Collector",,,Overvotes,0,0,0,0
+Reagan,4 - RCISD 4,"REAGAN COUNTY SINGLE MEMBER DISTRICT #4 - Vote for none or one",,,"Felix Sanchez",7,0,3,4
+Reagan,4 - RCISD 4,"REAGAN COUNTY SINGLE MEMBER DISTRICT #4 - Vote for none or one",,,"Jed W. Hruska",9,0,3,6
+Reagan,4 - RCISD 4,"REAGAN COUNTY SINGLE MEMBER DISTRICT #4 - Vote for none or one",,,Undervotes,5,0,3,2
+Reagan,4 - RCISD 4,"REAGAN COUNTY SINGLE MEMBER DISTRICT #4 - Vote for none or one",,,Overvotes,0,0,0,0
