@@ -1,0 +1,2232 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Liberty,1 - BS 6,Registered Voters,,,,1355,,,
+Liberty,1 - BS 6,Ballots Cast,,,,747,,,
+Liberty,1 - BS 6,President,,REP,Donald J. Trump,617,18,389,210
+Liberty,1 - BS 6,President,,DEM,Kamala D. Harris,127,12,69,46
+Liberty,1 - BS 6,President,,LIB,Chase Oliver,0,0,0,0
+Liberty,1 - BS 6,President,,GRN,Jill Stein,1,0,1,0
+Liberty,1 - BS 6,President,,,Under Votes,1,0,1,0
+Liberty,1 - BS 6,President,,,Over Votes,1,1,0,0
+Liberty,1 - BS 6,U.S. Senate,,REP,Ted Cruz,589,17,379,193
+Liberty,1 - BS 6,U.S. Senate,,DEM,Colin Allred,139,13,74,52
+Liberty,1 - BS 6,U.S. Senate,,LIB,Ted Brown,16,0,6,10
+Liberty,1 - BS 6,U.S. Senate,,,Under Votes,3,1,1,1
+Liberty,1 - BS 6,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,1 - BS 6,U.S. House,36,REP,Brian Babin,618,17,389,212
+Liberty,1 - BS 6,U.S. House,36,DEM,Dayna Steele,122,14,65,43
+Liberty,1 - BS 6,U.S. House,36,,Under Votes,7,0,6,1
+Liberty,1 - BS 6,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,1 - BS 6,Railroad Commissioner,,REP,Christi Craddick,596,18,378,200
+Liberty,1 - BS 6,Railroad Commissioner,,DEM,Katherine Culbert,109,11,58,40
+Liberty,1 - BS 6,Railroad Commissioner,,LIB,Hawk Dunlap,22,2,11,9
+Liberty,1 - BS 6,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,2,3
+Liberty,1 - BS 6,Railroad Commissioner,,,Under Votes,15,0,11,4
+Liberty,1 - BS 6,Railroad Commissioner,,,Over Votes,0,0,0,0
+Liberty,1 - BS 6,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,615,20,387,208
+Liberty,1 - BS 6,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,114,11,62,41
+Liberty,1 - BS 6,"Justice, Supreme Court, Place 2",2,,Under Votes,18,0,11,7
+Liberty,1 - BS 6,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,1 - BS 6,"Justice, Supreme Court, Place 4",4,REP,John Devine,612,19,389,204
+Liberty,1 - BS 6,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,117,12,59,46
+Liberty,1 - BS 6,"Justice, Supreme Court, Place 4",4,,Under Votes,18,0,12,6
+Liberty,1 - BS 6,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,1 - BS 6,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,595,19,377,199
+Liberty,1 - BS 6,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,107,11,57,39
+Liberty,1 - BS 6,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,22,1,10,11
+Liberty,1 - BS 6,"Justice, Supreme Court, Place 6",6,,Under Votes,23,0,16,7
+Liberty,1 - BS 6,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Liberty,1 - BS 6,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,606,19,384,203
+Liberty,1 - BS 6,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,116,12,57,47
+Liberty,1 - BS 6,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,25,0,19,6
+Liberty,1 - BS 6,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,1 - BS 6,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,615,19,388,208
+Liberty,1 - BS 6,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,109,12,56,41
+Liberty,1 - BS 6,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,23,0,16,7
+Liberty,1 - BS 6,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,1 - BS 6,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,615,19,387,209
+Liberty,1 - BS 6,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,110,12,57,41
+Liberty,1 - BS 6,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,22,0,16,6
+Liberty,1 - BS 6,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,1 - BS 6,State Representative,18,REP,Janis Holt,617,23,384,210
+Liberty,1 - BS 6,State Representative,18,LIB,Seth Steele,84,2,47,35
+Liberty,1 - BS 6,State Representative,18,,Under Votes,46,6,29,11
+Liberty,1 - BS 6,State Representative,18,,Over Votes,0,0,0,0
+Liberty,1 - BS 6,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,627,21,384,222
+Liberty,1 - BS 6,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,120,10,76,34
+Liberty,1 - BS 6,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,1 - BS 6,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,624,23,381,220
+Liberty,1 - BS 6,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,123,8,79,36
+Liberty,1 - BS 6,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,1 - BS 6,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,627,21,381,225
+Liberty,1 - BS 6,"District Attorney, 253rd Judicial District",,,Under Votes,120,10,79,31
+Liberty,1 - BS 6,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,1 - BS 6,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,627,22,382,223
+Liberty,1 - BS 6,"Judge, County Court-at-law No. 2",,,Under Votes,120,9,78,33
+Liberty,1 - BS 6,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,1 - BS 6,County Attorney,,REP,Matthew Poston,623,22,379,222
+Liberty,1 - BS 6,County Attorney,,,Under Votes,124,9,81,34
+Liberty,1 - BS 6,County Attorney,,,Over Votes,0,0,0,0
+Liberty,1 - BS 6,Sheriff,,REP,"Robert ""Bobby"" Rader",624,23,379,222
+Liberty,1 - BS 6,Sheriff,,,Under Votes,123,8,81,34
+Liberty,1 - BS 6,Sheriff,,,Over Votes,0,0,0,0
+Liberty,1 - BS 6,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",626,24,379,223
+Liberty,1 - BS 6,County Tax Assessor-Collector,,,Under Votes,121,7,81,33
+Liberty,1 - BS 6,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,1 - BS 6,County Tax Assessor-Collector,,REP,"Mark ""Maddog"" Davison",633,23,384,226
+Liberty,1 - BS 6,County Tax Assessor-Collector,,,Under Votes,114,8,76,30
+Liberty,1 - BS 6,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,2 - BS 6,Registered Voters,,,,1361,,,
+Liberty,2 - BS 6,Ballots Cast,,,,905,,,
+Liberty,2 - BS 6,President,,REP,Donald J. Trump,814,8,663,143
+Liberty,2 - BS 6,President,,DEM,Kamala D. Harris,88,0,77,11
+Liberty,2 - BS 6,President,,LIB,Chase Oliver,2,0,2,0
+Liberty,2 - BS 6,President,,GRN,Jill Stein,0,0,0,0
+Liberty,2 - BS 6,President,,,Under Votes,1,0,1,0
+Liberty,2 - BS 6,President,,,Over Votes,0,0,0,0
+Liberty,2 - BS 6,U.S. Senate,,REP,Ted Cruz,785,7,654,124
+Liberty,2 - BS 6,U.S. Senate,,DEM,Colin Allred,103,0,80,23
+Liberty,2 - BS 6,U.S. Senate,,LIB,Ted Brown,13,1,8,4
+Liberty,2 - BS 6,U.S. Senate,,,Under Votes,3,0,0,3
+Liberty,2 - BS 6,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,2 - BS 6,U.S. House,36,REP,Brian Babin,797,7,663,127
+Liberty,2 - BS 6,U.S. House,36,DEM,Dayna Steele,89,1,71,17
+Liberty,2 - BS 6,U.S. House,36,,Under Votes,19,0,9,10
+Liberty,2 - BS 6,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,2 - BS 6,Railroad Commissioner,,REP,Christi Craddick,770,8,639,123
+Liberty,2 - BS 6,Railroad Commissioner,,DEM,Katherine Culbert,79,0,67,12
+Liberty,2 - BS 6,Railroad Commissioner,,LIB,Hawk Dunlap,28,0,22,6
+Liberty,2 - BS 6,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,3,1
+Liberty,2 - BS 6,Railroad Commissioner,,,Under Votes,23,0,12,11
+Liberty,2 - BS 6,Railroad Commissioner,,,Over Votes,0,0,0,0
+Liberty,2 - BS 6,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,794,8,658,128
+Liberty,2 - BS 6,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,82,0,66,16
+Liberty,2 - BS 6,"Justice, Supreme Court, Place 2",2,,Under Votes,29,0,19,10
+Liberty,2 - BS 6,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,2 - BS 6,"Justice, Supreme Court, Place 4",4,REP,John Devine,796,8,657,131
+Liberty,2 - BS 6,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,85,0,71,14
+Liberty,2 - BS 6,"Justice, Supreme Court, Place 4",4,,Under Votes,24,0,15,9
+Liberty,2 - BS 6,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,2 - BS 6,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,781,8,649,124
+Liberty,2 - BS 6,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,77,0,65,12
+Liberty,2 - BS 6,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,19,0,13,6
+Liberty,2 - BS 6,"Justice, Supreme Court, Place 6",6,,Under Votes,27,0,15,12
+Liberty,2 - BS 6,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Liberty,2 - BS 6,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,796,8,656,132
+Liberty,2 - BS 6,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,82,0,69,13
+Liberty,2 - BS 6,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,27,0,18,9
+Liberty,2 - BS 6,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,2 - BS 6,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,796,8,655,133
+Liberty,2 - BS 6,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,82,0,71,11
+Liberty,2 - BS 6,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,27,0,17,10
+Liberty,2 - BS 6,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,2 - BS 6,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,796,8,655,133
+Liberty,2 - BS 6,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,80,0,68,12
+Liberty,2 - BS 6,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,28,0,19,9
+Liberty,2 - BS 6,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,0,1,0
+Liberty,2 - BS 6,State Representative,18,REP,Janis Holt,786,8,648,130
+Liberty,2 - BS 6,State Representative,18,LIB,Seth Steele,70,0,56,14
+Liberty,2 - BS 6,State Representative,18,,Under Votes,48,0,38,10
+Liberty,2 - BS 6,State Representative,18,,Over Votes,1,0,1,0
+Liberty,2 - BS 6,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,798,8,663,127
+Liberty,2 - BS 6,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,107,0,80,27
+Liberty,2 - BS 6,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,2 - BS 6,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,790,8,655,127
+Liberty,2 - BS 6,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,115,0,88,27
+Liberty,2 - BS 6,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,2 - BS 6,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,784,6,652,126
+Liberty,2 - BS 6,"District Attorney, 253rd Judicial District",,,Under Votes,121,2,91,28
+Liberty,2 - BS 6,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,2 - BS 6,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,797,8,663,126
+Liberty,2 - BS 6,"Judge, County Court-at-law No. 2",,,Under Votes,108,0,80,28
+Liberty,2 - BS 6,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,2 - BS 6,County Attorney,,REP,Matthew Poston,796,6,663,127
+Liberty,2 - BS 6,County Attorney,,,Under Votes,109,2,80,27
+Liberty,2 - BS 6,County Attorney,,,Over Votes,0,0,0,0
+Liberty,2 - BS 6,Sheriff,,REP,"Robert ""Bobby"" Rader",803,8,664,131
+Liberty,2 - BS 6,Sheriff,,,Under Votes,102,0,79,23
+Liberty,2 - BS 6,Sheriff,,,Over Votes,0,0,0,0
+Liberty,2 - BS 6,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",791,6,658,127
+Liberty,2 - BS 6,County Tax Assessor-Collector,,,Under Votes,114,2,85,27
+Liberty,2 - BS 6,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,2 - BS 6,County Tax Assessor-Collector,,REP,"Mark ""Maddog"" Davison",818,8,674,136
+Liberty,2 - BS 6,County Tax Assessor-Collector,,,Under Votes,87,0,69,18
+Liberty,2 - BS 6,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,3 - BS 6,Registered Voters,,,,2818,,,
+Liberty,3 - BS 6,Ballots Cast,,,,1999,,,
+Liberty,3 - BS 6,President,,REP,Donald J. Trump,1787,15,1518,254
+Liberty,3 - BS 6,President,,DEM,Kamala D. Harris,192,12,144,36
+Liberty,3 - BS 6,President,,LIB,Chase Oliver,6,0,5,1
+Liberty,3 - BS 6,President,,GRN,Jill Stein,3,0,2,1
+Liberty,3 - BS 6,President,,,Under Votes,10,0,9,1
+Liberty,3 - BS 6,President,,,Over Votes,1,0,1,0
+Liberty,3 - BS 6,U.S. Senate,,REP,Ted Cruz,1725,15,1470,240
+Liberty,3 - BS 6,U.S. Senate,,DEM,Colin Allred,219,12,170,37
+Liberty,3 - BS 6,U.S. Senate,,LIB,Ted Brown,41,0,31,10
+Liberty,3 - BS 6,U.S. Senate,,,Under Votes,12,0,6,6
+Liberty,3 - BS 6,U.S. Senate,,,Over Votes,1,0,1,0
+Liberty,3 - BS 6,U.S. House,36,REP,Brian Babin,1786,16,1514,256
+Liberty,3 - BS 6,U.S. House,36,DEM,Dayna Steele,176,11,139,26
+Liberty,3 - BS 6,U.S. House,36,,Under Votes,35,0,25,10
+Liberty,3 - BS 6,U.S. House,36,,Over Votes,2,0,1,1
+Liberty,3 - BS 6,Railroad Commissioner,,REP,Christi Craddick,1704,15,1452,237
+Liberty,3 - BS 6,Railroad Commissioner,,DEM,Katherine Culbert,162,7,121,34
+Liberty,3 - BS 6,Railroad Commissioner,,LIB,Hawk Dunlap,61,0,54,7
+Liberty,3 - BS 6,Railroad Commissioner,,GRN,Eddie Espinoza,10,0,8,2
+Liberty,3 - BS 6,Railroad Commissioner,,,Under Votes,60,5,42,13
+Liberty,3 - BS 6,Railroad Commissioner,,,Over Votes,2,0,2,0
+Liberty,3 - BS 6,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1749,15,1488,246
+Liberty,3 - BS 6,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,173,8,132,33
+Liberty,3 - BS 6,"Justice, Supreme Court, Place 2",2,,Under Votes,77,4,59,14
+Liberty,3 - BS 6,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,3 - BS 6,"Justice, Supreme Court, Place 4",4,REP,John Devine,1751,15,1494,242
+Liberty,3 - BS 6,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,179,8,136,35
+Liberty,3 - BS 6,"Justice, Supreme Court, Place 4",4,,Under Votes,69,4,49,16
+Liberty,3 - BS 6,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,3 - BS 6,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1721,16,1469,236
+Liberty,3 - BS 6,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,161,7,125,29
+Liberty,3 - BS 6,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,47,0,34,13
+Liberty,3 - BS 6,"Justice, Supreme Court, Place 6",6,,Under Votes,68,4,49,15
+Liberty,3 - BS 6,"Justice, Supreme Court, Place 6",6,,Over Votes,2,0,2,0
+Liberty,3 - BS 6,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1750,16,1492,242
+Liberty,3 - BS 6,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,182,7,140,35
+Liberty,3 - BS 6,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,67,4,47,16
+Liberty,3 - BS 6,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,3 - BS 6,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1752,15,1494,243
+Liberty,3 - BS 6,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,173,7,132,34
+Liberty,3 - BS 6,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,74,5,53,16
+Liberty,3 - BS 6,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,3 - BS 6,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1757,15,1496,246
+Liberty,3 - BS 6,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,167,7,129,31
+Liberty,3 - BS 6,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,75,5,54,16
+Liberty,3 - BS 6,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,3 - BS 6,State Representative,18,REP,Janis Holt,1768,17,1502,249
+Liberty,3 - BS 6,State Representative,18,LIB,Seth Steele,138,5,103,30
+Liberty,3 - BS 6,State Representative,18,,Under Votes,92,5,73,14
+Liberty,3 - BS 6,State Representative,18,,Over Votes,1,0,1,0
+Liberty,3 - BS 6,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,1765,16,1486,263
+Liberty,3 - BS 6,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,234,11,193,30
+Liberty,3 - BS 6,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,3 - BS 6,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,1748,17,1470,261
+Liberty,3 - BS 6,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,251,10,209,32
+Liberty,3 - BS 6,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,3 - BS 6,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,1731,18,1455,258
+Liberty,3 - BS 6,"District Attorney, 253rd Judicial District",,,Under Votes,268,9,224,35
+Liberty,3 - BS 6,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,3 - BS 6,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,1780,19,1498,263
+Liberty,3 - BS 6,"Judge, County Court-at-law No. 2",,,Under Votes,219,8,181,30
+Liberty,3 - BS 6,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,3 - BS 6,County Attorney,,REP,Matthew Poston,1731,20,1456,255
+Liberty,3 - BS 6,County Attorney,,,Under Votes,268,7,223,38
+Liberty,3 - BS 6,County Attorney,,,Over Votes,0,0,0,0
+Liberty,3 - BS 6,Sheriff,,REP,"Robert ""Bobby"" Rader",1778,22,1494,262
+Liberty,3 - BS 6,Sheriff,,,Under Votes,221,5,185,31
+Liberty,3 - BS 6,Sheriff,,,Over Votes,0,0,0,0
+Liberty,3 - BS 6,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",1705,19,1432,254
+Liberty,3 - BS 6,County Tax Assessor-Collector,,,Under Votes,294,8,247,39
+Liberty,3 - BS 6,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,3 - BS 6,County Tax Assessor-Collector,,REP,"Mark ""Maddog"" Davison",1758,21,1476,261
+Liberty,3 - BS 6,County Tax Assessor-Collector,,,Under Votes,241,6,203,32
+Liberty,3 - BS 6,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,10 - BS 7,Registered Voters,,,,4225,,,
+Liberty,10 - BS 7,Ballots Cast,,,,2511,,,
+Liberty,10 - BS 7,President,,REP,Donald J. Trump,2005,25,1736,244
+Liberty,10 - BS 7,President,,DEM,Kamala D. Harris,487,21,379,87
+Liberty,10 - BS 7,President,,LIB,Chase Oliver,5,0,5,0
+Liberty,10 - BS 7,President,,GRN,Jill Stein,4,0,3,1
+Liberty,10 - BS 7,President,,,Under Votes,7,1,6,0
+Liberty,10 - BS 7,President,,,Over Votes,3,1,2,0
+Liberty,10 - BS 7,U.S. Senate,,REP,Ted Cruz,1890,23,1656,211
+Liberty,10 - BS 7,U.S. Senate,,DEM,Colin Allred,521,21,407,93
+Liberty,10 - BS 7,U.S. Senate,,LIB,Ted Brown,56,2,38,16
+Liberty,10 - BS 7,U.S. Senate,,,Under Votes,41,1,29,11
+Liberty,10 - BS 7,U.S. Senate,,,Over Votes,3,1,1,1
+Liberty,10 - BS 7,U.S. House,36,REP,Brian Babin,2001,26,1736,239
+Liberty,10 - BS 7,U.S. House,36,DEM,Dayna Steele,440,22,344,74
+Liberty,10 - BS 7,U.S. House,36,,Under Votes,70,0,51,19
+Liberty,10 - BS 7,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,10 - BS 7,Railroad Commissioner,,REP,Christi Craddick,1875,26,1636,213
+Liberty,10 - BS 7,Railroad Commissioner,,DEM,Katherine Culbert,409,22,326,61
+Liberty,10 - BS 7,Railroad Commissioner,,LIB,Hawk Dunlap,81,0,59,22
+Liberty,10 - BS 7,Railroad Commissioner,,GRN,Eddie Espinoza,43,0,27,16
+Liberty,10 - BS 7,Railroad Commissioner,,,Under Votes,99,0,80,19
+Liberty,10 - BS 7,Railroad Commissioner,,,Over Votes,1,0,1,0
+Liberty,10 - BS 7,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1964,27,1702,235
+Liberty,10 - BS 7,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,435,21,339,75
+Liberty,10 - BS 7,"Justice, Supreme Court, Place 2",2,,Under Votes,112,0,90,22
+Liberty,10 - BS 7,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,10 - BS 7,"Justice, Supreme Court, Place 4",4,REP,John Devine,1944,25,1695,224
+Liberty,10 - BS 7,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,459,23,354,82
+Liberty,10 - BS 7,"Justice, Supreme Court, Place 4",4,,Under Votes,108,0,82,26
+Liberty,10 - BS 7,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,10 - BS 7,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1895,26,1660,209
+Liberty,10 - BS 7,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,425,21,334,70
+Liberty,10 - BS 7,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,74,1,48,25
+Liberty,10 - BS 7,"Justice, Supreme Court, Place 6",6,,Under Votes,113,0,85,28
+Liberty,10 - BS 7,"Justice, Supreme Court, Place 6",6,,Over Votes,4,0,4,0
+Liberty,10 - BS 7,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1932,25,1682,225
+Liberty,10 - BS 7,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,464,23,363,78
+Liberty,10 - BS 7,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,115,0,86,29
+Liberty,10 - BS 7,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,10 - BS 7,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1945,25,1691,229
+Liberty,10 - BS 7,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,446,22,351,73
+Liberty,10 - BS 7,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,120,1,89,30
+Liberty,10 - BS 7,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,10 - BS 7,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1962,26,1708,228
+Liberty,10 - BS 7,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,423,22,333,68
+Liberty,10 - BS 7,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,125,0,90,35
+Liberty,10 - BS 7,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,0,0,1
+Liberty,10 - BS 7,State Representative,18,REP,Janis Holt,1976,29,1711,236
+Liberty,10 - BS 7,State Representative,18,LIB,Seth Steele,333,12,266,55
+Liberty,10 - BS 7,State Representative,18,,Under Votes,200,7,152,41
+Liberty,10 - BS 7,State Representative,18,,Over Votes,2,0,2,0
+Liberty,10 - BS 7,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,1983,30,1702,251
+Liberty,10 - BS 7,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,528,18,429,81
+Liberty,10 - BS 7,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,10 - BS 7,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,1969,29,1690,250
+Liberty,10 - BS 7,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,542,19,441,82
+Liberty,10 - BS 7,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,10 - BS 7,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,1962,30,1684,248
+Liberty,10 - BS 7,"District Attorney, 253rd Judicial District",,,Under Votes,549,18,447,84
+Liberty,10 - BS 7,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,10 - BS 7,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,1985,29,1706,250
+Liberty,10 - BS 7,"Judge, County Court-at-law No. 2",,,Under Votes,526,19,425,82
+Liberty,10 - BS 7,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,10 - BS 7,County Attorney,,REP,Matthew Poston,1960,29,1681,250
+Liberty,10 - BS 7,County Attorney,,,Under Votes,551,19,450,82
+Liberty,10 - BS 7,County Attorney,,,Over Votes,0,0,0,0
+Liberty,10 - BS 7,Sheriff,,REP,"Robert ""Bobby"" Rader",1983,31,1700,252
+Liberty,10 - BS 7,Sheriff,,,Under Votes,528,17,431,80
+Liberty,10 - BS 7,Sheriff,,,Over Votes,0,0,0,0
+Liberty,10 - BS 7,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",1969,29,1690,250
+Liberty,10 - BS 7,County Tax Assessor-Collector,,,Under Votes,542,19,441,82
+Liberty,10 - BS 7,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,10 - BS 7,County Tax Assessor-Collector,,REP,"Robert Earl ""Robby"" Thornton Jr",1980,31,1697,252
+Liberty,10 - BS 7,County Tax Assessor-Collector,,,Under Votes,531,17,434,80
+Liberty,10 - BS 7,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,21 - BS 7,Registered Voters,,,,4321,,,
+Liberty,21 - BS 7,Ballots Cast,,,,2922,,,
+Liberty,21 - BS 7,President,,REP,Donald J. Trump,2554,23,2112,419
+Liberty,21 - BS 7,President,,DEM,Kamala D. Harris,352,22,254,76
+Liberty,21 - BS 7,President,,LIB,Chase Oliver,6,0,5,1
+Liberty,21 - BS 7,President,,GRN,Jill Stein,4,0,3,1
+Liberty,21 - BS 7,President,,,Under Votes,5,0,4,1
+Liberty,21 - BS 7,President,,,Over Votes,1,0,1,0
+Liberty,21 - BS 7,U.S. Senate,,REP,Ted Cruz,2457,23,2049,385
+Liberty,21 - BS 7,U.S. Senate,,DEM,Colin Allred,399,20,283,96
+Liberty,21 - BS 7,U.S. Senate,,LIB,Ted Brown,48,2,35,11
+Liberty,21 - BS 7,U.S. Senate,,,Under Votes,18,0,12,6
+Liberty,21 - BS 7,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,21 - BS 7,U.S. House,36,REP,Brian Babin,2531,28,2087,416
+Liberty,21 - BS 7,U.S. House,36,DEM,Dayna Steele,343,17,258,68
+Liberty,21 - BS 7,U.S. House,36,,Under Votes,48,0,34,14
+Liberty,21 - BS 7,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,21 - BS 7,Railroad Commissioner,,REP,Christi Craddick,2402,25,1990,387
+Liberty,21 - BS 7,Railroad Commissioner,,DEM,Katherine Culbert,313,20,236,57
+Liberty,21 - BS 7,Railroad Commissioner,,LIB,Hawk Dunlap,105,0,83,22
+Liberty,21 - BS 7,Railroad Commissioner,,GRN,Eddie Espinoza,37,0,25,12
+Liberty,21 - BS 7,Railroad Commissioner,,,Under Votes,65,0,45,20
+Liberty,21 - BS 7,Railroad Commissioner,,,Over Votes,0,0,0,0
+Liberty,21 - BS 7,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,2506,25,2081,400
+Liberty,21 - BS 7,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,339,20,244,75
+Liberty,21 - BS 7,"Justice, Supreme Court, Place 2",2,,Under Votes,77,0,54,23
+Liberty,21 - BS 7,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,21 - BS 7,"Justice, Supreme Court, Place 4",4,REP,John Devine,2508,27,2078,403
+Liberty,21 - BS 7,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,343,18,249,76
+Liberty,21 - BS 7,"Justice, Supreme Court, Place 4",4,,Under Votes,71,0,52,19
+Liberty,21 - BS 7,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,21 - BS 7,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,2432,27,2022,383
+Liberty,21 - BS 7,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,327,17,242,68
+Liberty,21 - BS 7,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,82,0,58,24
+Liberty,21 - BS 7,"Justice, Supreme Court, Place 6",6,,Under Votes,81,1,57,23
+Liberty,21 - BS 7,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Liberty,21 - BS 7,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,2495,27,2065,403
+Liberty,21 - BS 7,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,348,18,258,72
+Liberty,21 - BS 7,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,79,0,56,23
+Liberty,21 - BS 7,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,21 - BS 7,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,2493,27,2069,397
+Liberty,21 - BS 7,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,338,18,247,73
+Liberty,21 - BS 7,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,90,0,63,27
+Liberty,21 - BS 7,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,0,0,1
+Liberty,21 - BS 7,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,2525,26,2093,406
+Liberty,21 - BS 7,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,308,19,227,62
+Liberty,21 - BS 7,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,89,0,59,30
+Liberty,21 - BS 7,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,21 - BS 7,State Representative,18,REP,Janis Holt,2504,28,2073,403
+Liberty,21 - BS 7,State Representative,18,LIB,Seth Steele,280,15,207,58
+Liberty,21 - BS 7,State Representative,18,,Under Votes,138,2,99,37
+Liberty,21 - BS 7,State Representative,18,,Over Votes,0,0,0,0
+Liberty,21 - BS 7,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,2468,32,2026,410
+Liberty,21 - BS 7,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,454,13,353,88
+Liberty,21 - BS 7,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,21 - BS 7,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,2456,31,2013,412
+Liberty,21 - BS 7,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,466,14,366,86
+Liberty,21 - BS 7,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,21 - BS 7,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,2446,31,2006,409
+Liberty,21 - BS 7,"District Attorney, 253rd Judicial District",,,Under Votes,476,14,373,89
+Liberty,21 - BS 7,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,21 - BS 7,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,2464,31,2024,409
+Liberty,21 - BS 7,"Judge, County Court-at-law No. 2",,,Under Votes,458,14,355,89
+Liberty,21 - BS 7,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,21 - BS 7,County Attorney,,REP,Matthew Poston,2449,31,2003,415
+Liberty,21 - BS 7,County Attorney,,,Under Votes,473,14,376,83
+Liberty,21 - BS 7,County Attorney,,,Over Votes,0,0,0,0
+Liberty,21 - BS 7,Sheriff,,REP,"Robert ""Bobby"" Rader",2442,32,1999,411
+Liberty,21 - BS 7,Sheriff,,,Under Votes,480,13,380,87
+Liberty,21 - BS 7,Sheriff,,,Over Votes,0,0,0,0
+Liberty,21 - BS 7,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",2430,30,1988,412
+Liberty,21 - BS 7,County Tax Assessor-Collector,,,Under Votes,492,15,391,86
+Liberty,21 - BS 7,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,21 - BS 7,County Tax Assessor-Collector,,REP,"Robert Earl ""Robby"" Thornton Jr",2444,32,1998,414
+Liberty,21 - BS 7,County Tax Assessor-Collector,,,Under Votes,478,13,381,84
+Liberty,21 - BS 7,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,22 - BS 7,Registered Voters,,,,3762,,,
+Liberty,22 - BS 7,Ballots Cast,,,,1942,,,
+Liberty,22 - BS 7,President,,REP,Donald J. Trump,1478,14,1153,311
+Liberty,22 - BS 7,President,,DEM,Kamala D. Harris,449,10,328,111
+Liberty,22 - BS 7,President,,LIB,Chase Oliver,9,0,6,3
+Liberty,22 - BS 7,President,,GRN,Jill Stein,1,0,1,0
+Liberty,22 - BS 7,President,,,Under Votes,4,0,4,0
+Liberty,22 - BS 7,President,,,Over Votes,1,0,1,0
+Liberty,22 - BS 7,U.S. Senate,,REP,Ted Cruz,1369,14,1094,261
+Liberty,22 - BS 7,U.S. Senate,,DEM,Colin Allred,497,10,359,128
+Liberty,22 - BS 7,U.S. Senate,,LIB,Ted Brown,52,0,32,20
+Liberty,22 - BS 7,U.S. Senate,,,Under Votes,23,0,8,15
+Liberty,22 - BS 7,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,22 - BS 7,U.S. House,36,REP,Brian Babin,1454,14,1157,283
+Liberty,22 - BS 7,U.S. House,36,DEM,Dayna Steele,430,10,312,108
+Liberty,22 - BS 7,U.S. House,36,,Under Votes,57,0,24,33
+Liberty,22 - BS 7,U.S. House,36,,Over Votes,1,0,0,1
+Liberty,22 - BS 7,Railroad Commissioner,,REP,Christi Craddick,1365,14,1091,260
+Liberty,22 - BS 7,Railroad Commissioner,,DEM,Katherine Culbert,384,10,291,83
+Liberty,22 - BS 7,Railroad Commissioner,,LIB,Hawk Dunlap,57,0,41,16
+Liberty,22 - BS 7,Railroad Commissioner,,GRN,Eddie Espinoza,58,0,32,26
+Liberty,22 - BS 7,Railroad Commissioner,,,Under Votes,77,0,37,40
+Liberty,22 - BS 7,Railroad Commissioner,,,Over Votes,1,0,1,0
+Liberty,22 - BS 7,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1439,14,1140,285
+Liberty,22 - BS 7,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,422,10,314,98
+Liberty,22 - BS 7,"Justice, Supreme Court, Place 2",2,,Under Votes,81,0,39,42
+Liberty,22 - BS 7,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,22 - BS 7,"Justice, Supreme Court, Place 4",4,REP,John Devine,1431,14,1143,274
+Liberty,22 - BS 7,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,437,10,317,110
+Liberty,22 - BS 7,"Justice, Supreme Court, Place 4",4,,Under Votes,73,0,33,40
+Liberty,22 - BS 7,"Justice, Supreme Court, Place 4",4,,Over Votes,1,0,0,1
+Liberty,22 - BS 7,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1371,14,1105,252
+Liberty,22 - BS 7,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,409,10,304,95
+Liberty,22 - BS 7,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,74,0,45,29
+Liberty,22 - BS 7,"Justice, Supreme Court, Place 6",6,,Under Votes,87,0,38,49
+Liberty,22 - BS 7,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Liberty,22 - BS 7,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1433,14,1147,272
+Liberty,22 - BS 7,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,427,10,310,107
+Liberty,22 - BS 7,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,82,0,36,46
+Liberty,22 - BS 7,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,22 - BS 7,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1425,14,1132,279
+Liberty,22 - BS 7,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,420,10,312,98
+Liberty,22 - BS 7,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,96,0,48,48
+Liberty,22 - BS 7,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,0,1,0
+Liberty,22 - BS 7,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1441,14,1148,279
+Liberty,22 - BS 7,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,411,10,303,98
+Liberty,22 - BS 7,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,90,0,42,48
+Liberty,22 - BS 7,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,22 - BS 7,State Representative,18,REP,Janis Holt,1472,16,1169,287
+Liberty,22 - BS 7,State Representative,18,LIB,Seth Steele,303,3,228,72
+Liberty,22 - BS 7,State Representative,18,,Under Votes,166,5,96,65
+Liberty,22 - BS 7,State Representative,18,,Over Votes,1,0,0,1
+Liberty,22 - BS 7,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,1485,17,1179,289
+Liberty,22 - BS 7,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,457,7,314,136
+Liberty,22 - BS 7,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,22 - BS 7,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,1472,17,1166,289
+Liberty,22 - BS 7,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,470,7,327,136
+Liberty,22 - BS 7,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,22 - BS 7,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,1476,16,1168,292
+Liberty,22 - BS 7,"District Attorney, 253rd Judicial District",,,Under Votes,466,8,325,133
+Liberty,22 - BS 7,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,22 - BS 7,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,1477,17,1170,290
+Liberty,22 - BS 7,"Judge, County Court-at-law No. 2",,,Under Votes,465,7,323,135
+Liberty,22 - BS 7,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,22 - BS 7,County Attorney,,REP,Matthew Poston,1465,17,1164,284
+Liberty,22 - BS 7,County Attorney,,,Under Votes,477,7,329,141
+Liberty,22 - BS 7,County Attorney,,,Over Votes,0,0,0,0
+Liberty,22 - BS 7,Sheriff,,REP,"Robert ""Bobby"" Rader",1490,19,1180,291
+Liberty,22 - BS 7,Sheriff,,,Under Votes,452,5,313,134
+Liberty,22 - BS 7,Sheriff,,,Over Votes,0,0,0,0
+Liberty,22 - BS 7,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",1473,19,1170,284
+Liberty,22 - BS 7,County Tax Assessor-Collector,,,Under Votes,469,5,323,141
+Liberty,22 - BS 7,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,22 - BS 7,County Tax Assessor-Collector,,REP,"Robert Earl ""Robby"" Thornton Jr",1487,19,1180,288
+Liberty,22 - BS 7,County Tax Assessor-Collector,,,Under Votes,455,5,313,137
+Liberty,22 - BS 7,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,Registered Voters,,,,0,,,
+Liberty,8 - BS 8,Ballots Cast,,,,8,,,
+Liberty,8 - BS 8,President,,REP,Donald J. Trump,7,1,6,0
+Liberty,8 - BS 8,President,,DEM,Kamala D. Harris,1,1,0,0
+Liberty,8 - BS 8,President,,LIB,Chase Oliver,0,0,0,0
+Liberty,8 - BS 8,President,,GRN,Jill Stein,0,0,0,0
+Liberty,8 - BS 8,President,,,Under Votes,0,0,0,0
+Liberty,8 - BS 8,President,,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,U.S. Senate,,REP,Ted Cruz,5,0,5,0
+Liberty,8 - BS 8,U.S. Senate,,DEM,Colin Allred,3,2,1,0
+Liberty,8 - BS 8,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Liberty,8 - BS 8,U.S. Senate,,,Under Votes,0,0,0,0
+Liberty,8 - BS 8,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,U.S. House,36,REP,Brian Babin,6,1,5,0
+Liberty,8 - BS 8,U.S. House,36,DEM,Dayna Steele,1,1,0,0
+Liberty,8 - BS 8,U.S. House,36,,Under Votes,1,0,1,0
+Liberty,8 - BS 8,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,Railroad Commissioner,,REP,Christi Craddick,5,1,4,0
+Liberty,8 - BS 8,Railroad Commissioner,,DEM,Katherine Culbert,0,0,0,0
+Liberty,8 - BS 8,Railroad Commissioner,,LIB,Hawk Dunlap,1,1,0,0
+Liberty,8 - BS 8,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Liberty,8 - BS 8,Railroad Commissioner,,,Under Votes,1,0,1,0
+Liberty,8 - BS 8,Railroad Commissioner,,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,6,0,6,0
+Liberty,8 - BS 8,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,2,2,0,0
+Liberty,8 - BS 8,"Justice, Supreme Court, Place 2",2,,Under Votes,0,0,0,0
+Liberty,8 - BS 8,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,"Justice, Supreme Court, Place 4",4,REP,John Devine,5,0,5,0
+Liberty,8 - BS 8,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,2,2,0,0
+Liberty,8 - BS 8,"Justice, Supreme Court, Place 4",4,,Under Votes,1,0,1,0
+Liberty,8 - BS 8,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,4,0,4,0
+Liberty,8 - BS 8,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,2,2,0,0
+Liberty,8 - BS 8,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,1,0,1,0
+Liberty,8 - BS 8,"Justice, Supreme Court, Place 6",6,,Under Votes,1,0,1,0
+Liberty,8 - BS 8,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,5,0,5,0
+Liberty,8 - BS 8,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,2,2,0,0
+Liberty,8 - BS 8,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,0,1,0
+Liberty,8 - BS 8,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,5,1,4,0
+Liberty,8 - BS 8,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,2,1,1,0
+Liberty,8 - BS 8,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,1,0,1,0
+Liberty,8 - BS 8,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,5,1,4,0
+Liberty,8 - BS 8,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,1,1,0,0
+Liberty,8 - BS 8,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,2,0,2,0
+Liberty,8 - BS 8,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,State Representative,18,REP,Janis Holt,3,1,2,0
+Liberty,8 - BS 8,State Representative,18,LIB,Seth Steele,1,1,0,0
+Liberty,8 - BS 8,State Representative,18,,Under Votes,4,0,4,0
+Liberty,8 - BS 8,State Representative,18,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,4,2,2,0
+Liberty,8 - BS 8,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,4,0,4,0
+Liberty,8 - BS 8,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,4,2,2,0
+Liberty,8 - BS 8,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,4,0,4,0
+Liberty,8 - BS 8,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,2,2,0,0
+Liberty,8 - BS 8,"District Attorney, 253rd Judicial District",,,Under Votes,6,0,6,0
+Liberty,8 - BS 8,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,2,2,0,0
+Liberty,8 - BS 8,"Judge, County Court-at-law No. 2",,,Under Votes,6,0,6,0
+Liberty,8 - BS 8,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,County Attorney,,REP,Matthew Poston,2,2,0,0
+Liberty,8 - BS 8,County Attorney,,,Under Votes,6,0,6,0
+Liberty,8 - BS 8,County Attorney,,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,Sheriff,,REP,"Robert ""Bobby"" Rader",2,2,0,0
+Liberty,8 - BS 8,Sheriff,,,Under Votes,6,0,6,0
+Liberty,8 - BS 8,Sheriff,,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",2,2,0,0
+Liberty,8 - BS 8,County Tax Assessor-Collector,,,Under Votes,6,0,6,0
+Liberty,8 - BS 8,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,8 - BS 8,County Tax Assessor-Collector,,REP,S. David Hunter,2,2,0,0
+Liberty,8 - BS 8,County Tax Assessor-Collector,,,Under Votes,6,0,6,0
+Liberty,8 - BS 8,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,9 - BS 8,Registered Voters,,,,353,,,
+Liberty,9 - BS 8,Ballots Cast,,,,243,,,
+Liberty,9 - BS 8,President,,REP,Donald J. Trump,229,4,177,48
+Liberty,9 - BS 8,President,,DEM,Kamala D. Harris,14,0,11,3
+Liberty,9 - BS 8,President,,LIB,Chase Oliver,0,0,0,0
+Liberty,9 - BS 8,President,,GRN,Jill Stein,0,0,0,0
+Liberty,9 - BS 8,President,,,Under Votes,0,0,0,0
+Liberty,9 - BS 8,President,,,Over Votes,0,0,0,0
+Liberty,9 - BS 8,U.S. Senate,,REP,Ted Cruz,221,4,172,45
+Liberty,9 - BS 8,U.S. Senate,,DEM,Colin Allred,17,0,12,5
+Liberty,9 - BS 8,U.S. Senate,,LIB,Ted Brown,4,0,3,1
+Liberty,9 - BS 8,U.S. Senate,,,Under Votes,1,0,1,0
+Liberty,9 - BS 8,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,9 - BS 8,U.S. House,36,REP,Brian Babin,223,4,174,45
+Liberty,9 - BS 8,U.S. House,36,DEM,Dayna Steele,15,0,10,5
+Liberty,9 - BS 8,U.S. House,36,,Under Votes,5,0,4,1
+Liberty,9 - BS 8,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,9 - BS 8,Railroad Commissioner,,REP,Christi Craddick,214,4,167,43
+Liberty,9 - BS 8,Railroad Commissioner,,DEM,Katherine Culbert,13,0,10,3
+Liberty,9 - BS 8,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,4,3
+Liberty,9 - BS 8,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Liberty,9 - BS 8,Railroad Commissioner,,,Under Votes,9,0,7,2
+Liberty,9 - BS 8,Railroad Commissioner,,,Over Votes,0,0,0,0
+Liberty,9 - BS 8,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,219,4,170,45
+Liberty,9 - BS 8,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,13,0,9,4
+Liberty,9 - BS 8,"Justice, Supreme Court, Place 2",2,,Under Votes,11,0,9,2
+Liberty,9 - BS 8,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,9 - BS 8,"Justice, Supreme Court, Place 4",4,REP,John Devine,220,4,170,46
+Liberty,9 - BS 8,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,12,0,9,3
+Liberty,9 - BS 8,"Justice, Supreme Court, Place 4",4,,Under Votes,11,0,9,2
+Liberty,9 - BS 8,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,9 - BS 8,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,217,4,169,44
+Liberty,9 - BS 8,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,13,0,9,4
+Liberty,9 - BS 8,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,2,0
+Liberty,9 - BS 8,"Justice, Supreme Court, Place 6",6,,Under Votes,10,0,8,2
+Liberty,9 - BS 8,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,0,1
+Liberty,9 - BS 8,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,220,4,171,45
+Liberty,9 - BS 8,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,13,0,9,4
+Liberty,9 - BS 8,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,10,0,8,2
+Liberty,9 - BS 8,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,9 - BS 8,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,219,4,170,45
+Liberty,9 - BS 8,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,14,0,10,4
+Liberty,9 - BS 8,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,10,0,8,2
+Liberty,9 - BS 8,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,9 - BS 8,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,220,4,171,45
+Liberty,9 - BS 8,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,13,0,9,4
+Liberty,9 - BS 8,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,10,0,8,2
+Liberty,9 - BS 8,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,9 - BS 8,State Representative,18,REP,Janis Holt,217,4,167,46
+Liberty,9 - BS 8,State Representative,18,LIB,Seth Steele,11,0,7,4
+Liberty,9 - BS 8,State Representative,18,,Under Votes,15,0,14,1
+Liberty,9 - BS 8,State Representative,18,,Over Votes,0,0,0,0
+Liberty,9 - BS 8,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,211,4,162,45
+Liberty,9 - BS 8,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,32,0,26,6
+Liberty,9 - BS 8,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,9 - BS 8,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,208,4,159,45
+Liberty,9 - BS 8,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,35,0,29,6
+Liberty,9 - BS 8,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,9 - BS 8,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,207,4,157,46
+Liberty,9 - BS 8,"District Attorney, 253rd Judicial District",,,Under Votes,36,0,31,5
+Liberty,9 - BS 8,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,9 - BS 8,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,205,4,156,45
+Liberty,9 - BS 8,"Judge, County Court-at-law No. 2",,,Under Votes,38,0,32,6
+Liberty,9 - BS 8,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,9 - BS 8,County Attorney,,REP,Matthew Poston,203,4,156,43
+Liberty,9 - BS 8,County Attorney,,,Under Votes,40,0,32,8
+Liberty,9 - BS 8,County Attorney,,,Over Votes,0,0,0,0
+Liberty,9 - BS 8,Sheriff,,REP,"Robert ""Bobby"" Rader",199,4,151,44
+Liberty,9 - BS 8,Sheriff,,,Under Votes,44,0,37,7
+Liberty,9 - BS 8,Sheriff,,,Over Votes,0,0,0,0
+Liberty,9 - BS 8,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",200,4,152,44
+Liberty,9 - BS 8,County Tax Assessor-Collector,,,Under Votes,43,0,36,7
+Liberty,9 - BS 8,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,9 - BS 8,County Tax Assessor-Collector,,REP,S. David Hunter,197,4,151,42
+Liberty,9 - BS 8,County Tax Assessor-Collector,,,Under Votes,39,0,33,6
+Liberty,9 - BS 8,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,Registered Voters,,,,282,,,
+Liberty,25 - BS 8,Ballots Cast,,,,167,,,
+Liberty,25 - BS 8,President,,REP,Donald J. Trump,154,7,120,27
+Liberty,25 - BS 8,President,,DEM,Kamala D. Harris,13,0,7,6
+Liberty,25 - BS 8,President,,LIB,Chase Oliver,0,0,0,0
+Liberty,25 - BS 8,President,,GRN,Jill Stein,0,0,0,0
+Liberty,25 - BS 8,President,,,Under Votes,0,0,0,0
+Liberty,25 - BS 8,President,,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,U.S. Senate,,REP,Ted Cruz,147,7,116,24
+Liberty,25 - BS 8,U.S. Senate,,DEM,Colin Allred,16,0,9,7
+Liberty,25 - BS 8,U.S. Senate,,LIB,Ted Brown,2,0,1,1
+Liberty,25 - BS 8,U.S. Senate,,,Under Votes,1,0,0,1
+Liberty,25 - BS 8,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,U.S. House,36,REP,Brian Babin,150,7,121,22
+Liberty,25 - BS 8,U.S. House,36,DEM,Dayna Steele,12,0,6,6
+Liberty,25 - BS 8,U.S. House,36,,Under Votes,5,0,0,5
+Liberty,25 - BS 8,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,Railroad Commissioner,,REP,Christi Craddick,145,7,115,23
+Liberty,25 - BS 8,Railroad Commissioner,,DEM,Katherine Culbert,11,0,6,5
+Liberty,25 - BS 8,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,2,1
+Liberty,25 - BS 8,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0
+Liberty,25 - BS 8,Railroad Commissioner,,,Under Votes,6,0,2,4
+Liberty,25 - BS 8,Railroad Commissioner,,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,146,7,117,22
+Liberty,25 - BS 8,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,14,0,8,6
+Liberty,25 - BS 8,"Justice, Supreme Court, Place 2",2,,Under Votes,7,0,2,5
+Liberty,25 - BS 8,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,"Justice, Supreme Court, Place 4",4,REP,John Devine,147,7,119,21
+Liberty,25 - BS 8,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,14,0,7,7
+Liberty,25 - BS 8,"Justice, Supreme Court, Place 4",4,,Under Votes,6,0,1,5
+Liberty,25 - BS 8,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,144,7,116,21
+Liberty,25 - BS 8,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,12,0,6,6
+Liberty,25 - BS 8,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,5,0,4,1
+Liberty,25 - BS 8,"Justice, Supreme Court, Place 6",6,,Under Votes,6,0,1,5
+Liberty,25 - BS 8,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,146,7,118,21
+Liberty,25 - BS 8,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,15,0,8,7
+Liberty,25 - BS 8,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,6,0,1,5
+Liberty,25 - BS 8,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,149,7,119,23
+Liberty,25 - BS 8,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,13,0,7,6
+Liberty,25 - BS 8,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,5,0,1,4
+Liberty,25 - BS 8,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,150,7,121,22
+Liberty,25 - BS 8,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,12,0,6,6
+Liberty,25 - BS 8,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,5,0,0,5
+Liberty,25 - BS 8,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,State Representative,18,REP,Janis Holt,149,7,119,23
+Liberty,25 - BS 8,State Representative,18,LIB,Seth Steele,10,0,5,5
+Liberty,25 - BS 8,State Representative,18,,Under Votes,8,0,3,5
+Liberty,25 - BS 8,State Representative,18,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,146,7,114,25
+Liberty,25 - BS 8,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,21,0,13,8
+Liberty,25 - BS 8,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,147,7,115,25
+Liberty,25 - BS 8,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,20,0,12,8
+Liberty,25 - BS 8,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,144,7,112,25
+Liberty,25 - BS 8,"District Attorney, 253rd Judicial District",,,Under Votes,23,0,15,8
+Liberty,25 - BS 8,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,146,7,114,25
+Liberty,25 - BS 8,"Judge, County Court-at-law No. 2",,,Under Votes,21,0,13,8
+Liberty,25 - BS 8,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,County Attorney,,REP,Matthew Poston,142,7,111,24
+Liberty,25 - BS 8,County Attorney,,,Under Votes,25,0,16,9
+Liberty,25 - BS 8,County Attorney,,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,Sheriff,,REP,"Robert ""Bobby"" Rader",148,7,113,28
+Liberty,25 - BS 8,Sheriff,,,Under Votes,19,0,14,5
+Liberty,25 - BS 8,Sheriff,,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",143,7,111,25
+Liberty,25 - BS 8,County Tax Assessor-Collector,,,Under Votes,24,0,16,8
+Liberty,25 - BS 8,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,25 - BS 8,County Tax Assessor-Collector,,REP,S. David Hunter,135,7,105,23
+Liberty,25 - BS 8,County Tax Assessor-Collector,,,Under Votes,27,0,18,9
+Liberty,25 - BS 8,County Tax Assessor-Collector,,,Over Votes,2,0,2,0
+Liberty,20 - BS 9,Registered Voters,,,,3522,,,
+Liberty,20 - BS 9,Ballots Cast,,,,1693,,,
+Liberty,20 - BS 9,President,,REP,Donald J. Trump,1071,24,887,160
+Liberty,20 - BS 9,President,,DEM,Kamala D. Harris,600,25,431,144
+Liberty,20 - BS 9,President,,LIB,Chase Oliver,5,0,3,2
+Liberty,20 - BS 9,President,,GRN,Jill Stein,5,0,3,2
+Liberty,20 - BS 9,President,,,Under Votes,11,2,6,3
+Liberty,20 - BS 9,President,,,Over Votes,1,0,1,0
+Liberty,20 - BS 9,U.S. Senate,,REP,Ted Cruz,1012,27,851,134
+Liberty,20 - BS 9,U.S. Senate,,DEM,Colin Allred,615,23,442,150
+Liberty,20 - BS 9,U.S. Senate,,LIB,Ted Brown,37,0,22,15
+Liberty,20 - BS 9,U.S. Senate,,,Under Votes,25,1,16,8
+Liberty,20 - BS 9,U.S. Senate,,,Over Votes,2,0,0,2
+Liberty,20 - BS 9,U.S. House,36,REP,Brian Babin,1065,26,882,157
+Liberty,20 - BS 9,U.S. House,36,DEM,Dayna Steele,569,23,409,137
+Liberty,20 - BS 9,U.S. House,36,,Under Votes,59,2,40,17
+Liberty,20 - BS 9,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,20 - BS 9,Railroad Commissioner,,REP,Christi Craddick,1014,26,842,146
+Liberty,20 - BS 9,Railroad Commissioner,,DEM,Katherine Culbert,532,24,382,126
+Liberty,20 - BS 9,Railroad Commissioner,,LIB,Hawk Dunlap,39,0,28,11
+Liberty,20 - BS 9,Railroad Commissioner,,GRN,Eddie Espinoza,36,0,27,9
+Liberty,20 - BS 9,Railroad Commissioner,,,Under Votes,69,1,50,18
+Liberty,20 - BS 9,Railroad Commissioner,,,Over Votes,2,0,1,1
+Liberty,20 - BS 9,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1047,27,870,150
+Liberty,20 - BS 9,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,569,24,405,140
+Liberty,20 - BS 9,"Justice, Supreme Court, Place 2",2,,Under Votes,77,0,56,21
+Liberty,20 - BS 9,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,20 - BS 9,"Justice, Supreme Court, Place 4",4,REP,John Devine,1036,26,861,149
+Liberty,20 - BS 9,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,581,25,415,141
+Liberty,20 - BS 9,"Justice, Supreme Court, Place 4",4,,Under Votes,76,0,55,21
+Liberty,20 - BS 9,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,20 - BS 9,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1016,27,847,142
+Liberty,20 - BS 9,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,550,23,393,134
+Liberty,20 - BS 9,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,44,0,31,13
+Liberty,20 - BS 9,"Justice, Supreme Court, Place 6",6,,Under Votes,82,1,59,22
+Liberty,20 - BS 9,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Liberty,20 - BS 9,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1033,27,862,144
+Liberty,20 - BS 9,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,573,23,405,145
+Liberty,20 - BS 9,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,87,1,64,22
+Liberty,20 - BS 9,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,20 - BS 9,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1057,27,875,155
+Liberty,20 - BS 9,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,540,24,386,130
+Liberty,20 - BS 9,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,95,0,70,25
+Liberty,20 - BS 9,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,0,0,1
+Liberty,20 - BS 9,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1058,27,878,153
+Liberty,20 - BS 9,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,541,23,386,132
+Liberty,20 - BS 9,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,92,1,67,24
+Liberty,20 - BS 9,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,2,0,0,2
+Liberty,20 - BS 9,State Representative,18,REP,Janis Holt,1106,30,904,172
+Liberty,20 - BS 9,State Representative,18,LIB,Seth Steele,365,13,262,90
+Liberty,20 - BS 9,State Representative,18,,Under Votes,222,8,165,49
+Liberty,20 - BS 9,State Representative,18,,Over Votes,0,0,0,0
+Liberty,20 - BS 9,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,1276,32,1023,221
+Liberty,20 - BS 9,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,417,19,308,90
+Liberty,20 - BS 9,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,20 - BS 9,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,1258,31,1012,215
+Liberty,20 - BS 9,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,435,20,319,96
+Liberty,20 - BS 9,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,20 - BS 9,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,1334,41,1064,229
+Liberty,20 - BS 9,"District Attorney, 253rd Judicial District",,,Under Votes,359,10,267,82
+Liberty,20 - BS 9,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,20 - BS 9,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,1256,31,1010,215
+Liberty,20 - BS 9,"Judge, County Court-at-law No. 2",,,Under Votes,437,20,321,96
+Liberty,20 - BS 9,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,20 - BS 9,County Attorney,,REP,Matthew Poston,1264,33,1017,214
+Liberty,20 - BS 9,County Attorney,,,Under Votes,429,18,314,97
+Liberty,20 - BS 9,County Attorney,,,Over Votes,0,0,0,0
+Liberty,20 - BS 9,Sheriff,,REP,"Robert ""Bobby"" Rader",1271,33,1017,221
+Liberty,20 - BS 9,Sheriff,,,Under Votes,422,18,314,90
+Liberty,20 - BS 9,Sheriff,,,Over Votes,0,0,0,0
+Liberty,20 - BS 9,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",1279,33,1025,221
+Liberty,20 - BS 9,County Tax Assessor-Collector,,,Under Votes,414,18,306,90
+Liberty,20 - BS 9,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,20 - BS 9,County Tax Assessor-Collector,,REP,Zack Harkness,1286,34,1033,219
+Liberty,20 - BS 9,County Tax Assessor-Collector,,,Under Votes,407,17,298,92
+Liberty,20 - BS 9,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,8 - BS 10,Registered Voters,,,,3235,,,
+Liberty,8 - BS 10,Ballots Cast,,,,2164,,,
+Liberty,8 - BS 10,President,,REP,Donald J. Trump,1961,19,1633,309
+Liberty,8 - BS 10,President,,DEM,Kamala D. Harris,188,15,144,29
+Liberty,8 - BS 10,President,,LIB,Chase Oliver,6,0,4,2
+Liberty,8 - BS 10,President,,GRN,Jill Stein,1,0,1,0
+Liberty,8 - BS 10,President,,,Under Votes,4,0,4,0
+Liberty,8 - BS 10,President,,,Over Votes,3,1,1,1
+Liberty,8 - BS 10,U.S. Senate,,REP,Ted Cruz,1885,18,1587,280
+Liberty,8 - BS 10,U.S. Senate,,DEM,Colin Allred,214,15,160,39
+Liberty,8 - BS 10,U.S. Senate,,LIB,Ted Brown,47,2,29,16
+Liberty,8 - BS 10,U.S. Senate,,,Under Votes,17,0,12,5
+Liberty,8 - BS 10,U.S. Senate,,,Over Votes,1,0,0,1
+Liberty,8 - BS 10,U.S. House,36,REP,Brian Babin,1928,18,1609,301
+Liberty,8 - BS 10,U.S. House,36,DEM,Dayna Steele,180,16,136,28
+Liberty,8 - BS 10,U.S. House,36,,Under Votes,56,1,43,12
+Liberty,8 - BS 10,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,8 - BS 10,Railroad Commissioner,,REP,Christi Craddick,1832,18,1536,278
+Liberty,8 - BS 10,Railroad Commissioner,,DEM,Katherine Culbert,158,15,120,23
+Liberty,8 - BS 10,Railroad Commissioner,,LIB,Hawk Dunlap,66,1,48,17
+Liberty,8 - BS 10,Railroad Commissioner,,GRN,Eddie Espinoza,18,0,16,2
+Liberty,8 - BS 10,Railroad Commissioner,,,Under Votes,86,1,66,19
+Liberty,8 - BS 10,Railroad Commissioner,,,Over Votes,2,0,1,1
+Liberty,8 - BS 10,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1885,18,1572,295
+Liberty,8 - BS 10,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,180,16,139,25
+Liberty,8 - BS 10,"Justice, Supreme Court, Place 2",2,,Under Votes,99,1,77,21
+Liberty,8 - BS 10,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,8 - BS 10,"Justice, Supreme Court, Place 4",4,REP,John Devine,1880,17,1572,291
+Liberty,8 - BS 10,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,193,16,145,32
+Liberty,8 - BS 10,"Justice, Supreme Court, Place 4",4,,Under Votes,90,2,70,18
+Liberty,8 - BS 10,"Justice, Supreme Court, Place 4",4,,Over Votes,1,0,1,0
+Liberty,8 - BS 10,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1843,17,1541,285
+Liberty,8 - BS 10,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,168,16,130,22
+Liberty,8 - BS 10,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,64,0,48,16
+Liberty,8 - BS 10,"Justice, Supreme Court, Place 6",6,,Under Votes,89,2,69,18
+Liberty,8 - BS 10,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Liberty,8 - BS 10,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1883,18,1573,292
+Liberty,8 - BS 10,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,190,15,146,29
+Liberty,8 - BS 10,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,91,2,69,20
+Liberty,8 - BS 10,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,8 - BS 10,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1895,17,1582,296
+Liberty,8 - BS 10,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,171,16,131,24
+Liberty,8 - BS 10,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,96,2,73,21
+Liberty,8 - BS 10,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,2,0,2,0
+Liberty,8 - BS 10,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1899,19,1583,297
+Liberty,8 - BS 10,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,169,15,134,20
+Liberty,8 - BS 10,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,96,1,71,24
+Liberty,8 - BS 10,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,8 - BS 10,State Representative,18,REP,Janis Holt,1869,16,1561,292
+Liberty,8 - BS 10,State Representative,18,LIB,Seth Steele,170,13,131,26
+Liberty,8 - BS 10,State Representative,18,,Under Votes,124,6,95,23
+Liberty,8 - BS 10,State Representative,18,,Over Votes,1,0,1,0
+Liberty,8 - BS 10,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,1879,20,1558,301
+Liberty,8 - BS 10,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,285,15,230,40
+Liberty,8 - BS 10,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,8 - BS 10,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,1877,20,1554,303
+Liberty,8 - BS 10,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,287,15,234,38
+Liberty,8 - BS 10,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,8 - BS 10,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,1880,22,1553,305
+Liberty,8 - BS 10,"District Attorney, 253rd Judicial District",,,Under Votes,284,13,235,36
+Liberty,8 - BS 10,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,8 - BS 10,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,1886,19,1563,304
+Liberty,8 - BS 10,"Judge, County Court-at-law No. 2",,,Under Votes,278,16,225,37
+Liberty,8 - BS 10,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,8 - BS 10,County Attorney,,REP,Matthew Poston,1875,20,1549,306
+Liberty,8 - BS 10,County Attorney,,,Under Votes,289,15,239,35
+Liberty,8 - BS 10,County Attorney,,,Over Votes,0,0,0,0
+Liberty,8 - BS 10,Sheriff,,REP,"Robert ""Bobby"" Rader",1873,21,1545,307
+Liberty,8 - BS 10,Sheriff,,,Under Votes,291,14,243,34
+Liberty,8 - BS 10,Sheriff,,,Over Votes,0,0,0,0
+Liberty,8 - BS 10,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",1849,20,1528,301
+Liberty,8 - BS 10,County Tax Assessor-Collector,,,Under Votes,315,15,260,40
+Liberty,8 - BS 10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,8 - BS 10,County Tax Assessor-Collector,,REP,S. David Hunter,1510,23,1240,247
+Liberty,8 - BS 10,County Tax Assessor-Collector,,,Under Votes,208,10,166,32
+Liberty,8 - BS 10,County Tax Assessor-Collector,,,Over Votes,3,0,2,1
+Liberty,8 - BS 10,County Tax Assessor-Collector,,,Under Votes,377,13,289,75
+Liberty,8 - BS 10,County Tax Assessor-Collector,,,Over Votes,1,0,1,0
+Liberty,8 - BS 10,County Tax Assessor-Collector,,,Under Votes,406,14,322,70
+Liberty,8 - BS 10,County Tax Assessor-Collector,,,Over Votes,2,0,2,0
+Liberty,8 - BS 10,County Tax Assessor-Collector,,,Under Votes,494,17,388,89
+Liberty,8 - BS 10,County Tax Assessor-Collector,,,Over Votes,2,0,2,0
+Liberty,8 - BS 10,County Tax Assessor-Collector,,,Under Votes,401,16,313,72
+Liberty,8 - BS 10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,8 - BS 10,County Tax Assessor-Collector,,,Under Votes,92,4,71,17
+Liberty,8 - BS 10,County Tax Assessor-Collector,,,Over Votes,6,0,5,1
+Liberty,9 - BS 10,Registered Voters,,,,3040,,,
+Liberty,9 - BS 10,Ballots Cast,,,,2037,,,
+Liberty,9 - BS 10,President,,REP,Donald J. Trump,1828,22,1485,321
+Liberty,9 - BS 10,President,,DEM,Kamala D. Harris,191,10,142,39
+Liberty,9 - BS 10,President,,LIB,Chase Oliver,11,0,7,4
+Liberty,9 - BS 10,President,,GRN,Jill Stein,1,0,1,0
+Liberty,9 - BS 10,President,,,Under Votes,5,0,3,2
+Liberty,9 - BS 10,President,,,Over Votes,0,0,0,0
+Liberty,9 - BS 10,U.S. Senate,,REP,Ted Cruz,1769,21,1442,306
+Liberty,9 - BS 10,U.S. Senate,,DEM,Colin Allred,209,10,155,44
+Liberty,9 - BS 10,U.S. Senate,,LIB,Ted Brown,36,1,25,10
+Liberty,9 - BS 10,U.S. Senate,,,Under Votes,20,0,15,5
+Liberty,9 - BS 10,U.S. Senate,,,Over Votes,1,0,1,0
+Liberty,9 - BS 10,U.S. House,36,REP,Brian Babin,1803,23,1472,308
+Liberty,9 - BS 10,U.S. House,36,DEM,Dayna Steele,186,9,135,42
+Liberty,9 - BS 10,U.S. House,36,,Under Votes,46,0,30,16
+Liberty,9 - BS 10,U.S. House,36,,Over Votes,2,0,2,0
+Liberty,9 - BS 10,Railroad Commissioner,,REP,Christi Craddick,1733,23,1416,294
+Liberty,9 - BS 10,Railroad Commissioner,,DEM,Katherine Culbert,169,9,127,33
+Liberty,9 - BS 10,Railroad Commissioner,,LIB,Hawk Dunlap,67,0,50,17
+Liberty,9 - BS 10,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,3,3
+Liberty,9 - BS 10,Railroad Commissioner,,,Under Votes,58,0,41,17
+Liberty,9 - BS 10,Railroad Commissioner,,,Over Votes,1,0,0,1
+Liberty,9 - BS 10,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1790,24,1459,307
+Liberty,9 - BS 10,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,171,8,123,40
+Liberty,9 - BS 10,"Justice, Supreme Court, Place 2",2,,Under Votes,75,0,57,18
+Liberty,9 - BS 10,"Justice, Supreme Court, Place 2",2,,Over Votes,1,0,0,1
+Liberty,9 - BS 10,"Justice, Supreme Court, Place 4",4,REP,John Devine,1789,21,1457,311
+Liberty,9 - BS 10,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,184,11,135,38
+Liberty,9 - BS 10,"Justice, Supreme Court, Place 4",4,,Under Votes,64,0,47,17
+Liberty,9 - BS 10,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,9 - BS 10,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1748,21,1427,300
+Liberty,9 - BS 10,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,172,10,126,36
+Liberty,9 - BS 10,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,47,1,35,11
+Liberty,9 - BS 10,"Justice, Supreme Court, Place 6",6,,Under Votes,69,0,51,18
+Liberty,9 - BS 10,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,0,1
+Liberty,9 - BS 10,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1781,23,1449,309
+Liberty,9 - BS 10,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,183,9,136,38
+Liberty,9 - BS 10,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,73,0,54,19
+Liberty,9 - BS 10,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,9 - BS 10,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1781,24,1452,305
+Liberty,9 - BS 10,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,178,8,129,41
+Liberty,9 - BS 10,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,77,0,57,20
+Liberty,9 - BS 10,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,0,1,0
+Liberty,9 - BS 10,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1793,25,1456,312
+Liberty,9 - BS 10,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,163,7,122,34
+Liberty,9 - BS 10,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,81,0,61,20
+Liberty,9 - BS 10,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,9 - BS 10,State Representative,18,REP,Janis Holt,1778,26,1444,308
+Liberty,9 - BS 10,State Representative,18,LIB,Seth Steele,167,5,127,35
+Liberty,9 - BS 10,State Representative,18,,Under Votes,89,1,65,23
+Liberty,9 - BS 10,State Representative,18,,Over Votes,3,0,3,0
+Liberty,9 - BS 10,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,1758,27,1413,318
+Liberty,9 - BS 10,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,279,5,226,48
+Liberty,9 - BS 10,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,9 - BS 10,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,1757,27,1413,317
+Liberty,9 - BS 10,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,280,5,226,49
+Liberty,9 - BS 10,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,9 - BS 10,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,1768,26,1423,319
+Liberty,9 - BS 10,"District Attorney, 253rd Judicial District",,,Under Votes,269,6,216,47
+Liberty,9 - BS 10,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,9 - BS 10,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,1755,27,1410,318
+Liberty,9 - BS 10,"Judge, County Court-at-law No. 2",,,Under Votes,282,5,229,48
+Liberty,9 - BS 10,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,9 - BS 10,County Attorney,,REP,Matthew Poston,1747,27,1405,315
+Liberty,9 - BS 10,County Attorney,,,Under Votes,290,5,234,51
+Liberty,9 - BS 10,County Attorney,,,Over Votes,0,0,0,0
+Liberty,9 - BS 10,Sheriff,,REP,"Robert ""Bobby"" Rader",1740,28,1400,312
+Liberty,9 - BS 10,Sheriff,,,Under Votes,297,4,239,54
+Liberty,9 - BS 10,Sheriff,,,Over Votes,0,0,0,0
+Liberty,9 - BS 10,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",1720,28,1384,308
+Liberty,9 - BS 10,County Tax Assessor-Collector,,,Under Votes,317,4,255,58
+Liberty,9 - BS 10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,9 - BS 10,County Tax Assessor-Collector,,REP,S. David Hunter,1400,26,1130,244
+Liberty,9 - BS 10,County Tax Assessor-Collector,,,Under Votes,183,4,143,36
+Liberty,9 - BS 10,County Tax Assessor-Collector,,,Over Votes,1,0,1,0
+Liberty,9 - BS 10,County Tax Assessor-Collector,,,Under Votes,370,7,288,75
+Liberty,9 - BS 10,County Tax Assessor-Collector,,,Over Votes,1,0,1,0
+Liberty,9 - BS 10,County Tax Assessor-Collector,,,Under Votes,415,9,333,73
+Liberty,9 - BS 10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,9 - BS 10,County Tax Assessor-Collector,,,Under Votes,492,11,394,87
+Liberty,9 - BS 10,County Tax Assessor-Collector,,,Over Votes,1,0,1,0
+Liberty,9 - BS 10,County Tax Assessor-Collector,,,Under Votes,401,9,321,71
+Liberty,9 - BS 10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,9 - BS 10,County Tax Assessor-Collector,,,Under Votes,93,3,74,16
+Liberty,9 - BS 10,County Tax Assessor-Collector,,,Over Votes,4,0,3,1
+Liberty,25 - BS 10,Registered Voters,,,,1021,,,
+Liberty,25 - BS 10,Ballots Cast,,,,678,,,
+Liberty,25 - BS 10,President,,REP,Donald J. Trump,617,10,508,99
+Liberty,25 - BS 10,President,,DEM,Kamala D. Harris,54,1,42,11
+Liberty,25 - BS 10,President,,LIB,Chase Oliver,3,0,1,2
+Liberty,25 - BS 10,President,,GRN,Jill Stein,2,0,1,1
+Liberty,25 - BS 10,President,,,Under Votes,0,0,0,0
+Liberty,25 - BS 10,President,,,Over Votes,2,0,1,1
+Liberty,25 - BS 10,U.S. Senate,,REP,Ted Cruz,596,10,492,94
+Liberty,25 - BS 10,U.S. Senate,,DEM,Colin Allred,63,0,48,15
+Liberty,25 - BS 10,U.S. Senate,,LIB,Ted Brown,15,1,10,4
+Liberty,25 - BS 10,U.S. Senate,,,Under Votes,4,0,3,1
+Liberty,25 - BS 10,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,U.S. House,36,REP,Brian Babin,612,11,503,98
+Liberty,25 - BS 10,U.S. House,36,DEM,Dayna Steele,51,0,40,11
+Liberty,25 - BS 10,U.S. House,36,,Under Votes,15,0,10,5
+Liberty,25 - BS 10,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,Railroad Commissioner,,REP,Christi Craddick,577,10,478,89
+Liberty,25 - BS 10,Railroad Commissioner,,DEM,Katherine Culbert,46,0,38,8
+Liberty,25 - BS 10,Railroad Commissioner,,LIB,Hawk Dunlap,28,1,17,10
+Liberty,25 - BS 10,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,1,2
+Liberty,25 - BS 10,Railroad Commissioner,,,Under Votes,24,0,19,5
+Liberty,25 - BS 10,Railroad Commissioner,,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,607,10,498,99
+Liberty,25 - BS 10,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,47,0,37,10
+Liberty,25 - BS 10,"Justice, Supreme Court, Place 2",2,,Under Votes,24,1,18,5
+Liberty,25 - BS 10,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,"Justice, Supreme Court, Place 4",4,REP,John Devine,607,10,496,101
+Liberty,25 - BS 10,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,49,0,40,9
+Liberty,25 - BS 10,"Justice, Supreme Court, Place 4",4,,Under Votes,22,1,17,4
+Liberty,25 - BS 10,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,588,9,486,93
+Liberty,25 - BS 10,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,47,0,37,10
+Liberty,25 - BS 10,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,16,1,9,6
+Liberty,25 - BS 10,"Justice, Supreme Court, Place 6",6,,Under Votes,27,1,21,5
+Liberty,25 - BS 10,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,604,9,495,100
+Liberty,25 - BS 10,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,48,0,39,9
+Liberty,25 - BS 10,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,26,2,19,5
+Liberty,25 - BS 10,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,601,9,494,98
+Liberty,25 - BS 10,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,49,0,38,11
+Liberty,25 - BS 10,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,28,2,21,5
+Liberty,25 - BS 10,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,602,9,496,97
+Liberty,25 - BS 10,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,47,0,37,10
+Liberty,25 - BS 10,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,29,2,20,7
+Liberty,25 - BS 10,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,State Representative,18,REP,Janis Holt,589,9,484,96
+Liberty,25 - BS 10,State Representative,18,LIB,Seth Steele,57,1,46,10
+Liberty,25 - BS 10,State Representative,18,,Under Votes,32,1,23,8
+Liberty,25 - BS 10,State Representative,18,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,585,9,477,99
+Liberty,25 - BS 10,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,93,2,76,15
+Liberty,25 - BS 10,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,591,9,483,99
+Liberty,25 - BS 10,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,87,2,70,15
+Liberty,25 - BS 10,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,592,9,486,97
+Liberty,25 - BS 10,"District Attorney, 253rd Judicial District",,,Under Votes,86,2,67,17
+Liberty,25 - BS 10,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,586,9,479,98
+Liberty,25 - BS 10,"Judge, County Court-at-law No. 2",,,Under Votes,92,2,74,16
+Liberty,25 - BS 10,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,County Attorney,,REP,Matthew Poston,585,9,477,99
+Liberty,25 - BS 10,County Attorney,,,Under Votes,93,2,76,15
+Liberty,25 - BS 10,County Attorney,,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,Sheriff,,REP,"Robert ""Bobby"" Rader",580,11,469,100
+Liberty,25 - BS 10,Sheriff,,,Under Votes,98,0,84,14
+Liberty,25 - BS 10,Sheriff,,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",578,10,469,99
+Liberty,25 - BS 10,County Tax Assessor-Collector,,,Under Votes,100,1,84,15
+Liberty,25 - BS 10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,County Tax Assessor-Collector,,REP,S. David Hunter,512,11,417,84
+Liberty,25 - BS 10,County Tax Assessor-Collector,,,Under Votes,72,0,57,15
+Liberty,25 - BS 10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,County Tax Assessor-Collector,,,Under Votes,165,2,125,38
+Liberty,25 - BS 10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,County Tax Assessor-Collector,,,Under Votes,181,2,138,41
+Liberty,25 - BS 10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,County Tax Assessor-Collector,,,Under Votes,197,4,147,46
+Liberty,25 - BS 10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,County Tax Assessor-Collector,,,Under Votes,166,2,121,43
+Liberty,25 - BS 10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,25 - BS 10,County Tax Assessor-Collector,,,Under Votes,37,1,28,8
+Liberty,25 - BS 10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,6 - BS 15,Registered Voters,,,,1019,,,
+Liberty,6 - BS 15,Ballots Cast,,,,652,,,
+Liberty,6 - BS 15,President,,REP,Donald J. Trump,595,12,450,133
+Liberty,6 - BS 15,President,,DEM,Kamala D. Harris,53,0,46,7
+Liberty,6 - BS 15,President,,LIB,Chase Oliver,3,0,0,3
+Liberty,6 - BS 15,President,,GRN,Jill Stein,0,0,0,0
+Liberty,6 - BS 15,President,,,Under Votes,0,0,0,0
+Liberty,6 - BS 15,President,,,Over Votes,1,1,0,0
+Liberty,6 - BS 15,U.S. Senate,,REP,Ted Cruz,577,10,439,128
+Liberty,6 - BS 15,U.S. Senate,,DEM,Colin Allred,64,2,53,9
+Liberty,6 - BS 15,U.S. Senate,,LIB,Ted Brown,7,0,3,4
+Liberty,6 - BS 15,U.S. Senate,,,Under Votes,4,1,1,2
+Liberty,6 - BS 15,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,6 - BS 15,U.S. House,36,REP,Brian Babin,592,12,447,133
+Liberty,6 - BS 15,U.S. House,36,DEM,Dayna Steele,49,1,42,6
+Liberty,6 - BS 15,U.S. House,36,,Under Votes,11,0,7,4
+Liberty,6 - BS 15,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,6 - BS 15,Railroad Commissioner,,REP,Christi Craddick,569,12,434,123
+Liberty,6 - BS 15,Railroad Commissioner,,DEM,Katherine Culbert,48,1,38,9
+Liberty,6 - BS 15,Railroad Commissioner,,LIB,Hawk Dunlap,14,0,9,5
+Liberty,6 - BS 15,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Liberty,6 - BS 15,Railroad Commissioner,,,Under Votes,20,0,14,6
+Liberty,6 - BS 15,Railroad Commissioner,,,Over Votes,0,0,0,0
+Liberty,6 - BS 15,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,583,11,440,132
+Liberty,6 - BS 15,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,44,1,38,5
+Liberty,6 - BS 15,"Justice, Supreme Court, Place 2",2,,Under Votes,25,1,18,6
+Liberty,6 - BS 15,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,6 - BS 15,"Justice, Supreme Court, Place 4",4,REP,John Devine,581,11,441,129
+Liberty,6 - BS 15,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,49,1,41,7
+Liberty,6 - BS 15,"Justice, Supreme Court, Place 4",4,,Under Votes,22,1,14,7
+Liberty,6 - BS 15,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,6 - BS 15,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,576,12,438,126
+Liberty,6 - BS 15,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,45,1,38,6
+Liberty,6 - BS 15,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,9,0,5,4
+Liberty,6 - BS 15,"Justice, Supreme Court, Place 6",6,,Under Votes,22,0,15,7
+Liberty,6 - BS 15,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Liberty,6 - BS 15,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,582,12,441,129
+Liberty,6 - BS 15,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,47,1,40,6
+Liberty,6 - BS 15,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,23,0,15,8
+Liberty,6 - BS 15,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,6 - BS 15,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,585,12,444,129
+Liberty,6 - BS 15,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,42,1,36,5
+Liberty,6 - BS 15,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,25,0,16,9
+Liberty,6 - BS 15,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,6 - BS 15,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,586,12,444,130
+Liberty,6 - BS 15,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,41,1,36,4
+Liberty,6 - BS 15,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,25,0,16,9
+Liberty,6 - BS 15,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,6 - BS 15,State Representative,18,REP,Janis Holt,587,12,448,127
+Liberty,6 - BS 15,State Representative,18,LIB,Seth Steele,35,1,28,6
+Liberty,6 - BS 15,State Representative,18,,Under Votes,29,0,19,10
+Liberty,6 - BS 15,State Representative,18,,Over Votes,1,0,1,0
+Liberty,6 - BS 15,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,592,12,448,132
+Liberty,6 - BS 15,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,60,1,48,11
+Liberty,6 - BS 15,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,6 - BS 15,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,591,12,449,130
+Liberty,6 - BS 15,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,61,1,47,13
+Liberty,6 - BS 15,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,6 - BS 15,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,587,12,444,131
+Liberty,6 - BS 15,"District Attorney, 253rd Judicial District",,,Under Votes,65,1,52,12
+Liberty,6 - BS 15,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,6 - BS 15,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,595,12,452,131
+Liberty,6 - BS 15,"Judge, County Court-at-law No. 2",,,Under Votes,57,1,44,12
+Liberty,6 - BS 15,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,6 - BS 15,County Attorney,,REP,Matthew Poston,585,12,447,126
+Liberty,6 - BS 15,County Attorney,,,Under Votes,67,1,49,17
+Liberty,6 - BS 15,County Attorney,,,Over Votes,0,0,0,0
+Liberty,6 - BS 15,Sheriff,,REP,"Robert ""Bobby"" Rader",598,12,455,131
+Liberty,6 - BS 15,Sheriff,,,Under Votes,54,1,41,12
+Liberty,6 - BS 15,Sheriff,,,Over Votes,0,0,0,0
+Liberty,6 - BS 15,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",585,12,445,128
+Liberty,6 - BS 15,County Tax Assessor-Collector,,,Under Votes,67,1,51,15
+Liberty,6 - BS 15,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,6 - BS 15,"County Commissioner, Precinct 1",,REP,Bruce Karbowski,583,10,445,128
+Liberty,6 - BS 15,"County Commissioner, Precinct 1",,,Under Votes,69,3,51,15
+Liberty,6 - BS 15,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,6 - BS 15,"County Commissioner, Precinct 1",,REP,Tammy Bishop,612,11,465,136
+Liberty,6 - BS 15,"County Commissioner, Precinct 1",,,Under Votes,40,2,31,7
+Liberty,6 - BS 15,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,18 - BS 15,Registered Voters,,,,1371,,,
+Liberty,18 - BS 15,Ballots Cast,,,,700,,,
+Liberty,18 - BS 15,President,,REP,Donald J. Trump,286,5,229,52
+Liberty,18 - BS 15,President,,DEM,Kamala D. Harris,412,28,280,104
+Liberty,18 - BS 15,President,,LIB,Chase Oliver,0,0,0,0
+Liberty,18 - BS 15,President,,GRN,Jill Stein,0,0,0,0
+Liberty,18 - BS 15,President,,,Under Votes,1,0,1,0
+Liberty,18 - BS 15,President,,,Over Votes,0,0,0,0
+Liberty,18 - BS 15,U.S. Senate,,REP,Ted Cruz,262,5,216,41
+Liberty,18 - BS 15,U.S. Senate,,DEM,Colin Allred,419,27,285,107
+Liberty,18 - BS 15,U.S. Senate,,LIB,Ted Brown,10,0,7,3
+Liberty,18 - BS 15,U.S. Senate,,,Under Votes,9,1,3,5
+Liberty,18 - BS 15,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,18 - BS 15,U.S. House,36,REP,Brian Babin,286,4,233,49
+Liberty,18 - BS 15,U.S. House,36,DEM,Dayna Steele,396,28,266,102
+Liberty,18 - BS 15,U.S. House,36,,Under Votes,18,1,12,5
+Liberty,18 - BS 15,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,18 - BS 15,Railroad Commissioner,,REP,Christi Craddick,257,3,209,45
+Liberty,18 - BS 15,Railroad Commissioner,,DEM,Katherine Culbert,380,28,255,97
+Liberty,18 - BS 15,Railroad Commissioner,,LIB,Hawk Dunlap,13,0,10,3
+Liberty,18 - BS 15,Railroad Commissioner,,GRN,Eddie Espinoza,17,0,11,6
+Liberty,18 - BS 15,Railroad Commissioner,,,Under Votes,30,2,23,5
+Liberty,18 - BS 15,Railroad Commissioner,,,Over Votes,3,0,3,0
+Liberty,18 - BS 15,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,270,4,219,47
+Liberty,18 - BS 15,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,397,28,268,101
+Liberty,18 - BS 15,"Justice, Supreme Court, Place 2",2,,Under Votes,33,1,24,8
+Liberty,18 - BS 15,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,18 - BS 15,"Justice, Supreme Court, Place 4",4,REP,John Devine,265,3,218,44
+Liberty,18 - BS 15,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,399,28,267,104
+Liberty,18 - BS 15,"Justice, Supreme Court, Place 4",4,,Under Votes,36,2,26,8
+Liberty,18 - BS 15,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,18 - BS 15,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,255,3,207,45
+Liberty,18 - BS 15,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,392,28,262,102
+Liberty,18 - BS 15,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,17,1,13,3
+Liberty,18 - BS 15,"Justice, Supreme Court, Place 6",6,,Under Votes,36,1,29,6
+Liberty,18 - BS 15,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Liberty,18 - BS 15,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,264,5,212,47
+Liberty,18 - BS 15,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,403,27,272,104
+Liberty,18 - BS 15,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,33,1,27,5
+Liberty,18 - BS 15,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,18 - BS 15,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,275,3,222,50
+Liberty,18 - BS 15,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,389,28,264,97
+Liberty,18 - BS 15,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,36,2,25,9
+Liberty,18 - BS 15,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,18 - BS 15,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,270,3,221,46
+Liberty,18 - BS 15,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,389,29,262,98
+Liberty,18 - BS 15,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,41,1,28,12
+Liberty,18 - BS 15,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,18 - BS 15,State Representative,18,REP,Janis Holt,315,6,248,61
+Liberty,18 - BS 15,State Representative,18,LIB,Seth Steele,242,12,173,57
+Liberty,18 - BS 15,State Representative,18,,Under Votes,142,15,89,38
+Liberty,18 - BS 15,State Representative,18,,Over Votes,1,0,1,0
+Liberty,18 - BS 15,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,411,11,312,88
+Liberty,18 - BS 15,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,289,22,199,68
+Liberty,18 - BS 15,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,18 - BS 15,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,405,11,307,87
+Liberty,18 - BS 15,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,295,22,204,69
+Liberty,18 - BS 15,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,18 - BS 15,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,413,13,311,89
+Liberty,18 - BS 15,"District Attorney, 253rd Judicial District",,,Under Votes,287,20,200,67
+Liberty,18 - BS 15,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,18 - BS 15,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,431,12,324,95
+Liberty,18 - BS 15,"Judge, County Court-at-law No. 2",,,Under Votes,269,21,187,61
+Liberty,18 - BS 15,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,18 - BS 15,County Attorney,,REP,Matthew Poston,417,14,315,88
+Liberty,18 - BS 15,County Attorney,,,Under Votes,283,19,196,68
+Liberty,18 - BS 15,County Attorney,,,Over Votes,0,0,0,0
+Liberty,18 - BS 15,Sheriff,,REP,"Robert ""Bobby"" Rader",459,18,342,99
+Liberty,18 - BS 15,Sheriff,,,Under Votes,241,15,169,57
+Liberty,18 - BS 15,Sheriff,,,Over Votes,0,0,0,0
+Liberty,18 - BS 15,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",434,17,323,94
+Liberty,18 - BS 15,County Tax Assessor-Collector,,,Under Votes,266,16,188,62
+Liberty,18 - BS 15,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,18 - BS 15,"County Commissioner, Precinct 1",,REP,Bruce Karbowski,415,12,317,86
+Liberty,18 - BS 15,"County Commissioner, Precinct 1",,,Under Votes,285,21,194,70
+Liberty,18 - BS 15,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,18 - BS 15,"County Commissioner, Precinct 1",,REP,Tammy Bishop,452,13,341,98
+Liberty,18 - BS 15,"County Commissioner, Precinct 1",,,Under Votes,248,20,170,58
+Liberty,18 - BS 15,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,19 - BS 15,Registered Voters,,,,4157,,,
+Liberty,19 - BS 15,Ballots Cast,,,,2473,,,
+Liberty,19 - BS 15,President,,REP,Donald J. Trump,1936,35,1618,283
+Liberty,19 - BS 15,President,,DEM,Kamala D. Harris,514,34,385,95
+Liberty,19 - BS 15,President,,LIB,Chase Oliver,9,0,5,4
+Liberty,19 - BS 15,President,,GRN,Jill Stein,6,0,6,0
+Liberty,19 - BS 15,President,,,Under Votes,5,0,5,0
+Liberty,19 - BS 15,President,,,Over Votes,1,1,0,0
+Liberty,19 - BS 15,U.S. Senate,,REP,Ted Cruz,1870,37,1563,270
+Liberty,19 - BS 15,U.S. Senate,,DEM,Colin Allred,531,31,401,99
+Liberty,19 - BS 15,U.S. Senate,,LIB,Ted Brown,41,1,32,8
+Liberty,19 - BS 15,U.S. Senate,,,Under Votes,28,1,22,5
+Liberty,19 - BS 15,U.S. Senate,,,Over Votes,1,0,1,0
+Liberty,19 - BS 15,U.S. House,36,REP,Brian Babin,1940,38,1622,280
+Liberty,19 - BS 15,U.S. House,36,DEM,Dayna Steele,473,32,356,85
+Liberty,19 - BS 15,U.S. House,36,,Under Votes,60,0,43,17
+Liberty,19 - BS 15,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,19 - BS 15,Railroad Commissioner,,REP,Christi Craddick,1833,39,1538,256
+Liberty,19 - BS 15,Railroad Commissioner,,DEM,Katherine Culbert,438,28,330,80
+Liberty,19 - BS 15,Railroad Commissioner,,LIB,Hawk Dunlap,77,2,63,12
+Liberty,19 - BS 15,Railroad Commissioner,,GRN,Eddie Espinoza,32,1,17,14
+Liberty,19 - BS 15,Railroad Commissioner,,,Under Votes,91,0,71,20
+Liberty,19 - BS 15,Railroad Commissioner,,,Over Votes,2,0,2,0
+Liberty,19 - BS 15,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1900,40,1586,274
+Liberty,19 - BS 15,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,452,29,341,82
+Liberty,19 - BS 15,"Justice, Supreme Court, Place 2",2,,Under Votes,120,1,93,26
+Liberty,19 - BS 15,"Justice, Supreme Court, Place 2",2,,Over Votes,1,0,1,0
+Liberty,19 - BS 15,"Justice, Supreme Court, Place 4",4,REP,John Devine,1886,39,1583,264
+Liberty,19 - BS 15,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,486,29,359,98
+Liberty,19 - BS 15,"Justice, Supreme Court, Place 4",4,,Under Votes,101,2,79,20
+Liberty,19 - BS 15,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,19 - BS 15,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1872,40,1573,259
+Liberty,19 - BS 15,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,448,27,335,86
+Liberty,19 - BS 15,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,43,1,27,15
+Liberty,19 - BS 15,"Justice, Supreme Court, Place 6",6,,Under Votes,110,2,86,22
+Liberty,19 - BS 15,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Liberty,19 - BS 15,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1893,38,1588,267
+Liberty,19 - BS 15,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,462,29,341,92
+Liberty,19 - BS 15,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,117,2,92,23
+Liberty,19 - BS 15,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,1,0,0
+Liberty,19 - BS 15,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1887,41,1574,272
+Liberty,19 - BS 15,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,456,26,345,85
+Liberty,19 - BS 15,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,130,3,102,25
+Liberty,19 - BS 15,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,19 - BS 15,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1888,41,1576,271
+Liberty,19 - BS 15,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,454,27,341,86
+Liberty,19 - BS 15,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,130,2,103,25
+Liberty,19 - BS 15,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,0,1,0
+Liberty,19 - BS 15,State Representative,18,REP,Janis Holt,1922,41,1610,271
+Liberty,19 - BS 15,State Representative,18,LIB,Seth Steele,335,13,247,75
+Liberty,19 - BS 15,State Representative,18,,Under Votes,215,16,163,36
+Liberty,19 - BS 15,State Representative,18,,Over Votes,1,0,1,0
+Liberty,19 - BS 15,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,1959,44,1618,297
+Liberty,19 - BS 15,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,514,26,403,85
+Liberty,19 - BS 15,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,19 - BS 15,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,1951,41,1613,297
+Liberty,19 - BS 15,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,522,29,408,85
+Liberty,19 - BS 15,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,19 - BS 15,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,1956,45,1614,297
+Liberty,19 - BS 15,"District Attorney, 253rd Judicial District",,,Under Votes,517,25,407,85
+Liberty,19 - BS 15,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,19 - BS 15,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,2015,46,1665,304
+Liberty,19 - BS 15,"Judge, County Court-at-law No. 2",,,Under Votes,458,24,356,78
+Liberty,19 - BS 15,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,19 - BS 15,County Attorney,,REP,Matthew Poston,1990,46,1641,303
+Liberty,19 - BS 15,County Attorney,,,Under Votes,483,24,380,79
+Liberty,19 - BS 15,County Attorney,,,Over Votes,0,0,0,0
+Liberty,19 - BS 15,Sheriff,,REP,"Robert ""Bobby"" Rader",2070,49,1710,311
+Liberty,19 - BS 15,Sheriff,,,Under Votes,403,21,311,71
+Liberty,19 - BS 15,Sheriff,,,Over Votes,0,0,0,0
+Liberty,19 - BS 15,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",1941,44,1601,296
+Liberty,19 - BS 15,County Tax Assessor-Collector,,,Under Votes,532,26,420,86
+Liberty,19 - BS 15,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,19 - BS 15,"County Commissioner, Precinct 1",,REP,Bruce Karbowski,1928,44,1582,302
+Liberty,19 - BS 15,"County Commissioner, Precinct 1",,,Under Votes,545,26,439,80
+Liberty,19 - BS 15,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,19 - BS 15,"County Commissioner, Precinct 1",,REP,Tammy Bishop,2039,42,1687,310
+Liberty,19 - BS 15,"County Commissioner, Precinct 1",,,Under Votes,434,28,334,72
+Liberty,19 - BS 15,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,Registered Voters,,,,570,,,
+Liberty,4 - BS 16,Ballots Cast,,,,371,,,
+Liberty,4 - BS 16,President,,REP,Donald J. Trump,325,5,180,140
+Liberty,4 - BS 16,President,,DEM,Kamala D. Harris,45,1,22,22
+Liberty,4 - BS 16,President,,LIB,Chase Oliver,1,0,0,1
+Liberty,4 - BS 16,President,,GRN,Jill Stein,0,0,0,0
+Liberty,4 - BS 16,President,,,Under Votes,0,0,0,0
+Liberty,4 - BS 16,President,,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,U.S. Senate,,REP,Ted Cruz,307,5,173,129
+Liberty,4 - BS 16,U.S. Senate,,DEM,Colin Allred,57,1,27,29
+Liberty,4 - BS 16,U.S. Senate,,LIB,Ted Brown,3,0,0,3
+Liberty,4 - BS 16,U.S. Senate,,,Under Votes,4,0,2,2
+Liberty,4 - BS 16,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,U.S. House,36,REP,Brian Babin,321,5,178,138
+Liberty,4 - BS 16,U.S. House,36,DEM,Dayna Steele,40,1,21,18
+Liberty,4 - BS 16,U.S. House,36,,Under Votes,10,0,3,7
+Liberty,4 - BS 16,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,Railroad Commissioner,,REP,Christi Craddick,296,5,163,128
+Liberty,4 - BS 16,Railroad Commissioner,,DEM,Katherine Culbert,37,1,20,16
+Liberty,4 - BS 16,Railroad Commissioner,,LIB,Hawk Dunlap,15,0,8,7
+Liberty,4 - BS 16,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+Liberty,4 - BS 16,Railroad Commissioner,,,Under Votes,19,0,9,10
+Liberty,4 - BS 16,Railroad Commissioner,,,Over Votes,2,0,2,0
+Liberty,4 - BS 16,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,311,5,172,134
+Liberty,4 - BS 16,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,35,1,19,15
+Liberty,4 - BS 16,"Justice, Supreme Court, Place 2",2,,Under Votes,25,0,11,14
+Liberty,4 - BS 16,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,"Justice, Supreme Court, Place 4",4,REP,John Devine,309,5,170,134
+Liberty,4 - BS 16,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,36,1,19,16
+Liberty,4 - BS 16,"Justice, Supreme Court, Place 4",4,,Under Votes,26,0,13,13
+Liberty,4 - BS 16,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,302,5,166,131
+Liberty,4 - BS 16,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,39,1,20,18
+Liberty,4 - BS 16,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,3,0,1,2
+Liberty,4 - BS 16,"Justice, Supreme Court, Place 6",6,,Under Votes,27,0,15,12
+Liberty,4 - BS 16,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,303,5,168,130
+Liberty,4 - BS 16,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,39,1,19,19
+Liberty,4 - BS 16,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,29,0,15,14
+Liberty,4 - BS 16,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,304,5,168,131
+Liberty,4 - BS 16,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,40,1,19,20
+Liberty,4 - BS 16,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,27,0,15,12
+Liberty,4 - BS 16,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,308,5,168,135
+Liberty,4 - BS 16,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,36,1,19,16
+Liberty,4 - BS 16,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,27,0,15,12
+Liberty,4 - BS 16,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,State Representative,18,REP,Janis Holt,320,5,178,137
+Liberty,4 - BS 16,State Representative,18,LIB,Seth Steele,28,1,11,16
+Liberty,4 - BS 16,State Representative,18,,Under Votes,23,0,13,10
+Liberty,4 - BS 16,State Representative,18,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,302,5,164,133
+Liberty,4 - BS 16,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,69,1,38,30
+Liberty,4 - BS 16,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,301,5,164,132
+Liberty,4 - BS 16,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,70,1,38,31
+Liberty,4 - BS 16,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,304,5,163,136
+Liberty,4 - BS 16,"District Attorney, 253rd Judicial District",,,Under Votes,67,1,39,27
+Liberty,4 - BS 16,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,306,5,169,132
+Liberty,4 - BS 16,"Judge, County Court-at-law No. 2",,,Under Votes,65,1,33,31
+Liberty,4 - BS 16,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,County Attorney,,REP,Matthew Poston,306,5,165,136
+Liberty,4 - BS 16,County Attorney,,,Under Votes,65,1,37,27
+Liberty,4 - BS 16,County Attorney,,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,Sheriff,,REP,"Robert ""Bobby"" Rader",310,5,170,135
+Liberty,4 - BS 16,Sheriff,,,Under Votes,61,1,32,28
+Liberty,4 - BS 16,Sheriff,,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",305,5,163,137
+Liberty,4 - BS 16,County Tax Assessor-Collector,,,Under Votes,66,1,39,26
+Liberty,4 - BS 16,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,"County Commissioner, Precinct 1",,REP,Bruce Karbowski,290,5,159,126
+Liberty,4 - BS 16,"County Commissioner, Precinct 1",,,Under Votes,81,1,43,37
+Liberty,4 - BS 16,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,4 - BS 16,"County Commissioner, Precinct 1",,REP,John Tucker,296,5,158,133
+Liberty,4 - BS 16,"County Commissioner, Precinct 1",,,Under Votes,75,1,44,30
+Liberty,4 - BS 16,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,11 - BS 16,Registered Voters,,,,842,,,
+Liberty,11 - BS 16,Ballots Cast,,,,528,,,
+Liberty,11 - BS 16,President,,REP,Donald J. Trump,342,6,254,82
+Liberty,11 - BS 16,President,,DEM,Kamala D. Harris,185,11,103,71
+Liberty,11 - BS 16,President,,LIB,Chase Oliver,0,0,0,0
+Liberty,11 - BS 16,President,,GRN,Jill Stein,0,0,0,0
+Liberty,11 - BS 16,President,,,Under Votes,1,0,0,1
+Liberty,11 - BS 16,President,,,Over Votes,0,0,0,0
+Liberty,11 - BS 16,U.S. Senate,,REP,Ted Cruz,322,6,244,72
+Liberty,11 - BS 16,U.S. Senate,,DEM,Colin Allred,194,11,110,73
+Liberty,11 - BS 16,U.S. Senate,,LIB,Ted Brown,5,0,3,2
+Liberty,11 - BS 16,U.S. Senate,,,Under Votes,7,0,0,7
+Liberty,11 - BS 16,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,11 - BS 16,U.S. House,36,REP,Brian Babin,346,5,260,81
+Liberty,11 - BS 16,U.S. House,36,DEM,Dayna Steele,163,11,91,61
+Liberty,11 - BS 16,U.S. House,36,,Under Votes,19,1,6,12
+Liberty,11 - BS 16,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,11 - BS 16,Railroad Commissioner,,REP,Christi Craddick,320,5,235,80
+Liberty,11 - BS 16,Railroad Commissioner,,DEM,Katherine Culbert,161,11,97,53
+Liberty,11 - BS 16,Railroad Commissioner,,LIB,Hawk Dunlap,15,0,13,2
+Liberty,11 - BS 16,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,1,4
+Liberty,11 - BS 16,Railroad Commissioner,,,Under Votes,27,1,11,15
+Liberty,11 - BS 16,Railroad Commissioner,,,Over Votes,0,0,0,0
+Liberty,11 - BS 16,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,329,6,245,78
+Liberty,11 - BS 16,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,168,11,98,59
+Liberty,11 - BS 16,"Justice, Supreme Court, Place 2",2,,Under Votes,31,0,14,17
+Liberty,11 - BS 16,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,11 - BS 16,"Justice, Supreme Court, Place 4",4,REP,John Devine,329,5,247,77
+Liberty,11 - BS 16,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,169,11,97,61
+Liberty,11 - BS 16,"Justice, Supreme Court, Place 4",4,,Under Votes,30,1,13,16
+Liberty,11 - BS 16,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,11 - BS 16,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,327,5,243,79
+Liberty,11 - BS 16,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,165,11,95,59
+Liberty,11 - BS 16,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,9,0,7,2
+Liberty,11 - BS 16,"Justice, Supreme Court, Place 6",6,,Under Votes,26,1,11,14
+Liberty,11 - BS 16,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Liberty,11 - BS 16,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,330,5,247,78
+Liberty,11 - BS 16,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,169,11,95,63
+Liberty,11 - BS 16,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,29,1,15,13
+Liberty,11 - BS 16,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,11 - BS 16,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,331,5,247,79
+Liberty,11 - BS 16,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,162,11,94,57
+Liberty,11 - BS 16,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,34,1,15,18
+Liberty,11 - BS 16,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,0,1,0
+Liberty,11 - BS 16,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,337,5,250,82
+Liberty,11 - BS 16,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,160,11,93,56
+Liberty,11 - BS 16,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,31,1,14,16
+Liberty,11 - BS 16,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,11 - BS 16,State Representative,18,REP,Janis Holt,359,5,263,91
+Liberty,11 - BS 16,State Representative,18,LIB,Seth Steele,95,6,61,28
+Liberty,11 - BS 16,State Representative,18,,Under Votes,74,6,33,35
+Liberty,11 - BS 16,State Representative,18,,Over Votes,0,0,0,0
+Liberty,11 - BS 16,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,379,9,277,93
+Liberty,11 - BS 16,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,149,8,80,61
+Liberty,11 - BS 16,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,11 - BS 16,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,379,9,279,91
+Liberty,11 - BS 16,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,149,8,78,63
+Liberty,11 - BS 16,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,11 - BS 16,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,380,10,276,94
+Liberty,11 - BS 16,"District Attorney, 253rd Judicial District",,,Under Votes,148,7,81,60
+Liberty,11 - BS 16,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,11 - BS 16,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,387,9,284,94
+Liberty,11 - BS 16,"Judge, County Court-at-law No. 2",,,Under Votes,141,8,73,60
+Liberty,11 - BS 16,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,11 - BS 16,County Attorney,,REP,Matthew Poston,384,11,280,93
+Liberty,11 - BS 16,County Attorney,,,Under Votes,144,6,77,61
+Liberty,11 - BS 16,County Attorney,,,Over Votes,0,0,0,0
+Liberty,11 - BS 16,Sheriff,,REP,"Robert ""Bobby"" Rader",408,13,295,100
+Liberty,11 - BS 16,Sheriff,,,Under Votes,120,4,62,54
+Liberty,11 - BS 16,Sheriff,,,Over Votes,0,0,0,0
+Liberty,11 - BS 16,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",390,11,283,96
+Liberty,11 - BS 16,County Tax Assessor-Collector,,,Under Votes,138,6,74,58
+Liberty,11 - BS 16,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,11 - BS 16,"County Commissioner, Precinct 1",,REP,Bruce Karbowski,386,11,281,94
+Liberty,11 - BS 16,"County Commissioner, Precinct 1",,,Under Votes,142,6,76,60
+Liberty,11 - BS 16,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,11 - BS 16,"County Commissioner, Precinct 1",,REP,John Tucker,380,8,278,94
+Liberty,11 - BS 16,"County Commissioner, Precinct 1",,,Under Votes,148,9,79,60
+Liberty,11 - BS 16,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,13 - BS 16,Registered Voters,,,,1025,,,
+Liberty,13 - BS 16,Ballots Cast,,,,603,,,
+Liberty,13 - BS 16,President,,REP,Donald J. Trump,551,3,366,182
+Liberty,13 - BS 16,President,,DEM,Kamala D. Harris,45,1,29,15
+Liberty,13 - BS 16,President,,LIB,Chase Oliver,2,0,2,0
+Liberty,13 - BS 16,President,,GRN,Jill Stein,0,0,0,0
+Liberty,13 - BS 16,President,,,Under Votes,5,0,3,2
+Liberty,13 - BS 16,President,,,Over Votes,0,0,0,0
+Liberty,13 - BS 16,U.S. Senate,,REP,Ted Cruz,533,3,363,167
+Liberty,13 - BS 16,U.S. Senate,,DEM,Colin Allred,55,1,31,23
+Liberty,13 - BS 16,U.S. Senate,,LIB,Ted Brown,7,0,2,5
+Liberty,13 - BS 16,U.S. Senate,,,Under Votes,8,0,4,4
+Liberty,13 - BS 16,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,13 - BS 16,U.S. House,36,REP,Brian Babin,544,4,364,176
+Liberty,13 - BS 16,U.S. House,36,DEM,Dayna Steele,46,0,27,19
+Liberty,13 - BS 16,U.S. House,36,,Under Votes,13,0,9,4
+Liberty,13 - BS 16,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,13 - BS 16,Railroad Commissioner,,REP,Christi Craddick,519,4,347,168
+Liberty,13 - BS 16,Railroad Commissioner,,DEM,Katherine Culbert,39,0,22,17
+Liberty,13 - BS 16,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,12,5
+Liberty,13 - BS 16,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,3,3
+Liberty,13 - BS 16,Railroad Commissioner,,,Under Votes,22,0,16,6
+Liberty,13 - BS 16,Railroad Commissioner,,,Over Votes,0,0,0,0
+Liberty,13 - BS 16,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,537,4,357,176
+Liberty,13 - BS 16,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,45,0,28,17
+Liberty,13 - BS 16,"Justice, Supreme Court, Place 2",2,,Under Votes,21,0,15,6
+Liberty,13 - BS 16,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,13 - BS 16,"Justice, Supreme Court, Place 4",4,REP,John Devine,534,4,357,173
+Liberty,13 - BS 16,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,46,0,26,20
+Liberty,13 - BS 16,"Justice, Supreme Court, Place 4",4,,Under Votes,23,0,17,6
+Liberty,13 - BS 16,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,13 - BS 16,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,522,3,350,169
+Liberty,13 - BS 16,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,46,1,27,18
+Liberty,13 - BS 16,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,10,0,4,6
+Liberty,13 - BS 16,"Justice, Supreme Court, Place 6",6,,Under Votes,24,0,18,6
+Liberty,13 - BS 16,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Liberty,13 - BS 16,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,535,3,357,175
+Liberty,13 - BS 16,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,45,1,26,18
+Liberty,13 - BS 16,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,23,0,17,6
+Liberty,13 - BS 16,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,13 - BS 16,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,530,4,354,172
+Liberty,13 - BS 16,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,44,0,25,19
+Liberty,13 - BS 16,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,28,0,20,8
+Liberty,13 - BS 16,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,0,1,0
+Liberty,13 - BS 16,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,537,4,357,176
+Liberty,13 - BS 16,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,39,0,24,15
+Liberty,13 - BS 16,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,27,0,19,8
+Liberty,13 - BS 16,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,13 - BS 16,State Representative,18,REP,Janis Holt,535,4,359,172
+Liberty,13 - BS 16,State Representative,18,LIB,Seth Steele,38,0,21,17
+Liberty,13 - BS 16,State Representative,18,,Under Votes,29,0,19,10
+Liberty,13 - BS 16,State Representative,18,,Over Votes,1,0,1,0
+Liberty,13 - BS 16,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,524,4,348,172
+Liberty,13 - BS 16,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,79,0,52,27
+Liberty,13 - BS 16,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,13 - BS 16,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,527,4,349,174
+Liberty,13 - BS 16,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,76,0,51,25
+Liberty,13 - BS 16,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,13 - BS 16,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,513,4,339,170
+Liberty,13 - BS 16,"District Attorney, 253rd Judicial District",,,Under Votes,90,0,61,29
+Liberty,13 - BS 16,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,13 - BS 16,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,524,4,346,174
+Liberty,13 - BS 16,"Judge, County Court-at-law No. 2",,,Under Votes,79,0,54,25
+Liberty,13 - BS 16,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,13 - BS 16,County Attorney,,REP,Matthew Poston,514,4,342,168
+Liberty,13 - BS 16,County Attorney,,,Under Votes,89,0,58,31
+Liberty,13 - BS 16,County Attorney,,,Over Votes,0,0,0,0
+Liberty,13 - BS 16,Sheriff,,REP,"Robert ""Bobby"" Rader",524,4,348,172
+Liberty,13 - BS 16,Sheriff,,,Under Votes,79,0,52,27
+Liberty,13 - BS 16,Sheriff,,,Over Votes,0,0,0,0
+Liberty,13 - BS 16,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",509,4,338,167
+Liberty,13 - BS 16,County Tax Assessor-Collector,,,Under Votes,94,0,62,32
+Liberty,13 - BS 16,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,13 - BS 16,"County Commissioner, Precinct 1",,REP,Bruce Karbowski,502,4,334,164
+Liberty,13 - BS 16,"County Commissioner, Precinct 1",,,Under Votes,101,0,66,35
+Liberty,13 - BS 16,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,13 - BS 16,"County Commissioner, Precinct 1",,REP,John Tucker,509,4,336,169
+Liberty,13 - BS 16,"County Commissioner, Precinct 1",,,Under Votes,94,0,64,30
+Liberty,13 - BS 16,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,Registered Voters,,,,0,,,
+Liberty,19 - BS 16,Ballots Cast,,,,0,,,
+Liberty,19 - BS 16,President,,REP,Donald J. Trump,0,0,0,0
+Liberty,19 - BS 16,President,,DEM,Kamala D. Harris,0,0,0,0
+Liberty,19 - BS 16,President,,LIB,Chase Oliver,0,0,0,0
+Liberty,19 - BS 16,President,,GRN,Jill Stein,0,0,0,0
+Liberty,19 - BS 16,President,,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,President,,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,U.S. Senate,,REP,Ted Cruz,0,0,0,0
+Liberty,19 - BS 16,U.S. Senate,,DEM,Colin Allred,0,0,0,0
+Liberty,19 - BS 16,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Liberty,19 - BS 16,U.S. Senate,,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,U.S. House,36,REP,Brian Babin,0,0,0,0
+Liberty,19 - BS 16,U.S. House,36,DEM,Dayna Steele,0,0,0,0
+Liberty,19 - BS 16,U.S. House,36,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,Railroad Commissioner,,REP,Christi Craddick,0,0,0,0
+Liberty,19 - BS 16,Railroad Commissioner,,DEM,Katherine Culbert,0,0,0,0
+Liberty,19 - BS 16,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Liberty,19 - BS 16,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Liberty,19 - BS 16,Railroad Commissioner,,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,Railroad Commissioner,,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,0,0,0,0
+Liberty,19 - BS 16,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,0,0,0,0
+Liberty,19 - BS 16,"Justice, Supreme Court, Place 2",2,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,"Justice, Supreme Court, Place 4",4,REP,John Devine,0,0,0,0
+Liberty,19 - BS 16,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,0,0,0,0
+Liberty,19 - BS 16,"Justice, Supreme Court, Place 4",4,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,0,0,0,0
+Liberty,19 - BS 16,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,0,0,0,0
+Liberty,19 - BS 16,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Liberty,19 - BS 16,"Justice, Supreme Court, Place 6",6,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,0,0,0,0
+Liberty,19 - BS 16,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,0,0,0,0
+Liberty,19 - BS 16,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,0,0,0,0
+Liberty,19 - BS 16,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,0,0,0,0
+Liberty,19 - BS 16,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,0,0,0,0
+Liberty,19 - BS 16,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,0,0,0,0
+Liberty,19 - BS 16,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,State Representative,18,REP,Janis Holt,0,0,0,0
+Liberty,19 - BS 16,State Representative,18,LIB,Seth Steele,0,0,0,0
+Liberty,19 - BS 16,State Representative,18,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,State Representative,18,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,0,0,0,0
+Liberty,19 - BS 16,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,0,0,0,0
+Liberty,19 - BS 16,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,0,0,0,0
+Liberty,19 - BS 16,"District Attorney, 253rd Judicial District",,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,0,0,0,0
+Liberty,19 - BS 16,"Judge, County Court-at-law No. 2",,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,County Attorney,,REP,Matthew Poston,0,0,0,0
+Liberty,19 - BS 16,County Attorney,,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,County Attorney,,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,Sheriff,,REP,"Robert ""Bobby"" Rader",0,0,0,0
+Liberty,19 - BS 16,Sheriff,,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,Sheriff,,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",0,0,0,0
+Liberty,19 - BS 16,County Tax Assessor-Collector,,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,"County Commissioner, Precinct 1",,REP,Bruce Karbowski,0,0,0,0
+Liberty,19 - BS 16,"County Commissioner, Precinct 1",,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,19 - BS 16,"County Commissioner, Precinct 1",,REP,John Tucker,0,0,0,0
+Liberty,19 - BS 16,"County Commissioner, Precinct 1",,,Under Votes,0,0,0,0
+Liberty,19 - BS 16,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,24 - BS 17,Registered Voters,,,,3317,,,
+Liberty,24 - BS 17,Ballots Cast,,,,1918,,,
+Liberty,24 - BS 17,President,,REP,Donald J. Trump,1661,17,1321,323
+Liberty,24 - BS 17,President,,DEM,Kamala D. Harris,244,19,164,61
+Liberty,24 - BS 17,President,,LIB,Chase Oliver,5,0,1,4
+Liberty,24 - BS 17,President,,GRN,Jill Stein,1,0,1,0
+Liberty,24 - BS 17,President,,,Under Votes,7,0,5,2
+Liberty,24 - BS 17,President,,,Over Votes,0,0,0,0
+Liberty,24 - BS 17,U.S. Senate,,REP,Ted Cruz,1599,17,1282,300
+Liberty,24 - BS 17,U.S. Senate,,DEM,Colin Allred,270,18,183,69
+Liberty,24 - BS 17,U.S. Senate,,LIB,Ted Brown,36,0,20,16
+Liberty,24 - BS 17,U.S. Senate,,,Under Votes,11,1,6,4
+Liberty,24 - BS 17,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,24 - BS 17,U.S. House,36,REP,Brian Babin,1628,17,1301,310
+Liberty,24 - BS 17,U.S. House,36,DEM,Dayna Steele,243,18,159,66
+Liberty,24 - BS 17,U.S. House,36,,Under Votes,46,1,31,14
+Liberty,24 - BS 17,U.S. House,36,,Over Votes,1,0,1,0
+Liberty,24 - BS 17,Railroad Commissioner,,REP,Christi Craddick,1571,17,1264,290
+Liberty,24 - BS 17,Railroad Commissioner,,DEM,Katherine Culbert,233,18,161,54
+Liberty,24 - BS 17,Railroad Commissioner,,LIB,Hawk Dunlap,43,0,27,16
+Liberty,24 - BS 17,Railroad Commissioner,,GRN,Eddie Espinoza,17,0,7,10
+Liberty,24 - BS 17,Railroad Commissioner,,,Under Votes,52,1,33,18
+Liberty,24 - BS 17,Railroad Commissioner,,,Over Votes,0,0,0,0
+Liberty,24 - BS 17,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1613,18,1282,313
+Liberty,24 - BS 17,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,237,17,162,58
+Liberty,24 - BS 17,"Justice, Supreme Court, Place 2",2,,Under Votes,66,1,48,17
+Liberty,24 - BS 17,"Justice, Supreme Court, Place 2",2,,Over Votes,2,0,0,2
+Liberty,24 - BS 17,"Justice, Supreme Court, Place 4",4,REP,John Devine,1613,18,1283,312
+Liberty,24 - BS 17,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,250,17,169,64
+Liberty,24 - BS 17,"Justice, Supreme Court, Place 4",4,,Under Votes,55,1,40,14
+Liberty,24 - BS 17,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,24 - BS 17,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1581,17,1261,303
+Liberty,24 - BS 17,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,241,18,165,58
+Liberty,24 - BS 17,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,36,0,23,13
+Liberty,24 - BS 17,"Justice, Supreme Court, Place 6",6,,Under Votes,59,1,43,15
+Liberty,24 - BS 17,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,0,1
+Liberty,24 - BS 17,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1617,17,1287,313
+Liberty,24 - BS 17,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,244,18,164,62
+Liberty,24 - BS 17,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,57,1,41,15
+Liberty,24 - BS 17,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,24 - BS 17,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1618,17,1289,312
+Liberty,24 - BS 17,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,235,18,159,58
+Liberty,24 - BS 17,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,65,1,44,20
+Liberty,24 - BS 17,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,24 - BS 17,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1623,18,1293,312
+Liberty,24 - BS 17,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,232,17,153,62
+Liberty,24 - BS 17,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,63,1,46,16
+Liberty,24 - BS 17,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,24 - BS 17,State Representative,18,REP,Janis Holt,1619,21,1286,312
+Liberty,24 - BS 17,State Representative,18,LIB,Seth Steele,177,10,117,50
+Liberty,24 - BS 17,State Representative,18,,Under Votes,121,5,88,28
+Liberty,24 - BS 17,State Representative,18,,Over Votes,1,0,1,0
+Liberty,24 - BS 17,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,1600,21,1261,318
+Liberty,24 - BS 17,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,318,15,231,72
+Liberty,24 - BS 17,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,24 - BS 17,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,1598,21,1258,319
+Liberty,24 - BS 17,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,320,15,234,71
+Liberty,24 - BS 17,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,24 - BS 17,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,1589,21,1253,315
+Liberty,24 - BS 17,"District Attorney, 253rd Judicial District",,,Under Votes,329,15,239,75
+Liberty,24 - BS 17,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,24 - BS 17,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,1588,21,1255,312
+Liberty,24 - BS 17,"Judge, County Court-at-law No. 2",,,Under Votes,330,15,237,78
+Liberty,24 - BS 17,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,24 - BS 17,County Attorney,,REP,Matthew Poston,1581,21,1248,312
+Liberty,24 - BS 17,County Attorney,,,Under Votes,337,15,244,78
+Liberty,24 - BS 17,County Attorney,,,Over Votes,0,0,0,0
+Liberty,24 - BS 17,Sheriff,,REP,"Robert ""Bobby"" Rader",1577,23,1244,310
+Liberty,24 - BS 17,Sheriff,,,Under Votes,341,13,248,80
+Liberty,24 - BS 17,Sheriff,,,Over Votes,0,0,0,0
+Liberty,24 - BS 17,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",1581,23,1246,312
+Liberty,24 - BS 17,County Tax Assessor-Collector,,,Under Votes,337,13,246,78
+Liberty,24 - BS 17,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,24 - BS 17,"County Commissioner, Precinct 1",,REP,Bruce Karbowski,1584,23,1249,312
+Liberty,24 - BS 17,"County Commissioner, Precinct 1",,,Under Votes,334,13,243,78
+Liberty,24 - BS 17,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,24 - BS 17,"County Commissioner, Precinct 1",,REP,"Robert Earl ""Robby"" Thornton Jr",1582,20,1248,314
+Liberty,24 - BS 17,"County Commissioner, Precinct 1",,,Under Votes,336,16,244,76
+Liberty,24 - BS 17,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,30 - BS 17,Registered Voters,,,,2183,,,
+Liberty,30 - BS 17,Ballots Cast,,,,1338,,,
+Liberty,30 - BS 17,President,,REP,Donald J. Trump,1009,13,883,113
+Liberty,30 - BS 17,President,,DEM,Kamala D. Harris,323,9,235,79
+Liberty,30 - BS 17,President,,LIB,Chase Oliver,2,0,2,0
+Liberty,30 - BS 17,President,,GRN,Jill Stein,0,0,0,0
+Liberty,30 - BS 17,President,,,Under Votes,3,0,3,0
+Liberty,30 - BS 17,President,,,Over Votes,1,0,1,0
+Liberty,30 - BS 17,U.S. Senate,,REP,Ted Cruz,978,13,858,107
+Liberty,30 - BS 17,U.S. Senate,,DEM,Colin Allred,326,9,241,76
+Liberty,30 - BS 17,U.S. Senate,,LIB,Ted Brown,25,0,19,6
+Liberty,30 - BS 17,U.S. Senate,,,Under Votes,9,0,6,3
+Liberty,30 - BS 17,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,30 - BS 17,U.S. House,36,REP,Brian Babin,1004,12,889,103
+Liberty,30 - BS 17,U.S. House,36,DEM,Dayna Steele,301,8,220,73
+Liberty,30 - BS 17,U.S. House,36,,Under Votes,33,2,15,16
+Liberty,30 - BS 17,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,30 - BS 17,Railroad Commissioner,,REP,Christi Craddick,948,12,843,93
+Liberty,30 - BS 17,Railroad Commissioner,,DEM,Katherine Culbert,277,7,212,58
+Liberty,30 - BS 17,Railroad Commissioner,,LIB,Hawk Dunlap,34,0,28,6
+Liberty,30 - BS 17,Railroad Commissioner,,GRN,Eddie Espinoza,31,1,16,14
+Liberty,30 - BS 17,Railroad Commissioner,,,Under Votes,47,2,24,21
+Liberty,30 - BS 17,Railroad Commissioner,,,Over Votes,0,0,0,0
+Liberty,30 - BS 17,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,990,12,874,104
+Liberty,30 - BS 17,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,289,8,218,63
+Liberty,30 - BS 17,"Justice, Supreme Court, Place 2",2,,Under Votes,59,2,32,25
+Liberty,30 - BS 17,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,30 - BS 17,"Justice, Supreme Court, Place 4",4,REP,John Devine,998,12,879,107
+Liberty,30 - BS 17,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,288,8,215,65
+Liberty,30 - BS 17,"Justice, Supreme Court, Place 4",4,,Under Votes,52,2,30,20
+Liberty,30 - BS 17,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,30 - BS 17,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,965,12,859,94
+Liberty,30 - BS 17,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,284,8,215,61
+Liberty,30 - BS 17,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,33,0,21,12
+Liberty,30 - BS 17,"Justice, Supreme Court, Place 6",6,,Under Votes,55,2,29,24
+Liberty,30 - BS 17,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,0,1
+Liberty,30 - BS 17,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,987,13,873,101
+Liberty,30 - BS 17,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,296,7,221,68
+Liberty,30 - BS 17,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,54,2,30,22
+Liberty,30 - BS 17,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,0,0,1
+Liberty,30 - BS 17,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,995,12,881,102
+Liberty,30 - BS 17,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,281,8,208,65
+Liberty,30 - BS 17,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,62,2,35,25
+Liberty,30 - BS 17,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,30 - BS 17,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1002,12,885,105
+Liberty,30 - BS 17,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,276,8,206,62
+Liberty,30 - BS 17,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,60,2,33,25
+Liberty,30 - BS 17,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,30 - BS 17,State Representative,18,REP,Janis Holt,998,12,873,113
+Liberty,30 - BS 17,State Representative,18,LIB,Seth Steele,220,4,172,44
+Liberty,30 - BS 17,State Representative,18,,Under Votes,119,6,79,34
+Liberty,30 - BS 17,State Representative,18,,Over Votes,1,0,0,1
+Liberty,30 - BS 17,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,1038,13,891,134
+Liberty,30 - BS 17,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,300,9,233,58
+Liberty,30 - BS 17,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,30 - BS 17,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,1048,13,898,137
+Liberty,30 - BS 17,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,290,9,226,55
+Liberty,30 - BS 17,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,30 - BS 17,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,1053,13,904,136
+Liberty,30 - BS 17,"District Attorney, 253rd Judicial District",,,Under Votes,285,9,220,56
+Liberty,30 - BS 17,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,30 - BS 17,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,1052,13,903,136
+Liberty,30 - BS 17,"Judge, County Court-at-law No. 2",,,Under Votes,286,9,221,56
+Liberty,30 - BS 17,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,30 - BS 17,County Attorney,,REP,Matthew Poston,1038,13,890,135
+Liberty,30 - BS 17,County Attorney,,,Under Votes,300,9,234,57
+Liberty,30 - BS 17,County Attorney,,,Over Votes,0,0,0,0
+Liberty,30 - BS 17,Sheriff,,REP,"Robert ""Bobby"" Rader",1052,13,901,138
+Liberty,30 - BS 17,Sheriff,,,Under Votes,286,9,223,54
+Liberty,30 - BS 17,Sheriff,,,Over Votes,0,0,0,0
+Liberty,30 - BS 17,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",1044,14,891,139
+Liberty,30 - BS 17,County Tax Assessor-Collector,,,Under Votes,294,8,233,53
+Liberty,30 - BS 17,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,30 - BS 17,"County Commissioner, Precinct 1",,REP,Bruce Karbowski,1036,13,887,136
+Liberty,30 - BS 17,"County Commissioner, Precinct 1",,,Under Votes,302,9,237,56
+Liberty,30 - BS 17,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,30 - BS 17,"County Commissioner, Precinct 1",,REP,"Robert Earl ""Robby"" Thornton Jr",1067,12,913,142
+Liberty,30 - BS 17,"County Commissioner, Precinct 1",,,Under Votes,271,10,211,50
+Liberty,30 - BS 17,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,Registered Voters,,,,2,,,
+Liberty,30 - BS 18,Ballots Cast,,,,4,,,
+Liberty,30 - BS 18,President,,REP,Donald J. Trump,4,0,4,0
+Liberty,30 - BS 18,President,,DEM,Kamala D. Harris,0,0,0,0
+Liberty,30 - BS 18,President,,LIB,Chase Oliver,0,0,0,0
+Liberty,30 - BS 18,President,,GRN,Jill Stein,0,0,0,0
+Liberty,30 - BS 18,President,,,Under Votes,0,0,0,0
+Liberty,30 - BS 18,President,,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,U.S. Senate,,REP,Ted Cruz,3,0,3,0
+Liberty,30 - BS 18,U.S. Senate,,DEM,Colin Allred,0,0,0,0
+Liberty,30 - BS 18,U.S. Senate,,LIB,Ted Brown,1,0,1,0
+Liberty,30 - BS 18,U.S. Senate,,,Under Votes,0,0,0,0
+Liberty,30 - BS 18,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,U.S. House,36,REP,Brian Babin,4,0,4,0
+Liberty,30 - BS 18,U.S. House,36,DEM,Dayna Steele,0,0,0,0
+Liberty,30 - BS 18,U.S. House,36,,Under Votes,0,0,0,0
+Liberty,30 - BS 18,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,Railroad Commissioner,,REP,Christi Craddick,4,0,4,0
+Liberty,30 - BS 18,Railroad Commissioner,,DEM,Katherine Culbert,0,0,0,0
+Liberty,30 - BS 18,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Liberty,30 - BS 18,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Liberty,30 - BS 18,Railroad Commissioner,,,Under Votes,0,0,0,0
+Liberty,30 - BS 18,Railroad Commissioner,,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,4,0,4,0
+Liberty,30 - BS 18,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,0,0,0,0
+Liberty,30 - BS 18,"Justice, Supreme Court, Place 2",2,,Under Votes,0,0,0,0
+Liberty,30 - BS 18,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,"Justice, Supreme Court, Place 4",4,REP,John Devine,4,0,4,0
+Liberty,30 - BS 18,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,0,0,0,0
+Liberty,30 - BS 18,"Justice, Supreme Court, Place 4",4,,Under Votes,0,0,0,0
+Liberty,30 - BS 18,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,4,0,4,0
+Liberty,30 - BS 18,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,0,0,0,0
+Liberty,30 - BS 18,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Liberty,30 - BS 18,"Justice, Supreme Court, Place 6",6,,Under Votes,0,0,0,0
+Liberty,30 - BS 18,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,4,0,4,0
+Liberty,30 - BS 18,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,0,0,0,0
+Liberty,30 - BS 18,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,0,0,0
+Liberty,30 - BS 18,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,4,0,4,0
+Liberty,30 - BS 18,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,0,0,0,0
+Liberty,30 - BS 18,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,0,0,0,0
+Liberty,30 - BS 18,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,4,0,4,0
+Liberty,30 - BS 18,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,0,0,0,0
+Liberty,30 - BS 18,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,0,0,0,0
+Liberty,30 - BS 18,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,State Representative,18,REP,Janis Holt,3,0,3,0
+Liberty,30 - BS 18,State Representative,18,LIB,Seth Steele,0,0,0,0
+Liberty,30 - BS 18,State Representative,18,,Under Votes,1,0,1,0
+Liberty,30 - BS 18,State Representative,18,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,3,0,3,0
+Liberty,30 - BS 18,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,1,0,1,0
+Liberty,30 - BS 18,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,2,0,2,0
+Liberty,30 - BS 18,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,2,0,2,0
+Liberty,30 - BS 18,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,2,0,2,0
+Liberty,30 - BS 18,"District Attorney, 253rd Judicial District",,,Under Votes,2,0,2,0
+Liberty,30 - BS 18,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,2,0,2,0
+Liberty,30 - BS 18,"Judge, County Court-at-law No. 2",,,Under Votes,2,0,2,0
+Liberty,30 - BS 18,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,County Attorney,,REP,Matthew Poston,2,0,2,0
+Liberty,30 - BS 18,County Attorney,,,Under Votes,2,0,2,0
+Liberty,30 - BS 18,County Attorney,,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,Sheriff,,REP,"Robert ""Bobby"" Rader",2,0,2,0
+Liberty,30 - BS 18,Sheriff,,,Under Votes,2,0,2,0
+Liberty,30 - BS 18,Sheriff,,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",2,0,2,0
+Liberty,30 - BS 18,County Tax Assessor-Collector,,,Under Votes,2,0,2,0
+Liberty,30 - BS 18,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,"County Commissioner, Precinct 1",,REP,Bruce Karbowski,2,0,2,0
+Liberty,30 - BS 18,"County Commissioner, Precinct 1",,,Under Votes,2,0,2,0
+Liberty,30 - BS 18,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,"County Commissioner, Precinct 1",,REP,"Robert Earl ""Robby"" Thornton Jr",2,0,2,0
+Liberty,30 - BS 18,"County Commissioner, Precinct 1",,,Under Votes,2,0,2,0
+Liberty,30 - BS 18,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,"County Commissioner, Precinct 1",,,Under Votes,8,0,8,0
+Liberty,30 - BS 18,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,"County Commissioner, Precinct 1",,,Under Votes,2,0,2,0
+Liberty,30 - BS 18,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,"County Commissioner, Precinct 1",,,Under Votes,2,0,2,0
+Liberty,30 - BS 18,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,"County Commissioner, Precinct 1",,,Under Votes,2,0,2,0
+Liberty,30 - BS 18,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,"County Commissioner, Precinct 1",,,Under Votes,2,0,2,0
+Liberty,30 - BS 18,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,30 - BS 18,"County Commissioner, Precinct 1",,,Under Votes,2,0,2,0
+Liberty,30 - BS 18,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,24 - BS19,Registered Voters,,,,1,,,
+Liberty,24 - BS19,Ballots Cast,,,,2,,,
+Liberty,24 - BS19,President,,REP,Donald J. Trump,1,0,1,0
+Liberty,24 - BS19,President,,DEM,Kamala D. Harris,0,0,0,0
+Liberty,24 - BS19,President,,LIB,Chase Oliver,0,0,0,0
+Liberty,24 - BS19,President,,GRN,Jill Stein,0,0,0,0
+Liberty,24 - BS19,President,,,Under Votes,1,0,1,0
+Liberty,24 - BS19,President,,,Over Votes,0,0,0,0
+Liberty,24 - BS19,U.S. Senate,,REP,Ted Cruz,1,0,1,0
+Liberty,24 - BS19,U.S. Senate,,DEM,Colin Allred,0,0,0,0
+Liberty,24 - BS19,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Liberty,24 - BS19,U.S. Senate,,,Under Votes,1,0,1,0
+Liberty,24 - BS19,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,24 - BS19,U.S. House,36,REP,Brian Babin,1,0,1,0
+Liberty,24 - BS19,U.S. House,36,DEM,Dayna Steele,0,0,0,0
+Liberty,24 - BS19,U.S. House,36,,Under Votes,1,0,1,0
+Liberty,24 - BS19,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,24 - BS19,Railroad Commissioner,,REP,Christi Craddick,1,0,1,0
+Liberty,24 - BS19,Railroad Commissioner,,DEM,Katherine Culbert,0,0,0,0
+Liberty,24 - BS19,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Liberty,24 - BS19,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Liberty,24 - BS19,Railroad Commissioner,,,Under Votes,1,0,1,0
+Liberty,24 - BS19,Railroad Commissioner,,,Over Votes,0,0,0,0
+Liberty,24 - BS19,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1,0,1,0
+Liberty,24 - BS19,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,0,0,0,0
+Liberty,24 - BS19,"Justice, Supreme Court, Place 2",2,,Under Votes,1,0,1,0
+Liberty,24 - BS19,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,24 - BS19,"Justice, Supreme Court, Place 4",4,REP,John Devine,1,0,1,0
+Liberty,24 - BS19,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,0,0,0,0
+Liberty,24 - BS19,"Justice, Supreme Court, Place 4",4,,Under Votes,1,0,1,0
+Liberty,24 - BS19,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,24 - BS19,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1,0,1,0
+Liberty,24 - BS19,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,0,0,0,0
+Liberty,24 - BS19,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Liberty,24 - BS19,"Justice, Supreme Court, Place 6",6,,Under Votes,1,0,1,0
+Liberty,24 - BS19,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Liberty,24 - BS19,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1,0,1,0
+Liberty,24 - BS19,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,0,0,0,0
+Liberty,24 - BS19,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,0,1,0
+Liberty,24 - BS19,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,24 - BS19,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1,0,1,0
+Liberty,24 - BS19,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,0,0,0,0
+Liberty,24 - BS19,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,1,0,1,0
+Liberty,24 - BS19,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,24 - BS19,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1,0,1,0
+Liberty,24 - BS19,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,0,0,0,0
+Liberty,24 - BS19,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,1,0,1,0
+Liberty,24 - BS19,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,24 - BS19,State Representative,18,REP,Janis Holt,1,0,1,0
+Liberty,24 - BS19,State Representative,18,LIB,Seth Steele,0,0,0,0
+Liberty,24 - BS19,State Representative,18,,Under Votes,1,0,1,0
+Liberty,24 - BS19,State Representative,18,,Over Votes,0,0,0,0
+Liberty,24 - BS19,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,1,0,1,0
+Liberty,24 - BS19,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,1,0,1,0
+Liberty,24 - BS19,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,24 - BS19,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,1,0,1,0
+Liberty,24 - BS19,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,1,0,1,0
+Liberty,24 - BS19,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,24 - BS19,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,1,0,1,0
+Liberty,24 - BS19,"District Attorney, 253rd Judicial District",,,Under Votes,1,0,1,0
+Liberty,24 - BS19,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,24 - BS19,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,1,0,1,0
+Liberty,24 - BS19,"Judge, County Court-at-law No. 2",,,Under Votes,1,0,1,0
+Liberty,24 - BS19,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,24 - BS19,County Attorney,,REP,Matthew Poston,1,0,1,0
+Liberty,24 - BS19,County Attorney,,,Under Votes,1,0,1,0
+Liberty,24 - BS19,County Attorney,,,Over Votes,0,0,0,0
+Liberty,24 - BS19,Sheriff,,REP,"Robert ""Bobby"" Rader",1,0,1,0
+Liberty,24 - BS19,Sheriff,,,Under Votes,1,0,1,0
+Liberty,24 - BS19,Sheriff,,,Over Votes,0,0,0,0
+Liberty,24 - BS19,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",1,0,1,0
+Liberty,24 - BS19,County Tax Assessor-Collector,,,Under Votes,1,0,1,0
+Liberty,24 - BS19,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,REP,Bruce Karbowski,1,0,1,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Under Votes,1,0,1,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,REP,"Robert Earl ""Robby"" Thornton Jr",1,0,1,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Under Votes,1,0,1,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Under Votes,0,0,0,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Over Votes,1,0,1,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Under Votes,0,0,0,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Over Votes,1,0,1,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Under Votes,0,0,0,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Over Votes,1,0,1,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Under Votes,0,0,0,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Over Votes,1,0,1,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Under Votes,0,0,0,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Over Votes,1,0,1,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Under Votes,0,0,0,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Over Votes,1,0,1,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Under Votes,0,0,0,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Over Votes,1,0,1,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Under Votes,0,0,0,0
+Liberty,24 - BS19,"County Commissioner, Precinct 1",,,Over Votes,1,0,1,0
+Liberty,7 - BS 23,Registered Voters,,,,2024,,,
+Liberty,7 - BS 23,Ballots Cast,,,,1104,,,
+Liberty,7 - BS 23,President,,REP,Donald J. Trump,772,13,610,149
+Liberty,7 - BS 23,President,,DEM,Kamala D. Harris,326,13,230,83
+Liberty,7 - BS 23,President,,LIB,Chase Oliver,3,0,2,1
+Liberty,7 - BS 23,President,,GRN,Jill Stein,0,0,0,0
+Liberty,7 - BS 23,President,,,Under Votes,3,0,3,0
+Liberty,7 - BS 23,President,,,Over Votes,0,0,0,0
+Liberty,7 - BS 23,U.S. Senate,,REP,Ted Cruz,705,13,565,127
+Liberty,7 - BS 23,U.S. Senate,,DEM,Colin Allred,351,13,246,92
+Liberty,7 - BS 23,U.S. Senate,,LIB,Ted Brown,30,0,22,8
+Liberty,7 - BS 23,U.S. Senate,,,Under Votes,15,0,11,4
+Liberty,7 - BS 23,U.S. Senate,,,Over Votes,2,0,1,1
+Liberty,7 - BS 23,U.S. House,36,REP,Brian Babin,759,14,608,137
+Liberty,7 - BS 23,U.S. House,36,DEM,Dayna Steele,306,12,212,82
+Liberty,7 - BS 23,U.S. House,36,,Under Votes,38,0,25,13
+Liberty,7 - BS 23,U.S. House,36,,Over Votes,1,0,0,1
+Liberty,7 - BS 23,Railroad Commissioner,,REP,Christi Craddick,713,14,573,126
+Liberty,7 - BS 23,Railroad Commissioner,,DEM,Katherine Culbert,284,12,201,71
+Liberty,7 - BS 23,Railroad Commissioner,,LIB,Hawk Dunlap,22,0,16,6
+Liberty,7 - BS 23,Railroad Commissioner,,GRN,Eddie Espinoza,30,0,17,13
+Liberty,7 - BS 23,Railroad Commissioner,,,Under Votes,53,0,37,16
+Liberty,7 - BS 23,Railroad Commissioner,,,Over Votes,0,0,0,0
+Liberty,7 - BS 23,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,735,16,588,131
+Liberty,7 - BS 23,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,301,10,214,77
+Liberty,7 - BS 23,"Justice, Supreme Court, Place 2",2,,Under Votes,68,0,43,25
+Liberty,7 - BS 23,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,7 - BS 23,"Justice, Supreme Court, Place 4",4,REP,John Devine,733,13,586,134
+Liberty,7 - BS 23,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,310,13,217,80
+Liberty,7 - BS 23,"Justice, Supreme Court, Place 4",4,,Under Votes,61,0,42,19
+Liberty,7 - BS 23,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,7 - BS 23,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,710,15,575,120
+Liberty,7 - BS 23,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,292,11,205,76
+Liberty,7 - BS 23,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,37,0,21,16
+Liberty,7 - BS 23,"Justice, Supreme Court, Place 6",6,,Under Votes,65,0,44,21
+Liberty,7 - BS 23,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Liberty,7 - BS 23,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,728,13,582,133
+Liberty,7 - BS 23,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,307,13,216,78
+Liberty,7 - BS 23,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,68,0,47,21
+Liberty,7 - BS 23,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,0,0,1
+Liberty,7 - BS 23,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,737,13,592,132
+Liberty,7 - BS 23,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,295,13,205,77
+Liberty,7 - BS 23,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,72,0,48,24
+Liberty,7 - BS 23,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,7 - BS 23,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,748,15,597,136
+Liberty,7 - BS 23,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,280,11,194,75
+Liberty,7 - BS 23,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,75,0,53,22
+Liberty,7 - BS 23,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,0,1,0
+Liberty,7 - BS 23,State Representative,18,REP,Janis Holt,759,18,602,139
+Liberty,7 - BS 23,State Representative,18,LIB,Seth Steele,216,6,148,62
+Liberty,7 - BS 23,State Representative,18,,Under Votes,128,2,94,32
+Liberty,7 - BS 23,State Representative,18,,Over Votes,1,0,1,0
+Liberty,7 - BS 23,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,844,18,657,169
+Liberty,7 - BS 23,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,260,8,188,64
+Liberty,7 - BS 23,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,7 - BS 23,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,845,17,660,168
+Liberty,7 - BS 23,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,259,9,185,65
+Liberty,7 - BS 23,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,7 - BS 23,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,894,18,693,183
+Liberty,7 - BS 23,"District Attorney, 253rd Judicial District",,,Under Votes,210,8,152,50
+Liberty,7 - BS 23,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,7 - BS 23,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,848,17,663,168
+Liberty,7 - BS 23,"Judge, County Court-at-law No. 2",,,Under Votes,256,9,182,65
+Liberty,7 - BS 23,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,7 - BS 23,County Attorney,,REP,Matthew Poston,845,17,654,174
+Liberty,7 - BS 23,County Attorney,,,Under Votes,259,9,191,59
+Liberty,7 - BS 23,County Attorney,,,Over Votes,0,0,0,0
+Liberty,7 - BS 23,Sheriff,,REP,"Robert ""Bobby"" Rader",849,17,657,175
+Liberty,7 - BS 23,Sheriff,,,Under Votes,255,9,188,58
+Liberty,7 - BS 23,Sheriff,,,Over Votes,0,0,0,0
+Liberty,7 - BS 23,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",843,17,651,175
+Liberty,7 - BS 23,County Tax Assessor-Collector,,,Under Votes,261,9,194,58
+Liberty,7 - BS 23,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,7 - BS 23,"County Commissioner, Precinct 3",,REP,David S. Whitmire,852,18,656,178
+Liberty,7 - BS 23,"County Commissioner, Precinct 3",,,Under Votes,252,8,189,55
+Liberty,7 - BS 23,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Liberty,7 - BS 23,"County Commissioner, Precinct 3",,REP,Zack Harkness,877,18,680,179
+Liberty,7 - BS 23,"County Commissioner, Precinct 3",,,Under Votes,227,8,165,54
+Liberty,7 - BS 23,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Liberty,23 - BS 23,Registered Voters,,,,3611,,,
+Liberty,23 - BS 23,Ballots Cast,,,,1345,,,
+Liberty,23 - BS 23,President,,REP,Donald J. Trump,741,5,481,255
+Liberty,23 - BS 23,President,,DEM,Kamala D. Harris,593,6,350,237
+Liberty,23 - BS 23,President,,LIB,Chase Oliver,3,0,3,0
+Liberty,23 - BS 23,President,,GRN,Jill Stein,2,0,2,0
+Liberty,23 - BS 23,President,,,Under Votes,3,0,1,2
+Liberty,23 - BS 23,President,,,Over Votes,2,0,2,0
+Liberty,23 - BS 23,U.S. Senate,,REP,Ted Cruz,607,4,398,205
+Liberty,23 - BS 23,U.S. Senate,,DEM,Colin Allred,643,6,384,253
+Liberty,23 - BS 23,U.S. Senate,,LIB,Ted Brown,48,1,25,22
+Liberty,23 - BS 23,U.S. Senate,,,Under Votes,44,0,30,14
+Liberty,23 - BS 23,U.S. Senate,,,Over Votes,2,0,2,0
+Liberty,23 - BS 23,U.S. House,36,REP,Brian Babin,655,5,434,216
+Liberty,23 - BS 23,U.S. House,36,DEM,Dayna Steele,616,6,360,250
+Liberty,23 - BS 23,U.S. House,36,,Under Votes,74,0,46,28
+Liberty,23 - BS 23,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,23 - BS 23,Railroad Commissioner,,REP,Christi Craddick,593,5,398,190
+Liberty,23 - BS 23,Railroad Commissioner,,DEM,Katherine Culbert,534,5,321,208
+Liberty,23 - BS 23,Railroad Commissioner,,LIB,Hawk Dunlap,32,0,21,11
+Liberty,23 - BS 23,Railroad Commissioner,,GRN,Eddie Espinoza,88,1,46,41
+Liberty,23 - BS 23,Railroad Commissioner,,,Under Votes,94,0,51,43
+Liberty,23 - BS 23,Railroad Commissioner,,,Over Votes,4,0,3,1
+Liberty,23 - BS 23,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,659,5,435,219
+Liberty,23 - BS 23,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,584,6,347,231
+Liberty,23 - BS 23,"Justice, Supreme Court, Place 2",2,,Under Votes,100,0,58,42
+Liberty,23 - BS 23,"Justice, Supreme Court, Place 2",2,,Over Votes,2,0,0,2
+Liberty,23 - BS 23,"Justice, Supreme Court, Place 4",4,REP,John Devine,649,6,427,216
+Liberty,23 - BS 23,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,598,5,353,240
+Liberty,23 - BS 23,"Justice, Supreme Court, Place 4",4,,Under Votes,98,0,60,38
+Liberty,23 - BS 23,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,23 - BS 23,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,614,5,404,205
+Liberty,23 - BS 23,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,564,6,337,221
+Liberty,23 - BS 23,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,69,0,37,32
+Liberty,23 - BS 23,"Justice, Supreme Court, Place 6",6,,Under Votes,98,0,62,36
+Liberty,23 - BS 23,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Liberty,23 - BS 23,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,646,5,419,222
+Liberty,23 - BS 23,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,587,6,353,228
+Liberty,23 - BS 23,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,111,0,68,43
+Liberty,23 - BS 23,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,0,0,1
+Liberty,23 - BS 23,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,660,5,437,218
+Liberty,23 - BS 23,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,581,6,341,234
+Liberty,23 - BS 23,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,104,0,62,42
+Liberty,23 - BS 23,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,23 - BS 23,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,672,5,439,228
+Liberty,23 - BS 23,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,566,6,340,220
+Liberty,23 - BS 23,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,107,0,61,46
+Liberty,23 - BS 23,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,23 - BS 23,State Representative,18,REP,Janis Holt,710,7,458,245
+Liberty,23 - BS 23,State Representative,18,LIB,Seth Steele,409,4,241,164
+Liberty,23 - BS 23,State Representative,18,,Under Votes,224,0,140,84
+Liberty,23 - BS 23,State Representative,18,,Over Votes,2,0,1,1
+Liberty,23 - BS 23,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,925,8,581,336
+Liberty,23 - BS 23,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,420,3,259,158
+Liberty,23 - BS 23,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,23 - BS 23,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,904,8,571,325
+Liberty,23 - BS 23,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,441,3,269,169
+Liberty,23 - BS 23,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,23 - BS 23,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,914,7,577,330
+Liberty,23 - BS 23,"District Attorney, 253rd Judicial District",,,Under Votes,431,4,263,164
+Liberty,23 - BS 23,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,23 - BS 23,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,893,7,563,323
+Liberty,23 - BS 23,"Judge, County Court-at-law No. 2",,,Under Votes,452,4,277,171
+Liberty,23 - BS 23,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,23 - BS 23,County Attorney,,REP,Matthew Poston,893,7,564,322
+Liberty,23 - BS 23,County Attorney,,,Under Votes,452,4,276,172
+Liberty,23 - BS 23,County Attorney,,,Over Votes,0,0,0,0
+Liberty,23 - BS 23,Sheriff,,REP,"Robert ""Bobby"" Rader",886,7,559,320
+Liberty,23 - BS 23,Sheriff,,,Under Votes,459,4,281,174
+Liberty,23 - BS 23,Sheriff,,,Over Votes,0,0,0,0
+Liberty,23 - BS 23,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",899,7,561,331
+Liberty,23 - BS 23,County Tax Assessor-Collector,,,Under Votes,446,4,279,163
+Liberty,23 - BS 23,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,23 - BS 23,"County Commissioner, Precinct 3",,REP,David S. Whitmire,894,7,560,327
+Liberty,23 - BS 23,"County Commissioner, Precinct 3",,,Under Votes,451,4,280,167
+Liberty,23 - BS 23,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Liberty,23 - BS 23,"County Commissioner, Precinct 3",,REP,Zack Harkness,883,7,557,319
+Liberty,23 - BS 23,"County Commissioner, Precinct 3",,,Under Votes,462,4,283,175
+Liberty,23 - BS 23,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Liberty,26 - BS 23,Registered Voters,,,,2901,,,
+Liberty,26 - BS 23,Ballots Cast,,,,1351,,,
+Liberty,26 - BS 23,President,,REP,Donald J. Trump,1123,10,907,206
+Liberty,26 - BS 23,President,,DEM,Kamala D. Harris,222,8,170,44
+Liberty,26 - BS 23,President,,LIB,Chase Oliver,3,0,2,1
+Liberty,26 - BS 23,President,,GRN,Jill Stein,1,0,1,0
+Liberty,26 - BS 23,President,,,Under Votes,1,0,1,0
+Liberty,26 - BS 23,President,,,Over Votes,0,0,0,0
+Liberty,26 - BS 23,U.S. Senate,,REP,Ted Cruz,1054,10,868,176
+Liberty,26 - BS 23,U.S. Senate,,DEM,Colin Allred,242,7,182,53
+Liberty,26 - BS 23,U.S. Senate,,LIB,Ted Brown,30,1,18,11
+Liberty,26 - BS 23,U.S. Senate,,,Under Votes,22,0,11,11
+Liberty,26 - BS 23,U.S. Senate,,,Over Votes,2,0,2,0
+Liberty,26 - BS 23,U.S. House,36,REP,Brian Babin,1085,11,892,182
+Liberty,26 - BS 23,U.S. House,36,DEM,Dayna Steele,218,6,164,48
+Liberty,26 - BS 23,U.S. House,36,,Under Votes,47,1,26,20
+Liberty,26 - BS 23,U.S. House,36,,Over Votes,1,0,0,1
+Liberty,26 - BS 23,Railroad Commissioner,,REP,Christi Craddick,1037,11,857,169
+Liberty,26 - BS 23,Railroad Commissioner,,DEM,Katherine Culbert,194,5,149,40
+Liberty,26 - BS 23,Railroad Commissioner,,LIB,Hawk Dunlap,25,1,15,9
+Liberty,26 - BS 23,Railroad Commissioner,,GRN,Eddie Espinoza,29,0,19,10
+Liberty,26 - BS 23,Railroad Commissioner,,,Under Votes,65,1,41,23
+Liberty,26 - BS 23,Railroad Commissioner,,,Over Votes,1,0,1,0
+Liberty,26 - BS 23,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1069,11,876,182
+Liberty,26 - BS 23,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,214,6,162,46
+Liberty,26 - BS 23,"Justice, Supreme Court, Place 2",2,,Under Votes,68,1,44,23
+Liberty,26 - BS 23,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,26 - BS 23,"Justice, Supreme Court, Place 4",4,REP,John Devine,1064,11,872,181
+Liberty,26 - BS 23,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,221,6,167,48
+Liberty,26 - BS 23,"Justice, Supreme Court, Place 4",4,,Under Votes,64,1,42,21
+Liberty,26 - BS 23,"Justice, Supreme Court, Place 4",4,,Over Votes,2,0,1,1
+Liberty,26 - BS 23,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1043,10,861,172
+Liberty,26 - BS 23,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,199,6,153,40
+Liberty,26 - BS 23,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,41,1,24,16
+Liberty,26 - BS 23,"Justice, Supreme Court, Place 6",6,,Under Votes,68,1,44,23
+Liberty,26 - BS 23,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Liberty,26 - BS 23,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1064,11,874,179
+Liberty,26 - BS 23,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,220,5,165,50
+Liberty,26 - BS 23,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,66,2,43,21
+Liberty,26 - BS 23,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,0,0,1
+Liberty,26 - BS 23,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1061,11,872,178
+Liberty,26 - BS 23,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,217,5,163,49
+Liberty,26 - BS 23,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,73,2,47,24
+Liberty,26 - BS 23,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,26 - BS 23,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1068,11,876,181
+Liberty,26 - BS 23,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,207,5,157,45
+Liberty,26 - BS 23,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,75,2,48,25
+Liberty,26 - BS 23,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,0,1,0
+Liberty,26 - BS 23,State Representative,18,REP,Janis Holt,1085,11,892,182
+Liberty,26 - BS 23,State Representative,18,LIB,Seth Steele,164,6,118,40
+Liberty,26 - BS 23,State Representative,18,,Under Votes,102,1,72,29
+Liberty,26 - BS 23,State Representative,18,,Over Votes,0,0,0,0
+Liberty,26 - BS 23,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,1130,12,918,200
+Liberty,26 - BS 23,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,221,6,164,51
+Liberty,26 - BS 23,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,26 - BS 23,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,1127,12,916,199
+Liberty,26 - BS 23,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,224,6,166,52
+Liberty,26 - BS 23,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,26 - BS 23,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,1131,12,918,201
+Liberty,26 - BS 23,"District Attorney, 253rd Judicial District",,,Under Votes,220,6,164,50
+Liberty,26 - BS 23,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,26 - BS 23,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,1126,12,915,199
+Liberty,26 - BS 23,"Judge, County Court-at-law No. 2",,,Under Votes,225,6,167,52
+Liberty,26 - BS 23,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,26 - BS 23,County Attorney,,REP,Matthew Poston,1114,12,905,197
+Liberty,26 - BS 23,County Attorney,,,Under Votes,237,6,177,54
+Liberty,26 - BS 23,County Attorney,,,Over Votes,0,0,0,0
+Liberty,26 - BS 23,Sheriff,,REP,"Robert ""Bobby"" Rader",1130,12,918,200
+Liberty,26 - BS 23,Sheriff,,,Under Votes,221,6,164,51
+Liberty,26 - BS 23,Sheriff,,,Over Votes,0,0,0,0
+Liberty,26 - BS 23,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",1122,12,910,200
+Liberty,26 - BS 23,County Tax Assessor-Collector,,,Under Votes,229,6,172,51
+Liberty,26 - BS 23,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,26 - BS 23,"County Commissioner, Precinct 3",,REP,David S. Whitmire,1137,12,925,200
+Liberty,26 - BS 23,"County Commissioner, Precinct 3",,,Under Votes,214,6,157,51
+Liberty,26 - BS 23,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Liberty,26 - BS 23,"County Commissioner, Precinct 3",,REP,Zack Harkness,1118,12,909,197
+Liberty,26 - BS 23,"County Commissioner, Precinct 3",,,Under Votes,233,6,173,54
+Liberty,26 - BS 23,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Liberty,31 - BS 23,Registered Voters,,,,2235,,,
+Liberty,31 - BS 23,Ballots Cast,,,,1021,,,
+Liberty,31 - BS 23,President,,REP,Donald J. Trump,773,17,585,171
+Liberty,31 - BS 23,President,,DEM,Kamala D. Harris,234,4,142,88
+Liberty,31 - BS 23,President,,LIB,Chase Oliver,4,1,2,1
+Liberty,31 - BS 23,President,,GRN,Jill Stein,3,0,2,1
+Liberty,31 - BS 23,President,,,Under Votes,4,0,3,1
+Liberty,31 - BS 23,President,,,Over Votes,3,0,0,3
+Liberty,31 - BS 23,U.S. Senate,,REP,Ted Cruz,715,14,547,154
+Liberty,31 - BS 23,U.S. Senate,,DEM,Colin Allred,262,6,160,96
+Liberty,31 - BS 23,U.S. Senate,,LIB,Ted Brown,26,2,16,8
+Liberty,31 - BS 23,U.S. Senate,,,Under Votes,18,0,11,7
+Liberty,31 - BS 23,U.S. Senate,,,Over Votes,0,0,0,0
+Liberty,31 - BS 23,U.S. House,36,REP,Brian Babin,745,15,573,157
+Liberty,31 - BS 23,U.S. House,36,DEM,Dayna Steele,234,7,141,86
+Liberty,31 - BS 23,U.S. House,36,,Under Votes,42,0,20,22
+Liberty,31 - BS 23,U.S. House,36,,Over Votes,0,0,0,0
+Liberty,31 - BS 23,Railroad Commissioner,,REP,Christi Craddick,706,16,542,148
+Liberty,31 - BS 23,Railroad Commissioner,,DEM,Katherine Culbert,197,3,122,72
+Liberty,31 - BS 23,Railroad Commissioner,,LIB,Hawk Dunlap,27,2,19,6
+Liberty,31 - BS 23,Railroad Commissioner,,GRN,Eddie Espinoza,45,1,30,14
+Liberty,31 - BS 23,Railroad Commissioner,,,Under Votes,46,0,21,25
+Liberty,31 - BS 23,Railroad Commissioner,,,Over Votes,0,0,0,0
+Liberty,31 - BS 23,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,746,17,572,157
+Liberty,31 - BS 23,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,214,5,132,77
+Liberty,31 - BS 23,"Justice, Supreme Court, Place 2",2,,Under Votes,61,0,30,31
+Liberty,31 - BS 23,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Liberty,31 - BS 23,"Justice, Supreme Court, Place 4",4,REP,John Devine,739,17,568,154
+Liberty,31 - BS 23,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,229,4,143,82
+Liberty,31 - BS 23,"Justice, Supreme Court, Place 4",4,,Under Votes,53,1,23,29
+Liberty,31 - BS 23,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Liberty,31 - BS 23,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,714,16,550,148
+Liberty,31 - BS 23,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,214,4,133,77
+Liberty,31 - BS 23,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,36,2,24,10
+Liberty,31 - BS 23,"Justice, Supreme Court, Place 6",6,,Under Votes,57,0,27,30
+Liberty,31 - BS 23,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Liberty,31 - BS 23,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,741,18,569,154
+Liberty,31 - BS 23,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,221,4,134,83
+Liberty,31 - BS 23,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,59,0,31,28
+Liberty,31 - BS 23,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Liberty,31 - BS 23,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,749,18,577,154
+Liberty,31 - BS 23,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,214,4,130,80
+Liberty,31 - BS 23,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,58,0,27,31
+Liberty,31 - BS 23,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Liberty,31 - BS 23,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,739,18,568,153
+Liberty,31 - BS 23,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,223,3,137,83
+Liberty,31 - BS 23,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,59,1,29,29
+Liberty,31 - BS 23,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Liberty,31 - BS 23,State Representative,18,REP,Janis Holt,752,16,566,170
+Liberty,31 - BS 23,State Representative,18,LIB,Seth Steele,172,5,113,54
+Liberty,31 - BS 23,State Representative,18,,Under Votes,96,1,54,41
+Liberty,31 - BS 23,State Representative,18,,Over Votes,1,0,1,0
+Liberty,31 - BS 23,"Justice, 9th Court of Appeals District, Place 3",3,REP,LeAnne Johnson,831,20,613,198
+Liberty,31 - BS 23,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,190,2,121,67
+Liberty,31 - BS 23,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Liberty,31 - BS 23,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,822,19,606,197
+Liberty,31 - BS 23,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,199,3,128,68
+Liberty,31 - BS 23,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Liberty,31 - BS 23,"District Attorney, 253rd Judicial District",,REP,Jennifer L. Bergman,831,19,618,194
+Liberty,31 - BS 23,"District Attorney, 253rd Judicial District",,,Under Votes,190,3,116,71
+Liberty,31 - BS 23,"District Attorney, 253rd Judicial District",,,Over Votes,0,0,0,0
+Liberty,31 - BS 23,"Judge, County Court-at-law No. 2",,REP,Wesley N. Hinch,813,19,604,190
+Liberty,31 - BS 23,"Judge, County Court-at-law No. 2",,,Under Votes,208,3,130,75
+Liberty,31 - BS 23,"Judge, County Court-at-law No. 2",,,Over Votes,0,0,0,0
+Liberty,31 - BS 23,County Attorney,,REP,Matthew Poston,813,20,606,187
+Liberty,31 - BS 23,County Attorney,,,Under Votes,208,2,128,78
+Liberty,31 - BS 23,County Attorney,,,Over Votes,0,0,0,0
+Liberty,31 - BS 23,Sheriff,,REP,"Robert ""Bobby"" Rader",815,19,603,193
+Liberty,31 - BS 23,Sheriff,,,Under Votes,206,3,131,72
+Liberty,31 - BS 23,Sheriff,,,Over Votes,0,0,0,0
+Liberty,31 - BS 23,County Tax Assessor-Collector,,REP,"Richard ""Ricky"" L. Brown",817,19,607,191
+Liberty,31 - BS 23,County Tax Assessor-Collector,,,Under Votes,204,3,127,74
+Liberty,31 - BS 23,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Liberty,31 - BS 23,"County Commissioner, Precinct 3",,REP,David S. Whitmire,830,20,611,199
+Liberty,31 - BS 23,"County Commissioner, Precinct 3",,,Under Votes,191,2,123,66
+Liberty,31 - BS 23,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Liberty,31 - BS 23,"County Commissioner, Precinct 3",,REP,Zack Harkness,817,18,608,191
+Liberty,31 - BS 23,"County Commissioner, Precinct 3",,,Under Votes,204,4,126,74
+Liberty,31 - BS 23,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0

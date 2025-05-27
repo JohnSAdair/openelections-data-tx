@@ -1,0 +1,936 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Llano,101,Registered Voters,,,,331,,,
+Llano,101,Ballots Cast,,,,259,,,
+Llano,101,President,,REP,Donald J. Trump/JD Vance,217,7,181,29
+Llano,101,President,,DEM,Kamala D. Harris/Tim Walz,41,8,27,6
+Llano,101,President,,LIB,Chase Oliver/Mike ter Maat,1,1,0,0
+Llano,101,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Llano,101,President,,,Under Votes,0,0,0,0
+Llano,101,President,,,Over Votes,0,0,0,0
+Llano,101,U.S. Senate,,REP,Ted Cruz,214,8,178,28
+Llano,101,U.S. Senate,,DEM,Colin Allred,42,8,28,6
+Llano,101,U.S. Senate,,LIB,Ted Brown,2,0,1,1
+Llano,101,U.S. Senate,,,Under Votes,1,0,1,0
+Llano,101,U.S. Senate,,,Over Votes,0,0,0,0
+Llano,101,U.S. House,11,REP,August Pfluger,227,10,186,31
+Llano,101,U.S. House,11,,Under Votes,32,6,22,4
+Llano,101,U.S. House,11,,Over Votes,0,0,0,0
+Llano,101,Railroad Commissioner,,REP,Christi Craddick,209,8,177,24
+Llano,101,Railroad Commissioner,,DEM,Katherine Culbert,35,7,24,4
+Llano,101,Railroad Commissioner,,LIB,Hawk Dunlap,10,1,4,5
+Llano,101,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Llano,101,Railroad Commissioner,,,Under Votes,5,0,3,2
+Llano,101,Railroad Commissioner,,,Over Votes,0,0,0,0
+Llano,101,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,214,8,179,27
+Llano,101,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,38,7,25,6
+Llano,101,"Justice, Supreme Court, Place 2",2,,Under Votes,7,1,4,2
+Llano,101,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Llano,101,"Justice, Supreme Court, Place 4",4,REP,John Devine,213,9,177,27
+Llano,101,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,37,7,24,6
+Llano,101,"Justice, Supreme Court, Place 4",4,,Under Votes,9,0,7,2
+Llano,101,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Llano,101,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,212,9,177,26
+Llano,101,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,34,6,23,5
+Llano,101,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,7,1,4,2
+Llano,101,"Justice, Supreme Court, Place 6",6,,Under Votes,6,0,4,2
+Llano,101,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Llano,101,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,215,9,179,27
+Llano,101,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,36,7,23,6
+Llano,101,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,8,0,6,2
+Llano,101,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Llano,101,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,218,9,181,28
+Llano,101,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,34,7,22,5
+Llano,101,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,7,0,5,2
+Llano,101,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Llano,101,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,219,9,181,29
+Llano,101,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,34,7,23,4
+Llano,101,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,6,0,4,2
+Llano,101,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Llano,101,"Member, State Board of Education, District 10",10,REP,Tom Maynard,215,9,178,28
+Llano,101,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,36,7,24,5
+Llano,101,"Member, State Board of Education, District 10",10,,Under Votes,8,0,6,2
+Llano,101,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Llano,101,State Representative,53,REP,Wes Virdell,197,9,164,24
+Llano,101,State Representative,53,DEM,Joe P. Herrera,37,7,24,6
+Llano,101,State Representative,53,LIB,B. W. Holk,13,0,11,2
+Llano,101,State Representative,53,,Under Votes,12,0,9,3
+Llano,101,State Representative,53,,Over Votes,0,0,0,0
+Llano,101,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,213,9,178,26
+Llano,101,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,38,7,25,6
+Llano,101,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,8,0,5,3
+Llano,101,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Llano,101,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,89,10,66,13
+Llano,101,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,170,6,142,22
+Llano,101,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Llano,101,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,78,10,57,11
+Llano,101,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,181,6,151,24
+Llano,101,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Llano,101,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,78,10,57,11
+Llano,101,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,181,6,151,24
+Llano,101,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Llano,101,"District Judge, 33rd Judicial District",,REP,Allan Garrett,222,10,182,30
+Llano,101,"District Judge, 33rd Judicial District",,,Under Votes,37,6,26,5
+Llano,101,"District Judge, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,101,"District Attorney, 33rd Judicial District",,REP,Perry Thomas,223,10,183,30
+Llano,101,"District Attorney, 33rd Judicial District",,,Under Votes,36,6,25,5
+Llano,101,"District Attorney, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,101,County Attorney,,REP,Dwain K. Rogers,225,10,185,30
+Llano,101,County Attorney,,,Under Votes,34,6,23,5
+Llano,101,County Attorney,,,Over Votes,0,0,0,0
+Llano,101,County Clerk- UNEXPIRED TERM,,REP,Cecilia McClintock,224,10,184,30
+Llano,101,County Clerk- UNEXPIRED TERM,,,Under Votes,35,6,24,5
+Llano,101,County Clerk- UNEXPIRED TERM,,,Over Votes,0,0,0,0
+Llano,101,Sheriff,,REP,Marquis Cantu,220,10,179,31
+Llano,101,Sheriff,,,Under Votes,39,6,29,4
+Llano,101,Sheriff,,,Over Votes,0,0,0,0
+Llano,101,County Tax Assessor-Collector,,REP,Kris Fogelberg,226,10,186,30
+Llano,101,County Tax Assessor-Collector,,,Under Votes,33,6,22,5
+Llano,101,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Llano,101,County Commissioner Precinct 1,,REP,Peter Jones,220,9,183,28
+Llano,101,County Commissioner Precinct 1,,,Under Votes,39,7,25,7
+Llano,101,County Commissioner Precinct 1,,,Over Votes,0,0,0,0
+Llano,101,Justice of the Peace Precinct 1- UNEXPIRED TERM,,REP,Sam Silver,222,10,183,29
+Llano,101,Justice of the Peace Precinct 1- UNEXPIRED TERM,,,Under Votes,37,6,25,6
+Llano,101,Justice of the Peace Precinct 1- UNEXPIRED TERM,,,Over Votes,0,0,0,0
+Llano,101,County Constable Precinct 1,,REP,Gary Silver,217,10,180,27
+Llano,101,County Constable Precinct 1,,,Under Votes,42,6,28,8
+Llano,101,County Constable Precinct 1,,,Over Votes,0,0,0,0
+Llano,102,Registered Voters,,,,708,,,
+Llano,102,Ballots Cast,,,,602,,,
+Llano,102,President,,REP,Donald J. Trump/JD Vance,442,25,349,68
+Llano,102,President,,DEM,Kamala D. Harris/Tim Walz,143,26,101,16
+Llano,102,President,,LIB,Chase Oliver/Mike ter Maat,6,0,4,2
+Llano,102,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Llano,102,President,,,Under Votes,10,2,7,1
+Llano,102,President,,,Over Votes,0,0,0,0
+Llano,102,U.S. Senate,,REP,Ted Cruz,438,25,347,66
+Llano,102,U.S. Senate,,DEM,Colin Allred,152,26,108,18
+Llano,102,U.S. Senate,,LIB,Ted Brown,7,0,6,1
+Llano,102,U.S. Senate,,,Under Votes,5,2,1,2
+Llano,102,U.S. Senate,,,Over Votes,0,0,0,0
+Llano,102,U.S. House,11,REP,August Pfluger,498,37,385,76
+Llano,102,U.S. House,11,,Under Votes,104,16,77,11
+Llano,102,U.S. House,11,,Over Votes,0,0,0,0
+Llano,102,Railroad Commissioner,,REP,Christi Craddick,449,28,350,71
+Llano,102,Railroad Commissioner,,DEM,Katherine Culbert,119,20,90,9
+Llano,102,Railroad Commissioner,,LIB,Hawk Dunlap,14,0,12,2
+Llano,102,Railroad Commissioner,,GRN,Eddie Espinoza,7,2,2,3
+Llano,102,Railroad Commissioner,,,Under Votes,13,3,8,2
+Llano,102,Railroad Commissioner,,,Over Votes,0,0,0,0
+Llano,102,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,461,26,363,72
+Llano,102,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,128,22,93,13
+Llano,102,"Justice, Supreme Court, Place 2",2,,Under Votes,13,5,6,2
+Llano,102,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Llano,102,"Justice, Supreme Court, Place 4",4,REP,John Devine,453,24,359,70
+Llano,102,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,137,24,97,16
+Llano,102,"Justice, Supreme Court, Place 4",4,,Under Votes,12,5,6,1
+Llano,102,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Llano,102,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,439,24,343,72
+Llano,102,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,126,23,92,11
+Llano,102,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,17,1,14,2
+Llano,102,"Justice, Supreme Court, Place 6",6,,Under Votes,20,5,13,2
+Llano,102,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Llano,102,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,455,26,359,70
+Llano,102,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,133,23,95,15
+Llano,102,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,14,4,8,2
+Llano,102,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Llano,102,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,452,25,356,71
+Llano,102,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,134,23,97,14
+Llano,102,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,16,5,9,2
+Llano,102,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Llano,102,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,454,24,357,73
+Llano,102,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,125,22,92,11
+Llano,102,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,23,7,13,3
+Llano,102,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Llano,102,"Member, State Board of Education, District 10",10,REP,Tom Maynard,453,26,358,69
+Llano,102,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,129,22,94,13
+Llano,102,"Member, State Board of Education, District 10",10,,Under Votes,20,5,10,5
+Llano,102,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Llano,102,State Representative,53,REP,Wes Virdell,444,25,348,71
+Llano,102,State Representative,53,DEM,Joe P. Herrera,127,23,93,11
+Llano,102,State Representative,53,LIB,B. W. Holk,14,0,11,3
+Llano,102,State Representative,53,,Under Votes,17,5,10,2
+Llano,102,State Representative,53,,Over Votes,0,0,0,0
+Llano,102,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,456,27,359,70
+Llano,102,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,127,20,92,15
+Llano,102,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,19,6,11,2
+Llano,102,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Llano,102,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,221,22,164,35
+Llano,102,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,381,31,298,52
+Llano,102,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Llano,102,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,211,22,157,32
+Llano,102,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,391,31,305,55
+Llano,102,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Llano,102,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,209,22,155,32
+Llano,102,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,393,31,307,55
+Llano,102,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Llano,102,"District Judge, 33rd Judicial District",,REP,Allan Garrett,487,33,377,77
+Llano,102,"District Judge, 33rd Judicial District",,,Under Votes,115,20,85,10
+Llano,102,"District Judge, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,102,"District Attorney, 33rd Judicial District",,REP,Perry Thomas,485,33,376,76
+Llano,102,"District Attorney, 33rd Judicial District",,,Under Votes,117,20,86,11
+Llano,102,"District Attorney, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,102,County Attorney,,REP,Dwain K. Rogers,492,34,380,78
+Llano,102,County Attorney,,,Under Votes,110,19,82,9
+Llano,102,County Attorney,,,Over Votes,0,0,0,0
+Llano,102,County Clerk- UNEXPIRED TERM,,REP,Cecilia McClintock,489,34,378,77
+Llano,102,County Clerk- UNEXPIRED TERM,,,Under Votes,113,19,84,10
+Llano,102,County Clerk- UNEXPIRED TERM,,,Over Votes,0,0,0,0
+Llano,102,Sheriff,,REP,Marquis Cantu,510,36,392,82
+Llano,102,Sheriff,,,Under Votes,92,17,70,5
+Llano,102,Sheriff,,,Over Votes,0,0,0,0
+Llano,102,County Tax Assessor-Collector,,REP,Kris Fogelberg,495,35,381,79
+Llano,102,County Tax Assessor-Collector,,,Under Votes,107,18,81,8
+Llano,102,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Llano,102,County Commissioner Precinct 1,,REP,Peter Jones,505,36,392,77
+Llano,102,County Commissioner Precinct 1,,,Under Votes,97,17,70,10
+Llano,102,County Commissioner Precinct 1,,,Over Votes,0,0,0,0
+Llano,102,Justice of the Peace Precinct 1- UNEXPIRED TERM,,REP,Sam Silver,500,35,386,79
+Llano,102,Justice of the Peace Precinct 1- UNEXPIRED TERM,,,Under Votes,102,18,76,8
+Llano,102,Justice of the Peace Precinct 1- UNEXPIRED TERM,,,Over Votes,0,0,0,0
+Llano,102,County Constable Precinct 1,,REP,Gary Silver,493,34,382,77
+Llano,102,County Constable Precinct 1,,,Under Votes,109,19,80,10
+Llano,102,County Constable Precinct 1,,,Over Votes,0,0,0,0
+Llano,108,Registered Voters,,,,263,,,
+Llano,108,Ballots Cast,,,,214,,,
+Llano,108,President,,REP,Donald J. Trump/JD Vance,167,8,137,22
+Llano,108,President,,DEM,Kamala D. Harris/Tim Walz,41,8,32,1
+Llano,108,President,,LIB,Chase Oliver/Mike ter Maat,3,0,3,0
+Llano,108,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Llano,108,President,,,Under Votes,3,0,3,0
+Llano,108,President,,,Over Votes,0,0,0,0
+Llano,108,U.S. Senate,,REP,Ted Cruz,166,8,139,19
+Llano,108,U.S. Senate,,DEM,Colin Allred,39,7,30,2
+Llano,108,U.S. Senate,,LIB,Ted Brown,7,1,5,1
+Llano,108,U.S. Senate,,,Under Votes,2,0,1,1
+Llano,108,U.S. Senate,,,Over Votes,0,0,0,0
+Llano,108,U.S. House,11,REP,August Pfluger,179,11,146,22
+Llano,108,U.S. House,11,,Under Votes,35,5,29,1
+Llano,108,U.S. House,11,,Over Votes,0,0,0,0
+Llano,108,Railroad Commissioner,,REP,Christi Craddick,166,9,139,18
+Llano,108,Railroad Commissioner,,DEM,Katherine Culbert,34,7,26,1
+Llano,108,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,2,1
+Llano,108,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,3,1
+Llano,108,Railroad Commissioner,,,Under Votes,7,0,5,2
+Llano,108,Railroad Commissioner,,,Over Votes,0,0,0,0
+Llano,108,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,175,9,144,22
+Llano,108,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,35,7,27,1
+Llano,108,"Justice, Supreme Court, Place 2",2,,Under Votes,4,0,4,0
+Llano,108,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Llano,108,"Justice, Supreme Court, Place 4",4,REP,John Devine,173,9,143,21
+Llano,108,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,36,7,27,2
+Llano,108,"Justice, Supreme Court, Place 4",4,,Under Votes,5,0,5,0
+Llano,108,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Llano,108,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,171,9,141,21
+Llano,108,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,35,7,27,1
+Llano,108,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,5,0,4,1
+Llano,108,"Justice, Supreme Court, Place 6",6,,Under Votes,3,0,3,0
+Llano,108,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Llano,108,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,171,9,141,21
+Llano,108,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,42,7,33,2
+Llano,108,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,0,1,0
+Llano,108,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Llano,108,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,176,9,146,21
+Llano,108,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,36,7,27,2
+Llano,108,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,2,0,2,0
+Llano,108,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Llano,108,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,177,9,146,22
+Llano,108,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,34,7,26,1
+Llano,108,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,3,0,3,0
+Llano,108,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Llano,108,"Member, State Board of Education, District 10",10,REP,Tom Maynard,172,9,141,22
+Llano,108,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,36,7,28,1
+Llano,108,"Member, State Board of Education, District 10",10,,Under Votes,6,0,6,0
+Llano,108,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Llano,108,State Representative,53,REP,Wes Virdell,168,9,139,20
+Llano,108,State Representative,53,DEM,Joe P. Herrera,35,7,27,1
+Llano,108,State Representative,53,LIB,B. W. Holk,5,0,4,1
+Llano,108,State Representative,53,,Under Votes,6,0,5,1
+Llano,108,State Representative,53,,Over Votes,0,0,0,0
+Llano,108,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,174,9,143,22
+Llano,108,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,36,7,28,1
+Llano,108,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,4,0,4,0
+Llano,108,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Llano,108,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,66,8,54,4
+Llano,108,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,148,8,121,19
+Llano,108,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Llano,108,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,63,8,51,4
+Llano,108,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,151,8,124,19
+Llano,108,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Llano,108,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,60,7,49,4
+Llano,108,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,154,9,126,19
+Llano,108,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Llano,108,"District Judge, 33rd Judicial District",,REP,Allan Garrett,180,10,148,22
+Llano,108,"District Judge, 33rd Judicial District",,,Under Votes,34,6,27,1
+Llano,108,"District Judge, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,108,"District Attorney, 33rd Judicial District",,REP,Perry Thomas,181,11,147,23
+Llano,108,"District Attorney, 33rd Judicial District",,,Under Votes,33,5,28,0
+Llano,108,"District Attorney, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,108,County Attorney,,REP,Dwain K. Rogers,182,11,149,22
+Llano,108,County Attorney,,,Under Votes,32,5,26,1
+Llano,108,County Attorney,,,Over Votes,0,0,0,0
+Llano,108,County Clerk- UNEXPIRED TERM,,REP,Cecilia McClintock,185,11,151,23
+Llano,108,County Clerk- UNEXPIRED TERM,,,Under Votes,29,5,24,0
+Llano,108,County Clerk- UNEXPIRED TERM,,,Over Votes,0,0,0,0
+Llano,108,Sheriff,,REP,Marquis Cantu,177,11,146,20
+Llano,108,Sheriff,,,Under Votes,37,5,29,3
+Llano,108,Sheriff,,,Over Votes,0,0,0,0
+Llano,108,County Tax Assessor-Collector,,REP,Kris Fogelberg,186,14,150,22
+Llano,108,County Tax Assessor-Collector,,,Under Votes,28,2,25,1
+Llano,108,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Llano,108,County Commissioner Precinct 1,,REP,Peter Jones,182,14,146,22
+Llano,108,County Commissioner Precinct 1,,,Under Votes,32,2,29,1
+Llano,108,County Commissioner Precinct 1,,,Over Votes,0,0,0,0
+Llano,108,Justice of the Peace Precinct 1- UNEXPIRED TERM,,REP,Sam Silver,181,12,148,21
+Llano,108,Justice of the Peace Precinct 1- UNEXPIRED TERM,,,Under Votes,33,4,27,2
+Llano,108,Justice of the Peace Precinct 1- UNEXPIRED TERM,,,Over Votes,0,0,0,0
+Llano,108,County Constable Precinct 1,,REP,Gary Silver,183,12,149,22
+Llano,108,County Constable Precinct 1,,,Under Votes,31,4,26,1
+Llano,108,County Constable Precinct 1,,,Over Votes,0,0,0,0
+Llano,108 - SRB,Registered Voters,,,,782,,,
+Llano,108 - SRB,Ballots Cast,,,,631,,,
+Llano,108 - SRB,President,,REP,Donald J. Trump/JD Vance,448,26,353,69
+Llano,108 - SRB,President,,DEM,Kamala D. Harris/Tim Walz,174,24,113,37
+Llano,108 - SRB,President,,LIB,Chase Oliver/Mike ter Maat,2,0,1,1
+Llano,108 - SRB,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Llano,108 - SRB,President,,,Under Votes,5,1,2,2
+Llano,108 - SRB,President,,,Over Votes,0,0,0,0
+Llano,108 - SRB,U.S. Senate,,REP,Ted Cruz,443,27,346,70
+Llano,108 - SRB,U.S. Senate,,DEM,Colin Allred,173,24,117,32
+Llano,108 - SRB,U.S. Senate,,LIB,Ted Brown,10,0,5,5
+Llano,108 - SRB,U.S. Senate,,,Under Votes,5,0,3,2
+Llano,108 - SRB,U.S. Senate,,,Over Votes,0,0,0,0
+Llano,108 - SRB,U.S. House,11,REP,August Pfluger,502,30,386,86
+Llano,108 - SRB,U.S. House,11,,Under Votes,129,21,85,23
+Llano,108 - SRB,U.S. House,11,,Over Votes,0,0,0,0
+Llano,108 - SRB,Railroad Commissioner,,REP,Christi Craddick,443,27,347,69
+Llano,108 - SRB,Railroad Commissioner,,DEM,Katherine Culbert,150,22,99,29
+Llano,108 - SRB,Railroad Commissioner,,LIB,Hawk Dunlap,12,0,9,3
+Llano,108 - SRB,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,5,1
+Llano,108 - SRB,Railroad Commissioner,,,Under Votes,20,2,11,7
+Llano,108 - SRB,Railroad Commissioner,,,Over Votes,0,0,0,0
+Llano,108 - SRB,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,459,27,355,77
+Llano,108 - SRB,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,153,22,105,26
+Llano,108 - SRB,"Justice, Supreme Court, Place 2",2,,Under Votes,19,2,11,6
+Llano,108 - SRB,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Llano,108 - SRB,"Justice, Supreme Court, Place 4",4,REP,John Devine,453,27,354,72
+Llano,108 - SRB,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,154,22,103,29
+Llano,108 - SRB,"Justice, Supreme Court, Place 4",4,,Under Votes,24,2,14,8
+Llano,108 - SRB,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Llano,108 - SRB,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,448,27,353,68
+Llano,108 - SRB,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,147,22,99,26
+Llano,108 - SRB,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,19,0,11,8
+Llano,108 - SRB,"Justice, Supreme Court, Place 6",6,,Under Votes,17,2,8,7
+Llano,108 - SRB,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Llano,108 - SRB,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,461,27,363,71
+Llano,108 - SRB,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,154,22,102,30
+Llano,108 - SRB,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,16,2,6,8
+Llano,108 - SRB,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Llano,108 - SRB,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,462,27,363,72
+Llano,108 - SRB,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,154,22,101,31
+Llano,108 - SRB,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,15,2,7,6
+Llano,108 - SRB,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Llano,108 - SRB,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,463,27,361,75
+Llano,108 - SRB,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,145,21,99,25
+Llano,108 - SRB,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,23,3,11,9
+Llano,108 - SRB,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Llano,108 - SRB,"Member, State Board of Education, District 10",10,REP,Tom Maynard,461,27,358,76
+Llano,108 - SRB,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,153,21,105,27
+Llano,108 - SRB,"Member, State Board of Education, District 10",10,,Under Votes,17,3,8,6
+Llano,108 - SRB,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Llano,108 - SRB,State Representative,53,REP,Wes Virdell,452,28,351,73
+Llano,108 - SRB,State Representative,53,DEM,Joe P. Herrera,148,21,101,26
+Llano,108 - SRB,State Representative,53,LIB,B. W. Holk,15,0,11,4
+Llano,108 - SRB,State Representative,53,,Under Votes,16,2,8,6
+Llano,108 - SRB,State Representative,53,,Over Votes,0,0,0,0
+Llano,108 - SRB,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,457,27,356,74
+Llano,108 - SRB,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,154,22,103,29
+Llano,108 - SRB,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,20,2,12,6
+Llano,108 - SRB,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Llano,108 - SRB,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,249,26,165,58
+Llano,108 - SRB,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,382,25,306,51
+Llano,108 - SRB,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Llano,108 - SRB,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,241,26,159,56
+Llano,108 - SRB,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,390,25,312,53
+Llano,108 - SRB,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Llano,108 - SRB,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,240,26,159,55
+Llano,108 - SRB,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,391,25,312,54
+Llano,108 - SRB,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Llano,108 - SRB,"District Judge, 33rd Judicial District",,REP,Allan Garrett,496,32,383,81
+Llano,108 - SRB,"District Judge, 33rd Judicial District",,,Under Votes,135,19,88,28
+Llano,108 - SRB,"District Judge, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,108 - SRB,"District Attorney, 33rd Judicial District",,REP,Perry Thomas,489,30,376,83
+Llano,108 - SRB,"District Attorney, 33rd Judicial District",,,Under Votes,142,21,95,26
+Llano,108 - SRB,"District Attorney, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,108 - SRB,County Attorney,,REP,Dwain K. Rogers,497,31,384,82
+Llano,108 - SRB,County Attorney,,,Under Votes,134,20,87,27
+Llano,108 - SRB,County Attorney,,,Over Votes,0,0,0,0
+Llano,108 - SRB,County Clerk- UNEXPIRED TERM,,REP,Cecilia McClintock,494,31,381,82
+Llano,108 - SRB,County Clerk- UNEXPIRED TERM,,,Under Votes,137,20,90,27
+Llano,108 - SRB,County Clerk- UNEXPIRED TERM,,,Over Votes,0,0,0,0
+Llano,108 - SRB,Sheriff,,REP,Marquis Cantu,496,29,384,83
+Llano,108 - SRB,Sheriff,,,Under Votes,135,22,87,26
+Llano,108 - SRB,Sheriff,,,Over Votes,0,0,0,0
+Llano,108 - SRB,County Tax Assessor-Collector,,REP,Kris Fogelberg,500,30,386,84
+Llano,108 - SRB,County Tax Assessor-Collector,,,Under Votes,131,21,85,25
+Llano,108 - SRB,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Llano,108 - SRB,County Commissioner Precinct 1,,REP,Peter Jones,497,31,384,82
+Llano,108 - SRB,County Commissioner Precinct 1,,,Under Votes,134,20,87,27
+Llano,108 - SRB,County Commissioner Precinct 1,,,Over Votes,0,0,0,0
+Llano,108 - SRB,Justice of the Peace Precinct 1- UNEXPIRED TERM,,REP,Sam Silver,496,30,384,82
+Llano,108 - SRB,Justice of the Peace Precinct 1- UNEXPIRED TERM,,,Under Votes,135,21,87,27
+Llano,108 - SRB,Justice of the Peace Precinct 1- UNEXPIRED TERM,,,Over Votes,0,0,0,0
+Llano,108 - SRB,County Constable Precinct 1,,REP,Gary Silver,490,29,382,79
+Llano,108 - SRB,County Constable Precinct 1,,,Under Votes,141,22,89,30
+Llano,108 - SRB,County Constable Precinct 1,,,Over Votes,0,0,0,0
+Llano,108 - SRB,PROPOSITION A,,,Under Votes,23,3,15,5
+Llano,108 - SRB,PROPOSITION A,,,Over Votes,0,0,0,0
+Llano,109,Registered Voters,,,,4020,,,
+Llano,109,Ballots Cast,,,,3292,,,
+Llano,109,President,,REP,Donald J. Trump/JD Vance,2581,103,2304,174
+Llano,109,President,,DEM,Kamala D. Harris/Tim Walz,650,77,526,47
+Llano,109,President,,LIB,Chase Oliver/Mike ter Maat,21,1,15,5
+Llano,109,President,,GRN,Jill Stein/Rudolph Ware,6,0,6,0
+Llano,109,President,,,Under Votes,34,3,28,3
+Llano,109,President,,,Over Votes,0,0,0,0
+Llano,109,U.S. Senate,,REP,Ted Cruz,2576,105,2299,172
+Llano,109,U.S. Senate,,DEM,Colin Allred,655,73,534,48
+Llano,109,U.S. Senate,,LIB,Ted Brown,49,4,36,9
+Llano,109,U.S. Senate,,,Under Votes,12,2,10,0
+Llano,109,U.S. Senate,,,Over Votes,0,0,0,0
+Llano,109,U.S. House,11,REP,August Pfluger,2820,125,2495,200
+Llano,109,U.S. House,11,,Under Votes,472,59,384,29
+Llano,109,U.S. House,11,,Over Votes,0,0,0,0
+Llano,109,Railroad Commissioner,,REP,Christi Craddick,2634,106,2358,170
+Llano,109,Railroad Commissioner,,DEM,Katherine Culbert,518,65,419,34
+Llano,109,Railroad Commissioner,,LIB,Hawk Dunlap,55,1,41,13
+Llano,109,Railroad Commissioner,,GRN,Eddie Espinoza,17,1,14,2
+Llano,109,Railroad Commissioner,,,Under Votes,68,11,47,10
+Llano,109,Railroad Commissioner,,,Over Votes,0,0,0,0
+Llano,109,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,2666,103,2384,179
+Llano,109,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,558,67,446,45
+Llano,109,"Justice, Supreme Court, Place 2",2,,Under Votes,68,14,49,5
+Llano,109,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Llano,109,"Justice, Supreme Court, Place 4",4,REP,John Devine,2619,104,2338,177
+Llano,109,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,595,67,479,49
+Llano,109,"Justice, Supreme Court, Place 4",4,,Under Votes,78,13,62,3
+Llano,109,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Llano,109,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,2621,104,2342,175
+Llano,109,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,553,66,446,41
+Llano,109,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,48,1,37,10
+Llano,109,"Justice, Supreme Court, Place 6",6,,Under Votes,70,13,54,3
+Llano,109,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Llano,109,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,2649,104,2363,182
+Llano,109,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,566,66,456,44
+Llano,109,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,77,14,60,3
+Llano,109,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Llano,109,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,2663,105,2377,181
+Llano,109,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,554,66,444,44
+Llano,109,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,75,13,58,4
+Llano,109,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Llano,109,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,2676,108,2386,182
+Llano,109,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,529,63,425,41
+Llano,109,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,87,13,68,6
+Llano,109,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Llano,109,"Member, State Board of Education, District 10",10,REP,Tom Maynard,2660,103,2375,182
+Llano,109,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,556,67,445,44
+Llano,109,"Member, State Board of Education, District 10",10,,Under Votes,76,14,59,3
+Llano,109,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Llano,109,State Representative,53,REP,Wes Virdell,2612,101,2333,178
+Llano,109,State Representative,53,DEM,Joe P. Herrera,564,69,457,38
+Llano,109,State Representative,53,LIB,B. W. Holk,44,1,35,8
+Llano,109,State Representative,53,,Under Votes,72,13,54,5
+Llano,109,State Representative,53,,Over Votes,0,0,0,0
+Llano,109,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,2640,103,2356,181
+Llano,109,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,572,67,462,43
+Llano,109,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,80,14,61,5
+Llano,109,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Llano,109,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,1128,81,949,98
+Llano,109,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,131,103,1,930
+Llano,109,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Llano,109,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,1079,80,902,97
+Llano,109,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,132,104,1,977
+Llano,109,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Llano,109,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,1053,81,875,97
+Llano,109,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,132,103,2,4
+Llano,109,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Llano,109,"District Judge, 33rd Judicial District",,REP,Allan Garrett,2815,124,2493,198
+Llano,109,"District Judge, 33rd Judicial District",,,Under Votes,477,60,386,31
+Llano,109,"District Judge, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,109,"District Attorney, 33rd Judicial District",,REP,Perry Thomas,2801,123,2484,194
+Llano,109,"District Attorney, 33rd Judicial District",,,Under Votes,491,61,395,35
+Llano,109,"District Attorney, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,109,County Attorney,,REP,Dwain K. Rogers,2814,125,2495,194
+Llano,109,County Attorney,,,Under Votes,478,59,384,35
+Llano,109,County Attorney,,,Over Votes,0,0,0,0
+Llano,109,County Clerk- UNEXPIRED TERM,,REP,Cecilia McClintock,2813,126,2492,195
+Llano,109,County Clerk- UNEXPIRED TERM,,,Under Votes,479,58,387,34
+Llano,109,County Clerk- UNEXPIRED TERM,,,Over Votes,0,0,0,0
+Llano,109,Sheriff,,REP,Marquis Cantu,2826,127,2504,195
+Llano,109,Sheriff,,,Under Votes,466,57,375,34
+Llano,109,Sheriff,,,Over Votes,0,0,0,0
+Llano,109,County Tax Assessor-Collector,,REP,Kris Fogelberg,2834,127,2513,194
+Llano,109,County Tax Assessor-Collector,,,Under Votes,458,57,366,35
+Llano,109,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Llano,109,County Commissioner Precinct 1,,REP,Peter Jones,2824,126,2507,191
+Llano,109,County Commissioner Precinct 1,,,Under Votes,468,58,372,38
+Llano,109,County Commissioner Precinct 1,,,Over Votes,0,0,0,0
+Llano,109,Justice of the Peace Precinct 1- UNEXPIRED TERM,,REP,Sam Silver,2822,126,2501,195
+Llano,109,Justice of the Peace Precinct 1- UNEXPIRED TERM,,,Under Votes,470,58,378,34
+Llano,109,Justice of the Peace Precinct 1- UNEXPIRED TERM,,,Over Votes,0,0,0,0
+Llano,109,County Constable Precinct 1,,REP,Gary Silver,2813,126,2494,193
+Llano,109,County Constable Precinct 1,,,Under Votes,479,58,385,36
+Llano,109,County Constable Precinct 1,,,Over Votes,0,0,0,0
+Llano,203,Registered Voters,,,,2748,,,
+Llano,203,Ballots Cast,,,,1929,,,
+Llano,203,President,,REP,Donald J. Trump/JD Vance,1572,70,1261,241
+Llano,203,President,,DEM,Kamala D. Harris/Tim Walz,331,34,254,43
+Llano,203,President,,LIB,Chase Oliver/Mike ter Maat,7,0,4,3
+Llano,203,President,,GRN,Jill Stein/Rudolph Ware,2,0,1,1
+Llano,203,President,,,Under Votes,12,3,9,0
+Llano,203,President,,,Over Votes,0,0,0,0
+Llano,203,U.S. Senate,,REP,Ted Cruz,1547,73,1244,230
+Llano,203,U.S. Senate,,DEM,Colin Allred,336,32,259,45
+Llano,203,U.S. Senate,,LIB,Ted Brown,31,0,20,11
+Llano,203,U.S. Senate,,,Under Votes,15,2,11,2
+Llano,203,U.S. Senate,,,Over Votes,0,0,0,0
+Llano,203,U.S. House,11,REP,August Pfluger,1645,80,1320,245
+Llano,203,U.S. House,11,,Under Votes,284,27,214,43
+Llano,203,U.S. House,11,,Over Votes,0,0,0,0
+Llano,203,Railroad Commissioner,,REP,Christi Craddick,1530,76,1229,225
+Llano,203,Railroad Commissioner,,DEM,Katherine Culbert,280,26,219,35
+Llano,203,Railroad Commissioner,,LIB,Hawk Dunlap,40,0,31,9
+Llano,203,Railroad Commissioner,,GRN,Eddie Espinoza,17,0,14,3
+Llano,203,Railroad Commissioner,,,Under Votes,62,5,41,16
+Llano,203,Railroad Commissioner,,,Over Votes,0,0,0,0
+Llano,203,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1582,77,1268,237
+Llano,203,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,293,27,229,37
+Llano,203,"Justice, Supreme Court, Place 2",2,,Under Votes,54,3,37,14
+Llano,203,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Llano,203,"Justice, Supreme Court, Place 4",4,REP,John Devine,1571,78,1260,233
+Llano,203,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,300,27,236,37
+Llano,203,"Justice, Supreme Court, Place 4",4,,Under Votes,58,2,38,18
+Llano,203,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Llano,203,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1548,76,1247,225
+Llano,203,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,285,28,223,34
+Llano,203,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,45,1,33,11
+Llano,203,"Justice, Supreme Court, Place 6",6,,Under Votes,51,2,31,18
+Llano,203,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Llano,203,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1563,76,1259,228
+Llano,203,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,309,28,240,41
+Llano,203,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,57,3,35,19
+Llano,203,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Llano,203,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1580,75,1269,236
+Llano,203,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,294,27,230,37
+Llano,203,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,55,5,35,15
+Llano,203,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Llano,203,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1575,75,1270,230
+Llano,203,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,287,26,225,36
+Llano,203,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,67,6,39,22
+Llano,203,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Llano,203,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1577,77,1271,229
+Llano,203,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,295,25,232,38
+Llano,203,"Member, State Board of Education, District 10",10,,Under Votes,57,5,31,21
+Llano,203,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Llano,203,State Representative,53,REP,Wes Virdell,1541,74,1242,225
+Llano,203,State Representative,53,DEM,Joe P. Herrera,288,26,227,35
+Llano,203,State Representative,53,LIB,B. W. Holk,43,2,30,11
+Llano,203,State Representative,53,,Under Votes,57,5,35,17
+Llano,203,State Representative,53,,Over Votes,0,0,0,0
+Llano,203,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,1582,77,1270,235
+Llano,203,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,292,25,230,37
+Llano,203,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,55,5,34,16
+Llano,203,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Llano,203,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,634,42,499,93
+Llano,203,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,195,65,1,35
+Llano,203,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Llano,203,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,596,39,466,91
+Llano,203,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,197,68,1,68
+Llano,203,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Llano,203,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,593,41,459,93
+Llano,203,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,195,66,1,75
+Llano,203,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Llano,203,"District Judge, 33rd Judicial District",,REP,Allan Garrett,1622,78,1305,239
+Llano,203,"District Judge, 33rd Judicial District",,,Under Votes,307,29,229,49
+Llano,203,"District Judge, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,203,"District Attorney, 33rd Judicial District",,REP,Perry Thomas,1629,78,1312,239
+Llano,203,"District Attorney, 33rd Judicial District",,,Under Votes,300,29,222,49
+Llano,203,"District Attorney, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,203,County Attorney,,REP,Dwain K. Rogers,1626,78,1311,237
+Llano,203,County Attorney,,,Under Votes,303,29,223,51
+Llano,203,County Attorney,,,Over Votes,0,0,0,0
+Llano,203,County Clerk- UNEXPIRED TERM,,REP,Cecilia McClintock,1633,77,1313,243
+Llano,203,County Clerk- UNEXPIRED TERM,,,Under Votes,296,30,221,45
+Llano,203,County Clerk- UNEXPIRED TERM,,,Over Votes,0,0,0,0
+Llano,203,Sheriff,,REP,Marquis Cantu,1627,79,1310,238
+Llano,203,Sheriff,,,Under Votes,302,28,224,50
+Llano,203,Sheriff,,,Over Votes,0,0,0,0
+Llano,203,County Tax Assessor-Collector,,REP,Kris Fogelberg,1641,79,1322,240
+Llano,203,County Tax Assessor-Collector,,,Under Votes,288,28,212,48
+Llano,203,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Llano,203,County Constable Precinct 2,,REP,Richard Harris,1608,76,1297,235
+Llano,203,County Constable Precinct 2,,,Under Votes,321,31,237,53
+Llano,203,County Constable Precinct 2,,,Over Votes,0,0,0,0
+Llano,204,Registered Voters,,,,925,,,
+Llano,204,Ballots Cast,,,,695,,,
+Llano,204,President,,REP,Donald J. Trump/JD Vance,572,29,462,81
+Llano,204,President,,DEM,Kamala D. Harris/Tim Walz,113,11,74,28
+Llano,204,President,,LIB,Chase Oliver/Mike ter Maat,2,0,2,0
+Llano,204,President,,GRN,Jill Stein/Rudolph Ware,3,0,2,1
+Llano,204,President,,,Under Votes,5,0,5,0
+Llano,204,President,,,Over Votes,0,0,0,0
+Llano,204,U.S. Senate,,REP,Ted Cruz,559,29,454,76
+Llano,204,U.S. Senate,,DEM,Colin Allred,108,10,72,26
+Llano,204,U.S. Senate,,LIB,Ted Brown,18,1,12,5
+Llano,204,U.S. Senate,,,Under Votes,10,0,7,3
+Llano,204,U.S. Senate,,,Over Votes,0,0,0,0
+Llano,204,U.S. House,11,REP,August Pfluger,599,28,482,89
+Llano,204,U.S. House,11,,Under Votes,96,12,63,21
+Llano,204,U.S. House,11,,Over Votes,0,0,0,0
+Llano,204,Railroad Commissioner,,REP,Christi Craddick,557,27,452,78
+Llano,204,Railroad Commissioner,,DEM,Katherine Culbert,90,10,62,18
+Llano,204,Railroad Commissioner,,LIB,Hawk Dunlap,16,0,10,6
+Llano,204,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,3,2
+Llano,204,Railroad Commissioner,,,Under Votes,27,3,18,6
+Llano,204,Railroad Commissioner,,,Over Votes,0,0,0,0
+Llano,204,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,568,29,457,82
+Llano,204,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,98,9,67,22
+Llano,204,"Justice, Supreme Court, Place 2",2,,Under Votes,29,2,21,6
+Llano,204,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Llano,204,"Justice, Supreme Court, Place 4",4,REP,John Devine,563,28,453,82
+Llano,204,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,103,10,71,22
+Llano,204,"Justice, Supreme Court, Place 4",4,,Under Votes,29,2,21,6
+Llano,204,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Llano,204,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,561,29,455,77
+Llano,204,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,93,9,63,21
+Llano,204,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,16,0,9,7
+Llano,204,"Justice, Supreme Court, Place 6",6,,Under Votes,25,2,18,5
+Llano,204,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Llano,204,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,562,28,452,82
+Llano,204,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,102,10,69,23
+Llano,204,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,31,2,24,5
+Llano,204,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Llano,204,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,567,29,457,81
+Llano,204,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,96,8,67,21
+Llano,204,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,32,3,21,8
+Llano,204,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Llano,204,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,565,29,454,82
+Llano,204,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,97,8,70,19
+Llano,204,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,33,3,21,9
+Llano,204,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Llano,204,"Member, State Board of Education, District 10",10,REP,Tom Maynard,568,28,459,81
+Llano,204,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,98,9,68,21
+Llano,204,"Member, State Board of Education, District 10",10,,Under Votes,29,3,18,8
+Llano,204,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Llano,204,State Representative,53,REP,Wes Virdell,560,30,453,77
+Llano,204,State Representative,53,DEM,Joe P. Herrera,96,8,68,20
+Llano,204,State Representative,53,LIB,B. W. Holk,19,0,12,7
+Llano,204,State Representative,53,,Under Votes,20,2,12,6
+Llano,204,State Representative,53,,Over Votes,0,0,0,0
+Llano,204,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,565,28,458,79
+Llano,204,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,99,9,67,23
+Llano,204,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,31,3,20,8
+Llano,204,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Llano,204,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,231,18,168,45
+Llano,204,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,464,22,377,65
+Llano,204,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Llano,204,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,216,18,156,42
+Llano,204,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,479,22,389,68
+Llano,204,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Llano,204,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,210,19,150,41
+Llano,204,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,485,21,395,69
+Llano,204,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Llano,204,"District Judge, 33rd Judicial District",,REP,Allan Garrett,593,32,475,86
+Llano,204,"District Judge, 33rd Judicial District",,,Under Votes,102,8,70,24
+Llano,204,"District Judge, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,204,"District Attorney, 33rd Judicial District",,REP,Perry Thomas,589,31,472,86
+Llano,204,"District Attorney, 33rd Judicial District",,,Under Votes,106,9,73,24
+Llano,204,"District Attorney, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,204,County Attorney,,REP,Dwain K. Rogers,585,30,468,87
+Llano,204,County Attorney,,,Under Votes,110,10,77,23
+Llano,204,County Attorney,,,Over Votes,0,0,0,0
+Llano,204,County Clerk- UNEXPIRED TERM,,REP,Cecilia McClintock,591,31,474,86
+Llano,204,County Clerk- UNEXPIRED TERM,,,Under Votes,104,9,71,24
+Llano,204,County Clerk- UNEXPIRED TERM,,,Over Votes,0,0,0,0
+Llano,204,Sheriff,,REP,Marquis Cantu,589,30,473,86
+Llano,204,Sheriff,,,Under Votes,106,10,72,24
+Llano,204,Sheriff,,,Over Votes,0,0,0,0
+Llano,204,County Tax Assessor-Collector,,REP,Kris Fogelberg,590,31,473,86
+Llano,204,County Tax Assessor-Collector,,,Under Votes,105,9,72,24
+Llano,204,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Llano,204,County Constable Precinct 2,,REP,Richard Harris,586,31,469,86
+Llano,204,County Constable Precinct 2,,,Under Votes,109,9,76,24
+Llano,204,County Constable Precinct 2,,,Over Votes,0,0,0,0
+Llano,205,Registered Voters,,,,789,,,
+Llano,205,Ballots Cast,,,,572,,,
+Llano,205,President,,REP,Donald J. Trump/JD Vance,470,24,325,121
+Llano,205,President,,DEM,Kamala D. Harris/Tim Walz,94,13,53,28
+Llano,205,President,,LIB,Chase Oliver/Mike ter Maat,6,0,5,1
+Llano,205,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Llano,205,President,,,Under Votes,2,0,1,1
+Llano,205,President,,,Over Votes,0,0,0,0
+Llano,205,U.S. Senate,,REP,Ted Cruz,463,23,321,119
+Llano,205,U.S. Senate,,DEM,Colin Allred,91,13,51,27
+Llano,205,U.S. Senate,,LIB,Ted Brown,14,1,9,4
+Llano,205,U.S. Senate,,,Under Votes,4,0,3,1
+Llano,205,U.S. Senate,,,Over Votes,0,0,0,0
+Llano,205,U.S. House,11,REP,August Pfluger,488,25,336,127
+Llano,205,U.S. House,11,,Under Votes,84,12,48,24
+Llano,205,U.S. House,11,,Over Votes,0,0,0,0
+Llano,205,Railroad Commissioner,,REP,Christi Craddick,461,22,319,120
+Llano,205,Railroad Commissioner,,DEM,Katherine Culbert,77,12,44,21
+Llano,205,Railroad Commissioner,,LIB,Hawk Dunlap,17,2,10,5
+Llano,205,Railroad Commissioner,,GRN,Eddie Espinoza,3,1,1,1
+Llano,205,Railroad Commissioner,,,Under Votes,14,0,10,4
+Llano,205,Railroad Commissioner,,,Over Votes,0,0,0,0
+Llano,205,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,474,24,326,124
+Llano,205,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,84,13,47,24
+Llano,205,"Justice, Supreme Court, Place 2",2,,Under Votes,14,0,11,3
+Llano,205,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Llano,205,"Justice, Supreme Court, Place 4",4,REP,John Devine,473,24,327,122
+Llano,205,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,88,13,49,26
+Llano,205,"Justice, Supreme Court, Place 4",4,,Under Votes,11,0,8,3
+Llano,205,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Llano,205,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,462,24,322,116
+Llano,205,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,81,13,45,23
+Llano,205,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,16,0,10,6
+Llano,205,"Justice, Supreme Court, Place 6",6,,Under Votes,13,0,7,6
+Llano,205,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Llano,205,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,470,24,325,121
+Llano,205,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,88,13,50,25
+Llano,205,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,14,0,9,5
+Llano,205,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Llano,205,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,474,25,326,123
+Llano,205,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,80,12,45,23
+Llano,205,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,18,0,13,5
+Llano,205,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Llano,205,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,474,24,328,122
+Llano,205,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,77,13,42,22
+Llano,205,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,21,0,14,7
+Llano,205,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Llano,205,"Member, State Board of Education, District 10",10,REP,Tom Maynard,473,23,325,125
+Llano,205,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,83,14,48,21
+Llano,205,"Member, State Board of Education, District 10",10,,Under Votes,16,0,11,5
+Llano,205,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Llano,205,State Representative,53,REP,Wes Virdell,460,24,321,115
+Llano,205,State Representative,53,DEM,Joe P. Herrera,83,13,45,25
+Llano,205,State Representative,53,LIB,B. W. Holk,14,0,10,4
+Llano,205,State Representative,53,,Under Votes,15,0,8,7
+Llano,205,State Representative,53,,Over Votes,0,0,0,0
+Llano,205,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,471,24,324,123
+Llano,205,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,84,13,47,24
+Llano,205,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,17,0,13,4
+Llano,205,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Llano,205,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,174,15,111,48
+Llano,205,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,398,22,273,103
+Llano,205,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Llano,205,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,168,15,103,50
+Llano,205,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,404,22,281,101
+Llano,205,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Llano,205,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,165,15,103,47
+Llano,205,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,407,22,281,104
+Llano,205,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Llano,205,"District Judge, 33rd Judicial District",,REP,Allan Garrett,484,27,329,128
+Llano,205,"District Judge, 33rd Judicial District",,,Under Votes,88,10,55,23
+Llano,205,"District Judge, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,205,"District Attorney, 33rd Judicial District",,REP,Perry Thomas,486,27,333,126
+Llano,205,"District Attorney, 33rd Judicial District",,,Under Votes,86,10,51,25
+Llano,205,"District Attorney, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,205,County Attorney,,REP,Dwain K. Rogers,482,26,333,123
+Llano,205,County Attorney,,,Under Votes,90,11,51,28
+Llano,205,County Attorney,,,Over Votes,0,0,0,0
+Llano,205,County Clerk- UNEXPIRED TERM,,REP,Cecilia McClintock,484,26,335,123
+Llano,205,County Clerk- UNEXPIRED TERM,,,Under Votes,88,11,49,28
+Llano,205,County Clerk- UNEXPIRED TERM,,,Over Votes,0,0,0,0
+Llano,205,Sheriff,,REP,Marquis Cantu,481,27,331,123
+Llano,205,Sheriff,,,Under Votes,91,10,53,28
+Llano,205,Sheriff,,,Over Votes,0,0,0,0
+Llano,205,County Tax Assessor-Collector,,REP,Kris Fogelberg,488,27,336,125
+Llano,205,County Tax Assessor-Collector,,,Under Votes,84,10,48,26
+Llano,205,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Llano,205,County Constable Precinct 2,,REP,Richard Harris,467,27,325,115
+Llano,205,County Constable Precinct 2,,,Under Votes,105,10,59,36
+Llano,205,County Constable Precinct 2,,,Over Votes,0,0,0,0
+Llano,307,Registered Voters,,,,3560,,,
+Llano,307,Ballots Cast,,,,2250,,,
+Llano,307,President,,REP,Donald J. Trump/JD Vance,1789,54,1477,258
+Llano,307,President,,DEM,Kamala D. Harris/Tim Walz,431,45,315,71
+Llano,307,President,,LIB,Chase Oliver/Mike ter Maat,11,0,6,5
+Llano,307,President,,GRN,Jill Stein/Rudolph Ware,6,1,4,1
+Llano,307,President,,,Under Votes,13,1,7,5
+Llano,307,President,,,Over Votes,0,0,0,0
+Llano,307,U.S. Senate,,REP,Ted Cruz,1734,54,1433,247
+Llano,307,U.S. Senate,,DEM,Colin Allred,451,44,330,77
+Llano,307,U.S. Senate,,LIB,Ted Brown,47,2,35,10
+Llano,307,U.S. Senate,,,Under Votes,17,1,11,5
+Llano,307,U.S. Senate,,,Over Votes,0,0,0,0
+Llano,307,U.S. House,11,REP,August Pfluger,1873,64,1535,274
+Llano,307,U.S. House,11,,Under Votes,377,37,274,66
+Llano,307,U.S. House,11,,Over Votes,0,0,0,0
+Llano,307,Railroad Commissioner,,REP,Christi Craddick,1697,54,1419,224
+Llano,307,Railroad Commissioner,,DEM,Katherine Culbert,377,40,277,60
+Llano,307,Railroad Commissioner,,LIB,Hawk Dunlap,59,2,36,21
+Llano,307,Railroad Commissioner,,GRN,Eddie Espinoza,20,0,14,6
+Llano,307,Railroad Commissioner,,,Under Votes,95,5,63,27
+Llano,307,Railroad Commissioner,,,Over Votes,0,0,0,0
+Llano,307,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1777,52,1474,251
+Llano,307,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,394,41,286,67
+Llano,307,"Justice, Supreme Court, Place 2",2,,Under Votes,79,8,49,22
+Llano,307,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Llano,307,"Justice, Supreme Court, Place 4",4,REP,John Devine,1751,53,1453,245
+Llano,307,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,418,42,304,72
+Llano,307,"Justice, Supreme Court, Place 4",4,,Under Votes,81,6,52,23
+Llano,307,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Llano,307,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1723,53,1434,236
+Llano,307,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,402,41,294,67
+Llano,307,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,54,1,35,18
+Llano,307,"Justice, Supreme Court, Place 6",6,,Under Votes,71,6,46,19
+Llano,307,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Llano,307,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1750,52,1456,242
+Llano,307,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,420,43,304,73
+Llano,307,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,80,6,49,25
+Llano,307,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Llano,307,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1751,53,1455,243
+Llano,307,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,414,41,304,69
+Llano,307,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,85,7,50,28
+Llano,307,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Llano,307,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1771,55,1468,248
+Llano,307,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,391,40,284,67
+Llano,307,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,88,6,57,25
+Llano,307,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Llano,307,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1755,53,1455,247
+Llano,307,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,402,42,293,67
+Llano,307,"Member, State Board of Education, District 10",10,,Under Votes,93,6,61,26
+Llano,307,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Llano,307,State Representative,53,REP,Wes Virdell,1736,51,1447,238
+Llano,307,State Representative,53,DEM,Joe P. Herrera,387,42,280,65
+Llano,307,State Representative,53,LIB,B. W. Holk,55,3,35,17
+Llano,307,State Representative,53,,Under Votes,72,5,47,20
+Llano,307,State Representative,53,,Over Votes,0,0,0,0
+Llano,307,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,1749,52,1451,246
+Llano,307,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,410,43,297,70
+Llano,307,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,91,6,61,24
+Llano,307,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Llano,307,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,830,52,624,154
+Llano,307,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,186,49,1,185
+Llano,307,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Llano,307,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,791,52,592,147
+Llano,307,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,193,49,1,217
+Llano,307,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Llano,307,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,766,52,570,144
+Llano,307,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,196,49,1,239
+Llano,307,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Llano,307,"District Judge, 33rd Judicial District",,REP,Allan Garrett,1854,64,1512,278
+Llano,307,"District Judge, 33rd Judicial District",,,Under Votes,396,37,297,62
+Llano,307,"District Judge, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,307,"District Attorney, 33rd Judicial District",,REP,Perry Thomas,1864,64,1526,274
+Llano,307,"District Attorney, 33rd Judicial District",,,Under Votes,386,37,283,66
+Llano,307,"District Attorney, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,307,County Attorney,,REP,Dwain K. Rogers,1849,63,1517,269
+Llano,307,County Attorney,,,Under Votes,401,38,292,71
+Llano,307,County Attorney,,,Over Votes,0,0,0,0
+Llano,307,County Clerk- UNEXPIRED TERM,,REP,Cecilia McClintock,1855,64,1520,271
+Llano,307,County Clerk- UNEXPIRED TERM,,,Under Votes,395,37,289,69
+Llano,307,County Clerk- UNEXPIRED TERM,,,Over Votes,0,0,0,0
+Llano,307,Sheriff,,REP,Marquis Cantu,1852,62,1518,272
+Llano,307,Sheriff,,,Under Votes,398,39,291,68
+Llano,307,Sheriff,,,Over Votes,0,0,0,0
+Llano,307,County Tax Assessor-Collector,,REP,Kris Fogelberg,1864,65,1528,271
+Llano,307,County Tax Assessor-Collector,,,Under Votes,386,36,281,69
+Llano,307,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Llano,307,County Commissioner Precinct 3,,REP,Brent Richards,1849,64,1519,266
+Llano,307,County Commissioner Precinct 3,,,Under Votes,401,37,290,74
+Llano,307,County Commissioner Precinct 3,,,Over Votes,0,0,0,0
+Llano,307,County Constable Precinct 3,,(W),Tim McLean,551,29,458,64
+Llano,307,County Constable Precinct 3,,,Under Votes,258,60,1,212
+Llano,307,County Constable Precinct 3,,,Over Votes,0,0,0,0
+Llano,410,Registered Voters,,,,4331,,,
+Llano,410,Ballots Cast,,,,3284,,,
+Llano,410,President,,REP,Donald J. Trump/JD Vance,2644,171,2210,263
+Llano,410,President,,DEM,Kamala D. Harris/Tim Walz,595,75,458,62
+Llano,410,President,,LIB,Chase Oliver/Mike ter Maat,16,1,11,4
+Llano,410,President,,GRN,Jill Stein/Rudolph Ware,13,2,8,3
+Llano,410,President,,,Under Votes,14,0,10,4
+Llano,410,President,,,Over Votes,1,1,0,0
+Llano,410,U.S. Senate,,REP,Ted Cruz,2558,165,2144,249
+Llano,410,U.S. Senate,,DEM,Colin Allred,630,77,488,65
+Llano,410,U.S. Senate,,LIB,Ted Brown,62,5,43,14
+Llano,410,U.S. Senate,,,Under Votes,34,3,22,9
+Llano,410,U.S. Senate,,,Over Votes,0,0,0,0
+Llano,410,U.S. House,11,REP,August Pfluger,2719,142,2293,284
+Llano,410,U.S. House,11,,Under Votes,565,108,404,53
+Llano,410,U.S. House,11,,Over Votes,0,0,0,0
+Llano,410,Railroad Commissioner,,REP,Christi Craddick,2525,163,2112,250
+Llano,410,Railroad Commissioner,,DEM,Katherine Culbert,502,62,389,51
+Llano,410,Railroad Commissioner,,LIB,Hawk Dunlap,81,7,68,6
+Llano,410,Railroad Commissioner,,GRN,Eddie Espinoza,34,3,23,8
+Llano,410,Railroad Commissioner,,,Under Votes,140,13,105,22
+Llano,410,Railroad Commissioner,,,Over Votes,2,2,0,0
+Llano,410,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,2605,165,2184,256
+Llano,410,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,552,64,426,62
+Llano,410,"Justice, Supreme Court, Place 2",2,,Under Votes,127,21,87,19
+Llano,410,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Llano,410,"Justice, Supreme Court, Place 4",4,REP,John Devine,2593,164,2173,256
+Llano,410,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,563,68,436,59
+Llano,410,"Justice, Supreme Court, Place 4",4,,Under Votes,128,18,88,22
+Llano,410,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Llano,410,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,2524,159,2115,250
+Llano,410,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,538,69,415,54
+Llano,410,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,93,5,74,14
+Llano,410,"Justice, Supreme Court, Place 6",6,,Under Votes,129,17,93,19
+Llano,410,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Llano,410,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,2593,164,2172,257
+Llano,410,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,571,66,445,60
+Llano,410,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,120,20,80,20
+Llano,410,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Llano,410,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,2598,167,2174,257
+Llano,410,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,547,64,428,55
+Llano,410,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,139,19,95,25
+Llano,410,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Llano,410,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,2600,167,2178,255
+Llano,410,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,537,62,419,56
+Llano,410,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,147,21,100,26
+Llano,410,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Llano,410,"Member, State Board of Education, District 10",10,REP,Tom Maynard,2548,125,2171,252
+Llano,410,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,555,60,434,61
+Llano,410,"Member, State Board of Education, District 10",10,,Under Votes,181,65,92,24
+Llano,410,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Llano,410,State Representative,53,REP,Wes Virdell,2432,110,2080,242
+Llano,410,State Representative,53,DEM,Joe P. Herrera,554,58,434,62
+Llano,410,State Representative,53,LIB,B. W. Holk,120,5,100,15
+Llano,410,State Representative,53,,Under Votes,178,77,83,18
+Llano,410,State Representative,53,,Over Votes,0,0,0,0
+Llano,410,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,2554,130,2172,252
+Llano,410,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,539,57,422,60
+Llano,410,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,191,63,103,25
+Llano,410,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Llano,410,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,1178,83,939,156
+Llano,410,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,181,167,1,758
+Llano,410,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Llano,410,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,1123,82,899,142
+Llano,410,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,195,168,1,798
+Llano,410,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Llano,410,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,1095,81,873,141
+Llano,410,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,196,169,1,824
+Llano,410,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Llano,410,"District Judge, 33rd Judicial District",,REP,Allan Garrett,2644,125,2246,273
+Llano,410,"District Judge, 33rd Judicial District",,,Under Votes,640,125,451,64
+Llano,410,"District Judge, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,410,"District Attorney, 33rd Judicial District",,REP,Perry Thomas,2652,123,2258,271
+Llano,410,"District Attorney, 33rd Judicial District",,,Under Votes,632,127,439,66
+Llano,410,"District Attorney, 33rd Judicial District",,,Over Votes,0,0,0,0
+Llano,410,County Attorney,,REP,Dwain K. Rogers,2669,123,2271,275
+Llano,410,County Attorney,,,Under Votes,615,127,426,62
+Llano,410,County Attorney,,,Over Votes,0,0,0,0
+Llano,410,County Clerk- UNEXPIRED TERM,,REP,Cecilia McClintock,2659,124,2259,276
+Llano,410,County Clerk- UNEXPIRED TERM,,,Under Votes,625,126,438,61
+Llano,410,County Clerk- UNEXPIRED TERM,,,Over Votes,0,0,0,0
+Llano,410,Sheriff,,REP,Marquis Cantu,2605,120,2211,274
+Llano,410,Sheriff,,,Under Votes,679,130,486,63
+Llano,410,Sheriff,,,Over Votes,0,0,0,0
+Llano,410,County Tax Assessor-Collector,,REP,Kris Fogelberg,2678,126,2273,279
+Llano,410,County Tax Assessor-Collector,,,Under Votes,606,124,424,58
+Llano,410,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Llano,410,County Constable Precinct 4,,REP,Michael Scoggins,2650,125,2251,274
+Llano,410,County Constable Precinct 4,,,Under Votes,634,125,446,63
+Llano,410,County Constable Precinct 4,,,Over Votes,0,0,0,0

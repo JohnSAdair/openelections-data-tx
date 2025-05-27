@@ -1,0 +1,1391 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Coryell,"101 - BS4","Registered Voters",,,,288,,,
+Coryell,"101 - BS4","Ballots Cast",,,,196,0,0,0
+Coryell,"101 - BS4","President",,REP,"Donald J. Trump",162,2,145,15
+Coryell,"101 - BS4","President",,DEM,"Kamala D. Harris",31,0,26,5
+Coryell,"101 - BS4","President",,LIB,"Chase Oliver",1,0,1,0
+Coryell,"101 - BS4","President",,GRN,"Jill Stein",1,0,0,1
+Coryell,"101 - BS4","President",,,"CHERUNDA FOX/HARLAN MCVAY (W)",0,0,0,0
+Coryell,"101 - BS4","President",,,"CLAUDIA DE LA CRUZ/KARINA GARCIA (W)",0,0,0,0
+Coryell,"101 - BS4","President",,,"CORNEL WEST/MELINA ABDULLAH (W)",0,0,0,0
+Coryell,"101 - BS4","President",,,"JESSIE CUELLAR/WESLEY LASLEY (W)",0,0,0,0
+Coryell,"101 - BS4","President",,,"PETER SONSKI/LAUREN ONAK (W)",0,0,0,0
+Coryell,"101 - BS4","President",,,"SHIVA AYYADURAI/CRYSTAL ELLIS (W)",0,0,0,0
+Coryell,"101 - BS4","President",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS4","President",,,"Under Votes",1,0,1,0
+Coryell,"101 - BS4","U.S. Senate",,REP,"Ted Cruz",163,2,147,14
+Coryell,"101 - BS4","U.S. Senate",,DEM,"Colin Allred",31,0,26,5
+Coryell,"101 - BS4","U.S. Senate",,LIB,"Ted Brown",1,0,0,1
+Coryell,"101 - BS4","U.S. Senate",,,"ANALISA ROCHE (W)",0,0,0,0
+Coryell,"101 - BS4","U.S. Senate",,,"TRACY ANDRUS (W)",0,0,0,0
+Coryell,"101 - BS4","U.S. Senate",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS4","U.S. Senate",,,"Under Votes",1,0,0,1
+Coryell,"101 - BS4","U.S. House","31",REP,"John Carter",167,1,150,16
+Coryell,"101 - BS4","U.S. House","31",DEM,"Stuart Whitlow",26,0,21,5
+Coryell,"101 - BS4","U.S. House","31",,"Over Votes",1,1,0,0
+Coryell,"101 - BS4","U.S. House","31",,"Under Votes",2,0,2,0
+Coryell,"101 - BS4","Railroad Commissioner",,REP,"Christi Craddick",153,2,136,15
+Coryell,"101 - BS4","Railroad Commissioner",,DEM,"Katherine Culbert",21,0,16,5
+Coryell,"101 - BS4","Railroad Commissioner",,LIB,"Hawk Dunlap",12,0,12,0
+Coryell,"101 - BS4","Railroad Commissioner",,GRN,"Eddie Espinoza",5,0,5,0
+Coryell,"101 - BS4","Railroad Commissioner",,,"RICHARD MCKIBBIN (W)",0,0,0,0
+Coryell,"101 - BS4","Railroad Commissioner",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS4","Railroad Commissioner",,,"Under Votes",5,0,4,1
+Coryell,"101 - BS4","Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",164,1,146,17
+Coryell,"101 - BS4","Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",27,0,24,3
+Coryell,"101 - BS4","Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS4","Justice, Supreme Court, Place 2",,,"Under Votes",5,1,3,1
+Coryell,"101 - BS4","Justice, Supreme Court, Place 4",,REP,"John Devine",162,1,144,17
+Coryell,"101 - BS4","Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",29,0,26,3
+Coryell,"101 - BS4","Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS4","Justice, Supreme Court, Place 4",,,"Under Votes",5,1,3,1
+Coryell,"101 - BS4","Justice, Supreme Court, Place 6",,REP,"Jane Bland",157,2,139,16
+Coryell,"101 - BS4","Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",23,0,20,3
+Coryell,"101 - BS4","Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",9,0,8,1
+Coryell,"101 - BS4","Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS4","Justice, Supreme Court, Place 6",,,"Under Votes",7,0,6,1
+Coryell,"101 - BS4","Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",161,2,142,17
+Coryell,"101 - BS4","Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",29,0,25,4
+Coryell,"101 - BS4","Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS4","Presiding Judge, Court of Criminal Appeals",,,"Under Votes",6,0,6,0
+Coryell,"101 - BS4","Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",162,2,143,17
+Coryell,"101 - BS4","Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",27,0,24,3
+Coryell,"101 - BS4","Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS4","Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",7,0,6,1
+Coryell,"101 - BS4","Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",162,2,143,17
+Coryell,"101 - BS4","Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",27,0,24,3
+Coryell,"101 - BS4","Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS4","Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",7,0,6,1
+Coryell,"101 - BS4","State Representative, District 59",,REP,"Shelby Slawson",168,2,150,16
+Coryell,"101 - BS4","State Representative, District 59",,DEM,"Hannah Bohm",26,0,21,5
+Coryell,"101 - BS4","State Representative, District 59",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS4","State Representative, District 59",,,"Under Votes",2,0,2,0
+Coryell,"101 - BS4","Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",185,1,163,21
+Coryell,"101 - BS4","Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS4","Chief Justice, 10th Court of Appeals District",,,"Under Votes",11,1,10,0
+Coryell,"101 - BS4","District Judge, 52nd Judicial District",,REP,"Trent D. Farrell",183,1,163,19
+Coryell,"101 - BS4","District Judge, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS4","District Judge, 52nd Judicial District",,,"Under Votes",13,1,10,2
+Coryell,"101 - BS4","District Attorney, 52nd Judicial District",,REP,"Dusty Boyd",181,1,161,19
+Coryell,"101 - BS4","District Attorney, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS4","District Attorney, 52nd Judicial District",,,"Under Votes",15,1,12,2
+Coryell,"101 - BS4","County Attorney",,REP,"Brandon S. Belt",181,1,161,19
+Coryell,"101 - BS4","County Attorney",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS4","County Attorney",,,"Under Votes",15,1,12,2
+Coryell,"101 - BS4","Sheriff",,REP,"Scott A. Williams",182,1,162,19
+Coryell,"101 - BS4","Sheriff",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS4","Sheriff",,,"Under Votes",14,1,11,2
+Coryell,"101 - BS4","County Tax Assessor-Collector",,REP,"Justin K. Carothers",180,1,160,19
+Coryell,"101 - BS4","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS4","County Tax Assessor-Collector",,,"Under Votes",16,1,13,2
+Coryell,"101 - BS4","County Commissioner, Precinct 1",,REP,"Kyle Matthews",179,1,159,19
+Coryell,"101 - BS4","County Commissioner, Precinct 1",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS4","County Commissioner, Precinct 1",,,"Under Votes",17,1,14,2
+Coryell,"101 - BS4","Constable, Precinct 1",,REP,"Guy Beveridge",178,1,158,19
+Coryell,"101 - BS4","Constable, Precinct 1",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS4","Constable, Precinct 1",,,"Under Votes",18,1,15,2
+Coryell,"101 - BS24","Registered Voters",,,,2290,,,
+Coryell,"101 - BS24","Ballots Cast",,,,1274,0,0,0
+Coryell,"101 - BS24","President",,REP,"Donald J. Trump",856,27,693,136
+Coryell,"101 - BS24","President",,DEM,"Kamala D. Harris",397,17,317,63
+Coryell,"101 - BS24","President",,LIB,"Chase Oliver",11,0,11,0
+Coryell,"101 - BS24","President",,GRN,"Jill Stein",7,0,4,3
+Coryell,"101 - BS24","President",,,"CHERUNDA FOX/HARLAN MCVAY (W)",0,0,0,0
+Coryell,"101 - BS24","President",,,"CLAUDIA DE LA CRUZ/KARINA GARCIA (W)",0,0,0,0
+Coryell,"101 - BS24","President",,,"CORNEL WEST/MELINA ABDULLAH (W)",0,0,0,0
+Coryell,"101 - BS24","President",,,"JESSIE CUELLAR/WESLEY LASLEY (W)",0,0,0,0
+Coryell,"101 - BS24","President",,,"PETER SONSKI/LAUREN ONAK (W)",0,0,0,0
+Coryell,"101 - BS24","President",,,"SHIVA AYYADURAI/CRYSTAL ELLIS (W)",0,0,0,0
+Coryell,"101 - BS24","President",,,"Over Votes",1,1,0,0
+Coryell,"101 - BS24","President",,,"Under Votes",2,0,1,1
+Coryell,"101 - BS24","U.S. Senate",,REP,"Ted Cruz",823,27,666,130
+Coryell,"101 - BS24","U.S. Senate",,DEM,"Colin Allred",409,16,326,67
+Coryell,"101 - BS24","U.S. Senate",,LIB,"Ted Brown",27,1,22,4
+Coryell,"101 - BS24","U.S. Senate",,,"ANALISA ROCHE (W)",0,0,0,0
+Coryell,"101 - BS24","U.S. Senate",,,"TRACY ANDRUS (W)",0,0,0,0
+Coryell,"101 - BS24","U.S. Senate",,,"Over Votes",1,1,0,0
+Coryell,"101 - BS24","U.S. Senate",,,"Under Votes",14,0,12,2
+Coryell,"101 - BS24","U.S. House","31",REP,"John Carter",885,29,713,143
+Coryell,"101 - BS24","U.S. House","31",DEM,"Stuart Whitlow",368,16,294,58
+Coryell,"101 - BS24","U.S. House","31",,"Over Votes",0,0,0,0
+Coryell,"101 - BS24","U.S. House","31",,"Under Votes",21,0,19,2
+Coryell,"101 - BS24","Railroad Commissioner",,REP,"Christi Craddick",819,26,664,129
+Coryell,"101 - BS24","Railroad Commissioner",,DEM,"Katherine Culbert",352,15,282,55
+Coryell,"101 - BS24","Railroad Commissioner",,LIB,"Hawk Dunlap",41,2,30,9
+Coryell,"101 - BS24","Railroad Commissioner",,GRN,"Eddie Espinoza",26,0,22,4
+Coryell,"101 - BS24","Railroad Commissioner",,,"RICHARD MCKIBBIN (W)",0,0,0,0
+Coryell,"101 - BS24","Railroad Commissioner",,,"Over Votes",1,1,0,0
+Coryell,"101 - BS24","Railroad Commissioner",,,"Under Votes",35,1,28,6
+Coryell,"101 - BS24","Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",865,27,700,138
+Coryell,"101 - BS24","Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",380,18,302,60
+Coryell,"101 - BS24","Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS24","Justice, Supreme Court, Place 2",,,"Under Votes",29,0,24,5
+Coryell,"101 - BS24","Justice, Supreme Court, Place 4",,REP,"John Devine",870,28,701,141
+Coryell,"101 - BS24","Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",369,16,297,56
+Coryell,"101 - BS24","Justice, Supreme Court, Place 4",,,"Over Votes",1,1,0,0
+Coryell,"101 - BS24","Justice, Supreme Court, Place 4",,,"Under Votes",34,0,28,6
+Coryell,"101 - BS24","Justice, Supreme Court, Place 6",,REP,"Jane Bland",836,28,677,131
+Coryell,"101 - BS24","Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",363,15,289,59
+Coryell,"101 - BS24","Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",41,2,32,7
+Coryell,"101 - BS24","Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS24","Justice, Supreme Court, Place 6",,,"Under Votes",34,0,28,6
+Coryell,"101 - BS24","Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",858,30,689,139
+Coryell,"101 - BS24","Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",375,15,302,58
+Coryell,"101 - BS24","Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS24","Presiding Judge, Court of Criminal Appeals",,,"Under Votes",41,0,35,6
+Coryell,"101 - BS24","Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",859,30,691,138
+Coryell,"101 - BS24","Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",372,15,298,59
+Coryell,"101 - BS24","Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS24","Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",43,0,37,6
+Coryell,"101 - BS24","Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",865,30,695,140
+Coryell,"101 - BS24","Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",357,15,289,53
+Coryell,"101 - BS24","Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS24","Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",52,0,42,10
+Coryell,"101 - BS24","State Representative, District 59",,REP,"Shelby Slawson",858,29,692,137
+Coryell,"101 - BS24","State Representative, District 59",,DEM,"Hannah Bohm",376,16,299,61
+Coryell,"101 - BS24","State Representative, District 59",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS24","State Representative, District 59",,,"Under Votes",40,0,35,5
+Coryell,"101 - BS24","Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",974,33,780,161
+Coryell,"101 - BS24","Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS24","Chief Justice, 10th Court of Appeals District",,,"Under Votes",300,12,246,42
+Coryell,"101 - BS24","District Judge, 52nd Judicial District",,REP,"Trent D. Farrell",957,32,766,159
+Coryell,"101 - BS24","District Judge, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS24","District Judge, 52nd Judicial District",,,"Under Votes",317,13,260,44
+Coryell,"101 - BS24","District Attorney, 52nd Judicial District",,REP,"Dusty Boyd",958,33,767,158
+Coryell,"101 - BS24","District Attorney, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS24","District Attorney, 52nd Judicial District",,,"Under Votes",316,12,259,45
+Coryell,"101 - BS24","County Attorney",,REP,"Brandon S. Belt",949,33,757,159
+Coryell,"101 - BS24","County Attorney",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS24","County Attorney",,,"Under Votes",325,12,269,44
+Coryell,"101 - BS24","Sheriff",,REP,"Scott A. Williams",941,33,750,158
+Coryell,"101 - BS24","Sheriff",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS24","Sheriff",,,"Under Votes",333,12,276,45
+Coryell,"101 - BS24","County Tax Assessor-Collector",,REP,"Justin K. Carothers",981,33,784,164
+Coryell,"101 - BS24","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS24","County Tax Assessor-Collector",,,"Under Votes",293,12,242,39
+Coryell,"101 - BS24","County Commissioner, Precinct 1",,REP,"Kyle Matthews",956,33,763,160
+Coryell,"101 - BS24","County Commissioner, Precinct 1",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS24","County Commissioner, Precinct 1",,,"Under Votes",318,12,263,43
+Coryell,"101 - BS24","Constable, Precinct 1",,REP,"Guy Beveridge",950,31,763,156
+Coryell,"101 - BS24","Constable, Precinct 1",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS24","Constable, Precinct 1",,,"Under Votes",324,14,263,47
+Coryell,"101 - BS24","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Sherry Hoffpauir",714,18,575,121
+Coryell,"101 - BS24","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Inez Faison",347,16,277,54
+Coryell,"101 - BS24","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS24","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Under Votes",213,11,174,28
+Coryell,"101 - BS24","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Timothy Traeger",651,28,520,103
+Coryell,"101 - BS24","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Shameria Ann Davis",368,4,300,64
+Coryell,"101 - BS24","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS24","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Under Votes",255,13,206,36
+Coryell,"101 - BS25","Registered Voters",,,,4113,,,
+Coryell,"101 - BS25","Ballots Cast",,,,1929,0,0,0
+Coryell,"101 - BS25","President",,REP,"Donald J. Trump",1059,29,750,280
+Coryell,"101 - BS25","President",,DEM,"Kamala D. Harris",841,32,621,188
+Coryell,"101 - BS25","President",,LIB,"Chase Oliver",9,0,6,3
+Coryell,"101 - BS25","President",,GRN,"Jill Stein",11,0,8,3
+Coryell,"101 - BS25","President",,,"CHERUNDA FOX/HARLAN MCVAY (W)",0,0,0,0
+Coryell,"101 - BS25","President",,,"CLAUDIA DE LA CRUZ/KARINA GARCIA (W)",0,0,0,0
+Coryell,"101 - BS25","President",,,"CORNEL WEST/MELINA ABDULLAH (W)",1,0,0,1
+Coryell,"101 - BS25","President",,,"JESSIE CUELLAR/WESLEY LASLEY (W)",0,0,0,0
+Coryell,"101 - BS25","President",,,"PETER SONSKI/LAUREN ONAK (W)",2,1,1,0
+Coryell,"101 - BS25","President",,,"SHIVA AYYADURAI/CRYSTAL ELLIS (W)",0,0,0,0
+Coryell,"101 - BS25","President",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","President",,,"Under Votes",6,0,5,1
+Coryell,"101 - BS25","U.S. Senate",,REP,"Ted Cruz",1000,29,712,259
+Coryell,"101 - BS25","U.S. Senate",,DEM,"Colin Allred",846,30,619,197
+Coryell,"101 - BS25","U.S. Senate",,LIB,"Ted Brown",61,1,46,14
+Coryell,"101 - BS25","U.S. Senate",,,"ANALISA ROCHE (W)",1,0,1,0
+Coryell,"101 - BS25","U.S. Senate",,,"TRACY ANDRUS (W)",0,0,0,0
+Coryell,"101 - BS25","U.S. Senate",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","U.S. Senate",,,"Under Votes",21,2,13,6
+Coryell,"101 - BS25","U.S. House","31",REP,"John Carter",1105,30,777,298
+Coryell,"101 - BS25","U.S. House","31",DEM,"Stuart Whitlow",783,30,585,168
+Coryell,"101 - BS25","U.S. House","31",,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","U.S. House","31",,"Under Votes",41,2,29,10
+Coryell,"101 - BS25","Railroad Commissioner",,REP,"Christi Craddick",982,26,705,251
+Coryell,"101 - BS25","Railroad Commissioner",,DEM,"Katherine Culbert",743,31,554,158
+Coryell,"101 - BS25","Railroad Commissioner",,LIB,"Hawk Dunlap",76,2,51,23
+Coryell,"101 - BS25","Railroad Commissioner",,GRN,"Eddie Espinoza",63,1,43,19
+Coryell,"101 - BS25","Railroad Commissioner",,,"RICHARD MCKIBBIN (W)",1,0,1,0
+Coryell,"101 - BS25","Railroad Commissioner",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","Railroad Commissioner",,,"Under Votes",64,2,37,25
+Coryell,"101 - BS25","Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1061,29,755,277
+Coryell,"101 - BS25","Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",816,31,605,180
+Coryell,"101 - BS25","Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","Justice, Supreme Court, Place 2",,,"Under Votes",52,2,31,19
+Coryell,"101 - BS25","Justice, Supreme Court, Place 4",,REP,"John Devine",1046,30,740,276
+Coryell,"101 - BS25","Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",821,30,610,181
+Coryell,"101 - BS25","Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","Justice, Supreme Court, Place 4",,,"Under Votes",62,2,41,19
+Coryell,"101 - BS25","Justice, Supreme Court, Place 6",,REP,"Jane Bland",992,29,710,253
+Coryell,"101 - BS25","Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",771,30,573,168
+Coryell,"101 - BS25","Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",110,1,73,36
+Coryell,"101 - BS25","Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","Justice, Supreme Court, Place 6",,,"Under Votes",56,2,35,19
+Coryell,"101 - BS25","Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1051,29,748,274
+Coryell,"101 - BS25","Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",812,31,603,178
+Coryell,"101 - BS25","Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","Presiding Judge, Court of Criminal Appeals",,,"Under Votes",66,2,40,24
+Coryell,"101 - BS25","Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1068,31,755,282
+Coryell,"101 - BS25","Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",793,29,592,172
+Coryell,"101 - BS25","Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",68,2,44,22
+Coryell,"101 - BS25","Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1074,30,764,280
+Coryell,"101 - BS25","Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",774,30,575,169
+Coryell,"101 - BS25","Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",81,2,52,27
+Coryell,"101 - BS25","State Representative, District 59",,REP,"Shelby Slawson",1058,29,755,274
+Coryell,"101 - BS25","State Representative, District 59",,DEM,"Hannah Bohm",795,30,589,176
+Coryell,"101 - BS25","State Representative, District 59",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","State Representative, District 59",,,"Under Votes",76,3,47,26
+Coryell,"101 - BS25","Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",1342,32,956,354
+Coryell,"101 - BS25","Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","Chief Justice, 10th Court of Appeals District",,,"Under Votes",587,30,435,122
+Coryell,"101 - BS25","District Judge, 52nd Judicial District",,REP,"Trent D. Farrell",1331,32,951,348
+Coryell,"101 - BS25","District Judge, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","District Judge, 52nd Judicial District",,,"Under Votes",598,30,440,128
+Coryell,"101 - BS25","District Attorney, 52nd Judicial District",,REP,"Dusty Boyd",1329,30,954,345
+Coryell,"101 - BS25","District Attorney, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","District Attorney, 52nd Judicial District",,,"Under Votes",600,32,437,131
+Coryell,"101 - BS25","County Attorney",,REP,"Brandon S. Belt",1336,33,952,351
+Coryell,"101 - BS25","County Attorney",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","County Attorney",,,"Under Votes",593,29,439,125
+Coryell,"101 - BS25","Sheriff",,REP,"Scott A. Williams",1330,32,946,352
+Coryell,"101 - BS25","Sheriff",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","Sheriff",,,"Under Votes",599,30,445,124
+Coryell,"101 - BS25","County Tax Assessor-Collector",,REP,"Justin K. Carothers",1361,37,971,353
+Coryell,"101 - BS25","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","County Tax Assessor-Collector",,,"Under Votes",568,25,420,123
+Coryell,"101 - BS25","County Commissioner, Precinct 1",,REP,"Kyle Matthews",1329,32,946,351
+Coryell,"101 - BS25","County Commissioner, Precinct 1",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","County Commissioner, Precinct 1",,,"Under Votes",600,30,445,125
+Coryell,"101 - BS25","Constable, Precinct 1",,REP,"Guy Beveridge",1330,31,951,348
+Coryell,"101 - BS25","Constable, Precinct 1",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","Constable, Precinct 1",,,"Under Votes",599,31,440,128
+Coryell,"101 - BS25","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Sherry Hoffpauir",1010,19,726,265
+Coryell,"101 - BS25","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Inez Faison",632,21,462,149
+Coryell,"101 - BS25","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Under Votes",287,22,203,62
+Coryell,"101 - BS25","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Timothy Traeger",854,14,605,235
+Coryell,"101 - BS25","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Shameria Ann Davis",753,22,554,177
+Coryell,"101 - BS25","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Under Votes",322,26,232,64
+Coryell,"101 - BS25","SPECIAL ELECTION CITY OF COPPERAS COVE, TEXAS PROPOSITION A",,,"FOR",1053,29,772,252
+Coryell,"101 - BS25","SPECIAL ELECTION CITY OF COPPERAS COVE, TEXAS PROPOSITION A",,,"AGAINST",749,21,537,191
+Coryell,"101 - BS25","SPECIAL ELECTION CITY OF COPPERAS COVE, TEXAS PROPOSITION A",,,"Over Votes",0,0,0,0
+Coryell,"101 - BS25","SPECIAL ELECTION CITY OF COPPERAS COVE, TEXAS PROPOSITION A",,,"Under Votes",127,12,82,33
+Coryell,"102 - BS6","Registered Voters",,,,1679,,,
+Coryell,"102 - BS6","Ballots Cast",,,,1171,0,0,0
+Coryell,"102 - BS6","President",,REP,"Donald J. Trump",1025,18,854,153
+Coryell,"102 - BS6","President",,DEM,"Kamala D. Harris",131,15,96,20
+Coryell,"102 - BS6","President",,LIB,"Chase Oliver",4,0,3,1
+Coryell,"102 - BS6","President",,GRN,"Jill Stein",3,0,1,2
+Coryell,"102 - BS6","President",,,"CHERUNDA FOX/HARLAN MCVAY (W)",0,0,0,0
+Coryell,"102 - BS6","President",,,"CLAUDIA DE LA CRUZ/KARINA GARCIA (W)",0,0,0,0
+Coryell,"102 - BS6","President",,,"CORNEL WEST/MELINA ABDULLAH (W)",0,0,0,0
+Coryell,"102 - BS6","President",,,"JESSIE CUELLAR/WESLEY LASLEY (W)",0,0,0,0
+Coryell,"102 - BS6","President",,,"PETER SONSKI/LAUREN ONAK (W)",1,0,1,0
+Coryell,"102 - BS6","President",,,"SHIVA AYYADURAI/CRYSTAL ELLIS (W)",0,0,0,0
+Coryell,"102 - BS6","President",,,"Over Votes",0,0,0,0
+Coryell,"102 - BS6","President",,,"Under Votes",7,0,7,0
+Coryell,"102 - BS6","U.S. Senate",,REP,"Ted Cruz",1001,18,843,140
+Coryell,"102 - BS6","U.S. Senate",,DEM,"Colin Allred",137,13,103,21
+Coryell,"102 - BS6","U.S. Senate",,LIB,"Ted Brown",21,1,11,9
+Coryell,"102 - BS6","U.S. Senate",,,"ANALISA ROCHE (W)",0,0,0,0
+Coryell,"102 - BS6","U.S. Senate",,,"TRACY ANDRUS (W)",0,0,0,0
+Coryell,"102 - BS6","U.S. Senate",,,"Over Votes",0,0,0,0
+Coryell,"102 - BS6","U.S. Senate",,,"Under Votes",12,1,5,6
+Coryell,"102 - BS6","U.S. House","31",REP,"John Carter",1035,20,863,152
+Coryell,"102 - BS6","U.S. House","31",DEM,"Stuart Whitlow",118,12,88,18
+Coryell,"102 - BS6","U.S. House","31",,"Over Votes",0,0,0,0
+Coryell,"102 - BS6","U.S. House","31",,"Under Votes",18,1,11,6
+Coryell,"102 - BS6","Railroad Commissioner",,REP,"Christi Craddick",995,20,831,144
+Coryell,"102 - BS6","Railroad Commissioner",,DEM,"Katherine Culbert",101,11,78,12
+Coryell,"102 - BS6","Railroad Commissioner",,LIB,"Hawk Dunlap",34,0,24,10
+Coryell,"102 - BS6","Railroad Commissioner",,GRN,"Eddie Espinoza",12,1,8,3
+Coryell,"102 - BS6","Railroad Commissioner",,,"RICHARD MCKIBBIN (W)",0,0,0,0
+Coryell,"102 - BS6","Railroad Commissioner",,,"Over Votes",1,1,0,0
+Coryell,"102 - BS6","Railroad Commissioner",,,"Under Votes",28,0,21,7
+Coryell,"102 - BS6","Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1030,19,861,150
+Coryell,"102 - BS6","Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",111,11,81,19
+Coryell,"102 - BS6","Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Coryell,"102 - BS6","Justice, Supreme Court, Place 2",,,"Under Votes",30,3,20,7
+Coryell,"102 - BS6","Justice, Supreme Court, Place 4",,REP,"John Devine",1025,17,860,148
+Coryell,"102 - BS6","Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",118,11,86,21
+Coryell,"102 - BS6","Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Coryell,"102 - BS6","Justice, Supreme Court, Place 4",,,"Under Votes",28,5,16,7
+Coryell,"102 - BS6","Justice, Supreme Court, Place 6",,REP,"Jane Bland",994,17,835,142
+Coryell,"102 - BS6","Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",113,13,85,15
+Coryell,"102 - BS6","Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",30,0,18,12
+Coryell,"102 - BS6","Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Coryell,"102 - BS6","Justice, Supreme Court, Place 6",,,"Under Votes",34,3,24,7
+Coryell,"102 - BS6","Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1011,17,847,147
+Coryell,"102 - BS6","Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",124,12,91,21
+Coryell,"102 - BS6","Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Coryell,"102 - BS6","Presiding Judge, Court of Criminal Appeals",,,"Under Votes",36,4,24,8
+Coryell,"102 - BS6","Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1025,18,859,148
+Coryell,"102 - BS6","Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",115,11,83,21
+Coryell,"102 - BS6","Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Coryell,"102 - BS6","Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",31,4,20,7
+Coryell,"102 - BS6","Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1026,18,858,150
+Coryell,"102 - BS6","Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",109,11,80,18
+Coryell,"102 - BS6","Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Coryell,"102 - BS6","Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",36,4,24,8
+Coryell,"102 - BS6","State Representative, District 59",,REP,"Shelby Slawson",1019,19,851,149
+Coryell,"102 - BS6","State Representative, District 59",,DEM,"Hannah Bohm",124,14,89,21
+Coryell,"102 - BS6","State Representative, District 59",,,"Over Votes",0,0,0,0
+Coryell,"102 - BS6","State Representative, District 59",,,"Under Votes",28,0,22,6
+Coryell,"102 - BS6","Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",1065,18,886,161
+Coryell,"102 - BS6","Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Coryell,"102 - BS6","Chief Justice, 10th Court of Appeals District",,,"Under Votes",106,15,76,15
+Coryell,"102 - BS6","District Judge, 52nd Judicial District",,REP,"Trent D. Farrell",1058,19,880,159
+Coryell,"102 - BS6","District Judge, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"102 - BS6","District Judge, 52nd Judicial District",,,"Under Votes",113,14,82,17
+Coryell,"102 - BS6","District Attorney, 52nd Judicial District",,REP,"Dusty Boyd",1054,19,878,157
+Coryell,"102 - BS6","District Attorney, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"102 - BS6","District Attorney, 52nd Judicial District",,,"Under Votes",117,14,84,19
+Coryell,"102 - BS6","County Attorney",,REP,"Brandon S. Belt",1059,18,883,158
+Coryell,"102 - BS6","County Attorney",,,"Over Votes",0,0,0,0
+Coryell,"102 - BS6","County Attorney",,,"Under Votes",112,15,79,18
+Coryell,"102 - BS6","Sheriff",,REP,"Scott A. Williams",1018,17,849,152
+Coryell,"102 - BS6","Sheriff",,,"Over Votes",0,0,0,0
+Coryell,"102 - BS6","Sheriff",,,"Under Votes",153,16,113,24
+Coryell,"102 - BS6","County Tax Assessor-Collector",,REP,"Justin K. Carothers",1074,22,889,163
+Coryell,"102 - BS6","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Coryell,"102 - BS6","County Tax Assessor-Collector",,,"Under Votes",97,11,73,13
+Coryell,"102 - BS6","County Commissioner, Precinct 1",,REP,"Kyle Matthews",1056,21,875,160
+Coryell,"102 - BS6","County Commissioner, Precinct 1",,,"Over Votes",0,0,0,0
+Coryell,"102 - BS6","County Commissioner, Precinct 1",,,"Under Votes",115,12,87,16
+Coryell,"102 - BS6","Constable, Precinct 4",,REP,"Teddy Brock",1057,21,877,159
+Coryell,"102 - BS6","Constable, Precinct 4",,,"Over Votes",0,0,0,0
+Coryell,"102 - BS6","Constable, Precinct 4",,,"Under Votes",114,12,85,17
+Coryell,"103 - BS6","Registered Voters",,,,447,,,
+Coryell,"103 - BS6","Ballots Cast",,,,289,0,0,0
+Coryell,"103 - BS6","President",,REP,"Donald J. Trump",248,1,137,110
+Coryell,"103 - BS6","President",,DEM,"Kamala D. Harris",39,6,19,14
+Coryell,"103 - BS6","President",,LIB,"Chase Oliver",0,0,0,0
+Coryell,"103 - BS6","President",,GRN,"Jill Stein",1,0,1,0
+Coryell,"103 - BS6","President",,,"CHERUNDA FOX/HARLAN MCVAY (W)",0,0,0,0
+Coryell,"103 - BS6","President",,,"CLAUDIA DE LA CRUZ/KARINA GARCIA (W)",0,0,0,0
+Coryell,"103 - BS6","President",,,"CORNEL WEST/MELINA ABDULLAH (W)",0,0,0,0
+Coryell,"103 - BS6","President",,,"JESSIE CUELLAR/WESLEY LASLEY (W)",0,0,0,0
+Coryell,"103 - BS6","President",,,"PETER SONSKI/LAUREN ONAK (W)",0,0,0,0
+Coryell,"103 - BS6","President",,,"SHIVA AYYADURAI/CRYSTAL ELLIS (W)",0,0,0,0
+Coryell,"103 - BS6","President",,,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","President",,,"Under Votes",1,0,1,0
+Coryell,"103 - BS6","U.S. Senate",,REP,"Ted Cruz",237,1,135,101
+Coryell,"103 - BS6","U.S. Senate",,DEM,"Colin Allred",41,6,19,16
+Coryell,"103 - BS6","U.S. Senate",,LIB,"Ted Brown",7,0,1,6
+Coryell,"103 - BS6","U.S. Senate",,,"ANALISA ROCHE (W)",0,0,0,0
+Coryell,"103 - BS6","U.S. Senate",,,"TRACY ANDRUS (W)",0,0,0,0
+Coryell,"103 - BS6","U.S. Senate",,,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","U.S. Senate",,,"Under Votes",4,0,3,1
+Coryell,"103 - BS6","U.S. House","31",REP,"John Carter",250,1,139,110
+Coryell,"103 - BS6","U.S. House","31",DEM,"Stuart Whitlow",35,6,19,10
+Coryell,"103 - BS6","U.S. House","31",,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","U.S. House","31",,"Under Votes",4,0,0,4
+Coryell,"103 - BS6","Railroad Commissioner",,REP,"Christi Craddick",246,1,142,103
+Coryell,"103 - BS6","Railroad Commissioner",,DEM,"Katherine Culbert",25,6,10,9
+Coryell,"103 - BS6","Railroad Commissioner",,LIB,"Hawk Dunlap",7,0,2,5
+Coryell,"103 - BS6","Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,1,2
+Coryell,"103 - BS6","Railroad Commissioner",,,"RICHARD MCKIBBIN (W)",0,0,0,0
+Coryell,"103 - BS6","Railroad Commissioner",,,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","Railroad Commissioner",,,"Under Votes",8,0,3,5
+Coryell,"103 - BS6","Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",249,1,142,106
+Coryell,"103 - BS6","Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",34,6,14,14
+Coryell,"103 - BS6","Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","Justice, Supreme Court, Place 2",,,"Under Votes",6,0,2,4
+Coryell,"103 - BS6","Justice, Supreme Court, Place 4",,REP,"John Devine",250,1,140,109
+Coryell,"103 - BS6","Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",33,6,16,11
+Coryell,"103 - BS6","Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","Justice, Supreme Court, Place 4",,,"Under Votes",6,0,2,4
+Coryell,"103 - BS6","Justice, Supreme Court, Place 6",,REP,"Jane Bland",243,1,139,103
+Coryell,"103 - BS6","Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",33,6,16,11
+Coryell,"103 - BS6","Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",10,0,3,7
+Coryell,"103 - BS6","Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","Justice, Supreme Court, Place 6",,,"Under Votes",3,0,0,3
+Coryell,"103 - BS6","Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",247,1,141,105
+Coryell,"103 - BS6","Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",38,6,16,16
+Coryell,"103 - BS6","Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","Presiding Judge, Court of Criminal Appeals",,,"Under Votes",4,0,1,3
+Coryell,"103 - BS6","Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",253,1,143,109
+Coryell,"103 - BS6","Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",31,6,13,12
+Coryell,"103 - BS6","Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",5,0,2,3
+Coryell,"103 - BS6","Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",253,1,143,109
+Coryell,"103 - BS6","Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",30,6,13,11
+Coryell,"103 - BS6","Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",6,0,2,4
+Coryell,"103 - BS6","State Representative, District 59",,REP,"Shelby Slawson",245,1,136,108
+Coryell,"103 - BS6","State Representative, District 59",,DEM,"Hannah Bohm",35,6,17,12
+Coryell,"103 - BS6","State Representative, District 59",,,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","State Representative, District 59",,,"Under Votes",9,0,5,4
+Coryell,"103 - BS6","Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",260,3,144,113
+Coryell,"103 - BS6","Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","Chief Justice, 10th Court of Appeals District",,,"Under Votes",29,4,14,11
+Coryell,"103 - BS6","District Judge, 52nd Judicial District",,REP,"Trent D. Farrell",257,3,141,113
+Coryell,"103 - BS6","District Judge, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","District Judge, 52nd Judicial District",,,"Under Votes",32,4,17,11
+Coryell,"103 - BS6","District Attorney, 52nd Judicial District",,REP,"Dusty Boyd",256,3,141,112
+Coryell,"103 - BS6","District Attorney, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","District Attorney, 52nd Judicial District",,,"Under Votes",33,4,17,12
+Coryell,"103 - BS6","County Attorney",,REP,"Brandon S. Belt",260,3,142,115
+Coryell,"103 - BS6","County Attorney",,,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","County Attorney",,,"Under Votes",29,4,16,9
+Coryell,"103 - BS6","Sheriff",,REP,"Scott A. Williams",254,3,140,111
+Coryell,"103 - BS6","Sheriff",,,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","Sheriff",,,"Under Votes",35,4,18,13
+Coryell,"103 - BS6","County Tax Assessor-Collector",,REP,"Justin K. Carothers",264,3,147,114
+Coryell,"103 - BS6","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","County Tax Assessor-Collector",,,"Under Votes",25,4,11,10
+Coryell,"103 - BS6","County Commissioner, Precinct 1",,REP,"Kyle Matthews",268,3,148,117
+Coryell,"103 - BS6","County Commissioner, Precinct 1",,,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","County Commissioner, Precinct 1",,,"Under Votes",21,4,10,7
+Coryell,"103 - BS6","Constable, Precinct 4",,REP,"Teddy Brock",258,3,144,111
+Coryell,"103 - BS6","Constable, Precinct 4",,,"Over Votes",0,0,0,0
+Coryell,"103 - BS6","Constable, Precinct 4",,,"Under Votes",31,4,14,13
+Coryell,"104 - BS24","Registered Voters",,,,76,,,
+Coryell,"104 - BS24","Ballots Cast",,,,46,0,0,0
+Coryell,"104 - BS24","President",,REP,"Donald J. Trump",29,0,21,8
+Coryell,"104 - BS24","President",,DEM,"Kamala D. Harris",17,2,10,5
+Coryell,"104 - BS24","President",,LIB,"Chase Oliver",0,0,0,0
+Coryell,"104 - BS24","President",,GRN,"Jill Stein",0,0,0,0
+Coryell,"104 - BS24","President",,,"CHERUNDA FOX/HARLAN MCVAY (W)",0,0,0,0
+Coryell,"104 - BS24","President",,,"CLAUDIA DE LA CRUZ/KARINA GARCIA (W)",0,0,0,0
+Coryell,"104 - BS24","President",,,"CORNEL WEST/MELINA ABDULLAH (W)",0,0,0,0
+Coryell,"104 - BS24","President",,,"JESSIE CUELLAR/WESLEY LASLEY (W)",0,0,0,0
+Coryell,"104 - BS24","President",,,"PETER SONSKI/LAUREN ONAK (W)",0,0,0,0
+Coryell,"104 - BS24","President",,,"SHIVA AYYADURAI/CRYSTAL ELLIS (W)",0,0,0,0
+Coryell,"104 - BS24","President",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","President",,,"Under Votes",0,0,0,0
+Coryell,"104 - BS24","U.S. Senate",,REP,"Ted Cruz",28,0,21,7
+Coryell,"104 - BS24","U.S. Senate",,DEM,"Colin Allred",17,2,10,5
+Coryell,"104 - BS24","U.S. Senate",,LIB,"Ted Brown",1,0,0,1
+Coryell,"104 - BS24","U.S. Senate",,,"ANALISA ROCHE (W)",0,0,0,0
+Coryell,"104 - BS24","U.S. Senate",,,"TRACY ANDRUS (W)",0,0,0,0
+Coryell,"104 - BS24","U.S. Senate",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","U.S. Senate",,,"Under Votes",0,0,0,0
+Coryell,"104 - BS24","U.S. House","31",REP,"John Carter",26,0,20,6
+Coryell,"104 - BS24","U.S. House","31",DEM,"Stuart Whitlow",20,2,11,7
+Coryell,"104 - BS24","U.S. House","31",,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","U.S. House","31",,"Under Votes",0,0,0,0
+Coryell,"104 - BS24","Railroad Commissioner",,REP,"Christi Craddick",27,0,21,6
+Coryell,"104 - BS24","Railroad Commissioner",,DEM,"Katherine Culbert",19,2,10,7
+Coryell,"104 - BS24","Railroad Commissioner",,LIB,"Hawk Dunlap",0,0,0,0
+Coryell,"104 - BS24","Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Coryell,"104 - BS24","Railroad Commissioner",,,"RICHARD MCKIBBIN (W)",0,0,0,0
+Coryell,"104 - BS24","Railroad Commissioner",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","Railroad Commissioner",,,"Under Votes",0,0,0,0
+Coryell,"104 - BS24","Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",26,0,21,5
+Coryell,"104 - BS24","Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",18,1,10,7
+Coryell,"104 - BS24","Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","Justice, Supreme Court, Place 2",,,"Under Votes",2,1,0,1
+Coryell,"104 - BS24","Justice, Supreme Court, Place 4",,REP,"John Devine",26,0,21,5
+Coryell,"104 - BS24","Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",19,2,10,7
+Coryell,"104 - BS24","Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","Justice, Supreme Court, Place 4",,,"Under Votes",1,0,0,1
+Coryell,"104 - BS24","Justice, Supreme Court, Place 6",,REP,"Jane Bland",26,0,21,5
+Coryell,"104 - BS24","Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",19,2,10,7
+Coryell,"104 - BS24","Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",0,0,0,0
+Coryell,"104 - BS24","Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","Justice, Supreme Court, Place 6",,,"Under Votes",1,0,0,1
+Coryell,"104 - BS24","Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",25,0,20,5
+Coryell,"104 - BS24","Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",20,2,11,7
+Coryell,"104 - BS24","Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","Presiding Judge, Court of Criminal Appeals",,,"Under Votes",1,0,0,1
+Coryell,"104 - BS24","Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",26,0,21,5
+Coryell,"104 - BS24","Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",19,2,10,7
+Coryell,"104 - BS24","Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",1,0,0,1
+Coryell,"104 - BS24","Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",26,0,21,5
+Coryell,"104 - BS24","Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",19,2,10,7
+Coryell,"104 - BS24","Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",1,0,0,1
+Coryell,"104 - BS24","State Representative, District 59",,REP,"Shelby Slawson",26,0,21,5
+Coryell,"104 - BS24","State Representative, District 59",,DEM,"Hannah Bohm",19,2,10,7
+Coryell,"104 - BS24","State Representative, District 59",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","State Representative, District 59",,,"Under Votes",1,0,0,1
+Coryell,"104 - BS24","Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",28,0,22,6
+Coryell,"104 - BS24","Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","Chief Justice, 10th Court of Appeals District",,,"Under Votes",18,2,9,7
+Coryell,"104 - BS24","District Judge, 52nd Judicial District",,REP,"Trent D. Farrell",29,0,23,6
+Coryell,"104 - BS24","District Judge, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","District Judge, 52nd Judicial District",,,"Under Votes",17,2,8,7
+Coryell,"104 - BS24","District Attorney, 52nd Judicial District",,REP,"Dusty Boyd",29,0,22,7
+Coryell,"104 - BS24","District Attorney, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","District Attorney, 52nd Judicial District",,,"Under Votes",17,2,9,6
+Coryell,"104 - BS24","County Attorney",,REP,"Brandon S. Belt",30,0,23,7
+Coryell,"104 - BS24","County Attorney",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","County Attorney",,,"Under Votes",16,2,8,6
+Coryell,"104 - BS24","Sheriff",,REP,"Scott A. Williams",30,0,23,7
+Coryell,"104 - BS24","Sheriff",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","Sheriff",,,"Under Votes",16,2,8,6
+Coryell,"104 - BS24","County Tax Assessor-Collector",,REP,"Justin K. Carothers",31,0,23,8
+Coryell,"104 - BS24","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","County Tax Assessor-Collector",,,"Under Votes",15,2,8,5
+Coryell,"104 - BS24","County Commissioner, Precinct 1",,REP,"Kyle Matthews",29,0,22,7
+Coryell,"104 - BS24","County Commissioner, Precinct 1",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","County Commissioner, Precinct 1",,,"Under Votes",17,2,9,6
+Coryell,"104 - BS24","Constable, Precinct 1",,REP,"Guy Beveridge",29,0,22,7
+Coryell,"104 - BS24","Constable, Precinct 1",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","Constable, Precinct 1",,,"Under Votes",17,2,9,6
+Coryell,"104 - BS24","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Sherry Hoffpauir",25,1,18,6
+Coryell,"104 - BS24","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Inez Faison",11,0,8,3
+Coryell,"104 - BS24","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Under Votes",10,1,5,4
+Coryell,"104 - BS24","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Timothy Traeger",21,0,20,1
+Coryell,"104 - BS24","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Shameria Ann Davis",14,1,7,6
+Coryell,"104 - BS24","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Over Votes",0,0,0,0
+Coryell,"104 - BS24","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Under Votes",11,1,4,6
+Coryell,"205 - BS17","Registered Voters",,,,1109,,,
+Coryell,"205 - BS17","Ballots Cast",,,,818,0,0,0
+Coryell,"205 - BS17","President",,REP,"Donald J. Trump",732,24,589,119
+Coryell,"205 - BS17","President",,DEM,"Kamala D. Harris",76,6,55,15
+Coryell,"205 - BS17","President",,LIB,"Chase Oliver",1,0,1,0
+Coryell,"205 - BS17","President",,GRN,"Jill Stein",2,0,2,0
+Coryell,"205 - BS17","President",,,"CHERUNDA FOX/HARLAN MCVAY (W)",0,0,0,0
+Coryell,"205 - BS17","President",,,"CLAUDIA DE LA CRUZ/KARINA GARCIA (W)",0,0,0,0
+Coryell,"205 - BS17","President",,,"CORNEL WEST/MELINA ABDULLAH (W)",0,0,0,0
+Coryell,"205 - BS17","President",,,"JESSIE CUELLAR/WESLEY LASLEY (W)",0,0,0,0
+Coryell,"205 - BS17","President",,,"PETER SONSKI/LAUREN ONAK (W)",2,0,2,0
+Coryell,"205 - BS17","President",,,"SHIVA AYYADURAI/CRYSTAL ELLIS (W)",0,0,0,0
+Coryell,"205 - BS17","President",,,"Over Votes",0,0,0,0
+Coryell,"205 - BS17","President",,,"Under Votes",5,0,5,0
+Coryell,"205 - BS17","U.S. Senate",,REP,"Ted Cruz",715,22,581,112
+Coryell,"205 - BS17","U.S. Senate",,DEM,"Colin Allred",85,7,59,19
+Coryell,"205 - BS17","U.S. Senate",,LIB,"Ted Brown",12,0,9,3
+Coryell,"205 - BS17","U.S. Senate",,,"ANALISA ROCHE (W)",0,0,0,0
+Coryell,"205 - BS17","U.S. Senate",,,"TRACY ANDRUS (W)",0,0,0,0
+Coryell,"205 - BS17","U.S. Senate",,,"Over Votes",0,0,0,0
+Coryell,"205 - BS17","U.S. Senate",,,"Under Votes",6,1,5,0
+Coryell,"205 - BS17","U.S. House","31",REP,"John Carter",745,22,602,121
+Coryell,"205 - BS17","U.S. House","31",DEM,"Stuart Whitlow",67,7,48,12
+Coryell,"205 - BS17","U.S. House","31",,"Over Votes",0,0,0,0
+Coryell,"205 - BS17","U.S. House","31",,"Under Votes",6,1,4,1
+Coryell,"205 - BS17","Railroad Commissioner",,REP,"Christi Craddick",712,22,581,109
+Coryell,"205 - BS17","Railroad Commissioner",,DEM,"Katherine Culbert",56,7,38,11
+Coryell,"205 - BS17","Railroad Commissioner",,LIB,"Hawk Dunlap",20,0,14,6
+Coryell,"205 - BS17","Railroad Commissioner",,GRN,"Eddie Espinoza",4,0,3,1
+Coryell,"205 - BS17","Railroad Commissioner",,,"RICHARD MCKIBBIN (W)",0,0,0,0
+Coryell,"205 - BS17","Railroad Commissioner",,,"Over Votes",0,0,0,0
+Coryell,"205 - BS17","Railroad Commissioner",,,"Under Votes",26,1,18,7
+Coryell,"205 - BS17","Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",732,22,593,117
+Coryell,"205 - BS17","Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",66,7,48,11
+Coryell,"205 - BS17","Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Coryell,"205 - BS17","Justice, Supreme Court, Place 2",,,"Under Votes",20,1,13,6
+Coryell,"205 - BS17","Justice, Supreme Court, Place 4",,REP,"John Devine",724,21,588,115
+Coryell,"205 - BS17","Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",72,7,51,14
+Coryell,"205 - BS17","Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Coryell,"205 - BS17","Justice, Supreme Court, Place 4",,,"Under Votes",22,2,15,5
+Coryell,"205 - BS17","Justice, Supreme Court, Place 6",,REP,"Jane Bland",716,23,581,112
+Coryell,"205 - BS17","Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",62,5,45,12
+Coryell,"205 - BS17","Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",18,0,13,5
+Coryell,"205 - BS17","Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Coryell,"205 - BS17","Justice, Supreme Court, Place 6",,,"Under Votes",22,2,15,5
+Coryell,"205 - BS17","Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",736,23,595,118
+Coryell,"205 - BS17","Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",64,5,46,13
+Coryell,"205 - BS17","Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Coryell,"205 - BS17","Presiding Judge, Court of Criminal Appeals",,,"Under Votes",18,2,13,3
+Coryell,"205 - BS17","Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",727,21,590,116
+Coryell,"205 - BS17","Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",65,7,45,13
+Coryell,"205 - BS17","Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Coryell,"205 - BS17","Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",26,2,19,5
+Coryell,"205 - BS17","Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",735,21,596,118
+Coryell,"205 - BS17","Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",58,7,40,11
+Coryell,"205 - BS17","Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Coryell,"205 - BS17","Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",25,2,18,5
+Coryell,"205 - BS17","State Representative, District 59",,REP,"Shelby Slawson",723,22,585,116
+Coryell,"205 - BS17","State Representative, District 59",,DEM,"Hannah Bohm",74,7,52,15
+Coryell,"205 - BS17","State Representative, District 59",,,"Over Votes",0,0,0,0
+Coryell,"205 - BS17","State Representative, District 59",,,"Under Votes",21,1,17,3
+Coryell,"205 - BS17","Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",755,20,611,124
+Coryell,"205 - BS17","Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Coryell,"205 - BS17","Chief Justice, 10th Court of Appeals District",,,"Under Votes",63,10,43,10
+Coryell,"205 - BS17","District Judge, 52nd Judicial District",,REP,"Trent D. Farrell",752,22,605,125
+Coryell,"205 - BS17","District Judge, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"205 - BS17","District Judge, 52nd Judicial District",,,"Under Votes",66,8,49,9
+Coryell,"205 - BS17","District Attorney, 52nd Judicial District",,REP,"Dusty Boyd",756,22,611,123
+Coryell,"205 - BS17","District Attorney, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"205 - BS17","District Attorney, 52nd Judicial District",,,"Under Votes",62,8,43,11
+Coryell,"205 - BS17","County Attorney",,REP,"Brandon S. Belt",761,22,615,124
+Coryell,"205 - BS17","County Attorney",,,"Over Votes",0,0,0,0
+Coryell,"205 - BS17","County Attorney",,,"Under Votes",57,8,39,10
+Coryell,"205 - BS17","Sheriff",,REP,"Scott A. Williams",719,20,583,116
+Coryell,"205 - BS17","Sheriff",,,"Over Votes",0,0,0,0
+Coryell,"205 - BS17","Sheriff",,,"Under Votes",99,10,71,18
+Coryell,"205 - BS17","County Tax Assessor-Collector",,REP,"Justin K. Carothers",756,22,614,120
+Coryell,"205 - BS17","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Coryell,"205 - BS17","County Tax Assessor-Collector",,,"Under Votes",62,8,40,14
+Coryell,"205 - BS17","Constable, Precinct 3",,REP,"Jimmy R. Daniel",744,21,605,118
+Coryell,"205 - BS17","Constable, Precinct 3",,,"Over Votes",0,0,0,0
+Coryell,"205 - BS17","Constable, Precinct 3",,,"Under Votes",74,9,49,16
+Coryell,"206 - BS14","Registered Voters",,,,2560,,,
+Coryell,"206 - BS14","Ballots Cast",,,,417,0,0,0
+Coryell,"206 - BS14","President",,REP,"Donald J. Trump",254,37,137,80
+Coryell,"206 - BS14","President",,DEM,"Kamala D. Harris",158,27,79,52
+Coryell,"206 - BS14","President",,LIB,"Chase Oliver",1,0,1,0
+Coryell,"206 - BS14","President",,GRN,"Jill Stein",3,1,1,1
+Coryell,"206 - BS14","President",,,"CHERUNDA FOX/HARLAN MCVAY (W)",0,0,0,0
+Coryell,"206 - BS14","President",,,"CLAUDIA DE LA CRUZ/KARINA GARCIA (W)",0,0,0,0
+Coryell,"206 - BS14","President",,,"CORNEL WEST/MELINA ABDULLAH (W)",0,0,0,0
+Coryell,"206 - BS14","President",,,"JESSIE CUELLAR/WESLEY LASLEY (W)",0,0,0,0
+Coryell,"206 - BS14","President",,,"PETER SONSKI/LAUREN ONAK (W)",0,0,0,0
+Coryell,"206 - BS14","President",,,"SHIVA AYYADURAI/CRYSTAL ELLIS (W)",0,0,0,0
+Coryell,"206 - BS14","President",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","President",,,"Under Votes",1,0,1,0
+Coryell,"206 - BS14","U.S. Senate",,REP,"Ted Cruz",229,32,126,71
+Coryell,"206 - BS14","U.S. Senate",,DEM,"Colin Allred",166,26,84,56
+Coryell,"206 - BS14","U.S. Senate",,LIB,"Ted Brown",17,3,8,6
+Coryell,"206 - BS14","U.S. Senate",,,"ANALISA ROCHE (W)",0,0,0,0
+Coryell,"206 - BS14","U.S. Senate",,,"TRACY ANDRUS (W)",0,0,0,0
+Coryell,"206 - BS14","U.S. Senate",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","U.S. Senate",,,"Under Votes",5,0,1,4
+Coryell,"206 - BS14","U.S. House","31",REP,"John Carter",251,38,137,76
+Coryell,"206 - BS14","U.S. House","31",DEM,"Stuart Whitlow",158,22,81,55
+Coryell,"206 - BS14","U.S. House","31",,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","U.S. House","31",,"Under Votes",8,5,1,2
+Coryell,"206 - BS14","Railroad Commissioner",,REP,"Christi Craddick",222,26,127,69
+Coryell,"206 - BS14","Railroad Commissioner",,DEM,"Katherine Culbert",140,15,73,52
+Coryell,"206 - BS14","Railroad Commissioner",,LIB,"Hawk Dunlap",19,3,10,6
+Coryell,"206 - BS14","Railroad Commissioner",,GRN,"Eddie Espinoza",12,2,6,4
+Coryell,"206 - BS14","Railroad Commissioner",,,"RICHARD MCKIBBIN (W)",0,0,0,0
+Coryell,"206 - BS14","Railroad Commissioner",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","Railroad Commissioner",,,"Under Votes",24,0,3,21
+Coryell,"206 - BS14","Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",235,25,135,75
+Coryell,"206 - BS14","Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",159,22,81,56
+Coryell,"206 - BS14","Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","Justice, Supreme Court, Place 2",,,"Under Votes",23,18,3,2
+Coryell,"206 - BS14","Justice, Supreme Court, Place 4",,REP,"John Devine",236,24,136,76
+Coryell,"206 - BS14","Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",157,22,80,55
+Coryell,"206 - BS14","Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","Justice, Supreme Court, Place 4",,,"Under Votes",24,19,3,2
+Coryell,"206 - BS14","Justice, Supreme Court, Place 6",,REP,"Jane Bland",221,25,125,71
+Coryell,"206 - BS14","Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",147,17,82,48
+Coryell,"206 - BS14","Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",27,5,10,12
+Coryell,"206 - BS14","Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","Justice, Supreme Court, Place 6",,,"Under Votes",22,18,2,2
+Coryell,"206 - BS14","Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",241,27,136,78
+Coryell,"206 - BS14","Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",152,20,79,53
+Coryell,"206 - BS14","Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","Presiding Judge, Court of Criminal Appeals",,,"Under Votes",24,18,4,2
+Coryell,"206 - BS14","Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",245,27,138,80
+Coryell,"206 - BS14","Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",147,20,77,50
+Coryell,"206 - BS14","Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",25,18,4,3
+Coryell,"206 - BS14","Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",238,25,134,79
+Coryell,"206 - BS14","Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",154,22,81,51
+Coryell,"206 - BS14","Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",25,18,4,3
+Coryell,"206 - BS14","State Representative, District 59",,REP,"Shelby Slawson",238,26,134,78
+Coryell,"206 - BS14","State Representative, District 59",,DEM,"Hannah Bohm",157,22,82,53
+Coryell,"206 - BS14","State Representative, District 59",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","State Representative, District 59",,,"Under Votes",22,17,3,2
+Coryell,"206 - BS14","Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",304,33,169,102
+Coryell,"206 - BS14","Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","Chief Justice, 10th Court of Appeals District",,,"Under Votes",113,32,50,31
+Coryell,"206 - BS14","District Judge, 52nd Judicial District",,REP,"Trent D. Farrell",303,33,168,102
+Coryell,"206 - BS14","District Judge, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","District Judge, 52nd Judicial District",,,"Under Votes",114,32,51,31
+Coryell,"206 - BS14","District Attorney, 52nd Judicial District",,REP,"Dusty Boyd",302,33,169,100
+Coryell,"206 - BS14","District Attorney, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","District Attorney, 52nd Judicial District",,,"Under Votes",115,32,50,33
+Coryell,"206 - BS14","County Attorney",,REP,"Brandon S. Belt",303,33,169,101
+Coryell,"206 - BS14","County Attorney",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","County Attorney",,,"Under Votes",114,32,50,32
+Coryell,"206 - BS14","Sheriff",,REP,"Scott A. Williams",303,34,168,101
+Coryell,"206 - BS14","Sheriff",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","Sheriff",,,"Under Votes",114,31,51,32
+Coryell,"206 - BS14","County Tax Assessor-Collector",,REP,"Justin K. Carothers",304,34,169,101
+Coryell,"206 - BS14","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","County Tax Assessor-Collector",,,"Under Votes",113,31,50,32
+Coryell,"206 - BS14","Constable, Precinct 2",,REP,"Shawn Camp",303,33,169,101
+Coryell,"206 - BS14","Constable, Precinct 2",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","Constable, Precinct 2",,,"Under Votes",114,32,50,32
+Coryell,"206 - BS14","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Sherry Hoffpauir",269,10,208,51
+Coryell,"206 - BS14","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Inez Faison",243,11,201,31
+Coryell,"206 - BS14","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Under Votes",77,8,56,13
+Coryell,"206 - BS14","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Timothy Traeger",282,9,224,49
+Coryell,"206 - BS14","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Shameria Ann Davis",211,12,167,32
+Coryell,"206 - BS14","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Under Votes",96,8,74,14
+Coryell,"206 - BS14","CITY OF COPPERAS COVE COUNCIL MEMBER, MAYOR - Vote for none or one",,,"Dan Yancey",465,18,368,79
+Coryell,"206 - BS14","CITY OF COPPERAS COVE COUNCIL MEMBER, MAYOR - Vote for none or one",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","CITY OF COPPERAS COVE COUNCIL MEMBER, MAYOR - Vote for none or one",,,"Under Votes",124,11,97,16
+Coryell,"206 - BS14","CITY OF COPPERAS COVE COUNCIL MEMBER, POSITION 1 - Vote for none or one",,,"Christina Strohfus",225,6,173,46
+Coryell,"206 - BS14","CITY OF COPPERAS COVE COUNCIL MEMBER, POSITION 1 - Vote for none or one",,,"Howard Hawk",261,14,213,34
+Coryell,"206 - BS14","CITY OF COPPERAS COVE COUNCIL MEMBER, POSITION 1 - Vote for none or one",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","CITY OF COPPERAS COVE COUNCIL MEMBER, POSITION 1 - Vote for none or one",,,"Under Votes",103,9,79,15
+Coryell,"206 - BS14","CITY OF COPPERAS COVE COUNCIL MEMBER, POSITION 2 - Vote for none or one",,,"Victor Perry Hall II",129,3,108,18
+Coryell,"206 - BS14","CITY OF COPPERAS COVE COUNCIL MEMBER, POSITION 2 - Vote for none or one",,,"Rita Hogan",208,12,156,40
+Coryell,"206 - BS14","CITY OF COPPERAS COVE COUNCIL MEMBER, POSITION 2 - Vote for none or one",,,"George Duncan",131,4,107,20
+Coryell,"206 - BS14","CITY OF COPPERAS COVE COUNCIL MEMBER, POSITION 2 - Vote for none or one",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","CITY OF COPPERAS COVE COUNCIL MEMBER, POSITION 2 - Vote for none or one",,,"Under Votes",121,10,94,17
+Coryell,"206 - BS14","SPECIAL ELECTION CITY OF COPPERAS COVE, TEXAS PROPOSITION A",,,"FOR",336,14,268,54
+Coryell,"206 - BS14","SPECIAL ELECTION CITY OF COPPERAS COVE, TEXAS PROPOSITION A",,,"AGAINST",222,8,180,34
+Coryell,"206 - BS14","SPECIAL ELECTION CITY OF COPPERAS COVE, TEXAS PROPOSITION A",,,"Over Votes",0,0,0,0
+Coryell,"206 - BS14","SPECIAL ELECTION CITY OF COPPERAS COVE, TEXAS PROPOSITION A",,,"Under Votes",31,7,17,7
+Coryell,"207 - BS15","Registered Voters",,,,19,,,
+Coryell,"207 - BS15","Ballots Cast",,,,5,0,0,0
+Coryell,"207 - BS15","President",,REP,"Donald J. Trump",1,0,1,0
+Coryell,"207 - BS15","President",,DEM,"Kamala D. Harris",4,0,3,1
+Coryell,"207 - BS15","President",,LIB,"Chase Oliver",0,0,0,0
+Coryell,"207 - BS15","President",,GRN,"Jill Stein",0,0,0,0
+Coryell,"207 - BS15","President",,,"CHERUNDA FOX/HARLAN MCVAY (W)",0,0,0,0
+Coryell,"207 - BS15","President",,,"CLAUDIA DE LA CRUZ/KARINA GARCIA (W)",0,0,0,0
+Coryell,"207 - BS15","President",,,"CORNEL WEST/MELINA ABDULLAH (W)",0,0,0,0
+Coryell,"207 - BS15","President",,,"JESSIE CUELLAR/WESLEY LASLEY (W)",0,0,0,0
+Coryell,"207 - BS15","President",,,"PETER SONSKI/LAUREN ONAK (W)",0,0,0,0
+Coryell,"207 - BS15","President",,,"SHIVA AYYADURAI/CRYSTAL ELLIS (W)",0,0,0,0
+Coryell,"207 - BS15","President",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","President",,,"Under Votes",0,0,0,0
+Coryell,"207 - BS15","U.S. Senate",,REP,"Ted Cruz",1,0,1,0
+Coryell,"207 - BS15","U.S. Senate",,DEM,"Colin Allred",3,0,3,0
+Coryell,"207 - BS15","U.S. Senate",,LIB,"Ted Brown",1,0,0,1
+Coryell,"207 - BS15","U.S. Senate",,,"ANALISA ROCHE (W)",0,0,0,0
+Coryell,"207 - BS15","U.S. Senate",,,"TRACY ANDRUS (W)",0,0,0,0
+Coryell,"207 - BS15","U.S. Senate",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","U.S. Senate",,,"Under Votes",0,0,0,0
+Coryell,"207 - BS15","U.S. House","31",REP,"John Carter",1,0,1,0
+Coryell,"207 - BS15","U.S. House","31",DEM,"Stuart Whitlow",4,0,3,1
+Coryell,"207 - BS15","U.S. House","31",,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","U.S. House","31",,"Under Votes",0,0,0,0
+Coryell,"207 - BS15","Railroad Commissioner",,REP,"Christi Craddick",1,0,1,0
+Coryell,"207 - BS15","Railroad Commissioner",,DEM,"Katherine Culbert",2,0,2,0
+Coryell,"207 - BS15","Railroad Commissioner",,LIB,"Hawk Dunlap",0,0,0,0
+Coryell,"207 - BS15","Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,1,1
+Coryell,"207 - BS15","Railroad Commissioner",,,"RICHARD MCKIBBIN (W)",0,0,0,0
+Coryell,"207 - BS15","Railroad Commissioner",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","Railroad Commissioner",,,"Under Votes",0,0,0,0
+Coryell,"207 - BS15","Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1,0,1,0
+Coryell,"207 - BS15","Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",4,0,3,1
+Coryell,"207 - BS15","Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","Justice, Supreme Court, Place 2",,,"Under Votes",0,0,0,0
+Coryell,"207 - BS15","Justice, Supreme Court, Place 4",,REP,"John Devine",1,0,1,0
+Coryell,"207 - BS15","Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",4,0,3,1
+Coryell,"207 - BS15","Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","Justice, Supreme Court, Place 4",,,"Under Votes",0,0,0,0
+Coryell,"207 - BS15","Justice, Supreme Court, Place 6",,REP,"Jane Bland",1,0,1,0
+Coryell,"207 - BS15","Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",2,0,2,0
+Coryell,"207 - BS15","Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",2,0,1,1
+Coryell,"207 - BS15","Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","Justice, Supreme Court, Place 6",,,"Under Votes",0,0,0,0
+Coryell,"207 - BS15","Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1,0,1,0
+Coryell,"207 - BS15","Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",4,0,3,1
+Coryell,"207 - BS15","Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","Presiding Judge, Court of Criminal Appeals",,,"Under Votes",0,0,0,0
+Coryell,"207 - BS15","Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",2,0,2,0
+Coryell,"207 - BS15","Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",3,0,2,1
+Coryell,"207 - BS15","Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",0,0,0,0
+Coryell,"207 - BS15","Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1,0,1,0
+Coryell,"207 - BS15","Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",4,0,3,1
+Coryell,"207 - BS15","Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",0,0,0,0
+Coryell,"207 - BS15","State Representative, District 59",,REP,"Shelby Slawson",1,0,1,0
+Coryell,"207 - BS15","State Representative, District 59",,DEM,"Hannah Bohm",4,0,3,1
+Coryell,"207 - BS15","State Representative, District 59",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","State Representative, District 59",,,"Under Votes",0,0,0,0
+Coryell,"207 - BS15","Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",5,0,4,1
+Coryell,"207 - BS15","Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","Chief Justice, 10th Court of Appeals District",,,"Under Votes",0,0,0,0
+Coryell,"207 - BS15","District Judge, 52nd Judicial District",,REP,"Trent D. Farrell",4,0,4,0
+Coryell,"207 - BS15","District Judge, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","District Judge, 52nd Judicial District",,,"Under Votes",1,0,0,1
+Coryell,"207 - BS15","District Attorney, 52nd Judicial District",,REP,"Dusty Boyd",4,0,4,0
+Coryell,"207 - BS15","District Attorney, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","District Attorney, 52nd Judicial District",,,"Under Votes",1,0,0,1
+Coryell,"207 - BS15","County Attorney",,REP,"Brandon S. Belt",4,0,4,0
+Coryell,"207 - BS15","County Attorney",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","County Attorney",,,"Under Votes",1,0,0,1
+Coryell,"207 - BS15","Sheriff",,REP,"Scott A. Williams",4,0,4,0
+Coryell,"207 - BS15","Sheriff",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","Sheriff",,,"Under Votes",1,0,0,1
+Coryell,"207 - BS15","County Tax Assessor-Collector",,REP,"Justin K. Carothers",4,0,4,0
+Coryell,"207 - BS15","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","County Tax Assessor-Collector",,,"Under Votes",1,0,0,1
+Coryell,"207 - BS15","County Commissioner, Precinct 3",,REP,"Ryan Basham",4,0,4,0
+Coryell,"207 - BS15","County Commissioner, Precinct 3",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","County Commissioner, Precinct 3",,,"Under Votes",1,0,0,1
+Coryell,"207 - BS15","Constable, Precinct 3",,REP,"Jimmy R. Daniel",4,0,4,0
+Coryell,"207 - BS15","Constable, Precinct 3",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","Constable, Precinct 3",,,"Under Votes",1,0,0,1
+Coryell,"207 - BS15","OGLESBY INDEPENDENT SCHOOL DISTRICT Board of Trustees - Vote for none, one, two or three",,,"Stephanie Markum",3,0,2,1
+Coryell,"207 - BS15","OGLESBY INDEPENDENT SCHOOL DISTRICT Board of Trustees - Vote for none, one, two or three",,,"Liz Caraway",2,0,2,0
+Coryell,"207 - BS15","OGLESBY INDEPENDENT SCHOOL DISTRICT Board of Trustees - Vote for none, one, two or three",,,"Ronnie Sullins",5,0,4,1
+Coryell,"207 - BS15","OGLESBY INDEPENDENT SCHOOL DISTRICT Board of Trustees - Vote for none, one, two or three",,,"Joseph Meyers",3,0,2,1
+Coryell,"207 - BS15","OGLESBY INDEPENDENT SCHOOL DISTRICT Board of Trustees - Vote for none, one, two or three",,,"Cynthia Rodriguez",4,0,2,2
+Coryell,"207 - BS15","OGLESBY INDEPENDENT SCHOOL DISTRICT Board of Trustees - Vote for none, one, two or three",,,"James Seymour",6,0,2,4
+Coryell,"207 - BS15","OGLESBY INDEPENDENT SCHOOL DISTRICT Board of Trustees - Vote for none, one, two or three",,,"Over Votes",0,0,0,0
+Coryell,"207 - BS15","OGLESBY INDEPENDENT SCHOOL DISTRICT Board of Trustees - Vote for none, one, two or three",,,"Under Votes",2,0,1,1
+Coryell,"308 - BS11","Registered Voters",,,,1881,,,
+Coryell,"308 - BS11","Ballots Cast",,,,1309,0,0,0
+Coryell,"308 - BS11","President",,REP,"Donald J. Trump",1146,26,918,202
+Coryell,"308 - BS11","President",,DEM,"Kamala D. Harris",141,10,100,31
+Coryell,"308 - BS11","President",,LIB,"Chase Oliver",9,0,5,4
+Coryell,"308 - BS11","President",,GRN,"Jill Stein",4,0,3,1
+Coryell,"308 - BS11","President",,,"CHERUNDA FOX/HARLAN MCVAY (W)",0,0,0,0
+Coryell,"308 - BS11","President",,,"CLAUDIA DE LA CRUZ/KARINA GARCIA (W)",0,0,0,0
+Coryell,"308 - BS11","President",,,"CORNEL WEST/MELINA ABDULLAH (W)",0,0,0,0
+Coryell,"308 - BS11","President",,,"JESSIE CUELLAR/WESLEY LASLEY (W)",0,0,0,0
+Coryell,"308 - BS11","President",,,"PETER SONSKI/LAUREN ONAK (W)",0,0,0,0
+Coryell,"308 - BS11","President",,,"SHIVA AYYADURAI/CRYSTAL ELLIS (W)",0,0,0,0
+Coryell,"308 - BS11","President",,,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","President",,,"Under Votes",9,0,7,2
+Coryell,"308 - BS11","U.S. Senate",,REP,"Ted Cruz",1100,26,888,186
+Coryell,"308 - BS11","U.S. Senate",,DEM,"Colin Allred",171,9,123,39
+Coryell,"308 - BS11","U.S. Senate",,LIB,"Ted Brown",32,1,17,14
+Coryell,"308 - BS11","U.S. Senate",,,"ANALISA ROCHE (W)",0,0,0,0
+Coryell,"308 - BS11","U.S. Senate",,,"TRACY ANDRUS (W)",0,0,0,0
+Coryell,"308 - BS11","U.S. Senate",,,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","U.S. Senate",,,"Under Votes",6,0,5,1
+Coryell,"308 - BS11","U.S. House","31",REP,"John Carter",1150,26,915,209
+Coryell,"308 - BS11","U.S. House","31",DEM,"Stuart Whitlow",138,10,103,25
+Coryell,"308 - BS11","U.S. House","31",,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","U.S. House","31",,"Under Votes",21,0,15,6
+Coryell,"308 - BS11","Railroad Commissioner",,REP,"Christi Craddick",1087,24,876,187
+Coryell,"308 - BS11","Railroad Commissioner",,DEM,"Katherine Culbert",126,10,89,27
+Coryell,"308 - BS11","Railroad Commissioner",,LIB,"Hawk Dunlap",38,1,27,10
+Coryell,"308 - BS11","Railroad Commissioner",,GRN,"Eddie Espinoza",12,0,8,4
+Coryell,"308 - BS11","Railroad Commissioner",,,"RICHARD MCKIBBIN (W)",0,0,0,0
+Coryell,"308 - BS11","Railroad Commissioner",,,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","Railroad Commissioner",,,"Under Votes",46,1,33,12
+Coryell,"308 - BS11","Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1139,27,912,200
+Coryell,"308 - BS11","Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",134,9,95,30
+Coryell,"308 - BS11","Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","Justice, Supreme Court, Place 2",,,"Under Votes",36,0,26,10
+Coryell,"308 - BS11","Justice, Supreme Court, Place 4",,REP,"John Devine",1134,27,909,198
+Coryell,"308 - BS11","Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",136,9,98,29
+Coryell,"308 - BS11","Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","Justice, Supreme Court, Place 4",,,"Under Votes",39,0,26,13
+Coryell,"308 - BS11","Justice, Supreme Court, Place 6",,REP,"Jane Bland",1105,27,889,189
+Coryell,"308 - BS11","Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",130,9,95,26
+Coryell,"308 - BS11","Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",35,0,24,11
+Coryell,"308 - BS11","Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","Justice, Supreme Court, Place 6",,,"Under Votes",39,0,25,14
+Coryell,"308 - BS11","Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1132,27,904,201
+Coryell,"308 - BS11","Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",138,8,103,27
+Coryell,"308 - BS11","Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","Presiding Judge, Court of Criminal Appeals",,,"Under Votes",39,1,26,12
+Coryell,"308 - BS11","Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1127,26,904,197
+Coryell,"308 - BS11","Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",134,7,97,30
+Coryell,"308 - BS11","Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",48,3,32,13
+Coryell,"308 - BS11","Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1133,28,906,199
+Coryell,"308 - BS11","Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",122,7,88,27
+Coryell,"308 - BS11","Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",54,1,39,14
+Coryell,"308 - BS11","State Representative, District 59",,REP,"Shelby Slawson",1126,26,898,202
+Coryell,"308 - BS11","State Representative, District 59",,DEM,"Hannah Bohm",147,10,109,28
+Coryell,"308 - BS11","State Representative, District 59",,,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","State Representative, District 59",,,"Under Votes",36,0,26,10
+Coryell,"308 - BS11","Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",1181,28,941,212
+Coryell,"308 - BS11","Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","Chief Justice, 10th Court of Appeals District",,,"Under Votes",128,8,92,28
+Coryell,"308 - BS11","District Judge, 52nd Judicial District",,REP,"Trent D. Farrell",1188,28,952,208
+Coryell,"308 - BS11","District Judge, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","District Judge, 52nd Judicial District",,,"Under Votes",121,8,81,32
+Coryell,"308 - BS11","District Attorney, 52nd Judicial District",,REP,"Dusty Boyd",1176,28,938,210
+Coryell,"308 - BS11","District Attorney, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","District Attorney, 52nd Judicial District",,,"Under Votes",133,8,95,30
+Coryell,"308 - BS11","County Attorney",,REP,"Brandon S. Belt",1193,28,951,214
+Coryell,"308 - BS11","County Attorney",,,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","County Attorney",,,"Under Votes",116,8,82,26
+Coryell,"308 - BS11","Sheriff",,REP,"Scott A. Williams",1137,28,901,208
+Coryell,"308 - BS11","Sheriff",,,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","Sheriff",,,"Under Votes",172,8,132,32
+Coryell,"308 - BS11","County Tax Assessor-Collector",,REP,"Justin K. Carothers",1206,28,960,218
+Coryell,"308 - BS11","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","County Tax Assessor-Collector",,,"Under Votes",103,8,73,22
+Coryell,"308 - BS11","County Commissioner, Precinct 3",,REP,"Ryan Basham",1175,28,935,212
+Coryell,"308 - BS11","County Commissioner, Precinct 3",,,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","County Commissioner, Precinct 3",,,"Under Votes",134,8,98,28
+Coryell,"308 - BS11","Constable, Precinct 3",,REP,"Jimmy R. Daniel",1159,28,922,209
+Coryell,"308 - BS11","Constable, Precinct 3",,,"Over Votes",0,0,0,0
+Coryell,"308 - BS11","Constable, Precinct 3",,,"Under Votes",150,8,111,31
+Coryell,"310 - BS27","Registered Voters",,,,327,,,
+Coryell,"310 - BS27","Ballots Cast",,,,231,0,0,0
+Coryell,"310 - BS27","President",,REP,"Donald J. Trump",183,0,57,126
+Coryell,"310 - BS27","President",,DEM,"Kamala D. Harris",44,6,15,23
+Coryell,"310 - BS27","President",,LIB,"Chase Oliver",2,0,0,2
+Coryell,"310 - BS27","President",,GRN,"Jill Stein",0,0,0,0
+Coryell,"310 - BS27","President",,,"CHERUNDA FOX/HARLAN MCVAY (W)",0,0,0,0
+Coryell,"310 - BS27","President",,,"CLAUDIA DE LA CRUZ/KARINA GARCIA (W)",0,0,0,0
+Coryell,"310 - BS27","President",,,"CORNEL WEST/MELINA ABDULLAH (W)",0,0,0,0
+Coryell,"310 - BS27","President",,,"JESSIE CUELLAR/WESLEY LASLEY (W)",0,0,0,0
+Coryell,"310 - BS27","President",,,"PETER SONSKI/LAUREN ONAK (W)",0,0,0,0
+Coryell,"310 - BS27","President",,,"SHIVA AYYADURAI/CRYSTAL ELLIS (W)",0,0,0,0
+Coryell,"310 - BS27","President",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","President",,,"Under Votes",2,0,0,2
+Coryell,"310 - BS27","U.S. Senate",,REP,"Ted Cruz",179,0,57,122
+Coryell,"310 - BS27","U.S. Senate",,DEM,"Colin Allred",44,6,15,23
+Coryell,"310 - BS27","U.S. Senate",,LIB,"Ted Brown",5,0,0,5
+Coryell,"310 - BS27","U.S. Senate",,,"ANALISA ROCHE (W)",0,0,0,0
+Coryell,"310 - BS27","U.S. Senate",,,"TRACY ANDRUS (W)",0,0,0,0
+Coryell,"310 - BS27","U.S. Senate",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","U.S. Senate",,,"Under Votes",3,0,0,3
+Coryell,"310 - BS27","U.S. House","31",REP,"John Carter",187,0,56,131
+Coryell,"310 - BS27","U.S. House","31",DEM,"Stuart Whitlow",35,4,15,16
+Coryell,"310 - BS27","U.S. House","31",,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","U.S. House","31",,"Under Votes",9,2,1,6
+Coryell,"310 - BS27","Railroad Commissioner",,REP,"Christi Craddick",172,0,57,115
+Coryell,"310 - BS27","Railroad Commissioner",,DEM,"Katherine Culbert",35,4,13,18
+Coryell,"310 - BS27","Railroad Commissioner",,LIB,"Hawk Dunlap",9,0,1,8
+Coryell,"310 - BS27","Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,0,1
+Coryell,"310 - BS27","Railroad Commissioner",,,"RICHARD MCKIBBIN (W)",0,0,0,0
+Coryell,"310 - BS27","Railroad Commissioner",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","Railroad Commissioner",,,"Under Votes",14,2,1,11
+Coryell,"310 - BS27","Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",182,0,58,124
+Coryell,"310 - BS27","Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",35,4,14,17
+Coryell,"310 - BS27","Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","Justice, Supreme Court, Place 2",,,"Under Votes",14,2,0,12
+Coryell,"310 - BS27","Justice, Supreme Court, Place 4",,REP,"John Devine",179,0,57,122
+Coryell,"310 - BS27","Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",38,4,15,19
+Coryell,"310 - BS27","Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","Justice, Supreme Court, Place 4",,,"Under Votes",14,2,0,12
+Coryell,"310 - BS27","Justice, Supreme Court, Place 6",,REP,"Jane Bland",175,0,57,118
+Coryell,"310 - BS27","Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",35,4,13,18
+Coryell,"310 - BS27","Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",8,0,2,6
+Coryell,"310 - BS27","Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","Justice, Supreme Court, Place 6",,,"Under Votes",13,2,0,11
+Coryell,"310 - BS27","Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",180,0,56,124
+Coryell,"310 - BS27","Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",38,4,15,19
+Coryell,"310 - BS27","Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","Presiding Judge, Court of Criminal Appeals",,,"Under Votes",13,2,1,10
+Coryell,"310 - BS27","Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",177,0,56,121
+Coryell,"310 - BS27","Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",37,4,15,18
+Coryell,"310 - BS27","Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",17,2,1,14
+Coryell,"310 - BS27","Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",182,0,59,123
+Coryell,"310 - BS27","Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",34,4,13,17
+Coryell,"310 - BS27","Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",15,2,0,13
+Coryell,"310 - BS27","State Representative, District 59",,REP,"Shelby Slawson",183,0,58,125
+Coryell,"310 - BS27","State Representative, District 59",,DEM,"Hannah Bohm",37,4,14,19
+Coryell,"310 - BS27","State Representative, District 59",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","State Representative, District 59",,,"Under Votes",11,2,0,9
+Coryell,"310 - BS27","Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",192,0,61,131
+Coryell,"310 - BS27","Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","Chief Justice, 10th Court of Appeals District",,,"Under Votes",39,6,11,22
+Coryell,"310 - BS27","District Judge, 52nd Judicial District",,REP,"Trent D. Farrell",190,0,61,129
+Coryell,"310 - BS27","District Judge, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","District Judge, 52nd Judicial District",,,"Under Votes",41,6,11,24
+Coryell,"310 - BS27","District Attorney, 52nd Judicial District",,REP,"Dusty Boyd",194,2,60,132
+Coryell,"310 - BS27","District Attorney, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","District Attorney, 52nd Judicial District",,,"Under Votes",37,4,12,21
+Coryell,"310 - BS27","County Attorney",,REP,"Brandon S. Belt",190,0,61,129
+Coryell,"310 - BS27","County Attorney",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","County Attorney",,,"Under Votes",41,6,11,24
+Coryell,"310 - BS27","Sheriff",,REP,"Scott A. Williams",189,1,57,131
+Coryell,"310 - BS27","Sheriff",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","Sheriff",,,"Under Votes",42,5,15,22
+Coryell,"310 - BS27","County Tax Assessor-Collector",,REP,"Justin K. Carothers",198,2,60,136
+Coryell,"310 - BS27","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","County Tax Assessor-Collector",,,"Under Votes",33,4,12,17
+Coryell,"310 - BS27","County Commissioner, Precinct 3",,REP,"Ryan Basham",194,1,61,132
+Coryell,"310 - BS27","County Commissioner, Precinct 3",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","County Commissioner, Precinct 3",,,"Under Votes",37,5,11,21
+Coryell,"310 - BS27","Constable, Precinct 3",,REP,"Jimmy R. Daniel",190,0,61,129
+Coryell,"310 - BS27","Constable, Precinct 3",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","Constable, Precinct 3",,,"Under Votes",41,6,11,24
+Coryell,"310 - BS27","CITY OF OGLESBY Alderman - Vote for none, one, two or three",,,"Terri Shepherd Castro",106,2,35,69
+Coryell,"310 - BS27","CITY OF OGLESBY Alderman - Vote for none, one, two or three",,,"Daniel Bonne Brinkley",128,4,44,80
+Coryell,"310 - BS27","CITY OF OGLESBY Alderman - Vote for none, one, two or three",,,"Mike Homan",113,2,33,78
+Coryell,"310 - BS27","CITY OF OGLESBY Alderman - Vote for none, one, two or three",,,"David Mosley",75,1,24,50
+Coryell,"310 - BS27","CITY OF OGLESBY Alderman - Vote for none, one, two or three",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS27","CITY OF OGLESBY Alderman - Vote for none, one, two or three",,,"Under Votes",271,9,80,182
+Coryell,"310 - BS28","Registered Voters",,,,313,,,
+Coryell,"310 - BS28","Ballots Cast",,,,242,0,0,0
+Coryell,"310 - BS28","President",,REP,"Donald J. Trump",210,2,105,103
+Coryell,"310 - BS28","President",,DEM,"Kamala D. Harris",29,0,21,8
+Coryell,"310 - BS28","President",,LIB,"Chase Oliver",0,0,0,0
+Coryell,"310 - BS28","President",,GRN,"Jill Stein",1,0,1,0
+Coryell,"310 - BS28","President",,,"CHERUNDA FOX/HARLAN MCVAY (W)",0,0,0,0
+Coryell,"310 - BS28","President",,,"CLAUDIA DE LA CRUZ/KARINA GARCIA (W)",0,0,0,0
+Coryell,"310 - BS28","President",,,"CORNEL WEST/MELINA ABDULLAH (W)",0,0,0,0
+Coryell,"310 - BS28","President",,,"JESSIE CUELLAR/WESLEY LASLEY (W)",0,0,0,0
+Coryell,"310 - BS28","President",,,"PETER SONSKI/LAUREN ONAK (W)",0,0,0,0
+Coryell,"310 - BS28","President",,,"SHIVA AYYADURAI/CRYSTAL ELLIS (W)",0,0,0,0
+Coryell,"310 - BS28","President",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","President",,,"Under Votes",2,0,2,0
+Coryell,"310 - BS28","U.S. Senate",,REP,"Ted Cruz",206,2,105,99
+Coryell,"310 - BS28","U.S. Senate",,DEM,"Colin Allred",31,0,22,9
+Coryell,"310 - BS28","U.S. Senate",,LIB,"Ted Brown",5,0,2,3
+Coryell,"310 - BS28","U.S. Senate",,,"ANALISA ROCHE (W)",0,0,0,0
+Coryell,"310 - BS28","U.S. Senate",,,"TRACY ANDRUS (W)",0,0,0,0
+Coryell,"310 - BS28","U.S. Senate",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","U.S. Senate",,,"Under Votes",0,0,0,0
+Coryell,"310 - BS28","U.S. House","31",REP,"John Carter",209,2,107,100
+Coryell,"310 - BS28","U.S. House","31",DEM,"Stuart Whitlow",25,0,19,6
+Coryell,"310 - BS28","U.S. House","31",,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","U.S. House","31",,"Under Votes",8,0,3,5
+Coryell,"310 - BS28","Railroad Commissioner",,REP,"Christi Craddick",195,2,103,90
+Coryell,"310 - BS28","Railroad Commissioner",,DEM,"Katherine Culbert",26,0,20,6
+Coryell,"310 - BS28","Railroad Commissioner",,LIB,"Hawk Dunlap",9,0,2,7
+Coryell,"310 - BS28","Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,1,0
+Coryell,"310 - BS28","Railroad Commissioner",,,"RICHARD MCKIBBIN (W)",0,0,0,0
+Coryell,"310 - BS28","Railroad Commissioner",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","Railroad Commissioner",,,"Under Votes",11,0,3,8
+Coryell,"310 - BS28","Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",206,2,104,100
+Coryell,"310 - BS28","Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",26,0,20,6
+Coryell,"310 - BS28","Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","Justice, Supreme Court, Place 2",,,"Under Votes",10,0,5,5
+Coryell,"310 - BS28","Justice, Supreme Court, Place 4",,REP,"John Devine",199,2,101,96
+Coryell,"310 - BS28","Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",32,0,23,9
+Coryell,"310 - BS28","Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","Justice, Supreme Court, Place 4",,,"Under Votes",11,0,5,6
+Coryell,"310 - BS28","Justice, Supreme Court, Place 6",,REP,"Jane Bland",201,2,105,94
+Coryell,"310 - BS28","Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",27,0,19,8
+Coryell,"310 - BS28","Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",4,0,0,4
+Coryell,"310 - BS28","Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","Justice, Supreme Court, Place 6",,,"Under Votes",10,0,5,5
+Coryell,"310 - BS28","Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",202,2,101,99
+Coryell,"310 - BS28","Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",27,0,20,7
+Coryell,"310 - BS28","Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","Presiding Judge, Court of Criminal Appeals",,,"Under Votes",13,0,8,5
+Coryell,"310 - BS28","Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",205,2,104,99
+Coryell,"310 - BS28","Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",26,0,20,6
+Coryell,"310 - BS28","Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",11,0,5,6
+Coryell,"310 - BS28","Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",203,2,102,99
+Coryell,"310 - BS28","Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",27,0,21,6
+Coryell,"310 - BS28","Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",12,0,6,6
+Coryell,"310 - BS28","State Representative, District 59",,REP,"Shelby Slawson",204,2,105,97
+Coryell,"310 - BS28","State Representative, District 59",,DEM,"Hannah Bohm",29,0,20,9
+Coryell,"310 - BS28","State Representative, District 59",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","State Representative, District 59",,,"Under Votes",9,0,4,5
+Coryell,"310 - BS28","Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",216,2,114,100
+Coryell,"310 - BS28","Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","Chief Justice, 10th Court of Appeals District",,,"Under Votes",26,0,15,11
+Coryell,"310 - BS28","District Judge, 52nd Judicial District",,REP,"Trent D. Farrell",218,2,115,101
+Coryell,"310 - BS28","District Judge, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","District Judge, 52nd Judicial District",,,"Under Votes",24,0,14,10
+Coryell,"310 - BS28","District Attorney, 52nd Judicial District",,REP,"Dusty Boyd",217,1,116,100
+Coryell,"310 - BS28","District Attorney, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","District Attorney, 52nd Judicial District",,,"Under Votes",25,1,13,11
+Coryell,"310 - BS28","County Attorney",,REP,"Brandon S. Belt",215,2,113,100
+Coryell,"310 - BS28","County Attorney",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","County Attorney",,,"Under Votes",27,0,16,11
+Coryell,"310 - BS28","Sheriff",,REP,"Scott A. Williams",213,2,112,99
+Coryell,"310 - BS28","Sheriff",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","Sheriff",,,"Under Votes",29,0,17,12
+Coryell,"310 - BS28","County Tax Assessor-Collector",,REP,"Justin K. Carothers",219,2,119,98
+Coryell,"310 - BS28","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","County Tax Assessor-Collector",,,"Under Votes",23,0,10,13
+Coryell,"310 - BS28","County Commissioner, Precinct 3",,REP,"Ryan Basham",217,2,120,95
+Coryell,"310 - BS28","County Commissioner, Precinct 3",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","County Commissioner, Precinct 3",,,"Under Votes",25,0,9,16
+Coryell,"310 - BS28","Constable, Precinct 3",,REP,"Jimmy R. Daniel",215,2,114,99
+Coryell,"310 - BS28","Constable, Precinct 3",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","Constable, Precinct 3",,,"Under Votes",27,0,15,12
+Coryell,"310 - BS28","OGLESBY INDEPENDENT SCHOOL DISTRICT Board of Trustees - Vote for none, one, two or three",,,"Stephanie Markum",57,0,28,29
+Coryell,"310 - BS28","OGLESBY INDEPENDENT SCHOOL DISTRICT Board of Trustees - Vote for none, one, two or three",,,"Liz Caraway",90,1,45,44
+Coryell,"310 - BS28","OGLESBY INDEPENDENT SCHOOL DISTRICT Board of Trustees - Vote for none, one, two or three",,,"Ronnie Sullins",130,2,61,67
+Coryell,"310 - BS28","OGLESBY INDEPENDENT SCHOOL DISTRICT Board of Trustees - Vote for none, one, two or three",,,"Joseph Meyers",74,0,41,33
+Coryell,"310 - BS28","OGLESBY INDEPENDENT SCHOOL DISTRICT Board of Trustees - Vote for none, one, two or three",,,"Cynthia Rodriguez",43,0,22,21
+Coryell,"310 - BS28","OGLESBY INDEPENDENT SCHOOL DISTRICT Board of Trustees - Vote for none, one, two or three",,,"James Seymour",99,1,49,49
+Coryell,"310 - BS28","OGLESBY INDEPENDENT SCHOOL DISTRICT Board of Trustees - Vote for none, one, two or three",,,"Over Votes",0,0,0,0
+Coryell,"310 - BS28","OGLESBY INDEPENDENT SCHOOL DISTRICT Board of Trustees - Vote for none, one, two or three",,,"Under Votes",233,2,141,90
+Coryell,"311 - BS9","Registered Voters",,,,889,,,
+Coryell,"311 - BS9","Ballots Cast",,,,99,0,0,0
+Coryell,"311 - BS9","President",,REP,"Donald J. Trump",54,12,24,18
+Coryell,"311 - BS9","President",,DEM,"Kamala D. Harris",44,8,17,19
+Coryell,"311 - BS9","President",,LIB,"Chase Oliver",0,0,0,0
+Coryell,"311 - BS9","President",,GRN,"Jill Stein",1,0,1,0
+Coryell,"311 - BS9","President",,,"CHERUNDA FOX/HARLAN MCVAY (W)",0,0,0,0
+Coryell,"311 - BS9","President",,,"CLAUDIA DE LA CRUZ/KARINA GARCIA (W)",0,0,0,0
+Coryell,"311 - BS9","President",,,"CORNEL WEST/MELINA ABDULLAH (W)",0,0,0,0
+Coryell,"311 - BS9","President",,,"JESSIE CUELLAR/WESLEY LASLEY (W)",0,0,0,0
+Coryell,"311 - BS9","President",,,"PETER SONSKI/LAUREN ONAK (W)",0,0,0,0
+Coryell,"311 - BS9","President",,,"SHIVA AYYADURAI/CRYSTAL ELLIS (W)",0,0,0,0
+Coryell,"311 - BS9","President",,,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","President",,,"Under Votes",0,0,0,0
+Coryell,"311 - BS9","U.S. Senate",,REP,"Ted Cruz",49,13,21,15
+Coryell,"311 - BS9","U.S. Senate",,DEM,"Colin Allred",45,5,20,20
+Coryell,"311 - BS9","U.S. Senate",,LIB,"Ted Brown",2,0,0,2
+Coryell,"311 - BS9","U.S. Senate",,,"ANALISA ROCHE (W)",0,0,0,0
+Coryell,"311 - BS9","U.S. Senate",,,"TRACY ANDRUS (W)",0,0,0,0
+Coryell,"311 - BS9","U.S. Senate",,,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","U.S. Senate",,,"Under Votes",3,2,1,0
+Coryell,"311 - BS9","U.S. House","31",REP,"John Carter",54,15,21,18
+Coryell,"311 - BS9","U.S. House","31",DEM,"Stuart Whitlow",42,5,20,17
+Coryell,"311 - BS9","U.S. House","31",,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","U.S. House","31",,"Under Votes",3,0,1,2
+Coryell,"311 - BS9","Railroad Commissioner",,REP,"Christi Craddick",51,14,21,16
+Coryell,"311 - BS9","Railroad Commissioner",,DEM,"Katherine Culbert",38,5,17,16
+Coryell,"311 - BS9","Railroad Commissioner",,LIB,"Hawk Dunlap",2,0,0,2
+Coryell,"311 - BS9","Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,2,1
+Coryell,"311 - BS9","Railroad Commissioner",,,"RICHARD MCKIBBIN (W)",0,0,0,0
+Coryell,"311 - BS9","Railroad Commissioner",,,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","Railroad Commissioner",,,"Under Votes",5,1,2,2
+Coryell,"311 - BS9","Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",53,14,22,17
+Coryell,"311 - BS9","Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",42,5,19,18
+Coryell,"311 - BS9","Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","Justice, Supreme Court, Place 2",,,"Under Votes",4,1,1,2
+Coryell,"311 - BS9","Justice, Supreme Court, Place 4",,REP,"John Devine",52,14,22,16
+Coryell,"311 - BS9","Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",43,5,19,19
+Coryell,"311 - BS9","Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","Justice, Supreme Court, Place 4",,,"Under Votes",4,1,1,2
+Coryell,"311 - BS9","Justice, Supreme Court, Place 6",,REP,"Jane Bland",49,13,21,15
+Coryell,"311 - BS9","Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",41,6,18,17
+Coryell,"311 - BS9","Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",5,0,2,3
+Coryell,"311 - BS9","Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","Justice, Supreme Court, Place 6",,,"Under Votes",4,1,1,2
+Coryell,"311 - BS9","Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",50,13,23,14
+Coryell,"311 - BS9","Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",44,5,18,21
+Coryell,"311 - BS9","Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","Presiding Judge, Court of Criminal Appeals",,,"Under Votes",5,2,1,2
+Coryell,"311 - BS9","Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",53,14,22,17
+Coryell,"311 - BS9","Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",42,5,19,18
+Coryell,"311 - BS9","Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",4,1,1,2
+Coryell,"311 - BS9","Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",52,14,22,16
+Coryell,"311 - BS9","Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",43,5,19,19
+Coryell,"311 - BS9","Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",4,1,1,2
+Coryell,"311 - BS9","State Representative, District 59",,REP,"Shelby Slawson",52,14,22,16
+Coryell,"311 - BS9","State Representative, District 59",,DEM,"Hannah Bohm",43,5,19,19
+Coryell,"311 - BS9","State Representative, District 59",,,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","State Representative, District 59",,,"Under Votes",4,1,1,2
+Coryell,"311 - BS9","Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",70,16,29,25
+Coryell,"311 - BS9","Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","Chief Justice, 10th Court of Appeals District",,,"Under Votes",29,4,13,12
+Coryell,"311 - BS9","District Judge, 52nd Judicial District",,REP,"Trent D. Farrell",68,16,27,25
+Coryell,"311 - BS9","District Judge, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","District Judge, 52nd Judicial District",,,"Under Votes",31,4,15,12
+Coryell,"311 - BS9","District Attorney, 52nd Judicial District",,REP,"Dusty Boyd",69,16,28,25
+Coryell,"311 - BS9","District Attorney, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","District Attorney, 52nd Judicial District",,,"Under Votes",30,4,14,12
+Coryell,"311 - BS9","County Attorney",,REP,"Brandon S. Belt",70,16,28,26
+Coryell,"311 - BS9","County Attorney",,,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","County Attorney",,,"Under Votes",29,4,14,11
+Coryell,"311 - BS9","Sheriff",,REP,"Scott A. Williams",73,17,29,27
+Coryell,"311 - BS9","Sheriff",,,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","Sheriff",,,"Under Votes",26,3,13,10
+Coryell,"311 - BS9","County Tax Assessor-Collector",,REP,"Justin K. Carothers",67,14,28,25
+Coryell,"311 - BS9","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","County Tax Assessor-Collector",,,"Under Votes",32,6,14,12
+Coryell,"311 - BS9","County Commissioner, Precinct 3",,REP,"Ryan Basham",70,17,29,24
+Coryell,"311 - BS9","County Commissioner, Precinct 3",,,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","County Commissioner, Precinct 3",,,"Under Votes",29,3,13,13
+Coryell,"311 - BS9","Constable, Precinct 2",,REP,"Shawn Camp",68,16,27,25
+Coryell,"311 - BS9","Constable, Precinct 2",,,"Over Votes",0,0,0,0
+Coryell,"311 - BS9","Constable, Precinct 2",,,"Under Votes",31,4,15,12
+Coryell,"412 - BS15","Registered Voters",,,,619,,,
+Coryell,"412 - BS15","Ballots Cast",,,,355,0,0,0
+Coryell,"412 - BS15","President",,REP,"Donald J. Trump",271,3,225,43
+Coryell,"412 - BS15","President",,DEM,"Kamala D. Harris",82,10,51,21
+Coryell,"412 - BS15","President",,LIB,"Chase Oliver",0,0,0,0
+Coryell,"412 - BS15","President",,GRN,"Jill Stein",1,0,1,0
+Coryell,"412 - BS15","President",,,"CHERUNDA FOX/HARLAN MCVAY (W)",0,0,0,0
+Coryell,"412 - BS15","President",,,"CLAUDIA DE LA CRUZ/KARINA GARCIA (W)",0,0,0,0
+Coryell,"412 - BS15","President",,,"CORNEL WEST/MELINA ABDULLAH (W)",1,0,1,0
+Coryell,"412 - BS15","President",,,"JESSIE CUELLAR/WESLEY LASLEY (W)",0,0,0,0
+Coryell,"412 - BS15","President",,,"PETER SONSKI/LAUREN ONAK (W)",0,0,0,0
+Coryell,"412 - BS15","President",,,"SHIVA AYYADURAI/CRYSTAL ELLIS (W)",0,0,0,0
+Coryell,"412 - BS15","President",,,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","President",,,"Under Votes",0,0,0,0
+Coryell,"412 - BS15","U.S. Senate",,REP,"Ted Cruz",260,3,215,42
+Coryell,"412 - BS15","U.S. Senate",,DEM,"Colin Allred",86,10,56,20
+Coryell,"412 - BS15","U.S. Senate",,LIB,"Ted Brown",6,0,5,1
+Coryell,"412 - BS15","U.S. Senate",,,"ANALISA ROCHE (W)",0,0,0,0
+Coryell,"412 - BS15","U.S. Senate",,,"TRACY ANDRUS (W)",0,0,0,0
+Coryell,"412 - BS15","U.S. Senate",,,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","U.S. Senate",,,"Under Votes",3,0,2,1
+Coryell,"412 - BS15","U.S. House","31",REP,"John Carter",282,7,230,45
+Coryell,"412 - BS15","U.S. House","31",DEM,"Stuart Whitlow",68,6,45,17
+Coryell,"412 - BS15","U.S. House","31",,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","U.S. House","31",,"Under Votes",5,0,3,2
+Coryell,"412 - BS15","Railroad Commissioner",,REP,"Christi Craddick",266,6,220,40
+Coryell,"412 - BS15","Railroad Commissioner",,DEM,"Katherine Culbert",66,4,44,18
+Coryell,"412 - BS15","Railroad Commissioner",,LIB,"Hawk Dunlap",9,0,7,2
+Coryell,"412 - BS15","Railroad Commissioner",,GRN,"Eddie Espinoza",6,1,2,3
+Coryell,"412 - BS15","Railroad Commissioner",,,"RICHARD MCKIBBIN (W)",0,0,0,0
+Coryell,"412 - BS15","Railroad Commissioner",,,"Over Votes",2,2,0,0
+Coryell,"412 - BS15","Railroad Commissioner",,,"Under Votes",6,0,5,1
+Coryell,"412 - BS15","Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",279,7,226,46
+Coryell,"412 - BS15","Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",70,6,48,16
+Coryell,"412 - BS15","Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","Justice, Supreme Court, Place 2",,,"Under Votes",6,0,4,2
+Coryell,"412 - BS15","Justice, Supreme Court, Place 4",,REP,"John Devine",271,3,224,44
+Coryell,"412 - BS15","Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",77,10,49,18
+Coryell,"412 - BS15","Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","Justice, Supreme Court, Place 4",,,"Under Votes",7,0,5,2
+Coryell,"412 - BS15","Justice, Supreme Court, Place 6",,REP,"Jane Bland",266,7,219,40
+Coryell,"412 - BS15","Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",69,6,45,18
+Coryell,"412 - BS15","Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",14,0,10,4
+Coryell,"412 - BS15","Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","Justice, Supreme Court, Place 6",,,"Under Votes",6,0,4,2
+Coryell,"412 - BS15","Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",272,3,226,43
+Coryell,"412 - BS15","Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",74,10,47,17
+Coryell,"412 - BS15","Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","Presiding Judge, Court of Criminal Appeals",,,"Under Votes",9,0,5,4
+Coryell,"412 - BS15","Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",278,8,227,43
+Coryell,"412 - BS15","Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",67,5,45,17
+Coryell,"412 - BS15","Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",10,0,6,4
+Coryell,"412 - BS15","Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",278,4,229,45
+Coryell,"412 - BS15","Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",67,9,43,15
+Coryell,"412 - BS15","Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",10,0,6,4
+Coryell,"412 - BS15","State Representative, District 59",,REP,"Shelby Slawson",274,8,222,44
+Coryell,"412 - BS15","State Representative, District 59",,DEM,"Hannah Bohm",69,5,48,16
+Coryell,"412 - BS15","State Representative, District 59",,,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","State Representative, District 59",,,"Under Votes",12,0,8,4
+Coryell,"412 - BS15","Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",304,8,245,51
+Coryell,"412 - BS15","Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","Chief Justice, 10th Court of Appeals District",,,"Under Votes",51,5,33,13
+Coryell,"412 - BS15","District Judge, 52nd Judicial District",,REP,"Trent D. Farrell",304,8,244,52
+Coryell,"412 - BS15","District Judge, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","District Judge, 52nd Judicial District",,,"Under Votes",51,5,34,12
+Coryell,"412 - BS15","District Attorney, 52nd Judicial District",,REP,"Dusty Boyd",304,8,244,52
+Coryell,"412 - BS15","District Attorney, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","District Attorney, 52nd Judicial District",,,"Under Votes",51,5,34,12
+Coryell,"412 - BS15","County Attorney",,REP,"Brandon S. Belt",304,8,245,51
+Coryell,"412 - BS15","County Attorney",,,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","County Attorney",,,"Under Votes",51,5,33,13
+Coryell,"412 - BS15","Sheriff",,REP,"Scott A. Williams",301,8,242,51
+Coryell,"412 - BS15","Sheriff",,,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","Sheriff",,,"Under Votes",54,5,36,13
+Coryell,"412 - BS15","County Tax Assessor-Collector",,REP,"Justin K. Carothers",307,9,248,50
+Coryell,"412 - BS15","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","County Tax Assessor-Collector",,,"Under Votes",48,4,30,14
+Coryell,"412 - BS15","Constable, Precinct 2",,REP,"Shawn Camp",307,10,247,50
+Coryell,"412 - BS15","Constable, Precinct 2",,,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","Constable, Precinct 2",,,"Under Votes",48,3,31,14
+Coryell,"412 - BS15","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Sherry Hoffpauir",221,8,170,43
+Coryell,"412 - BS15","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Inez Faison",84,3,69,12
+Coryell,"412 - BS15","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Under Votes",50,2,39,9
+Coryell,"412 - BS15","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Timothy Traeger",202,7,166,29
+Coryell,"412 - BS15","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Shameria Ann Davis",92,3,65,24
+Coryell,"412 - BS15","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Over Votes",0,0,0,0
+Coryell,"412 - BS15","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Under Votes",61,3,47,11
+Coryell,"416 - BS16","Registered Voters",,,,4885,,,
+Coryell,"416 - BS16","Ballots Cast",,,,2050,0,0,0
+Coryell,"416 - BS16","President",,REP,"Donald J. Trump",1126,14,818,294
+Coryell,"416 - BS16","President",,DEM,"Kamala D. Harris",879,36,651,192
+Coryell,"416 - BS16","President",,LIB,"Chase Oliver",25,3,15,7
+Coryell,"416 - BS16","President",,GRN,"Jill Stein",12,0,10,2
+Coryell,"416 - BS16","President",,,"CHERUNDA FOX/HARLAN MCVAY (W)",0,0,0,0
+Coryell,"416 - BS16","President",,,"CLAUDIA DE LA CRUZ/KARINA GARCIA (W)",0,0,0,0
+Coryell,"416 - BS16","President",,,"CORNEL WEST/MELINA ABDULLAH (W)",1,0,1,0
+Coryell,"416 - BS16","President",,,"JESSIE CUELLAR/WESLEY LASLEY (W)",0,0,0,0
+Coryell,"416 - BS16","President",,,"PETER SONSKI/LAUREN ONAK (W)",0,0,0,0
+Coryell,"416 - BS16","President",,,"SHIVA AYYADURAI/CRYSTAL ELLIS (W)",0,0,0,0
+Coryell,"416 - BS16","President",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","President",,,"Under Votes",7,0,6,1
+Coryell,"416 - BS16","U.S. Senate",,REP,"Ted Cruz",1031,13,766,252
+Coryell,"416 - BS16","U.S. Senate",,DEM,"Colin Allred",907,35,661,211
+Coryell,"416 - BS16","U.S. Senate",,LIB,"Ted Brown",86,4,58,24
+Coryell,"416 - BS16","U.S. Senate",,,"ANALISA ROCHE (W)",0,0,0,0
+Coryell,"416 - BS16","U.S. Senate",,,"TRACY ANDRUS (W)",0,0,0,0
+Coryell,"416 - BS16","U.S. Senate",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","U.S. Senate",,,"Under Votes",26,1,16,9
+Coryell,"416 - BS16","U.S. House","31",REP,"John Carter",1163,16,856,291
+Coryell,"416 - BS16","U.S. House","31",DEM,"Stuart Whitlow",834,33,612,189
+Coryell,"416 - BS16","U.S. House","31",,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","U.S. House","31",,"Under Votes",53,4,33,16
+Coryell,"416 - BS16","Railroad Commissioner",,REP,"Christi Craddick",1024,13,770,241
+Coryell,"416 - BS16","Railroad Commissioner",,DEM,"Katherine Culbert",791,32,576,183
+Coryell,"416 - BS16","Railroad Commissioner",,LIB,"Hawk Dunlap",92,3,62,27
+Coryell,"416 - BS16","Railroad Commissioner",,GRN,"Eddie Espinoza",64,2,44,18
+Coryell,"416 - BS16","Railroad Commissioner",,,"RICHARD MCKIBBIN (W)",0,0,0,0
+Coryell,"416 - BS16","Railroad Commissioner",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","Railroad Commissioner",,,"Under Votes",79,3,49,27
+Coryell,"416 - BS16","Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1109,14,830,265
+Coryell,"416 - BS16","Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",871,35,632,204
+Coryell,"416 - BS16","Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","Justice, Supreme Court, Place 2",,,"Under Votes",70,4,39,27
+Coryell,"416 - BS16","Justice, Supreme Court, Place 4",,REP,"John Devine",1086,13,808,265
+Coryell,"416 - BS16","Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",892,36,647,209
+Coryell,"416 - BS16","Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","Justice, Supreme Court, Place 4",,,"Under Votes",72,4,46,22
+Coryell,"416 - BS16","Justice, Supreme Court, Place 6",,REP,"Jane Bland",1031,15,773,243
+Coryell,"416 - BS16","Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",808,29,595,184
+Coryell,"416 - BS16","Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",128,5,83,40
+Coryell,"416 - BS16","Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","Justice, Supreme Court, Place 6",,,"Under Votes",83,4,50,29
+Coryell,"416 - BS16","Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1082,15,808,259
+Coryell,"416 - BS16","Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",887,34,643,210
+Coryell,"416 - BS16","Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","Presiding Judge, Court of Criminal Appeals",,,"Under Votes",81,4,50,27
+Coryell,"416 - BS16","Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1097,13,813,271
+Coryell,"416 - BS16","Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",864,35,632,197
+Coryell,"416 - BS16","Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",89,5,56,28
+Coryell,"416 - BS16","Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1093,14,811,268
+Coryell,"416 - BS16","Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",858,35,631,192
+Coryell,"416 - BS16","Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",99,4,59,36
+Coryell,"416 - BS16","State Representative, District 59",,REP,"Shelby Slawson",1086,14,813,259
+Coryell,"416 - BS16","State Representative, District 59",,DEM,"Hannah Bohm",873,35,630,208
+Coryell,"416 - BS16","State Representative, District 59",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","State Representative, District 59",,,"Under Votes",91,4,58,29
+Coryell,"416 - BS16","Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",1411,27,1020,364
+Coryell,"416 - BS16","Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","Chief Justice, 10th Court of Appeals District",,,"Under Votes",639,26,481,132
+Coryell,"416 - BS16","District Judge, 52nd Judicial District",,REP,"Trent D. Farrell",1392,25,1010,357
+Coryell,"416 - BS16","District Judge, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","District Judge, 52nd Judicial District",,,"Under Votes",658,28,491,139
+Coryell,"416 - BS16","District Attorney, 52nd Judicial District",,REP,"Dusty Boyd",1397,25,1013,359
+Coryell,"416 - BS16","District Attorney, 52nd Judicial District",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","District Attorney, 52nd Judicial District",,,"Under Votes",653,28,488,137
+Coryell,"416 - BS16","County Attorney",,REP,"Brandon S. Belt",1383,25,1013,345
+Coryell,"416 - BS16","County Attorney",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","County Attorney",,,"Under Votes",667,28,488,151
+Coryell,"416 - BS16","Sheriff",,REP,"Scott A. Williams",1377,24,1002,351
+Coryell,"416 - BS16","Sheriff",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","Sheriff",,,"Under Votes",673,29,499,145
+Coryell,"416 - BS16","County Tax Assessor-Collector",,REP,"Justin K. Carothers",1410,30,1030,350
+Coryell,"416 - BS16","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","County Tax Assessor-Collector",,,"Under Votes",640,23,471,146
+Coryell,"416 - BS16","Constable, Precinct 2",,REP,"Shawn Camp",1390,26,1015,349
+Coryell,"416 - BS16","Constable, Precinct 2",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","Constable, Precinct 2",,,"Under Votes",660,27,486,147
+Coryell,"416 - BS16","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Sherry Hoffpauir",1080,20,796,264
+Coryell,"416 - BS16","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Inez Faison",638,23,461,154
+Coryell,"416 - BS16","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 1 - Vote for none or one",,,"Under Votes",332,10,244,78
+Coryell,"416 - BS16","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Timothy Traeger",908,21,666,221
+Coryell,"416 - BS16","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Shameria Ann Davis",740,20,532,188
+Coryell,"416 - BS16","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","COPPERAS COVE INDEPENDENT SCHOOL DISTRICT NO. 050910 FOR SCHOOL TRUSTEE, PLACE 2 - Vote for none or one",,,"Under Votes",402,12,303,87
+Coryell,"416 - BS16","CITY OF COPPERAS COVE COUNCIL MEMBER, MAYOR - Vote for none or one",,,"Dan Yancey",1459,26,1060,373
+Coryell,"416 - BS16","CITY OF COPPERAS COVE COUNCIL MEMBER, MAYOR - Vote for none or one",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","CITY OF COPPERAS COVE COUNCIL MEMBER, MAYOR - Vote for none or one",,,"Under Votes",591,27,441,123
+Coryell,"416 - BS16","CITY OF COPPERAS COVE COUNCIL MEMBER, POSITION 1 - Vote for none or one",,,"Christina Strohfus",973,26,702,245
+Coryell,"416 - BS16","CITY OF COPPERAS COVE COUNCIL MEMBER, POSITION 1 - Vote for none or one",,,"Howard Hawk",627,13,457,157
+Coryell,"416 - BS16","CITY OF COPPERAS COVE COUNCIL MEMBER, POSITION 1 - Vote for none or one",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","CITY OF COPPERAS COVE COUNCIL MEMBER, POSITION 1 - Vote for none or one",,,"Under Votes",450,14,342,94
+Coryell,"416 - BS16","CITY OF COPPERAS COVE COUNCIL MEMBER, POSITION 2 - Vote for none or one",,,"Victor Perry Hall II",410,10,313,87
+Coryell,"416 - BS16","CITY OF COPPERAS COVE COUNCIL MEMBER, POSITION 2 - Vote for none or one",,,"Rita Hogan",841,26,596,219
+Coryell,"416 - BS16","CITY OF COPPERAS COVE COUNCIL MEMBER, POSITION 2 - Vote for none or one",,,"George Duncan",324,5,229,90
+Coryell,"416 - BS16","CITY OF COPPERAS COVE COUNCIL MEMBER, POSITION 2 - Vote for none or one",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","CITY OF COPPERAS COVE COUNCIL MEMBER, POSITION 2 - Vote for none or one",,,"Under Votes",475,12,363,100
+Coryell,"416 - BS16","SPECIAL ELECTION CITY OF COPPERAS COVE, TEXAS PROPOSITION A",,,"FOR",1056,24,783,249
+Coryell,"416 - BS16","SPECIAL ELECTION CITY OF COPPERAS COVE, TEXAS PROPOSITION A",,,"AGAINST",831,21,601,209
+Coryell,"416 - BS16","SPECIAL ELECTION CITY OF COPPERAS COVE, TEXAS PROPOSITION A",,,"Over Votes",0,0,0,0
+Coryell,"416 - BS16","SPECIAL ELECTION CITY OF COPPERAS COVE, TEXAS PROPOSITION A",,,"Under Votes",163,8,117,38
+Coryell,"LIM","Registered Voters",,,,0,,,
+Coryell,"LIM","Ballots Cast",,,,92,0,0,0
+Coryell,"LIM","President",,REP,"Donald J. Trump",69,0,69,0
+Coryell,"LIM","President",,DEM,"Kamala D. Harris",21,0,21,0
+Coryell,"LIM","President",,LIB,"Chase Oliver",1,0,1,0
+Coryell,"LIM","President",,GRN,"Jill Stein",0,0,0,0
+Coryell,"LIM","President",,,"CHERUNDA FOX/HARLAN MCVAY (W)",0,0,0,0
+Coryell,"LIM","President",,,"CLAUDIA DE LA CRUZ/KARINA GARCIA (W)",0,0,0,0
+Coryell,"LIM","President",,,"CORNEL WEST/MELINA ABDULLAH (W)",0,0,0,0
+Coryell,"LIM","President",,,"JESSIE CUELLAR/WESLEY LASLEY (W)",0,0,0,0
+Coryell,"LIM","President",,,"PETER SONSKI/LAUREN ONAK (W)",0,0,0,0
+Coryell,"LIM","President",,,"SHIVA AYYADURAI/CRYSTAL ELLIS (W)",0,0,0,0
+Coryell,"LIM","President",,,"Over Votes",0,0,0,0
+Coryell,"LIM","President",,,"Under Votes",1,0,1,0
+Coryell,"LIM","U.S. Senate",,REP,"Ted Cruz",67,0,67,0
+Coryell,"LIM","U.S. Senate",,DEM,"Colin Allred",23,0,23,0
+Coryell,"LIM","U.S. Senate",,LIB,"Ted Brown",1,0,1,0
+Coryell,"LIM","U.S. Senate",,,"ANALISA ROCHE (W)",0,0,0,0
+Coryell,"LIM","U.S. Senate",,,"TRACY ANDRUS (W)",0,0,0,0
+Coryell,"LIM","U.S. Senate",,,"Over Votes",0,0,0,0
+Coryell,"LIM","U.S. Senate",,,"Under Votes",1,0,1,0

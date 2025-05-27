@@ -1,0 +1,573 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Red River,2-1,"Registered Voters",,,,105,,,
+Red River,2-1,"Ballots Cast",,,,48,0,0,0
+Red River,2-1,"President",,REP,"Donald J. Trump JD Vance",19,12,5,2
+Red River,2-1,"President",,DEM,"Kamala D. Harris Tim Walz",28,2,22,4
+Red River,2-1,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Red River,2-1,"President",,GRN,"Jill Stein Rudolph Ware",1,0,1,0
+Red River,2-1,"U.S. Senate",,REP,"Ted Cruz",18,10,6,2
+Red River,2-1,"U.S. Senate",,DEM,"Colin Allred",27,2,21,4
+Red River,2-1,"U.S. Senate",,LIB,"Ted Brown",0,0,0,0
+Red River,2-1,"U.S. House","1",REP,"Nathaniel Moran",12,1,7,4
+Red River,2-1,"Railroad Commissioner",,REP,"Christi Craddick",7,2,3,2
+Red River,2-1,"Railroad Commissioner",,DEM,"Katherine Culbert",24,2,20,2
+Red River,2-1,"Railroad Commissioner",,LIB,"Hawk Dunlap",0,0,0,0
+Red River,2-1,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,0,1
+Red River,2-1,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",7,2,3,2
+Red River,2-1,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",26,2,21,3
+Red River,2-1,"Justice, Supreme Court","Place 4",REP,"John Devine",8,2,4,2
+Red River,2-1,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",25,2,20,3
+Red River,2-1,"Justice, Supreme Court","Place 6",REP,"Jane Bland",7,2,3,2
+Red River,2-1,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",26,2,22,2
+Red River,2-1,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",1,0,0,1
+Red River,2-1,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",7,2,3,2
+Red River,2-1,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",27,2,22,3
+Red River,2-1,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",7,2,3,2
+Red River,2-1,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",25,2,20,3
+Red River,2-1,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",7,2,3,2
+Red River,2-1,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",27,2,22,3
+Red River,2-1,"Member, State Board of Education","12",REP,"Pam Little",7,2,3,2
+Red River,2-1,"Member, State Board of Education","12",DEM,"George King",24,1,20,3
+Red River,2-1,"State Representative","1",REP,"Gary Vandeaver",12,2,5,5
+Red River,2-1,"Justice, 6th Court of Appeals District","Place 2",REP,"Jeff Rambin",10,1,5,4
+Red River,2-1,"District Judge, 6th Judicial District","6th Judicial District",REP,"R. Wesley Tidwell",11,2,5,4
+Red River,2-1,"County Attorney",,REP,"Val Varley",12,1,7,4
+Red River,2-1,"County Clerk, Unexpired Term",,REP,"Chassidy Chandler",11,1,6,4
+Red River,2-1,"Sheriff",,REP,"Jimmy Caldwell",14,2,8,4
+Red River,2-1,"County Tax Assessor-Collector",,REP,"Audra Moore",11,1,6,4
+Red River,2-1,"Constable",,REP,"Shawn Roden",13,1,8,4
+Red River,2-4,"Registered Voters",,,,489,,,
+Red River,2-4,"Ballots Cast",,,,353,0,0,0
+Red River,2-4,"President",,REP,"Donald J. Trump JD Vance",309,12,262,35
+Red River,2-4,"President",,DEM,"Kamala D. Harris Tim Walz",41,1,16,24
+Red River,2-4,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Red River,2-4,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Red River,2-4,"U.S. Senate",,REP,"Ted Cruz",290,12,246,32
+Red River,2-4,"U.S. Senate",,DEM,"Colin Allred",53,1,28,24
+Red River,2-4,"U.S. Senate",,LIB,"Ted Brown",5,0,3,2
+Red River,2-4,"U.S. House","4",REP,"Pat Fallon",288,11,243,34
+Red River,2-4,"U.S. House","4",DEM,"Simon Cardell",44,1,20,23
+Red River,2-4,"Railroad Commissioner",,REP,"Christi Craddick",282,11,237,34
+Red River,2-4,"Railroad Commissioner",,DEM,"Katherine Culbert",41,1,19,21
+Red River,2-4,"Railroad Commissioner",,LIB,"Hawk Dunlap",6,0,5,1
+Red River,2-4,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,1,1
+Red River,2-4,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",290,11,245,34
+Red River,2-4,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",40,0,18,22
+Red River,2-4,"Justice, Supreme Court","Place 4",REP,"John Devine",289,11,245,33
+Red River,2-4,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",41,1,19,21
+Red River,2-4,"Justice, Supreme Court","Place 6",REP,"Jane Bland",285,11,241,33
+Red River,2-4,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",39,0,16,23
+Red River,2-4,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",4,0,4,0
+Red River,2-4,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",287,11,244,32
+Red River,2-4,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",43,1,18,24
+Red River,2-4,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",290,11,245,34
+Red River,2-4,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",40,1,17,22
+Red River,2-4,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",293,11,248,34
+Red River,2-4,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",37,1,15,21
+Red River,2-4,"Member, State Board of Education","12",REP,"Pam Little",289,11,244,34
+Red River,2-4,"Member, State Board of Education","12",DEM,"George King",42,1,20,21
+Red River,2-4,"State Representative","1",REP,"Gary Vandeaver",298,11,246,41
+Red River,2-4,"Justice, 6th Court of Appeals District","Place 2",REP,"Jeff Rambin",294,11,244,39
+Red River,2-4,"District Judge, 6th Judicial District","6th Judicial District",REP,"R. Wesley Tidwell",298,11,248,39
+Red River,2-4,"County Attorney",,REP,"Val Varley",284,10,238,36
+Red River,2-4,"County Clerk, Unexpired Term",,REP,"Chassidy Chandler",303,11,251,41
+Red River,2-4,"Sheriff",,REP,"Jimmy Caldwell",298,12,246,40
+Red River,2-4,"County Tax Assessor-Collector",,REP,"Audra Moore",300,11,248,41
+Red River,2-4,"Constable",,REP,"Shawn Roden",297,12,243,42
+Red River,3-1,"Registered Voters",,,,993,,,
+Red River,3-1,"Ballots Cast",,,,535,0,0,0
+Red River,3-1,"President",,REP,"Donald J. Trump JD Vance",224,13,178,33
+Red River,3-1,"President",,DEM,"Kamala D. Harris Tim Walz",306,9,231,66
+Red River,3-1,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Red River,3-1,"President",,GRN,"Jill Stein Rudolph Ware",2,0,2,0
+Red River,3-1,"U.S. Senate",,REP,"Ted Cruz",213,13,168,32
+Red River,3-1,"U.S. Senate",,DEM,"Colin Allred",299,8,229,62
+Red River,3-1,"U.S. Senate",,LIB,"Ted Brown",8,0,6,2
+Red River,3-1,"U.S. House","1",REP,"Nathaniel Moran",272,15,209,48
+Red River,3-1,"Railroad Commissioner",,REP,"Christi Craddick",211,12,169,30
+Red River,3-1,"Railroad Commissioner",,DEM,"Katherine Culbert",266,8,204,54
+Red River,3-1,"Railroad Commissioner",,LIB,"Hawk Dunlap",4,0,4,0
+Red River,3-1,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,3,0
+Red River,3-1,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",219,12,173,34
+Red River,3-1,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",277,9,211,57
+Red River,3-1,"Justice, Supreme Court","Place 4",REP,"John Devine",208,12,163,33
+Red River,3-1,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",283,9,216,58
+Red River,3-1,"Justice, Supreme Court","Place 6",REP,"Jane Bland",211,12,167,32
+Red River,3-1,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",270,8,208,54
+Red River,3-1,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",8,0,4,4
+Red River,3-1,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",213,12,170,31
+Red River,3-1,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",281,9,214,58
+Red River,3-1,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",215,12,170,33
+Red River,3-1,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",278,9,214,55
+Red River,3-1,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",215,12,168,35
+Red River,3-1,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",273,9,212,52
+Red River,3-1,"Member, State Board of Education","12",REP,"Pam Little",217,12,173,32
+Red River,3-1,"Member, State Board of Education","12",DEM,"George King",273,9,207,57
+Red River,3-1,"State Representative","1",REP,"Gary Vandeaver",326,15,254,57
+Red River,3-1,"Justice, 6th Court of Appeals District","Place 2",REP,"Jeff Rambin",276,15,212,49
+Red River,3-1,"District Judge, 6th Judicial District","6th Judicial District",REP,"R. Wesley Tidwell",281,15,214,52
+Red River,3-1,"County Attorney",,REP,"Val Varley",273,13,209,51
+Red River,3-1,"County Clerk, Unexpired Term",,REP,"Chassidy Chandler",285,14,221,50
+Red River,3-1,"Sheriff",,REP,"Jimmy Caldwell",305,15,234,56
+Red River,3-1,"County Tax Assessor-Collector",,REP,"Audra Moore",292,14,226,52
+Red River,3-1,"County Commissioner","3",REP,"Jeff Moore",212,10,169,33
+Red River,3-1,"County Commissioner","3",DEM,"Wilbert Owens Jr",294,11,223,60
+Red River,3-1,"Constable",,REP,"Shawn Roden",301,14,235,52
+Red River,3-4,"Registered Voters",,,,655,,,
+Red River,3-4,"Ballots Cast",,,,481,0,0,0
+Red River,3-4,"President",,REP,"Donald J. Trump JD Vance",377,9,331,37
+Red River,3-4,"President",,DEM,"Kamala D. Harris Tim Walz",100,2,82,16
+Red River,3-4,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Red River,3-4,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Red River,3-4,"U.S. Senate",,REP,"Ted Cruz",369,9,323,37
+Red River,3-4,"U.S. Senate",,DEM,"Colin Allred",101,2,86,13
+Red River,3-4,"U.S. Senate",,LIB,"Ted Brown",5,1,4,0
+Red River,3-4,"U.S. House","4",REP,"Pat Fallon",367,9,321,37
+Red River,3-4,"U.S. House","4",DEM,"Simon Cardell",88,1,76,11
+Red River,3-4,"Railroad Commissioner",,REP,"Christi Craddick",347,9,304,34
+Red River,3-4,"Railroad Commissioner",,DEM,"Katherine Culbert",87,1,75,11
+Red River,3-4,"Railroad Commissioner",,LIB,"Hawk Dunlap",18,0,16,2
+Red River,3-4,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,1,0
+Red River,3-4,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",369,9,323,37
+Red River,3-4,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",90,1,78,11
+Red River,3-4,"Justice, Supreme Court","Place 4",REP,"John Devine",366,9,320,37
+Red River,3-4,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",92,1,79,12
+Red River,3-4,"Justice, Supreme Court","Place 6",REP,"Jane Bland",361,9,317,35
+Red River,3-4,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",92,1,80,11
+Red River,3-4,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",6,0,4,2
+Red River,3-4,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",371,9,325,37
+Red River,3-4,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",90,1,77,12
+Red River,3-4,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",368,9,322,37
+Red River,3-4,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",88,1,76,11
+Red River,3-4,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",370,9,324,37
+Red River,3-4,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",88,1,76,11
+Red River,3-4,"Member, State Board of Education","12",REP,"Pam Little",358,10,313,35
+Red River,3-4,"Member, State Board of Education","12",DEM,"George King",94,1,82,11
+Red River,3-4,"State Representative","1",REP,"Gary Vandeaver",382,10,334,38
+Red River,3-4,"Justice, 6th Court of Appeals District","Place 2",REP,"Jeff Rambin",372,9,327,36
+Red River,3-4,"District Judge, 6th Judicial District","6th Judicial District",REP,"R. Wesley Tidwell",374,9,328,37
+Red River,3-4,"County Attorney",,REP,"Val Varley",350,11,305,34
+Red River,3-4,"County Clerk, Unexpired Term",,REP,"Chassidy Chandler",374,10,327,37
+Red River,3-4,"Sheriff",,REP,"Jimmy Caldwell",379,10,332,37
+Red River,3-4,"County Tax Assessor-Collector",,REP,"Audra Moore",369,10,322,37
+Red River,3-4,"County Commissioner","3",REP,"Jeff Moore",322,10,278,34
+Red River,3-4,"County Commissioner","3",DEM,"Wilbert Owens Jr",140,1,122,17
+Red River,3-4,"Constable",,REP,"Shawn Roden",377,10,329,38
+Red River,4,"Registered Voters",,,,1173,,,
+Red River,4,"Ballots Cast",,,,725,0,0,0
+Red River,4,"President",,REP,"Donald J. Trump JD Vance",487,28,372,87
+Red River,4,"President",,DEM,"Kamala D. Harris Tim Walz",233,11,151,71
+Red River,4,"President",,LIB,"Chase Oliver Mike ter Maat",3,0,1,2
+Red River,4,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Red River,4,"U.S. Senate",,REP,"Ted Cruz",465,25,360,80
+Red River,4,"U.S. Senate",,DEM,"Colin Allred",234,11,152,71
+Red River,4,"U.S. Senate",,LIB,"Ted Brown",12,1,6,5
+Red River,4,"U.S. House","1",REP,"Nathaniel Moran",530,24,398,108
+Red River,4,"Railroad Commissioner",,REP,"Christi Craddick",454,21,358,75
+Red River,4,"Railroad Commissioner",,DEM,"Katherine Culbert",205,10,129,66
+Red River,4,"Railroad Commissioner",,LIB,"Hawk Dunlap",19,1,10,8
+Red River,4,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,1,1
+Red River,4,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",468,24,362,82
+Red River,4,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",215,9,137,69
+Red River,4,"Justice, Supreme Court","Place 4",REP,"John Devine",473,27,365,81
+Red River,4,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",214,6,138,70
+Red River,4,"Justice, Supreme Court","Place 6",REP,"Jane Bland",461,21,359,81
+Red River,4,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",211,8,134,69
+Red River,4,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",10,2,5,3
+Red River,4,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",465,22,364,79
+Red River,4,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",220,10,139,71
+Red River,4,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",469,22,366,81
+Red River,4,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",212,10,133,69
+Red River,4,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",475,27,367,81
+Red River,4,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",212,6,136,70
+Red River,4,"Member, State Board of Education","12",REP,"Pam Little",467,24,359,84
+Red River,4,"Member, State Board of Education","12",DEM,"George King",209,7,135,67
+Red River,4,"State Representative","1",REP,"Gary Vandeaver",552,31,403,118
+Red River,4,"Justice, 6th Court of Appeals District","Place 2",REP,"Jeff Rambin",526,25,395,106
+Red River,4,"District Judge, 6th Judicial District","6th Judicial District",REP,"R. Wesley Tidwell",538,26,397,115
+Red River,4,"County Attorney",,REP,"Val Varley",530,32,396,102
+Red River,4,"County Clerk, Unexpired Term",,REP,"Chassidy Chandler",554,28,412,114
+Red River,4,"Sheriff",,REP,"Jimmy Caldwell",563,32,416,115
+Red River,4,"County Tax Assessor-Collector",,REP,"Audra Moore",548,29,408,111
+Red River,4,"Constable",,REP,"Shawn Roden",547,28,407,112
+Red River,5,"Registered Voters",,,,1684,,,
+Red River,5,"Ballots Cast",,,,1199,0,0,0
+Red River,5,"President",,REP,"Donald J. Trump JD Vance",1089,21,668,400
+Red River,5,"President",,DEM,"Kamala D. Harris Tim Walz",107,11,52,44
+Red River,5,"President",,LIB,"Chase Oliver Mike ter Maat",1,0,1,0
+Red River,5,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Red River,5,"U.S. Senate",,REP,"Ted Cruz",1053,21,649,383
+Red River,5,"U.S. Senate",,DEM,"Colin Allred",122,11,59,52
+Red River,5,"U.S. Senate",,LIB,"Ted Brown",14,0,7,7
+Red River,5,"U.S. House","1",REP,"Nathaniel Moran",1072,23,648,401
+Red River,5,"Railroad Commissioner",,REP,"Christi Craddick",1036,21,637,378
+Red River,5,"Railroad Commissioner",,DEM,"Katherine Culbert",79,8,37,34
+Red River,5,"Railroad Commissioner",,LIB,"Hawk Dunlap",23,0,11,12
+Red River,5,"Railroad Commissioner",,GRN,"Eddie Espinoza",7,1,2,4
+Red River,5,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",1068,21,654,393
+Red River,5,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",91,9,43,39
+Red River,5,"Justice, Supreme Court","Place 4",REP,"John Devine",1053,22,648,383
+Red River,5,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",98,8,47,43
+Red River,5,"Justice, Supreme Court","Place 6",REP,"Jane Bland",1050,22,646,382
+Red River,5,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",85,8,40,37
+Red River,5,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",25,0,12,13
+Red River,5,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1056,19,647,390
+Red River,5,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",102,11,48,43
+Red River,5,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",1063,21,649,393
+Red River,5,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",90,8,44,38
+Red River,5,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",1063,19,651,393
+Red River,5,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",87,10,40,37
+Red River,5,"Member, State Board of Education","12",REP,"Pam Little",1058,22,649,387
+Red River,5,"Member, State Board of Education","12",DEM,"George King",93,8,42,43
+Red River,5,"State Representative","1",REP,"Gary Vandeaver",1070,23,644,403
+Red River,5,"Justice, 6th Court of Appeals District","Place 2",REP,"Jeff Rambin",1071,21,653,397
+Red River,5,"District Judge, 6th Judicial District","6th Judicial District",REP,"R. Wesley Tidwell",1065,21,648,396
+Red River,5,"County Attorney",,REP,"Val Varley",1034,22,629,383
+Red River,5,"County Clerk, Unexpired Term",,REP,"Chassidy Chandler",1060,22,645,393
+Red River,5,"Sheriff",,REP,"Jimmy Caldwell",1062,22,646,394
+Red River,5,"County Tax Assessor-Collector",,REP,"Audra Moore",1058,22,643,393
+Red River,5,"County Commissioner","1",REP,"Donnie R Gentry",1053,23,636,394
+Red River,5,"Constable",,REP,"Shawn Roden",1069,22,648,399
+Red River,11,"Registered Voters",,,,506,,,
+Red River,11,"Ballots Cast",,,,363,0,0,0
+Red River,11,"President",,REP,"Donald J. Trump JD Vance",323,10,219,94
+Red River,11,"President",,DEM,"Kamala D. Harris Tim Walz",40,5,25,10
+Red River,11,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Red River,11,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Red River,11,"U.S. Senate",,REP,"Ted Cruz",317,10,213,94
+Red River,11,"U.S. Senate",,DEM,"Colin Allred",39,5,28,6
+Red River,11,"U.S. Senate",,LIB,"Ted Brown",6,0,3,3
+Red River,11,"U.S. House","1",REP,"Nathaniel Moran",324,12,218,94
+Red River,11,"Railroad Commissioner",,REP,"Christi Craddick",306,10,209,87
+Red River,11,"Railroad Commissioner",,DEM,"Katherine Culbert",35,5,22,8
+Red River,11,"Railroad Commissioner",,LIB,"Hawk Dunlap",8,0,5,3
+Red River,11,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,1,1
+Red River,11,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",319,11,216,92
+Red River,11,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",34,4,22,8
+Red River,11,"Justice, Supreme Court","Place 4",REP,"John Devine",318,10,217,91
+Red River,11,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",32,5,21,6
+Red River,11,"Justice, Supreme Court","Place 6",REP,"Jane Bland",316,12,215,89
+Red River,11,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",31,3,21,7
+Red River,11,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",5,0,3,2
+Red River,11,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",315,12,213,90
+Red River,11,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",36,3,24,9
+Red River,11,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",319,10,217,92
+Red River,11,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",35,5,23,7
+Red River,11,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",320,10,216,94
+Red River,11,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",32,5,22,5
+Red River,11,"Member, State Board of Education","12",REP,"Pam Little",317,12,215,90
+Red River,11,"Member, State Board of Education","12",DEM,"George King",37,3,24,10
+Red River,11,"State Representative","1",REP,"Gary Vandeaver",329,12,221,96
+Red River,11,"Justice, 6th Court of Appeals District","Place 2",REP,"Jeff Rambin",327,11,221,95
+Red River,11,"District Judge, 6th Judicial District","6th Judicial District",REP,"R. Wesley Tidwell",325,11,220,94
+Red River,11,"County Attorney",,REP,"Val Varley",312,10,213,89
+Red River,11,"County Clerk, Unexpired Term",,REP,"Chassidy Chandler",322,11,218,93
+Red River,11,"Sheriff",,REP,"Jimmy Caldwell",322,12,219,91
+Red River,11,"County Tax Assessor-Collector",,REP,"Audra Moore",322,12,217,93
+Red River,11,"County Commissioner","1",REP,"Donnie R Gentry",314,10,216,88
+Red River,11,"Constable",,REP,"Shawn Roden",321,12,219,90
+Red River,13-1,"Registered Voters",,,,65,,,
+Red River,13-1,"Ballots Cast",,,,41,0,0,0
+Red River,13-1,"President",,REP,"Donald J. Trump JD Vance",38,2,23,13
+Red River,13-1,"President",,DEM,"Kamala D. Harris Tim Walz",3,0,3,0
+Red River,13-1,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Red River,13-1,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Red River,13-1,"U.S. Senate",,REP,"Ted Cruz",35,2,21,12
+Red River,13-1,"U.S. Senate",,DEM,"Colin Allred",3,0,3,0
+Red River,13-1,"U.S. Senate",,LIB,"Ted Brown",1,0,1,0
+Red River,13-1,"U.S. House","1",REP,"Nathaniel Moran",38,2,23,13
+Red River,13-1,"Railroad Commissioner",,REP,"Christi Craddick",37,2,22,13
+Red River,13-1,"Railroad Commissioner",,DEM,"Katherine Culbert",3,0,3,0
+Red River,13-1,"Railroad Commissioner",,LIB,"Hawk Dunlap",0,0,0,0
+Red River,13-1,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Red River,13-1,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",37,2,23,12
+Red River,13-1,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",3,0,3,0
+Red River,13-1,"Justice, Supreme Court","Place 4",REP,"John Devine",36,2,23,11
+Red River,13-1,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",3,0,3,0
+Red River,13-1,"Justice, Supreme Court","Place 6",REP,"Jane Bland",38,2,23,13
+Red River,13-1,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",3,0,3,0
+Red River,13-1,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",0,0,0,0
+Red River,13-1,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",38,2,23,13
+Red River,13-1,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",3,0,3,0
+Red River,13-1,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",38,2,23,13
+Red River,13-1,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",3,0,3,0
+Red River,13-1,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",38,2,23,13
+Red River,13-1,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",3,0,3,0
+Red River,13-1,"Member, State Board of Education","12",REP,"Pam Little",38,2,23,13
+Red River,13-1,"Member, State Board of Education","12",DEM,"George King",3,0,3,0
+Red River,13-1,"State Representative","1",REP,"Gary Vandeaver",41,2,26,13
+Red River,13-1,"Justice, 6th Court of Appeals District","Place 2",REP,"Jeff Rambin",38,2,25,11
+Red River,13-1,"District Judge, 6th Judicial District","6th Judicial District",REP,"R. Wesley Tidwell",37,0,25,12
+Red River,13-1,"County Attorney",,REP,"Val Varley",33,2,25,6
+Red River,13-1,"County Clerk, Unexpired Term",,REP,"Chassidy Chandler",38,2,25,11
+Red River,13-1,"Sheriff",,REP,"Jimmy Caldwell",37,2,26,9
+Red River,13-1,"County Tax Assessor-Collector",,REP,"Audra Moore",36,2,24,10
+Red River,13-1,"Constable",,REP,"Shawn Roden",37,2,25,10
+Red River,13-1 CITY,"Registered Voters",,,,513,,,
+Red River,13-1 CITY,"Ballots Cast",,,,276,0,0,0
+Red River,13-1 CITY,"President",,REP,"Donald J. Trump JD Vance",231,3,118,110
+Red River,13-1 CITY,"President",,DEM,"Kamala D. Harris Tim Walz",42,0,14,28
+Red River,13-1 CITY,"President",,LIB,"Chase Oliver Mike ter Maat",1,0,0,1
+Red River,13-1 CITY,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Red River,13-1 CITY,"U.S. Senate",,REP,"Ted Cruz",216,3,110,103
+Red River,13-1 CITY,"U.S. Senate",,DEM,"Colin Allred",46,1,17,28
+Red River,13-1 CITY,"U.S. Senate",,LIB,"Ted Brown",8,0,4,4
+Red River,13-1 CITY,"U.S. House","1",REP,"Nathaniel Moran",228,3,116,109
+Red River,13-1 CITY,"Railroad Commissioner",,REP,"Christi Craddick",210,4,107,99
+Red River,13-1 CITY,"Railroad Commissioner",,DEM,"Katherine Culbert",38,0,13,25
+Red River,13-1 CITY,"Railroad Commissioner",,LIB,"Hawk Dunlap",12,0,7,5
+Red River,13-1 CITY,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,0,1
+Red River,13-1 CITY,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",220,3,111,106
+Red River,13-1 CITY,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",39,1,14,24
+Red River,13-1 CITY,"Justice, Supreme Court","Place 4",REP,"John Devine",214,3,111,100
+Red River,13-1 CITY,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",46,1,15,30
+Red River,13-1 CITY,"Justice, Supreme Court","Place 6",REP,"Jane Bland",210,2,110,98
+Red River,13-1 CITY,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",39,1,14,24
+Red River,13-1 CITY,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",11,1,2,8
+Red River,13-1 CITY,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",214,3,110,101
+Red River,13-1 CITY,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",41,1,12,28
+Red River,13-1 CITY,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",220,3,111,106
+Red River,13-1 CITY,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",38,1,13,24
+Red River,13-1 CITY,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",219,3,110,106
+Red River,13-1 CITY,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",38,1,13,24
+Red River,13-1 CITY,"Member, State Board of Education","12",REP,"Pam Little",218,4,109,105
+Red River,13-1 CITY,"Member, State Board of Education","12",DEM,"George King",38,0,13,25
+Red River,13-1 CITY,"State Representative","1",REP,"Gary Vandeaver",239,4,119,116
+Red River,13-1 CITY,"Justice, 6th Court of Appeals District","Place 2",REP,"Jeff Rambin",227,3,114,110
+Red River,13-1 CITY,"District Judge, 6th Judicial District","6th Judicial District",REP,"R. Wesley Tidwell",223,3,113,107
+Red River,13-1 CITY,"County Attorney",,REP,"Val Varley",212,3,104,105
+Red River,13-1 CITY,"County Clerk, Unexpired Term",,REP,"Chassidy Chandler",231,3,117,111
+Red River,13-1 CITY,"Sheriff",,REP,"Jimmy Caldwell",229,3,114,112
+Red River,13-1 CITY,"County Tax Assessor-Collector",,REP,"Audra Moore",229,4,113,112
+Red River,13-1 CITY,"Constable",,REP,"Shawn Roden",230,3,115,112
+Red River,13-1 CITY,"City of Detroit Proposition A",,,"For",200,1,94,105
+Red River,13-1 CITY,"City of Detroit Proposition A",,,"Against",62,3,33,26
+Red River,13-4,"Registered Voters",,,,536,,,
+Red River,13-4,"Ballots Cast",,,,383,0,0,0
+Red River,13-4,"President",,REP,"Donald J. Trump JD Vance",355,6,246,103
+Red River,13-4,"President",,DEM,"Kamala D. Harris Tim Walz",27,0,20,7
+Red River,13-4,"President",,LIB,"Chase Oliver Mike ter Maat",1,0,0,1
+Red River,13-4,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Red River,13-4,"U.S. Senate",,REP,"Ted Cruz",340,6,236,98
+Red River,13-4,"U.S. Senate",,DEM,"Colin Allred",31,0,22,9
+Red River,13-4,"U.S. Senate",,LIB,"Ted Brown",5,0,3,2
+Red River,13-4,"U.S. House","4",REP,"Pat Fallon",343,6,239,98
+Red River,13-4,"U.S. House","4",DEM,"Simon Cardell",23,0,18,5
+Red River,13-4,"Railroad Commissioner",,REP,"Christi Craddick",330,6,234,90
+Red River,13-4,"Railroad Commissioner",,DEM,"Katherine Culbert",22,0,19,3
+Red River,13-4,"Railroad Commissioner",,LIB,"Hawk Dunlap",10,0,5,5
+Red River,13-4,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Red River,13-4,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",337,6,236,95
+Red River,13-4,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",25,0,19,6
+Red River,13-4,"Justice, Supreme Court","Place 4",REP,"John Devine",339,6,238,95
+Red River,13-4,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",25,0,19,6
+Red River,13-4,"Justice, Supreme Court","Place 6",REP,"Jane Bland",336,6,237,93
+Red River,13-4,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",23,0,19,4
+Red River,13-4,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",6,0,1,5
+Red River,13-4,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",338,6,236,96
+Red River,13-4,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",25,0,19,6
+Red River,13-4,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",335,6,233,96
+Red River,13-4,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",26,0,21,5
+Red River,13-4,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",342,6,239,97
+Red River,13-4,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",20,0,15,5
+Red River,13-4,"Member, State Board of Education","12",REP,"Pam Little",337,6,235,96
+Red River,13-4,"Member, State Board of Education","12",DEM,"George King",27,0,21,6
+Red River,13-4,"State Representative","1",REP,"Gary Vandeaver",340,6,234,100
+Red River,13-4,"Justice, 6th Court of Appeals District","Place 2",REP,"Jeff Rambin",332,6,239,87
+Red River,13-4,"District Judge, 6th Judicial District","6th Judicial District",REP,"R. Wesley Tidwell",334,6,236,92
+Red River,13-4,"County Attorney",,REP,"Val Varley",325,6,229,90
+Red River,13-4,"County Clerk, Unexpired Term",,REP,"Chassidy Chandler",339,6,241,92
+Red River,13-4,"Sheriff",,REP,"Jimmy Caldwell",336,6,238,92
+Red River,13-4,"County Tax Assessor-Collector",,REP,"Audra Moore",340,6,244,90
+Red River,13-4,"Constable",,REP,"Shawn Roden",335,5,240,90
+Red River,17,"Registered Voters",,,,416,,,
+Red River,17,"Ballots Cast",,,,279,0,0,0
+Red River,17,"President",,REP,"Donald J. Trump JD Vance",247,5,137,105
+Red River,17,"President",,DEM,"Kamala D. Harris Tim Walz",30,1,14,15
+Red River,17,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Red River,17,"President",,GRN,"Jill Stein Rudolph Ware",1,0,1,0
+Red River,17,"U.S. Senate",,REP,"Ted Cruz",237,4,135,98
+Red River,17,"U.S. Senate",,DEM,"Colin Allred",33,1,15,17
+Red River,17,"U.S. Senate",,LIB,"Ted Brown",6,1,1,4
+Red River,17,"U.S. House","4",REP,"Pat Fallon",244,5,136,103
+Red River,17,"U.S. House","4",DEM,"Simon Cardell",27,1,12,14
+Red River,17,"Railroad Commissioner",,REP,"Christi Craddick",233,5,133,95
+Red River,17,"Railroad Commissioner",,DEM,"Katherine Culbert",25,0,12,13
+Red River,17,"Railroad Commissioner",,LIB,"Hawk Dunlap",9,0,2,7
+Red River,17,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,0,1
+Red River,17,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",242,5,135,102
+Red River,17,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",24,0,11,13
+Red River,17,"Justice, Supreme Court","Place 4",REP,"John Devine",239,5,132,102
+Red River,17,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",28,0,14,14
+Red River,17,"Justice, Supreme Court","Place 6",REP,"Jane Bland",235,5,132,98
+Red River,17,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",25,0,13,12
+Red River,17,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",7,0,2,5
+Red River,17,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",240,5,133,102
+Red River,17,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",28,0,14,14
+Red River,17,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",242,4,134,104
+Red River,17,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",24,0,13,11
+Red River,17,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",243,5,134,104
+Red River,17,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",24,0,13,11
+Red River,17,"Member, State Board of Education","12",REP,"Pam Little",239,5,133,101
+Red River,17,"Member, State Board of Education","12",DEM,"George King",28,0,13,15
+Red River,17,"State Representative","1",REP,"Gary Vandeaver",242,5,133,104
+Red River,17,"Justice, 6th Court of Appeals District","Place 2",REP,"Jeff Rambin",241,4,135,102
+Red River,17,"District Judge, 6th Judicial District","6th Judicial District",REP,"R. Wesley Tidwell",242,5,134,103
+Red River,17,"County Attorney",,REP,"Val Varley",236,5,131,100
+Red River,17,"County Clerk, Unexpired Term",,REP,"Chassidy Chandler",247,4,138,105
+Red River,17,"Sheriff",,REP,"Jimmy Caldwell",243,5,135,103
+Red River,17,"County Tax Assessor-Collector",,REP,"Audra Moore",244,5,134,105
+Red River,17,"Constable",,REP,"Shawn Roden",241,4,134,103
+Red River,19-1,"Registered Voters",,,,250,,,
+Red River,19-1,"Ballots Cast",,,,183,0,0,0
+Red River,19-1,"President",,REP,"Donald J. Trump JD Vance",161,6,91,64
+Red River,19-1,"President",,DEM,"Kamala D. Harris Tim Walz",21,6,13,2
+Red River,19-1,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Red River,19-1,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Red River,19-1,"U.S. Senate",,REP,"Ted Cruz",150,5,85,60
+Red River,19-1,"U.S. Senate",,DEM,"Colin Allred",24,5,15,4
+Red River,19-1,"U.S. Senate",,LIB,"Ted Brown",6,2,2,2
+Red River,19-1,"U.S. House","1",REP,"Nathaniel Moran",161,8,91,62
+Red River,19-1,"Railroad Commissioner",,REP,"Christi Craddick",154,7,85,62
+Red River,19-1,"Railroad Commissioner",,DEM,"Katherine Culbert",15,5,9,1
+Red River,19-1,"Railroad Commissioner",,LIB,"Hawk Dunlap",4,0,3,1
+Red River,19-1,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,2,0
+Red River,19-1,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",157,7,89,61
+Red River,19-1,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",16,4,10,2
+Red River,19-1,"Justice, Supreme Court","Place 4",REP,"John Devine",156,7,88,61
+Red River,19-1,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",17,4,11,2
+Red River,19-1,"Justice, Supreme Court","Place 6",REP,"Jane Bland",153,7,87,59
+Red River,19-1,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",13,4,8,1
+Red River,19-1,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",8,0,5,3
+Red River,19-1,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",159,7,90,62
+Red River,19-1,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",15,4,10,1
+Red River,19-1,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",158,7,90,61
+Red River,19-1,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",16,4,10,2
+Red River,19-1,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",158,7,90,61
+Red River,19-1,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",15,4,9,2
+Red River,19-1,"Member, State Board of Education","12",REP,"Pam Little",155,7,88,60
+Red River,19-1,"Member, State Board of Education","12",DEM,"George King",17,4,11,2
+Red River,19-1,"State Representative","1",REP,"Gary Vandeaver",166,12,92,62
+Red River,19-1,"Justice, 6th Court of Appeals District","Place 2",REP,"Jeff Rambin",158,8,88,62
+Red River,19-1,"District Judge, 6th Judicial District","6th Judicial District",REP,"R. Wesley Tidwell",159,8,90,61
+Red River,19-1,"County Attorney",,REP,"Val Varley",149,7,79,63
+Red River,19-1,"County Clerk, Unexpired Term",,REP,"Chassidy Chandler",161,8,91,62
+Red River,19-1,"Sheriff",,REP,"Jimmy Caldwell",157,7,88,62
+Red River,19-1,"County Tax Assessor-Collector",,REP,"Audra Moore",161,8,90,63
+Red River,19-1,"County Commissioner","3",REP,"Jeff Moore",137,7,75,55
+Red River,19-1,"County Commissioner","3",DEM,"Wilbert Owens Jr",37,4,25,8
+Red River,19-1,"Constable",,REP,"Shawn Roden",162,8,91,63
+Red River,19-4,"Registered Voters",,,,391,,,
+Red River,19-4,"Ballots Cast",,,,256,0,0,0
+Red River,19-4,"President",,REP,"Donald J. Trump JD Vance",217,1,172,44
+Red River,19-4,"President",,DEM,"Kamala D. Harris Tim Walz",39,4,25,10
+Red River,19-4,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Red River,19-4,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Red River,19-4,"U.S. Senate",,REP,"Ted Cruz",215,0,170,45
+Red River,19-4,"U.S. Senate",,DEM,"Colin Allred",39,4,26,9
+Red River,19-4,"U.S. Senate",,LIB,"Ted Brown",1,1,0,0
+Red River,19-4,"U.S. House","4",REP,"Pat Fallon",213,1,168,44
+Red River,19-4,"U.S. House","4",DEM,"Simon Cardell",34,4,22,8
+Red River,19-4,"Railroad Commissioner",,REP,"Christi Craddick",209,1,166,42
+Red River,19-4,"Railroad Commissioner",,DEM,"Katherine Culbert",32,4,21,7
+Red River,19-4,"Railroad Commissioner",,LIB,"Hawk Dunlap",5,0,4,1
+Red River,19-4,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,0,1
+Red River,19-4,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",211,1,168,42
+Red River,19-4,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",34,4,21,9
+Red River,19-4,"Justice, Supreme Court","Place 4",REP,"John Devine",208,1,166,41
+Red River,19-4,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",38,4,24,10
+Red River,19-4,"Justice, Supreme Court","Place 6",REP,"Jane Bland",204,1,164,39
+Red River,19-4,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",37,4,22,11
+Red River,19-4,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",5,0,4,1
+Red River,19-4,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",209,1,166,42
+Red River,19-4,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",37,4,24,9
+Red River,19-4,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",213,2,168,43
+Red River,19-4,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",34,3,23,8
+Red River,19-4,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",210,1,166,43
+Red River,19-4,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",35,4,23,8
+Red River,19-4,"Member, State Board of Education","12",REP,"Pam Little",211,1,168,42
+Red River,19-4,"Member, State Board of Education","12",DEM,"George King",34,4,21,9
+Red River,19-4,"State Representative","1",REP,"Gary Vandeaver",216,2,168,46
+Red River,19-4,"Justice, 6th Court of Appeals District","Place 2",REP,"Jeff Rambin",219,2,170,47
+Red River,19-4,"District Judge, 6th Judicial District","6th Judicial District",REP,"R. Wesley Tidwell",216,3,165,48
+Red River,19-4,"County Attorney",,REP,"Val Varley",202,2,155,45
+Red River,19-4,"County Clerk, Unexpired Term",,REP,"Chassidy Chandler",216,3,167,46
+Red River,19-4,"Sheriff",,REP,"Jimmy Caldwell",212,2,163,47
+Red River,19-4,"County Tax Assessor-Collector",,REP,"Audra Moore",216,3,167,46
+Red River,19-4,"County Commissioner","3",REP,"Jeff Moore",195,3,151,41
+Red River,19-4,"County Commissioner","3",DEM,"Wilbert Owens Jr",52,2,39,11
+Red River,19-4,"Constable",,REP,"Shawn Roden",215,3,165,47
+Red River,27,"Registered Voters",,,,593,,,
+Red River,27,"Ballots Cast",,,,407,0,0,0
+Red River,27,"President",,REP,"Donald J. Trump JD Vance",373,12,253,108
+Red River,27,"President",,DEM,"Kamala D. Harris Tim Walz",31,2,22,7
+Red River,27,"President",,LIB,"Chase Oliver Mike ter Maat",1,0,0,1
+Red River,27,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Red River,27,"U.S. Senate",,REP,"Ted Cruz",359,12,244,103
+Red River,27,"U.S. Senate",,DEM,"Colin Allred",40,2,28,10
+Red River,27,"U.S. Senate",,LIB,"Ted Brown",6,0,3,3
+Red River,27,"U.S. House","1",REP,"Nathaniel Moran",367,12,250,105
+Red River,27,"Railroad Commissioner",,REP,"Christi Craddick",347,12,237,98
+Red River,27,"Railroad Commissioner",,DEM,"Katherine Culbert",30,2,23,5
+Red River,27,"Railroad Commissioner",,LIB,"Hawk Dunlap",7,0,5,2
+Red River,27,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,0,1
+Red River,27,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",360,12,243,105
+Red River,27,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",32,2,24,6
+Red River,27,"Justice, Supreme Court","Place 4",REP,"John Devine",356,12,243,101
+Red River,27,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",37,2,25,10
+Red River,27,"Justice, Supreme Court","Place 6",REP,"Jane Bland",355,12,241,102
+Red River,27,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",30,2,23,5
+Red River,27,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",8,0,4,4
+Red River,27,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",356,12,243,101
+Red River,27,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",32,2,24,6
+Red River,27,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",359,12,244,103
+Red River,27,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",30,2,23,5
+Red River,27,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",362,12,245,105
+Red River,27,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",29,2,22,5
+Red River,27,"Member, State Board of Education","12",REP,"Pam Little",359,12,243,104
+Red River,27,"Member, State Board of Education","12",DEM,"George King",28,2,21,5
+Red River,27,"State Representative","1",REP,"Gary Vandeaver",363,13,244,106
+Red River,27,"Justice, 6th Court of Appeals District","Place 2",REP,"Jeff Rambin",354,12,241,101
+Red River,27,"District Judge, 6th Judicial District","6th Judicial District",REP,"R. Wesley Tidwell",356,12,243,101
+Red River,27,"County Attorney",,REP,"Val Varley",348,11,239,98
+Red River,27,"County Clerk, Unexpired Term",,REP,"Chassidy Chandler",363,12,249,102
+Red River,27,"Sheriff",,REP,"Jimmy Caldwell",363,12,248,103
+Red River,27,"County Tax Assessor-Collector",,REP,"Audra Moore",361,12,248,101
+Red River,27,"Constable",,REP,"Shawn Roden",362,12,250,100
+Red River,29,"Registered Voters",,,,407,,,
+Red River,29,"Ballots Cast",,,,288,0,0,0
+Red River,29,"President",,REP,"Donald J. Trump JD Vance",232,8,172,52
+Red River,29,"President",,DEM,"Kamala D. Harris Tim Walz",55,3,39,13
+Red River,29,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Red River,29,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Red River,29,"U.S. Senate",,REP,"Ted Cruz",221,8,163,50
+Red River,29,"U.S. Senate",,DEM,"Colin Allred",57,3,40,14
+Red River,29,"U.S. Senate",,LIB,"Ted Brown",8,0,6,2
+Red River,29,"U.S. House","1",REP,"Nathaniel Moran",225,6,171,48
+Red River,29,"Railroad Commissioner",,REP,"Christi Craddick",213,8,161,44
+Red River,29,"Railroad Commissioner",,DEM,"Katherine Culbert",49,3,35,11
+Red River,29,"Railroad Commissioner",,LIB,"Hawk Dunlap",5,0,3,2
+Red River,29,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Red River,29,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",221,8,166,47
+Red River,29,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",49,3,35,11
+Red River,29,"Justice, Supreme Court","Place 4",REP,"John Devine",216,7,162,47
+Red River,29,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",54,4,39,11
+Red River,29,"Justice, Supreme Court","Place 6",REP,"Jane Bland",210,8,160,42
+Red River,29,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",50,3,35,12
+Red River,29,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",10,0,6,4
+Red River,29,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",217,7,163,47
+Red River,29,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",52,4,37,11
+Red River,29,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",216,7,163,46
+Red River,29,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",54,4,38,12
+Red River,29,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",219,8,164,47
+Red River,29,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",49,3,35,11
+Red River,29,"Member, State Board of Education","12",REP,"Pam Little",219,8,165,46
+Red River,29,"Member, State Board of Education","12",DEM,"George King",51,3,36,12
+Red River,29,"State Representative","1",REP,"Gary Vandeaver",227,8,172,47
+Red River,29,"Justice, 6th Court of Appeals District","Place 2",REP,"Jeff Rambin",218,7,168,43
+Red River,29,"District Judge, 6th Judicial District","6th Judicial District",REP,"R. Wesley Tidwell",219,7,166,46
+Red River,29,"County Attorney",,REP,"Val Varley",211,7,162,42
+Red River,29,"County Clerk, Unexpired Term",,REP,"Chassidy Chandler",217,7,166,44
+Red River,29,"Sheriff",,REP,"Jimmy Caldwell",223,9,166,48
+Red River,29,"County Tax Assessor-Collector",,REP,"Audra Moore",222,7,166,49
+Red River,29,"Constable",,REP,"Shawn Roden",210,7,161,42

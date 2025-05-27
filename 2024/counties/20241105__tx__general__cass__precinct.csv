@@ -1,0 +1,1194 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Cass,1,Registered Voters,,,,3484,,,
+Cass,1,Ballots Cast,,,,2257,0,0,0
+Cass,1,"President",,REP,"Donald J. Trump",1860,51,1582,227
+Cass,1,"President",,DEM,"Kamala D. Harris",380,38,275,67
+Cass,1,"President",,LIB,"Chase Oliver",3,0,2,1
+Cass,1,"President",,GRN,"Jill Stein",3,0,3,0
+Cass,1,"President",,,"Over Votes",2,0,2,0
+Cass,1,"President",,,"Under Votes",9,2,5,2
+Cass,1,"U.S. Senate",,REP,"Ted Cruz",1816,53,1545,218
+Cass,1,"U.S. Senate",,DEM,"Colin Allred",391,35,290,66
+Cass,1,"U.S. Senate",,LIB,"Ted Brown",27,0,20,7
+Cass,1,"U.S. Senate",,,"Over Votes",2,0,1,1
+Cass,1,"U.S. Senate",,,"Under Votes",21,3,13,5
+Cass,1,"U.S. House","1",REP,"Nathaniel Moran",1800,55,1512,233
+Cass,1,"U.S. House","1",,"Over Votes",0,0,0,0
+Cass,1,"U.S. House","1",,"Under Votes",457,36,357,64
+Cass,1,"Railroad Commissioner",,REP,"Christi Craddick",1739,47,1489,203
+Cass,1,"Railroad Commissioner",,DEM,"Katherine Culbert",357,35,260,62
+Cass,1,"Railroad Commissioner",,LIB,"Hawk Dunlap",39,0,29,10
+Cass,1,"Railroad Commissioner",,GRN,"Eddie Espinoza",13,0,12,1
+Cass,1,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Cass,1,"Railroad Commissioner",,,"Under Votes",109,9,79,21
+Cass,1,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1828,49,1560,219
+Cass,1,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",366,36,268,62
+Cass,1,"Justice, Supreme Court, Place 2",,,"Over Votes",1,0,1,0
+Cass,1,"Justice, Supreme Court, Place 2",,,"Under Votes",62,6,40,16
+Cass,1,"Justice, Supreme Court, Place 4",,REP,"John Devine",1799,50,1534,215
+Cass,1,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",374,34,276,64
+Cass,1,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Cass,1,"Justice, Supreme Court, Place 4",,,"Under Votes",84,7,59,18
+Cass,1,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",1796,50,1530,216
+Cass,1,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",357,35,263,59
+Cass,1,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",44,0,35,9
+Cass,1,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Cass,1,"Justice, Supreme Court, Place 6",,,"Under Votes",60,6,41,13
+Cass,1,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1804,49,1542,213
+Cass,1,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",380,34,277,69
+Cass,1,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Cass,1,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",73,8,50,15
+Cass,1,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1811,47,1544,220
+Cass,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",370,36,273,61
+Cass,1,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",1,0,1,0
+Cass,1,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",75,8,51,16
+Cass,1,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1828,51,1554,223
+Cass,1,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",344,30,255,59
+Cass,1,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",2,1,1,0
+Cass,1,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",83,9,59,15
+Cass,1,"State Representative, District 1","1",REP,"Gary Vandeaver",1861,60,1560,241
+Cass,1,"State Representative, District 1","1",,"Over Votes",0,0,0,0
+Cass,1,"State Representative, District 1","1",,"Under Votes",396,31,309,56
+Cass,1,"Justice, 6th Court of Appeals District, Place 2",,REP,"Jeff Rambin",1852,54,1560,238
+Cass,1,"Justice, 6th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Cass,1,"Justice, 6th Court of Appeals District, Place 2",,,"Under Votes",405,37,309,59
+Cass,1,"District Judge, 5th Judicial District",,REP,"Bill Miller",1856,59,1560,237
+Cass,1,"District Judge, 5th Judicial District",,,"Over Votes",0,0,0,0
+Cass,1,"District Judge, 5th Judicial District",,,"Under Votes",401,32,309,60
+Cass,1,"Sheriff",,REP,"Larry Rowe",1894,61,1592,241
+Cass,1,"Sheriff",,,"Over Votes",0,0,0,0
+Cass,1,"Sheriff",,,"Under Votes",363,30,277,56
+Cass,1,"County Tax Assessor-Collector",,REP,"Angela Young",1904,63,1594,247
+Cass,1,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Cass,1,"County Tax Assessor-Collector",,,"Under Votes",353,28,275,50
+Cass,1,"County Commissioner, Precinct 1",,REP,"Brett Fitts",1890,62,1586,242
+Cass,1,"County Commissioner, Precinct 1",,,"Over Votes",0,0,0,0
+Cass,1,"County Commissioner, Precinct 1",,,"Under Votes",367,29,283,55
+Cass,1,"Constable, Precinct 1",,REP,"Alton McWaters",1916,59,1607,250
+Cass,1,"Constable, Precinct 1",,,"Over Votes",0,0,0,0
+Cass,1,"Constable, Precinct 1",,,"Under Votes",341,32,262,47
+Cass,4,Registered Voters,,,,881,,,
+Cass,4,Ballots Cast,,,,598,0,0,0
+Cass,4,"President",,REP,"Donald J. Trump",485,8,409,68
+Cass,4,"President",,DEM,"Kamala D. Harris",111,16,79,16
+Cass,4,"President",,LIB,"Chase Oliver",0,0,0,0
+Cass,4,"President",,GRN,"Jill Stein",0,0,0,0
+Cass,4,"President",,,"Over Votes",0,0,0,0
+Cass,4,"President",,,"Under Votes",2,0,2,0
+Cass,4,"U.S. Senate",,REP,"Ted Cruz",471,8,400,63
+Cass,4,"U.S. Senate",,DEM,"Colin Allred",111,16,79,16
+Cass,4,"U.S. Senate",,LIB,"Ted Brown",13,0,9,4
+Cass,4,"U.S. Senate",,,"Over Votes",1,0,1,0
+Cass,4,"U.S. Senate",,,"Under Votes",2,0,1,1
+Cass,4,"U.S. House","1",REP,"Nathaniel Moran",459,8,386,65
+Cass,4,"U.S. House","1",,"Over Votes",0,0,0,0
+Cass,4,"U.S. House","1",,"Under Votes",139,16,104,19
+Cass,4,"Railroad Commissioner",,REP,"Christi Craddick",456,8,387,61
+Cass,4,"Railroad Commissioner",,DEM,"Katherine Culbert",103,15,73,15
+Cass,4,"Railroad Commissioner",,LIB,"Hawk Dunlap",9,0,8,1
+Cass,4,"Railroad Commissioner",,GRN,"Eddie Espinoza",5,0,2,3
+Cass,4,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Cass,4,"Railroad Commissioner",,,"Under Votes",25,1,20,4
+Cass,4,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",477,8,405,64
+Cass,4,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",108,15,77,16
+Cass,4,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Cass,4,"Justice, Supreme Court, Place 2",,,"Under Votes",13,1,8,4
+Cass,4,"Justice, Supreme Court, Place 4",,REP,"John Devine",474,8,402,64
+Cass,4,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",106,15,76,15
+Cass,4,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Cass,4,"Justice, Supreme Court, Place 4",,,"Under Votes",18,1,12,5
+Cass,4,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",471,8,400,63
+Cass,4,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",102,14,73,15
+Cass,4,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",11,0,9,2
+Cass,4,"Justice, Supreme Court, Place 6",,,"Over Votes",1,1,0,0
+Cass,4,"Justice, Supreme Court, Place 6",,,"Under Votes",13,1,8,4
+Cass,4,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",473,8,402,63
+Cass,4,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",108,15,76,17
+Cass,4,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Cass,4,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",17,1,12,4
+Cass,4,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",469,8,399,62
+Cass,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",108,15,76,17
+Cass,4,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",1,0,0,1
+Cass,4,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",20,1,15,4
+Cass,4,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",480,8,410,62
+Cass,4,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",103,15,70,18
+Cass,4,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Cass,4,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",15,1,10,4
+Cass,4,"State Representative, District 1","1",REP,"Gary Vandeaver",482,7,405,70
+Cass,4,"State Representative, District 1","1",,"Over Votes",0,0,0,0
+Cass,4,"State Representative, District 1","1",,"Under Votes",116,17,85,14
+Cass,4,"Justice, 6th Court of Appeals District, Place 2",,REP,"Jeff Rambin",483,7,409,67
+Cass,4,"Justice, 6th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Cass,4,"Justice, 6th Court of Appeals District, Place 2",,,"Under Votes",115,17,81,17
+Cass,4,"District Judge, 5th Judicial District",,REP,"Bill Miller",486,7,411,68
+Cass,4,"District Judge, 5th Judicial District",,,"Over Votes",0,0,0,0
+Cass,4,"District Judge, 5th Judicial District",,,"Under Votes",112,17,79,16
+Cass,4,"Sheriff",,REP,"Larry Rowe",498,7,418,73
+Cass,4,"Sheriff",,,"Over Votes",0,0,0,0
+Cass,4,"Sheriff",,,"Under Votes",100,17,72,11
+Cass,4,"County Tax Assessor-Collector",,REP,"Angela Young",500,7,424,69
+Cass,4,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Cass,4,"County Tax Assessor-Collector",,,"Under Votes",98,17,66,15
+Cass,4,"County Commissioner, Precinct 1",,REP,"Brett Fitts",487,7,409,71
+Cass,4,"County Commissioner, Precinct 1",,,"Over Votes",0,0,0,0
+Cass,4,"County Commissioner, Precinct 1",,,"Under Votes",111,17,81,13
+Cass,4,"Constable, Precinct 1",,REP,"Alton McWaters",488,7,412,69
+Cass,4,"Constable, Precinct 1",,,"Over Votes",0,0,0,0
+Cass,4,"Constable, Precinct 1",,,"Under Votes",110,17,78,15
+Cass,2,Registered Voters,,,,443,,,
+Cass,2,Ballots Cast,,,,290,0,0,0
+Cass,2,"President",,REP,"Donald J. Trump",222,4,174,44
+Cass,2,"President",,DEM,"Kamala D. Harris",64,5,45,14
+Cass,2,"President",,LIB,"Chase Oliver",0,0,0,0
+Cass,2,"President",,GRN,"Jill Stein",0,0,0,0
+Cass,2,"President",,,"Over Votes",3,0,3,0
+Cass,2,"President",,,"Under Votes",1,1,0,0
+Cass,2,"U.S. Senate",,REP,"Ted Cruz",222,5,173,44
+Cass,2,"U.S. Senate",,DEM,"Colin Allred",60,5,42,13
+Cass,2,"U.S. Senate",,LIB,"Ted Brown",3,0,3,0
+Cass,2,"U.S. Senate",,,"Over Votes",1,0,1,0
+Cass,2,"U.S. Senate",,,"Under Votes",4,0,3,1
+Cass,2,"U.S. House","1",REP,"Nathaniel Moran",215,5,167,43
+Cass,2,"U.S. House","1",,"Over Votes",0,0,0,0
+Cass,2,"U.S. House","1",,"Under Votes",75,5,55,15
+Cass,2,"Railroad Commissioner",,REP,"Christi Craddick",222,5,174,43
+Cass,2,"Railroad Commissioner",,DEM,"Katherine Culbert",56,5,41,10
+Cass,2,"Railroad Commissioner",,LIB,"Hawk Dunlap",3,0,2,1
+Cass,2,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Cass,2,"Railroad Commissioner",,,"Over Votes",1,0,1,0
+Cass,2,"Railroad Commissioner",,,"Under Votes",8,0,4,4
+Cass,2,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",226,5,177,44
+Cass,2,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",59,5,41,13
+Cass,2,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Cass,2,"Justice, Supreme Court, Place 2",,,"Under Votes",5,0,4,1
+Cass,2,"Justice, Supreme Court, Place 4",,REP,"John Devine",225,5,175,45
+Cass,2,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",58,5,42,11
+Cass,2,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Cass,2,"Justice, Supreme Court, Place 4",,,"Under Votes",7,0,5,2
+Cass,2,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",226,5,175,46
+Cass,2,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",54,5,40,9
+Cass,2,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",3,0,3,0
+Cass,2,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Cass,2,"Justice, Supreme Court, Place 6",,,"Under Votes",7,0,4,3
+Cass,2,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",224,5,175,44
+Cass,2,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",60,5,43,12
+Cass,2,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Cass,2,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",6,0,4,2
+Cass,2,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",227,5,176,46
+Cass,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",57,5,41,11
+Cass,2,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Cass,2,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",6,0,5,1
+Cass,2,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",226,5,177,44
+Cass,2,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",58,5,41,12
+Cass,2,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Cass,2,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",6,0,4,2
+Cass,2,"State Representative, District 1","1",REP,"Gary Vandeaver",232,5,181,46
+Cass,2,"State Representative, District 1","1",,"Over Votes",0,0,0,0
+Cass,2,"State Representative, District 1","1",,"Under Votes",58,5,41,12
+Cass,2,"Justice, 6th Court of Appeals District, Place 2",,REP,"Jeff Rambin",224,5,174,45
+Cass,2,"Justice, 6th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Cass,2,"Justice, 6th Court of Appeals District, Place 2",,,"Under Votes",66,5,48,13
+Cass,2,"District Judge, 5th Judicial District",,REP,"Bill Miller",227,5,178,44
+Cass,2,"District Judge, 5th Judicial District",,,"Over Votes",0,0,0,0
+Cass,2,"District Judge, 5th Judicial District",,,"Under Votes",63,5,44,14
+Cass,2,"Sheriff",,REP,"Larry Rowe",234,6,182,46
+Cass,2,"Sheriff",,,"Over Votes",0,0,0,0
+Cass,2,"Sheriff",,,"Under Votes",56,4,40,12
+Cass,2,"County Tax Assessor-Collector",,REP,"Angela Young",234,6,183,45
+Cass,2,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Cass,2,"County Tax Assessor-Collector",,,"Under Votes",56,4,39,13
+Cass,2,"County Commissioner, Precinct 1",,REP,"Brett Fitts",235,8,181,46
+Cass,2,"County Commissioner, Precinct 1",,,"Over Votes",0,0,0,0
+Cass,2,"County Commissioner, Precinct 1",,,"Under Votes",55,2,41,12
+Cass,2,"Constable, Precinct 1",,REP,"Alton McWaters",237,6,184,47
+Cass,2,"Constable, Precinct 1",,,"Over Votes",0,0,0,0
+Cass,2,"Constable, Precinct 1",,,"Under Votes",53,4,38,11
+Cass,5,Registered Voters,,,,860,,,
+Cass,5,Ballots Cast,,,,614,0,0,0
+Cass,5,"President",,REP,"Donald J. Trump",492,24,302,166
+Cass,5,"President",,DEM,"Kamala D. Harris",117,8,65,44
+Cass,5,"President",,LIB,"Chase Oliver",3,0,1,2
+Cass,5,"President",,GRN,"Jill Stein",1,0,1,0
+Cass,5,"President",,,"Over Votes",0,0,0,0
+Cass,5,"President",,,"Under Votes",1,0,1,0
+Cass,5,"U.S. Senate",,REP,"Ted Cruz",486,24,300,162
+Cass,5,"U.S. Senate",,DEM,"Colin Allred",114,8,63,43
+Cass,5,"U.S. Senate",,LIB,"Ted Brown",9,0,4,5
+Cass,5,"U.S. Senate",,,"Over Votes",1,0,1,0
+Cass,5,"U.S. Senate",,,"Under Votes",4,0,2,2
+Cass,5,"U.S. House","1",REP,"Nathaniel Moran",488,26,300,162
+Cass,5,"U.S. House","1",,"Over Votes",0,0,0,0
+Cass,5,"U.S. House","1",,"Under Votes",126,6,70,50
+Cass,5,"Railroad Commissioner",,REP,"Christi Craddick",464,24,289,151
+Cass,5,"Railroad Commissioner",,DEM,"Katherine Culbert",102,8,54,40
+Cass,5,"Railroad Commissioner",,LIB,"Hawk Dunlap",19,0,11,8
+Cass,5,"Railroad Commissioner",,GRN,"Eddie Espinoza",4,0,2,2
+Cass,5,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Cass,5,"Railroad Commissioner",,,"Under Votes",25,0,14,11
+Cass,5,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",494,24,306,164
+Cass,5,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",106,8,57,41
+Cass,5,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Cass,5,"Justice, Supreme Court, Place 2",,,"Under Votes",14,0,7,7
+Cass,5,"Justice, Supreme Court, Place 4",,REP,"John Devine",481,24,296,161
+Cass,5,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",114,8,63,43
+Cass,5,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Cass,5,"Justice, Supreme Court, Place 4",,,"Under Votes",19,0,11,8
+Cass,5,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",477,24,296,157
+Cass,5,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",107,8,58,41
+Cass,5,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",16,0,10,6
+Cass,5,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Cass,5,"Justice, Supreme Court, Place 6",,,"Under Votes",14,0,6,8
+Cass,5,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",489,24,304,161
+Cass,5,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",109,8,58,43
+Cass,5,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Cass,5,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",16,0,8,8
+Cass,5,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",491,24,303,164
+Cass,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",109,8,60,41
+Cass,5,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Cass,5,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",14,0,7,7
+Cass,5,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",493,24,305,164
+Cass,5,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",105,8,56,41
+Cass,5,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Cass,5,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",16,0,9,7
+Cass,5,"State Representative, District 1","1",REP,"Gary Vandeaver",506,23,316,167
+Cass,5,"State Representative, District 1","1",,"Over Votes",0,0,0,0
+Cass,5,"State Representative, District 1","1",,"Under Votes",108,9,54,45
+Cass,5,"Justice, 6th Court of Appeals District, Place 2",,REP,"Jeff Rambin",502,26,309,167
+Cass,5,"Justice, 6th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Cass,5,"Justice, 6th Court of Appeals District, Place 2",,,"Under Votes",112,6,61,45
+Cass,5,"District Judge, 5th Judicial District",,REP,"Bill Miller",508,26,309,173
+Cass,5,"District Judge, 5th Judicial District",,,"Over Votes",0,0,0,0
+Cass,5,"District Judge, 5th Judicial District",,,"Under Votes",106,6,61,39
+Cass,5,"Sheriff",,REP,"Larry Rowe",512,26,317,169
+Cass,5,"Sheriff",,,"Over Votes",0,0,0,0
+Cass,5,"Sheriff",,,"Under Votes",102,6,53,43
+Cass,5,"County Tax Assessor-Collector",,REP,"Angela Young",534,27,328,179
+Cass,5,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Cass,5,"County Tax Assessor-Collector",,,"Under Votes",80,5,42,33
+Cass,5,"County Commissioner, Precinct 1",,REP,"Brett Fitts",511,26,314,171
+Cass,5,"County Commissioner, Precinct 1",,,"Over Votes",0,0,0,0
+Cass,5,"County Commissioner, Precinct 1",,,"Under Votes",103,6,56,41
+Cass,5,"Constable, Precinct 1",,REP,"Alton McWaters",515,25,316,174
+Cass,5,"Constable, Precinct 1",,,"Over Votes",0,0,0,0
+Cass,5,"Constable, Precinct 1",,,"Under Votes",99,7,54,38
+Cass,7,Registered Voters,,,,2241,,,
+Cass,7,Ballots Cast,,,,1420,0,0,0
+Cass,7,"President",,REP,"Donald J. Trump",1199,28,931,240
+Cass,7,"President",,DEM,"Kamala D. Harris",209,14,150,45
+Cass,7,"President",,LIB,"Chase Oliver",3,0,3,0
+Cass,7,"President",,GRN,"Jill Stein",0,0,0,0
+Cass,7,"President",,,"Over Votes",1,0,1,0
+Cass,7,"President",,,"Under Votes",8,2,4,2
+Cass,7,"U.S. Senate",,REP,"Ted Cruz",1175,29,917,229
+Cass,7,"U.S. Senate",,DEM,"Colin Allred",221,14,160,47
+Cass,7,"U.S. Senate",,LIB,"Ted Brown",21,1,11,9
+Cass,7,"U.S. Senate",,,"Over Votes",0,0,0,0
+Cass,7,"U.S. Senate",,,"Under Votes",3,0,1,2
+Cass,7,"U.S. House","1",REP,"Nathaniel Moran",1174,36,905,233
+Cass,7,"U.S. House","1",,"Over Votes",0,0,0,0
+Cass,7,"U.S. House","1",,"Under Votes",246,8,184,54
+Cass,7,"Railroad Commissioner",,REP,"Christi Craddick",1148,30,896,222
+Cass,7,"Railroad Commissioner",,DEM,"Katherine Culbert",196,14,143,39
+Cass,7,"Railroad Commissioner",,LIB,"Hawk Dunlap",29,0,16,13
+Cass,7,"Railroad Commissioner",,GRN,"Eddie Espinoza",7,0,4,3
+Cass,7,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Cass,7,"Railroad Commissioner",,,"Under Votes",40,0,30,10
+Cass,7,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1190,30,927,233
+Cass,7,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",207,14,146,47
+Cass,7,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Cass,7,"Justice, Supreme Court, Place 2",,,"Under Votes",23,0,16,7
+Cass,7,"Justice, Supreme Court, Place 4",,REP,"John Devine",1176,28,919,229
+Cass,7,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",212,16,146,50
+Cass,7,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Cass,7,"Justice, Supreme Court, Place 4",,,"Under Votes",32,0,24,8
+Cass,7,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",1170,31,912,227
+Cass,7,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",198,13,146,39
+Cass,7,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",27,0,15,12
+Cass,7,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Cass,7,"Justice, Supreme Court, Place 6",,,"Under Votes",25,0,16,9
+Cass,7,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1186,30,923,233
+Cass,7,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",209,14,147,48
+Cass,7,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Cass,7,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",25,0,19,6
+Cass,7,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1186,29,923,234
+Cass,7,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",211,15,150,46
+Cass,7,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Cass,7,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",23,0,16,7
+Cass,7,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1192,29,927,236
+Cass,7,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",195,14,140,41
+Cass,7,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",2,1,1,0
+Cass,7,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",31,0,21,10
+Cass,7,"State Representative, District 1","1",REP,"Gary Vandeaver",1231,35,951,245
+Cass,7,"State Representative, District 1","1",,"Over Votes",0,0,0,0
+Cass,7,"State Representative, District 1","1",,"Under Votes",189,9,138,42
+Cass,7,"Justice, 6th Court of Appeals District, Place 2",,REP,"Jeff Rambin",1219,37,935,247
+Cass,7,"Justice, 6th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Cass,7,"Justice, 6th Court of Appeals District, Place 2",,,"Under Votes",201,7,154,40
+Cass,7,"District Judge, 5th Judicial District",,REP,"Bill Miller",1224,37,939,248
+Cass,7,"District Judge, 5th Judicial District",,,"Over Votes",0,0,0,0
+Cass,7,"District Judge, 5th Judicial District",,,"Under Votes",196,7,150,39
+Cass,7,"Sheriff",,REP,"Larry Rowe",1235,38,950,247
+Cass,7,"Sheriff",,,"Over Votes",0,0,0,0
+Cass,7,"Sheriff",,,"Under Votes",185,6,139,40
+Cass,7,"County Tax Assessor-Collector",,REP,"Angela Young",1239,38,953,248
+Cass,7,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Cass,7,"County Tax Assessor-Collector",,,"Under Votes",181,6,136,39
+Cass,7,"Constable, Precinct 2",,REP,"Randy Kennedy",1244,39,955,250
+Cass,7,"Constable, Precinct 2",,,"Over Votes",0,0,0,0
+Cass,7,"Constable, Precinct 2",,,"Under Votes",176,5,134,37
+Cass,6,Registered Voters,,,,564,,,
+Cass,6,Ballots Cast,,,,401,0,0,0
+Cass,6,"President",,REP,"Donald J. Trump",358,4,291,63
+Cass,6,"President",,DEM,"Kamala D. Harris",40,0,29,11
+Cass,6,"President",,LIB,"Chase Oliver",0,0,0,0
+Cass,6,"President",,GRN,"Jill Stein",0,0,0,0
+Cass,6,"President",,,"Over Votes",1,0,1,0
+Cass,6,"President",,,"Under Votes",2,0,2,0
+Cass,6,"U.S. Senate",,REP,"Ted Cruz",347,4,285,58
+Cass,6,"U.S. Senate",,DEM,"Colin Allred",47,0,34,13
+Cass,6,"U.S. Senate",,LIB,"Ted Brown",6,0,3,3
+Cass,6,"U.S. Senate",,,"Over Votes",0,0,0,0
+Cass,6,"U.S. Senate",,,"Under Votes",1,0,1,0
+Cass,6,"U.S. House","1",REP,"Nathaniel Moran",342,4,275,63
+Cass,6,"U.S. House","1",,"Over Votes",0,0,0,0
+Cass,6,"U.S. House","1",,"Under Votes",59,0,48,11
+Cass,6,"Railroad Commissioner",,REP,"Christi Craddick",325,4,266,55
+Cass,6,"Railroad Commissioner",,DEM,"Katherine Culbert",39,0,27,12
+Cass,6,"Railroad Commissioner",,LIB,"Hawk Dunlap",19,0,15,4
+Cass,6,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,1,0
+Cass,6,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Cass,6,"Railroad Commissioner",,,"Under Votes",17,0,14,3
+Cass,6,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",354,4,288,62
+Cass,6,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",39,0,28,11
+Cass,6,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Cass,6,"Justice, Supreme Court, Place 2",,,"Under Votes",8,0,7,1
+Cass,6,"Justice, Supreme Court, Place 4",,REP,"John Devine",350,4,286,60
+Cass,6,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",40,0,28,12
+Cass,6,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Cass,6,"Justice, Supreme Court, Place 4",,,"Under Votes",11,0,9,2
+Cass,6,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",343,4,279,60
+Cass,6,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",37,0,28,9
+Cass,6,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",11,0,8,3
+Cass,6,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Cass,6,"Justice, Supreme Court, Place 6",,,"Under Votes",10,0,8,2
+Cass,6,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",347,4,286,57
+Cass,6,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",42,0,28,14
+Cass,6,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Cass,6,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",12,0,9,3
+Cass,6,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",348,4,285,59
+Cass,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",43,0,30,13
+Cass,6,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Cass,6,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",10,0,8,2
+Cass,6,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",351,4,285,62
+Cass,6,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",39,0,29,10
+Cass,6,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Cass,6,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",11,0,9,2
+Cass,6,"State Representative, District 1","1",REP,"Gary Vandeaver",360,4,291,65
+Cass,6,"State Representative, District 1","1",,"Over Votes",0,0,0,0
+Cass,6,"State Representative, District 1","1",,"Under Votes",41,0,32,9
+Cass,6,"Justice, 6th Court of Appeals District, Place 2",,REP,"Jeff Rambin",350,4,282,64
+Cass,6,"Justice, 6th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Cass,6,"Justice, 6th Court of Appeals District, Place 2",,,"Under Votes",51,0,41,10
+Cass,6,"District Judge, 5th Judicial District",,REP,"Bill Miller",354,4,285,65
+Cass,6,"District Judge, 5th Judicial District",,,"Over Votes",0,0,0,0
+Cass,6,"District Judge, 5th Judicial District",,,"Under Votes",47,0,38,9
+Cass,6,"Sheriff",,REP,"Larry Rowe",352,4,283,65
+Cass,6,"Sheriff",,,"Over Votes",0,0,0,0
+Cass,6,"Sheriff",,,"Under Votes",49,0,40,9
+Cass,6,"County Tax Assessor-Collector",,REP,"Angela Young",357,4,289,64
+Cass,6,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Cass,6,"County Tax Assessor-Collector",,,"Under Votes",44,0,34,10
+Cass,6,"Constable, Precinct 2",,REP,"Randy Kennedy",355,4,286,65
+Cass,6,"Constable, Precinct 2",,,"Over Votes",0,0,0,0
+Cass,6,"Constable, Precinct 2",,,"Under Votes",46,0,37,9
+Cass,9,Registered Voters,,,,1224,,,
+Cass,9,Ballots Cast,,,,782,0,0,0
+Cass,9,"President",,REP,"Donald J. Trump",613,19,339,255
+Cass,9,"President",,DEM,"Kamala D. Harris",161,18,90,53
+Cass,9,"President",,LIB,"Chase Oliver",1,1,0,0
+Cass,9,"President",,GRN,"Jill Stein",1,0,1,0
+Cass,9,"President",,REP,"Cornel West/Melina Abdullah (W)",1,0,1,0
+Cass,9,"President",,,"Over Votes",2,1,1,0
+Cass,9,"President",,,"Under Votes",3,0,2,1
+Cass,9,"U.S. Senate",,REP,"Ted Cruz",599,19,332,248
+Cass,9,"U.S. Senate",,DEM,"Colin Allred",170,20,93,57
+Cass,9,"U.S. Senate",,LIB,"Ted Brown",9,0,6,3
+Cass,9,"U.S. Senate",,,"Over Votes",0,0,0,0
+Cass,9,"U.S. Senate",,,"Under Votes",4,0,3,1
+Cass,9,"U.S. House","1",REP,"Nathaniel Moran",623,20,346,257
+Cass,9,"U.S. House","1",,"Over Votes",0,0,0,0
+Cass,9,"U.S. House","1",,"Under Votes",159,19,88,52
+Cass,9,"Railroad Commissioner",,REP,"Christi Craddick",582,17,319,246
+Cass,9,"Railroad Commissioner",,DEM,"Katherine Culbert",155,21,87,47
+Cass,9,"Railroad Commissioner",,LIB,"Hawk Dunlap",21,0,15,6
+Cass,9,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,2,0
+Cass,9,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Cass,9,"Railroad Commissioner",,,"Under Votes",22,1,11,10
+Cass,9,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",608,17,339,252
+Cass,9,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",156,20,87,49
+Cass,9,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Cass,9,"Justice, Supreme Court, Place 2",,,"Under Votes",18,2,8,8
+Cass,9,"Justice, Supreme Court, Place 4",,REP,"John Devine",600,18,333,249
+Cass,9,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",157,20,87,50
+Cass,9,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Cass,9,"Justice, Supreme Court, Place 4",,,"Under Votes",25,1,14,10
+Cass,9,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",586,18,324,244
+Cass,9,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",156,20,87,49
+Cass,9,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",22,0,15,7
+Cass,9,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Cass,9,"Justice, Supreme Court, Place 6",,,"Under Votes",18,1,8,9
+Cass,9,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",598,18,333,247
+Cass,9,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",161,20,91,50
+Cass,9,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Cass,9,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",23,1,10,12
+Cass,9,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",611,18,337,256
+Cass,9,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",151,18,88,45
+Cass,9,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",2,0,1,1
+Cass,9,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",18,3,8,7
+Cass,9,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",613,19,339,255
+Cass,9,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",153,19,87,47
+Cass,9,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Cass,9,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",16,1,8,7
+Cass,9,"State Representative, District 1","1",REP,"Gary Vandeaver",666,20,371,275
+Cass,9,"State Representative, District 1","1",,"Over Votes",0,0,0,0
+Cass,9,"State Representative, District 1","1",,"Under Votes",116,19,63,34
+Cass,9,"Justice, 6th Court of Appeals District, Place 2",,REP,"Jeff Rambin",650,21,357,272
+Cass,9,"Justice, 6th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Cass,9,"Justice, 6th Court of Appeals District, Place 2",,,"Under Votes",132,18,77,37
+Cass,9,"District Judge, 5th Judicial District",,REP,"Bill Miller",649,21,359,269
+Cass,9,"District Judge, 5th Judicial District",,,"Over Votes",0,0,0,0
+Cass,9,"District Judge, 5th Judicial District",,,"Under Votes",133,18,75,40
+Cass,9,"Sheriff",,REP,"Larry Rowe",662,22,362,278
+Cass,9,"Sheriff",,,"Over Votes",0,0,0,0
+Cass,9,"Sheriff",,,"Under Votes",120,17,72,31
+Cass,9,"County Tax Assessor-Collector",,REP,"Angela Young",679,27,372,280
+Cass,9,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Cass,9,"County Tax Assessor-Collector",,,"Under Votes",103,12,62,29
+Cass,9,"Constable, Precinct 2",,REP,"Randy Kennedy",654,20,361,273
+Cass,9,"Constable, Precinct 2",,,"Over Votes",0,0,0,0
+Cass,9,"Constable, Precinct 2",,,"Under Votes",128,19,73,36
+Cass,11,Registered Voters,,,,793,,,
+Cass,11,Ballots Cast,,,,478,0,0,0
+Cass,11,"President",,REP,"Donald J. Trump",356,1,254,101
+Cass,11,"President",,DEM,"Kamala D. Harris",120,7,70,43
+Cass,11,"President",,LIB,"Chase Oliver",1,0,1,0
+Cass,11,"President",,GRN,"Jill Stein",0,0,0,0
+Cass,11,"President",,,"Over Votes",0,0,0,0
+Cass,11,"President",,,"Under Votes",1,0,1,0
+Cass,11,"U.S. Senate",,REP,"Ted Cruz",357,1,253,103
+Cass,11,"U.S. Senate",,DEM,"Colin Allred",114,7,67,40
+Cass,11,"U.S. Senate",,LIB,"Ted Brown",5,0,5,0
+Cass,11,"U.S. Senate",,,"Over Votes",0,0,0,0
+Cass,11,"U.S. Senate",,,"Under Votes",2,0,1,1
+Cass,11,"U.S. House","1",REP,"Nathaniel Moran",364,5,259,100
+Cass,11,"U.S. House","1",,"Over Votes",0,0,0,0
+Cass,11,"U.S. House","1",,"Under Votes",114,3,67,44
+Cass,11,"Railroad Commissioner",,REP,"Christi Craddick",334,1,239,94
+Cass,11,"Railroad Commissioner",,DEM,"Katherine Culbert",114,7,67,40
+Cass,11,"Railroad Commissioner",,LIB,"Hawk Dunlap",9,0,7,2
+Cass,11,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,1,0
+Cass,11,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Cass,11,"Railroad Commissioner",,,"Under Votes",20,0,12,8
+Cass,11,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",355,1,254,100
+Cass,11,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",112,7,68,37
+Cass,11,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Cass,11,"Justice, Supreme Court, Place 2",,,"Under Votes",11,0,4,7
+Cass,11,"Justice, Supreme Court, Place 4",,REP,"John Devine",349,1,253,95
+Cass,11,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",116,7,68,41
+Cass,11,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Cass,11,"Justice, Supreme Court, Place 4",,,"Under Votes",13,0,5,8
+Cass,11,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",347,1,250,96
+Cass,11,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",113,7,67,39
+Cass,11,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",6,0,3,3
+Cass,11,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Cass,11,"Justice, Supreme Court, Place 6",,,"Under Votes",12,0,6,6
+Cass,11,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",351,1,252,98
+Cass,11,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",116,7,69,40
+Cass,11,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Cass,11,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",11,0,5,6
+Cass,11,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",351,1,253,97
+Cass,11,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",118,7,70,41
+Cass,11,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Cass,11,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",9,0,3,6
+Cass,11,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",351,1,253,97
+Cass,11,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",115,7,68,40
+Cass,11,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Cass,11,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",12,0,5,7
+Cass,11,"State Representative, District 1","1",REP,"Gary Vandeaver",369,5,257,107
+Cass,11,"State Representative, District 1","1",,"Over Votes",0,0,0,0
+Cass,11,"State Representative, District 1","1",,"Under Votes",109,3,69,37
+Cass,11,"Justice, 6th Court of Appeals District, Place 2",,REP,"Jeff Rambin",375,5,262,108
+Cass,11,"Justice, 6th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Cass,11,"Justice, 6th Court of Appeals District, Place 2",,,"Under Votes",103,3,64,36
+Cass,11,"District Judge, 5th Judicial District",,REP,"Bill Miller",375,5,264,106
+Cass,11,"District Judge, 5th Judicial District",,,"Over Votes",0,0,0,0
+Cass,11,"District Judge, 5th Judicial District",,,"Under Votes",103,3,62,38
+Cass,11,"Sheriff",,REP,"Larry Rowe",378,5,267,106
+Cass,11,"Sheriff",,,"Over Votes",0,0,0,0
+Cass,11,"Sheriff",,,"Under Votes",100,3,59,38
+Cass,11,"County Tax Assessor-Collector",,REP,"Angela Young",380,5,267,108
+Cass,11,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Cass,11,"County Tax Assessor-Collector",,,"Under Votes",98,3,59,36
+Cass,11,"Constable, Precinct 2",,REP,"Randy Kennedy",370,5,261,104
+Cass,11,"Constable, Precinct 2",,,"Over Votes",0,0,0,0
+Cass,11,"Constable, Precinct 2",,,"Under Votes",108,3,65,40
+Cass,15,Registered Voters,,,,388,,,
+Cass,15,Ballots Cast,,,,299,0,0,0
+Cass,15,"President",,REP,"Donald J. Trump",269,9,217,43
+Cass,15,"President",,DEM,"Kamala D. Harris",29,1,24,4
+Cass,15,"President",,LIB,"Chase Oliver",1,0,0,1
+Cass,15,"President",,GRN,"Jill Stein",0,0,0,0
+Cass,15,"President",,,"Over Votes",0,0,0,0
+Cass,15,"President",,,"Under Votes",0,0,0,0
+Cass,15,"U.S. Senate",,REP,"Ted Cruz",262,9,211,42
+Cass,15,"U.S. Senate",,DEM,"Colin Allred",32,1,26,5
+Cass,15,"U.S. Senate",,LIB,"Ted Brown",3,0,2,1
+Cass,15,"U.S. Senate",,,"Over Votes",0,0,0,0
+Cass,15,"U.S. Senate",,,"Under Votes",2,0,2,0
+Cass,15,"U.S. House","1",REP,"Nathaniel Moran",261,8,212,41
+Cass,15,"U.S. House","1",,"Over Votes",0,0,0,0
+Cass,15,"U.S. House","1",,"Under Votes",38,2,29,7
+Cass,15,"Railroad Commissioner",,REP,"Christi Craddick",255,8,207,40
+Cass,15,"Railroad Commissioner",,DEM,"Katherine Culbert",24,1,20,3
+Cass,15,"Railroad Commissioner",,LIB,"Hawk Dunlap",7,0,5,2
+Cass,15,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,0,1
+Cass,15,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Cass,15,"Railroad Commissioner",,,"Under Votes",12,1,9,2
+Cass,15,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",261,8,210,43
+Cass,15,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",29,1,23,5
+Cass,15,"Justice, Supreme Court, Place 2",,,"Over Votes",1,0,1,0
+Cass,15,"Justice, Supreme Court, Place 2",,,"Under Votes",8,1,7,0
+Cass,15,"Justice, Supreme Court, Place 4",,REP,"John Devine",259,8,209,42
+Cass,15,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",29,1,22,6
+Cass,15,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Cass,15,"Justice, Supreme Court, Place 4",,,"Under Votes",11,1,10,0
+Cass,15,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",263,8,211,44
+Cass,15,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",25,1,22,2
+Cass,15,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",3,0,1,2
+Cass,15,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Cass,15,"Justice, Supreme Court, Place 6",,,"Under Votes",8,1,7,0
+Cass,15,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",261,8,210,43
+Cass,15,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",28,1,22,5
+Cass,15,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Cass,15,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",10,1,9,0
+Cass,15,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",263,8,211,44
+Cass,15,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",26,1,21,4
+Cass,15,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Cass,15,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",10,1,9,0
+Cass,15,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",264,8,211,45
+Cass,15,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",24,1,20,3
+Cass,15,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Cass,15,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",11,1,10,0
+Cass,15,"State Representative, District 1","1",REP,"Gary Vandeaver",263,6,215,42
+Cass,15,"State Representative, District 1","1",,"Over Votes",0,0,0,0
+Cass,15,"State Representative, District 1","1",,"Under Votes",36,4,26,6
+Cass,15,"Justice, 6th Court of Appeals District, Place 2",,REP,"Jeff Rambin",261,7,212,42
+Cass,15,"Justice, 6th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Cass,15,"Justice, 6th Court of Appeals District, Place 2",,,"Under Votes",38,3,29,6
+Cass,15,"District Judge, 5th Judicial District",,REP,"Bill Miller",262,7,213,42
+Cass,15,"District Judge, 5th Judicial District",,,"Over Votes",0,0,0,0
+Cass,15,"District Judge, 5th Judicial District",,,"Under Votes",37,3,28,6
+Cass,15,"Sheriff",,REP,"Larry Rowe",258,7,208,43
+Cass,15,"Sheriff",,,"Over Votes",0,0,0,0
+Cass,15,"Sheriff",,,"Under Votes",41,3,33,5
+Cass,15,"County Tax Assessor-Collector",,REP,"Angela Young",267,7,217,43
+Cass,15,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Cass,15,"County Tax Assessor-Collector",,,"Under Votes",32,3,24,5
+Cass,15,"Constable, Precinct 2",,REP,"Randy Kennedy",261,6,212,43
+Cass,15,"Constable, Precinct 2",,,"Over Votes",0,0,0,0
+Cass,15,"Constable, Precinct 2",,,"Under Votes",38,4,29,5
+Cass,12,Registered Voters,,,,1073,,,
+Cass,12,Ballots Cast,,,,645,0,0,0
+Cass,12,"President",,REP,"Donald J. Trump",492,14,344,134
+Cass,12,"President",,DEM,"Kamala D. Harris",148,13,68,67
+Cass,12,"President",,LIB,"Chase Oliver",3,0,3,0
+Cass,12,"President",,GRN,"Jill Stein",0,0,0,0
+Cass,12,"President",,,"Over Votes",1,0,1,0
+Cass,12,"President",,,"Under Votes",1,0,1,0
+Cass,12,"U.S. Senate",,REP,"Ted Cruz",482,15,338,129
+Cass,12,"U.S. Senate",,DEM,"Colin Allred",149,11,68,70
+Cass,12,"U.S. Senate",,LIB,"Ted Brown",8,0,6,2
+Cass,12,"U.S. Senate",,,"Over Votes",1,0,1,0
+Cass,12,"U.S. Senate",,,"Under Votes",5,1,4,0
+Cass,12,"U.S. House","1",REP,"Nathaniel Moran",502,14,346,142
+Cass,12,"U.S. House","1",,"Over Votes",0,0,0,0
+Cass,12,"U.S. House","1",,"Under Votes",143,13,71,59
+Cass,12,"Railroad Commissioner",,REP,"Christi Craddick",461,15,327,119
+Cass,12,"Railroad Commissioner",,DEM,"Katherine Culbert",141,11,66,64
+Cass,12,"Railroad Commissioner",,LIB,"Hawk Dunlap",21,0,10,11
+Cass,12,"Railroad Commissioner",,GRN,"Eddie Espinoza",4,0,1,3
+Cass,12,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Cass,12,"Railroad Commissioner",,,"Under Votes",18,1,13,4
+Cass,12,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",487,15,343,129
+Cass,12,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",147,11,65,71
+Cass,12,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Cass,12,"Justice, Supreme Court, Place 2",,,"Under Votes",11,1,9,1
+Cass,12,"Justice, Supreme Court, Place 4",,REP,"John Devine",476,15,333,128
+Cass,12,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",149,9,70,70
+Cass,12,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Cass,12,"Justice, Supreme Court, Place 4",,,"Under Votes",20,3,14,3
+Cass,12,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",472,15,335,122
+Cass,12,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",143,11,63,69
+Cass,12,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",14,0,7,7
+Cass,12,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Cass,12,"Justice, Supreme Court, Place 6",,,"Under Votes",16,1,12,3
+Cass,12,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",482,14,338,130
+Cass,12,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",148,12,67,69
+Cass,12,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Cass,12,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",15,1,12,2
+Cass,12,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",481,15,337,129
+Cass,12,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",148,12,67,69
+Cass,12,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Cass,12,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",16,0,13,3
+Cass,12,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",486,15,342,129
+Cass,12,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",144,12,65,67
+Cass,12,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Cass,12,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",15,0,10,5
+Cass,12,"State Representative, District 1","1",REP,"Gary Vandeaver",515,13,351,151
+Cass,12,"State Representative, District 1","1",,"Over Votes",0,0,0,0
+Cass,12,"State Representative, District 1","1",,"Under Votes",130,14,66,50
+Cass,12,"Justice, 6th Court of Appeals District, Place 2",,REP,"Jeff Rambin",514,14,350,150
+Cass,12,"Justice, 6th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Cass,12,"Justice, 6th Court of Appeals District, Place 2",,,"Under Votes",131,13,67,51
+Cass,12,"District Judge, 5th Judicial District",,REP,"Bill Miller",518,15,355,148
+Cass,12,"District Judge, 5th Judicial District",,,"Over Votes",0,0,0,0
+Cass,12,"District Judge, 5th Judicial District",,,"Under Votes",127,12,62,53
+Cass,12,"Sheriff",,REP,"Larry Rowe",528,15,361,152
+Cass,12,"Sheriff",,,"Over Votes",0,0,0,0
+Cass,12,"Sheriff",,,"Under Votes",117,12,56,49
+Cass,12,"County Tax Assessor-Collector",,REP,"Angela Young",540,15,371,154
+Cass,12,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Cass,12,"County Tax Assessor-Collector",,,"Under Votes",105,12,46,47
+Cass,12,"County Commissioner, Precinct 3",,REP,"Doug Lance",537,15,366,156
+Cass,12,"County Commissioner, Precinct 3",,,"Over Votes",0,0,0,0
+Cass,12,"County Commissioner, Precinct 3",,,"Under Votes",108,12,51,45
+Cass,12,"Constable, Precinct 3",,REP,"Michael S. Henry",521,14,353,154
+Cass,12,"Constable, Precinct 3",,,"Over Votes",0,0,0,0
+Cass,12,"Constable, Precinct 3",,,"Under Votes",124,13,64,47
+Cass,13T,Registered Voters,,,,1789,,,
+Cass,13T,Ballots Cast,,,,953,0,0,0
+Cass,13T,"President",,REP,"Donald J. Trump",603,15,475,113
+Cass,13T,"President",,DEM,"Kamala D. Harris",344,43,212,89
+Cass,13T,"President",,LIB,"Chase Oliver",0,0,0,0
+Cass,13T,"President",,GRN,"Jill Stein",1,0,0,1
+Cass,13T,"President",,,"Over Votes",4,2,2,0
+Cass,13T,"President",,,"Under Votes",0,0,0,0
+Cass,13T,"U.S. Senate",,REP,"Ted Cruz",587,14,462,111
+Cass,13T,"U.S. Senate",,DEM,"Colin Allred",345,42,214,89
+Cass,13T,"U.S. Senate",,LIB,"Ted Brown",12,0,8,4
+Cass,13T,"U.S. Senate",,,"Over Votes",0,0,0,0
+Cass,13T,"U.S. Senate",,,"Under Votes",9,4,5,0
+Cass,13T,"U.S. House","1",REP,"Nathaniel Moran",654,23,496,135
+Cass,13T,"U.S. House","1",,"Over Votes",0,0,0,0
+Cass,13T,"U.S. House","1",,"Under Votes",299,37,193,69
+Cass,13T,"Railroad Commissioner",,REP,"Christi Craddick",572,15,452,105
+Cass,13T,"Railroad Commissioner",,DEM,"Katherine Culbert",331,40,203,88
+Cass,13T,"Railroad Commissioner",,LIB,"Hawk Dunlap",21,0,17,4
+Cass,13T,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Cass,13T,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Cass,13T,"Railroad Commissioner",,,"Under Votes",29,5,17,7
+Cass,13T,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",602,14,475,113
+Cass,13T,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",334,41,207,86
+Cass,13T,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Cass,13T,"Justice, Supreme Court, Place 2",,,"Under Votes",17,5,7,5
+Cass,13T,"Justice, Supreme Court, Place 4",,REP,"John Devine",597,16,471,110
+Cass,13T,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",326,37,201,88
+Cass,13T,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Cass,13T,"Justice, Supreme Court, Place 4",,,"Under Votes",30,7,17,6
+Cass,13T,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",596,16,471,109
+Cass,13T,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",316,39,194,83
+Cass,13T,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",23,0,15,8
+Cass,13T,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Cass,13T,"Justice, Supreme Court, Place 6",,,"Under Votes",18,5,9,4
+Cass,13T,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",591,15,468,108
+Cass,13T,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",337,40,208,89
+Cass,13T,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",1,0,0,1
+Cass,13T,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",24,5,13,6
+Cass,13T,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",604,16,475,113
+Cass,13T,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",332,39,207,86
+Cass,13T,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Cass,13T,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",17,5,7,5
+Cass,13T,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",603,15,475,113
+Cass,13T,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",328,40,203,85
+Cass,13T,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Cass,13T,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",22,5,11,6
+Cass,13T,"State Representative, District 1","1",REP,"Gary Vandeaver",700,27,524,149
+Cass,13T,"State Representative, District 1","1",,"Over Votes",0,0,0,0
+Cass,13T,"State Representative, District 1","1",,"Under Votes",253,33,165,55
+Cass,13T,"Justice, 6th Court of Appeals District, Place 2",,REP,"Jeff Rambin",706,22,533,151
+Cass,13T,"Justice, 6th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Cass,13T,"Justice, 6th Court of Appeals District, Place 2",,,"Under Votes",247,38,156,53
+Cass,13T,"District Judge, 5th Judicial District",,REP,"Bill Miller",699,23,527,149
+Cass,13T,"District Judge, 5th Judicial District",,,"Over Votes",0,0,0,0
+Cass,13T,"District Judge, 5th Judicial District",,,"Under Votes",254,37,162,55
+Cass,13T,"Sheriff",,REP,"Larry Rowe",728,30,547,151
+Cass,13T,"Sheriff",,,"Over Votes",0,0,0,0
+Cass,13T,"Sheriff",,,"Under Votes",225,30,142,53
+Cass,13T,"County Tax Assessor-Collector",,REP,"Angela Young",743,33,555,155
+Cass,13T,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Cass,13T,"County Tax Assessor-Collector",,,"Under Votes",210,27,134,49
+Cass,13T,"County Commissioner, Precinct 3",,REP,"Doug Lance",718,25,540,153
+Cass,13T,"County Commissioner, Precinct 3",,,"Over Votes",0,0,0,0
+Cass,13T,"County Commissioner, Precinct 3",,,"Under Votes",235,35,149,51
+Cass,13T,"Constable, Precinct 3",,REP,"Michael S. Henry",700,20,533,147
+Cass,13T,"Constable, Precinct 3",,,"Over Votes",0,0,0,0
+Cass,13T,"Constable, Precinct 3",,,"Under Votes",253,40,156,57
+Cass,14,Registered Voters,,,,2691,,,
+Cass,14,Ballots Cast,,,,1803,0,0,0
+Cass,14,"President",,REP,"Donald J. Trump",1539,49,1153,337
+Cass,14,"President",,DEM,"Kamala D. Harris",246,24,152,70
+Cass,14,"President",,LIB,"Chase Oliver",9,1,3,5
+Cass,14,"President",,GRN,"Jill Stein",1,0,1,0
+Cass,14,"President",,,"Over Votes",3,0,2,1
+Cass,14,"President",,,"Under Votes",4,0,3,1
+Cass,14,"U.S. Senate",,REP,"Ted Cruz",1526,47,1147,332
+Cass,14,"U.S. Senate",,DEM,"Colin Allred",244,25,155,64
+Cass,14,"U.S. Senate",,LIB,"Ted Brown",27,1,9,17
+Cass,14,"U.S. Senate",,,"Over Votes",3,1,2,0
+Cass,14,"U.S. Senate",,,"Under Votes",3,0,1,2
+Cass,14,"U.S. House","1",REP,"Nathaniel Moran",1517,57,1113,347
+Cass,14,"U.S. House","1",,"Over Votes",0,0,0,0
+Cass,14,"U.S. House","1",,"Under Votes",286,17,201,68
+Cass,14,"Railroad Commissioner",,REP,"Christi Craddick",1465,47,1103,315
+Cass,14,"Railroad Commissioner",,DEM,"Katherine Culbert",214,20,136,58
+Cass,14,"Railroad Commissioner",,LIB,"Hawk Dunlap",39,1,22,16
+Cass,14,"Railroad Commissioner",,GRN,"Eddie Espinoza",19,0,12,7
+Cass,14,"Railroad Commissioner",,REP,"Richard McKibbin (W)",1,0,0,1
+Cass,14,"Railroad Commissioner",,,"Over Votes",3,1,2,0
+Cass,14,"Railroad Commissioner",,,"Under Votes",62,5,39,18
+Cass,14,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1528,48,1144,336
+Cass,14,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",233,18,146,69
+Cass,14,"Justice, Supreme Court, Place 2",,,"Over Votes",1,1,0,0
+Cass,14,"Justice, Supreme Court, Place 2",,,"Under Votes",41,7,24,10
+Cass,14,"Justice, Supreme Court, Place 4",,REP,"John Devine",1513,47,1133,333
+Cass,14,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",235,19,146,70
+Cass,14,"Justice, Supreme Court, Place 4",,,"Over Votes",1,1,0,0
+Cass,14,"Justice, Supreme Court, Place 4",,,"Under Votes",54,7,35,12
+Cass,14,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",1492,46,1122,324
+Cass,14,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",227,21,141,65
+Cass,14,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",38,1,24,13
+Cass,14,"Justice, Supreme Court, Place 6",,,"Over Votes",1,1,0,0
+Cass,14,"Justice, Supreme Court, Place 6",,,"Under Votes",45,5,27,13
+Cass,14,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1517,48,1139,330
+Cass,14,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",239,19,151,69
+Cass,14,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",1,1,0,0
+Cass,14,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",46,6,24,16
+Cass,14,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1524,48,1147,329
+Cass,14,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",237,19,145,73
+Cass,14,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",2,1,1,0
+Cass,14,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",40,6,21,13
+Cass,14,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1535,49,1151,335
+Cass,14,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",225,19,140,66
+Cass,14,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Cass,14,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",43,6,23,14
+Cass,14,"State Representative, District 1","1",REP,"Gary Vandeaver",1592,59,1162,371
+Cass,14,"State Representative, District 1","1",,"Over Votes",0,0,0,0
+Cass,14,"State Representative, District 1","1",,"Under Votes",211,15,152,44
+Cass,14,"Justice, 6th Court of Appeals District, Place 2",,REP,"Jeff Rambin",1590,57,1165,368
+Cass,14,"Justice, 6th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Cass,14,"Justice, 6th Court of Appeals District, Place 2",,,"Under Votes",213,17,149,47
+Cass,14,"District Judge, 5th Judicial District",,REP,"Bill Miller",1593,58,1168,367
+Cass,14,"District Judge, 5th Judicial District",,,"Over Votes",0,0,0,0
+Cass,14,"District Judge, 5th Judicial District",,,"Under Votes",210,16,146,48
+Cass,14,"Sheriff",,REP,"Larry Rowe",1612,59,1178,375
+Cass,14,"Sheriff",,,"Over Votes",0,0,0,0
+Cass,14,"Sheriff",,,"Under Votes",191,15,136,40
+Cass,14,"County Tax Assessor-Collector",,REP,"Angela Young",1613,61,1181,371
+Cass,14,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Cass,14,"County Tax Assessor-Collector",,,"Under Votes",190,13,133,44
+Cass,14,"County Commissioner, Precinct 3",,REP,"Doug Lance",1614,60,1184,370
+Cass,14,"County Commissioner, Precinct 3",,,"Over Votes",0,0,0,0
+Cass,14,"County Commissioner, Precinct 3",,,"Under Votes",189,14,130,45
+Cass,14,"Constable, Precinct 3",,REP,"Michael S. Henry",1592,58,1169,365
+Cass,14,"Constable, Precinct 3",,,"Over Votes",0,0,0,0
+Cass,14,"Constable, Precinct 3",,,"Under Votes",211,16,145,50
+Cass,16,Registered Voters,,,,514,,,
+Cass,16,Ballots Cast,,,,369,0,0,0
+Cass,16,"President",,REP,"Donald J. Trump",345,5,200,140
+Cass,16,"President",,DEM,"Kamala D. Harris",23,4,15,4
+Cass,16,"President",,LIB,"Chase Oliver",0,0,0,0
+Cass,16,"President",,GRN,"Jill Stein",1,0,0,1
+Cass,16,"President",,,"Over Votes",0,0,0,0
+Cass,16,"President",,,"Under Votes",0,0,0,0
+Cass,16,"U.S. Senate",,REP,"Ted Cruz",336,5,196,135
+Cass,16,"U.S. Senate",,DEM,"Colin Allred",26,4,15,7
+Cass,16,"U.S. Senate",,LIB,"Ted Brown",7,0,4,3
+Cass,16,"U.S. Senate",,,"Over Votes",0,0,0,0
+Cass,16,"U.S. Senate",,,"Under Votes",0,0,0,0
+Cass,16,"U.S. House","1",REP,"Nathaniel Moran",327,6,191,130
+Cass,16,"U.S. House","1",,"Over Votes",0,0,0,0
+Cass,16,"U.S. House","1",,"Under Votes",42,3,24,15
+Cass,16,"Railroad Commissioner",,REP,"Christi Craddick",322,5,184,133
+Cass,16,"Railroad Commissioner",,DEM,"Katherine Culbert",21,4,13,4
+Cass,16,"Railroad Commissioner",,LIB,"Hawk Dunlap",13,0,9,4
+Cass,16,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,1,0
+Cass,16,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Cass,16,"Railroad Commissioner",,,"Under Votes",12,0,8,4
+Cass,16,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",339,5,195,139
+Cass,16,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",24,4,15,5
+Cass,16,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Cass,16,"Justice, Supreme Court, Place 2",,,"Under Votes",6,0,5,1
+Cass,16,"Justice, Supreme Court, Place 4",,REP,"John Devine",333,5,193,135
+Cass,16,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",24,4,14,6
+Cass,16,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Cass,16,"Justice, Supreme Court, Place 4",,,"Under Votes",12,0,8,4
+Cass,16,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",334,5,192,137
+Cass,16,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",23,4,14,5
+Cass,16,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",6,0,4,2
+Cass,16,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Cass,16,"Justice, Supreme Court, Place 6",,,"Under Votes",6,0,5,1
+Cass,16,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",338,5,194,139
+Cass,16,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",24,4,15,5
+Cass,16,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Cass,16,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",7,0,6,1
+Cass,16,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",335,5,195,135
+Cass,16,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",24,4,14,6
+Cass,16,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Cass,16,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",10,0,6,4
+Cass,16,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",337,5,194,138
+Cass,16,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",23,4,15,4
+Cass,16,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Cass,16,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",9,0,6,3
+Cass,16,"State Representative, District 1","1",REP,"Gary Vandeaver",331,7,189,135
+Cass,16,"State Representative, District 1","1",,"Over Votes",0,0,0,0
+Cass,16,"State Representative, District 1","1",,"Under Votes",38,2,26,10
+Cass,16,"Justice, 6th Court of Appeals District, Place 2",,REP,"Jeff Rambin",337,7,193,137
+Cass,16,"Justice, 6th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Cass,16,"Justice, 6th Court of Appeals District, Place 2",,,"Under Votes",32,2,22,8
+Cass,16,"District Judge, 5th Judicial District",,REP,"Bill Miller",339,7,195,137
+Cass,16,"District Judge, 5th Judicial District",,,"Over Votes",0,0,0,0
+Cass,16,"District Judge, 5th Judicial District",,,"Under Votes",30,2,20,8
+Cass,16,"Sheriff",,REP,"Larry Rowe",335,7,192,136
+Cass,16,"Sheriff",,,"Over Votes",0,0,0,0
+Cass,16,"Sheriff",,,"Under Votes",34,2,23,9
+Cass,16,"County Tax Assessor-Collector",,REP,"Angela Young",337,7,195,135
+Cass,16,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Cass,16,"County Tax Assessor-Collector",,,"Under Votes",32,2,20,10
+Cass,16,"Constable, Precinct 4",,REP,"Kevin McCasland",344,7,198,139
+Cass,16,"Constable, Precinct 4",,,"Over Votes",0,0,0,0
+Cass,16,"Constable, Precinct 4",,,"Under Votes",25,2,17,6
+Cass,17,Registered Voters,,,,3149,,,
+Cass,17,Ballots Cast,,,,2092,0,0,0
+Cass,17,"President",,REP,"Donald J. Trump",1766,65,1443,258
+Cass,17,"President",,DEM,"Kamala D. Harris",313,27,215,71
+Cass,17,"President",,LIB,"Chase Oliver",6,0,3,3
+Cass,17,"President",,GRN,"Jill Stein",1,1,0,0
+Cass,17,"President",,,"Over Votes",1,1,0,0
+Cass,17,"President",,,"Under Votes",5,0,4,1
+Cass,17,"U.S. Senate",,REP,"Ted Cruz",1731,65,1419,247
+Cass,17,"U.S. Senate",,DEM,"Colin Allred",330,27,225,78
+Cass,17,"U.S. Senate",,LIB,"Ted Brown",25,0,17,8
+Cass,17,"U.S. Senate",,,"Over Votes",0,0,0,0
+Cass,17,"U.S. Senate",,,"Under Votes",6,2,4,0
+Cass,17,"U.S. House","1",REP,"Nathaniel Moran",1739,70,1398,271
+Cass,17,"U.S. House","1",,"Over Votes",0,0,0,0
+Cass,17,"U.S. House","1",,"Under Votes",353,24,267,62
+Cass,17,"Railroad Commissioner",,REP,"Christi Craddick",1664,65,1365,234
+Cass,17,"Railroad Commissioner",,DEM,"Katherine Culbert",287,25,197,65
+Cass,17,"Railroad Commissioner",,LIB,"Hawk Dunlap",49,0,36,13
+Cass,17,"Railroad Commissioner",,GRN,"Eddie Espinoza",12,0,7,5
+Cass,17,"Railroad Commissioner",,,"Over Votes",2,2,0,0
+Cass,17,"Railroad Commissioner",,,"Under Votes",78,2,60,16
+Cass,17,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1752,64,1431,257
+Cass,17,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",300,28,202,70
+Cass,17,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Cass,17,"Justice, Supreme Court, Place 2",,,"Under Votes",40,2,32,6
+Cass,17,"Justice, Supreme Court, Place 4",,REP,"John Devine",1733,64,1413,256
+Cass,17,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",299,28,204,67
+Cass,17,"Justice, Supreme Court, Place 4",,,"Over Votes",1,1,0,0
+Cass,17,"Justice, Supreme Court, Place 4",,,"Under Votes",59,1,48,10
+Cass,17,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",1723,67,1407,249
+Cass,17,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",284,26,189,69
+Cass,17,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",41,0,33,8
+Cass,17,"Justice, Supreme Court, Place 6",,,"Over Votes",1,0,1,0
+Cass,17,"Justice, Supreme Court, Place 6",,,"Under Votes",43,1,35,7
+Cass,17,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1729,66,1411,252
+Cass,17,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",305,26,209,70
+Cass,17,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Cass,17,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",58,2,45,11
+Cass,17,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1742,64,1425,253
+Cass,17,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",302,28,204,70
+Cass,17,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Cass,17,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",48,2,36,10
+Cass,17,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1753,67,1431,255
+Cass,17,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",286,25,194,67
+Cass,17,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",1,0,1,0
+Cass,17,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",52,2,39,11
+Cass,17,"State Representative, District 1","1",REP,"Gary Vandeaver",1781,68,1440,273
+Cass,17,"State Representative, District 1","1",,"Over Votes",0,0,0,0
+Cass,17,"State Representative, District 1","1",,"Under Votes",311,26,225,60
+Cass,17,"Justice, 6th Court of Appeals District, Place 2",,REP,"Jeff Rambin",1791,71,1446,274
+Cass,17,"Justice, 6th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Cass,17,"Justice, 6th Court of Appeals District, Place 2",,,"Under Votes",301,23,219,59
+Cass,17,"District Judge, 5th Judicial District",,REP,"Bill Miller",1804,70,1457,277
+Cass,17,"District Judge, 5th Judicial District",,,"Over Votes",0,0,0,0
+Cass,17,"District Judge, 5th Judicial District",,,"Under Votes",288,24,208,56
+Cass,17,"Sheriff",,REP,"Larry Rowe",1813,74,1464,275
+Cass,17,"Sheriff",,,"Over Votes",0,0,0,0
+Cass,17,"Sheriff",,,"Under Votes",279,20,201,58
+Cass,17,"County Tax Assessor-Collector",,REP,"Angela Young",1812,76,1457,279
+Cass,17,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Cass,17,"County Tax Assessor-Collector",,,"Under Votes",280,18,208,54
+Cass,17,"Constable, Precinct 4",,REP,"Kevin McCasland",1815,77,1461,277
+Cass,17,"Constable, Precinct 4",,,"Over Votes",0,0,0,0
+Cass,17,"Constable, Precinct 4",,,"Under Votes",277,17,204,56
+Cass,18,Registered Voters,,,,610,,,
+Cass,18,Ballots Cast,,,,405,0,0,0
+Cass,18,"President",,REP,"Donald J. Trump",376,10,297,69
+Cass,18,"President",,DEM,"Kamala D. Harris",27,5,18,4
+Cass,18,"President",,LIB,"Chase Oliver",0,0,0,0
+Cass,18,"President",,GRN,"Jill Stein",0,0,0,0
+Cass,18,"President",,,"Over Votes",1,0,1,0
+Cass,18,"President",,,"Under Votes",1,0,1,0
+Cass,18,"U.S. Senate",,REP,"Ted Cruz",372,11,293,68
+Cass,18,"U.S. Senate",,DEM,"Colin Allred",26,3,19,4
+Cass,18,"U.S. Senate",,LIB,"Ted Brown",3,0,3,0
+Cass,18,"U.S. Senate",,,"Over Votes",0,0,0,0
+Cass,18,"U.S. Senate",,,"Under Votes",4,1,2,1
+Cass,18,"U.S. House","1",REP,"Nathaniel Moran",355,12,277,66
+Cass,18,"U.S. House","1",,"Over Votes",0,0,0,0
+Cass,18,"U.S. House","1",,"Under Votes",50,3,40,7
+Cass,18,"Railroad Commissioner",,REP,"Christi Craddick",347,11,275,61
+Cass,18,"Railroad Commissioner",,DEM,"Katherine Culbert",23,3,17,3
+Cass,18,"Railroad Commissioner",,LIB,"Hawk Dunlap",11,0,9,2
+Cass,18,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,2,0
+Cass,18,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Cass,18,"Railroad Commissioner",,,"Under Votes",22,1,14,7
+Cass,18,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",372,11,293,68
+Cass,18,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",22,3,17,2
+Cass,18,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Cass,18,"Justice, Supreme Court, Place 2",,,"Under Votes",11,1,7,3
+Cass,18,"Justice, Supreme Court, Place 4",,REP,"John Devine",364,11,289,64
+Cass,18,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",24,3,16,5
+Cass,18,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Cass,18,"Justice, Supreme Court, Place 4",,,"Under Votes",17,1,12,4
+Cass,18,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",364,11,288,65
+Cass,18,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",24,3,17,4
+Cass,18,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",5,0,4,1
+Cass,18,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Cass,18,"Justice, Supreme Court, Place 6",,,"Under Votes",12,1,8,3
+Cass,18,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",365,11,289,65
+Cass,18,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",26,3,18,5
+Cass,18,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Cass,18,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",14,1,10,3
+Cass,18,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",369,11,293,65
+Cass,18,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",26,3,18,5
+Cass,18,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Cass,18,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",10,1,6,3
+Cass,18,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",372,11,294,67
+Cass,18,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",22,3,16,3
+Cass,18,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Cass,18,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",11,1,7,3
+Cass,18,"State Representative, District 1","1",REP,"Gary Vandeaver",369,13,290,66
+Cass,18,"State Representative, District 1","1",,"Over Votes",0,0,0,0
+Cass,18,"State Representative, District 1","1",,"Under Votes",36,2,27,7
+Cass,18,"Justice, 6th Court of Appeals District, Place 2",,REP,"Jeff Rambin",371,13,292,66
+Cass,18,"Justice, 6th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Cass,18,"Justice, 6th Court of Appeals District, Place 2",,,"Under Votes",34,2,25,7
+Cass,18,"District Judge, 5th Judicial District",,REP,"Bill Miller",375,13,295,67
+Cass,18,"District Judge, 5th Judicial District",,,"Over Votes",0,0,0,0
+Cass,18,"District Judge, 5th Judicial District",,,"Under Votes",30,2,22,6
+Cass,18,"Sheriff",,REP,"Larry Rowe",376,12,296,68
+Cass,18,"Sheriff",,,"Over Votes",0,0,0,0
+Cass,18,"Sheriff",,,"Under Votes",29,3,21,5
+Cass,18,"County Tax Assessor-Collector",,REP,"Angela Young",380,14,298,68
+Cass,18,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Cass,18,"County Tax Assessor-Collector",,,"Under Votes",25,1,19,5
+Cass,18,"Constable, Precinct 4",,REP,"Kevin McCasland",368,13,290,65
+Cass,18,"Constable, Precinct 4",,,"Over Votes",0,0,0,0
+Cass,18,"Constable, Precinct 4",,,"Under Votes",37,2,27,8
+Cass,21,Registered Voters,,,,316,,,
+Cass,21,Ballots Cast,,,,233,0,0,0
+Cass,21,"President",,REP,"Donald J. Trump",204,2,137,65
+Cass,21,"President",,DEM,"Kamala D. Harris",25,4,16,5
+Cass,21,"President",,LIB,"Chase Oliver",1,0,1,0
+Cass,21,"President",,GRN,"Jill Stein",0,0,0,0
+Cass,21,"President",,,"Over Votes",0,0,0,0
+Cass,21,"President",,,"Under Votes",3,0,1,2
+Cass,21,"U.S. Senate",,REP,"Ted Cruz",204,2,136,66
+Cass,21,"U.S. Senate",,DEM,"Colin Allred",23,4,15,4
+Cass,21,"U.S. Senate",,LIB,"Ted Brown",1,0,1,0
+Cass,21,"U.S. Senate",,,"Over Votes",0,0,0,0
+Cass,21,"U.S. Senate",,,"Under Votes",5,0,3,2
+Cass,21,"U.S. House","1",REP,"Nathaniel Moran",203,3,138,62
+Cass,21,"U.S. House","1",,"Over Votes",0,0,0,0
+Cass,21,"U.S. House","1",,"Under Votes",30,3,17,10
+Cass,21,"Railroad Commissioner",,REP,"Christi Craddick",198,2,133,63
+Cass,21,"Railroad Commissioner",,DEM,"Katherine Culbert",22,4,13,5
+Cass,21,"Railroad Commissioner",,LIB,"Hawk Dunlap",3,0,1,2
+Cass,21,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,1,0
+Cass,21,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Cass,21,"Railroad Commissioner",,,"Under Votes",9,0,7,2
+Cass,21,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",206,2,139,65
+Cass,21,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",22,4,13,5
+Cass,21,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Cass,21,"Justice, Supreme Court, Place 2",,,"Under Votes",5,0,3,2
+Cass,21,"Justice, Supreme Court, Place 4",,REP,"John Devine",197,2,132,63
+Cass,21,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",25,4,16,5
+Cass,21,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Cass,21,"Justice, Supreme Court, Place 4",,,"Under Votes",11,0,7,4
+Cass,21,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",201,2,135,64
+Cass,21,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",22,4,13,5
+Cass,21,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",4,0,3,1
+Cass,21,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Cass,21,"Justice, Supreme Court, Place 6",,,"Under Votes",6,0,4,2
+Cass,21,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",203,2,136,65
+Cass,21,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",23,4,14,5
+Cass,21,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Cass,21,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",7,0,5,2
+Cass,21,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",205,2,138,65
+Cass,21,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",23,4,14,5
+Cass,21,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Cass,21,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",5,0,3,2
+Cass,21,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",203,2,136,65
+Cass,21,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",23,4,14,5
+Cass,21,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Cass,21,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",7,0,5,2
+Cass,21,"State Representative, District 1","1",REP,"Gary Vandeaver",214,3,143,68
+Cass,21,"State Representative, District 1","1",,"Over Votes",0,0,0,0
+Cass,21,"State Representative, District 1","1",,"Under Votes",19,3,12,4
+Cass,21,"Justice, 6th Court of Appeals District, Place 2",,REP,"Jeff Rambin",213,3,142,68
+Cass,21,"Justice, 6th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Cass,21,"Justice, 6th Court of Appeals District, Place 2",,,"Under Votes",20,3,13,4
+Cass,21,"District Judge, 5th Judicial District",,REP,"Bill Miller",215,3,143,69
+Cass,21,"District Judge, 5th Judicial District",,,"Over Votes",0,0,0,0
+Cass,21,"District Judge, 5th Judicial District",,,"Under Votes",18,3,12,3
+Cass,21,"Sheriff",,REP,"Larry Rowe",217,3,145,69
+Cass,21,"Sheriff",,,"Over Votes",0,0,0,0
+Cass,21,"Sheriff",,,"Under Votes",16,3,10,3
+Cass,21,"County Tax Assessor-Collector",,REP,"Angela Young",216,3,145,68
+Cass,21,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Cass,21,"County Tax Assessor-Collector",,,"Under Votes",17,3,10,4
+Cass,21,"Constable, Precinct 4",,REP,"Kevin McCasland",216,3,144,69
+Cass,21,"Constable, Precinct 4",,,"Over Votes",0,0,0,0
+Cass,21,"Constable, Precinct 4",,,"Under Votes",17,3,11,3
+Cass,20E,Registered Voters,,,,253,,,
+Cass,20E,Ballots Cast,,,,176,0,0,0
+Cass,20E,"President",,REP,"Donald J. Trump",156,1,123,32
+Cass,20E,"President",,DEM,"Kamala D. Harris",19,0,11,8
+Cass,20E,"President",,LIB,"Chase Oliver",0,0,0,0
+Cass,20E,"President",,GRN,"Jill Stein",0,0,0,0
+Cass,20E,"President",,,"Over Votes",1,0,1,0
+Cass,20E,"President",,,"Under Votes",0,0,0,0
+Cass,20E,"U.S. Senate",,REP,"Ted Cruz",150,1,120,29
+Cass,20E,"U.S. Senate",,DEM,"Colin Allred",22,0,13,9
+Cass,20E,"U.S. Senate",,LIB,"Ted Brown",2,0,1,1
+Cass,20E,"U.S. Senate",,,"Over Votes",0,0,0,0
+Cass,20E,"U.S. Senate",,,"Under Votes",2,0,1,1
+Cass,20E,"U.S. House","1",REP,"Nathaniel Moran",149,1,115,33
+Cass,20E,"U.S. House","1",,"Over Votes",0,0,0,0
+Cass,20E,"U.S. House","1",,"Under Votes",27,0,20,7
+Cass,20E,"Railroad Commissioner",,REP,"Christi Craddick",137,1,112,24
+Cass,20E,"Railroad Commissioner",,DEM,"Katherine Culbert",21,0,13,8
+Cass,20E,"Railroad Commissioner",,LIB,"Hawk Dunlap",7,0,3,4
+Cass,20E,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,0,1
+Cass,20E,"Railroad Commissioner",,,"Over Votes",1,0,1,0
+Cass,20E,"Railroad Commissioner",,,"Under Votes",9,0,6,3
+Cass,20E,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",152,1,120,31
+Cass,20E,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",22,0,14,8
+Cass,20E,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Cass,20E,"Justice, Supreme Court, Place 2",,,"Under Votes",2,0,1,1
+Cass,20E,"Justice, Supreme Court, Place 4",,REP,"John Devine",153,1,121,31
+Cass,20E,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",20,0,12,8
+Cass,20E,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Cass,20E,"Justice, Supreme Court, Place 4",,,"Under Votes",3,0,2,1
+Cass,20E,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",148,1,118,29
+Cass,20E,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",18,0,11,7
+Cass,20E,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",7,0,4,3
+Cass,20E,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Cass,20E,"Justice, Supreme Court, Place 6",,,"Under Votes",3,0,2,1
+Cass,20E,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",150,1,118,31
+Cass,20E,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",20,0,13,7
+Cass,20E,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Cass,20E,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",6,0,4,2
+Cass,20E,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",154,1,121,32
+Cass,20E,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",19,0,12,7
+Cass,20E,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Cass,20E,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",3,0,2,1
+Cass,20E,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",153,1,120,32
+Cass,20E,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",20,0,13,7
+Cass,20E,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Cass,20E,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",3,0,2,1
+Cass,20E,"State Representative, District 1","1",REP,"Gary Vandeaver",152,1,116,35
+Cass,20E,"State Representative, District 1","1",,"Over Votes",0,0,0,0
+Cass,20E,"State Representative, District 1","1",,"Under Votes",24,0,19,5
+Cass,20E,"Justice, 6th Court of Appeals District, Place 2",,REP,"Jeff Rambin",156,1,119,36
+Cass,20E,"Justice, 6th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Cass,20E,"Justice, 6th Court of Appeals District, Place 2",,,"Under Votes",20,0,16,4
+Cass,20E,"District Judge, 5th Judicial District",,REP,"Bill Miller",158,1,121,36
+Cass,20E,"District Judge, 5th Judicial District",,,"Over Votes",0,0,0,0
+Cass,20E,"District Judge, 5th Judicial District",,,"Under Votes",18,0,14,4
+Cass,20E,"Sheriff",,REP,"Larry Rowe",156,1,120,35
+Cass,20E,"Sheriff",,,"Over Votes",0,0,0,0
+Cass,20E,"Sheriff",,,"Under Votes",20,0,15,5
+Cass,20E,"County Tax Assessor-Collector",,REP,"Angela Young",155,1,119,35
+Cass,20E,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Cass,20E,"County Tax Assessor-Collector",,,"Under Votes",21,0,16,5
+Cass,20E,"Constable, Precinct 4",,REP,"Kevin McCasland",156,1,120,35
+Cass,20E,"Constable, Precinct 4",,,"Over Votes",0,0,0,0
+Cass,20E,"Constable, Precinct 4",,,"Under Votes",20,0,15,5
+Cass,19,Registered Voters,,,,611,,,
+Cass,19,Ballots Cast,,,,389,0,0,0
+Cass,19,"President",,REP,"Donald J. Trump",358,4,250,104
+Cass,19,"President",,DEM,"Kamala D. Harris",30,3,15,12
+Cass,19,"President",,LIB,"Chase Oliver",1,0,0,1
+Cass,19,"President",,GRN,"Jill Stein",0,0,0,0
+Cass,19,"President",,,"Over Votes",0,0,0,0
+Cass,19,"President",,,"Under Votes",0,0,0,0
+Cass,19,"U.S. Senate",,REP,"Ted Cruz",354,4,248,102
+Cass,19,"U.S. Senate",,DEM,"Colin Allred",32,3,17,12
+Cass,19,"U.S. Senate",,LIB,"Ted Brown",2,0,0,2
+Cass,19,"U.S. Senate",,,"Over Votes",0,0,0,0
+Cass,19,"U.S. Senate",,,"Under Votes",1,0,0,1
+Cass,19,"U.S. House","1",REP,"Nathaniel Moran",333,4,230,99
+Cass,19,"U.S. House","1",,"Over Votes",0,0,0,0
+Cass,19,"U.S. House","1",,"Under Votes",56,3,35,18
+Cass,19,"Railroad Commissioner",,REP,"Christi Craddick",336,4,237,95
+Cass,19,"Railroad Commissioner",,DEM,"Katherine Culbert",25,3,13,9
+Cass,19,"Railroad Commissioner",,LIB,"Hawk Dunlap",9,0,4,5
+Cass,19,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,1,1
+Cass,19,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Cass,19,"Railroad Commissioner",,,"Under Votes",17,0,10,7
+Cass,19,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",352,4,246,102
+Cass,19,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",28,3,14,11
+Cass,19,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Cass,19,"Justice, Supreme Court, Place 2",,,"Under Votes",9,0,5,4
+Cass,19,"Justice, Supreme Court, Place 4",,REP,"John Devine",347,4,243,100
+Cass,19,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",28,3,13,12
+Cass,19,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Cass,19,"Justice, Supreme Court, Place 4",,,"Under Votes",14,0,9,5
+Cass,19,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",347,4,244,99
+Cass,19,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",26,3,13,10
+Cass,19,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",5,0,2,3
+Cass,19,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Cass,19,"Justice, Supreme Court, Place 6",,,"Under Votes",11,0,6,5
+Cass,19,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",348,4,243,101
+Cass,19,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",29,3,16,10
+Cass,19,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Cass,19,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",12,0,6,6
+Cass,19,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",351,4,247,100
+Cass,19,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",28,3,13,12
+Cass,19,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Cass,19,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",10,0,5,5
+Cass,19,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",348,4,242,102
+Cass,19,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",28,3,15,10
+Cass,19,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Cass,19,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",13,0,8,5
+Cass,19,"State Representative, District 1","1",REP,"Gary Vandeaver",348,4,242,102
+Cass,19,"State Representative, District 1","1",,"Over Votes",0,0,0,0
+Cass,19,"State Representative, District 1","1",,"Under Votes",41,3,23,15
+Cass,19,"Justice, 6th Court of Appeals District, Place 2",,REP,"Jeff Rambin",348,4,241,103
+Cass,19,"Justice, 6th Court of Appeals District, Place 2",,,"Over Votes",0,0,0,0
+Cass,19,"Justice, 6th Court of Appeals District, Place 2",,,"Under Votes",41,3,24,14
+Cass,19,"District Judge, 5th Judicial District",,REP,"Bill Miller",349,4,242,103
+Cass,19,"District Judge, 5th Judicial District",,,"Over Votes",0,0,0,0
+Cass,19,"District Judge, 5th Judicial District",,,"Under Votes",40,3,23,14
+Cass,19,"Sheriff",,REP,"Larry Rowe",349,4,243,102
+Cass,19,"Sheriff",,,"Over Votes",0,0,0,0
+Cass,19,"Sheriff",,,"Under Votes",40,3,22,15
+Cass,19,"County Tax Assessor-Collector",,REP,"Angela Young",349,4,242,103
+Cass,19,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Cass,19,"County Tax Assessor-Collector",,,"Under Votes",40,3,23,14
+Cass,19,"Constable, Precinct 4",,REP,"Kevin McCasland",345,4,240,101
+Cass,19,"Constable, Precinct 4",,,"Over Votes",0,0,0,0
+Cass,19,"Constable, Precinct 4",,,"Under Votes",44,3,25,16
