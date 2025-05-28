@@ -1,0 +1,598 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Jack,1,Registered Voters,,,,1181,,,
+Jack,1,Ballots Cast,,,,781,,,
+Jack,1,President,,REP,Donald J. Trump JD Vance,695,50,538,107
+Jack,1,President,,DEM,Kamala D. Harris Tim Walz,84,7,59,18
+Jack,1,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+Jack,1,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Jack,1,President,,,Under Votes,1,0,1,0
+Jack,1,President,,,Over Votes,0,0,0,0
+Jack,1,U.S. Senate,,REP,Ted Cruz,668,43,523,102
+Jack,1,U.S. Senate,,DEM,Colin Allred,95,6,68,21
+Jack,1,U.S. Senate,,LIB,Ted Brown,6,0,3,3
+Jack,1,U.S. Senate,,,Under Votes,12,8,4,0
+Jack,1,U.S. Senate,,,Over Votes,0,0,0,0
+Jack,1,U.S. House,25,REP,Roger Williams,715,43,556,116
+Jack,1,U.S. House,25,(W),Chad Hagg,0,0,0,0
+Jack,1,U.S. House,25,,Under Votes,66,14,42,10
+Jack,1,U.S. House,25,,Over Votes,0,0,0,0
+Jack,1,Railroad Commissioner,,REP,Christi Craddick,646,41,506,99
+Jack,1,Railroad Commissioner,,DEM,Katherine Culbert,65,4,48,13
+Jack,1,Railroad Commissioner,,LIB,Hawk Dunlap,22,1,16,5
+Jack,1,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,3,1
+Jack,1,Railroad Commissioner,,,Under Votes,43,10,25,8
+Jack,1,Railroad Commissioner,,,Over Votes,1,1,0,0
+Jack,1,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,664,42,520,102
+Jack,1,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,78,5,54,19
+Jack,1,"Justice, Supreme Court, Place 2",2,,Under Votes,39,10,24,5
+Jack,1,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Jack,1,"Justice, Supreme Court, Place 4",4,REP,John Devine,670,43,523,104
+Jack,1,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,73,4,52,17
+Jack,1,"Justice, Supreme Court, Place 4",4,,Under Votes,38,10,23,5
+Jack,1,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Jack,1,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,659,42,518,99
+Jack,1,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,74,5,50,19
+Jack,1,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,11,0,7,4
+Jack,1,"Justice, Supreme Court, Place 6",6,,Under Votes,37,10,23,4
+Jack,1,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Jack,1,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,670,43,526,101
+Jack,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,76,4,52,20
+Jack,1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,35,10,20,5
+Jack,1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Jack,1,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,672,42,526,104
+Jack,1,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,75,5,53,17
+Jack,1,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,34,10,19,5
+Jack,1,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Jack,1,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,670,43,525,102
+Jack,1,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,74,4,51,19
+Jack,1,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,37,10,22,5
+Jack,1,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Jack,1,"Judge, Court of Criminal Appeals, Place 8",8,REP,Brent Hagenbuch,663,42,520,101
+Jack,1,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Dale Frey,76,4,52,20
+Jack,1,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,42,11,26,5
+Jack,1,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Jack,1,State Representative,68,REP,David Spiller,680,43,531,106
+Jack,1,State Representative,68,DEM,Stacey Swann,67,1,48,18
+Jack,1,State Representative,68,,Under Votes,34,13,19,2
+Jack,1,State Representative,68,,Over Votes,0,0,0,0
+Jack,1,State Representative,68,REP,Bonnie Sudderth,706,44,550,112
+Jack,1,State Representative,68,,Under Votes,75,13,48,14
+Jack,1,State Representative,68,,Over Votes,0,0,0,0
+Jack,1,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,696,44,543,109
+Jack,1,"Justice, 2nd Court of Appeals District, Place 4",4,,Under Votes,85,13,55,17
+Jack,1,"Justice, 2nd Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Jack,1,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,696,44,540,112
+Jack,1,"Justice, 2nd Court of Appeals District, Place 5",5,,Under Votes,85,13,58,14
+Jack,1,"Justice, 2nd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Jack,1,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,700,44,544,112
+Jack,1,"Justice, 2nd Court of Appeals District, Place 6",6,,Under Votes,81,13,54,14
+Jack,1,"Justice, 2nd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Jack,1,"District Attorney, 271st Judicial District",,REP,James M. Stainton,695,41,543,111
+Jack,1,"District Attorney, 271st Judicial District",,,Under Votes,86,16,55,15
+Jack,1,"District Attorney, 271st Judicial District",,,Over Votes,0,0,0,0
+Jack,1,County Attorney,,REP,Brad Dixon,705,42,548,115
+Jack,1,County Attorney,,,Under Votes,76,15,50,11
+Jack,1,County Attorney,,,Over Votes,0,0,0,0
+Jack,1,Sheriff,,REP,Charles Tbob Hauger Jr,695,43,537,115
+Jack,1,Sheriff,,,Under Votes,86,14,61,11
+Jack,1,Sheriff,,,Over Votes,0,0,0,0
+Jack,1,County Tax Assessor-Collector,,REP,Trasi Ogle,701,43,546,112
+Jack,1,County Tax Assessor-Collector,,,Under Votes,80,14,52,14
+Jack,1,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Jack,1,"County Commissioner, Precinct 1",,REP,Gary Oliver,704,43,547,114
+Jack,1,"County Commissioner, Precinct 1",,,Under Votes,77,14,51,12
+Jack,1,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Jack,1,County Constable,,REP,Clyde Watson,713,43,554,116
+Jack,1,County Constable,,,Under Votes,68,14,44,10
+Jack,1,County Constable,,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,Registered Voters,,,,83,,,
+Jack,1 - BOWIE,Ballots Cast,,,,61,,,
+Jack,1 - BOWIE,President,,REP,Donald J. Trump JD Vance,58,3,48,7
+Jack,1 - BOWIE,President,,DEM,Kamala D. Harris Tim Walz,3,0,2,1
+Jack,1 - BOWIE,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Jack,1 - BOWIE,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Jack,1 - BOWIE,President,,,Under Votes,0,0,0,0
+Jack,1 - BOWIE,President,,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,U.S. Senate,,REP,Ted Cruz,58,3,48,7
+Jack,1 - BOWIE,U.S. Senate,,DEM,Colin Allred,3,0,2,1
+Jack,1 - BOWIE,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Jack,1 - BOWIE,U.S. Senate,,,Under Votes,0,0,0,0
+Jack,1 - BOWIE,U.S. Senate,,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,U.S. House,25,REP,Roger Williams,58,3,48,7
+Jack,1 - BOWIE,U.S. House,25,(W),Chad Hagg,0,0,0,0
+Jack,1 - BOWIE,U.S. House,25,,Under Votes,3,0,2,1
+Jack,1 - BOWIE,U.S. House,25,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,Railroad Commissioner,,REP,Christi Craddick,54,3,45,6
+Jack,1 - BOWIE,Railroad Commissioner,,DEM,Katherine Culbert,3,0,2,1
+Jack,1 - BOWIE,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,2,1
+Jack,1 - BOWIE,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Jack,1 - BOWIE,Railroad Commissioner,,,Under Votes,1,0,1,0
+Jack,1 - BOWIE,Railroad Commissioner,,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,58,3,48,7
+Jack,1 - BOWIE,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,2,0,1,1
+Jack,1 - BOWIE,"Justice, Supreme Court, Place 2",2,,Under Votes,1,0,1,0
+Jack,1 - BOWIE,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,"Justice, Supreme Court, Place 4",4,REP,John Devine,58,3,48,7
+Jack,1 - BOWIE,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,2,0,1,1
+Jack,1 - BOWIE,"Justice, Supreme Court, Place 4",4,,Under Votes,1,0,1,0
+Jack,1 - BOWIE,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,56,3,46,7
+Jack,1 - BOWIE,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,3,0,2,1
+Jack,1 - BOWIE,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Jack,1 - BOWIE,"Justice, Supreme Court, Place 6",6,,Under Votes,2,0,2,0
+Jack,1 - BOWIE,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,57,3,47,7
+Jack,1 - BOWIE,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,3,0,2,1
+Jack,1 - BOWIE,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,0,1,0
+Jack,1 - BOWIE,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,57,3,47,7
+Jack,1 - BOWIE,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,3,0,2,1
+Jack,1 - BOWIE,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,1,0,1,0
+Jack,1 - BOWIE,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,57,3,47,7
+Jack,1 - BOWIE,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,3,0,2,1
+Jack,1 - BOWIE,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,1,0,1,0
+Jack,1 - BOWIE,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,"Judge, Court of Criminal Appeals, Place 8",8,REP,Brent Hagenbuch,57,3,47,7
+Jack,1 - BOWIE,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Dale Frey,3,0,2,1
+Jack,1 - BOWIE,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,1,0,1,0
+Jack,1 - BOWIE,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,State Representative,68,REP,David Spiller,58,3,47,8
+Jack,1 - BOWIE,State Representative,68,DEM,Stacey Swann,2,0,2,0
+Jack,1 - BOWIE,State Representative,68,,Under Votes,1,0,1,0
+Jack,1 - BOWIE,State Representative,68,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,State Representative,68,REP,Bonnie Sudderth,59,3,49,7
+Jack,1 - BOWIE,State Representative,68,,Under Votes,2,0,1,1
+Jack,1 - BOWIE,State Representative,68,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,59,3,49,7
+Jack,1 - BOWIE,"Justice, 2nd Court of Appeals District, Place 4",4,,Under Votes,2,0,1,1
+Jack,1 - BOWIE,"Justice, 2nd Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,59,3,49,7
+Jack,1 - BOWIE,"Justice, 2nd Court of Appeals District, Place 5",5,,Under Votes,2,0,1,1
+Jack,1 - BOWIE,"Justice, 2nd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,59,3,49,7
+Jack,1 - BOWIE,"Justice, 2nd Court of Appeals District, Place 6",6,,Under Votes,2,0,1,1
+Jack,1 - BOWIE,"Justice, 2nd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,"District Attorney, 271st Judicial District",,REP,James M. Stainton,59,3,49,7
+Jack,1 - BOWIE,"District Attorney, 271st Judicial District",,,Under Votes,2,0,1,1
+Jack,1 - BOWIE,"District Attorney, 271st Judicial District",,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,County Attorney,,REP,Brad Dixon,59,3,49,7
+Jack,1 - BOWIE,County Attorney,,,Under Votes,2,0,1,1
+Jack,1 - BOWIE,County Attorney,,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,Sheriff,,REP,Charles Tbob Hauger Jr,56,3,46,7
+Jack,1 - BOWIE,Sheriff,,,Under Votes,5,0,4,1
+Jack,1 - BOWIE,Sheriff,,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,County Tax Assessor-Collector,,REP,Trasi Ogle,59,3,49,7
+Jack,1 - BOWIE,County Tax Assessor-Collector,,,Under Votes,2,0,1,1
+Jack,1 - BOWIE,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,"County Commissioner, Precinct 1",,REP,Gary Oliver,57,2,48,7
+Jack,1 - BOWIE,"County Commissioner, Precinct 1",,,Under Votes,4,1,2,1
+Jack,1 - BOWIE,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,County Constable,,REP,Clyde Watson,59,3,49,7
+Jack,1 - BOWIE,County Constable,,,Under Votes,2,0,1,1
+Jack,1 - BOWIE,County Constable,,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,County Constable,,,Under Votes,12,1,11,0
+Jack,1 - BOWIE,County Constable,,,Over Votes,0,0,0,0
+Jack,1 - BOWIE,County Constable,,,Under Votes,12,1,11,0
+Jack,1 - BOWIE,County Constable,,,Over Votes,0,0,0,0
+Jack,2,Registered Voters,,,,1403,,,
+Jack,2,Ballots Cast,,,,1021,,,
+Jack,2,President,,REP,Donald J. Trump JD Vance,931,36,594,301
+Jack,2,President,,DEM,Kamala D. Harris Tim Walz,79,12,50,17
+Jack,2,President,,LIB,Chase Oliver Mike ter Maat,3,1,0,2
+Jack,2,President,,GRN,Jill Stein Rudolph Ware,4,0,1,3
+Jack,2,President,,,Under Votes,4,1,2,1
+Jack,2,President,,,Over Votes,0,0,0,0
+Jack,2,U.S. Senate,,REP,Ted Cruz,905,35,579,291
+Jack,2,U.S. Senate,,DEM,Colin Allred,93,14,54,25
+Jack,2,U.S. Senate,,LIB,Ted Brown,18,0,10,8
+Jack,2,U.S. Senate,,,Under Votes,5,1,4,0
+Jack,2,U.S. Senate,,,Over Votes,0,0,0,0
+Jack,2,U.S. House,25,REP,Roger Williams,952,34,606,312
+Jack,2,U.S. House,25,(W),Chad Hagg,3,2,1,0
+Jack,2,U.S. House,25,,Under Votes,66,14,40,12
+Jack,2,U.S. House,25,,Over Votes,0,0,0,0
+Jack,2,Railroad Commissioner,,REP,Christi Craddick,901,37,574,290
+Jack,2,Railroad Commissioner,,DEM,Katherine Culbert,70,10,46,14
+Jack,2,Railroad Commissioner,,LIB,Hawk Dunlap,25,2,15,8
+Jack,2,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,1,4
+Jack,2,Railroad Commissioner,,,Under Votes,20,1,11,8
+Jack,2,Railroad Commissioner,,,Over Votes,0,0,0,0
+Jack,2,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,938,40,593,305
+Jack,2,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,67,9,45,13
+Jack,2,"Justice, Supreme Court, Place 2",2,,Under Votes,16,1,9,6
+Jack,2,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Jack,2,"Justice, Supreme Court, Place 4",4,REP,John Devine,929,40,588,301
+Jack,2,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,75,9,49,17
+Jack,2,"Justice, Supreme Court, Place 4",4,,Under Votes,17,1,10,6
+Jack,2,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Jack,2,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,922,37,587,298
+Jack,2,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,67,11,45,11
+Jack,2,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,14,1,4,9
+Jack,2,"Justice, Supreme Court, Place 6",6,,Under Votes,18,1,11,6
+Jack,2,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Jack,2,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,934,40,589,305
+Jack,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,71,9,49,13
+Jack,2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,16,1,9,6
+Jack,2,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Jack,2,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,929,39,588,302
+Jack,2,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,72,10,47,15
+Jack,2,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,20,1,12,7
+Jack,2,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Jack,2,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,934,41,590,303
+Jack,2,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,65,8,43,14
+Jack,2,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,22,1,14,7
+Jack,2,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Jack,2,"Judge, Court of Criminal Appeals, Place 8",8,REP,Brent Hagenbuch,916,31,586,299
+Jack,2,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Dale Frey,81,11,53,17
+Jack,2,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,24,8,8,8
+Jack,2,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Jack,2,State Representative,68,REP,David Spiller,905,31,576,298
+Jack,2,State Representative,68,DEM,Stacey Swann,81,6,57,18
+Jack,2,State Representative,68,,Under Votes,35,13,14,8
+Jack,2,State Representative,68,,Over Votes,0,0,0,0
+Jack,2,State Representative,68,REP,Bonnie Sudderth,949,41,600,308
+Jack,2,State Representative,68,,Under Votes,72,9,47,16
+Jack,2,State Representative,68,,Over Votes,0,0,0,0
+Jack,2,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,950,40,602,308
+Jack,2,"Justice, 2nd Court of Appeals District, Place 4",4,,Under Votes,71,10,45,16
+Jack,2,"Justice, 2nd Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Jack,2,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,948,40,602,306
+Jack,2,"Justice, 2nd Court of Appeals District, Place 5",5,,Under Votes,73,10,45,18
+Jack,2,"Justice, 2nd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Jack,2,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,949,40,602,307
+Jack,2,"Justice, 2nd Court of Appeals District, Place 6",6,,Under Votes,72,10,45,17
+Jack,2,"Justice, 2nd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Jack,2,"District Attorney, 271st Judicial District",,REP,James M. Stainton,932,31,597,304
+Jack,2,"District Attorney, 271st Judicial District",,,Under Votes,89,19,50,20
+Jack,2,"District Attorney, 271st Judicial District",,,Over Votes,0,0,0,0
+Jack,2,County Attorney,,REP,Brad Dixon,939,30,601,308
+Jack,2,County Attorney,,,Under Votes,82,20,46,16
+Jack,2,County Attorney,,,Over Votes,0,0,0,0
+Jack,2,Sheriff,,REP,Charles Tbob Hauger Jr,930,33,594,303
+Jack,2,Sheriff,,,Under Votes,91,17,53,21
+Jack,2,Sheriff,,,Over Votes,0,0,0,0
+Jack,2,County Tax Assessor-Collector,,REP,Trasi Ogle,935,32,597,306
+Jack,2,County Tax Assessor-Collector,,,Under Votes,86,18,50,18
+Jack,2,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Jack,2,County Constable,,REP,Clyde Watson,942,33,603,306
+Jack,2,County Constable,,,Under Votes,79,17,44,18
+Jack,2,County Constable,,,Over Votes,0,0,0,0
+Jack,3,Registered Voters,,,,229,,,
+Jack,3,Ballots Cast,,,,154,,,
+Jack,3,President,,REP,Donald J. Trump JD Vance,130,2,114,14
+Jack,3,President,,DEM,Kamala D. Harris Tim Walz,23,4,17,2
+Jack,3,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+Jack,3,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Jack,3,President,,,Under Votes,0,0,0,0
+Jack,3,President,,,Over Votes,0,0,0,0
+Jack,3,U.S. Senate,,REP,Ted Cruz,123,2,106,15
+Jack,3,U.S. Senate,,DEM,Colin Allred,25,4,20,1
+Jack,3,U.S. Senate,,LIB,Ted Brown,5,0,5,0
+Jack,3,U.S. Senate,,,Under Votes,1,0,0,1
+Jack,3,U.S. Senate,,,Over Votes,0,0,0,0
+Jack,3,U.S. House,25,REP,Roger Williams,138,2,119,17
+Jack,3,U.S. House,25,(W),Chad Hagg,0,0,0,0
+Jack,3,U.S. House,25,,Under Votes,16,4,12,0
+Jack,3,U.S. House,25,,Over Votes,0,0,0,0
+Jack,3,Railroad Commissioner,,REP,Christi Craddick,127,2,112,13
+Jack,3,Railroad Commissioner,,DEM,Katherine Culbert,17,4,13,0
+Jack,3,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,2,1
+Jack,3,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,2,3
+Jack,3,Railroad Commissioner,,,Under Votes,2,0,2,0
+Jack,3,Railroad Commissioner,,,Over Votes,0,0,0,0
+Jack,3,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,131,2,114,15
+Jack,3,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,20,4,14,2
+Jack,3,"Justice, Supreme Court, Place 2",2,,Under Votes,3,0,3,0
+Jack,3,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Jack,3,"Justice, Supreme Court, Place 4",4,REP,John Devine,128,2,111,15
+Jack,3,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,22,4,16,2
+Jack,3,"Justice, Supreme Court, Place 4",4,,Under Votes,4,0,4,0
+Jack,3,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Jack,3,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,119,2,105,12
+Jack,3,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,21,4,15,2
+Jack,3,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,8,0,6,2
+Jack,3,"Justice, Supreme Court, Place 6",6,,Under Votes,6,0,5,1
+Jack,3,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Jack,3,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,128,2,111,15
+Jack,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,22,4,17,1
+Jack,3,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,4,0,3,1
+Jack,3,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Jack,3,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,130,2,112,16
+Jack,3,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,19,4,14,1
+Jack,3,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,5,0,5,0
+Jack,3,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Jack,3,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,129,2,112,15
+Jack,3,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,20,4,14,2
+Jack,3,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,5,0,5,0
+Jack,3,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Jack,3,"Judge, Court of Criminal Appeals, Place 8",8,REP,Brent Hagenbuch,130,1,113,16
+Jack,3,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Dale Frey,20,4,15,1
+Jack,3,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,4,1,3,0
+Jack,3,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Jack,3,State Representative,68,REP,David Spiller,135,3,115,17
+Jack,3,State Representative,68,DEM,Stacey Swann,16,2,14,0
+Jack,3,State Representative,68,,Under Votes,3,1,2,0
+Jack,3,State Representative,68,,Over Votes,0,0,0,0
+Jack,3,State Representative,68,REP,Bonnie Sudderth,134,1,116,17
+Jack,3,State Representative,68,,Under Votes,20,5,15,0
+Jack,3,State Representative,68,,Over Votes,0,0,0,0
+Jack,3,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,133,1,115,17
+Jack,3,"Justice, 2nd Court of Appeals District, Place 4",4,,Under Votes,21,5,16,0
+Jack,3,"Justice, 2nd Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Jack,3,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,133,1,115,17
+Jack,3,"Justice, 2nd Court of Appeals District, Place 5",5,,Under Votes,21,5,16,0
+Jack,3,"Justice, 2nd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Jack,3,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,133,1,115,17
+Jack,3,"Justice, 2nd Court of Appeals District, Place 6",6,,Under Votes,21,5,16,0
+Jack,3,"Justice, 2nd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Jack,3,"District Attorney, 271st Judicial District",,REP,James M. Stainton,132,1,114,17
+Jack,3,"District Attorney, 271st Judicial District",,,Under Votes,22,5,17,0
+Jack,3,"District Attorney, 271st Judicial District",,,Over Votes,0,0,0,0
+Jack,3,County Attorney,,REP,Brad Dixon,135,3,117,15
+Jack,3,County Attorney,,,Under Votes,19,3,14,2
+Jack,3,County Attorney,,,Over Votes,0,0,0,0
+Jack,3,Sheriff,,REP,Charles Tbob Hauger Jr,135,1,118,16
+Jack,3,Sheriff,,,Under Votes,19,5,13,1
+Jack,3,Sheriff,,,Over Votes,0,0,0,0
+Jack,3,County Tax Assessor-Collector,,REP,Trasi Ogle,135,1,118,16
+Jack,3,County Tax Assessor-Collector,,,Under Votes,19,5,13,1
+Jack,3,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Jack,3,County Constable,,REP,Clyde Watson,135,3,116,16
+Jack,3,County Constable,,,Under Votes,19,3,15,1
+Jack,3,County Constable,,,Over Votes,0,0,0,0
+Jack,4,Registered Voters,,,,882,,,
+Jack,4,Ballots Cast,,,,673,,,
+Jack,4,President,,REP,Donald J. Trump JD Vance,616,23,517,76
+Jack,4,President,,DEM,Kamala D. Harris Tim Walz,54,7,42,5
+Jack,4,President,,LIB,Chase Oliver Mike ter Maat,1,1,0,0
+Jack,4,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+Jack,4,President,,,Under Votes,1,0,1,0
+Jack,4,President,,,Over Votes,0,0,0,0
+Jack,4,U.S. Senate,,REP,Ted Cruz,594,23,500,71
+Jack,4,U.S. Senate,,DEM,Colin Allred,68,7,53,8
+Jack,4,U.S. Senate,,LIB,Ted Brown,7,1,5,1
+Jack,4,U.S. Senate,,,Under Votes,4,0,2,2
+Jack,4,U.S. Senate,,,Over Votes,0,0,0,0
+Jack,4,U.S. House,25,REP,Roger Williams,623,23,526,74
+Jack,4,U.S. House,25,(W),Chad Hagg,2,0,2,0
+Jack,4,U.S. House,25,,Under Votes,48,8,32,8
+Jack,4,U.S. House,25,,Over Votes,0,0,0,0
+Jack,4,Railroad Commissioner,,REP,Christi Craddick,586,23,493,70
+Jack,4,Railroad Commissioner,,DEM,Katherine Culbert,44,7,32,5
+Jack,4,Railroad Commissioner,,LIB,Hawk Dunlap,19,1,16,2
+Jack,4,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0
+Jack,4,Railroad Commissioner,,,Under Votes,22,0,17,5
+Jack,4,Railroad Commissioner,,,Over Votes,0,0,0,0
+Jack,4,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,604,23,512,69
+Jack,4,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,51,8,35,8
+Jack,4,"Justice, Supreme Court, Place 2",2,,Under Votes,18,0,13,5
+Jack,4,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Jack,4,"Justice, Supreme Court, Place 4",4,REP,John Devine,603,23,510,70
+Jack,4,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,51,8,36,7
+Jack,4,"Justice, Supreme Court, Place 4",4,,Under Votes,19,0,14,5
+Jack,4,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Jack,4,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,599,23,507,69
+Jack,4,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,48,7,34,7
+Jack,4,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,5,1,4,0
+Jack,4,"Justice, Supreme Court, Place 6",6,,Under Votes,21,0,15,6
+Jack,4,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Jack,4,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,600,23,509,68
+Jack,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,48,8,32,8
+Jack,4,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,25,0,19,6
+Jack,4,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Jack,4,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,601,23,507,71
+Jack,4,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,48,8,34,6
+Jack,4,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,24,0,19,5
+Jack,4,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Jack,4,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,603,23,509,71
+Jack,4,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,48,8,34,6
+Jack,4,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,22,0,17,5
+Jack,4,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Jack,4,"Judge, Court of Criminal Appeals, Place 8",8,REP,Brent Hagenbuch,601,22,511,68
+Jack,4,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Dale Frey,50,8,35,7
+Jack,4,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,22,1,14,7
+Jack,4,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Jack,4,State Representative,68,REP,David Spiller,616,21,520,75
+Jack,4,State Representative,68,DEM,Stacey Swann,52,9,39,4
+Jack,4,State Representative,68,,Under Votes,5,1,1,3
+Jack,4,State Representative,68,,Over Votes,0,0,0,0
+Jack,4,State Representative,68,REP,Bonnie Sudderth,618,24,522,72
+Jack,4,State Representative,68,,Under Votes,55,7,38,10
+Jack,4,State Representative,68,,Over Votes,0,0,0,0
+Jack,4,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,621,24,525,72
+Jack,4,"Justice, 2nd Court of Appeals District, Place 4",4,,Under Votes,52,7,35,10
+Jack,4,"Justice, 2nd Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Jack,4,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,615,24,519,72
+Jack,4,"Justice, 2nd Court of Appeals District, Place 5",5,,Under Votes,58,7,41,10
+Jack,4,"Justice, 2nd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Jack,4,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,614,24,518,72
+Jack,4,"Justice, 2nd Court of Appeals District, Place 6",6,,Under Votes,59,7,42,10
+Jack,4,"Justice, 2nd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Jack,4,"District Attorney, 271st Judicial District",,REP,James M. Stainton,615,24,519,72
+Jack,4,"District Attorney, 271st Judicial District",,,Under Votes,58,7,41,10
+Jack,4,"District Attorney, 271st Judicial District",,,Over Votes,0,0,0,0
+Jack,4,County Attorney,,REP,Brad Dixon,638,24,538,76
+Jack,4,County Attorney,,,Under Votes,35,7,22,6
+Jack,4,County Attorney,,,Over Votes,0,0,0,0
+Jack,4,Sheriff,,REP,Charles Tbob Hauger Jr,621,24,524,73
+Jack,4,Sheriff,,,Under Votes,52,7,36,9
+Jack,4,Sheriff,,,Over Votes,0,0,0,0
+Jack,4,County Tax Assessor-Collector,,REP,Trasi Ogle,625,24,526,75
+Jack,4,County Tax Assessor-Collector,,,Under Votes,48,7,34,7
+Jack,4,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Jack,4,"County Commissioner, Precinct 3",,REP,Henry D. Birdwell Jr,632,24,533,75
+Jack,4,"County Commissioner, Precinct 3",,,Under Votes,41,7,27,7
+Jack,4,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Jack,4,County Constable,,REP,Clyde Watson,632,24,533,75
+Jack,4,County Constable,,,Under Votes,41,7,27,7
+Jack,4,County Constable,,,Over Votes,0,0,0,0
+Jack,5,Registered Voters,,,,706,,,
+Jack,5,Ballots Cast,,,,536,,,
+Jack,5,President,,REP,Donald J. Trump JD Vance,500,18,278,204
+Jack,5,President,,DEM,Kamala D. Harris Tim Walz,31,5,21,5
+Jack,5,President,,LIB,Chase Oliver Mike ter Maat,4,0,0,4
+Jack,5,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Jack,5,President,,,Under Votes,1,0,0,1
+Jack,5,President,,,Over Votes,0,0,0,0
+Jack,5,U.S. Senate,,REP,Ted Cruz,484,18,268,198
+Jack,5,U.S. Senate,,DEM,Colin Allred,39,5,23,11
+Jack,5,U.S. Senate,,LIB,Ted Brown,10,0,6,4
+Jack,5,U.S. Senate,,,Under Votes,3,0,2,1
+Jack,5,U.S. Senate,,,Over Votes,0,0,0,0
+Jack,5,U.S. House,25,REP,Roger Williams,496,18,277,201
+Jack,5,U.S. House,25,(W),Chad Hagg,1,0,1,0
+Jack,5,U.S. House,25,,Under Votes,39,5,21,13
+Jack,5,U.S. House,25,,Over Votes,0,0,0,0
+Jack,5,Railroad Commissioner,,REP,Christi Craddick,463,18,263,182
+Jack,5,Railroad Commissioner,,DEM,Katherine Culbert,23,4,15,4
+Jack,5,Railroad Commissioner,,LIB,Hawk Dunlap,25,0,10,15
+Jack,5,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,2,3
+Jack,5,Railroad Commissioner,,,Under Votes,20,1,9,10
+Jack,5,Railroad Commissioner,,,Over Votes,0,0,0,0
+Jack,5,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,487,18,271,198
+Jack,5,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,31,5,19,7
+Jack,5,"Justice, Supreme Court, Place 2",2,,Under Votes,18,0,9,9
+Jack,5,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Jack,5,"Justice, Supreme Court, Place 4",4,REP,John Devine,488,18,270,200
+Jack,5,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,30,5,19,6
+Jack,5,"Justice, Supreme Court, Place 4",4,,Under Votes,18,0,10,8
+Jack,5,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Jack,5,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,476,18,266,192
+Jack,5,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,24,5,16,3
+Jack,5,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,19,0,8,11
+Jack,5,"Justice, Supreme Court, Place 6",6,,Under Votes,17,0,9,8
+Jack,5,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Jack,5,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,490,18,272,200
+Jack,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,29,5,18,6
+Jack,5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,17,0,9,8
+Jack,5,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Jack,5,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,487,18,270,199
+Jack,5,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,27,5,18,4
+Jack,5,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,22,0,11,11
+Jack,5,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Jack,5,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,486,19,270,197
+Jack,5,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,24,4,16,4
+Jack,5,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,26,0,13,13
+Jack,5,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Jack,5,"Judge, Court of Criminal Appeals, Place 8",8,REP,Brent Hagenbuch,486,17,272,197
+Jack,5,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Dale Frey,28,4,19,5
+Jack,5,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,22,2,8,12
+Jack,5,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Jack,5,State Representative,68,REP,David Spiller,482,18,264,200
+Jack,5,State Representative,68,DEM,Stacey Swann,36,3,23,10
+Jack,5,State Representative,68,,Under Votes,18,2,12,4
+Jack,5,State Representative,68,,Over Votes,0,0,0,0
+Jack,5,State Representative,68,REP,Bonnie Sudderth,491,19,272,200
+Jack,5,State Representative,68,,Under Votes,45,4,27,14
+Jack,5,State Representative,68,,Over Votes,0,0,0,0
+Jack,5,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,493,19,274,200
+Jack,5,"Justice, 2nd Court of Appeals District, Place 4",4,,Under Votes,43,4,25,14
+Jack,5,"Justice, 2nd Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Jack,5,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,493,19,274,200
+Jack,5,"Justice, 2nd Court of Appeals District, Place 5",5,,Under Votes,43,4,25,14
+Jack,5,"Justice, 2nd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Jack,5,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,491,19,273,199
+Jack,5,"Justice, 2nd Court of Appeals District, Place 6",6,,Under Votes,45,4,26,15
+Jack,5,"Justice, 2nd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Jack,5,"District Attorney, 271st Judicial District",,REP,James M. Stainton,488,19,273,196
+Jack,5,"District Attorney, 271st Judicial District",,,Under Votes,48,4,26,18
+Jack,5,"District Attorney, 271st Judicial District",,,Over Votes,0,0,0,0
+Jack,5,County Attorney,,REP,Brad Dixon,494,20,274,200
+Jack,5,County Attorney,,,Under Votes,42,3,25,14
+Jack,5,County Attorney,,,Over Votes,0,0,0,0
+Jack,5,Sheriff,,REP,Charles Tbob Hauger Jr,492,20,272,200
+Jack,5,Sheriff,,,Under Votes,44,3,27,14
+Jack,5,Sheriff,,,Over Votes,0,0,0,0
+Jack,5,County Tax Assessor-Collector,,REP,Trasi Ogle,496,19,277,200
+Jack,5,County Tax Assessor-Collector,,,Under Votes,40,4,22,14
+Jack,5,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Jack,5,"County Commissioner, Precinct 3",,REP,Henry D. Birdwell Jr,504,20,280,204
+Jack,5,"County Commissioner, Precinct 3",,,Under Votes,32,3,19,10
+Jack,5,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Jack,5,County Constable,,REP,Clyde Watson,496,19,276,201
+Jack,5,County Constable,,,Under Votes,40,4,23,13
+Jack,5,County Constable,,,Over Votes,0,0,0,0
+Jack,6,Registered Voters,,,,1377,,,
+Jack,6,Ballots Cast,,,,985,,,
+Jack,6,President,,REP,Donald J. Trump JD Vance,889,36,743,110
+Jack,6,President,,DEM,Kamala D. Harris Tim Walz,89,10,67,12
+Jack,6,President,,LIB,Chase Oliver Mike ter Maat,2,0,2,0
+Jack,6,President,,GRN,Jill Stein Rudolph Ware,2,0,2,0
+Jack,6,President,,,Under Votes,3,0,3,0
+Jack,6,President,,,Over Votes,0,0,0,0
+Jack,6,U.S. Senate,,REP,Ted Cruz,857,35,723,99
+Jack,6,U.S. Senate,,DEM,Colin Allred,104,10,78,16
+Jack,6,U.S. Senate,,LIB,Ted Brown,19,1,13,5
+Jack,6,U.S. Senate,,,Under Votes,5,0,3,2
+Jack,6,U.S. Senate,,,Over Votes,0,0,0,0
+Jack,6,U.S. House,25,REP,Roger Williams,901,28,760,113
+Jack,6,U.S. House,25,(W),Chad Hagg,1,0,1,0
+Jack,6,U.S. House,25,,Under Votes,83,18,56,9
+Jack,6,U.S. House,25,,Over Votes,0,0,0,0
+Jack,6,Railroad Commissioner,,REP,Christi Craddick,846,32,716,98
+Jack,6,Railroad Commissioner,,DEM,Katherine Culbert,82,11,59,12
+Jack,6,Railroad Commissioner,,LIB,Hawk Dunlap,24,1,20,3
+Jack,6,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,8,3
+Jack,6,Railroad Commissioner,,,Under Votes,22,2,14,6
+Jack,6,Railroad Commissioner,,,Over Votes,0,0,0,0
+Jack,6,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,884,34,745,105
+Jack,6,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,78,7,58,13
+Jack,6,"Justice, Supreme Court, Place 2",2,,Under Votes,23,5,14,4
+Jack,6,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Jack,6,"Justice, Supreme Court, Place 4",4,REP,John Devine,876,34,737,105
+Jack,6,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,79,7,59,13
+Jack,6,"Justice, Supreme Court, Place 4",4,,Under Votes,30,5,21,4
+Jack,6,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Jack,6,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,871,34,733,104
+Jack,6,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,69,7,53,9
+Jack,6,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,21,2,15,4
+Jack,6,"Justice, Supreme Court, Place 6",6,,Under Votes,24,3,16,5
+Jack,6,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Jack,6,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,878,34,739,105
+Jack,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,86,9,63,14
+Jack,6,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,21,3,15,3
+Jack,6,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Jack,6,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,882,34,739,109
+Jack,6,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,79,7,62,10
+Jack,6,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,24,5,16,3
+Jack,6,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Jack,6,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,882,34,740,108
+Jack,6,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,78,7,60,11
+Jack,6,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,25,5,17,3
+Jack,6,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Jack,6,"Judge, Court of Criminal Appeals, Place 8",8,REP,Brent Hagenbuch,866,25,738,103
+Jack,6,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Dale Frey,85,8,64,13
+Jack,6,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,34,13,15,6
+Jack,6,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Jack,6,State Representative,68,REP,David Spiller,868,31,730,107
+Jack,6,State Representative,68,DEM,Stacey Swann,92,7,73,12
+Jack,6,State Representative,68,,Under Votes,25,8,14,3
+Jack,6,State Representative,68,,Over Votes,0,0,0,0
+Jack,6,State Representative,68,REP,Bonnie Sudderth,897,31,754,112
+Jack,6,State Representative,68,,Under Votes,88,15,63,10
+Jack,6,State Representative,68,,Over Votes,0,0,0,0
+Jack,6,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,894,31,750,113
+Jack,6,"Justice, 2nd Court of Appeals District, Place 4",4,,Under Votes,91,15,67,9
+Jack,6,"Justice, 2nd Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Jack,6,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,889,30,748,111
+Jack,6,"Justice, 2nd Court of Appeals District, Place 5",5,,Under Votes,96,16,69,11
+Jack,6,"Justice, 2nd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Jack,6,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,890,33,746,111
+Jack,6,"Justice, 2nd Court of Appeals District, Place 6",6,,Under Votes,95,13,71,11
+Jack,6,"Justice, 2nd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Jack,6,"District Attorney, 271st Judicial District",,REP,James M. Stainton,886,28,748,110
+Jack,6,"District Attorney, 271st Judicial District",,,Under Votes,99,18,69,12
+Jack,6,"District Attorney, 271st Judicial District",,,Over Votes,0,0,0,0
+Jack,6,County Attorney,,REP,Brad Dixon,895,31,754,110
+Jack,6,County Attorney,,,Under Votes,90,15,63,12
+Jack,6,County Attorney,,,Over Votes,0,0,0,0
+Jack,6,Sheriff,,REP,Charles Tbob Hauger Jr,879,30,741,108
+Jack,6,Sheriff,,,Under Votes,106,16,76,14
+Jack,6,Sheriff,,,Over Votes,0,0,0,0
+Jack,6,County Tax Assessor-Collector,,REP,Trasi Ogle,900,30,759,111
+Jack,6,County Tax Assessor-Collector,,,Under Votes,85,16,58,11
+Jack,6,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Jack,6,County Constable,,REP,Clyde Watson,908,32,762,114
+Jack,6,County Constable,,,Under Votes,77,14,55,8
+Jack,6,County Constable,,,Over Votes,0,0,0,0

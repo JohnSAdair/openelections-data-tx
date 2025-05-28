@@ -1,0 +1,517 @@
+county,precinct,office,district,party,candidate,votes,absentee,early,election,limited,provisional
+Hood,101,Ballots Cast,,,,1567,,,,,
+Hood,103,Ballots Cast,,,,2460,,,,,
+Hood,105,Ballots Cast,,,,2098,,,,,
+Hood,107,Ballots Cast,,,,770,,,,,
+Hood,112,Ballots Cast,,,,1389,,,,,
+Hood,202,Ballots Cast,,,,2859,,,,,
+Hood,211,Ballots Cast,,,,2220,,,,,
+Hood,216,Ballots Cast,,,,2772,,,,,
+Hood,218,Ballots Cast,,,,2388,,,,,
+Hood,310,Ballots Cast,,,,2164,,,,,
+Hood,313,Ballots Cast,,,,2747,,,,,
+Hood,314,Ballots Cast,,,,3085,,,,,
+Hood,317,Ballots Cast,,,,2160,,,,,
+Hood,404,Ballots Cast,,,,1464,,,,,
+Hood,408,Ballots Cast,,,,2461,,,,,
+Hood,409,Ballots Cast,,,,3799,,,,,
+Hood,415,Ballots Cast,,,,342,,,,,
+Hood,Federal Only,Ballots Cast,,,,26,,,,,
+Hood,101,Chief Justice,,REP,Bonnie Sudderth,1287,77,1042,165,3,0
+Hood,103,Chief Justice,,REP,Bonnie Sudderth,2093,60,1688,339,6,0
+Hood,105,Chief Justice,,REP,Bonnie Sudderth,1868,28,1194,643,3,0
+Hood,107,Chief Justice,,REP,Bonnie Sudderth,692,12,305,374,1,0
+Hood,112,Chief Justice,,REP,Bonnie Sudderth,1180,24,912,240,4,0
+Hood,202,Chief Justice,,REP,Bonnie Sudderth,2422,84,1912,420,5,1
+Hood,211,Chief Justice,,REP,Bonnie Sudderth,1909,46,1480,373,10,0
+Hood,216,Chief Justice,,REP,Bonnie Sudderth,2359,102,1921,335,1,0
+Hood,218,Chief Justice,,REP,Bonnie Sudderth,2051,90,1659,300,2,0
+Hood,310,Chief Justice,,REP,Bonnie Sudderth,1802,57,1576,166,3,0
+Hood,313,Chief Justice,,REP,Bonnie Sudderth,2361,109,2008,243,1,0
+Hood,314,Chief Justice,,REP,Bonnie Sudderth,2600,46,2130,414,9,1
+Hood,317,Chief Justice,,REP,Bonnie Sudderth,1877,42,1600,227,8,0
+Hood,404,Chief Justice,,REP,Bonnie Sudderth,1233,32,951,248,2,0
+Hood,408,Chief Justice,,REP,Bonnie Sudderth,2083,54,1707,314,6,2
+Hood,409,Chief Justice,,REP,Bonnie Sudderth,3298,75,2702,511,9,1
+Hood,415,Chief Justice,,REP,Bonnie Sudderth,296,15,197,83,1,0
+Hood,101,District Attorney,,REP,Ryan Sinclair,1260,78,1015,166,1,0
+Hood,103,District Attorney,,REP,Ryan Sinclair,2057,59,1661,336,1,0
+Hood,105,District Attorney,,REP,Ryan Sinclair,1850,28,1186,634,2,0
+Hood,107,District Attorney,,REP,Ryan Sinclair,686,12,306,368,0,0
+Hood,112,District Attorney,,REP,Ryan Sinclair,1156,23,892,240,1,0
+Hood,202,District Attorney,,REP,Ryan Sinclair,2370,82,1883,403,1,1
+Hood,211,District Attorney,,REP,Ryan Sinclair,1877,44,1463,368,2,0
+Hood,216,District Attorney,,REP,Ryan Sinclair,2319,100,1892,327,0,0
+Hood,218,District Attorney,,REP,Ryan Sinclair,2018,92,1632,293,1,0
+Hood,310,District Attorney,,REP,Ryan Sinclair,1763,58,1545,160,0,0
+Hood,313,District Attorney,,REP,Ryan Sinclair,2329,109,1979,241,0,0
+Hood,314,District Attorney,,REP,Ryan Sinclair,2535,46,2075,411,2,1
+Hood,317,District Attorney,,REP,Ryan Sinclair,1843,41,1579,221,2,0
+Hood,404,District Attorney,,REP,Ryan Sinclair,1212,32,937,243,0,0
+Hood,408,District Attorney,,REP,Ryan Sinclair,2042,54,1681,303,2,2
+Hood,409,District Attorney,,REP,Ryan Sinclair,3238,72,2670,494,1,1
+Hood,415,District Attorney,,REP,Ryan Sinclair,288,15,191,82,0,0
+Hood,101,Judge,7,REP,Gina Parker,1229,75,994,151,9,0
+Hood,103,Judge,7,REP,Gina Parker,1998,53,1622,308,15,0
+Hood,105,Judge,7,REP,Gina Parker,1816,28,1151,619,18,0
+Hood,107,Judge,7,REP,Gina Parker,674,9,300,362,3,0
+Hood,112,Judge,7,REP,Gina Parker,1107,19,863,217,8,0
+Hood,202,Judge,7,REP,Gina Parker,2250,70,1776,389,14,1
+Hood,211,Judge,7,REP,Gina Parker,1796,40,1393,347,16,0
+Hood,216,Judge,7,REP,Gina Parker,2255,89,1851,311,4,0
+Hood,218,Judge,7,REP,Gina Parker,1962,86,1592,275,9,0
+Hood,310,Judge,7,REP,Gina Parker,1714,56,1504,150,4,0
+Hood,313,Judge,7,REP,Gina Parker,2268,107,1928,226,7,0
+Hood,314,Judge,7,REP,Gina Parker,2448,46,2017,371,13,1
+Hood,317,Judge,7,REP,Gina Parker,1807,40,1541,212,14,0
+Hood,404,Judge,7,REP,Gina Parker,1138,31,878,220,9,0
+Hood,408,Judge,7,REP,Gina Parker,2007,53,1653,287,12,2
+Hood,409,Judge,7,REP,Gina Parker,3141,72,2583,468,17,1
+Hood,415,Judge,7,REP,Gina Parker,265,9,182,72,2,0
+Hood,101,Judge,7,DEM,Nancy Mulder,256,28,187,41,0,0
+Hood,103,Judge,7,DEM,Nancy Mulder,369,42,254,72,1,0
+Hood,105,Judge,7,DEM,Nancy Mulder,214,16,129,67,2,0
+Hood,107,Judge,7,DEM,Nancy Mulder,66,3,29,34,0,0
+Hood,112,Judge,7,DEM,Nancy Mulder,234,20,170,44,0,0
+Hood,202,Judge,7,DEM,Nancy Mulder,472,46,352,72,2,0
+Hood,211,Judge,7,DEM,Nancy Mulder,327,9,265,53,0,0
+Hood,216,Judge,7,DEM,Nancy Mulder,410,62,296,52,0,0
+Hood,218,Judge,7,DEM,Nancy Mulder,345,37,249,57,2,0
+Hood,310,Judge,7,DEM,Nancy Mulder,345,22,282,41,0,0
+Hood,313,Judge,7,DEM,Nancy Mulder,367,43,271,52,1,0
+Hood,314,Judge,7,DEM,Nancy Mulder,478,20,358,98,1,1
+Hood,317,Judge,7,DEM,Nancy Mulder,254,16,210,27,1,0
+Hood,404,Judge,7,DEM,Nancy Mulder,267,19,183,65,0,0
+Hood,408,Judge,7,DEM,Nancy Mulder,370,33,272,65,0,0
+Hood,409,Judge,7,DEM,Nancy Mulder,504,30,381,92,1,0
+Hood,415,Judge,7,DEM,Nancy Mulder,62,9,28,25,0,0
+Hood,101,Judge,8,DEM,Chika Anyiam,239,25,177,37,0,0
+Hood,103,Judge,8,DEM,Chika Anyiam,363,39,250,73,1,0
+Hood,105,Judge,8,DEM,Chika Anyiam,204,14,123,65,2,0
+Hood,107,Judge,8,DEM,Chika Anyiam,64,3,26,35,0,0
+Hood,112,Judge,8,DEM,Chika Anyiam,225,19,169,37,0,0
+Hood,202,Judge,8,DEM,Chika Anyiam,454,46,336,70,2,0
+Hood,211,Judge,8,DEM,Chika Anyiam,314,9,252,53,0,0
+Hood,216,Judge,8,DEM,Chika Anyiam,390,64,276,50,0,0
+Hood,218,Judge,8,DEM,Chika Anyiam,319,37,231,49,2,0
+Hood,310,Judge,8,DEM,Chika Anyiam,327,21,267,39,0,0
+Hood,313,Judge,8,DEM,Chika Anyiam,336,40,251,44,1,0
+Hood,314,Judge,8,DEM,Chika Anyiam,457,20,343,92,1,1
+Hood,317,Judge,8,DEM,Chika Anyiam,243,13,202,28,0,0
+Hood,404,Judge,8,DEM,Chika Anyiam,252,19,172,61,0,0
+Hood,408,Judge,8,DEM,Chika Anyiam,351,34,257,60,0,0
+Hood,409,Judge,8,DEM,Chika Anyiam,480,29,368,82,1,0
+Hood,415,Judge,8,DEM,Chika Anyiam,56,9,25,22,0,0
+Hood,101,Judge,8,REP,Lee Finley,1246,77,1004,156,9,0
+Hood,103,Judge,8,REP,Lee Finley,2008,56,1632,305,15,0
+Hood,105,Judge,8,REP,Lee Finley,1823,30,1157,618,18,0
+Hood,107,Judge,8,REP,Lee Finley,677,9,303,362,3,0
+Hood,112,Judge,8,REP,Lee Finley,1110,20,859,223,8,0
+Hood,202,Judge,8,REP,Lee Finley,2261,70,1788,389,13,1
+Hood,211,Judge,8,REP,Lee Finley,1803,40,1400,347,16,0
+Hood,216,Judge,8,REP,Lee Finley,2263,86,1864,309,4,0
+Hood,218,Judge,8,REP,Lee Finley,1982,85,1605,283,9,0
+Hood,310,Judge,8,REP,Lee Finley,1729,58,1514,153,4,0
+Hood,313,Judge,8,REP,Lee Finley,2292,109,1943,233,7,0
+Hood,314,Judge,8,REP,Lee Finley,2456,45,2020,377,13,1
+Hood,317,Judge,8,REP,Lee Finley,1811,42,1545,209,15,0
+Hood,404,Judge,8,REP,Lee Finley,1154,31,887,227,9,0
+Hood,408,Judge,8,REP,Lee Finley,2011,51,1658,289,11,2
+Hood,409,Judge,8,REP,Lee Finley,3156,73,2591,474,17,1
+Hood,415,Judge,8,REP,Lee Finley,270,10,184,74,2,0
+Hood,101,Justice,2,DEM,Dasean Jones,263,29,194,40,0,0
+Hood,103,Justice,2,DEM,Dasean Jones,377,39,260,77,1,0
+Hood,105,Justice,2,DEM,Dasean Jones,217,16,128,71,2,0
+Hood,107,Justice,2,DEM,Dasean Jones,67,3,30,34,0,0
+Hood,112,Justice,2,DEM,Dasean Jones,241,20,178,43,0,0
+Hood,202,Justice,2,DEM,Dasean Jones,481,43,355,81,2,0
+Hood,211,Justice,2,DEM,Dasean Jones,331,10,264,57,0,0
+Hood,216,Justice,2,DEM,Dasean Jones,412,62,293,57,0,0
+Hood,218,Justice,2,DEM,Dasean Jones,340,36,248,54,2,0
+Hood,310,Justice,2,DEM,Dasean Jones,352,22,285,45,0,0
+Hood,313,Justice,2,DEM,Dasean Jones,379,43,284,51,1,0
+Hood,314,Justice,2,DEM,Dasean Jones,479,22,350,105,1,1
+Hood,317,Justice,2,DEM,Dasean Jones,252,16,208,27,1,0
+Hood,404,Justice,2,DEM,Dasean Jones,272,20,190,62,0,0
+Hood,408,Justice,2,DEM,Dasean Jones,373,34,276,63,0,0
+Hood,409,Justice,2,DEM,Dasean Jones,499,28,382,88,1,0
+Hood,415,Justice,2,DEM,Dasean Jones,60,9,26,25,0,0
+Hood,101,Justice,2,REP,Jimmy Blacklock,1229,75,993,152,9,0
+Hood,103,Justice,2,REP,Jimmy Blacklock,2001,56,1628,302,15,0
+Hood,105,Justice,2,REP,Jimmy Blacklock,1831,28,1163,622,18,0
+Hood,107,Justice,2,REP,Jimmy Blacklock,679,9,301,366,3,0
+Hood,112,Justice,2,REP,Jimmy Blacklock,1103,19,856,219,9,0
+Hood,202,Justice,2,REP,Jimmy Blacklock,2261,72,1793,381,14,1
+Hood,211,Justice,2,REP,Jimmy Blacklock,1802,40,1401,345,16,0
+Hood,216,Justice,2,REP,Jimmy Blacklock,2265,89,1862,310,4,0
+Hood,218,Justice,2,REP,Jimmy Blacklock,1981,88,1601,283,9,0
+Hood,310,Justice,2,REP,Jimmy Blacklock,1719,57,1507,151,4,0
+Hood,313,Justice,2,REP,Jimmy Blacklock,2267,107,1928,225,7,0
+Hood,314,Justice,2,REP,Jimmy Blacklock,2459,44,2032,368,14,1
+Hood,317,Justice,2,REP,Jimmy Blacklock,1818,41,1551,212,14,0
+Hood,404,Justice,2,REP,Jimmy Blacklock,1143,31,877,226,9,0
+Hood,408,Justice,2,REP,Jimmy Blacklock,2012,52,1655,291,12,2
+Hood,409,Justice,2,REP,Jimmy Blacklock,3169,77,2598,476,17,1
+Hood,415,Justice,2,REP,Jimmy Blacklock,268,10,185,71,2,0
+Hood,101,Justice,4,DEM,Christine Vinh Weems,266,30,195,41,0,0
+Hood,103,Justice,4,DEM,Christine Vinh Weems,379,38,264,76,1,0
+Hood,105,Justice,4,DEM,Christine Vinh Weems,217,15,127,73,2,0
+Hood,107,Justice,4,DEM,Christine Vinh Weems,73,2,31,40,0,0
+Hood,112,Justice,4,DEM,Christine Vinh Weems,241,20,177,44,0,0
+Hood,202,Justice,4,DEM,Christine Vinh Weems,489,45,358,84,2,0
+Hood,211,Justice,4,DEM,Christine Vinh Weems,344,10,276,58,0,0
+Hood,216,Justice,4,DEM,Christine Vinh Weems,425,66,299,60,0,0
+Hood,218,Justice,4,DEM,Christine Vinh Weems,357,39,256,60,2,0
+Hood,310,Justice,4,DEM,Christine Vinh Weems,361,23,297,41,0,0
+Hood,313,Justice,4,DEM,Christine Vinh Weems,385,44,287,53,1,0
+Hood,314,Justice,4,DEM,Christine Vinh Weems,491,21,363,105,1,1
+Hood,317,Justice,4,DEM,Christine Vinh Weems,267,17,221,28,1,0
+Hood,404,Justice,4,DEM,Christine Vinh Weems,277,20,194,63,0,0
+Hood,408,Justice,4,DEM,Christine Vinh Weems,385,36,281,68,0,0
+Hood,409,Justice,4,DEM,Christine Vinh Weems,517,28,397,91,1,0
+Hood,415,Justice,4,DEM,Christine Vinh Weems,66,9,30,27,0,0
+Hood,101,Justice,4,REP,John Devine,1224,72,989,154,9,0
+Hood,103,Justice,4,REP,John Devine,1990,56,1619,301,14,0
+Hood,105,Justice,4,REP,John Devine,1821,28,1159,616,18,0
+Hood,107,Justice,4,REP,John Devine,668,9,296,360,3,0
+Hood,112,Justice,4,REP,John Devine,1107,19,859,220,9,0
+Hood,202,Justice,4,REP,John Devine,2249,71,1785,378,14,1
+Hood,211,Justice,4,REP,John Devine,1784,37,1388,343,16,0
+Hood,216,Justice,4,REP,John Devine,2242,86,1847,305,4,0
+Hood,218,Justice,4,REP,John Devine,1963,85,1592,277,9,0
+Hood,310,Justice,4,REP,John Devine,1706,55,1496,151,4,0
+Hood,313,Justice,4,REP,John Devine,2255,106,1921,221,7,0
+Hood,314,Justice,4,REP,John Devine,2443,45,2017,366,14,1
+Hood,317,Justice,4,REP,John Devine,1799,40,1535,209,15,0
+Hood,404,Justice,4,REP,John Devine,1139,30,874,226,9,0
+Hood,408,Justice,4,REP,John Devine,1986,49,1637,286,12,2
+Hood,409,Justice,4,REP,John Devine,3147,75,2580,474,17,1
+Hood,415,Justice,4,REP,John Devine,265,10,183,70,2,0
+Hood,101,Justice,4,REP,Wade Birdwell,1286,76,1043,164,3,0
+Hood,103,Justice,4,REP,Wade Birdwell,2082,59,1684,333,6,0
+Hood,105,Justice,4,REP,Wade Birdwell,1869,28,1198,640,3,0
+Hood,107,Justice,4,REP,Wade Birdwell,692,12,304,375,1,0
+Hood,112,Justice,4,REP,Wade Birdwell,1179,25,908,243,3,0
+Hood,202,Justice,4,REP,Wade Birdwell,2414,86,1901,421,5,1
+Hood,211,Justice,4,REP,Wade Birdwell,1904,45,1475,374,10,0
+Hood,216,Justice,4,REP,Wade Birdwell,2350,100,1915,334,1,0
+Hood,218,Justice,4,REP,Wade Birdwell,2046,92,1657,296,1,0
+Hood,310,Justice,4,REP,Wade Birdwell,1798,61,1570,164,3,0
+Hood,313,Justice,4,REP,Wade Birdwell,2365,109,2015,241,0,0
+Hood,314,Justice,4,REP,Wade Birdwell,2596,47,2121,418,9,1
+Hood,317,Justice,4,REP,Wade Birdwell,1877,42,1599,226,10,0
+Hood,404,Justice,4,REP,Wade Birdwell,1227,32,945,248,2,0
+Hood,408,Justice,4,REP,Wade Birdwell,2082,52,1709,313,6,2
+Hood,409,Justice,4,REP,Wade Birdwell,3294,74,2705,505,9,1
+Hood,415,Justice,4,REP,Wade Birdwell,294,16,194,83,1,0
+Hood,101,Justice,5,REP,Dabney Bassel,1274,77,1031,163,3,0
+Hood,103,Justice,5,REP,Dabney Bassel,2077,59,1676,337,5,0
+Hood,105,Justice,5,REP,Dabney Bassel,1857,28,1187,639,3,0
+Hood,107,Justice,5,REP,Dabney Bassel,685,12,301,371,1,0
+Hood,112,Justice,5,REP,Dabney Bassel,1173,24,906,240,3,0
+Hood,202,Justice,5,REP,Dabney Bassel,2394,85,1889,415,4,1
+Hood,211,Justice,5,REP,Dabney Bassel,1896,44,1473,369,10,0
+Hood,216,Justice,5,REP,Dabney Bassel,2329,101,1902,325,1,0
+Hood,218,Justice,5,REP,Dabney Bassel,2025,91,1639,294,1,0
+Hood,310,Justice,5,REP,Dabney Bassel,1775,58,1551,163,3,0
+Hood,313,Justice,5,REP,Dabney Bassel,2340,106,1993,241,0,0
+Hood,314,Justice,5,REP,Dabney Bassel,2573,46,2102,415,9,1
+Hood,317,Justice,5,REP,Dabney Bassel,1865,42,1588,225,10,0
+Hood,404,Justice,5,REP,Dabney Bassel,1216,32,936,246,2,0
+Hood,408,Justice,5,REP,Dabney Bassel,2058,54,1688,308,6,2
+Hood,409,Justice,5,REP,Dabney Bassel,3264,72,2679,502,10,1
+Hood,415,Justice,5,REP,Dabney Bassel,288,15,190,82,1,0
+Hood,101,Justice,6,DEM,Bonnie Lee Goldstein,256,28,188,40,0,0
+Hood,103,Justice,6,DEM,Bonnie Lee Goldstein,360,40,247,72,1,0
+Hood,105,Justice,6,DEM,Bonnie Lee Goldstein,197,16,120,59,2,0
+Hood,107,Justice,6,DEM,Bonnie Lee Goldstein,69,3,29,37,0,0
+Hood,112,Justice,6,DEM,Bonnie Lee Goldstein,222,20,162,40,0,0
+Hood,202,Justice,6,DEM,Bonnie Lee Goldstein,448,47,331,68,2,0
+Hood,211,Justice,6,DEM,Bonnie Lee Goldstein,317,8,256,53,0,0
+Hood,216,Justice,6,DEM,Bonnie Lee Goldstein,398,62,286,50,0,0
+Hood,218,Justice,6,DEM,Bonnie Lee Goldstein,343,37,250,53,3,0
+Hood,310,Justice,6,DEM,Bonnie Lee Goldstein,329,22,269,38,0,0
+Hood,313,Justice,6,DEM,Bonnie Lee Goldstein,356,43,263,49,1,0
+Hood,314,Justice,6,DEM,Bonnie Lee Goldstein,448,20,331,95,1,1
+Hood,317,Justice,6,DEM,Bonnie Lee Goldstein,240,16,196,28,0,0
+Hood,404,Justice,6,DEM,Bonnie Lee Goldstein,253,18,174,61,0,0
+Hood,408,Justice,6,DEM,Bonnie Lee Goldstein,355,34,261,60,0,0
+Hood,409,Justice,6,DEM,Bonnie Lee Goldstein,479,29,370,79,1,0
+Hood,415,Justice,6,DEM,Bonnie Lee Goldstein,61,9,27,25,0,0
+Hood,101,Justice,6,REP,Jane Bland,1203,71,976,147,9,0
+Hood,103,Justice,6,REP,Jane Bland,1949,54,1589,292,14,0
+Hood,105,Justice,6,REP,Jane Bland,1788,28,1136,606,18,0
+Hood,107,Justice,6,REP,Jane Bland,659,8,294,354,3,0
+Hood,112,Justice,6,REP,Jane Bland,1080,19,844,208,9,0
+Hood,202,Justice,6,REP,Jane Bland,2179,65,1738,361,14,1
+Hood,211,Justice,6,REP,Jane Bland,1742,40,1361,325,16,0
+Hood,216,Justice,6,REP,Jane Bland,2226,90,1834,298,4,0
+Hood,218,Justice,6,REP,Jane Bland,1937,87,1569,273,8,0
+Hood,310,Justice,6,REP,Jane Bland,1690,56,1487,143,4,0
+Hood,313,Justice,6,REP,Jane Bland,2248,106,1915,220,7,0
+Hood,314,Justice,6,REP,Jane Bland,2397,45,1986,351,14,1
+Hood,317,Justice,6,REP,Jane Bland,1774,40,1517,202,15,0
+Hood,404,Justice,6,REP,Jane Bland,1116,32,865,210,9,0
+Hood,408,Justice,6,REP,Jane Bland,1958,51,1628,265,12,2
+Hood,409,Justice,6,REP,Jane Bland,3070,73,2532,447,17,1
+Hood,415,Justice,6,REP,Jane Bland,257,10,177,69,1,0
+Hood,101,Justice,6,REP,Mike Wallach,1268,76,1027,162,3,0
+Hood,103,Justice,6,REP,Mike Wallach,2064,59,1663,337,5,0
+Hood,105,Justice,6,REP,Mike Wallach,1856,28,1187,637,4,0
+Hood,107,Justice,6,REP,Mike Wallach,685,12,304,368,1,0
+Hood,112,Justice,6,REP,Mike Wallach,1174,24,905,242,3,0
+Hood,202,Justice,6,REP,Mike Wallach,2386,84,1885,412,4,1
+Hood,211,Justice,6,REP,Mike Wallach,1898,44,1473,371,10,0
+Hood,216,Justice,6,REP,Mike Wallach,2330,101,1901,327,1,0
+Hood,218,Justice,6,REP,Mike Wallach,2022,90,1638,293,1,0
+Hood,310,Justice,6,REP,Mike Wallach,1774,58,1552,161,3,0
+Hood,313,Justice,6,REP,Mike Wallach,2327,107,1980,240,0,0
+Hood,314,Justice,6,REP,Mike Wallach,2565,46,2095,414,9,1
+Hood,317,Justice,6,REP,Mike Wallach,1860,42,1588,222,8,0
+Hood,404,Justice,6,REP,Mike Wallach,1211,30,933,246,2,0
+Hood,408,Justice,6,REP,Mike Wallach,2065,55,1691,311,6,2
+Hood,409,Justice,6,REP,Mike Wallach,3269,72,2687,500,9,1
+Hood,415,Justice,6,REP,Mike Wallach,286,15,191,79,1,0
+Hood,101,Member,11,REP,Brandon Hall,1200,75,978,143,4,0
+Hood,103,Member,11,REP,Brandon Hall,1953,53,1602,291,7,0
+Hood,105,Member,11,REP,Brandon Hall,1764,28,1139,590,7,0
+Hood,107,Member,11,REP,Brandon Hall,659,8,290,359,2,0
+Hood,112,Member,11,REP,Brandon Hall,1080,18,848,211,3,0
+Hood,202,Member,11,REP,Brandon Hall,2194,70,1740,376,7,1
+Hood,211,Member,11,REP,Brandon Hall,1742,40,1359,330,13,0
+Hood,216,Member,11,REP,Brandon Hall,2224,84,1836,303,1,0
+Hood,218,Member,11,REP,Brandon Hall,1932,84,1576,269,3,0
+Hood,310,Member,11,REP,Brandon Hall,1677,56,1470,147,4,0
+Hood,313,Member,11,REP,Brandon Hall,2231,103,1900,224,4,0
+Hood,314,Member,11,REP,Brandon Hall,2417,46,2008,355,7,1
+Hood,317,Member,11,REP,Brandon Hall,1765,40,1506,208,11,0
+Hood,404,Member,11,REP,Brandon Hall,1116,31,862,219,4,0
+Hood,408,Member,11,REP,Brandon Hall,1943,50,1616,271,4,2
+Hood,409,Member,11,REP,Brandon Hall,3085,73,2547,452,12,1
+Hood,415,Member,11,REP,Brandon Hall,264,10,183,70,1,0
+Hood,101,Member,11,DEM,Rayna Glasser,252,24,190,38,0,0
+Hood,103,Member,11,DEM,Rayna Glasser,363,37,255,70,1,0
+Hood,105,Member,11,DEM,Rayna Glasser,218,15,130,72,1,0
+Hood,107,Member,11,DEM,Rayna Glasser,72,3,33,36,0,0
+Hood,112,Member,11,DEM,Rayna Glasser,222,21,166,35,0,0
+Hood,202,Member,11,DEM,Rayna Glasser,463,45,349,68,1,0
+Hood,211,Member,11,DEM,Rayna Glasser,327,7,265,55,0,0
+Hood,216,Member,11,DEM,Rayna Glasser,419,65,304,50,0,0
+Hood,218,Member,11,DEM,Rayna Glasser,352,39,257,54,2,0
+Hood,310,Member,11,DEM,Rayna Glasser,359,24,298,37,0,0
+Hood,313,Member,11,DEM,Rayna Glasser,374,45,280,48,1,0
+Hood,314,Member,11,DEM,Rayna Glasser,453,20,332,99,1,1
+Hood,317,Member,11,DEM,Rayna Glasser,257,15,218,24,0,0
+Hood,404,Member,11,DEM,Rayna Glasser,259,18,183,57,1,0
+Hood,408,Member,11,DEM,Rayna Glasser,370,34,273,63,0,0
+Hood,409,Member,11,DEM,Rayna Glasser,495,28,383,84,0,0
+Hood,415,Member,11,DEM,Rayna Glasser,60,9,24,27,0,0
+Hood,101,President,,REP,Donald J. Trump,1242,77,1000,157,8,0
+Hood,103,President,,REP,Donald J. Trump,2017,52,1645,302,18,0
+Hood,105,President,,REP,Donald J. Trump,1842,28,1177,619,18,0
+Hood,107,President,,REP,Donald J. Trump,691,9,308,371,3,0
+Hood,112,President,,REP,Donald J. Trump,1137,19,871,239,8,0
+Hood,202,President,,REP,Donald J. Trump,2307,67,1819,402,18,1
+Hood,211,President,,REP,Donald J. Trump,1820,40,1405,358,17,0
+Hood,216,President,,REP,Donald J. Trump,2254,86,1859,305,4,0
+Hood,218,President,,REP,Donald J. Trump,1953,79,1588,279,7,0
+Hood,310,President,,REP,Donald J. Trump,1711,61,1490,156,4,0
+Hood,313,President,,REP,Donald J. Trump,2261,105,1924,225,7,0
+Hood,314,President,,REP,Donald J. Trump,2502,47,2054,385,15,1
+Hood,317,President,,REP,Donald J. Trump,1842,38,1570,218,16,0
+Hood,404,President,,REP,Donald J. Trump,1156,29,887,231,9,0
+Hood,408,President,,REP,Donald J. Trump,2005,48,1653,290,12,2
+Hood,409,President,,REP,Donald J. Trump,3156,73,2595,470,17,1
+Hood,415,President,,REP,Donald J. Trump,271,10,186,73,2,0
+Hood,Federal Only,President,,REP,Donald J. Trump,7,7,0,0,0,0
+Hood,101,President,,DEM,Kamala D. Harris,309,34,227,46,2,0
+Hood,103,President,,DEM,Kamala D. Harris,411,46,285,78,2,0
+Hood,105,President,,DEM,Kamala D. Harris,235,16,141,76,2,0
+Hood,107,President,,DEM,Kamala D. Harris,72,3,31,38,0,0
+Hood,112,President,,DEM,Kamala D. Harris,241,23,185,32,1,0
+Hood,202,President,,DEM,Kamala D. Harris,510,53,377,78,2,0
+Hood,211,President,,DEM,Kamala D. Harris,369,11,293,65,0,0
+Hood,216,President,,DEM,Kamala D. Harris,479,65,347,67,0,0
+Hood,218,President,,DEM,Kamala D. Harris,399,46,284,65,3,1
+Hood,310,President,,DEM,Kamala D. Harris,414,26,343,45,0,0
+Hood,313,President,,DEM,Kamala D. Harris,444,50,328,65,1,0
+Hood,314,President,,DEM,Kamala D. Harris,537,26,395,114,1,1
+Hood,317,President,,DEM,Kamala D. Harris,288,17,244,26,1,0
+Hood,404,President,,DEM,Kamala D. Harris,288,21,205,62,0,0
+Hood,408,President,,DEM,Kamala D. Harris,414,35,309,70,0,0
+Hood,409,President,,DEM,Kamala D. Harris,572,36,434,100,2,0
+Hood,415,President,,DEM,Kamala D. Harris,69,9,33,27,0,0
+Hood,Federal Only,President,,DEM,Kamala D. Harris,19,19,0,0,0,0
+Hood,101,Presiding Judge,,REP,David J. Schenck,1224,74,990,151,9,0
+Hood,103,Presiding Judge,,REP,David J. Schenck,1997,55,1626,301,15,0
+Hood,105,Presiding Judge,,REP,David J. Schenck,1815,29,1154,615,17,0
+Hood,107,Presiding Judge,,REP,David J. Schenck,676,9,300,364,3,0
+Hood,112,Presiding Judge,,REP,David J. Schenck,1107,19,862,217,9,0
+Hood,202,Presiding Judge,,REP,David J. Schenck,2248,71,1782,381,13,1
+Hood,211,Presiding Judge,,REP,David J. Schenck,1791,39,1390,346,16,0
+Hood,216,Presiding Judge,,REP,David J. Schenck,2259,91,1852,312,4,0
+Hood,218,Presiding Judge,,REP,David J. Schenck,1954,86,1586,273,9,0
+Hood,310,Presiding Judge,,REP,David J. Schenck,1708,56,1499,149,4,0
+Hood,313,Presiding Judge,,REP,David J. Schenck,2261,107,1921,226,7,0
+Hood,314,Presiding Judge,,REP,David J. Schenck,2430,44,2014,358,13,1
+Hood,317,Presiding Judge,,REP,David J. Schenck,1802,40,1536,212,14,0
+Hood,404,Presiding Judge,,REP,David J. Schenck,1145,30,885,222,8,0
+Hood,408,Presiding Judge,,REP,David J. Schenck,1995,51,1643,287,12,2
+Hood,409,Presiding Judge,,REP,David J. Schenck,3146,73,2587,468,17,1
+Hood,415,Presiding Judge,,REP,David J. Schenck,270,10,185,73,2,0
+Hood,101,Presiding Judge,,DEM,Holly Taylor,266,29,195,42,0,0
+Hood,103,Presiding Judge,,DEM,Holly Taylor,378,41,258,78,1,0
+Hood,105,Presiding Judge,,DEM,Holly Taylor,218,15,129,71,3,0
+Hood,107,Presiding Judge,,DEM,Holly Taylor,70,3,32,35,0,0
+Hood,112,Presiding Judge,,DEM,Holly Taylor,240,20,175,45,0,0
+Hood,202,Presiding Judge,,DEM,Holly Taylor,478,45,350,81,2,0
+Hood,211,Presiding Judge,,DEM,Holly Taylor,334,10,268,56,0,0
+Hood,216,Presiding Judge,,DEM,Holly Taylor,406,60,294,52,0,0
+Hood,218,Presiding Judge,,DEM,Holly Taylor,348,37,248,61,2,0
+Hood,310,Presiding Judge,,DEM,Holly Taylor,353,22,288,43,0,0
+Hood,313,Presiding Judge,,DEM,Holly Taylor,379,43,283,52,1,0
+Hood,314,Presiding Judge,,DEM,Holly Taylor,505,22,371,110,1,1
+Hood,317,Presiding Judge,,DEM,Holly Taylor,262,16,216,28,2,0
+Hood,404,Presiding Judge,,DEM,Holly Taylor,273,20,187,65,1,0
+Hood,408,Presiding Judge,,DEM,Holly Taylor,390,34,289,67,0,0
+Hood,409,Presiding Judge,,DEM,Holly Taylor,516,29,395,91,1,0
+Hood,415,Presiding Judge,,DEM,Holly Taylor,61,9,28,24,0,0
+Hood,101,Railroad Commissioner,,REP,Christi Craddick,1191,76,960,146,9,0
+Hood,103,Railroad Commissioner,,REP,Christi Craddick,1945,53,1589,288,15,0
+Hood,105,Railroad Commissioner,,REP,Christi Craddick,1769,26,1133,593,17,0
+Hood,107,Railroad Commissioner,,REP,Christi Craddick,656,8,293,353,2,0
+Hood,112,Railroad Commissioner,,REP,Christi Craddick,1072,19,836,208,9,0
+Hood,202,Railroad Commissioner,,REP,Christi Craddick,2157,67,1715,360,14,1
+Hood,211,Railroad Commissioner,,REP,Christi Craddick,1731,41,1348,327,15,0
+Hood,216,Railroad Commissioner,,REP,Christi Craddick,2230,89,1834,303,4,0
+Hood,218,Railroad Commissioner,,REP,Christi Craddick,1933,85,1577,262,9,0
+Hood,310,Railroad Commissioner,,REP,Christi Craddick,1661,61,1461,135,4,0
+Hood,313,Railroad Commissioner,,REP,Christi Craddick,2232,106,1904,215,7,0
+Hood,314,Railroad Commissioner,,REP,Christi Craddick,2398,47,1973,363,14,1
+Hood,317,Railroad Commissioner,,REP,Christi Craddick,1774,40,1520,201,13,0
+Hood,404,Railroad Commissioner,,REP,Christi Craddick,1111,30,867,205,9,0
+Hood,408,Railroad Commissioner,,REP,Christi Craddick,1950,51,1613,272,12,2
+Hood,409,Railroad Commissioner,,REP,Christi Craddick,3038,75,2504,441,17,1
+Hood,415,Railroad Commissioner,,REP,Christi Craddick,260,10,179,69,2,0
+Hood,101,Railroad Commissioner,,DEM,Katherine Culbert,242,25,179,38,0,0
+Hood,103,Railroad Commissioner,,DEM,Katherine Culbert,345,40,239,65,1,0
+Hood,105,Railroad Commissioner,,DEM,Katherine Culbert,200,16,115,67,2,0
+Hood,107,Railroad Commissioner,,DEM,Katherine Culbert,59,3,24,32,0,0
+Hood,112,Railroad Commissioner,,DEM,Katherine Culbert,200,20,147,33,0,0
+Hood,202,Railroad Commissioner,,DEM,Katherine Culbert,413,41,314,56,2,0
+Hood,211,Railroad Commissioner,,DEM,Katherine Culbert,295,10,243,41,1,0
+Hood,216,Railroad Commissioner,,DEM,Katherine Culbert,369,60,267,42,0,0
+Hood,218,Railroad Commissioner,,DEM,Katherine Culbert,315,36,225,52,2,0
+Hood,310,Railroad Commissioner,,DEM,Katherine Culbert,307,22,249,36,0,0
+Hood,313,Railroad Commissioner,,DEM,Katherine Culbert,339,41,249,48,1,0
+Hood,314,Railroad Commissioner,,DEM,Katherine Culbert,418,20,314,82,1,1
+Hood,317,Railroad Commissioner,,DEM,Katherine Culbert,228,15,188,23,2,0
+Hood,404,Railroad Commissioner,,DEM,Katherine Culbert,247,19,167,61,0,0
+Hood,408,Railroad Commissioner,,DEM,Katherine Culbert,327,32,243,52,0,0
+Hood,409,Railroad Commissioner,,DEM,Katherine Culbert,450,28,345,76,1,0
+Hood,415,Railroad Commissioner,,DEM,Katherine Culbert,57,9,23,25,0,0
+Hood,101,Registered Voters,,,,2243,,,,,
+Hood,103,Registered Voters,,,,3592,,,,,
+Hood,105,Registered Voters,,,,2900,,,,,
+Hood,107,Registered Voters,,,,1088,,,,,
+Hood,112,Registered Voters,,,,2292,,,,,
+Hood,202,Registered Voters,,,,4345,,,,,
+Hood,211,Registered Voters,,,,3219,,,,,
+Hood,216,Registered Voters,,,,3440,,,,,
+Hood,218,Registered Voters,,,,2910,,,,,
+Hood,310,Registered Voters,,,,2746,,,,,
+Hood,313,Registered Voters,,,,3609,,,,,
+Hood,314,Registered Voters,,,,4491,,,,,
+Hood,317,Registered Voters,,,,2876,,,,,
+Hood,404,Registered Voters,,,,2478,,,,,
+Hood,408,Registered Voters,,,,3378,,,,,
+Hood,409,Registered Voters,,,,5397,,,,,
+Hood,415,Registered Voters,,,,693,,,,,
+Hood,101,State Representative,59,DEM,Hannah Bohm,266,28,197,41,0,0
+Hood,103,State Representative,59,DEM,Hannah Bohm,381,38,269,74,0,0
+Hood,105,State Representative,59,DEM,Hannah Bohm,217,14,136,67,0,0
+Hood,107,State Representative,59,DEM,Hannah Bohm,66,3,32,31,0,0
+Hood,112,State Representative,59,DEM,Hannah Bohm,237,20,178,39,0,0
+Hood,202,State Representative,59,DEM,Hannah Bohm,485,44,362,79,0,0
+Hood,211,State Representative,59,DEM,Hannah Bohm,330,9,262,59,0,0
+Hood,216,State Representative,59,DEM,Hannah Bohm,415,62,301,52,0,0
+Hood,218,State Representative,59,DEM,Hannah Bohm,354,37,258,59,0,0
+Hood,310,State Representative,59,DEM,Hannah Bohm,373,25,305,43,0,0
+Hood,313,State Representative,59,DEM,Hannah Bohm,367,41,275,51,0,0
+Hood,314,State Representative,59,DEM,Hannah Bohm,491,23,370,97,0,1
+Hood,317,State Representative,59,DEM,Hannah Bohm,271,16,228,27,0,0
+Hood,404,State Representative,59,DEM,Hannah Bohm,259,17,180,61,1,0
+Hood,408,State Representative,59,DEM,Hannah Bohm,379,33,274,72,0,0
+Hood,409,State Representative,59,DEM,Hannah Bohm,513,29,391,93,0,0
+Hood,415,State Representative,59,DEM,Hannah Bohm,63,9,28,26,0,0
+Hood,101,State Representative,59,REP,Shelby Slawson,1215,75,988,151,1,0
+Hood,103,State Representative,59,REP,Shelby Slawson,1982,56,1619,303,4,0
+Hood,105,State Representative,59,REP,Shelby Slawson,1807,30,1150,622,5,0
+Hood,107,State Representative,59,REP,Shelby Slawson,678,9,300,369,0,0
+Hood,112,State Representative,59,REP,Shelby Slawson,1096,19,856,221,0,0
+Hood,202,State Representative,59,REP,Shelby Slawson,2232,72,1776,383,0,1
+Hood,211,State Representative,59,REP,Shelby Slawson,1782,41,1397,344,0,0
+Hood,216,State Representative,59,REP,Shelby Slawson,2260,92,1857,310,1,0
+Hood,218,State Representative,59,REP,Shelby Slawson,1957,86,1593,277,1,0
+Hood,310,State Representative,59,REP,Shelby Slawson,1689,55,1483,150,1,0
+Hood,313,State Representative,59,REP,Shelby Slawson,2261,109,1924,225,3,0
+Hood,314,State Representative,59,REP,Shelby Slawson,2429,43,2012,371,2,1
+Hood,317,State Representative,59,REP,Shelby Slawson,1784,40,1529,211,4,0
+Hood,404,State Representative,59,REP,Shelby Slawson,1139,31,882,225,1,0
+Hood,408,State Representative,59,REP,Shelby Slawson,1980,50,1648,280,0,2
+Hood,409,State Representative,59,REP,Shelby Slawson,3142,77,2591,471,2,1
+Hood,415,State Representative,59,REP,Shelby Slawson,264,10,183,71,0,0
+Hood,101,U.S. House,25,REP,Roger Williams,1323,77,1075,169,2,0
+Hood,103,U.S. House,25,REP,Roger Williams,2144,59,1731,342,12,0
+Hood,105,U.S. House,25,REP,Roger Williams,1927,32,1223,661,11,0
+Hood,107,U.S. House,25,REP,Roger Williams,706,12,309,382,3,0
+Hood,112,U.S. House,25,REP,Roger Williams,1211,25,935,246,5,0
+Hood,202,U.S. House,25,REP,Roger Williams,2461,87,1934,430,9,1
+Hood,211,U.S. House,25,REP,Roger Williams,1932,44,1493,384,11,0
+Hood,216,U.S. House,25,REP,Roger Williams,2409,103,1960,344,2,0
+Hood,218,U.S. House,25,REP,Roger Williams,2072,87,1677,303,5,0
+Hood,310,U.S. House,25,REP,Roger Williams,1843,63,1607,169,4,0
+Hood,313,U.S. House,25,REP,Roger Williams,2423,110,2062,246,5,0
+Hood,314,U.S. House,25,REP,Roger Williams,2656,48,2168,431,8,1
+Hood,317,U.S. House,25,REP,Roger Williams,1917,43,1638,227,9,0
+Hood,404,U.S. House,25,REP,Roger Williams,1257,33,967,252,5,0
+Hood,408,U.S. House,25,REP,Roger Williams,2110,56,1732,317,3,2
+Hood,409,U.S. House,25,REP,Roger Williams,3353,80,2746,514,12,1
+Hood,415,U.S. House,25,REP,Roger Williams,300,15,201,83,1,0
+Hood,Federal Only,U.S. House,25,REP,Roger Williams,7,7,0,0,0,0
+Hood,101,U.S. Senate,,DEM,Colin Allred,332,32,243,56,1,0
+Hood,103,U.S. Senate,,DEM,Colin Allred,446,45,313,85,3,0
+Hood,105,U.S. Senate,,DEM,Colin Allred,259,15,155,86,3,0
+Hood,107,U.S. Senate,,DEM,Colin Allred,82,2,36,44,0,0
+Hood,112,U.S. Senate,,DEM,Colin Allred,270,23,196,51,0,0
+Hood,202,U.S. Senate,,DEM,Colin Allred,566,52,414,98,2,0
+Hood,211,U.S. Senate,,DEM,Colin Allred,392,13,302,76,1,0
+Hood,216,U.S. Senate,,DEM,Colin Allred,499,67,353,79,0,0
+Hood,218,U.S. Senate,,DEM,Colin Allred,426,44,302,75,4,1
+Hood,310,U.S. Senate,,DEM,Colin Allred,467,27,381,59,0,0
+Hood,313,U.S. Senate,,DEM,Colin Allred,485,49,366,68,2,0
+Hood,314,U.S. Senate,,DEM,Colin Allred,586,24,436,123,2,1
+Hood,317,U.S. Senate,,DEM,Colin Allred,321,17,264,39,1,0
+Hood,404,U.S. Senate,,DEM,Colin Allred,312,20,216,76,0,0
+Hood,408,U.S. Senate,,DEM,Colin Allred,448,35,333,80,0,0
+Hood,409,U.S. Senate,,DEM,Colin Allred,620,34,471,114,1,0
+Hood,415,U.S. Senate,,DEM,Colin Allred,75,9,35,31,0,0
+Hood,Federal Only,U.S. Senate,,DEM,Colin Allred,18,18,0,0,0,0
+Hood,101,U.S. Senate,,REP,Ted Cruz,1187,75,964,140,8,0
+Hood,103,U.S. Senate,,REP,Ted Cruz,1941,52,1591,282,16,0
+Hood,105,U.S. Senate,,REP,Ted Cruz,1796,28,1146,605,17,0
+Hood,107,U.S. Senate,,REP,Ted Cruz,672,9,299,361,3,0
+Hood,112,U.S. Senate,,REP,Ted Cruz,1068,18,832,209,9,0
+Hood,202,U.S. Senate,,REP,Ted Cruz,2174,64,1742,350,17,1
+Hood,211,U.S. Senate,,REP,Ted Cruz,1737,39,1358,325,15,0
+Hood,216,U.S. Senate,,REP,Ted Cruz,2231,86,1850,291,4,0
+Hood,218,U.S. Senate,,REP,Ted Cruz,1917,80,1568,262,7,0
+Hood,310,U.S. Senate,,REP,Ted Cruz,1640,61,1444,131,4,0
+Hood,313,U.S. Senate,,REP,Ted Cruz,2195,105,1873,211,6,0
+Hood,314,U.S. Senate,,REP,Ted Cruz,2395,48,1984,349,13,1
+Hood,317,U.S. Senate,,REP,Ted Cruz,1790,38,1535,201,16,0
+Hood,404,U.S. Senate,,REP,Ted Cruz,1110,31,860,211,8,0
+Hood,408,U.S. Senate,,REP,Ted Cruz,1937,50,1612,261,12,2
+Hood,409,U.S. Senate,,REP,Ted Cruz,3063,73,2535,437,17,1
+Hood,415,U.S. Senate,,REP,Ted Cruz,254,10,179,63,2,0
+Hood,Federal Only,U.S. Senate,,REP,Ted Cruz,5,5,0,0,0,0
