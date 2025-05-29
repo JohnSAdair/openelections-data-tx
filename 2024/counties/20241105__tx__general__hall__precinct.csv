@@ -1,0 +1,300 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Hall,101,Registered Voters,,,,426,,,
+Hall,101,Ballots Cast,,,,238,19,165,54
+Hall,101,Ballots Cast - Blank,,,,0,0,0,0
+Hall,101,President,,REP,Donald J. Trump,188,14,132,42
+Hall,101,President,,DEM,Kamala D. Harris,47,5,31,11
+Hall,101,President,,LIB,Chase Oliver,1,0,1,0
+Hall,101,President,,GRN, Jill Stein,1,0,1,0
+Hall,101,President,,,Write-ins,1,0,0,1
+Hall,101,U.S. Senate,,REP,Ted Cruz,178,13,125,40
+Hall,101,U.S. Senate,,DEM,Colin Allred,46,5,31,10
+Hall,101,U.S. Senate,,LIB,Ted Brown,5,0,3,2
+Hall,101,U.S. Senate,,,Write-ins,0,0,0,0
+Hall,101,U.S. House,13,REP,Ronny Jackson,182,12,132,38
+Hall,101,Railroad Commissioner,,REP,Christi Craddick,170,13,119,38
+Hall,101,Railroad Commissioner,,DEM,Katherine Culbert,36,5,23,8
+Hall,101,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,6,2
+Hall,101,Railroad Commissioner,,GRN, Eddie Espinoza,3,0,2,1
+Hall,101,Railroad Commissioner,,,Write-ins,0,0,0,0
+Hall,101,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,174,13,123,38
+Hall,101,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,41,5,26,10
+Hall,101,"Justice, Supreme Court, Pl 4",,REP,John Devine,168,13,118,37
+Hall,101,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,45,5,29,11
+Hall,101,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,171,13,120,38
+Hall,101,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,40,5,28,7
+Hall,101,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,3,0,2,1
+Hall,101,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,175,13,124,38
+Hall,101,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,39,5,25,9
+Hall,101,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,172,12,123,37
+Hall,101,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,39,5,27,7
+Hall,101,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,171,13,122,36
+Hall,101,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,39,5,26,8
+Hall,101,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,164,12,117,35
+Hall,101,"Member, State BoE, Dist 15",,DEM,Morgan Kirkpatrick,39,5,27,7
+Hall,101,"Member, State BoE, Dist 15",,LIB,Jack B. Westbrook,8,0,5,3
+Hall,101,State Representative,88,REP,Ken King,181,8,132,41
+Hall,101,"Justice, 7th Ct of App Dist, Pl 2",,REP,Judy Parker,178,10,129,39
+Hall,101,"Justice, 7th Ct of App Dist, Pl 3",,REP,Alex Yarbrough,179,10,129,40
+Hall,101,"Dist Judge, 100th Judicial Dist",,REP,Dale A. Rabe Jr,183,9,132,42
+Hall,101,"Dist Attorney, 100th Judicial Dist",,REP,Luke McLean Inman,182,9,131,42
+Hall,101,County Clerk / District Clerk - Unexpired Term,,REP,Patricia Snider,198,12,147,39
+Hall,101,Sheriff,,REP,Tom Heck,198,12,145,41
+Hall,101,County Tax Assessor-Collector,,REP,Teresa Altman,202,12,147,43
+Hall,101,County Commissioner Pct 1,,REP,Ronald Wilson,187,10,138,39
+Hall,201,Registered Voters,,,,86,,,
+Hall,201,Ballots Cast,,,,61,2,37,22
+Hall,201,Ballots Cast - Blank,,,,0,0,0,0
+Hall,201,President,,REP,Donald J. Trump,54,0,34,20
+Hall,201,President,,DEM,Kamala D. Harris,7,2,3,2
+Hall,201,President,,LIB,Chase Oliver,0,0,0,0
+Hall,201,President,,GRN, Jill Stein,0,0,0,0
+Hall,201,President,,,Write-ins,0,0,0,0
+Hall,201,U.S. Senate,,REP,Ted Cruz,52,0,34,18
+Hall,201,U.S. Senate,,DEM,Colin Allred,7,2,2,3
+Hall,201,U.S. Senate,,LIB,Ted Brown,2,0,1,1
+Hall,201,U.S. Senate,,,Write-ins,0,0,0,0
+Hall,201,U.S. House,13,REP,Ronny Jackson,56,1,34,21
+Hall,201,Railroad Commissioner,,REP,Christi Craddick,47,0,33,14
+Hall,201,Railroad Commissioner,,DEM,Katherine Culbert,6,2,3,1
+Hall,201,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,1,5
+Hall,201,Railroad Commissioner,,GRN, Eddie Espinoza,0,0,0,0
+Hall,201,Railroad Commissioner,,,Write-ins,0,0,0,0
+Hall,201,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,54,0,34,20
+Hall,201,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,7,2,3,2
+Hall,201,"Justice, Supreme Court, Pl 4",,REP,John Devine,53,0,34,19
+Hall,201,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,8,2,3,3
+Hall,201,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,54,0,35,19
+Hall,201,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,5,2,2,1
+Hall,201,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,2,0,0,2
+Hall,201,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,53,0,34,19
+Hall,201,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,8,2,3,3
+Hall,201,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,54,0,34,20
+Hall,201,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,6,2,3,1
+Hall,201,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,53,0,34,19
+Hall,201,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,7,2,3,2
+Hall,201,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,51,0,34,17
+Hall,201,"Member, State BoE, Dist 15",,DEM,Morgan Kirkpatrick,7,2,3,2
+Hall,201,"Member, State BoE, Dist 15",,LIB,Jack B. Westbrook,2,0,0,2
+Hall,201,State Representative,88,REP,Ken King,53,0,33,20
+Hall,201,"Justice, 7th Ct of App Dist, Pl 2",,REP,Judy Parker,52,0,32,20
+Hall,201,"Justice, 7th Ct of App Dist, Pl 3",,REP,Alex Yarbrough,52,0,34,18
+Hall,201,"Dist Judge, 100th Judicial Dist",,REP,Dale A. Rabe Jr,53,0,33,20
+Hall,201,"Dist Attorney, 100th Judicial Dist",,REP,Luke McLean Inman,53,0,33,20
+Hall,201,County Clerk / District Clerk - Unexpired Term,,REP,Patricia Snider,53,0,35,18
+Hall,201,Sheriff,,REP,Tom Heck,50,0,33,17
+Hall,201,County Tax Assessor-Collector,,REP,Teresa Altman,55,1,35,19
+Hall,202,Registered Voters,,,,396,,,
+Hall,202,Ballots Cast,,,,240,15,171,54
+Hall,202,Ballots Cast - Blank,,,,0,0,0,0
+Hall,202,President,,REP,Donald J. Trump,202,13,152,37
+Hall,202,President,,DEM,Kamala D. Harris,36,2,17,17
+Hall,202,President,,LIB,Chase Oliver,1,0,1,0
+Hall,202,President,,GRN, Jill Stein,1,0,1,0
+Hall,202,President,,,Write-ins,0,0,0,0
+Hall,202,U.S. Senate,,REP,Ted Cruz,196,13,146,37
+Hall,202,U.S. Senate,,DEM,Colin Allred,37,1,20,16
+Hall,202,U.S. Senate,,LIB,Ted Brown,5,0,4,1
+Hall,202,U.S. Senate,,,Write-ins,0,0,0,0
+Hall,202,U.S. House,13,REP,Ronny Jackson,194,12,144,38
+Hall,202,Railroad Commissioner,,REP,Christi Craddick,185,12,140,33
+Hall,202,Railroad Commissioner,,DEM,Katherine Culbert,33,1,17,15
+Hall,202,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,5,1
+Hall,202,Railroad Commissioner,,GRN, Eddie Espinoza,0,0,0,0
+Hall,202,Railroad Commissioner,,,Write-ins,0,0,0,0
+Hall,202,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,186,12,142,32
+Hall,202,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,34,1,18,15
+Hall,202,"Justice, Supreme Court, Pl 4",,REP,John Devine,180,12,138,30
+Hall,202,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,39,1,22,16
+Hall,202,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,184,12,140,32
+Hall,202,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,34,1,19,14
+Hall,202,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,1,0,1,0
+Hall,202,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,184,12,141,31
+Hall,202,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,36,1,19,16
+Hall,202,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,186,12,143,31
+Hall,202,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,34,1,17,16
+Hall,202,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,186,12,142,32
+Hall,202,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,33,1,17,15
+Hall,202,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,184,11,142,31
+Hall,202,"Member, State BoE, Dist 15",,DEM,Morgan Kirkpatrick,33,1,17,15
+Hall,202,"Member, State BoE, Dist 15",,LIB,Jack B. Westbrook,2,0,1,1
+Hall,202,State Representative,88,REP,Ken King,196,10,150,36
+Hall,202,"Justice, 7th Ct of App Dist, Pl 2",,REP,Judy Parker,193,9,146,38
+Hall,202,"Justice, 7th Ct of App Dist, Pl 3",,REP,Alex Yarbrough,190,10,145,35
+Hall,202,"Dist Judge, 100th Judicial Dist",,REP,Dale A. Rabe Jr,194,10,148,36
+Hall,202,"Dist Attorney, 100th Judicial Dist",,REP,Luke McLean Inman,194,11,146,37
+Hall,202,County Clerk / District Clerk - Unexpired Term,,REP,Patricia Snider,216,13,155,48
+Hall,202,Sheriff,,REP,Tom Heck,213,12,157,44
+Hall,202,County Tax Assessor-Collector,,REP,Teresa Altman,203,9,149,45
+Hall,301,Registered Voters,,,,111,,,
+Hall,301,Ballots Cast,,,,64,5,35,24
+Hall,301,Ballots Cast - Blank,,,,0,0,0,0
+Hall,301,President,,REP,Donald J. Trump,55,5,30,20
+Hall,301,President,,DEM,Kamala D. Harris,9,0,5,4
+Hall,301,President,,LIB,Chase Oliver,0,0,0,0
+Hall,301,President,,GRN, Jill Stein,0,0,0,0
+Hall,301,President,,,Write-ins,0,0,0,0
+Hall,301,U.S. Senate,,REP,Ted Cruz,54,5,30,19
+Hall,301,U.S. Senate,,DEM,Colin Allred,9,0,5,4
+Hall,301,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Hall,301,U.S. Senate,,,Write-ins,0,0,0,0
+Hall,301,U.S. House,13,REP,Ronny Jackson,50,3,29,18
+Hall,301,Railroad Commissioner,,REP,Christi Craddick,50,5,28,17
+Hall,301,Railroad Commissioner,,DEM,Katherine Culbert,6,0,4,2
+Hall,301,Railroad Commissioner,,LIB,Hawk Dunlap,4,0,1,3
+Hall,301,Railroad Commissioner,,GRN, Eddie Espinoza,1,0,1,0
+Hall,301,Railroad Commissioner,,,Write-ins,0,0,0,0
+Hall,301,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,54,5,30,19
+Hall,301,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,8,0,5,3
+Hall,301,"Justice, Supreme Court, Pl 4",,REP,John Devine,53,5,30,18
+Hall,301,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,9,0,5,4
+Hall,301,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,54,5,30,19
+Hall,301,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,9,0,5,4
+Hall,301,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,0,0,0,0
+Hall,301,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,54,5,30,19
+Hall,301,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,9,0,5,4
+Hall,301,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,53,4,30,19
+Hall,301,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,8,0,5,3
+Hall,301,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,54,5,30,19
+Hall,301,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,8,0,5,3
+Hall,301,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,54,5,30,19
+Hall,301,"Member, State BoE, Dist 15",,DEM,Morgan Kirkpatrick,8,0,5,3
+Hall,301,"Member, State BoE, Dist 15",,LIB,Jack B. Westbrook,0,0,0,0
+Hall,301,State Representative,88,REP,Ken King,52,2,32,18
+Hall,301,"Justice, 7th Ct of App Dist, Pl 2",,REP,Judy Parker,52,2,31,19
+Hall,301,"Justice, 7th Ct of App Dist, Pl 3",,REP,Alex Yarbrough,51,2,32,17
+Hall,301,"Dist Judge, 100th Judicial Dist",,REP,Dale A. Rabe Jr,49,2,30,17
+Hall,301,"Dist Attorney, 100th Judicial Dist",,REP,Luke McLean Inman,49,2,29,18
+Hall,301,County Clerk / District Clerk - Unexpired Term,,REP,Patricia Snider,55,2,32,21
+Hall,301,Sheriff,,REP,Tom Heck,45,2,26,17
+Hall,301,County Tax Assessor-Collector,,REP,Teresa Altman,50,2,30,18
+Hall,301,County Commissioner Pct 3,,REP,Gary Proffitt,47,2,27,18
+Hall,302,Registered Voters,,,,354,,,
+Hall,302,Ballots Cast,,,,218,7,177,34
+Hall,302,Ballots Cast - Blank,,,,0,0,0,0
+Hall,302,President,,REP,Donald J. Trump,186,3,158,25
+Hall,302,President,,DEM,Kamala D. Harris,30,4,17,9
+Hall,302,President,,LIB,Chase Oliver,1,0,1,0
+Hall,302,President,,GRN, Jill Stein,1,0,1,0
+Hall,302,President,,,Write-ins,0,0,0,0
+Hall,302,U.S. Senate,,REP,Ted Cruz,182,3,156,23
+Hall,302,U.S. Senate,,DEM,Colin Allred,30,4,17,9
+Hall,302,U.S. Senate,,LIB,Ted Brown,2,0,1,1
+Hall,302,U.S. Senate,,,Write-ins,0,0,0,0
+Hall,302,U.S. House,13,REP,Ronny Jackson,176,3,147,26
+Hall,302,Railroad Commissioner,,REP,Christi Craddick,169,3,146,20
+Hall,302,Railroad Commissioner,,DEM,Katherine Culbert,23,3,12,8
+Hall,302,Railroad Commissioner,,LIB,Hawk Dunlap,4,0,4,0
+Hall,302,Railroad Commissioner,,GRN, Eddie Espinoza,5,1,2,2
+Hall,302,Railroad Commissioner,,,Write-ins,0,0,0,0
+Hall,302,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,169,3,147,19
+Hall,302,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,29,3,16,10
+Hall,302,"Justice, Supreme Court, Pl 4",,REP,John Devine,170,3,146,21
+Hall,302,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,27,3,16,8
+Hall,302,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,167,3,144,20
+Hall,302,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,28,3,14,11
+Hall,302,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,4,0,4,0
+Hall,302,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,169,3,145,21
+Hall,302,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,28,3,16,9
+Hall,302,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,171,3,148,20
+Hall,302,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,28,3,14,11
+Hall,302,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,172,3,147,22
+Hall,302,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,27,4,14,9
+Hall,302,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,164,3,140,21
+Hall,302,"Member, State BoE, Dist 15",,DEM,Morgan Kirkpatrick,30,3,17,10
+Hall,302,"Member, State BoE, Dist 15",,LIB,Jack B. Westbrook,3,0,3,0
+Hall,302,State Representative,88,REP,Ken King,180,4,153,23
+Hall,302,"Justice, 7th Ct of App Dist, Pl 2",,REP,Judy Parker,176,3,148,25
+Hall,302,"Justice, 7th Ct of App Dist, Pl 3",,REP,Alex Yarbrough,171,3,144,24
+Hall,302,"Dist Judge, 100th Judicial Dist",,REP,Dale A. Rabe Jr,173,3,147,23
+Hall,302,"Dist Attorney, 100th Judicial Dist",,REP,Luke McLean Inman,173,3,145,25
+Hall,302,County Clerk / District Clerk - Unexpired Term,,REP,Patricia Snider,172,4,144,24
+Hall,302,Sheriff,,REP,Tom Heck,178,4,148,26
+Hall,302,County Tax Assessor-Collector,,REP,Teresa Altman,172,3,141,28
+Hall,302,County Commissioner Pct 3,,REP,Gary Proffitt,176,3,145,28
+Hall,401,Registered Voters,,,,331,,,
+Hall,401,Ballots Cast,,,,210,4,43,163
+Hall,401,Ballots Cast - Blank,,,,0,0,0,0
+Hall,401,President,,REP,Donald J. Trump,202,3,40,159
+Hall,401,President,,DEM,Kamala D. Harris,7,1,3,3
+Hall,401,President,,LIB,Chase Oliver,1,0,0,1
+Hall,401,President,,GRN, Jill Stein,0,0,0,0
+Hall,401,President,,,Write-ins,0,0,0,0
+Hall,401,U.S. Senate,,REP,Ted Cruz,191,3,40,148
+Hall,401,U.S. Senate,,DEM,Colin Allred,14,1,3,10
+Hall,401,U.S. Senate,,LIB,Ted Brown,4,0,0,4
+Hall,401,U.S. Senate,,,Write-ins,0,0,0,0
+Hall,401,U.S. House,13,REP,Ronny Jackson,197,2,39,156
+Hall,401,Railroad Commissioner,,REP,Christi Craddick,179,2,40,137
+Hall,401,Railroad Commissioner,,DEM,Katherine Culbert,7,1,3,3
+Hall,401,Railroad Commissioner,,LIB,Hawk Dunlap,17,1,0,16
+Hall,401,Railroad Commissioner,,GRN, Eddie Espinoza,0,0,0,0
+Hall,401,Railroad Commissioner,,,Write-ins,0,0,0,0
+Hall,401,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,191,3,40,148
+Hall,401,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,8,1,3,4
+Hall,401,"Justice, Supreme Court, Pl 4",,REP,John Devine,190,3,40,147
+Hall,401,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,9,1,3,5
+Hall,401,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,188,3,39,146
+Hall,401,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,7,1,3,3
+Hall,401,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,4,0,0,4
+Hall,401,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,188,3,39,146
+Hall,401,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,10,1,3,6
+Hall,401,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,188,3,39,146
+Hall,401,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,11,1,3,7
+Hall,401,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,189,3,39,147
+Hall,401,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,9,1,3,5
+Hall,401,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,182,2,38,142
+Hall,401,"Member, State BoE, Dist 15",,DEM,Morgan Kirkpatrick,11,1,3,7
+Hall,401,"Member, State BoE, Dist 15",,LIB,Jack B. Westbrook,5,1,0,4
+Hall,401,State Representative,88,REP,Ken King,193,2,38,153
+Hall,401,"Justice, 7th Ct of App Dist, Pl 2",,REP,Judy Parker,189,2,38,149
+Hall,401,"Justice, 7th Ct of App Dist, Pl 3",,REP,Alex Yarbrough,190,2,37,151
+Hall,401,"Dist Judge, 100th Judicial Dist",,REP,Dale A. Rabe Jr,189,2,37,150
+Hall,401,"Dist Attorney, 100th Judicial Dist",,REP,Luke McLean Inman,190,2,36,152
+Hall,401,County Clerk / District Clerk - Unexpired Term,,REP,Patricia Snider,198,2,38,158
+Hall,401,Sheriff,,REP,Tom Heck,202,3,37,162
+Hall,401,County Tax Assessor-Collector,,REP,Teresa Altman,198,2,37,159
+Hall,401,PROPOSITION A TQISD,,,For,163,1,28,134
+Hall,401,PROPOSITION A TQISD,,,Against,35,2,10,23
+Hall,402,Registered Voters,,,,179,,,
+Hall,402,Ballots Cast,,,,119,2,106,11
+Hall,402,Ballots Cast - Blank,,,,0,0,0,0
+Hall,402,President,,REP,Donald J. Trump,105,2,95,8
+Hall,402,President,,DEM,Kamala D. Harris,13,0,10,3
+Hall,402,President,,LIB,Chase Oliver,1,0,1,0
+Hall,402,President,,GRN, Jill Stein,0,0,0,0
+Hall,402,President,,,Write-ins,0,0,0,0
+Hall,402,U.S. Senate,,REP,Ted Cruz,104,2,95,7
+Hall,402,U.S. Senate,,DEM,Colin Allred,12,0,9,3
+Hall,402,U.S. Senate,,LIB,Ted Brown,1,0,1,0
+Hall,402,U.S. Senate,,,Write-ins,0,0,0,0
+Hall,402,U.S. House,13,REP,Ronny Jackson,96,2,87,7
+Hall,402,Railroad Commissioner,,REP,Christi Craddick,93,2,84,7
+Hall,402,Railroad Commissioner,,DEM,Katherine Culbert,12,0,9,3
+Hall,402,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,1,0
+Hall,402,Railroad Commissioner,,GRN, Eddie Espinoza,1,0,1,0
+Hall,402,Railroad Commissioner,,,Write-ins,0,0,0,0
+Hall,402,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,97,2,88,7
+Hall,402,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,11,0,8,3
+Hall,402,"Justice, Supreme Court, Pl 4",,REP,John Devine,93,2,84,7
+Hall,402,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,12,0,9,3
+Hall,402,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,93,2,84,7
+Hall,402,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,12,0,9,3
+Hall,402,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,2,0,2,0
+Hall,402,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,94,1,86,7
+Hall,402,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,12,1,8,3
+Hall,402,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,93,1,85,7
+Hall,402,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,13,0,10,3
+Hall,402,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,95,2,86,7
+Hall,402,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,11,0,8,3
+Hall,402,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,94,2,85,7
+Hall,402,"Member, State BoE, Dist 15",,DEM,Morgan Kirkpatrick,11,0,8,3
+Hall,402,"Member, State BoE, Dist 15",,LIB,Jack B. Westbrook,2,0,2,0
+Hall,402,State Representative,88,REP,Ken King,96,1,88,7
+Hall,402,"Justice, 7th Ct of App Dist, Pl 2",,REP,Judy Parker,94,2,85,7
+Hall,402,"Justice, 7th Ct of App Dist, Pl 3",,REP,Alex Yarbrough,92,2,83,7
+Hall,402,"Dist Judge, 100th Judicial Dist",,REP,Dale A. Rabe Jr,98,1,89,8
+Hall,402,"Dist Attorney, 100th Judicial Dist",,REP,Luke McLean Inman,92,1,84,7
+Hall,402,County Clerk / District Clerk - Unexpired Term,,REP,Patricia Snider,104,1,93,10
+Hall,402,Sheriff,,REP,Tom Heck,101,1,91,9
+Hall,402,County Tax Assessor-Collector,,REP,Teresa Altman,95,1,85,9

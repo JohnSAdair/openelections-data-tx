@@ -1,0 +1,171 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Baylor,PRECINCT 1,Ballots Cast,,,,476,16,380,80
+Baylor,PRECINCT 1,Ballots Cast - Blank,,,,0,0,0,0
+Baylor,PRECINCT 1,President,,REP,Donald J. Trump,431,11,350,70
+Baylor,PRECINCT 1,President,,DEM,Kamala D. Harris,37,5,24,8
+Baylor,PRECINCT 1,President,,LIB,Chase Oliver,3,0,3,0
+Baylor,PRECINCT 1,President,,GRN,Jill Stein,0,0,0,0
+Baylor,PRECINCT 1,President,,,Write-ins,2,0,2,0
+Baylor,PRECINCT 1,U.S. Senate,,REP,Ted Cruz,424,12,344,68
+Baylor,PRECINCT 1,U.S. Senate,,DEM,Colin Allred,40,4,26,10
+Baylor,PRECINCT 1,U.S. Senate,,LIB,Ted Brown,11,0,9,2
+Baylor,PRECINCT 1,U.S. Senate,,,Write-ins,0,0,0,0
+Baylor,PRECINCT 1,U.S. House,13,REP,Ronny Jackson,416,13,331,72
+Baylor,PRECINCT 1,Railroad Commissioner,,REP,Christi Craddick,389,12,314,63
+Baylor,PRECINCT 1,Railroad Commissioner,,DEM,Katherine Culbert,31,3,21,7
+Baylor,PRECINCT 1,Railroad Commissioner,,LIB,Hawk Dunlap,15,0,11,4
+Baylor,PRECINCT 1,Railroad Commissioner,,GRN,Eddie Espinoza,2,1,0,1
+Baylor,PRECINCT 1,Railroad Commissioner,,,Write-ins,2,0,1,1
+Baylor,PRECINCT 1,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,401,12,322,67
+Baylor,PRECINCT 1,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,34,4,22,8
+Baylor,PRECINCT 1,"Justice, Supreme Court, Pl 4",,REP,John Devine,398,12,321,65
+Baylor,PRECINCT 1,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,38,4,25,9
+Baylor,PRECINCT 1,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,396,12,318,66
+Baylor,PRECINCT 1,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,36,4,25,7
+Baylor,PRECINCT 1,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,5,0,4,1
+Baylor,PRECINCT 1,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,402,12,322,68
+Baylor,PRECINCT 1,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,35,4,25,6
+Baylor,PRECINCT 1,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,403,11,324,68
+Baylor,PRECINCT 1,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,32,4,23,5
+Baylor,PRECINCT 1,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,403,12,323,68
+Baylor,PRECINCT 1,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,29,4,20,5
+Baylor,PRECINCT 1,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,387,12,311,64
+Baylor,PRECINCT 1,"Member, State BoE, Dist 15",,DEM,Morgan Kirkpatrick,40,4,29,7
+Baylor,PRECINCT 1,"Member, State BoE, Dist 15",,LIB,Jack B. Westbrook,5,0,3,2
+Baylor,PRECINCT 1,State Representative,69,REP,James B Frank,400,12,320,68
+Baylor,PRECINCT 1,State Representative,69,DEM,Walter Coppage,35,4,26,5
+Baylor,PRECINCT 1,"Chief Justice, 11th Ct of App Dist",,REP,John Bailey,402,12,320,70
+Baylor,PRECINCT 1,"Dist Judge, 50th Judicial Dist",,REP,Jennifer A. Habert,402,13,321,68
+Baylor,PRECINCT 1,"Dist Attorney, 50th Judicial Dist",,REP,Hunter Brooks,402,12,320,70
+Baylor,PRECINCT 1,Baylor County Attorney,,,Write-ins,235,9,189,37
+Baylor,PRECINCT 1,Sheriff,,REP,Robert Castilleja,83,3,55,25
+Baylor,PRECINCT 1,Sheriff,,,Write-ins,368,10,305,53
+Baylor,PRECINCT 1,County Tax Assessor-Collector,,REP,Jeanette Holub,428,13,337,78
+Baylor,PRECINCT 1,County Commissioner Pct 1,,REP,Rick Gillispie,409,10,324,75
+Baylor,PRECINCT 2,Ballots Cast,,,,434,10,351,73
+Baylor,PRECINCT 2,Ballots Cast - Blank,,,,0,0,0,0
+Baylor,PRECINCT 2,President,,REP,Donald J. Trump,393,9,321,63
+Baylor,PRECINCT 2,President,,DEM,Kamala D. Harris,34,1,24,9
+Baylor,PRECINCT 2,President,,LIB,Chase Oliver,0,0,0,0
+Baylor,PRECINCT 2,President,,GRN,Jill Stein,2,0,2,0
+Baylor,PRECINCT 2,President,,,Write-ins,0,0,0,0
+Baylor,PRECINCT 2,U.S. Senate,,REP,Ted Cruz,377,9,313,55
+Baylor,PRECINCT 2,U.S. Senate,,DEM,Colin Allred,43,1,29,13
+Baylor,PRECINCT 2,U.S. Senate,,LIB,Ted Brown,6,0,3,3
+Baylor,PRECINCT 2,U.S. Senate,,,Write-ins,1,0,0,1
+Baylor,PRECINCT 2,U.S. House,13,REP,Ronny Jackson,376,9,309,58
+Baylor,PRECINCT 2,Railroad Commissioner,,REP,Christi Craddick,349,8,285,56
+Baylor,PRECINCT 2,Railroad Commissioner,,DEM,Katherine Culbert,31,1,19,11
+Baylor,PRECINCT 2,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,16,1
+Baylor,PRECINCT 2,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,4,0
+Baylor,PRECINCT 2,Railroad Commissioner,,,Write-ins,2,0,2,0
+Baylor,PRECINCT 2,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,364,9,298,57
+Baylor,PRECINCT 2,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,33,1,22,10
+Baylor,PRECINCT 2,"Justice, Supreme Court, Pl 4",,REP,John Devine,363,9,296,58
+Baylor,PRECINCT 2,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,30,1,20,9
+Baylor,PRECINCT 2,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,358,8,293,57
+Baylor,PRECINCT 2,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,31,1,19,11
+Baylor,PRECINCT 2,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,9,0,8,1
+Baylor,PRECINCT 2,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,364,8,300,56
+Baylor,PRECINCT 2,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,33,1,20,12
+Baylor,PRECINCT 2,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,366,9,300,57
+Baylor,PRECINCT 2,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,31,1,20,10
+Baylor,PRECINCT 2,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,360,9,296,55
+Baylor,PRECINCT 2,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,31,1,20,10
+Baylor,PRECINCT 2,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,353,8,290,55
+Baylor,PRECINCT 2,"Member, State BoE, Dist 15",,DEM,Morgan Kirkpatrick,36,1,24,11
+Baylor,PRECINCT 2,"Member, State BoE, Dist 15",,LIB,Jack B. Westbrook,11,1,7,3
+Baylor,PRECINCT 2,State Representative,69,REP,James B Frank,368,8,300,60
+Baylor,PRECINCT 2,State Representative,69,DEM,Walter Coppage,32,1,22,9
+Baylor,PRECINCT 2,"Chief Justice, 11th Ct of App Dist",,REP,John Bailey,368,8,303,57
+Baylor,PRECINCT 2,"Dist Judge, 50th Judicial Dist",,REP,Jennifer A. Habert,365,8,296,61
+Baylor,PRECINCT 2,"Dist Attorney, 50th Judicial Dist",,REP,Hunter Brooks,362,8,298,56
+Baylor,PRECINCT 2,Baylor County Attorney,,,Write-ins,211,6,185,20
+Baylor,PRECINCT 2,Sheriff,,REP,Robert Castilleja,70,1,46,23
+Baylor,PRECINCT 2,Sheriff,,,Write-ins,327,6,280,41
+Baylor,PRECINCT 2,County Tax Assessor-Collector,,REP,Jeanette Holub,386,7,313,66
+Baylor,PRECINCT 3,Ballots Cast,,,,358,15,273,70
+Baylor,PRECINCT 3,Ballots Cast - Blank,,,,0,0,0,0
+Baylor,PRECINCT 3,President,,REP,Donald J. Trump,297,9,235,53
+Baylor,PRECINCT 3,President,,DEM,Kamala D. Harris,49,6,29,14
+Baylor,PRECINCT 3,President,,LIB,Chase Oliver,3,0,2,1
+Baylor,PRECINCT 3,President,,GRN,Jill Stein,3,0,2,1
+Baylor,PRECINCT 3,President,,,Write-ins,2,0,1,1
+Baylor,PRECINCT 3,U.S. Senate,,REP,Ted Cruz,285,9,226,50
+Baylor,PRECINCT 3,U.S. Senate,,DEM,Colin Allred,52,5,32,15
+Baylor,PRECINCT 3,U.S. Senate,,LIB,Ted Brown,13,1,9,3
+Baylor,PRECINCT 3,U.S. Senate,,,Write-ins,1,0,0,1
+Baylor,PRECINCT 3,U.S. House,13,REP,Ronny Jackson,284,10,223,51
+Baylor,PRECINCT 3,Railroad Commissioner,,REP,Christi Craddick,268,8,214,46
+Baylor,PRECINCT 3,Railroad Commissioner,,DEM,Katherine Culbert,39,5,27,7
+Baylor,PRECINCT 3,Railroad Commissioner,,LIB,Hawk Dunlap,10,0,6,4
+Baylor,PRECINCT 3,Railroad Commissioner,,GRN,Eddie Espinoza,5,1,2,2
+Baylor,PRECINCT 3,Railroad Commissioner,,,Write-ins,3,0,3,0
+Baylor,PRECINCT 3,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,280,7,222,51
+Baylor,PRECINCT 3,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,46,6,28,12
+Baylor,PRECINCT 3,"Justice, Supreme Court, Pl 4",,REP,John Devine,276,8,218,50
+Baylor,PRECINCT 3,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,50,6,30,14
+Baylor,PRECINCT 3,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,269,8,211,50
+Baylor,PRECINCT 3,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,42,5,27,10
+Baylor,PRECINCT 3,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,13,1,10,2
+Baylor,PRECINCT 3,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,275,8,217,50
+Baylor,PRECINCT 3,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,48,6,29,13
+Baylor,PRECINCT 3,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,275,8,217,50
+Baylor,PRECINCT 3,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,45,6,26,13
+Baylor,PRECINCT 3,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,279,8,219,52
+Baylor,PRECINCT 3,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,39,6,22,11
+Baylor,PRECINCT 3,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,263,8,209,46
+Baylor,PRECINCT 3,"Member, State BoE, Dist 15",,DEM,Morgan Kirkpatrick,42,4,24,14
+Baylor,PRECINCT 3,"Member, State BoE, Dist 15",,LIB,Jack B. Westbrook,15,2,10,3
+Baylor,PRECINCT 3,State Representative,69,REP,James B Frank,277,9,217,51
+Baylor,PRECINCT 3,State Representative,69,DEM,Walter Coppage,48,6,30,12
+Baylor,PRECINCT 3,"Chief Justice, 11th Ct of App Dist",,REP,John Bailey,289,11,223,55
+Baylor,PRECINCT 3,"Dist Judge, 50th Judicial Dist",,REP,Jennifer A. Habert,285,10,217,58
+Baylor,PRECINCT 3,"Dist Attorney, 50th Judicial Dist",,REP,Hunter Brooks,287,10,221,56
+Baylor,PRECINCT 3,Baylor County Attorney,,,Write-ins,186,5,150,31
+Baylor,PRECINCT 3,Sheriff,,REP,Robert Castilleja,57,0,37,20
+Baylor,PRECINCT 3,Sheriff,,,Write-ins,269,7,222,40
+Baylor,PRECINCT 3,County Tax Assessor-Collector,,REP,Jeanette Holub,309,8,240,61
+Baylor,PRECINCT 3,County Commissioner Pct 3,,REP,Reed Slaggle,293,8,225,60
+Baylor,PRECINCT 4,Ballots Cast,,,,420,6,360,54
+Baylor,PRECINCT 4,Ballots Cast - Blank,,,,0,0,0,0
+Baylor,PRECINCT 4,President,,REP,Donald J. Trump,346,2,302,42
+Baylor,PRECINCT 4,President,,DEM,Kamala D. Harris,63,3,50,10
+Baylor,PRECINCT 4,President,,LIB,Chase Oliver,1,1,0,0
+Baylor,PRECINCT 4,President,,GRN,Jill Stein,3,0,2,1
+Baylor,PRECINCT 4,President,,,Write-ins,1,0,0,1
+Baylor,PRECINCT 4,U.S. Senate,,REP,Ted Cruz,344,2,299,43
+Baylor,PRECINCT 4,U.S. Senate,,DEM,Colin Allred,63,4,49,10
+Baylor,PRECINCT 4,U.S. Senate,,LIB,Ted Brown,5,0,5,0
+Baylor,PRECINCT 4,U.S. Senate,,,Write-ins,2,0,2,0
+Baylor,PRECINCT 4,U.S. House,13,REP,Ronny Jackson,350,3,304,43
+Baylor,PRECINCT 4,Railroad Commissioner,,REP,Christi Craddick,320,2,279,39
+Baylor,PRECINCT 4,Railroad Commissioner,,DEM,Katherine Culbert,52,4,41,7
+Baylor,PRECINCT 4,Railroad Commissioner,,LIB,Hawk Dunlap,12,0,8,4
+Baylor,PRECINCT 4,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,4,1
+Baylor,PRECINCT 4,Railroad Commissioner,,,Write-ins,0,0,0,0
+Baylor,PRECINCT 4,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,326,2,284,40
+Baylor,PRECINCT 4,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,56,4,44,8
+Baylor,PRECINCT 4,"Justice, Supreme Court, Pl 4",,REP,John Devine,326,2,282,42
+Baylor,PRECINCT 4,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,57,4,47,6
+Baylor,PRECINCT 4,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,316,2,277,37
+Baylor,PRECINCT 4,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,55,4,44,7
+Baylor,PRECINCT 4,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,10,0,6,4
+Baylor,PRECINCT 4,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,323,2,280,41
+Baylor,PRECINCT 4,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,60,4,48,8
+Baylor,PRECINCT 4,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,324,2,281,41
+Baylor,PRECINCT 4,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,54,4,43,7
+Baylor,PRECINCT 4,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,327,2,284,41
+Baylor,PRECINCT 4,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,53,4,42,7
+Baylor,PRECINCT 4,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,317,2,277,38
+Baylor,PRECINCT 4,"Member, State BoE, Dist 15",,DEM,Morgan Kirkpatrick,61,3,50,8
+Baylor,PRECINCT 4,"Member, State BoE, Dist 15",,LIB,Jack B. Westbrook,5,0,3,2
+Baylor,PRECINCT 4,State Representative,69,REP,James B Frank,330,2,288,40
+Baylor,PRECINCT 4,State Representative,69,DEM,Walter Coppage,57,4,44,9
+Baylor,PRECINCT 4,"Chief Justice, 11th Ct of App Dist",,REP,John Bailey,343,3,298,42
+Baylor,PRECINCT 4,"Dist Judge, 50th Judicial Dist",,REP,Jennifer A. Habert,357,3,308,46
+Baylor,PRECINCT 4,"Dist Attorney, 50th Judicial Dist",,REP,Hunter Brooks,358,3,307,48
+Baylor,PRECINCT 4,Baylor County Attorney,,,Write-ins,243,2,211,30
+Baylor,PRECINCT 4,Sheriff,,REP,Robert Castilleja,86,0,72,14
+Baylor,PRECINCT 4,Sheriff,,,Write-ins,306,5,268,33
+Baylor,PRECINCT 4,County Tax Assessor-Collector,,REP,Jeanette Holub,365,3,315,47

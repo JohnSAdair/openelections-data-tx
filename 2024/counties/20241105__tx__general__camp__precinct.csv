@@ -1,0 +1,327 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Camp,PRECINCT 1001,Registered Voters,,,,2039,,,
+Camp,PRECINCT 1001,Ballots Cast,,,,1292,48,966,278
+Camp,PRECINCT 1001,Ballots Cast - Blank,,,,0,0,0,0
+Camp,PRECINCT 1001,President,,REP,Donald J. Trump,998,28,777,193
+Camp,PRECINCT 1001,President,,DEM,Kamala D. Harris,279,19,180,80
+Camp,PRECINCT 1001,President,,LIB,Chase Oliver,9,1,4,4
+Camp,PRECINCT 1001,President,,GRN,Jill Stein,1,0,1,0
+Camp,PRECINCT 1001,President,,,Write-ins,1,0,1,0
+Camp,PRECINCT 1001,President,,,Over Votes,1,0,0,1
+Camp,PRECINCT 1001,President,,,Under Votes,3,0,3,0
+Camp,PRECINCT 1001,U.S. Senate,,REP,Ted Cruz,962,28,754,180
+Camp,PRECINCT 1001,U.S. Senate,,DEM,Colin Allred,293,19,190,84
+Camp,PRECINCT 1001,U.S. Senate,,LIB,Ted Brown,21,0,12,9
+Camp,PRECINCT 1001,U.S. Senate,,,Write-ins,1,0,1,0
+Camp,PRECINCT 1001,U.S. Senate,,,Over Votes,0,0,0,0
+Camp,PRECINCT 1001,U.S. Senate,,,Under Votes,15,1,9,5
+Camp,PRECINCT 1001,U.S. House,1,REP,Nathaniel Moran,1048,29,800,219
+Camp,PRECINCT 1001,U.S. House,1,,Over Votes,0,0,0,0
+Camp,PRECINCT 1001,U.S. House,1,,Under Votes,244,19,166,59
+Camp,PRECINCT 1001,Railroad Commissioner,,REP,Christi Craddick,952,24,754,174
+Camp,PRECINCT 1001,Railroad Commissioner,,DEM,Katherine Culbert,242,17,160,65
+Camp,PRECINCT 1001,Railroad Commissioner,,LIB,Hawk Dunlap,31,2,18,11
+Camp,PRECINCT 1001,Railroad Commissioner,,GRN,Eddie Espinoza,17,0,8,9
+Camp,PRECINCT 1001,Railroad Commissioner,,,Write-ins,3,0,2,1
+Camp,PRECINCT 1001,Railroad Commissioner,,,Over Votes,0,0,0,0
+Camp,PRECINCT 1001,Railroad Commissioner,,,Under Votes,47,5,24,18
+Camp,PRECINCT 1001,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,977,26,764,187
+Camp,PRECINCT 1001,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,259,17,171,71
+Camp,PRECINCT 1001,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Camp,PRECINCT 1001,"Justice, Supreme Court, Pl 2",,,Under Votes,56,5,31,20
+Camp,PRECINCT 1001,"Justice, Supreme Court, Pl 4",,REP,John Devine,968,24,763,181
+Camp,PRECINCT 1001,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,262,18,169,75
+Camp,PRECINCT 1001,"Justice, Supreme Court, Pl 4",,,Over Votes,1,0,1,0
+Camp,PRECINCT 1001,"Justice, Supreme Court, Pl 4",,,Under Votes,61,6,33,22
+Camp,PRECINCT 1001,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,962,24,760,178
+Camp,PRECINCT 1001,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,251,16,162,73
+Camp,PRECINCT 1001,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,25,2,14,9
+Camp,PRECINCT 1001,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Camp,PRECINCT 1001,"Justice, Supreme Court, Pl 6",,,Under Votes,54,6,30,18
+Camp,PRECINCT 1001,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,970,23,763,184
+Camp,PRECINCT 1001,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,271,19,176,76
+Camp,PRECINCT 1001,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Camp,PRECINCT 1001,"Presiding Judge, Ct of Crim App",,,Under Votes,51,6,27,18
+Camp,PRECINCT 1001,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,965,23,762,180
+Camp,PRECINCT 1001,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,255,19,163,73
+Camp,PRECINCT 1001,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Camp,PRECINCT 1001,"Judge, Ct of Crim App, Pl 7",,,Under Votes,72,6,41,25
+Camp,PRECINCT 1001,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,979,25,766,188
+Camp,PRECINCT 1001,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,255,17,170,68
+Camp,PRECINCT 1001,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Camp,PRECINCT 1001,"Judge, Ct of Crim App, Pl 8",,,Under Votes,58,6,30,22
+Camp,PRECINCT 1001,State Representative,5,REP,Cole Hefner,1015,26,771,218
+Camp,PRECINCT 1001,State Representative,5,,Write-ins,38,3,27,8
+Camp,PRECINCT 1001,State Representative,5,,Write-In: Nancy A. Nichols,10,2,5,3
+Camp,PRECINCT 1001,State Representative,5,,Over Votes,1,0,1,0
+Camp,PRECINCT 1001,State Representative,5,,Under Votes,238,19,167,52
+Camp,PRECINCT 1001,"Justice, 6th Ct of App Dist, Pl 2",,REP,Jeff Rambin,1015,27,777,211
+Camp,PRECINCT 1001,"Justice, 6th Ct of App Dist, Pl 2",,,Over Votes,0,0,0,0
+Camp,PRECINCT 1001,"Justice, 6th Ct of App Dist, Pl 2",,,Under Votes,277,21,189,67
+Camp,PRECINCT 1001,"Dist Judge, 76th Judicial Dist",,REP,Angela Saucier,1043,27,799,217
+Camp,PRECINCT 1001,"Dist Judge, 76th Judicial Dist",,,Over Votes,0,0,0,0
+Camp,PRECINCT 1001,"Dist Judge, 76th Judicial Dist",,,Under Votes,249,21,167,61
+Camp,PRECINCT 1001,"Dist Attorney, 76th Judicial Dist",,REP,Charles C. Bailey,1019,27,780,212
+Camp,PRECINCT 1001,"Dist Attorney, 76th Judicial Dist",,,Over Votes,0,0,0,0
+Camp,PRECINCT 1001,"Dist Attorney, 76th Judicial Dist",,,Under Votes,273,21,186,66
+Camp,PRECINCT 1001,County Attorney,,REP,"James ""Jas"" Wallace",1001,28,759,214
+Camp,PRECINCT 1001,County Attorney,,,Over Votes,0,0,0,0
+Camp,PRECINCT 1001,County Attorney,,,Under Votes,291,20,207,64
+Camp,PRECINCT 1001,Sheriff,,REP,John Cortelyou,1021,30,779,212
+Camp,PRECINCT 1001,Sheriff,,,Over Votes,0,0,0,0
+Camp,PRECINCT 1001,Sheriff,,,Under Votes,271,18,187,66
+Camp,PRECINCT 1001,County Tax Assessor-Collector,,REP,Missy Griffin Huffman,1011,29,768,214
+Camp,PRECINCT 1001,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Camp,PRECINCT 1001,County Tax Assessor-Collector,,,Under Votes,281,19,198,64
+Camp,PRECINCT 1001,County Commissioner Pct 1,,REP,Jed Hefner,1044,29,795,220
+Camp,PRECINCT 1001,County Commissioner Pct 1,,,Over Votes,0,0,0,0
+Camp,PRECINCT 1001,County Commissioner Pct 1,,,Under Votes,248,19,171,58
+Camp,PRECINCT 1001,Justice of the Peace,,REP,Richard Penn,1057,30,804,223
+Camp,PRECINCT 1001,Justice of the Peace,,,Over Votes,0,0,0,0
+Camp,PRECINCT 1001,Justice of the Peace,,,Under Votes,235,18,162,55
+Camp,PRECINCT 1001,County Constable,,REP,Shawn Kennington,1085,33,818,234
+Camp,PRECINCT 1001,County Constable,,,Over Votes,0,0,0,0
+Camp,PRECINCT 1001,County Constable,,,Under Votes,207,15,148,44
+Camp,PRECINCT 2002,Registered Voters,,,,2314,,,
+Camp,PRECINCT 2002,Ballots Cast,,,,1561,75,1234,252
+Camp,PRECINCT 2002,Ballots Cast - Blank,,,,1,0,1,0
+Camp,PRECINCT 2002,President,,REP,Donald J. Trump,1282,44,1032,206
+Camp,PRECINCT 2002,President,,DEM,Kamala D. Harris,254,29,186,39
+Camp,PRECINCT 2002,President,,LIB,Chase Oliver,7,0,4,3
+Camp,PRECINCT 2002,President,,GRN,Jill Stein,5,1,3,1
+Camp,PRECINCT 2002,President,,,Write-ins,5,0,4,1
+Camp,PRECINCT 2002,President,,,Over Votes,5,0,3,2
+Camp,PRECINCT 2002,President,,,Under Votes,3,1,2,0
+Camp,PRECINCT 2002,U.S. Senate,,REP,Ted Cruz,1254,43,1014,197
+Camp,PRECINCT 2002,U.S. Senate,,DEM,Colin Allred,272,28,202,42
+Camp,PRECINCT 2002,U.S. Senate,,LIB,Ted Brown,24,2,12,10
+Camp,PRECINCT 2002,U.S. Senate,,,Write-ins,1,0,1,0
+Camp,PRECINCT 2002,U.S. Senate,,,Over Votes,4,0,2,2
+Camp,PRECINCT 2002,U.S. Senate,,,Under Votes,6,2,3,1
+Camp,PRECINCT 2002,U.S. House,1,REP,Nathaniel Moran,1335,52,1074,209
+Camp,PRECINCT 2002,U.S. House,1,,Over Votes,0,0,0,0
+Camp,PRECINCT 2002,U.S. House,1,,Under Votes,226,23,160,43
+Camp,PRECINCT 2002,Railroad Commissioner,,REP,Christi Craddick,1238,43,998,197
+Camp,PRECINCT 2002,Railroad Commissioner,,DEM,Katherine Culbert,228,26,172,30
+Camp,PRECINCT 2002,Railroad Commissioner,,LIB,Hawk Dunlap,29,1,21,7
+Camp,PRECINCT 2002,Railroad Commissioner,,GRN,Eddie Espinoza,13,0,8,5
+Camp,PRECINCT 2002,Railroad Commissioner,,,Write-ins,3,0,1,2
+Camp,PRECINCT 2002,Railroad Commissioner,,,Over Votes,6,1,3,2
+Camp,PRECINCT 2002,Railroad Commissioner,,,Under Votes,44,4,31,9
+Camp,PRECINCT 2002,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,1281,43,1032,206
+Camp,PRECINCT 2002,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,228,26,168,34
+Camp,PRECINCT 2002,"Justice, Supreme Court, Pl 2",,,Over Votes,1,1,0,0
+Camp,PRECINCT 2002,"Justice, Supreme Court, Pl 2",,,Under Votes,51,5,34,12
+Camp,PRECINCT 2002,"Justice, Supreme Court, Pl 4",,REP,John Devine,1263,42,1021,200
+Camp,PRECINCT 2002,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,243,28,177,38
+Camp,PRECINCT 2002,"Justice, Supreme Court, Pl 4",,,Over Votes,1,1,0,0
+Camp,PRECINCT 2002,"Justice, Supreme Court, Pl 4",,,Under Votes,54,4,36,14
+Camp,PRECINCT 2002,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,1259,42,1018,199
+Camp,PRECINCT 2002,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,224,27,163,34
+Camp,PRECINCT 2002,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,30,0,24,6
+Camp,PRECINCT 2002,"Justice, Supreme Court, Pl 6",,,Over Votes,1,1,0,0
+Camp,PRECINCT 2002,"Justice, Supreme Court, Pl 6",,,Under Votes,47,5,29,13
+Camp,PRECINCT 2002,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1253,42,1010,201
+Camp,PRECINCT 2002,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,249,28,184,37
+Camp,PRECINCT 2002,"Presiding Judge, Ct of Crim App",,,Over Votes,1,1,0,0
+Camp,PRECINCT 2002,"Presiding Judge, Ct of Crim App",,,Under Votes,58,4,40,14
+Camp,PRECINCT 2002,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,1258,42,1012,204
+Camp,PRECINCT 2002,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,228,27,169,32
+Camp,PRECINCT 2002,"Judge, Ct of Crim App, Pl 7",,,Over Votes,1,1,0,0
+Camp,PRECINCT 2002,"Judge, Ct of Crim App, Pl 7",,,Under Votes,74,5,53,16
+Camp,PRECINCT 2002,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,1279,43,1030,206
+Camp,PRECINCT 2002,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,222,26,165,31
+Camp,PRECINCT 2002,"Judge, Ct of Crim App, Pl 8",,,Over Votes,1,1,0,0
+Camp,PRECINCT 2002,"Judge, Ct of Crim App, Pl 8",,,Under Votes,59,5,39,15
+Camp,PRECINCT 2002,State Representative,5,REP,Cole Hefner,1327,49,1064,214
+Camp,PRECINCT 2002,State Representative,5,,Write-ins,27,3,22,2
+Camp,PRECINCT 2002,State Representative,5,,Write-In: Nancy A. Nichols,14,3,10,1
+Camp,PRECINCT 2002,State Representative,5,,Over Votes,2,0,0,2
+Camp,PRECINCT 2002,State Representative,5,,Under Votes,205,23,148,34
+Camp,PRECINCT 2002,"Justice, 6th Ct of App Dist, Pl 2",,REP,Jeff Rambin,1325,49,1067,209
+Camp,PRECINCT 2002,"Justice, 6th Ct of App Dist, Pl 2",,,Over Votes,0,0,0,0
+Camp,PRECINCT 2002,"Justice, 6th Ct of App Dist, Pl 2",,,Under Votes,236,26,167,43
+Camp,PRECINCT 2002,"Dist Judge, 76th Judicial Dist",,REP,Angela Saucier,1315,49,1057,209
+Camp,PRECINCT 2002,"Dist Judge, 76th Judicial Dist",,,Over Votes,0,0,0,0
+Camp,PRECINCT 2002,"Dist Judge, 76th Judicial Dist",,,Under Votes,246,26,177,43
+Camp,PRECINCT 2002,"Dist Attorney, 76th Judicial Dist",,REP,Charles C. Bailey,1310,48,1054,208
+Camp,PRECINCT 2002,"Dist Attorney, 76th Judicial Dist",,,Over Votes,0,0,0,0
+Camp,PRECINCT 2002,"Dist Attorney, 76th Judicial Dist",,,Under Votes,251,27,180,44
+Camp,PRECINCT 2002,County Attorney,,REP,"James ""Jas"" Wallace",1284,47,1031,206
+Camp,PRECINCT 2002,County Attorney,,,Over Votes,0,0,0,0
+Camp,PRECINCT 2002,County Attorney,,,Under Votes,277,28,203,46
+Camp,PRECINCT 2002,Sheriff,,REP,John Cortelyou,1313,47,1060,206
+Camp,PRECINCT 2002,Sheriff,,,Over Votes,0,0,0,0
+Camp,PRECINCT 2002,Sheriff,,,Under Votes,248,28,174,46
+Camp,PRECINCT 2002,County Tax Assessor-Collector,,REP,Missy Griffin Huffman,1311,50,1053,208
+Camp,PRECINCT 2002,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Camp,PRECINCT 2002,County Tax Assessor-Collector,,,Under Votes,250,25,181,44
+Camp,PRECINCT 2002,Justice of the Peace,,REP,Richard Penn,1314,49,1057,208
+Camp,PRECINCT 2002,Justice of the Peace,,,Over Votes,0,0,0,0
+Camp,PRECINCT 2002,Justice of the Peace,,,Under Votes,247,26,177,44
+Camp,PRECINCT 2002,County Constable,,REP,Shawn Kennington,1334,49,1071,214
+Camp,PRECINCT 2002,County Constable,,,Over Votes,0,0,0,0
+Camp,PRECINCT 2002,County Constable,,,Under Votes,227,26,163,38
+Camp,PRECINCT 3003,Registered Voters,,,,1911,,,
+Camp,PRECINCT 3003,Ballots Cast,,,,1079,42,769,268
+Camp,PRECINCT 3003,Ballots Cast - Blank,,,,1,0,1,0
+Camp,PRECINCT 3003,President,,REP,Donald J. Trump,693,12,544,137
+Camp,PRECINCT 3003,President,,DEM,Kamala D. Harris,372,30,214,128
+Camp,PRECINCT 3003,President,,LIB,Chase Oliver,2,0,1,1
+Camp,PRECINCT 3003,President,,GRN,Jill Stein,1,0,0,1
+Camp,PRECINCT 3003,President,,,Write-ins,3,0,3,0
+Camp,PRECINCT 3003,President,,,Over Votes,5,0,5,0
+Camp,PRECINCT 3003,President,,,Under Votes,3,0,2,1
+Camp,PRECINCT 3003,U.S. Senate,,REP,Ted Cruz,674,11,535,128
+Camp,PRECINCT 3003,U.S. Senate,,DEM,Colin Allred,380,30,216,134
+Camp,PRECINCT 3003,U.S. Senate,,LIB,Ted Brown,12,0,9,3
+Camp,PRECINCT 3003,U.S. Senate,,,Write-ins,1,0,0,1
+Camp,PRECINCT 3003,U.S. Senate,,,Over Votes,2,0,2,0
+Camp,PRECINCT 3003,U.S. Senate,,,Under Votes,10,1,7,2
+Camp,PRECINCT 3003,U.S. House,1,REP,Nathaniel Moran,776,12,596,168
+Camp,PRECINCT 3003,U.S. House,1,,Over Votes,0,0,0,0
+Camp,PRECINCT 3003,U.S. House,1,,Under Votes,303,30,173,100
+Camp,PRECINCT 3003,Railroad Commissioner,,REP,Christi Craddick,655,13,522,120
+Camp,PRECINCT 3003,Railroad Commissioner,,DEM,Katherine Culbert,348,26,200,122
+Camp,PRECINCT 3003,Railroad Commissioner,,LIB,Hawk Dunlap,19,0,15,4
+Camp,PRECINCT 3003,Railroad Commissioner,,GRN,Eddie Espinoza,18,1,11,6
+Camp,PRECINCT 3003,Railroad Commissioner,,,Write-ins,5,0,2,3
+Camp,PRECINCT 3003,Railroad Commissioner,,,Over Votes,0,0,0,0
+Camp,PRECINCT 3003,Railroad Commissioner,,,Under Votes,34,2,19,13
+Camp,PRECINCT 3003,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,674,10,543,121
+Camp,PRECINCT 3003,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,360,30,203,127
+Camp,PRECINCT 3003,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Camp,PRECINCT 3003,"Justice, Supreme Court, Pl 2",,,Under Votes,45,2,23,20
+Camp,PRECINCT 3003,"Justice, Supreme Court, Pl 4",,REP,John Devine,676,11,543,122
+Camp,PRECINCT 3003,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,353,28,198,127
+Camp,PRECINCT 3003,"Justice, Supreme Court, Pl 4",,,Over Votes,1,0,1,0
+Camp,PRECINCT 3003,"Justice, Supreme Court, Pl 4",,,Under Votes,49,3,27,19
+Camp,PRECINCT 3003,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,664,11,535,118
+Camp,PRECINCT 3003,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,342,28,192,122
+Camp,PRECINCT 3003,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,26,0,17,9
+Camp,PRECINCT 3003,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Camp,PRECINCT 3003,"Justice, Supreme Court, Pl 6",,,Under Votes,47,3,25,19
+Camp,PRECINCT 3003,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,678,12,539,127
+Camp,PRECINCT 3003,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,349,27,199,123
+Camp,PRECINCT 3003,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Camp,PRECINCT 3003,"Presiding Judge, Ct of Crim App",,,Under Votes,52,3,31,18
+Camp,PRECINCT 3003,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,668,11,538,119
+Camp,PRECINCT 3003,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,345,28,193,124
+Camp,PRECINCT 3003,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Camp,PRECINCT 3003,"Judge, Ct of Crim App, Pl 7",,,Under Votes,66,3,38,25
+Camp,PRECINCT 3003,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,674,11,540,123
+Camp,PRECINCT 3003,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,354,28,201,125
+Camp,PRECINCT 3003,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Camp,PRECINCT 3003,"Judge, Ct of Crim App, Pl 8",,,Under Votes,51,3,28,20
+Camp,PRECINCT 3003,State Representative,5,REP,Cole Hefner,778,14,594,170
+Camp,PRECINCT 3003,State Representative,5,,Write-ins,17,4,10,3
+Camp,PRECINCT 3003,State Representative,5,,Write-In: Nancy A. Nichols,6,2,4,0
+Camp,PRECINCT 3003,State Representative,5,,Over Votes,0,0,0,0
+Camp,PRECINCT 3003,State Representative,5,,Under Votes,284,24,165,95
+Camp,PRECINCT 3003,"Justice, 6th Ct of App Dist, Pl 2",,REP,Jeff Rambin,751,13,579,159
+Camp,PRECINCT 3003,"Justice, 6th Ct of App Dist, Pl 2",,,Over Votes,0,0,0,0
+Camp,PRECINCT 3003,"Justice, 6th Ct of App Dist, Pl 2",,,Under Votes,328,29,190,109
+Camp,PRECINCT 3003,"Dist Judge, 76th Judicial Dist",,REP,Angela Saucier,775,13,596,166
+Camp,PRECINCT 3003,"Dist Judge, 76th Judicial Dist",,,Over Votes,0,0,0,0
+Camp,PRECINCT 3003,"Dist Judge, 76th Judicial Dist",,,Under Votes,304,29,173,102
+Camp,PRECINCT 3003,"Dist Attorney, 76th Judicial Dist",,REP,Charles C. Bailey,755,11,583,161
+Camp,PRECINCT 3003,"Dist Attorney, 76th Judicial Dist",,,Over Votes,0,0,0,0
+Camp,PRECINCT 3003,"Dist Attorney, 76th Judicial Dist",,,Under Votes,324,31,186,107
+Camp,PRECINCT 3003,County Attorney,,REP,"James ""Jas"" Wallace",772,14,590,168
+Camp,PRECINCT 3003,County Attorney,,,Over Votes,0,0,0,0
+Camp,PRECINCT 3003,County Attorney,,,Under Votes,307,28,179,100
+Camp,PRECINCT 3003,Sheriff,,REP,John Cortelyou,770,14,591,165
+Camp,PRECINCT 3003,Sheriff,,,Over Votes,0,0,0,0
+Camp,PRECINCT 3003,Sheriff,,,Under Votes,309,28,178,103
+Camp,PRECINCT 3003,County Tax Assessor-Collector,,REP,Missy Griffin Huffman,773,12,598,163
+Camp,PRECINCT 3003,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Camp,PRECINCT 3003,County Tax Assessor-Collector,,,Under Votes,306,30,171,105
+Camp,PRECINCT 3003,County Commissioner Pct 3,,REP,Perry Weeks,774,14,595,165
+Camp,PRECINCT 3003,County Commissioner Pct 3,,,Over Votes,0,0,0,0
+Camp,PRECINCT 3003,County Commissioner Pct 3,,,Under Votes,305,28,174,103
+Camp,PRECINCT 3003,Justice of the Peace,,REP,Richard Penn,786,13,603,170
+Camp,PRECINCT 3003,Justice of the Peace,,,Over Votes,0,0,0,0
+Camp,PRECINCT 3003,Justice of the Peace,,,Under Votes,293,29,166,98
+Camp,PRECINCT 3003,County Constable,,REP,Shawn Kennington,802,13,609,180
+Camp,PRECINCT 3003,County Constable,,,Over Votes,0,0,0,0
+Camp,PRECINCT 3003,County Constable,,,Under Votes,277,29,160,88
+Camp,PRECINCT 4004,Registered Voters,,,,2160,,,
+Camp,PRECINCT 4004,Ballots Cast,,,,1345,50,1023,272
+Camp,PRECINCT 4004,Ballots Cast - Blank,,,,0,0,0,0
+Camp,PRECINCT 4004,President,,REP,Donald J. Trump,1038,30,794,214
+Camp,PRECINCT 4004,President,,DEM,Kamala D. Harris,296,19,220,57
+Camp,PRECINCT 4004,President,,LIB,Chase Oliver,4,0,4,0
+Camp,PRECINCT 4004,President,,GRN,Jill Stein,1,0,1,0
+Camp,PRECINCT 4004,President,,,Write-ins,2,0,2,0
+Camp,PRECINCT 4004,President,,,Over Votes,2,0,2,0
+Camp,PRECINCT 4004,President,,,Under Votes,2,1,0,1
+Camp,PRECINCT 4004,U.S. Senate,,REP,Ted Cruz,1004,29,779,196
+Camp,PRECINCT 4004,U.S. Senate,,DEM,Colin Allred,312,19,224,69
+Camp,PRECINCT 4004,U.S. Senate,,LIB,Ted Brown,18,0,13,5
+Camp,PRECINCT 4004,U.S. Senate,,,Write-ins,0,0,0,0
+Camp,PRECINCT 4004,U.S. Senate,,,Over Votes,1,0,1,0
+Camp,PRECINCT 4004,U.S. Senate,,,Under Votes,10,2,6,2
+Camp,PRECINCT 4004,U.S. House,1,REP,Nathaniel Moran,1089,31,837,221
+Camp,PRECINCT 4004,U.S. House,1,,Over Votes,0,0,0,0
+Camp,PRECINCT 4004,U.S. House,1,,Under Votes,256,19,186,51
+Camp,PRECINCT 4004,Railroad Commissioner,,REP,Christi Craddick,991,29,765,197
+Camp,PRECINCT 4004,Railroad Commissioner,,DEM,Katherine Culbert,268,19,195,54
+Camp,PRECINCT 4004,Railroad Commissioner,,LIB,Hawk Dunlap,28,0,22,6
+Camp,PRECINCT 4004,Railroad Commissioner,,GRN,Eddie Espinoza,14,0,8,6
+Camp,PRECINCT 4004,Railroad Commissioner,,,Write-ins,2,0,1,1
+Camp,PRECINCT 4004,Railroad Commissioner,,,Over Votes,1,0,1,0
+Camp,PRECINCT 4004,Railroad Commissioner,,,Under Votes,41,2,31,8
+Camp,PRECINCT 4004,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,1026,28,791,207
+Camp,PRECINCT 4004,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,278,20,205,53
+Camp,PRECINCT 4004,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Camp,PRECINCT 4004,"Justice, Supreme Court, Pl 2",,,Under Votes,41,2,27,12
+Camp,PRECINCT 4004,"Justice, Supreme Court, Pl 4",,REP,John Devine,1010,29,774,207
+Camp,PRECINCT 4004,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,290,19,215,56
+Camp,PRECINCT 4004,"Justice, Supreme Court, Pl 4",,,Over Votes,1,0,1,0
+Camp,PRECINCT 4004,"Justice, Supreme Court, Pl 4",,,Under Votes,44,2,33,9
+Camp,PRECINCT 4004,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,1008,30,773,205
+Camp,PRECINCT 4004,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,274,18,201,55
+Camp,PRECINCT 4004,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,22,0,17,5
+Camp,PRECINCT 4004,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Camp,PRECINCT 4004,"Justice, Supreme Court, Pl 6",,,Under Votes,41,2,32,7
+Camp,PRECINCT 4004,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1018,31,776,211
+Camp,PRECINCT 4004,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,283,18,212,53
+Camp,PRECINCT 4004,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Camp,PRECINCT 4004,"Presiding Judge, Ct of Crim App",,,Under Votes,44,1,35,8
+Camp,PRECINCT 4004,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,1019,29,783,207
+Camp,PRECINCT 4004,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,273,18,199,56
+Camp,PRECINCT 4004,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Camp,PRECINCT 4004,"Judge, Ct of Crim App, Pl 7",,,Under Votes,53,3,41,9
+Camp,PRECINCT 4004,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,1027,30,787,210
+Camp,PRECINCT 4004,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,271,18,200,53
+Camp,PRECINCT 4004,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Camp,PRECINCT 4004,"Judge, Ct of Crim App, Pl 8",,,Under Votes,47,2,36,9
+Camp,PRECINCT 4004,State Representative,5,REP,Cole Hefner,1071,31,824,216
+Camp,PRECINCT 4004,State Representative,5,,Write-ins,25,0,20,5
+Camp,PRECINCT 4004,State Representative,5,,Write-In: Nancy A. Nichols,6,0,6,0
+Camp,PRECINCT 4004,State Representative,5,,Over Votes,3,0,1,2
+Camp,PRECINCT 4004,State Representative,5,,Under Votes,246,19,178,49
+Camp,PRECINCT 4004,"Justice, 6th Ct of App Dist, Pl 2",,REP,Jeff Rambin,1080,32,825,223
+Camp,PRECINCT 4004,"Justice, 6th Ct of App Dist, Pl 2",,,Over Votes,0,0,0,0
+Camp,PRECINCT 4004,"Justice, 6th Ct of App Dist, Pl 2",,,Under Votes,265,18,198,49
+Camp,PRECINCT 4004,"Dist Judge, 76th Judicial Dist",,REP,Angela Saucier,1091,34,836,221
+Camp,PRECINCT 4004,"Dist Judge, 76th Judicial Dist",,,Over Votes,0,0,0,0
+Camp,PRECINCT 4004,"Dist Judge, 76th Judicial Dist",,,Under Votes,254,16,187,51
+Camp,PRECINCT 4004,"Dist Attorney, 76th Judicial Dist",,REP,Charles C. Bailey,1082,35,823,224
+Camp,PRECINCT 4004,"Dist Attorney, 76th Judicial Dist",,,Over Votes,0,0,0,0
+Camp,PRECINCT 4004,"Dist Attorney, 76th Judicial Dist",,,Under Votes,263,15,200,48
+Camp,PRECINCT 4004,County Attorney,,REP,"James ""Jas"" Wallace",1059,35,812,212
+Camp,PRECINCT 4004,County Attorney,,,Over Votes,0,0,0,0
+Camp,PRECINCT 4004,County Attorney,,,Under Votes,286,15,211,60
+Camp,PRECINCT 4004,Sheriff,,REP,John Cortelyou,1077,34,828,215
+Camp,PRECINCT 4004,Sheriff,,,Over Votes,0,0,0,0
+Camp,PRECINCT 4004,Sheriff,,,Under Votes,268,16,195,57
+Camp,PRECINCT 4004,County Tax Assessor-Collector,,REP,Missy Griffin Huffman,1083,35,830,218
+Camp,PRECINCT 4004,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Camp,PRECINCT 4004,County Tax Assessor-Collector,,,Under Votes,262,15,193,54
+Camp,PRECINCT 4004,Justice of the Peace,,REP,Richard Penn,1093,35,834,224
+Camp,PRECINCT 4004,Justice of the Peace,,,Over Votes,0,0,0,0
+Camp,PRECINCT 4004,Justice of the Peace,,,Under Votes,252,15,189,48
+Camp,PRECINCT 4004,County Constable,,REP,Shawn Kennington,1104,37,847,220
+Camp,PRECINCT 4004,County Constable,,,Over Votes,0,0,0,0
+Camp,PRECINCT 4004,County Constable,,,Under Votes,241,13,176,52
