@@ -1,0 +1,576 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Delta,1,Registered Voters,,,,925,,,
+Delta,1,Ballots Cast,,,,627,,,
+Delta,1,President,,REP,Donald J. Trump JD Vance,551,17,393,141
+Delta,1,President,,DEM,Kamala D. Harris Tim Walz,71,2,56,13
+Delta,1,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+Delta,1,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Delta,1,President,,,Under Votes,3,0,1,2
+Delta,1,President,,,Over Votes,1,1,0,0
+Delta,1,U.S. Senate,,REP,Ted Cruz,535,18,384,133
+Delta,1,U.S. Senate,,DEM,Colin Allred,81,2,61,18
+Delta,1,U.S. Senate,,LIB,Ted Brown,6,0,3,3
+Delta,1,U.S. Senate,,,Under Votes,5,0,3,2
+Delta,1,U.S. Senate,,,Over Votes,0,0,0,0
+Delta,1,U.S. House,4,REP,Pat Fallon,544,17,391,136
+Delta,1,U.S. House,4,DEM,Simon Cardell,64,2,52,10
+Delta,1,U.S. House,4,,Under Votes,19,1,8,10
+Delta,1,U.S. House,4,,Over Votes,0,0,0,0
+Delta,1,Railroad Commissioner,,REP,Christi Craddick,517,17,366,134
+Delta,1,Railroad Commissioner,,DEM,Katherine Culbert,56,2,46,8
+Delta,1,Railroad Commissioner,,LIB,Hawk Dunlap,20,0,18,2
+Delta,1,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,5,3
+Delta,1,Railroad Commissioner,,,Under Votes,26,1,16,9
+Delta,1,Railroad Commissioner,,,Over Votes,0,0,0,0
+Delta,1,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,537,17,383,137
+Delta,1,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,66,2,54,10
+Delta,1,"Justice, Supreme Court, Place 2",2,,Under Votes,24,1,14,9
+Delta,1,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Delta,1,"Justice, Supreme Court, Place 4",4,REP,John Devine,534,17,382,135
+Delta,1,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,68,2,54,12
+Delta,1,"Justice, Supreme Court, Place 4",4,,Under Votes,25,1,15,9
+Delta,1,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Delta,1,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,530,17,381,132
+Delta,1,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,64,2,51,11
+Delta,1,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,11,0,7,4
+Delta,1,"Justice, Supreme Court, Place 6",6,,Under Votes,22,1,12,9
+Delta,1,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Delta,1,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,534,17,382,135
+Delta,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,63,2,51,10
+Delta,1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,30,1,18,11
+Delta,1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Delta,1,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,540,18,386,136
+Delta,1,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,62,0,51,11
+Delta,1,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,24,1,14,9
+Delta,1,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,1,0,0
+Delta,1,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,539,17,384,138
+Delta,1,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,60,2,49,9
+Delta,1,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,28,1,18,9
+Delta,1,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Delta,1,"Member, State Board of Education, District 12",12,REP,Pam Little,540,17,383,140
+Delta,1,"Member, State Board of Education, District 12",12,DEM,George King,63,2,54,7
+Delta,1,"Member, State Board of Education, District 12",12,,Under Votes,24,1,14,9
+Delta,1,"Member, State Board of Education, District 12",12,,Over Votes,0,0,0,0
+Delta,1,State Representative,62,REP,Shelley Luther,535,16,383,136
+Delta,1,State Representative,62,DEM,Tiffany Drake,66,2,53,11
+Delta,1,State Representative,62,,Under Votes,26,2,15,9
+Delta,1,State Representative,62,,Over Votes,0,0,0,0
+Delta,1,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,560,18,401,141
+Delta,1,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,67,2,50,15
+Delta,1,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Delta,1,"District Judge, 8th Judicial District",,REP,Eddie Northcutt,566,18,404,144
+Delta,1,"District Judge, 8th Judicial District",,,Under Votes,61,2,47,12
+Delta,1,"District Judge, 8th Judicial District",,,Over Votes,0,0,0,0
+Delta,1,"District Judge, 62nd Judicial District",,REP,Will Biard,562,17,403,142
+Delta,1,"District Judge, 62nd Judicial District",,,Under Votes,65,3,48,14
+Delta,1,"District Judge, 62nd Judicial District",,,Over Votes,0,0,0,0
+Delta,1,"District Attorney, 8th Judicial District",,REP,Will Ramsay,571,17,408,146
+Delta,1,"District Attorney, 8th Judicial District",,,Under Votes,56,3,43,10
+Delta,1,"District Attorney, 8th Judicial District",,,Over Votes,0,0,0,0
+Delta,1,County Attorney,,REP,Jay Garrett,537,15,389,133
+Delta,1,County Attorney,,,Under Votes,90,5,62,23
+Delta,1,County Attorney,,,Over Votes,0,0,0,0
+Delta,1,Sheriff,,REP,Marshall Lynch,563,18,402,143
+Delta,1,Sheriff,,,Under Votes,64,2,49,13
+Delta,1,Sheriff,,,Over Votes,0,0,0,0
+Delta,1,County Tax Assessor-Collector,,REP,Dawn Moody,581,20,411,150
+Delta,1,County Tax Assessor-Collector,,,Under Votes,46,0,40,6
+Delta,1,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Delta,1,"County Commissioner, Precinct 1",,REP,Mike Gibson,571,18,405,148
+Delta,1,"County Commissioner, Precinct 1",,,Under Votes,56,2,46,8
+Delta,1,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Delta,1,County Constable,,REP,Elmo Robinson,576,18,411,147
+Delta,1,County Constable,,,Under Votes,51,2,40,9
+Delta,1,County Constable,,,Over Votes,0,0,0,0
+Delta,3,Registered Voters,,,,592,,,
+Delta,3,Ballots Cast,,,,319,,,
+Delta,3,President,,REP,Donald J. Trump JD Vance,238,14,156,68
+Delta,3,President,,DEM,Kamala D. Harris Tim Walz,75,9,43,23
+Delta,3,President,,LIB,Chase Oliver Mike ter Maat,3,0,1,2
+Delta,3,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Delta,3,President,,,Under Votes,3,0,3,0
+Delta,3,President,,,Over Votes,0,0,0,0
+Delta,3,U.S. Senate,,REP,Ted Cruz,220,12,143,65
+Delta,3,U.S. Senate,,DEM,Colin Allred,86,11,50,25
+Delta,3,U.S. Senate,,LIB,Ted Brown,7,0,4,3
+Delta,3,U.S. Senate,,,Under Votes,6,0,6,0
+Delta,3,U.S. Senate,,,Over Votes,0,0,0,0
+Delta,3,U.S. House,4,REP,Pat Fallon,238,14,155,69
+Delta,3,U.S. House,4,DEM,Simon Cardell,68,9,37,22
+Delta,3,U.S. House,4,,Under Votes,13,0,11,2
+Delta,3,U.S. House,4,,Over Votes,0,0,0,0
+Delta,3,Railroad Commissioner,,REP,Christi Craddick,229,14,149,66
+Delta,3,Railroad Commissioner,,DEM,Katherine Culbert,62,9,35,18
+Delta,3,Railroad Commissioner,,LIB,Hawk Dunlap,9,0,5,4
+Delta,3,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0
+Delta,3,Railroad Commissioner,,,Under Votes,17,0,12,5
+Delta,3,Railroad Commissioner,,,Over Votes,0,0,0,0
+Delta,3,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,230,13,148,69
+Delta,3,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,73,9,44,20
+Delta,3,"Justice, Supreme Court, Place 2",2,,Under Votes,16,1,11,4
+Delta,3,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Delta,3,"Justice, Supreme Court, Place 4",4,REP,John Devine,228,13,148,67
+Delta,3,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,73,9,43,21
+Delta,3,"Justice, Supreme Court, Place 4",4,,Under Votes,18,1,12,5
+Delta,3,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Delta,3,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,228,13,148,67
+Delta,3,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,64,9,36,19
+Delta,3,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,9,0,7,2
+Delta,3,"Justice, Supreme Court, Place 6",6,,Under Votes,18,1,12,5
+Delta,3,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Delta,3,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,226,13,147,66
+Delta,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,73,9,43,21
+Delta,3,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,20,1,13,6
+Delta,3,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Delta,3,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,232,13,152,67
+Delta,3,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,67,9,38,20
+Delta,3,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,20,1,13,6
+Delta,3,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Delta,3,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,230,13,148,69
+Delta,3,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,66,9,39,18
+Delta,3,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,23,1,16,6
+Delta,3,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Delta,3,"Member, State Board of Education, District 12",12,REP,Pam Little,226,14,148,64
+Delta,3,"Member, State Board of Education, District 12",12,DEM,George King,74,9,43,22
+Delta,3,"Member, State Board of Education, District 12",12,,Under Votes,19,0,12,7
+Delta,3,"Member, State Board of Education, District 12",12,,Over Votes,0,0,0,0
+Delta,3,State Representative,62,REP,Shelley Luther,223,12,146,65
+Delta,3,State Representative,62,DEM,Tiffany Drake,72,9,42,21
+Delta,3,State Representative,62,,Under Votes,24,2,15,7
+Delta,3,State Representative,62,,Over Votes,0,0,0,0
+Delta,3,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,250,16,160,74
+Delta,3,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,69,7,43,19
+Delta,3,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Delta,3,"District Judge, 8th Judicial District",,REP,Eddie Northcutt,263,15,168,80
+Delta,3,"District Judge, 8th Judicial District",,,Under Votes,56,8,35,13
+Delta,3,"District Judge, 8th Judicial District",,,Over Votes,0,0,0,0
+Delta,3,"District Judge, 62nd Judicial District",,REP,Will Biard,257,16,163,78
+Delta,3,"District Judge, 62nd Judicial District",,,Under Votes,62,7,40,15
+Delta,3,"District Judge, 62nd Judicial District",,,Over Votes,0,0,0,0
+Delta,3,"District Attorney, 8th Judicial District",,REP,Will Ramsay,257,14,164,79
+Delta,3,"District Attorney, 8th Judicial District",,,Under Votes,62,9,39,14
+Delta,3,"District Attorney, 8th Judicial District",,,Over Votes,0,0,0,0
+Delta,3,County Attorney,,REP,Jay Garrett,250,16,159,75
+Delta,3,County Attorney,,,Under Votes,69,7,44,18
+Delta,3,County Attorney,,,Over Votes,0,0,0,0
+Delta,3,Sheriff,,REP,Marshall Lynch,278,18,179,81
+Delta,3,Sheriff,,,Under Votes,41,5,24,12
+Delta,3,Sheriff,,,Over Votes,0,0,0,0
+Delta,3,County Tax Assessor-Collector,,REP,Dawn Moody,276,17,178,81
+Delta,3,County Tax Assessor-Collector,,,Under Votes,43,6,25,12
+Delta,3,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Delta,3,"County Commissioner, Precinct 3",,REP,Anthony Roberts,280,19,182,79
+Delta,3,"County Commissioner, Precinct 3",,,Under Votes,39,4,21,14
+Delta,3,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Delta,3,County Constable,,REP,Elmo Robinson,284,19,183,82
+Delta,3,County Constable,,,Under Votes,35,4,20,11
+Delta,3,County Constable,,,Over Votes,0,0,0,0
+Delta,4,Registered Voters,,,,630,,,
+Delta,4,Ballots Cast,,,,393,,,
+Delta,4,President,,REP,Donald J. Trump JD Vance,326,16,231,79
+Delta,4,President,,DEM,Kamala D. Harris Tim Walz,63,4,44,15
+Delta,4,President,,LIB,Chase Oliver Mike ter Maat,2,0,1,1
+Delta,4,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Delta,4,President,,,Under Votes,2,0,1,1
+Delta,4,President,,,Over Votes,0,0,0,0
+Delta,4,U.S. Senate,,REP,Ted Cruz,301,14,215,72
+Delta,4,U.S. Senate,,DEM,Colin Allred,79,5,53,21
+Delta,4,U.S. Senate,,LIB,Ted Brown,10,1,6,3
+Delta,4,U.S. Senate,,,Under Votes,3,0,3,0
+Delta,4,U.S. Senate,,,Over Votes,0,0,0,0
+Delta,4,U.S. House,4,REP,Pat Fallon,314,16,219,79
+Delta,4,U.S. House,4,DEM,Simon Cardell,63,4,45,14
+Delta,4,U.S. House,4,,Under Votes,16,0,13,3
+Delta,4,U.S. House,4,,Over Votes,0,0,0,0
+Delta,4,Railroad Commissioner,,REP,Christi Craddick,301,16,211,74
+Delta,4,Railroad Commissioner,,DEM,Katherine Culbert,60,4,44,12
+Delta,4,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,3,2
+Delta,4,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,3,1
+Delta,4,Railroad Commissioner,,,Under Votes,22,0,16,6
+Delta,4,Railroad Commissioner,,,Over Votes,1,0,0,1
+Delta,4,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,302,15,211,76
+Delta,4,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,62,4,44,14
+Delta,4,"Justice, Supreme Court, Place 2",2,,Under Votes,29,1,22,6
+Delta,4,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Delta,4,"Justice, Supreme Court, Place 4",4,REP,John Devine,299,14,207,78
+Delta,4,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,64,5,47,12
+Delta,4,"Justice, Supreme Court, Place 4",4,,Under Votes,30,1,23,6
+Delta,4,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Delta,4,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,291,13,205,73
+Delta,4,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,63,5,47,11
+Delta,4,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,12,1,6,5
+Delta,4,"Justice, Supreme Court, Place 6",6,,Under Votes,27,1,19,7
+Delta,4,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Delta,4,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,295,14,208,73
+Delta,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,67,5,47,15
+Delta,4,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,31,1,22,8
+Delta,4,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Delta,4,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,292,14,205,73
+Delta,4,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,69,5,49,15
+Delta,4,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,32,1,23,8
+Delta,4,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Delta,4,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,294,14,207,73
+Delta,4,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,65,4,46,15
+Delta,4,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,33,1,24,8
+Delta,4,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,1,0,0
+Delta,4,"Member, State Board of Education, District 12",12,REP,Pam Little,297,13,210,74
+Delta,4,"Member, State Board of Education, District 12",12,DEM,George King,64,6,45,13
+Delta,4,"Member, State Board of Education, District 12",12,,Under Votes,31,1,22,8
+Delta,4,"Member, State Board of Education, District 12",12,,Over Votes,1,0,0,1
+Delta,4,State Representative,62,REP,Shelley Luther,298,14,211,73
+Delta,4,State Representative,62,DEM,Tiffany Drake,65,5,47,13
+Delta,4,State Representative,62,,Under Votes,30,1,19,10
+Delta,4,State Representative,62,,Over Votes,0,0,0,0
+Delta,4,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,319,15,224,80
+Delta,4,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,74,5,53,16
+Delta,4,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Delta,4,"District Judge, 8th Judicial District",,REP,Eddie Northcutt,321,15,226,80
+Delta,4,"District Judge, 8th Judicial District",,,Under Votes,72,5,51,16
+Delta,4,"District Judge, 8th Judicial District",,,Over Votes,0,0,0,0
+Delta,4,"District Judge, 62nd Judicial District",,REP,Will Biard,324,15,229,80
+Delta,4,"District Judge, 62nd Judicial District",,,Under Votes,69,5,48,16
+Delta,4,"District Judge, 62nd Judicial District",,,Over Votes,0,0,0,0
+Delta,4,"District Attorney, 8th Judicial District",,REP,Will Ramsay,326,15,229,82
+Delta,4,"District Attorney, 8th Judicial District",,,Under Votes,67,5,48,14
+Delta,4,"District Attorney, 8th Judicial District",,,Over Votes,0,0,0,0
+Delta,4,County Attorney,,REP,Jay Garrett,318,15,218,85
+Delta,4,County Attorney,,,Under Votes,75,5,59,11
+Delta,4,County Attorney,,,Over Votes,0,0,0,0
+Delta,4,Sheriff,,REP,Marshall Lynch,333,16,231,86
+Delta,4,Sheriff,,,Under Votes,60,4,46,10
+Delta,4,Sheriff,,,Over Votes,0,0,0,0
+Delta,4,County Tax Assessor-Collector,,REP,Dawn Moody,333,15,233,85
+Delta,4,County Tax Assessor-Collector,,,Under Votes,60,5,44,11
+Delta,4,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Delta,4,County Constable,,REP,Elmo Robinson,345,17,241,87
+Delta,4,County Constable,,,Under Votes,48,3,36,9
+Delta,4,County Constable,,,Over Votes,0,0,0,0
+Delta,5,Registered Voters,,,,920,,,
+Delta,5,Ballots Cast,,,,570,,,
+Delta,5,President,,REP,Donald J. Trump JD Vance,480,17,316,147
+Delta,5,President,,DEM,Kamala D. Harris Tim Walz,84,8,49,27
+Delta,5,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+Delta,5,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+Delta,5,President,,,Under Votes,3,0,2,1
+Delta,5,President,,,Over Votes,1,0,1,0
+Delta,5,U.S. Senate,,REP,Ted Cruz,472,17,314,141
+Delta,5,U.S. Senate,,DEM,Colin Allred,88,8,51,29
+Delta,5,U.S. Senate,,LIB,Ted Brown,8,0,5,3
+Delta,5,U.S. Senate,,,Under Votes,2,0,0,2
+Delta,5,U.S. Senate,,,Over Votes,0,0,0,0
+Delta,5,U.S. House,4,REP,Pat Fallon,467,17,307,143
+Delta,5,U.S. House,4,DEM,Simon Cardell,85,8,50,27
+Delta,5,U.S. House,4,,Under Votes,17,0,12,5
+Delta,5,U.S. House,4,,Over Votes,1,0,1,0
+Delta,5,Railroad Commissioner,,REP,Christi Craddick,463,17,310,136
+Delta,5,Railroad Commissioner,,DEM,Katherine Culbert,75,8,41,26
+Delta,5,Railroad Commissioner,,LIB,Hawk Dunlap,11,0,6,5
+Delta,5,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,4,3
+Delta,5,Railroad Commissioner,,,Under Votes,14,0,9,5
+Delta,5,Railroad Commissioner,,,Over Votes,0,0,0,0
+Delta,5,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,472,17,311,144
+Delta,5,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,80,8,45,27
+Delta,5,"Justice, Supreme Court, Place 2",2,,Under Votes,18,0,14,4
+Delta,5,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Delta,5,"Justice, Supreme Court, Place 4",4,REP,John Devine,468,16,310,142
+Delta,5,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,81,8,47,26
+Delta,5,"Justice, Supreme Court, Place 4",4,,Under Votes,20,0,13,7
+Delta,5,"Justice, Supreme Court, Place 4",4,,Over Votes,1,1,0,0
+Delta,5,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,460,17,303,140
+Delta,5,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,80,8,46,26
+Delta,5,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,8,0,6,2
+Delta,5,"Justice, Supreme Court, Place 6",6,,Under Votes,21,0,15,6
+Delta,5,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,0,1
+Delta,5,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,467,17,309,141
+Delta,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,83,8,48,27
+Delta,5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,20,0,13,7
+Delta,5,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Delta,5,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,473,17,313,143
+Delta,5,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,80,8,44,28
+Delta,5,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,17,0,13,4
+Delta,5,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Delta,5,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,474,17,315,142
+Delta,5,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,75,8,41,26
+Delta,5,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,21,0,14,7
+Delta,5,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Delta,5,"Member, State Board of Education, District 12",12,REP,Pam Little,474,17,312,145
+Delta,5,"Member, State Board of Education, District 12",12,DEM,George King,80,8,47,25
+Delta,5,"Member, State Board of Education, District 12",12,,Under Votes,16,0,11,5
+Delta,5,"Member, State Board of Education, District 12",12,,Over Votes,0,0,0,0
+Delta,5,State Representative,62,REP,Shelley Luther,464,17,305,142
+Delta,5,State Representative,62,DEM,Tiffany Drake,86,8,50,28
+Delta,5,State Representative,62,,Under Votes,20,0,15,5
+Delta,5,State Representative,62,,Over Votes,0,0,0,0
+Delta,5,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,488,23,316,149
+Delta,5,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,82,2,54,26
+Delta,5,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Delta,5,"District Judge, 8th Judicial District",,REP,Eddie Northcutt,497,23,320,154
+Delta,5,"District Judge, 8th Judicial District",,,Under Votes,73,2,50,21
+Delta,5,"District Judge, 8th Judicial District",,,Over Votes,0,0,0,0
+Delta,5,"District Judge, 62nd Judicial District",,REP,Will Biard,491,23,319,149
+Delta,5,"District Judge, 62nd Judicial District",,,Under Votes,79,2,51,26
+Delta,5,"District Judge, 62nd Judicial District",,,Over Votes,0,0,0,0
+Delta,5,"District Attorney, 8th Judicial District",,REP,Will Ramsay,498,23,323,152
+Delta,5,"District Attorney, 8th Judicial District",,,Under Votes,72,2,47,23
+Delta,5,"District Attorney, 8th Judicial District",,,Over Votes,0,0,0,0
+Delta,5,County Attorney,,REP,Jay Garrett,504,22,327,155
+Delta,5,County Attorney,,,Under Votes,66,3,43,20
+Delta,5,County Attorney,,,Over Votes,0,0,0,0
+Delta,5,Sheriff,,REP,Marshall Lynch,503,23,328,152
+Delta,5,Sheriff,,,Under Votes,67,2,42,23
+Delta,5,Sheriff,,,Over Votes,0,0,0,0
+Delta,5,County Tax Assessor-Collector,,REP,Dawn Moody,515,22,335,158
+Delta,5,County Tax Assessor-Collector,,,Under Votes,55,3,35,17
+Delta,5,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Delta,5,"County Commissioner, Precinct 2 - Unexpired Term",,REP,Seth Cox,510,22,329,159
+Delta,5,"County Commissioner, Precinct 2 - Unexpired Term",,,Under Votes,60,3,41,16
+Delta,5,"County Commissioner, Precinct 2 - Unexpired Term",,,Over Votes,0,0,0,0
+Delta,5,County Constable,,REP,Elmo Robinson,513,23,334,156
+Delta,5,County Constable,,,Under Votes,57,2,36,19
+Delta,5,County Constable,,,Over Votes,0,0,0,0
+Delta,7,Registered Voters,,,,284,,,
+Delta,7,Ballots Cast,,,,200,,,
+Delta,7,President,,REP,Donald J. Trump JD Vance,172,9,94,69
+Delta,7,President,,DEM,Kamala D. Harris Tim Walz,25,3,8,14
+Delta,7,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+Delta,7,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+Delta,7,President,,,Under Votes,0,0,0,0
+Delta,7,President,,,Over Votes,1,0,0,1
+Delta,7,U.S. Senate,,REP,Ted Cruz,159,10,88,61
+Delta,7,U.S. Senate,,DEM,Colin Allred,35,2,12,21
+Delta,7,U.S. Senate,,LIB,Ted Brown,5,0,3,2
+Delta,7,U.S. Senate,,,Under Votes,1,0,0,1
+Delta,7,U.S. Senate,,,Over Votes,0,0,0,0
+Delta,7,U.S. House,4,REP,Pat Fallon,172,10,90,72
+Delta,7,U.S. House,4,DEM,Simon Cardell,23,2,9,12
+Delta,7,U.S. House,4,,Under Votes,5,0,4,1
+Delta,7,U.S. House,4,,Over Votes,0,0,0,0
+Delta,7,Railroad Commissioner,,REP,Christi Craddick,157,9,83,65
+Delta,7,Railroad Commissioner,,DEM,Katherine Culbert,29,3,12,14
+Delta,7,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,3,4
+Delta,7,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Delta,7,Railroad Commissioner,,,Under Votes,5,0,3,2
+Delta,7,Railroad Commissioner,,,Over Votes,1,0,1,0
+Delta,7,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,167,10,89,68
+Delta,7,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,26,2,10,14
+Delta,7,"Justice, Supreme Court, Place 2",2,,Under Votes,7,0,4,3
+Delta,7,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Delta,7,"Justice, Supreme Court, Place 4",4,REP,John Devine,167,9,88,70
+Delta,7,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,26,3,11,12
+Delta,7,"Justice, Supreme Court, Place 4",4,,Under Votes,7,0,4,3
+Delta,7,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Delta,7,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,164,10,86,68
+Delta,7,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,23,2,10,11
+Delta,7,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,6,0,3,3
+Delta,7,"Justice, Supreme Court, Place 6",6,,Under Votes,7,0,4,3
+Delta,7,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Delta,7,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,167,9,87,71
+Delta,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,27,3,12,12
+Delta,7,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,6,0,4,2
+Delta,7,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Delta,7,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,171,10,90,71
+Delta,7,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,23,2,9,12
+Delta,7,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,6,0,4,2
+Delta,7,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Delta,7,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,171,10,89,72
+Delta,7,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,22,2,9,11
+Delta,7,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,7,0,5,2
+Delta,7,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Delta,7,"Member, State Board of Education, District 12",12,REP,Pam Little,167,10,89,68
+Delta,7,"Member, State Board of Education, District 12",12,DEM,George King,27,2,11,14
+Delta,7,"Member, State Board of Education, District 12",12,,Under Votes,6,0,3,3
+Delta,7,"Member, State Board of Education, District 12",12,,Over Votes,0,0,0,0
+Delta,7,State Representative,62,REP,Shelley Luther,161,10,84,67
+Delta,7,State Representative,62,DEM,Tiffany Drake,31,2,14,15
+Delta,7,State Representative,62,,Under Votes,8,0,5,3
+Delta,7,State Representative,62,,Over Votes,0,0,0,0
+Delta,7,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,175,10,92,73
+Delta,7,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,25,2,11,12
+Delta,7,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Delta,7,"District Judge, 8th Judicial District",,REP,Eddie Northcutt,178,10,94,74
+Delta,7,"District Judge, 8th Judicial District",,,Under Votes,22,2,9,11
+Delta,7,"District Judge, 8th Judicial District",,,Over Votes,0,0,0,0
+Delta,7,"District Judge, 62nd Judicial District",,REP,Will Biard,182,10,95,77
+Delta,7,"District Judge, 62nd Judicial District",,,Under Votes,18,2,8,8
+Delta,7,"District Judge, 62nd Judicial District",,,Over Votes,0,0,0,0
+Delta,7,"District Attorney, 8th Judicial District",,REP,Will Ramsay,180,9,95,76
+Delta,7,"District Attorney, 8th Judicial District",,,Under Votes,20,3,8,9
+Delta,7,"District Attorney, 8th Judicial District",,,Over Votes,0,0,0,0
+Delta,7,County Attorney,,REP,Jay Garrett,174,10,89,75
+Delta,7,County Attorney,,,Under Votes,26,2,14,10
+Delta,7,County Attorney,,,Over Votes,0,0,0,0
+Delta,7,Sheriff,,REP,Marshall Lynch,175,9,92,74
+Delta,7,Sheriff,,,Under Votes,25,3,11,11
+Delta,7,Sheriff,,,Over Votes,0,0,0,0
+Delta,7,County Tax Assessor-Collector,,REP,Dawn Moody,180,10,94,76
+Delta,7,County Tax Assessor-Collector,,,Under Votes,20,2,9,9
+Delta,7,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Delta,7,County Constable,,REP,Elmo Robinson,176,9,91,76
+Delta,7,County Constable,,,Under Votes,24,3,12,9
+Delta,7,County Constable,,,Over Votes,0,0,0,0
+Delta,9,Registered Voters,,,,293,,,
+Delta,9,Ballots Cast,,,,240,,,
+Delta,9,President,,REP,Donald J. Trump JD Vance,217,12,120,85
+Delta,9,President,,DEM,Kamala D. Harris Tim Walz,23,4,9,10
+Delta,9,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Delta,9,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Delta,9,President,,,Under Votes,0,0,0,0
+Delta,9,President,,,Over Votes,0,0,0,0
+Delta,9,U.S. Senate,,REP,Ted Cruz,215,12,118,85
+Delta,9,U.S. Senate,,DEM,Colin Allred,24,4,11,9
+Delta,9,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Delta,9,U.S. Senate,,,Under Votes,1,0,0,1
+Delta,9,U.S. Senate,,,Over Votes,0,0,0,0
+Delta,9,U.S. House,4,REP,Pat Fallon,214,12,116,86
+Delta,9,U.S. House,4,DEM,Simon Cardell,17,4,8,5
+Delta,9,U.S. House,4,,Under Votes,9,0,5,4
+Delta,9,U.S. House,4,,Over Votes,0,0,0,0
+Delta,9,Railroad Commissioner,,REP,Christi Craddick,207,10,115,82
+Delta,9,Railroad Commissioner,,DEM,Katherine Culbert,17,4,7,6
+Delta,9,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,0,2
+Delta,9,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Delta,9,Railroad Commissioner,,,Under Votes,14,2,7,5
+Delta,9,Railroad Commissioner,,,Over Votes,0,0,0,0
+Delta,9,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,207,10,113,84
+Delta,9,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,16,4,7,5
+Delta,9,"Justice, Supreme Court, Place 2",2,,Under Votes,17,2,9,6
+Delta,9,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Delta,9,"Justice, Supreme Court, Place 4",4,REP,John Devine,204,10,112,82
+Delta,9,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,17,4,8,5
+Delta,9,"Justice, Supreme Court, Place 4",4,,Under Votes,19,2,9,8
+Delta,9,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Delta,9,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,203,10,110,83
+Delta,9,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,16,4,8,4
+Delta,9,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Delta,9,"Justice, Supreme Court, Place 6",6,,Under Votes,21,2,11,8
+Delta,9,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Delta,9,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,203,10,110,83
+Delta,9,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,17,4,8,5
+Delta,9,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,20,2,11,7
+Delta,9,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Delta,9,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,203,10,110,83
+Delta,9,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,17,4,8,5
+Delta,9,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,20,2,11,7
+Delta,9,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Delta,9,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,206,10,112,84
+Delta,9,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,14,4,6,4
+Delta,9,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,20,2,11,7
+Delta,9,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Delta,9,"Member, State Board of Education, District 12",12,REP,Pam Little,205,9,112,84
+Delta,9,"Member, State Board of Education, District 12",12,DEM,George King,17,4,8,5
+Delta,9,"Member, State Board of Education, District 12",12,,Under Votes,18,3,9,6
+Delta,9,"Member, State Board of Education, District 12",12,,Over Votes,0,0,0,0
+Delta,9,State Representative,62,REP,Shelley Luther,205,10,112,83
+Delta,9,State Representative,62,DEM,Tiffany Drake,14,4,7,3
+Delta,9,State Representative,62,,Under Votes,21,2,10,9
+Delta,9,State Representative,62,,Over Votes,0,0,0,0
+Delta,9,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,201,8,109,84
+Delta,9,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,39,8,20,11
+Delta,9,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Delta,9,"District Judge, 8th Judicial District",,REP,Eddie Northcutt,203,9,112,82
+Delta,9,"District Judge, 8th Judicial District",,,Under Votes,37,7,17,13
+Delta,9,"District Judge, 8th Judicial District",,,Over Votes,0,0,0,0
+Delta,9,"District Judge, 62nd Judicial District",,REP,Will Biard,199,8,109,82
+Delta,9,"District Judge, 62nd Judicial District",,,Under Votes,41,8,20,13
+Delta,9,"District Judge, 62nd Judicial District",,,Over Votes,0,0,0,0
+Delta,9,"District Attorney, 8th Judicial District",,REP,Will Ramsay,201,8,112,81
+Delta,9,"District Attorney, 8th Judicial District",,,Under Votes,39,8,17,14
+Delta,9,"District Attorney, 8th Judicial District",,,Over Votes,0,0,0,0
+Delta,9,County Attorney,,REP,Jay Garrett,190,9,105,76
+Delta,9,County Attorney,,,Under Votes,50,7,24,19
+Delta,9,County Attorney,,,Over Votes,0,0,0,0
+Delta,9,Sheriff,,REP,Marshall Lynch,205,10,114,81
+Delta,9,Sheriff,,,Under Votes,35,6,15,14
+Delta,9,Sheriff,,,Over Votes,0,0,0,0
+Delta,9,County Tax Assessor-Collector,,REP,Dawn Moody,212,11,117,84
+Delta,9,County Tax Assessor-Collector,,,Under Votes,28,5,12,11
+Delta,9,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Delta,9,"County Commissioner, Precinct 1",,REP,Mike Gibson,203,9,114,80
+Delta,9,"County Commissioner, Precinct 1",,,Under Votes,37,7,15,15
+Delta,9,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Delta,9,County Constable,,REP,Elmo Robinson,210,10,117,83
+Delta,9,County Constable,,,Under Votes,30,6,12,12
+Delta,9,County Constable,,,Over Votes,0,0,0,0
+Delta,10,Registered Voters,,,,460,,,
+Delta,10,Ballots Cast,,,,325,,,
+Delta,10,President,,REP,Donald J. Trump JD Vance,266,3,184,79
+Delta,10,President,,DEM,Kamala D. Harris Tim Walz,56,5,30,21
+Delta,10,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Delta,10,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+Delta,10,President,,,Under Votes,1,0,1,0
+Delta,10,President,,,Over Votes,1,0,1,0
+Delta,10,U.S. Senate,,REP,Ted Cruz,256,3,178,75
+Delta,10,U.S. Senate,,DEM,Colin Allred,60,5,33,22
+Delta,10,U.S. Senate,,LIB,Ted Brown,8,0,5,3
+Delta,10,U.S. Senate,,,Under Votes,1,0,1,0
+Delta,10,U.S. Senate,,,Over Votes,0,0,0,0
+Delta,10,U.S. House,4,REP,Pat Fallon,268,3,185,80
+Delta,10,U.S. House,4,DEM,Simon Cardell,49,5,25,19
+Delta,10,U.S. House,4,,Under Votes,8,0,7,1
+Delta,10,U.S. House,4,,Over Votes,0,0,0,0
+Delta,10,Railroad Commissioner,,REP,Christi Craddick,259,3,178,78
+Delta,10,Railroad Commissioner,,DEM,Katherine Culbert,48,5,24,19
+Delta,10,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,2,0
+Delta,10,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,1,2
+Delta,10,Railroad Commissioner,,,Under Votes,12,0,11,1
+Delta,10,Railroad Commissioner,,,Over Votes,1,0,1,0
+Delta,10,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,262,3,181,78
+Delta,10,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,51,5,27,19
+Delta,10,"Justice, Supreme Court, Place 2",2,,Under Votes,12,0,9,3
+Delta,10,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Delta,10,"Justice, Supreme Court, Place 4",4,REP,John Devine,263,3,181,79
+Delta,10,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,51,5,27,19
+Delta,10,"Justice, Supreme Court, Place 4",4,,Under Votes,11,0,9,2
+Delta,10,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Delta,10,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,254,3,175,76
+Delta,10,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,52,5,27,20
+Delta,10,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,7,0,4,3
+Delta,10,"Justice, Supreme Court, Place 6",6,,Under Votes,12,0,11,1
+Delta,10,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Delta,10,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,261,3,180,78
+Delta,10,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,51,5,25,21
+Delta,10,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,13,0,12,1
+Delta,10,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Delta,10,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,262,3,181,78
+Delta,10,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,50,5,26,19
+Delta,10,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,13,0,10,3
+Delta,10,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Delta,10,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,263,3,181,79
+Delta,10,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,46,5,23,18
+Delta,10,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,16,0,13,3
+Delta,10,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Delta,10,"Member, State Board of Education, District 12",12,REP,Pam Little,261,3,177,81
+Delta,10,"Member, State Board of Education, District 12",12,DEM,George King,51,5,29,17
+Delta,10,"Member, State Board of Education, District 12",12,,Under Votes,13,0,11,2
+Delta,10,"Member, State Board of Education, District 12",12,,Over Votes,0,0,0,0
+Delta,10,State Representative,62,REP,Shelley Luther,258,3,177,78
+Delta,10,State Representative,62,DEM,Tiffany Drake,53,5,29,19
+Delta,10,State Representative,62,,Under Votes,14,0,11,3
+Delta,10,State Representative,62,,Over Votes,0,0,0,0
+Delta,10,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,281,7,188,86
+Delta,10,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,44,1,29,14
+Delta,10,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Delta,10,"District Judge, 8th Judicial District",,REP,Eddie Northcutt,281,7,189,85
+Delta,10,"District Judge, 8th Judicial District",,,Under Votes,44,1,28,15
+Delta,10,"District Judge, 8th Judicial District",,,Over Votes,0,0,0,0
+Delta,10,"District Judge, 62nd Judicial District",,REP,Will Biard,275,7,182,86
+Delta,10,"District Judge, 62nd Judicial District",,,Under Votes,50,1,35,14
+Delta,10,"District Judge, 62nd Judicial District",,,Over Votes,0,0,0,0
+Delta,10,"District Attorney, 8th Judicial District",,REP,Will Ramsay,279,7,186,86
+Delta,10,"District Attorney, 8th Judicial District",,,Under Votes,46,1,31,14
+Delta,10,"District Attorney, 8th Judicial District",,,Over Votes,0,0,0,0
+Delta,10,County Attorney,,REP,Jay Garrett,275,7,182,86
+Delta,10,County Attorney,,,Under Votes,50,1,35,14
+Delta,10,County Attorney,,,Over Votes,0,0,0,0
+Delta,10,Sheriff,,REP,Marshall Lynch,278,8,184,86
+Delta,10,Sheriff,,,Under Votes,47,0,33,14
+Delta,10,Sheriff,,,Over Votes,0,0,0,0
+Delta,10,County Tax Assessor-Collector,,REP,Dawn Moody,283,8,190,85
+Delta,10,County Tax Assessor-Collector,,,Under Votes,42,0,27,15
+Delta,10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Delta,10,"County Commissioner, Precinct 3",,REP,Anthony Roberts,278,7,185,86
+Delta,10,"County Commissioner, Precinct 3",,,Under Votes,47,1,32,14
+Delta,10,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Delta,10,County Constable,,REP,Elmo Robinson,287,7,192,88
+Delta,10,County Constable,,,Under Votes,38,1,25,12
+Delta,10,County Constable,,,Over Votes,0,0,0,0
