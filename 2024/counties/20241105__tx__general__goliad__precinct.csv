@@ -1,0 +1,877 @@
+﻿county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Goliad,Precinct 11,Registered Voters,,,,1022,,,
+Goliad,Precinct 11,Ballots Cast,,,,610,19,467,124
+Goliad,Precinct 11,Ballots Cast - Blank,,,,0,0,0,0
+Goliad,Precinct 11,President,,REP,Donald J. Trump,412,8,332,72
+Goliad,Precinct 11,President,,DEM,Kamala D. Harris,193,11,133,49
+Goliad,Precinct 11,President,,LIB,Chase Oliver,1,0,0,1
+Goliad,Precinct 11,President,,GRN,Jill Stein,0,0,0,0
+Goliad,Precinct 11,President,,,Write-ins,3,0,1,2
+Goliad,Precinct 11,President,,,Over Votes,0,0,0,0
+Goliad,Precinct 11,President,,,Under Votes,1,0,1,0
+Goliad,Precinct 11,U.S. Senate,,REP,Ted Cruz,374,8,308,58
+Goliad,Precinct 11,U.S. Senate,,DEM,Colin Allred,213,11,143,59
+Goliad,Precinct 11,U.S. Senate,,LIB,Ted Brown,9,0,8,1
+Goliad,Precinct 11,U.S. Senate,,,Write-ins,2,0,0,2
+Goliad,Precinct 11,U.S. Senate,,,Over Votes,2,0,2,0
+Goliad,Precinct 11,U.S. Senate,,,Under Votes,10,0,6,4
+Goliad,Precinct 11,U.S. House,27,REP,Michael Cloud,396,8,322,66
+Goliad,Precinct 11,U.S. House,27,DEM,Tanya Lloyd,190,11,128,51
+Goliad,Precinct 11,U.S. House,27,,Over Votes,0,0,0,0
+Goliad,Precinct 11,U.S. House,27,,Under Votes,24,0,17,7
+Goliad,Precinct 11,Railroad Commissioner,,REP,Christi Craddick,370,8,306,56
+Goliad,Precinct 11,Railroad Commissioner,,DEM,Katherine Culbert,172,11,116,45
+Goliad,Precinct 11,Railroad Commissioner,,LIB,Hawk Dunlap,9,0,3,6
+Goliad,Precinct 11,Railroad Commissioner,,GRN,Eddie Espinoza,18,0,13,5
+Goliad,Precinct 11,Railroad Commissioner,,,Write-ins,3,0,1,2
+Goliad,Precinct 11,Railroad Commissioner,,,Over Votes,0,0,0,0
+Goliad,Precinct 11,Railroad Commissioner,,,Under Votes,38,0,28,10
+Goliad,Precinct 11,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,388,8,318,62
+Goliad,Precinct 11,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,177,11,117,49
+Goliad,Precinct 11,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 11,"Justice, Supreme Court, Pl 2",,,Under Votes,45,0,32,13
+Goliad,Precinct 11,"Justice, Supreme Court, Pl 4",,REP,John Devine,377,8,307,62
+Goliad,Precinct 11,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,189,11,127,51
+Goliad,Precinct 11,"Justice, Supreme Court, Pl 4",,,Over Votes,0,0,0,0
+Goliad,Precinct 11,"Justice, Supreme Court, Pl 4",,,Under Votes,44,0,33,11
+Goliad,Precinct 11,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,372,8,303,61
+Goliad,Precinct 11,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,180,11,121,48
+Goliad,Precinct 11,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,14,0,8,6
+Goliad,Precinct 11,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Goliad,Precinct 11,"Justice, Supreme Court, Pl 6",,,Under Votes,44,0,35,9
+Goliad,Precinct 11,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,378,8,311,59
+Goliad,Precinct 11,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,184,11,120,53
+Goliad,Precinct 11,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Goliad,Precinct 11,"Presiding Judge, Ct of Crim App",,,Under Votes,48,0,36,12
+Goliad,Precinct 11,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,377,8,308,61
+Goliad,Precinct 11,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,178,11,115,52
+Goliad,Precinct 11,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Goliad,Precinct 11,"Judge, Ct of Crim App, Pl 7",,,Under Votes,55,0,44,11
+Goliad,Precinct 11,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,392,9,315,68
+Goliad,Precinct 11,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,164,10,110,44
+Goliad,Precinct 11,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Goliad,Precinct 11,"Judge, Ct of Crim App, Pl 8",,,Under Votes,54,0,42,12
+Goliad,Precinct 11,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,282,12,193,77
+Goliad,Precinct 11,"Member, State BoE, Dist 3",,,Over Votes,0,0,0,0
+Goliad,Precinct 11,"Member, State BoE, Dist 3",,,Under Votes,328,7,274,47
+Goliad,Precinct 11,State Representative,30,REP,AJ Louderback,372,8,305,59
+Goliad,Precinct 11,State Representative,30,DEM,Stephanie R. Bassham,192,11,125,56
+Goliad,Precinct 11,State Representative,30,,Over Votes,0,0,0,0
+Goliad,Precinct 11,State Representative,30,,Under Votes,46,0,37,9
+Goliad,Precinct 11,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,369,8,302,59
+Goliad,Precinct 11,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,189,11,124,54
+Goliad,Precinct 11,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 11,"Chief Justice, 13th Ct of App Dist",,,Under Votes,52,0,41,11
+Goliad,Precinct 11,"Justice, 13th Ct of App Dist, Pl 2",,REP,Jenny Cron,355,8,294,53
+Goliad,Precinct 11,"Justice, 13th Ct of App Dist, Pl 2",,DEM,Nora Longoria,207,11,135,61
+Goliad,Precinct 11,"Justice, 13th Ct of App Dist, Pl 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 11,"Justice, 13th Ct of App Dist, Pl 2",,,Under Votes,48,0,38,10
+Goliad,Precinct 11,"Justice, 13th Ct of App Dist, Pl 4",,REP,Ysmael D. Fonseca,357,8,291,58
+Goliad,Precinct 11,"Justice, 13th Ct of App Dist, Pl 4",,DEM,Joe Martinez,195,10,131,54
+Goliad,Precinct 11,"Justice, 13th Ct of App Dist, Pl 4",,,Over Votes,0,0,0,0
+Goliad,Precinct 11,"Justice, 13th Ct of App Dist, Pl 4",,,Under Votes,58,1,45,12
+Goliad,Precinct 11,"Justice, 13th Ct of App Dist, Pl 5",,REP,Jon West,382,8,312,62
+Goliad,Precinct 11,"Justice, 13th Ct of App Dist, Pl 5",,DEM,Regi Compian Richardson,171,11,113,47
+Goliad,Precinct 11,"Justice, 13th Ct of App Dist, Pl 5",,,Over Votes,0,0,0,0
+Goliad,Precinct 11,"Justice, 13th Ct of App Dist, Pl 5",,,Under Votes,57,0,42,15
+Goliad,Precinct 11,"Dist Judge, 24th Judicial Dist",,REP,Lisa Harvey Moore,436,10,341,85
+Goliad,Precinct 11,"Dist Judge, 24th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 11,"Dist Judge, 24th Judicial Dist",,,Under Votes,174,9,126,39
+Goliad,Precinct 11,"Dist Judge, 135th Judicial Dist",,REP,Kemper Stephen Williams,429,7,338,84
+Goliad,Precinct 11,"Dist Judge, 135th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 11,"Dist Judge, 135th Judicial Dist",,,Under Votes,181,12,129,40
+Goliad,Precinct 11,"Dist Attorney, 24th Judicial Dist",,REP,Brian Michael Cromeens,430,9,338,83
+Goliad,Precinct 11,"Dist Attorney, 24th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 11,"Dist Attorney, 24th Judicial Dist",,,Under Votes,180,10,129,41
+Goliad,Precinct 11,County Attorney,,,Write-ins,142,4,90,48
+Goliad,Precinct 11,County Attorney,,,Over Votes,0,0,0,0
+Goliad,Precinct 11,County Attorney,,,Under Votes,468,15,377,76
+Goliad,Precinct 11,Sheriff,,REP,Roy Boyd Jr,455,9,355,91
+Goliad,Precinct 11,Sheriff,,,Over Votes,0,0,0,0
+Goliad,Precinct 11,Sheriff,,,Under Votes,155,10,112,33
+Goliad,Precinct 11,County Tax Assessor-Collector,,REP,Michelle Garcia,464,11,357,96
+Goliad,Precinct 11,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Goliad,Precinct 11,County Tax Assessor-Collector,,,Under Votes,146,8,110,28
+Goliad,Precinct 11,"County Commissioner, Precinct No. 1",,REP,Kenneth Edwards,473,12,367,94
+Goliad,Precinct 11,"County Commissioner, Precinct No. 1",,,Over Votes,0,0,0,0
+Goliad,Precinct 11,"County Commissioner, Precinct No. 1",,,Under Votes,137,7,100,30
+Goliad,Precinct 11,"Constable, Precinct No. 1",,REP,Kevin Story,435,9,336,90
+Goliad,Precinct 11,"Constable, Precinct No. 1",,,Over Votes,0,0,0,0
+Goliad,Precinct 11,"Constable, Precinct No. 1",,,Under Votes,175,10,131,34
+Goliad,Precinct 12,Registered Voters,,,,509,,,
+Goliad,Precinct 12,Ballots Cast,,,,365,12,242,111
+Goliad,Precinct 12,Ballots Cast - Blank,,,,0,0,0,0
+Goliad,Precinct 12,President,,REP,Donald J. Trump,327,7,222,98
+Goliad,Precinct 12,President,,DEM,Kamala D. Harris,35,5,18,12
+Goliad,Precinct 12,President,,LIB,Chase Oliver,2,0,2,0
+Goliad,Precinct 12,President,,GRN,Jill Stein,1,0,0,1
+Goliad,Precinct 12,President,,,Write-ins,0,0,0,0
+Goliad,Precinct 12,President,,,Over Votes,0,0,0,0
+Goliad,Precinct 12,President,,,Under Votes,0,0,0,0
+Goliad,Precinct 12,U.S. Senate,,REP,Ted Cruz,316,7,215,94
+Goliad,Precinct 12,U.S. Senate,,DEM,Colin Allred,41,3,24,14
+Goliad,Precinct 12,U.S. Senate,,LIB,Ted Brown,4,1,1,2
+Goliad,Precinct 12,U.S. Senate,,,Write-ins,0,0,0,0
+Goliad,Precinct 12,U.S. Senate,,,Over Votes,0,0,0,0
+Goliad,Precinct 12,U.S. Senate,,,Under Votes,4,1,2,1
+Goliad,Precinct 12,U.S. House,27,REP,Michael Cloud,327,7,221,99
+Goliad,Precinct 12,U.S. House,27,DEM,Tanya Lloyd,28,4,13,11
+Goliad,Precinct 12,U.S. House,27,,Over Votes,0,0,0,0
+Goliad,Precinct 12,U.S. House,27,,Under Votes,10,1,8,1
+Goliad,Precinct 12,Railroad Commissioner,,REP,Christi Craddick,306,7,211,88
+Goliad,Precinct 12,Railroad Commissioner,,DEM,Katherine Culbert,31,3,16,12
+Goliad,Precinct 12,Railroad Commissioner,,LIB,Hawk Dunlap,10,1,5,4
+Goliad,Precinct 12,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,1,3
+Goliad,Precinct 12,Railroad Commissioner,,,Write-ins,0,0,0,0
+Goliad,Precinct 12,Railroad Commissioner,,,Over Votes,0,0,0,0
+Goliad,Precinct 12,Railroad Commissioner,,,Under Votes,14,1,9,4
+Goliad,Precinct 12,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,313,7,214,92
+Goliad,Precinct 12,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,36,5,17,14
+Goliad,Precinct 12,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 12,"Justice, Supreme Court, Pl 2",,,Under Votes,16,0,11,5
+Goliad,Precinct 12,"Justice, Supreme Court, Pl 4",,REP,John Devine,316,7,214,95
+Goliad,Precinct 12,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,35,4,19,12
+Goliad,Precinct 12,"Justice, Supreme Court, Pl 4",,,Over Votes,0,0,0,0
+Goliad,Precinct 12,"Justice, Supreme Court, Pl 4",,,Under Votes,14,1,9,4
+Goliad,Precinct 12,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,308,7,209,92
+Goliad,Precinct 12,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,32,2,17,13
+Goliad,Precinct 12,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,9,2,5,2
+Goliad,Precinct 12,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Goliad,Precinct 12,"Justice, Supreme Court, Pl 6",,,Under Votes,16,1,11,4
+Goliad,Precinct 12,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,314,8,215,91
+Goliad,Precinct 12,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,36,4,17,15
+Goliad,Precinct 12,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Goliad,Precinct 12,"Presiding Judge, Ct of Crim App",,,Under Votes,15,0,10,5
+Goliad,Precinct 12,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,311,8,211,92
+Goliad,Precinct 12,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,33,3,18,12
+Goliad,Precinct 12,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Goliad,Precinct 12,"Judge, Ct of Crim App, Pl 7",,,Under Votes,21,1,13,7
+Goliad,Precinct 12,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,314,7,214,93
+Goliad,Precinct 12,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,33,4,17,12
+Goliad,Precinct 12,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Goliad,Precinct 12,"Judge, Ct of Crim App, Pl 8",,,Under Votes,18,1,11,6
+Goliad,Precinct 12,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,118,6,70,42
+Goliad,Precinct 12,"Member, State BoE, Dist 3",,,Over Votes,0,0,0,0
+Goliad,Precinct 12,"Member, State BoE, Dist 3",,,Under Votes,247,6,172,69
+Goliad,Precinct 12,State Representative,30,REP,AJ Louderback,313,7,213,93
+Goliad,Precinct 12,State Representative,30,DEM,Stephanie R. Bassham,36,4,19,13
+Goliad,Precinct 12,State Representative,30,,Over Votes,0,0,0,0
+Goliad,Precinct 12,State Representative,30,,Under Votes,16,1,10,5
+Goliad,Precinct 12,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,311,8,212,91
+Goliad,Precinct 12,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,37,4,17,16
+Goliad,Precinct 12,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 12,"Chief Justice, 13th Ct of App Dist",,,Under Votes,17,0,13,4
+Goliad,Precinct 12,"Justice, 13th Ct of App Dist, Pl 2",,REP,Jenny Cron,306,7,212,87
+Goliad,Precinct 12,"Justice, 13th Ct of App Dist, Pl 2",,DEM,Nora Longoria,40,4,17,19
+Goliad,Precinct 12,"Justice, 13th Ct of App Dist, Pl 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 12,"Justice, 13th Ct of App Dist, Pl 2",,,Under Votes,19,1,13,5
+Goliad,Precinct 12,"Justice, 13th Ct of App Dist, Pl 4",,REP,Ysmael D. Fonseca,313,9,212,92
+Goliad,Precinct 12,"Justice, 13th Ct of App Dist, Pl 4",,DEM,Joe Martinez,33,2,17,14
+Goliad,Precinct 12,"Justice, 13th Ct of App Dist, Pl 4",,,Over Votes,0,0,0,0
+Goliad,Precinct 12,"Justice, 13th Ct of App Dist, Pl 4",,,Under Votes,19,1,13,5
+Goliad,Precinct 12,"Justice, 13th Ct of App Dist, Pl 5",,REP,Jon West,314,9,213,92
+Goliad,Precinct 12,"Justice, 13th Ct of App Dist, Pl 5",,DEM,Regi Compian Richardson,32,2,16,14
+Goliad,Precinct 12,"Justice, 13th Ct of App Dist, Pl 5",,,Over Votes,0,0,0,0
+Goliad,Precinct 12,"Justice, 13th Ct of App Dist, Pl 5",,,Under Votes,19,1,13,5
+Goliad,Precinct 12,"Dist Judge, 24th Judicial Dist",,REP,Lisa Harvey Moore,325,11,216,98
+Goliad,Precinct 12,"Dist Judge, 24th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 12,"Dist Judge, 24th Judicial Dist",,,Under Votes,40,1,26,13
+Goliad,Precinct 12,"Dist Judge, 135th Judicial Dist",,REP,Kemper Stephen Williams,320,10,213,97
+Goliad,Precinct 12,"Dist Judge, 135th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 12,"Dist Judge, 135th Judicial Dist",,,Under Votes,45,2,29,14
+Goliad,Precinct 12,"Dist Attorney, 24th Judicial Dist",,REP,Brian Michael Cromeens,323,10,216,97
+Goliad,Precinct 12,"Dist Attorney, 24th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 12,"Dist Attorney, 24th Judicial Dist",,,Under Votes,42,2,26,14
+Goliad,Precinct 12,County Attorney,,,Write-ins,73,6,47,20
+Goliad,Precinct 12,County Attorney,,,Over Votes,0,0,0,0
+Goliad,Precinct 12,County Attorney,,,Under Votes,292,6,195,91
+Goliad,Precinct 12,Sheriff,,REP,Roy Boyd Jr,327,11,215,101
+Goliad,Precinct 12,Sheriff,,,Over Votes,0,0,0,0
+Goliad,Precinct 12,Sheriff,,,Under Votes,38,1,27,10
+Goliad,Precinct 12,County Tax Assessor-Collector,,REP,Michelle Garcia,321,10,214,97
+Goliad,Precinct 12,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Goliad,Precinct 12,County Tax Assessor-Collector,,,Under Votes,44,2,28,14
+Goliad,Precinct 12,"County Commissioner, Precinct No. 1",,REP,Kenneth Edwards,308,8,202,98
+Goliad,Precinct 12,"County Commissioner, Precinct No. 1",,,Over Votes,0,0,0,0
+Goliad,Precinct 12,"County Commissioner, Precinct No. 1",,,Under Votes,57,4,40,13
+Goliad,Precinct 12,"Constable, Precinct No. 1",,REP,Kevin Story,316,10,211,95
+Goliad,Precinct 12,"Constable, Precinct No. 1",,,Over Votes,0,0,0,0
+Goliad,Precinct 12,"Constable, Precinct No. 1",,,Under Votes,49,2,31,16
+Goliad,Precinct 21,Registered Voters,,,,1184,,,
+Goliad,Precinct 21,Ballots Cast,,,,696,28,537,131
+Goliad,Precinct 21,Ballots Cast - Blank,,,,0,0,0,0
+Goliad,Precinct 21,President,,REP,Donald J. Trump,448,11,349,88
+Goliad,Precinct 21,President,,DEM,Kamala D. Harris,236,16,179,41
+Goliad,Precinct 21,President,,LIB,Chase Oliver,4,0,2,2
+Goliad,Precinct 21,President,,GRN,Jill Stein,3,0,3,0
+Goliad,Precinct 21,President,,,Write-ins,1,0,1,0
+Goliad,Precinct 21,President,,,Over Votes,0,0,0,0
+Goliad,Precinct 21,President,,,Under Votes,4,1,3,0
+Goliad,Precinct 21,U.S. Senate,,REP,Ted Cruz,416,11,330,75
+Goliad,Precinct 21,U.S. Senate,,DEM,Colin Allred,250,17,183,50
+Goliad,Precinct 21,U.S. Senate,,LIB,Ted Brown,14,0,12,2
+Goliad,Precinct 21,U.S. Senate,,,Write-ins,1,0,1,0
+Goliad,Precinct 21,U.S. Senate,,,Over Votes,0,0,0,0
+Goliad,Precinct 21,U.S. Senate,,,Under Votes,15,0,11,4
+Goliad,Precinct 21,U.S. House,27,REP,Michael Cloud,441,11,358,72
+Goliad,Precinct 21,U.S. House,27,DEM,Tanya Lloyd,219,17,158,44
+Goliad,Precinct 21,U.S. House,27,,Over Votes,0,0,0,0
+Goliad,Precinct 21,U.S. House,27,,Under Votes,36,0,21,15
+Goliad,Precinct 21,Railroad Commissioner,,REP,Christi Craddick,411,12,334,65
+Goliad,Precinct 21,Railroad Commissioner,,DEM,Katherine Culbert,208,15,153,40
+Goliad,Precinct 21,Railroad Commissioner,,LIB,Hawk Dunlap,12,0,8,4
+Goliad,Precinct 21,Railroad Commissioner,,GRN,Eddie Espinoza,12,0,8,4
+Goliad,Precinct 21,Railroad Commissioner,,,Write-ins,0,0,0,0
+Goliad,Precinct 21,Railroad Commissioner,,,Over Votes,0,0,0,0
+Goliad,Precinct 21,Railroad Commissioner,,,Under Votes,53,1,34,18
+Goliad,Precinct 21,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,427,12,344,71
+Goliad,Precinct 21,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,218,15,162,41
+Goliad,Precinct 21,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 21,"Justice, Supreme Court, Pl 2",,,Under Votes,51,1,31,19
+Goliad,Precinct 21,"Justice, Supreme Court, Pl 4",,REP,John Devine,421,12,341,68
+Goliad,Precinct 21,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,221,15,164,42
+Goliad,Precinct 21,"Justice, Supreme Court, Pl 4",,,Over Votes,0,0,0,0
+Goliad,Precinct 21,"Justice, Supreme Court, Pl 4",,,Under Votes,54,1,32,21
+Goliad,Precinct 21,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,411,11,330,70
+Goliad,Precinct 21,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,213,16,162,35
+Goliad,Precinct 21,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,12,0,7,5
+Goliad,Precinct 21,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Goliad,Precinct 21,"Justice, Supreme Court, Pl 6",,,Under Votes,60,1,38,21
+Goliad,Precinct 21,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,411,11,328,72
+Goliad,Precinct 21,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,223,16,169,38
+Goliad,Precinct 21,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Goliad,Precinct 21,"Presiding Judge, Ct of Crim App",,,Under Votes,62,1,40,21
+Goliad,Precinct 21,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,418,11,333,74
+Goliad,Precinct 21,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,210,16,159,35
+Goliad,Precinct 21,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Goliad,Precinct 21,"Judge, Ct of Crim App, Pl 7",,,Under Votes,68,1,45,22
+Goliad,Precinct 21,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,425,11,342,72
+Goliad,Precinct 21,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,207,16,152,39
+Goliad,Precinct 21,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Goliad,Precinct 21,"Judge, Ct of Crim App, Pl 8",,,Under Votes,64,1,43,20
+Goliad,Precinct 21,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,326,17,246,63
+Goliad,Precinct 21,"Member, State BoE, Dist 3",,,Over Votes,0,0,0,0
+Goliad,Precinct 21,"Member, State BoE, Dist 3",,,Under Votes,370,11,291,68
+Goliad,Precinct 21,State Representative,30,REP,AJ Louderback,422,11,339,72
+Goliad,Precinct 21,State Representative,30,DEM,Stephanie R. Bassham,222,16,166,40
+Goliad,Precinct 21,State Representative,30,,Over Votes,0,0,0,0
+Goliad,Precinct 21,State Representative,30,,Under Votes,52,1,32,19
+Goliad,Precinct 21,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,403,11,324,68
+Goliad,Precinct 21,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,223,16,162,45
+Goliad,Precinct 21,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 21,"Chief Justice, 13th Ct of App Dist",,,Under Votes,70,1,51,18
+Goliad,Precinct 21,"Justice, 13th Ct of App Dist, Pl 2",,REP,Jenny Cron,399,11,321,67
+Goliad,Precinct 21,"Justice, 13th Ct of App Dist, Pl 2",,DEM,Nora Longoria,224,15,165,44
+Goliad,Precinct 21,"Justice, 13th Ct of App Dist, Pl 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 21,"Justice, 13th Ct of App Dist, Pl 2",,,Under Votes,73,2,51,20
+Goliad,Precinct 21,"Justice, 13th Ct of App Dist, Pl 4",,REP,Ysmael D. Fonseca,397,11,319,67
+Goliad,Precinct 21,"Justice, 13th Ct of App Dist, Pl 4",,DEM,Joe Martinez,227,16,168,43
+Goliad,Precinct 21,"Justice, 13th Ct of App Dist, Pl 4",,,Over Votes,0,0,0,0
+Goliad,Precinct 21,"Justice, 13th Ct of App Dist, Pl 4",,,Under Votes,72,1,50,21
+Goliad,Precinct 21,"Justice, 13th Ct of App Dist, Pl 5",,REP,Jon West,415,11,334,70
+Goliad,Precinct 21,"Justice, 13th Ct of App Dist, Pl 5",,DEM,Regi Compian Richardson,204,16,149,39
+Goliad,Precinct 21,"Justice, 13th Ct of App Dist, Pl 5",,,Over Votes,0,0,0,0
+Goliad,Precinct 21,"Justice, 13th Ct of App Dist, Pl 5",,,Under Votes,77,1,54,22
+Goliad,Precinct 21,"Dist Judge, 24th Judicial Dist",,REP,Lisa Harvey Moore,466,11,381,74
+Goliad,Precinct 21,"Dist Judge, 24th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 21,"Dist Judge, 24th Judicial Dist",,,Under Votes,230,17,156,57
+Goliad,Precinct 21,"Dist Judge, 135th Judicial Dist",,REP,Kemper Stephen Williams,482,11,394,77
+Goliad,Precinct 21,"Dist Judge, 135th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 21,"Dist Judge, 135th Judicial Dist",,,Under Votes,214,17,143,54
+Goliad,Precinct 21,"Dist Attorney, 24th Judicial Dist",,REP,Brian Michael Cromeens,469,11,383,75
+Goliad,Precinct 21,"Dist Attorney, 24th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 21,"Dist Attorney, 24th Judicial Dist",,,Under Votes,227,17,154,56
+Goliad,Precinct 21,County Attorney,,,Write-ins,161,5,127,29
+Goliad,Precinct 21,County Attorney,,,Over Votes,0,0,0,0
+Goliad,Precinct 21,County Attorney,,,Under Votes,535,23,410,102
+Goliad,Precinct 21,Sheriff,,REP,Roy Boyd Jr,487,11,390,86
+Goliad,Precinct 21,Sheriff,,,Over Votes,0,0,0,0
+Goliad,Precinct 21,Sheriff,,,Under Votes,209,17,147,45
+Goliad,Precinct 21,County Tax Assessor-Collector,,REP,Michelle Garcia,513,14,409,90
+Goliad,Precinct 21,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Goliad,Precinct 21,County Tax Assessor-Collector,,,Under Votes,183,14,128,41
+Goliad,Precinct 21,"Constable, Precinct No. 1",,REP,Kevin Story,452,12,366,74
+Goliad,Precinct 21,"Constable, Precinct No. 1",,,Over Votes,0,0,0,0
+Goliad,Precinct 21,"Constable, Precinct No. 1",,,Under Votes,244,16,171,57
+Goliad,Precinct 22,Registered Voters,,,,279,,,
+Goliad,Precinct 22,Ballots Cast,,,,186,6,113,67
+Goliad,Precinct 22,Ballots Cast - Blank,,,,0,0,0,0
+Goliad,Precinct 22,President,,REP,Donald J. Trump,150,3,102,45
+Goliad,Precinct 22,President,,DEM,Kamala D. Harris,35,3,11,21
+Goliad,Precinct 22,President,,LIB,Chase Oliver,1,0,0,1
+Goliad,Precinct 22,President,,GRN,Jill Stein,0,0,0,0
+Goliad,Precinct 22,President,,,Write-ins,0,0,0,0
+Goliad,Precinct 22,President,,,Over Votes,0,0,0,0
+Goliad,Precinct 22,President,,,Under Votes,0,0,0,0
+Goliad,Precinct 22,U.S. Senate,,REP,Ted Cruz,138,3,96,39
+Goliad,Precinct 22,U.S. Senate,,DEM,Colin Allred,40,3,12,25
+Goliad,Precinct 22,U.S. Senate,,LIB,Ted Brown,3,0,2,1
+Goliad,Precinct 22,U.S. Senate,,,Write-ins,0,0,0,0
+Goliad,Precinct 22,U.S. Senate,,,Over Votes,0,0,0,0
+Goliad,Precinct 22,U.S. Senate,,,Under Votes,5,0,3,2
+Goliad,Precinct 22,U.S. House,27,REP,Michael Cloud,137,3,96,38
+Goliad,Precinct 22,U.S. House,27,DEM,Tanya Lloyd,37,3,11,23
+Goliad,Precinct 22,U.S. House,27,,Over Votes,0,0,0,0
+Goliad,Precinct 22,U.S. House,27,,Under Votes,12,0,6,6
+Goliad,Precinct 22,Railroad Commissioner,,REP,Christi Craddick,131,3,96,32
+Goliad,Precinct 22,Railroad Commissioner,,DEM,Katherine Culbert,36,3,10,23
+Goliad,Precinct 22,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,2,4
+Goliad,Precinct 22,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,1,3
+Goliad,Precinct 22,Railroad Commissioner,,,Write-ins,0,0,0,0
+Goliad,Precinct 22,Railroad Commissioner,,,Over Votes,0,0,0,0
+Goliad,Precinct 22,Railroad Commissioner,,,Under Votes,9,0,4,5
+Goliad,Precinct 22,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,138,3,96,39
+Goliad,Precinct 22,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,36,3,12,21
+Goliad,Precinct 22,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 22,"Justice, Supreme Court, Pl 2",,,Under Votes,12,0,5,7
+Goliad,Precinct 22,"Justice, Supreme Court, Pl 4",,REP,John Devine,135,3,97,35
+Goliad,Precinct 22,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,37,3,11,23
+Goliad,Precinct 22,"Justice, Supreme Court, Pl 4",,,Over Votes,0,0,0,0
+Goliad,Precinct 22,"Justice, Supreme Court, Pl 4",,,Under Votes,14,0,5,9
+Goliad,Precinct 22,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,134,3,95,36
+Goliad,Precinct 22,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,37,3,13,21
+Goliad,Precinct 22,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,6,0,2,4
+Goliad,Precinct 22,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Goliad,Precinct 22,"Justice, Supreme Court, Pl 6",,,Under Votes,9,0,3,6
+Goliad,Precinct 22,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,139,3,98,38
+Goliad,Precinct 22,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,37,3,12,22
+Goliad,Precinct 22,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Goliad,Precinct 22,"Presiding Judge, Ct of Crim App",,,Under Votes,10,0,3,7
+Goliad,Precinct 22,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,140,3,99,38
+Goliad,Precinct 22,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,35,3,10,22
+Goliad,Precinct 22,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Goliad,Precinct 22,"Judge, Ct of Crim App, Pl 7",,,Under Votes,11,0,4,7
+Goliad,Precinct 22,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,138,3,98,37
+Goliad,Precinct 22,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,36,3,11,22
+Goliad,Precinct 22,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Goliad,Precinct 22,"Judge, Ct of Crim App, Pl 8",,,Under Votes,12,0,4,8
+Goliad,Precinct 22,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,67,3,28,36
+Goliad,Precinct 22,"Member, State BoE, Dist 3",,,Over Votes,0,0,0,0
+Goliad,Precinct 22,"Member, State BoE, Dist 3",,,Under Votes,119,3,85,31
+Goliad,Precinct 22,State Representative,30,REP,AJ Louderback,137,3,98,36
+Goliad,Precinct 22,State Representative,30,DEM,Stephanie R. Bassham,35,3,8,24
+Goliad,Precinct 22,State Representative,30,,Over Votes,0,0,0,0
+Goliad,Precinct 22,State Representative,30,,Under Votes,14,0,7,7
+Goliad,Precinct 22,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,133,3,96,34
+Goliad,Precinct 22,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,40,3,10,27
+Goliad,Precinct 22,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 22,"Chief Justice, 13th Ct of App Dist",,,Under Votes,13,0,7,6
+Goliad,Precinct 22,"Justice, 13th Ct of App Dist, Pl 2",,REP,Jenny Cron,131,3,95,33
+Goliad,Precinct 22,"Justice, 13th Ct of App Dist, Pl 2",,DEM,Nora Longoria,40,3,12,25
+Goliad,Precinct 22,"Justice, 13th Ct of App Dist, Pl 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 22,"Justice, 13th Ct of App Dist, Pl 2",,,Under Votes,15,0,6,9
+Goliad,Precinct 22,"Justice, 13th Ct of App Dist, Pl 4",,REP,Ysmael D. Fonseca,131,3,95,33
+Goliad,Precinct 22,"Justice, 13th Ct of App Dist, Pl 4",,DEM,Joe Martinez,40,3,11,26
+Goliad,Precinct 22,"Justice, 13th Ct of App Dist, Pl 4",,,Over Votes,0,0,0,0
+Goliad,Precinct 22,"Justice, 13th Ct of App Dist, Pl 4",,,Under Votes,15,0,7,8
+Goliad,Precinct 22,"Justice, 13th Ct of App Dist, Pl 5",,REP,Jon West,135,3,96,36
+Goliad,Precinct 22,"Justice, 13th Ct of App Dist, Pl 5",,DEM,Regi Compian Richardson,36,2,10,24
+Goliad,Precinct 22,"Justice, 13th Ct of App Dist, Pl 5",,,Over Votes,0,0,0,0
+Goliad,Precinct 22,"Justice, 13th Ct of App Dist, Pl 5",,,Under Votes,15,1,7,7
+Goliad,Precinct 22,"Dist Judge, 24th Judicial Dist",,REP,Lisa Harvey Moore,150,4,99,47
+Goliad,Precinct 22,"Dist Judge, 24th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 22,"Dist Judge, 24th Judicial Dist",,,Under Votes,36,2,14,20
+Goliad,Precinct 22,"Dist Judge, 135th Judicial Dist",,REP,Kemper Stephen Williams,149,4,99,46
+Goliad,Precinct 22,"Dist Judge, 135th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 22,"Dist Judge, 135th Judicial Dist",,,Under Votes,37,2,14,21
+Goliad,Precinct 22,"Dist Attorney, 24th Judicial Dist",,REP,Brian Michael Cromeens,149,4,100,45
+Goliad,Precinct 22,"Dist Attorney, 24th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 22,"Dist Attorney, 24th Judicial Dist",,,Under Votes,37,2,13,22
+Goliad,Precinct 22,County Attorney,,,Write-ins,40,4,21,15
+Goliad,Precinct 22,County Attorney,,,Over Votes,0,0,0,0
+Goliad,Precinct 22,County Attorney,,,Under Votes,146,2,92,52
+Goliad,Precinct 22,Sheriff,,REP,Roy Boyd Jr,156,4,105,47
+Goliad,Precinct 22,Sheriff,,,Over Votes,0,0,0,0
+Goliad,Precinct 22,Sheriff,,,Under Votes,30,2,8,20
+Goliad,Precinct 22,County Tax Assessor-Collector,,REP,Michelle Garcia,158,5,101,52
+Goliad,Precinct 22,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Goliad,Precinct 22,County Tax Assessor-Collector,,,Under Votes,28,1,12,15
+Goliad,Precinct 22,"Constable, Precinct No. 1",,REP,Kevin Story,151,4,100,47
+Goliad,Precinct 22,"Constable, Precinct No. 1",,,Over Votes,0,0,0,0
+Goliad,Precinct 22,"Constable, Precinct No. 1",,,Under Votes,35,2,13,20
+Goliad,Precinct 31,Registered Voters,,,,643,,,
+Goliad,Precinct 31,Ballots Cast,,,,462,14,360,88
+Goliad,Precinct 31,Ballots Cast - Blank,,,,0,0,0,0
+Goliad,Precinct 31,President,,REP,Donald J. Trump,369,11,297,61
+Goliad,Precinct 31,President,,DEM,Kamala D. Harris,84,3,57,24
+Goliad,Precinct 31,President,,LIB,Chase Oliver,3,0,2,1
+Goliad,Precinct 31,President,,GRN,Jill Stein,4,0,3,1
+Goliad,Precinct 31,President,,,Write-ins,0,0,0,0
+Goliad,Precinct 31,President,,,Over Votes,0,0,0,0
+Goliad,Precinct 31,President,,,Under Votes,2,0,1,1
+Goliad,Precinct 31,U.S. Senate,,REP,Ted Cruz,351,11,281,59
+Goliad,Precinct 31,U.S. Senate,,DEM,Colin Allred,94,3,66,25
+Goliad,Precinct 31,U.S. Senate,,LIB,Ted Brown,9,0,7,2
+Goliad,Precinct 31,U.S. Senate,,,Write-ins,1,0,0,1
+Goliad,Precinct 31,U.S. Senate,,,Over Votes,0,0,0,0
+Goliad,Precinct 31,U.S. Senate,,,Under Votes,7,0,6,1
+Goliad,Precinct 31,U.S. House,27,REP,Michael Cloud,358,11,288,59
+Goliad,Precinct 31,U.S. House,27,DEM,Tanya Lloyd,84,3,56,25
+Goliad,Precinct 31,U.S. House,27,,Over Votes,0,0,0,0
+Goliad,Precinct 31,U.S. House,27,,Under Votes,20,0,16,4
+Goliad,Precinct 31,Railroad Commissioner,,REP,Christi Craddick,331,9,269,53
+Goliad,Precinct 31,Railroad Commissioner,,DEM,Katherine Culbert,77,4,51,22
+Goliad,Precinct 31,Railroad Commissioner,,LIB,Hawk Dunlap,14,1,12,1
+Goliad,Precinct 31,Railroad Commissioner,,GRN,Eddie Espinoza,17,0,10,7
+Goliad,Precinct 31,Railroad Commissioner,,,Write-ins,0,0,0,0
+Goliad,Precinct 31,Railroad Commissioner,,,Over Votes,2,0,1,1
+Goliad,Precinct 31,Railroad Commissioner,,,Under Votes,21,0,17,4
+Goliad,Precinct 31,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,349,11,284,54
+Goliad,Precinct 31,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,87,3,55,29
+Goliad,Precinct 31,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 31,"Justice, Supreme Court, Pl 2",,,Under Votes,26,0,21,5
+Goliad,Precinct 31,"Justice, Supreme Court, Pl 4",,REP,John Devine,344,10,277,57
+Goliad,Precinct 31,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,90,4,59,27
+Goliad,Precinct 31,"Justice, Supreme Court, Pl 4",,,Over Votes,0,0,0,0
+Goliad,Precinct 31,"Justice, Supreme Court, Pl 4",,,Under Votes,28,0,24,4
+Goliad,Precinct 31,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,339,9,276,54
+Goliad,Precinct 31,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,83,3,55,25
+Goliad,Precinct 31,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,14,2,7,5
+Goliad,Precinct 31,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Goliad,Precinct 31,"Justice, Supreme Court, Pl 6",,,Under Votes,26,0,22,4
+Goliad,Precinct 31,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,348,10,279,59
+Goliad,Precinct 31,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,88,4,58,26
+Goliad,Precinct 31,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Goliad,Precinct 31,"Presiding Judge, Ct of Crim App",,,Under Votes,26,0,23,3
+Goliad,Precinct 31,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,348,11,281,56
+Goliad,Precinct 31,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,81,3,54,24
+Goliad,Precinct 31,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Goliad,Precinct 31,"Judge, Ct of Crim App, Pl 7",,,Under Votes,33,0,25,8
+Goliad,Precinct 31,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,348,11,283,54
+Goliad,Precinct 31,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,82,3,53,26
+Goliad,Precinct 31,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Goliad,Precinct 31,"Judge, Ct of Crim App, Pl 8",,,Under Votes,32,0,24,8
+Goliad,Precinct 31,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,181,6,131,44
+Goliad,Precinct 31,"Member, State BoE, Dist 3",,,Over Votes,0,0,0,0
+Goliad,Precinct 31,"Member, State BoE, Dist 3",,,Under Votes,281,8,229,44
+Goliad,Precinct 31,State Representative,30,REP,AJ Louderback,345,11,277,57
+Goliad,Precinct 31,State Representative,30,DEM,Stephanie R. Bassham,94,3,64,27
+Goliad,Precinct 31,State Representative,30,,Over Votes,0,0,0,0
+Goliad,Precinct 31,State Representative,30,,Under Votes,23,0,19,4
+Goliad,Precinct 31,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,340,11,274,55
+Goliad,Precinct 31,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,88,3,59,26
+Goliad,Precinct 31,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 31,"Chief Justice, 13th Ct of App Dist",,,Under Votes,34,0,27,7
+Goliad,Precinct 31,"Justice, 13th Ct of App Dist, Pl 2",,REP,Jenny Cron,341,11,274,56
+Goliad,Precinct 31,"Justice, 13th Ct of App Dist, Pl 2",,DEM,Nora Longoria,86,3,59,24
+Goliad,Precinct 31,"Justice, 13th Ct of App Dist, Pl 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 31,"Justice, 13th Ct of App Dist, Pl 2",,,Under Votes,35,0,27,8
+Goliad,Precinct 31,"Justice, 13th Ct of App Dist, Pl 4",,REP,Ysmael D. Fonseca,338,11,271,56
+Goliad,Precinct 31,"Justice, 13th Ct of App Dist, Pl 4",,DEM,Joe Martinez,89,3,61,25
+Goliad,Precinct 31,"Justice, 13th Ct of App Dist, Pl 4",,,Over Votes,0,0,0,0
+Goliad,Precinct 31,"Justice, 13th Ct of App Dist, Pl 4",,,Under Votes,35,0,28,7
+Goliad,Precinct 31,"Justice, 13th Ct of App Dist, Pl 5",,REP,Jon West,347,11,280,56
+Goliad,Precinct 31,"Justice, 13th Ct of App Dist, Pl 5",,DEM,Regi Compian Richardson,77,3,50,24
+Goliad,Precinct 31,"Justice, 13th Ct of App Dist, Pl 5",,,Over Votes,0,0,0,0
+Goliad,Precinct 31,"Justice, 13th Ct of App Dist, Pl 5",,,Under Votes,38,0,30,8
+Goliad,Precinct 31,"Dist Judge, 24th Judicial Dist",,REP,Lisa Harvey Moore,376,11,298,67
+Goliad,Precinct 31,"Dist Judge, 24th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 31,"Dist Judge, 24th Judicial Dist",,,Under Votes,86,3,62,21
+Goliad,Precinct 31,"Dist Judge, 135th Judicial Dist",,REP,Kemper Stephen Williams,378,10,301,67
+Goliad,Precinct 31,"Dist Judge, 135th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 31,"Dist Judge, 135th Judicial Dist",,,Under Votes,84,4,59,21
+Goliad,Precinct 31,"Dist Attorney, 24th Judicial Dist",,REP,Brian Michael Cromeens,383,11,305,67
+Goliad,Precinct 31,"Dist Attorney, 24th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 31,"Dist Attorney, 24th Judicial Dist",,,Under Votes,79,3,55,21
+Goliad,Precinct 31,County Attorney,,,Write-ins,108,2,83,23
+Goliad,Precinct 31,County Attorney,,,Over Votes,0,0,0,0
+Goliad,Precinct 31,County Attorney,,,Under Votes,354,12,277,65
+Goliad,Precinct 31,Sheriff,,REP,Roy Boyd Jr,386,11,304,71
+Goliad,Precinct 31,Sheriff,,,Over Votes,0,0,0,0
+Goliad,Precinct 31,Sheriff,,,Under Votes,76,3,56,17
+Goliad,Precinct 31,County Tax Assessor-Collector,,REP,Michelle Garcia,388,11,304,73
+Goliad,Precinct 31,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Goliad,Precinct 31,County Tax Assessor-Collector,,,Under Votes,74,3,56,15
+Goliad,Precinct 31,"County Commissioner, Precinct No. 3",,REP,Kirby Brumby,362,11,287,64
+Goliad,Precinct 31,"County Commissioner, Precinct No. 3",,,Over Votes,0,0,0,0
+Goliad,Precinct 31,"County Commissioner, Precinct No. 3",,,Under Votes,100,3,73,24
+Goliad,Precinct 31,"Constable, Precinct No. 2",,REP,Bill Zappe,375,10,297,68
+Goliad,Precinct 31,"Constable, Precinct No. 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 31,"Constable, Precinct No. 2",,,Under Votes,87,4,63,20
+Goliad,Precinct 32,Registered Voters,,,,644,,,
+Goliad,Precinct 32,Ballots Cast,,,,511,14,351,146
+Goliad,Precinct 32,Ballots Cast - Blank,,,,1,0,1,0
+Goliad,Precinct 32,President,,REP,Donald J. Trump,452,11,314,127
+Goliad,Precinct 32,President,,DEM,Kamala D. Harris,53,3,33,17
+Goliad,Precinct 32,President,,LIB,Chase Oliver,3,0,1,2
+Goliad,Precinct 32,President,,GRN,Jill Stein,1,0,1,0
+Goliad,Precinct 32,President,,,Write-ins,1,0,1,0
+Goliad,Precinct 32,President,,,Over Votes,0,0,0,0
+Goliad,Precinct 32,President,,,Under Votes,1,0,1,0
+Goliad,Precinct 32,U.S. Senate,,REP,Ted Cruz,438,10,310,118
+Goliad,Precinct 32,U.S. Senate,,DEM,Colin Allred,62,3,36,23
+Goliad,Precinct 32,U.S. Senate,,LIB,Ted Brown,6,0,4,2
+Goliad,Precinct 32,U.S. Senate,,,Write-ins,0,0,0,0
+Goliad,Precinct 32,U.S. Senate,,,Over Votes,0,0,0,0
+Goliad,Precinct 32,U.S. Senate,,,Under Votes,5,1,1,3
+Goliad,Precinct 32,U.S. House,27,REP,Michael Cloud,445,11,308,126
+Goliad,Precinct 32,U.S. House,27,DEM,Tanya Lloyd,47,3,29,15
+Goliad,Precinct 32,U.S. House,27,,Over Votes,0,0,0,0
+Goliad,Precinct 32,U.S. House,27,,Under Votes,19,0,14,5
+Goliad,Precinct 32,Railroad Commissioner,,REP,Christi Craddick,429,11,299,119
+Goliad,Precinct 32,Railroad Commissioner,,DEM,Katherine Culbert,44,3,27,14
+Goliad,Precinct 32,Railroad Commissioner,,LIB,Hawk Dunlap,14,0,10,4
+Goliad,Precinct 32,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,0,3
+Goliad,Precinct 32,Railroad Commissioner,,,Write-ins,1,0,1,0
+Goliad,Precinct 32,Railroad Commissioner,,,Over Votes,0,0,0,0
+Goliad,Precinct 32,Railroad Commissioner,,,Under Votes,20,0,14,6
+Goliad,Precinct 32,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,444,12,308,124
+Goliad,Precinct 32,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,43,2,28,13
+Goliad,Precinct 32,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 32,"Justice, Supreme Court, Pl 2",,,Under Votes,24,0,15,9
+Goliad,Precinct 32,"Justice, Supreme Court, Pl 4",,REP,John Devine,437,12,303,122
+Goliad,Precinct 32,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,47,2,31,14
+Goliad,Precinct 32,"Justice, Supreme Court, Pl 4",,,Over Votes,0,0,0,0
+Goliad,Precinct 32,"Justice, Supreme Court, Pl 4",,,Under Votes,27,0,17,10
+Goliad,Precinct 32,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,429,12,298,119
+Goliad,Precinct 32,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,46,2,29,15
+Goliad,Precinct 32,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,9,0,6,3
+Goliad,Precinct 32,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Goliad,Precinct 32,"Justice, Supreme Court, Pl 6",,,Under Votes,27,0,18,9
+Goliad,Precinct 32,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,435,12,305,118
+Goliad,Precinct 32,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,48,2,29,17
+Goliad,Precinct 32,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Goliad,Precinct 32,"Presiding Judge, Ct of Crim App",,,Under Votes,28,0,17,11
+Goliad,Precinct 32,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,432,12,298,122
+Goliad,Precinct 32,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,45,2,29,14
+Goliad,Precinct 32,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Goliad,Precinct 32,"Judge, Ct of Crim App, Pl 7",,,Under Votes,34,0,24,10
+Goliad,Precinct 32,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,437,11,304,122
+Goliad,Precinct 32,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,48,3,30,15
+Goliad,Precinct 32,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Goliad,Precinct 32,"Judge, Ct of Crim App, Pl 8",,,Under Votes,26,0,17,9
+Goliad,Precinct 32,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,159,8,97,54
+Goliad,Precinct 32,"Member, State BoE, Dist 3",,,Over Votes,0,0,0,0
+Goliad,Precinct 32,"Member, State BoE, Dist 3",,,Under Votes,352,6,254,92
+Goliad,Precinct 32,State Representative,30,REP,AJ Louderback,436,11,305,120
+Goliad,Precinct 32,State Representative,30,DEM,Stephanie R. Bassham,49,2,30,17
+Goliad,Precinct 32,State Representative,30,,Over Votes,0,0,0,0
+Goliad,Precinct 32,State Representative,30,,Under Votes,26,1,16,9
+Goliad,Precinct 32,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,434,12,302,120
+Goliad,Precinct 32,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,47,2,28,17
+Goliad,Precinct 32,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 32,"Chief Justice, 13th Ct of App Dist",,,Under Votes,30,0,21,9
+Goliad,Precinct 32,"Justice, 13th Ct of App Dist, Pl 2",,REP,Jenny Cron,433,11,302,120
+Goliad,Precinct 32,"Justice, 13th Ct of App Dist, Pl 2",,DEM,Nora Longoria,52,3,32,17
+Goliad,Precinct 32,"Justice, 13th Ct of App Dist, Pl 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 32,"Justice, 13th Ct of App Dist, Pl 2",,,Under Votes,26,0,17,9
+Goliad,Precinct 32,"Justice, 13th Ct of App Dist, Pl 4",,REP,Ysmael D. Fonseca,427,10,298,119
+Goliad,Precinct 32,"Justice, 13th Ct of App Dist, Pl 4",,DEM,Joe Martinez,50,3,30,17
+Goliad,Precinct 32,"Justice, 13th Ct of App Dist, Pl 4",,,Over Votes,0,0,0,0
+Goliad,Precinct 32,"Justice, 13th Ct of App Dist, Pl 4",,,Under Votes,34,1,23,10
+Goliad,Precinct 32,"Justice, 13th Ct of App Dist, Pl 5",,REP,Jon West,435,11,301,123
+Goliad,Precinct 32,"Justice, 13th Ct of App Dist, Pl 5",,DEM,Regi Compian Richardson,45,3,28,14
+Goliad,Precinct 32,"Justice, 13th Ct of App Dist, Pl 5",,,Over Votes,0,0,0,0
+Goliad,Precinct 32,"Justice, 13th Ct of App Dist, Pl 5",,,Under Votes,31,0,22,9
+Goliad,Precinct 32,"Dist Judge, 24th Judicial Dist",,REP,Lisa Harvey Moore,443,12,306,125
+Goliad,Precinct 32,"Dist Judge, 24th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 32,"Dist Judge, 24th Judicial Dist",,,Under Votes,68,2,45,21
+Goliad,Precinct 32,"Dist Judge, 135th Judicial Dist",,REP,Kemper Stephen Williams,440,12,304,124
+Goliad,Precinct 32,"Dist Judge, 135th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 32,"Dist Judge, 135th Judicial Dist",,,Under Votes,71,2,47,22
+Goliad,Precinct 32,"Dist Attorney, 24th Judicial Dist",,REP,Brian Michael Cromeens,442,12,306,124
+Goliad,Precinct 32,"Dist Attorney, 24th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 32,"Dist Attorney, 24th Judicial Dist",,,Under Votes,69,2,45,22
+Goliad,Precinct 32,County Attorney,,,Write-ins,110,1,83,26
+Goliad,Precinct 32,County Attorney,,,Over Votes,0,0,0,0
+Goliad,Precinct 32,County Attorney,,,Under Votes,401,13,268,120
+Goliad,Precinct 32,Sheriff,,REP,Roy Boyd Jr,440,13,302,125
+Goliad,Precinct 32,Sheriff,,,Over Votes,0,0,0,0
+Goliad,Precinct 32,Sheriff,,,Under Votes,71,1,49,21
+Goliad,Precinct 32,County Tax Assessor-Collector,,REP,Michelle Garcia,432,13,297,122
+Goliad,Precinct 32,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Goliad,Precinct 32,County Tax Assessor-Collector,,,Under Votes,79,1,54,24
+Goliad,Precinct 32,"County Commissioner, Precinct No. 3",,REP,Kirby Brumby,423,12,289,122
+Goliad,Precinct 32,"County Commissioner, Precinct No. 3",,,Over Votes,0,0,0,0
+Goliad,Precinct 32,"County Commissioner, Precinct No. 3",,,Under Votes,88,2,62,24
+Goliad,Precinct 32,"Constable, Precinct No. 2",,REP,Bill Zappe,425,13,287,125
+Goliad,Precinct 32,"Constable, Precinct No. 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 32,"Constable, Precinct No. 2",,,Under Votes,86,1,64,21
+Goliad,Precinct 41,Registered Voters,,,,398,,,
+Goliad,Precinct 41,Ballots Cast,,,,308,17,212,79
+Goliad,Precinct 41,Ballots Cast - Blank,,,,0,0,0,0
+Goliad,Precinct 41,President,,REP,Donald J. Trump,262,10,184,68
+Goliad,Precinct 41,President,,DEM,Kamala D. Harris,46,7,28,11
+Goliad,Precinct 41,President,,LIB,Chase Oliver,0,0,0,0
+Goliad,Precinct 41,President,,GRN,Jill Stein,0,0,0,0
+Goliad,Precinct 41,President,,,Write-ins,0,0,0,0
+Goliad,Precinct 41,President,,,Over Votes,0,0,0,0
+Goliad,Precinct 41,President,,,Under Votes,0,0,0,0
+Goliad,Precinct 41,U.S. Senate,,REP,Ted Cruz,254,10,179,65
+Goliad,Precinct 41,U.S. Senate,,DEM,Colin Allred,45,6,28,11
+Goliad,Precinct 41,U.S. Senate,,LIB,Ted Brown,5,0,3,2
+Goliad,Precinct 41,U.S. Senate,,,Write-ins,3,0,2,1
+Goliad,Precinct 41,U.S. Senate,,,Over Votes,0,0,0,0
+Goliad,Precinct 41,U.S. Senate,,,Under Votes,1,1,0,0
+Goliad,Precinct 41,U.S. House,27,REP,Michael Cloud,263,10,184,69
+Goliad,Precinct 41,U.S. House,27,DEM,Tanya Lloyd,40,6,24,10
+Goliad,Precinct 41,U.S. House,27,,Over Votes,0,0,0,0
+Goliad,Precinct 41,U.S. House,27,,Under Votes,5,1,4,0
+Goliad,Precinct 41,Railroad Commissioner,,REP,Christi Craddick,255,10,180,65
+Goliad,Precinct 41,Railroad Commissioner,,DEM,Katherine Culbert,34,6,19,9
+Goliad,Precinct 41,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,2,3
+Goliad,Precinct 41,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,2,2
+Goliad,Precinct 41,Railroad Commissioner,,,Write-ins,0,0,0,0
+Goliad,Precinct 41,Railroad Commissioner,,,Over Votes,0,0,0,0
+Goliad,Precinct 41,Railroad Commissioner,,,Under Votes,10,1,9,0
+Goliad,Precinct 41,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,255,10,178,67
+Goliad,Precinct 41,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,42,6,24,12
+Goliad,Precinct 41,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 41,"Justice, Supreme Court, Pl 2",,,Under Votes,11,1,10,0
+Goliad,Precinct 41,"Justice, Supreme Court, Pl 4",,REP,John Devine,251,9,176,66
+Goliad,Precinct 41,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,42,6,24,12
+Goliad,Precinct 41,"Justice, Supreme Court, Pl 4",,,Over Votes,0,0,0,0
+Goliad,Precinct 41,"Justice, Supreme Court, Pl 4",,,Under Votes,15,2,12,1
+Goliad,Precinct 41,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,249,9,173,67
+Goliad,Precinct 41,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,40,6,23,11
+Goliad,Precinct 41,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,5,0,4,1
+Goliad,Precinct 41,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Goliad,Precinct 41,"Justice, Supreme Court, Pl 6",,,Under Votes,14,2,12,0
+Goliad,Precinct 41,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,248,10,172,66
+Goliad,Precinct 41,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,44,6,26,12
+Goliad,Precinct 41,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Goliad,Precinct 41,"Presiding Judge, Ct of Crim App",,,Under Votes,16,1,14,1
+Goliad,Precinct 41,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,248,10,174,64
+Goliad,Precinct 41,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,40,6,22,12
+Goliad,Precinct 41,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Goliad,Precinct 41,"Judge, Ct of Crim App, Pl 7",,,Under Votes,20,1,16,3
+Goliad,Precinct 41,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,255,10,177,68
+Goliad,Precinct 41,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,36,6,20,10
+Goliad,Precinct 41,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Goliad,Precinct 41,"Judge, Ct of Crim App, Pl 8",,,Under Votes,17,1,15,1
+Goliad,Precinct 41,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,94,10,61,23
+Goliad,Precinct 41,"Member, State BoE, Dist 3",,,Over Votes,0,0,0,0
+Goliad,Precinct 41,"Member, State BoE, Dist 3",,,Under Votes,214,7,151,56
+Goliad,Precinct 41,State Representative,30,REP,AJ Louderback,255,9,178,68
+Goliad,Precinct 41,State Representative,30,DEM,Stephanie R. Bassham,42,5,27,10
+Goliad,Precinct 41,State Representative,30,,Over Votes,0,0,0,0
+Goliad,Precinct 41,State Representative,30,,Under Votes,11,3,7,1
+Goliad,Precinct 41,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,249,10,172,67
+Goliad,Precinct 41,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,42,5,26,11
+Goliad,Precinct 41,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 41,"Chief Justice, 13th Ct of App Dist",,,Under Votes,17,2,14,1
+Goliad,Precinct 41,"Justice, 13th Ct of App Dist, Pl 2",,REP,Jenny Cron,248,10,173,65
+Goliad,Precinct 41,"Justice, 13th Ct of App Dist, Pl 2",,DEM,Nora Longoria,40,5,24,11
+Goliad,Precinct 41,"Justice, 13th Ct of App Dist, Pl 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 41,"Justice, 13th Ct of App Dist, Pl 2",,,Under Votes,20,2,15,3
+Goliad,Precinct 41,"Justice, 13th Ct of App Dist, Pl 4",,REP,Ysmael D. Fonseca,249,10,171,68
+Goliad,Precinct 41,"Justice, 13th Ct of App Dist, Pl 4",,DEM,Joe Martinez,39,5,24,10
+Goliad,Precinct 41,"Justice, 13th Ct of App Dist, Pl 4",,,Over Votes,0,0,0,0
+Goliad,Precinct 41,"Justice, 13th Ct of App Dist, Pl 4",,,Under Votes,20,2,17,1
+Goliad,Precinct 41,"Justice, 13th Ct of App Dist, Pl 5",,REP,Jon West,255,10,176,69
+Goliad,Precinct 41,"Justice, 13th Ct of App Dist, Pl 5",,DEM,Regi Compian Richardson,38,5,24,9
+Goliad,Precinct 41,"Justice, 13th Ct of App Dist, Pl 5",,,Over Votes,0,0,0,0
+Goliad,Precinct 41,"Justice, 13th Ct of App Dist, Pl 5",,,Under Votes,15,2,12,1
+Goliad,Precinct 41,"Dist Judge, 24th Judicial Dist",,REP,Lisa Harvey Moore,266,11,184,71
+Goliad,Precinct 41,"Dist Judge, 24th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 41,"Dist Judge, 24th Judicial Dist",,,Under Votes,42,6,28,8
+Goliad,Precinct 41,"Dist Judge, 135th Judicial Dist",,REP,Kemper Stephen Williams,262,11,179,72
+Goliad,Precinct 41,"Dist Judge, 135th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 41,"Dist Judge, 135th Judicial Dist",,,Under Votes,46,6,33,7
+Goliad,Precinct 41,"Dist Attorney, 24th Judicial Dist",,REP,Brian Michael Cromeens,263,9,182,72
+Goliad,Precinct 41,"Dist Attorney, 24th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 41,"Dist Attorney, 24th Judicial Dist",,,Under Votes,45,8,30,7
+Goliad,Precinct 41,County Attorney,,,Write-ins,65,2,43,20
+Goliad,Precinct 41,County Attorney,,,Over Votes,0,0,0,0
+Goliad,Precinct 41,County Attorney,,,Under Votes,243,15,169,59
+Goliad,Precinct 41,Sheriff,,REP,Roy Boyd Jr,272,11,187,74
+Goliad,Precinct 41,Sheriff,,,Over Votes,0,0,0,0
+Goliad,Precinct 41,Sheriff,,,Under Votes,36,6,25,5
+Goliad,Precinct 41,County Tax Assessor-Collector,,REP,Michelle Garcia,268,11,186,71
+Goliad,Precinct 41,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Goliad,Precinct 41,County Tax Assessor-Collector,,,Under Votes,40,6,26,8
+Goliad,Precinct 41,"Constable, Precinct No. 2",,REP,Bill Zappe,265,11,181,73
+Goliad,Precinct 41,"Constable, Precinct No. 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 41,"Constable, Precinct No. 2",,,Under Votes,43,6,31,6
+Goliad,Precinct 42,Registered Voters,,,,680,,,
+Goliad,Precinct 42,Ballots Cast,,,,515,18,263,234
+Goliad,Precinct 42,Ballots Cast - Blank,,,,0,0,0,0
+Goliad,Precinct 42,President,,REP,Donald J. Trump,454,12,222,220
+Goliad,Precinct 42,President,,DEM,Kamala D. Harris,58,5,41,12
+Goliad,Precinct 42,President,,LIB,Chase Oliver,0,0,0,0
+Goliad,Precinct 42,President,,GRN,Jill Stein,3,1,0,2
+Goliad,Precinct 42,President,,,Write-ins,0,0,0,0
+Goliad,Precinct 42,President,,,Over Votes,0,0,0,0
+Goliad,Precinct 42,President,,,Under Votes,0,0,0,0
+Goliad,Precinct 42,U.S. Senate,,REP,Ted Cruz,437,12,216,209
+Goliad,Precinct 42,U.S. Senate,,DEM,Colin Allred,65,5,43,17
+Goliad,Precinct 42,U.S. Senate,,LIB,Ted Brown,13,1,4,8
+Goliad,Precinct 42,U.S. Senate,,,Write-ins,0,0,0,0
+Goliad,Precinct 42,U.S. Senate,,,Over Votes,0,0,0,0
+Goliad,Precinct 42,U.S. Senate,,,Under Votes,0,0,0,0
+Goliad,Precinct 42,U.S. House,27,REP,Michael Cloud,459,12,228,219
+Goliad,Precinct 42,U.S. House,27,DEM,Tanya Lloyd,47,6,31,10
+Goliad,Precinct 42,U.S. House,27,,Over Votes,0,0,0,0
+Goliad,Precinct 42,U.S. House,27,,Under Votes,9,0,4,5
+Goliad,Precinct 42,Railroad Commissioner,,REP,Christi Craddick,443,11,218,214
+Goliad,Precinct 42,Railroad Commissioner,,DEM,Katherine Culbert,48,4,33,11
+Goliad,Precinct 42,Railroad Commissioner,,LIB,Hawk Dunlap,10,2,4,4
+Goliad,Precinct 42,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1
+Goliad,Precinct 42,Railroad Commissioner,,,Write-ins,1,0,1,0
+Goliad,Precinct 42,Railroad Commissioner,,,Over Votes,0,0,0,0
+Goliad,Precinct 42,Railroad Commissioner,,,Under Votes,11,1,6,4
+Goliad,Precinct 42,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,456,13,226,217
+Goliad,Precinct 42,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,46,5,31,10
+Goliad,Precinct 42,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 42,"Justice, Supreme Court, Pl 2",,,Under Votes,13,0,6,7
+Goliad,Precinct 42,"Justice, Supreme Court, Pl 4",,REP,John Devine,449,12,220,217
+Goliad,Precinct 42,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,52,6,36,10
+Goliad,Precinct 42,"Justice, Supreme Court, Pl 4",,,Over Votes,0,0,0,0
+Goliad,Precinct 42,"Justice, Supreme Court, Pl 4",,,Under Votes,14,0,7,7
+Goliad,Precinct 42,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,442,13,221,208
+Goliad,Precinct 42,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,52,5,36,11
+Goliad,Precinct 42,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,6,0,0,6
+Goliad,Precinct 42,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Goliad,Precinct 42,"Justice, Supreme Court, Pl 6",,,Under Votes,15,0,6,9
+Goliad,Precinct 42,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,442,12,219,211
+Goliad,Precinct 42,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,55,6,36,13
+Goliad,Precinct 42,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Goliad,Precinct 42,"Presiding Judge, Ct of Crim App",,,Under Votes,18,0,8,10
+Goliad,Precinct 42,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,450,12,221,217
+Goliad,Precinct 42,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,48,6,33,9
+Goliad,Precinct 42,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Goliad,Precinct 42,"Judge, Ct of Crim App, Pl 7",,,Under Votes,17,0,9,8
+Goliad,Precinct 42,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,453,14,222,217
+Goliad,Precinct 42,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,46,4,33,9
+Goliad,Precinct 42,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Goliad,Precinct 42,"Judge, Ct of Crim App, Pl 8",,,Under Votes,16,0,8,8
+Goliad,Precinct 42,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,173,8,84,81
+Goliad,Precinct 42,"Member, State BoE, Dist 3",,,Over Votes,0,0,0,0
+Goliad,Precinct 42,"Member, State BoE, Dist 3",,,Under Votes,342,10,179,153
+Goliad,Precinct 42,State Representative,30,REP,AJ Louderback,449,12,223,214
+Goliad,Precinct 42,State Representative,30,DEM,Stephanie R. Bassham,51,5,33,13
+Goliad,Precinct 42,State Representative,30,,Over Votes,0,0,0,0
+Goliad,Precinct 42,State Representative,30,,Under Votes,15,1,7,7
+Goliad,Precinct 42,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,444,12,217,215
+Goliad,Precinct 42,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,52,6,36,10
+Goliad,Precinct 42,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 42,"Chief Justice, 13th Ct of App Dist",,,Under Votes,19,0,10,9
+Goliad,Precinct 42,"Justice, 13th Ct of App Dist, Pl 2",,REP,Jenny Cron,442,14,216,212
+Goliad,Precinct 42,"Justice, 13th Ct of App Dist, Pl 2",,DEM,Nora Longoria,56,4,38,14
+Goliad,Precinct 42,"Justice, 13th Ct of App Dist, Pl 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 42,"Justice, 13th Ct of App Dist, Pl 2",,,Under Votes,17,0,9,8
+Goliad,Precinct 42,"Justice, 13th Ct of App Dist, Pl 4",,REP,Ysmael D. Fonseca,438,11,217,210
+Goliad,Precinct 42,"Justice, 13th Ct of App Dist, Pl 4",,DEM,Joe Martinez,52,7,35,10
+Goliad,Precinct 42,"Justice, 13th Ct of App Dist, Pl 4",,,Over Votes,0,0,0,0
+Goliad,Precinct 42,"Justice, 13th Ct of App Dist, Pl 4",,,Under Votes,25,0,11,14
+Goliad,Precinct 42,"Justice, 13th Ct of App Dist, Pl 5",,REP,Jon West,449,13,220,216
+Goliad,Precinct 42,"Justice, 13th Ct of App Dist, Pl 5",,DEM,Regi Compian Richardson,46,5,32,9
+Goliad,Precinct 42,"Justice, 13th Ct of App Dist, Pl 5",,,Over Votes,0,0,0,0
+Goliad,Precinct 42,"Justice, 13th Ct of App Dist, Pl 5",,,Under Votes,20,0,11,9
+Goliad,Precinct 42,"Dist Judge, 24th Judicial Dist",,REP,Lisa Harvey Moore,453,14,226,213
+Goliad,Precinct 42,"Dist Judge, 24th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 42,"Dist Judge, 24th Judicial Dist",,,Under Votes,62,4,37,21
+Goliad,Precinct 42,"Dist Judge, 135th Judicial Dist",,REP,Kemper Stephen Williams,454,14,227,213
+Goliad,Precinct 42,"Dist Judge, 135th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 42,"Dist Judge, 135th Judicial Dist",,,Under Votes,61,4,36,21
+Goliad,Precinct 42,"Dist Attorney, 24th Judicial Dist",,REP,Brian Michael Cromeens,452,13,226,213
+Goliad,Precinct 42,"Dist Attorney, 24th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 42,"Dist Attorney, 24th Judicial Dist",,,Under Votes,63,5,37,21
+Goliad,Precinct 42,County Attorney,,,Write-ins,99,3,74,22
+Goliad,Precinct 42,County Attorney,,,Over Votes,0,0,0,0
+Goliad,Precinct 42,County Attorney,,,Under Votes,416,15,189,212
+Goliad,Precinct 42,Sheriff,,REP,Roy Boyd Jr,465,14,232,219
+Goliad,Precinct 42,Sheriff,,,Over Votes,0,0,0,0
+Goliad,Precinct 42,Sheriff,,,Under Votes,50,4,31,15
+Goliad,Precinct 42,County Tax Assessor-Collector,,REP,Michelle Garcia,454,14,224,216
+Goliad,Precinct 42,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Goliad,Precinct 42,County Tax Assessor-Collector,,,Under Votes,61,4,39,18
+Goliad,Precinct 42,"Constable, Precinct No. 2",,REP,Bill Zappe,456,14,228,214
+Goliad,Precinct 42,"Constable, Precinct No. 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 42,"Constable, Precinct No. 2",,,Under Votes,59,4,35,20
+Goliad,Precinct 43,Registered Voters,,,,455,,,
+Goliad,Precinct 43,Ballots Cast,,,,345,14,277,54
+Goliad,Precinct 43,Ballots Cast - Blank,,,,0,0,0,0
+Goliad,Precinct 43,President,,REP,Donald J. Trump,304,10,248,46
+Goliad,Precinct 43,President,,DEM,Kamala D. Harris,38,4,28,6
+Goliad,Precinct 43,President,,LIB,Chase Oliver,2,0,0,2
+Goliad,Precinct 43,President,,GRN,Jill Stein,0,0,0,0
+Goliad,Precinct 43,President,,,Write-ins,1,0,1,0
+Goliad,Precinct 43,President,,,Over Votes,0,0,0,0
+Goliad,Precinct 43,President,,,Under Votes,0,0,0,0
+Goliad,Precinct 43,U.S. Senate,,REP,Ted Cruz,292,10,238,44
+Goliad,Precinct 43,U.S. Senate,,DEM,Colin Allred,43,4,31,8
+Goliad,Precinct 43,U.S. Senate,,LIB,Ted Brown,4,0,4,0
+Goliad,Precinct 43,U.S. Senate,,,Write-ins,1,0,1,0
+Goliad,Precinct 43,U.S. Senate,,,Over Votes,0,0,0,0
+Goliad,Precinct 43,U.S. Senate,,,Under Votes,5,0,3,2
+Goliad,Precinct 43,U.S. House,27,REP,Michael Cloud,300,10,243,47
+Goliad,Precinct 43,U.S. House,27,DEM,Tanya Lloyd,33,3,25,5
+Goliad,Precinct 43,U.S. House,27,,Over Votes,0,0,0,0
+Goliad,Precinct 43,U.S. House,27,,Under Votes,12,1,9,2
+Goliad,Precinct 43,Railroad Commissioner,,REP,Christi Craddick,290,11,236,43
+Goliad,Precinct 43,Railroad Commissioner,,DEM,Katherine Culbert,34,3,27,4
+Goliad,Precinct 43,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,4,2
+Goliad,Precinct 43,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0
+Goliad,Precinct 43,Railroad Commissioner,,,Write-ins,0,0,0,0
+Goliad,Precinct 43,Railroad Commissioner,,,Over Votes,0,0,0,0
+Goliad,Precinct 43,Railroad Commissioner,,,Under Votes,13,0,8,5
+Goliad,Precinct 43,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,301,10,244,47
+Goliad,Precinct 43,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,30,3,23,4
+Goliad,Precinct 43,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 43,"Justice, Supreme Court, Pl 2",,,Under Votes,14,1,10,3
+Goliad,Precinct 43,"Justice, Supreme Court, Pl 4",,REP,John Devine,296,10,239,47
+Goliad,Precinct 43,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,34,3,27,4
+Goliad,Precinct 43,"Justice, Supreme Court, Pl 4",,,Over Votes,0,0,0,0
+Goliad,Precinct 43,"Justice, Supreme Court, Pl 4",,,Under Votes,15,1,11,3
+Goliad,Precinct 43,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,290,10,235,45
+Goliad,Precinct 43,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,31,3,23,5
+Goliad,Precinct 43,"Justice, Supreme Court, Pl 6",,LIB,J. David Roberson,8,0,7,1
+Goliad,Precinct 43,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Goliad,Precinct 43,"Justice, Supreme Court, Pl 6",,,Under Votes,16,1,12,3
+Goliad,Precinct 43,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,293,10,238,45
+Goliad,Precinct 43,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,34,3,27,4
+Goliad,Precinct 43,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Goliad,Precinct 43,"Presiding Judge, Ct of Crim App",,,Under Votes,18,1,12,5
+Goliad,Precinct 43,"Judge, Ct of Crim App, Pl 7",,REP,Gina Parker,291,10,238,43
+Goliad,Precinct 43,"Judge, Ct of Crim App, Pl 7",,DEM,Nancy Mulder,32,3,25,4
+Goliad,Precinct 43,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Goliad,Precinct 43,"Judge, Ct of Crim App, Pl 7",,,Under Votes,22,1,14,7
+Goliad,Precinct 43,"Judge, Ct of Crim App, Pl 8",,REP,Lee Finley,299,10,243,46
+Goliad,Precinct 43,"Judge, Ct of Crim App, Pl 8",,DEM,Chika Anyiam,29,3,22,4
+Goliad,Precinct 43,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Goliad,Precinct 43,"Judge, Ct of Crim App, Pl 8",,,Under Votes,17,1,12,4
+Goliad,Precinct 43,"Member, State BoE, Dist 3",,DEM,Marisa Perez-Diaz,121,5,96,20
+Goliad,Precinct 43,"Member, State BoE, Dist 3",,,Over Votes,0,0,0,0
+Goliad,Precinct 43,"Member, State BoE, Dist 3",,,Under Votes,224,9,181,34
+Goliad,Precinct 43,State Representative,30,REP,AJ Louderback,288,11,233,44
+Goliad,Precinct 43,State Representative,30,DEM,Stephanie R. Bassham,34,2,27,5
+Goliad,Precinct 43,State Representative,30,,Over Votes,0,0,0,0
+Goliad,Precinct 43,State Representative,30,,Under Votes,23,1,17,5
+Goliad,Precinct 43,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,288,10,233,45
+Goliad,Precinct 43,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,36,3,29,4
+Goliad,Precinct 43,"Chief Justice, 13th Ct of App Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 43,"Chief Justice, 13th Ct of App Dist",,,Under Votes,21,1,15,5
+Goliad,Precinct 43,"Justice, 13th Ct of App Dist, Pl 2",,REP,Jenny Cron,285,10,231,44
+Goliad,Precinct 43,"Justice, 13th Ct of App Dist, Pl 2",,DEM,Nora Longoria,38,3,31,4
+Goliad,Precinct 43,"Justice, 13th Ct of App Dist, Pl 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 43,"Justice, 13th Ct of App Dist, Pl 2",,,Under Votes,22,1,15,6
+Goliad,Precinct 43,"Justice, 13th Ct of App Dist, Pl 4",,REP,Ysmael D. Fonseca,286,10,232,44
+Goliad,Precinct 43,"Justice, 13th Ct of App Dist, Pl 4",,DEM,Joe Martinez,35,3,28,4
+Goliad,Precinct 43,"Justice, 13th Ct of App Dist, Pl 4",,,Over Votes,0,0,0,0
+Goliad,Precinct 43,"Justice, 13th Ct of App Dist, Pl 4",,,Under Votes,24,1,17,6
+Goliad,Precinct 43,"Justice, 13th Ct of App Dist, Pl 5",,REP,Jon West,295,10,240,45
+Goliad,Precinct 43,"Justice, 13th Ct of App Dist, Pl 5",,DEM,Regi Compian Richardson,29,3,22,4
+Goliad,Precinct 43,"Justice, 13th Ct of App Dist, Pl 5",,,Over Votes,0,0,0,0
+Goliad,Precinct 43,"Justice, 13th Ct of App Dist, Pl 5",,,Under Votes,21,1,15,5
+Goliad,Precinct 43,"Dist Judge, 24th Judicial Dist",,REP,Lisa Harvey Moore,296,12,242,42
+Goliad,Precinct 43,"Dist Judge, 24th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 43,"Dist Judge, 24th Judicial Dist",,,Under Votes,49,2,35,12
+Goliad,Precinct 43,"Dist Judge, 135th Judicial Dist",,REP,Kemper Stephen Williams,299,12,243,44
+Goliad,Precinct 43,"Dist Judge, 135th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 43,"Dist Judge, 135th Judicial Dist",,,Under Votes,46,2,34,10
+Goliad,Precinct 43,"Dist Attorney, 24th Judicial Dist",,REP,Brian Michael Cromeens,297,12,239,46
+Goliad,Precinct 43,"Dist Attorney, 24th Judicial Dist",,,Over Votes,0,0,0,0
+Goliad,Precinct 43,"Dist Attorney, 24th Judicial Dist",,,Under Votes,48,2,38,8
+Goliad,Precinct 43,County Attorney,,,Write-ins,77,0,71,6
+Goliad,Precinct 43,County Attorney,,,Over Votes,0,0,0,0
+Goliad,Precinct 43,County Attorney,,,Under Votes,268,14,206,48
+Goliad,Precinct 43,Sheriff,,REP,Roy Boyd Jr,311,13,251,47
+Goliad,Precinct 43,Sheriff,,,Over Votes,0,0,0,0
+Goliad,Precinct 43,Sheriff,,,Under Votes,34,1,26,7
+Goliad,Precinct 43,County Tax Assessor-Collector,,REP,Michelle Garcia,299,13,239,47
+Goliad,Precinct 43,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Goliad,Precinct 43,County Tax Assessor-Collector,,,Under Votes,46,1,38,7
+Goliad,Precinct 43,"Constable, Precinct No. 2",,REP,Bill Zappe,288,13,230,45
+Goliad,Precinct 43,"Constable, Precinct No. 2",,,Over Votes,0,0,0,0
+Goliad,Precinct 43,"Constable, Precinct No. 2",,,Under Votes,57,1,47,9
