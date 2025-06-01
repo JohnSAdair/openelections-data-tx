@@ -1,0 +1,1676 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Wise,01,Registered Voters,,,,1555,,,
+Wise,01,Ballots Cast,,,,1078,,,
+Wise,01,President,,REP,Donald J. Trump,897,16,764,117
+Wise,01,President,,DEM,Kamala D. Harris,169,4,134,31
+Wise,01,President,,LIB,Chase Oliver,3,0,1,2
+Wise,01,U.S. Senate,,REP,Ted Cruz,861,14,734,113
+Wise,01,U.S. Senate,,DEM,Colin Allred,188,4,150,34
+Wise,01,U.S. Senate,,LIB,Ted Brown,14,1,12,1
+Wise,01,U.S. House,26,REP,Brandon Gill,888,13,758,117
+Wise,01,U.S. House,26,DEM,Ernest R. Lineberger III,144,4,114,26
+Wise,01,U.S. House,26,LIB,Phil Gray,23,2,18,3
+Wise,01,Railroad Commissioner,,REP,Christi Craddick,868,15,736,117
+Wise,01,Railroad Commissioner,,DEM,Katherine Culbert,135,4,109,22
+Wise,01,Railroad Commissioner,,LIB,Hawk Dunlap,30,1,25,4
+Wise,01,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,902,16,764,122
+Wise,01,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,149,4,120,25
+Wise,01,"Justice, Supreme Court, Place 4",4,REP,John Devine,896,16,761,119
+Wise,01,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,152,4,120,28
+Wise,01,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,875,15,746,114
+Wise,01,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,146,4,114,28
+Wise,01,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,28,1,22,5
+Wise,01,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,895,16,758,121
+Wise,01,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,152,4,123,25
+Wise,01,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,897,16,759,122
+Wise,01,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,147,4,119,24
+Wise,01,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,908,16,769,123
+Wise,01,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,137,4,110,23
+Wise,01,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,896,16,760,120
+Wise,01,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,153,4,122,27
+Wise,01,State Representative,64,REP,Andy Hopper,890,14,755,121
+Wise,01,State Representative,64,DEM,Angela Brewer,161,6,128,27
+Wise,01,State Representative,64,REP,Bonnie Sudderth,943,17,793,133
+Wise,01,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,937,17,788,132
+Wise,01,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,932,16,785,131
+Wise,01,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,930,17,782,131
+Wise,01,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,926,17,778,131
+Wise,01,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,925,17,779,129
+Wise,01,County Attorney,,REP,Che Rotramble,921,17,775,129
+Wise,01,Sheriff,,REP,Cary Mellema,924,16,780,128
+Wise,01,County Tax Assessor-Collector,,REP,Monte S. Shaw,936,17,786,133
+Wise,01,"County Commissioner, Precinct No. 1",,REP,"John ""Biff"" Hayes",931,17,781,133
+Wise,01,"County Commissioner, Precinct No. 1",,REP,Greg Leveling,924,17,778,129
+Wise,02,Registered Voters,,,,3328,,,
+Wise,02,Ballots Cast,,,,2228,,,
+Wise,02,President,,REP,Donald J. Trump,1795,58,1521,216
+Wise,02,President,,DEM,Kamala D. Harris,404,26,310,68
+Wise,02,President,,LIB,Chase Oliver,11,0,7,4
+Wise,02,U.S. Senate,,REP,Ted Cruz,1712,57,1460,195
+Wise,02,U.S. Senate,,DEM,Colin Allred,456,27,342,87
+Wise,02,U.S. Senate,,LIB,Ted Brown,43,0,39,4
+Wise,02,U.S. House,26,REP,Brandon Gill,1752,56,1479,217
+Wise,02,U.S. House,26,DEM,Ernest R. Lineberger III,371,25,287,59
+Wise,02,U.S. House,26,LIB,Phil Gray,48,1,37,10
+Wise,02,Railroad Commissioner,,REP,Christi Craddick,1723,54,1465,204
+Wise,02,Railroad Commissioner,,DEM,Katherine Culbert,343,24,265,54
+Wise,02,Railroad Commissioner,,LIB,Hawk Dunlap,66,1,52,13
+Wise,02,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1794,55,1518,221
+Wise,02,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,377,24,288,65
+Wise,02,"Justice, Supreme Court, Place 4",4,REP,John Devine,1773,55,1500,218
+Wise,02,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,391,24,300,67
+Wise,02,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1728,55,1464,209
+Wise,02,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,356,23,275,58
+Wise,02,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,77,1,60,16
+Wise,02,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1783,54,1511,218
+Wise,02,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,379,24,291,64
+Wise,02,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1780,54,1509,217
+Wise,02,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,373,24,285,64
+Wise,02,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1792,54,1517,221
+Wise,02,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,362,24,278,60
+Wise,02,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,1764,55,1496,213
+Wise,02,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,389,24,295,70
+Wise,02,State Representative,64,REP,Andy Hopper,1738,55,1469,214
+Wise,02,State Representative,64,DEM,Angela Brewer,408,23,316,69
+Wise,02,State Representative,64,REP,Bonnie Sudderth,1895,56,1592,247
+Wise,02,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,1879,56,1579,244
+Wise,02,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,1868,56,1567,245
+Wise,02,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,1872,56,1571,245
+Wise,02,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,1867,57,1565,245
+Wise,02,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,1896,62,1590,244
+Wise,02,County Attorney,,REP,Che Rotramble,1865,55,1564,246
+Wise,02,Sheriff,,REP,Cary Mellema,1843,56,1539,248
+Wise,02,County Tax Assessor-Collector,,REP,Monte S. Shaw,1919,67,1596,256
+Wise,02,"County Commissioner, Precinct No. 1",,REP,"John ""Biff"" Hayes",1889,63,1577,249
+Wise,02,"County Commissioner, Precinct No. 1",,REP,Greg Leveling,1864,58,1559,247
+Wise,03,Registered Voters,,,,952,,,
+Wise,03,Ballots Cast,,,,749,,,
+Wise,03,President,,REP,Donald J. Trump,646,29,569,48
+Wise,03,President,,DEM,Kamala D. Harris,96,5,83,8
+Wise,03,President,,LIB,Chase Oliver,4,0,4,0
+Wise,03,U.S. Senate,,REP,Ted Cruz,622,28,550,44
+Wise,03,U.S. Senate,,DEM,Colin Allred,105,6,90,9
+Wise,03,U.S. Senate,,LIB,Ted Brown,17,0,14,3
+Wise,03,U.S. House,13,REP,Ronny Jackson,674,27,595,52
+Wise,03,Railroad Commissioner,,REP,Christi Craddick,627,20,560,47
+Wise,03,Railroad Commissioner,,DEM,Katherine Culbert,70,4,62,4
+Wise,03,Railroad Commissioner,,LIB,Hawk Dunlap,15,0,13,2
+Wise,03,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,651,21,581,49
+Wise,03,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,74,4,64,6
+Wise,03,"Justice, Supreme Court, Place 4",4,REP,John Devine,644,20,575,49
+Wise,03,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,78,5,67,6
+Wise,03,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,635,21,568,46
+Wise,03,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,72,4,60,8
+Wise,03,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,17,0,15,2
+Wise,03,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,643,21,573,49
+Wise,03,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,80,4,70,6
+Wise,03,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,653,21,583,49
+Wise,03,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,69,4,59,6
+Wise,03,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,653,21,583,49
+Wise,03,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,67,4,57,6
+Wise,03,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,640,21,571,48
+Wise,03,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,80,4,68,8
+Wise,03,State Representative,64,REP,Andy Hopper,633,19,567,47
+Wise,03,State Representative,64,DEM,Angela Brewer,88,5,75,8
+Wise,03,State Representative,64,REP,Bonnie Sudderth,670,22,595,53
+Wise,03,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,669,21,595,53
+Wise,03,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,667,21,593,53
+Wise,03,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,664,21,590,53
+Wise,03,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,664,23,588,53
+Wise,03,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,657,22,583,52
+Wise,03,County Attorney,,REP,Che Rotramble,656,23,580,53
+Wise,03,Sheriff,,REP,Cary Mellema,659,24,584,51
+Wise,03,County Tax Assessor-Collector,,REP,Monte S. Shaw,668,24,591,53
+Wise,03,"County Commissioner, Precinct No. 1",,REP,"John ""Biff"" Hayes",658,24,581,53
+Wise,03,"County Commissioner, Precinct No. 1",,REP,Greg Leveling,662,24,585,53
+Wise,03 SLID,Registered Voters,,,,563,,,
+Wise,03 SLID,Ballots Cast,,,,407,,,
+Wise,03 SLID,President,,REP,Donald J. Trump,345,17,218,110
+Wise,03 SLID,President,,DEM,Kamala D. Harris,56,5,42,9
+Wise,03 SLID,President,,LIB,Chase Oliver,5,1,2,2
+Wise,03 SLID,U.S. Senate,,REP,Ted Cruz,329,17,207,105
+Wise,03 SLID,U.S. Senate,,DEM,Colin Allred,65,5,47,13
+Wise,03 SLID,U.S. Senate,,LIB,Ted Brown,11,0,8,3
+Wise,03 SLID,U.S. House,13,REP,Ronny Jackson,352,17,229,106
+Wise,03 SLID,Railroad Commissioner,,REP,Christi Craddick,323,17,208,98
+Wise,03 SLID,Railroad Commissioner,,DEM,Katherine Culbert,51,5,38,8
+Wise,03 SLID,Railroad Commissioner,,LIB,Hawk Dunlap,11,0,5,6
+Wise,03 SLID,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,337,16,214,107
+Wise,03 SLID,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,51,5,38,8
+Wise,03 SLID,"Justice, Supreme Court, Place 4",4,REP,John Devine,330,16,209,105
+Wise,03 SLID,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,55,5,39,11
+Wise,03 SLID,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,324,16,208,100
+Wise,03 SLID,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,51,5,38,8
+Wise,03 SLID,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,14,0,6,8
+Wise,03 SLID,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,334,15,215,104
+Wise,03 SLID,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,55,5,38,12
+Wise,03 SLID,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,334,15,214,105
+Wise,03 SLID,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,51,5,37,9
+Wise,03 SLID,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,339,15,217,107
+Wise,03 SLID,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,47,4,35,8
+Wise,03 SLID,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,334,14,215,105
+Wise,03 SLID,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,56,5,39,12
+Wise,03 SLID,State Representative,64,REP,Andy Hopper,335,16,213,106
+Wise,03 SLID,State Representative,64,DEM,Angela Brewer,56,5,41,10
+Wise,03 SLID,State Representative,64,REP,Bonnie Sudderth,344,12,227,105
+Wise,03 SLID,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,343,11,228,104
+Wise,03 SLID,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,342,12,224,106
+Wise,03 SLID,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,340,12,225,103
+Wise,03 SLID,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,345,13,226,106
+Wise,03 SLID,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,347,12,229,106
+Wise,03 SLID,County Attorney,,REP,Che Rotramble,342,12,227,103
+Wise,03 SLID,Sheriff,,REP,Cary Mellema,350,14,229,107
+Wise,03 SLID,County Tax Assessor-Collector,,REP,Monte S. Shaw,358,16,234,108
+Wise,03 SLID,"County Commissioner, Precinct No. 1",,REP,"John ""Biff"" Hayes",348,16,228,104
+Wise,03 SLID,"County Commissioner, Precinct No. 1",,REP,Greg Leveling,349,13,228,108
+Wise,04,Registered Voters,,,,508,,,
+Wise,04,Ballots Cast,,,,395,,,
+Wise,04,President,,REP,Donald J. Trump,354,11,315,28
+Wise,04,President,,DEM,Kamala D. Harris,36,5,26,5
+Wise,04,President,,LIB,Chase Oliver,0,0,0,0
+Wise,04,U.S. Senate,,REP,Ted Cruz,349,11,312,26
+Wise,04,U.S. Senate,,DEM,Colin Allred,39,6,27,6
+Wise,04,U.S. Senate,,LIB,Ted Brown,6,0,5,1
+Wise,04,U.S. House,13,REP,Ronny Jackson,351,12,309,30
+Wise,04,Railroad Commissioner,,REP,Christi Craddick,335,8,307,20
+Wise,04,Railroad Commissioner,,DEM,Katherine Culbert,30,6,19,5
+Wise,04,Railroad Commissioner,,LIB,Hawk Dunlap,16,0,7,9
+Wise,04,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,345,10,306,29
+Wise,04,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,33,4,24,5
+Wise,04,"Justice, Supreme Court, Place 4",4,REP,John Devine,344,10,305,29
+Wise,04,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,34,4,25,5
+Wise,04,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,343,10,305,28
+Wise,04,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,31,4,22,5
+Wise,04,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,8,0,7,1
+Wise,04,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,345,10,306,29
+Wise,04,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,34,4,25,5
+Wise,04,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,347,9,309,29
+Wise,04,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,32,5,22,5
+Wise,04,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,346,9,308,29
+Wise,04,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,32,5,22,5
+Wise,04,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,346,9,308,29
+Wise,04,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,32,5,22,5
+Wise,04,State Representative,64,REP,Andy Hopper,336,10,297,29
+Wise,04,State Representative,64,DEM,Angela Brewer,39,4,30,5
+Wise,04,State Representative,64,REP,Bonnie Sudderth,352,9,314,29
+Wise,04,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,350,9,312,29
+Wise,04,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,354,9,315,30
+Wise,04,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,350,9,312,29
+Wise,04,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,346,9,308,29
+Wise,04,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,346,10,305,31
+Wise,04,County Attorney,,REP,Che Rotramble,340,9,303,28
+Wise,04,Sheriff,,REP,Cary Mellema,334,9,296,29
+Wise,04,County Tax Assessor-Collector,,REP,Monte S. Shaw,344,9,304,31
+Wise,04,"County Commissioner, Precinct No. 1",,REP,"John ""Biff"" Hayes",347,9,307,31
+Wise,04,"County Commissioner, Precinct No. 1",,REP,Greg Leveling,342,9,304,29
+Wise,04 SLID,Registered Voters,,,,763,,,
+Wise,04 SLID,Ballots Cast,,,,557,,,
+Wise,04 SLID,President,,REP,Donald J. Trump,481,11,352,118
+Wise,04 SLID,President,,DEM,Kamala D. Harris,71,6,41,24
+Wise,04 SLID,President,,LIB,Chase Oliver,3,0,1,2
+Wise,04 SLID,U.S. Senate,,REP,Ted Cruz,471,11,348,112
+Wise,04 SLID,U.S. Senate,,DEM,Colin Allred,80,6,46,28
+Wise,04 SLID,U.S. Senate,,LIB,Ted Brown,5,0,2,3
+Wise,04 SLID,U.S. House,13,REP,Ronny Jackson,488,12,360,116
+Wise,04 SLID,Railroad Commissioner,,REP,Christi Craddick,458,11,342,105
+Wise,04 SLID,Railroad Commissioner,,DEM,Katherine Culbert,61,5,37,19
+Wise,04 SLID,Railroad Commissioner,,LIB,Hawk Dunlap,12,0,7,5
+Wise,04 SLID,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,474,10,353,111
+Wise,04 SLID,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,65,5,37,23
+Wise,04 SLID,"Justice, Supreme Court, Place 4",4,REP,John Devine,474,10,352,112
+Wise,04 SLID,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,64,5,38,21
+Wise,04 SLID,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,462,10,346,106
+Wise,04 SLID,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,63,5,37,21
+Wise,04 SLID,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,12,0,6,6
+Wise,04 SLID,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,476,10,352,114
+Wise,04 SLID,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,62,5,38,19
+Wise,04 SLID,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,475,10,355,110
+Wise,04 SLID,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,63,5,36,22
+Wise,04 SLID,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,474,10,353,111
+Wise,04 SLID,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,63,5,37,21
+Wise,04 SLID,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,476,12,352,112
+Wise,04 SLID,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,67,5,40,22
+Wise,04 SLID,State Representative,64,REP,Andy Hopper,462,12,344,106
+Wise,04 SLID,State Representative,64,DEM,Angela Brewer,75,5,44,26
+Wise,04 SLID,State Representative,64,REP,Bonnie Sudderth,489,9,364,116
+Wise,04 SLID,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,483,9,359,115
+Wise,04 SLID,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,481,9,358,114
+Wise,04 SLID,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,478,9,358,111
+Wise,04 SLID,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,482,10,359,113
+Wise,04 SLID,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,480,10,357,113
+Wise,04 SLID,County Attorney,,REP,Che Rotramble,475,10,352,113
+Wise,04 SLID,Sheriff,,REP,Cary Mellema,473,10,353,110
+Wise,04 SLID,County Tax Assessor-Collector,,REP,Monte S. Shaw,488,10,359,119
+Wise,04 SLID,"County Commissioner, Precinct No. 1",,REP,"John ""Biff"" Hayes",483,10,359,114
+Wise,04 SLID,"County Commissioner, Precinct No. 1",,REP,Greg Leveling,478,10,354,114
+Wise,05,Registered Voters,,,,2304,,,
+Wise,05,Ballots Cast,,,,1562,,,
+Wise,05,President,,REP,Donald J. Trump,1325,19,1000,306
+Wise,05,President,,DEM,Kamala D. Harris,214,13,146,55
+Wise,05,President,,LIB,Chase Oliver,11,1,6,4
+Wise,05,U.S. Senate,,REP,Ted Cruz,1253,20,960,273
+Wise,05,U.S. Senate,,DEM,Colin Allred,255,13,170,72
+Wise,05,U.S. Senate,,LIB,Ted Brown,39,0,23,16
+Wise,05,U.S. House,26,REP,Brandon Gill,1282,20,972,290
+Wise,05,U.S. House,26,DEM,Ernest R. Lineberger III,194,11,136,47
+Wise,05,U.S. House,26,LIB,Phil Gray,41,0,26,15
+Wise,05,Railroad Commissioner,,REP,Christi Craddick,1271,21,973,277
+Wise,05,Railroad Commissioner,,DEM,Katherine Culbert,167,9,116,42
+Wise,05,Railroad Commissioner,,LIB,Hawk Dunlap,50,0,33,17
+Wise,05,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1317,20,1000,297
+Wise,05,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,205,10,140,55
+Wise,05,"Justice, Supreme Court, Place 4",4,REP,John Devine,1312,22,994,296
+Wise,05,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,206,8,143,55
+Wise,05,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1272,22,968,282
+Wise,05,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,193,8,135,50
+Wise,05,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,49,0,29,20
+Wise,05,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1307,20,994,293
+Wise,05,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,205,10,137,58
+Wise,05,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1315,22,994,299
+Wise,05,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,195,8,137,50
+Wise,05,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1320,22,1000,298
+Wise,05,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,185,8,128,49
+Wise,05,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,1300,20,987,293
+Wise,05,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,210,10,146,54
+Wise,05,State Representative,64,REP,Andy Hopper,1299,21,983,295
+Wise,05,State Representative,64,DEM,Angela Brewer,211,9,146,56
+Wise,05,State Representative,64,REP,Bonnie Sudderth,1377,22,1036,319
+Wise,05,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,1365,21,1032,312
+Wise,05,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,1360,21,1026,313
+Wise,05,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,1359,21,1023,315
+Wise,05,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,1358,21,1023,314
+Wise,05,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,1351,21,1021,309
+Wise,05,County Attorney,,REP,Che Rotramble,1346,21,1015,310
+Wise,05,Sheriff,,REP,Cary Mellema,1352,21,1016,315
+Wise,05,County Tax Assessor-Collector,,REP,Monte S. Shaw,1367,23,1028,316
+Wise,05,"County Commissioner, Precinct No. 1",,REP,"John ""Biff"" Hayes",1354,21,1021,312
+Wise,05,"County Commissioner, Precinct No. 1",,REP,Greg Leveling,1348,21,1016,311
+Wise,06,Registered Voters,,,,521,,,
+Wise,06,Ballots Cast,,,,273,,,
+Wise,06,President,,REP,Donald J. Trump,216,2,149,65
+Wise,06,President,,DEM,Kamala D. Harris,53,2,22,29
+Wise,06,President,,LIB,Chase Oliver,1,0,1,0
+Wise,06,U.S. Senate,,REP,Ted Cruz,204,2,144,58
+Wise,06,U.S. Senate,,DEM,Colin Allred,62,2,23,37
+Wise,06,U.S. Senate,,LIB,Ted Brown,4,0,2,2
+Wise,06,U.S. House,26,REP,Brandon Gill,199,2,136,61
+Wise,06,U.S. House,26,DEM,Ernest R. Lineberger III,54,2,21,31
+Wise,06,U.S. House,26,LIB,Phil Gray,4,0,1,3
+Wise,06,Railroad Commissioner,,REP,Christi Craddick,199,2,141,56
+Wise,06,Railroad Commissioner,,DEM,Katherine Culbert,43,0,17,26
+Wise,06,Railroad Commissioner,,LIB,Hawk Dunlap,10,0,6,4
+Wise,06,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,211,2,147,62
+Wise,06,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,52,0,20,32
+Wise,06,"Justice, Supreme Court, Place 4",4,REP,John Devine,207,2,144,61
+Wise,06,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,54,0,21,33
+Wise,06,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,202,2,142,58
+Wise,06,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,48,0,21,27
+Wise,06,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,12,0,4,8
+Wise,06,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,208,2,146,60
+Wise,06,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,52,0,20,32
+Wise,06,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,207,2,145,60
+Wise,06,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,50,0,19,31
+Wise,06,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,208,2,145,61
+Wise,06,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,52,0,20,32
+Wise,06,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,199,2,136,61
+Wise,06,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,53,0,20,33
+Wise,06,State Representative,64,REP,Andy Hopper,196,2,134,60
+Wise,06,State Representative,64,DEM,Angela Brewer,54,0,20,34
+Wise,06,State Representative,64,REP,Bonnie Sudderth,224,2,146,76
+Wise,06,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,223,2,146,75
+Wise,06,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,224,2,147,75
+Wise,06,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,224,2,146,76
+Wise,06,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,210,2,133,75
+Wise,06,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,207,2,131,74
+Wise,06,County Attorney,,REP,Che Rotramble,209,2,133,74
+Wise,06,Sheriff,,REP,Cary Mellema,209,2,132,75
+Wise,06,County Tax Assessor-Collector,,REP,Monte S. Shaw,214,2,136,76
+Wise,06,"County Commissioner, Precinct No. 1",,REP,"John ""Biff"" Hayes",210,2,133,75
+Wise,06,"County Commissioner, Precinct No. 1",,REP,Greg Leveling,209,2,132,75
+Wise,06 NWST,Registered Voters,,,,2521,,,
+Wise,06 NWST,Ballots Cast,,,,1727,,,
+Wise,06 NWST,President,,REP,Donald J. Trump,1373,17,1058,298
+Wise,06 NWST,President,,DEM,Kamala D. Harris,331,11,251,69
+Wise,06 NWST,President,,LIB,Chase Oliver,11,1,9,1
+Wise,06 NWST,U.S. Senate,,REP,Ted Cruz,1311,17,1016,278
+Wise,06 NWST,U.S. Senate,,DEM,Colin Allred,364,13,270,81
+Wise,06 NWST,U.S. Senate,,LIB,Ted Brown,42,1,32,9
+Wise,06 NWST,U.S. House,26,REP,Brandon Gill,1362,19,1050,293
+Wise,06 NWST,U.S. House,26,DEM,Ernest R. Lineberger III,289,12,218,59
+Wise,06 NWST,U.S. House,26,LIB,Phil Gray,41,0,33,8
+Wise,06 NWST,Railroad Commissioner,,REP,Christi Craddick,1327,20,1024,283
+Wise,06 NWST,Railroad Commissioner,,DEM,Katherine Culbert,266,11,207,48
+Wise,06 NWST,Railroad Commissioner,,LIB,Hawk Dunlap,47,0,36,11
+Wise,06 NWST,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1360,18,1050,292
+Wise,06 NWST,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,314,13,242,59
+Wise,06 NWST,"Justice, Supreme Court, Place 4",4,REP,John Devine,1354,19,1048,287
+Wise,06 NWST,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,316,12,242,62
+Wise,06 NWST,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1326,19,1024,283
+Wise,06 NWST,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,293,12,223,58
+Wise,06 NWST,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,53,0,42,11
+Wise,06 NWST,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1370,19,1060,291
+Wise,06 NWST,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,302,12,228,62
+Wise,06 NWST,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1375,19,1058,298
+Wise,06 NWST,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,294,12,229,53
+Wise,06 NWST,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1375,19,1066,290
+Wise,06 NWST,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,287,12,219,56
+Wise,06 NWST,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,1360,18,1050,292
+Wise,06 NWST,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,317,13,241,63
+Wise,06 NWST,State Representative,64,REP,Andy Hopper,1354,19,1044,291
+Wise,06 NWST,State Representative,64,DEM,Angela Brewer,318,12,242,64
+Wise,06 NWST,State Representative,64,REP,Bonnie Sudderth,1477,22,1135,320
+Wise,06 NWST,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,1464,20,1127,317
+Wise,06 NWST,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,1457,21,1120,316
+Wise,06 NWST,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,1449,22,1113,314
+Wise,06 NWST,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,1441,20,1109,312
+Wise,06 NWST,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,1440,19,1109,312
+Wise,06 NWST,County Attorney,,REP,Che Rotramble,1437,20,1106,311
+Wise,06 NWST,Sheriff,,REP,Cary Mellema,1455,24,1115,316
+Wise,06 NWST,County Tax Assessor-Collector,,REP,Monte S. Shaw,1461,25,1120,316
+Wise,06 NWST,"County Commissioner, Precinct No. 1",,REP,"John ""Biff"" Hayes",1450,24,1116,310
+Wise,06 NWST,"County Commissioner, Precinct No. 1",,REP,Greg Leveling,1441,22,1110,309
+Wise,07,Registered Voters,,,,3195,,,
+Wise,07,Ballots Cast,,,,2301,,,
+Wise,07,President,,REP,Donald J. Trump,1908,51,1633,224
+Wise,07,President,,DEM,Kamala D. Harris,372,32,290,50
+Wise,07,President,,LIB,Chase Oliver,8,0,8,0
+Wise,07,U.S. Senate,,REP,Ted Cruz,1840,47,1580,213
+Wise,07,U.S. Senate,,DEM,Colin Allred,399,33,320,46
+Wise,07,U.S. Senate,,LIB,Ted Brown,44,4,25,15
+Wise,07,U.S. House,26,REP,Brandon Gill,1888,51,1618,219
+Wise,07,U.S. House,26,DEM,Ernest R. Lineberger III,314,28,247,39
+Wise,07,U.S. House,26,LIB,Phil Gray,38,1,22,15
+Wise,07,Railroad Commissioner,,REP,Christi Craddick,1851,53,1584,214
+Wise,07,Railroad Commissioner,,DEM,Katherine Culbert,292,21,236,35
+Wise,07,Railroad Commissioner,,LIB,Hawk Dunlap,49,1,35,13
+Wise,07,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1904,52,1624,228
+Wise,07,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,319,23,251,45
+Wise,07,"Justice, Supreme Court, Place 4",4,REP,John Devine,1887,51,1611,225
+Wise,07,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,334,24,263,47
+Wise,07,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1865,52,1596,217
+Wise,07,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,311,22,249,40
+Wise,07,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,47,1,32,14
+Wise,07,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1890,52,1611,227
+Wise,07,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,337,22,271,44
+Wise,07,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1890,50,1615,225
+Wise,07,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,332,24,264,44
+Wise,07,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1916,53,1634,229
+Wise,07,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,301,21,239,41
+Wise,07,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,1885,49,1611,225
+Wise,07,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,333,25,262,46
+Wise,07,State Representative,64,REP,Andy Hopper,1843,50,1571,222
+Wise,07,State Representative,64,DEM,Angela Brewer,373,24,301,48
+Wise,07,State Representative,64,REP,Bonnie Sudderth,1997,54,1693,250
+Wise,07,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,1976,54,1672,250
+Wise,07,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,1967,54,1668,245
+Wise,07,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,1968,54,1666,248
+Wise,07,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,1971,56,1667,248
+Wise,07,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,1987,56,1679,252
+Wise,07,County Attorney,,REP,Che Rotramble,1962,56,1656,250
+Wise,07,Sheriff,,REP,Cary Mellema,1937,56,1636,245
+Wise,07,County Tax Assessor-Collector,,REP,Monte S. Shaw,2008,58,1696,254
+Wise,07,County Tax Assessor-Collector,,REP,Galen Wiley,1960,57,1654,249
+Wise,08,Registered Voters,,,,1960,,,
+Wise,08,Ballots Cast,,,,1400,,,
+Wise,08,President,,REP,Donald J. Trump,1183,21,1033,129
+Wise,08,President,,DEM,Kamala D. Harris,204,9,167,28
+Wise,08,President,,LIB,Chase Oliver,4,0,1,3
+Wise,08,U.S. Senate,,REP,Ted Cruz,1136,22,996,118
+Wise,08,U.S. Senate,,DEM,Colin Allred,240,8,193,39
+Wise,08,U.S. Senate,,LIB,Ted Brown,16,0,12,4
+Wise,08,U.S. House,13,REP,Ronny Jackson,1190,19,1034,137
+Wise,08,Railroad Commissioner,,REP,Christi Craddick,1135,19,1000,116
+Wise,08,Railroad Commissioner,,DEM,Katherine Culbert,162,8,131,23
+Wise,08,Railroad Commissioner,,LIB,Hawk Dunlap,38,0,29,9
+Wise,08,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1169,19,1023,127
+Wise,08,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,184,8,149,27
+Wise,08,"Justice, Supreme Court, Place 4",4,REP,John Devine,1166,19,1021,126
+Wise,08,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,193,8,157,28
+Wise,08,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1139,19,1002,118
+Wise,08,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,168,8,135,25
+Wise,08,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,43,0,33,10
+Wise,08,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1163,19,1022,122
+Wise,08,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,186,8,148,30
+Wise,08,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1167,19,1024,124
+Wise,08,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,177,8,142,27
+Wise,08,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1165,19,1023,123
+Wise,08,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,173,8,136,29
+Wise,08,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,1169,19,1020,130
+Wise,08,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,179,8,145,26
+Wise,08,State Representative,64,REP,Andy Hopper,1150,19,1005,126
+Wise,08,State Representative,64,DEM,Angela Brewer,195,8,155,32
+Wise,08,State Representative,64,REP,Bonnie Sudderth,1186,18,1032,136
+Wise,08,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,1182,18,1030,134
+Wise,08,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,1181,18,1030,133
+Wise,08,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,1177,18,1027,132
+Wise,08,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,1175,18,1027,130
+Wise,08,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,1191,19,1037,135
+Wise,08,County Attorney,,REP,Che Rotramble,1186,19,1035,132
+Wise,08,Sheriff,,REP,Cary Mellema,1163,18,1013,132
+Wise,08,County Tax Assessor-Collector,,REP,Monte S. Shaw,1196,19,1043,134
+Wise,08,County Tax Assessor-Collector,,REP,Galen Wiley,1179,17,1029,133
+Wise,08 SLID,Registered Voters,,,,80,,,
+Wise,08 SLID,Ballots Cast,,,,50,,,
+Wise,08 SLID,President,,REP,Donald J. Trump,47,0,45,2
+Wise,08 SLID,President,,DEM,Kamala D. Harris,2,0,2,0
+Wise,08 SLID,President,,LIB,Chase Oliver,1,0,0,1
+Wise,08 SLID,U.S. Senate,,REP,Ted Cruz,47,0,45,2
+Wise,08 SLID,U.S. Senate,,DEM,Colin Allred,2,0,2,0
+Wise,08 SLID,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+Wise,08 SLID,U.S. House,13,REP,Ronny Jackson,45,0,42,3
+Wise,08 SLID,Railroad Commissioner,,REP,Christi Craddick,45,0,43,2
+Wise,08 SLID,Railroad Commissioner,,DEM,Katherine Culbert,2,0,2,0
+Wise,08 SLID,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,1,1
+Wise,08 SLID,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,46,0,43,3
+Wise,08 SLID,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,2,0,2,0
+Wise,08 SLID,"Justice, Supreme Court, Place 4",4,REP,John Devine,46,0,43,3
+Wise,08 SLID,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,2,0,2,0
+Wise,08 SLID,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,43,0,42,1
+Wise,08 SLID,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,2,0,2,0
+Wise,08 SLID,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,0,2
+Wise,08 SLID,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,47,0,44,3
+Wise,08 SLID,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,2,0,2,0
+Wise,08 SLID,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,47,0,44,3
+Wise,08 SLID,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,2,0,2,0
+Wise,08 SLID,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,46,0,43,3
+Wise,08 SLID,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,2,0,2,0
+Wise,08 SLID,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,47,0,44,3
+Wise,08 SLID,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,2,0,2,0
+Wise,08 SLID,State Representative,64,REP,Andy Hopper,45,0,43,2
+Wise,08 SLID,State Representative,64,DEM,Angela Brewer,3,0,2,1
+Wise,08 SLID,State Representative,64,REP,Bonnie Sudderth,46,0,43,3
+Wise,08 SLID,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,46,0,43,3
+Wise,08 SLID,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,46,0,43,3
+Wise,08 SLID,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,46,0,43,3
+Wise,08 SLID,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,44,0,41,3
+Wise,08 SLID,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,45,0,42,3
+Wise,08 SLID,County Attorney,,REP,Che Rotramble,43,0,40,3
+Wise,08 SLID,Sheriff,,REP,Cary Mellema,44,0,41,3
+Wise,08 SLID,County Tax Assessor-Collector,,REP,Monte S. Shaw,44,0,41,3
+Wise,08 SLID,County Tax Assessor-Collector,,REP,Galen Wiley,41,0,38,3
+Wise,09,Registered Voters,,,,2810,,,
+Wise,09,Ballots Cast,,,,1959,,,
+Wise,09,President,,REP,Donald J. Trump,1760,22,1557,181
+Wise,09,President,,DEM,Kamala D. Harris,184,9,150,25
+Wise,09,President,,LIB,Chase Oliver,6,0,5,1
+Wise,09,U.S. Senate,,REP,Ted Cruz,1707,20,1518,169
+Wise,09,U.S. Senate,,DEM,Colin Allred,218,10,177,31
+Wise,09,U.S. Senate,,LIB,Ted Brown,26,0,20,6
+Wise,09,U.S. House,13,REP,Ronny Jackson,1789,19,1585,185
+Wise,09,Railroad Commissioner,,REP,Christi Craddick,1683,18,1492,173
+Wise,09,Railroad Commissioner,,DEM,Katherine Culbert,156,7,129,20
+Wise,09,Railroad Commissioner,,LIB,Hawk Dunlap,63,2,55,6
+Wise,09,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1751,20,1552,179
+Wise,09,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,165,8,135,22
+Wise,09,"Justice, Supreme Court, Place 4",4,REP,John Devine,1743,20,1544,179
+Wise,09,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,173,8,142,23
+Wise,09,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1711,19,1518,174
+Wise,09,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,165,8,134,23
+Wise,09,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,43,1,37,5
+Wise,09,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1749,19,1551,179
+Wise,09,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,173,6,142,25
+Wise,09,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1744,19,1546,179
+Wise,09,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,165,6,137,22
+Wise,09,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1751,19,1553,179
+Wise,09,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,150,6,124,20
+Wise,09,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,1739,19,1541,179
+Wise,09,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,170,7,140,23
+Wise,09,State Representative,64,REP,Andy Hopper,1731,19,1536,176
+Wise,09,State Representative,64,DEM,Angela Brewer,177,6,148,23
+Wise,09,State Representative,64,REP,Bonnie Sudderth,1787,19,1583,185
+Wise,09,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,1781,19,1578,184
+Wise,09,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,1775,19,1574,182
+Wise,09,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,1777,19,1576,182
+Wise,09,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,1779,19,1577,183
+Wise,09,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,1779,19,1577,183
+Wise,09,County Attorney,,REP,Che Rotramble,1763,19,1564,180
+Wise,09,Sheriff,,REP,Cary Mellema,1759,19,1559,181
+Wise,09,County Tax Assessor-Collector,,REP,Monte S. Shaw,1786,20,1582,184
+Wise,09,County Tax Assessor-Collector,,REP,Galen Wiley,1775,19,1572,184
+Wise,10,Registered Voters,,,,857,,,
+Wise,10,Ballots Cast,,,,659,,,
+Wise,10,President,,REP,Donald J. Trump,587,14,465,108
+Wise,10,President,,DEM,Kamala D. Harris,67,2,57,8
+Wise,10,President,,LIB,Chase Oliver,1,0,1,0
+Wise,10,U.S. Senate,,REP,Ted Cruz,575,14,457,104
+Wise,10,U.S. Senate,,DEM,Colin Allred,76,2,63,11
+Wise,10,U.S. Senate,,LIB,Ted Brown,6,0,5,1
+Wise,10,U.S. House,13,REP,Ronny Jackson,597,15,473,109
+Wise,10,Railroad Commissioner,,REP,Christi Craddick,564,12,452,100
+Wise,10,Railroad Commissioner,,DEM,Katherine Culbert,64,3,53,8
+Wise,10,Railroad Commissioner,,LIB,Hawk Dunlap,16,0,11,5
+Wise,10,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,587,13,470,104
+Wise,10,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,65,2,52,11
+Wise,10,"Justice, Supreme Court, Place 4",4,REP,John Devine,582,13,468,101
+Wise,10,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,64,2,51,11
+Wise,10,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,574,13,462,99
+Wise,10,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,63,2,51,10
+Wise,10,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,8,0,4,4
+Wise,10,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,583,13,466,104
+Wise,10,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,62,2,52,8
+Wise,10,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,580,13,466,101
+Wise,10,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,63,2,51,10
+Wise,10,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,578,13,468,97
+Wise,10,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,62,2,50,10
+Wise,10,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,577,13,464,100
+Wise,10,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,66,2,53,11
+Wise,10,State Representative,64,REP,Andy Hopper,575,12,458,105
+Wise,10,State Representative,64,DEM,Angela Brewer,67,3,56,8
+Wise,10,State Representative,64,REP,Bonnie Sudderth,594,14,475,105
+Wise,10,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,593,14,474,105
+Wise,10,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,588,14,469,105
+Wise,10,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,587,14,472,101
+Wise,10,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,585,14,470,101
+Wise,10,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,583,14,466,103
+Wise,10,County Attorney,,REP,Che Rotramble,583,14,468,101
+Wise,10,Sheriff,,REP,Cary Mellema,586,14,469,103
+Wise,10,County Tax Assessor-Collector,,REP,Monte S. Shaw,591,14,474,103
+Wise,10,County Tax Assessor-Collector,,REP,Galen Wiley,589,14,473,102
+Wise,11,Registered Voters,,,,810,,,
+Wise,11,Ballots Cast,,,,573,,,
+Wise,11,President,,REP,Donald J. Trump,511,11,369,131
+Wise,11,President,,DEM,Kamala D. Harris,58,0,44,14
+Wise,11,President,,LIB,Chase Oliver,2,1,1,0
+Wise,11,U.S. Senate,,REP,Ted Cruz,480,12,348,120
+Wise,11,U.S. Senate,,DEM,Colin Allred,79,0,62,17
+Wise,11,U.S. Senate,,LIB,Ted Brown,8,0,2,6
+Wise,11,U.S. House,13,REP,Ronny Jackson,516,11,371,134
+Wise,11,Railroad Commissioner,,REP,Christi Craddick,480,12,348,120
+Wise,11,Railroad Commissioner,,DEM,Katherine Culbert,44,0,34,10
+Wise,11,Railroad Commissioner,,LIB,Hawk Dunlap,18,0,11,7
+Wise,11,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,500,12,363,125
+Wise,11,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,53,0,38,15
+Wise,11,"Justice, Supreme Court, Place 4",4,REP,John Devine,497,12,359,126
+Wise,11,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,58,0,42,16
+Wise,11,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,488,12,353,123
+Wise,11,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,55,0,41,14
+Wise,11,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,13,0,8,5
+Wise,11,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,494,12,357,125
+Wise,11,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,58,0,43,15
+Wise,11,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,494,12,357,125
+Wise,11,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,58,0,43,15
+Wise,11,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,497,12,357,128
+Wise,11,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,53,0,41,12
+Wise,11,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,502,12,362,128
+Wise,11,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,56,0,42,14
+Wise,11,State Representative,64,REP,Andy Hopper,501,12,361,128
+Wise,11,State Representative,64,DEM,Angela Brewer,60,0,45,15
+Wise,11,State Representative,64,REP,Bonnie Sudderth,513,12,367,134
+Wise,11,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,513,12,367,134
+Wise,11,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,505,12,361,132
+Wise,11,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,510,12,365,133
+Wise,11,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,510,12,366,132
+Wise,11,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,512,12,367,133
+Wise,11,County Attorney,,REP,Che Rotramble,509,12,364,133
+Wise,11,Sheriff,,REP,Cary Mellema,512,12,367,133
+Wise,11,County Tax Assessor-Collector,,REP,Monte S. Shaw,519,12,373,134
+Wise,11,County Tax Assessor-Collector,,REP,Galen Wiley,514,12,370,132
+Wise,12,Registered Voters,,,,1996,,,
+Wise,12,Ballots Cast,,,,1358,,,
+Wise,12,President,,REP,Donald J. Trump,1177,18,942,217
+Wise,12,President,,DEM,Kamala D. Harris,164,6,129,29
+Wise,12,President,,LIB,Chase Oliver,4,0,3,1
+Wise,12,U.S. Senate,,REP,Ted Cruz,1132,16,922,194
+Wise,12,U.S. Senate,,DEM,Colin Allred,193,7,146,40
+Wise,12,U.S. Senate,,LIB,Ted Brown,21,0,12,9
+Wise,12,U.S. House,13,REP,Ronny Jackson,1217,18,980,219
+Wise,12,Railroad Commissioner,,REP,Christi Craddick,1141,18,931,192
+Wise,12,Railroad Commissioner,,DEM,Katherine Culbert,142,3,111,28
+Wise,12,Railroad Commissioner,,LIB,Hawk Dunlap,28,0,16,12
+Wise,12,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1178,18,956,204
+Wise,12,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,142,3,110,29
+Wise,12,"Justice, Supreme Court, Place 4",4,REP,John Devine,1164,18,947,199
+Wise,12,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,149,3,111,35
+Wise,12,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1139,16,931,192
+Wise,12,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,147,3,112,32
+Wise,12,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,29,1,17,11
+Wise,12,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1166,18,945,203
+Wise,12,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,152,4,119,29
+Wise,12,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1170,18,949,203
+Wise,12,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,144,4,111,29
+Wise,12,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1165,18,948,199
+Wise,12,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,144,4,110,30
+Wise,12,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,1166,17,946,203
+Wise,12,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,151,5,115,31
+Wise,12,State Representative,64,REP,Andy Hopper,1143,17,925,201
+Wise,12,State Representative,64,DEM,Angela Brewer,169,5,132,32
+Wise,12,State Representative,64,REP,Bonnie Sudderth,1209,18,974,217
+Wise,12,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,1208,18,973,217
+Wise,12,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,1206,18,971,217
+Wise,12,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,1203,18,971,214
+Wise,12,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,1205,18,972,215
+Wise,12,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,1210,17,980,213
+Wise,12,County Attorney,,REP,Che Rotramble,1201,18,966,217
+Wise,12,Sheriff,,REP,Cary Mellema,1197,16,963,218
+Wise,12,County Tax Assessor-Collector,,REP,Monte S. Shaw,1222,17,985,220
+Wise,12,County Tax Assessor-Collector,,REP,Galen Wiley,1230,17,993,220
+Wise,13,Registered Voters,,,,841,,,
+Wise,13,Ballots Cast,,,,564,,,
+Wise,13,President,,REP,Donald J. Trump,501,10,437,54
+Wise,13,President,,DEM,Kamala D. Harris,61,2,51,8
+Wise,13,President,,LIB,Chase Oliver,1,0,1,0
+Wise,13,U.S. Senate,,REP,Ted Cruz,470,8,420,42
+Wise,13,U.S. Senate,,DEM,Colin Allred,76,3,58,15
+Wise,13,U.S. Senate,,LIB,Ted Brown,11,0,9,2
+Wise,13,U.S. House,26,REP,Brandon Gill,492,8,436,48
+Wise,13,U.S. House,26,DEM,Ernest R. Lineberger III,45,2,37,6
+Wise,13,U.S. House,26,LIB,Phil Gray,11,0,7,4
+Wise,13,Railroad Commissioner,,REP,Christi Craddick,473,9,422,42
+Wise,13,Railroad Commissioner,,DEM,Katherine Culbert,48,2,37,9
+Wise,13,Railroad Commissioner,,LIB,Hawk Dunlap,15,0,12,3
+Wise,13,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,494,9,436,49
+Wise,13,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,53,2,43,8
+Wise,13,"Justice, Supreme Court, Place 4",4,REP,John Devine,491,9,433,49
+Wise,13,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,54,2,44,8
+Wise,13,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,481,9,425,47
+Wise,13,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,47,2,37,8
+Wise,13,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,18,0,16,2
+Wise,13,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,491,9,435,47
+Wise,13,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,54,2,42,10
+Wise,13,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,499,9,440,50
+Wise,13,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,48,2,39,7
+Wise,13,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,496,9,439,48
+Wise,13,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,50,2,39,9
+Wise,13,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,488,9,431,48
+Wise,13,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,56,2,45,9
+Wise,13,State Representative,64,REP,Andy Hopper,489,9,433,47
+Wise,13,State Representative,64,DEM,Angela Brewer,56,2,44,10
+Wise,13,State Representative,64,REP,Bonnie Sudderth,517,9,457,51
+Wise,13,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,516,9,456,51
+Wise,13,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,511,9,451,51
+Wise,13,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,510,9,450,51
+Wise,13,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,509,9,450,50
+Wise,13,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,511,9,450,52
+Wise,13,County Attorney,,REP,Che Rotramble,509,9,449,51
+Wise,13,Sheriff,,REP,Cary Mellema,508,9,449,50
+Wise,13,County Tax Assessor-Collector,,REP,Monte S. Shaw,509,9,448,52
+Wise,13,County Tax Assessor-Collector,,REP,Kevin Huffman,508,9,448,51
+Wise,14,Registered Voters,,,,910,,,
+Wise,14,Ballots Cast,,,,644,,,
+Wise,14,President,,REP,Donald J. Trump,560,17,482,61
+Wise,14,President,,DEM,Kamala D. Harris,75,9,56,10
+Wise,14,President,,LIB,Chase Oliver,4,0,4,0
+Wise,14,U.S. Senate,,REP,Ted Cruz,543,17,471,55
+Wise,14,U.S. Senate,,DEM,Colin Allred,91,9,68,14
+Wise,14,U.S. Senate,,LIB,Ted Brown,8,0,7,1
+Wise,14,U.S. House,26,REP,Brandon Gill,553,16,479,58
+Wise,14,U.S. House,26,DEM,Ernest R. Lineberger III,64,9,49,6
+Wise,14,U.S. House,26,LIB,Phil Gray,10,0,9,1
+Wise,14,Railroad Commissioner,,REP,Christi Craddick,539,16,469,54
+Wise,14,Railroad Commissioner,,DEM,Katherine Culbert,62,8,47,7
+Wise,14,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,12,5
+Wise,14,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,556,16,483,57
+Wise,14,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,71,8,55,8
+Wise,14,"Justice, Supreme Court, Place 4",4,REP,John Devine,548,16,479,53
+Wise,14,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,73,8,58,7
+Wise,14,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,540,16,471,53
+Wise,14,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,72,9,54,9
+Wise,14,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,15,0,14,1
+Wise,14,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,550,16,481,53
+Wise,14,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,71,9,53,9
+Wise,14,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,551,16,480,55
+Wise,14,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,69,9,53,7
+Wise,14,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,551,16,480,55
+Wise,14,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,67,8,52,7
+Wise,14,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,554,16,480,58
+Wise,14,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,75,9,58,8
+Wise,14,State Representative,64,REP,Andy Hopper,553,17,477,59
+Wise,14,State Representative,64,DEM,Angela Brewer,77,9,60,8
+Wise,14,State Representative,64,REP,Bonnie Sudderth,562,16,488,58
+Wise,14,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,560,16,486,58
+Wise,14,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,557,16,483,58
+Wise,14,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,556,16,481,59
+Wise,14,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,554,16,480,58
+Wise,14,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,561,17,483,61
+Wise,14,County Attorney,,REP,Che Rotramble,553,16,478,59
+Wise,14,Sheriff,,REP,Cary Mellema,555,16,478,61
+Wise,14,County Tax Assessor-Collector,,REP,Monte S. Shaw,569,16,492,61
+Wise,14,County Tax Assessor-Collector,,REP,Kevin Huffman,559,16,482,61
+Wise,15,Registered Voters,,,,2103,,,
+Wise,15,Ballots Cast,,,,1523,,,
+Wise,15,President,,REP,Donald J. Trump,1317,23,1098,196
+Wise,15,President,,DEM,Kamala D. Harris,188,8,144,36
+Wise,15,President,,LIB,Chase Oliver,6,1,3,2
+Wise,15,U.S. Senate,,REP,Ted Cruz,1272,24,1063,185
+Wise,15,U.S. Senate,,DEM,Colin Allred,213,7,161,45
+Wise,15,U.S. Senate,,LIB,Ted Brown,26,0,18,8
+Wise,15,U.S. House,13,REP,Ronny Jackson,1361,23,1122,216
+Wise,15,Railroad Commissioner,,REP,Christi Craddick,1273,23,1063,187
+Wise,15,Railroad Commissioner,,DEM,Katherine Culbert,152,7,116,29
+Wise,15,Railroad Commissioner,,LIB,Hawk Dunlap,32,0,24,8
+Wise,15,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1319,24,1099,196
+Wise,15,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,172,6,128,38
+Wise,15,"Justice, Supreme Court, Place 4",4,REP,John Devine,1307,24,1090,193
+Wise,15,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,177,6,132,39
+Wise,15,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1275,21,1071,183
+Wise,15,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,172,7,131,34
+Wise,15,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,41,1,27,13
+Wise,15,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1311,23,1097,191
+Wise,15,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,177,6,131,40
+Wise,15,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1316,22,1099,195
+Wise,15,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,169,7,127,35
+Wise,15,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1314,22,1101,191
+Wise,15,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,168,6,121,41
+Wise,15,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,1305,22,1092,191
+Wise,15,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,182,6,134,42
+Wise,15,State Representative,64,REP,Andy Hopper,1292,23,1081,188
+Wise,15,State Representative,64,DEM,Angela Brewer,190,6,140,44
+Wise,15,State Representative,64,REP,Bonnie Sudderth,1358,22,1121,215
+Wise,15,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,1351,22,1118,211
+Wise,15,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,1342,22,1110,210
+Wise,15,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,1341,22,1111,208
+Wise,15,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,1339,22,1106,211
+Wise,15,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,1352,22,1115,215
+Wise,15,County Attorney,,REP,Che Rotramble,1337,22,1105,210
+Wise,15,Sheriff,,REP,Cary Mellema,1340,24,1106,210
+Wise,15,County Tax Assessor-Collector,,REP,Monte S. Shaw,1360,24,1122,214
+Wise,15,County Tax Assessor-Collector,,REP,Kevin Huffman,1336,22,1106,208
+Wise,16,Registered Voters,,,,1988,,,
+Wise,16,Ballots Cast,,,,1377,,,
+Wise,16,President,,REP,Donald J. Trump,1207,30,941,236
+Wise,16,President,,DEM,Kamala D. Harris,158,6,130,22
+Wise,16,President,,LIB,Chase Oliver,5,0,2,3
+Wise,16,U.S. Senate,,REP,Ted Cruz,1176,29,920,227
+Wise,16,U.S. Senate,,DEM,Colin Allred,174,6,144,24
+Wise,16,U.S. Senate,,LIB,Ted Brown,23,0,9,14
+Wise,16,U.S. House,26,REP,Brandon Gill,1192,30,932,230
+Wise,16,U.S. House,26,DEM,Ernest R. Lineberger III,140,4,118,18
+Wise,16,U.S. House,26,LIB,Phil Gray,19,0,8,11
+Wise,16,Railroad Commissioner,,REP,Christi Craddick,1161,30,905,226
+Wise,16,Railroad Commissioner,,DEM,Katherine Culbert,132,4,112,16
+Wise,16,Railroad Commissioner,,LIB,Hawk Dunlap,46,0,35,11
+Wise,16,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1212,30,944,238
+Wise,16,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,141,4,118,19
+Wise,16,"Justice, Supreme Court, Place 4",4,REP,John Devine,1200,29,936,235
+Wise,16,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,152,4,125,23
+Wise,16,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1190,30,926,234
+Wise,16,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,139,4,118,17
+Wise,16,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,24,0,17,7
+Wise,16,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1206,30,940,236
+Wise,16,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,147,4,124,19
+Wise,16,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1209,30,943,236
+Wise,16,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,142,4,118,20
+Wise,16,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1214,29,947,238
+Wise,16,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,135,4,113,18
+Wise,16,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,1201,30,937,234
+Wise,16,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,145,4,118,23
+Wise,16,State Representative,64,REP,Andy Hopper,1190,30,928,232
+Wise,16,State Representative,64,DEM,Angela Brewer,150,4,125,21
+Wise,16,State Representative,64,REP,Bonnie Sudderth,1246,30,972,244
+Wise,16,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,1236,29,963,244
+Wise,16,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,1228,29,958,241
+Wise,16,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,1228,30,958,240
+Wise,16,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,1215,30,947,238
+Wise,16,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,1228,28,961,239
+Wise,16,County Attorney,,REP,Che Rotramble,1212,28,946,238
+Wise,16,Sheriff,,REP,Cary Mellema,1214,29,947,238
+Wise,16,County Tax Assessor-Collector,,REP,Monte S. Shaw,1219,28,956,235
+Wise,16,County Tax Assessor-Collector,,REP,Kevin Huffman,1216,30,948,238
+Wise,16 POOL,Registered Voters,,,,954,,,
+Wise,16 POOL,Ballots Cast,,,,619,,,
+Wise,16 POOL,President,,REP,Donald J. Trump,535,7,407,121
+Wise,16 POOL,President,,DEM,Kamala D. Harris,77,4,42,31
+Wise,16 POOL,President,,LIB,Chase Oliver,5,0,4,1
+Wise,16 POOL,U.S. Senate,,REP,Ted Cruz,515,7,395,113
+Wise,16 POOL,U.S. Senate,,DEM,Colin Allred,84,4,47,33
+Wise,16 POOL,U.S. Senate,,LIB,Ted Brown,16,0,9,7
+Wise,16 POOL,U.S. House,26,REP,Brandon Gill,519,6,397,116
+Wise,16 POOL,U.S. House,26,DEM,Ernest R. Lineberger III,64,5,34,25
+Wise,16 POOL,U.S. House,26,LIB,Phil Gray,19,0,11,8
+Wise,16 POOL,Railroad Commissioner,,REP,Christi Craddick,507,7,386,114
+Wise,16 POOL,Railroad Commissioner,,DEM,Katherine Culbert,60,4,35,21
+Wise,16 POOL,Railroad Commissioner,,LIB,Hawk Dunlap,20,0,12,8
+Wise,16 POOL,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,534,7,404,123
+Wise,16 POOL,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,69,4,37,28
+Wise,16 POOL,"Justice, Supreme Court, Place 4",4,REP,John Devine,525,7,396,122
+Wise,16 POOL,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,76,4,43,29
+Wise,16 POOL,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,509,7,386,116
+Wise,16 POOL,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,69,4,39,26
+Wise,16 POOL,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,24,0,15,9
+Wise,16 POOL,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,534,7,403,124
+Wise,16 POOL,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,69,4,39,26
+Wise,16 POOL,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,530,7,401,122
+Wise,16 POOL,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,72,4,40,28
+Wise,16 POOL,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,530,7,400,123
+Wise,16 POOL,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,66,4,36,26
+Wise,16 POOL,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,528,7,398,123
+Wise,16 POOL,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,73,4,42,27
+Wise,16 POOL,State Representative,64,REP,Andy Hopper,533,7,404,122
+Wise,16 POOL,State Representative,64,DEM,Angela Brewer,71,4,38,29
+Wise,16 POOL,State Representative,64,REP,Bonnie Sudderth,555,8,411,136
+Wise,16 POOL,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,549,8,405,136
+Wise,16 POOL,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,546,8,405,133
+Wise,16 POOL,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,543,8,402,133
+Wise,16 POOL,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,540,8,401,131
+Wise,16 POOL,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,541,8,402,131
+Wise,16 POOL,County Attorney,,REP,Che Rotramble,543,8,401,134
+Wise,16 POOL,Sheriff,,REP,Cary Mellema,551,9,408,134
+Wise,16 POOL,County Tax Assessor-Collector,,REP,Monte S. Shaw,549,8,406,135
+Wise,16 POOL,County Tax Assessor-Collector,,REP,Kevin Huffman,542,8,400,134
+Wise,17,Registered Voters,,,,3545,,,
+Wise,17,Ballots Cast,,,,2600,,,
+Wise,17,President,,REP,Donald J. Trump,2272,28,1893,351
+Wise,17,President,,DEM,Kamala D. Harris,304,13,222,69
+Wise,17,President,,LIB,Chase Oliver,5,0,4,1
+Wise,17,U.S. Senate,,REP,Ted Cruz,2208,28,1849,331
+Wise,17,U.S. Senate,,DEM,Colin Allred,333,12,248,73
+Wise,17,U.S. Senate,,LIB,Ted Brown,47,1,32,14
+Wise,17,U.S. House,26,REP,Brandon Gill,2238,28,1863,347
+Wise,17,U.S. House,26,DEM,Ernest R. Lineberger III,265,13,202,50
+Wise,17,U.S. House,26,LIB,Phil Gray,56,0,43,13
+Wise,17,Railroad Commissioner,,REP,Christi Craddick,2192,28,1831,333
+Wise,17,Railroad Commissioner,,DEM,Katherine Culbert,261,12,199,50
+Wise,17,Railroad Commissioner,,LIB,Hawk Dunlap,74,1,56,17
+Wise,17,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,2274,29,1890,355
+Wise,17,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,281,12,213,56
+Wise,17,"Justice, Supreme Court, Place 4",4,REP,John Devine,2256,29,1876,351
+Wise,17,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,297,12,227,58
+Wise,17,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,2217,28,1851,338
+Wise,17,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,277,12,210,55
+Wise,17,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,57,1,40,16
+Wise,17,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,2263,27,1887,349
+Wise,17,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,293,12,221,60
+Wise,17,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,2271,29,1888,354
+Wise,17,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,274,10,210,54
+Wise,17,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,2274,27,1893,354
+Wise,17,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,262,12,197,53
+Wise,17,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,2259,27,1883,349
+Wise,17,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,291,11,220,60
+Wise,17,State Representative,64,REP,Andy Hopper,2241,27,1863,351
+Wise,17,State Representative,64,DEM,Angela Brewer,311,12,237,62
+Wise,17,State Representative,64,REP,Bonnie Sudderth,2334,26,1935,373
+Wise,17,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,2313,25,1919,369
+Wise,17,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,2308,26,1917,365
+Wise,17,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,2306,26,1917,363
+Wise,17,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,2287,27,1899,361
+Wise,17,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,2301,29,1907,365
+Wise,17,County Attorney,,REP,Che Rotramble,2286,27,1893,366
+Wise,17,Sheriff,,REP,Cary Mellema,2301,28,1907,366
+Wise,17,County Tax Assessor-Collector,,REP,Monte S. Shaw,2320,31,1917,372
+Wise,17,County Tax Assessor-Collector,,REP,Kevin Huffman,2295,28,1901,366
+Wise,18,Registered Voters,,,,1114,,,
+Wise,18,Ballots Cast,,,,673,,,
+Wise,18,President,,REP,Donald J. Trump,577,8,468,101
+Wise,18,President,,DEM,Kamala D. Harris,90,5,70,15
+Wise,18,President,,LIB,Chase Oliver,4,0,3,1
+Wise,18,U.S. Senate,,REP,Ted Cruz,552,6,450,96
+Wise,18,U.S. Senate,,DEM,Colin Allred,100,6,78,16
+Wise,18,U.S. Senate,,LIB,Ted Brown,14,1,9,4
+Wise,18,U.S. House,13,REP,Ronny Jackson,588,8,474,106
+Wise,18,Railroad Commissioner,,REP,Christi Craddick,543,8,442,93
+Wise,18,Railroad Commissioner,,DEM,Katherine Culbert,77,5,57,15
+Wise,18,Railroad Commissioner,,LIB,Hawk Dunlap,13,0,10,3
+Wise,18,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,567,7,458,102
+Wise,18,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,86,5,67,14
+Wise,18,"Justice, Supreme Court, Place 4",4,REP,John Devine,565,6,458,101
+Wise,18,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,87,6,67,14
+Wise,18,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,559,7,454,98
+Wise,18,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,85,5,65,15
+Wise,18,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,8,0,5,3
+Wise,18,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,562,7,458,97
+Wise,18,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,88,5,66,17
+Wise,18,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,568,7,459,102
+Wise,18,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,84,5,66,13
+Wise,18,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,567,8,458,101
+Wise,18,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,83,5,64,14
+Wise,18,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,561,8,452,101
+Wise,18,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,87,5,68,14
+Wise,18,State Representative,64,REP,Andy Hopper,560,8,451,101
+Wise,18,State Representative,64,DEM,Angela Brewer,90,5,71,14
+Wise,18,State Representative,64,REP,Bonnie Sudderth,590,8,478,104
+Wise,18,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,587,8,476,103
+Wise,18,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,582,8,474,100
+Wise,18,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,580,8,473,99
+Wise,18,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,584,8,476,100
+Wise,18,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,585,10,475,100
+Wise,18,County Attorney,,REP,Che Rotramble,585,8,477,100
+Wise,18,Sheriff,,REP,Cary Mellema,579,8,470,101
+Wise,18,County Tax Assessor-Collector,,REP,Monte S. Shaw,591,10,478,103
+Wise,18,County Tax Assessor-Collector,,REP,Galen Wiley,580,9,469,102
+Wise,19,Registered Voters,,,,558,,,
+Wise,19,Ballots Cast,,,,386,,,
+Wise,19,President,,REP,Donald J. Trump,312,7,247,58
+Wise,19,President,,DEM,Kamala D. Harris,67,3,46,18
+Wise,19,President,,LIB,Chase Oliver,5,0,4,1
+Wise,19,U.S. Senate,,REP,Ted Cruz,298,6,242,50
+Wise,19,U.S. Senate,,DEM,Colin Allred,74,3,49,22
+Wise,19,U.S. Senate,,LIB,Ted Brown,12,1,7,4
+Wise,19,U.S. House,13,REP,Ronny Jackson,334,8,258,68
+Wise,19,Railroad Commissioner,,REP,Christi Craddick,311,7,246,58
+Wise,19,Railroad Commissioner,,DEM,Katherine Culbert,50,2,37,11
+Wise,19,Railroad Commissioner,,LIB,Hawk Dunlap,13,0,7,6
+Wise,19,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,323,7,255,61
+Wise,19,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,50,3,34,13
+Wise,19,"Justice, Supreme Court, Place 4",4,REP,John Devine,322,8,253,61
+Wise,19,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,52,2,38,12
+Wise,19,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,314,7,250,57
+Wise,19,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,54,3,39,12
+Wise,19,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,9,0,4,5
+Wise,19,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,318,6,252,60
+Wise,19,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,54,3,38,13
+Wise,19,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,317,6,252,59
+Wise,19,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,52,3,37,12
+Wise,19,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,323,7,255,61
+Wise,19,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,50,2,36,12
+Wise,19,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,319,6,253,60
+Wise,19,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,56,3,40,13
+Wise,19,State Representative,64,REP,Andy Hopper,318,7,250,61
+Wise,19,State Representative,64,DEM,Angela Brewer,57,2,43,12
+Wise,19,State Representative,64,REP,Bonnie Sudderth,338,7,264,67
+Wise,19,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,334,7,260,67
+Wise,19,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,333,7,261,65
+Wise,19,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,334,7,261,66
+Wise,19,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,334,7,261,66
+Wise,19,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,341,8,268,65
+Wise,19,County Attorney,,REP,Che Rotramble,332,7,261,64
+Wise,19,Sheriff,,REP,Cary Mellema,332,7,260,65
+Wise,19,County Tax Assessor-Collector,,REP,Monte S. Shaw,343,7,272,64
+Wise,19,County Tax Assessor-Collector,,REP,Galen Wiley,333,7,263,63
+Wise,20,Registered Voters,,,,1721,,,
+Wise,20,Ballots Cast,,,,1291,,,
+Wise,20,President,,REP,Donald J. Trump,1128,16,904,208
+Wise,20,President,,DEM,Kamala D. Harris,153,13,116,24
+Wise,20,President,,LIB,Chase Oliver,5,0,4,1
+Wise,20,U.S. Senate,,REP,Ted Cruz,1078,16,866,196
+Wise,20,U.S. Senate,,DEM,Colin Allred,186,13,139,34
+Wise,20,U.S. Senate,,LIB,Ted Brown,24,1,18,5
+Wise,20,U.S. House,26,REP,Brandon Gill,1123,19,896,208
+Wise,20,U.S. House,26,DEM,Ernest R. Lineberger III,134,9,103,22
+Wise,20,U.S. House,26,LIB,Phil Gray,24,2,17,5
+Wise,20,Railroad Commissioner,,REP,Christi Craddick,1105,18,887,200
+Wise,20,Railroad Commissioner,,DEM,Katherine Culbert,129,7,99,23
+Wise,20,Railroad Commissioner,,LIB,Hawk Dunlap,26,2,18,6
+Wise,20,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1126,18,902,206
+Wise,20,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,143,12,106,25
+Wise,20,"Justice, Supreme Court, Place 4",4,REP,John Devine,1120,17,896,207
+Wise,20,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,155,13,118,24
+Wise,20,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1097,19,878,200
+Wise,20,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,137,9,105,23
+Wise,20,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,36,2,25,9
+Wise,20,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1118,18,896,204
+Wise,20,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,153,12,115,26
+Wise,20,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1119,20,896,203
+Wise,20,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,146,9,110,27
+Wise,20,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1126,19,902,205
+Wise,20,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,134,8,103,23
+Wise,20,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,1109,18,885,206
+Wise,20,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,156,12,118,26
+Wise,20,State Representative,64,REP,Andy Hopper,1112,17,890,205
+Wise,20,State Representative,64,DEM,Angela Brewer,159,13,118,28
+Wise,20,State Representative,64,REP,Bonnie Sudderth,1173,18,936,219
+Wise,20,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,1162,18,926,218
+Wise,20,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,1160,18,926,216
+Wise,20,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,1159,18,926,215
+Wise,20,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,1157,18,923,216
+Wise,20,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,1154,19,921,214
+Wise,20,County Attorney,,REP,Che Rotramble,1152,17,920,215
+Wise,20,Sheriff,,REP,Cary Mellema,1154,19,919,216
+Wise,20,County Tax Assessor-Collector,,REP,Monte S. Shaw,1156,19,925,212
+Wise,20,"County Commissioner, Precinct No. 3",,REP,Danny Lambert,1164,19,931,214
+Wise,20,"County Commissioner, Precinct No. 3",,REP,Charles B. Applewhite,1153,18,924,211
+Wise,22,Registered Voters,,,,1353,,,
+Wise,22,Ballots Cast,,,,982,,,
+Wise,22,President,,REP,Donald J. Trump,844,23,730,91
+Wise,22,President,,DEM,Kamala D. Harris,129,17,104,8
+Wise,22,President,,LIB,Chase Oliver,5,1,4,0
+Wise,22,U.S. Senate,,REP,Ted Cruz,823,22,712,89
+Wise,22,U.S. Senate,,DEM,Colin Allred,141,17,115,9
+Wise,22,U.S. Senate,,LIB,Ted Brown,17,1,15,1
+Wise,22,U.S. House,26,REP,Brandon Gill,831,23,718,90
+Wise,22,U.S. House,26,DEM,Ernest R. Lineberger III,121,17,97,7
+Wise,22,U.S. House,26,LIB,Phil Gray,14,0,12,2
+Wise,22,Railroad Commissioner,,REP,Christi Craddick,817,22,710,85
+Wise,22,Railroad Commissioner,,DEM,Katherine Culbert,116,17,92,7
+Wise,22,Railroad Commissioner,,LIB,Hawk Dunlap,24,1,19,4
+Wise,22,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,846,23,733,90
+Wise,22,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,117,17,93,7
+Wise,22,"Justice, Supreme Court, Place 4",4,REP,John Devine,843,23,731,89
+Wise,22,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,120,17,95,8
+Wise,22,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,824,23,715,86
+Wise,22,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,119,16,95,8
+Wise,22,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,16,1,12,3
+Wise,22,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,846,24,731,91
+Wise,22,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,117,16,94,7
+Wise,22,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,845,24,731,90
+Wise,22,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,116,16,92,8
+Wise,22,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,842,24,728,90
+Wise,22,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,113,16,90,7
+Wise,22,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,830,22,720,88
+Wise,22,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,126,17,100,9
+Wise,22,State Representative,64,REP,Andy Hopper,835,23,721,91
+Wise,22,State Representative,64,DEM,Angela Brewer,131,17,107,7
+Wise,22,State Representative,64,REP,Bonnie Sudderth,881,26,763,92
+Wise,22,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,875,26,759,90
+Wise,22,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,870,26,753,91
+Wise,22,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,868,26,752,90
+Wise,22,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,864,26,749,89
+Wise,22,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,869,26,754,89
+Wise,22,County Attorney,,REP,Che Rotramble,865,25,750,90
+Wise,22,Sheriff,,REP,Cary Mellema,879,30,758,91
+Wise,22,County Tax Assessor-Collector,,REP,Monte S. Shaw,884,28,765,91
+Wise,22,"County Commissioner, Precinct No. 1",,REP,"John ""Biff"" Hayes",871,28,753,90
+Wise,22,"County Commissioner, Precinct No. 1",,REP,Greg Leveling,865,28,748,89
+Wise,23,Registered Voters,,,,1511,,,
+Wise,23,Ballots Cast,,,,1062,,,
+Wise,23,President,,REP,Donald J. Trump,923,10,815,98
+Wise,23,President,,DEM,Kamala D. Harris,126,4,107,15
+Wise,23,President,,LIB,Chase Oliver,2,0,2,0
+Wise,23,U.S. Senate,,REP,Ted Cruz,892,9,789,94
+Wise,23,U.S. Senate,,DEM,Colin Allred,138,5,119,14
+Wise,23,U.S. Senate,,LIB,Ted Brown,21,0,16,5
+Wise,23,U.S. House,26,REP,Brandon Gill,901,10,798,93
+Wise,23,U.S. House,26,DEM,Ernest R. Lineberger III,108,3,92,13
+Wise,23,U.S. House,26,LIB,Phil Gray,20,1,13,6
+Wise,23,Railroad Commissioner,,REP,Christi Craddick,886,10,783,93
+Wise,23,Railroad Commissioner,,DEM,Katherine Culbert,101,2,86,13
+Wise,23,Railroad Commissioner,,LIB,Hawk Dunlap,32,0,27,5
+Wise,23,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,922,10,813,99
+Wise,23,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,112,2,97,13
+Wise,23,"Justice, Supreme Court, Place 4",4,REP,John Devine,918,10,809,99
+Wise,23,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,113,2,98,13
+Wise,23,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,905,10,797,98
+Wise,23,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,104,2,91,11
+Wise,23,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,18,1,14,3
+Wise,23,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,911,10,805,96
+Wise,23,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,119,3,100,16
+Wise,23,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,907,10,799,98
+Wise,23,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,113,2,98,13
+Wise,23,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,910,10,802,98
+Wise,23,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,109,2,94,13
+Wise,23,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,911,10,801,100
+Wise,23,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,114,2,100,12
+Wise,23,State Representative,64,REP,Andy Hopper,905,10,796,99
+Wise,23,State Representative,64,DEM,Angela Brewer,115,3,99,13
+Wise,23,State Representative,64,REP,Bonnie Sudderth,949,10,835,104
+Wise,23,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,941,10,828,103
+Wise,23,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,942,10,830,102
+Wise,23,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,939,10,827,102
+Wise,23,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,936,10,823,103
+Wise,23,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,934,10,822,102
+Wise,23,County Attorney,,REP,Che Rotramble,926,10,815,101
+Wise,23,Sheriff,,REP,Cary Mellema,934,10,822,102
+Wise,23,County Tax Assessor-Collector,,REP,Monte S. Shaw,944,10,832,102
+Wise,23,"County Commissioner, Precinct No. 3",,REP,Danny Lambert,937,8,825,104
+Wise,23,"County Commissioner, Precinct No. 3",,REP,Charles B. Applewhite,934,9,823,102
+Wise,23 BO,Registered Voters,,,,1301,,,
+Wise,23 BO,Ballots Cast,,,,853,,,
+Wise,23 BO,President,,REP,Donald J. Trump,720,12,603,105
+Wise,23 BO,President,,DEM,Kamala D. Harris,125,7,96,22
+Wise,23 BO,President,,LIB,Chase Oliver,1,0,1,0
+Wise,23 BO,U.S. Senate,,REP,Ted Cruz,683,12,571,100
+Wise,23 BO,U.S. Senate,,DEM,Colin Allred,144,7,113,24
+Wise,23 BO,U.S. Senate,,LIB,Ted Brown,18,0,14,4
+Wise,23 BO,U.S. House,26,REP,Brandon Gill,705,12,595,98
+Wise,23 BO,U.S. House,26,DEM,Ernest R. Lineberger III,118,7,89,22
+Wise,23 BO,U.S. House,26,LIB,Phil Gray,15,0,11,4
+Wise,23 BO,Railroad Commissioner,,REP,Christi Craddick,690,12,578,100
+Wise,23 BO,Railroad Commissioner,,DEM,Katherine Culbert,111,7,89,15
+Wise,23 BO,Railroad Commissioner,,LIB,Hawk Dunlap,22,0,17,5
+Wise,23 BO,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,716,11,604,101
+Wise,23 BO,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,119,7,89,23
+Wise,23 BO,"Justice, Supreme Court, Place 4",4,REP,John Devine,710,12,597,101
+Wise,23 BO,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,120,7,90,23
+Wise,23 BO,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,690,12,583,95
+Wise,23 BO,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,116,7,90,19
+Wise,23 BO,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,23,0,17,6
+Wise,23 BO,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,708,11,595,102
+Wise,23 BO,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,122,6,94,22
+Wise,23 BO,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,710,10,597,103
+Wise,23 BO,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,117,7,90,20
+Wise,23 BO,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,711,10,601,100
+Wise,23 BO,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,116,7,87,22
+Wise,23 BO,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,707,10,596,101
+Wise,23 BO,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,123,7,93,23
+Wise,23 BO,State Representative,64,REP,Andy Hopper,700,9,591,100
+Wise,23 BO,State Representative,64,DEM,Angela Brewer,132,8,101,23
+Wise,23 BO,State Representative,64,REP,Bonnie Sudderth,748,12,625,111
+Wise,23 BO,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,746,12,626,108
+Wise,23 BO,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,739,12,620,107
+Wise,23 BO,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,738,11,621,106
+Wise,23 BO,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,731,10,616,105
+Wise,23 BO,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,745,11,628,106
+Wise,23 BO,County Attorney,,REP,Che Rotramble,738,12,620,106
+Wise,23 BO,Sheriff,,REP,Cary Mellema,737,14,617,106
+Wise,23 BO,County Tax Assessor-Collector,,REP,Monte S. Shaw,743,12,621,110
+Wise,23 BO,"County Commissioner, Precinct No. 3",,REP,Danny Lambert,750,14,627,109
+Wise,23 BO,"County Commissioner, Precinct No. 3",,REP,Charles B. Applewhite,742,13,621,108
+Wise,23 NWST,Registered Voters,,,,23,,,
+Wise,23 NWST,Ballots Cast,,,,8,,,
+Wise,23 NWST,President,,REP,Donald J. Trump,8,0,8,0
+Wise,23 NWST,President,,DEM,Kamala D. Harris,0,0,0,0
+Wise,23 NWST,President,,LIB,Chase Oliver,0,0,0,0
+Wise,23 NWST,U.S. Senate,,REP,Ted Cruz,8,0,8,0
+Wise,23 NWST,U.S. Senate,,DEM,Colin Allred,0,0,0,0
+Wise,23 NWST,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Wise,23 NWST,U.S. House,26,REP,Brandon Gill,7,0,7,0
+Wise,23 NWST,U.S. House,26,DEM,Ernest R. Lineberger III,0,0,0,0
+Wise,23 NWST,U.S. House,26,LIB,Phil Gray,0,0,0,0
+Wise,23 NWST,Railroad Commissioner,,REP,Christi Craddick,8,0,8,0
+Wise,23 NWST,Railroad Commissioner,,DEM,Katherine Culbert,0,0,0,0
+Wise,23 NWST,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Wise,23 NWST,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,8,0,8,0
+Wise,23 NWST,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,0,0,0,0
+Wise,23 NWST,"Justice, Supreme Court, Place 4",4,REP,John Devine,8,0,8,0
+Wise,23 NWST,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,0,0,0,0
+Wise,23 NWST,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,8,0,8,0
+Wise,23 NWST,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,0,0,0,0
+Wise,23 NWST,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Wise,23 NWST,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,8,0,8,0
+Wise,23 NWST,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,0,0,0,0
+Wise,23 NWST,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,8,0,8,0
+Wise,23 NWST,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,0,0,0,0
+Wise,23 NWST,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,8,0,8,0
+Wise,23 NWST,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,0,0,0,0
+Wise,23 NWST,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,8,0,8,0
+Wise,23 NWST,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,0,0,0,0
+Wise,23 NWST,State Representative,64,REP,Andy Hopper,8,0,8,0
+Wise,23 NWST,State Representative,64,DEM,Angela Brewer,0,0,0,0
+Wise,23 NWST,State Representative,64,REP,Bonnie Sudderth,8,0,8,0
+Wise,23 NWST,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,8,0,8,0
+Wise,23 NWST,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,8,0,8,0
+Wise,23 NWST,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,8,0,8,0
+Wise,23 NWST,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,8,0,8,0
+Wise,23 NWST,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,7,0,7,0
+Wise,23 NWST,County Attorney,,REP,Che Rotramble,7,0,7,0
+Wise,23 NWST,Sheriff,,REP,Cary Mellema,8,0,8,0
+Wise,23 NWST,County Tax Assessor-Collector,,REP,Monte S. Shaw,8,0,8,0
+Wise,23 NWST,"County Commissioner, Precinct No. 3",,REP,Danny Lambert,8,0,8,0
+Wise,23 NWST,"County Commissioner, Precinct No. 3",,REP,Charles B. Applewhite,8,0,8,0
+Wise,24,Registered Voters,,,,1,,,
+Wise,24,Ballots Cast,,,,11,,,
+Wise,24,President,,REP,Donald J. Trump,10,0,8,2
+Wise,24,President,,DEM,Kamala D. Harris,1,0,0,1
+Wise,24,President,,LIB,Chase Oliver,0,0,0,0
+Wise,24,U.S. Senate,,REP,Ted Cruz,10,0,8,2
+Wise,24,U.S. Senate,,DEM,Colin Allred,1,0,0,1
+Wise,24,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Wise,24,U.S. House,26,REP,Brandon Gill,4,0,2,2
+Wise,24,U.S. House,26,DEM,Ernest R. Lineberger III,0,0,0,0
+Wise,24,U.S. House,26,LIB,Phil Gray,0,0,0,0
+Wise,24,Railroad Commissioner,,REP,Christi Craddick,9,0,7,2
+Wise,24,Railroad Commissioner,,DEM,Katherine Culbert,0,0,0,0
+Wise,24,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Wise,24,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,9,0,7,2
+Wise,24,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,0,0,0,0
+Wise,24,"Justice, Supreme Court, Place 4",4,REP,John Devine,9,0,7,2
+Wise,24,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,0,0,0,0
+Wise,24,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,9,0,7,2
+Wise,24,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,0,0,0,0
+Wise,24,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Wise,24,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,9,0,7,2
+Wise,24,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,0,0,0,0
+Wise,24,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,9,0,7,2
+Wise,24,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,0,0,0,0
+Wise,24,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,9,0,7,2
+Wise,24,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,0,0,0,0
+Wise,24,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,5,0,3,2
+Wise,24,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,0,0,0,0
+Wise,24,State Representative,64,REP,Andy Hopper,4,0,2,2
+Wise,24,State Representative,64,DEM,Angela Brewer,0,0,0,0
+Wise,24,State Representative,64,REP,Bonnie Sudderth,8,0,6,2
+Wise,24,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,8,0,6,2
+Wise,24,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,8,0,6,2
+Wise,24,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,8,0,6,2
+Wise,24,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,3,0,1,2
+Wise,24,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,3,0,1,2
+Wise,24,County Attorney,,REP,Che Rotramble,3,0,1,2
+Wise,24,Sheriff,,REP,Cary Mellema,3,0,1,2
+Wise,24,County Tax Assessor-Collector,,REP,Monte S. Shaw,3,0,1,2
+Wise,24,"County Commissioner, Precinct No. 3",,REP,Danny Lambert,3,0,1,2
+Wise,24,"County Commissioner, Precinct No. 3",,REP,Charles B. Applewhite,3,0,1,2
+Wise,24 NWST,Registered Voters,,,,2538,,,
+Wise,24 NWST,Ballots Cast,,,,1613,,,
+Wise,24 NWST,President,,REP,Donald J. Trump,1297,7,939,351
+Wise,24 NWST,President,,DEM,Kamala D. Harris,301,10,194,97
+Wise,24 NWST,President,,LIB,Chase Oliver,6,0,3,3
+Wise,24 NWST,U.S. Senate,,REP,Ted Cruz,1221,7,913,301
+Wise,24 NWST,U.S. Senate,,DEM,Colin Allred,341,10,205,126
+Wise,24 NWST,U.S. Senate,,LIB,Ted Brown,37,0,12,25
+Wise,24 NWST,U.S. House,26,REP,Brandon Gill,1271,7,923,341
+Wise,24 NWST,U.S. House,26,DEM,Ernest R. Lineberger III,257,10,167,80
+Wise,24 NWST,U.S. House,26,LIB,Phil Gray,42,0,20,22
+Wise,24 NWST,Railroad Commissioner,,REP,Christi Craddick,1237,7,903,327
+Wise,24 NWST,Railroad Commissioner,,DEM,Katherine Culbert,260,10,167,83
+Wise,24 NWST,Railroad Commissioner,,LIB,Hawk Dunlap,48,0,28,20
+Wise,24 NWST,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1288,7,937,344
+Wise,24 NWST,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,284,10,178,96
+Wise,24 NWST,"Justice, Supreme Court, Place 4",4,REP,John Devine,1284,7,931,346
+Wise,24 NWST,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,282,10,181,91
+Wise,24 NWST,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1253,7,917,329
+Wise,24 NWST,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,273,10,173,90
+Wise,24 NWST,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,39,0,18,21
+Wise,24 NWST,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1285,7,938,340
+Wise,24 NWST,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,281,10,173,98
+Wise,24 NWST,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1283,7,928,348
+Wise,24 NWST,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,276,10,179,87
+Wise,24 NWST,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1284,7,934,343
+Wise,24 NWST,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,268,10,170,88
+Wise,24 NWST,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,1269,7,924,338
+Wise,24 NWST,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,289,10,184,95
+Wise,24 NWST,State Representative,64,REP,Andy Hopper,1274,7,929,338
+Wise,24 NWST,State Representative,64,DEM,Angela Brewer,291,10,182,99
+Wise,24 NWST,State Representative,64,REP,Bonnie Sudderth,1385,7,985,393
+Wise,24 NWST,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,1370,7,976,387
+Wise,24 NWST,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,1361,7,969,385
+Wise,24 NWST,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,1356,5,969,382
+Wise,24 NWST,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,1350,6,961,383
+Wise,24 NWST,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,1359,7,970,382
+Wise,24 NWST,County Attorney,,REP,Che Rotramble,1355,7,966,382
+Wise,24 NWST,Sheriff,,REP,Cary Mellema,1373,8,978,387
+Wise,24 NWST,County Tax Assessor-Collector,,REP,Monte S. Shaw,1374,5,982,387
+Wise,24 NWST,"County Commissioner, Precinct No. 3",,REP,Danny Lambert,1365,7,972,386
+Wise,24 NWST,"County Commissioner, Precinct No. 3",,REP,Charles B. Applewhite,1362,7,970,385
+Wise,25,Registered Voters,,,,245,,,
+Wise,25,Ballots Cast,,,,126,,,
+Wise,25,President,,REP,Donald J. Trump,97,0,77,20
+Wise,25,President,,DEM,Kamala D. Harris,29,0,18,11
+Wise,25,President,,LIB,Chase Oliver,0,0,0,0
+Wise,25,U.S. Senate,,REP,Ted Cruz,92,0,74,18
+Wise,25,U.S. Senate,,DEM,Colin Allred,32,0,20,12
+Wise,25,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Wise,25,U.S. House,26,REP,Brandon Gill,99,0,77,22
+Wise,25,U.S. House,26,DEM,Ernest R. Lineberger III,23,0,15,8
+Wise,25,U.S. House,26,LIB,Phil Gray,1,0,1,0
+Wise,25,Railroad Commissioner,,REP,Christi Craddick,97,0,77,20
+Wise,25,Railroad Commissioner,,DEM,Katherine Culbert,25,0,17,8
+Wise,25,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Wise,25,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,97,0,77,20
+Wise,25,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,26,0,17,9
+Wise,25,"Justice, Supreme Court, Place 4",4,REP,John Devine,97,0,76,21
+Wise,25,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,26,0,18,8
+Wise,25,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,94,0,76,18
+Wise,25,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,25,0,16,9
+Wise,25,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,3,0,1,2
+Wise,25,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,96,0,75,21
+Wise,25,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,26,0,18,8
+Wise,25,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,95,0,76,19
+Wise,25,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,26,0,17,9
+Wise,25,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,96,0,76,20
+Wise,25,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,25,0,16,9
+Wise,25,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,96,0,75,21
+Wise,25,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,26,0,17,9
+Wise,25,State Representative,64,REP,Andy Hopper,94,0,75,19
+Wise,25,State Representative,64,DEM,Angela Brewer,27,0,17,10
+Wise,25,State Representative,64,REP,Bonnie Sudderth,102,0,80,22
+Wise,25,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,102,0,81,21
+Wise,25,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,101,0,80,21
+Wise,25,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,100,0,79,21
+Wise,25,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,99,0,78,21
+Wise,25,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,100,0,78,22
+Wise,25,County Attorney,,REP,Che Rotramble,100,0,79,21
+Wise,25,Sheriff,,REP,Cary Mellema,102,0,79,23
+Wise,25,County Tax Assessor-Collector,,REP,Monte S. Shaw,104,0,81,23
+Wise,25,"County Commissioner, Precinct No. 3",,REP,Danny Lambert,101,0,79,22
+Wise,25,"County Commissioner, Precinct No. 3",,REP,Charles B. Applewhite,99,0,79,20
+Wise,25 NWST,Registered Voters,,,,1009,,,
+Wise,25 NWST,Ballots Cast,,,,706,,,
+Wise,25 NWST,President,,REP,Donald J. Trump,570,9,496,65
+Wise,25 NWST,President,,DEM,Kamala D. Harris,126,9,96,21
+Wise,25 NWST,President,,LIB,Chase Oliver,4,0,3,1
+Wise,25 NWST,U.S. Senate,,REP,Ted Cruz,552,10,479,63
+Wise,25 NWST,U.S. Senate,,DEM,Colin Allred,139,9,108,22
+Wise,25 NWST,U.S. Senate,,LIB,Ted Brown,11,0,8,3
+Wise,25 NWST,U.S. House,26,REP,Brandon Gill,576,10,497,69
+Wise,25 NWST,U.S. House,26,DEM,Ernest R. Lineberger III,106,9,84,13
+Wise,25 NWST,U.S. House,26,LIB,Phil Gray,10,0,7,3
+Wise,25 NWST,Railroad Commissioner,,REP,Christi Craddick,563,10,492,61
+Wise,25 NWST,Railroad Commissioner,,DEM,Katherine Culbert,97,9,74,14
+Wise,25 NWST,Railroad Commissioner,,LIB,Hawk Dunlap,15,0,11,4
+Wise,25 NWST,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,575,10,499,66
+Wise,25 NWST,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,113,9,87,17
+Wise,25 NWST,"Justice, Supreme Court, Place 4",4,REP,John Devine,567,10,492,65
+Wise,25 NWST,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,118,9,91,18
+Wise,25 NWST,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,555,10,483,62
+Wise,25 NWST,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,111,9,86,16
+Wise,25 NWST,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,18,0,13,5
+Wise,25 NWST,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,569,9,495,65
+Wise,25 NWST,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,110,9,85,16
+Wise,25 NWST,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,562,9,489,64
+Wise,25 NWST,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,114,9,88,17
+Wise,25 NWST,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,573,9,497,67
+Wise,25 NWST,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,106,9,82,15
+Wise,25 NWST,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,569,9,495,65
+Wise,25 NWST,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,116,9,90,17
+Wise,25 NWST,State Representative,64,REP,Andy Hopper,562,9,487,66
+Wise,25 NWST,State Representative,64,DEM,Angela Brewer,121,9,96,16
+Wise,25 NWST,State Representative,64,REP,Bonnie Sudderth,607,11,520,76
+Wise,25 NWST,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,604,11,518,75
+Wise,25 NWST,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,598,11,513,74
+Wise,25 NWST,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,598,11,512,75
+Wise,25 NWST,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,596,11,510,75
+Wise,25 NWST,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,594,12,509,73
+Wise,25 NWST,County Attorney,,REP,Che Rotramble,591,11,507,73
+Wise,25 NWST,Sheriff,,REP,Cary Mellema,606,12,517,77
+Wise,25 NWST,County Tax Assessor-Collector,,REP,Monte S. Shaw,610,12,521,77
+Wise,25 NWST,"County Commissioner, Precinct No. 3",,REP,Danny Lambert,602,12,513,77
+Wise,25 NWST,"County Commissioner, Precinct No. 3",,REP,Charles B. Applewhite,605,12,518,75
+Wise,27,Registered Voters,,,,3970,,,
+Wise,27,Ballots Cast,,,,2661,,,
+Wise,27,President,,REP,Donald J. Trump,2258,38,1936,284
+Wise,27,President,,DEM,Kamala D. Harris,370,20,278,72
+Wise,27,President,,LIB,Chase Oliver,10,0,5,5
+Wise,27,U.S. Senate,,REP,Ted Cruz,2151,33,1852,266
+Wise,27,U.S. Senate,,DEM,Colin Allred,427,25,323,79
+Wise,27,U.S. Senate,,LIB,Ted Brown,57,2,43,12
+Wise,27,U.S. House,26,REP,Brandon Gill,2236,37,1914,285
+Wise,27,U.S. House,26,DEM,Ernest R. Lineberger III,328,21,250,57
+Wise,27,U.S. House,26,LIB,Phil Gray,44,0,34,10
+Wise,27,Railroad Commissioner,,REP,Christi Craddick,2182,39,1873,270
+Wise,27,Railroad Commissioner,,DEM,Katherine Culbert,313,17,243,53
+Wise,27,Railroad Commissioner,,LIB,Hawk Dunlap,78,1,61,16
+Wise,27,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,2254,38,1929,287
+Wise,27,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,340,19,261,60
+Wise,27,"Justice, Supreme Court, Place 4",4,REP,John Devine,2229,39,1905,285
+Wise,27,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,363,18,281,64
+Wise,27,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,2199,38,1880,281
+Wise,27,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,329,18,257,54
+Wise,27,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,69,1,53,15
+Wise,27,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,2229,39,1907,283
+Wise,27,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,359,17,279,63
+Wise,27,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,2250,38,1928,284
+Wise,27,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,336,18,257,61
+Wise,27,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,2253,38,1930,285
+Wise,27,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,325,18,247,60
+Wise,27,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,2225,38,1906,281
+Wise,27,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,361,19,278,64
+Wise,27,State Representative,64,REP,Andy Hopper,2214,38,1890,286
+Wise,27,State Representative,64,DEM,Angela Brewer,365,19,282,64
+Wise,27,State Representative,64,REP,Bonnie Sudderth,2332,37,1982,313
+Wise,27,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,2325,36,1979,310
+Wise,27,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,2312,37,1966,309
+Wise,27,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,2313,37,1971,305
+Wise,27,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,2296,37,1955,304
+Wise,27,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,2296,37,1958,301
+Wise,27,County Attorney,,REP,Che Rotramble,2285,37,1950,298
+Wise,27,Sheriff,,REP,Cary Mellema,2295,39,1953,303
+Wise,27,County Tax Assessor-Collector,,REP,Monte S. Shaw,2313,41,1963,309
+Wise,27,"County Commissioner, Precinct No. 3",,REP,Danny Lambert,2299,40,1951,308
+Wise,27,"County Commissioner, Precinct No. 3",,REP,Charles B. Applewhite,2302,38,1959,305
+Wise,27 BO,Registered Voters,,,,20,,,
+Wise,27 BO,Ballots Cast,,,,7,,,
+Wise,27 BO,President,,REP,Donald J. Trump,5,1,3,1
+Wise,27 BO,President,,DEM,Kamala D. Harris,2,0,1,1
+Wise,27 BO,President,,LIB,Chase Oliver,0,0,0,0
+Wise,27 BO,U.S. Senate,,REP,Ted Cruz,4,1,2,1
+Wise,27 BO,U.S. Senate,,DEM,Colin Allred,3,0,2,1
+Wise,27 BO,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Wise,27 BO,U.S. House,26,REP,Brandon Gill,5,1,3,1
+Wise,27 BO,U.S. House,26,DEM,Ernest R. Lineberger III,2,0,1,1
+Wise,27 BO,U.S. House,26,LIB,Phil Gray,0,0,0,0
+Wise,27 BO,Railroad Commissioner,,REP,Christi Craddick,5,1,3,1
+Wise,27 BO,Railroad Commissioner,,DEM,Katherine Culbert,2,0,1,1
+Wise,27 BO,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Wise,27 BO,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,5,1,3,1
+Wise,27 BO,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,2,0,1,1
+Wise,27 BO,"Justice, Supreme Court, Place 4",4,REP,John Devine,5,1,3,1
+Wise,27 BO,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,2,0,1,1
+Wise,27 BO,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,5,1,3,1
+Wise,27 BO,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,2,0,1,1
+Wise,27 BO,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Wise,27 BO,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,5,1,3,1
+Wise,27 BO,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,2,0,1,1
+Wise,27 BO,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,4,1,2,1
+Wise,27 BO,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,2,0,1,1
+Wise,27 BO,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,5,1,3,1
+Wise,27 BO,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,2,0,1,1
+Wise,27 BO,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,5,1,3,1
+Wise,27 BO,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,2,0,1,1
+Wise,27 BO,State Representative,64,REP,Andy Hopper,5,1,3,1
+Wise,27 BO,State Representative,64,DEM,Angela Brewer,2,0,1,1
+Wise,27 BO,State Representative,64,REP,Bonnie Sudderth,7,1,4,2
+Wise,27 BO,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,7,1,4,2
+Wise,27 BO,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,6,1,3,2
+Wise,27 BO,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,6,1,3,2
+Wise,27 BO,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,6,1,3,2
+Wise,27 BO,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,6,1,3,2
+Wise,27 BO,County Attorney,,REP,Che Rotramble,6,1,3,2
+Wise,27 BO,Sheriff,,REP,Cary Mellema,6,1,3,2
+Wise,27 BO,County Tax Assessor-Collector,,REP,Monte S. Shaw,6,1,3,2
+Wise,27 BO,"County Commissioner, Precinct No. 3",,REP,Danny Lambert,6,1,3,2
+Wise,27 BO,"County Commissioner, Precinct No. 3",,REP,Charles B. Applewhite,6,1,3,2
+Wise,27 NWST,Registered Voters,,,,46,,,
+Wise,27 NWST,Ballots Cast,,,,32,,,
+Wise,27 NWST,President,,REP,Donald J. Trump,23,0,20,3
+Wise,27 NWST,President,,DEM,Kamala D. Harris,9,0,9,0
+Wise,27 NWST,President,,LIB,Chase Oliver,0,0,0,0
+Wise,27 NWST,U.S. Senate,,REP,Ted Cruz,23,0,20,3
+Wise,27 NWST,U.S. Senate,,DEM,Colin Allred,9,0,9,0
+Wise,27 NWST,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Wise,27 NWST,U.S. House,26,REP,Brandon Gill,25,0,22,3
+Wise,27 NWST,U.S. House,26,DEM,Ernest R. Lineberger III,7,0,7,0
+Wise,27 NWST,U.S. House,26,LIB,Phil Gray,0,0,0,0
+Wise,27 NWST,Railroad Commissioner,,REP,Christi Craddick,22,0,20,2
+Wise,27 NWST,Railroad Commissioner,,DEM,Katherine Culbert,6,0,6,0
+Wise,27 NWST,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,1,0
+Wise,27 NWST,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,23,0,21,2
+Wise,27 NWST,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,6,0,6,0
+Wise,27 NWST,"Justice, Supreme Court, Place 4",4,REP,John Devine,23,0,21,2
+Wise,27 NWST,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,6,0,6,0
+Wise,27 NWST,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,23,0,21,2
+Wise,27 NWST,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,6,0,6,0
+Wise,27 NWST,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Wise,27 NWST,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,23,0,21,2
+Wise,27 NWST,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,7,0,7,0
+Wise,27 NWST,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,22,0,20,2
+Wise,27 NWST,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,8,0,8,0
+Wise,27 NWST,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,25,0,23,2
+Wise,27 NWST,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,5,0,5,0
+Wise,27 NWST,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,23,0,21,2
+Wise,27 NWST,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,6,0,6,0
+Wise,27 NWST,State Representative,64,REP,Andy Hopper,22,0,20,2
+Wise,27 NWST,State Representative,64,DEM,Angela Brewer,7,0,7,0
+Wise,27 NWST,State Representative,64,REP,Bonnie Sudderth,26,0,25,1
+Wise,27 NWST,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,27,0,25,2
+Wise,27 NWST,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,27,0,25,2
+Wise,27 NWST,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,26,0,24,2
+Wise,27 NWST,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,26,0,24,2
+Wise,27 NWST,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,26,0,24,2
+Wise,27 NWST,County Attorney,,REP,Che Rotramble,25,0,23,2
+Wise,27 NWST,Sheriff,,REP,Cary Mellema,25,0,23,2
+Wise,27 NWST,County Tax Assessor-Collector,,REP,Monte S. Shaw,25,0,23,2
+Wise,27 NWST,"County Commissioner, Precinct No. 3",,REP,Danny Lambert,26,0,23,3
+Wise,27 NWST,"County Commissioner, Precinct No. 3",,REP,Charles B. Applewhite,27,0,24,3
+Wise,28,Registered Voters,,,,1826,,,
+Wise,28,Ballots Cast,,,,1121,,,
+Wise,28,President,,REP,Donald J. Trump,910,12,751,147
+Wise,28,President,,DEM,Kamala D. Harris,200,11,134,55
+Wise,28,President,,LIB,Chase Oliver,3,0,2,1
+Wise,28,U.S. Senate,,REP,Ted Cruz,853,11,709,133
+Wise,28,U.S. Senate,,DEM,Colin Allred,227,13,152,62
+Wise,28,U.S. Senate,,LIB,Ted Brown,30,0,20,10
+Wise,28,U.S. House,13,REP,Ronny Jackson,970,15,782,173
+Wise,28,Railroad Commissioner,,REP,Christi Craddick,865,11,720,134
+Wise,28,Railroad Commissioner,,DEM,Katherine Culbert,173,10,118,45
+Wise,28,Railroad Commissioner,,LIB,Hawk Dunlap,28,1,20,7
+Wise,28,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,899,10,745,144
+Wise,28,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,188,10,124,54
+Wise,28,"Justice, Supreme Court, Place 4",4,REP,John Devine,893,11,743,139
+Wise,28,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,196,11,126,59
+Wise,28,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,876,10,725,141
+Wise,28,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,177,10,118,49
+Wise,28,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,34,1,25,8
+Wise,28,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,897,12,746,139
+Wise,28,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,187,9,119,59
+Wise,28,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,896,10,741,145
+Wise,28,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,180,10,118,52
+Wise,28,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,901,10,746,145
+Wise,28,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,175,10,113,52
+Wise,28,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,891,12,738,141
+Wise,28,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,193,9,125,59
+Wise,28,State Representative,64,REP,Andy Hopper,879,12,725,142
+Wise,28,State Representative,64,DEM,Angela Brewer,203,10,136,57
+Wise,28,State Representative,64,REP,Bonnie Sudderth,967,13,781,173
+Wise,28,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,960,12,777,171
+Wise,28,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,949,11,768,170
+Wise,28,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,955,11,774,170
+Wise,28,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,960,12,775,173
+Wise,28,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,975,12,788,175
+Wise,28,County Attorney,,REP,Che Rotramble,957,12,775,170
+Wise,28,Sheriff,,REP,Cary Mellema,953,13,769,171
+Wise,28,County Tax Assessor-Collector,,REP,Monte S. Shaw,965,13,779,173
+Wise,28,County Tax Assessor-Collector,,REP,Kevin Huffman,956,13,770,173
+Wise,29,Registered Voters,,,,528,,,
+Wise,29,Ballots Cast,,,,249,,,
+Wise,29,President,,REP,Donald J. Trump,191,1,139,51
+Wise,29,President,,DEM,Kamala D. Harris,54,2,33,19
+Wise,29,President,,LIB,Chase Oliver,3,0,2,1
+Wise,29,U.S. Senate,,REP,Ted Cruz,177,1,133,43
+Wise,29,U.S. Senate,,DEM,Colin Allred,63,2,37,24
+Wise,29,U.S. Senate,,LIB,Ted Brown,6,0,3,3
+Wise,29,U.S. House,13,REP,Ronny Jackson,205,1,148,56
+Wise,29,Railroad Commissioner,,REP,Christi Craddick,180,0,136,44
+Wise,29,Railroad Commissioner,,DEM,Katherine Culbert,44,1,28,15
+Wise,29,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,3,3
+Wise,29,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,183,0,136,47
+Wise,29,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,54,1,34,19
+Wise,29,"Justice, Supreme Court, Place 4",4,REP,John Devine,180,0,134,46
+Wise,29,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,59,1,36,22
+Wise,29,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,176,0,131,45
+Wise,29,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,55,1,33,21
+Wise,29,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,7,0,5,2
+Wise,29,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,182,0,135,47
+Wise,29,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,59,1,36,22
+Wise,29,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,184,0,136,48
+Wise,29,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,55,1,34,20
+Wise,29,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,185,0,137,48
+Wise,29,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,55,1,34,20
+Wise,29,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,183,1,133,49
+Wise,29,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,58,1,37,20
+Wise,29,State Representative,64,REP,Andy Hopper,182,1,134,47
+Wise,29,State Representative,64,DEM,Angela Brewer,60,1,37,22
+Wise,29,State Representative,64,REP,Bonnie Sudderth,204,0,149,55
+Wise,29,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,203,0,149,54
+Wise,29,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,201,0,149,52
+Wise,29,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,199,0,147,52
+Wise,29,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,197,0,146,51
+Wise,29,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,202,1,148,53
+Wise,29,County Attorney,,REP,Che Rotramble,202,0,147,55
+Wise,29,Sheriff,,REP,Cary Mellema,201,0,147,54
+Wise,29,County Tax Assessor-Collector,,REP,Monte S. Shaw,206,1,148,57
+Wise,29,County Tax Assessor-Collector,,REP,Kevin Huffman,203,0,149,54
+Wise,30,Registered Voters,,,,0,,,
+Wise,30,Ballots Cast,,,,29,,,
+Wise,30,President,,REP,Donald J. Trump,22,0,22,0
+Wise,30,President,,DEM,Kamala D. Harris,6,2,4,0
+Wise,30,President,,LIB,Chase Oliver,1,0,0,1
+Wise,30,U.S. Senate,,REP,Ted Cruz,19,0,19,0
+Wise,30,U.S. Senate,,DEM,Colin Allred,8,2,6,0
+Wise,30,U.S. Senate,,LIB,Ted Brown,2,0,1,1
+Wise,30,U.S. House,26,REP,Brandon Gill,2,0,2,0
+Wise,30,U.S. House,26,DEM,Ernest R. Lineberger III,5,2,3,0
+Wise,30,U.S. House,26,LIB,Phil Gray,1,0,0,1
+Wise,30,Railroad Commissioner,,REP,Christi Craddick,19,0,19,0
+Wise,30,Railroad Commissioner,,DEM,Katherine Culbert,4,1,3,0
+Wise,30,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,2,1
+Wise,30,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,22,0,21,1
+Wise,30,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,4,1,3,0
+Wise,30,"Justice, Supreme Court, Place 4",4,REP,John Devine,22,0,21,1
+Wise,30,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,4,1,3,0
+Wise,30,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,21,0,21,0
+Wise,30,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,4,1,3,0
+Wise,30,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,1,0,0,1
+Wise,30,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,22,0,21,1
+Wise,30,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,4,1,3,0
+Wise,30,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,23,0,22,1
+Wise,30,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,3,1,2,0
+Wise,30,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,23,0,22,1
+Wise,30,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,3,1,2,0
+Wise,30,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,6,0,5,1
+Wise,30,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,3,1,2,0
+Wise,30,State Representative,64,REP,Andy Hopper,4,0,3,1
+Wise,30,State Representative,64,DEM,Angela Brewer,2,1,1,0
+Wise,30,State Representative,64,REP,Bonnie Sudderth,16,0,15,1
+Wise,30,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,16,0,15,1
+Wise,30,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,16,0,15,1
+Wise,30,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,16,0,15,1
+Wise,30,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,4,0,3,1
+Wise,30,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,4,0,3,1
+Wise,30,County Attorney,,REP,Che Rotramble,4,0,3,1
+Wise,30,Sheriff,,REP,Cary Mellema,4,0,3,1
+Wise,30,County Tax Assessor-Collector,,REP,Monte S. Shaw,4,0,3,1
+Wise,30,"County Commissioner, Precinct No. 3",,REP,Danny Lambert,4,0,3,1
+Wise,30,"County Commissioner, Precinct No. 3",,REP,Charles B. Applewhite,4,0,3,1
+Wise,30 NWST,Registered Voters,,,,3202,,,
+Wise,30 NWST,Ballots Cast,,,,2000,,,
+Wise,30 NWST,President,,REP,Donald J. Trump,1492,9,1172,311
+Wise,30 NWST,President,,DEM,Kamala D. Harris,473,14,331,128
+Wise,30 NWST,President,,LIB,Chase Oliver,17,0,10,7
+Wise,30 NWST,U.S. Senate,,REP,Ted Cruz,1410,7,1118,285
+Wise,30 NWST,U.S. Senate,,DEM,Colin Allred,525,15,364,146
+Wise,30 NWST,U.S. Senate,,LIB,Ted Brown,45,1,29,15
+Wise,30 NWST,U.S. House,26,REP,Brandon Gill,1486,11,1161,314
+Wise,30 NWST,U.S. House,26,DEM,Ernest R. Lineberger III,430,14,306,110
+Wise,30 NWST,U.S. House,26,LIB,Phil Gray,55,0,36,19
+Wise,30 NWST,Railroad Commissioner,,REP,Christi Craddick,1459,10,1139,310
+Wise,30 NWST,Railroad Commissioner,,DEM,Katherine Culbert,408,14,293,101
+Wise,30 NWST,Railroad Commissioner,,LIB,Hawk Dunlap,61,0,37,24
+Wise,30 NWST,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1504,11,1180,313
+Wise,30 NWST,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,454,14,314,126
+Wise,30 NWST,"Justice, Supreme Court, Place 4",4,REP,John Devine,1494,11,1171,312
+Wise,30 NWST,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,458,14,321,123
+Wise,30 NWST,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1470,11,1156,303
+Wise,30 NWST,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,429,14,302,113
+Wise,30 NWST,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,51,0,31,20
+Wise,30 NWST,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1495,10,1165,320
+Wise,30 NWST,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,453,14,323,116
+Wise,30 NWST,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1503,10,1175,318
+Wise,30 NWST,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,438,14,310,114
+Wise,30 NWST,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1515,10,1183,322
+Wise,30 NWST,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,424,14,299,111
+Wise,30 NWST,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,1482,11,1161,310
+Wise,30 NWST,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,467,14,328,125
+Wise,30 NWST,State Representative,64,REP,Andy Hopper,1493,11,1164,318
+Wise,30 NWST,State Representative,64,DEM,Angela Brewer,455,14,324,117
+Wise,30 NWST,State Representative,64,REP,Bonnie Sudderth,1670,12,1284,374
+Wise,30 NWST,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,1659,12,1277,370
+Wise,30 NWST,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,1649,12,1271,366
+Wise,30 NWST,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,1648,12,1269,367
+Wise,30 NWST,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,1635,12,1261,362
+Wise,30 NWST,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,1637,12,1263,362
+Wise,30 NWST,County Attorney,,REP,Che Rotramble,1637,12,1262,363
+Wise,30 NWST,Sheriff,,REP,Cary Mellema,1642,9,1272,361
+Wise,30 NWST,County Tax Assessor-Collector,,REP,Monte S. Shaw,1648,9,1275,364
+Wise,30 NWST,"County Commissioner, Precinct No. 3",,REP,Danny Lambert,1631,9,1262,360
+Wise,30 NWST,"County Commissioner, Precinct No. 3",,REP,Charles B. Applewhite,1626,9,1256,361
+Wise,30 NWST ROLLV4,Registered Voters,,,,1,,,
+Wise,30 NWST ROLLV4,Ballots Cast,,,,1,,,
+Wise,30 NWST ROLLV4,President,,REP,Donald J. Trump,1,0,1,0
+Wise,30 NWST ROLLV4,President,,DEM,Kamala D. Harris,0,0,0,0
+Wise,30 NWST ROLLV4,President,,LIB,Chase Oliver,0,0,0,0
+Wise,30 NWST ROLLV4,U.S. Senate,,REP,Ted Cruz,1,0,1,0
+Wise,30 NWST ROLLV4,U.S. Senate,,DEM,Colin Allred,0,0,0,0
+Wise,30 NWST ROLLV4,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Wise,30 NWST ROLLV4,U.S. House,26,REP,Brandon Gill,1,0,1,0
+Wise,30 NWST ROLLV4,U.S. House,26,DEM,Ernest R. Lineberger III,0,0,0,0
+Wise,30 NWST ROLLV4,U.S. House,26,LIB,Phil Gray,0,0,0,0
+Wise,30 NWST ROLLV4,Railroad Commissioner,,REP,Christi Craddick,1,0,1,0
+Wise,30 NWST ROLLV4,Railroad Commissioner,,DEM,Katherine Culbert,0,0,0,0
+Wise,30 NWST ROLLV4,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Wise,30 NWST ROLLV4,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1,0,1,0
+Wise,30 NWST ROLLV4,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,0,0,0,0
+Wise,30 NWST ROLLV4,"Justice, Supreme Court, Place 4",4,REP,John Devine,1,0,1,0
+Wise,30 NWST ROLLV4,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,0,0,0,0
+Wise,30 NWST ROLLV4,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1,0,1,0
+Wise,30 NWST ROLLV4,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,0,0,0,0
+Wise,30 NWST ROLLV4,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Wise,30 NWST ROLLV4,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1,0,1,0
+Wise,30 NWST ROLLV4,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,0,0,0,0
+Wise,30 NWST ROLLV4,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1,0,1,0
+Wise,30 NWST ROLLV4,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,0,0,0,0
+Wise,30 NWST ROLLV4,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1,0,1,0
+Wise,30 NWST ROLLV4,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,0,0,0,0
+Wise,30 NWST ROLLV4,"Judge, Court of Criminal Appeals, Place 8",8,REP,Tan Parker,1,0,1,0
+Wise,30 NWST ROLLV4,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Stephanie Draper,0,0,0,0
+Wise,30 NWST ROLLV4,State Representative,64,REP,Andy Hopper,1,0,1,0
+Wise,30 NWST ROLLV4,State Representative,64,DEM,Angela Brewer,0,0,0,0
+Wise,30 NWST ROLLV4,State Representative,64,REP,Bonnie Sudderth,1,0,1,0
+Wise,30 NWST ROLLV4,"Justice, 2nd Court of Appeals District, Place 4",4,REP,Wade Birdwell,1,0,1,0
+Wise,30 NWST ROLLV4,"Justice, 2nd Court of Appeals District, Place 5",5,REP,Dabney Bassel,1,0,1,0
+Wise,30 NWST ROLLV4,"Justice, 2nd Court of Appeals District, Place 6",6,REP,Mike Wallach,1,0,1,0
+Wise,30 NWST ROLLV4,"District Attorney, 271st Judicial District",271,REP,James M. Stainton,1,0,1,0
+Wise,30 NWST ROLLV4,"Judge, County Court at Law No. 2",,REP,Dana Davis Manoushagian,1,0,1,0
+Wise,30 NWST ROLLV4,County Attorney,,REP,Che Rotramble,0,0,0,0
+Wise,30 NWST ROLLV4,Sheriff,,REP,Cary Mellema,1,0,1,0
+Wise,30 NWST ROLLV4,County Tax Assessor-Collector,,REP,Monte S. Shaw,1,0,1,0
+Wise,30 NWST ROLLV4,"County Commissioner, Precinct No. 3",,REP,Danny Lambert,1,0,1,0
+Wise,30 NWST ROLLV4,"County Commissioner, Precinct No. 3",,REP,Charles B. Applewhite,1,0,1,0

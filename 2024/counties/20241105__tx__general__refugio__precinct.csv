@@ -1,0 +1,935 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Refugio,1,Registered Voters,,,,487,,,
+Refugio,1,Ballots Cast,,,,278,,,
+Refugio,1,President,,REP,Donald J. Trump JD Vance,154,2,129,23
+Refugio,1,President,,DEM,Kamala D. Harris Tim Walz,119,5,79,35
+Refugio,1,President,,LIB,Chase Oliver Mike ter Maat,2,0,1,1
+Refugio,1,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+Refugio,1,President,,,Under Votes,2,0,1,1
+Refugio,1,President,,,Over Votes,0,0,0,0
+Refugio,1,U.S. Senate,,REP,Ted Cruz,148,2,124,22
+Refugio,1,U.S. Senate,,DEM,Colin Allred,121,5,82,34
+Refugio,1,U.S. Senate,,LIB,Ted Brown,4,0,3,1
+Refugio,1,U.S. Senate,,,Under Votes,5,0,2,3
+Refugio,1,U.S. Senate,,,Over Votes,0,0,0,0
+Refugio,1,U.S. House,27,REP,Michael Cloud,162,2,132,28
+Refugio,1,U.S. House,27,DEM,Tanya Lloyd,107,5,75,27
+Refugio,1,U.S. House,27,,Under Votes,9,0,4,5
+Refugio,1,U.S. House,27,,Over Votes,0,0,0,0
+Refugio,1,Railroad Commissioner,,REP,Christi Craddick,140,2,114,24
+Refugio,1,Railroad Commissioner,,DEM,Katherine Culbert,100,4,69,27
+Refugio,1,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,5,1
+Refugio,1,Railroad Commissioner,,GRN,Eddie Espinoza,13,0,10,3
+Refugio,1,Railroad Commissioner,,,Under Votes,18,0,13,5
+Refugio,1,Railroad Commissioner,,,Over Votes,1,1,0,0
+Refugio,1,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,150,2,122,26
+Refugio,1,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,107,5,76,26
+Refugio,1,"Justice, Supreme Court, Place 2",2,,Under Votes,21,0,13,8
+Refugio,1,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Refugio,1,"Justice, Supreme Court, Place 4",4,REP,John Devine,152,2,123,27
+Refugio,1,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,105,5,75,25
+Refugio,1,"Justice, Supreme Court, Place 4",4,,Under Votes,21,0,13,8
+Refugio,1,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Refugio,1,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,145,2,119,24
+Refugio,1,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,106,5,75,26
+Refugio,1,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,6,0,4,2
+Refugio,1,"Justice, Supreme Court, Place 6",6,,Under Votes,21,0,13,8
+Refugio,1,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Refugio,1,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,148,2,120,26
+Refugio,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,111,5,78,28
+Refugio,1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,19,0,13,6
+Refugio,1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Refugio,1,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,152,2,124,26
+Refugio,1,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,105,5,74,26
+Refugio,1,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,21,0,13,8
+Refugio,1,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Refugio,1,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,155,2,125,28
+Refugio,1,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,101,5,72,24
+Refugio,1,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,22,0,14,8
+Refugio,1,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Refugio,1,State Representative,43,REP,J.M. Lozano,149,2,122,25
+Refugio,1,State Representative,43,DEM,Mariana Casarez,110,5,78,27
+Refugio,1,State Representative,43,,Under Votes,19,0,11,8
+Refugio,1,State Representative,43,,Over Votes,0,0,0,0
+Refugio,1,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,151,2,122,27
+Refugio,1,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,107,5,78,24
+Refugio,1,"Chief Justice, 13th Court of Appeals District",,,Under Votes,20,0,11,9
+Refugio,1,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Refugio,1,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,142,2,117,23
+Refugio,1,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,112,5,80,27
+Refugio,1,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,24,0,14,10
+Refugio,1,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Refugio,1,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,147,2,120,25
+Refugio,1,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,106,5,77,24
+Refugio,1,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,25,0,14,11
+Refugio,1,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Refugio,1,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,153,2,122,29
+Refugio,1,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,103,5,76,22
+Refugio,1,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,22,0,13,9
+Refugio,1,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Refugio,1,"District Judge, 24th Judicial District",24,REP,Lisa Harvey Moore,191,3,155,33
+Refugio,1,"District Judge, 24th Judicial District",24,,Under Votes,87,4,56,27
+Refugio,1,"District Judge, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,1,"District Judge, 135th Judicial District",135,REP,Kemper Stephen Williams,187,3,151,33
+Refugio,1,"District Judge, 135th Judicial District",135,,Under Votes,91,4,60,27
+Refugio,1,"District Judge, 135th Judicial District",135,,Over Votes,0,0,0,0
+Refugio,1,"District Attorney, 24th Judicial District",24,REP,Brian Michael Cromeens,184,3,147,34
+Refugio,1,"District Attorney, 24th Judicial District",24,,Under Votes,94,4,64,26
+Refugio,1,"District Attorney, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,1,County Attorney,,REP,Simon McCloud III,192,3,156,33
+Refugio,1,County Attorney,,,Under Votes,86,4,55,27
+Refugio,1,County Attorney,,,Over Votes,0,0,0,0
+Refugio,1,"County Clerk, Unexpired Term",,REP,Margie Castellano,191,5,150,36
+Refugio,1,"County Clerk, Unexpired Term",,,Under Votes,54,1,34,19
+Refugio,1,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Refugio,1,Sheriff,,REP,Matthew Tuttle,193,3,150,40
+Refugio,1,Sheriff,,,Under Votes,49,2,33,14
+Refugio,1,Sheriff,,,Over Votes,0,0,0,0
+Refugio,1,County Tax Assessor-Collector,,REP,Elizabeth Kelley,209,6,166,37
+Refugio,1,County Tax Assessor-Collector,,,Under Votes,69,1,45,23
+Refugio,1,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Refugio,1,"County Commissioner, Precinct 1",,REP,Roy Payne,157,2,135,20
+Refugio,1,"County Commissioner, Precinct 1",,DEM,Severo Jimbo Porras Jr,111,5,71,35
+Refugio,1,"County Commissioner, Precinct 1",,,Under Votes,10,0,5,5
+Refugio,1,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Refugio,1,"County Commissioner, Precinct 1",,REP,Sheldon Wiginton,195,3,156,36
+Refugio,1,"County Commissioner, Precinct 1",,,Under Votes,83,4,55,24
+Refugio,1,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Refugio,1A,Registered Voters,,,,534,,,
+Refugio,1A,Ballots Cast,,,,292,,,
+Refugio,1A,President,,REP,Donald J. Trump JD Vance,152,2,119,31
+Refugio,1A,President,,DEM,Kamala D. Harris Tim Walz,134,12,78,44
+Refugio,1A,President,,LIB,Chase Oliver Mike ter Maat,2,1,0,1
+Refugio,1A,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Refugio,1A,President,,,Under Votes,4,0,2,2
+Refugio,1A,President,,,Over Votes,0,0,0,0
+Refugio,1A,U.S. Senate,,REP,Ted Cruz,133,2,109,22
+Refugio,1A,U.S. Senate,,DEM,Colin Allred,138,10,79,49
+Refugio,1A,U.S. Senate,,LIB,Ted Brown,8,2,4,2
+Refugio,1A,U.S. Senate,,,Under Votes,13,1,7,5
+Refugio,1A,U.S. Senate,,,Over Votes,0,0,0,0
+Refugio,1A,U.S. House,27,REP,Michael Cloud,154,2,119,33
+Refugio,1A,U.S. House,27,DEM,Tanya Lloyd,123,12,70,41
+Refugio,1A,U.S. House,27,,Under Votes,15,1,10,4
+Refugio,1A,U.S. House,27,,Over Votes,0,0,0,0
+Refugio,1A,Railroad Commissioner,,REP,Christi Craddick,135,1,107,27
+Refugio,1A,Railroad Commissioner,,DEM,Katherine Culbert,110,11,66,33
+Refugio,1A,Railroad Commissioner,,LIB,Hawk Dunlap,5,1,1,3
+Refugio,1A,Railroad Commissioner,,GRN,Eddie Espinoza,19,1,11,7
+Refugio,1A,Railroad Commissioner,,,Under Votes,23,1,14,8
+Refugio,1A,Railroad Commissioner,,,Over Votes,0,0,0,0
+Refugio,1A,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,148,3,114,31
+Refugio,1A,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,117,11,67,39
+Refugio,1A,"Justice, Supreme Court, Place 2",2,,Under Votes,27,1,18,8
+Refugio,1A,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Refugio,1A,"Justice, Supreme Court, Place 4",4,REP,John Devine,143,2,112,29
+Refugio,1A,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,122,12,71,39
+Refugio,1A,"Justice, Supreme Court, Place 4",4,,Under Votes,27,1,16,10
+Refugio,1A,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Refugio,1A,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,143,1,114,28
+Refugio,1A,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,118,12,66,40
+Refugio,1A,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,8,1,5,2
+Refugio,1A,"Justice, Supreme Court, Place 6",6,,Under Votes,23,1,14,8
+Refugio,1A,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Refugio,1A,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,141,2,111,28
+Refugio,1A,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,124,12,73,39
+Refugio,1A,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,27,1,15,11
+Refugio,1A,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Refugio,1A,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,148,3,117,28
+Refugio,1A,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,118,11,67,40
+Refugio,1A,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,26,1,15,10
+Refugio,1A,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Refugio,1A,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,152,3,117,32
+Refugio,1A,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,111,11,65,35
+Refugio,1A,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,29,1,17,11
+Refugio,1A,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Refugio,1A,State Representative,43,REP,J.M. Lozano,142,2,111,29
+Refugio,1A,State Representative,43,DEM,Mariana Casarez,123,11,73,39
+Refugio,1A,State Representative,43,,Under Votes,27,2,15,10
+Refugio,1A,State Representative,43,,Over Votes,0,0,0,0
+Refugio,1A,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,141,2,110,29
+Refugio,1A,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,120,12,70,38
+Refugio,1A,"Chief Justice, 13th Court of Appeals District",,,Under Votes,31,1,19,11
+Refugio,1A,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Refugio,1A,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,138,2,109,27
+Refugio,1A,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,124,12,72,40
+Refugio,1A,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,30,1,18,11
+Refugio,1A,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Refugio,1A,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,133,2,107,24
+Refugio,1A,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,128,12,73,43
+Refugio,1A,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,31,1,19,11
+Refugio,1A,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Refugio,1A,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,149,4,117,28
+Refugio,1A,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,110,10,64,36
+Refugio,1A,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,33,1,18,14
+Refugio,1A,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Refugio,1A,"District Judge, 24th Judicial District",24,REP,Lisa Harvey Moore,186,4,131,51
+Refugio,1A,"District Judge, 24th Judicial District",24,,Under Votes,106,11,68,27
+Refugio,1A,"District Judge, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,1A,"District Judge, 135th Judicial District",135,REP,Kemper Stephen Williams,185,5,130,50
+Refugio,1A,"District Judge, 135th Judicial District",135,,Under Votes,107,10,69,28
+Refugio,1A,"District Judge, 135th Judicial District",135,,Over Votes,0,0,0,0
+Refugio,1A,"District Attorney, 24th Judicial District",24,REP,Brian Michael Cromeens,182,4,130,48
+Refugio,1A,"District Attorney, 24th Judicial District",24,,Under Votes,110,11,69,30
+Refugio,1A,"District Attorney, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,1A,County Attorney,,REP,Simon McCloud III,193,4,136,53
+Refugio,1A,County Attorney,,,Under Votes,99,11,63,25
+Refugio,1A,County Attorney,,,Over Votes,0,0,0,0
+Refugio,1A,"County Clerk, Unexpired Term",,REP,Margie Castellano,209,5,145,59
+Refugio,1A,"County Clerk, Unexpired Term",,,Under Votes,68,4,48,16
+Refugio,1A,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Refugio,1A,Sheriff,,REP,Matthew Tuttle,214,8,146,60
+Refugio,1A,Sheriff,,,Under Votes,29,2,24,3
+Refugio,1A,Sheriff,,,Over Votes,0,0,0,0
+Refugio,1A,County Tax Assessor-Collector,,REP,Elizabeth Kelley,215,6,149,60
+Refugio,1A,County Tax Assessor-Collector,,,Under Votes,77,9,50,18
+Refugio,1A,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Refugio,1A,"County Commissioner, Precinct 1",,REP,Roy Payne,151,4,116,31
+Refugio,1A,"County Commissioner, Precinct 1",,DEM,Severo Jimbo Porras Jr,131,10,75,46
+Refugio,1A,"County Commissioner, Precinct 1",,,Under Votes,10,1,8,1
+Refugio,1A,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Refugio,1A,"County Commissioner, Precinct 1",,REP,Sheldon Wiginton,220,8,149,63
+Refugio,1A,"County Commissioner, Precinct 1",,,Under Votes,72,7,50,15
+Refugio,1A,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Refugio,2,Registered Voters,,,,913,,,
+Refugio,2,Ballots Cast,,,,617,,,
+Refugio,2,President,,REP,Donald J. Trump JD Vance,493,12,390,91
+Refugio,2,President,,DEM,Kamala D. Harris Tim Walz,114,6,69,39
+Refugio,2,President,,LIB,Chase Oliver Mike ter Maat,2,0,2,0
+Refugio,2,President,,GRN,Jill Stein Rudolph Ware,2,0,2,0
+Refugio,2,President,,,Under Votes,6,0,3,3
+Refugio,2,President,,,Over Votes,0,0,0,0
+Refugio,2,U.S. Senate,,REP,Ted Cruz,453,12,364,77
+Refugio,2,U.S. Senate,,DEM,Colin Allred,128,5,80,43
+Refugio,2,U.S. Senate,,LIB,Ted Brown,13,0,7,6
+Refugio,2,U.S. Senate,,,Under Votes,23,1,15,7
+Refugio,2,U.S. Senate,,,Over Votes,0,0,0,0
+Refugio,2,U.S. House,27,REP,Michael Cloud,478,10,381,87
+Refugio,2,U.S. House,27,DEM,Tanya Lloyd,111,5,70,36
+Refugio,2,U.S. House,27,,Under Votes,28,3,15,10
+Refugio,2,U.S. House,27,,Over Votes,0,0,0,0
+Refugio,2,Railroad Commissioner,,REP,Christi Craddick,454,11,366,77
+Refugio,2,Railroad Commissioner,,DEM,Katherine Culbert,105,6,65,34
+Refugio,2,Railroad Commissioner,,LIB,Hawk Dunlap,12,1,8,3
+Refugio,2,Railroad Commissioner,,GRN,Eddie Espinoza,10,0,5,5
+Refugio,2,Railroad Commissioner,,,Under Votes,36,0,22,14
+Refugio,2,Railroad Commissioner,,,Over Votes,0,0,0,0
+Refugio,2,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,461,12,371,78
+Refugio,2,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,115,5,70,40
+Refugio,2,"Justice, Supreme Court, Place 2",2,,Under Votes,41,1,25,15
+Refugio,2,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Refugio,2,"Justice, Supreme Court, Place 4",4,REP,John Devine,451,12,360,79
+Refugio,2,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,117,5,73,39
+Refugio,2,"Justice, Supreme Court, Place 4",4,,Under Votes,49,1,33,15
+Refugio,2,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Refugio,2,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,449,11,360,78
+Refugio,2,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,108,5,70,33
+Refugio,2,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,14,1,5,8
+Refugio,2,"Justice, Supreme Court, Place 6",6,,Under Votes,46,1,31,14
+Refugio,2,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Refugio,2,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,456,12,361,83
+Refugio,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,117,5,74,38
+Refugio,2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,44,1,31,12
+Refugio,2,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Refugio,2,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,461,12,367,82
+Refugio,2,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,113,6,70,37
+Refugio,2,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,43,0,29,14
+Refugio,2,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Refugio,2,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,458,12,365,81
+Refugio,2,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,106,5,66,35
+Refugio,2,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,53,1,35,17
+Refugio,2,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Refugio,2,State Representative,43,REP,J.M. Lozano,456,8,365,83
+Refugio,2,State Representative,43,DEM,Mariana Casarez,112,3,73,36
+Refugio,2,State Representative,43,,Under Votes,49,7,28,14
+Refugio,2,State Representative,43,,Over Votes,0,0,0,0
+Refugio,2,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,452,10,359,83
+Refugio,2,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,114,3,74,37
+Refugio,2,"Chief Justice, 13th Court of Appeals District",,,Under Votes,51,5,33,13
+Refugio,2,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Refugio,2,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,447,10,357,80
+Refugio,2,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,119,3,78,38
+Refugio,2,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,51,5,31,15
+Refugio,2,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Refugio,2,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,447,10,356,81
+Refugio,2,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,117,3,77,37
+Refugio,2,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,53,5,33,15
+Refugio,2,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Refugio,2,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,459,10,366,83
+Refugio,2,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,105,3,67,35
+Refugio,2,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,53,5,33,15
+Refugio,2,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Refugio,2,"District Judge, 24th Judicial District",24,REP,Lisa Harvey Moore,508,8,399,101
+Refugio,2,"District Judge, 24th Judicial District",24,,Under Votes,109,10,67,32
+Refugio,2,"District Judge, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,2,"District Judge, 135th Judicial District",135,REP,Kemper Stephen Williams,500,8,392,100
+Refugio,2,"District Judge, 135th Judicial District",135,,Under Votes,117,10,74,33
+Refugio,2,"District Judge, 135th Judicial District",135,,Over Votes,0,0,0,0
+Refugio,2,"District Attorney, 24th Judicial District",24,REP,Brian Michael Cromeens,497,8,392,97
+Refugio,2,"District Attorney, 24th Judicial District",24,,Under Votes,120,10,74,36
+Refugio,2,"District Attorney, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,2,County Attorney,,REP,Simon McCloud III,508,8,397,103
+Refugio,2,County Attorney,,,Under Votes,109,10,69,30
+Refugio,2,County Attorney,,,Over Votes,0,0,0,0
+Refugio,2,"County Clerk, Unexpired Term",,REP,Margie Castellano,513,8,400,105
+Refugio,2,"County Clerk, Unexpired Term",,,Under Votes,85,10,56,19
+Refugio,2,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Refugio,2,Sheriff,,REP,Matthew Tuttle,501,9,388,104
+Refugio,2,Sheriff,,,Under Votes,33,7,18,8
+Refugio,2,Sheriff,,,Over Votes,0,0,0,0
+Refugio,2,County Tax Assessor-Collector,,REP,Elizabeth Kelley,523,8,405,110
+Refugio,2,County Tax Assessor-Collector,,,Under Votes,94,10,61,23
+Refugio,2,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Refugio,2,County Tax Assessor-Collector,,REP,Ryan Chambers,526,7,407,112
+Refugio,2,County Tax Assessor-Collector,,,Under Votes,91,11,59,21
+Refugio,2,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Refugio,2A,Registered Voters,,,,215,,,
+Refugio,2A,Ballots Cast,,,,169,,,
+Refugio,2A,President,,REP,Donald J. Trump JD Vance,149,1,113,35
+Refugio,2A,President,,DEM,Kamala D. Harris Tim Walz,16,3,9,4
+Refugio,2A,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Refugio,2A,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Refugio,2A,President,,,Under Votes,3,0,3,0
+Refugio,2A,President,,,Over Votes,0,0,0,0
+Refugio,2A,U.S. Senate,,REP,Ted Cruz,147,1,111,35
+Refugio,2A,U.S. Senate,,DEM,Colin Allred,15,3,8,4
+Refugio,2A,U.S. Senate,,LIB,Ted Brown,3,0,3,0
+Refugio,2A,U.S. Senate,,,Under Votes,4,0,4,0
+Refugio,2A,U.S. Senate,,,Over Votes,0,0,0,0
+Refugio,2A,U.S. House,27,REP,Michael Cloud,151,1,115,35
+Refugio,2A,U.S. House,27,DEM,Tanya Lloyd,16,3,9,4
+Refugio,2A,U.S. House,27,,Under Votes,2,0,2,0
+Refugio,2A,U.S. House,27,,Over Votes,0,0,0,0
+Refugio,2A,Railroad Commissioner,,REP,Christi Craddick,146,1,110,35
+Refugio,2A,Railroad Commissioner,,DEM,Katherine Culbert,15,3,8,4
+Refugio,2A,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,3,0
+Refugio,2A,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Refugio,2A,Railroad Commissioner,,,Under Votes,5,0,5,0
+Refugio,2A,Railroad Commissioner,,,Over Votes,0,0,0,0
+Refugio,2A,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,149,1,113,35
+Refugio,2A,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,15,3,9,3
+Refugio,2A,"Justice, Supreme Court, Place 2",2,,Under Votes,5,0,4,1
+Refugio,2A,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Refugio,2A,"Justice, Supreme Court, Place 4",4,REP,John Devine,146,1,110,35
+Refugio,2A,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,15,3,8,4
+Refugio,2A,"Justice, Supreme Court, Place 4",4,,Under Votes,8,0,8,0
+Refugio,2A,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Refugio,2A,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,144,1,109,34
+Refugio,2A,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,15,3,8,4
+Refugio,2A,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,4,0,3,1
+Refugio,2A,"Justice, Supreme Court, Place 6",6,,Under Votes,6,0,6,0
+Refugio,2A,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Refugio,2A,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,147,1,111,35
+Refugio,2A,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,15,3,9,3
+Refugio,2A,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,7,0,6,1
+Refugio,2A,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Refugio,2A,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,147,1,111,35
+Refugio,2A,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,16,3,9,4
+Refugio,2A,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,6,0,6,0
+Refugio,2A,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Refugio,2A,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,147,1,111,35
+Refugio,2A,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,16,3,9,4
+Refugio,2A,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,6,0,6,0
+Refugio,2A,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Refugio,2A,State Representative,43,REP,J.M. Lozano,147,1,111,35
+Refugio,2A,State Representative,43,DEM,Mariana Casarez,16,3,9,4
+Refugio,2A,State Representative,43,,Under Votes,6,0,6,0
+Refugio,2A,State Representative,43,,Over Votes,0,0,0,0
+Refugio,2A,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,145,1,110,34
+Refugio,2A,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,18,3,10,5
+Refugio,2A,"Chief Justice, 13th Court of Appeals District",,,Under Votes,6,0,6,0
+Refugio,2A,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Refugio,2A,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,147,1,111,35
+Refugio,2A,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,16,3,9,4
+Refugio,2A,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,6,0,6,0
+Refugio,2A,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Refugio,2A,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,146,1,111,34
+Refugio,2A,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,16,3,9,4
+Refugio,2A,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,7,0,6,1
+Refugio,2A,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Refugio,2A,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,147,1,111,35
+Refugio,2A,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,15,3,8,4
+Refugio,2A,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,7,0,7,0
+Refugio,2A,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Refugio,2A,"District Judge, 24th Judicial District",24,REP,Lisa Harvey Moore,149,1,115,33
+Refugio,2A,"District Judge, 24th Judicial District",24,,Under Votes,20,3,11,6
+Refugio,2A,"District Judge, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,2A,"District Judge, 135th Judicial District",135,REP,Kemper Stephen Williams,149,1,114,34
+Refugio,2A,"District Judge, 135th Judicial District",135,,Under Votes,20,3,12,5
+Refugio,2A,"District Judge, 135th Judicial District",135,,Over Votes,0,0,0,0
+Refugio,2A,"District Attorney, 24th Judicial District",24,REP,Brian Michael Cromeens,149,1,114,34
+Refugio,2A,"District Attorney, 24th Judicial District",24,,Under Votes,20,3,12,5
+Refugio,2A,"District Attorney, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,2A,County Attorney,,REP,Simon McCloud III,150,1,115,34
+Refugio,2A,County Attorney,,,Under Votes,19,3,11,5
+Refugio,2A,County Attorney,,,Over Votes,0,0,0,0
+Refugio,2A,"County Clerk, Unexpired Term",,REP,Margie Castellano,148,1,113,34
+Refugio,2A,"County Clerk, Unexpired Term",,,Under Votes,21,3,13,5
+Refugio,2A,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Refugio,2A,Sheriff,,REP,Matthew Tuttle,143,1,107,35
+Refugio,2A,Sheriff,,,Under Votes,5,1,3,1
+Refugio,2A,Sheriff,,,Over Votes,0,0,0,0
+Refugio,2A,County Tax Assessor-Collector,,REP,Elizabeth Kelley,153,1,116,36
+Refugio,2A,County Tax Assessor-Collector,,,Under Votes,16,3,10,3
+Refugio,2A,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Refugio,2A,County Tax Assessor-Collector,,REP,Ryan Chambers,150,1,114,35
+Refugio,2A,County Tax Assessor-Collector,,,Under Votes,19,3,12,4
+Refugio,2A,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Refugio,2B,Registered Voters,,,,321,,,
+Refugio,2B,Ballots Cast,,,,216,,,
+Refugio,2B,President,,REP,Donald J. Trump JD Vance,153,3,87,63
+Refugio,2B,President,,DEM,Kamala D. Harris Tim Walz,60,2,26,32
+Refugio,2B,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+Refugio,2B,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Refugio,2B,President,,,Under Votes,1,0,1,0
+Refugio,2B,President,,,Over Votes,0,0,0,0
+Refugio,2B,U.S. Senate,,REP,Ted Cruz,148,3,86,59
+Refugio,2B,U.S. Senate,,DEM,Colin Allred,60,1,27,32
+Refugio,2B,U.S. Senate,,LIB,Ted Brown,5,0,2,3
+Refugio,2B,U.S. Senate,,,Under Votes,2,0,0,2
+Refugio,2B,U.S. Senate,,,Over Votes,0,0,0,0
+Refugio,2B,U.S. House,27,REP,Michael Cloud,156,3,92,61
+Refugio,2B,U.S. House,27,DEM,Tanya Lloyd,53,2,21,30
+Refugio,2B,U.S. House,27,,Under Votes,7,0,2,5
+Refugio,2B,U.S. House,27,,Over Votes,0,0,0,0
+Refugio,2B,Railroad Commissioner,,REP,Christi Craddick,150,3,89,58
+Refugio,2B,Railroad Commissioner,,DEM,Katherine Culbert,44,1,19,24
+Refugio,2B,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,2,5
+Refugio,2B,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,3,3
+Refugio,2B,Railroad Commissioner,,,Under Votes,9,1,2,6
+Refugio,2B,Railroad Commissioner,,,Over Votes,0,0,0,0
+Refugio,2B,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,157,3,92,62
+Refugio,2B,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,51,1,20,30
+Refugio,2B,"Justice, Supreme Court, Place 2",2,,Under Votes,8,1,3,4
+Refugio,2B,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Refugio,2B,"Justice, Supreme Court, Place 4",4,REP,John Devine,155,3,91,61
+Refugio,2B,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,50,1,20,29
+Refugio,2B,"Justice, Supreme Court, Place 4",4,,Under Votes,11,1,4,6
+Refugio,2B,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Refugio,2B,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,145,3,87,55
+Refugio,2B,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,50,1,20,29
+Refugio,2B,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,7,0,2,5
+Refugio,2B,"Justice, Supreme Court, Place 6",6,,Under Votes,14,1,6,7
+Refugio,2B,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Refugio,2B,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,151,3,87,61
+Refugio,2B,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,53,1,23,29
+Refugio,2B,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,12,1,5,6
+Refugio,2B,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Refugio,2B,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,150,3,87,60
+Refugio,2B,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,53,1,23,29
+Refugio,2B,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,13,1,5,7
+Refugio,2B,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Refugio,2B,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,152,3,90,59
+Refugio,2B,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,49,1,20,28
+Refugio,2B,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,15,1,5,9
+Refugio,2B,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Refugio,2B,State Representative,43,REP,J.M. Lozano,146,2,88,56
+Refugio,2B,State Representative,43,DEM,Mariana Casarez,57,1,23,33
+Refugio,2B,State Representative,43,,Under Votes,13,2,4,7
+Refugio,2B,State Representative,43,,Over Votes,0,0,0,0
+Refugio,2B,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,145,2,86,57
+Refugio,2B,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,54,1,23,30
+Refugio,2B,"Chief Justice, 13th Court of Appeals District",,,Under Votes,17,2,6,9
+Refugio,2B,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Refugio,2B,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,146,2,84,60
+Refugio,2B,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,56,1,26,29
+Refugio,2B,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,14,2,5,7
+Refugio,2B,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Refugio,2B,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,146,2,87,57
+Refugio,2B,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,54,1,23,30
+Refugio,2B,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,16,2,5,9
+Refugio,2B,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Refugio,2B,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,150,2,87,61
+Refugio,2B,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,49,1,21,27
+Refugio,2B,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,17,2,7,8
+Refugio,2B,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Refugio,2B,"District Judge, 24th Judicial District",24,REP,Lisa Harvey Moore,165,2,95,68
+Refugio,2B,"District Judge, 24th Judicial District",24,,Under Votes,51,3,20,28
+Refugio,2B,"District Judge, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,2B,"District Judge, 135th Judicial District",135,REP,Kemper Stephen Williams,163,2,94,67
+Refugio,2B,"District Judge, 135th Judicial District",135,,Under Votes,53,3,21,29
+Refugio,2B,"District Judge, 135th Judicial District",135,,Over Votes,0,0,0,0
+Refugio,2B,"District Attorney, 24th Judicial District",24,REP,Brian Michael Cromeens,159,2,92,65
+Refugio,2B,"District Attorney, 24th Judicial District",24,,Under Votes,57,3,23,31
+Refugio,2B,"District Attorney, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,2B,County Attorney,,REP,Simon McCloud III,164,2,97,65
+Refugio,2B,County Attorney,,,Under Votes,52,3,18,31
+Refugio,2B,County Attorney,,,Over Votes,0,0,0,0
+Refugio,2B,"County Clerk, Unexpired Term",,REP,Margie Castellano,161,2,93,66
+Refugio,2B,"County Clerk, Unexpired Term",,,Under Votes,47,2,18,27
+Refugio,2B,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Refugio,2B,Sheriff,,REP,Matthew Tuttle,161,2,90,69
+Refugio,2B,Sheriff,,,Under Votes,26,1,10,15
+Refugio,2B,Sheriff,,,Over Votes,0,0,0,0
+Refugio,2B,County Tax Assessor-Collector,,REP,Elizabeth Kelley,168,2,98,68
+Refugio,2B,County Tax Assessor-Collector,,,Under Votes,48,3,17,28
+Refugio,2B,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Refugio,2B,County Tax Assessor-Collector,,REP,Ryan Chambers,165,2,96,67
+Refugio,2B,County Tax Assessor-Collector,,,Under Votes,51,3,19,29
+Refugio,2B,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Refugio,3,Registered Voters,,,,567,,,
+Refugio,3,Ballots Cast,,,,388,,,
+Refugio,3,President,,REP,Donald J. Trump JD Vance,299,8,218,73
+Refugio,3,President,,DEM,Kamala D. Harris Tim Walz,83,5,50,28
+Refugio,3,President,,LIB,Chase Oliver Mike ter Maat,4,0,1,3
+Refugio,3,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+Refugio,3,President,,,Under Votes,1,0,1,0
+Refugio,3,President,,,Over Votes,0,0,0,0
+Refugio,3,U.S. Senate,,REP,Ted Cruz,281,8,209,64
+Refugio,3,U.S. Senate,,DEM,Colin Allred,92,4,56,32
+Refugio,3,U.S. Senate,,LIB,Ted Brown,12,1,4,7
+Refugio,3,U.S. Senate,,,Under Votes,2,0,1,1
+Refugio,3,U.S. Senate,,,Over Votes,0,0,0,0
+Refugio,3,U.S. House,27,REP,Michael Cloud,302,8,223,71
+Refugio,3,U.S. House,27,DEM,Tanya Lloyd,77,5,42,30
+Refugio,3,U.S. House,27,,Under Votes,9,0,6,3
+Refugio,3,U.S. House,27,,Over Votes,0,0,0,0
+Refugio,3,Railroad Commissioner,,REP,Christi Craddick,276,10,207,59
+Refugio,3,Railroad Commissioner,,DEM,Katherine Culbert,69,3,38,28
+Refugio,3,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,7,10
+Refugio,3,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,8,3
+Refugio,3,Railroad Commissioner,,,Under Votes,15,0,11,4
+Refugio,3,Railroad Commissioner,,,Over Votes,0,0,0,0
+Refugio,3,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,303,9,223,71
+Refugio,3,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,72,4,39,29
+Refugio,3,"Justice, Supreme Court, Place 2",2,,Under Votes,13,0,9,4
+Refugio,3,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Refugio,3,"Justice, Supreme Court, Place 4",4,REP,John Devine,292,8,218,66
+Refugio,3,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,79,4,43,32
+Refugio,3,"Justice, Supreme Court, Place 4",4,,Under Votes,17,1,10,6
+Refugio,3,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Refugio,3,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,279,9,208,62
+Refugio,3,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,78,3,47,28
+Refugio,3,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,13,0,5,8
+Refugio,3,"Justice, Supreme Court, Place 6",6,,Under Votes,18,1,11,6
+Refugio,3,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Refugio,3,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,288,8,213,67
+Refugio,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,82,4,47,31
+Refugio,3,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,18,1,11,6
+Refugio,3,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Refugio,3,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,291,9,215,67
+Refugio,3,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,76,3,44,29
+Refugio,3,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,21,1,12,8
+Refugio,3,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Refugio,3,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,291,8,214,69
+Refugio,3,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,75,4,44,27
+Refugio,3,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,22,1,13,8
+Refugio,3,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Refugio,3,State Representative,43,REP,J.M. Lozano,286,7,211,68
+Refugio,3,State Representative,43,DEM,Mariana Casarez,80,3,46,31
+Refugio,3,State Representative,43,,Under Votes,22,3,14,5
+Refugio,3,State Representative,43,,Over Votes,0,0,0,0
+Refugio,3,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,287,7,213,67
+Refugio,3,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,82,3,47,32
+Refugio,3,"Chief Justice, 13th Court of Appeals District",,,Under Votes,19,3,11,5
+Refugio,3,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Refugio,3,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,281,6,209,66
+Refugio,3,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,86,4,50,32
+Refugio,3,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,21,3,12,6
+Refugio,3,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Refugio,3,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,280,7,208,65
+Refugio,3,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,79,2,44,33
+Refugio,3,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,29,4,19,6
+Refugio,3,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Refugio,3,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,290,6,213,71
+Refugio,3,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,69,2,40,27
+Refugio,3,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,29,5,18,6
+Refugio,3,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Refugio,3,"District Judge, 24th Judicial District",24,REP,Lisa Harvey Moore,324,8,225,91
+Refugio,3,"District Judge, 24th Judicial District",24,,Under Votes,64,5,46,13
+Refugio,3,"District Judge, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,3,"District Judge, 135th Judicial District",135,REP,Kemper Stephen Williams,323,8,230,85
+Refugio,3,"District Judge, 135th Judicial District",135,,Under Votes,65,5,41,19
+Refugio,3,"District Judge, 135th Judicial District",135,,Over Votes,0,0,0,0
+Refugio,3,"District Attorney, 24th Judicial District",24,REP,Brian Michael Cromeens,322,8,227,87
+Refugio,3,"District Attorney, 24th Judicial District",24,,Under Votes,66,5,44,17
+Refugio,3,"District Attorney, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,3,County Attorney,,REP,Simon McCloud III,322,8,229,85
+Refugio,3,County Attorney,,,Under Votes,66,5,42,19
+Refugio,3,County Attorney,,,Over Votes,0,0,0,0
+Refugio,3,"County Clerk, Unexpired Term",,REP,Margie Castellano,324,10,230,84
+Refugio,3,"County Clerk, Unexpired Term",,,Under Votes,41,3,25,13
+Refugio,3,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Refugio,3,Sheriff,,REP,Matthew Tuttle,298,8,214,76
+Refugio,3,Sheriff,,,Under Votes,45,3,32,10
+Refugio,3,Sheriff,,,Over Votes,0,0,0,0
+Refugio,3,County Tax Assessor-Collector,,REP,Elizabeth Kelley,338,7,241,90
+Refugio,3,County Tax Assessor-Collector,,,Under Votes,50,6,30,14
+Refugio,3,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Refugio,3,"County Commissioner, Precinct 3",,REP,Gary Wright,345,9,243,93
+Refugio,3,"County Commissioner, Precinct 3",,,Under Votes,43,4,28,11
+Refugio,3,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Refugio,3,"County Commissioner, Precinct 3",,REP,Ryan Chambers,337,9,241,87
+Refugio,3,"County Commissioner, Precinct 3",,,Under Votes,51,4,30,17
+Refugio,3,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Refugio,3A,Registered Voters,,,,677,,,
+Refugio,3A,Ballots Cast,,,,453,,,
+Refugio,3A,President,,REP,Donald J. Trump JD Vance,359,8,285,66
+Refugio,3A,President,,DEM,Kamala D. Harris Tim Walz,91,2,61,28
+Refugio,3A,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Refugio,3A,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Refugio,3A,President,,,Under Votes,3,0,3,0
+Refugio,3A,President,,,Over Votes,0,0,0,0
+Refugio,3A,U.S. Senate,,REP,Ted Cruz,342,7,274,61
+Refugio,3A,U.S. Senate,,DEM,Colin Allred,97,2,65,30
+Refugio,3A,U.S. Senate,,LIB,Ted Brown,7,0,5,2
+Refugio,3A,U.S. Senate,,,Under Votes,7,1,5,1
+Refugio,3A,U.S. Senate,,,Over Votes,0,0,0,0
+Refugio,3A,U.S. House,27,REP,Michael Cloud,359,6,285,68
+Refugio,3A,U.S. House,27,DEM,Tanya Lloyd,82,1,59,22
+Refugio,3A,U.S. House,27,,Under Votes,12,3,5,4
+Refugio,3A,U.S. House,27,,Over Votes,0,0,0,0
+Refugio,3A,Railroad Commissioner,,REP,Christi Craddick,337,8,268,61
+Refugio,3A,Railroad Commissioner,,DEM,Katherine Culbert,71,1,49,21
+Refugio,3A,Railroad Commissioner,,LIB,Hawk Dunlap,9,0,7,2
+Refugio,3A,Railroad Commissioner,,GRN,Eddie Espinoza,12,0,8,4
+Refugio,3A,Railroad Commissioner,,,Under Votes,24,1,17,6
+Refugio,3A,Railroad Commissioner,,,Over Votes,0,0,0,0
+Refugio,3A,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,357,7,285,65
+Refugio,3A,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,75,2,49,24
+Refugio,3A,"Justice, Supreme Court, Place 2",2,,Under Votes,21,1,15,5
+Refugio,3A,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Refugio,3A,"Justice, Supreme Court, Place 4",4,REP,John Devine,347,8,275,64
+Refugio,3A,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,82,1,56,25
+Refugio,3A,"Justice, Supreme Court, Place 4",4,,Under Votes,24,1,18,5
+Refugio,3A,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Refugio,3A,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,331,8,263,60
+Refugio,3A,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,81,1,55,25
+Refugio,3A,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,15,0,11,4
+Refugio,3A,"Justice, Supreme Court, Place 6",6,,Under Votes,26,1,20,5
+Refugio,3A,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Refugio,3A,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,346,8,276,62
+Refugio,3A,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,85,1,58,26
+Refugio,3A,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,22,1,15,6
+Refugio,3A,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Refugio,3A,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,346,6,277,63
+Refugio,3A,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,82,2,56,24
+Refugio,3A,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,25,2,16,7
+Refugio,3A,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Refugio,3A,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,348,6,278,64
+Refugio,3A,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,79,2,55,22
+Refugio,3A,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,26,2,16,8
+Refugio,3A,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Refugio,3A,State Representative,43,REP,J.M. Lozano,346,4,278,64
+Refugio,3A,State Representative,43,DEM,Mariana Casarez,81,1,55,25
+Refugio,3A,State Representative,43,,Under Votes,26,5,16,5
+Refugio,3A,State Representative,43,,Over Votes,0,0,0,0
+Refugio,3A,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,337,5,271,61
+Refugio,3A,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,87,1,59,27
+Refugio,3A,"Chief Justice, 13th Court of Appeals District",,,Under Votes,29,4,19,6
+Refugio,3A,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Refugio,3A,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,334,5,269,60
+Refugio,3A,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,91,1,62,28
+Refugio,3A,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,28,4,18,6
+Refugio,3A,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Refugio,3A,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,331,5,266,60
+Refugio,3A,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,91,1,62,28
+Refugio,3A,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,31,4,21,6
+Refugio,3A,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Refugio,3A,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,351,5,282,64
+Refugio,3A,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,73,1,49,23
+Refugio,3A,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,29,4,18,7
+Refugio,3A,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Refugio,3A,"District Judge, 24th Judicial District",24,REP,Lisa Harvey Moore,376,5,295,76
+Refugio,3A,"District Judge, 24th Judicial District",24,,Under Votes,77,5,54,18
+Refugio,3A,"District Judge, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,3A,"District Judge, 135th Judicial District",135,REP,Kemper Stephen Williams,378,6,295,77
+Refugio,3A,"District Judge, 135th Judicial District",135,,Under Votes,75,4,54,17
+Refugio,3A,"District Judge, 135th Judicial District",135,,Over Votes,0,0,0,0
+Refugio,3A,"District Attorney, 24th Judicial District",24,REP,Brian Michael Cromeens,367,5,288,74
+Refugio,3A,"District Attorney, 24th Judicial District",24,,Under Votes,86,5,61,20
+Refugio,3A,"District Attorney, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,3A,County Attorney,,REP,Simon McCloud III,381,4,300,77
+Refugio,3A,County Attorney,,,Under Votes,72,6,49,17
+Refugio,3A,County Attorney,,,Over Votes,0,0,0,0
+Refugio,3A,"County Clerk, Unexpired Term",,REP,Margie Castellano,376,4,293,79
+Refugio,3A,"County Clerk, Unexpired Term",,,Under Votes,46,5,35,6
+Refugio,3A,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Refugio,3A,Sheriff,,REP,Matthew Tuttle,363,4,284,75
+Refugio,3A,Sheriff,,,Under Votes,32,6,20,6
+Refugio,3A,Sheriff,,,Over Votes,0,0,0,0
+Refugio,3A,County Tax Assessor-Collector,,REP,Elizabeth Kelley,402,4,314,84
+Refugio,3A,County Tax Assessor-Collector,,,Under Votes,51,6,35,10
+Refugio,3A,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Refugio,3A,"County Commissioner, Precinct 3",,REP,Gary Wright,398,4,310,84
+Refugio,3A,"County Commissioner, Precinct 3",,,Under Votes,55,6,39,10
+Refugio,3A,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Refugio,3A,"County Commissioner, Precinct 3",,REP,Ryan Chambers,393,4,308,81
+Refugio,3A,"County Commissioner, Precinct 3",,,Under Votes,60,6,41,13
+Refugio,3A,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Refugio,4,Registered Voters,,,,608,,,
+Refugio,4,Ballots Cast,,,,301,,,
+Refugio,4,President,,REP,Donald J. Trump JD Vance,129,5,97,27
+Refugio,4,President,,DEM,Kamala D. Harris Tim Walz,166,11,99,56
+Refugio,4,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Refugio,4,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+Refugio,4,President,,,Under Votes,4,0,4,0
+Refugio,4,President,,,Over Votes,0,0,0,0
+Refugio,4,U.S. Senate,,REP,Ted Cruz,116,3,86,27
+Refugio,4,U.S. Senate,,DEM,Colin Allred,171,13,106,52
+Refugio,4,U.S. Senate,,LIB,Ted Brown,7,0,5,2
+Refugio,4,U.S. Senate,,,Under Votes,7,0,5,2
+Refugio,4,U.S. Senate,,,Over Votes,0,0,0,0
+Refugio,4,U.S. House,27,REP,Michael Cloud,137,4,99,34
+Refugio,4,U.S. House,27,DEM,Tanya Lloyd,152,10,96,46
+Refugio,4,U.S. House,27,,Under Votes,12,2,7,3
+Refugio,4,U.S. House,27,,Over Votes,0,0,0,0
+Refugio,4,Railroad Commissioner,,REP,Christi Craddick,115,3,89,23
+Refugio,4,Railroad Commissioner,,DEM,Katherine Culbert,156,11,97,48
+Refugio,4,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,1,2
+Refugio,4,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,4,3
+Refugio,4,Railroad Commissioner,,,Under Votes,20,2,11,7
+Refugio,4,Railroad Commissioner,,,Over Votes,0,0,0,0
+Refugio,4,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,124,3,96,25
+Refugio,4,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,160,11,98,51
+Refugio,4,"Justice, Supreme Court, Place 2",2,,Under Votes,17,2,8,7
+Refugio,4,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Refugio,4,"Justice, Supreme Court, Place 4",4,REP,John Devine,120,3,93,24
+Refugio,4,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,163,11,101,51
+Refugio,4,"Justice, Supreme Court, Place 4",4,,Under Votes,18,2,8,8
+Refugio,4,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Refugio,4,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,117,3,90,24
+Refugio,4,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,160,11,100,49
+Refugio,4,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,6,0,4,2
+Refugio,4,"Justice, Supreme Court, Place 6",6,,Under Votes,18,2,8,8
+Refugio,4,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Refugio,4,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,120,3,94,23
+Refugio,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,162,11,99,52
+Refugio,4,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,19,2,9,8
+Refugio,4,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Refugio,4,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,125,3,95,27
+Refugio,4,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,156,11,96,49
+Refugio,4,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,20,2,11,7
+Refugio,4,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Refugio,4,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,122,3,93,26
+Refugio,4,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,153,11,94,48
+Refugio,4,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,26,2,15,9
+Refugio,4,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Refugio,4,State Representative,43,REP,J.M. Lozano,118,4,90,24
+Refugio,4,State Representative,43,DEM,Mariana Casarez,165,9,103,53
+Refugio,4,State Representative,43,,Under Votes,18,3,9,6
+Refugio,4,State Representative,43,,Over Votes,0,0,0,0
+Refugio,4,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,122,2,93,27
+Refugio,4,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,159,9,100,50
+Refugio,4,"Chief Justice, 13th Court of Appeals District",,,Under Votes,20,5,9,6
+Refugio,4,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Refugio,4,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,118,2,91,25
+Refugio,4,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,162,9,101,52
+Refugio,4,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,21,5,10,6
+Refugio,4,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Refugio,4,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,113,2,88,23
+Refugio,4,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,166,9,103,54
+Refugio,4,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,22,5,11,6
+Refugio,4,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Refugio,4,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,128,2,98,28
+Refugio,4,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,148,9,91,48
+Refugio,4,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,25,5,13,7
+Refugio,4,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Refugio,4,"District Judge, 24th Judicial District",24,REP,Lisa Harvey Moore,179,2,121,56
+Refugio,4,"District Judge, 24th Judicial District",24,,Under Votes,122,14,81,27
+Refugio,4,"District Judge, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,4,"District Judge, 135th Judicial District",135,REP,Kemper Stephen Williams,170,2,118,50
+Refugio,4,"District Judge, 135th Judicial District",135,,Under Votes,131,14,84,33
+Refugio,4,"District Judge, 135th Judicial District",135,,Over Votes,0,0,0,0
+Refugio,4,"District Attorney, 24th Judicial District",24,REP,Brian Michael Cromeens,170,4,117,49
+Refugio,4,"District Attorney, 24th Judicial District",24,,Under Votes,131,12,85,34
+Refugio,4,"District Attorney, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,4,County Attorney,,REP,Simon McCloud III,176,4,121,51
+Refugio,4,County Attorney,,,Under Votes,125,12,81,32
+Refugio,4,County Attorney,,,Over Votes,0,0,0,0
+Refugio,4,"County Clerk, Unexpired Term",,REP,Margie Castellano,205,4,137,64
+Refugio,4,"County Clerk, Unexpired Term",,,Under Votes,65,11,42,12
+Refugio,4,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Refugio,4,Sheriff,,REP,Matthew Tuttle,206,5,139,62
+Refugio,4,Sheriff,,,Under Votes,61,11,36,14
+Refugio,4,Sheriff,,,Over Votes,0,0,0,0
+Refugio,4,County Tax Assessor-Collector,,REP,Elizabeth Kelley,217,5,144,68
+Refugio,4,County Tax Assessor-Collector,,,Under Votes,84,11,58,15
+Refugio,4,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Refugio,4,County Tax Assessor-Collector,,REP,Sheldon Wiginton,195,5,130,60
+Refugio,4,County Tax Assessor-Collector,,,Under Votes,106,11,72,23
+Refugio,4,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Refugio,4A,Registered Voters,,,,425,,,
+Refugio,4A,Ballots Cast,,,,258,,,
+Refugio,4A,President,,REP,Donald J. Trump JD Vance,159,3,37,119
+Refugio,4A,President,,DEM,Kamala D. Harris Tim Walz,98,0,24,74
+Refugio,4A,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Refugio,4A,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Refugio,4A,President,,,Under Votes,1,0,0,1
+Refugio,4A,President,,,Over Votes,0,0,0,0
+Refugio,4A,U.S. Senate,,REP,Ted Cruz,152,3,37,112
+Refugio,4A,U.S. Senate,,DEM,Colin Allred,98,0,24,74
+Refugio,4A,U.S. Senate,,LIB,Ted Brown,5,0,0,5
+Refugio,4A,U.S. Senate,,,Under Votes,3,0,0,3
+Refugio,4A,U.S. Senate,,,Over Votes,0,0,0,0
+Refugio,4A,U.S. House,27,REP,Michael Cloud,161,3,36,122
+Refugio,4A,U.S. House,27,DEM,Tanya Lloyd,89,0,23,66
+Refugio,4A,U.S. House,27,,Under Votes,8,0,2,6
+Refugio,4A,U.S. House,27,,Over Votes,0,0,0,0
+Refugio,4A,Railroad Commissioner,,REP,Christi Craddick,144,3,33,108
+Refugio,4A,Railroad Commissioner,,DEM,Katherine Culbert,87,0,24,63
+Refugio,4A,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,0,5
+Refugio,4A,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,1,5
+Refugio,4A,Railroad Commissioner,,,Under Votes,16,0,3,13
+Refugio,4A,Railroad Commissioner,,,Over Votes,0,0,0,0
+Refugio,4A,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,154,3,35,116
+Refugio,4A,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,92,0,24,68
+Refugio,4A,"Justice, Supreme Court, Place 2",2,,Under Votes,12,0,2,10
+Refugio,4A,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Refugio,4A,"Justice, Supreme Court, Place 4",4,REP,John Devine,152,3,36,113
+Refugio,4A,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,90,0,23,67
+Refugio,4A,"Justice, Supreme Court, Place 4",4,,Under Votes,16,0,2,14
+Refugio,4A,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Refugio,4A,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,148,3,35,110
+Refugio,4A,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,87,0,24,63
+Refugio,4A,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,6,0,0,6
+Refugio,4A,"Justice, Supreme Court, Place 6",6,,Under Votes,17,0,2,15
+Refugio,4A,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Refugio,4A,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,149,2,35,112
+Refugio,4A,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,89,1,23,65
+Refugio,4A,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,20,0,3,17
+Refugio,4A,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Refugio,4A,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,150,3,35,112
+Refugio,4A,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,90,0,24,66
+Refugio,4A,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,18,0,2,16
+Refugio,4A,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Refugio,4A,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,156,3,36,117
+Refugio,4A,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,84,0,23,61
+Refugio,4A,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,18,0,2,16
+Refugio,4A,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Refugio,4A,State Representative,43,REP,J.M. Lozano,155,3,35,117
+Refugio,4A,State Representative,43,DEM,Mariana Casarez,89,0,24,65
+Refugio,4A,State Representative,43,,Under Votes,14,0,2,12
+Refugio,4A,State Representative,43,,Over Votes,0,0,0,0
+Refugio,4A,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,153,3,36,114
+Refugio,4A,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,88,0,23,65
+Refugio,4A,"Chief Justice, 13th Court of Appeals District",,,Under Votes,17,0,2,15
+Refugio,4A,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Refugio,4A,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,150,2,34,114
+Refugio,4A,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,91,1,25,65
+Refugio,4A,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,17,0,2,15
+Refugio,4A,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Refugio,4A,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,148,3,34,111
+Refugio,4A,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,89,0,22,67
+Refugio,4A,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,21,0,5,16
+Refugio,4A,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Refugio,4A,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,155,3,34,118
+Refugio,4A,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,84,0,24,60
+Refugio,4A,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,19,0,3,16
+Refugio,4A,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Refugio,4A,"District Judge, 24th Judicial District",24,REP,Lisa Harvey Moore,189,3,39,147
+Refugio,4A,"District Judge, 24th Judicial District",24,,Under Votes,69,0,22,47
+Refugio,4A,"District Judge, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,4A,"District Judge, 135th Judicial District",135,REP,Kemper Stephen Williams,187,3,38,146
+Refugio,4A,"District Judge, 135th Judicial District",135,,Under Votes,71,0,23,48
+Refugio,4A,"District Judge, 135th Judicial District",135,,Over Votes,0,0,0,0
+Refugio,4A,"District Attorney, 24th Judicial District",24,REP,Brian Michael Cromeens,185,3,37,145
+Refugio,4A,"District Attorney, 24th Judicial District",24,,Under Votes,73,0,24,49
+Refugio,4A,"District Attorney, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,4A,County Attorney,,REP,Simon McCloud III,189,3,37,149
+Refugio,4A,County Attorney,,,Under Votes,69,0,24,45
+Refugio,4A,County Attorney,,,Over Votes,0,0,0,0
+Refugio,4A,"County Clerk, Unexpired Term",,REP,Margie Castellano,187,3,38,146
+Refugio,4A,"County Clerk, Unexpired Term",,,Under Votes,66,0,23,43
+Refugio,4A,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Refugio,4A,Sheriff,,REP,Matthew Tuttle,197,3,39,155
+Refugio,4A,Sheriff,,,Under Votes,46,0,18,28
+Refugio,4A,Sheriff,,,Over Votes,0,0,0,0
+Refugio,4A,County Tax Assessor-Collector,,REP,Elizabeth Kelley,196,3,39,154
+Refugio,4A,County Tax Assessor-Collector,,,Under Votes,62,0,22,40
+Refugio,4A,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Refugio,4A,County Tax Assessor-Collector,,REP,Sheldon Wiginton,200,3,38,159
+Refugio,4A,County Tax Assessor-Collector,,,Under Votes,58,0,23,35
+Refugio,4A,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Refugio,4B,Registered Voters,,,,178,,,
+Refugio,4B,Ballots Cast,,,,130,,,
+Refugio,4B,President,,REP,Donald J. Trump JD Vance,87,1,37,49
+Refugio,4B,President,,DEM,Kamala D. Harris Tim Walz,38,3,16,19
+Refugio,4B,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+Refugio,4B,President,,GRN,Jill Stein Rudolph Ware,2,0,0,2
+Refugio,4B,President,,,Under Votes,1,0,0,1
+Refugio,4B,President,,,Over Votes,1,1,0,0
+Refugio,4B,U.S. Senate,,REP,Ted Cruz,84,1,37,46
+Refugio,4B,U.S. Senate,,DEM,Colin Allred,38,3,16,19
+Refugio,4B,U.S. Senate,,LIB,Ted Brown,3,0,0,3
+Refugio,4B,U.S. Senate,,,Under Votes,4,0,0,4
+Refugio,4B,U.S. Senate,,,Over Votes,1,1,0,0
+Refugio,4B,U.S. House,27,REP,Michael Cloud,84,0,34,50
+Refugio,4B,U.S. House,27,DEM,Tanya Lloyd,37,3,16,18
+Refugio,4B,U.S. House,27,,Under Votes,9,2,3,4
+Refugio,4B,U.S. House,27,,Over Votes,0,0,0,0
+Refugio,4B,Railroad Commissioner,,REP,Christi Craddick,76,1,35,40
+Refugio,4B,Railroad Commissioner,,DEM,Katherine Culbert,32,2,14,16
+Refugio,4B,Railroad Commissioner,,LIB,Hawk Dunlap,4,0,1,3
+Refugio,4B,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,0,3
+Refugio,4B,Railroad Commissioner,,,Under Votes,14,1,3,10
+Refugio,4B,Railroad Commissioner,,,Over Votes,1,1,0,0
+Refugio,4B,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,88,1,40,47
+Refugio,4B,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,34,3,11,20
+Refugio,4B,"Justice, Supreme Court, Place 2",2,,Under Votes,8,1,2,5
+Refugio,4B,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Refugio,4B,"Justice, Supreme Court, Place 4",4,REP,John Devine,86,1,36,49
+Refugio,4B,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,34,3,14,17
+Refugio,4B,"Justice, Supreme Court, Place 4",4,,Under Votes,10,1,3,6
+Refugio,4B,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Refugio,4B,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,86,1,37,48
+Refugio,4B,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,32,2,13,17
+Refugio,4B,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,1,1
+Refugio,4B,"Justice, Supreme Court, Place 6",6,,Under Votes,9,1,2,6
+Refugio,4B,"Justice, Supreme Court, Place 6",6,,Over Votes,1,1,0,0
+Refugio,4B,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,87,1,37,49
+Refugio,4B,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,32,3,13,16
+Refugio,4B,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,11,1,3,7
+Refugio,4B,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Refugio,4B,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,86,1,37,48
+Refugio,4B,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,34,3,13,18
+Refugio,4B,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,10,1,3,6
+Refugio,4B,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Refugio,4B,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,90,1,39,50
+Refugio,4B,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,31,3,11,17
+Refugio,4B,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,9,1,3,5
+Refugio,4B,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Refugio,4B,State Representative,43,REP,J.M. Lozano,86,0,38,48
+Refugio,4B,State Representative,43,DEM,Mariana Casarez,37,4,13,20
+Refugio,4B,State Representative,43,,Under Votes,7,1,2,4
+Refugio,4B,State Representative,43,,Over Votes,0,0,0,0
+Refugio,4B,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,80,0,35,45
+Refugio,4B,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,38,4,15,19
+Refugio,4B,"Chief Justice, 13th Court of Appeals District",,,Under Votes,12,1,3,8
+Refugio,4B,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Refugio,4B,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,82,0,38,44
+Refugio,4B,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,38,4,13,21
+Refugio,4B,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,10,1,2,7
+Refugio,4B,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Refugio,4B,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,81,0,37,44
+Refugio,4B,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,38,4,14,20
+Refugio,4B,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,11,1,2,8
+Refugio,4B,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Refugio,4B,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,82,0,36,46
+Refugio,4B,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,34,3,15,16
+Refugio,4B,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,14,2,2,10
+Refugio,4B,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Refugio,4B,"District Judge, 24th Judicial District",24,REP,Lisa Harvey Moore,94,0,43,51
+Refugio,4B,"District Judge, 24th Judicial District",24,,Under Votes,36,5,10,21
+Refugio,4B,"District Judge, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,4B,"District Judge, 135th Judicial District",135,REP,Kemper Stephen Williams,95,0,43,52
+Refugio,4B,"District Judge, 135th Judicial District",135,,Under Votes,35,5,10,20
+Refugio,4B,"District Judge, 135th Judicial District",135,,Over Votes,0,0,0,0
+Refugio,4B,"District Attorney, 24th Judicial District",24,REP,Brian Michael Cromeens,94,0,44,50
+Refugio,4B,"District Attorney, 24th Judicial District",24,,Under Votes,36,5,9,22
+Refugio,4B,"District Attorney, 24th Judicial District",24,,Over Votes,0,0,0,0
+Refugio,4B,County Attorney,,REP,Simon McCloud III,94,0,43,51
+Refugio,4B,County Attorney,,,Under Votes,36,5,10,21
+Refugio,4B,County Attorney,,,Over Votes,0,0,0,0
+Refugio,4B,"County Clerk, Unexpired Term",,REP,Margie Castellano,93,0,45,48
+Refugio,4B,"County Clerk, Unexpired Term",,,Under Votes,32,4,8,20
+Refugio,4B,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Refugio,4B,Sheriff,,REP,Matthew Tuttle,92,1,38,53
+Refugio,4B,Sheriff,,,Under Votes,28,3,9,16
+Refugio,4B,Sheriff,,,Over Votes,0,0,0,0
+Refugio,4B,County Tax Assessor-Collector,,REP,Elizabeth Kelley,96,0,43,53
+Refugio,4B,County Tax Assessor-Collector,,,Under Votes,34,5,10,19
+Refugio,4B,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Refugio,4B,County Tax Assessor-Collector,,REP,Sheldon Wiginton,95,1,43,51
+Refugio,4B,County Tax Assessor-Collector,,,Under Votes,35,4,10,21
+Refugio,4B,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
