@@ -1,0 +1,2564 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Hale,101,Registered Voters,,,,472,,,
+Hale,101,Ballots Cast,,,,216,,,
+Hale,101,President,,REP,Donald J. Trump,183,6,134,43
+Hale,101,President,,DEM,Kamala D. Harris,30,1,21,8
+Hale,101,President,,LIB,Chase Oliver,1,0,0,1
+Hale,101,President,,GRN,Jill Stein,1,0,0,1
+Hale,101,President,,,Under Votes,1,0,0,1
+Hale,101,President,,,Over Votes,0,0,0,0
+Hale,101,U.S. Senate,,REP,Ted Cruz,175,6,131,38
+Hale,101,U.S. Senate,,DEM,Colin Allred,30,1,18,11
+Hale,101,U.S. Senate,,LIB,Ted Brown,8,0,4,4
+Hale,101,U.S. Senate,,,Under Votes,3,0,2,1
+Hale,101,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,101,U.S. House,19,REP,Jodey C. Arrington,185,7,134,44
+Hale,101,U.S. House,19,LIB,Bernard Johnson,13,0,8,5
+Hale,101,U.S. House,19,IND,Nathan Lewis,11,0,8,3
+Hale,101,U.S. House,19,,Under Votes,7,0,5,2
+Hale,101,U.S. House,19,,Over Votes,0,0,0,0
+Hale,101,Railroad Commissioner,,REP,Christi Craddick,171,6,125,40
+Hale,101,Railroad Commissioner,,DEM,Katherine Culbert,28,1,18,9
+Hale,101,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,3,0
+Hale,101,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,5,3
+Hale,101,Railroad Commissioner,,,Under Votes,6,0,4,2
+Hale,101,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,101,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,177,6,130,41
+Hale,101,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,34,1,22,11
+Hale,101,"Justice, Supreme Court, Place 2",2,,Under Votes,5,0,3,2
+Hale,101,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,101,"Justice, Supreme Court, Place 4",4,REP,John Devine,180,6,132,42
+Hale,101,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,31,1,20,10
+Hale,101,"Justice, Supreme Court, Place 4",4,,Under Votes,5,0,3,2
+Hale,101,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,101,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,173,6,128,39
+Hale,101,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,32,1,20,11
+Hale,101,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,5,0,3,2
+Hale,101,"Justice, Supreme Court, Place 6",6,,Under Votes,6,0,4,2
+Hale,101,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,101,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,176,6,132,38
+Hale,101,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,33,1,19,13
+Hale,101,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,7,0,4,3
+Hale,101,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,101,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,177,6,130,41
+Hale,101,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,33,1,21,11
+Hale,101,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,6,0,4,2
+Hale,101,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,101,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,179,6,133,40
+Hale,101,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,32,1,19,12
+Hale,101,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,5,0,3,2
+Hale,101,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,101,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,171,6,127,38
+Hale,101,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,31,1,20,10
+Hale,101,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,5,0,3,2
+Hale,101,"Member, State Board of Education, District 15",15,,Under Votes,9,0,5,4
+Hale,101,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,101,State Representative,88,REP,Ken King,190,7,137,46
+Hale,101,State Representative,88,,Under Votes,26,0,18,8
+Hale,101,State Representative,88,,Over Votes,0,0,0,0
+Hale,101,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,193,7,140,46
+Hale,101,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,23,0,15,8
+Hale,101,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,101,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,190,7,137,46
+Hale,101,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,26,0,18,8
+Hale,101,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,101,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,189,5,139,45
+Hale,101,"District Attorney, 64th Judicial District",64,,Under Votes,27,2,16,9
+Hale,101,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,101,County Attorney,,REP,Jim Tirey,193,5,141,47
+Hale,101,County Attorney,,,Under Votes,23,2,14,7
+Hale,101,County Attorney,,,Over Votes,0,0,0,0
+Hale,101,"District Clerk, Unexpired Term",,REP,Julie Kelly,189,5,139,45
+Hale,101,"District Clerk, Unexpired Term",,,Under Votes,27,2,16,9
+Hale,101,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,101,Sheriff,,REP,David Cochran,188,5,140,43
+Hale,101,Sheriff,,,Under Votes,28,2,15,11
+Hale,101,Sheriff,,,Over Votes,0,0,0,0
+Hale,101,County Tax Assessor-Collector,,REP,Israel Flores,190,5,140,45
+Hale,101,County Tax Assessor-Collector,,,Under Votes,26,2,15,9
+Hale,101,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,101,"County Commissioner, Precinct 1",,REP,Dan Schafer,187,7,136,44
+Hale,101,"County Commissioner, Precinct 1",,,Under Votes,29,0,19,10
+Hale,101,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Hale,101,"County Constable, Precinct 1",,REP,Tom Baker,193,7,142,44
+Hale,101,"County Constable, Precinct 1",,,Under Votes,23,0,13,10
+Hale,101,"County Constable, Precinct 1",,,Over Votes,0,0,0,0
+Hale,102,Registered Voters,,,,165,,,
+Hale,102,Ballots Cast,,,,65,,,
+Hale,102,President,,REP,Donald J. Trump,52,0,39,13
+Hale,102,President,,DEM,Kamala D. Harris,12,0,11,1
+Hale,102,President,,LIB,Chase Oliver,0,0,0,0
+Hale,102,President,,GRN,Jill Stein,1,0,1,0
+Hale,102,President,,,Under Votes,0,0,0,0
+Hale,102,President,,,Over Votes,0,0,0,0
+Hale,102,U.S. Senate,,REP,Ted Cruz,47,0,35,12
+Hale,102,U.S. Senate,,DEM,Colin Allred,14,0,13,1
+Hale,102,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+Hale,102,U.S. Senate,,,Under Votes,3,0,3,0
+Hale,102,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,102,U.S. House,19,REP,Jodey C. Arrington,52,0,40,12
+Hale,102,U.S. House,19,LIB,Bernard Johnson,5,0,3,2
+Hale,102,U.S. House,19,IND,Nathan Lewis,5,0,5,0
+Hale,102,U.S. House,19,,Under Votes,3,0,3,0
+Hale,102,U.S. House,19,,Over Votes,0,0,0,0
+Hale,102,Railroad Commissioner,,REP,Christi Craddick,48,0,37,11
+Hale,102,Railroad Commissioner,,DEM,Katherine Culbert,8,0,7,1
+Hale,102,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,1,0
+Hale,102,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,3,2
+Hale,102,Railroad Commissioner,,,Under Votes,3,0,3,0
+Hale,102,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,102,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,52,0,39,13
+Hale,102,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,10,0,9,1
+Hale,102,"Justice, Supreme Court, Place 2",2,,Under Votes,3,0,3,0
+Hale,102,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,102,"Justice, Supreme Court, Place 4",4,REP,John Devine,49,0,39,10
+Hale,102,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,12,0,9,3
+Hale,102,"Justice, Supreme Court, Place 4",4,,Under Votes,4,0,3,1
+Hale,102,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,102,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,46,0,36,10
+Hale,102,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,13,0,11,2
+Hale,102,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,1,1
+Hale,102,"Justice, Supreme Court, Place 6",6,,Under Votes,4,0,3,1
+Hale,102,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,102,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,47,0,36,11
+Hale,102,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,12,0,10,2
+Hale,102,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,6,0,5,1
+Hale,102,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,102,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,47,0,37,10
+Hale,102,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,13,0,10,3
+Hale,102,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,5,0,4,1
+Hale,102,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,102,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,49,0,37,12
+Hale,102,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,11,0,10,1
+Hale,102,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,5,0,4,1
+Hale,102,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,102,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,46,0,35,11
+Hale,102,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,13,0,11,2
+Hale,102,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,1,0,1,0
+Hale,102,"Member, State Board of Education, District 15",15,,Under Votes,5,0,4,1
+Hale,102,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,102,State Representative,88,REP,Ken King,50,0,37,13
+Hale,102,State Representative,88,,Under Votes,15,0,14,1
+Hale,102,State Representative,88,,Over Votes,0,0,0,0
+Hale,102,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,51,0,38,13
+Hale,102,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,14,0,13,1
+Hale,102,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,102,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,50,0,37,13
+Hale,102,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,15,0,14,1
+Hale,102,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,102,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,47,0,35,12
+Hale,102,"District Attorney, 64th Judicial District",64,,Under Votes,18,0,16,2
+Hale,102,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,102,County Attorney,,REP,Jim Tirey,51,0,37,14
+Hale,102,County Attorney,,,Under Votes,14,0,14,0
+Hale,102,County Attorney,,,Over Votes,0,0,0,0
+Hale,102,"District Clerk, Unexpired Term",,REP,Julie Kelly,49,0,36,13
+Hale,102,"District Clerk, Unexpired Term",,,Under Votes,16,0,15,1
+Hale,102,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,102,Sheriff,,REP,David Cochran,48,0,36,12
+Hale,102,Sheriff,,,Under Votes,17,0,15,2
+Hale,102,Sheriff,,,Over Votes,0,0,0,0
+Hale,102,County Tax Assessor-Collector,,REP,Israel Flores,51,0,38,13
+Hale,102,County Tax Assessor-Collector,,,Under Votes,14,0,13,1
+Hale,102,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,102,"County Commissioner, Precinct 1",,REP,Dan Schafer,49,0,36,13
+Hale,102,"County Commissioner, Precinct 1",,,Under Votes,16,0,15,1
+Hale,102,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Hale,102,"County Constable, Precinct 1",,REP,Tom Baker,49,0,36,13
+Hale,102,"County Constable, Precinct 1",,,Under Votes,16,0,15,1
+Hale,102,"County Constable, Precinct 1",,,Over Votes,0,0,0,0
+Hale,103,Registered Voters,,,,679,,,
+Hale,103,Ballots Cast,,,,241,,,
+Hale,103,President,,REP,Donald J. Trump,154,3,87,64
+Hale,103,President,,DEM,Kamala D. Harris,82,0,46,36
+Hale,103,President,,LIB,Chase Oliver,3,0,2,1
+Hale,103,President,,GRN,Jill Stein,1,0,0,1
+Hale,103,President,,,Under Votes,1,0,1,0
+Hale,103,President,,,Over Votes,0,0,0,0
+Hale,103,U.S. Senate,,REP,Ted Cruz,138,3,78,57
+Hale,103,U.S. Senate,,DEM,Colin Allred,93,0,51,42
+Hale,103,U.S. Senate,,LIB,Ted Brown,6,0,4,2
+Hale,103,U.S. Senate,,,Under Votes,4,0,3,1
+Hale,103,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,103,U.S. House,19,REP,Jodey C. Arrington,170,3,96,71
+Hale,103,U.S. House,19,LIB,Bernard Johnson,32,0,17,15
+Hale,103,U.S. House,19,IND,Nathan Lewis,26,0,17,9
+Hale,103,U.S. House,19,,Under Votes,13,0,6,7
+Hale,103,U.S. House,19,,Over Votes,0,0,0,0
+Hale,103,Railroad Commissioner,,REP,Christi Craddick,138,3,82,53
+Hale,103,Railroad Commissioner,,DEM,Katherine Culbert,74,0,37,37
+Hale,103,Railroad Commissioner,,LIB,Hawk Dunlap,4,0,0,4
+Hale,103,Railroad Commissioner,,GRN,Eddie Espinoza,18,0,14,4
+Hale,103,Railroad Commissioner,,,Under Votes,7,0,3,4
+Hale,103,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,103,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,145,3,86,56
+Hale,103,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,89,0,46,43
+Hale,103,"Justice, Supreme Court, Place 2",2,,Under Votes,7,0,4,3
+Hale,103,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,103,"Justice, Supreme Court, Place 4",4,REP,John Devine,146,3,84,59
+Hale,103,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,87,0,47,40
+Hale,103,"Justice, Supreme Court, Place 4",4,,Under Votes,8,0,5,3
+Hale,103,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,103,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,141,3,84,54
+Hale,103,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,84,0,42,42
+Hale,103,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,6,0,4,2
+Hale,103,"Justice, Supreme Court, Place 6",6,,Under Votes,10,0,6,4
+Hale,103,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,103,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,146,3,87,56
+Hale,103,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,87,0,45,42
+Hale,103,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,8,0,4,4
+Hale,103,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,103,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,142,3,86,53
+Hale,103,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,90,0,44,46
+Hale,103,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,9,0,6,3
+Hale,103,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,103,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,151,3,85,63
+Hale,103,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,80,0,44,36
+Hale,103,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,10,0,7,3
+Hale,103,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,103,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,137,3,84,50
+Hale,103,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,85,0,41,44
+Hale,103,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,11,0,6,5
+Hale,103,"Member, State Board of Education, District 15",15,,Under Votes,8,0,5,3
+Hale,103,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,103,State Representative,88,REP,Ken King,185,3,105,77
+Hale,103,State Representative,88,,Under Votes,56,0,31,25
+Hale,103,State Representative,88,,Over Votes,0,0,0,0
+Hale,103,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,179,3,101,75
+Hale,103,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,62,0,35,27
+Hale,103,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,103,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,177,3,102,72
+Hale,103,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,64,0,34,30
+Hale,103,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,103,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,185,3,106,76
+Hale,103,"District Attorney, 64th Judicial District",64,,Under Votes,56,0,30,26
+Hale,103,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,103,County Attorney,,REP,Jim Tirey,181,3,102,76
+Hale,103,County Attorney,,,Under Votes,60,0,34,26
+Hale,103,County Attorney,,,Over Votes,0,0,0,0
+Hale,103,"District Clerk, Unexpired Term",,REP,Julie Kelly,173,3,99,71
+Hale,103,"District Clerk, Unexpired Term",,,Under Votes,68,0,37,31
+Hale,103,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,103,Sheriff,,REP,David Cochran,179,3,102,74
+Hale,103,Sheriff,,,Under Votes,62,0,34,28
+Hale,103,Sheriff,,,Over Votes,0,0,0,0
+Hale,103,County Tax Assessor-Collector,,REP,Israel Flores,189,3,107,79
+Hale,103,County Tax Assessor-Collector,,,Under Votes,52,0,29,23
+Hale,103,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,103,"County Commissioner, Precinct 1",,REP,Dan Schafer,179,3,103,73
+Hale,103,"County Commissioner, Precinct 1",,,Under Votes,62,0,33,29
+Hale,103,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Hale,103,"County Constable, Precinct 1",,REP,Tom Baker,176,3,101,72
+Hale,103,"County Constable, Precinct 1",,,Under Votes,65,0,35,30
+Hale,103,"County Constable, Precinct 1",,,Over Votes,0,0,0,0
+Hale,104,Registered Voters,,,,659,,,
+Hale,104,Ballots Cast,,,,274,,,
+Hale,104,President,,REP,Donald J. Trump,179,6,129,44
+Hale,104,President,,DEM,Kamala D. Harris,94,5,62,27
+Hale,104,President,,LIB,Chase Oliver,0,0,0,0
+Hale,104,President,,GRN,Jill Stein,0,0,0,0
+Hale,104,President,,,Under Votes,1,0,1,0
+Hale,104,President,,,Over Votes,0,0,0,0
+Hale,104,U.S. Senate,,REP,Ted Cruz,162,6,121,35
+Hale,104,U.S. Senate,,DEM,Colin Allred,100,5,61,34
+Hale,104,U.S. Senate,,LIB,Ted Brown,8,0,6,2
+Hale,104,U.S. Senate,,,Under Votes,4,0,4,0
+Hale,104,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,104,U.S. House,19,REP,Jodey C. Arrington,181,7,130,44
+Hale,104,U.S. House,19,LIB,Bernard Johnson,29,1,18,10
+Hale,104,U.S. House,19,IND,Nathan Lewis,47,3,32,12
+Hale,104,U.S. House,19,,Under Votes,17,0,12,5
+Hale,104,U.S. House,19,,Over Votes,0,0,0,0
+Hale,104,Railroad Commissioner,,REP,Christi Craddick,166,7,121,38
+Hale,104,Railroad Commissioner,,DEM,Katherine Culbert,77,3,54,20
+Hale,104,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,6,2
+Hale,104,Railroad Commissioner,,GRN,Eddie Espinoza,13,0,4,9
+Hale,104,Railroad Commissioner,,,Under Votes,10,1,7,2
+Hale,104,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,104,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,174,7,123,44
+Hale,104,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,91,4,61,26
+Hale,104,"Justice, Supreme Court, Place 2",2,,Under Votes,9,0,8,1
+Hale,104,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,104,"Justice, Supreme Court, Place 4",4,REP,John Devine,170,6,123,41
+Hale,104,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,95,4,62,29
+Hale,104,"Justice, Supreme Court, Place 4",4,,Under Votes,9,1,7,1
+Hale,104,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,104,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,170,7,124,39
+Hale,104,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,86,4,55,27
+Hale,104,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,9,0,5,4
+Hale,104,"Justice, Supreme Court, Place 6",6,,Under Votes,9,0,8,1
+Hale,104,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,104,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,170,6,122,42
+Hale,104,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,95,5,62,28
+Hale,104,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,0,8,1
+Hale,104,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,104,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,175,7,126,42
+Hale,104,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,89,4,58,27
+Hale,104,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,10,0,8,2
+Hale,104,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,104,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,176,7,126,43
+Hale,104,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,90,4,59,27
+Hale,104,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,8,0,7,1
+Hale,104,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,104,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,165,6,120,39
+Hale,104,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,90,5,56,29
+Hale,104,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,9,0,7,2
+Hale,104,"Member, State Board of Education, District 15",15,,Under Votes,10,0,9,1
+Hale,104,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,104,State Representative,88,REP,Ken King,208,10,142,56
+Hale,104,State Representative,88,,Under Votes,66,1,50,15
+Hale,104,State Representative,88,,Over Votes,0,0,0,0
+Hale,104,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,211,10,145,56
+Hale,104,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,63,1,47,15
+Hale,104,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,104,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,209,10,145,54
+Hale,104,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,65,1,47,17
+Hale,104,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,104,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,211,10,146,55
+Hale,104,"District Attorney, 64th Judicial District",64,,Under Votes,63,1,46,16
+Hale,104,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,104,County Attorney,,REP,Jim Tirey,211,9,148,54
+Hale,104,County Attorney,,,Under Votes,63,2,44,17
+Hale,104,County Attorney,,,Over Votes,0,0,0,0
+Hale,104,"District Clerk, Unexpired Term",,REP,Julie Kelly,211,10,149,52
+Hale,104,"District Clerk, Unexpired Term",,,Under Votes,63,1,43,19
+Hale,104,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,104,Sheriff,,REP,David Cochran,213,10,147,56
+Hale,104,Sheriff,,,Under Votes,61,1,45,15
+Hale,104,Sheriff,,,Over Votes,0,0,0,0
+Hale,104,County Tax Assessor-Collector,,REP,Israel Flores,221,11,151,59
+Hale,104,County Tax Assessor-Collector,,,Under Votes,53,0,41,12
+Hale,104,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,104,"County Commissioner, Precinct 1",,REP,Dan Schafer,211,10,148,53
+Hale,104,"County Commissioner, Precinct 1",,,Under Votes,63,1,44,18
+Hale,104,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Hale,104,"County Constable, Precinct 1",,REP,Tom Baker,208,10,145,53
+Hale,104,"County Constable, Precinct 1",,,Under Votes,66,1,47,18
+Hale,104,"County Constable, Precinct 1",,,Over Votes,0,0,0,0
+Hale,105,Registered Voters,,,,313,,,
+Hale,105,Ballots Cast,,,,137,,,
+Hale,105,President,,REP,Donald J. Trump,101,2,63,36
+Hale,105,President,,DEM,Kamala D. Harris,34,0,18,16
+Hale,105,President,,LIB,Chase Oliver,0,0,0,0
+Hale,105,President,,GRN,Jill Stein,1,0,1,0
+Hale,105,President,,,Under Votes,0,0,0,0
+Hale,105,President,,,Over Votes,0,0,0,0
+Hale,105,U.S. Senate,,REP,Ted Cruz,95,2,60,33
+Hale,105,U.S. Senate,,DEM,Colin Allred,35,0,19,16
+Hale,105,U.S. Senate,,LIB,Ted Brown,5,0,4,1
+Hale,105,U.S. Senate,,,Under Votes,2,0,0,2
+Hale,105,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,105,U.S. House,19,REP,Jodey C. Arrington,103,2,63,38
+Hale,105,U.S. House,19,LIB,Bernard Johnson,15,0,9,6
+Hale,105,U.S. House,19,IND,Nathan Lewis,10,0,7,3
+Hale,105,U.S. House,19,,Under Votes,9,0,4,5
+Hale,105,U.S. House,19,,Over Votes,0,0,0,0
+Hale,105,Railroad Commissioner,,REP,Christi Craddick,95,2,61,32
+Hale,105,Railroad Commissioner,,DEM,Katherine Culbert,32,0,16,16
+Hale,105,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,3,0
+Hale,105,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Hale,105,Railroad Commissioner,,,Under Votes,6,0,2,4
+Hale,105,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,105,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,99,2,63,34
+Hale,105,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,32,0,18,14
+Hale,105,"Justice, Supreme Court, Place 2",2,,Under Votes,6,0,2,4
+Hale,105,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,105,"Justice, Supreme Court, Place 4",4,REP,John Devine,98,2,63,33
+Hale,105,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,32,0,17,15
+Hale,105,"Justice, Supreme Court, Place 4",4,,Under Votes,7,0,3,4
+Hale,105,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,105,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,98,2,63,33
+Hale,105,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,31,0,16,15
+Hale,105,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,3,0,3,0
+Hale,105,"Justice, Supreme Court, Place 6",6,,Under Votes,5,0,1,4
+Hale,105,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,105,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,99,2,64,33
+Hale,105,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,32,0,17,15
+Hale,105,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,6,0,2,4
+Hale,105,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,105,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,101,2,66,33
+Hale,105,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,30,0,15,15
+Hale,105,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,6,0,2,4
+Hale,105,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,105,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,99,2,65,32
+Hale,105,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,32,0,16,16
+Hale,105,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,6,0,2,4
+Hale,105,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,105,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,95,2,60,33
+Hale,105,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,30,0,15,15
+Hale,105,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,4,0,4,0
+Hale,105,"Member, State Board of Education, District 15",15,,Under Votes,8,0,4,4
+Hale,105,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,105,State Representative,88,REP,Ken King,116,2,70,44
+Hale,105,State Representative,88,,Under Votes,21,0,13,8
+Hale,105,State Representative,88,,Over Votes,0,0,0,0
+Hale,105,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,113,2,68,43
+Hale,105,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,24,0,15,9
+Hale,105,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,105,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,109,2,67,40
+Hale,105,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,28,0,16,12
+Hale,105,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,105,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,111,2,68,41
+Hale,105,"District Attorney, 64th Judicial District",64,,Under Votes,26,0,15,11
+Hale,105,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,105,County Attorney,,REP,Jim Tirey,108,2,66,40
+Hale,105,County Attorney,,,Under Votes,29,0,17,12
+Hale,105,County Attorney,,,Over Votes,0,0,0,0
+Hale,105,"District Clerk, Unexpired Term",,REP,Julie Kelly,108,2,68,38
+Hale,105,"District Clerk, Unexpired Term",,,Under Votes,29,0,15,14
+Hale,105,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,105,Sheriff,,REP,David Cochran,110,2,69,39
+Hale,105,Sheriff,,,Under Votes,27,0,14,13
+Hale,105,Sheriff,,,Over Votes,0,0,0,0
+Hale,105,County Tax Assessor-Collector,,REP,Israel Flores,112,2,70,40
+Hale,105,County Tax Assessor-Collector,,,Under Votes,25,0,13,12
+Hale,105,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,105,"County Commissioner, Precinct 1",,REP,Dan Schafer,109,2,67,40
+Hale,105,"County Commissioner, Precinct 1",,,Under Votes,28,0,16,12
+Hale,105,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Hale,105,"County Constable, Precinct 1",,REP,Tom Baker,108,2,68,38
+Hale,105,"County Constable, Precinct 1",,,Under Votes,29,0,15,14
+Hale,105,"County Constable, Precinct 1",,,Over Votes,0,0,0,0
+Hale,108,Registered Voters,,,,94,,,
+Hale,108,Ballots Cast,,,,39,,,
+Hale,108,President,,REP,Donald J. Trump,30,1,20,9
+Hale,108,President,,DEM,Kamala D. Harris,9,0,6,3
+Hale,108,President,,LIB,Chase Oliver,0,0,0,0
+Hale,108,President,,GRN,Jill Stein,0,0,0,0
+Hale,108,President,,,Under Votes,0,0,0,0
+Hale,108,President,,,Over Votes,0,0,0,0
+Hale,108,U.S. Senate,,REP,Ted Cruz,28,1,19,8
+Hale,108,U.S. Senate,,DEM,Colin Allred,10,0,6,4
+Hale,108,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Hale,108,U.S. Senate,,,Under Votes,1,0,1,0
+Hale,108,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,108,U.S. House,19,REP,Jodey C. Arrington,30,1,21,8
+Hale,108,U.S. House,19,LIB,Bernard Johnson,3,0,1,2
+Hale,108,U.S. House,19,IND,Nathan Lewis,5,0,3,2
+Hale,108,U.S. House,19,,Under Votes,1,0,1,0
+Hale,108,U.S. House,19,,Over Votes,0,0,0,0
+Hale,108,Railroad Commissioner,,REP,Christi Craddick,29,1,19,9
+Hale,108,Railroad Commissioner,,DEM,Katherine Culbert,8,0,5,3
+Hale,108,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Hale,108,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Hale,108,Railroad Commissioner,,,Under Votes,2,0,2,0
+Hale,108,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,108,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,28,1,18,9
+Hale,108,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,8,0,5,3
+Hale,108,"Justice, Supreme Court, Place 2",2,,Under Votes,3,0,3,0
+Hale,108,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,108,"Justice, Supreme Court, Place 4",4,REP,John Devine,28,1,18,9
+Hale,108,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,8,0,5,3
+Hale,108,"Justice, Supreme Court, Place 4",4,,Under Votes,3,0,3,0
+Hale,108,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,108,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,29,1,19,9
+Hale,108,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,8,0,5,3
+Hale,108,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Hale,108,"Justice, Supreme Court, Place 6",6,,Under Votes,2,0,2,0
+Hale,108,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,108,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,28,1,18,9
+Hale,108,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,8,0,5,3
+Hale,108,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,3,0,3,0
+Hale,108,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,108,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,28,1,18,9
+Hale,108,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,8,0,5,3
+Hale,108,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,3,0,3,0
+Hale,108,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,108,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,28,1,18,9
+Hale,108,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,8,0,5,3
+Hale,108,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,3,0,3,0
+Hale,108,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,108,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,28,1,18,9
+Hale,108,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,8,0,5,3
+Hale,108,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,0,0,0,0
+Hale,108,"Member, State Board of Education, District 15",15,,Under Votes,3,0,3,0
+Hale,108,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,108,State Representative,88,REP,Ken King,32,1,20,11
+Hale,108,State Representative,88,,Under Votes,7,0,6,1
+Hale,108,State Representative,88,,Over Votes,0,0,0,0
+Hale,108,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,32,1,20,11
+Hale,108,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,7,0,6,1
+Hale,108,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,108,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,30,1,19,10
+Hale,108,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,9,0,7,2
+Hale,108,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,108,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,34,1,22,11
+Hale,108,"District Attorney, 64th Judicial District",64,,Under Votes,5,0,4,1
+Hale,108,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,108,County Attorney,,REP,Jim Tirey,30,1,19,10
+Hale,108,County Attorney,,,Under Votes,9,0,7,2
+Hale,108,County Attorney,,,Over Votes,0,0,0,0
+Hale,108,"District Clerk, Unexpired Term",,REP,Julie Kelly,32,1,20,11
+Hale,108,"District Clerk, Unexpired Term",,,Under Votes,7,0,6,1
+Hale,108,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,108,Sheriff,,REP,David Cochran,33,1,21,11
+Hale,108,Sheriff,,,Under Votes,6,0,5,1
+Hale,108,Sheriff,,,Over Votes,0,0,0,0
+Hale,108,County Tax Assessor-Collector,,REP,Israel Flores,32,1,20,11
+Hale,108,County Tax Assessor-Collector,,,Under Votes,7,0,6,1
+Hale,108,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,108,"County Commissioner, Precinct 1",,REP,Dan Schafer,31,1,20,10
+Hale,108,"County Commissioner, Precinct 1",,,Under Votes,8,0,6,2
+Hale,108,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Hale,108,"County Constable, Precinct 1",,REP,Tom Baker,29,1,18,10
+Hale,108,"County Constable, Precinct 1",,,Under Votes,10,0,8,2
+Hale,108,"County Constable, Precinct 1",,,Over Votes,0,0,0,0
+Hale,110,Registered Voters,,,,379,,,
+Hale,110,Ballots Cast,,,,265,,,
+Hale,110,President,,REP,Donald J. Trump,242,9,188,45
+Hale,110,President,,DEM,Kamala D. Harris,21,2,15,4
+Hale,110,President,,LIB,Chase Oliver,1,0,1,0
+Hale,110,President,,GRN,Jill Stein,0,0,0,0
+Hale,110,President,,,Under Votes,1,0,1,0
+Hale,110,President,,,Over Votes,0,0,0,0
+Hale,110,U.S. Senate,,REP,Ted Cruz,236,9,184,43
+Hale,110,U.S. Senate,,DEM,Colin Allred,20,2,13,5
+Hale,110,U.S. Senate,,LIB,Ted Brown,6,0,5,1
+Hale,110,U.S. Senate,,,Under Votes,3,0,3,0
+Hale,110,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,110,U.S. House,19,REP,Jodey C. Arrington,242,10,189,43
+Hale,110,U.S. House,19,LIB,Bernard Johnson,8,0,7,1
+Hale,110,U.S. House,19,IND,Nathan Lewis,10,1,5,4
+Hale,110,U.S. House,19,,Under Votes,5,0,4,1
+Hale,110,U.S. House,19,,Over Votes,0,0,0,0
+Hale,110,Railroad Commissioner,,REP,Christi Craddick,233,9,185,39
+Hale,110,Railroad Commissioner,,DEM,Katherine Culbert,21,2,14,5
+Hale,110,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,4,1
+Hale,110,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,0,3
+Hale,110,Railroad Commissioner,,,Under Votes,3,0,2,1
+Hale,110,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,110,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,240,9,187,44
+Hale,110,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,23,2,17,4
+Hale,110,"Justice, Supreme Court, Place 2",2,,Under Votes,2,0,1,1
+Hale,110,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,110,"Justice, Supreme Court, Place 4",4,REP,John Devine,241,9,187,45
+Hale,110,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,22,2,17,3
+Hale,110,"Justice, Supreme Court, Place 4",4,,Under Votes,2,0,1,1
+Hale,110,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,110,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,239,9,186,44
+Hale,110,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,20,2,14,4
+Hale,110,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,4,0,4,0
+Hale,110,"Justice, Supreme Court, Place 6",6,,Under Votes,2,0,1,1
+Hale,110,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,110,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,240,9,186,45
+Hale,110,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,22,2,17,3
+Hale,110,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,3,0,2,1
+Hale,110,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,110,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,241,9,188,44
+Hale,110,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,21,2,15,4
+Hale,110,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,3,0,2,1
+Hale,110,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,110,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,242,9,188,45
+Hale,110,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,20,2,15,3
+Hale,110,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,3,0,2,1
+Hale,110,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,110,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,235,9,183,43
+Hale,110,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,20,2,14,4
+Hale,110,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,5,0,4,1
+Hale,110,"Member, State Board of Education, District 15",15,,Under Votes,5,0,4,1
+Hale,110,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,110,State Representative,88,REP,Ken King,242,9,187,46
+Hale,110,State Representative,88,,Under Votes,23,2,18,3
+Hale,110,State Representative,88,,Over Votes,0,0,0,0
+Hale,110,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,249,11,192,46
+Hale,110,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,16,0,13,3
+Hale,110,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,110,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,248,11,191,46
+Hale,110,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,17,0,14,3
+Hale,110,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,110,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,251,11,193,47
+Hale,110,"District Attorney, 64th Judicial District",64,,Under Votes,14,0,12,2
+Hale,110,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,110,County Attorney,,REP,Jim Tirey,250,11,193,46
+Hale,110,County Attorney,,,Under Votes,15,0,12,3
+Hale,110,County Attorney,,,Over Votes,0,0,0,0
+Hale,110,"District Clerk, Unexpired Term",,REP,Julie Kelly,253,11,195,47
+Hale,110,"District Clerk, Unexpired Term",,,Under Votes,12,0,10,2
+Hale,110,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,110,Sheriff,,REP,David Cochran,249,11,192,46
+Hale,110,Sheriff,,,Under Votes,16,0,13,3
+Hale,110,Sheriff,,,Over Votes,0,0,0,0
+Hale,110,County Tax Assessor-Collector,,REP,Israel Flores,249,11,190,48
+Hale,110,County Tax Assessor-Collector,,,Under Votes,16,0,15,1
+Hale,110,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,110,"County Commissioner, Precinct 1",,REP,Dan Schafer,249,11,192,46
+Hale,110,"County Commissioner, Precinct 1",,,Under Votes,16,0,13,3
+Hale,110,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Hale,110,"County Constable, Precinct 1",,REP,Tom Baker,247,11,190,46
+Hale,110,"County Constable, Precinct 1",,,Under Votes,18,0,15,3
+Hale,110,"County Constable, Precinct 1",,,Over Votes,0,0,0,0
+Hale,111,Registered Voters,,,,994,,,
+Hale,111,Ballots Cast,,,,393,,,
+Hale,111,President,,REP,Donald J. Trump,299,5,218,76
+Hale,111,President,,DEM,Kamala D. Harris,89,0,46,43
+Hale,111,President,,LIB,Chase Oliver,2,0,2,0
+Hale,111,President,,GRN,Jill Stein,1,0,0,1
+Hale,111,President,,,Under Votes,2,0,2,0
+Hale,111,President,,,Over Votes,0,0,0,0
+Hale,111,U.S. Senate,,REP,Ted Cruz,296,4,214,78
+Hale,111,U.S. Senate,,DEM,Colin Allred,82,0,45,37
+Hale,111,U.S. Senate,,LIB,Ted Brown,12,0,8,4
+Hale,111,U.S. Senate,,,Under Votes,3,1,1,1
+Hale,111,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,111,U.S. House,19,REP,Jodey C. Arrington,309,4,224,81
+Hale,111,U.S. House,19,LIB,Bernard Johnson,34,0,19,15
+Hale,111,U.S. House,19,IND,Nathan Lewis,33,0,15,18
+Hale,111,U.S. House,19,,Under Votes,17,1,10,6
+Hale,111,U.S. House,19,,Over Votes,0,0,0,0
+Hale,111,Railroad Commissioner,,REP,Christi Craddick,276,4,205,67
+Hale,111,Railroad Commissioner,,DEM,Katherine Culbert,74,0,39,35
+Hale,111,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,7,1
+Hale,111,Railroad Commissioner,,GRN,Eddie Espinoza,20,0,11,9
+Hale,111,Railroad Commissioner,,,Under Votes,15,1,6,8
+Hale,111,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,111,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,300,4,221,75
+Hale,111,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,83,0,43,40
+Hale,111,"Justice, Supreme Court, Place 2",2,,Under Votes,10,1,4,5
+Hale,111,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,111,"Justice, Supreme Court, Place 4",4,REP,John Devine,293,4,217,72
+Hale,111,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,88,0,46,42
+Hale,111,"Justice, Supreme Court, Place 4",4,,Under Votes,12,1,5,6
+Hale,111,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,111,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,291,4,213,74
+Hale,111,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,79,0,45,34
+Hale,111,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,9,0,5,4
+Hale,111,"Justice, Supreme Court, Place 6",6,,Under Votes,14,1,5,8
+Hale,111,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,111,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,298,4,220,74
+Hale,111,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,86,0,45,41
+Hale,111,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,1,3,5
+Hale,111,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,111,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,297,4,218,75
+Hale,111,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,85,0,46,39
+Hale,111,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,11,1,4,6
+Hale,111,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,111,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,298,4,216,78
+Hale,111,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,81,0,45,36
+Hale,111,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,14,1,7,6
+Hale,111,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,111,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,281,4,208,69
+Hale,111,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,82,0,43,39
+Hale,111,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,16,0,10,6
+Hale,111,"Member, State Board of Education, District 15",15,,Under Votes,14,1,7,6
+Hale,111,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,111,State Representative,88,REP,Ken King,330,2,234,94
+Hale,111,State Representative,88,,Under Votes,63,3,34,26
+Hale,111,State Representative,88,,Over Votes,0,0,0,0
+Hale,111,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,332,4,235,93
+Hale,111,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,61,1,33,27
+Hale,111,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,111,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,330,4,233,93
+Hale,111,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,63,1,35,27
+Hale,111,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,111,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,322,3,228,91
+Hale,111,"District Attorney, 64th Judicial District",64,,Under Votes,71,2,40,29
+Hale,111,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,111,County Attorney,,REP,Jim Tirey,334,5,234,95
+Hale,111,County Attorney,,,Under Votes,59,0,34,25
+Hale,111,County Attorney,,,Over Votes,0,0,0,0
+Hale,111,"District Clerk, Unexpired Term",,REP,Julie Kelly,334,5,234,95
+Hale,111,"District Clerk, Unexpired Term",,,Under Votes,59,0,34,25
+Hale,111,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,111,Sheriff,,REP,David Cochran,332,5,232,95
+Hale,111,Sheriff,,,Under Votes,61,0,36,25
+Hale,111,Sheriff,,,Over Votes,0,0,0,0
+Hale,111,County Tax Assessor-Collector,,REP,Israel Flores,332,5,234,93
+Hale,111,County Tax Assessor-Collector,,,Under Votes,61,0,34,27
+Hale,111,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,111,"County Commissioner, Precinct 1",,REP,Dan Schafer,338,5,235,98
+Hale,111,"County Commissioner, Precinct 1",,,Under Votes,55,0,33,22
+Hale,111,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Hale,111,"County Constable, Precinct 1",,REP,Tom Baker,334,5,234,95
+Hale,111,"County Constable, Precinct 1",,,Under Votes,59,0,34,25
+Hale,111,"County Constable, Precinct 1",,,Over Votes,0,0,0,0
+Hale,112,Registered Voters,,,,692,,,
+Hale,112,Ballots Cast,,,,432,,,
+Hale,112,President,,REP,Donald J. Trump,398,17,306,75
+Hale,112,President,,DEM,Kamala D. Harris,29,6,20,3
+Hale,112,President,,LIB,Chase Oliver,1,0,1,0
+Hale,112,President,,GRN,Jill Stein,2,0,1,1
+Hale,112,President,,,Under Votes,1,1,0,0
+Hale,112,President,,,Over Votes,0,0,0,0
+Hale,112,U.S. Senate,,REP,Ted Cruz,381,18,298,65
+Hale,112,U.S. Senate,,DEM,Colin Allred,34,6,20,8
+Hale,112,U.S. Senate,,LIB,Ted Brown,14,0,9,5
+Hale,112,U.S. Senate,,,Under Votes,3,0,1,2
+Hale,112,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,112,U.S. House,19,REP,Jodey C. Arrington,393,19,305,69
+Hale,112,U.S. House,19,LIB,Bernard Johnson,15,1,10,4
+Hale,112,U.S. House,19,IND,Nathan Lewis,17,2,11,4
+Hale,112,U.S. House,19,,Under Votes,7,2,2,3
+Hale,112,U.S. House,19,,Over Votes,0,0,0,0
+Hale,112,Railroad Commissioner,,REP,Christi Craddick,370,18,290,62
+Hale,112,Railroad Commissioner,,DEM,Katherine Culbert,27,3,17,7
+Hale,112,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,10,7
+Hale,112,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0
+Hale,112,Railroad Commissioner,,,Under Votes,16,3,9,4
+Hale,112,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,112,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,388,18,300,70
+Hale,112,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,31,3,21,7
+Hale,112,"Justice, Supreme Court, Place 2",2,,Under Votes,13,3,7,3
+Hale,112,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,112,"Justice, Supreme Court, Place 4",4,REP,John Devine,384,18,299,67
+Hale,112,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,33,3,21,9
+Hale,112,"Justice, Supreme Court, Place 4",4,,Under Votes,15,3,8,4
+Hale,112,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,112,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,378,18,294,66
+Hale,112,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,28,3,18,7
+Hale,112,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,10,0,6,4
+Hale,112,"Justice, Supreme Court, Place 6",6,,Under Votes,16,3,10,3
+Hale,112,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,112,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,388,18,299,71
+Hale,112,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,32,3,22,7
+Hale,112,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,12,3,7,2
+Hale,112,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,112,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,381,17,295,69
+Hale,112,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,35,4,23,8
+Hale,112,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,16,3,10,3
+Hale,112,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,112,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,385,18,296,71
+Hale,112,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,29,3,19,7
+Hale,112,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,18,3,13,2
+Hale,112,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,112,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,375,19,292,64
+Hale,112,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,26,3,16,7
+Hale,112,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,11,0,7,4
+Hale,112,"Member, State Board of Education, District 15",15,,Under Votes,20,2,13,5
+Hale,112,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,112,State Representative,88,REP,Ken King,406,19,312,75
+Hale,112,State Representative,88,,Under Votes,26,5,16,5
+Hale,112,State Representative,88,,Over Votes,0,0,0,0
+Hale,112,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,403,17,311,75
+Hale,112,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,29,7,17,5
+Hale,112,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,112,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,400,17,310,73
+Hale,112,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,32,7,18,7
+Hale,112,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,112,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,394,20,302,72
+Hale,112,"District Attorney, 64th Judicial District",64,,Under Votes,38,4,26,8
+Hale,112,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,112,County Attorney,,REP,Jim Tirey,401,20,307,74
+Hale,112,County Attorney,,,Under Votes,31,4,21,6
+Hale,112,County Attorney,,,Over Votes,0,0,0,0
+Hale,112,"District Clerk, Unexpired Term",,REP,Julie Kelly,397,20,304,73
+Hale,112,"District Clerk, Unexpired Term",,,Under Votes,35,4,24,7
+Hale,112,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,112,Sheriff,,REP,David Cochran,403,20,309,74
+Hale,112,Sheriff,,,Under Votes,29,4,19,6
+Hale,112,Sheriff,,,Over Votes,0,0,0,0
+Hale,112,County Tax Assessor-Collector,,REP,Israel Flores,394,20,302,72
+Hale,112,County Tax Assessor-Collector,,,Under Votes,38,4,26,8
+Hale,112,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,112,"County Commissioner, Precinct 1",,REP,Dan Schafer,394,20,302,72
+Hale,112,"County Commissioner, Precinct 1",,,Under Votes,38,4,26,8
+Hale,112,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Hale,112,"County Constable, Precinct 1",,REP,Tom Baker,401,20,309,72
+Hale,112,"County Constable, Precinct 1",,,Under Votes,31,4,19,8
+Hale,112,"County Constable, Precinct 1",,,Over Votes,0,0,0,0
+Hale,202,Registered Voters,,,,413,,,
+Hale,202,Ballots Cast,,,,121,,,
+Hale,202,President,,REP,Donald J. Trump,66,0,38,28
+Hale,202,President,,DEM,Kamala D. Harris,48,1,34,13
+Hale,202,President,,LIB,Chase Oliver,4,0,3,1
+Hale,202,President,,GRN,Jill Stein,3,0,3,0
+Hale,202,President,,,Under Votes,0,0,0,0
+Hale,202,President,,,Over Votes,0,0,0,0
+Hale,202,U.S. Senate,,REP,Ted Cruz,60,0,38,22
+Hale,202,U.S. Senate,,DEM,Colin Allred,54,1,35,18
+Hale,202,U.S. Senate,,LIB,Ted Brown,5,0,4,1
+Hale,202,U.S. Senate,,,Under Votes,2,0,1,1
+Hale,202,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,202,U.S. House,19,REP,Jodey C. Arrington,74,0,48,26
+Hale,202,U.S. House,19,LIB,Bernard Johnson,19,0,13,6
+Hale,202,U.S. House,19,IND,Nathan Lewis,20,0,13,7
+Hale,202,U.S. House,19,,Under Votes,8,1,4,3
+Hale,202,U.S. House,19,,Over Votes,0,0,0,0
+Hale,202,Railroad Commissioner,,REP,Christi Craddick,57,0,36,21
+Hale,202,Railroad Commissioner,,DEM,Katherine Culbert,46,1,32,13
+Hale,202,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,2,1
+Hale,202,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,2,6
+Hale,202,Railroad Commissioner,,,Under Votes,7,0,6,1
+Hale,202,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,202,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,62,0,37,25
+Hale,202,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,50,1,34,15
+Hale,202,"Justice, Supreme Court, Place 2",2,,Under Votes,9,0,7,2
+Hale,202,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,202,"Justice, Supreme Court, Place 4",4,REP,John Devine,64,0,40,24
+Hale,202,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,49,1,31,17
+Hale,202,"Justice, Supreme Court, Place 4",4,,Under Votes,8,0,7,1
+Hale,202,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,202,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,60,0,36,24
+Hale,202,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,45,1,31,13
+Hale,202,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,8,0,4,4
+Hale,202,"Justice, Supreme Court, Place 6",6,,Under Votes,8,0,7,1
+Hale,202,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,202,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,67,0,40,27
+Hale,202,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,48,1,33,14
+Hale,202,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,6,0,5,1
+Hale,202,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,202,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,64,0,40,24
+Hale,202,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,51,1,33,17
+Hale,202,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,6,0,5,1
+Hale,202,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,202,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,67,0,41,26
+Hale,202,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,47,1,32,14
+Hale,202,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,7,0,5,2
+Hale,202,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,202,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,62,0,36,26
+Hale,202,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,44,1,31,12
+Hale,202,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,7,0,4,3
+Hale,202,"Member, State Board of Education, District 15",15,,Under Votes,8,0,7,1
+Hale,202,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,202,State Representative,88,REP,Ken King,88,0,52,36
+Hale,202,State Representative,88,,Under Votes,33,1,26,6
+Hale,202,State Representative,88,,Over Votes,0,0,0,0
+Hale,202,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,85,0,50,35
+Hale,202,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,36,1,28,7
+Hale,202,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,202,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,84,0,50,34
+Hale,202,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,37,1,28,8
+Hale,202,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,202,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,84,0,47,37
+Hale,202,"District Attorney, 64th Judicial District",64,,Under Votes,37,1,31,5
+Hale,202,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,202,County Attorney,,REP,Jim Tirey,87,0,50,37
+Hale,202,County Attorney,,,Under Votes,34,1,28,5
+Hale,202,County Attorney,,,Over Votes,0,0,0,0
+Hale,202,"District Clerk, Unexpired Term",,REP,Julie Kelly,83,0,50,33
+Hale,202,"District Clerk, Unexpired Term",,,Under Votes,38,1,28,9
+Hale,202,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,202,Sheriff,,REP,David Cochran,85,0,49,36
+Hale,202,Sheriff,,,Under Votes,36,1,29,6
+Hale,202,Sheriff,,,Over Votes,0,0,0,0
+Hale,202,County Tax Assessor-Collector,,REP,Israel Flores,85,0,50,35
+Hale,202,County Tax Assessor-Collector,,,Under Votes,36,1,28,7
+Hale,202,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,202,"County Constable, Precinct 3",,REP,Terry Timms,87,0,53,34
+Hale,202,"County Constable, Precinct 3",,,Under Votes,34,1,25,8
+Hale,202,"County Constable, Precinct 3",,,Over Votes,0,0,0,0
+Hale,203,Registered Voters,,,,771,,,
+Hale,203,Ballots Cast,,,,213,,,
+Hale,203,President,,REP,Donald J. Trump,122,4,78,40
+Hale,203,President,,DEM,Kamala D. Harris,87,6,49,32
+Hale,203,President,,LIB,Chase Oliver,3,0,2,1
+Hale,203,President,,GRN,Jill Stein,0,0,0,0
+Hale,203,President,,,Under Votes,1,1,0,0
+Hale,203,President,,,Over Votes,0,0,0,0
+Hale,203,U.S. Senate,,REP,Ted Cruz,111,4,77,30
+Hale,203,U.S. Senate,,DEM,Colin Allred,86,6,44,36
+Hale,203,U.S. Senate,,LIB,Ted Brown,7,0,4,3
+Hale,203,U.S. Senate,,,Under Votes,9,1,4,4
+Hale,203,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,203,U.S. House,19,REP,Jodey C. Arrington,124,5,79,40
+Hale,203,U.S. House,19,LIB,Bernard Johnson,30,2,19,9
+Hale,203,U.S. House,19,IND,Nathan Lewis,27,1,17,9
+Hale,203,U.S. House,19,,Under Votes,32,3,14,15
+Hale,203,U.S. House,19,,Over Votes,0,0,0,0
+Hale,203,Railroad Commissioner,,REP,Christi Craddick,109,4,73,32
+Hale,203,Railroad Commissioner,,DEM,Katherine Culbert,73,6,39,28
+Hale,203,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,1,0
+Hale,203,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,6,5
+Hale,203,Railroad Commissioner,,,Under Votes,19,1,10,8
+Hale,203,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,203,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,107,4,71,32
+Hale,203,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,87,6,48,33
+Hale,203,"Justice, Supreme Court, Place 2",2,,Under Votes,19,1,10,8
+Hale,203,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,203,"Justice, Supreme Court, Place 4",4,REP,John Devine,111,4,75,32
+Hale,203,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,82,6,43,33
+Hale,203,"Justice, Supreme Court, Place 4",4,,Under Votes,20,1,11,8
+Hale,203,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,203,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,107,4,70,33
+Hale,203,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,85,6,46,33
+Hale,203,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,5,0,3,2
+Hale,203,"Justice, Supreme Court, Place 6",6,,Under Votes,16,1,10,5
+Hale,203,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,203,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,114,4,78,32
+Hale,203,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,85,6,43,36
+Hale,203,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,14,1,8,5
+Hale,203,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,203,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,106,4,72,30
+Hale,203,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,89,6,46,37
+Hale,203,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,18,1,11,6
+Hale,203,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,203,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,112,4,74,34
+Hale,203,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,83,6,45,32
+Hale,203,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,18,1,10,7
+Hale,203,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,203,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,103,4,69,30
+Hale,203,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,84,6,46,32
+Hale,203,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,8,0,3,5
+Hale,203,"Member, State Board of Education, District 15",15,,Under Votes,18,1,11,6
+Hale,203,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,203,State Representative,88,REP,Ken King,139,5,90,44
+Hale,203,State Representative,88,,Under Votes,74,6,39,29
+Hale,203,State Representative,88,,Over Votes,0,0,0,0
+Hale,203,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,138,5,86,47
+Hale,203,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,75,6,43,26
+Hale,203,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,203,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,136,5,86,45
+Hale,203,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,77,6,43,28
+Hale,203,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,203,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,141,6,90,45
+Hale,203,"District Attorney, 64th Judicial District",64,,Under Votes,72,5,39,28
+Hale,203,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,203,County Attorney,,REP,Jim Tirey,140,5,88,47
+Hale,203,County Attorney,,,Under Votes,73,6,41,26
+Hale,203,County Attorney,,,Over Votes,0,0,0,0
+Hale,203,"District Clerk, Unexpired Term",,REP,Julie Kelly,139,6,87,46
+Hale,203,"District Clerk, Unexpired Term",,,Under Votes,74,5,42,27
+Hale,203,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,203,Sheriff,,REP,David Cochran,142,6,90,46
+Hale,203,Sheriff,,,Under Votes,71,5,39,27
+Hale,203,Sheriff,,,Over Votes,0,0,0,0
+Hale,203,County Tax Assessor-Collector,,REP,Israel Flores,147,7,91,49
+Hale,203,County Tax Assessor-Collector,,,Under Votes,66,4,38,24
+Hale,203,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,203,"County Constable, Precinct 3",,REP,Terry Timms,139,6,87,46
+Hale,203,"County Constable, Precinct 3",,,Under Votes,74,5,42,27
+Hale,203,"County Constable, Precinct 3",,,Over Votes,0,0,0,0
+Hale,204,Registered Voters,,,,806,,,
+Hale,204,Ballots Cast,,,,310,,,
+Hale,204,President,,REP,Donald J. Trump,220,3,148,69
+Hale,204,President,,DEM,Kamala D. Harris,81,2,55,24
+Hale,204,President,,LIB,Chase Oliver,5,1,4,0
+Hale,204,President,,GRN,Jill Stein,3,0,2,1
+Hale,204,President,,,Under Votes,1,0,1,0
+Hale,204,President,,,Over Votes,0,0,0,0
+Hale,204,U.S. Senate,,REP,Ted Cruz,195,4,139,52
+Hale,204,U.S. Senate,,DEM,Colin Allred,92,1,59,32
+Hale,204,U.S. Senate,,LIB,Ted Brown,14,0,8,6
+Hale,204,U.S. Senate,,,Under Votes,9,1,4,4
+Hale,204,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,204,U.S. House,19,REP,Jodey C. Arrington,215,4,152,59
+Hale,204,U.S. House,19,LIB,Bernard Johnson,27,0,16,11
+Hale,204,U.S. House,19,IND,Nathan Lewis,42,1,28,13
+Hale,204,U.S. House,19,,Under Votes,26,1,14,11
+Hale,204,U.S. House,19,,Over Votes,0,0,0,0
+Hale,204,Railroad Commissioner,,REP,Christi Craddick,191,3,137,51
+Hale,204,Railroad Commissioner,,DEM,Katherine Culbert,72,2,49,21
+Hale,204,Railroad Commissioner,,LIB,Hawk Dunlap,9,0,8,1
+Hale,204,Railroad Commissioner,,GRN,Eddie Espinoza,19,1,9,9
+Hale,204,Railroad Commissioner,,,Under Votes,19,0,7,12
+Hale,204,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,204,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,203,4,146,53
+Hale,204,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,89,2,58,29
+Hale,204,"Justice, Supreme Court, Place 2",2,,Under Votes,18,0,6,12
+Hale,204,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,204,"Justice, Supreme Court, Place 4",4,REP,John Devine,200,4,147,49
+Hale,204,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,92,2,58,32
+Hale,204,"Justice, Supreme Court, Place 4",4,,Under Votes,18,0,5,13
+Hale,204,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,204,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,191,4,139,48
+Hale,204,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,86,2,56,28
+Hale,204,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,12,0,8,4
+Hale,204,"Justice, Supreme Court, Place 6",6,,Under Votes,21,0,7,14
+Hale,204,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,204,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,196,4,139,53
+Hale,204,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,93,2,65,26
+Hale,204,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,21,0,6,15
+Hale,204,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,204,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,202,4,146,52
+Hale,204,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,86,2,58,26
+Hale,204,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,22,0,6,16
+Hale,204,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,204,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,200,4,144,52
+Hale,204,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,86,2,58,26
+Hale,204,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,24,0,8,16
+Hale,204,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,204,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,192,3,140,49
+Hale,204,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,84,1,55,28
+Hale,204,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,11,1,8,2
+Hale,204,"Member, State Board of Education, District 15",15,,Under Votes,23,1,7,15
+Hale,204,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,204,State Representative,88,REP,Ken King,233,4,159,70
+Hale,204,State Representative,88,,Under Votes,77,2,51,24
+Hale,204,State Representative,88,,Over Votes,0,0,0,0
+Hale,204,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,233,4,159,70
+Hale,204,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,77,2,51,24
+Hale,204,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,204,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,231,4,158,69
+Hale,204,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,79,2,52,25
+Hale,204,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,204,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,233,4,160,69
+Hale,204,"District Attorney, 64th Judicial District",64,,Under Votes,77,2,50,25
+Hale,204,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,204,County Attorney,,REP,Jim Tirey,238,4,164,70
+Hale,204,County Attorney,,,Under Votes,72,2,46,24
+Hale,204,County Attorney,,,Over Votes,0,0,0,0
+Hale,204,"District Clerk, Unexpired Term",,REP,Julie Kelly,240,4,168,68
+Hale,204,"District Clerk, Unexpired Term",,,Under Votes,70,2,42,26
+Hale,204,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,204,Sheriff,,REP,David Cochran,239,4,165,70
+Hale,204,Sheriff,,,Under Votes,71,2,45,24
+Hale,204,Sheriff,,,Over Votes,0,0,0,0
+Hale,204,County Tax Assessor-Collector,,REP,Israel Flores,236,4,162,70
+Hale,204,County Tax Assessor-Collector,,,Under Votes,74,2,48,24
+Hale,204,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,204,"County Constable, Precinct 3",,REP,Terry Timms,234,4,162,68
+Hale,204,"County Constable, Precinct 3",,,Under Votes,76,2,48,26
+Hale,204,"County Constable, Precinct 3",,,Over Votes,0,0,0,0
+Hale,205,Registered Voters,,,,429,,,
+Hale,205,Ballots Cast,,,,137,,,
+Hale,205,President,,REP,Donald J. Trump,91,0,60,31
+Hale,205,President,,DEM,Kamala D. Harris,46,2,34,10
+Hale,205,President,,LIB,Chase Oliver,0,0,0,0
+Hale,205,President,,GRN,Jill Stein,0,0,0,0
+Hale,205,President,,,Under Votes,0,0,0,0
+Hale,205,President,,,Over Votes,0,0,0,0
+Hale,205,U.S. Senate,,REP,Ted Cruz,76,0,52,24
+Hale,205,U.S. Senate,,DEM,Colin Allred,49,2,39,8
+Hale,205,U.S. Senate,,LIB,Ted Brown,4,0,1,3
+Hale,205,U.S. Senate,,,Under Votes,8,0,2,6
+Hale,205,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,205,U.S. House,19,REP,Jodey C. Arrington,91,0,63,28
+Hale,205,U.S. House,19,LIB,Bernard Johnson,18,0,15,3
+Hale,205,U.S. House,19,IND,Nathan Lewis,16,2,10,4
+Hale,205,U.S. House,19,,Under Votes,12,0,6,6
+Hale,205,U.S. House,19,,Over Votes,0,0,0,0
+Hale,205,Railroad Commissioner,,REP,Christi Craddick,80,0,58,22
+Hale,205,Railroad Commissioner,,DEM,Katherine Culbert,41,2,31,8
+Hale,205,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,1,1
+Hale,205,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,3,5
+Hale,205,Railroad Commissioner,,,Under Votes,6,0,1,5
+Hale,205,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,205,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,86,0,59,27
+Hale,205,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,47,2,34,11
+Hale,205,"Justice, Supreme Court, Place 2",2,,Under Votes,4,0,1,3
+Hale,205,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,205,"Justice, Supreme Court, Place 4",4,REP,John Devine,84,0,58,26
+Hale,205,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,46,2,33,11
+Hale,205,"Justice, Supreme Court, Place 4",4,,Under Votes,7,0,3,4
+Hale,205,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,205,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,87,0,59,28
+Hale,205,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,43,2,32,9
+Hale,205,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,3,0,2,1
+Hale,205,"Justice, Supreme Court, Place 6",6,,Under Votes,4,0,1,3
+Hale,205,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,205,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,83,0,57,26
+Hale,205,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,46,2,35,9
+Hale,205,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,8,0,2,6
+Hale,205,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,205,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,82,0,58,24
+Hale,205,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,47,2,33,12
+Hale,205,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,8,0,3,5
+Hale,205,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,205,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,85,0,61,24
+Hale,205,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,43,2,30,11
+Hale,205,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,9,0,3,6
+Hale,205,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,205,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,79,0,57,22
+Hale,205,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,44,2,31,11
+Hale,205,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,4,0,3,1
+Hale,205,"Member, State Board of Education, District 15",15,,Under Votes,10,0,3,7
+Hale,205,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,205,State Representative,88,REP,Ken King,96,0,66,30
+Hale,205,State Representative,88,,Under Votes,41,2,28,11
+Hale,205,State Representative,88,,Over Votes,0,0,0,0
+Hale,205,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,98,0,67,31
+Hale,205,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,39,2,27,10
+Hale,205,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,205,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,92,0,64,28
+Hale,205,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,45,2,30,13
+Hale,205,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,205,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,96,0,70,26
+Hale,205,"District Attorney, 64th Judicial District",64,,Under Votes,41,2,24,15
+Hale,205,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,205,County Attorney,,REP,Jim Tirey,97,0,66,31
+Hale,205,County Attorney,,,Under Votes,40,2,28,10
+Hale,205,County Attorney,,,Over Votes,0,0,0,0
+Hale,205,"District Clerk, Unexpired Term",,REP,Julie Kelly,99,0,68,31
+Hale,205,"District Clerk, Unexpired Term",,,Under Votes,38,2,26,10
+Hale,205,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,205,Sheriff,,REP,David Cochran,101,0,71,30
+Hale,205,Sheriff,,,Under Votes,36,2,23,11
+Hale,205,Sheriff,,,Over Votes,0,0,0,0
+Hale,205,County Tax Assessor-Collector,,REP,Israel Flores,104,0,73,31
+Hale,205,County Tax Assessor-Collector,,,Under Votes,33,2,21,10
+Hale,205,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,205,"County Constable, Precinct 3",,REP,Terry Timms,100,0,71,29
+Hale,205,"County Constable, Precinct 3",,,Under Votes,37,2,23,12
+Hale,205,"County Constable, Precinct 3",,,Over Votes,0,0,0,0
+Hale,206,Registered Voters,,,,107,,,
+Hale,206,Ballots Cast,,,,32,,,
+Hale,206,President,,REP,Donald J. Trump,21,0,10,11
+Hale,206,President,,DEM,Kamala D. Harris,10,0,6,4
+Hale,206,President,,LIB,Chase Oliver,1,0,0,1
+Hale,206,President,,GRN,Jill Stein,0,0,0,0
+Hale,206,President,,,Under Votes,0,0,0,0
+Hale,206,President,,,Over Votes,0,0,0,0
+Hale,206,U.S. Senate,,REP,Ted Cruz,21,0,11,10
+Hale,206,U.S. Senate,,DEM,Colin Allred,7,0,4,3
+Hale,206,U.S. Senate,,LIB,Ted Brown,2,0,0,2
+Hale,206,U.S. Senate,,,Under Votes,2,0,1,1
+Hale,206,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,206,U.S. House,19,REP,Jodey C. Arrington,22,0,13,9
+Hale,206,U.S. House,19,LIB,Bernard Johnson,1,0,1,0
+Hale,206,U.S. House,19,IND,Nathan Lewis,7,0,2,5
+Hale,206,U.S. House,19,,Under Votes,2,0,0,2
+Hale,206,U.S. House,19,,Over Votes,0,0,0,0
+Hale,206,Railroad Commissioner,,REP,Christi Craddick,21,0,11,10
+Hale,206,Railroad Commissioner,,DEM,Katherine Culbert,7,0,3,4
+Hale,206,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Hale,206,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,2,1
+Hale,206,Railroad Commissioner,,,Under Votes,1,0,0,1
+Hale,206,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,206,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,22,0,11,11
+Hale,206,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,8,0,4,4
+Hale,206,"Justice, Supreme Court, Place 2",2,,Under Votes,2,0,1,1
+Hale,206,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,206,"Justice, Supreme Court, Place 4",4,REP,John Devine,22,0,11,11
+Hale,206,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,9,0,5,4
+Hale,206,"Justice, Supreme Court, Place 4",4,,Under Votes,1,0,0,1
+Hale,206,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,206,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,22,0,12,10
+Hale,206,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,7,0,3,4
+Hale,206,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,0,2
+Hale,206,"Justice, Supreme Court, Place 6",6,,Under Votes,1,0,1,0
+Hale,206,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,206,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,23,0,11,12
+Hale,206,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,9,0,5,4
+Hale,206,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,0,0,0
+Hale,206,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,206,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,24,0,12,12
+Hale,206,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,7,0,3,4
+Hale,206,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,1,0,1,0
+Hale,206,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,206,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,23,0,12,11
+Hale,206,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,9,0,4,5
+Hale,206,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,0,0,0,0
+Hale,206,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,206,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,21,0,10,11
+Hale,206,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,10,0,6,4
+Hale,206,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,1,0,0,1
+Hale,206,"Member, State Board of Education, District 15",15,,Under Votes,0,0,0,0
+Hale,206,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,206,State Representative,88,REP,Ken King,26,0,11,15
+Hale,206,State Representative,88,,Under Votes,6,0,5,1
+Hale,206,State Representative,88,,Over Votes,0,0,0,0
+Hale,206,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,26,0,12,14
+Hale,206,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,6,0,4,2
+Hale,206,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,206,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,26,0,12,14
+Hale,206,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,6,0,4,2
+Hale,206,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,206,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,26,0,12,14
+Hale,206,"District Attorney, 64th Judicial District",64,,Under Votes,6,0,4,2
+Hale,206,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,206,County Attorney,,REP,Jim Tirey,25,0,11,14
+Hale,206,County Attorney,,,Under Votes,7,0,5,2
+Hale,206,County Attorney,,,Over Votes,0,0,0,0
+Hale,206,"District Clerk, Unexpired Term",,REP,Julie Kelly,26,0,12,14
+Hale,206,"District Clerk, Unexpired Term",,,Under Votes,6,0,4,2
+Hale,206,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,206,Sheriff,,REP,David Cochran,27,0,13,14
+Hale,206,Sheriff,,,Under Votes,5,0,3,2
+Hale,206,Sheriff,,,Over Votes,0,0,0,0
+Hale,206,County Tax Assessor-Collector,,REP,Israel Flores,24,0,10,14
+Hale,206,County Tax Assessor-Collector,,,Under Votes,8,0,6,2
+Hale,206,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,206,"County Constable, Precinct 3",,REP,Terry Timms,26,0,13,13
+Hale,206,"County Constable, Precinct 3",,,Under Votes,6,0,3,3
+Hale,206,"County Constable, Precinct 3",,,Over Votes,0,0,0,0
+Hale,213,Registered Voters,,,,342,,,
+Hale,213,Ballots Cast,,,,166,,,
+Hale,213,President,,REP,Donald J. Trump,137,1,96,40
+Hale,213,President,,DEM,Kamala D. Harris,26,1,14,11
+Hale,213,President,,LIB,Chase Oliver,1,0,1,0
+Hale,213,President,,GRN,Jill Stein,0,0,0,0
+Hale,213,President,,,Under Votes,2,0,1,1
+Hale,213,President,,,Over Votes,0,0,0,0
+Hale,213,U.S. Senate,,REP,Ted Cruz,130,1,94,35
+Hale,213,U.S. Senate,,DEM,Colin Allred,30,1,15,14
+Hale,213,U.S. Senate,,LIB,Ted Brown,4,0,2,2
+Hale,213,U.S. Senate,,,Under Votes,2,0,1,1
+Hale,213,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,213,U.S. House,19,REP,Jodey C. Arrington,138,1,94,43
+Hale,213,U.S. House,19,LIB,Bernard Johnson,9,0,3,6
+Hale,213,U.S. House,19,IND,Nathan Lewis,11,1,8,2
+Hale,213,U.S. House,19,,Under Votes,8,0,7,1
+Hale,213,U.S. House,19,,Over Votes,0,0,0,0
+Hale,213,Railroad Commissioner,,REP,Christi Craddick,128,1,92,35
+Hale,213,Railroad Commissioner,,DEM,Katherine Culbert,25,1,14,10
+Hale,213,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,2,1
+Hale,213,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,1,4
+Hale,213,Railroad Commissioner,,,Under Votes,5,0,3,2
+Hale,213,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,213,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,138,1,95,42
+Hale,213,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,23,1,14,8
+Hale,213,"Justice, Supreme Court, Place 2",2,,Under Votes,5,0,3,2
+Hale,213,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,213,"Justice, Supreme Court, Place 4",4,REP,John Devine,134,1,93,40
+Hale,213,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,25,1,15,9
+Hale,213,"Justice, Supreme Court, Place 4",4,,Under Votes,7,0,4,3
+Hale,213,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,213,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,128,1,92,35
+Hale,213,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,27,1,14,12
+Hale,213,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,0,2
+Hale,213,"Justice, Supreme Court, Place 6",6,,Under Votes,9,0,6,3
+Hale,213,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,213,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,134,1,93,40
+Hale,213,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,25,1,15,9
+Hale,213,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,7,0,4,3
+Hale,213,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,213,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,134,1,95,38
+Hale,213,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,25,1,13,11
+Hale,213,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,7,0,4,3
+Hale,213,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,213,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,132,1,93,38
+Hale,213,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,26,1,14,11
+Hale,213,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,8,0,5,3
+Hale,213,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,213,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,128,1,91,36
+Hale,213,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,27,1,15,11
+Hale,213,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,3,0,0,3
+Hale,213,"Member, State Board of Education, District 15",15,,Under Votes,8,0,6,2
+Hale,213,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,213,State Representative,88,REP,Ken King,146,2,98,46
+Hale,213,State Representative,88,,Under Votes,20,0,14,6
+Hale,213,State Representative,88,,Over Votes,0,0,0,0
+Hale,213,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,144,2,96,46
+Hale,213,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,22,0,16,6
+Hale,213,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,213,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,143,2,95,46
+Hale,213,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,23,0,17,6
+Hale,213,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,213,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,140,2,93,45
+Hale,213,"District Attorney, 64th Judicial District",64,,Under Votes,26,0,19,7
+Hale,213,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,213,County Attorney,,REP,Jim Tirey,146,2,99,45
+Hale,213,County Attorney,,,Under Votes,20,0,13,7
+Hale,213,County Attorney,,,Over Votes,0,0,0,0
+Hale,213,"District Clerk, Unexpired Term",,REP,Julie Kelly,140,2,93,45
+Hale,213,"District Clerk, Unexpired Term",,,Under Votes,26,0,19,7
+Hale,213,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,213,Sheriff,,REP,David Cochran,142,2,96,44
+Hale,213,Sheriff,,,Under Votes,24,0,16,8
+Hale,213,Sheriff,,,Over Votes,0,0,0,0
+Hale,213,County Tax Assessor-Collector,,REP,Israel Flores,142,2,94,46
+Hale,213,County Tax Assessor-Collector,,,Under Votes,24,0,18,6
+Hale,213,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,213,"County Constable, Precinct 3",,REP,Terry Timms,147,2,98,47
+Hale,213,"County Constable, Precinct 3",,,Under Votes,19,0,14,5
+Hale,213,"County Constable, Precinct 3",,,Over Votes,0,0,0,0
+Hale,214,Registered Voters,,,,110,,,
+Hale,214,Ballots Cast,,,,81,,,
+Hale,214,President,,REP,Donald J. Trump,78,1,63,14
+Hale,214,President,,DEM,Kamala D. Harris,3,0,2,1
+Hale,214,President,,LIB,Chase Oliver,0,0,0,0
+Hale,214,President,,GRN,Jill Stein,0,0,0,0
+Hale,214,President,,,Under Votes,0,0,0,0
+Hale,214,President,,,Over Votes,0,0,0,0
+Hale,214,U.S. Senate,,REP,Ted Cruz,77,1,62,14
+Hale,214,U.S. Senate,,DEM,Colin Allred,3,0,2,1
+Hale,214,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Hale,214,U.S. Senate,,,Under Votes,1,0,1,0
+Hale,214,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,214,U.S. House,19,REP,Jodey C. Arrington,76,1,61,14
+Hale,214,U.S. House,19,LIB,Bernard Johnson,3,0,2,1
+Hale,214,U.S. House,19,IND,Nathan Lewis,1,0,1,0
+Hale,214,U.S. House,19,,Under Votes,1,0,1,0
+Hale,214,U.S. House,19,,Over Votes,0,0,0,0
+Hale,214,Railroad Commissioner,,REP,Christi Craddick,71,1,57,13
+Hale,214,Railroad Commissioner,,DEM,Katherine Culbert,3,0,2,1
+Hale,214,Railroad Commissioner,,LIB,Hawk Dunlap,4,0,3,1
+Hale,214,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Hale,214,Railroad Commissioner,,,Under Votes,2,0,2,0
+Hale,214,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,214,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,76,1,61,14
+Hale,214,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,3,0,2,1
+Hale,214,"Justice, Supreme Court, Place 2",2,,Under Votes,2,0,2,0
+Hale,214,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,214,"Justice, Supreme Court, Place 4",4,REP,John Devine,76,1,61,14
+Hale,214,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,3,0,2,1
+Hale,214,"Justice, Supreme Court, Place 4",4,,Under Votes,2,0,2,0
+Hale,214,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,214,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,74,1,61,12
+Hale,214,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,3,0,2,1
+Hale,214,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,0,2
+Hale,214,"Justice, Supreme Court, Place 6",6,,Under Votes,2,0,2,0
+Hale,214,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,214,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,76,1,61,14
+Hale,214,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,3,0,2,1
+Hale,214,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,2,0,2,0
+Hale,214,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,214,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,76,1,61,14
+Hale,214,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,3,0,2,1
+Hale,214,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,2,0,2,0
+Hale,214,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,214,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,76,1,61,14
+Hale,214,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,3,0,2,1
+Hale,214,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,2,0,2,0
+Hale,214,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,214,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,73,1,60,12
+Hale,214,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,3,0,2,1
+Hale,214,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,3,0,1,2
+Hale,214,"Member, State Board of Education, District 15",15,,Under Votes,2,0,2,0
+Hale,214,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,214,State Representative,88,REP,Ken King,76,1,60,15
+Hale,214,State Representative,88,,Under Votes,5,0,5,0
+Hale,214,State Representative,88,,Over Votes,0,0,0,0
+Hale,214,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,78,1,62,15
+Hale,214,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,3,0,3,0
+Hale,214,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,214,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,79,1,63,15
+Hale,214,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,2,0,2,0
+Hale,214,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,214,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,78,1,63,14
+Hale,214,"District Attorney, 64th Judicial District",64,,Under Votes,3,0,2,1
+Hale,214,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,214,County Attorney,,REP,Jim Tirey,79,1,63,15
+Hale,214,County Attorney,,,Under Votes,2,0,2,0
+Hale,214,County Attorney,,,Over Votes,0,0,0,0
+Hale,214,"District Clerk, Unexpired Term",,REP,Julie Kelly,78,1,62,15
+Hale,214,"District Clerk, Unexpired Term",,,Under Votes,3,0,3,0
+Hale,214,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,214,Sheriff,,REP,David Cochran,79,1,63,15
+Hale,214,Sheriff,,,Under Votes,2,0,2,0
+Hale,214,Sheriff,,,Over Votes,0,0,0,0
+Hale,214,County Tax Assessor-Collector,,REP,Israel Flores,77,1,62,14
+Hale,214,County Tax Assessor-Collector,,,Under Votes,4,0,3,1
+Hale,214,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,214,"County Constable, Precinct 3",,REP,Terry Timms,78,1,62,15
+Hale,214,"County Constable, Precinct 3",,,Under Votes,3,0,3,0
+Hale,214,"County Constable, Precinct 3",,,Over Votes,0,0,0,0
+Hale,214 - CITY,Registered Voters,,,,663,,,
+Hale,214 - CITY,Ballots Cast,,,,296,,,
+Hale,214 - CITY,President,,REP,Donald J. Trump,212,6,146,60
+Hale,214 - CITY,President,,DEM,Kamala D. Harris,77,0,54,23
+Hale,214 - CITY,President,,LIB,Chase Oliver,3,0,3,0
+Hale,214 - CITY,President,,GRN,Jill Stein,3,0,2,1
+Hale,214 - CITY,President,,,Under Votes,1,0,1,0
+Hale,214 - CITY,President,,,Over Votes,0,0,0,0
+Hale,214 - CITY,U.S. Senate,,REP,Ted Cruz,212,6,148,58
+Hale,214 - CITY,U.S. Senate,,DEM,Colin Allred,71,0,49,22
+Hale,214 - CITY,U.S. Senate,,LIB,Ted Brown,10,0,7,3
+Hale,214 - CITY,U.S. Senate,,,Under Votes,3,0,2,1
+Hale,214 - CITY,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,214 - CITY,U.S. House,19,REP,Jodey C. Arrington,215,6,150,59
+Hale,214 - CITY,U.S. House,19,LIB,Bernard Johnson,23,0,19,4
+Hale,214 - CITY,U.S. House,19,IND,Nathan Lewis,31,0,23,8
+Hale,214 - CITY,U.S. House,19,,Under Votes,27,0,14,13
+Hale,214 - CITY,U.S. House,19,,Over Votes,0,0,0,0
+Hale,214 - CITY,Railroad Commissioner,,REP,Christi Craddick,189,6,137,46
+Hale,214 - CITY,Railroad Commissioner,,DEM,Katherine Culbert,57,0,40,17
+Hale,214 - CITY,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,5,3
+Hale,214 - CITY,Railroad Commissioner,,GRN,Eddie Espinoza,21,0,13,8
+Hale,214 - CITY,Railroad Commissioner,,,Under Votes,21,0,11,10
+Hale,214 - CITY,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,214 - CITY,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,209,6,149,54
+Hale,214 - CITY,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,69,0,48,21
+Hale,214 - CITY,"Justice, Supreme Court, Place 2",2,,Under Votes,18,0,9,9
+Hale,214 - CITY,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,214 - CITY,"Justice, Supreme Court, Place 4",4,REP,John Devine,205,6,147,52
+Hale,214 - CITY,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,68,0,47,21
+Hale,214 - CITY,"Justice, Supreme Court, Place 4",4,,Under Votes,23,0,12,11
+Hale,214 - CITY,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,214 - CITY,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,196,6,143,47
+Hale,214 - CITY,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,67,0,46,21
+Hale,214 - CITY,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,14,0,8,6
+Hale,214 - CITY,"Justice, Supreme Court, Place 6",6,,Under Votes,19,0,9,10
+Hale,214 - CITY,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,214 - CITY,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,206,6,147,53
+Hale,214 - CITY,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,69,0,46,23
+Hale,214 - CITY,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,21,0,13,8
+Hale,214 - CITY,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,214 - CITY,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,201,6,145,50
+Hale,214 - CITY,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,69,0,46,23
+Hale,214 - CITY,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,26,0,15,11
+Hale,214 - CITY,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,214 - CITY,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,205,6,147,52
+Hale,214 - CITY,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,63,0,43,20
+Hale,214 - CITY,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,28,0,16,12
+Hale,214 - CITY,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,214 - CITY,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,190,6,134,50
+Hale,214 - CITY,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,70,0,50,20
+Hale,214 - CITY,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,13,0,9,4
+Hale,214 - CITY,"Member, State Board of Education, District 15",15,,Under Votes,23,0,13,10
+Hale,214 - CITY,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,214 - CITY,State Representative,88,REP,Ken King,229,6,164,59
+Hale,214 - CITY,State Representative,88,,Under Votes,67,0,42,25
+Hale,214 - CITY,State Representative,88,,Over Votes,0,0,0,0
+Hale,214 - CITY,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,224,6,160,58
+Hale,214 - CITY,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,72,0,46,26
+Hale,214 - CITY,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,214 - CITY,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,223,6,159,58
+Hale,214 - CITY,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,73,0,47,26
+Hale,214 - CITY,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,214 - CITY,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,223,6,163,54
+Hale,214 - CITY,"District Attorney, 64th Judicial District",64,,Under Votes,73,0,43,30
+Hale,214 - CITY,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,214 - CITY,County Attorney,,REP,Jim Tirey,224,6,161,57
+Hale,214 - CITY,County Attorney,,,Under Votes,72,0,45,27
+Hale,214 - CITY,County Attorney,,,Over Votes,0,0,0,0
+Hale,214 - CITY,"District Clerk, Unexpired Term",,REP,Julie Kelly,224,6,162,56
+Hale,214 - CITY,"District Clerk, Unexpired Term",,,Under Votes,72,0,44,28
+Hale,214 - CITY,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,214 - CITY,Sheriff,,REP,David Cochran,227,6,164,57
+Hale,214 - CITY,Sheriff,,,Under Votes,69,0,42,27
+Hale,214 - CITY,Sheriff,,,Over Votes,0,0,0,0
+Hale,214 - CITY,County Tax Assessor-Collector,,REP,Israel Flores,235,6,169,60
+Hale,214 - CITY,County Tax Assessor-Collector,,,Under Votes,61,0,37,24
+Hale,214 - CITY,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,214 - CITY,"County Constable, Precinct 3",,REP,Terry Timms,228,6,164,58
+Hale,214 - CITY,"County Constable, Precinct 3",,,Under Votes,68,0,42,26
+Hale,214 - CITY,"County Constable, Precinct 3",,,Over Votes,0,0,0,0
+Hale,214 - CITY,"County Constable, Precinct 3",,,Under Votes,8,0,6,2
+Hale,214 - CITY,"County Constable, Precinct 3",,,Over Votes,0,0,0,0
+Hale,214 - CITY,"County Constable, Precinct 3",,,Under Votes,11,0,7,4
+Hale,214 - CITY,"County Constable, Precinct 3",,,Over Votes,0,0,0,0
+Hale,215,Registered Voters,,,,455,,,
+Hale,215,Ballots Cast,,,,233,,,
+Hale,215,President,,REP,Donald J. Trump,170,4,112,54
+Hale,215,President,,DEM,Kamala D. Harris,56,3,38,15
+Hale,215,President,,LIB,Chase Oliver,5,1,3,1
+Hale,215,President,,GRN,Jill Stein,0,0,0,0
+Hale,215,President,,,Under Votes,2,1,1,0
+Hale,215,President,,,Over Votes,0,0,0,0
+Hale,215,U.S. Senate,,REP,Ted Cruz,167,3,113,51
+Hale,215,U.S. Senate,,DEM,Colin Allred,56,5,35,16
+Hale,215,U.S. Senate,,LIB,Ted Brown,8,0,6,2
+Hale,215,U.S. Senate,,,Under Votes,1,0,0,1
+Hale,215,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,215,U.S. House,19,REP,Jodey C. Arrington,173,3,113,57
+Hale,215,U.S. House,19,LIB,Bernard Johnson,27,1,19,7
+Hale,215,U.S. House,19,IND,Nathan Lewis,25,3,18,4
+Hale,215,U.S. House,19,,Under Votes,8,2,4,2
+Hale,215,U.S. House,19,,Over Votes,0,0,0,0
+Hale,215,Railroad Commissioner,,REP,Christi Craddick,160,3,105,52
+Hale,215,Railroad Commissioner,,DEM,Katherine Culbert,54,5,37,12
+Hale,215,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,6,1
+Hale,215,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,3,4
+Hale,215,Railroad Commissioner,,,Under Votes,5,1,3,1
+Hale,215,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,215,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,172,3,114,55
+Hale,215,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,56,5,37,14
+Hale,215,"Justice, Supreme Court, Place 2",2,,Under Votes,5,1,3,1
+Hale,215,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,215,"Justice, Supreme Court, Place 4",4,REP,John Devine,169,3,112,54
+Hale,215,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,61,5,41,15
+Hale,215,"Justice, Supreme Court, Place 4",4,,Under Votes,3,1,1,1
+Hale,215,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,215,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,167,3,110,54
+Hale,215,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,49,5,32,12
+Hale,215,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,11,0,8,3
+Hale,215,"Justice, Supreme Court, Place 6",6,,Under Votes,6,1,4,1
+Hale,215,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,215,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,170,3,113,54
+Hale,215,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,58,5,38,15
+Hale,215,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,5,1,3,1
+Hale,215,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,215,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,171,3,114,54
+Hale,215,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,58,5,38,15
+Hale,215,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,4,1,2,1
+Hale,215,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,215,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,175,4,115,56
+Hale,215,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,54,4,37,13
+Hale,215,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,4,1,2,1
+Hale,215,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,215,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,164,3,109,52
+Hale,215,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,52,4,35,13
+Hale,215,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,11,0,7,4
+Hale,215,"Member, State Board of Education, District 15",15,,Under Votes,6,2,3,1
+Hale,215,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,215,State Representative,88,REP,Ken King,199,4,132,63
+Hale,215,State Representative,88,,Under Votes,34,5,22,7
+Hale,215,State Representative,88,,Over Votes,0,0,0,0
+Hale,215,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,198,4,132,62
+Hale,215,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,35,5,22,8
+Hale,215,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,215,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,198,4,131,63
+Hale,215,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,35,5,23,7
+Hale,215,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,215,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,198,5,132,61
+Hale,215,"District Attorney, 64th Judicial District",64,,Under Votes,35,4,22,9
+Hale,215,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,215,County Attorney,,REP,Jim Tirey,197,4,131,62
+Hale,215,County Attorney,,,Under Votes,36,5,23,8
+Hale,215,County Attorney,,,Over Votes,0,0,0,0
+Hale,215,"District Clerk, Unexpired Term",,REP,Julie Kelly,197,4,130,63
+Hale,215,"District Clerk, Unexpired Term",,,Under Votes,36,5,24,7
+Hale,215,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,215,Sheriff,,REP,David Cochran,199,4,133,62
+Hale,215,Sheriff,,,Under Votes,34,5,21,8
+Hale,215,Sheriff,,,Over Votes,0,0,0,0
+Hale,215,County Tax Assessor-Collector,,REP,Israel Flores,204,5,136,63
+Hale,215,County Tax Assessor-Collector,,,Under Votes,29,4,18,7
+Hale,215,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,215,"County Constable, Precinct 3",,REP,Terry Timms,205,5,136,64
+Hale,215,"County Constable, Precinct 3",,,Under Votes,28,4,18,6
+Hale,215,"County Constable, Precinct 3",,,Over Votes,0,0,0,0
+Hale,304,Registered Voters,,,,875,,,
+Hale,304,Ballots Cast,,,,550,,,
+Hale,304,President,,REP,Donald J. Trump,416,14,330,72
+Hale,304,President,,DEM,Kamala D. Harris,126,6,90,30
+Hale,304,President,,LIB,Chase Oliver,6,0,1,5
+Hale,304,President,,GRN,Jill Stein,0,0,0,0
+Hale,304,President,,,Under Votes,2,0,1,1
+Hale,304,President,,,Over Votes,0,0,0,0
+Hale,304,U.S. Senate,,REP,Ted Cruz,398,14,321,63
+Hale,304,U.S. Senate,,DEM,Colin Allred,138,5,96,37
+Hale,304,U.S. Senate,,LIB,Ted Brown,10,1,4,5
+Hale,304,U.S. Senate,,,Under Votes,3,0,1,2
+Hale,304,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,304,U.S. House,19,REP,Jodey C. Arrington,435,15,343,77
+Hale,304,U.S. House,19,LIB,Bernard Johnson,45,4,28,13
+Hale,304,U.S. House,19,IND,Nathan Lewis,51,0,38,13
+Hale,304,U.S. House,19,,Under Votes,19,1,13,5
+Hale,304,U.S. House,19,,Over Votes,0,0,0,0
+Hale,304,Railroad Commissioner,,REP,Christi Craddick,392,14,319,59
+Hale,304,Railroad Commissioner,,DEM,Katherine Culbert,111,4,77,30
+Hale,304,Railroad Commissioner,,LIB,Hawk Dunlap,15,0,9,6
+Hale,304,Railroad Commissioner,,GRN,Eddie Espinoza,19,0,11,8
+Hale,304,Railroad Commissioner,,,Under Votes,13,2,6,5
+Hale,304,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,304,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,417,14,334,69
+Hale,304,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,123,4,85,34
+Hale,304,"Justice, Supreme Court, Place 2",2,,Under Votes,10,2,3,5
+Hale,304,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,304,"Justice, Supreme Court, Place 4",4,REP,John Devine,415,15,330,70
+Hale,304,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,125,3,90,32
+Hale,304,"Justice, Supreme Court, Place 4",4,,Under Votes,10,2,2,6
+Hale,304,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,304,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,402,14,323,65
+Hale,304,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,121,3,87,31
+Hale,304,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,16,1,9,6
+Hale,304,"Justice, Supreme Court, Place 6",6,,Under Votes,11,2,3,6
+Hale,304,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,304,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,411,14,329,68
+Hale,304,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,126,4,90,32
+Hale,304,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,13,2,3,8
+Hale,304,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,304,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,412,14,329,69
+Hale,304,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,123,4,88,31
+Hale,304,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,15,2,5,8
+Hale,304,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,304,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,415,15,332,68
+Hale,304,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,118,3,83,32
+Hale,304,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,17,2,7,8
+Hale,304,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,304,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,389,12,315,62
+Hale,304,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,125,4,90,31
+Hale,304,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,16,1,8,7
+Hale,304,"Member, State Board of Education, District 15",15,,Under Votes,20,3,9,8
+Hale,304,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,304,State Representative,88,REP,Ken King,459,16,354,89
+Hale,304,State Representative,88,,Under Votes,91,4,68,19
+Hale,304,State Representative,88,,Over Votes,0,0,0,0
+Hale,304,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,454,15,352,87
+Hale,304,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,96,5,70,21
+Hale,304,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,304,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,452,14,351,87
+Hale,304,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,98,6,71,21
+Hale,304,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,304,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,464,16,359,89
+Hale,304,"District Attorney, 64th Judicial District",64,,Under Votes,86,4,63,19
+Hale,304,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,304,County Attorney,,REP,Jim Tirey,469,16,365,88
+Hale,304,County Attorney,,,Under Votes,81,4,57,20
+Hale,304,County Attorney,,,Over Votes,0,0,0,0
+Hale,304,"District Clerk, Unexpired Term",,REP,Julie Kelly,460,15,358,87
+Hale,304,"District Clerk, Unexpired Term",,,Under Votes,90,5,64,21
+Hale,304,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,304,Sheriff,,REP,David Cochran,465,16,361,88
+Hale,304,Sheriff,,,Under Votes,85,4,61,20
+Hale,304,Sheriff,,,Over Votes,0,0,0,0
+Hale,304,County Tax Assessor-Collector,,REP,Israel Flores,472,16,365,91
+Hale,304,County Tax Assessor-Collector,,,Under Votes,78,4,57,17
+Hale,304,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,304,"County Commissioner, Precinct 3",,REP,Tim Abel,463,15,362,86
+Hale,304,"County Commissioner, Precinct 3",,,Under Votes,87,5,60,22
+Hale,304,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Hale,304,"County Constable, Precinct 3",,REP,Terry Timms,457,15,354,88
+Hale,304,"County Constable, Precinct 3",,,Under Votes,93,5,68,20
+Hale,304,"County Constable, Precinct 3",,,Over Votes,0,0,0,0
+Hale,305,Registered Voters,,,,1148,,,
+Hale,305,Ballots Cast,,,,741,,,
+Hale,305,President,,REP,Donald J. Trump,611,39,501,71
+Hale,305,President,,DEM,Kamala D. Harris,120,11,88,21
+Hale,305,President,,LIB,Chase Oliver,1,0,0,1
+Hale,305,President,,GRN,Jill Stein,3,0,3,0
+Hale,305,President,,,Under Votes,4,0,4,0
+Hale,305,President,,,Over Votes,0,0,0,0
+Hale,305,U.S. Senate,,REP,Ted Cruz,593,40,493,60
+Hale,305,U.S. Senate,,DEM,Colin Allred,123,10,89,24
+Hale,305,U.S. Senate,,LIB,Ted Brown,17,0,12,5
+Hale,305,U.S. Senate,,,Under Votes,8,0,4,4
+Hale,305,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,305,U.S. House,19,REP,Jodey C. Arrington,637,40,522,75
+Hale,305,U.S. House,19,LIB,Bernard Johnson,31,0,24,7
+Hale,305,U.S. House,19,IND,Nathan Lewis,47,4,37,6
+Hale,305,U.S. House,19,,Under Votes,26,6,15,5
+Hale,305,U.S. House,19,,Over Votes,0,0,0,0
+Hale,305,Railroad Commissioner,,REP,Christi Craddick,601,39,502,60
+Hale,305,Railroad Commissioner,,DEM,Katherine Culbert,103,10,74,19
+Hale,305,Railroad Commissioner,,LIB,Hawk Dunlap,10,0,7,3
+Hale,305,Railroad Commissioner,,GRN,Eddie Espinoza,9,0,5,4
+Hale,305,Railroad Commissioner,,,Under Votes,16,1,8,7
+Hale,305,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,305,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,615,37,513,65
+Hale,305,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,110,11,77,22
+Hale,305,"Justice, Supreme Court, Place 2",2,,Under Votes,16,2,8,6
+Hale,305,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,305,"Justice, Supreme Court, Place 4",4,REP,John Devine,612,37,510,65
+Hale,305,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,108,11,76,21
+Hale,305,"Justice, Supreme Court, Place 4",4,,Under Votes,21,2,12,7
+Hale,305,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,305,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,614,38,511,65
+Hale,305,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,103,10,75,18
+Hale,305,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,11,1,5,5
+Hale,305,"Justice, Supreme Court, Place 6",6,,Under Votes,13,1,7,5
+Hale,305,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,305,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,611,38,507,66
+Hale,305,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,114,11,82,21
+Hale,305,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,16,1,9,6
+Hale,305,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,305,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,610,38,506,66
+Hale,305,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,110,11,78,21
+Hale,305,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,21,1,14,6
+Hale,305,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,305,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,616,37,510,69
+Hale,305,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,107,12,77,18
+Hale,305,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,18,1,11,6
+Hale,305,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,305,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,599,35,501,63
+Hale,305,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,109,11,78,20
+Hale,305,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,13,0,10,3
+Hale,305,"Member, State Board of Education, District 15",15,,Under Votes,20,4,9,7
+Hale,305,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,305,State Representative,88,REP,Ken King,663,37,543,83
+Hale,305,State Representative,88,,Under Votes,78,13,55,10
+Hale,305,State Representative,88,,Over Votes,0,0,0,0
+Hale,305,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,665,33,550,82
+Hale,305,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,76,17,48,11
+Hale,305,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,305,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,662,34,548,80
+Hale,305,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,79,16,50,13
+Hale,305,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,305,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,668,39,548,81
+Hale,305,"District Attorney, 64th Judicial District",64,,Under Votes,73,11,50,12
+Hale,305,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,305,County Attorney,,REP,Jim Tirey,675,40,549,86
+Hale,305,County Attorney,,,Under Votes,66,10,49,7
+Hale,305,County Attorney,,,Over Votes,0,0,0,0
+Hale,305,"District Clerk, Unexpired Term",,REP,Julie Kelly,670,36,550,84
+Hale,305,"District Clerk, Unexpired Term",,,Under Votes,71,14,48,9
+Hale,305,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,305,Sheriff,,REP,David Cochran,664,39,544,81
+Hale,305,Sheriff,,,Under Votes,77,11,54,12
+Hale,305,Sheriff,,,Over Votes,0,0,0,0
+Hale,305,County Tax Assessor-Collector,,REP,Israel Flores,658,38,534,86
+Hale,305,County Tax Assessor-Collector,,,Under Votes,83,12,64,7
+Hale,305,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,305,"County Commissioner, Precinct 3",,REP,Tim Abel,659,36,539,84
+Hale,305,"County Commissioner, Precinct 3",,,Under Votes,82,14,59,9
+Hale,305,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Hale,305,"County Constable, Precinct 3",,REP,Terry Timms,661,37,541,83
+Hale,305,"County Constable, Precinct 3",,,Under Votes,80,13,57,10
+Hale,305,"County Constable, Precinct 3",,,Over Votes,0,0,0,0
+Hale,306,Registered Voters,,,,101,,,
+Hale,306,Ballots Cast,,,,47,,,
+Hale,306,President,,REP,Donald J. Trump,28,0,20,8
+Hale,306,President,,DEM,Kamala D. Harris,18,0,14,4
+Hale,306,President,,LIB,Chase Oliver,0,0,0,0
+Hale,306,President,,GRN,Jill Stein,1,0,1,0
+Hale,306,President,,,Under Votes,0,0,0,0
+Hale,306,President,,,Over Votes,0,0,0,0
+Hale,306,U.S. Senate,,REP,Ted Cruz,26,0,19,7
+Hale,306,U.S. Senate,,DEM,Colin Allred,20,0,16,4
+Hale,306,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+Hale,306,U.S. Senate,,,Under Votes,0,0,0,0
+Hale,306,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,306,U.S. House,19,REP,Jodey C. Arrington,29,0,21,8
+Hale,306,U.S. House,19,LIB,Bernard Johnson,9,0,5,4
+Hale,306,U.S. House,19,IND,Nathan Lewis,9,0,9,0
+Hale,306,U.S. House,19,,Under Votes,0,0,0,0
+Hale,306,U.S. House,19,,Over Votes,0,0,0,0
+Hale,306,Railroad Commissioner,,REP,Christi Craddick,24,0,20,4
+Hale,306,Railroad Commissioner,,DEM,Katherine Culbert,20,0,15,5
+Hale,306,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,0,2
+Hale,306,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+Hale,306,Railroad Commissioner,,,Under Votes,0,0,0,0
+Hale,306,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,306,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,27,0,21,6
+Hale,306,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,20,0,14,6
+Hale,306,"Justice, Supreme Court, Place 2",2,,Under Votes,0,0,0,0
+Hale,306,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,306,"Justice, Supreme Court, Place 4",4,REP,John Devine,26,0,19,7
+Hale,306,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,20,0,15,5
+Hale,306,"Justice, Supreme Court, Place 4",4,,Under Votes,1,0,1,0
+Hale,306,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,306,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,27,0,21,6
+Hale,306,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,20,0,14,6
+Hale,306,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Hale,306,"Justice, Supreme Court, Place 6",6,,Under Votes,0,0,0,0
+Hale,306,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,306,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,27,0,20,7
+Hale,306,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,20,0,15,5
+Hale,306,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,0,0,0
+Hale,306,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,306,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,28,0,21,7
+Hale,306,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,19,0,14,5
+Hale,306,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,0,0,0,0
+Hale,306,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,306,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,28,0,21,7
+Hale,306,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,19,0,14,5
+Hale,306,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,0,0,0,0
+Hale,306,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,306,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,26,0,20,6
+Hale,306,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,20,0,15,5
+Hale,306,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,1,0,0,1
+Hale,306,"Member, State Board of Education, District 15",15,,Under Votes,0,0,0,0
+Hale,306,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,306,State Representative,88,REP,Ken King,34,0,24,10
+Hale,306,State Representative,88,,Under Votes,13,0,11,2
+Hale,306,State Representative,88,,Over Votes,0,0,0,0
+Hale,306,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,34,0,24,10
+Hale,306,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,13,0,11,2
+Hale,306,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,306,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,34,0,24,10
+Hale,306,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,13,0,11,2
+Hale,306,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,306,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,35,0,25,10
+Hale,306,"District Attorney, 64th Judicial District",64,,Under Votes,12,0,10,2
+Hale,306,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,306,County Attorney,,REP,Jim Tirey,34,0,24,10
+Hale,306,County Attorney,,,Under Votes,13,0,11,2
+Hale,306,County Attorney,,,Over Votes,0,0,0,0
+Hale,306,"District Clerk, Unexpired Term",,REP,Julie Kelly,33,0,23,10
+Hale,306,"District Clerk, Unexpired Term",,,Under Votes,14,0,12,2
+Hale,306,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,306,Sheriff,,REP,David Cochran,34,0,23,11
+Hale,306,Sheriff,,,Under Votes,13,0,12,1
+Hale,306,Sheriff,,,Over Votes,0,0,0,0
+Hale,306,County Tax Assessor-Collector,,REP,Israel Flores,36,0,25,11
+Hale,306,County Tax Assessor-Collector,,,Under Votes,11,0,10,1
+Hale,306,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,306,"County Commissioner, Precinct 3",,REP,Tim Abel,33,0,23,10
+Hale,306,"County Commissioner, Precinct 3",,,Under Votes,14,0,12,2
+Hale,306,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Hale,306,"County Constable, Precinct 3",,REP,Terry Timms,34,0,24,10
+Hale,306,"County Constable, Precinct 3",,,Under Votes,13,0,11,2
+Hale,306,"County Constable, Precinct 3",,,Over Votes,0,0,0,0
+Hale,307,Registered Voters,,,,348,,,
+Hale,307,Ballots Cast,,,,181,,,
+Hale,307,President,,REP,Donald J. Trump,137,3,96,38
+Hale,307,President,,DEM,Kamala D. Harris,43,1,24,18
+Hale,307,President,,LIB,Chase Oliver,0,0,0,0
+Hale,307,President,,GRN,Jill Stein,0,0,0,0
+Hale,307,President,,,Under Votes,0,0,0,0
+Hale,307,President,,,Over Votes,0,0,0,0
+Hale,307,U.S. Senate,,REP,Ted Cruz,129,3,91,35
+Hale,307,U.S. Senate,,DEM,Colin Allred,42,1,26,15
+Hale,307,U.S. Senate,,LIB,Ted Brown,4,0,1,3
+Hale,307,U.S. Senate,,,Under Votes,5,0,2,3
+Hale,307,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,307,U.S. House,19,REP,Jodey C. Arrington,133,3,93,37
+Hale,307,U.S. House,19,LIB,Bernard Johnson,15,0,5,10
+Hale,307,U.S. House,19,IND,Nathan Lewis,21,1,13,7
+Hale,307,U.S. House,19,,Under Votes,12,0,9,3
+Hale,307,U.S. House,19,,Over Votes,0,0,0,0
+Hale,307,Railroad Commissioner,,REP,Christi Craddick,123,3,86,34
+Hale,307,Railroad Commissioner,,DEM,Katherine Culbert,39,1,22,16
+Hale,307,Railroad Commissioner,,LIB,Hawk Dunlap,4,0,2,2
+Hale,307,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,3,0
+Hale,307,Railroad Commissioner,,,Under Votes,12,0,7,5
+Hale,307,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,307,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,130,3,91,36
+Hale,307,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,40,1,22,17
+Hale,307,"Justice, Supreme Court, Place 2",2,,Under Votes,11,0,7,4
+Hale,307,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,307,"Justice, Supreme Court, Place 4",4,REP,John Devine,132,3,92,37
+Hale,307,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,38,1,21,16
+Hale,307,"Justice, Supreme Court, Place 4",4,,Under Votes,11,0,7,4
+Hale,307,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,307,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,122,3,87,32
+Hale,307,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,40,1,22,17
+Hale,307,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,7,0,3,4
+Hale,307,"Justice, Supreme Court, Place 6",6,,Under Votes,12,0,8,4
+Hale,307,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,307,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,130,3,90,37
+Hale,307,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,40,1,23,16
+Hale,307,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,11,0,7,4
+Hale,307,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,307,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,131,3,91,37
+Hale,307,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,39,1,22,16
+Hale,307,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,11,0,7,4
+Hale,307,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,307,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,132,3,92,37
+Hale,307,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,37,1,21,15
+Hale,307,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,12,0,7,5
+Hale,307,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,307,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,115,3,82,30
+Hale,307,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,44,1,24,19
+Hale,307,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,9,0,5,4
+Hale,307,"Member, State Board of Education, District 15",15,,Under Votes,13,0,9,4
+Hale,307,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,307,State Representative,88,REP,Ken King,155,4,105,46
+Hale,307,State Representative,88,,Under Votes,26,0,15,11
+Hale,307,State Representative,88,,Over Votes,0,0,0,0
+Hale,307,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,157,4,107,46
+Hale,307,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,24,0,13,11
+Hale,307,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,307,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,155,4,105,46
+Hale,307,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,26,0,15,11
+Hale,307,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,307,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,157,4,103,50
+Hale,307,"District Attorney, 64th Judicial District",64,,Under Votes,24,0,17,7
+Hale,307,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,307,County Attorney,,REP,Jim Tirey,156,4,105,47
+Hale,307,County Attorney,,,Under Votes,25,0,15,10
+Hale,307,County Attorney,,,Over Votes,0,0,0,0
+Hale,307,"District Clerk, Unexpired Term",,REP,Julie Kelly,155,4,105,46
+Hale,307,"District Clerk, Unexpired Term",,,Under Votes,26,0,15,11
+Hale,307,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,307,Sheriff,,REP,David Cochran,153,4,101,48
+Hale,307,Sheriff,,,Under Votes,28,0,19,9
+Hale,307,Sheriff,,,Over Votes,0,0,0,0
+Hale,307,County Tax Assessor-Collector,,REP,Israel Flores,155,4,103,48
+Hale,307,County Tax Assessor-Collector,,,Under Votes,26,0,17,9
+Hale,307,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,307,"County Commissioner, Precinct 3",,REP,Tim Abel,154,4,103,47
+Hale,307,"County Commissioner, Precinct 3",,,Under Votes,27,0,17,10
+Hale,307,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Hale,307,"County Constable, Precinct 3",,REP,Terry Timms,151,4,99,48
+Hale,307,"County Constable, Precinct 3",,,Under Votes,30,0,21,9
+Hale,307,"County Constable, Precinct 3",,,Over Votes,0,0,0,0
+Hale,316,Registered Voters,,,,1269,,,
+Hale,316,Ballots Cast,,,,713,,,
+Hale,316,President,,REP,Donald J. Trump,591,4,444,143
+Hale,316,President,,DEM,Kamala D. Harris,115,3,69,43
+Hale,316,President,,LIB,Chase Oliver,3,0,1,2
+Hale,316,President,,GRN,Jill Stein,3,0,2,1
+Hale,316,President,,,Under Votes,1,0,1,0
+Hale,316,President,,,Over Votes,0,0,0,0
+Hale,316,U.S. Senate,,REP,Ted Cruz,560,4,421,135
+Hale,316,U.S. Senate,,DEM,Colin Allred,130,2,82,46
+Hale,316,U.S. Senate,,LIB,Ted Brown,16,1,10,5
+Hale,316,U.S. Senate,,,Under Votes,7,0,4,3
+Hale,316,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,316,U.S. House,19,REP,Jodey C. Arrington,593,4,443,146
+Hale,316,U.S. House,19,LIB,Bernard Johnson,47,3,33,11
+Hale,316,U.S. House,19,IND,Nathan Lewis,44,0,26,18
+Hale,316,U.S. House,19,,Under Votes,29,0,15,14
+Hale,316,U.S. House,19,,Over Votes,0,0,0,0
+Hale,316,Railroad Commissioner,,REP,Christi Craddick,542,4,412,126
+Hale,316,Railroad Commissioner,,DEM,Katherine Culbert,101,2,64,35
+Hale,316,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,14,3
+Hale,316,Railroad Commissioner,,GRN,Eddie Espinoza,24,1,11,12
+Hale,316,Railroad Commissioner,,,Under Votes,29,0,16,13
+Hale,316,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,316,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,563,4,424,135
+Hale,316,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,119,3,76,40
+Hale,316,"Justice, Supreme Court, Place 2",2,,Under Votes,31,0,17,14
+Hale,316,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,316,"Justice, Supreme Court, Place 4",4,REP,John Devine,557,4,425,128
+Hale,316,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,124,3,76,45
+Hale,316,"Justice, Supreme Court, Place 4",4,,Under Votes,32,0,16,16
+Hale,316,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,316,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,553,4,419,130
+Hale,316,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,114,3,69,42
+Hale,316,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,12,0,11,1
+Hale,316,"Justice, Supreme Court, Place 6",6,,Under Votes,34,0,18,16
+Hale,316,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,316,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,553,4,420,129
+Hale,316,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,129,3,81,45
+Hale,316,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,31,0,16,15
+Hale,316,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,316,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,558,4,421,133
+Hale,316,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,121,3,79,39
+Hale,316,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,34,0,17,17
+Hale,316,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,316,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,561,4,424,133
+Hale,316,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,115,3,71,41
+Hale,316,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,37,0,22,15
+Hale,316,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,316,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,538,4,408,126
+Hale,316,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,129,3,80,46
+Hale,316,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,11,0,10,1
+Hale,316,"Member, State Board of Education, District 15",15,,Under Votes,35,0,19,16
+Hale,316,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,316,State Representative,88,REP,Ken King,607,6,448,153
+Hale,316,State Representative,88,,Under Votes,106,1,69,36
+Hale,316,State Representative,88,,Over Votes,0,0,0,0
+Hale,316,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,607,5,450,152
+Hale,316,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,106,2,67,37
+Hale,316,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,316,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,603,6,447,150
+Hale,316,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,110,1,70,39
+Hale,316,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,316,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,596,5,440,151
+Hale,316,"District Attorney, 64th Judicial District",64,,Under Votes,117,2,77,38
+Hale,316,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,316,County Attorney,,REP,Jim Tirey,603,6,444,153
+Hale,316,County Attorney,,,Under Votes,110,1,73,36
+Hale,316,County Attorney,,,Over Votes,0,0,0,0
+Hale,316,"District Clerk, Unexpired Term",,REP,Julie Kelly,600,5,440,155
+Hale,316,"District Clerk, Unexpired Term",,,Under Votes,113,2,77,34
+Hale,316,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,316,Sheriff,,REP,David Cochran,600,6,445,149
+Hale,316,Sheriff,,,Under Votes,113,1,72,40
+Hale,316,Sheriff,,,Over Votes,0,0,0,0
+Hale,316,County Tax Assessor-Collector,,REP,Israel Flores,594,6,438,150
+Hale,316,County Tax Assessor-Collector,,,Under Votes,119,1,79,39
+Hale,316,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,316,"County Commissioner, Precinct 3",,REP,Tim Abel,620,5,459,156
+Hale,316,"County Commissioner, Precinct 3",,,Under Votes,93,2,58,33
+Hale,316,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Hale,316,"County Constable, Precinct 3",,REP,Terry Timms,602,6,439,157
+Hale,316,"County Constable, Precinct 3",,,Under Votes,111,1,78,32
+Hale,316,"County Constable, Precinct 3",,,Over Votes,0,0,0,0
+Hale,317,Registered Voters,,,,164,,,
+Hale,317,Ballots Cast,,,,87,,,
+Hale,317,President,,REP,Donald J. Trump,72,0,40,32
+Hale,317,President,,DEM,Kamala D. Harris,14,0,5,9
+Hale,317,President,,LIB,Chase Oliver,0,0,0,0
+Hale,317,President,,GRN,Jill Stein,1,0,0,1
+Hale,317,President,,,Under Votes,0,0,0,0
+Hale,317,President,,,Over Votes,0,0,0,0
+Hale,317,U.S. Senate,,REP,Ted Cruz,70,0,40,30
+Hale,317,U.S. Senate,,DEM,Colin Allred,13,0,5,8
+Hale,317,U.S. Senate,,LIB,Ted Brown,2,0,0,2
+Hale,317,U.S. Senate,,,Under Votes,2,0,0,2
+Hale,317,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,317,U.S. House,19,REP,Jodey C. Arrington,74,0,40,34
+Hale,317,U.S. House,19,LIB,Bernard Johnson,8,0,3,5
+Hale,317,U.S. House,19,IND,Nathan Lewis,3,0,2,1
+Hale,317,U.S. House,19,,Under Votes,2,0,0,2
+Hale,317,U.S. House,19,,Over Votes,0,0,0,0
+Hale,317,Railroad Commissioner,,REP,Christi Craddick,67,0,37,30
+Hale,317,Railroad Commissioner,,DEM,Katherine Culbert,8,0,3,5
+Hale,317,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,4,2
+Hale,317,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,0,2
+Hale,317,Railroad Commissioner,,,Under Votes,4,0,1,3
+Hale,317,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,317,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,73,0,39,34
+Hale,317,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,11,0,5,6
+Hale,317,"Justice, Supreme Court, Place 2",2,,Under Votes,3,0,1,2
+Hale,317,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,317,"Justice, Supreme Court, Place 4",4,REP,John Devine,73,0,39,34
+Hale,317,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,11,0,5,6
+Hale,317,"Justice, Supreme Court, Place 4",4,,Under Votes,3,0,1,2
+Hale,317,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,317,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,73,0,39,34
+Hale,317,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,9,0,4,5
+Hale,317,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,1,1
+Hale,317,"Justice, Supreme Court, Place 6",6,,Under Votes,3,0,1,2
+Hale,317,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,317,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,72,0,39,33
+Hale,317,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,12,0,5,7
+Hale,317,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,3,0,1,2
+Hale,317,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,317,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,72,0,38,34
+Hale,317,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,12,0,6,6
+Hale,317,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,3,0,1,2
+Hale,317,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,317,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,74,0,40,34
+Hale,317,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,9,0,4,5
+Hale,317,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,4,0,1,3
+Hale,317,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,317,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,71,0,41,30
+Hale,317,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,13,0,4,9
+Hale,317,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,1,0,0,1
+Hale,317,"Member, State Board of Education, District 15",15,,Under Votes,2,0,0,2
+Hale,317,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,317,State Representative,88,REP,Ken King,77,0,42,35
+Hale,317,State Representative,88,,Under Votes,10,0,3,7
+Hale,317,State Representative,88,,Over Votes,0,0,0,0
+Hale,317,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,77,0,43,34
+Hale,317,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,10,0,2,8
+Hale,317,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,317,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,77,0,43,34
+Hale,317,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,10,0,2,8
+Hale,317,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,317,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,76,0,43,33
+Hale,317,"District Attorney, 64th Judicial District",64,,Under Votes,11,0,2,9
+Hale,317,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,317,County Attorney,,REP,Jim Tirey,79,0,43,36
+Hale,317,County Attorney,,,Under Votes,8,0,2,6
+Hale,317,County Attorney,,,Over Votes,0,0,0,0
+Hale,317,"District Clerk, Unexpired Term",,REP,Julie Kelly,79,0,43,36
+Hale,317,"District Clerk, Unexpired Term",,,Under Votes,8,0,2,6
+Hale,317,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,317,Sheriff,,REP,David Cochran,78,0,43,35
+Hale,317,Sheriff,,,Under Votes,9,0,2,7
+Hale,317,Sheriff,,,Over Votes,0,0,0,0
+Hale,317,County Tax Assessor-Collector,,REP,Israel Flores,77,0,42,35
+Hale,317,County Tax Assessor-Collector,,,Under Votes,10,0,3,7
+Hale,317,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,317,"County Commissioner, Precinct 3",,REP,Tim Abel,79,0,43,36
+Hale,317,"County Commissioner, Precinct 3",,,Under Votes,8,0,2,6
+Hale,317,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Hale,317,"County Constable, Precinct 3",,REP,Terry Timms,77,0,43,34
+Hale,317,"County Constable, Precinct 3",,,Under Votes,10,0,2,8
+Hale,317,"County Constable, Precinct 3",,,Over Votes,0,0,0,0
+Hale,318,Registered Voters,,,,1239,,,
+Hale,318,Ballots Cast,,,,783,,,
+Hale,318,President,,REP,Donald J. Trump,647,1,549,97
+Hale,318,President,,DEM,Kamala D. Harris,131,2,94,35
+Hale,318,President,,LIB,Chase Oliver,3,0,2,1
+Hale,318,President,,GRN,Jill Stein,1,0,1,0
+Hale,318,President,,,Under Votes,1,0,0,1
+Hale,318,President,,,Over Votes,0,0,0,0
+Hale,318,U.S. Senate,,REP,Ted Cruz,629,1,537,91
+Hale,318,U.S. Senate,,DEM,Colin Allred,128,2,91,35
+Hale,318,U.S. Senate,,LIB,Ted Brown,21,0,14,7
+Hale,318,U.S. Senate,,,Under Votes,5,0,4,1
+Hale,318,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,318,U.S. House,19,REP,Jodey C. Arrington,657,1,554,102
+Hale,318,U.S. House,19,LIB,Bernard Johnson,48,0,36,12
+Hale,318,U.S. House,19,IND,Nathan Lewis,59,0,43,16
+Hale,318,U.S. House,19,,Under Votes,19,2,13,4
+Hale,318,U.S. House,19,,Over Votes,0,0,0,0
+Hale,318,Railroad Commissioner,,REP,Christi Craddick,607,1,515,91
+Hale,318,Railroad Commissioner,,DEM,Katherine Culbert,105,2,79,24
+Hale,318,Railroad Commissioner,,LIB,Hawk Dunlap,34,0,29,5
+Hale,318,Railroad Commissioner,,GRN,Eddie Espinoza,17,0,6,11
+Hale,318,Railroad Commissioner,,,Under Votes,20,0,17,3
+Hale,318,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,318,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,654,1,550,103
+Hale,318,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,113,2,82,29
+Hale,318,"Justice, Supreme Court, Place 2",2,,Under Votes,16,0,14,2
+Hale,318,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,318,"Justice, Supreme Court, Place 4",4,REP,John Devine,631,1,535,95
+Hale,318,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,126,2,91,33
+Hale,318,"Justice, Supreme Court, Place 4",4,,Under Votes,26,0,20,6
+Hale,318,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,318,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,624,1,533,90
+Hale,318,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,114,2,83,29
+Hale,318,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,24,0,13,11
+Hale,318,"Justice, Supreme Court, Place 6",6,,Under Votes,21,0,17,4
+Hale,318,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,318,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,642,1,544,97
+Hale,318,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,122,2,87,33
+Hale,318,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,19,0,15,4
+Hale,318,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,318,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,639,1,541,97
+Hale,318,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,121,2,87,32
+Hale,318,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,23,0,18,5
+Hale,318,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,318,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,648,1,549,98
+Hale,318,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,113,2,80,31
+Hale,318,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,22,0,17,5
+Hale,318,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,318,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,615,1,527,87
+Hale,318,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,127,2,90,35
+Hale,318,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,20,0,15,5
+Hale,318,"Member, State Board of Education, District 15",15,,Under Votes,21,0,14,7
+Hale,318,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,318,State Representative,88,REP,Ken King,698,1,582,115
+Hale,318,State Representative,88,,Under Votes,85,2,64,19
+Hale,318,State Representative,88,,Over Votes,0,0,0,0
+Hale,318,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,694,1,578,115
+Hale,318,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,89,2,68,19
+Hale,318,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,318,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,691,1,574,116
+Hale,318,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,92,2,72,18
+Hale,318,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,318,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,691,1,575,115
+Hale,318,"District Attorney, 64th Judicial District",64,,Under Votes,92,2,71,19
+Hale,318,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,318,County Attorney,,REP,Jim Tirey,692,1,577,114
+Hale,318,County Attorney,,,Under Votes,91,2,69,20
+Hale,318,County Attorney,,,Over Votes,0,0,0,0
+Hale,318,"District Clerk, Unexpired Term",,REP,Julie Kelly,690,1,573,116
+Hale,318,"District Clerk, Unexpired Term",,,Under Votes,93,2,73,18
+Hale,318,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,318,Sheriff,,REP,David Cochran,689,1,575,113
+Hale,318,Sheriff,,,Under Votes,94,2,71,21
+Hale,318,Sheriff,,,Over Votes,0,0,0,0
+Hale,318,County Tax Assessor-Collector,,REP,Israel Flores,695,1,578,116
+Hale,318,County Tax Assessor-Collector,,,Under Votes,88,2,68,18
+Hale,318,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,318,"County Commissioner, Precinct 3",,REP,Tim Abel,688,1,575,112
+Hale,318,"County Commissioner, Precinct 3",,,Under Votes,95,2,71,22
+Hale,318,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Hale,318,"County Constable, Precinct 3",,REP,Terry Timms,694,1,576,117
+Hale,318,"County Constable, Precinct 3",,,Under Votes,89,2,70,17
+Hale,318,"County Constable, Precinct 3",,,Over Votes,0,0,0,0
+Hale,406,Registered Voters,,,,875,,,
+Hale,406,Ballots Cast,,,,281,,,
+Hale,406,President,,REP,Donald J. Trump,192,5,117,70
+Hale,406,President,,DEM,Kamala D. Harris,84,1,52,31
+Hale,406,President,,LIB,Chase Oliver,2,0,0,2
+Hale,406,President,,GRN,Jill Stein,1,0,1,0
+Hale,406,President,,,Under Votes,2,0,2,0
+Hale,406,President,,,Over Votes,0,0,0,0
+Hale,406,U.S. Senate,,REP,Ted Cruz,186,5,119,62
+Hale,406,U.S. Senate,,DEM,Colin Allred,86,1,49,36
+Hale,406,U.S. Senate,,LIB,Ted Brown,6,0,3,3
+Hale,406,U.S. Senate,,,Under Votes,3,0,1,2
+Hale,406,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,406,U.S. House,19,REP,Jodey C. Arrington,200,5,129,66
+Hale,406,U.S. House,19,LIB,Bernard Johnson,37,0,18,19
+Hale,406,U.S. House,19,IND,Nathan Lewis,26,1,13,12
+Hale,406,U.S. House,19,,Under Votes,18,0,12,6
+Hale,406,U.S. House,19,,Over Votes,0,0,0,0
+Hale,406,Railroad Commissioner,,REP,Christi Craddick,174,5,116,53
+Hale,406,Railroad Commissioner,,DEM,Katherine Culbert,74,1,47,26
+Hale,406,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,3,3
+Hale,406,Railroad Commissioner,,GRN,Eddie Espinoza,18,0,4,14
+Hale,406,Railroad Commissioner,,,Under Votes,9,0,2,7
+Hale,406,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,406,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,186,4,119,63
+Hale,406,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,88,1,51,36
+Hale,406,"Justice, Supreme Court, Place 2",2,,Under Votes,7,1,2,4
+Hale,406,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,406,"Justice, Supreme Court, Place 4",4,REP,John Devine,177,4,113,60
+Hale,406,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,93,1,54,38
+Hale,406,"Justice, Supreme Court, Place 4",4,,Under Votes,11,1,5,5
+Hale,406,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,406,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,176,4,114,58
+Hale,406,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,86,1,51,34
+Hale,406,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,7,0,1,6
+Hale,406,"Justice, Supreme Court, Place 6",6,,Under Votes,12,1,6,5
+Hale,406,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,406,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,185,4,118,63
+Hale,406,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,86,1,49,36
+Hale,406,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,10,1,5,4
+Hale,406,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,406,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,185,4,117,64
+Hale,406,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,84,1,48,35
+Hale,406,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,12,1,7,4
+Hale,406,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,406,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,188,4,118,66
+Hale,406,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,79,1,47,31
+Hale,406,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,14,1,7,6
+Hale,406,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,406,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,179,4,116,59
+Hale,406,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,83,1,48,34
+Hale,406,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,8,0,3,5
+Hale,406,"Member, State Board of Education, District 15",15,,Under Votes,11,1,5,5
+Hale,406,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,406,State Representative,88,REP,Ken King,219,4,137,78
+Hale,406,State Representative,88,,Under Votes,62,2,35,25
+Hale,406,State Representative,88,,Over Votes,0,0,0,0
+Hale,406,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,217,4,136,77
+Hale,406,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,64,2,36,26
+Hale,406,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,406,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,214,4,134,76
+Hale,406,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,67,2,38,27
+Hale,406,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,406,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,206,4,131,71
+Hale,406,"District Attorney, 64th Judicial District",64,,Under Votes,75,2,41,32
+Hale,406,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,406,County Attorney,,REP,Jim Tirey,213,4,136,73
+Hale,406,County Attorney,,,Under Votes,68,2,36,30
+Hale,406,County Attorney,,,Over Votes,0,0,0,0
+Hale,406,"District Clerk, Unexpired Term",,REP,Julie Kelly,218,4,139,75
+Hale,406,"District Clerk, Unexpired Term",,,Under Votes,63,2,33,28
+Hale,406,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,406,Sheriff,,REP,David Cochran,219,5,137,77
+Hale,406,Sheriff,,,Under Votes,62,1,35,26
+Hale,406,Sheriff,,,Over Votes,0,0,0,0
+Hale,406,County Tax Assessor-Collector,,REP,Israel Flores,217,5,135,77
+Hale,406,County Tax Assessor-Collector,,,Under Votes,64,1,37,26
+Hale,406,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,406,"County Constable, Precinct 1",,REP,Tom Baker,218,4,138,76
+Hale,406,"County Constable, Precinct 1",,,Under Votes,63,2,34,27
+Hale,406,"County Constable, Precinct 1",,,Over Votes,0,0,0,0
+Hale,407,Registered Voters,,,,1297,,,
+Hale,407,Ballots Cast,,,,898,,,
+Hale,407,President,,REP,Donald J. Trump,699,20,555,124
+Hale,407,President,,DEM,Kamala D. Harris,186,16,131,39
+Hale,407,President,,LIB,Chase Oliver,9,0,5,4
+Hale,407,President,,GRN,Jill Stein,4,0,2,2
+Hale,407,President,,,Under Votes,0,0,0,0
+Hale,407,President,,,Over Votes,0,0,0,0
+Hale,407,U.S. Senate,,REP,Ted Cruz,666,20,535,111
+Hale,407,U.S. Senate,,DEM,Colin Allred,207,14,144,49
+Hale,407,U.S. Senate,,LIB,Ted Brown,18,1,9,8
+Hale,407,U.S. Senate,,,Under Votes,7,1,5,1
+Hale,407,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,407,U.S. House,19,REP,Jodey C. Arrington,737,26,579,132
+Hale,407,U.S. House,19,LIB,Bernard Johnson,63,1,46,16
+Hale,407,U.S. House,19,IND,Nathan Lewis,85,6,61,18
+Hale,407,U.S. House,19,,Under Votes,13,3,7,3
+Hale,407,U.S. House,19,,Over Votes,0,0,0,0
+Hale,407,Railroad Commissioner,,REP,Christi Craddick,677,21,546,110
+Hale,407,Railroad Commissioner,,DEM,Katherine Culbert,161,13,109,39
+Hale,407,Railroad Commissioner,,LIB,Hawk Dunlap,22,0,15,7
+Hale,407,Railroad Commissioner,,GRN,Eddie Espinoza,20,0,11,9
+Hale,407,Railroad Commissioner,,,Under Votes,18,2,12,4
+Hale,407,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,407,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,699,20,558,121
+Hale,407,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,185,14,125,46
+Hale,407,"Justice, Supreme Court, Place 2",2,,Under Votes,14,2,10,2
+Hale,407,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,407,"Justice, Supreme Court, Place 4",4,REP,John Devine,689,20,548,121
+Hale,407,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,190,14,131,45
+Hale,407,"Justice, Supreme Court, Place 4",4,,Under Votes,19,2,14,3
+Hale,407,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,407,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,672,20,540,112
+Hale,407,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,179,12,123,44
+Hale,407,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,29,2,18,9
+Hale,407,"Justice, Supreme Court, Place 6",6,,Under Votes,18,2,12,4
+Hale,407,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,407,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,685,20,547,118
+Hale,407,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,194,14,133,47
+Hale,407,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,19,2,13,4
+Hale,407,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,407,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,696,20,555,121
+Hale,407,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,184,14,129,41
+Hale,407,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,18,2,9,7
+Hale,407,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,407,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,705,21,559,125
+Hale,407,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,172,13,121,38
+Hale,407,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,21,2,13,6
+Hale,407,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,407,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,651,20,526,105
+Hale,407,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,197,14,133,50
+Hale,407,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,24,0,17,7
+Hale,407,"Member, State Board of Education, District 15",15,,Under Votes,26,2,17,7
+Hale,407,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,407,State Representative,88,REP,Ken King,793,29,620,144
+Hale,407,State Representative,88,,Under Votes,105,7,73,25
+Hale,407,State Representative,88,,Over Votes,0,0,0,0
+Hale,407,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,795,29,622,144
+Hale,407,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,103,7,71,25
+Hale,407,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,407,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,790,28,619,143
+Hale,407,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,108,8,74,26
+Hale,407,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,407,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,779,30,609,140
+Hale,407,"District Attorney, 64th Judicial District",64,,Under Votes,119,6,84,29
+Hale,407,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,407,County Attorney,,REP,Jim Tirey,783,29,614,140
+Hale,407,County Attorney,,,Under Votes,115,7,79,29
+Hale,407,County Attorney,,,Over Votes,0,0,0,0
+Hale,407,"District Clerk, Unexpired Term",,REP,Julie Kelly,792,29,622,141
+Hale,407,"District Clerk, Unexpired Term",,,Under Votes,106,7,71,28
+Hale,407,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,407,Sheriff,,REP,David Cochran,794,28,620,146
+Hale,407,Sheriff,,,Under Votes,104,8,73,23
+Hale,407,Sheriff,,,Over Votes,0,0,0,0
+Hale,407,County Tax Assessor-Collector,,REP,Israel Flores,796,29,622,145
+Hale,407,County Tax Assessor-Collector,,,Under Votes,102,7,71,24
+Hale,407,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,407,"County Constable, Precinct 1",,REP,Tom Baker,791,29,621,141
+Hale,407,"County Constable, Precinct 1",,,Under Votes,107,7,72,28
+Hale,407,"County Constable, Precinct 1",,,Over Votes,0,0,0,0
+Hale,408,Registered Voters,,,,795,,,
+Hale,408,Ballots Cast,,,,496,,,
+Hale,408,President,,REP,Donald J. Trump,403,7,319,77
+Hale,408,President,,DEM,Kamala D. Harris,85,3,68,14
+Hale,408,President,,LIB,Chase Oliver,1,0,1,0
+Hale,408,President,,GRN,Jill Stein,1,0,1,0
+Hale,408,President,,,Under Votes,4,0,4,0
+Hale,408,President,,,Over Votes,0,0,0,0
+Hale,408,U.S. Senate,,REP,Ted Cruz,386,7,311,68
+Hale,408,U.S. Senate,,DEM,Colin Allred,91,3,71,17
+Hale,408,U.S. Senate,,LIB,Ted Brown,9,0,8,1
+Hale,408,U.S. Senate,,,Under Votes,10,0,5,5
+Hale,408,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,408,U.S. House,19,REP,Jodey C. Arrington,406,7,327,72
+Hale,408,U.S. House,19,LIB,Bernard Johnson,43,0,35,8
+Hale,408,U.S. House,19,IND,Nathan Lewis,32,1,24,7
+Hale,408,U.S. House,19,,Under Votes,15,2,9,4
+Hale,408,U.S. House,19,,Over Votes,0,0,0,0
+Hale,408,Railroad Commissioner,,REP,Christi Craddick,385,7,311,67
+Hale,408,Railroad Commissioner,,DEM,Katherine Culbert,67,3,53,11
+Hale,408,Railroad Commissioner,,LIB,Hawk Dunlap,14,0,12,2
+Hale,408,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,8,3
+Hale,408,Railroad Commissioner,,,Under Votes,19,0,11,8
+Hale,408,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,408,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,398,7,321,70
+Hale,408,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,83,3,64,16
+Hale,408,"Justice, Supreme Court, Place 2",2,,Under Votes,15,0,10,5
+Hale,408,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,408,"Justice, Supreme Court, Place 4",4,REP,John Devine,395,7,318,70
+Hale,408,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,83,3,66,14
+Hale,408,"Justice, Supreme Court, Place 4",4,,Under Votes,18,0,11,7
+Hale,408,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,408,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,383,7,309,67
+Hale,408,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,80,3,64,13
+Hale,408,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,15,0,10,5
+Hale,408,"Justice, Supreme Court, Place 6",6,,Under Votes,18,0,12,6
+Hale,408,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,408,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,396,7,313,76
+Hale,408,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,84,3,71,10
+Hale,408,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,16,0,11,5
+Hale,408,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,408,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,394,7,314,73
+Hale,408,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,81,3,66,12
+Hale,408,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,21,0,15,6
+Hale,408,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,408,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,396,7,315,74
+Hale,408,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,80,3,67,10
+Hale,408,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,20,0,13,7
+Hale,408,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,408,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,373,7,299,67
+Hale,408,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,84,3,69,12
+Hale,408,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,20,0,15,5
+Hale,408,"Member, State Board of Education, District 15",15,,Under Votes,19,0,12,7
+Hale,408,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,408,State Representative,88,REP,Ken King,432,8,345,79
+Hale,408,State Representative,88,,Under Votes,64,2,50,12
+Hale,408,State Representative,88,,Over Votes,0,0,0,0
+Hale,408,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,441,8,352,81
+Hale,408,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,55,2,43,10
+Hale,408,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,408,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,437,8,350,79
+Hale,408,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,59,2,45,12
+Hale,408,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,408,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,429,8,340,81
+Hale,408,"District Attorney, 64th Judicial District",64,,Under Votes,67,2,55,10
+Hale,408,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,408,County Attorney,,REP,Jim Tirey,429,8,339,82
+Hale,408,County Attorney,,,Under Votes,67,2,56,9
+Hale,408,County Attorney,,,Over Votes,0,0,0,0
+Hale,408,"District Clerk, Unexpired Term",,REP,Julie Kelly,432,8,342,82
+Hale,408,"District Clerk, Unexpired Term",,,Under Votes,64,2,53,9
+Hale,408,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,408,Sheriff,,REP,David Cochran,432,8,343,81
+Hale,408,Sheriff,,,Under Votes,64,2,52,10
+Hale,408,Sheriff,,,Over Votes,0,0,0,0
+Hale,408,County Tax Assessor-Collector,,REP,Israel Flores,432,8,345,79
+Hale,408,County Tax Assessor-Collector,,,Under Votes,64,2,50,12
+Hale,408,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,408,"County Constable, Precinct 1",,REP,Tom Baker,432,8,344,80
+Hale,408,"County Constable, Precinct 1",,,Under Votes,64,2,51,11
+Hale,408,"County Constable, Precinct 1",,,Over Votes,0,0,0,0
+Hale,409,Registered Voters,,,,900,,,
+Hale,409,Ballots Cast,,,,463,,,
+Hale,409,President,,REP,Donald J. Trump,347,15,231,101
+Hale,409,President,,DEM,Kamala D. Harris,109,10,70,29
+Hale,409,President,,LIB,Chase Oliver,2,0,1,1
+Hale,409,President,,GRN,Jill Stein,3,0,3,0
+Hale,409,President,,,Under Votes,2,1,1,0
+Hale,409,President,,,Over Votes,0,0,0,0
+Hale,409,U.S. Senate,,REP,Ted Cruz,316,16,217,83
+Hale,409,U.S. Senate,,DEM,Colin Allred,127,10,77,40
+Hale,409,U.S. Senate,,LIB,Ted Brown,15,0,10,5
+Hale,409,U.S. Senate,,,Under Votes,5,0,2,3
+Hale,409,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,409,U.S. House,19,REP,Jodey C. Arrington,358,17,239,102
+Hale,409,U.S. House,19,LIB,Bernard Johnson,38,0,27,11
+Hale,409,U.S. House,19,IND,Nathan Lewis,50,7,31,12
+Hale,409,U.S. House,19,,Under Votes,17,2,9,6
+Hale,409,U.S. House,19,,Over Votes,0,0,0,0
+Hale,409,Railroad Commissioner,,REP,Christi Craddick,312,16,217,79
+Hale,409,Railroad Commissioner,,DEM,Katherine Culbert,96,10,56,30
+Hale,409,Railroad Commissioner,,LIB,Hawk Dunlap,12,0,9,3
+Hale,409,Railroad Commissioner,,GRN,Eddie Espinoza,25,0,14,11
+Hale,409,Railroad Commissioner,,,Under Votes,18,0,10,8
+Hale,409,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,409,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,333,16,229,88
+Hale,409,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,113,10,67,36
+Hale,409,"Justice, Supreme Court, Place 2",2,,Under Votes,17,0,10,7
+Hale,409,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,409,"Justice, Supreme Court, Place 4",4,REP,John Devine,333,16,229,88
+Hale,409,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,112,10,68,34
+Hale,409,"Justice, Supreme Court, Place 4",4,,Under Votes,18,0,9,9
+Hale,409,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,409,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,332,16,229,87
+Hale,409,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,99,10,59,30
+Hale,409,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,14,0,7,7
+Hale,409,"Justice, Supreme Court, Place 6",6,,Under Votes,18,0,11,7
+Hale,409,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,409,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,333,16,227,90
+Hale,409,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,115,10,72,33
+Hale,409,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,15,0,7,8
+Hale,409,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,409,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,337,16,230,91
+Hale,409,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,108,10,66,32
+Hale,409,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,18,0,10,8
+Hale,409,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,409,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,335,16,227,92
+Hale,409,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,106,9,65,32
+Hale,409,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,22,1,14,7
+Hale,409,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,409,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,326,16,224,86
+Hale,409,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,108,10,65,33
+Hale,409,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,13,0,8,5
+Hale,409,"Member, State Board of Education, District 15",15,,Under Votes,16,0,9,7
+Hale,409,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,409,State Representative,88,REP,Ken King,391,18,264,109
+Hale,409,State Representative,88,,Under Votes,72,8,42,22
+Hale,409,State Representative,88,,Over Votes,0,0,0,0
+Hale,409,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,386,18,259,109
+Hale,409,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,77,8,47,22
+Hale,409,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,409,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,383,18,257,108
+Hale,409,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,80,8,49,23
+Hale,409,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,409,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,384,18,259,107
+Hale,409,"District Attorney, 64th Judicial District",64,,Under Votes,79,8,47,24
+Hale,409,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,409,County Attorney,,REP,Jim Tirey,387,18,261,108
+Hale,409,County Attorney,,,Under Votes,76,8,45,23
+Hale,409,County Attorney,,,Over Votes,0,0,0,0
+Hale,409,"District Clerk, Unexpired Term",,REP,Julie Kelly,384,18,258,108
+Hale,409,"District Clerk, Unexpired Term",,,Under Votes,79,8,48,23
+Hale,409,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,409,Sheriff,,REP,David Cochran,391,18,261,112
+Hale,409,Sheriff,,,Under Votes,72,8,45,19
+Hale,409,Sheriff,,,Over Votes,0,0,0,0
+Hale,409,County Tax Assessor-Collector,,REP,Israel Flores,399,18,264,117
+Hale,409,County Tax Assessor-Collector,,,Under Votes,64,8,42,14
+Hale,409,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,409,"County Constable, Precinct 1",,REP,Tom Baker,389,18,261,110
+Hale,409,"County Constable, Precinct 1",,,Under Votes,74,8,45,21
+Hale,409,"County Constable, Precinct 1",,,Over Votes,0,0,0,0
+Hale,419,Registered Voters,,,,245,,,
+Hale,419,Ballots Cast,,,,164,,,
+Hale,419,President,,REP,Donald J. Trump,149,2,102,45
+Hale,419,President,,DEM,Kamala D. Harris,15,2,6,7
+Hale,419,President,,LIB,Chase Oliver,0,0,0,0
+Hale,419,President,,GRN,Jill Stein,0,0,0,0
+Hale,419,President,,,Under Votes,0,0,0,0
+Hale,419,President,,,Over Votes,0,0,0,0
+Hale,419,U.S. Senate,,REP,Ted Cruz,143,2,99,42
+Hale,419,U.S. Senate,,DEM,Colin Allred,17,2,7,8
+Hale,419,U.S. Senate,,LIB,Ted Brown,3,0,2,1
+Hale,419,U.S. Senate,,,Under Votes,1,0,0,1
+Hale,419,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,419,U.S. House,19,REP,Jodey C. Arrington,152,4,102,46
+Hale,419,U.S. House,19,LIB,Bernard Johnson,4,0,2,2
+Hale,419,U.S. House,19,IND,Nathan Lewis,7,0,4,3
+Hale,419,U.S. House,19,,Under Votes,1,0,0,1
+Hale,419,U.S. House,19,,Over Votes,0,0,0,0
+Hale,419,Railroad Commissioner,,REP,Christi Craddick,143,2,99,42
+Hale,419,Railroad Commissioner,,DEM,Katherine Culbert,12,1,5,6
+Hale,419,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,1,1
+Hale,419,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Hale,419,Railroad Commissioner,,,Under Votes,6,1,2,3
+Hale,419,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,419,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,146,2,102,42
+Hale,419,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,13,1,6,6
+Hale,419,"Justice, Supreme Court, Place 2",2,,Under Votes,5,1,0,4
+Hale,419,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,419,"Justice, Supreme Court, Place 4",4,REP,John Devine,145,2,100,43
+Hale,419,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,12,1,6,5
+Hale,419,"Justice, Supreme Court, Place 4",4,,Under Votes,7,1,2,4
+Hale,419,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,419,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,143,2,99,42
+Hale,419,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,12,1,6,5
+Hale,419,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,1,1
+Hale,419,"Justice, Supreme Court, Place 6",6,,Under Votes,7,1,2,4
+Hale,419,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,419,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,147,2,102,43
+Hale,419,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,11,1,5,5
+Hale,419,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,6,1,1,4
+Hale,419,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,419,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,147,2,102,43
+Hale,419,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,11,1,5,5
+Hale,419,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,6,1,1,4
+Hale,419,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,419,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,146,2,103,41
+Hale,419,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,11,1,4,6
+Hale,419,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,7,1,1,5
+Hale,419,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,419,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,144,2,100,42
+Hale,419,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,12,1,6,5
+Hale,419,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,1,0,0,1
+Hale,419,"Member, State Board of Education, District 15",15,,Under Votes,7,1,2,4
+Hale,419,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,419,State Representative,88,REP,Ken King,147,2,100,45
+Hale,419,State Representative,88,,Under Votes,17,2,8,7
+Hale,419,State Representative,88,,Over Votes,0,0,0,0
+Hale,419,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,149,2,102,45
+Hale,419,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,15,2,6,7
+Hale,419,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,419,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,149,2,102,45
+Hale,419,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,15,2,6,7
+Hale,419,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,419,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,149,2,102,45
+Hale,419,"District Attorney, 64th Judicial District",64,,Under Votes,15,2,6,7
+Hale,419,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,419,County Attorney,,REP,Jim Tirey,149,2,101,46
+Hale,419,County Attorney,,,Under Votes,15,2,7,6
+Hale,419,County Attorney,,,Over Votes,0,0,0,0
+Hale,419,"District Clerk, Unexpired Term",,REP,Julie Kelly,150,2,102,46
+Hale,419,"District Clerk, Unexpired Term",,,Under Votes,14,2,6,6
+Hale,419,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,419,Sheriff,,REP,David Cochran,153,2,106,45
+Hale,419,Sheriff,,,Under Votes,11,2,2,7
+Hale,419,Sheriff,,,Over Votes,0,0,0,0
+Hale,419,County Tax Assessor-Collector,,REP,Israel Flores,155,3,106,46
+Hale,419,County Tax Assessor-Collector,,,Under Votes,9,1,2,6
+Hale,419,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,419,"County Constable, Precinct 1",,REP,Tom Baker,150,2,104,44
+Hale,419,"County Constable, Precinct 1",,,Under Votes,14,2,4,8
+Hale,419,"County Constable, Precinct 1",,,Over Votes,0,0,0,0
+Hale,420,Registered Voters,,,,333,,,
+Hale,420,Ballots Cast,,,,260,,,
+Hale,420,President,,REP,Donald J. Trump,236,2,188,46
+Hale,420,President,,DEM,Kamala D. Harris,23,1,18,4
+Hale,420,President,,LIB,Chase Oliver,0,0,0,0
+Hale,420,President,,GRN,Jill Stein,1,0,1,0
+Hale,420,President,,,Under Votes,0,0,0,0
+Hale,420,President,,,Over Votes,0,0,0,0
+Hale,420,U.S. Senate,,REP,Ted Cruz,232,2,185,45
+Hale,420,U.S. Senate,,DEM,Colin Allred,25,1,20,4
+Hale,420,U.S. Senate,,LIB,Ted Brown,2,0,1,1
+Hale,420,U.S. Senate,,,Under Votes,1,0,1,0
+Hale,420,U.S. Senate,,,Over Votes,0,0,0,0
+Hale,420,U.S. House,19,REP,Jodey C. Arrington,234,2,186,46
+Hale,420,U.S. House,19,LIB,Bernard Johnson,6,0,4,2
+Hale,420,U.S. House,19,IND,Nathan Lewis,10,1,9,0
+Hale,420,U.S. House,19,,Under Votes,10,0,8,2
+Hale,420,U.S. House,19,,Over Votes,0,0,0,0
+Hale,420,Railroad Commissioner,,REP,Christi Craddick,228,2,185,41
+Hale,420,Railroad Commissioner,,DEM,Katherine Culbert,21,1,16,4
+Hale,420,Railroad Commissioner,,LIB,Hawk Dunlap,10,0,5,5
+Hale,420,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Hale,420,Railroad Commissioner,,,Under Votes,0,0,0,0
+Hale,420,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hale,420,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,237,2,189,46
+Hale,420,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,21,1,16,4
+Hale,420,"Justice, Supreme Court, Place 2",2,,Under Votes,2,0,2,0
+Hale,420,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Hale,420,"Justice, Supreme Court, Place 4",4,REP,John Devine,234,2,186,46
+Hale,420,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,21,1,16,4
+Hale,420,"Justice, Supreme Court, Place 4",4,,Under Votes,5,0,5,0
+Hale,420,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Hale,420,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,233,2,187,44
+Hale,420,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,22,1,17,4
+Hale,420,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,1,1
+Hale,420,"Justice, Supreme Court, Place 6",6,,Under Votes,3,0,2,1
+Hale,420,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Hale,420,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,232,2,184,46
+Hale,420,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,25,1,20,4
+Hale,420,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,3,0,3,0
+Hale,420,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Hale,420,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,233,2,186,45
+Hale,420,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,23,1,18,4
+Hale,420,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,4,0,3,1
+Hale,420,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Hale,420,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,238,2,190,46
+Hale,420,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,20,1,16,3
+Hale,420,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,2,0,1,1
+Hale,420,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Hale,420,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,234,2,186,46
+Hale,420,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,21,1,17,3
+Hale,420,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,1,0,1,0
+Hale,420,"Member, State Board of Education, District 15",15,,Under Votes,4,0,3,1
+Hale,420,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Hale,420,State Representative,88,REP,Ken King,241,3,191,47
+Hale,420,State Representative,88,,Under Votes,19,0,16,3
+Hale,420,State Representative,88,,Over Votes,0,0,0,0
+Hale,420,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,241,3,192,46
+Hale,420,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,19,0,15,4
+Hale,420,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Hale,420,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,241,3,191,47
+Hale,420,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,19,0,16,3
+Hale,420,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Hale,420,"District Attorney, 64th Judicial District",64,REP,Wally Hatch,240,3,191,46
+Hale,420,"District Attorney, 64th Judicial District",64,,Under Votes,20,0,16,4
+Hale,420,"District Attorney, 64th Judicial District",64,,Over Votes,0,0,0,0
+Hale,420,County Attorney,,REP,Jim Tirey,239,3,191,45
+Hale,420,County Attorney,,,Under Votes,21,0,16,5
+Hale,420,County Attorney,,,Over Votes,0,0,0,0
+Hale,420,"District Clerk, Unexpired Term",,REP,Julie Kelly,241,3,192,46
+Hale,420,"District Clerk, Unexpired Term",,,Under Votes,19,0,15,4
+Hale,420,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Hale,420,Sheriff,,REP,David Cochran,240,3,190,47
+Hale,420,Sheriff,,,Under Votes,20,0,17,3
+Hale,420,Sheriff,,,Over Votes,0,0,0,0
+Hale,420,County Tax Assessor-Collector,,REP,Israel Flores,240,3,191,46
+Hale,420,County Tax Assessor-Collector,,,Under Votes,20,0,16,4
+Hale,420,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hale,420,"County Constable, Precinct 1",,REP,Tom Baker,237,3,188,46
+Hale,420,"County Constable, Precinct 1",,,Under Votes,23,0,19,4
+Hale,420,"County Constable, Precinct 1",,,Over Votes,0,0,0,0

@@ -1,0 +1,1775 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Gillespie,1,Registered Voters,,,,2188,,,
+Gillespie,1,Ballots Cast,,,,1681,,,
+Gillespie,1,President,,REP,Donald J. Trump,1247,1,1104,142
+Gillespie,1,President,,DEM,Kamala D. Harris,400,1,358,41
+Gillespie,1,President,,LIB,Chase Oliver,8,0,6,2
+Gillespie,1,President,,GRN,Jill Stein,4,0,4,0
+Gillespie,1,President,,,Under Votes,22,0,18,4
+Gillespie,1,President,,,Over Votes,0,0,0,0
+Gillespie,1,U.S. Senate,,REP,Ted Cruz,1222,1,1093,128
+Gillespie,1,U.S. Senate,,DEM,Colin Allred,411,1,358,52
+Gillespie,1,U.S. Senate,,LIB,Ted Brown,31,0,26,5
+Gillespie,1,U.S. Senate,,,Under Votes,17,0,13,4
+Gillespie,1,U.S. Senate,,,Over Votes,0,0,0,0
+Gillespie,1,U.S. House,21,REP,Chip Roy,1266,1,1122,143
+Gillespie,1,U.S. House,21,DEM,Kristin Hook,362,1,323,38
+Gillespie,1,U.S. House,21,LIB,Bob King,25,0,22,3
+Gillespie,1,U.S. House,21,,Under Votes,28,0,23,5
+Gillespie,1,U.S. House,21,,Over Votes,0,0,0,0
+Gillespie,1,Railroad Commissioner,,REP,Christi Craddick,1258,1,1115,142
+Gillespie,1,Railroad Commissioner,,DEM,Katherine Culbert,320,1,290,29
+Gillespie,1,Railroad Commissioner,,LIB,Hawk Dunlap,38,0,31,7
+Gillespie,1,Railroad Commissioner,,GRN,Eddie Espinoza,16,0,12,4
+Gillespie,1,Railroad Commissioner,,,Under Votes,49,0,42,7
+Gillespie,1,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gillespie,1,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1287,1,1141,145
+Gillespie,1,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,335,1,298,36
+Gillespie,1,"Justice, Supreme Court, Place 2",2,,Under Votes,59,0,51,8
+Gillespie,1,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,1,"Justice, Supreme Court, Place 4",4,REP,John Devine,1268,1,1125,142
+Gillespie,1,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,347,1,308,38
+Gillespie,1,"Justice, Supreme Court, Place 4",4,,Under Votes,65,0,56,9
+Gillespie,1,"Justice, Supreme Court, Place 4",4,,Over Votes,1,0,1,0
+Gillespie,1,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1253,1,1110,142
+Gillespie,1,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,333,1,299,33
+Gillespie,1,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,33,0,28,5
+Gillespie,1,"Justice, Supreme Court, Place 6",6,,Under Votes,61,0,52,9
+Gillespie,1,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Gillespie,1,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1274,0,1133,141
+Gillespie,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,344,1,304,39
+Gillespie,1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,63,1,53,9
+Gillespie,1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Gillespie,1,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1277,0,1136,141
+Gillespie,1,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,334,1,294,39
+Gillespie,1,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,69,1,59,9
+Gillespie,1,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,0,1,0
+Gillespie,1,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1293,0,1145,148
+Gillespie,1,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,317,1,284,32
+Gillespie,1,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,71,1,61,9
+Gillespie,1,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Gillespie,1,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1264,0,1120,144
+Gillespie,1,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,342,1,305,36
+Gillespie,1,"Member, State Board of Education, District 10",10,,Under Votes,74,1,64,9
+Gillespie,1,"Member, State Board of Education, District 10",10,,Over Votes,1,0,1,0
+Gillespie,1,State Representative,19,REP,Ellen Troxclair,1214,1,1075,138
+Gillespie,1,State Representative,19,DEM,Dwain Handley,326,1,294,31
+Gillespie,1,State Representative,19,IND,Kodi Sawin,77,0,64,13
+Gillespie,1,State Representative,19,,Under Votes,63,0,56,7
+Gillespie,1,State Representative,19,,Over Votes,1,0,1,0
+Gillespie,1,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,658,1,576,81
+Gillespie,1,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,1,1,914,108
+Gillespie,1,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,1,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,1268,0,1126,142
+Gillespie,1,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,333,1,295,37
+Gillespie,1,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,80,1,69,10
+Gillespie,1,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Gillespie,1,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,1280,0,1135,145
+Gillespie,1,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,314,1,280,33
+Gillespie,1,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,87,1,75,11
+Gillespie,1,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,1,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,1267,0,1122,145
+Gillespie,1,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,324,1,289,34
+Gillespie,1,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,88,1,77,10
+Gillespie,1,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,2,0,2,0
+Gillespie,1,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,1346,1,1187,158
+Gillespie,1,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,335,1,303,31
+Gillespie,1,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,1,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",1324,1,1168,155
+Gillespie,1,"District Judge, 216th Judicial District",216,,Under Votes,357,1,322,34
+Gillespie,1,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,1,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,1339,1,1184,154
+Gillespie,1,"District Attorney, 216th Judicial District",216,,Under Votes,342,1,306,35
+Gillespie,1,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,1,"Judge, County Court-at-law",,REP,Christopher Nevins,1370,1,1212,157
+Gillespie,1,"Judge, County Court-at-law",,,Under Votes,311,1,278,32
+Gillespie,1,"Judge, County Court-at-law",,,Over Votes,0,0,0,0
+Gillespie,1,County Attorney,,REP,Sara Neel,1372,1,1211,160
+Gillespie,1,County Attorney,,,Under Votes,309,1,279,29
+Gillespie,1,County Attorney,,,Over Votes,0,0,0,0
+Gillespie,1,Sheriff,,REP,Chris Ayala,1405,1,1246,158
+Gillespie,1,Sheriff,,,Under Votes,276,1,244,31
+Gillespie,1,Sheriff,,,Over Votes,0,0,0,0
+Gillespie,1,County Tax Assessor-Collector,,REP,Carol Rode Durst,1381,1,1224,156
+Gillespie,1,County Tax Assessor-Collector,,,Under Votes,300,1,266,33
+Gillespie,1,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gillespie,1,County Treasurer Unexpired Term,,REP,Vicki J. Schmidt,1374,1,1216,157
+Gillespie,1,County Treasurer Unexpired Term,,,Under Votes,307,1,274,32
+Gillespie,1,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,1,"County Commissioner, Precinct 1",,REP,Charles Olfers,1379,1,1223,155
+Gillespie,1,"County Commissioner, Precinct 1",,,Under Votes,302,1,267,34
+Gillespie,1,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Gillespie,2,Registered Voters,,,,1712,,,
+Gillespie,2,Ballots Cast,,,,1233,,,
+Gillespie,2,President,,REP,Donald J. Trump,893,4,749,140
+Gillespie,2,President,,DEM,Kamala D. Harris,320,0,272,48
+Gillespie,2,President,,LIB,Chase Oliver,5,0,4,1
+Gillespie,2,President,,GRN,Jill Stein,4,0,0,4
+Gillespie,2,President,,,Under Votes,9,1,8,0
+Gillespie,2,President,,,Over Votes,1,0,1,0
+Gillespie,2,U.S. Senate,,REP,Ted Cruz,853,4,719,130
+Gillespie,2,U.S. Senate,,DEM,Colin Allred,333,0,281,52
+Gillespie,2,U.S. Senate,,LIB,Ted Brown,36,1,25,10
+Gillespie,2,U.S. Senate,,,Under Votes,9,0,8,1
+Gillespie,2,U.S. Senate,,,Over Votes,1,0,1,0
+Gillespie,2,U.S. House,21,REP,Chip Roy,882,4,743,135
+Gillespie,2,U.S. House,21,DEM,Kristin Hook,300,0,256,44
+Gillespie,2,U.S. House,21,LIB,Bob King,31,1,18,12
+Gillespie,2,U.S. House,21,,Under Votes,20,0,18,2
+Gillespie,2,U.S. House,21,,Over Votes,0,0,0,0
+Gillespie,2,Railroad Commissioner,,REP,Christi Craddick,888,4,747,137
+Gillespie,2,Railroad Commissioner,,DEM,Katherine Culbert,261,0,227,34
+Gillespie,2,Railroad Commissioner,,LIB,Hawk Dunlap,33,0,21,12
+Gillespie,2,Railroad Commissioner,,GRN,Eddie Espinoza,17,0,12,5
+Gillespie,2,Railroad Commissioner,,,Under Votes,32,1,26,5
+Gillespie,2,Railroad Commissioner,,,Over Votes,1,0,1,0
+Gillespie,2,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,910,4,768,138
+Gillespie,2,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,279,0,236,43
+Gillespie,2,"Justice, Supreme Court, Place 2",2,,Under Votes,44,1,31,12
+Gillespie,2,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,2,"Justice, Supreme Court, Place 4",4,REP,John Devine,890,4,750,136
+Gillespie,2,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,294,0,247,47
+Gillespie,2,"Justice, Supreme Court, Place 4",4,,Under Votes,48,1,37,10
+Gillespie,2,"Justice, Supreme Court, Place 4",4,,Over Votes,1,0,1,0
+Gillespie,2,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,885,4,746,135
+Gillespie,2,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,272,0,234,38
+Gillespie,2,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,34,1,22,11
+Gillespie,2,"Justice, Supreme Court, Place 6",6,,Under Votes,41,0,32,9
+Gillespie,2,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Gillespie,2,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,899,4,755,140
+Gillespie,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,286,0,245,41
+Gillespie,2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,48,1,35,12
+Gillespie,2,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Gillespie,2,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,904,4,761,139
+Gillespie,2,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,276,0,232,44
+Gillespie,2,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,53,1,42,10
+Gillespie,2,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,2,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,912,4,765,143
+Gillespie,2,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,268,0,227,41
+Gillespie,2,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,53,1,43,9
+Gillespie,2,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Gillespie,2,"Member, State Board of Education, District 10",10,REP,Tom Maynard,895,4,754,137
+Gillespie,2,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,288,0,242,46
+Gillespie,2,"Member, State Board of Education, District 10",10,,Under Votes,49,1,38,10
+Gillespie,2,"Member, State Board of Education, District 10",10,,Over Votes,1,0,1,0
+Gillespie,2,State Representative,19,REP,Ellen Troxclair,858,4,725,129
+Gillespie,2,State Representative,19,DEM,Dwain Handley,269,0,225,44
+Gillespie,2,State Representative,19,IND,Kodi Sawin,60,1,45,14
+Gillespie,2,State Representative,19,,Under Votes,45,0,39,6
+Gillespie,2,State Representative,19,,Over Votes,1,0,1,0
+Gillespie,2,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,556,0,450,106
+Gillespie,2,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,677,5,585,87
+Gillespie,2,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,2,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,889,4,747,138
+Gillespie,2,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,281,0,239,42
+Gillespie,2,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,61,1,47,13
+Gillespie,2,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,2,0,2,0
+Gillespie,2,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,900,4,758,138
+Gillespie,2,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,272,0,230,42
+Gillespie,2,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,61,1,47,13
+Gillespie,2,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,2,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,885,4,745,136
+Gillespie,2,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,283,0,237,46
+Gillespie,2,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,65,1,53,11
+Gillespie,2,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Gillespie,2,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,965,4,817,144
+Gillespie,2,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,268,1,218,49
+Gillespie,2,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,2,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",971,4,822,145
+Gillespie,2,"District Judge, 216th Judicial District",216,,Under Votes,262,1,213,48
+Gillespie,2,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,2,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,970,4,817,149
+Gillespie,2,"District Attorney, 216th Judicial District",216,,Under Votes,263,1,218,44
+Gillespie,2,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,2,"Judge, County Court-at-law",,REP,Christopher Nevins,983,4,830,149
+Gillespie,2,"Judge, County Court-at-law",,,Under Votes,250,1,205,44
+Gillespie,2,"Judge, County Court-at-law",,,Over Votes,0,0,0,0
+Gillespie,2,County Attorney,,REP,Sara Neel,995,4,842,149
+Gillespie,2,County Attorney,,,Under Votes,238,1,193,44
+Gillespie,2,County Attorney,,,Over Votes,0,0,0,0
+Gillespie,2,Sheriff,,REP,Chris Ayala,1025,5,859,161
+Gillespie,2,Sheriff,,,Under Votes,208,0,176,32
+Gillespie,2,Sheriff,,,Over Votes,0,0,0,0
+Gillespie,2,County Tax Assessor-Collector,,REP,Carol Rode Durst,992,4,841,147
+Gillespie,2,County Tax Assessor-Collector,,,Under Votes,241,1,194,46
+Gillespie,2,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gillespie,2,County Treasurer Unexpired Term,,REP,Vicki J. Schmidt,976,4,828,144
+Gillespie,2,County Treasurer Unexpired Term,,,Under Votes,257,1,207,49
+Gillespie,2,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,3,Registered Voters,,,,1359,,,
+Gillespie,3,Ballots Cast,,,,899,,,
+Gillespie,3,President,,REP,Donald J. Trump,678,4,558,116
+Gillespie,3,President,,DEM,Kamala D. Harris,200,1,169,30
+Gillespie,3,President,,LIB,Chase Oliver,10,0,9,1
+Gillespie,3,President,,GRN,Jill Stein,4,0,2,2
+Gillespie,3,President,,,Under Votes,7,0,4,3
+Gillespie,3,President,,,Over Votes,0,0,0,0
+Gillespie,3,U.S. Senate,,REP,Ted Cruz,657,4,540,113
+Gillespie,3,U.S. Senate,,DEM,Colin Allred,213,1,179,33
+Gillespie,3,U.S. Senate,,LIB,Ted Brown,20,0,17,3
+Gillespie,3,U.S. Senate,,,Under Votes,9,0,6,3
+Gillespie,3,U.S. Senate,,,Over Votes,0,0,0,0
+Gillespie,3,U.S. House,21,REP,Chip Roy,663,4,551,108
+Gillespie,3,U.S. House,21,DEM,Kristin Hook,194,1,162,31
+Gillespie,3,U.S. House,21,LIB,Bob King,16,0,10,6
+Gillespie,3,U.S. House,21,,Under Votes,26,0,19,7
+Gillespie,3,U.S. House,21,,Over Votes,0,0,0,0
+Gillespie,3,Railroad Commissioner,,REP,Christi Craddick,664,3,551,110
+Gillespie,3,Railroad Commissioner,,DEM,Katherine Culbert,179,1,155,23
+Gillespie,3,Railroad Commissioner,,LIB,Hawk Dunlap,21,0,14,7
+Gillespie,3,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,4,2
+Gillespie,3,Railroad Commissioner,,,Under Votes,29,1,18,10
+Gillespie,3,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gillespie,3,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,676,3,561,112
+Gillespie,3,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,189,1,158,30
+Gillespie,3,"Justice, Supreme Court, Place 2",2,,Under Votes,34,1,23,10
+Gillespie,3,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,3,"Justice, Supreme Court, Place 4",4,REP,John Devine,675,4,558,113
+Gillespie,3,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,190,1,160,29
+Gillespie,3,"Justice, Supreme Court, Place 4",4,,Under Votes,34,0,24,10
+Gillespie,3,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,3,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,667,4,551,112
+Gillespie,3,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,180,1,154,25
+Gillespie,3,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,19,0,16,3
+Gillespie,3,"Justice, Supreme Court, Place 6",6,,Under Votes,33,0,21,12
+Gillespie,3,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Gillespie,3,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,677,4,560,113
+Gillespie,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,190,1,162,27
+Gillespie,3,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,32,0,20,12
+Gillespie,3,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Gillespie,3,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,676,4,559,113
+Gillespie,3,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,187,1,158,28
+Gillespie,3,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,36,0,25,11
+Gillespie,3,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,3,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,686,4,567,115
+Gillespie,3,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,178,1,151,26
+Gillespie,3,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,35,0,24,11
+Gillespie,3,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Gillespie,3,"Member, State Board of Education, District 10",10,REP,Tom Maynard,665,4,549,112
+Gillespie,3,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,188,1,159,28
+Gillespie,3,"Member, State Board of Education, District 10",10,,Under Votes,45,0,33,12
+Gillespie,3,"Member, State Board of Education, District 10",10,,Over Votes,1,0,1,0
+Gillespie,3,State Representative,19,REP,Ellen Troxclair,651,4,536,111
+Gillespie,3,State Representative,19,DEM,Dwain Handley,179,1,153,25
+Gillespie,3,State Representative,19,IND,Kodi Sawin,34,0,26,8
+Gillespie,3,State Representative,19,,Under Votes,35,0,27,8
+Gillespie,3,State Representative,19,,Over Votes,0,0,0,0
+Gillespie,3,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,380,2,310,68
+Gillespie,3,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,519,3,432,84
+Gillespie,3,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,3,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,668,4,551,113
+Gillespie,3,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,183,1,155,27
+Gillespie,3,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,48,0,36,12
+Gillespie,3,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Gillespie,3,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,670,4,553,113
+Gillespie,3,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,177,1,149,27
+Gillespie,3,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,52,0,40,12
+Gillespie,3,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,3,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,669,4,551,114
+Gillespie,3,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,179,1,151,27
+Gillespie,3,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,50,0,39,11
+Gillespie,3,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,1,0,1,0
+Gillespie,3,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,724,3,594,127
+Gillespie,3,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,175,2,148,25
+Gillespie,3,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,3,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",717,3,589,125
+Gillespie,3,"District Judge, 216th Judicial District",216,,Under Votes,182,2,153,27
+Gillespie,3,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,3,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,716,3,590,123
+Gillespie,3,"District Attorney, 216th Judicial District",216,,Under Votes,183,2,152,29
+Gillespie,3,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,3,"Judge, County Court-at-law",,REP,Christopher Nevins,727,3,602,122
+Gillespie,3,"Judge, County Court-at-law",,,Under Votes,172,2,140,30
+Gillespie,3,"Judge, County Court-at-law",,,Over Votes,0,0,0,0
+Gillespie,3,County Attorney,,REP,Sara Neel,729,3,601,125
+Gillespie,3,County Attorney,,,Under Votes,170,2,141,27
+Gillespie,3,County Attorney,,,Over Votes,0,0,0,0
+Gillespie,3,Sheriff,,REP,Chris Ayala,750,4,615,131
+Gillespie,3,Sheriff,,,Under Votes,149,1,127,21
+Gillespie,3,Sheriff,,,Over Votes,0,0,0,0
+Gillespie,3,County Tax Assessor-Collector,,REP,Carol Rode Durst,738,3,609,126
+Gillespie,3,County Tax Assessor-Collector,,,Under Votes,161,2,133,26
+Gillespie,3,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gillespie,3,County Treasurer Unexpired Term,,REP,Vicki J. Schmidt,730,3,600,127
+Gillespie,3,County Treasurer Unexpired Term,,,Under Votes,169,2,142,25
+Gillespie,3,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,3,"County Commissioner, Precinct 3",,REP,"Charles ""Chuck"" Jenschke",738,3,610,125
+Gillespie,3,"County Commissioner, Precinct 3",,,Under Votes,161,2,132,27
+Gillespie,3,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Gillespie,4,Registered Voters,,,,3001,,,
+Gillespie,4,Ballots Cast,,,,2243,,,
+Gillespie,4,President,,REP,Donald J. Trump,1628,0,1365,263
+Gillespie,4,President,,DEM,Kamala D. Harris,578,0,502,76
+Gillespie,4,President,,LIB,Chase Oliver,14,0,11,3
+Gillespie,4,President,,GRN,Jill Stein,4,0,3,1
+Gillespie,4,President,,,Under Votes,11,0,8,3
+Gillespie,4,President,,,Over Votes,2,0,2,0
+Gillespie,4,U.S. Senate,,REP,Ted Cruz,1565,0,1317,248
+Gillespie,4,U.S. Senate,,DEM,Colin Allred,604,0,521,83
+Gillespie,4,U.S. Senate,,LIB,Ted Brown,50,0,37,13
+Gillespie,4,U.S. Senate,,,Under Votes,21,0,18,3
+Gillespie,4,U.S. Senate,,,Over Votes,1,0,0,1
+Gillespie,4,U.S. House,21,REP,Chip Roy,1616,0,1354,262
+Gillespie,4,U.S. House,21,DEM,Kristin Hook,543,0,471,72
+Gillespie,4,U.S. House,21,LIB,Bob King,51,0,40,11
+Gillespie,4,U.S. House,21,,Under Votes,33,0,30,3
+Gillespie,4,U.S. House,21,,Over Votes,0,0,0,0
+Gillespie,4,Railroad Commissioner,,REP,Christi Craddick,1604,0,1346,258
+Gillespie,4,Railroad Commissioner,,DEM,Katherine Culbert,487,0,424,63
+Gillespie,4,Railroad Commissioner,,LIB,Hawk Dunlap,44,0,33,11
+Gillespie,4,Railroad Commissioner,,GRN,Eddie Espinoza,32,0,26,6
+Gillespie,4,Railroad Commissioner,,,Under Votes,71,0,61,10
+Gillespie,4,Railroad Commissioner,,,Over Votes,2,0,2,0
+Gillespie,4,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1635,0,1371,264
+Gillespie,4,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,522,0,446,76
+Gillespie,4,"Justice, Supreme Court, Place 2",2,,Under Votes,86,0,78,8
+Gillespie,4,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,4,"Justice, Supreme Court, Place 4",4,REP,John Devine,1614,0,1354,260
+Gillespie,4,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,530,0,455,75
+Gillespie,4,"Justice, Supreme Court, Place 4",4,,Under Votes,98,0,86,12
+Gillespie,4,"Justice, Supreme Court, Place 4",4,,Over Votes,1,0,0,1
+Gillespie,4,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1594,0,1335,259
+Gillespie,4,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,509,0,438,71
+Gillespie,4,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,56,0,45,11
+Gillespie,4,"Justice, Supreme Court, Place 6",6,,Under Votes,83,0,76,7
+Gillespie,4,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Gillespie,4,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1630,0,1364,266
+Gillespie,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,526,0,452,74
+Gillespie,4,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,87,0,79,8
+Gillespie,4,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Gillespie,4,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1643,0,1371,272
+Gillespie,4,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,504,0,435,69
+Gillespie,4,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,96,0,89,7
+Gillespie,4,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,4,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1652,0,1381,271
+Gillespie,4,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,494,0,425,69
+Gillespie,4,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,97,0,89,8
+Gillespie,4,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Gillespie,4,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1621,0,1364,257
+Gillespie,4,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,545,0,463,82
+Gillespie,4,"Member, State Board of Education, District 10",10,,Under Votes,77,0,68,9
+Gillespie,4,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Gillespie,4,State Representative,19,REP,Ellen Troxclair,1558,0,1313,245
+Gillespie,4,State Representative,19,DEM,Dwain Handley,501,0,429,72
+Gillespie,4,State Representative,19,IND,Kodi Sawin,99,0,81,18
+Gillespie,4,State Representative,19,,Under Votes,84,0,72,12
+Gillespie,4,State Representative,19,,Over Votes,1,0,0,1
+Gillespie,4,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,926,0,759,167
+Gillespie,4,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,181,0,1,136
+Gillespie,4,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,4,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,1634,0,1366,268
+Gillespie,4,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,506,0,438,68
+Gillespie,4,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,103,0,91,12
+Gillespie,4,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Gillespie,4,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,1632,0,1370,262
+Gillespie,4,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,501,0,427,74
+Gillespie,4,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,110,0,98,12
+Gillespie,4,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,4,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,1620,0,1358,262
+Gillespie,4,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,514,0,439,75
+Gillespie,4,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,108,0,97,11
+Gillespie,4,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,1,0,1,0
+Gillespie,4,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,1756,0,1468,288
+Gillespie,4,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,487,0,427,60
+Gillespie,4,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,4,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",1737,0,1456,281
+Gillespie,4,"District Judge, 216th Judicial District",216,,Under Votes,506,0,439,67
+Gillespie,4,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,4,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,1755,0,1468,287
+Gillespie,4,"District Attorney, 216th Judicial District",216,,Under Votes,488,0,427,61
+Gillespie,4,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,4,"Judge, County Court-at-law",,REP,Christopher Nevins,1784,0,1501,283
+Gillespie,4,"Judge, County Court-at-law",,,Under Votes,459,0,394,65
+Gillespie,4,"Judge, County Court-at-law",,,Over Votes,0,0,0,0
+Gillespie,4,County Attorney,,REP,Sara Neel,1792,0,1500,292
+Gillespie,4,County Attorney,,,Under Votes,451,0,395,56
+Gillespie,4,County Attorney,,,Over Votes,0,0,0,0
+Gillespie,4,Sheriff,,REP,Chris Ayala,1855,0,1561,294
+Gillespie,4,Sheriff,,,Under Votes,388,0,334,54
+Gillespie,4,Sheriff,,,Over Votes,0,0,0,0
+Gillespie,4,County Tax Assessor-Collector,,REP,Carol Rode Durst,1803,0,1514,289
+Gillespie,4,County Tax Assessor-Collector,,,Under Votes,440,0,381,59
+Gillespie,4,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gillespie,4,County Treasurer Unexpired Term,,REP,Vicki J. Schmidt,1776,0,1493,283
+Gillespie,4,County Treasurer Unexpired Term,,,Under Votes,467,0,402,65
+Gillespie,4,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,5,Registered Voters,,,,26,,,
+Gillespie,5,Ballots Cast,,,,27,,,
+Gillespie,5,President,,REP,Donald J. Trump,22,0,18,4
+Gillespie,5,President,,DEM,Kamala D. Harris,4,0,4,0
+Gillespie,5,President,,LIB,Chase Oliver,0,0,0,0
+Gillespie,5,President,,GRN,Jill Stein,0,0,0,0
+Gillespie,5,President,,,Under Votes,1,0,0,1
+Gillespie,5,President,,,Over Votes,0,0,0,0
+Gillespie,5,U.S. Senate,,REP,Ted Cruz,23,0,18,5
+Gillespie,5,U.S. Senate,,DEM,Colin Allred,4,0,4,0
+Gillespie,5,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Gillespie,5,U.S. Senate,,,Under Votes,0,0,0,0
+Gillespie,5,U.S. Senate,,,Over Votes,0,0,0,0
+Gillespie,5,U.S. House,21,REP,Chip Roy,23,0,18,5
+Gillespie,5,U.S. House,21,DEM,Kristin Hook,4,0,4,0
+Gillespie,5,U.S. House,21,LIB,Bob King,0,0,0,0
+Gillespie,5,U.S. House,21,,Under Votes,0,0,0,0
+Gillespie,5,U.S. House,21,,Over Votes,0,0,0,0
+Gillespie,5,Railroad Commissioner,,REP,Christi Craddick,23,0,18,5
+Gillespie,5,Railroad Commissioner,,DEM,Katherine Culbert,3,0,3,0
+Gillespie,5,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Gillespie,5,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Gillespie,5,Railroad Commissioner,,,Under Votes,1,0,1,0
+Gillespie,5,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gillespie,5,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,23,0,18,5
+Gillespie,5,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,3,0,3,0
+Gillespie,5,"Justice, Supreme Court, Place 2",2,,Under Votes,1,0,1,0
+Gillespie,5,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,5,"Justice, Supreme Court, Place 4",4,REP,John Devine,23,0,18,5
+Gillespie,5,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,3,0,3,0
+Gillespie,5,"Justice, Supreme Court, Place 4",4,,Under Votes,1,0,1,0
+Gillespie,5,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,5,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,23,0,18,5
+Gillespie,5,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,3,0,3,0
+Gillespie,5,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Gillespie,5,"Justice, Supreme Court, Place 6",6,,Under Votes,1,0,1,0
+Gillespie,5,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Gillespie,5,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,23,0,18,5
+Gillespie,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,3,0,3,0
+Gillespie,5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,0,1,0
+Gillespie,5,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Gillespie,5,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,23,0,18,5
+Gillespie,5,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,3,0,3,0
+Gillespie,5,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,1,0,1,0
+Gillespie,5,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,5,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,23,0,18,5
+Gillespie,5,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,3,0,3,0
+Gillespie,5,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,1,0,1,0
+Gillespie,5,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Gillespie,5,"Member, State Board of Education, District 10",10,REP,Tom Maynard,23,0,18,5
+Gillespie,5,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,3,0,3,0
+Gillespie,5,"Member, State Board of Education, District 10",10,,Under Votes,1,0,1,0
+Gillespie,5,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Gillespie,5,State Representative,19,REP,Ellen Troxclair,22,0,18,4
+Gillespie,5,State Representative,19,DEM,Dwain Handley,3,0,3,0
+Gillespie,5,State Representative,19,IND,Kodi Sawin,0,0,0,0
+Gillespie,5,State Representative,19,,Under Votes,2,0,1,1
+Gillespie,5,State Representative,19,,Over Votes,0,0,0,0
+Gillespie,5,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,10,0,9,1
+Gillespie,5,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,17,0,13,4
+Gillespie,5,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,5,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,23,0,18,5
+Gillespie,5,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,3,0,3,0
+Gillespie,5,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,1,0,1,0
+Gillespie,5,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Gillespie,5,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,23,0,18,5
+Gillespie,5,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,3,0,3,0
+Gillespie,5,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,1,0,1,0
+Gillespie,5,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,5,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,23,0,18,5
+Gillespie,5,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,3,0,3,0
+Gillespie,5,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,1,0,1,0
+Gillespie,5,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Gillespie,5,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,25,0,20,5
+Gillespie,5,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,2,0,2,0
+Gillespie,5,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,5,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",25,0,20,5
+Gillespie,5,"District Judge, 216th Judicial District",216,,Under Votes,2,0,2,0
+Gillespie,5,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,5,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,24,0,19,5
+Gillespie,5,"District Attorney, 216th Judicial District",216,,Under Votes,3,0,3,0
+Gillespie,5,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,5,"Judge, County Court-at-law",,REP,Christopher Nevins,25,0,20,5
+Gillespie,5,"Judge, County Court-at-law",,,Under Votes,2,0,2,0
+Gillespie,5,"Judge, County Court-at-law",,,Over Votes,0,0,0,0
+Gillespie,5,County Attorney,,REP,Sara Neel,25,0,20,5
+Gillespie,5,County Attorney,,,Under Votes,2,0,2,0
+Gillespie,5,County Attorney,,,Over Votes,0,0,0,0
+Gillespie,5,Sheriff,,REP,Chris Ayala,26,0,21,5
+Gillespie,5,Sheriff,,,Under Votes,1,0,1,0
+Gillespie,5,Sheriff,,,Over Votes,0,0,0,0
+Gillespie,5,County Tax Assessor-Collector,,REP,Carol Rode Durst,22,0,17,5
+Gillespie,5,County Tax Assessor-Collector,,,Under Votes,5,0,5,0
+Gillespie,5,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gillespie,5,County Treasurer Unexpired Term,,REP,Vicki J. Schmidt,24,0,19,5
+Gillespie,5,County Treasurer Unexpired Term,,,Under Votes,3,0,3,0
+Gillespie,5,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,6,Registered Voters,,,,713,,,
+Gillespie,6,Ballots Cast,,,,567,,,
+Gillespie,6,President,,REP,Donald J. Trump,445,0,271,174
+Gillespie,6,President,,DEM,Kamala D. Harris,111,0,79,32
+Gillespie,6,President,,LIB,Chase Oliver,4,0,3,1
+Gillespie,6,President,,GRN,Jill Stein,0,0,0,0
+Gillespie,6,President,,,Under Votes,5,0,3,2
+Gillespie,6,President,,,Over Votes,1,0,1,0
+Gillespie,6,U.S. Senate,,REP,Ted Cruz,434,0,265,169
+Gillespie,6,U.S. Senate,,DEM,Colin Allred,113,0,83,30
+Gillespie,6,U.S. Senate,,LIB,Ted Brown,15,0,8,7
+Gillespie,6,U.S. Senate,,,Under Votes,5,0,1,4
+Gillespie,6,U.S. Senate,,,Over Votes,0,0,0,0
+Gillespie,6,U.S. House,21,REP,Chip Roy,440,0,269,171
+Gillespie,6,U.S. House,21,DEM,Kristin Hook,102,0,74,28
+Gillespie,6,U.S. House,21,LIB,Bob King,12,0,5,7
+Gillespie,6,U.S. House,21,,Under Votes,13,0,9,4
+Gillespie,6,U.S. House,21,,Over Votes,0,0,0,0
+Gillespie,6,Railroad Commissioner,,REP,Christi Craddick,445,0,269,176
+Gillespie,6,Railroad Commissioner,,DEM,Katherine Culbert,89,0,69,20
+Gillespie,6,Railroad Commissioner,,LIB,Hawk Dunlap,11,0,8,3
+Gillespie,6,Railroad Commissioner,,GRN,Eddie Espinoza,9,0,4,5
+Gillespie,6,Railroad Commissioner,,,Under Votes,13,0,7,6
+Gillespie,6,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gillespie,6,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,445,0,273,172
+Gillespie,6,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,98,0,72,26
+Gillespie,6,"Justice, Supreme Court, Place 2",2,,Under Votes,24,0,12,12
+Gillespie,6,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,6,"Justice, Supreme Court, Place 4",4,REP,John Devine,443,0,271,172
+Gillespie,6,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,101,0,74,27
+Gillespie,6,"Justice, Supreme Court, Place 4",4,,Under Votes,23,0,12,11
+Gillespie,6,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,6,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,438,0,271,167
+Gillespie,6,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,97,0,69,28
+Gillespie,6,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,11,0,5,6
+Gillespie,6,"Justice, Supreme Court, Place 6",6,,Under Votes,20,0,11,9
+Gillespie,6,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Gillespie,6,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,451,0,275,176
+Gillespie,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,95,0,71,24
+Gillespie,6,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,21,0,11,10
+Gillespie,6,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Gillespie,6,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,450,0,279,171
+Gillespie,6,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,94,0,66,28
+Gillespie,6,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,23,0,12,11
+Gillespie,6,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,6,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,452,0,275,177
+Gillespie,6,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,94,0,70,24
+Gillespie,6,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,21,0,12,9
+Gillespie,6,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Gillespie,6,"Member, State Board of Education, District 10",10,REP,Tom Maynard,443,0,269,174
+Gillespie,6,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,101,0,73,28
+Gillespie,6,"Member, State Board of Education, District 10",10,,Under Votes,23,0,15,8
+Gillespie,6,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Gillespie,6,State Representative,19,REP,Ellen Troxclair,440,0,271,169
+Gillespie,6,State Representative,19,DEM,Dwain Handley,89,0,66,23
+Gillespie,6,State Representative,19,IND,Kodi Sawin,20,0,7,13
+Gillespie,6,State Representative,19,,Under Votes,18,0,13,5
+Gillespie,6,State Representative,19,,Over Votes,0,0,0,0
+Gillespie,6,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,223,0,140,83
+Gillespie,6,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,344,0,217,127
+Gillespie,6,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,6,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,450,0,277,173
+Gillespie,6,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,91,0,65,26
+Gillespie,6,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,26,0,15,11
+Gillespie,6,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Gillespie,6,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,447,0,276,171
+Gillespie,6,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,89,0,64,25
+Gillespie,6,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,31,0,17,14
+Gillespie,6,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,6,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,439,0,273,166
+Gillespie,6,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,97,0,68,29
+Gillespie,6,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,31,0,16,15
+Gillespie,6,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Gillespie,6,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,466,0,297,169
+Gillespie,6,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,101,0,60,41
+Gillespie,6,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,6,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",462,0,294,168
+Gillespie,6,"District Judge, 216th Judicial District",216,,Under Votes,105,0,63,42
+Gillespie,6,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,6,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,470,0,296,174
+Gillespie,6,"District Attorney, 216th Judicial District",216,,Under Votes,97,0,61,36
+Gillespie,6,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,6,"Judge, County Court-at-law",,REP,Christopher Nevins,489,0,306,183
+Gillespie,6,"Judge, County Court-at-law",,,Under Votes,78,0,51,27
+Gillespie,6,"Judge, County Court-at-law",,,Over Votes,0,0,0,0
+Gillespie,6,County Attorney,,REP,Sara Neel,477,0,296,181
+Gillespie,6,County Attorney,,,Under Votes,90,0,61,29
+Gillespie,6,County Attorney,,,Over Votes,0,0,0,0
+Gillespie,6,Sheriff,,REP,Chris Ayala,486,0,304,182
+Gillespie,6,Sheriff,,,Under Votes,81,0,53,28
+Gillespie,6,Sheriff,,,Over Votes,0,0,0,0
+Gillespie,6,County Tax Assessor-Collector,,REP,Carol Rode Durst,485,0,304,181
+Gillespie,6,County Tax Assessor-Collector,,,Under Votes,82,0,53,29
+Gillespie,6,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gillespie,6,County Treasurer Unexpired Term,,REP,Vicki J. Schmidt,480,0,300,180
+Gillespie,6,County Treasurer Unexpired Term,,,Under Votes,87,0,57,30
+Gillespie,6,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,6,"County Commissioner, Precinct 3",,REP,"Charles ""Chuck"" Jenschke",482,0,303,179
+Gillespie,6,"County Commissioner, Precinct 3",,,Under Votes,85,0,54,31
+Gillespie,6,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Gillespie,7,Registered Voters,,,,2929,,,
+Gillespie,7,Ballots Cast,,,,2258,,,
+Gillespie,7,President,,REP,Donald J. Trump,1836,1,1529,306
+Gillespie,7,President,,DEM,Kamala D. Harris,393,0,348,45
+Gillespie,7,President,,LIB,Chase Oliver,6,0,4,2
+Gillespie,7,President,,GRN,Jill Stein,2,0,2,0
+Gillespie,7,President,,,Under Votes,19,0,17,2
+Gillespie,7,President,,,Over Votes,2,0,1,1
+Gillespie,7,U.S. Senate,,REP,Ted Cruz,1797,1,1499,297
+Gillespie,7,U.S. Senate,,DEM,Colin Allred,407,0,360,47
+Gillespie,7,U.S. Senate,,LIB,Ted Brown,39,0,31,8
+Gillespie,7,U.S. Senate,,,Under Votes,11,0,9,2
+Gillespie,7,U.S. Senate,,,Over Votes,2,0,1,1
+Gillespie,7,U.S. House,21,REP,Chip Roy,1840,1,1536,303
+Gillespie,7,U.S. House,21,DEM,Kristin Hook,356,0,319,37
+Gillespie,7,U.S. House,21,LIB,Bob King,29,0,20,9
+Gillespie,7,U.S. House,21,,Under Votes,31,0,25,6
+Gillespie,7,U.S. House,21,,Over Votes,2,0,1,1
+Gillespie,7,Railroad Commissioner,,REP,Christi Craddick,1817,1,1523,293
+Gillespie,7,Railroad Commissioner,,DEM,Katherine Culbert,316,0,284,32
+Gillespie,7,Railroad Commissioner,,LIB,Hawk Dunlap,47,0,29,18
+Gillespie,7,Railroad Commissioner,,GRN,Eddie Espinoza,21,0,16,5
+Gillespie,7,Railroad Commissioner,,,Under Votes,53,0,47,6
+Gillespie,7,Railroad Commissioner,,,Over Votes,2,0,1,1
+Gillespie,7,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1856,1,1545,310
+Gillespie,7,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,337,0,301,36
+Gillespie,7,"Justice, Supreme Court, Place 2",2,,Under Votes,64,0,55,9
+Gillespie,7,"Justice, Supreme Court, Place 2",2,,Over Votes,1,0,0,1
+Gillespie,7,"Justice, Supreme Court, Place 4",4,REP,John Devine,1848,1,1541,306
+Gillespie,7,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,349,0,306,43
+Gillespie,7,"Justice, Supreme Court, Place 4",4,,Under Votes,60,0,54,6
+Gillespie,7,"Justice, Supreme Court, Place 4",4,,Over Votes,1,0,0,1
+Gillespie,7,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1837,1,1532,304
+Gillespie,7,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,318,0,283,35
+Gillespie,7,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,43,0,32,11
+Gillespie,7,"Justice, Supreme Court, Place 6",6,,Under Votes,58,0,53,5
+Gillespie,7,"Justice, Supreme Court, Place 6",6,,Over Votes,2,0,1,1
+Gillespie,7,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1851,1,1544,306
+Gillespie,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,344,0,302,42
+Gillespie,7,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,62,0,55,7
+Gillespie,7,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,0,0,1
+Gillespie,7,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1848,1,1539,308
+Gillespie,7,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,341,0,300,41
+Gillespie,7,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,68,0,62,6
+Gillespie,7,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,0,0,1
+Gillespie,7,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1874,1,1562,311
+Gillespie,7,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,317,0,280,37
+Gillespie,7,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,66,0,59,7
+Gillespie,7,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,0,0,1
+Gillespie,7,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1842,1,1532,309
+Gillespie,7,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,345,0,303,42
+Gillespie,7,"Member, State Board of Education, District 10",10,,Under Votes,69,0,65,4
+Gillespie,7,"Member, State Board of Education, District 10",10,,Over Votes,2,0,1,1
+Gillespie,7,State Representative,19,REP,Ellen Troxclair,1776,1,1482,293
+Gillespie,7,State Representative,19,DEM,Dwain Handley,318,0,287,31
+Gillespie,7,State Representative,19,IND,Kodi Sawin,94,0,73,21
+Gillespie,7,State Representative,19,,Under Votes,67,0,58,9
+Gillespie,7,State Representative,19,,Over Votes,3,0,1,2
+Gillespie,7,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,847,0,701,146
+Gillespie,7,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,210,1,1,200
+Gillespie,7,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,7,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,1841,1,1533,307
+Gillespie,7,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,328,0,287,41
+Gillespie,7,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,86,0,79,7
+Gillespie,7,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,3,0,2,1
+Gillespie,7,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,1848,1,1538,309
+Gillespie,7,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,312,0,276,36
+Gillespie,7,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,97,0,87,10
+Gillespie,7,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,1,0,0,1
+Gillespie,7,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,1834,1,1527,306
+Gillespie,7,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,332,0,291,41
+Gillespie,7,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,89,0,81,8
+Gillespie,7,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,3,0,2,1
+Gillespie,7,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,1907,1,1591,315
+Gillespie,7,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,351,0,310,41
+Gillespie,7,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,7,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",1893,1,1581,311
+Gillespie,7,"District Judge, 216th Judicial District",216,,Under Votes,365,0,320,45
+Gillespie,7,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,7,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,1917,1,1601,315
+Gillespie,7,"District Attorney, 216th Judicial District",216,,Under Votes,341,0,300,41
+Gillespie,7,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,7,"Judge, County Court-at-law",,REP,Christopher Nevins,1923,1,1609,313
+Gillespie,7,"Judge, County Court-at-law",,,Under Votes,335,0,292,43
+Gillespie,7,"Judge, County Court-at-law",,,Over Votes,0,0,0,0
+Gillespie,7,County Attorney,,REP,Sara Neel,1923,1,1608,314
+Gillespie,7,County Attorney,,,Under Votes,335,0,293,42
+Gillespie,7,County Attorney,,,Over Votes,0,0,0,0
+Gillespie,7,Sheriff,,REP,Chris Ayala,1951,1,1633,317
+Gillespie,7,Sheriff,,,Under Votes,307,0,268,39
+Gillespie,7,Sheriff,,,Over Votes,0,0,0,0
+Gillespie,7,County Tax Assessor-Collector,,REP,Carol Rode Durst,1952,1,1635,316
+Gillespie,7,County Tax Assessor-Collector,,,Under Votes,306,0,266,40
+Gillespie,7,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gillespie,7,County Treasurer Unexpired Term,,REP,Vicki J. Schmidt,1930,1,1618,311
+Gillespie,7,County Treasurer Unexpired Term,,,Under Votes,328,0,283,45
+Gillespie,7,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,7,"County Commissioner, Precinct 3",,REP,"Charles ""Chuck"" Jenschke",1931,1,1613,317
+Gillespie,7,"County Commissioner, Precinct 3",,,Under Votes,327,0,288,39
+Gillespie,7,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Gillespie,8,Registered Voters,,,,426,,,
+Gillespie,8,Ballots Cast,,,,314,,,
+Gillespie,8,President,,REP,Donald J. Trump,277,0,198,79
+Gillespie,8,President,,DEM,Kamala D. Harris,34,0,26,8
+Gillespie,8,President,,LIB,Chase Oliver,2,0,1,1
+Gillespie,8,President,,GRN,Jill Stein,0,0,0,0
+Gillespie,8,President,,,Under Votes,1,0,1,0
+Gillespie,8,President,,,Over Votes,0,0,0,0
+Gillespie,8,U.S. Senate,,REP,Ted Cruz,268,0,191,77
+Gillespie,8,U.S. Senate,,DEM,Colin Allred,40,0,30,10
+Gillespie,8,U.S. Senate,,LIB,Ted Brown,4,0,4,0
+Gillespie,8,U.S. Senate,,,Under Votes,2,0,1,1
+Gillespie,8,U.S. Senate,,,Over Votes,0,0,0,0
+Gillespie,8,U.S. House,21,REP,Chip Roy,279,0,199,80
+Gillespie,8,U.S. House,21,DEM,Kristin Hook,30,0,23,7
+Gillespie,8,U.S. House,21,LIB,Bob King,1,0,1,0
+Gillespie,8,U.S. House,21,,Under Votes,4,0,3,1
+Gillespie,8,U.S. House,21,,Over Votes,0,0,0,0
+Gillespie,8,Railroad Commissioner,,REP,Christi Craddick,265,0,187,78
+Gillespie,8,Railroad Commissioner,,DEM,Katherine Culbert,31,0,24,7
+Gillespie,8,Railroad Commissioner,,LIB,Hawk Dunlap,11,0,9,2
+Gillespie,8,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0
+Gillespie,8,Railroad Commissioner,,,Under Votes,4,0,3,1
+Gillespie,8,Railroad Commissioner,,,Over Votes,1,0,1,0
+Gillespie,8,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,274,0,195,79
+Gillespie,8,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,34,0,27,7
+Gillespie,8,"Justice, Supreme Court, Place 2",2,,Under Votes,6,0,4,2
+Gillespie,8,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,8,"Justice, Supreme Court, Place 4",4,REP,John Devine,269,0,190,79
+Gillespie,8,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,39,0,32,7
+Gillespie,8,"Justice, Supreme Court, Place 4",4,,Under Votes,6,0,4,2
+Gillespie,8,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,8,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,269,0,190,79
+Gillespie,8,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,33,0,26,7
+Gillespie,8,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,6,0,6,0
+Gillespie,8,"Justice, Supreme Court, Place 6",6,,Under Votes,6,0,4,2
+Gillespie,8,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Gillespie,8,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,274,0,194,80
+Gillespie,8,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,33,0,26,7
+Gillespie,8,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,7,0,6,1
+Gillespie,8,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Gillespie,8,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,276,0,197,79
+Gillespie,8,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,31,0,24,7
+Gillespie,8,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,7,0,5,2
+Gillespie,8,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,8,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,277,0,198,79
+Gillespie,8,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,30,0,23,7
+Gillespie,8,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,7,0,5,2
+Gillespie,8,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Gillespie,8,"Member, State Board of Education, District 10",10,REP,Tom Maynard,277,0,198,79
+Gillespie,8,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,31,0,23,8
+Gillespie,8,"Member, State Board of Education, District 10",10,,Under Votes,6,0,5,1
+Gillespie,8,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Gillespie,8,State Representative,19,REP,Ellen Troxclair,259,0,182,77
+Gillespie,8,State Representative,19,DEM,Dwain Handley,30,0,22,8
+Gillespie,8,State Representative,19,IND,Kodi Sawin,18,0,16,2
+Gillespie,8,State Representative,19,,Under Votes,6,0,5,1
+Gillespie,8,State Representative,19,,Over Votes,1,0,1,0
+Gillespie,8,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,113,0,81,32
+Gillespie,8,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,201,0,145,56
+Gillespie,8,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,8,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,272,0,194,78
+Gillespie,8,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,34,0,26,8
+Gillespie,8,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,8,0,6,2
+Gillespie,8,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Gillespie,8,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,271,0,194,77
+Gillespie,8,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,33,0,25,8
+Gillespie,8,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,10,0,7,3
+Gillespie,8,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,8,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,270,0,193,77
+Gillespie,8,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,35,0,26,9
+Gillespie,8,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,9,0,7,2
+Gillespie,8,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Gillespie,8,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,272,0,198,74
+Gillespie,8,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,42,0,28,14
+Gillespie,8,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,8,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",277,0,201,76
+Gillespie,8,"District Judge, 216th Judicial District",216,,Under Votes,37,0,25,12
+Gillespie,8,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,8,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,274,0,201,73
+Gillespie,8,"District Attorney, 216th Judicial District",216,,Under Votes,40,0,25,15
+Gillespie,8,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,8,"Judge, County Court-at-law",,REP,Christopher Nevins,278,0,200,78
+Gillespie,8,"Judge, County Court-at-law",,,Under Votes,36,0,26,10
+Gillespie,8,"Judge, County Court-at-law",,,Over Votes,0,0,0,0
+Gillespie,8,County Attorney,,REP,Sara Neel,282,0,203,79
+Gillespie,8,County Attorney,,,Under Votes,32,0,23,9
+Gillespie,8,County Attorney,,,Over Votes,0,0,0,0
+Gillespie,8,Sheriff,,REP,Chris Ayala,281,0,206,75
+Gillespie,8,Sheriff,,,Under Votes,33,0,20,13
+Gillespie,8,Sheriff,,,Over Votes,0,0,0,0
+Gillespie,8,County Tax Assessor-Collector,,REP,Carol Rode Durst,279,0,203,76
+Gillespie,8,County Tax Assessor-Collector,,,Under Votes,35,0,23,12
+Gillespie,8,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gillespie,8,County Treasurer Unexpired Term,,REP,Vicki J. Schmidt,283,0,206,77
+Gillespie,8,County Treasurer Unexpired Term,,,Under Votes,31,0,20,11
+Gillespie,8,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,8,"County Commissioner, Precinct 1",,REP,Charles Olfers,283,0,204,79
+Gillespie,8,"County Commissioner, Precinct 1",,,Under Votes,31,0,22,9
+Gillespie,8,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Gillespie,9,Registered Voters,,,,198,,,
+Gillespie,9,Ballots Cast,,,,157,,,
+Gillespie,9,President,,REP,Donald J. Trump,144,0,63,81
+Gillespie,9,President,,DEM,Kamala D. Harris,11,0,10,1
+Gillespie,9,President,,LIB,Chase Oliver,1,0,1,0
+Gillespie,9,President,,GRN,Jill Stein,0,0,0,0
+Gillespie,9,President,,,Under Votes,1,0,1,0
+Gillespie,9,President,,,Over Votes,0,0,0,0
+Gillespie,9,U.S. Senate,,REP,Ted Cruz,144,0,63,81
+Gillespie,9,U.S. Senate,,DEM,Colin Allred,11,0,10,1
+Gillespie,9,U.S. Senate,,LIB,Ted Brown,1,0,1,0
+Gillespie,9,U.S. Senate,,,Under Votes,1,0,1,0
+Gillespie,9,U.S. Senate,,,Over Votes,0,0,0,0
+Gillespie,9,U.S. House,21,REP,Chip Roy,141,0,65,76
+Gillespie,9,U.S. House,21,DEM,Kristin Hook,12,0,10,2
+Gillespie,9,U.S. House,21,LIB,Bob King,4,0,0,4
+Gillespie,9,U.S. House,21,,Under Votes,0,0,0,0
+Gillespie,9,U.S. House,21,,Over Votes,0,0,0,0
+Gillespie,9,Railroad Commissioner,,REP,Christi Craddick,142,0,65,77
+Gillespie,9,Railroad Commissioner,,DEM,Katherine Culbert,11,0,10,1
+Gillespie,9,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,0,3
+Gillespie,9,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Gillespie,9,Railroad Commissioner,,,Under Votes,1,0,0,1
+Gillespie,9,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gillespie,9,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,144,0,64,80
+Gillespie,9,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,12,0,11,1
+Gillespie,9,"Justice, Supreme Court, Place 2",2,,Under Votes,1,0,0,1
+Gillespie,9,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,9,"Justice, Supreme Court, Place 4",4,REP,John Devine,143,0,63,80
+Gillespie,9,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,11,0,10,1
+Gillespie,9,"Justice, Supreme Court, Place 4",4,,Under Votes,3,0,2,1
+Gillespie,9,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,9,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,143,0,64,79
+Gillespie,9,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,11,0,10,1
+Gillespie,9,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,1,1
+Gillespie,9,"Justice, Supreme Court, Place 6",6,,Under Votes,1,0,0,1
+Gillespie,9,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Gillespie,9,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,145,0,65,80
+Gillespie,9,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,11,0,10,1
+Gillespie,9,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,0,0,1
+Gillespie,9,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Gillespie,9,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,144,0,64,80
+Gillespie,9,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,12,0,11,1
+Gillespie,9,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,1,0,0,1
+Gillespie,9,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,9,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,144,0,64,80
+Gillespie,9,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,12,0,11,1
+Gillespie,9,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,1,0,0,1
+Gillespie,9,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Gillespie,9,"Member, State Board of Education, District 10",10,REP,Tom Maynard,146,0,66,80
+Gillespie,9,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,10,0,9,1
+Gillespie,9,"Member, State Board of Education, District 10",10,,Under Votes,1,0,0,1
+Gillespie,9,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Gillespie,9,State Representative,19,REP,Ellen Troxclair,138,0,60,78
+Gillespie,9,State Representative,19,DEM,Dwain Handley,14,0,13,1
+Gillespie,9,State Representative,19,IND,Kodi Sawin,3,0,1,2
+Gillespie,9,State Representative,19,,Under Votes,2,0,1,1
+Gillespie,9,State Representative,19,,Over Votes,0,0,0,0
+Gillespie,9,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,61,0,27,34
+Gillespie,9,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,96,0,48,48
+Gillespie,9,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,9,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,142,0,64,78
+Gillespie,9,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,11,0,10,1
+Gillespie,9,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,4,0,1,3
+Gillespie,9,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Gillespie,9,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,142,0,64,78
+Gillespie,9,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,11,0,10,1
+Gillespie,9,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,4,0,1,3
+Gillespie,9,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,9,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,141,0,62,79
+Gillespie,9,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,13,0,12,1
+Gillespie,9,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,3,0,1,2
+Gillespie,9,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Gillespie,9,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,147,0,67,80
+Gillespie,9,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,10,0,8,2
+Gillespie,9,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,9,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",140,0,64,76
+Gillespie,9,"District Judge, 216th Judicial District",216,,Under Votes,17,0,11,6
+Gillespie,9,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,9,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,144,0,65,79
+Gillespie,9,"District Attorney, 216th Judicial District",216,,Under Votes,13,0,10,3
+Gillespie,9,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,9,"Judge, County Court-at-law",,REP,Christopher Nevins,146,0,68,78
+Gillespie,9,"Judge, County Court-at-law",,,Under Votes,11,0,7,4
+Gillespie,9,"Judge, County Court-at-law",,,Over Votes,0,0,0,0
+Gillespie,9,County Attorney,,REP,Sara Neel,145,0,66,79
+Gillespie,9,County Attorney,,,Under Votes,12,0,9,3
+Gillespie,9,County Attorney,,,Over Votes,0,0,0,0
+Gillespie,9,Sheriff,,REP,Chris Ayala,146,0,67,79
+Gillespie,9,Sheriff,,,Under Votes,11,0,8,3
+Gillespie,9,Sheriff,,,Over Votes,0,0,0,0
+Gillespie,9,County Tax Assessor-Collector,,REP,Carol Rode Durst,148,0,69,79
+Gillespie,9,County Tax Assessor-Collector,,,Under Votes,9,0,6,3
+Gillespie,9,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gillespie,9,County Treasurer Unexpired Term,,REP,Vicki J. Schmidt,143,0,66,77
+Gillespie,9,County Treasurer Unexpired Term,,,Under Votes,14,0,9,5
+Gillespie,9,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,10,Registered Voters,,,,1089,,,
+Gillespie,10,Ballots Cast,,,,803,,,
+Gillespie,10,President,,REP,Donald J. Trump,650,0,549,101
+Gillespie,10,President,,DEM,Kamala D. Harris,138,1,116,21
+Gillespie,10,President,,LIB,Chase Oliver,7,0,5,2
+Gillespie,10,President,,GRN,Jill Stein,4,0,4,0
+Gillespie,10,President,,,Under Votes,3,0,3,0
+Gillespie,10,President,,,Over Votes,1,0,1,0
+Gillespie,10,U.S. Senate,,REP,Ted Cruz,635,0,542,93
+Gillespie,10,U.S. Senate,,DEM,Colin Allred,141,1,117,23
+Gillespie,10,U.S. Senate,,LIB,Ted Brown,23,0,16,7
+Gillespie,10,U.S. Senate,,,Under Votes,4,0,3,1
+Gillespie,10,U.S. Senate,,,Over Votes,0,0,0,0
+Gillespie,10,U.S. House,21,REP,Chip Roy,650,0,553,97
+Gillespie,10,U.S. House,21,DEM,Kristin Hook,129,0,107,22
+Gillespie,10,U.S. House,21,LIB,Bob King,14,1,9,4
+Gillespie,10,U.S. House,21,,Under Votes,10,0,9,1
+Gillespie,10,U.S. House,21,,Over Votes,0,0,0,0
+Gillespie,10,Railroad Commissioner,,REP,Christi Craddick,651,0,555,96
+Gillespie,10,Railroad Commissioner,,DEM,Katherine Culbert,102,0,82,20
+Gillespie,10,Railroad Commissioner,,LIB,Hawk Dunlap,16,0,13,3
+Gillespie,10,Railroad Commissioner,,GRN,Eddie Espinoza,12,0,9,3
+Gillespie,10,Railroad Commissioner,,,Under Votes,22,1,19,2
+Gillespie,10,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gillespie,10,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,651,0,553,98
+Gillespie,10,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,125,1,102,22
+Gillespie,10,"Justice, Supreme Court, Place 2",2,,Under Votes,27,0,23,4
+Gillespie,10,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,10,"Justice, Supreme Court, Place 4",4,REP,John Devine,647,0,550,97
+Gillespie,10,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,126,1,103,22
+Gillespie,10,"Justice, Supreme Court, Place 4",4,,Under Votes,30,0,25,5
+Gillespie,10,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,10,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,645,0,552,93
+Gillespie,10,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,116,1,94,21
+Gillespie,10,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,16,0,10,6
+Gillespie,10,"Justice, Supreme Court, Place 6",6,,Under Votes,26,0,22,4
+Gillespie,10,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Gillespie,10,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,654,0,555,99
+Gillespie,10,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,119,0,98,21
+Gillespie,10,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,30,1,25,4
+Gillespie,10,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Gillespie,10,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,654,0,557,97
+Gillespie,10,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,117,0,95,22
+Gillespie,10,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,32,1,26,5
+Gillespie,10,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,10,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,652,0,554,98
+Gillespie,10,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,119,0,98,21
+Gillespie,10,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,32,1,26,5
+Gillespie,10,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Gillespie,10,"Member, State Board of Education, District 10",10,REP,Tom Maynard,655,0,557,98
+Gillespie,10,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,120,0,98,22
+Gillespie,10,"Member, State Board of Education, District 10",10,,Under Votes,28,1,23,4
+Gillespie,10,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Gillespie,10,State Representative,19,REP,Ellen Troxclair,638,0,546,92
+Gillespie,10,State Representative,19,DEM,Dwain Handley,112,0,90,22
+Gillespie,10,State Representative,19,IND,Kodi Sawin,25,0,18,7
+Gillespie,10,State Representative,19,,Under Votes,27,1,23,3
+Gillespie,10,State Representative,19,,Over Votes,1,0,1,0
+Gillespie,10,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,282,0,234,48
+Gillespie,10,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,521,1,444,76
+Gillespie,10,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,10,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,651,0,552,99
+Gillespie,10,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,119,0,99,20
+Gillespie,10,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,33,1,27,5
+Gillespie,10,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Gillespie,10,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,647,0,549,98
+Gillespie,10,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,121,0,100,21
+Gillespie,10,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,35,1,29,5
+Gillespie,10,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,10,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,650,0,551,99
+Gillespie,10,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,120,0,99,21
+Gillespie,10,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,33,1,28,4
+Gillespie,10,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Gillespie,10,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,686,0,579,107
+Gillespie,10,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,117,1,99,17
+Gillespie,10,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,10,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",676,0,573,103
+Gillespie,10,"District Judge, 216th Judicial District",216,,Under Votes,127,1,105,21
+Gillespie,10,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,10,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,673,0,574,99
+Gillespie,10,"District Attorney, 216th Judicial District",216,,Under Votes,130,1,104,25
+Gillespie,10,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,10,"Judge, County Court-at-law",,REP,Christopher Nevins,690,0,587,103
+Gillespie,10,"Judge, County Court-at-law",,,Under Votes,113,1,91,21
+Gillespie,10,"Judge, County Court-at-law",,,Over Votes,0,0,0,0
+Gillespie,10,County Attorney,,REP,Sara Neel,689,0,584,105
+Gillespie,10,County Attorney,,,Under Votes,114,1,94,19
+Gillespie,10,County Attorney,,,Over Votes,0,0,0,0
+Gillespie,10,Sheriff,,REP,Chris Ayala,701,0,590,111
+Gillespie,10,Sheriff,,,Under Votes,102,1,88,13
+Gillespie,10,Sheriff,,,Over Votes,0,0,0,0
+Gillespie,10,County Tax Assessor-Collector,,REP,Carol Rode Durst,686,0,585,101
+Gillespie,10,County Tax Assessor-Collector,,,Under Votes,117,1,93,23
+Gillespie,10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gillespie,10,County Treasurer Unexpired Term,,REP,Vicki J. Schmidt,688,0,587,101
+Gillespie,10,County Treasurer Unexpired Term,,,Under Votes,115,1,91,23
+Gillespie,10,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,12,Registered Voters,,,,2911,,,
+Gillespie,12,Ballots Cast,,,,2279,,,
+Gillespie,12,President,,REP,Donald J. Trump,1866,4,1616,246
+Gillespie,12,President,,DEM,Kamala D. Harris,381,3,344,34
+Gillespie,12,President,,LIB,Chase Oliver,11,0,8,3
+Gillespie,12,President,,GRN,Jill Stein,1,0,1,0
+Gillespie,12,President,,,Under Votes,17,0,16,1
+Gillespie,12,President,,,Over Votes,3,0,1,2
+Gillespie,12,U.S. Senate,,REP,Ted Cruz,1829,4,1588,237
+Gillespie,12,U.S. Senate,,DEM,Colin Allred,399,3,358,38
+Gillespie,12,U.S. Senate,,LIB,Ted Brown,39,0,31,8
+Gillespie,12,U.S. Senate,,,Under Votes,11,0,8,3
+Gillespie,12,U.S. Senate,,,Over Votes,1,0,1,0
+Gillespie,12,U.S. House,21,REP,Chip Roy,1861,4,1618,239
+Gillespie,12,U.S. House,21,DEM,Kristin Hook,363,3,328,32
+Gillespie,12,U.S. House,21,LIB,Bob King,28,0,17,11
+Gillespie,12,U.S. House,21,,Under Votes,27,0,23,4
+Gillespie,12,U.S. House,21,,Over Votes,0,0,0,0
+Gillespie,12,Railroad Commissioner,,REP,Christi Craddick,1838,3,1600,235
+Gillespie,12,Railroad Commissioner,,DEM,Katherine Culbert,330,3,300,27
+Gillespie,12,Railroad Commissioner,,LIB,Hawk Dunlap,45,0,33,12
+Gillespie,12,Railroad Commissioner,,GRN,Eddie Espinoza,13,0,10,3
+Gillespie,12,Railroad Commissioner,,,Under Votes,53,1,43,9
+Gillespie,12,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gillespie,12,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1891,4,1634,253
+Gillespie,12,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,330,3,303,24
+Gillespie,12,"Justice, Supreme Court, Place 2",2,,Under Votes,58,0,49,9
+Gillespie,12,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,12,"Justice, Supreme Court, Place 4",4,REP,John Devine,1871,4,1619,248
+Gillespie,12,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,346,3,317,26
+Gillespie,12,"Justice, Supreme Court, Place 4",4,,Under Votes,62,0,50,12
+Gillespie,12,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,12,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1850,4,1607,239
+Gillespie,12,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,328,3,299,26
+Gillespie,12,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,41,0,31,10
+Gillespie,12,"Justice, Supreme Court, Place 6",6,,Under Votes,57,0,46,11
+Gillespie,12,"Justice, Supreme Court, Place 6",6,,Over Votes,3,0,3,0
+Gillespie,12,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1879,4,1625,250
+Gillespie,12,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,341,3,311,27
+Gillespie,12,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,59,0,50,9
+Gillespie,12,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Gillespie,12,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1880,4,1628,248
+Gillespie,12,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,328,3,299,26
+Gillespie,12,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,70,0,59,11
+Gillespie,12,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,0,0,1
+Gillespie,12,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1893,4,1636,253
+Gillespie,12,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,311,3,287,21
+Gillespie,12,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,75,0,63,12
+Gillespie,12,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Gillespie,12,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1853,2,1602,249
+Gillespie,12,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,353,3,324,26
+Gillespie,12,"Member, State Board of Education, District 10",10,,Under Votes,72,2,59,11
+Gillespie,12,"Member, State Board of Education, District 10",10,,Over Votes,1,0,1,0
+Gillespie,12,State Representative,19,REP,Ellen Troxclair,1815,2,1580,233
+Gillespie,12,State Representative,19,DEM,Dwain Handley,325,3,299,23
+Gillespie,12,State Representative,19,IND,Kodi Sawin,70,0,52,18
+Gillespie,12,State Representative,19,,Under Votes,67,2,54,11
+Gillespie,12,State Representative,19,,Over Votes,2,0,1,1
+Gillespie,12,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,840,3,717,120
+Gillespie,12,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,166,4,1,269
+Gillespie,12,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,12,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,1861,2,1611,248
+Gillespie,12,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,334,3,303,28
+Gillespie,12,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,84,2,72,10
+Gillespie,12,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Gillespie,12,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,1849,2,1601,246
+Gillespie,12,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,331,3,301,27
+Gillespie,12,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,98,2,83,13
+Gillespie,12,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,1,0,1,0
+Gillespie,12,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,1836,2,1590,244
+Gillespie,12,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,337,3,307,27
+Gillespie,12,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,102,2,87,13
+Gillespie,12,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,4,0,2,2
+Gillespie,12,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,1899,2,1648,249
+Gillespie,12,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,380,5,338,37
+Gillespie,12,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,12,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",1900,2,1651,247
+Gillespie,12,"District Judge, 216th Judicial District",216,,Under Votes,379,5,335,39
+Gillespie,12,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,12,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,1891,3,1639,249
+Gillespie,12,"District Attorney, 216th Judicial District",216,,Under Votes,388,4,347,37
+Gillespie,12,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,12,"Judge, County Court-at-law",,REP,Christopher Nevins,1928,3,1678,247
+Gillespie,12,"Judge, County Court-at-law",,,Under Votes,351,4,308,39
+Gillespie,12,"Judge, County Court-at-law",,,Over Votes,0,0,0,0
+Gillespie,12,County Attorney,,REP,Sara Neel,1944,3,1690,251
+Gillespie,12,County Attorney,,,Under Votes,335,4,296,35
+Gillespie,12,County Attorney,,,Over Votes,0,0,0,0
+Gillespie,12,Sheriff,,REP,Chris Ayala,1960,3,1696,261
+Gillespie,12,Sheriff,,,Under Votes,319,4,290,25
+Gillespie,12,Sheriff,,,Over Votes,0,0,0,0
+Gillespie,12,County Tax Assessor-Collector,,REP,Carol Rode Durst,1961,3,1701,257
+Gillespie,12,County Tax Assessor-Collector,,,Under Votes,318,4,285,29
+Gillespie,12,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gillespie,12,County Treasurer Unexpired Term,,REP,Vicki J. Schmidt,1951,3,1695,253
+Gillespie,12,County Treasurer Unexpired Term,,,Under Votes,328,4,291,33
+Gillespie,12,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,12,"County Commissioner, Precinct 1",,REP,Charles Olfers,1899,2,1653,244
+Gillespie,12,"County Commissioner, Precinct 1",,,Under Votes,380,5,333,42
+Gillespie,12,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Gillespie,13,Registered Voters,,,,2250,,,
+Gillespie,13,Ballots Cast,,,,1812,,,
+Gillespie,13,President,,REP,Donald J. Trump,1506,3,1265,238
+Gillespie,13,President,,DEM,Kamala D. Harris,273,2,232,39
+Gillespie,13,President,,LIB,Chase Oliver,11,0,6,5
+Gillespie,13,President,,GRN,Jill Stein,2,0,2,0
+Gillespie,13,President,,,Under Votes,18,0,11,7
+Gillespie,13,President,,,Over Votes,1,0,1,0
+Gillespie,13,U.S. Senate,,REP,Ted Cruz,1489,3,1255,231
+Gillespie,13,U.S. Senate,,DEM,Colin Allred,284,2,235,47
+Gillespie,13,U.S. Senate,,LIB,Ted Brown,29,0,22,7
+Gillespie,13,U.S. Senate,,,Under Votes,8,0,5,3
+Gillespie,13,U.S. Senate,,,Over Votes,2,0,1,1
+Gillespie,13,U.S. House,21,REP,Chip Roy,1508,3,1268,237
+Gillespie,13,U.S. House,21,DEM,Kristin Hook,250,2,213,35
+Gillespie,13,U.S. House,21,LIB,Bob King,31,0,18,13
+Gillespie,13,U.S. House,21,,Under Votes,23,0,19,4
+Gillespie,13,U.S. House,21,,Over Votes,0,0,0,0
+Gillespie,13,Railroad Commissioner,,REP,Christi Craddick,1507,3,1268,236
+Gillespie,13,Railroad Commissioner,,DEM,Katherine Culbert,210,2,183,25
+Gillespie,13,Railroad Commissioner,,LIB,Hawk Dunlap,39,0,31,8
+Gillespie,13,Railroad Commissioner,,GRN,Eddie Espinoza,20,0,10,10
+Gillespie,13,Railroad Commissioner,,,Under Votes,34,0,24,10
+Gillespie,13,Railroad Commissioner,,,Over Votes,2,0,2,0
+Gillespie,13,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1536,3,1290,243
+Gillespie,13,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,230,2,193,35
+Gillespie,13,"Justice, Supreme Court, Place 2",2,,Under Votes,46,0,35,11
+Gillespie,13,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,13,"Justice, Supreme Court, Place 4",4,REP,John Devine,1516,3,1272,241
+Gillespie,13,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,242,2,205,35
+Gillespie,13,"Justice, Supreme Court, Place 4",4,,Under Votes,54,0,41,13
+Gillespie,13,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,13,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1501,3,1264,234
+Gillespie,13,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,229,2,195,32
+Gillespie,13,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,33,0,23,10
+Gillespie,13,"Justice, Supreme Court, Place 6",6,,Under Votes,47,0,34,13
+Gillespie,13,"Justice, Supreme Court, Place 6",6,,Over Votes,2,0,2,0
+Gillespie,13,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1511,3,1272,236
+Gillespie,13,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,244,2,206,36
+Gillespie,13,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,57,0,40,17
+Gillespie,13,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Gillespie,13,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1533,3,1286,244
+Gillespie,13,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,226,2,192,32
+Gillespie,13,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,53,0,40,13
+Gillespie,13,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,13,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1528,3,1286,239
+Gillespie,13,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,228,2,192,34
+Gillespie,13,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,56,0,40,16
+Gillespie,13,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Gillespie,13,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1520,3,1278,239
+Gillespie,13,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,248,2,205,41
+Gillespie,13,"Member, State Board of Education, District 10",10,,Under Votes,44,0,35,9
+Gillespie,13,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Gillespie,13,State Representative,19,REP,Ellen Troxclair,1460,3,1238,219
+Gillespie,13,State Representative,19,DEM,Dwain Handley,216,2,183,31
+Gillespie,13,State Representative,19,IND,Kodi Sawin,81,0,57,24
+Gillespie,13,State Representative,19,,Under Votes,54,0,39,15
+Gillespie,13,State Representative,19,,Over Votes,1,0,1,0
+Gillespie,13,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,657,3,541,113
+Gillespie,13,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,1,2,977,176
+Gillespie,13,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,13,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,1506,3,1269,234
+Gillespie,13,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,240,2,201,37
+Gillespie,13,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,64,0,46,18
+Gillespie,13,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,2,0,2,0
+Gillespie,13,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,1499,3,1262,234
+Gillespie,13,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,232,2,195,35
+Gillespie,13,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,81,0,61,20
+Gillespie,13,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,13,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,1504,3,1265,236
+Gillespie,13,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,237,1,199,37
+Gillespie,13,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,71,1,54,16
+Gillespie,13,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Gillespie,13,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,1547,3,1296,248
+Gillespie,13,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,265,2,222,41
+Gillespie,13,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,13,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",1514,3,1273,238
+Gillespie,13,"District Judge, 216th Judicial District",216,,Under Votes,298,2,245,51
+Gillespie,13,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,13,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,1532,3,1287,242
+Gillespie,13,"District Attorney, 216th Judicial District",216,,Under Votes,280,2,231,47
+Gillespie,13,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,13,"Judge, County Court-at-law",,REP,Christopher Nevins,1558,3,1300,255
+Gillespie,13,"Judge, County Court-at-law",,,Under Votes,254,2,218,34
+Gillespie,13,"Judge, County Court-at-law",,,Over Votes,0,0,0,0
+Gillespie,13,County Attorney,,REP,Sara Neel,1569,3,1314,252
+Gillespie,13,County Attorney,,,Under Votes,243,2,204,37
+Gillespie,13,County Attorney,,,Over Votes,0,0,0,0
+Gillespie,13,Sheriff,,REP,Chris Ayala,1579,3,1313,263
+Gillespie,13,Sheriff,,,Under Votes,233,2,205,26
+Gillespie,13,Sheriff,,,Over Votes,0,0,0,0
+Gillespie,13,County Tax Assessor-Collector,,REP,Carol Rode Durst,1561,3,1303,255
+Gillespie,13,County Tax Assessor-Collector,,,Under Votes,251,2,215,34
+Gillespie,13,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gillespie,13,County Treasurer Unexpired Term,,REP,Vicki J. Schmidt,1534,3,1285,246
+Gillespie,13,County Treasurer Unexpired Term,,,Under Votes,278,2,233,43
+Gillespie,13,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,15,Registered Voters,,,,130,,,
+Gillespie,15,Ballots Cast,,,,111,,,
+Gillespie,15,President,,REP,Donald J. Trump,92,0,69,23
+Gillespie,15,President,,DEM,Kamala D. Harris,18,2,15,1
+Gillespie,15,President,,LIB,Chase Oliver,0,0,0,0
+Gillespie,15,President,,GRN,Jill Stein,0,0,0,0
+Gillespie,15,President,,,Under Votes,1,0,1,0
+Gillespie,15,President,,,Over Votes,0,0,0,0
+Gillespie,15,U.S. Senate,,REP,Ted Cruz,90,0,70,20
+Gillespie,15,U.S. Senate,,DEM,Colin Allred,16,2,12,2
+Gillespie,15,U.S. Senate,,LIB,Ted Brown,5,0,3,2
+Gillespie,15,U.S. Senate,,,Under Votes,0,0,0,0
+Gillespie,15,U.S. Senate,,,Over Votes,0,0,0,0
+Gillespie,15,U.S. House,21,REP,Chip Roy,93,0,72,21
+Gillespie,15,U.S. House,21,DEM,Kristin Hook,16,2,13,1
+Gillespie,15,U.S. House,21,LIB,Bob King,1,0,0,1
+Gillespie,15,U.S. House,21,,Under Votes,1,0,0,1
+Gillespie,15,U.S. House,21,,Over Votes,0,0,0,0
+Gillespie,15,Railroad Commissioner,,REP,Christi Craddick,95,0,75,20
+Gillespie,15,Railroad Commissioner,,DEM,Katherine Culbert,11,0,9,2
+Gillespie,15,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,0,1
+Gillespie,15,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Gillespie,15,Railroad Commissioner,,,Under Votes,4,2,1,1
+Gillespie,15,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gillespie,15,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,98,0,76,22
+Gillespie,15,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,9,0,8,1
+Gillespie,15,"Justice, Supreme Court, Place 2",2,,Under Votes,4,2,1,1
+Gillespie,15,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,15,"Justice, Supreme Court, Place 4",4,REP,John Devine,98,0,76,22
+Gillespie,15,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,9,0,8,1
+Gillespie,15,"Justice, Supreme Court, Place 4",4,,Under Votes,4,2,1,1
+Gillespie,15,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,15,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,96,0,74,22
+Gillespie,15,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,9,0,8,1
+Gillespie,15,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,1,0,1,0
+Gillespie,15,"Justice, Supreme Court, Place 6",6,,Under Votes,5,2,2,1
+Gillespie,15,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Gillespie,15,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,94,0,73,21
+Gillespie,15,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,13,0,11,2
+Gillespie,15,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,4,2,1,1
+Gillespie,15,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Gillespie,15,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,96,0,74,22
+Gillespie,15,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,11,0,10,1
+Gillespie,15,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,4,2,1,1
+Gillespie,15,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,15,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,96,0,74,22
+Gillespie,15,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,11,0,10,1
+Gillespie,15,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,4,2,1,1
+Gillespie,15,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Gillespie,15,"Member, State Board of Education, District 10",10,REP,Tom Maynard,93,0,72,21
+Gillespie,15,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,13,0,11,2
+Gillespie,15,"Member, State Board of Education, District 10",10,,Under Votes,5,2,2,1
+Gillespie,15,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Gillespie,15,State Representative,19,REP,Ellen Troxclair,96,0,74,22
+Gillespie,15,State Representative,19,DEM,Dwain Handley,9,0,9,0
+Gillespie,15,State Representative,19,IND,Kodi Sawin,1,0,0,1
+Gillespie,15,State Representative,19,,Under Votes,5,2,2,1
+Gillespie,15,State Representative,19,,Over Votes,0,0,0,0
+Gillespie,15,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,35,0,28,7
+Gillespie,15,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,76,2,57,17
+Gillespie,15,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,15,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,92,0,71,21
+Gillespie,15,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,12,0,10,2
+Gillespie,15,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,7,2,4,1
+Gillespie,15,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Gillespie,15,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,94,0,72,22
+Gillespie,15,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,10,0,9,1
+Gillespie,15,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,7,2,4,1
+Gillespie,15,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,15,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,94,0,73,21
+Gillespie,15,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,11,0,9,2
+Gillespie,15,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,6,2,3,1
+Gillespie,15,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Gillespie,15,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,96,0,74,22
+Gillespie,15,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,15,2,11,2
+Gillespie,15,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,15,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",98,0,75,23
+Gillespie,15,"District Judge, 216th Judicial District",216,,Under Votes,13,2,10,1
+Gillespie,15,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,15,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,97,0,75,22
+Gillespie,15,"District Attorney, 216th Judicial District",216,,Under Votes,14,2,10,2
+Gillespie,15,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,15,"Judge, County Court-at-law",,REP,Christopher Nevins,96,0,73,23
+Gillespie,15,"Judge, County Court-at-law",,,Under Votes,15,2,12,1
+Gillespie,15,"Judge, County Court-at-law",,,Over Votes,0,0,0,0
+Gillespie,15,County Attorney,,REP,Sara Neel,98,0,75,23
+Gillespie,15,County Attorney,,,Under Votes,13,2,10,1
+Gillespie,15,County Attorney,,,Over Votes,0,0,0,0
+Gillespie,15,Sheriff,,REP,Chris Ayala,100,0,77,23
+Gillespie,15,Sheriff,,,Under Votes,11,2,8,1
+Gillespie,15,Sheriff,,,Over Votes,0,0,0,0
+Gillespie,15,County Tax Assessor-Collector,,REP,Carol Rode Durst,93,0,73,20
+Gillespie,15,County Tax Assessor-Collector,,,Under Votes,18,2,12,4
+Gillespie,15,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gillespie,15,County Treasurer Unexpired Term,,REP,Vicki J. Schmidt,94,0,74,20
+Gillespie,15,County Treasurer Unexpired Term,,,Under Votes,17,2,11,4
+Gillespie,15,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,5 - HISD,Registered Voters,,,,2017,,,
+Gillespie,5 - HISD,Ballots Cast,,,,1569,,,
+Gillespie,5 - HISD,President,,REP,Donald J. Trump,1384,2,799,583
+Gillespie,5 - HISD,President,,DEM,Kamala D. Harris,167,0,107,60
+Gillespie,5 - HISD,President,,LIB,Chase Oliver,8,0,3,5
+Gillespie,5 - HISD,President,,GRN,Jill Stein,2,0,1,1
+Gillespie,5 - HISD,President,,,Under Votes,7,0,3,4
+Gillespie,5 - HISD,President,,,Over Votes,0,0,0,0
+Gillespie,5 - HISD,U.S. Senate,,REP,Ted Cruz,1344,2,784,558
+Gillespie,5 - HISD,U.S. Senate,,DEM,Colin Allred,186,0,119,67
+Gillespie,5 - HISD,U.S. Senate,,LIB,Ted Brown,24,0,6,18
+Gillespie,5 - HISD,U.S. Senate,,,Under Votes,13,0,2,11
+Gillespie,5 - HISD,U.S. Senate,,,Over Votes,2,0,2,0
+Gillespie,5 - HISD,U.S. House,21,REP,Chip Roy,1355,2,788,565
+Gillespie,5 - HISD,U.S. House,21,DEM,Kristin Hook,172,0,111,61
+Gillespie,5 - HISD,U.S. House,21,LIB,Bob King,22,0,7,15
+Gillespie,5 - HISD,U.S. House,21,,Under Votes,20,0,7,13
+Gillespie,5 - HISD,U.S. House,21,,Over Votes,0,0,0,0
+Gillespie,5 - HISD,Railroad Commissioner,,REP,Christi Craddick,1323,2,772,549
+Gillespie,5 - HISD,Railroad Commissioner,,DEM,Katherine Culbert,154,0,105,49
+Gillespie,5 - HISD,Railroad Commissioner,,LIB,Hawk Dunlap,43,0,16,27
+Gillespie,5 - HISD,Railroad Commissioner,,GRN,Eddie Espinoza,15,0,4,11
+Gillespie,5 - HISD,Railroad Commissioner,,,Under Votes,33,0,16,17
+Gillespie,5 - HISD,Railroad Commissioner,,,Over Votes,1,0,0,1
+Gillespie,5 - HISD,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1367,2,791,574
+Gillespie,5 - HISD,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,169,0,110,59
+Gillespie,5 - HISD,"Justice, Supreme Court, Place 2",2,,Under Votes,33,0,12,21
+Gillespie,5 - HISD,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,5 - HISD,"Justice, Supreme Court, Place 4",4,REP,John Devine,1350,2,777,571
+Gillespie,5 - HISD,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,176,0,115,61
+Gillespie,5 - HISD,"Justice, Supreme Court, Place 4",4,,Under Votes,43,0,21,22
+Gillespie,5 - HISD,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,5 - HISD,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1339,2,774,563
+Gillespie,5 - HISD,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,166,0,111,55
+Gillespie,5 - HISD,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,22,0,6,16
+Gillespie,5 - HISD,"Justice, Supreme Court, Place 6",6,,Under Votes,42,0,22,20
+Gillespie,5 - HISD,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Gillespie,5 - HISD,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1359,2,784,573
+Gillespie,5 - HISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,168,0,109,59
+Gillespie,5 - HISD,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,41,0,19,22
+Gillespie,5 - HISD,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,0,1,0
+Gillespie,5 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1361,2,783,576
+Gillespie,5 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,166,0,108,58
+Gillespie,5 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,41,0,22,19
+Gillespie,5 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,0,0,1
+Gillespie,5 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1371,2,792,577
+Gillespie,5 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,157,0,103,54
+Gillespie,5 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,41,0,18,23
+Gillespie,5 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Gillespie,5 - HISD,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1359,2,783,574
+Gillespie,5 - HISD,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,167,0,108,59
+Gillespie,5 - HISD,"Member, State Board of Education, District 10",10,,Under Votes,42,0,21,21
+Gillespie,5 - HISD,"Member, State Board of Education, District 10",10,,Over Votes,1,0,1,0
+Gillespie,5 - HISD,State Representative,19,REP,Ellen Troxclair,1279,2,738,539
+Gillespie,5 - HISD,State Representative,19,DEM,Dwain Handley,148,0,98,50
+Gillespie,5 - HISD,State Representative,19,IND,Kodi Sawin,91,0,51,40
+Gillespie,5 - HISD,State Representative,19,,Under Votes,51,0,26,25
+Gillespie,5 - HISD,State Representative,19,,Over Votes,0,0,0,0
+Gillespie,5 - HISD,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,522,1,297,224
+Gillespie,5 - HISD,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,1,1,616,430
+Gillespie,5 - HISD,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,5 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,1348,2,775,571
+Gillespie,5 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,164,0,108,56
+Gillespie,5 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,56,0,29,27
+Gillespie,5 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,1,0,1,0
+Gillespie,5 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,1350,2,779,569
+Gillespie,5 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,156,0,101,55
+Gillespie,5 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,62,0,32,30
+Gillespie,5 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,1,0,1,0
+Gillespie,5 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,1344,2,780,562
+Gillespie,5 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,161,0,103,58
+Gillespie,5 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,63,0,29,34
+Gillespie,5 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,1,0,1,0
+Gillespie,5 - HISD,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,1360,2,793,565
+Gillespie,5 - HISD,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,209,0,120,89
+Gillespie,5 - HISD,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,5 - HISD,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",1339,2,777,560
+Gillespie,5 - HISD,"District Judge, 216th Judicial District",216,,Under Votes,230,0,136,94
+Gillespie,5 - HISD,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,5 - HISD,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,1351,2,789,560
+Gillespie,5 - HISD,"District Attorney, 216th Judicial District",216,,Under Votes,218,0,124,94
+Gillespie,5 - HISD,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,5 - HISD,"Judge, County Court-at-law",,REP,Christopher Nevins,1357,2,796,559
+Gillespie,5 - HISD,"Judge, County Court-at-law",,,Under Votes,212,0,117,95
+Gillespie,5 - HISD,"Judge, County Court-at-law",,,Over Votes,0,0,0,0
+Gillespie,5 - HISD,County Attorney,,REP,Sara Neel,1361,2,795,564
+Gillespie,5 - HISD,County Attorney,,,Under Votes,208,0,118,90
+Gillespie,5 - HISD,County Attorney,,,Over Votes,0,0,0,0
+Gillespie,5 - HISD,Sheriff,,REP,Chris Ayala,1371,2,788,581
+Gillespie,5 - HISD,Sheriff,,,Under Votes,198,0,125,73
+Gillespie,5 - HISD,Sheriff,,,Over Votes,0,0,0,0
+Gillespie,5 - HISD,County Tax Assessor-Collector,,REP,Carol Rode Durst,1385,2,803,580
+Gillespie,5 - HISD,County Tax Assessor-Collector,,,Under Votes,184,0,110,74
+Gillespie,5 - HISD,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gillespie,5 - HISD,County Treasurer Unexpired Term,,REP,Vicki J. Schmidt,1376,2,797,577
+Gillespie,5 - HISD,County Treasurer Unexpired Term,,,Under Votes,193,0,116,77
+Gillespie,5 - HISD,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,5 - HISD,County Treasurer Unexpired Term,,,Under Votes,836,5,1,374
+Gillespie,5 - HISD,County Treasurer Unexpired Term,,,Over Votes,3,0,2,1
+Gillespie,9 - HISD,Registered Voters,,,,7,,,
+Gillespie,9 - HISD,Ballots Cast,,,,6,,,
+Gillespie,9 - HISD,President,,REP,Donald J. Trump,5,0,1,4
+Gillespie,9 - HISD,President,,DEM,Kamala D. Harris,1,0,1,0
+Gillespie,9 - HISD,President,,LIB,Chase Oliver,0,0,0,0
+Gillespie,9 - HISD,President,,GRN,Jill Stein,0,0,0,0
+Gillespie,9 - HISD,President,,,Under Votes,0,0,0,0
+Gillespie,9 - HISD,President,,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,U.S. Senate,,REP,Ted Cruz,5,0,1,4
+Gillespie,9 - HISD,U.S. Senate,,DEM,Colin Allred,1,0,1,0
+Gillespie,9 - HISD,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Gillespie,9 - HISD,U.S. Senate,,,Under Votes,0,0,0,0
+Gillespie,9 - HISD,U.S. Senate,,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,U.S. House,21,REP,Chip Roy,5,0,1,4
+Gillespie,9 - HISD,U.S. House,21,DEM,Kristin Hook,1,0,1,0
+Gillespie,9 - HISD,U.S. House,21,LIB,Bob King,0,0,0,0
+Gillespie,9 - HISD,U.S. House,21,,Under Votes,0,0,0,0
+Gillespie,9 - HISD,U.S. House,21,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,Railroad Commissioner,,REP,Christi Craddick,5,0,1,4
+Gillespie,9 - HISD,Railroad Commissioner,,DEM,Katherine Culbert,1,0,1,0
+Gillespie,9 - HISD,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Gillespie,9 - HISD,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Gillespie,9 - HISD,Railroad Commissioner,,,Under Votes,0,0,0,0
+Gillespie,9 - HISD,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,5,0,1,4
+Gillespie,9 - HISD,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,1,0,1,0
+Gillespie,9 - HISD,"Justice, Supreme Court, Place 2",2,,Under Votes,0,0,0,0
+Gillespie,9 - HISD,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,"Justice, Supreme Court, Place 4",4,REP,John Devine,5,0,1,4
+Gillespie,9 - HISD,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,1,0,1,0
+Gillespie,9 - HISD,"Justice, Supreme Court, Place 4",4,,Under Votes,0,0,0,0
+Gillespie,9 - HISD,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,5,0,1,4
+Gillespie,9 - HISD,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,1,0,1,0
+Gillespie,9 - HISD,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Gillespie,9 - HISD,"Justice, Supreme Court, Place 6",6,,Under Votes,0,0,0,0
+Gillespie,9 - HISD,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,5,0,1,4
+Gillespie,9 - HISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,1,0,1,0
+Gillespie,9 - HISD,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,0,0,0
+Gillespie,9 - HISD,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,5,0,1,4
+Gillespie,9 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,1,0,1,0
+Gillespie,9 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,0,0,0,0
+Gillespie,9 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,5,0,1,4
+Gillespie,9 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,1,0,1,0
+Gillespie,9 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,0,0,0,0
+Gillespie,9 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,"Member, State Board of Education, District 10",10,REP,Tom Maynard,5,0,1,4
+Gillespie,9 - HISD,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,1,0,1,0
+Gillespie,9 - HISD,"Member, State Board of Education, District 10",10,,Under Votes,0,0,0,0
+Gillespie,9 - HISD,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,State Representative,19,REP,Ellen Troxclair,5,0,1,4
+Gillespie,9 - HISD,State Representative,19,DEM,Dwain Handley,1,0,1,0
+Gillespie,9 - HISD,State Representative,19,IND,Kodi Sawin,0,0,0,0
+Gillespie,9 - HISD,State Representative,19,,Under Votes,0,0,0,0
+Gillespie,9 - HISD,State Representative,19,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,1,0,1,0
+Gillespie,9 - HISD,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,5,0,1,4
+Gillespie,9 - HISD,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,5,0,1,4
+Gillespie,9 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,1,0,1,0
+Gillespie,9 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,0,0,0,0
+Gillespie,9 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,5,0,1,4
+Gillespie,9 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,1,0,1,0
+Gillespie,9 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,0,0,0,0
+Gillespie,9 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,5,0,1,4
+Gillespie,9 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,1,0,1,0
+Gillespie,9 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,0,0,0,0
+Gillespie,9 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,5,0,1,4
+Gillespie,9 - HISD,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,1,0,1,0
+Gillespie,9 - HISD,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",5,0,1,4
+Gillespie,9 - HISD,"District Judge, 216th Judicial District",216,,Under Votes,1,0,1,0
+Gillespie,9 - HISD,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,4,0,1,3
+Gillespie,9 - HISD,"District Attorney, 216th Judicial District",216,,Under Votes,2,0,1,1
+Gillespie,9 - HISD,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,"Judge, County Court-at-law",,REP,Christopher Nevins,4,0,1,3
+Gillespie,9 - HISD,"Judge, County Court-at-law",,,Under Votes,2,0,1,1
+Gillespie,9 - HISD,"Judge, County Court-at-law",,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,County Attorney,,REP,Sara Neel,4,0,1,3
+Gillespie,9 - HISD,County Attorney,,,Under Votes,2,0,1,1
+Gillespie,9 - HISD,County Attorney,,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,Sheriff,,REP,Chris Ayala,5,0,1,4
+Gillespie,9 - HISD,Sheriff,,,Under Votes,1,0,1,0
+Gillespie,9 - HISD,Sheriff,,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,County Tax Assessor-Collector,,REP,Carol Rode Durst,6,0,2,4
+Gillespie,9 - HISD,County Tax Assessor-Collector,,,Under Votes,0,0,0,0
+Gillespie,9 - HISD,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,County Treasurer Unexpired Term,,REP,Vicki J. Schmidt,5,0,1,4
+Gillespie,9 - HISD,County Treasurer Unexpired Term,,,Under Votes,1,0,1,0
+Gillespie,9 - HISD,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,9 - HISD,County Treasurer Unexpired Term,,,Under Votes,9,0,3,6
+Gillespie,9 - HISD,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,Registered Voters,,,,49,,,
+Gillespie,10 - HISD,Ballots Cast,,,,39,,,
+Gillespie,10 - HISD,President,,REP,Donald J. Trump,32,0,30,2
+Gillespie,10 - HISD,President,,DEM,Kamala D. Harris,7,0,7,0
+Gillespie,10 - HISD,President,,LIB,Chase Oliver,0,0,0,0
+Gillespie,10 - HISD,President,,GRN,Jill Stein,0,0,0,0
+Gillespie,10 - HISD,President,,,Under Votes,0,0,0,0
+Gillespie,10 - HISD,President,,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,U.S. Senate,,REP,Ted Cruz,32,0,30,2
+Gillespie,10 - HISD,U.S. Senate,,DEM,Colin Allred,7,0,7,0
+Gillespie,10 - HISD,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Gillespie,10 - HISD,U.S. Senate,,,Under Votes,0,0,0,0
+Gillespie,10 - HISD,U.S. Senate,,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,U.S. House,21,REP,Chip Roy,33,0,31,2
+Gillespie,10 - HISD,U.S. House,21,DEM,Kristin Hook,6,0,6,0
+Gillespie,10 - HISD,U.S. House,21,LIB,Bob King,0,0,0,0
+Gillespie,10 - HISD,U.S. House,21,,Under Votes,0,0,0,0
+Gillespie,10 - HISD,U.S. House,21,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,Railroad Commissioner,,REP,Christi Craddick,34,0,32,2
+Gillespie,10 - HISD,Railroad Commissioner,,DEM,Katherine Culbert,5,0,5,0
+Gillespie,10 - HISD,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Gillespie,10 - HISD,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Gillespie,10 - HISD,Railroad Commissioner,,,Under Votes,0,0,0,0
+Gillespie,10 - HISD,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,33,0,32,1
+Gillespie,10 - HISD,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,5,0,5,0
+Gillespie,10 - HISD,"Justice, Supreme Court, Place 2",2,,Under Votes,1,0,0,1
+Gillespie,10 - HISD,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,"Justice, Supreme Court, Place 4",4,REP,John Devine,31,0,30,1
+Gillespie,10 - HISD,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,7,0,7,0
+Gillespie,10 - HISD,"Justice, Supreme Court, Place 4",4,,Under Votes,1,0,0,1
+Gillespie,10 - HISD,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,32,0,31,1
+Gillespie,10 - HISD,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,5,0,5,0
+Gillespie,10 - HISD,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,1,0,0,1
+Gillespie,10 - HISD,"Justice, Supreme Court, Place 6",6,,Under Votes,1,0,1,0
+Gillespie,10 - HISD,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,32,0,30,2
+Gillespie,10 - HISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,6,0,6,0
+Gillespie,10 - HISD,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,0,1,0
+Gillespie,10 - HISD,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,34,0,32,2
+Gillespie,10 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,5,0,5,0
+Gillespie,10 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,0,0,0,0
+Gillespie,10 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,32,0,30,2
+Gillespie,10 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,6,0,6,0
+Gillespie,10 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,1,0,1,0
+Gillespie,10 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,"Member, State Board of Education, District 10",10,REP,Tom Maynard,33,0,31,2
+Gillespie,10 - HISD,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,5,0,5,0
+Gillespie,10 - HISD,"Member, State Board of Education, District 10",10,,Under Votes,1,0,1,0
+Gillespie,10 - HISD,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,State Representative,19,REP,Ellen Troxclair,31,0,29,2
+Gillespie,10 - HISD,State Representative,19,DEM,Dwain Handley,5,0,5,0
+Gillespie,10 - HISD,State Representative,19,IND,Kodi Sawin,3,0,3,0
+Gillespie,10 - HISD,State Representative,19,,Under Votes,0,0,0,0
+Gillespie,10 - HISD,State Representative,19,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,14,0,13,1
+Gillespie,10 - HISD,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,25,0,24,1
+Gillespie,10 - HISD,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,32,0,30,2
+Gillespie,10 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,6,0,6,0
+Gillespie,10 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,1,0,1,0
+Gillespie,10 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,33,0,31,2
+Gillespie,10 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,5,0,5,0
+Gillespie,10 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,1,0,1,0
+Gillespie,10 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,32,0,30,2
+Gillespie,10 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,6,0,6,0
+Gillespie,10 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,1,0,1,0
+Gillespie,10 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,38,0,36,2
+Gillespie,10 - HISD,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,1,0,1,0
+Gillespie,10 - HISD,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",36,0,35,1
+Gillespie,10 - HISD,"District Judge, 216th Judicial District",216,,Under Votes,3,0,2,1
+Gillespie,10 - HISD,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,37,0,35,2
+Gillespie,10 - HISD,"District Attorney, 216th Judicial District",216,,Under Votes,2,0,2,0
+Gillespie,10 - HISD,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,"Judge, County Court-at-law",,REP,Christopher Nevins,38,0,36,2
+Gillespie,10 - HISD,"Judge, County Court-at-law",,,Under Votes,1,0,1,0
+Gillespie,10 - HISD,"Judge, County Court-at-law",,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,County Attorney,,REP,Sara Neel,38,0,36,2
+Gillespie,10 - HISD,County Attorney,,,Under Votes,1,0,1,0
+Gillespie,10 - HISD,County Attorney,,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,Sheriff,,REP,Chris Ayala,36,0,35,1
+Gillespie,10 - HISD,Sheriff,,,Under Votes,3,0,2,1
+Gillespie,10 - HISD,Sheriff,,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,County Tax Assessor-Collector,,REP,Carol Rode Durst,38,0,36,2
+Gillespie,10 - HISD,County Tax Assessor-Collector,,,Under Votes,1,0,1,0
+Gillespie,10 - HISD,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,County Treasurer Unexpired Term,,REP,Vicki J. Schmidt,38,0,36,2
+Gillespie,10 - HISD,County Treasurer Unexpired Term,,,Under Votes,1,0,1,0
+Gillespie,10 - HISD,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,10 - HISD,County Treasurer Unexpired Term,,,Under Votes,58,0,58,0
+Gillespie,10 - HISD,County Treasurer Unexpired Term,,,Over Votes,1,0,1,0
+Gillespie,13 - HISD,Registered Voters,,,,10,,,
+Gillespie,13 - HISD,Ballots Cast,,,,8,,,
+Gillespie,13 - HISD,President,,REP,Donald J. Trump,8,0,6,2
+Gillespie,13 - HISD,President,,DEM,Kamala D. Harris,0,0,0,0
+Gillespie,13 - HISD,President,,LIB,Chase Oliver,0,0,0,0
+Gillespie,13 - HISD,President,,GRN,Jill Stein,0,0,0,0
+Gillespie,13 - HISD,President,,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,President,,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,U.S. Senate,,REP,Ted Cruz,8,0,6,2
+Gillespie,13 - HISD,U.S. Senate,,DEM,Colin Allred,0,0,0,0
+Gillespie,13 - HISD,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Gillespie,13 - HISD,U.S. Senate,,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,U.S. Senate,,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,U.S. House,21,REP,Chip Roy,8,0,6,2
+Gillespie,13 - HISD,U.S. House,21,DEM,Kristin Hook,0,0,0,0
+Gillespie,13 - HISD,U.S. House,21,LIB,Bob King,0,0,0,0
+Gillespie,13 - HISD,U.S. House,21,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,U.S. House,21,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,Railroad Commissioner,,REP,Christi Craddick,8,0,6,2
+Gillespie,13 - HISD,Railroad Commissioner,,DEM,Katherine Culbert,0,0,0,0
+Gillespie,13 - HISD,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Gillespie,13 - HISD,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Gillespie,13 - HISD,Railroad Commissioner,,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,8,0,6,2
+Gillespie,13 - HISD,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,0,0,0,0
+Gillespie,13 - HISD,"Justice, Supreme Court, Place 2",2,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,"Justice, Supreme Court, Place 4",4,REP,John Devine,7,0,5,2
+Gillespie,13 - HISD,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,0,0,0,0
+Gillespie,13 - HISD,"Justice, Supreme Court, Place 4",4,,Under Votes,1,0,1,0
+Gillespie,13 - HISD,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,7,0,6,1
+Gillespie,13 - HISD,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,0,0,0,0
+Gillespie,13 - HISD,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,1,0,0,1
+Gillespie,13 - HISD,"Justice, Supreme Court, Place 6",6,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,8,0,6,2
+Gillespie,13 - HISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,0,0,0,0
+Gillespie,13 - HISD,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,8,0,6,2
+Gillespie,13 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,0,0,0,0
+Gillespie,13 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,8,0,6,2
+Gillespie,13 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,0,0,0,0
+Gillespie,13 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,"Member, State Board of Education, District 10",10,REP,Tom Maynard,8,0,6,2
+Gillespie,13 - HISD,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,0,0,0,0
+Gillespie,13 - HISD,"Member, State Board of Education, District 10",10,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,State Representative,19,REP,Ellen Troxclair,8,0,6,2
+Gillespie,13 - HISD,State Representative,19,DEM,Dwain Handley,0,0,0,0
+Gillespie,13 - HISD,State Representative,19,IND,Kodi Sawin,0,0,0,0
+Gillespie,13 - HISD,State Representative,19,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,State Representative,19,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,2,0,1,1
+Gillespie,13 - HISD,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,6,0,5,1
+Gillespie,13 - HISD,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,8,0,6,2
+Gillespie,13 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,0,0,0,0
+Gillespie,13 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,8,0,6,2
+Gillespie,13 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,0,0,0,0
+Gillespie,13 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,8,0,6,2
+Gillespie,13 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,0,0,0,0
+Gillespie,13 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,8,0,6,2
+Gillespie,13 - HISD,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",8,0,6,2
+Gillespie,13 - HISD,"District Judge, 216th Judicial District",216,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,8,0,6,2
+Gillespie,13 - HISD,"District Attorney, 216th Judicial District",216,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,"Judge, County Court-at-law",,REP,Christopher Nevins,8,0,6,2
+Gillespie,13 - HISD,"Judge, County Court-at-law",,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,"Judge, County Court-at-law",,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,County Attorney,,REP,Sara Neel,8,0,6,2
+Gillespie,13 - HISD,County Attorney,,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,County Attorney,,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,Sheriff,,REP,Chris Ayala,8,0,6,2
+Gillespie,13 - HISD,Sheriff,,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,Sheriff,,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,County Tax Assessor-Collector,,REP,Carol Rode Durst,8,0,6,2
+Gillespie,13 - HISD,County Tax Assessor-Collector,,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,County Treasurer Unexpired Term,,REP,Vicki J. Schmidt,8,0,6,2
+Gillespie,13 - HISD,County Treasurer Unexpired Term,,,Under Votes,0,0,0,0
+Gillespie,13 - HISD,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,13 - HISD,County Treasurer Unexpired Term,,,Under Votes,16,0,11,5
+Gillespie,13 - HISD,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,Registered Voters,,,,769,,,
+Gillespie,15 - HISD,Ballots Cast,,,,629,,,
+Gillespie,15 - HISD,President,,REP,Donald J. Trump,489,2,261,226
+Gillespie,15 - HISD,President,,DEM,Kamala D. Harris,124,0,84,40
+Gillespie,15 - HISD,President,,LIB,Chase Oliver,4,0,1,3
+Gillespie,15 - HISD,President,,GRN,Jill Stein,2,0,0,2
+Gillespie,15 - HISD,President,,,Under Votes,10,0,3,7
+Gillespie,15 - HISD,President,,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,U.S. Senate,,REP,Ted Cruz,486,2,260,224
+Gillespie,15 - HISD,U.S. Senate,,DEM,Colin Allred,126,0,84,42
+Gillespie,15 - HISD,U.S. Senate,,LIB,Ted Brown,13,0,5,8
+Gillespie,15 - HISD,U.S. Senate,,,Under Votes,4,0,0,4
+Gillespie,15 - HISD,U.S. Senate,,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,U.S. House,21,REP,Chip Roy,502,2,264,236
+Gillespie,15 - HISD,U.S. House,21,DEM,Kristin Hook,114,0,78,36
+Gillespie,15 - HISD,U.S. House,21,LIB,Bob King,8,0,4,4
+Gillespie,15 - HISD,U.S. House,21,,Under Votes,5,0,3,2
+Gillespie,15 - HISD,U.S. House,21,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,Railroad Commissioner,,REP,Christi Craddick,501,2,267,232
+Gillespie,15 - HISD,Railroad Commissioner,,DEM,Katherine Culbert,104,0,69,35
+Gillespie,15 - HISD,Railroad Commissioner,,LIB,Hawk Dunlap,15,0,7,8
+Gillespie,15 - HISD,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0
+Gillespie,15 - HISD,Railroad Commissioner,,,Under Votes,7,0,4,3
+Gillespie,15 - HISD,Railroad Commissioner,,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,509,2,267,240
+Gillespie,15 - HISD,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,110,0,77,33
+Gillespie,15 - HISD,"Justice, Supreme Court, Place 2",2,,Under Votes,10,0,5,5
+Gillespie,15 - HISD,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,"Justice, Supreme Court, Place 4",4,REP,John Devine,499,2,267,230
+Gillespie,15 - HISD,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,121,0,78,43
+Gillespie,15 - HISD,"Justice, Supreme Court, Place 4",4,,Under Votes,9,0,4,5
+Gillespie,15 - HISD,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,500,2,267,231
+Gillespie,15 - HISD,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,106,0,71,35
+Gillespie,15 - HISD,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,13,0,5,8
+Gillespie,15 - HISD,"Justice, Supreme Court, Place 6",6,,Under Votes,9,0,5,4
+Gillespie,15 - HISD,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Gillespie,15 - HISD,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,513,2,269,242
+Gillespie,15 - HISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,103,0,72,31
+Gillespie,15 - HISD,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,13,0,8,5
+Gillespie,15 - HISD,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,508,2,270,236
+Gillespie,15 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,106,0,70,36
+Gillespie,15 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,15,0,9,6
+Gillespie,15 - HISD,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,511,2,269,240
+Gillespie,15 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,105,0,71,34
+Gillespie,15 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,13,0,9,4
+Gillespie,15 - HISD,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,"Member, State Board of Education, District 10",10,REP,Tom Maynard,512,2,269,241
+Gillespie,15 - HISD,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,106,0,73,33
+Gillespie,15 - HISD,"Member, State Board of Education, District 10",10,,Under Votes,11,0,7,4
+Gillespie,15 - HISD,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,State Representative,19,REP,Ellen Troxclair,474,2,249,223
+Gillespie,15 - HISD,State Representative,19,DEM,Dwain Handley,101,0,71,30
+Gillespie,15 - HISD,State Representative,19,IND,Kodi Sawin,41,0,22,19
+Gillespie,15 - HISD,State Representative,19,,Under Votes,13,0,7,6
+Gillespie,15 - HISD,State Representative,19,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,216,1,113,102
+Gillespie,15 - HISD,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,413,1,236,176
+Gillespie,15 - HISD,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,509,2,271,236
+Gillespie,15 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,103,0,68,35
+Gillespie,15 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,17,0,10,7
+Gillespie,15 - HISD,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,510,2,270,238
+Gillespie,15 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,100,0,68,32
+Gillespie,15 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,19,0,11,8
+Gillespie,15 - HISD,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,505,2,266,237
+Gillespie,15 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,106,0,72,34
+Gillespie,15 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,18,0,11,7
+Gillespie,15 - HISD,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,526,2,280,244
+Gillespie,15 - HISD,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,103,0,69,34
+Gillespie,15 - HISD,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",522,2,277,243
+Gillespie,15 - HISD,"District Judge, 216th Judicial District",216,,Under Votes,107,0,72,35
+Gillespie,15 - HISD,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,526,2,280,244
+Gillespie,15 - HISD,"District Attorney, 216th Judicial District",216,,Under Votes,103,0,69,34
+Gillespie,15 - HISD,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,"Judge, County Court-at-law",,REP,Christopher Nevins,517,2,275,240
+Gillespie,15 - HISD,"Judge, County Court-at-law",,,Under Votes,112,0,74,38
+Gillespie,15 - HISD,"Judge, County Court-at-law",,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,County Attorney,,REP,Sara Neel,520,2,276,242
+Gillespie,15 - HISD,County Attorney,,,Under Votes,109,0,73,36
+Gillespie,15 - HISD,County Attorney,,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,Sheriff,,REP,Chris Ayala,523,2,281,240
+Gillespie,15 - HISD,Sheriff,,,Under Votes,106,0,68,38
+Gillespie,15 - HISD,Sheriff,,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,County Tax Assessor-Collector,,REP,Carol Rode Durst,527,2,283,242
+Gillespie,15 - HISD,County Tax Assessor-Collector,,,Under Votes,102,0,66,36
+Gillespie,15 - HISD,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,County Treasurer Unexpired Term,,REP,Vicki J. Schmidt,528,2,284,242
+Gillespie,15 - HISD,County Treasurer Unexpired Term,,,Under Votes,101,0,65,36
+Gillespie,15 - HISD,County Treasurer Unexpired Term,,,Over Votes,0,0,0,0
+Gillespie,15 - HISD,County Treasurer Unexpired Term,,,Under Votes,1,6,648,498
+Gillespie,15 - HISD,County Treasurer Unexpired Term,,,Over Votes,3,0,2,1
