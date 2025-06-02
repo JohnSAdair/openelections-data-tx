@@ -1,0 +1,2512 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Kerr,101,Registered Voters,,,,3387,,,
+Kerr,101,Ballots Cast,,,,2517,,,
+Kerr,101,President,,REP,Donald J. Trump,1949,77,1628,244
+Kerr,101,President,,DEM,Kamala D. Harris,539,51,397,91
+Kerr,101,President,,LIB,Chase Oliver,16,1,12,3
+Kerr,101,President,,GRN,Jill Stein,4,0,3,1
+Kerr,101,President,,,Under Votes,8,0,7,1
+Kerr,101,President,,,Over Votes,1,0,1,0
+Kerr,101,U.S. Senate,,REP,Ted Cruz,1865,71,1581,213
+Kerr,101,U.S. Senate,,DEM,Colin Allred,564,51,418,95
+Kerr,101,U.S. Senate,,LIB,Ted Brown,68,4,40,24
+Kerr,101,U.S. Senate,,,Under Votes,18,2,8,8
+Kerr,101,U.S. Senate,,,Over Votes,1,0,1,0
+Kerr,101,U.S. House,21,REP,Chip Roy,1945,77,1634,234
+Kerr,101,U.S. House,21,DEM,Kristin Hook,488,45,361,82
+Kerr,101,U.S. House,21,LIB,Bob King,39,0,27,12
+Kerr,101,U.S. House,21,,Under Votes,45,7,26,12
+Kerr,101,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,101,Railroad Commissioner,,REP,Christi Craddick,1908,72,1615,221
+Kerr,101,Railroad Commissioner,,DEM,Katherine Culbert,437,42,326,69
+Kerr,101,Railroad Commissioner,,LIB,Hawk Dunlap,68,5,46,17
+Kerr,101,Railroad Commissioner,,GRN,Eddie Espinoza,36,1,22,13
+Kerr,101,Railroad Commissioner,,,Under Votes,63,8,36,19
+Kerr,101,Railroad Commissioner,,,Over Votes,4,0,3,1
+Kerr,101,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1972,76,1658,238
+Kerr,101,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,473,43,350,80
+Kerr,101,"Justice, Supreme Court, Place 2",2,,Under Votes,72,10,40,22
+Kerr,101,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Kerr,101,"Justice, Supreme Court, Place 4",4,REP,John Devine,1936,75,1634,227
+Kerr,101,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,483,41,352,90
+Kerr,101,"Justice, Supreme Court, Place 4",4,,Under Votes,98,13,62,23
+Kerr,101,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,101,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1939,78,1636,225
+Kerr,101,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,454,40,336,78
+Kerr,101,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,52,0,34,18
+Kerr,101,"Justice, Supreme Court, Place 6",6,,Under Votes,71,11,41,19
+Kerr,101,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Kerr,101,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1960,76,1644,240
+Kerr,101,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,485,43,360,82
+Kerr,101,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,72,10,44,18
+Kerr,101,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,101,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1965,74,1655,236
+Kerr,101,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,469,43,339,87
+Kerr,101,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,83,12,54,17
+Kerr,101,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Kerr,101,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1988,77,1667,244
+Kerr,101,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,449,40,330,79
+Kerr,101,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,80,12,51,17
+Kerr,101,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kerr,101,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1950,79,1629,242
+Kerr,101,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,490,40,366,84
+Kerr,101,"Member, State Board of Education, District 10",10,,Under Votes,76,10,52,14
+Kerr,101,"Member, State Board of Education, District 10",10,,Over Votes,1,0,1,0
+Kerr,101,State Representative,53,REP,Wes Virdell,1897,73,1599,225
+Kerr,101,State Representative,53,DEM,Joe P. Herrera,502,44,371,87
+Kerr,101,State Representative,53,LIB,B. W. Holk,43,1,28,14
+Kerr,101,State Representative,53,,Under Votes,74,11,49,14
+Kerr,101,State Representative,53,,Over Votes,1,0,1,0
+Kerr,101,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,995,62,773,160
+Kerr,101,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,180,67,1,275
+Kerr,101,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,101,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,1948,75,1633,240
+Kerr,101,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,473,40,350,83
+Kerr,101,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,96,14,65,17
+Kerr,101,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Kerr,101,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,1961,76,1645,240
+Kerr,101,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,463,39,341,83
+Kerr,101,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,93,14,62,17
+Kerr,101,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,101,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,1936,79,1621,236
+Kerr,101,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,493,41,367,85
+Kerr,101,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,87,9,60,18
+Kerr,101,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,1,0,0,1
+Kerr,101,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,2077,84,1729,264
+Kerr,101,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,440,45,319,76
+Kerr,101,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,101,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",2081,84,1730,267
+Kerr,101,"District Judge, 216th Judicial District",216,,Under Votes,436,45,318,73
+Kerr,101,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,101,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,2073,83,1725,265
+Kerr,101,"District Attorney, 198th Judicial District",198,,Under Votes,444,46,323,75
+Kerr,101,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,101,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,2060,81,1716,263
+Kerr,101,"District Attorney, 216th Judicial District",216,,Under Votes,457,48,332,77
+Kerr,101,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,101,County Attorney,,REP,Heather Stebbins,2074,83,1727,264
+Kerr,101,County Attorney,,,Under Votes,443,46,321,76
+Kerr,101,County Attorney,,,Over Votes,0,0,0,0
+Kerr,101,"County Clerk, Unexpired Term",,REP,Ian Collum,1783,77,1464,242
+Kerr,101,"County Clerk, Unexpired Term",,,Under Votes,447,41,330,76
+Kerr,101,"County Clerk, Unexpired Term",,,Over Votes,13,0,12,1
+Kerr,101,Sheriff,,REP,Larry L. Leitha Jr,2060,88,1706,266
+Kerr,101,Sheriff,,,Under Votes,457,41,342,74
+Kerr,101,Sheriff,,,Over Votes,0,0,0,0
+Kerr,101,County Tax Assessor-Collector,,REP,Bob Reeves,2104,90,1745,269
+Kerr,101,County Tax Assessor-Collector,,,Under Votes,413,39,303,71
+Kerr,101,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,101,"County Commissioner, Precinct 1",,REP,Tom Jones,2058,86,1708,264
+Kerr,101,"County Commissioner, Precinct 1",,,Under Votes,459,43,340,76
+Kerr,101,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Kerr,101,"Constable, Precinct 1",,REP,Tommy Rodriguez,2059,84,1708,267
+Kerr,101,"Constable, Precinct 1",,,Under Votes,458,45,340,73
+Kerr,101,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Kerr,101,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,895,51,721,123
+Kerr,101,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,0,0,0,0
+Kerr,101,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 1,,,Under Votes,836,53,660,123
+Kerr,101,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 1,,,Over Votes,4,1,3,0
+Kerr,107,Registered Voters,,,,1214,,,
+Kerr,107,Ballots Cast,,,,854,,,
+Kerr,107,President,,REP,Donald J. Trump,673,21,516,136
+Kerr,107,President,,DEM,Kamala D. Harris,171,18,128,25
+Kerr,107,President,,LIB,Chase Oliver,3,1,2,0
+Kerr,107,President,,GRN,Jill Stein,3,0,3,0
+Kerr,107,President,,,Under Votes,4,0,1,3
+Kerr,107,President,,,Over Votes,0,0,0,0
+Kerr,107,U.S. Senate,,REP,Ted Cruz,659,20,505,134
+Kerr,107,U.S. Senate,,DEM,Colin Allred,169,18,130,21
+Kerr,107,U.S. Senate,,LIB,Ted Brown,19,2,10,7
+Kerr,107,U.S. Senate,,,Under Votes,6,0,4,2
+Kerr,107,U.S. Senate,,,Over Votes,0,0,0,0
+Kerr,107,U.S. House,21,REP,Chip Roy,664,23,507,134
+Kerr,107,U.S. House,21,DEM,Kristin Hook,151,15,118,18
+Kerr,107,U.S. House,21,LIB,Bob King,23,0,15,8
+Kerr,107,U.S. House,21,,Under Votes,16,2,10,4
+Kerr,107,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,107,Railroad Commissioner,,REP,Christi Craddick,658,24,502,132
+Kerr,107,Railroad Commissioner,,DEM,Katherine Culbert,136,14,108,14
+Kerr,107,Railroad Commissioner,,LIB,Hawk Dunlap,25,0,18,7
+Kerr,107,Railroad Commissioner,,GRN,Eddie Espinoza,17,0,11,6
+Kerr,107,Railroad Commissioner,,,Under Votes,18,2,11,5
+Kerr,107,Railroad Commissioner,,,Over Votes,0,0,0,0
+Kerr,107,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,679,22,520,137
+Kerr,107,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,156,15,118,23
+Kerr,107,"Justice, Supreme Court, Place 2",2,,Under Votes,19,3,12,4
+Kerr,107,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Kerr,107,"Justice, Supreme Court, Place 4",4,REP,John Devine,671,21,513,137
+Kerr,107,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,159,15,121,23
+Kerr,107,"Justice, Supreme Court, Place 4",4,,Under Votes,24,4,16,4
+Kerr,107,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,107,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,656,21,500,135
+Kerr,107,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,150,15,117,18
+Kerr,107,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,29,1,21,7
+Kerr,107,"Justice, Supreme Court, Place 6",6,,Under Votes,19,3,12,4
+Kerr,107,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Kerr,107,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,670,22,513,135
+Kerr,107,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,162,15,126,21
+Kerr,107,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,22,3,11,8
+Kerr,107,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,107,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,674,22,518,134
+Kerr,107,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,158,15,119,24
+Kerr,107,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,22,3,13,6
+Kerr,107,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Kerr,107,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,682,22,520,140
+Kerr,107,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,151,15,118,18
+Kerr,107,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,21,3,12,6
+Kerr,107,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kerr,107,"Member, State Board of Education, District 10",10,REP,Tom Maynard,672,22,514,136
+Kerr,107,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,154,15,118,21
+Kerr,107,"Member, State Board of Education, District 10",10,,Under Votes,28,3,18,7
+Kerr,107,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Kerr,107,State Representative,53,REP,Wes Virdell,659,22,501,136
+Kerr,107,State Representative,53,DEM,Joe P. Herrera,149,15,119,15
+Kerr,107,State Representative,53,LIB,B. W. Holk,21,0,14,7
+Kerr,107,State Representative,53,,Under Votes,25,3,16,6
+Kerr,107,State Representative,53,,Over Votes,0,0,0,0
+Kerr,107,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,316,17,234,65
+Kerr,107,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,538,23,416,99
+Kerr,107,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,107,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,673,22,514,137
+Kerr,107,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,156,15,120,21
+Kerr,107,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,25,3,16,6
+Kerr,107,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Kerr,107,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,679,23,518,138
+Kerr,107,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,149,14,115,20
+Kerr,107,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,26,3,17,6
+Kerr,107,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,107,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,667,21,513,133
+Kerr,107,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,160,16,120,24
+Kerr,107,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,26,3,16,7
+Kerr,107,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,1,0,1,0
+Kerr,107,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,710,23,545,142
+Kerr,107,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,144,17,105,22
+Kerr,107,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,107,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",696,23,530,143
+Kerr,107,"District Judge, 216th Judicial District",216,,Under Votes,158,17,120,21
+Kerr,107,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,107,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,696,25,529,142
+Kerr,107,"District Attorney, 198th Judicial District",198,,Under Votes,158,15,121,22
+Kerr,107,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,107,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,694,26,526,142
+Kerr,107,"District Attorney, 216th Judicial District",216,,Under Votes,160,14,124,22
+Kerr,107,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,107,County Attorney,,REP,Heather Stebbins,698,25,532,141
+Kerr,107,County Attorney,,,Under Votes,156,15,118,23
+Kerr,107,County Attorney,,,Over Votes,0,0,0,0
+Kerr,107,"County Clerk, Unexpired Term",,REP,Ian Collum,512,21,391,100
+Kerr,107,"County Clerk, Unexpired Term",,,Under Votes,163,17,122,24
+Kerr,107,"County Clerk, Unexpired Term",,,Over Votes,3,0,2,1
+Kerr,107,Sheriff,,REP,Larry L. Leitha Jr,688,27,525,136
+Kerr,107,Sheriff,,,Under Votes,166,13,125,28
+Kerr,107,Sheriff,,,Over Votes,0,0,0,0
+Kerr,107,County Tax Assessor-Collector,,REP,Bob Reeves,715,29,544,142
+Kerr,107,County Tax Assessor-Collector,,,Under Votes,139,11,106,22
+Kerr,107,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,107,"County Commissioner, Precinct 1",,REP,Tom Jones,697,27,534,136
+Kerr,107,"County Commissioner, Precinct 1",,,Under Votes,157,13,116,28
+Kerr,107,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Kerr,107,"Constable, Precinct 1",,REP,Tommy Rodriguez,688,24,529,135
+Kerr,107,"Constable, Precinct 1",,,Under Votes,166,16,121,29
+Kerr,107,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Kerr,107,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,285,20,206,59
+Kerr,107,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,3,0,3,0
+Kerr,107,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 1,,,Under Votes,279,20,204,55
+Kerr,107,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 1,,,Over Votes,0,0,0,0
+Kerr,109,Registered Voters,,,,1700,,,
+Kerr,109,Ballots Cast,,,,1315,,,
+Kerr,109,President,,REP,Donald J. Trump,1047,32,858,157
+Kerr,109,President,,DEM,Kamala D. Harris,244,22,183,39
+Kerr,109,President,,LIB,Chase Oliver,10,1,8,1
+Kerr,109,President,,GRN,Jill Stein,0,0,0,0
+Kerr,109,President,,,Under Votes,14,0,10,4
+Kerr,109,President,,,Over Votes,0,0,0,0
+Kerr,109,U.S. Senate,,REP,Ted Cruz,1022,32,838,152
+Kerr,109,U.S. Senate,,DEM,Colin Allred,257,22,196,39
+Kerr,109,U.S. Senate,,LIB,Ted Brown,28,1,21,6
+Kerr,109,U.S. Senate,,,Under Votes,8,0,4,4
+Kerr,109,U.S. Senate,,,Over Votes,0,0,0,0
+Kerr,109,U.S. House,21,REP,Chip Roy,1048,32,859,157
+Kerr,109,U.S. House,21,DEM,Kristin Hook,223,21,167,35
+Kerr,109,U.S. House,21,LIB,Bob King,30,1,23,6
+Kerr,109,U.S. House,21,,Under Votes,14,1,10,3
+Kerr,109,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,109,Railroad Commissioner,,REP,Christi Craddick,1039,32,856,151
+Kerr,109,Railroad Commissioner,,DEM,Katherine Culbert,187,19,139,29
+Kerr,109,Railroad Commissioner,,LIB,Hawk Dunlap,41,1,35,5
+Kerr,109,Railroad Commissioner,,GRN,Eddie Espinoza,17,1,12,4
+Kerr,109,Railroad Commissioner,,,Under Votes,30,2,16,12
+Kerr,109,Railroad Commissioner,,,Over Votes,0,0,0,0
+Kerr,109,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1068,31,882,155
+Kerr,109,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,216,22,159,35
+Kerr,109,"Justice, Supreme Court, Place 2",2,,Under Votes,31,2,18,11
+Kerr,109,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Kerr,109,"Justice, Supreme Court, Place 4",4,REP,John Devine,1050,32,867,151
+Kerr,109,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,224,23,166,35
+Kerr,109,"Justice, Supreme Court, Place 4",4,,Under Votes,41,0,26,15
+Kerr,109,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,109,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1034,32,853,149
+Kerr,109,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,205,21,152,32
+Kerr,109,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,36,1,29,6
+Kerr,109,"Justice, Supreme Court, Place 6",6,,Under Votes,39,1,24,14
+Kerr,109,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Kerr,109,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1052,33,865,154
+Kerr,109,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,222,21,168,33
+Kerr,109,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,40,1,26,13
+Kerr,109,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,0,0,1
+Kerr,109,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1064,33,875,156
+Kerr,109,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,214,21,160,33
+Kerr,109,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,37,1,24,12
+Kerr,109,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Kerr,109,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1075,32,886,157
+Kerr,109,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,196,21,146,29
+Kerr,109,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,41,2,24,15
+Kerr,109,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,3,0,3,0
+Kerr,109,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1057,34,868,155
+Kerr,109,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,213,20,159,34
+Kerr,109,"Member, State Board of Education, District 10",10,,Under Votes,44,1,31,12
+Kerr,109,"Member, State Board of Education, District 10",10,,Over Votes,1,0,1,0
+Kerr,109,State Representative,53,REP,Wes Virdell,1022,33,835,154
+Kerr,109,State Representative,53,DEM,Joe P. Herrera,220,20,169,31
+Kerr,109,State Representative,53,LIB,B. W. Holk,38,1,33,4
+Kerr,109,State Representative,53,,Under Votes,35,1,22,12
+Kerr,109,State Representative,53,,Over Votes,0,0,0,0
+Kerr,109,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,438,27,335,76
+Kerr,109,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,877,28,724,125
+Kerr,109,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,109,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,1057,32,873,152
+Kerr,109,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,211,22,157,32
+Kerr,109,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,47,1,29,17
+Kerr,109,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Kerr,109,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,1073,35,880,158
+Kerr,109,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,200,19,151,30
+Kerr,109,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,42,1,28,13
+Kerr,109,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,109,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,1060,34,871,155
+Kerr,109,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,211,20,158,33
+Kerr,109,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,44,1,30,13
+Kerr,109,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Kerr,109,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,1094,33,899,162
+Kerr,109,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,221,22,160,39
+Kerr,109,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,109,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",1098,31,904,163
+Kerr,109,"District Judge, 216th Judicial District",216,,Under Votes,217,24,155,38
+Kerr,109,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,109,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,1085,32,892,161
+Kerr,109,"District Attorney, 198th Judicial District",198,,Under Votes,230,23,167,40
+Kerr,109,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,109,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,1092,32,900,160
+Kerr,109,"District Attorney, 216th Judicial District",216,,Under Votes,223,23,159,41
+Kerr,109,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,109,County Attorney,,REP,Heather Stebbins,1083,32,886,165
+Kerr,109,County Attorney,,,Under Votes,232,23,173,36
+Kerr,109,County Attorney,,,Over Votes,0,0,0,0
+Kerr,109,"County Clerk, Unexpired Term",,REP,Ian Collum,939,29,759,151
+Kerr,109,"County Clerk, Unexpired Term",,,Under Votes,216,24,156,36
+Kerr,109,"County Clerk, Unexpired Term",,,Over Votes,6,0,5,1
+Kerr,109,Sheriff,,REP,Larry L. Leitha Jr,1085,33,889,163
+Kerr,109,Sheriff,,,Under Votes,230,22,170,38
+Kerr,109,Sheriff,,,Over Votes,0,0,0,0
+Kerr,109,County Tax Assessor-Collector,,REP,Bob Reeves,1104,37,904,163
+Kerr,109,County Tax Assessor-Collector,,,Under Votes,211,18,155,38
+Kerr,109,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,109,"County Commissioner, Precinct 1",,REP,Tom Jones,1076,32,882,162
+Kerr,109,"County Commissioner, Precinct 1",,,Under Votes,239,23,177,39
+Kerr,109,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Kerr,109,"Constable, Precinct 1",,REP,Tommy Rodriguez,1071,32,881,158
+Kerr,109,"Constable, Precinct 1",,,Under Votes,244,23,178,43
+Kerr,109,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Kerr,109,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,517,32,406,79
+Kerr,109,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,1,0,1,0
+Kerr,109,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 1,,,Under Votes,517,31,405,81
+Kerr,109,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 1,,,Over Votes,1,0,0,1
+Kerr,113,Registered Voters,,,,1378,,,
+Kerr,113,Ballots Cast,,,,1047,,,
+Kerr,113,President,,REP,Donald J. Trump,729,44,575,110
+Kerr,113,President,,DEM,Kamala D. Harris,294,24,216,54
+Kerr,113,President,,LIB,Chase Oliver,9,0,6,3
+Kerr,113,President,,GRN,Jill Stein,7,0,3,4
+Kerr,113,President,,,Under Votes,7,0,6,1
+Kerr,113,President,,,Over Votes,1,0,1,0
+Kerr,113,U.S. Senate,,REP,Ted Cruz,703,38,562,103
+Kerr,113,U.S. Senate,,DEM,Colin Allred,313,27,225,61
+Kerr,113,U.S. Senate,,LIB,Ted Brown,24,2,15,7
+Kerr,113,U.S. Senate,,,Under Votes,7,1,5,1
+Kerr,113,U.S. Senate,,,Over Votes,0,0,0,0
+Kerr,113,U.S. House,21,REP,Chip Roy,734,43,579,112
+Kerr,113,U.S. House,21,DEM,Kristin Hook,278,19,208,51
+Kerr,113,U.S. House,21,LIB,Bob King,15,0,9,6
+Kerr,113,U.S. House,21,,Under Votes,20,6,11,3
+Kerr,113,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,113,Railroad Commissioner,,REP,Christi Craddick,723,34,578,111
+Kerr,113,Railroad Commissioner,,DEM,Katherine Culbert,257,21,189,47
+Kerr,113,Railroad Commissioner,,LIB,Hawk Dunlap,26,1,18,7
+Kerr,113,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,6,2
+Kerr,113,Railroad Commissioner,,,Under Votes,32,12,16,4
+Kerr,113,Railroad Commissioner,,,Over Votes,1,0,0,1
+Kerr,113,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,735,35,582,118
+Kerr,113,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,276,21,204,51
+Kerr,113,"Justice, Supreme Court, Place 2",2,,Under Votes,36,12,21,3
+Kerr,113,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Kerr,113,"Justice, Supreme Court, Place 4",4,REP,John Devine,718,35,567,116
+Kerr,113,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,277,21,207,49
+Kerr,113,"Justice, Supreme Court, Place 4",4,,Under Votes,52,12,33,7
+Kerr,113,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,113,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,715,34,567,114
+Kerr,113,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,269,20,204,45
+Kerr,113,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,21,1,12,8
+Kerr,113,"Justice, Supreme Court, Place 6",6,,Under Votes,41,13,23,5
+Kerr,113,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Kerr,113,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,732,35,582,115
+Kerr,113,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,273,22,199,52
+Kerr,113,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,42,11,26,5
+Kerr,113,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,113,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,734,37,579,118
+Kerr,113,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,270,20,201,49
+Kerr,113,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,43,11,27,5
+Kerr,113,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Kerr,113,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,745,38,587,120
+Kerr,113,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,257,19,193,45
+Kerr,113,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,45,11,27,7
+Kerr,113,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kerr,113,"Member, State Board of Education, District 10",10,REP,Tom Maynard,735,39,580,116
+Kerr,113,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,266,18,197,51
+Kerr,113,"Member, State Board of Education, District 10",10,,Under Votes,45,11,29,5
+Kerr,113,"Member, State Board of Education, District 10",10,,Over Votes,1,0,1,0
+Kerr,113,State Representative,53,REP,Wes Virdell,709,36,562,111
+Kerr,113,State Representative,53,DEM,Joe P. Herrera,277,22,211,44
+Kerr,113,State Representative,53,LIB,B. W. Holk,27,1,14,12
+Kerr,113,State Representative,53,,Under Votes,34,9,20,5
+Kerr,113,State Representative,53,,Over Votes,0,0,0,0
+Kerr,113,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,433,27,317,89
+Kerr,113,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,614,41,490,83
+Kerr,113,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,113,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,739,35,585,119
+Kerr,113,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,259,20,193,46
+Kerr,113,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,49,13,29,7
+Kerr,113,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Kerr,113,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,739,35,583,121
+Kerr,113,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,259,20,193,46
+Kerr,113,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,49,13,31,5
+Kerr,113,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,113,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,731,35,580,116
+Kerr,113,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,267,20,195,52
+Kerr,113,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,49,13,32,4
+Kerr,113,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Kerr,113,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,820,42,638,140
+Kerr,113,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,227,26,169,32
+Kerr,113,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,113,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",816,43,632,141
+Kerr,113,"District Judge, 216th Judicial District",216,,Under Votes,231,25,175,31
+Kerr,113,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,113,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,816,43,634,139
+Kerr,113,"District Attorney, 198th Judicial District",198,,Under Votes,231,25,173,33
+Kerr,113,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,113,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,830,45,643,142
+Kerr,113,"District Attorney, 216th Judicial District",216,,Under Votes,217,23,164,30
+Kerr,113,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,113,County Attorney,,REP,Heather Stebbins,823,45,636,142
+Kerr,113,County Attorney,,,Under Votes,224,23,171,30
+Kerr,113,County Attorney,,,Over Votes,0,0,0,0
+Kerr,113,"County Clerk, Unexpired Term",,REP,Ian Collum,654,38,498,118
+Kerr,113,"County Clerk, Unexpired Term",,,Under Votes,224,24,168,32
+Kerr,113,"County Clerk, Unexpired Term",,,Over Votes,7,0,6,1
+Kerr,113,Sheriff,,REP,Larry L. Leitha Jr,827,47,639,141
+Kerr,113,Sheriff,,,Under Votes,220,21,168,31
+Kerr,113,Sheriff,,,Over Votes,0,0,0,0
+Kerr,113,County Tax Assessor-Collector,,REP,Bob Reeves,851,45,659,147
+Kerr,113,County Tax Assessor-Collector,,,Under Votes,196,23,148,25
+Kerr,113,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,113,"County Commissioner, Precinct 1",,REP,Tom Jones,800,41,622,137
+Kerr,113,"County Commissioner, Precinct 1",,,Under Votes,247,27,185,35
+Kerr,113,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Kerr,113,"Constable, Precinct 1",,REP,Tommy Rodriguez,808,42,631,135
+Kerr,113,"Constable, Precinct 1",,,Under Votes,239,26,176,37
+Kerr,113,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Kerr,113,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,357,40,259,58
+Kerr,113,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,1,0,1,0
+Kerr,113,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 1,,,Under Votes,370,40,274,56
+Kerr,113,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 1,,,Over Votes,1,0,1,0
+Kerr,118,Registered Voters,,,,596,,,
+Kerr,118,Ballots Cast,,,,336,,,
+Kerr,118,President,,REP,Donald J. Trump,249,46,186,17
+Kerr,118,President,,DEM,Kamala D. Harris,81,22,39,20
+Kerr,118,President,,LIB,Chase Oliver,4,0,3,1
+Kerr,118,President,,GRN,Jill Stein,1,0,0,1
+Kerr,118,President,,,Under Votes,1,0,1,0
+Kerr,118,President,,,Over Votes,0,0,0,0
+Kerr,118,U.S. Senate,,REP,Ted Cruz,237,41,180,16
+Kerr,118,U.S. Senate,,DEM,Colin Allred,84,24,40,20
+Kerr,118,U.S. Senate,,LIB,Ted Brown,12,1,9,2
+Kerr,118,U.S. Senate,,,Under Votes,3,2,0,1
+Kerr,118,U.S. Senate,,,Over Votes,0,0,0,0
+Kerr,118,U.S. House,21,REP,Chip Roy,238,37,183,18
+Kerr,118,U.S. House,21,DEM,Kristin Hook,79,23,38,18
+Kerr,118,U.S. House,21,LIB,Bob King,8,1,6,1
+Kerr,118,U.S. House,21,,Under Votes,11,7,2,2
+Kerr,118,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,118,Railroad Commissioner,,REP,Christi Craddick,227,32,178,17
+Kerr,118,Railroad Commissioner,,DEM,Katherine Culbert,74,21,37,16
+Kerr,118,Railroad Commissioner,,LIB,Hawk Dunlap,14,3,8,3
+Kerr,118,Railroad Commissioner,,GRN,Eddie Espinoza,5,3,1,1
+Kerr,118,Railroad Commissioner,,,Under Votes,15,9,4,2
+Kerr,118,Railroad Commissioner,,,Over Votes,1,0,1,0
+Kerr,118,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,241,36,188,17
+Kerr,118,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,79,22,37,20
+Kerr,118,"Justice, Supreme Court, Place 2",2,,Under Votes,16,10,4,2
+Kerr,118,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Kerr,118,"Justice, Supreme Court, Place 4",4,REP,John Devine,235,33,186,16
+Kerr,118,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,80,22,39,19
+Kerr,118,"Justice, Supreme Court, Place 4",4,,Under Votes,21,13,4,4
+Kerr,118,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,118,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,233,32,186,15
+Kerr,118,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,74,21,35,18
+Kerr,118,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,10,2,4,4
+Kerr,118,"Justice, Supreme Court, Place 6",6,,Under Votes,18,13,3,2
+Kerr,118,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Kerr,118,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,238,33,188,17
+Kerr,118,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,80,24,37,19
+Kerr,118,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,18,11,4,3
+Kerr,118,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,118,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,238,34,188,16
+Kerr,118,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,81,22,38,21
+Kerr,118,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,17,12,3,2
+Kerr,118,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Kerr,118,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,239,33,188,18
+Kerr,118,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,78,22,37,19
+Kerr,118,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,19,13,4,2
+Kerr,118,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kerr,118,"Member, State Board of Education, District 10",10,REP,Tom Maynard,235,35,184,16
+Kerr,118,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,80,21,38,21
+Kerr,118,"Member, State Board of Education, District 10",10,,Under Votes,21,12,7,2
+Kerr,118,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Kerr,118,State Representative,53,REP,Wes Virdell,232,33,183,16
+Kerr,118,State Representative,53,DEM,Joe P. Herrera,75,20,36,19
+Kerr,118,State Representative,53,LIB,B. W. Holk,8,2,4,2
+Kerr,118,State Representative,53,,Under Votes,21,13,6,2
+Kerr,118,State Representative,53,,Over Votes,0,0,0,0
+Kerr,118,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,132,37,65,30
+Kerr,118,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,204,31,164,9
+Kerr,118,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,118,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,233,33,183,17
+Kerr,118,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,79,22,37,20
+Kerr,118,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,24,13,9,2
+Kerr,118,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Kerr,118,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,238,35,188,15
+Kerr,118,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,75,20,33,22
+Kerr,118,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,23,13,8,2
+Kerr,118,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,118,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,231,30,185,16
+Kerr,118,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,80,23,36,21
+Kerr,118,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,24,15,7,2
+Kerr,118,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,1,0,1,0
+Kerr,118,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,262,43,189,30
+Kerr,118,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,74,25,40,9
+Kerr,118,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,118,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",256,42,184,30
+Kerr,118,"District Judge, 216th Judicial District",216,,Under Votes,80,26,45,9
+Kerr,118,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,118,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,255,41,184,30
+Kerr,118,"District Attorney, 198th Judicial District",198,,Under Votes,81,27,45,9
+Kerr,118,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,118,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,256,43,183,30
+Kerr,118,"District Attorney, 216th Judicial District",216,,Under Votes,80,25,46,9
+Kerr,118,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,118,County Attorney,,REP,Heather Stebbins,251,40,181,30
+Kerr,118,County Attorney,,,Under Votes,85,28,48,9
+Kerr,118,County Attorney,,,Over Votes,0,0,0,0
+Kerr,118,"County Clerk, Unexpired Term",,REP,Ian Collum,235,37,168,30
+Kerr,118,"County Clerk, Unexpired Term",,,Under Votes,82,27,47,8
+Kerr,118,"County Clerk, Unexpired Term",,,Over Votes,1,1,0,0
+Kerr,118,Sheriff,,REP,Larry L. Leitha Jr,257,39,188,30
+Kerr,118,Sheriff,,,Under Votes,79,29,41,9
+Kerr,118,Sheriff,,,Over Votes,0,0,0,0
+Kerr,118,County Tax Assessor-Collector,,REP,Bob Reeves,263,42,191,30
+Kerr,118,County Tax Assessor-Collector,,,Under Votes,73,26,38,9
+Kerr,118,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,118,"County Commissioner, Precinct 1",,REP,Tom Jones,258,42,186,30
+Kerr,118,"County Commissioner, Precinct 1",,,Under Votes,78,26,43,9
+Kerr,118,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Kerr,118,"Constable, Precinct 1",,REP,Tommy Rodriguez,250,40,182,28
+Kerr,118,"Constable, Precinct 1",,,Under Votes,86,28,47,11
+Kerr,118,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Kerr,118,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,143,37,90,16
+Kerr,118,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,0,0,0,0
+Kerr,118,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 1,,,Under Votes,146,36,94,16
+Kerr,118,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 1,,,Over Votes,1,1,0,0
+Kerr,119,Registered Voters,,,,2296,,,
+Kerr,119,Ballots Cast,,,,1566,,,
+Kerr,119,President,,REP,Donald J. Trump,1047,42,850,155
+Kerr,119,President,,DEM,Kamala D. Harris,484,51,371,62
+Kerr,119,President,,LIB,Chase Oliver,18,1,13,4
+Kerr,119,President,,GRN,Jill Stein,2,0,2,0
+Kerr,119,President,,,Under Votes,8,1,5,2
+Kerr,119,President,,,Over Votes,2,1,1,0
+Kerr,119,U.S. Senate,,REP,Ted Cruz,991,39,816,136
+Kerr,119,U.S. Senate,,DEM,Colin Allred,510,53,387,70
+Kerr,119,U.S. Senate,,LIB,Ted Brown,47,1,32,14
+Kerr,119,U.S. Senate,,,Under Votes,17,3,9,5
+Kerr,119,U.S. Senate,,,Over Votes,1,0,1,0
+Kerr,119,U.S. House,21,REP,Chip Roy,1044,44,848,152
+Kerr,119,U.S. House,21,DEM,Kristin Hook,456,44,355,57
+Kerr,119,U.S. House,21,LIB,Bob King,41,3,28,10
+Kerr,119,U.S. House,21,,Under Votes,25,5,14,6
+Kerr,119,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,119,Railroad Commissioner,,REP,Christi Craddick,1012,40,826,146
+Kerr,119,Railroad Commissioner,,DEM,Katherine Culbert,416,45,322,49
+Kerr,119,Railroad Commissioner,,LIB,Hawk Dunlap,49,2,38,9
+Kerr,119,Railroad Commissioner,,GRN,Eddie Espinoza,33,0,24,9
+Kerr,119,Railroad Commissioner,,,Under Votes,53,8,34,11
+Kerr,119,Railroad Commissioner,,,Over Votes,2,1,1,0
+Kerr,119,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1066,47,859,160
+Kerr,119,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,447,43,350,54
+Kerr,119,"Justice, Supreme Court, Place 2",2,,Under Votes,53,6,36,11
+Kerr,119,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Kerr,119,"Justice, Supreme Court, Place 4",4,REP,John Devine,1040,43,845,152
+Kerr,119,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,462,46,357,59
+Kerr,119,"Justice, Supreme Court, Place 4",4,,Under Votes,64,7,43,14
+Kerr,119,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,119,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1031,47,835,149
+Kerr,119,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,434,42,341,51
+Kerr,119,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,44,1,31,12
+Kerr,119,"Justice, Supreme Court, Place 6",6,,Under Votes,56,6,37,13
+Kerr,119,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Kerr,119,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1052,46,850,156
+Kerr,119,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,451,44,351,56
+Kerr,119,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,63,6,44,13
+Kerr,119,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,119,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1058,46,854,158
+Kerr,119,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,439,43,342,54
+Kerr,119,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,69,7,49,13
+Kerr,119,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Kerr,119,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1066,45,863,158
+Kerr,119,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,434,45,336,53
+Kerr,119,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,66,6,46,14
+Kerr,119,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kerr,119,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1037,45,837,155
+Kerr,119,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,458,44,356,58
+Kerr,119,"Member, State Board of Education, District 10",10,,Under Votes,70,7,51,12
+Kerr,119,"Member, State Board of Education, District 10",10,,Over Votes,1,0,1,0
+Kerr,119,State Representative,53,REP,Wes Virdell,1012,39,821,152
+Kerr,119,State Representative,53,DEM,Joe P. Herrera,453,48,350,55
+Kerr,119,State Representative,53,LIB,B. W. Holk,37,1,28,8
+Kerr,119,State Representative,53,,Under Votes,64,8,46,10
+Kerr,119,State Representative,53,,Over Votes,0,0,0,0
+Kerr,119,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,746,56,567,123
+Kerr,119,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,820,40,678,102
+Kerr,119,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,119,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,1047,45,847,155
+Kerr,119,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,440,44,342,54
+Kerr,119,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,78,7,55,16
+Kerr,119,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,1,0,1,0
+Kerr,119,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,1048,42,854,152
+Kerr,119,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,442,47,338,57
+Kerr,119,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,76,7,53,16
+Kerr,119,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,119,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,1038,43,843,152
+Kerr,119,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,446,45,344,57
+Kerr,119,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,80,8,56,16
+Kerr,119,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,2,0,2,0
+Kerr,119,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,1168,53,943,172
+Kerr,119,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,398,43,302,53
+Kerr,119,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,119,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",1184,54,956,174
+Kerr,119,"District Judge, 216th Judicial District",216,,Under Votes,382,42,289,51
+Kerr,119,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,119,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,1173,52,949,172
+Kerr,119,"District Attorney, 198th Judicial District",198,,Under Votes,393,44,296,53
+Kerr,119,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,119,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,1169,52,943,174
+Kerr,119,"District Attorney, 216th Judicial District",216,,Under Votes,397,44,302,51
+Kerr,119,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,119,County Attorney,,REP,Heather Stebbins,1183,52,957,174
+Kerr,119,County Attorney,,,Under Votes,383,44,288,51
+Kerr,119,County Attorney,,,Over Votes,0,0,0,0
+Kerr,119,"County Clerk, Unexpired Term",,REP,Ian Collum,1023,51,825,147
+Kerr,119,"County Clerk, Unexpired Term",,,Under Votes,382,41,291,50
+Kerr,119,"County Clerk, Unexpired Term",,,Over Votes,6,1,5,0
+Kerr,119,Sheriff,,REP,Larry L. Leitha Jr,1184,55,953,176
+Kerr,119,Sheriff,,,Under Votes,382,41,292,49
+Kerr,119,Sheriff,,,Over Votes,0,0,0,0
+Kerr,119,County Tax Assessor-Collector,,REP,Bob Reeves,1214,57,986,171
+Kerr,119,County Tax Assessor-Collector,,,Under Votes,352,39,259,54
+Kerr,119,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,119,"County Commissioner, Precinct 1",,REP,Tom Jones,1146,52,924,170
+Kerr,119,"County Commissioner, Precinct 1",,,Under Votes,420,44,321,55
+Kerr,119,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Kerr,119,"Constable, Precinct 1",,REP,Tommy Rodriguez,1150,53,931,166
+Kerr,119,"Constable, Precinct 1",,,Under Votes,416,43,314,59
+Kerr,119,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Kerr,119,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,565,51,439,75
+Kerr,119,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,1,0,1,0
+Kerr,119,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 1,,,Under Votes,535,49,424,62
+Kerr,119,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 1,,,Over Votes,3,0,2,1
+Kerr,202,Registered Voters,,,,33,,,
+Kerr,202,Ballots Cast,,,,33,,,
+Kerr,202,President,,REP,Donald J. Trump,27,2,23,2
+Kerr,202,President,,DEM,Kamala D. Harris,5,4,1,0
+Kerr,202,President,,LIB,Chase Oliver,0,0,0,0
+Kerr,202,President,,GRN,Jill Stein,0,0,0,0
+Kerr,202,President,,,Under Votes,1,0,1,0
+Kerr,202,President,,,Over Votes,0,0,0,0
+Kerr,202,U.S. Senate,,REP,Ted Cruz,27,2,24,1
+Kerr,202,U.S. Senate,,DEM,Colin Allred,5,4,1,0
+Kerr,202,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+Kerr,202,U.S. Senate,,,Under Votes,0,0,0,0
+Kerr,202,U.S. Senate,,,Over Votes,0,0,0,0
+Kerr,202,U.S. House,21,REP,Chip Roy,28,2,24,2
+Kerr,202,U.S. House,21,DEM,Kristin Hook,3,2,1,0
+Kerr,202,U.S. House,21,LIB,Bob King,0,0,0,0
+Kerr,202,U.S. House,21,,Under Votes,2,2,0,0
+Kerr,202,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,202,Railroad Commissioner,,REP,Christi Craddick,28,2,24,2
+Kerr,202,Railroad Commissioner,,DEM,Katherine Culbert,3,2,1,0
+Kerr,202,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Kerr,202,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Kerr,202,Railroad Commissioner,,,Under Votes,0,0,0,0
+Kerr,202,Railroad Commissioner,,,Over Votes,2,2,0,0
+Kerr,202,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,27,2,24,1
+Kerr,202,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,4,2,1,1
+Kerr,202,"Justice, Supreme Court, Place 2",2,,Under Votes,2,2,0,0
+Kerr,202,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Kerr,202,"Justice, Supreme Court, Place 4",4,REP,John Devine,27,2,24,1
+Kerr,202,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,4,2,1,1
+Kerr,202,"Justice, Supreme Court, Place 4",4,,Under Votes,2,2,0,0
+Kerr,202,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,202,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,27,2,24,1
+Kerr,202,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,4,2,1,1
+Kerr,202,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Kerr,202,"Justice, Supreme Court, Place 6",6,,Under Votes,2,2,0,0
+Kerr,202,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Kerr,202,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,28,2,24,2
+Kerr,202,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,3,2,1,0
+Kerr,202,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,2,2,0,0
+Kerr,202,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,202,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,27,2,23,2
+Kerr,202,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,3,2,1,0
+Kerr,202,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,3,2,1,0
+Kerr,202,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Kerr,202,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,28,2,24,2
+Kerr,202,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,3,2,1,0
+Kerr,202,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,2,2,0,0
+Kerr,202,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kerr,202,"Member, State Board of Education, District 10",10,REP,Tom Maynard,26,2,23,1
+Kerr,202,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,4,2,1,1
+Kerr,202,"Member, State Board of Education, District 10",10,,Under Votes,3,2,1,0
+Kerr,202,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Kerr,202,State Representative,53,REP,Wes Virdell,27,2,24,1
+Kerr,202,State Representative,53,DEM,Joe P. Herrera,3,2,1,0
+Kerr,202,State Representative,53,LIB,B. W. Holk,1,0,0,1
+Kerr,202,State Representative,53,,Under Votes,2,2,0,0
+Kerr,202,State Representative,53,,Over Votes,0,0,0,0
+Kerr,202,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,9,3,5,1
+Kerr,202,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,24,3,20,1
+Kerr,202,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,202,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,28,2,24,2
+Kerr,202,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,3,2,1,0
+Kerr,202,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,2,2,0,0
+Kerr,202,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Kerr,202,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,28,2,24,2
+Kerr,202,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,3,2,1,0
+Kerr,202,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,2,2,0,0
+Kerr,202,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,202,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,28,2,24,2
+Kerr,202,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,3,2,1,0
+Kerr,202,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,2,2,0,0
+Kerr,202,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Kerr,202,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,27,2,23,2
+Kerr,202,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,6,4,2,0
+Kerr,202,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,202,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",28,2,24,2
+Kerr,202,"District Judge, 216th Judicial District",216,,Under Votes,5,4,1,0
+Kerr,202,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,202,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,27,2,23,2
+Kerr,202,"District Attorney, 198th Judicial District",198,,Under Votes,6,4,2,0
+Kerr,202,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,202,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,27,2,23,2
+Kerr,202,"District Attorney, 216th Judicial District",216,,Under Votes,6,4,2,0
+Kerr,202,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,202,County Attorney,,REP,Heather Stebbins,27,2,23,2
+Kerr,202,County Attorney,,,Under Votes,6,4,2,0
+Kerr,202,County Attorney,,,Over Votes,0,0,0,0
+Kerr,202,"County Clerk, Unexpired Term",,REP,Ian Collum,21,2,19,0
+Kerr,202,"County Clerk, Unexpired Term",,,Under Votes,5,4,1,0
+Kerr,202,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Kerr,202,Sheriff,,REP,Larry L. Leitha Jr,27,2,23,2
+Kerr,202,Sheriff,,,Under Votes,6,4,2,0
+Kerr,202,Sheriff,,,Over Votes,0,0,0,0
+Kerr,202,County Tax Assessor-Collector,,REP,Bob Reeves,28,2,24,2
+Kerr,202,County Tax Assessor-Collector,,,Under Votes,5,4,1,0
+Kerr,202,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,202,"Constable, Precinct 2",,REP,Kyle Schneider,28,2,24,2
+Kerr,202,"Constable, Precinct 2",,,Under Votes,5,4,1,0
+Kerr,202,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Kerr,202,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,19,5,13,1
+Kerr,202,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,0,0,0,0
+Kerr,202 - SCP,Registered Voters,,,,2296,,,
+Kerr,202 - SCP,Ballots Cast,,,,1604,,,
+Kerr,202 - SCP,President,,REP,Donald J. Trump,1325,31,1057,237
+Kerr,202 - SCP,President,,DEM,Kamala D. Harris,264,22,193,49
+Kerr,202 - SCP,President,,LIB,Chase Oliver,3,0,3,0
+Kerr,202 - SCP,President,,GRN,Jill Stein,4,0,3,1
+Kerr,202 - SCP,President,,,Under Votes,8,1,5,2
+Kerr,202 - SCP,President,,,Over Votes,0,0,0,0
+Kerr,202 - SCP,U.S. Senate,,REP,Ted Cruz,1254,31,1013,210
+Kerr,202 - SCP,U.S. Senate,,DEM,Colin Allred,302,21,216,65
+Kerr,202 - SCP,U.S. Senate,,LIB,Ted Brown,29,1,20,8
+Kerr,202 - SCP,U.S. Senate,,,Under Votes,17,1,12,4
+Kerr,202 - SCP,U.S. Senate,,,Over Votes,1,0,0,1
+Kerr,202 - SCP,U.S. House,21,REP,Chip Roy,1295,31,1036,228
+Kerr,202 - SCP,U.S. House,21,DEM,Kristin Hook,266,22,195,49
+Kerr,202 - SCP,U.S. House,21,LIB,Bob King,17,0,10,7
+Kerr,202 - SCP,U.S. House,21,,Under Votes,26,1,20,5
+Kerr,202 - SCP,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,202 - SCP,Railroad Commissioner,,REP,Christi Craddick,1271,31,1023,217
+Kerr,202 - SCP,Railroad Commissioner,,DEM,Katherine Culbert,235,21,172,42
+Kerr,202 - SCP,Railroad Commissioner,,LIB,Hawk Dunlap,41,0,32,9
+Kerr,202 - SCP,Railroad Commissioner,,GRN,Eddie Espinoza,22,0,12,10
+Kerr,202 - SCP,Railroad Commissioner,,,Under Votes,34,2,21,11
+Kerr,202 - SCP,Railroad Commissioner,,,Over Votes,1,0,1,0
+Kerr,202 - SCP,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1311,30,1049,232
+Kerr,202 - SCP,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,251,22,185,44
+Kerr,202 - SCP,"Justice, Supreme Court, Place 2",2,,Under Votes,42,2,27,13
+Kerr,202 - SCP,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Kerr,202 - SCP,"Justice, Supreme Court, Place 4",4,REP,John Devine,1285,28,1033,224
+Kerr,202 - SCP,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,251,22,183,46
+Kerr,202 - SCP,"Justice, Supreme Court, Place 4",4,,Under Votes,68,4,45,19
+Kerr,202 - SCP,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,202 - SCP,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1275,30,1025,220
+Kerr,202 - SCP,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,241,22,179,40
+Kerr,202 - SCP,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,38,0,24,14
+Kerr,202 - SCP,"Justice, Supreme Court, Place 6",6,,Under Votes,50,2,33,15
+Kerr,202 - SCP,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Kerr,202 - SCP,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1299,31,1040,228
+Kerr,202 - SCP,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,261,21,192,48
+Kerr,202 - SCP,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,43,2,28,13
+Kerr,202 - SCP,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,0,1,0
+Kerr,202 - SCP,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1296,29,1038,229
+Kerr,202 - SCP,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,252,22,186,44
+Kerr,202 - SCP,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,55,3,36,16
+Kerr,202 - SCP,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,0,1,0
+Kerr,202 - SCP,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1306,32,1048,226
+Kerr,202 - SCP,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,242,19,179,44
+Kerr,202 - SCP,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,55,2,34,19
+Kerr,202 - SCP,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,1,0,0
+Kerr,202 - SCP,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1287,31,1032,224
+Kerr,202 - SCP,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,261,21,192,48
+Kerr,202 - SCP,"Member, State Board of Education, District 10",10,,Under Votes,55,2,36,17
+Kerr,202 - SCP,"Member, State Board of Education, District 10",10,,Over Votes,1,0,1,0
+Kerr,202 - SCP,State Representative,53,REP,Wes Virdell,1274,30,1027,217
+Kerr,202 - SCP,State Representative,53,DEM,Joe P. Herrera,253,22,179,52
+Kerr,202 - SCP,State Representative,53,LIB,B. W. Holk,28,0,23,5
+Kerr,202 - SCP,State Representative,53,,Under Votes,48,2,31,15
+Kerr,202 - SCP,State Representative,53,,Over Votes,1,0,1,0
+Kerr,202 - SCP,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,598,23,445,130
+Kerr,202 - SCP,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,1,31,816,159
+Kerr,202 - SCP,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,202 - SCP,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,1287,32,1032,223
+Kerr,202 - SCP,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,255,20,189,46
+Kerr,202 - SCP,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,62,2,40,20
+Kerr,202 - SCP,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Kerr,202 - SCP,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,1288,32,1035,221
+Kerr,202 - SCP,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,251,20,181,50
+Kerr,202 - SCP,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,65,2,45,18
+Kerr,202 - SCP,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,202 - SCP,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,1291,32,1036,223
+Kerr,202 - SCP,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,254,20,185,49
+Kerr,202 - SCP,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,57,2,39,16
+Kerr,202 - SCP,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,2,0,1,1
+Kerr,202 - SCP,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,1345,36,1058,251
+Kerr,202 - SCP,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,259,18,203,38
+Kerr,202 - SCP,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,202 - SCP,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",1341,36,1056,249
+Kerr,202 - SCP,"District Judge, 216th Judicial District",216,,Under Votes,263,18,205,40
+Kerr,202 - SCP,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,202 - SCP,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,1338,34,1056,248
+Kerr,202 - SCP,"District Attorney, 198th Judicial District",198,,Under Votes,266,20,205,41
+Kerr,202 - SCP,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,202 - SCP,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,1336,35,1057,244
+Kerr,202 - SCP,"District Attorney, 216th Judicial District",216,,Under Votes,268,19,204,45
+Kerr,202 - SCP,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,202 - SCP,County Attorney,,REP,Heather Stebbins,1336,35,1052,249
+Kerr,202 - SCP,County Attorney,,,Under Votes,268,19,209,40
+Kerr,202 - SCP,County Attorney,,,Over Votes,0,0,0,0
+Kerr,202 - SCP,"County Clerk, Unexpired Term",,REP,Ian Collum,1059,34,859,166
+Kerr,202 - SCP,"County Clerk, Unexpired Term",,,Under Votes,264,20,203,41
+Kerr,202 - SCP,"County Clerk, Unexpired Term",,,Over Votes,10,0,10,0
+Kerr,202 - SCP,Sheriff,,REP,Larry L. Leitha Jr,1355,39,1077,239
+Kerr,202 - SCP,Sheriff,,,Under Votes,249,15,184,50
+Kerr,202 - SCP,Sheriff,,,Over Votes,0,0,0,0
+Kerr,202 - SCP,County Tax Assessor-Collector,,REP,Bob Reeves,1364,41,1070,253
+Kerr,202 - SCP,County Tax Assessor-Collector,,,Under Votes,240,13,191,36
+Kerr,202 - SCP,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,202 - SCP,"Constable, Precinct 2",,REP,Kyle Schneider,1332,39,1046,247
+Kerr,202 - SCP,"Constable, Precinct 2",,,Under Votes,272,15,215,42
+Kerr,202 - SCP,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Kerr,202 - SCP,"Constable, Precinct 2",,,Under Votes,507,137,2,649
+Kerr,202 - SCP,"Constable, Precinct 2",,,Over Votes,8,0,8,0
+Kerr,202 - SCP,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,628,31,491,106
+Kerr,202 - SCP,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,6,0,6,0
+Kerr,211,Registered Voters,,,,1093,,,
+Kerr,211,Ballots Cast,,,,704,,,
+Kerr,211,President,,REP,Donald J. Trump,521,34,421,66
+Kerr,211,President,,DEM,Kamala D. Harris,170,16,125,29
+Kerr,211,President,,LIB,Chase Oliver,6,1,5,0
+Kerr,211,President,,GRN,Jill Stein,4,0,4,0
+Kerr,211,President,,,Under Votes,3,1,2,0
+Kerr,211,President,,,Over Votes,0,0,0,0
+Kerr,211,U.S. Senate,,REP,Ted Cruz,507,35,413,59
+Kerr,211,U.S. Senate,,DEM,Colin Allred,178,16,129,33
+Kerr,211,U.S. Senate,,LIB,Ted Brown,15,1,11,3
+Kerr,211,U.S. Senate,,,Under Votes,3,0,3,0
+Kerr,211,U.S. Senate,,,Over Votes,0,0,0,0
+Kerr,211,U.S. House,21,REP,Chip Roy,484,35,387,62
+Kerr,211,U.S. House,21,DEM,Kristin Hook,153,12,113,28
+Kerr,211,U.S. House,21,LIB,Bob King,17,2,12,3
+Kerr,211,U.S. House,21,,Under Votes,50,3,45,2
+Kerr,211,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,211,Railroad Commissioner,,REP,Christi Craddick,501,34,407,60
+Kerr,211,Railroad Commissioner,,DEM,Katherine Culbert,143,13,103,27
+Kerr,211,Railroad Commissioner,,LIB,Hawk Dunlap,26,1,21,4
+Kerr,211,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,10,1
+Kerr,211,Railroad Commissioner,,,Under Votes,22,4,15,3
+Kerr,211,Railroad Commissioner,,,Over Votes,0,0,0,0
+Kerr,211,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,518,33,423,62
+Kerr,211,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,162,14,120,28
+Kerr,211,"Justice, Supreme Court, Place 2",2,,Under Votes,24,5,14,5
+Kerr,211,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Kerr,211,"Justice, Supreme Court, Place 4",4,REP,John Devine,517,33,420,64
+Kerr,211,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,157,13,117,27
+Kerr,211,"Justice, Supreme Court, Place 4",4,,Under Votes,30,6,20,4
+Kerr,211,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,211,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,502,32,410,60
+Kerr,211,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,158,12,118,28
+Kerr,211,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,19,3,13,3
+Kerr,211,"Justice, Supreme Court, Place 6",6,,Under Votes,25,5,16,4
+Kerr,211,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Kerr,211,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,513,32,421,60
+Kerr,211,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,166,14,122,30
+Kerr,211,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,25,6,14,5
+Kerr,211,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,211,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,520,34,424,62
+Kerr,211,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,156,13,114,29
+Kerr,211,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,28,5,19,4
+Kerr,211,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Kerr,211,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,523,34,428,61
+Kerr,211,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,155,13,111,31
+Kerr,211,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,26,5,18,3
+Kerr,211,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kerr,211,"Member, State Board of Education, District 10",10,REP,Tom Maynard,486,33,390,63
+Kerr,211,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,153,14,110,29
+Kerr,211,"Member, State Board of Education, District 10",10,,Under Votes,65,5,57,3
+Kerr,211,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Kerr,211,State Representative,53,REP,Wes Virdell,467,33,375,59
+Kerr,211,State Representative,53,DEM,Joe P. Herrera,146,12,107,27
+Kerr,211,State Representative,53,LIB,B. W. Holk,19,2,11,6
+Kerr,211,State Representative,53,,Under Votes,72,5,64,3
+Kerr,211,State Representative,53,,Over Votes,0,0,0,0
+Kerr,211,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,298,21,222,55
+Kerr,211,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,406,31,335,40
+Kerr,211,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,211,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,488,34,394,60
+Kerr,211,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,147,13,103,31
+Kerr,211,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,68,5,59,4
+Kerr,211,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,1,0,1,0
+Kerr,211,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,487,34,392,61
+Kerr,211,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,148,13,106,29
+Kerr,211,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,68,5,58,5
+Kerr,211,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,1,0,1,0
+Kerr,211,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,484,33,391,60
+Kerr,211,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,149,14,106,29
+Kerr,211,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,69,5,58,6
+Kerr,211,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,2,0,2,0
+Kerr,211,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,533,36,424,73
+Kerr,211,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,171,16,133,22
+Kerr,211,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,211,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",511,37,401,73
+Kerr,211,"District Judge, 216th Judicial District",216,,Under Votes,193,15,156,22
+Kerr,211,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,211,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,511,36,405,70
+Kerr,211,"District Attorney, 198th Judicial District",198,,Under Votes,193,16,152,25
+Kerr,211,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,211,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,516,36,408,72
+Kerr,211,"District Attorney, 216th Judicial District",216,,Under Votes,188,16,149,23
+Kerr,211,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,211,County Attorney,,REP,Heather Stebbins,512,36,406,70
+Kerr,211,County Attorney,,,Under Votes,192,16,151,25
+Kerr,211,County Attorney,,,Over Votes,0,0,0,0
+Kerr,211,"County Clerk, Unexpired Term",,REP,Ian Collum,410,33,317,60
+Kerr,211,"County Clerk, Unexpired Term",,,Under Votes,190,17,151,22
+Kerr,211,"County Clerk, Unexpired Term",,,Over Votes,3,0,3,0
+Kerr,211,Sheriff,,REP,Larry L. Leitha Jr,519,38,411,70
+Kerr,211,Sheriff,,,Under Votes,185,14,146,25
+Kerr,211,Sheriff,,,Over Votes,0,0,0,0
+Kerr,211,County Tax Assessor-Collector,,REP,Bob Reeves,518,39,409,70
+Kerr,211,County Tax Assessor-Collector,,,Under Votes,186,13,148,25
+Kerr,211,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,211,"Constable, Precinct 2",,REP,Kyle Schneider,494,33,394,67
+Kerr,211,"Constable, Precinct 2",,,Under Votes,210,19,163,28
+Kerr,211,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Kerr,211,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,317,28,243,46
+Kerr,211,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,1,0,1,0
+Kerr,215,Registered Voters,,,,3251,,,
+Kerr,215,Ballots Cast,,,,2231,,,
+Kerr,215,President,,REP,Donald J. Trump,1755,49,1449,257
+Kerr,215,President,,DEM,Kamala D. Harris,449,54,327,68
+Kerr,215,President,,LIB,Chase Oliver,10,1,6,3
+Kerr,215,President,,GRN,Jill Stein,8,0,5,3
+Kerr,215,President,,,Under Votes,8,0,7,1
+Kerr,215,President,,,Over Votes,1,0,1,0
+Kerr,215,U.S. Senate,,REP,Ted Cruz,1679,45,1397,237
+Kerr,215,U.S. Senate,,DEM,Colin Allred,476,55,349,72
+Kerr,215,U.S. Senate,,LIB,Ted Brown,57,3,41,13
+Kerr,215,U.S. Senate,,,Under Votes,17,1,8,8
+Kerr,215,U.S. Senate,,,Over Votes,1,0,0,1
+Kerr,215,U.S. House,21,REP,Chip Roy,1752,52,1442,258
+Kerr,215,U.S. House,21,DEM,Kristin Hook,399,50,294,55
+Kerr,215,U.S. House,21,LIB,Bob King,36,1,26,9
+Kerr,215,U.S. House,21,,Under Votes,44,1,33,10
+Kerr,215,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,215,Railroad Commissioner,,REP,Christi Craddick,1729,51,1434,244
+Kerr,215,Railroad Commissioner,,DEM,Katherine Culbert,374,44,281,49
+Kerr,215,Railroad Commissioner,,LIB,Hawk Dunlap,42,3,24,15
+Kerr,215,Railroad Commissioner,,GRN,Eddie Espinoza,28,1,16,11
+Kerr,215,Railroad Commissioner,,,Under Votes,56,5,38,13
+Kerr,215,Railroad Commissioner,,,Over Votes,2,0,2,0
+Kerr,215,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1765,50,1459,256
+Kerr,215,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,404,50,293,61
+Kerr,215,"Justice, Supreme Court, Place 2",2,,Under Votes,62,4,43,15
+Kerr,215,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Kerr,215,"Justice, Supreme Court, Place 4",4,REP,John Devine,1740,51,1440,249
+Kerr,215,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,410,49,298,63
+Kerr,215,"Justice, Supreme Court, Place 4",4,,Under Votes,80,4,56,20
+Kerr,215,"Justice, Supreme Court, Place 4",4,,Over Votes,1,0,1,0
+Kerr,215,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1722,48,1429,245
+Kerr,215,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,391,49,283,59
+Kerr,215,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,55,3,38,14
+Kerr,215,"Justice, Supreme Court, Place 6",6,,Under Votes,62,4,44,14
+Kerr,215,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Kerr,215,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1753,52,1451,250
+Kerr,215,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,410,47,296,67
+Kerr,215,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,68,5,48,15
+Kerr,215,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,215,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1764,51,1454,259
+Kerr,215,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,395,48,290,57
+Kerr,215,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,71,5,50,16
+Kerr,215,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,0,1,0
+Kerr,215,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1780,55,1463,262
+Kerr,215,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,377,43,279,55
+Kerr,215,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,74,6,53,15
+Kerr,215,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kerr,215,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1747,52,1443,252
+Kerr,215,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,409,47,295,67
+Kerr,215,"Member, State Board of Education, District 10",10,,Under Votes,75,5,57,13
+Kerr,215,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Kerr,215,State Representative,53,REP,Wes Virdell,1707,48,1418,241
+Kerr,215,State Representative,53,DEM,Joe P. Herrera,409,48,302,59
+Kerr,215,State Representative,53,LIB,B. W. Holk,51,3,29,19
+Kerr,215,State Representative,53,,Under Votes,64,5,46,13
+Kerr,215,State Representative,53,,Over Votes,0,0,0,0
+Kerr,215,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,908,59,691,158
+Kerr,215,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,174,45,1,104
+Kerr,215,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,215,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,1745,51,1438,256
+Kerr,215,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,407,46,300,61
+Kerr,215,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,78,7,57,14
+Kerr,215,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,1,0,0,1
+Kerr,215,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,1761,50,1453,258
+Kerr,215,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,389,46,286,57
+Kerr,215,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,78,7,55,16
+Kerr,215,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,3,1,1,1
+Kerr,215,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,1734,49,1436,249
+Kerr,215,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,405,46,294,65
+Kerr,215,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,90,9,64,17
+Kerr,215,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,2,0,1,1
+Kerr,215,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,1854,67,1512,275
+Kerr,215,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,377,37,283,57
+Kerr,215,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,215,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",1840,69,1498,273
+Kerr,215,"District Judge, 216th Judicial District",216,,Under Votes,391,35,297,59
+Kerr,215,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,215,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,1831,65,1495,271
+Kerr,215,"District Attorney, 198th Judicial District",198,,Under Votes,400,39,300,61
+Kerr,215,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,215,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,1833,68,1497,268
+Kerr,215,"District Attorney, 216th Judicial District",216,,Under Votes,398,36,298,64
+Kerr,215,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,215,County Attorney,,REP,Heather Stebbins,1842,70,1501,271
+Kerr,215,County Attorney,,,Under Votes,389,34,294,61
+Kerr,215,County Attorney,,,Over Votes,0,0,0,0
+Kerr,215,"County Clerk, Unexpired Term",,REP,Ian Collum,1561,66,1250,245
+Kerr,215,"County Clerk, Unexpired Term",,,Under Votes,412,36,308,68
+Kerr,215,"County Clerk, Unexpired Term",,,Over Votes,14,1,11,2
+Kerr,215,Sheriff,,REP,Larry L. Leitha Jr,1843,72,1494,277
+Kerr,215,Sheriff,,,Under Votes,388,32,301,55
+Kerr,215,Sheriff,,,Over Votes,0,0,0,0
+Kerr,215,County Tax Assessor-Collector,,REP,Bob Reeves,1868,74,1520,274
+Kerr,215,County Tax Assessor-Collector,,,Under Votes,363,30,275,58
+Kerr,215,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,215,"Constable, Precinct 2",,REP,Kyle Schneider,1772,67,1449,256
+Kerr,215,"Constable, Precinct 2",,,Under Votes,459,37,346,76
+Kerr,215,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Kerr,215,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,809,63,646,100
+Kerr,215,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,7,0,6,1
+Kerr,215 - SCP,Registered Voters,,,,120,,,
+Kerr,215 - SCP,Ballots Cast,,,,71,,,
+Kerr,215 - SCP,President,,REP,Donald J. Trump,59,2,48,9
+Kerr,215 - SCP,President,,DEM,Kamala D. Harris,11,4,5,2
+Kerr,215 - SCP,President,,LIB,Chase Oliver,1,0,0,1
+Kerr,215 - SCP,President,,GRN,Jill Stein,0,0,0,0
+Kerr,215 - SCP,President,,,Under Votes,0,0,0,0
+Kerr,215 - SCP,President,,,Over Votes,0,0,0,0
+Kerr,215 - SCP,U.S. Senate,,REP,Ted Cruz,58,2,46,10
+Kerr,215 - SCP,U.S. Senate,,DEM,Colin Allred,13,4,7,2
+Kerr,215 - SCP,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Kerr,215 - SCP,U.S. Senate,,,Under Votes,0,0,0,0
+Kerr,215 - SCP,U.S. Senate,,,Over Votes,0,0,0,0
+Kerr,215 - SCP,U.S. House,21,REP,Chip Roy,62,3,49,10
+Kerr,215 - SCP,U.S. House,21,DEM,Kristin Hook,8,3,4,1
+Kerr,215 - SCP,U.S. House,21,LIB,Bob King,1,0,0,1
+Kerr,215 - SCP,U.S. House,21,,Under Votes,0,0,0,0
+Kerr,215 - SCP,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,215 - SCP,Railroad Commissioner,,REP,Christi Craddick,60,3,47,10
+Kerr,215 - SCP,Railroad Commissioner,,DEM,Katherine Culbert,6,2,4,0
+Kerr,215 - SCP,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,1,1
+Kerr,215 - SCP,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+Kerr,215 - SCP,Railroad Commissioner,,,Under Votes,1,1,0,0
+Kerr,215 - SCP,Railroad Commissioner,,,Over Votes,0,0,0,0
+Kerr,215 - SCP,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,62,3,49,10
+Kerr,215 - SCP,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,8,2,4,2
+Kerr,215 - SCP,"Justice, Supreme Court, Place 2",2,,Under Votes,1,1,0,0
+Kerr,215 - SCP,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Kerr,215 - SCP,"Justice, Supreme Court, Place 4",4,REP,John Devine,62,3,49,10
+Kerr,215 - SCP,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,8,2,4,2
+Kerr,215 - SCP,"Justice, Supreme Court, Place 4",4,,Under Votes,1,1,0,0
+Kerr,215 - SCP,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,215 - SCP,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,58,3,45,10
+Kerr,215 - SCP,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,9,2,5,2
+Kerr,215 - SCP,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,3,0,3,0
+Kerr,215 - SCP,"Justice, Supreme Court, Place 6",6,,Under Votes,1,1,0,0
+Kerr,215 - SCP,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Kerr,215 - SCP,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,61,3,48,10
+Kerr,215 - SCP,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,8,2,4,2
+Kerr,215 - SCP,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,2,1,1,0
+Kerr,215 - SCP,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,215 - SCP,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,62,3,49,10
+Kerr,215 - SCP,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,8,2,4,2
+Kerr,215 - SCP,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,1,1,0,0
+Kerr,215 - SCP,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Kerr,215 - SCP,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,61,3,48,10
+Kerr,215 - SCP,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,8,2,4,2
+Kerr,215 - SCP,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,2,1,1,0
+Kerr,215 - SCP,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kerr,215 - SCP,"Member, State Board of Education, District 10",10,REP,Tom Maynard,62,3,49,10
+Kerr,215 - SCP,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,8,2,4,2
+Kerr,215 - SCP,"Member, State Board of Education, District 10",10,,Under Votes,1,1,0,0
+Kerr,215 - SCP,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Kerr,215 - SCP,State Representative,53,REP,Wes Virdell,59,3,46,10
+Kerr,215 - SCP,State Representative,53,DEM,Joe P. Herrera,7,2,4,1
+Kerr,215 - SCP,State Representative,53,LIB,B. W. Holk,4,0,3,1
+Kerr,215 - SCP,State Representative,53,,Under Votes,1,1,0,0
+Kerr,215 - SCP,State Representative,53,,Over Votes,0,0,0,0
+Kerr,215 - SCP,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,28,4,20,4
+Kerr,215 - SCP,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,43,2,33,8
+Kerr,215 - SCP,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,215 - SCP,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,62,3,49,10
+Kerr,215 - SCP,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,8,2,4,2
+Kerr,215 - SCP,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,1,1,0,0
+Kerr,215 - SCP,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Kerr,215 - SCP,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,63,3,49,11
+Kerr,215 - SCP,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,7,2,4,1
+Kerr,215 - SCP,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,1,1,0,0
+Kerr,215 - SCP,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,215 - SCP,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,60,3,47,10
+Kerr,215 - SCP,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,9,2,5,2
+Kerr,215 - SCP,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,2,1,1,0
+Kerr,215 - SCP,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Kerr,215 - SCP,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,64,3,49,12
+Kerr,215 - SCP,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,7,3,4,0
+Kerr,215 - SCP,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,215 - SCP,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",62,3,47,12
+Kerr,215 - SCP,"District Judge, 216th Judicial District",216,,Under Votes,9,3,6,0
+Kerr,215 - SCP,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,215 - SCP,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,64,3,49,12
+Kerr,215 - SCP,"District Attorney, 198th Judicial District",198,,Under Votes,7,3,4,0
+Kerr,215 - SCP,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,215 - SCP,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,64,3,49,12
+Kerr,215 - SCP,"District Attorney, 216th Judicial District",216,,Under Votes,7,3,4,0
+Kerr,215 - SCP,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,215 - SCP,County Attorney,,REP,Heather Stebbins,64,3,49,12
+Kerr,215 - SCP,County Attorney,,,Under Votes,7,3,4,0
+Kerr,215 - SCP,County Attorney,,,Over Votes,0,0,0,0
+Kerr,215 - SCP,"County Clerk, Unexpired Term",,REP,Ian Collum,52,3,41,8
+Kerr,215 - SCP,"County Clerk, Unexpired Term",,,Under Votes,7,3,4,0
+Kerr,215 - SCP,"County Clerk, Unexpired Term",,,Over Votes,1,0,0,1
+Kerr,215 - SCP,Sheriff,,REP,Larry L. Leitha Jr,62,3,47,12
+Kerr,215 - SCP,Sheriff,,,Under Votes,9,3,6,0
+Kerr,215 - SCP,Sheriff,,,Over Votes,0,0,0,0
+Kerr,215 - SCP,County Tax Assessor-Collector,,REP,Bob Reeves,64,3,49,12
+Kerr,215 - SCP,County Tax Assessor-Collector,,,Under Votes,7,3,4,0
+Kerr,215 - SCP,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,215 - SCP,"Constable, Precinct 2",,REP,Kyle Schneider,62,3,48,11
+Kerr,215 - SCP,"Constable, Precinct 2",,,Under Votes,9,3,5,1
+Kerr,215 - SCP,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Kerr,215 - SCP,"Constable, Precinct 2",,,Under Votes,187,22,136,29
+Kerr,215 - SCP,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Kerr,215 - SCP,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,31,5,24,2
+Kerr,215 - SCP,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,0,0,0,0
+Kerr,220,Registered Voters,,,,2721,,,
+Kerr,220,Ballots Cast,,,,2242,,,
+Kerr,220,President,,REP,Donald J. Trump,1725,86,1529,110
+Kerr,220,President,,DEM,Kamala D. Harris,483,62,385,36
+Kerr,220,President,,LIB,Chase Oliver,10,1,8,1
+Kerr,220,President,,GRN,Jill Stein,3,0,3,0
+Kerr,220,President,,,Under Votes,19,1,15,3
+Kerr,220,President,,,Over Votes,1,1,0,0
+Kerr,220,U.S. Senate,,REP,Ted Cruz,1692,87,1500,105
+Kerr,220,U.S. Senate,,DEM,Colin Allred,511,61,409,41
+Kerr,220,U.S. Senate,,LIB,Ted Brown,25,2,19,4
+Kerr,220,U.S. Senate,,,Under Votes,14,1,13,0
+Kerr,220,U.S. Senate,,,Over Votes,0,0,0,0
+Kerr,220,U.S. House,21,REP,Chip Roy,1731,90,1528,113
+Kerr,220,U.S. House,21,DEM,Kristin Hook,447,54,359,34
+Kerr,220,U.S. House,21,LIB,Bob King,36,1,32,3
+Kerr,220,U.S. House,21,,Under Votes,28,6,22,0
+Kerr,220,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,220,Railroad Commissioner,,REP,Christi Craddick,1742,87,1542,113
+Kerr,220,Railroad Commissioner,,DEM,Katherine Culbert,395,48,320,27
+Kerr,220,Railroad Commissioner,,LIB,Hawk Dunlap,48,6,35,7
+Kerr,220,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,9,2
+Kerr,220,Railroad Commissioner,,,Under Votes,40,9,30,1
+Kerr,220,Railroad Commissioner,,,Over Votes,6,1,5,0
+Kerr,220,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1784,96,1572,116
+Kerr,220,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,403,42,329,32
+Kerr,220,"Justice, Supreme Court, Place 2",2,,Under Votes,54,13,39,2
+Kerr,220,"Justice, Supreme Court, Place 2",2,,Over Votes,1,0,1,0
+Kerr,220,"Justice, Supreme Court, Place 4",4,REP,John Devine,1747,93,1545,109
+Kerr,220,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,430,47,350,33
+Kerr,220,"Justice, Supreme Court, Place 4",4,,Under Votes,64,11,45,8
+Kerr,220,"Justice, Supreme Court, Place 4",4,,Over Votes,1,0,1,0
+Kerr,220,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1751,93,1545,113
+Kerr,220,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,401,43,327,31
+Kerr,220,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,39,4,31,4
+Kerr,220,"Justice, Supreme Court, Place 6",6,,Under Votes,47,11,34,2
+Kerr,220,"Justice, Supreme Court, Place 6",6,,Over Votes,4,0,4,0
+Kerr,220,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1787,95,1576,116
+Kerr,220,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,401,42,328,31
+Kerr,220,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,54,14,37,3
+Kerr,220,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,220,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1788,95,1577,116
+Kerr,220,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,399,43,327,29
+Kerr,220,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,55,13,37,5
+Kerr,220,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Kerr,220,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1786,95,1574,117
+Kerr,220,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,394,43,321,30
+Kerr,220,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,61,13,45,3
+Kerr,220,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,0,1,0
+Kerr,220,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1769,96,1558,115
+Kerr,220,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,409,42,337,30
+Kerr,220,"Member, State Board of Education, District 10",10,,Under Votes,62,13,44,5
+Kerr,220,"Member, State Board of Education, District 10",10,,Over Votes,2,0,2,0
+Kerr,220,State Representative,53,REP,Wes Virdell,1692,87,1497,108
+Kerr,220,State Representative,53,DEM,Joe P. Herrera,445,50,365,30
+Kerr,220,State Representative,53,LIB,B. W. Holk,50,3,37,10
+Kerr,220,State Representative,53,,Under Votes,55,11,42,2
+Kerr,220,State Representative,53,,Over Votes,0,0,0,0
+Kerr,220,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,818,70,688,60
+Kerr,220,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,90,81,1,253
+Kerr,220,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,220,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,1775,94,1567,114
+Kerr,220,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,405,42,330,33
+Kerr,220,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,62,15,44,3
+Kerr,220,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Kerr,220,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,1787,96,1577,114
+Kerr,220,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,388,40,316,32
+Kerr,220,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,67,15,48,4
+Kerr,220,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,220,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,1764,89,1560,115
+Kerr,220,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,411,43,337,31
+Kerr,220,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,66,19,43,4
+Kerr,220,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,1,0,1,0
+Kerr,220,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,1867,99,1648,120
+Kerr,220,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,375,52,293,30
+Kerr,220,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,220,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",1861,100,1639,122
+Kerr,220,"District Judge, 216th Judicial District",216,,Under Votes,381,51,302,28
+Kerr,220,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,220,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,1856,96,1639,121
+Kerr,220,"District Attorney, 198th Judicial District",198,,Under Votes,386,55,302,29
+Kerr,220,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,220,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,1871,105,1645,121
+Kerr,220,"District Attorney, 216th Judicial District",216,,Under Votes,371,46,296,29
+Kerr,220,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,220,County Attorney,,REP,Heather Stebbins,1869,100,1649,120
+Kerr,220,County Attorney,,,Under Votes,373,51,292,30
+Kerr,220,County Attorney,,,Over Votes,0,0,0,0
+Kerr,220,"County Clerk, Unexpired Term",,REP,Ian Collum,1587,95,1385,107
+Kerr,220,"County Clerk, Unexpired Term",,,Under Votes,353,47,274,32
+Kerr,220,"County Clerk, Unexpired Term",,,Over Votes,16,0,15,1
+Kerr,220,Sheriff,,REP,Larry L. Leitha Jr,1872,105,1646,121
+Kerr,220,Sheriff,,,Under Votes,370,46,295,29
+Kerr,220,Sheriff,,,Over Votes,0,0,0,0
+Kerr,220,County Tax Assessor-Collector,,REP,Bob Reeves,1920,112,1681,127
+Kerr,220,County Tax Assessor-Collector,,,Under Votes,322,39,260,23
+Kerr,220,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,220,"Constable, Precinct 2",,REP,Kyle Schneider,1792,100,1573,119
+Kerr,220,"Constable, Precinct 2",,,Under Votes,450,51,368,31
+Kerr,220,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Kerr,220,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,672,76,543,53
+Kerr,220,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,2,0,2,0
+Kerr,303,Registered Voters,,,,1645,,,
+Kerr,303,Ballots Cast,,,,1350,,,
+Kerr,303,President,,REP,Donald J. Trump,1077,47,954,76
+Kerr,303,President,,DEM,Kamala D. Harris,257,35,205,17
+Kerr,303,President,,LIB,Chase Oliver,7,1,6,0
+Kerr,303,President,,GRN,Jill Stein,1,0,1,0
+Kerr,303,President,,,Under Votes,7,0,5,2
+Kerr,303,President,,,Over Votes,0,0,0,0
+Kerr,303,U.S. Senate,,REP,Ted Cruz,1043,45,928,70
+Kerr,303,U.S. Senate,,DEM,Colin Allred,277,36,223,18
+Kerr,303,U.S. Senate,,LIB,Ted Brown,19,1,14,4
+Kerr,303,U.S. Senate,,,Under Votes,10,1,6,3
+Kerr,303,U.S. Senate,,,Over Votes,1,0,1,0
+Kerr,303,U.S. House,21,REP,Chip Roy,1063,45,950,68
+Kerr,303,U.S. House,21,DEM,Kristin Hook,245,33,198,14
+Kerr,303,U.S. House,21,LIB,Bob King,17,0,12,5
+Kerr,303,U.S. House,21,,Under Votes,25,5,12,8
+Kerr,303,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,303,Railroad Commissioner,,REP,Christi Craddick,1077,45,964,68
+Kerr,303,Railroad Commissioner,,DEM,Katherine Culbert,209,30,171,8
+Kerr,303,Railroad Commissioner,,LIB,Hawk Dunlap,26,1,17,8
+Kerr,303,Railroad Commissioner,,GRN,Eddie Espinoza,9,0,8,1
+Kerr,303,Railroad Commissioner,,,Under Votes,29,7,12,10
+Kerr,303,Railroad Commissioner,,,Over Votes,0,0,0,0
+Kerr,303,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1094,46,975,73
+Kerr,303,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,222,30,181,11
+Kerr,303,"Justice, Supreme Court, Place 2",2,,Under Votes,33,7,15,11
+Kerr,303,"Justice, Supreme Court, Place 2",2,,Over Votes,1,0,1,0
+Kerr,303,"Justice, Supreme Court, Place 4",4,REP,John Devine,1069,45,953,71
+Kerr,303,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,234,31,192,11
+Kerr,303,"Justice, Supreme Court, Place 4",4,,Under Votes,46,7,26,13
+Kerr,303,"Justice, Supreme Court, Place 4",4,,Over Votes,1,0,1,0
+Kerr,303,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1063,45,949,69
+Kerr,303,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,224,30,185,9
+Kerr,303,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,25,1,19,5
+Kerr,303,"Justice, Supreme Court, Place 6",6,,Under Votes,37,7,18,12
+Kerr,303,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Kerr,303,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1091,45,972,74
+Kerr,303,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,223,30,183,10
+Kerr,303,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,35,8,16,11
+Kerr,303,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,0,1,0
+Kerr,303,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1096,45,977,74
+Kerr,303,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,220,30,180,10
+Kerr,303,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,33,7,15,11
+Kerr,303,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,1,0,0
+Kerr,303,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1096,46,978,72
+Kerr,303,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,214,28,176,10
+Kerr,303,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,40,9,18,13
+Kerr,303,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kerr,303,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1077,46,960,71
+Kerr,303,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,231,30,190,11
+Kerr,303,"Member, State Board of Education, District 10",10,,Under Votes,41,7,21,13
+Kerr,303,"Member, State Board of Education, District 10",10,,Over Votes,1,0,1,0
+Kerr,303,State Representative,53,REP,Wes Virdell,1064,46,946,72
+Kerr,303,State Representative,53,DEM,Joe P. Herrera,231,29,192,10
+Kerr,303,State Representative,53,LIB,B. W. Holk,24,1,18,5
+Kerr,303,State Representative,53,,Under Votes,31,7,16,8
+Kerr,303,State Representative,53,,Over Votes,0,0,0,0
+Kerr,303,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,469,33,402,34
+Kerr,303,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,881,50,770,61
+Kerr,303,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,303,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,1082,46,963,73
+Kerr,303,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,227,30,186,11
+Kerr,303,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,39,7,21,11
+Kerr,303,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,2,0,2,0
+Kerr,303,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,1094,47,973,74
+Kerr,303,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,216,29,177,10
+Kerr,303,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,39,7,21,11
+Kerr,303,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,1,0,1,0
+Kerr,303,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,1084,46,961,77
+Kerr,303,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,226,30,187,9
+Kerr,303,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,39,7,23,9
+Kerr,303,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,1,0,1,0
+Kerr,303,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,1140,52,1011,77
+Kerr,303,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,210,31,161,18
+Kerr,303,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,303,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",1133,53,1006,74
+Kerr,303,"District Judge, 216th Judicial District",216,,Under Votes,217,30,166,21
+Kerr,303,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,303,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,1133,54,1001,78
+Kerr,303,"District Attorney, 198th Judicial District",198,,Under Votes,217,29,171,17
+Kerr,303,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,303,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,1145,55,1009,81
+Kerr,303,"District Attorney, 216th Judicial District",216,,Under Votes,205,28,163,14
+Kerr,303,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,303,County Attorney,,REP,Heather Stebbins,1128,53,998,77
+Kerr,303,County Attorney,,,Under Votes,222,30,174,18
+Kerr,303,County Attorney,,,Over Votes,0,0,0,0
+Kerr,303,"County Clerk, Unexpired Term",,REP,Ian Collum,991,49,873,69
+Kerr,303,"County Clerk, Unexpired Term",,,Under Votes,223,28,176,19
+Kerr,303,"County Clerk, Unexpired Term",,,Over Votes,4,0,4,0
+Kerr,303,Sheriff,,REP,Larry L. Leitha Jr,1138,57,1002,79
+Kerr,303,Sheriff,,,Under Votes,212,26,170,16
+Kerr,303,Sheriff,,,Over Votes,0,0,0,0
+Kerr,303,County Tax Assessor-Collector,,REP,Bob Reeves,1167,59,1027,81
+Kerr,303,County Tax Assessor-Collector,,,Under Votes,183,24,145,14
+Kerr,303,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,303,"County Commissioner, Precinct 3",,REP,Jeff Holt,1141,57,1006,78
+Kerr,303,"County Commissioner, Precinct 3",,,Under Votes,209,26,166,17
+Kerr,303,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Kerr,303,"Constable, Precinct 3",,REP,Paul A. Gonzales,1129,56,993,80
+Kerr,303,"Constable, Precinct 3",,,Under Votes,221,27,179,15
+Kerr,303,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Kerr,303,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,566,44,477,45
+Kerr,303,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,3,1,2,0
+Kerr,303,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 3,,,Under Votes,569,46,478,45
+Kerr,303,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 3,,,Over Votes,0,0,0,0
+Kerr,308,Registered Voters,,,,514,,,
+Kerr,308,Ballots Cast,,,,334,,,
+Kerr,308,President,,REP,Donald J. Trump,260,13,191,56
+Kerr,308,President,,DEM,Kamala D. Harris,73,7,50,16
+Kerr,308,President,,LIB,Chase Oliver,1,0,0,1
+Kerr,308,President,,GRN,Jill Stein,0,0,0,0
+Kerr,308,President,,,Under Votes,0,0,0,0
+Kerr,308,President,,,Over Votes,0,0,0,0
+Kerr,308,U.S. Senate,,REP,Ted Cruz,245,12,178,55
+Kerr,308,U.S. Senate,,DEM,Colin Allred,79,8,55,16
+Kerr,308,U.S. Senate,,LIB,Ted Brown,8,0,6,2
+Kerr,308,U.S. Senate,,,Under Votes,2,0,2,0
+Kerr,308,U.S. Senate,,,Over Votes,0,0,0,0
+Kerr,308,U.S. House,21,REP,Chip Roy,251,13,181,57
+Kerr,308,U.S. House,21,DEM,Kristin Hook,74,7,51,16
+Kerr,308,U.S. House,21,LIB,Bob King,4,0,4,0
+Kerr,308,U.S. House,21,,Under Votes,5,0,5,0
+Kerr,308,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,308,Railroad Commissioner,,REP,Christi Craddick,243,13,177,53
+Kerr,308,Railroad Commissioner,,DEM,Katherine Culbert,74,6,53,15
+Kerr,308,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,4,1
+Kerr,308,Railroad Commissioner,,GRN,Eddie Espinoza,6,1,2,3
+Kerr,308,Railroad Commissioner,,,Under Votes,6,0,5,1
+Kerr,308,Railroad Commissioner,,,Over Votes,0,0,0,0
+Kerr,308,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,251,13,181,57
+Kerr,308,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,73,7,51,15
+Kerr,308,"Justice, Supreme Court, Place 2",2,,Under Votes,10,0,9,1
+Kerr,308,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Kerr,308,"Justice, Supreme Court, Place 4",4,REP,John Devine,246,13,177,56
+Kerr,308,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,72,7,51,14
+Kerr,308,"Justice, Supreme Court, Place 4",4,,Under Votes,16,0,13,3
+Kerr,308,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,308,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,245,13,179,53
+Kerr,308,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,73,6,51,16
+Kerr,308,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,7,1,3,3
+Kerr,308,"Justice, Supreme Court, Place 6",6,,Under Votes,9,0,8,1
+Kerr,308,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Kerr,308,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,253,13,183,57
+Kerr,308,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,71,7,50,14
+Kerr,308,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,10,0,8,2
+Kerr,308,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,308,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,253,13,184,56
+Kerr,308,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,70,7,49,14
+Kerr,308,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,11,0,8,3
+Kerr,308,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Kerr,308,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,254,13,183,58
+Kerr,308,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,69,7,49,13
+Kerr,308,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,11,0,9,2
+Kerr,308,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kerr,308,"Member, State Board of Education, District 10",10,REP,Tom Maynard,249,13,180,56
+Kerr,308,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,75,7,52,16
+Kerr,308,"Member, State Board of Education, District 10",10,,Under Votes,10,0,9,1
+Kerr,308,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Kerr,308,State Representative,53,REP,Wes Virdell,240,13,174,53
+Kerr,308,State Representative,53,DEM,Joe P. Herrera,74,7,51,16
+Kerr,308,State Representative,53,LIB,B. W. Holk,9,0,6,3
+Kerr,308,State Representative,53,,Under Votes,11,0,10,1
+Kerr,308,State Representative,53,,Over Votes,0,0,0,0
+Kerr,308,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,141,8,95,38
+Kerr,308,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,193,12,146,35
+Kerr,308,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,308,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,246,13,180,53
+Kerr,308,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,76,7,52,17
+Kerr,308,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,12,0,9,3
+Kerr,308,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Kerr,308,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,247,13,179,55
+Kerr,308,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,76,7,53,16
+Kerr,308,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,11,0,9,2
+Kerr,308,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,308,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,248,13,178,57
+Kerr,308,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,72,7,52,13
+Kerr,308,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,14,0,11,3
+Kerr,308,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Kerr,308,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,262,15,187,60
+Kerr,308,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,72,5,54,13
+Kerr,308,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,308,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",260,15,187,58
+Kerr,308,"District Judge, 216th Judicial District",216,,Under Votes,74,5,54,15
+Kerr,308,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,308,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,255,14,184,57
+Kerr,308,"District Attorney, 198th Judicial District",198,,Under Votes,79,6,57,16
+Kerr,308,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,308,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,255,14,185,56
+Kerr,308,"District Attorney, 216th Judicial District",216,,Under Votes,79,6,56,17
+Kerr,308,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,308,County Attorney,,REP,Heather Stebbins,255,15,183,57
+Kerr,308,County Attorney,,,Under Votes,79,5,58,16
+Kerr,308,County Attorney,,,Over Votes,0,0,0,0
+Kerr,308,"County Clerk, Unexpired Term",,REP,Ian Collum,239,17,165,57
+Kerr,308,"County Clerk, Unexpired Term",,,Under Votes,81,3,62,16
+Kerr,308,"County Clerk, Unexpired Term",,,Over Votes,1,0,1,0
+Kerr,308,Sheriff,,REP,Larry L. Leitha Jr,248,13,179,56
+Kerr,308,Sheriff,,,Under Votes,86,7,62,17
+Kerr,308,Sheriff,,,Over Votes,0,0,0,0
+Kerr,308,County Tax Assessor-Collector,,REP,Bob Reeves,262,16,188,58
+Kerr,308,County Tax Assessor-Collector,,,Under Votes,72,4,53,15
+Kerr,308,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,308,"County Commissioner, Precinct 3",,REP,Jeff Holt,257,14,184,59
+Kerr,308,"County Commissioner, Precinct 3",,,Under Votes,77,6,57,14
+Kerr,308,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Kerr,308,"Constable, Precinct 3",,REP,Paul A. Gonzales,252,14,181,57
+Kerr,308,"Constable, Precinct 3",,,Under Votes,82,6,60,16
+Kerr,308,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Kerr,308,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,158,10,111,37
+Kerr,308,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,3,0,2,1
+Kerr,308,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 3,,,Under Votes,164,10,115,39
+Kerr,308,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 3,,,Over Votes,0,0,0,0
+Kerr,308 - SCP,Registered Voters,,,,489,,,
+Kerr,308 - SCP,Ballots Cast,,,,333,,,
+Kerr,308 - SCP,President,,REP,Donald J. Trump,263,5,209,49
+Kerr,308 - SCP,President,,DEM,Kamala D. Harris,65,5,41,19
+Kerr,308 - SCP,President,,LIB,Chase Oliver,1,0,1,0
+Kerr,308 - SCP,President,,GRN,Jill Stein,0,0,0,0
+Kerr,308 - SCP,President,,,Under Votes,4,0,2,2
+Kerr,308 - SCP,President,,,Over Votes,0,0,0,0
+Kerr,308 - SCP,U.S. Senate,,REP,Ted Cruz,256,5,201,50
+Kerr,308 - SCP,U.S. Senate,,DEM,Colin Allred,70,5,47,18
+Kerr,308 - SCP,U.S. Senate,,LIB,Ted Brown,5,0,4,1
+Kerr,308 - SCP,U.S. Senate,,,Under Votes,1,0,1,0
+Kerr,308 - SCP,U.S. Senate,,,Over Votes,0,0,0,0
+Kerr,308 - SCP,U.S. House,21,REP,Chip Roy,264,5,209,50
+Kerr,308 - SCP,U.S. House,21,DEM,Kristin Hook,59,5,38,16
+Kerr,308 - SCP,U.S. House,21,LIB,Bob King,2,0,1,1
+Kerr,308 - SCP,U.S. House,21,,Under Votes,8,0,5,3
+Kerr,308 - SCP,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,308 - SCP,Railroad Commissioner,,REP,Christi Craddick,264,5,207,52
+Kerr,308 - SCP,Railroad Commissioner,,DEM,Katherine Culbert,55,5,36,14
+Kerr,308 - SCP,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,3,0
+Kerr,308 - SCP,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,1,2
+Kerr,308 - SCP,Railroad Commissioner,,,Under Votes,8,0,6,2
+Kerr,308 - SCP,Railroad Commissioner,,,Over Votes,0,0,0,0
+Kerr,308 - SCP,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,265,5,209,51
+Kerr,308 - SCP,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,58,5,37,16
+Kerr,308 - SCP,"Justice, Supreme Court, Place 2",2,,Under Votes,10,0,7,3
+Kerr,308 - SCP,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Kerr,308 - SCP,"Justice, Supreme Court, Place 4",4,REP,John Devine,261,5,205,51
+Kerr,308 - SCP,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,61,5,40,16
+Kerr,308 - SCP,"Justice, Supreme Court, Place 4",4,,Under Votes,11,0,8,3
+Kerr,308 - SCP,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,308 - SCP,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,262,5,207,50
+Kerr,308 - SCP,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,56,5,36,15
+Kerr,308 - SCP,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,6,0,4,2
+Kerr,308 - SCP,"Justice, Supreme Court, Place 6",6,,Under Votes,9,0,6,3
+Kerr,308 - SCP,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Kerr,308 - SCP,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,263,5,206,52
+Kerr,308 - SCP,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,61,5,40,16
+Kerr,308 - SCP,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,0,7,2
+Kerr,308 - SCP,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,308 - SCP,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,267,5,211,51
+Kerr,308 - SCP,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,55,5,34,16
+Kerr,308 - SCP,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,11,0,8,3
+Kerr,308 - SCP,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Kerr,308 - SCP,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,268,5,212,51
+Kerr,308 - SCP,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,56,5,36,15
+Kerr,308 - SCP,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,9,0,5,4
+Kerr,308 - SCP,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kerr,308 - SCP,"Member, State Board of Education, District 10",10,REP,Tom Maynard,260,5,205,50
+Kerr,308 - SCP,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,60,5,39,16
+Kerr,308 - SCP,"Member, State Board of Education, District 10",10,,Under Votes,13,0,9,4
+Kerr,308 - SCP,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Kerr,308 - SCP,State Representative,53,REP,Wes Virdell,258,5,202,51
+Kerr,308 - SCP,State Representative,53,DEM,Joe P. Herrera,58,5,38,15
+Kerr,308 - SCP,State Representative,53,LIB,B. W. Holk,4,0,4,0
+Kerr,308 - SCP,State Representative,53,,Under Votes,13,0,9,4
+Kerr,308 - SCP,State Representative,53,,Over Votes,0,0,0,0
+Kerr,308 - SCP,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,136,8,96,32
+Kerr,308 - SCP,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,197,2,157,38
+Kerr,308 - SCP,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,308 - SCP,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,257,5,202,50
+Kerr,308 - SCP,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,62,5,41,16
+Kerr,308 - SCP,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,14,0,10,4
+Kerr,308 - SCP,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Kerr,308 - SCP,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,259,5,204,50
+Kerr,308 - SCP,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,60,5,38,17
+Kerr,308 - SCP,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,14,0,11,3
+Kerr,308 - SCP,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,308 - SCP,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,261,5,205,51
+Kerr,308 - SCP,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,57,5,37,15
+Kerr,308 - SCP,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,14,0,11,3
+Kerr,308 - SCP,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,1,0,0,1
+Kerr,308 - SCP,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,273,5,213,55
+Kerr,308 - SCP,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,60,5,40,15
+Kerr,308 - SCP,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,308 - SCP,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",269,5,210,54
+Kerr,308 - SCP,"District Judge, 216th Judicial District",216,,Under Votes,64,5,43,16
+Kerr,308 - SCP,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,308 - SCP,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,274,7,211,56
+Kerr,308 - SCP,"District Attorney, 198th Judicial District",198,,Under Votes,59,3,42,14
+Kerr,308 - SCP,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,308 - SCP,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,271,5,211,55
+Kerr,308 - SCP,"District Attorney, 216th Judicial District",216,,Under Votes,62,5,42,15
+Kerr,308 - SCP,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,308 - SCP,County Attorney,,REP,Heather Stebbins,267,4,211,52
+Kerr,308 - SCP,County Attorney,,,Under Votes,66,6,42,18
+Kerr,308 - SCP,County Attorney,,,Over Votes,0,0,0,0
+Kerr,308 - SCP,"County Clerk, Unexpired Term",,REP,Ian Collum,251,7,197,47
+Kerr,308 - SCP,"County Clerk, Unexpired Term",,,Under Votes,57,3,37,17
+Kerr,308 - SCP,"County Clerk, Unexpired Term",,,Over Votes,2,0,2,0
+Kerr,308 - SCP,Sheriff,,REP,Larry L. Leitha Jr,270,5,210,55
+Kerr,308 - SCP,Sheriff,,,Under Votes,63,5,43,15
+Kerr,308 - SCP,Sheriff,,,Over Votes,0,0,0,0
+Kerr,308 - SCP,County Tax Assessor-Collector,,REP,Bob Reeves,278,7,216,55
+Kerr,308 - SCP,County Tax Assessor-Collector,,,Under Votes,55,3,37,15
+Kerr,308 - SCP,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,308 - SCP,"County Commissioner, Precinct 3",,REP,Jeff Holt,274,5,214,55
+Kerr,308 - SCP,"County Commissioner, Precinct 3",,,Under Votes,59,5,39,15
+Kerr,308 - SCP,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Kerr,308 - SCP,"Constable, Precinct 3",,REP,Paul A. Gonzales,271,5,211,55
+Kerr,308 - SCP,"Constable, Precinct 3",,,Under Votes,62,5,42,15
+Kerr,308 - SCP,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Kerr,308 - SCP,"Constable, Precinct 3",,,Under Votes,781,31,573,177
+Kerr,308 - SCP,"Constable, Precinct 3",,,Over Votes,1,0,1,0
+Kerr,308 - SCP,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,132,4,96,32
+Kerr,308 - SCP,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,1,0,0,1
+Kerr,308 - SCP,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 3,,,Under Votes,155,7,113,35
+Kerr,308 - SCP,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 3,,,Over Votes,0,0,0,0
+Kerr,312,Registered Voters,,,,3901,,,
+Kerr,312,Ballots Cast,,,,2445,,,
+Kerr,312,President,,REP,Donald J. Trump,1715,57,1378,280
+Kerr,312,President,,DEM,Kamala D. Harris,692,51,506,135
+Kerr,312,President,,LIB,Chase Oliver,15,0,10,5
+Kerr,312,President,,GRN,Jill Stein,7,0,5,2
+Kerr,312,President,,,Under Votes,12,1,11,0
+Kerr,312,President,,,Over Votes,3,1,2,0
+Kerr,312,U.S. Senate,,REP,Ted Cruz,1633,56,1325,252
+Kerr,312,U.S. Senate,,DEM,Colin Allred,721,53,533,135
+Kerr,312,U.S. Senate,,LIB,Ted Brown,66,0,40,26
+Kerr,312,U.S. Senate,,,Under Votes,23,1,15,7
+Kerr,312,U.S. Senate,,,Over Votes,0,0,0,0
+Kerr,312,U.S. House,21,REP,Chip Roy,1681,55,1358,268
+Kerr,312,U.S. House,21,DEM,Kristin Hook,663,51,485,127
+Kerr,312,U.S. House,21,LIB,Bob King,54,0,39,15
+Kerr,312,U.S. House,21,,Under Votes,45,3,30,12
+Kerr,312,U.S. House,21,,Over Votes,2,1,1,0
+Kerr,312,Railroad Commissioner,,REP,Christi Craddick,1663,57,1344,262
+Kerr,312,Railroad Commissioner,,DEM,Katherine Culbert,581,45,439,97
+Kerr,312,Railroad Commissioner,,LIB,Hawk Dunlap,77,1,53,23
+Kerr,312,Railroad Commissioner,,GRN,Eddie Espinoza,54,1,32,21
+Kerr,312,Railroad Commissioner,,,Under Votes,63,5,40,18
+Kerr,312,Railroad Commissioner,,,Over Votes,5,1,3,1
+Kerr,312,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1719,56,1386,277
+Kerr,312,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,661,49,484,128
+Kerr,312,"Justice, Supreme Court, Place 2",2,,Under Votes,64,5,42,17
+Kerr,312,"Justice, Supreme Court, Place 2",2,,Over Votes,1,0,1,0
+Kerr,312,"Justice, Supreme Court, Place 4",4,REP,John Devine,1695,56,1370,269
+Kerr,312,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,658,48,480,130
+Kerr,312,"Justice, Supreme Court, Place 4",4,,Under Votes,92,6,63,23
+Kerr,312,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,312,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1659,57,1337,265
+Kerr,312,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,623,48,459,116
+Kerr,312,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,87,0,64,23
+Kerr,312,"Justice, Supreme Court, Place 6",6,,Under Votes,75,5,52,18
+Kerr,312,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Kerr,312,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1699,57,1373,269
+Kerr,312,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,670,48,490,132
+Kerr,312,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,75,5,49,21
+Kerr,312,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,0,1,0
+Kerr,312,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1706,56,1378,272
+Kerr,312,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,662,49,483,130
+Kerr,312,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,76,5,52,19
+Kerr,312,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,0,0,1
+Kerr,312,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1727,58,1390,279
+Kerr,312,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,639,47,469,123
+Kerr,312,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,78,5,53,20
+Kerr,312,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,0,1,0
+Kerr,312,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1684,55,1361,268
+Kerr,312,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,666,49,483,134
+Kerr,312,"Member, State Board of Education, District 10",10,,Under Votes,93,6,68,19
+Kerr,312,"Member, State Board of Education, District 10",10,,Over Votes,2,0,1,1
+Kerr,312,State Representative,53,REP,Wes Virdell,1630,56,1313,261
+Kerr,312,State Representative,53,DEM,Joe P. Herrera,659,47,489,123
+Kerr,312,State Representative,53,LIB,B. W. Holk,72,1,48,23
+Kerr,312,State Representative,53,,Under Votes,84,6,63,15
+Kerr,312,State Representative,53,,Over Votes,0,0,0,0
+Kerr,312,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,1162,60,854,248
+Kerr,312,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,174,50,1,59
+Kerr,312,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,312,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,1691,59,1358,274
+Kerr,312,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,662,46,489,127
+Kerr,312,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,92,5,66,21
+Kerr,312,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Kerr,312,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,1702,58,1367,277
+Kerr,312,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,655,47,482,126
+Kerr,312,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,88,5,64,19
+Kerr,312,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,312,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,1690,56,1364,270
+Kerr,312,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,669,47,489,133
+Kerr,312,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,84,6,59,19
+Kerr,312,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,2,1,1,0
+Kerr,312,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,1940,73,1522,345
+Kerr,312,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,505,37,391,77
+Kerr,312,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,312,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",1912,73,1501,338
+Kerr,312,"District Judge, 216th Judicial District",216,,Under Votes,533,37,412,84
+Kerr,312,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,312,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,1892,72,1483,337
+Kerr,312,"District Attorney, 198th Judicial District",198,,Under Votes,553,38,430,85
+Kerr,312,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,312,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,1910,74,1494,342
+Kerr,312,"District Attorney, 216th Judicial District",216,,Under Votes,535,36,419,80
+Kerr,312,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,312,County Attorney,,REP,Heather Stebbins,1907,73,1492,342
+Kerr,312,County Attorney,,,Under Votes,538,37,421,80
+Kerr,312,County Attorney,,,Over Votes,0,0,0,0
+Kerr,312,"County Clerk, Unexpired Term",,REP,Ian Collum,1616,69,1248,299
+Kerr,312,"County Clerk, Unexpired Term",,,Under Votes,547,34,427,86
+Kerr,312,"County Clerk, Unexpired Term",,,Over Votes,13,0,11,2
+Kerr,312,Sheriff,,REP,Larry L. Leitha Jr,1890,77,1480,333
+Kerr,312,Sheriff,,,Under Votes,555,33,433,89
+Kerr,312,Sheriff,,,Over Votes,0,0,0,0
+Kerr,312,County Tax Assessor-Collector,,REP,Bob Reeves,1963,79,1546,338
+Kerr,312,County Tax Assessor-Collector,,,Under Votes,482,31,367,84
+Kerr,312,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,312,"County Commissioner, Precinct 3",,REP,Jeff Holt,1893,72,1485,336
+Kerr,312,"County Commissioner, Precinct 3",,,Under Votes,552,38,428,86
+Kerr,312,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Kerr,312,"Constable, Precinct 3",,REP,Paul A. Gonzales,1893,73,1482,338
+Kerr,312,"Constable, Precinct 3",,,Under Votes,552,37,431,84
+Kerr,312,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Kerr,312,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,968,51,751,166
+Kerr,312,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,4,0,4,0
+Kerr,312,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 3,,,Under Votes,1,58,862,180
+Kerr,312,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 3,,,Over Votes,0,0,0,0
+Kerr,314,Registered Voters,,,,2902,,,
+Kerr,314,Ballots Cast,,,,1584,,,
+Kerr,314,President,,REP,Donald J. Trump,1001,22,758,221
+Kerr,314,President,,DEM,Kamala D. Harris,556,29,379,148
+Kerr,314,President,,LIB,Chase Oliver,10,0,6,4
+Kerr,314,President,,GRN,Jill Stein,8,1,2,5
+Kerr,314,President,,,Under Votes,6,0,3,3
+Kerr,314,President,,,Over Votes,2,0,0,2
+Kerr,314,U.S. Senate,,REP,Ted Cruz,925,21,712,192
+Kerr,314,U.S. Senate,,DEM,Colin Allred,573,29,390,154
+Kerr,314,U.S. Senate,,LIB,Ted Brown,63,2,33,28
+Kerr,314,U.S. Senate,,,Under Votes,22,0,13,9
+Kerr,314,U.S. Senate,,,Over Votes,1,0,0,1
+Kerr,314,U.S. House,21,REP,Chip Roy,960,20,730,210
+Kerr,314,U.S. House,21,DEM,Kristin Hook,539,27,368,144
+Kerr,314,U.S. House,21,LIB,Bob King,38,2,20,16
+Kerr,314,U.S. House,21,,Under Votes,47,3,30,14
+Kerr,314,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,314,Railroad Commissioner,,REP,Christi Craddick,965,24,727,214
+Kerr,314,Railroad Commissioner,,DEM,Katherine Culbert,467,23,329,115
+Kerr,314,Railroad Commissioner,,LIB,Hawk Dunlap,48,1,29,18
+Kerr,314,Railroad Commissioner,,GRN,Eddie Espinoza,44,1,25,18
+Kerr,314,Railroad Commissioner,,,Under Votes,54,2,34,18
+Kerr,314,Railroad Commissioner,,,Over Votes,5,1,3,1
+Kerr,314,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,991,23,748,220
+Kerr,314,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,532,26,365,141
+Kerr,314,"Justice, Supreme Court, Place 2",2,,Under Votes,59,3,34,22
+Kerr,314,"Justice, Supreme Court, Place 2",2,,Over Votes,2,0,1,1
+Kerr,314,"Justice, Supreme Court, Place 4",4,REP,John Devine,961,21,728,212
+Kerr,314,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,543,28,369,146
+Kerr,314,"Justice, Supreme Court, Place 4",4,,Under Votes,80,3,51,26
+Kerr,314,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,314,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,963,22,728,213
+Kerr,314,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,503,26,347,130
+Kerr,314,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,59,1,35,23
+Kerr,314,"Justice, Supreme Court, Place 6",6,,Under Votes,56,3,35,18
+Kerr,314,"Justice, Supreme Court, Place 6",6,,Over Votes,3,0,3,0
+Kerr,314,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,986,22,744,220
+Kerr,314,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,538,27,368,143
+Kerr,314,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,60,3,36,21
+Kerr,314,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,314,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,993,23,745,225
+Kerr,314,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,527,26,364,137
+Kerr,314,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,63,3,38,22
+Kerr,314,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,0,1,0
+Kerr,314,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1009,25,756,228
+Kerr,314,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,509,24,353,132
+Kerr,314,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,65,3,39,23
+Kerr,314,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,0,0,1
+Kerr,314,"Member, State Board of Education, District 10",10,REP,Tom Maynard,967,22,729,216
+Kerr,314,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,546,27,372,147
+Kerr,314,"Member, State Board of Education, District 10",10,,Under Votes,70,3,47,20
+Kerr,314,"Member, State Board of Education, District 10",10,,Over Votes,1,0,0,1
+Kerr,314,State Representative,53,REP,Wes Virdell,947,21,720,206
+Kerr,314,State Representative,53,DEM,Joe P. Herrera,529,27,358,144
+Kerr,314,State Representative,53,LIB,B. W. Holk,45,1,28,16
+Kerr,314,State Representative,53,,Under Votes,63,3,42,18
+Kerr,314,State Representative,53,,Over Votes,0,0,0,0
+Kerr,314,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,856,33,595,228
+Kerr,314,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,728,19,553,156
+Kerr,314,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,314,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,977,21,737,219
+Kerr,314,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,533,28,364,141
+Kerr,314,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,73,3,46,24
+Kerr,314,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,1,0,1,0
+Kerr,314,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,999,24,751,224
+Kerr,314,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,517,25,354,138
+Kerr,314,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,68,3,43,22
+Kerr,314,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,314,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,961,22,725,214
+Kerr,314,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,539,25,372,142
+Kerr,314,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,83,5,51,27
+Kerr,314,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,1,0,0,1
+Kerr,314,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,1162,31,849,282
+Kerr,314,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,422,21,299,102
+Kerr,314,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,314,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",1161,31,850,280
+Kerr,314,"District Judge, 216th Judicial District",216,,Under Votes,423,21,298,104
+Kerr,314,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,314,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,1140,28,836,276
+Kerr,314,"District Attorney, 198th Judicial District",198,,Under Votes,444,24,312,108
+Kerr,314,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,314,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,1132,29,828,275
+Kerr,314,"District Attorney, 216th Judicial District",216,,Under Votes,452,23,320,109
+Kerr,314,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,314,County Attorney,,REP,Heather Stebbins,1160,30,846,284
+Kerr,314,County Attorney,,,Under Votes,424,22,302,100
+Kerr,314,County Attorney,,,Over Votes,0,0,0,0
+Kerr,314,"County Clerk, Unexpired Term",,REP,Ian Collum,909,29,691,189
+Kerr,314,"County Clerk, Unexpired Term",,,Under Votes,435,21,305,109
+Kerr,314,"County Clerk, Unexpired Term",,,Over Votes,11,0,9,2
+Kerr,314,Sheriff,,REP,Larry L. Leitha Jr,1142,32,832,278
+Kerr,314,Sheriff,,,Under Votes,442,20,316,106
+Kerr,314,Sheriff,,,Over Votes,0,0,0,0
+Kerr,314,County Tax Assessor-Collector,,REP,Bob Reeves,1168,30,855,283
+Kerr,314,County Tax Assessor-Collector,,,Under Votes,416,22,293,101
+Kerr,314,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,314,"County Commissioner, Precinct 3",,REP,Jeff Holt,1131,29,823,279
+Kerr,314,"County Commissioner, Precinct 3",,,Under Votes,453,23,325,105
+Kerr,314,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Kerr,314,"Constable, Precinct 3",,REP,Paul A. Gonzales,1162,32,850,280
+Kerr,314,"Constable, Precinct 3",,,Under Votes,422,20,298,104
+Kerr,314,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Kerr,314,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,604,25,457,122
+Kerr,314,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,5,0,4,1
+Kerr,314,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 3,,,Under Votes,736,27,556,153
+Kerr,314,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - PRECINCT 3,,,Over Votes,0,0,0,0
+Kerr,404,Registered Voters,,,,563,,,
+Kerr,404,Ballots Cast,,,,443,,,
+Kerr,404,President,,REP,Donald J. Trump,371,10,306,55
+Kerr,404,President,,DEM,Kamala D. Harris,66,3,54,9
+Kerr,404,President,,LIB,Chase Oliver,1,0,0,1
+Kerr,404,President,,GRN,Jill Stein,1,0,1,0
+Kerr,404,President,,,Under Votes,4,0,4,0
+Kerr,404,President,,,Over Votes,0,0,0,0
+Kerr,404,U.S. Senate,,REP,Ted Cruz,359,8,298,53
+Kerr,404,U.S. Senate,,DEM,Colin Allred,74,5,59,10
+Kerr,404,U.S. Senate,,LIB,Ted Brown,10,0,8,2
+Kerr,404,U.S. Senate,,,Under Votes,0,0,0,0
+Kerr,404,U.S. Senate,,,Over Votes,0,0,0,0
+Kerr,404,U.S. House,21,REP,Chip Roy,370,10,305,55
+Kerr,404,U.S. House,21,DEM,Kristin Hook,62,3,51,8
+Kerr,404,U.S. House,21,LIB,Bob King,6,0,5,1
+Kerr,404,U.S. House,21,,Under Votes,5,0,4,1
+Kerr,404,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,404,Railroad Commissioner,,REP,Christi Craddick,363,10,298,55
+Kerr,404,Railroad Commissioner,,DEM,Katherine Culbert,61,3,50,8
+Kerr,404,Railroad Commissioner,,LIB,Hawk Dunlap,9,0,8,1
+Kerr,404,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0
+Kerr,404,Railroad Commissioner,,,Under Votes,7,0,6,1
+Kerr,404,Railroad Commissioner,,,Over Votes,1,0,1,0
+Kerr,404,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,373,10,309,54
+Kerr,404,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,60,3,48,9
+Kerr,404,"Justice, Supreme Court, Place 2",2,,Under Votes,10,0,8,2
+Kerr,404,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Kerr,404,"Justice, Supreme Court, Place 4",4,REP,John Devine,369,10,303,56
+Kerr,404,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,64,3,53,8
+Kerr,404,"Justice, Supreme Court, Place 4",4,,Under Votes,10,0,9,1
+Kerr,404,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,404,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,368,10,304,54
+Kerr,404,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,58,3,48,7
+Kerr,404,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,7,0,5,2
+Kerr,404,"Justice, Supreme Court, Place 6",6,,Under Votes,10,0,8,2
+Kerr,404,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Kerr,404,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,368,12,301,55
+Kerr,404,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,63,1,54,8
+Kerr,404,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,12,0,10,2
+Kerr,404,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,404,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,375,12,308,55
+Kerr,404,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,55,1,47,7
+Kerr,404,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,13,0,10,3
+Kerr,404,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Kerr,404,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,373,10,306,57
+Kerr,404,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,54,3,45,6
+Kerr,404,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,14,0,12,2
+Kerr,404,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,2,0,2,0
+Kerr,404,"Member, State Board of Education, District 10",10,REP,Tom Maynard,367,10,303,54
+Kerr,404,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,63,3,51,9
+Kerr,404,"Member, State Board of Education, District 10",10,,Under Votes,13,0,11,2
+Kerr,404,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Kerr,404,State Representative,53,REP,Wes Virdell,369,10,304,55
+Kerr,404,State Representative,53,DEM,Joe P. Herrera,58,3,48,7
+Kerr,404,State Representative,53,LIB,B. W. Holk,7,0,6,1
+Kerr,404,State Representative,53,,Under Votes,9,0,7,2
+Kerr,404,State Representative,53,,Over Votes,0,0,0,0
+Kerr,404,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,145,7,105,33
+Kerr,404,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,298,6,260,32
+Kerr,404,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,404,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,373,9,308,56
+Kerr,404,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,56,3,46,7
+Kerr,404,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,14,1,11,2
+Kerr,404,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Kerr,404,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,375,12,307,56
+Kerr,404,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,51,1,44,6
+Kerr,404,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,17,0,14,3
+Kerr,404,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,404,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,366,10,299,57
+Kerr,404,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,63,3,54,6
+Kerr,404,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,13,0,11,2
+Kerr,404,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,1,0,1,0
+Kerr,404,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,377,8,309,60
+Kerr,404,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,66,5,56,5
+Kerr,404,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,404,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",375,8,308,59
+Kerr,404,"District Judge, 216th Judicial District",216,,Under Votes,68,5,57,6
+Kerr,404,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,404,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,370,8,304,58
+Kerr,404,"District Attorney, 198th Judicial District",198,,Under Votes,73,5,61,7
+Kerr,404,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,404,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,374,8,306,60
+Kerr,404,"District Attorney, 216th Judicial District",216,,Under Votes,69,5,59,5
+Kerr,404,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,404,County Attorney,,REP,Heather Stebbins,372,8,305,59
+Kerr,404,County Attorney,,,Under Votes,71,5,60,6
+Kerr,404,County Attorney,,,Over Votes,0,0,0,0
+Kerr,404,"County Clerk, Unexpired Term",,REP,Ian Collum,282,9,219,54
+Kerr,404,"County Clerk, Unexpired Term",,,Under Votes,76,4,64,8
+Kerr,404,"County Clerk, Unexpired Term",,,Over Votes,2,0,2,0
+Kerr,404,Sheriff,,REP,Larry L. Leitha Jr,368,8,301,59
+Kerr,404,Sheriff,,,Under Votes,75,5,64,6
+Kerr,404,Sheriff,,,Over Votes,0,0,0,0
+Kerr,404,County Tax Assessor-Collector,,REP,Bob Reeves,386,10,315,61
+Kerr,404,County Tax Assessor-Collector,,,Under Votes,57,3,50,4
+Kerr,404,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,404,"Constable, Precinct 4",,REP,Brad Rider,358,8,290,60
+Kerr,404,"Constable, Precinct 4",,,Under Votes,85,5,75,5
+Kerr,404,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Kerr,404,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,169,5,138,26
+Kerr,404,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,0,0,0,0
+Kerr,404 - SHP,Registered Voters,,,,633,,,
+Kerr,404 - SHP,Ballots Cast,,,,469,,,
+Kerr,404 - SHP,President,,REP,Donald J. Trump,432,8,344,80
+Kerr,404 - SHP,President,,DEM,Kamala D. Harris,33,1,27,5
+Kerr,404 - SHP,President,,LIB,Chase Oliver,1,0,1,0
+Kerr,404 - SHP,President,,GRN,Jill Stein,1,0,0,1
+Kerr,404 - SHP,President,,,Under Votes,2,2,0,0
+Kerr,404 - SHP,President,,,Over Votes,0,0,0,0
+Kerr,404 - SHP,U.S. Senate,,REP,Ted Cruz,421,8,338,75
+Kerr,404 - SHP,U.S. Senate,,DEM,Colin Allred,43,3,31,9
+Kerr,404 - SHP,U.S. Senate,,LIB,Ted Brown,2,0,1,1
+Kerr,404 - SHP,U.S. Senate,,,Under Votes,3,0,2,1
+Kerr,404 - SHP,U.S. Senate,,,Over Votes,0,0,0,0
+Kerr,404 - SHP,U.S. House,21,REP,Chip Roy,424,8,337,79
+Kerr,404 - SHP,U.S. House,21,DEM,Kristin Hook,33,0,27,6
+Kerr,404 - SHP,U.S. House,21,LIB,Bob King,9,3,5,1
+Kerr,404 - SHP,U.S. House,21,,Under Votes,3,0,3,0
+Kerr,404 - SHP,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,404 - SHP,Railroad Commissioner,,REP,Christi Craddick,414,9,329,76
+Kerr,404 - SHP,Railroad Commissioner,,DEM,Katherine Culbert,26,0,23,3
+Kerr,404 - SHP,Railroad Commissioner,,LIB,Hawk Dunlap,13,2,9,2
+Kerr,404 - SHP,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,2,3
+Kerr,404 - SHP,Railroad Commissioner,,,Under Votes,11,0,9,2
+Kerr,404 - SHP,Railroad Commissioner,,,Over Votes,0,0,0,0
+Kerr,404 - SHP,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,426,9,338,79
+Kerr,404 - SHP,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,29,2,23,4
+Kerr,404 - SHP,"Justice, Supreme Court, Place 2",2,,Under Votes,14,0,11,3
+Kerr,404 - SHP,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Kerr,404 - SHP,"Justice, Supreme Court, Place 4",4,REP,John Devine,420,8,334,78
+Kerr,404 - SHP,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,36,3,28,5
+Kerr,404 - SHP,"Justice, Supreme Court, Place 4",4,,Under Votes,13,0,10,3
+Kerr,404 - SHP,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,404 - SHP,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,420,8,335,77
+Kerr,404 - SHP,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,29,2,22,5
+Kerr,404 - SHP,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,9,1,6,2
+Kerr,404 - SHP,"Justice, Supreme Court, Place 6",6,,Under Votes,11,0,9,2
+Kerr,404 - SHP,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Kerr,404 - SHP,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,430,8,344,78
+Kerr,404 - SHP,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,29,3,21,5
+Kerr,404 - SHP,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,10,0,7,3
+Kerr,404 - SHP,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,404 - SHP,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,429,11,339,79
+Kerr,404 - SHP,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,29,0,24,5
+Kerr,404 - SHP,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,11,0,9,2
+Kerr,404 - SHP,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Kerr,404 - SHP,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,428,9,339,80
+Kerr,404 - SHP,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,30,2,24,4
+Kerr,404 - SHP,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,10,0,8,2
+Kerr,404 - SHP,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,0,1,0
+Kerr,404 - SHP,"Member, State Board of Education, District 10",10,REP,Tom Maynard,426,9,339,78
+Kerr,404 - SHP,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,30,2,23,5
+Kerr,404 - SHP,"Member, State Board of Education, District 10",10,,Under Votes,13,0,10,3
+Kerr,404 - SHP,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Kerr,404 - SHP,State Representative,53,REP,Wes Virdell,419,8,335,76
+Kerr,404 - SHP,State Representative,53,DEM,Joe P. Herrera,34,2,26,6
+Kerr,404 - SHP,State Representative,53,LIB,B. W. Holk,5,1,3,1
+Kerr,404 - SHP,State Representative,53,,Under Votes,11,0,8,3
+Kerr,404 - SHP,State Representative,53,,Over Votes,0,0,0,0
+Kerr,404 - SHP,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,141,5,107,29
+Kerr,404 - SHP,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,328,6,265,57
+Kerr,404 - SHP,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,404 - SHP,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,431,11,342,78
+Kerr,404 - SHP,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,25,0,20,5
+Kerr,404 - SHP,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,13,0,10,3
+Kerr,404 - SHP,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Kerr,404 - SHP,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,428,10,340,78
+Kerr,404 - SHP,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,28,1,22,5
+Kerr,404 - SHP,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,13,0,10,3
+Kerr,404 - SHP,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,404 - SHP,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,425,10,339,76
+Kerr,404 - SHP,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,33,1,26,6
+Kerr,404 - SHP,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,11,0,7,4
+Kerr,404 - SHP,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Kerr,404 - SHP,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,419,10,335,74
+Kerr,404 - SHP,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,50,1,37,12
+Kerr,404 - SHP,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,404 - SHP,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",413,10,329,74
+Kerr,404 - SHP,"District Judge, 216th Judicial District",216,,Under Votes,56,1,43,12
+Kerr,404 - SHP,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,404 - SHP,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,418,9,334,75
+Kerr,404 - SHP,"District Attorney, 198th Judicial District",198,,Under Votes,51,2,38,11
+Kerr,404 - SHP,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,404 - SHP,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,414,10,329,75
+Kerr,404 - SHP,"District Attorney, 216th Judicial District",216,,Under Votes,55,1,43,11
+Kerr,404 - SHP,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,404 - SHP,County Attorney,,REP,Heather Stebbins,415,9,331,75
+Kerr,404 - SHP,County Attorney,,,Under Votes,54,2,41,11
+Kerr,404 - SHP,County Attorney,,,Over Votes,0,0,0,0
+Kerr,404 - SHP,"County Clerk, Unexpired Term",,REP,Ian Collum,314,8,238,68
+Kerr,404 - SHP,"County Clerk, Unexpired Term",,,Under Votes,61,3,44,14
+Kerr,404 - SHP,"County Clerk, Unexpired Term",,,Over Votes,2,0,2,0
+Kerr,404 - SHP,Sheriff,,REP,Larry L. Leitha Jr,410,10,325,75
+Kerr,404 - SHP,Sheriff,,,Under Votes,59,1,47,11
+Kerr,404 - SHP,Sheriff,,,Over Votes,0,0,0,0
+Kerr,404 - SHP,County Tax Assessor-Collector,,REP,Bob Reeves,423,10,336,77
+Kerr,404 - SHP,County Tax Assessor-Collector,,,Under Votes,46,1,36,9
+Kerr,404 - SHP,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,404 - SHP,"Constable, Precinct 4",,REP,Brad Rider,409,9,327,73
+Kerr,404 - SHP,"Constable, Precinct 4",,,Under Votes,60,2,45,13
+Kerr,404 - SHP,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Kerr,404 - SHP,"Constable, Precinct 4",,,Under Votes,885,21,696,168
+Kerr,404 - SHP,"Constable, Precinct 4",,,Over Votes,2,0,1,1
+Kerr,404 - SHP,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,185,7,138,40
+Kerr,404 - SHP,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,2,0,1,1
+Kerr,405,Registered Voters,,,,1862,,,
+Kerr,405,Ballots Cast,,,,1467,,,
+Kerr,405,President,,REP,Donald J. Trump,1097,32,935,130
+Kerr,405,President,,DEM,Kamala D. Harris,348,33,264,51
+Kerr,405,President,,LIB,Chase Oliver,12,1,7,4
+Kerr,405,President,,GRN,Jill Stein,1,0,1,0
+Kerr,405,President,,,Under Votes,7,1,6,0
+Kerr,405,President,,,Over Votes,0,0,0,0
+Kerr,405,U.S. Senate,,REP,Ted Cruz,1080,35,922,123
+Kerr,405,U.S. Senate,,DEM,Colin Allred,363,32,278,53
+Kerr,405,U.S. Senate,,LIB,Ted Brown,17,0,10,7
+Kerr,405,U.S. Senate,,,Under Votes,5,0,4,1
+Kerr,405,U.S. Senate,,,Over Votes,1,0,0,1
+Kerr,405,U.S. House,21,REP,Chip Roy,1088,34,928,126
+Kerr,405,U.S. House,21,DEM,Kristin Hook,334,29,257,48
+Kerr,405,U.S. House,21,LIB,Bob King,24,0,19,5
+Kerr,405,U.S. House,21,,Under Votes,21,4,11,6
+Kerr,405,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,405,Railroad Commissioner,,REP,Christi Craddick,1075,32,919,124
+Kerr,405,Railroad Commissioner,,DEM,Katherine Culbert,301,29,231,41
+Kerr,405,Railroad Commissioner,,LIB,Hawk Dunlap,39,2,30,7
+Kerr,405,Railroad Commissioner,,GRN,Eddie Espinoza,12,0,8,4
+Kerr,405,Railroad Commissioner,,,Under Votes,37,4,25,8
+Kerr,405,Railroad Commissioner,,,Over Votes,1,0,0,1
+Kerr,405,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1120,34,955,131
+Kerr,405,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,313,29,238,46
+Kerr,405,"Justice, Supreme Court, Place 2",2,,Under Votes,34,4,22,8
+Kerr,405,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Kerr,405,"Justice, Supreme Court, Place 4",4,REP,John Devine,1100,33,938,129
+Kerr,405,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,319,29,243,47
+Kerr,405,"Justice, Supreme Court, Place 4",4,,Under Votes,48,5,34,9
+Kerr,405,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,405,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1098,34,939,125
+Kerr,405,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,300,28,232,40
+Kerr,405,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,28,1,17,10
+Kerr,405,"Justice, Supreme Court, Place 6",6,,Under Votes,41,4,27,10
+Kerr,405,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Kerr,405,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1110,34,947,129
+Kerr,405,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,319,29,243,47
+Kerr,405,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,38,4,25,9
+Kerr,405,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,405,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1115,35,954,126
+Kerr,405,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,307,28,229,50
+Kerr,405,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,45,4,32,9
+Kerr,405,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Kerr,405,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1122,34,959,129
+Kerr,405,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,300,29,225,46
+Kerr,405,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,45,4,31,10
+Kerr,405,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kerr,405,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1107,34,946,127
+Kerr,405,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,317,29,237,51
+Kerr,405,"Member, State Board of Education, District 10",10,,Under Votes,43,4,32,7
+Kerr,405,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Kerr,405,State Representative,53,REP,Wes Virdell,1079,31,920,128
+Kerr,405,State Representative,53,DEM,Joe P. Herrera,314,29,242,43
+Kerr,405,State Representative,53,LIB,B. W. Holk,30,2,23,5
+Kerr,405,State Representative,53,,Under Votes,42,5,28,9
+Kerr,405,State Representative,53,,Over Votes,2,0,2,0
+Kerr,405,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,557,33,431,93
+Kerr,405,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,910,34,784,92
+Kerr,405,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,405,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,1117,34,953,130
+Kerr,405,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,305,29,232,44
+Kerr,405,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,45,4,30,11
+Kerr,405,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Kerr,405,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,1124,34,961,129
+Kerr,405,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,300,29,223,48
+Kerr,405,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,42,4,30,8
+Kerr,405,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,1,0,1,0
+Kerr,405,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,1113,34,952,127
+Kerr,405,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,306,29,226,51
+Kerr,405,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,46,4,35,7
+Kerr,405,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,2,0,2,0
+Kerr,405,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,1177,41,986,150
+Kerr,405,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,290,26,229,35
+Kerr,405,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,405,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",1163,41,971,151
+Kerr,405,"District Judge, 216th Judicial District",216,,Under Votes,304,26,244,34
+Kerr,405,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,405,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,1160,41,970,149
+Kerr,405,"District Attorney, 198th Judicial District",198,,Under Votes,307,26,245,36
+Kerr,405,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,405,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,1167,41,973,153
+Kerr,405,"District Attorney, 216th Judicial District",216,,Under Votes,300,26,242,32
+Kerr,405,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,405,County Attorney,,REP,Heather Stebbins,1165,41,974,150
+Kerr,405,County Attorney,,,Under Votes,302,26,241,35
+Kerr,405,County Attorney,,,Over Votes,0,0,0,0
+Kerr,405,"County Clerk, Unexpired Term",,REP,Ian Collum,887,45,708,134
+Kerr,405,"County Clerk, Unexpired Term",,,Under Votes,314,22,253,39
+Kerr,405,"County Clerk, Unexpired Term",,,Over Votes,8,0,7,1
+Kerr,405,Sheriff,,REP,Larry L. Leitha Jr,1164,45,969,150
+Kerr,405,Sheriff,,,Under Votes,303,22,246,35
+Kerr,405,Sheriff,,,Over Votes,0,0,0,0
+Kerr,405,County Tax Assessor-Collector,,REP,Bob Reeves,1195,51,997,147
+Kerr,405,County Tax Assessor-Collector,,,Under Votes,272,16,218,38
+Kerr,405,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,405,"Constable, Precinct 4",,REP,Brad Rider,1116,38,937,141
+Kerr,405,"Constable, Precinct 4",,,Under Votes,351,29,278,44
+Kerr,405,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Kerr,405,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,484,31,379,74
+Kerr,405,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,1,1,0,0
+Kerr,406,Registered Voters,,,,3361,,,
+Kerr,406,Ballots Cast,,,,2382,,,
+Kerr,406,President,,REP,Donald J. Trump,1899,41,1634,224
+Kerr,406,President,,DEM,Kamala D. Harris,450,37,361,52
+Kerr,406,President,,LIB,Chase Oliver,10,0,8,2
+Kerr,406,President,,GRN,Jill Stein,7,0,4,3
+Kerr,406,President,,,Under Votes,14,1,9,4
+Kerr,406,President,,,Over Votes,1,0,1,0
+Kerr,406,U.S. Senate,,REP,Ted Cruz,1832,38,1595,199
+Kerr,406,U.S. Senate,,DEM,Colin Allred,491,39,391,61
+Kerr,406,U.S. Senate,,LIB,Ted Brown,39,1,22,16
+Kerr,406,U.S. Senate,,,Under Votes,19,1,10,8
+Kerr,406,U.S. Senate,,,Over Votes,0,0,0,0
+Kerr,406,U.S. House,21,REP,Chip Roy,1872,38,1614,220
+Kerr,406,U.S. House,21,DEM,Kristin Hook,424,36,348,40
+Kerr,406,U.S. House,21,LIB,Bob King,33,1,18,14
+Kerr,406,U.S. House,21,,Under Votes,53,4,38,11
+Kerr,406,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,406,Railroad Commissioner,,REP,Christi Craddick,1840,42,1588,210
+Kerr,406,Railroad Commissioner,,DEM,Katherine Culbert,382,29,310,43
+Kerr,406,Railroad Commissioner,,LIB,Hawk Dunlap,59,2,45,12
+Kerr,406,Railroad Commissioner,,GRN,Eddie Espinoza,20,1,18,1
+Kerr,406,Railroad Commissioner,,,Under Votes,75,5,53,17
+Kerr,406,Railroad Commissioner,,,Over Votes,4,0,3,1
+Kerr,406,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1885,41,1628,216
+Kerr,406,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,417,33,333,51
+Kerr,406,"Justice, Supreme Court, Place 2",2,,Under Votes,79,5,56,18
+Kerr,406,"Justice, Supreme Court, Place 2",2,,Over Votes,1,0,1,0
+Kerr,406,"Justice, Supreme Court, Place 4",4,REP,John Devine,1848,40,1592,216
+Kerr,406,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,427,33,347,47
+Kerr,406,"Justice, Supreme Court, Place 4",4,,Under Votes,107,6,79,22
+Kerr,406,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,406,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1860,45,1606,209
+Kerr,406,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,390,28,320,42
+Kerr,406,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,51,1,34,16
+Kerr,406,"Justice, Supreme Court, Place 6",6,,Under Votes,80,5,57,18
+Kerr,406,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Kerr,406,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1871,41,1613,217
+Kerr,406,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,426,33,342,51
+Kerr,406,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,84,5,62,17
+Kerr,406,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,0,1,0
+Kerr,406,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1882,39,1624,219
+Kerr,406,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,411,34,327,50
+Kerr,406,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,87,5,66,16
+Kerr,406,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,2,1,1,0
+Kerr,406,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1892,42,1625,225
+Kerr,406,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,399,33,323,43
+Kerr,406,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,90,4,69,17
+Kerr,406,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,0,1,0
+Kerr,406,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1885,42,1621,222
+Kerr,406,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,403,33,324,46
+Kerr,406,"Member, State Board of Education, District 10",10,,Under Votes,93,4,72,17
+Kerr,406,"Member, State Board of Education, District 10",10,,Over Votes,1,0,1,0
+Kerr,406,State Representative,53,REP,Wes Virdell,1845,41,1595,209
+Kerr,406,State Representative,53,DEM,Joe P. Herrera,404,34,325,45
+Kerr,406,State Representative,53,LIB,B. W. Holk,40,0,26,14
+Kerr,406,State Representative,53,,Under Votes,92,4,71,17
+Kerr,406,State Representative,53,,Over Votes,1,0,1,0
+Kerr,406,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,871,41,701,129
+Kerr,406,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,156,38,1,317
+Kerr,406,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,406,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,1887,44,1624,219
+Kerr,406,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,401,30,322,49
+Kerr,406,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,93,5,71,17
+Kerr,406,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,1,0,1,0
+Kerr,406,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,1893,42,1630,221
+Kerr,406,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,397,33,316,48
+Kerr,406,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,91,4,71,16
+Kerr,406,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,1,0,1,0
+Kerr,406,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,1867,41,1606,220
+Kerr,406,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,406,32,330,44
+Kerr,406,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,107,6,80,21
+Kerr,406,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,2,0,2,0
+Kerr,406,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,1983,57,1692,234
+Kerr,406,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,399,22,326,51
+Kerr,406,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,406,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",1978,55,1689,234
+Kerr,406,"District Judge, 216th Judicial District",216,,Under Votes,404,24,329,51
+Kerr,406,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,406,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,1967,53,1682,232
+Kerr,406,"District Attorney, 198th Judicial District",198,,Under Votes,415,26,336,53
+Kerr,406,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,406,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,1953,51,1671,231
+Kerr,406,"District Attorney, 216th Judicial District",216,,Under Votes,429,28,347,54
+Kerr,406,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,406,County Attorney,,REP,Heather Stebbins,1956,54,1669,233
+Kerr,406,County Attorney,,,Under Votes,426,25,349,52
+Kerr,406,County Attorney,,,Over Votes,0,0,0,0
+Kerr,406,"County Clerk, Unexpired Term",,REP,Ian Collum,1340,52,1157,131
+Kerr,406,"County Clerk, Unexpired Term",,,Under Votes,422,26,355,41
+Kerr,406,"County Clerk, Unexpired Term",,,Over Votes,20,0,20,0
+Kerr,406,Sheriff,,REP,Larry L. Leitha Jr,1962,54,1682,226
+Kerr,406,Sheriff,,,Under Votes,420,25,336,59
+Kerr,406,Sheriff,,,Over Votes,0,0,0,0
+Kerr,406,County Tax Assessor-Collector,,REP,Bob Reeves,2006,53,1716,237
+Kerr,406,County Tax Assessor-Collector,,,Under Votes,376,26,302,48
+Kerr,406,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,406,"Constable, Precinct 4",,REP,Brad Rider,1897,51,1616,230
+Kerr,406,"Constable, Precinct 4",,,Under Votes,485,28,402,55
+Kerr,406,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Kerr,406,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,835,43,691,101
+Kerr,406,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,2,0,2,0
+Kerr,410,Registered Voters,,,,344,,,
+Kerr,410,Ballots Cast,,,,267,,,
+Kerr,410,President,,REP,Donald J. Trump,236,7,192,37
+Kerr,410,President,,DEM,Kamala D. Harris,27,1,23,3
+Kerr,410,President,,LIB,Chase Oliver,2,0,1,1
+Kerr,410,President,,GRN,Jill Stein,0,0,0,0
+Kerr,410,President,,,Under Votes,1,0,1,0
+Kerr,410,President,,,Over Votes,1,0,1,0
+Kerr,410,U.S. Senate,,REP,Ted Cruz,236,7,191,38
+Kerr,410,U.S. Senate,,DEM,Colin Allred,28,1,24,3
+Kerr,410,U.S. Senate,,LIB,Ted Brown,3,0,3,0
+Kerr,410,U.S. Senate,,,Under Votes,0,0,0,0
+Kerr,410,U.S. Senate,,,Over Votes,0,0,0,0
+Kerr,410,U.S. House,21,REP,Chip Roy,238,6,195,37
+Kerr,410,U.S. House,21,DEM,Kristin Hook,22,1,17,4
+Kerr,410,U.S. House,21,LIB,Bob King,6,1,5,0
+Kerr,410,U.S. House,21,,Under Votes,1,0,1,0
+Kerr,410,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,410,Railroad Commissioner,,REP,Christi Craddick,234,7,191,36
+Kerr,410,Railroad Commissioner,,DEM,Katherine Culbert,20,1,17,2
+Kerr,410,Railroad Commissioner,,LIB,Hawk Dunlap,9,0,6,3
+Kerr,410,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Kerr,410,Railroad Commissioner,,,Under Votes,3,0,3,0
+Kerr,410,Railroad Commissioner,,,Over Votes,0,0,0,0
+Kerr,410,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,241,7,198,36
+Kerr,410,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,22,1,17,4
+Kerr,410,"Justice, Supreme Court, Place 2",2,,Under Votes,4,0,3,1
+Kerr,410,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Kerr,410,"Justice, Supreme Court, Place 4",4,REP,John Devine,232,7,189,36
+Kerr,410,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,24,1,20,3
+Kerr,410,"Justice, Supreme Court, Place 4",4,,Under Votes,11,0,9,2
+Kerr,410,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,410,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,238,7,194,37
+Kerr,410,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,22,1,19,2
+Kerr,410,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,1,1
+Kerr,410,"Justice, Supreme Court, Place 6",6,,Under Votes,5,0,4,1
+Kerr,410,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Kerr,410,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,237,7,192,38
+Kerr,410,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,23,1,20,2
+Kerr,410,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,7,0,6,1
+Kerr,410,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,410,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,241,7,197,37
+Kerr,410,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,22,1,18,3
+Kerr,410,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,4,0,3,1
+Kerr,410,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Kerr,410,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,242,7,197,38
+Kerr,410,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,21,1,18,2
+Kerr,410,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,4,0,3,1
+Kerr,410,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kerr,410,"Member, State Board of Education, District 10",10,REP,Tom Maynard,239,7,194,38
+Kerr,410,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,23,1,19,3
+Kerr,410,"Member, State Board of Education, District 10",10,,Under Votes,5,0,5,0
+Kerr,410,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Kerr,410,State Representative,53,REP,Wes Virdell,236,7,191,38
+Kerr,410,State Representative,53,DEM,Joe P. Herrera,24,1,20,3
+Kerr,410,State Representative,53,LIB,B. W. Holk,2,0,2,0
+Kerr,410,State Representative,53,,Under Votes,4,0,4,0
+Kerr,410,State Representative,53,,Over Votes,1,0,1,0
+Kerr,410,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,81,3,68,10
+Kerr,410,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,186,5,150,31
+Kerr,410,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,410,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,238,7,194,37
+Kerr,410,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,22,1,18,3
+Kerr,410,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,7,0,6,1
+Kerr,410,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Kerr,410,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,237,7,193,37
+Kerr,410,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,22,1,18,3
+Kerr,410,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,8,0,7,1
+Kerr,410,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,410,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,239,7,195,37
+Kerr,410,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,23,1,19,3
+Kerr,410,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,5,0,4,1
+Kerr,410,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Kerr,410,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,234,7,188,39
+Kerr,410,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,33,1,30,2
+Kerr,410,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,410,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",232,7,186,39
+Kerr,410,"District Judge, 216th Judicial District",216,,Under Votes,35,1,32,2
+Kerr,410,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,410,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,228,7,183,38
+Kerr,410,"District Attorney, 198th Judicial District",198,,Under Votes,39,1,35,3
+Kerr,410,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,410,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,229,7,183,39
+Kerr,410,"District Attorney, 216th Judicial District",216,,Under Votes,38,1,35,2
+Kerr,410,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,410,County Attorney,,REP,Heather Stebbins,229,7,183,39
+Kerr,410,County Attorney,,,Under Votes,38,1,35,2
+Kerr,410,County Attorney,,,Over Votes,0,0,0,0
+Kerr,410,"County Clerk, Unexpired Term",,REP,Ian Collum,184,7,142,35
+Kerr,410,"County Clerk, Unexpired Term",,,Under Votes,27,1,24,2
+Kerr,410,"County Clerk, Unexpired Term",,,Over Votes,3,0,3,0
+Kerr,410,Sheriff,,REP,Larry L. Leitha Jr,224,7,179,38
+Kerr,410,Sheriff,,,Under Votes,43,1,39,3
+Kerr,410,Sheriff,,,Over Votes,0,0,0,0
+Kerr,410,County Tax Assessor-Collector,,REP,Bob Reeves,230,7,185,38
+Kerr,410,County Tax Assessor-Collector,,,Under Votes,37,1,33,3
+Kerr,410,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,410,"Constable, Precinct 4",,REP,Brad Rider,227,7,182,38
+Kerr,410,"Constable, Precinct 4",,,Under Votes,40,1,36,3
+Kerr,410,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Kerr,410,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,93,5,71,17
+Kerr,410,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,0,0,0,0
+Kerr,416,Registered Voters,,,,1831,,,
+Kerr,416,Ballots Cast,,,,1301,,,
+Kerr,416,President,,REP,Donald J. Trump,1053,60,859,134
+Kerr,416,President,,DEM,Kamala D. Harris,235,27,169,39
+Kerr,416,President,,LIB,Chase Oliver,6,0,2,4
+Kerr,416,President,,GRN,Jill Stein,0,0,0,0
+Kerr,416,President,,,Under Votes,6,0,4,2
+Kerr,416,President,,,Over Votes,0,0,0,0
+Kerr,416,U.S. Senate,,REP,Ted Cruz,1025,59,841,125
+Kerr,416,U.S. Senate,,DEM,Colin Allred,245,25,175,45
+Kerr,416,U.S. Senate,,LIB,Ted Brown,19,3,9,7
+Kerr,416,U.S. Senate,,,Under Votes,10,0,8,2
+Kerr,416,U.S. Senate,,,Over Votes,2,1,1,0
+Kerr,416,U.S. House,21,REP,Chip Roy,1039,57,850,132
+Kerr,416,U.S. House,21,DEM,Kristin Hook,217,25,155,37
+Kerr,416,U.S. House,21,LIB,Bob King,18,2,9,7
+Kerr,416,U.S. House,21,,Under Votes,27,4,20,3
+Kerr,416,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,416,Railroad Commissioner,,REP,Christi Craddick,1035,54,849,132
+Kerr,416,Railroad Commissioner,,DEM,Katherine Culbert,201,26,146,29
+Kerr,416,Railroad Commissioner,,LIB,Hawk Dunlap,18,2,10,6
+Kerr,416,Railroad Commissioner,,GRN,Eddie Espinoza,14,0,7,7
+Kerr,416,Railroad Commissioner,,,Under Votes,29,6,20,3
+Kerr,416,Railroad Commissioner,,,Over Votes,2,0,1,1
+Kerr,416,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1062,55,866,141
+Kerr,416,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,208,28,146,34
+Kerr,416,"Justice, Supreme Court, Place 2",2,,Under Votes,31,5,22,4
+Kerr,416,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Kerr,416,"Justice, Supreme Court, Place 4",4,REP,John Devine,1043,57,849,137
+Kerr,416,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,214,25,152,37
+Kerr,416,"Justice, Supreme Court, Place 4",4,,Under Votes,44,6,33,5
+Kerr,416,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Kerr,416,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1036,58,846,132
+Kerr,416,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,205,24,146,35
+Kerr,416,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,28,1,19,8
+Kerr,416,"Justice, Supreme Court, Place 6",6,,Under Votes,32,5,23,4
+Kerr,416,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Kerr,416,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1056,59,860,137
+Kerr,416,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,208,24,149,35
+Kerr,416,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,37,5,25,7
+Kerr,416,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,416,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1048,57,854,137
+Kerr,416,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,216,26,154,36
+Kerr,416,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,37,5,26,6
+Kerr,416,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Kerr,416,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1059,58,863,138
+Kerr,416,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,204,24,144,36
+Kerr,416,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,38,6,27,5
+Kerr,416,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Kerr,416,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1034,58,844,132
+Kerr,416,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,226,26,158,42
+Kerr,416,"Member, State Board of Education, District 10",10,,Under Votes,41,4,32,5
+Kerr,416,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Kerr,416,State Representative,53,REP,Wes Virdell,1018,56,830,132
+Kerr,416,State Representative,53,DEM,Joe P. Herrera,229,25,166,38
+Kerr,416,State Representative,53,LIB,B. W. Holk,16,2,8,6
+Kerr,416,State Representative,53,,Under Votes,38,5,30,3
+Kerr,416,State Representative,53,,Over Votes,0,0,0,0
+Kerr,416,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,463,38,344,81
+Kerr,416,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,838,50,690,98
+Kerr,416,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,416,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,1045,57,851,137
+Kerr,416,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,212,25,150,37
+Kerr,416,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,44,6,33,5
+Kerr,416,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Kerr,416,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,1037,57,848,132
+Kerr,416,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,220,24,153,43
+Kerr,416,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,44,7,33,4
+Kerr,416,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,416,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,1033,56,846,131
+Kerr,416,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,219,24,154,41
+Kerr,416,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,48,8,34,6
+Kerr,416,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,1,0,0,1
+Kerr,416,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,1092,62,880,150
+Kerr,416,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,209,26,154,29
+Kerr,416,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,416,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",1081,60,871,150
+Kerr,416,"District Judge, 216th Judicial District",216,,Under Votes,220,28,163,29
+Kerr,416,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,416,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,1078,60,870,148
+Kerr,416,"District Attorney, 198th Judicial District",198,,Under Votes,223,28,164,31
+Kerr,416,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,416,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,1072,62,863,147
+Kerr,416,"District Attorney, 216th Judicial District",216,,Under Votes,229,26,171,32
+Kerr,416,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,416,County Attorney,,REP,Heather Stebbins,1068,60,861,147
+Kerr,416,County Attorney,,,Under Votes,233,28,173,32
+Kerr,416,County Attorney,,,Over Votes,0,0,0,0
+Kerr,416,"County Clerk, Unexpired Term",,REP,Ian Collum,746,54,599,93
+Kerr,416,"County Clerk, Unexpired Term",,,Under Votes,228,26,172,30
+Kerr,416,"County Clerk, Unexpired Term",,,Over Votes,19,2,15,2
+Kerr,416,Sheriff,,REP,Larry L. Leitha Jr,1080,62,867,151
+Kerr,416,Sheriff,,,Under Votes,221,26,167,28
+Kerr,416,Sheriff,,,Over Votes,0,0,0,0
+Kerr,416,County Tax Assessor-Collector,,REP,Bob Reeves,1096,65,876,155
+Kerr,416,County Tax Assessor-Collector,,,Under Votes,205,23,158,24
+Kerr,416,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,416,"Constable, Precinct 4",,REP,Brad Rider,1037,59,836,142
+Kerr,416,"Constable, Precinct 4",,,Under Votes,264,29,198,37
+Kerr,416,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Kerr,416,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,487,48,373,66
+Kerr,416,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,2,0,1,1
+Kerr,417,Registered Voters,,,,1929,,,
+Kerr,417,Ballots Cast,,,,1452,,,
+Kerr,417,President,,REP,Donald J. Trump,1105,38,893,174
+Kerr,417,President,,DEM,Kamala D. Harris,318,28,243,47
+Kerr,417,President,,LIB,Chase Oliver,5,0,5,0
+Kerr,417,President,,GRN,Jill Stein,3,0,1,2
+Kerr,417,President,,,Under Votes,18,1,12,5
+Kerr,417,President,,,Over Votes,2,1,1,0
+Kerr,417,U.S. Senate,,REP,Ted Cruz,1091,37,881,173
+Kerr,417,U.S. Senate,,DEM,Colin Allred,326,26,252,48
+Kerr,417,U.S. Senate,,LIB,Ted Brown,24,2,15,7
+Kerr,417,U.S. Senate,,,Under Votes,10,2,7,1
+Kerr,417,U.S. Senate,,,Over Votes,1,1,0,0
+Kerr,417,U.S. House,21,REP,Chip Roy,1111,37,901,173
+Kerr,417,U.S. House,21,DEM,Kristin Hook,302,28,228,46
+Kerr,417,U.S. House,21,LIB,Bob King,17,0,10,7
+Kerr,417,U.S. House,21,,Under Votes,22,3,16,3
+Kerr,417,U.S. House,21,,Over Votes,0,0,0,0
+Kerr,417,Railroad Commissioner,,REP,Christi Craddick,1086,37,880,169
+Kerr,417,Railroad Commissioner,,DEM,Katherine Culbert,273,26,213,34
+Kerr,417,Railroad Commissioner,,LIB,Hawk Dunlap,39,1,26,12
+Kerr,417,Railroad Commissioner,,GRN,Eddie Espinoza,19,0,11,8
+Kerr,417,Railroad Commissioner,,,Under Votes,34,4,24,6
+Kerr,417,Railroad Commissioner,,,Over Votes,1,0,1,0
+Kerr,417,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1119,37,910,172
+Kerr,417,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,291,27,218,46
+Kerr,417,"Justice, Supreme Court, Place 2",2,,Under Votes,41,4,26,11
+Kerr,417,"Justice, Supreme Court, Place 2",2,,Over Votes,1,0,1,0
+Kerr,417,"Justice, Supreme Court, Place 4",4,REP,John Devine,1097,37,885,175
+Kerr,417,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,308,28,236,44
+Kerr,417,"Justice, Supreme Court, Place 4",4,,Under Votes,45,3,32,10
+Kerr,417,"Justice, Supreme Court, Place 4",4,,Over Votes,2,0,2,0
+Kerr,417,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1098,38,898,162
+Kerr,417,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,287,28,219,40
+Kerr,417,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,33,0,15,18
+Kerr,417,"Justice, Supreme Court, Place 6",6,,Under Votes,32,2,22,8
+Kerr,417,"Justice, Supreme Court, Place 6",6,,Over Votes,2,0,1,1
+Kerr,417,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1119,38,904,177
+Kerr,417,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,297,28,226,43
+Kerr,417,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,36,2,25,9
+Kerr,417,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Kerr,417,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1110,36,901,173
+Kerr,417,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,298,28,223,47
+Kerr,417,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,44,4,31,9
+Kerr,417,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Kerr,417,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1124,38,909,177
+Kerr,417,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,285,25,218,42
+Kerr,417,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,42,5,27,10
+Kerr,417,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,0,1,0
+Kerr,417,"Member, State Board of Education, District 10",10,REP,Tom Maynard,1107,38,893,176
+Kerr,417,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,299,27,230,42
+Kerr,417,"Member, State Board of Education, District 10",10,,Under Votes,45,3,31,11
+Kerr,417,"Member, State Board of Education, District 10",10,,Over Votes,1,0,1,0
+Kerr,417,State Representative,53,REP,Wes Virdell,1075,36,872,167
+Kerr,417,State Representative,53,DEM,Joe P. Herrera,298,26,232,40
+Kerr,417,State Representative,53,LIB,B. W. Holk,36,1,20,15
+Kerr,417,State Representative,53,,Under Votes,43,5,31,7
+Kerr,417,State Representative,53,,Over Votes,0,0,0,0
+Kerr,417,"Justice, 4th Court of Appeals District, Place 2",2,DEM,Velia J. Meza,580,27,454,99
+Kerr,417,"Justice, 4th Court of Appeals District, Place 2",2,,Under Votes,872,41,701,130
+Kerr,417,"Justice, 4th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Kerr,417,"Justice, 4th Court of Appeals District, Place 3",3,REP,Todd McCray,1107,37,893,177
+Kerr,417,"Justice, 4th Court of Appeals District, Place 3",3,DEM,Cynthia Marie Chapa,298,27,228,43
+Kerr,417,"Justice, 4th Court of Appeals District, Place 3",3,,Under Votes,47,4,34,9
+Kerr,417,"Justice, 4th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Kerr,417,"Justice, 4th Court of Appeals District, Place 4",4,REP,Lori Massey Brissette,1117,37,903,177
+Kerr,417,"Justice, 4th Court of Appeals District, Place 4",4,DEM,Luz Elena Chapa,280,24,214,42
+Kerr,417,"Justice, 4th Court of Appeals District, Place 4",4,,Under Votes,55,7,38,10
+Kerr,417,"Justice, 4th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Kerr,417,"Justice, 4th Court of Appeals District, Place 5",5,REP,Adrian Spears,1101,36,889,176
+Kerr,417,"Justice, 4th Court of Appeals District, Place 5",5,DEM,Liza A. Rodriguez,297,27,228,42
+Kerr,417,"Justice, 4th Court of Appeals District, Place 5",5,,Under Votes,51,5,35,11
+Kerr,417,"Justice, 4th Court of Appeals District, Place 5",5,,Over Votes,3,0,3,0
+Kerr,417,"Justice, 4th Court of Appeals District, Place 7",7,REP,Lori I. Valenzuela,1172,41,948,183
+Kerr,417,"Justice, 4th Court of Appeals District, Place 7",7,,Under Votes,280,27,207,46
+Kerr,417,"Justice, 4th Court of Appeals District, Place 7",7,,Over Votes,0,0,0,0
+Kerr,417,"District Judge, 216th Judicial District",216,REP,"Albert ""Pat"" D. Pattillo III",1162,43,937,182
+Kerr,417,"District Judge, 216th Judicial District",216,,Under Votes,290,25,218,47
+Kerr,417,"District Judge, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,417,"District Attorney, 198th Judicial District",198,REP,Stephen Harpold,1169,43,944,182
+Kerr,417,"District Attorney, 198th Judicial District",198,,Under Votes,283,25,211,47
+Kerr,417,"District Attorney, 198th Judicial District",198,,Over Votes,0,0,0,0
+Kerr,417,"District Attorney, 216th Judicial District",216,REP,Lucy Wilke,1172,42,947,183
+Kerr,417,"District Attorney, 216th Judicial District",216,,Under Votes,280,26,208,46
+Kerr,417,"District Attorney, 216th Judicial District",216,,Over Votes,0,0,0,0
+Kerr,417,County Attorney,,REP,Heather Stebbins,1174,41,949,184
+Kerr,417,County Attorney,,,Under Votes,278,27,206,45
+Kerr,417,County Attorney,,,Over Votes,0,0,0,0
+Kerr,417,"County Clerk, Unexpired Term",,REP,Ian Collum,889,42,738,109
+Kerr,417,"County Clerk, Unexpired Term",,,Under Votes,268,23,203,42
+Kerr,417,"County Clerk, Unexpired Term",,,Over Votes,9,0,9,0
+Kerr,417,Sheriff,,REP,Larry L. Leitha Jr,1184,43,958,183
+Kerr,417,Sheriff,,,Under Votes,268,25,197,46
+Kerr,417,Sheriff,,,Over Votes,0,0,0,0
+Kerr,417,County Tax Assessor-Collector,,REP,Bob Reeves,1213,48,980,185
+Kerr,417,County Tax Assessor-Collector,,,Under Votes,239,20,175,44
+Kerr,417,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Kerr,417,"Constable, Precinct 4",,REP,Brad Rider,1128,43,906,179
+Kerr,417,"Constable, Precinct 4",,,Under Votes,324,25,249,50
+Kerr,417,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Kerr,417,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Under Votes,426,28,321,77
+Kerr,417,HEADWATER GROUNDWATER CONSERVATION DISTRICT DIRECTOR - AT-LARGE,,,Over Votes,4,0,3,1

@@ -1,0 +1,787 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Nacogdoches,12,Registered Voters,,,,2137,,,
+Nacogdoches,12,Ballots Cast,,,,1536,,,
+Nacogdoches,12,President,,REP,Donald J. Trump,1304,36,758,510
+Nacogdoches,12,President,,DEM,Kamala D. Harris,216,16,133,67
+Nacogdoches,12,President,,LIB,Chase Oliver,7,1,5,1
+Nacogdoches,12,President,,GRN,Jill Stein,2,1,0,1
+Nacogdoches,12,U.S. Senate,,REP,Ted Cruz,1276,39,749,488
+Nacogdoches,12,U.S. Senate,,DEM,Colin Allred,225,16,133,76
+Nacogdoches,12,U.S. Senate,,LIB,Ted Brown,20,0,11,9
+Nacogdoches,12,U.S. House,17,REP,Pete Sessions,1309,39,765,505
+Nacogdoches,12,U.S. House,17,DEM,Mark Lorenzen,187,14,116,57
+Nacogdoches,12,Railroad Commissioner,,REP,Christi Craddick,1245,39,731,475
+Nacogdoches,12,Railroad Commissioner,,DEM,Katherine Culbert,184,14,115,55
+Nacogdoches,12,Railroad Commissioner,,LIB,Hawk Dunlap,57,0,32,25
+Nacogdoches,12,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,4,1
+Nacogdoches,12,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1285,38,753,494
+Nacogdoches,12,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,192,15,120,57
+Nacogdoches,12,"Justice, Supreme Court, Place 4",4,REP,John Devine,1289,37,752,500
+Nacogdoches,12,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,199,16,126,57
+Nacogdoches,12,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1263,38,734,491
+Nacogdoches,12,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,190,15,121,54
+Nacogdoches,12,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,33,0,20,13
+Nacogdoches,12,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1286,38,749,499
+Nacogdoches,12,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,198,15,124,59
+Nacogdoches,12,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1285,38,750,497
+Nacogdoches,12,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,193,15,121,57
+Nacogdoches,12,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1300,39,759,502
+Nacogdoches,12,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,177,14,112,51
+Nacogdoches,12,State Representative,11,REP,Joanne Shofner,1165,38,702,425
+Nacogdoches,12,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,1163,39,704,420
+Nacogdoches,12,"District Judge, 145th Judicial District",145,REP,Jeff Davis,1191,41,726,424
+Nacogdoches,12,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,1171,39,708,424
+Nacogdoches,12,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,1164,39,707,418
+Nacogdoches,12,County Attorney,,REP,John Fleming,1176,40,714,422
+Nacogdoches,12,Sheriff,,REP,Jason Bridges,1198,43,723,432
+Nacogdoches,12,County Tax Assessor-Collector,,REP,Kim Morton,1182,40,716,426
+Nacogdoches,12,"County Commissioner, Precinct 1",,REP,Keith Finchum,1169,37,711,421
+Nacogdoches,12,"County Commissioner, Precinct 1",,REP,William Sowell,1185,40,722,423
+Nacogdoches,13,Registered Voters,,,,1528,,,
+Nacogdoches,13,Ballots Cast,,,,1120,,,
+Nacogdoches,13,President,,REP,Donald J. Trump,931,17,652,262
+Nacogdoches,13,President,,DEM,Kamala D. Harris,174,8,126,40
+Nacogdoches,13,President,,LIB,Chase Oliver,4,0,1,3
+Nacogdoches,13,President,,GRN,Jill Stein,1,1,0,0
+Nacogdoches,13,U.S. Senate,,REP,Ted Cruz,916,16,647,253
+Nacogdoches,13,U.S. Senate,,DEM,Colin Allred,180,9,129,42
+Nacogdoches,13,U.S. Senate,,LIB,Ted Brown,21,1,8,12
+Nacogdoches,13,U.S. House,17,REP,Pete Sessions,938,18,657,263
+Nacogdoches,13,U.S. House,17,DEM,Mark Lorenzen,163,8,117,38
+Nacogdoches,13,Railroad Commissioner,,REP,Christi Craddick,898,16,631,251
+Nacogdoches,13,Railroad Commissioner,,DEM,Katherine Culbert,155,10,114,31
+Nacogdoches,13,Railroad Commissioner,,LIB,Hawk Dunlap,31,0,20,11
+Nacogdoches,13,Railroad Commissioner,,GRN,Eddie Espinoza,10,0,5,5
+Nacogdoches,13,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,925,17,648,260
+Nacogdoches,13,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,161,8,116,37
+Nacogdoches,13,"Justice, Supreme Court, Place 4",4,REP,John Devine,919,16,645,258
+Nacogdoches,13,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,172,9,122,41
+Nacogdoches,13,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,907,17,635,255
+Nacogdoches,13,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,162,8,119,35
+Nacogdoches,13,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,23,0,14,9
+Nacogdoches,13,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,923,17,650,256
+Nacogdoches,13,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,169,9,119,41
+Nacogdoches,13,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,923,18,650,255
+Nacogdoches,13,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,167,8,118,41
+Nacogdoches,13,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,935,18,653,264
+Nacogdoches,13,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,158,8,116,34
+Nacogdoches,13,State Representative,11,REP,Joanne Shofner,877,16,607,254
+Nacogdoches,13,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,867,19,602,246
+Nacogdoches,13,"District Judge, 145th Judicial District",145,REP,Jeff Davis,887,18,616,253
+Nacogdoches,13,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,898,19,625,254
+Nacogdoches,13,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,866,19,601,246
+Nacogdoches,13,County Attorney,,REP,John Fleming,884,18,613,253
+Nacogdoches,13,Sheriff,,REP,Jason Bridges,902,18,632,252
+Nacogdoches,13,County Tax Assessor-Collector,,REP,Kim Morton,889,19,617,253
+Nacogdoches,13,"County Commissioner, Precinct 1",,REP,Keith Finchum,884,18,616,250
+Nacogdoches,13,"County Commissioner, Precinct 1",,REP,William Sowell,878,18,611,249
+Nacogdoches,14 - A,Registered Voters,,,,2517,,,
+Nacogdoches,14 - A,Ballots Cast,,,,1772,,,
+Nacogdoches,14 - A,President,,REP,Donald J. Trump,1416,36,1093,287
+Nacogdoches,14 - A,President,,DEM,Kamala D. Harris,328,23,223,82
+Nacogdoches,14 - A,President,,LIB,Chase Oliver,4,0,3,1
+Nacogdoches,14 - A,President,,GRN,Jill Stein,5,0,5,0
+Nacogdoches,14 - A,U.S. Senate,,REP,Ted Cruz,1380,37,1074,269
+Nacogdoches,14 - A,U.S. Senate,,DEM,Colin Allred,354,25,236,93
+Nacogdoches,14 - A,U.S. Senate,,LIB,Ted Brown,26,0,16,10
+Nacogdoches,14 - A,U.S. House,17,REP,Pete Sessions,1408,37,1088,283
+Nacogdoches,14 - A,U.S. House,17,DEM,Mark Lorenzen,309,24,207,78
+Nacogdoches,14 - A,Railroad Commissioner,,REP,Christi Craddick,1355,37,1049,269
+Nacogdoches,14 - A,Railroad Commissioner,,DEM,Katherine Culbert,292,23,199,70
+Nacogdoches,14 - A,Railroad Commissioner,,LIB,Hawk Dunlap,47,0,37,10
+Nacogdoches,14 - A,Railroad Commissioner,,GRN,Eddie Espinoza,16,0,9,7
+Nacogdoches,14 - A,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1407,37,1088,282
+Nacogdoches,14 - A,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,310,24,210,76
+Nacogdoches,14 - A,"Justice, Supreme Court, Place 4",4,REP,John Devine,1386,37,1073,276
+Nacogdoches,14 - A,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,312,23,214,75
+Nacogdoches,14 - A,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1387,38,1073,276
+Nacogdoches,14 - A,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,294,24,202,68
+Nacogdoches,14 - A,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,36,0,24,12
+Nacogdoches,14 - A,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1386,35,1074,277
+Nacogdoches,14 - A,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,307,25,207,75
+Nacogdoches,14 - A,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1382,37,1070,275
+Nacogdoches,14 - A,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,304,24,206,74
+Nacogdoches,14 - A,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1389,37,1073,279
+Nacogdoches,14 - A,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,286,23,196,67
+Nacogdoches,14 - A,State Representative,11,REP,Joanne Shofner,1369,36,1041,292
+Nacogdoches,14 - A,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,1342,36,1021,285
+Nacogdoches,14 - A,"District Judge, 145th Judicial District",145,REP,Jeff Davis,1418,39,1077,302
+Nacogdoches,14 - A,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,1371,33,1048,290
+Nacogdoches,14 - A,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,1357,35,1027,295
+Nacogdoches,14 - A,County Attorney,,REP,John Fleming,1392,38,1057,297
+Nacogdoches,14 - A,Sheriff,,REP,Jason Bridges,1398,42,1057,299
+Nacogdoches,14 - A,County Tax Assessor-Collector,,REP,Kim Morton,1377,41,1041,295
+Nacogdoches,14 - A,"County Commissioner, Precinct 1",,REP,Keith Finchum,1368,36,1040,292
+Nacogdoches,14 - A,"County Commissioner, Precinct 1",,REP,William Sowell,1364,32,1036,296
+Nacogdoches,14 - B,Registered Voters,,,,656,,,
+Nacogdoches,14 - B,Ballots Cast,,,,427,,,
+Nacogdoches,14 - B,President,,REP,Donald J. Trump,313,8,260,45
+Nacogdoches,14 - B,President,,DEM,Kamala D. Harris,107,13,82,12
+Nacogdoches,14 - B,President,,LIB,Chase Oliver,3,0,3,0
+Nacogdoches,14 - B,President,,GRN,Jill Stein,1,0,1,0
+Nacogdoches,14 - B,U.S. Senate,,REP,Ted Cruz,306,8,255,43
+Nacogdoches,14 - B,U.S. Senate,,DEM,Colin Allred,106,13,81,12
+Nacogdoches,14 - B,U.S. Senate,,LIB,Ted Brown,10,0,7,3
+Nacogdoches,14 - B,U.S. House,17,REP,Pete Sessions,314,8,264,42
+Nacogdoches,14 - B,U.S. House,17,DEM,Mark Lorenzen,94,13,67,14
+Nacogdoches,14 - B,Railroad Commissioner,,REP,Christi Craddick,309,8,260,41
+Nacogdoches,14 - B,Railroad Commissioner,,DEM,Katherine Culbert,91,13,66,12
+Nacogdoches,14 - B,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,5,1
+Nacogdoches,14 - B,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,6,1
+Nacogdoches,14 - B,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,313,8,261,44
+Nacogdoches,14 - B,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,98,13,73,12
+Nacogdoches,14 - B,"Justice, Supreme Court, Place 4",4,REP,John Devine,311,8,261,42
+Nacogdoches,14 - B,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,100,13,74,13
+Nacogdoches,14 - B,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,307,8,258,41
+Nacogdoches,14 - B,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,94,13,69,12
+Nacogdoches,14 - B,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,10,0,7,3
+Nacogdoches,14 - B,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,310,8,260,42
+Nacogdoches,14 - B,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,102,13,76,13
+Nacogdoches,14 - B,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,315,8,264,43
+Nacogdoches,14 - B,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,95,12,70,13
+Nacogdoches,14 - B,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,313,8,263,42
+Nacogdoches,14 - B,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,97,13,71,13
+Nacogdoches,14 - B,State Representative,11,REP,Joanne Shofner,319,8,264,47
+Nacogdoches,14 - B,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,318,8,263,47
+Nacogdoches,14 - B,"District Judge, 145th Judicial District",145,REP,Jeff Davis,324,9,268,47
+Nacogdoches,14 - B,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,319,8,264,47
+Nacogdoches,14 - B,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,316,8,262,46
+Nacogdoches,14 - B,County Attorney,,REP,John Fleming,324,9,269,46
+Nacogdoches,14 - B,Sheriff,,REP,Jason Bridges,326,10,271,45
+Nacogdoches,14 - B,County Tax Assessor-Collector,,REP,Kim Morton,323,9,267,47
+Nacogdoches,14 - B,"County Commissioner, Precinct 1",,REP,Keith Finchum,319,8,264,47
+Nacogdoches,14 - B,"County Commissioner, Precinct 1",,REP,William Sowell,321,10,264,47
+Nacogdoches,15,Registered Voters,,,,1775,,,
+Nacogdoches,15,Ballots Cast,,,,1191,,,
+Nacogdoches,15,President,,REP,Donald J. Trump,1037,28,640,369
+Nacogdoches,15,President,,DEM,Kamala D. Harris,139,14,72,53
+Nacogdoches,15,President,,LIB,Chase Oliver,5,0,0,5
+Nacogdoches,15,President,,GRN,Jill Stein,1,0,0,1
+Nacogdoches,15,U.S. Senate,,REP,Ted Cruz,1017,27,626,364
+Nacogdoches,15,U.S. Senate,,DEM,Colin Allred,146,15,74,57
+Nacogdoches,15,U.S. Senate,,LIB,Ted Brown,15,0,9,6
+Nacogdoches,15,U.S. House,17,REP,Pete Sessions,1022,28,629,365
+Nacogdoches,15,U.S. House,17,DEM,Mark Lorenzen,128,13,65,50
+Nacogdoches,15,Railroad Commissioner,,REP,Christi Craddick,995,26,619,350
+Nacogdoches,15,Railroad Commissioner,,DEM,Katherine Culbert,121,14,63,44
+Nacogdoches,15,Railroad Commissioner,,LIB,Hawk Dunlap,29,0,12,17
+Nacogdoches,15,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,4,4
+Nacogdoches,15,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1015,27,628,360
+Nacogdoches,15,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,131,14,67,50
+Nacogdoches,15,"Justice, Supreme Court, Place 4",4,REP,John Devine,1017,27,629,361
+Nacogdoches,15,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,135,14,71,50
+Nacogdoches,15,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,994,25,620,349
+Nacogdoches,15,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,126,16,62,48
+Nacogdoches,15,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,28,0,15,13
+Nacogdoches,15,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1014,27,628,359
+Nacogdoches,15,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,136,14,69,53
+Nacogdoches,15,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1015,27,631,357
+Nacogdoches,15,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,138,14,69,55
+Nacogdoches,15,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1026,27,636,363
+Nacogdoches,15,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,125,14,63,48
+Nacogdoches,15,State Representative,11,REP,Joanne Shofner,964,32,583,349
+Nacogdoches,15,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,949,29,572,348
+Nacogdoches,15,"District Judge, 145th Judicial District",145,REP,Jeff Davis,961,30,578,353
+Nacogdoches,15,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,950,30,575,345
+Nacogdoches,15,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,946,30,572,344
+Nacogdoches,15,County Attorney,,REP,John Fleming,955,29,576,350
+Nacogdoches,15,Sheriff,,REP,Jason Bridges,990,35,588,367
+Nacogdoches,15,County Tax Assessor-Collector,,REP,Kim Morton,969,32,580,357
+Nacogdoches,15,"County Commissioner, Precinct 1",,REP,Keith Finchum,954,32,575,347
+Nacogdoches,15,"County Commissioner, Precinct 1",,REP,William Sowell,967,32,579,356
+Nacogdoches,16,Registered Voters,,,,2810,,,
+Nacogdoches,16,Ballots Cast,,,,2124,,,
+Nacogdoches,16,President,,REP,Donald J. Trump,1646,49,1177,420
+Nacogdoches,16,President,,DEM,Kamala D. Harris,445,41,294,110
+Nacogdoches,16,President,,LIB,Chase Oliver,14,0,10,4
+Nacogdoches,16,President,,GRN,Jill Stein,6,2,1,3
+Nacogdoches,16,U.S. Senate,,REP,Ted Cruz,1617,50,1157,410
+Nacogdoches,16,U.S. Senate,,DEM,Colin Allred,470,41,315,114
+Nacogdoches,16,U.S. Senate,,LIB,Ted Brown,32,1,17,14
+Nacogdoches,16,U.S. House,17,REP,Pete Sessions,1676,51,1189,436
+Nacogdoches,16,U.S. House,17,DEM,Mark Lorenzen,404,39,278,87
+Nacogdoches,16,Railroad Commissioner,,REP,Christi Craddick,1618,52,1149,417
+Nacogdoches,16,Railroad Commissioner,,DEM,Katherine Culbert,384,37,270,77
+Nacogdoches,16,Railroad Commissioner,,LIB,Hawk Dunlap,53,0,36,17
+Nacogdoches,16,Railroad Commissioner,,GRN,Eddie Espinoza,18,1,7,10
+Nacogdoches,16,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1652,53,1173,426
+Nacogdoches,16,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,399,37,275,87
+Nacogdoches,16,"Justice, Supreme Court, Place 4",4,REP,John Devine,1660,51,1174,435
+Nacogdoches,16,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,416,40,289,87
+Nacogdoches,16,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1625,53,1159,413
+Nacogdoches,16,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,396,37,271,88
+Nacogdoches,16,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,48,1,28,19
+Nacogdoches,16,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1655,52,1177,426
+Nacogdoches,16,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,416,39,284,93
+Nacogdoches,16,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1657,53,1176,428
+Nacogdoches,16,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,407,38,278,91
+Nacogdoches,16,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1657,52,1175,430
+Nacogdoches,16,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,407,39,279,89
+Nacogdoches,16,State Representative,11,REP,Joanne Shofner,1587,60,1120,407
+Nacogdoches,16,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,1582,59,1123,400
+Nacogdoches,16,"District Judge, 145th Judicial District",145,REP,Jeff Davis,1660,62,1182,416
+Nacogdoches,16,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,1607,59,1144,404
+Nacogdoches,16,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,1595,59,1131,405
+Nacogdoches,16,County Attorney,,REP,John Fleming,1652,62,1171,419
+Nacogdoches,16,Sheriff,,REP,Jason Bridges,1644,65,1167,412
+Nacogdoches,16,County Tax Assessor-Collector,,REP,Kim Morton,1630,64,1156,410
+Nacogdoches,16,"County Commissioner, Precinct 1",,REP,Keith Finchum,1610,60,1146,404
+Nacogdoches,16,"County Commissioner, Precinct 1",,REP,William Sowell,1623,63,1156,404
+Nacogdoches,21,Registered Voters,,,,2136,,,
+Nacogdoches,21,Ballots Cast,,,,1366,,,
+Nacogdoches,21,President,,REP,Donald J. Trump,1063,37,891,135
+Nacogdoches,21,President,,DEM,Kamala D. Harris,278,14,188,76
+Nacogdoches,21,President,,LIB,Chase Oliver,7,0,7,0
+Nacogdoches,21,President,,GRN,Jill Stein,7,0,7,0
+Nacogdoches,21,U.S. Senate,,REP,Ted Cruz,1045,35,885,125
+Nacogdoches,21,U.S. Senate,,DEM,Colin Allred,271,14,188,69
+Nacogdoches,21,U.S. Senate,,LIB,Ted Brown,34,2,19,13
+Nacogdoches,21,U.S. House,17,REP,Pete Sessions,1068,38,900,130
+Nacogdoches,21,U.S. House,17,DEM,Mark Lorenzen,259,13,173,73
+Nacogdoches,21,Railroad Commissioner,,REP,Christi Craddick,1019,38,864,117
+Nacogdoches,21,Railroad Commissioner,,DEM,Katherine Culbert,236,11,165,60
+Nacogdoches,21,Railroad Commissioner,,LIB,Hawk Dunlap,36,0,24,12
+Nacogdoches,21,Railroad Commissioner,,GRN,Eddie Espinoza,28,0,19,9
+Nacogdoches,21,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1043,37,876,130
+Nacogdoches,21,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,263,12,182,69
+Nacogdoches,21,"Justice, Supreme Court, Place 4",4,REP,John Devine,1049,35,884,130
+Nacogdoches,21,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,270,13,187,70
+Nacogdoches,21,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1025,37,867,121
+Nacogdoches,21,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,250,12,177,61
+Nacogdoches,21,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,46,0,29,17
+Nacogdoches,21,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1052,37,882,133
+Nacogdoches,21,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,269,11,192,66
+Nacogdoches,21,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1051,37,884,130
+Nacogdoches,21,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,260,11,182,67
+Nacogdoches,21,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1052,37,885,130
+Nacogdoches,21,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,261,11,182,68
+Nacogdoches,21,State Representative,11,REP,Joanne Shofner,1057,35,866,156
+Nacogdoches,21,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,1041,38,846,157
+Nacogdoches,21,"District Judge, 145th Judicial District",145,REP,Jeff Davis,1068,40,869,159
+Nacogdoches,21,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,1050,39,855,156
+Nacogdoches,21,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,1043,40,847,156
+Nacogdoches,21,County Attorney,,REP,John Fleming,1055,39,853,163
+Nacogdoches,21,Sheriff,,REP,Jason Bridges,1075,39,874,162
+Nacogdoches,21,County Tax Assessor-Collector,,REP,Kim Morton,1042,39,849,154
+Nacogdoches,21,County Tax Assessor-Collector,,DEM,Clarence Yarbrough,716,29,554,133
+Nacogdoches,24,Registered Voters,,,,1552,,,
+Nacogdoches,24,Ballots Cast,,,,839,,,
+Nacogdoches,24,President,,REP,Donald J. Trump,328,4,271,53
+Nacogdoches,24,President,,DEM,Kamala D. Harris,491,46,351,94
+Nacogdoches,24,President,,LIB,Chase Oliver,6,0,3,3
+Nacogdoches,24,President,,GRN,Jill Stein,6,0,4,2
+Nacogdoches,24,U.S. Senate,,REP,Ted Cruz,300,4,255,41
+Nacogdoches,24,U.S. Senate,,DEM,Colin Allred,506,46,364,96
+Nacogdoches,24,U.S. Senate,,LIB,Ted Brown,19,1,10,8
+Nacogdoches,24,U.S. House,17,REP,Pete Sessions,297,4,240,53
+Nacogdoches,24,U.S. House,17,DEM,Mark Lorenzen,456,44,324,88
+Nacogdoches,24,Railroad Commissioner,,REP,Christi Craddick,310,4,260,46
+Nacogdoches,24,Railroad Commissioner,,DEM,Katherine Culbert,455,43,330,82
+Nacogdoches,24,Railroad Commissioner,,LIB,Hawk Dunlap,22,0,15,7
+Nacogdoches,24,Railroad Commissioner,,GRN,Eddie Espinoza,19,1,10,8
+Nacogdoches,24,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,325,6,268,51
+Nacogdoches,24,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,475,42,343,90
+Nacogdoches,24,"Justice, Supreme Court, Place 4",4,REP,John Devine,318,4,263,51
+Nacogdoches,24,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,484,44,350,90
+Nacogdoches,24,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,307,4,261,42
+Nacogdoches,24,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,453,44,325,84
+Nacogdoches,24,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,37,0,24,13
+Nacogdoches,24,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,322,4,268,50
+Nacogdoches,24,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,473,43,340,90
+Nacogdoches,24,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,327,4,271,52
+Nacogdoches,24,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,465,43,335,87
+Nacogdoches,24,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,326,4,273,49
+Nacogdoches,24,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,471,43,338,90
+Nacogdoches,24,State Representative,11,REP,Joanne Shofner,382,16,290,76
+Nacogdoches,24,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,381,15,290,76
+Nacogdoches,24,"District Judge, 145th Judicial District",145,REP,Jeff Davis,412,19,311,82
+Nacogdoches,24,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,389,15,296,78
+Nacogdoches,24,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,389,17,295,77
+Nacogdoches,24,County Attorney,,REP,John Fleming,418,22,313,83
+Nacogdoches,24,Sheriff,,REP,Jason Bridges,406,21,305,80
+Nacogdoches,24,County Tax Assessor-Collector,,REP,Kim Morton,386,19,291,76
+Nacogdoches,24,County Tax Assessor-Collector,,DEM,Clarence Yarbrough,537,45,388,104
+Nacogdoches,26,Registered Voters,,,,3549,,,
+Nacogdoches,26,Ballots Cast,,,,1898,,,
+Nacogdoches,26,President,,REP,Donald J. Trump,960,28,753,179
+Nacogdoches,26,President,,DEM,Kamala D. Harris,897,58,648,191
+Nacogdoches,26,President,,LIB,Chase Oliver,9,0,7,2
+Nacogdoches,26,President,,GRN,Jill Stein,5,0,3,2
+Nacogdoches,26,U.S. Senate,,REP,Ted Cruz,892,29,709,154
+Nacogdoches,26,U.S. Senate,,DEM,Colin Allred,928,55,663,210
+Nacogdoches,26,U.S. Senate,,LIB,Ted Brown,46,0,36,10
+Nacogdoches,26,U.S. House,17,REP,Pete Sessions,936,27,738,171
+Nacogdoches,26,U.S. House,17,DEM,Mark Lorenzen,886,53,633,200
+Nacogdoches,26,Railroad Commissioner,,REP,Christi Craddick,874,26,701,147
+Nacogdoches,26,Railroad Commissioner,,DEM,Katherine Culbert,830,55,596,179
+Nacogdoches,26,Railroad Commissioner,,LIB,Hawk Dunlap,68,0,48,20
+Nacogdoches,26,Railroad Commissioner,,GRN,Eddie Espinoza,40,0,25,15
+Nacogdoches,26,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,918,27,722,169
+Nacogdoches,26,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,889,54,641,194
+Nacogdoches,26,"Justice, Supreme Court, Place 4",4,REP,John Devine,911,26,720,165
+Nacogdoches,26,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,910,54,659,197
+Nacogdoches,26,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,882,25,702,155
+Nacogdoches,26,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,853,51,617,185
+Nacogdoches,26,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,82,5,52,25
+Nacogdoches,26,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,921,27,730,164
+Nacogdoches,26,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,896,53,646,197
+Nacogdoches,26,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,920,26,727,167
+Nacogdoches,26,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,894,55,644,195
+Nacogdoches,26,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,938,27,739,172
+Nacogdoches,26,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,879,51,635,193
+Nacogdoches,26,State Representative,11,REP,Joanne Shofner,1091,34,831,226
+Nacogdoches,26,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,1071,31,819,221
+Nacogdoches,26,"District Judge, 145th Judicial District",145,REP,Jeff Davis,1125,34,859,232
+Nacogdoches,26,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,1075,34,823,218
+Nacogdoches,26,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,1065,32,813,220
+Nacogdoches,26,County Attorney,,REP,John Fleming,1134,35,868,231
+Nacogdoches,26,Sheriff,,REP,Jason Bridges,1132,39,865,228
+Nacogdoches,26,County Tax Assessor-Collector,,REP,Kim Morton,1082,35,831,216
+Nacogdoches,26,County Tax Assessor-Collector,,DEM,Clarence Yarbrough,1249,70,921,258
+Nacogdoches,27 - A,Registered Voters,,,,50,,,
+Nacogdoches,27 - A,Ballots Cast,,,,15,,,
+Nacogdoches,27 - A,President,,REP,Donald J. Trump,2,0,2,0
+Nacogdoches,27 - A,President,,DEM,Kamala D. Harris,12,0,10,2
+Nacogdoches,27 - A,President,,LIB,Chase Oliver,0,0,0,0
+Nacogdoches,27 - A,President,,GRN,Jill Stein,0,0,0,0
+Nacogdoches,27 - A,U.S. Senate,,REP,Ted Cruz,2,0,2,0
+Nacogdoches,27 - A,U.S. Senate,,DEM,Colin Allred,13,0,11,2
+Nacogdoches,27 - A,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Nacogdoches,27 - A,U.S. House,17,REP,Pete Sessions,2,0,2,0
+Nacogdoches,27 - A,U.S. House,17,DEM,Mark Lorenzen,12,0,10,2
+Nacogdoches,27 - A,Railroad Commissioner,,REP,Christi Craddick,2,0,2,0
+Nacogdoches,27 - A,Railroad Commissioner,,DEM,Katherine Culbert,11,0,9,2
+Nacogdoches,27 - A,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Nacogdoches,27 - A,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Nacogdoches,27 - A,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,2,0,2,0
+Nacogdoches,27 - A,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,12,0,10,2
+Nacogdoches,27 - A,"Justice, Supreme Court, Place 4",4,REP,John Devine,2,0,2,0
+Nacogdoches,27 - A,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,13,0,11,2
+Nacogdoches,27 - A,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,2,0,2,0
+Nacogdoches,27 - A,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,12,0,10,2
+Nacogdoches,27 - A,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Nacogdoches,27 - A,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,2,0,2,0
+Nacogdoches,27 - A,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,12,0,10,2
+Nacogdoches,27 - A,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,3,0,3,0
+Nacogdoches,27 - A,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,11,0,9,2
+Nacogdoches,27 - A,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,2,0,2,0
+Nacogdoches,27 - A,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,11,0,9,2
+Nacogdoches,27 - A,State Representative,11,REP,Joanne Shofner,7,0,5,2
+Nacogdoches,27 - A,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,7,0,5,2
+Nacogdoches,27 - A,"District Judge, 145th Judicial District",145,REP,Jeff Davis,7,0,5,2
+Nacogdoches,27 - A,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,8,0,6,2
+Nacogdoches,27 - A,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,7,0,5,2
+Nacogdoches,27 - A,County Attorney,,REP,John Fleming,7,0,5,2
+Nacogdoches,27 - A,Sheriff,,REP,Jason Bridges,7,0,5,2
+Nacogdoches,27 - A,County Tax Assessor-Collector,,REP,Kim Morton,7,0,5,2
+Nacogdoches,27 - A,County Tax Assessor-Collector,,DEM,Clarence Yarbrough,9,0,7,2
+Nacogdoches,27 - B,Registered Voters,,,,1286,,,
+Nacogdoches,27 - B,Ballots Cast,,,,551,,,
+Nacogdoches,27 - B,President,,REP,Donald J. Trump,53,0,27,26
+Nacogdoches,27 - B,President,,DEM,Kamala D. Harris,483,51,328,104
+Nacogdoches,27 - B,President,,LIB,Chase Oliver,1,0,0,1
+Nacogdoches,27 - B,President,,GRN,Jill Stein,1,0,0,1
+Nacogdoches,27 - B,U.S. Senate,,REP,Ted Cruz,54,2,28,24
+Nacogdoches,27 - B,U.S. Senate,,DEM,Colin Allred,476,49,323,104
+Nacogdoches,27 - B,U.S. Senate,,LIB,Ted Brown,5,0,2,3
+Nacogdoches,27 - B,U.S. House,17,REP,Pete Sessions,59,2,30,27
+Nacogdoches,27 - B,U.S. House,17,DEM,Mark Lorenzen,465,50,313,102
+Nacogdoches,27 - B,Railroad Commissioner,,REP,Christi Craddick,51,2,26,23
+Nacogdoches,27 - B,Railroad Commissioner,,DEM,Katherine Culbert,462,49,314,99
+Nacogdoches,27 - B,Railroad Commissioner,,LIB,Hawk Dunlap,9,1,0,8
+Nacogdoches,27 - B,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,3,1
+Nacogdoches,27 - B,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,53,3,28,22
+Nacogdoches,27 - B,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,467,47,316,104
+Nacogdoches,27 - B,"Justice, Supreme Court, Place 4",4,REP,John Devine,55,3,29,23
+Nacogdoches,27 - B,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,470,47,316,107
+Nacogdoches,27 - B,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,47,2,27,18
+Nacogdoches,27 - B,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,460,46,314,100
+Nacogdoches,27 - B,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,17,2,5,10
+Nacogdoches,27 - B,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,49,2,26,21
+Nacogdoches,27 - B,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,478,49,321,108
+Nacogdoches,27 - B,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,56,2,28,26
+Nacogdoches,27 - B,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,464,47,314,103
+Nacogdoches,27 - B,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,58,3,26,29
+Nacogdoches,27 - B,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,462,47,315,100
+Nacogdoches,27 - B,State Representative,11,REP,Joanne Shofner,132,11,102,19
+Nacogdoches,27 - B,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,132,11,105,16
+Nacogdoches,27 - B,"District Judge, 145th Judicial District",145,REP,Jeff Davis,143,13,113,17
+Nacogdoches,27 - B,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,132,10,106,16
+Nacogdoches,27 - B,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,133,10,105,18
+Nacogdoches,27 - B,County Attorney,,REP,John Fleming,159,14,123,22
+Nacogdoches,27 - B,Sheriff,,REP,Jason Bridges,158,15,122,21
+Nacogdoches,27 - B,County Tax Assessor-Collector,,REP,Kim Morton,125,8,99,18
+Nacogdoches,27 - B,County Tax Assessor-Collector,,DEM,Clarence Yarbrough,418,49,305,64
+Nacogdoches,32,Registered Voters,,,,3099,,,
+Nacogdoches,32,Ballots Cast,,,,1827,,,
+Nacogdoches,32,President,,REP,Donald J. Trump,1033,52,786,195
+Nacogdoches,32,President,,DEM,Kamala D. Harris,757,67,558,132
+Nacogdoches,32,President,,LIB,Chase Oliver,9,0,6,3
+Nacogdoches,32,President,,GRN,Jill Stein,5,1,2,2
+Nacogdoches,32,U.S. Senate,,REP,Ted Cruz,998,55,759,184
+Nacogdoches,32,U.S. Senate,,DEM,Colin Allred,776,67,567,142
+Nacogdoches,32,U.S. Senate,,LIB,Ted Brown,32,1,23,8
+Nacogdoches,32,U.S. House,17,REP,Pete Sessions,1046,59,778,209
+Nacogdoches,32,U.S. House,17,DEM,Mark Lorenzen,685,61,508,116
+Nacogdoches,32,Railroad Commissioner,,REP,Christi Craddick,999,56,761,182
+Nacogdoches,32,Railroad Commissioner,,DEM,Katherine Culbert,651,59,488,104
+Nacogdoches,32,Railroad Commissioner,,LIB,Hawk Dunlap,69,2,44,23
+Nacogdoches,32,Railroad Commissioner,,GRN,Eddie Espinoza,38,3,24,11
+Nacogdoches,32,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1042,59,797,186
+Nacogdoches,32,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,717,61,521,135
+Nacogdoches,32,"Justice, Supreme Court, Place 4",4,REP,John Devine,1030,56,781,193
+Nacogdoches,32,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,733,64,539,130
+Nacogdoches,32,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1011,60,773,178
+Nacogdoches,32,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,683,58,506,119
+Nacogdoches,32,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,66,2,38,26
+Nacogdoches,32,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1036,55,795,186
+Nacogdoches,32,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,724,65,526,133
+Nacogdoches,32,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1045,58,794,193
+Nacogdoches,32,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,705,63,519,123
+Nacogdoches,32,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1063,60,806,197
+Nacogdoches,32,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,694,61,512,121
+Nacogdoches,32,State Representative,11,REP,Joanne Shofner,1141,68,839,234
+Nacogdoches,32,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,1139,69,843,227
+Nacogdoches,32,"District Judge, 145th Judicial District",145,REP,Jeff Davis,1208,72,898,238
+Nacogdoches,32,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,1151,70,851,230
+Nacogdoches,32,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,1155,69,858,228
+Nacogdoches,32,County Attorney,,REP,John Fleming,1216,75,907,234
+Nacogdoches,32,Sheriff,,REP,Jason Bridges,1194,74,881,239
+Nacogdoches,32,County Tax Assessor-Collector,,REP,Kim Morton,1176,72,870,234
+Nacogdoches,32,"County Commissioner, Precinct 3",,REP,Robin Dawley,1165,69,866,230
+Nacogdoches,32,"County Commissioner, Precinct 3",,REP,Roger Dudley,1166,68,867,231
+Nacogdoches,33,Registered Voters,,,,3761,,,
+Nacogdoches,33,Ballots Cast,,,,2754,,,
+Nacogdoches,33,President,,REP,Donald J. Trump,1826,80,1480,266
+Nacogdoches,33,President,,DEM,Kamala D. Harris,857,41,660,156
+Nacogdoches,33,President,,LIB,Chase Oliver,20,0,12,8
+Nacogdoches,33,President,,GRN,Jill Stein,13,1,5,7
+Nacogdoches,33,U.S. Senate,,REP,Ted Cruz,1784,84,1445,255
+Nacogdoches,33,U.S. Senate,,DEM,Colin Allred,893,40,689,164
+Nacogdoches,33,U.S. Senate,,LIB,Ted Brown,56,0,30,26
+Nacogdoches,33,U.S. House,17,REP,Pete Sessions,1923,89,1531,303
+Nacogdoches,33,U.S. House,17,DEM,Mark Lorenzen,746,33,577,136
+Nacogdoches,33,Railroad Commissioner,,REP,Christi Craddick,1838,86,1477,275
+Nacogdoches,33,Railroad Commissioner,,DEM,Katherine Culbert,696,34,551,111
+Nacogdoches,33,Railroad Commissioner,,LIB,Hawk Dunlap,88,1,62,25
+Nacogdoches,33,Railroad Commissioner,,GRN,Eddie Espinoza,37,2,23,12
+Nacogdoches,33,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1876,89,1509,278
+Nacogdoches,33,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,749,34,580,135
+Nacogdoches,33,"Justice, Supreme Court, Place 4",4,REP,John Devine,1856,84,1496,276
+Nacogdoches,33,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,797,38,615,144
+Nacogdoches,33,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1840,90,1493,257
+Nacogdoches,33,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,739,33,576,130
+Nacogdoches,33,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,75,0,45,30
+Nacogdoches,33,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1875,89,1508,278
+Nacogdoches,33,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,775,34,602,139
+Nacogdoches,33,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1872,87,1510,275
+Nacogdoches,33,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,767,36,591,140
+Nacogdoches,33,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1893,86,1531,276
+Nacogdoches,33,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,743,37,565,141
+Nacogdoches,33,State Representative,11,REP,Joanne Shofner,1724,91,1445,188
+Nacogdoches,33,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,1728,91,1453,184
+Nacogdoches,33,"District Judge, 145th Judicial District",145,REP,Jeff Davis,1852,96,1554,202
+Nacogdoches,33,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,1785,93,1497,195
+Nacogdoches,33,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,1759,94,1479,186
+Nacogdoches,33,County Attorney,,REP,John Fleming,1840,98,1540,202
+Nacogdoches,33,Sheriff,,REP,Jason Bridges,1839,100,1543,196
+Nacogdoches,33,County Tax Assessor-Collector,,REP,Kim Morton,1800,98,1511,191
+Nacogdoches,33,"County Commissioner, Precinct 3",,REP,Robin Dawley,1801,95,1513,193
+Nacogdoches,33,"County Commissioner, Precinct 3",,REP,Roger Dudley,1794,96,1511,187
+Nacogdoches,34,Registered Voters,,,,3814,,,
+Nacogdoches,34,Ballots Cast,,,,2001,,,
+Nacogdoches,34,President,,REP,Donald J. Trump,783,6,630,147
+Nacogdoches,34,President,,DEM,Kamala D. Harris,1169,16,842,311
+Nacogdoches,34,President,,LIB,Chase Oliver,16,0,10,6
+Nacogdoches,34,President,,GRN,Jill Stein,10,0,6,4
+Nacogdoches,34,U.S. Senate,,REP,Ted Cruz,743,5,591,147
+Nacogdoches,34,U.S. Senate,,DEM,Colin Allred,1171,18,849,304
+Nacogdoches,34,U.S. Senate,,LIB,Ted Brown,56,0,37,19
+Nacogdoches,34,U.S. House,17,REP,Pete Sessions,717,6,551,160
+Nacogdoches,34,U.S. House,17,DEM,Mark Lorenzen,1034,17,729,288
+Nacogdoches,34,Railroad Commissioner,,REP,Christi Craddick,734,6,592,136
+Nacogdoches,34,Railroad Commissioner,,DEM,Katherine Culbert,984,17,709,258
+Nacogdoches,34,Railroad Commissioner,,LIB,Hawk Dunlap,89,0,60,29
+Nacogdoches,34,Railroad Commissioner,,GRN,Eddie Espinoza,73,0,55,18
+Nacogdoches,34,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,767,5,616,146
+Nacogdoches,34,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,1099,17,790,292
+Nacogdoches,34,"Justice, Supreme Court, Place 4",4,REP,John Devine,760,5,602,153
+Nacogdoches,34,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,1127,17,817,293
+Nacogdoches,34,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,721,5,583,133
+Nacogdoches,34,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,1067,17,771,279
+Nacogdoches,34,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,97,0,64,33
+Nacogdoches,34,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,778,5,623,150
+Nacogdoches,34,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,1103,17,795,291
+Nacogdoches,34,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,789,6,626,157
+Nacogdoches,34,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,1081,16,783,282
+Nacogdoches,34,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,783,5,628,150
+Nacogdoches,34,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,1094,17,787,290
+Nacogdoches,34,State Representative,11,REP,Joanne Shofner,1036,10,747,279
+Nacogdoches,34,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,1011,12,727,272
+Nacogdoches,34,"District Judge, 145th Judicial District",145,REP,Jeff Davis,1035,12,745,278
+Nacogdoches,34,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,1011,11,728,272
+Nacogdoches,34,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,1002,12,721,269
+Nacogdoches,34,County Attorney,,REP,John Fleming,1026,13,740,273
+Nacogdoches,34,Sheriff,,REP,Jason Bridges,1027,13,737,277
+Nacogdoches,34,County Tax Assessor-Collector,,REP,Kim Morton,1033,12,744,277
+Nacogdoches,34,"County Commissioner, Precinct 3",,REP,Robin Dawley,1019,12,731,276
+Nacogdoches,34,"County Commissioner, Precinct 3",,REP,Roger Dudley,1007,12,723,272
+Nacogdoches,41,Registered Voters,,,,1264,,,
+Nacogdoches,41,Ballots Cast,,,,740,,,
+Nacogdoches,41,President,,REP,Donald J. Trump,398,11,321,66
+Nacogdoches,41,President,,DEM,Kamala D. Harris,326,28,237,61
+Nacogdoches,41,President,,LIB,Chase Oliver,2,0,1,1
+Nacogdoches,41,President,,GRN,Jill Stein,2,1,0,1
+Nacogdoches,41,U.S. Senate,,REP,Ted Cruz,379,10,304,65
+Nacogdoches,41,U.S. Senate,,DEM,Colin Allred,334,28,245,61
+Nacogdoches,41,U.S. Senate,,LIB,Ted Brown,17,2,12,3
+Nacogdoches,41,U.S. House,17,REP,Pete Sessions,392,11,315,66
+Nacogdoches,41,U.S. House,17,DEM,Mark Lorenzen,315,28,230,57
+Nacogdoches,41,Railroad Commissioner,,REP,Christi Craddick,371,11,299,61
+Nacogdoches,41,Railroad Commissioner,,DEM,Katherine Culbert,300,29,221,50
+Nacogdoches,41,Railroad Commissioner,,LIB,Hawk Dunlap,23,0,19,4
+Nacogdoches,41,Railroad Commissioner,,GRN,Eddie Espinoza,13,0,6,7
+Nacogdoches,41,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,389,12,314,63
+Nacogdoches,41,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,316,28,230,58
+Nacogdoches,41,"Justice, Supreme Court, Place 4",4,REP,John Devine,387,11,312,64
+Nacogdoches,41,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,319,28,236,55
+Nacogdoches,41,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,373,12,302,59
+Nacogdoches,41,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,305,28,228,49
+Nacogdoches,41,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,27,0,17,10
+Nacogdoches,41,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,390,12,312,66
+Nacogdoches,41,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,317,28,235,54
+Nacogdoches,41,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,383,11,307,65
+Nacogdoches,41,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,323,28,239,56
+Nacogdoches,41,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,391,11,313,67
+Nacogdoches,41,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,316,28,236,52
+Nacogdoches,41,State Representative,11,REP,Joanne Shofner,467,15,358,94
+Nacogdoches,41,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,463,17,357,89
+Nacogdoches,41,"District Judge, 145th Judicial District",145,REP,Jeff Davis,481,21,370,90
+Nacogdoches,41,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,467,17,362,88
+Nacogdoches,41,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,469,17,364,88
+Nacogdoches,41,County Attorney,,REP,John Fleming,491,21,377,93
+Nacogdoches,41,Sheriff,,REP,Jason Bridges,499,18,380,101
+Nacogdoches,41,County Tax Assessor-Collector,,REP,Kim Morton,478,19,367,92
+Nacogdoches,41,County Tax Assessor-Collector,,REP,David S. Stone,473,19,366,88
+Nacogdoches,42,Registered Voters,,,,1991,,,
+Nacogdoches,42,Ballots Cast,,,,1114,,,
+Nacogdoches,42,President,,REP,Donald J. Trump,762,27,583,152
+Nacogdoches,42,President,,DEM,Kamala D. Harris,334,29,238,67
+Nacogdoches,42,President,,LIB,Chase Oliver,3,0,3,0
+Nacogdoches,42,President,,GRN,Jill Stein,3,0,2,1
+Nacogdoches,42,U.S. Senate,,REP,Ted Cruz,739,28,569,142
+Nacogdoches,42,U.S. Senate,,DEM,Colin Allred,354,29,252,73
+Nacogdoches,42,U.S. Senate,,LIB,Ted Brown,11,0,8,3
+Nacogdoches,42,U.S. House,17,REP,Pete Sessions,780,28,600,152
+Nacogdoches,42,U.S. House,17,DEM,Mark Lorenzen,310,29,218,63
+Nacogdoches,42,Railroad Commissioner,,REP,Christi Craddick,747,28,578,141
+Nacogdoches,42,Railroad Commissioner,,DEM,Katherine Culbert,294,29,212,53
+Nacogdoches,42,Railroad Commissioner,,LIB,Hawk Dunlap,23,0,15,8
+Nacogdoches,42,Railroad Commissioner,,GRN,Eddie Espinoza,25,0,14,11
+Nacogdoches,42,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,758,28,579,151
+Nacogdoches,42,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,319,29,232,58
+Nacogdoches,42,"Justice, Supreme Court, Place 4",4,REP,John Devine,760,28,583,149
+Nacogdoches,42,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,330,29,237,64
+Nacogdoches,42,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,740,26,572,142
+Nacogdoches,42,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,315,29,230,56
+Nacogdoches,42,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,32,2,17,13
+Nacogdoches,42,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,765,28,588,149
+Nacogdoches,42,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,321,29,229,63
+Nacogdoches,42,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,766,28,584,154
+Nacogdoches,42,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,316,29,229,58
+Nacogdoches,42,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,770,28,590,152
+Nacogdoches,42,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,311,29,223,59
+Nacogdoches,42,State Representative,11,REP,Joanne Shofner,808,31,618,159
+Nacogdoches,42,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,799,30,619,150
+Nacogdoches,42,"District Judge, 145th Judicial District",145,REP,Jeff Davis,824,31,636,157
+Nacogdoches,42,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,813,31,630,152
+Nacogdoches,42,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,804,31,624,149
+Nacogdoches,42,County Attorney,,REP,John Fleming,825,33,637,155
+Nacogdoches,42,Sheriff,,REP,Jason Bridges,823,33,636,154
+Nacogdoches,42,County Tax Assessor-Collector,,REP,Kim Morton,818,30,634,154
+Nacogdoches,42,County Tax Assessor-Collector,,REP,David S. Stone,800,30,618,152
+Nacogdoches,43,Registered Voters,,,,1383,,,
+Nacogdoches,43,Ballots Cast,,,,966,,,
+Nacogdoches,43,President,,REP,Donald J. Trump,758,19,572,167
+Nacogdoches,43,President,,DEM,Kamala D. Harris,193,18,137,38
+Nacogdoches,43,President,,LIB,Chase Oliver,2,0,2,0
+Nacogdoches,43,President,,GRN,Jill Stein,3,0,3,0
+Nacogdoches,43,U.S. Senate,,REP,Ted Cruz,729,18,557,154
+Nacogdoches,43,U.S. Senate,,DEM,Colin Allred,210,18,150,42
+Nacogdoches,43,U.S. Senate,,LIB,Ted Brown,17,1,10,6
+Nacogdoches,43,U.S. House,17,REP,Pete Sessions,750,19,567,164
+Nacogdoches,43,U.S. House,17,DEM,Mark Lorenzen,195,18,141,36
+Nacogdoches,43,Railroad Commissioner,,REP,Christi Craddick,713,16,548,149
+Nacogdoches,43,Railroad Commissioner,,DEM,Katherine Culbert,195,19,141,35
+Nacogdoches,43,Railroad Commissioner,,LIB,Hawk Dunlap,26,0,16,10
+Nacogdoches,43,Railroad Commissioner,,GRN,Eddie Espinoza,10,0,8,2
+Nacogdoches,43,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,738,17,566,155
+Nacogdoches,43,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,194,17,139,38
+Nacogdoches,43,"Justice, Supreme Court, Place 4",4,REP,John Devine,737,15,564,158
+Nacogdoches,43,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,206,19,147,40
+Nacogdoches,43,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,722,18,553,151
+Nacogdoches,43,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,192,16,140,36
+Nacogdoches,43,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,29,0,17,12
+Nacogdoches,43,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,744,17,568,159
+Nacogdoches,43,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,198,16,144,38
+Nacogdoches,43,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,744,14,571,159
+Nacogdoches,43,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,197,19,141,37
+Nacogdoches,43,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,747,15,573,159
+Nacogdoches,43,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,195,18,139,38
+Nacogdoches,43,State Representative,11,REP,Joanne Shofner,729,20,531,178
+Nacogdoches,43,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,726,20,533,173
+Nacogdoches,43,"District Judge, 145th Judicial District",145,REP,Jeff Davis,750,21,554,175
+Nacogdoches,43,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,722,20,533,169
+Nacogdoches,43,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,718,21,528,169
+Nacogdoches,43,County Attorney,,REP,John Fleming,747,21,550,176
+Nacogdoches,43,Sheriff,,REP,Jason Bridges,751,24,549,178
+Nacogdoches,43,County Tax Assessor-Collector,,REP,Kim Morton,746,18,551,177
+Nacogdoches,43,County Tax Assessor-Collector,,REP,David S. Stone,728,19,535,174
+Nacogdoches,44,Registered Voters,,,,1960,,,
+Nacogdoches,44,Ballots Cast,,,,1315,,,
+Nacogdoches,44,President,,REP,Donald J. Trump,1101,26,686,389
+Nacogdoches,44,President,,DEM,Kamala D. Harris,189,14,123,52
+Nacogdoches,44,President,,LIB,Chase Oliver,7,2,5,0
+Nacogdoches,44,President,,GRN,Jill Stein,3,0,1,2
+Nacogdoches,44,U.S. Senate,,REP,Ted Cruz,1075,27,677,371
+Nacogdoches,44,U.S. Senate,,DEM,Colin Allred,201,12,126,63
+Nacogdoches,44,U.S. Senate,,LIB,Ted Brown,24,2,13,9
+Nacogdoches,44,U.S. House,17,REP,Pete Sessions,1108,31,692,385
+Nacogdoches,44,U.S. House,17,DEM,Mark Lorenzen,172,13,109,50
+Nacogdoches,44,Railroad Commissioner,,REP,Christi Craddick,1074,29,675,370
+Nacogdoches,44,Railroad Commissioner,,DEM,Katherine Culbert,160,13,103,44
+Nacogdoches,44,Railroad Commissioner,,LIB,Hawk Dunlap,27,0,16,11
+Nacogdoches,44,Railroad Commissioner,,GRN,Eddie Espinoza,10,0,8,2
+Nacogdoches,44,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1095,30,687,378
+Nacogdoches,44,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,168,12,108,48
+Nacogdoches,44,"Justice, Supreme Court, Place 4",4,REP,John Devine,1088,29,684,375
+Nacogdoches,44,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,182,13,115,54
+Nacogdoches,44,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1073,29,674,370
+Nacogdoches,44,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,171,13,108,50
+Nacogdoches,44,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,19,0,14,5
+Nacogdoches,44,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1089,29,686,374
+Nacogdoches,44,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,178,13,113,52
+Nacogdoches,44,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1090,29,686,375
+Nacogdoches,44,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,174,13,110,51
+Nacogdoches,44,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1100,30,692,378
+Nacogdoches,44,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,165,12,105,48
+Nacogdoches,44,State Representative,11,REP,Joanne Shofner,1090,30,670,390
+Nacogdoches,44,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,1085,31,671,383
+Nacogdoches,44,"District Judge, 145th Judicial District",145,REP,Jeff Davis,1105,35,679,391
+Nacogdoches,44,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,1093,35,673,385
+Nacogdoches,44,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,1082,31,666,385
+Nacogdoches,44,County Attorney,,REP,John Fleming,1093,35,671,387
+Nacogdoches,44,Sheriff,,REP,Jason Bridges,1130,34,692,404
+Nacogdoches,44,County Tax Assessor-Collector,,REP,Kim Morton,1119,35,686,398
+Nacogdoches,44,County Tax Assessor-Collector,,REP,David S. Stone,1111,34,682,395
+Nacogdoches,45,Registered Voters,,,,921,,,
+Nacogdoches,45,Ballots Cast,,,,692,,,
+Nacogdoches,45,President,,REP,Donald J. Trump,598,13,385,200
+Nacogdoches,45,President,,DEM,Kamala D. Harris,87,5,48,34
+Nacogdoches,45,President,,LIB,Chase Oliver,2,0,2,0
+Nacogdoches,45,President,,GRN,Jill Stein,2,0,0,2
+Nacogdoches,45,U.S. Senate,,REP,Ted Cruz,583,14,377,192
+Nacogdoches,45,U.S. Senate,,DEM,Colin Allred,90,3,49,38
+Nacogdoches,45,U.S. Senate,,LIB,Ted Brown,12,0,6,6
+Nacogdoches,45,U.S. House,17,REP,Pete Sessions,597,12,382,203
+Nacogdoches,45,U.S. House,17,DEM,Mark Lorenzen,73,4,45,24
+Nacogdoches,45,Railroad Commissioner,,REP,Christi Craddick,575,11,372,192
+Nacogdoches,45,Railroad Commissioner,,DEM,Katherine Culbert,71,4,41,26
+Nacogdoches,45,Railroad Commissioner,,LIB,Hawk Dunlap,22,1,11,10
+Nacogdoches,45,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,2,4
+Nacogdoches,45,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,587,12,380,195
+Nacogdoches,45,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,83,4,46,33
+Nacogdoches,45,"Justice, Supreme Court, Place 4",4,REP,John Devine,580,12,376,192
+Nacogdoches,45,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,84,4,47,33
+Nacogdoches,45,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,574,12,373,189
+Nacogdoches,45,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,78,4,44,30
+Nacogdoches,45,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,17,0,9,8
+Nacogdoches,45,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,578,12,377,189
+Nacogdoches,45,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,80,4,43,33
+Nacogdoches,45,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,576,12,376,188
+Nacogdoches,45,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,83,5,44,34
+Nacogdoches,45,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,584,11,377,196
+Nacogdoches,45,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,74,5,43,26
+Nacogdoches,45,State Representative,11,REP,Joanne Shofner,566,13,357,196
+Nacogdoches,45,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,560,13,356,191
+Nacogdoches,45,"District Judge, 145th Judicial District",145,REP,Jeff Davis,570,14,360,196
+Nacogdoches,45,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,559,13,353,193
+Nacogdoches,45,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,550,13,349,188
+Nacogdoches,45,County Attorney,,REP,John Fleming,564,14,357,193
+Nacogdoches,45,Sheriff,,REP,Jason Bridges,573,15,360,198
+Nacogdoches,45,County Tax Assessor-Collector,,REP,Kim Morton,566,14,357,195
+Nacogdoches,45,County Tax Assessor-Collector,,REP,David S. Stone,571,16,357,198
+Nacogdoches,46,Registered Voters,,,,1081,,,
+Nacogdoches,46,Ballots Cast,,,,763,,,
+Nacogdoches,46,President,,REP,Donald J. Trump,623,19,300,304
+Nacogdoches,46,President,,DEM,Kamala D. Harris,127,17,63,47
+Nacogdoches,46,President,,LIB,Chase Oliver,2,0,1,1
+Nacogdoches,46,President,,GRN,Jill Stein,0,0,0,0
+Nacogdoches,46,U.S. Senate,,REP,Ted Cruz,611,19,295,297
+Nacogdoches,46,U.S. Senate,,DEM,Colin Allred,138,16,67,55
+Nacogdoches,46,U.S. Senate,,LIB,Ted Brown,3,0,2,1
+Nacogdoches,46,U.S. House,17,REP,Pete Sessions,619,21,298,300
+Nacogdoches,46,U.S. House,17,DEM,Mark Lorenzen,120,14,58,48
+Nacogdoches,46,Railroad Commissioner,,REP,Christi Craddick,598,19,294,285
+Nacogdoches,46,Railroad Commissioner,,DEM,Katherine Culbert,118,16,56,46
+Nacogdoches,46,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,7,10
+Nacogdoches,46,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,3,2
+Nacogdoches,46,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,616,20,296,300
+Nacogdoches,46,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,117,15,59,43
+Nacogdoches,46,"Justice, Supreme Court, Place 4",4,REP,John Devine,609,20,294,295
+Nacogdoches,46,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,128,16,63,49
+Nacogdoches,46,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,605,20,293,292
+Nacogdoches,46,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,119,16,60,43
+Nacogdoches,46,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,14,0,5,9
+Nacogdoches,46,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,611,19,296,296
+Nacogdoches,46,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,127,17,61,49
+Nacogdoches,46,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,605,18,294,293
+Nacogdoches,46,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,128,17,62,49
+Nacogdoches,46,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,619,20,298,301
+Nacogdoches,46,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,117,16,58,43
+Nacogdoches,46,State Representative,11,REP,Joanne Shofner,596,23,280,293
+Nacogdoches,46,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,575,24,268,283
+Nacogdoches,46,"District Judge, 145th Judicial District",145,REP,Jeff Davis,591,24,273,294
+Nacogdoches,46,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,578,24,269,285
+Nacogdoches,46,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,580,25,270,285
+Nacogdoches,46,County Attorney,,REP,John Fleming,585,24,274,287
+Nacogdoches,46,Sheriff,,REP,Jason Bridges,611,28,287,296
+Nacogdoches,46,County Tax Assessor-Collector,,REP,Kim Morton,598,25,284,289
+Nacogdoches,46,County Tax Assessor-Collector,,REP,David S. Stone,603,25,287,291
+Nacogdoches,47,Registered Voters,,,,1029,,,
+Nacogdoches,47,Ballots Cast,,,,732,,,
+Nacogdoches,47,President,,REP,Donald J. Trump,640,20,265,355
+Nacogdoches,47,President,,DEM,Kamala D. Harris,81,3,38,40
+Nacogdoches,47,President,,LIB,Chase Oliver,4,0,2,2
+Nacogdoches,47,President,,GRN,Jill Stein,2,0,0,2
+Nacogdoches,47,U.S. Senate,,REP,Ted Cruz,626,20,261,345
+Nacogdoches,47,U.S. Senate,,DEM,Colin Allred,85,2,39,44
+Nacogdoches,47,U.S. Senate,,LIB,Ted Brown,12,1,5,6
+Nacogdoches,47,U.S. House,17,REP,Pete Sessions,636,20,266,350
+Nacogdoches,47,U.S. House,17,DEM,Mark Lorenzen,73,2,35,36
+Nacogdoches,47,Railroad Commissioner,,REP,Christi Craddick,618,20,257,341
+Nacogdoches,47,Railroad Commissioner,,DEM,Katherine Culbert,74,2,32,40
+Nacogdoches,47,Railroad Commissioner,,LIB,Hawk Dunlap,11,1,7,3
+Nacogdoches,47,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0
+Nacogdoches,47,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,624,21,258,345
+Nacogdoches,47,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,71,2,33,36
+Nacogdoches,47,"Justice, Supreme Court, Place 4",4,REP,John Devine,628,21,263,344
+Nacogdoches,47,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,75,2,34,39
+Nacogdoches,47,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,623,20,263,340
+Nacogdoches,47,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,71,2,32,37
+Nacogdoches,47,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,8,1,2,5
+Nacogdoches,47,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,624,21,261,342
+Nacogdoches,47,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,78,2,35,41
+Nacogdoches,47,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,627,21,265,341
+Nacogdoches,47,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,73,2,33,38
+Nacogdoches,47,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,631,21,264,346
+Nacogdoches,47,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,72,2,34,36
+Nacogdoches,47,State Representative,11,REP,Joanne Shofner,619,20,254,345
+Nacogdoches,47,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,616,20,257,339
+Nacogdoches,47,"District Judge, 145th Judicial District",145,REP,Jeff Davis,628,20,260,348
+Nacogdoches,47,"District Judge, 420th Judicial District",420,REP,Malcolm Bales,621,20,259,342
+Nacogdoches,47,"District Attorney, 145th Judicial District",145,REP,Andrew E. Jones,617,20,255,342
+Nacogdoches,47,County Attorney,,REP,John Fleming,618,20,257,341
+Nacogdoches,47,Sheriff,,REP,Jason Bridges,650,18,269,363
+Nacogdoches,47,County Tax Assessor-Collector,,REP,Kim Morton,650,21,271,358
+Nacogdoches,47,County Tax Assessor-Collector,,REP,David S. Stone,625,18,264,343
