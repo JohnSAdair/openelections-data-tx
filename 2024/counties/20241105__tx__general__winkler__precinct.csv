@@ -1,0 +1,427 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Winkler,Precinct 101,Registered Voters,,,,1047,,,
+Winkler,Precinct 101,Ballots Cast,,,,517,14,357,146
+Winkler,Precinct 101,Ballots Cast Blank,,,,1,0,1,0
+Winkler,Precinct 101,President,,REP,Donald J. Trump,435,11,301,123
+Winkler,Precinct 101,President,,DEM,Kamala D. Harris,78,3,52,23
+Winkler,Precinct 101,President,,LIB,Chase Oliver,2,0,2,0
+Winkler,Precinct 101,President,,GRN,Jill Stein,0,0,0,0
+Winkler,Precinct 101,President,,,Write-ins,1,0,1,0
+Winkler,Precinct 101,President,,,Over Votes,0,0,0,0
+Winkler,Precinct 101,President,,,Under Votes,1,0,1,0
+Winkler,Precinct 101,"U.S. Senate",,REP,Ted Cruz,421,10,294,117
+Winkler,Precinct 101,"U.S. Senate",,DEM,Colin Allred,79,3,54,22
+Winkler,Precinct 101,"U.S. Senate",,LIB,Ted Brown,5,0,3,2
+Winkler,Precinct 101,"U.S. Senate",,,Write-ins,0,0,0,0
+Winkler,Precinct 101,"U.S. Senate",,,Over Votes,1,1,0,0
+Winkler,Precinct 101,"U.S. Senate",,,Under Votes,11,0,6,5
+Winkler,Precinct 101,"U.S. House",23,REP,Tony Gonzales,431,10,298,123
+Winkler,Precinct 101,"U.S. House",23,DEM,S. Limon,62,4,42,16
+Winkler,Precinct 101,"U.S. House",23,,Over Votes,1,0,1,0
+Winkler,Precinct 101,"U.S. House",23,,Under Votes,23,0,16,7
+Winkler,Precinct 101,"Railroad Commissioner",,REP,Christi Craddick,404,12,280,112
+Winkler,Precinct 101,"Railroad Commissioner",,DEM,Katherine Culbert,62,2,44,16
+Winkler,Precinct 101,"Railroad Commissioner",,LIB,Hawk Dunlap,21,0,14,7
+Winkler,Precinct 101,"Railroad Commissioner",,GRN,Eddie Espinoza,9,0,4,5
+Winkler,Precinct 101,"Railroad Commissioner",,,Write-ins,0,0,0,0
+Winkler,Precinct 101,"Railroad Commissioner",,,Over Votes,1,0,1,0
+Winkler,Precinct 101,"Railroad Commissioner",,,Under Votes,20,0,14,6
+Winkler,Precinct 101,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,419,11,291,117
+Winkler,Precinct 101,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,68,2,46,20
+Winkler,Precinct 101,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Winkler,Precinct 101,"Justice, Supreme Court, Pl 2",,,Under Votes,30,1,20,9
+Winkler,Precinct 101,"Justice, Supreme Court, Pl 4",,REP,John Devine,416,11,290,115
+Winkler,Precinct 101,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,70,3,47,20
+Winkler,Precinct 101,"Justice, Supreme Court, Pl 4",,,Over Votes,0,0,0,0
+Winkler,Precinct 101,"Justice, Supreme Court, Pl 4",,,Under Votes,31,0,20,11
+Winkler,Precinct 101,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,404,11,282,111
+Winkler,Precinct 101,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,69,3,45,21
+Winkler,Precinct 101,"Justice, Supreme Court, Pl 6",,LIB,"J. David Roberson",14,0,9,5
+Winkler,Precinct 101,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Winkler,Precinct 101,"Justice, Supreme Court, Pl 6",,,Under Votes,30,0,21,9
+Winkler,Precinct 101,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",417,12,288,117
+Winkler,Precinct 101,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",70,2,49,19
+Winkler,Precinct 101,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Winkler,Precinct 101,"Presiding Judge, Ct of Crim App",,,Under Votes,30,0,20,10
+Winkler,Precinct 101,"Judge, Ct of Crim App, Pl 7",,REP,"Gina Parker",402,9,277,116
+Winkler,Precinct 101,"Judge, Ct of Crim App, Pl 7",,DEM,"Nancy Mulder",68,3,47,18
+Winkler,Precinct 101,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Winkler,Precinct 101,"Judge, Ct of Crim App, Pl 7",,,Under Votes,47,2,33,12
+Winkler,Precinct 101,"Judge, Ct of Crim App, Pl 8",,REP,"Lee Finley",425,12,297,116
+Winkler,Precinct 101,"Judge, Ct of Crim App, Pl 8",,DEM,"Chika Anyiam",66,2,43,21
+Winkler,Precinct 101,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Winkler,Precinct 101,"Judge, Ct of Crim App, Pl 8",,,Under Votes,26,0,17,9
+Winkler,Precinct 101,"Member, State BoE",15,REP,"Aaron Kinsey",395,12,276,107
+Winkler,Precinct 101,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",72,2,50,20
+Winkler,Precinct 101,"Member, State BoE",15,LIB,"Jack Westbrook",13,0,8,5
+Winkler,Precinct 101,"Member, State BoE",15,,Over Votes,0,0,0,0
+Winkler,Precinct 101,"Member, State BoE",15,,Under Votes,37,0,23,14
+Winkler,Precinct 101,"State Representative",81,REP,"Brooks Landgraf",456,13,316,127
+Winkler,Precinct 101,"State Representative",81,,Over Votes,0,0,0,0
+Winkler,Precinct 101,"State Representative",81,,Under Votes,61,1,41,19
+Winkler,Precinct 101,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",208,4,132,72
+Winkler,Precinct 101,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Over Votes,0,0,0,0
+Winkler,Precinct 101,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Under Votes,309,10,225,74
+Winkler,Precinct 101,"Justice, 8th Ct of App Dist, Pl 2",,DEM,"Lisa Soto",199,4,130,65
+Winkler,Precinct 101,"Justice, 8th Ct of App Dist, Pl 2",,,Over Votes,0,0,0,0
+Winkler,Precinct 101,"Justice, 8th Ct of App Dist, Pl 2",,,Under Votes,318,10,227,81
+Winkler,Precinct 101,"Justice, 8th Ct of App Dist, Pl 3",,DEM,"Gina Palafox",196,4,129,63
+Winkler,Precinct 101,"Justice, 8th Ct of App Dist, Pl 3",,,Over Votes,0,0,0,0
+Winkler,Precinct 101,"Justice, 8th Ct of App Dist, Pl 3",,,Under Votes,321,10,228,83
+Winkler,Precinct 101,"Dist Attorney, 109th Judicial Dist",,REP,"Amanda Navarette",423,12,296,115
+Winkler,Precinct 101,"Dist Attorney, 109th Judicial Dist",,,Over Votes,0,0,0,0
+Winkler,Precinct 101,"Dist Attorney, 109th Judicial Dist",,,Under Votes,94,2,61,31
+Winkler,Precinct 101,"County Attorney",,REP,"Thomas Duckworth",430,13,301,116
+Winkler,Precinct 101,"County Attorney",,,Over Votes,0,0,0,0
+Winkler,Precinct 101,"County Attorney",,,Under Votes,87,1,56,30
+Winkler,Precinct 101,"Sheriff",,REP,"Darin Mitchell",445,12,310,123
+Winkler,Precinct 101,"Sheriff",,,Over Votes,0,0,0,0
+Winkler,Precinct 101,"Sheriff",,,Under Votes,72,2,47,23
+Winkler,Precinct 101,"County Tax Assessor-Collector",,REP,"Minerva Soltero",446,13,311,122
+Winkler,Precinct 101,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Winkler,Precinct 101,"County Tax Assessor-Collector",,,Under Votes,71,1,46,24
+Winkler,Precinct 101,"County Commissioner Pct 1",,REP,"Billy Stevens",441,12,305,124
+Winkler,Precinct 101,"County Commissioner Pct 1",,,Over Votes,0,0,0,0
+Winkler,Precinct 101,"County Commissioner Pct 1",,,Under Votes,76,2,52,22
+Winkler,Precinct 101,"Constable Pct 1",,REP,"Leon Stroud",428,11,299,118
+Winkler,Precinct 101,"Constable Pct 1",,,Over Votes,0,0,0,0
+Winkler,Precinct 101,"Constable Pct 1",,,Under Votes,89,3,58,28
+Winkler,Precinct 201,Registered Voters,,,,495,,,
+Winkler,Precinct 201,Ballots Cast,,,,198,2,108,88
+Winkler,Precinct 201,Ballots Cast Blank,,,,1,0,0,1
+Winkler,Precinct 201,President,,REP,Donald J. Trump,169,1,94,74
+Winkler,Precinct 201,President,,DEM,Kamala D. Harris,26,1,13,12
+Winkler,Precinct 201,President,,LIB,Chase Oliver,1,0,1,0
+Winkler,Precinct 201,President,,GRN,Jill Stein,0,0,0,0
+Winkler,Precinct 201,President,,,Write-ins,0,0,0,0
+Winkler,Precinct 201,President,,,Over Votes,0,0,0,0
+Winkler,Precinct 201,President,,,Under Votes,2,0,0,2
+Winkler,Precinct 201,"U.S. Senate",,REP,Ted Cruz,158,1,90,67
+Winkler,Precinct 201,"U.S. Senate",,DEM,Colin Allred,28,1,12,15
+Winkler,Precinct 201,"U.S. Senate",,LIB,Ted Brown,6,0,5,1
+Winkler,Precinct 201,"U.S. Senate",,,Write-ins,1,0,0,1
+Winkler,Precinct 201,"U.S. Senate",,,Over Votes,1,0,0,1
+Winkler,Precinct 201,"U.S. Senate",,,Under Votes,4,0,1,3
+Winkler,Precinct 201,"U.S. House",23,REP,Tony Gonzales,170,1,94,75
+Winkler,Precinct 201,"U.S. House",23,DEM,S. Limon,23,1,12,10
+Winkler,Precinct 201,"U.S. House",23,,Over Votes,0,0,0,0
+Winkler,Precinct 201,"U.S. House",23,,Under Votes,5,0,2,3
+Winkler,Precinct 201,"Railroad Commissioner",,REP,Christi Craddick,156,1,92,63
+Winkler,Precinct 201,"Railroad Commissioner",,DEM,Katherine Culbert,24,1,10,13
+Winkler,Precinct 201,"Railroad Commissioner",,LIB,Hawk Dunlap,4,0,2,2
+Winkler,Precinct 201,"Railroad Commissioner",,GRN,Eddie Espinoza,4,0,1,3
+Winkler,Precinct 201,"Railroad Commissioner",,,Write-ins,1,0,0,1
+Winkler,Precinct 201,"Railroad Commissioner",,,Over Votes,0,0,0,0
+Winkler,Precinct 201,"Railroad Commissioner",,,Under Votes,9,0,3,6
+Winkler,Precinct 201,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,165,1,94,70
+Winkler,Precinct 201,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,25,1,12,12
+Winkler,Precinct 201,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Winkler,Precinct 201,"Justice, Supreme Court, Pl 2",,,Under Votes,8,0,2,6
+Winkler,Precinct 201,"Justice, Supreme Court, Pl 4",,REP,John Devine,154,1,88,65
+Winkler,Precinct 201,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,31,1,14,16
+Winkler,Precinct 201,"Justice, Supreme Court, Pl 4",,,Over Votes,0,0,0,0
+Winkler,Precinct 201,"Justice, Supreme Court, Pl 4",,,Under Votes,13,0,6,7
+Winkler,Precinct 201,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,154,1,87,66
+Winkler,Precinct 201,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,24,1,11,12
+Winkler,Precinct 201,"Justice, Supreme Court, Pl 6",,LIB,"J. David Roberson",7,0,5,2
+Winkler,Precinct 201,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Winkler,Precinct 201,"Justice, Supreme Court, Pl 6",,,Under Votes,13,0,5,8
+Winkler,Precinct 201,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",157,1,91,65
+Winkler,Precinct 201,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",28,1,12,15
+Winkler,Precinct 201,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Winkler,Precinct 201,"Presiding Judge, Ct of Crim App",,,Under Votes,13,0,5,8
+Winkler,Precinct 201,"Judge, Ct of Crim App, Pl 7",,REP,"Gina Parker",154,1,90,63
+Winkler,Precinct 201,"Judge, Ct of Crim App, Pl 7",,DEM,"Nancy Mulder",27,1,11,15
+Winkler,Precinct 201,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Winkler,Precinct 201,"Judge, Ct of Crim App, Pl 7",,,Under Votes,17,0,7,10
+Winkler,Precinct 201,"Judge, Ct of Crim App, Pl 8",,REP,"Lee Finley",159,1,93,65
+Winkler,Precinct 201,"Judge, Ct of Crim App, Pl 8",,DEM,"Chika Anyiam",27,1,11,15
+Winkler,Precinct 201,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Winkler,Precinct 201,"Judge, Ct of Crim App, Pl 8",,,Under Votes,12,0,4,8
+Winkler,Precinct 201,"Member, State BoE",15,REP,"Aaron Kinsey",158,1,89,68
+Winkler,Precinct 201,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",23,1,10,12
+Winkler,Precinct 201,"Member, State BoE",15,LIB,"Jack Westbrook",6,0,5,1
+Winkler,Precinct 201,"Member, State BoE",15,,Over Votes,0,0,0,0
+Winkler,Precinct 201,"Member, State BoE",15,,Under Votes,11,0,4,7
+Winkler,Precinct 201,"State Representative",81,REP,"Brooks Landgraf",171,1,98,72
+Winkler,Precinct 201,"State Representative",81,,Over Votes,0,0,0,0
+Winkler,Precinct 201,"State Representative",81,,Under Votes,27,1,10,16
+Winkler,Precinct 201,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",85,1,46,38
+Winkler,Precinct 201,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Over Votes,0,0,0,0
+Winkler,Precinct 201,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Under Votes,113,1,62,50
+Winkler,Precinct 201,"Justice, 8th Ct of App Dist, Pl 2",,DEM,"Lisa Soto",87,1,44,42
+Winkler,Precinct 201,"Justice, 8th Ct of App Dist, Pl 2",,,Over Votes,0,0,0,0
+Winkler,Precinct 201,"Justice, 8th Ct of App Dist, Pl 2",,,Under Votes,111,1,64,46
+Winkler,Precinct 201,"Justice, 8th Ct of App Dist, Pl 3",,DEM,"Gina Palafox",81,1,42,38
+Winkler,Precinct 201,"Justice, 8th Ct of App Dist, Pl 3",,,Over Votes,0,0,0,0
+Winkler,Precinct 201,"Justice, 8th Ct of App Dist, Pl 3",,,Under Votes,117,1,66,50
+Winkler,Precinct 201,"Dist Attorney, 109th Judicial Dist",,REP,"Amanda Navarette",165,1,95,69
+Winkler,Precinct 201,"Dist Attorney, 109th Judicial Dist",,,Over Votes,0,0,0,0
+Winkler,Precinct 201,"Dist Attorney, 109th Judicial Dist",,,Under Votes,33,1,13,19
+Winkler,Precinct 201,"County Attorney",,REP,"Thomas Duckworth",159,1,94,64
+Winkler,Precinct 201,"County Attorney",,,Over Votes,0,0,0,0
+Winkler,Precinct 201,"County Attorney",,,Under Votes,39,1,14,24
+Winkler,Precinct 201,"Sheriff",,REP,"Darin Mitchell",164,1,95,68
+Winkler,Precinct 201,"Sheriff",,,Over Votes,0,0,0,0
+Winkler,Precinct 201,"Sheriff",,,Under Votes,34,1,13,20
+Winkler,Precinct 201,"County Tax Assessor-Collector",,REP,"Minerva Soltero",169,1,99,69
+Winkler,Precinct 201,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Winkler,Precinct 201,"County Tax Assessor-Collector",,,Under Votes,29,1,9,19
+Winkler,Precinct 201,"Constable Pct 2",,REP,"Carl Garrett",161,1,93,67
+Winkler,Precinct 201,"Constable Pct 2",,,Over Votes,0,0,0,0
+Winkler,Precinct 201,"Constable Pct 2",,,Under Votes,37,1,15,21
+Winkler,Precinct 202,Registered Voters,,,,706,,,
+Winkler,Precinct 202,Ballots Cast,,,,439,6,223,210
+Winkler,Precinct 202,Ballots Cast Blank,,,,0,0,0,0
+Winkler,Precinct 202,President,,REP,Donald J. Trump,404,6,205,193
+Winkler,Precinct 202,President,,DEM,Kamala D. Harris,33,0,17,16
+Winkler,Precinct 202,President,,LIB,Chase Oliver,0,0,0,0
+Winkler,Precinct 202,President,,GRN,Jill Stein,0,0,0,0
+Winkler,Precinct 202,President,,,Write-ins,0,0,0,0
+Winkler,Precinct 202,President,,,Over Votes,0,0,0,0
+Winkler,Precinct 202,President,,,Under Votes,2,0,1,1
+Winkler,Precinct 202,"U.S. Senate",,REP,Ted Cruz,386,6,198,182
+Winkler,Precinct 202,"U.S. Senate",,DEM,Colin Allred,37,0,19,18
+Winkler,Precinct 202,"U.S. Senate",,LIB,Ted Brown,5,0,1,4
+Winkler,Precinct 202,"U.S. Senate",,,Write-ins,1,0,0,1
+Winkler,Precinct 202,"U.S. Senate",,,Over Votes,0,0,0,0
+Winkler,Precinct 202,"U.S. Senate",,,Under Votes,10,0,5,5
+Winkler,Precinct 202,"U.S. House",23,REP,Tony Gonzales,391,6,202,183
+Winkler,Precinct 202,"U.S. House",23,DEM,S. Limon,28,0,14,14
+Winkler,Precinct 202,"U.S. House",23,,Over Votes,0,0,0,0
+Winkler,Precinct 202,"U.S. House",23,,Under Votes,20,0,7,13
+Winkler,Precinct 202,"Railroad Commissioner",,REP,Christi Craddick,354,6,189,159
+Winkler,Precinct 202,"Railroad Commissioner",,DEM,Katherine Culbert,32,0,15,17
+Winkler,Precinct 202,"Railroad Commissioner",,LIB,Hawk Dunlap,24,0,7,17
+Winkler,Precinct 202,"Railroad Commissioner",,GRN,Eddie Espinoza,3,0,1,2
+Winkler,Precinct 202,"Railroad Commissioner",,,Write-ins,0,0,0,0
+Winkler,Precinct 202,"Railroad Commissioner",,,Over Votes,2,0,1,1
+Winkler,Precinct 202,"Railroad Commissioner",,,Under Votes,24,0,10,14
+Winkler,Precinct 202,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,376,6,195,175
+Winkler,Precinct 202,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,32,0,14,18
+Winkler,Precinct 202,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Winkler,Precinct 202,"Justice, Supreme Court, Pl 2",,,Under Votes,31,0,14,17
+Winkler,Precinct 202,"Justice, Supreme Court, Pl 4",,REP,John Devine,373,6,193,174
+Winkler,Precinct 202,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,33,0,14,19
+Winkler,Precinct 202,"Justice, Supreme Court, Pl 4",,,Over Votes,0,0,0,0
+Winkler,Precinct 202,"Justice, Supreme Court, Pl 4",,,Under Votes,33,0,16,17
+Winkler,Precinct 202,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,373,6,194,173
+Winkler,Precinct 202,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,29,0,15,14
+Winkler,Precinct 202,"Justice, Supreme Court, Pl 6",,LIB,"J. David Roberson",6,0,1,5
+Winkler,Precinct 202,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Winkler,Precinct 202,"Justice, Supreme Court, Pl 6",,,Under Votes,31,0,13,18
+Winkler,Precinct 202,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",372,5,194,173
+Winkler,Precinct 202,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",35,0,16,19
+Winkler,Precinct 202,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Winkler,Precinct 202,"Presiding Judge, Ct of Crim App",,,Under Votes,32,1,13,18
+Winkler,Precinct 202,"Judge, Ct of Crim App, Pl 7",,REP,"Gina Parker",371,6,189,176
+Winkler,Precinct 202,"Judge, Ct of Crim App, Pl 7",,DEM,"Nancy Mulder",27,0,14,13
+Winkler,Precinct 202,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Winkler,Precinct 202,"Judge, Ct of Crim App, Pl 7",,,Under Votes,41,0,20,21
+Winkler,Precinct 202,"Judge, Ct of Crim App, Pl 8",,REP,"Lee Finley",381,5,198,178
+Winkler,Precinct 202,"Judge, Ct of Crim App, Pl 8",,DEM,"Chika Anyiam",24,0,12,12
+Winkler,Precinct 202,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Winkler,Precinct 202,"Judge, Ct of Crim App, Pl 8",,,Under Votes,34,1,13,20
+Winkler,Precinct 202,"Member, State BoE",15,REP,"Aaron Kinsey",370,6,196,168
+Winkler,Precinct 202,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",35,0,15,20
+Winkler,Precinct 202,"Member, State BoE",15,LIB,"Jack Westbrook",7,0,1,6
+Winkler,Precinct 202,"Member, State BoE",15,,Over Votes,0,0,0,0
+Winkler,Precinct 202,"Member, State BoE",15,,Under Votes,27,0,11,16
+Winkler,Precinct 202,"State Representative",81,REP,"Brooks Landgraf",407,6,207,194
+Winkler,Precinct 202,"State Representative",81,,Over Votes,0,0,0,0
+Winkler,Precinct 202,"State Representative",81,,Under Votes,32,0,16,16
+Winkler,Precinct 202,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",173,1,90,82
+Winkler,Precinct 202,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Over Votes,0,0,0,0
+Winkler,Precinct 202,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Under Votes,266,5,133,128
+Winkler,Precinct 202,"Justice, 8th Ct of App Dist, Pl 2",,DEM,"Lisa Soto",160,1,79,80
+Winkler,Precinct 202,"Justice, 8th Ct of App Dist, Pl 2",,,Over Votes,0,0,0,0
+Winkler,Precinct 202,"Justice, 8th Ct of App Dist, Pl 2",,,Under Votes,279,5,144,130
+Winkler,Precinct 202,"Justice, 8th Ct of App Dist, Pl 3",,DEM,"Gina Palafox",155,1,76,78
+Winkler,Precinct 202,"Justice, 8th Ct of App Dist, Pl 3",,,Over Votes,0,0,0,0
+Winkler,Precinct 202,"Justice, 8th Ct of App Dist, Pl 3",,,Under Votes,284,5,147,132
+Winkler,Precinct 202,"Dist Attorney, 109th Judicial Dist",,REP,"Amanda Navarette",380,5,194,181
+Winkler,Precinct 202,"Dist Attorney, 109th Judicial Dist",,,Over Votes,0,0,0,0
+Winkler,Precinct 202,"Dist Attorney, 109th Judicial Dist",,,Under Votes,59,1,29,29
+Winkler,Precinct 202,"County Attorney",,REP,"Thomas Duckworth",378,4,194,180
+Winkler,Precinct 202,"County Attorney",,,Over Votes,0,0,0,0
+Winkler,Precinct 202,"County Attorney",,,Under Votes,61,2,29,30
+Winkler,Precinct 202,"Sheriff",,REP,"Darin Mitchell",392,5,200,187
+Winkler,Precinct 202,"Sheriff",,,Over Votes,0,0,0,0
+Winkler,Precinct 202,"Sheriff",,,Under Votes,47,1,23,23
+Winkler,Precinct 202,"County Tax Assessor-Collector",,REP,"Minerva Soltero",381,6,194,181
+Winkler,Precinct 202,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Winkler,Precinct 202,"County Tax Assessor-Collector",,,Under Votes,58,0,29,29
+Winkler,Precinct 202,"Constable Pct 2",,REP,"Carl Garrett",361,5,183,173
+Winkler,Precinct 202,"Constable Pct 2",,,Over Votes,0,0,0,0
+Winkler,Precinct 202,"Constable Pct 2",,,Under Votes,78,1,40,37
+Winkler,Precinct 301,Registered Voters,,,,1053,,,
+Winkler,Precinct 301,Ballots Cast,,,,499,12,303,184
+Winkler,Precinct 301,Ballots Cast Blank,,,,2,0,0,2
+Winkler,Precinct 301,President,,REP,Donald J. Trump,432,8,272,152
+Winkler,Precinct 301,President,,DEM,Kamala D. Harris,65,4,31,30
+Winkler,Precinct 301,President,,LIB,Chase Oliver,0,0,0,0
+Winkler,Precinct 301,President,,GRN,Jill Stein,0,0,0,0
+Winkler,Precinct 301,President,,,Write-ins,0,0,0,0
+Winkler,Precinct 301,President,,,Over Votes,0,0,0,0
+Winkler,Precinct 301,President,,,Under Votes,2,0,0,2
+Winkler,Precinct 301,"U.S. Senate",,REP,Ted Cruz,401,8,257,136
+Winkler,Precinct 301,"U.S. Senate",,DEM,Colin Allred,75,4,37,34
+Winkler,Precinct 301,"U.S. Senate",,LIB,Ted Brown,10,0,3,7
+Winkler,Precinct 301,"U.S. Senate",,,Write-ins,1,0,0,1
+Winkler,Precinct 301,"U.S. Senate",,,Over Votes,0,0,0,0
+Winkler,Precinct 301,"U.S. Senate",,,Under Votes,12,0,6,6
+Winkler,Precinct 301,"U.S. House",23,REP,Tony Gonzales,408,8,257,143
+Winkler,Precinct 301,"U.S. House",23,DEM,S. Limon,60,4,28,28
+Winkler,Precinct 301,"U.S. House",23,,Over Votes,0,0,0,0
+Winkler,Precinct 301,"U.S. House",23,,Under Votes,31,0,18,13
+Winkler,Precinct 301,"Railroad Commissioner",,REP,Christi Craddick,378,8,243,127
+Winkler,Precinct 301,"Railroad Commissioner",,DEM,Katherine Culbert,51,4,24,23
+Winkler,Precinct 301,"Railroad Commissioner",,LIB,Hawk Dunlap,30,0,18,12
+Winkler,Precinct 301,"Railroad Commissioner",,GRN,Eddie Espinoza,9,0,3,6
+Winkler,Precinct 301,"Railroad Commissioner",,,Write-ins,1,0,0,1
+Winkler,Precinct 301,"Railroad Commissioner",,,Over Votes,2,0,0,2
+Winkler,Precinct 301,"Railroad Commissioner",,,Under Votes,28,0,15,13
+Winkler,Precinct 301,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,409,8,261,140
+Winkler,Precinct 301,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,56,4,27,25
+Winkler,Precinct 301,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Winkler,Precinct 301,"Justice, Supreme Court, Pl 2",,,Under Votes,34,0,15,19
+Winkler,Precinct 301,"Justice, Supreme Court, Pl 4",,REP,John Devine,389,7,248,134
+Winkler,Precinct 301,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,62,5,28,29
+Winkler,Precinct 301,"Justice, Supreme Court, Pl 4",,,Over Votes,1,0,0,1
+Winkler,Precinct 301,"Justice, Supreme Court, Pl 4",,,Under Votes,47,0,27,20
+Winkler,Precinct 301,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,394,9,249,136
+Winkler,Precinct 301,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,57,3,28,26
+Winkler,Precinct 301,"Justice, Supreme Court, Pl 6",,LIB,"J. David Roberson",14,0,7,7
+Winkler,Precinct 301,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Winkler,Precinct 301,"Justice, Supreme Court, Pl 6",,,Under Votes,34,0,19,15
+Winkler,Precinct 301,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",401,8,253,140
+Winkler,Precinct 301,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",63,4,31,28
+Winkler,Precinct 301,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Winkler,Precinct 301,"Presiding Judge, Ct of Crim App",,,Under Votes,35,0,19,16
+Winkler,Precinct 301,"Judge, Ct of Crim App, Pl 7",,REP,"Gina Parker",392,9,247,136
+Winkler,Precinct 301,"Judge, Ct of Crim App, Pl 7",,DEM,"Nancy Mulder",54,3,26,25
+Winkler,Precinct 301,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Winkler,Precinct 301,"Judge, Ct of Crim App, Pl 7",,,Under Votes,53,0,30,23
+Winkler,Precinct 301,"Judge, Ct of Crim App, Pl 8",,REP,"Lee Finley",402,8,256,138
+Winkler,Precinct 301,"Judge, Ct of Crim App, Pl 8",,DEM,"Chika Anyiam",60,4,29,27
+Winkler,Precinct 301,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Winkler,Precinct 301,"Judge, Ct of Crim App, Pl 8",,,Under Votes,37,0,18,19
+Winkler,Precinct 301,"Member, State BoE",15,REP,"Aaron Kinsey",385,8,247,130
+Winkler,Precinct 301,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",59,4,27,28
+Winkler,Precinct 301,"Member, State BoE",15,LIB,"Jack Westbrook",12,0,8,4
+Winkler,Precinct 301,"Member, State BoE",15,,Over Votes,0,0,0,0
+Winkler,Precinct 301,"Member, State BoE",15,,Under Votes,43,0,21,22
+Winkler,Precinct 301,"State Representative",81,REP,"Brooks Landgraf",424,10,268,146
+Winkler,Precinct 301,"State Representative",81,,Over Votes,0,0,0,0
+Winkler,Precinct 301,"State Representative",81,,Under Votes,75,2,35,38
+Winkler,Precinct 301,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",199,7,113,79
+Winkler,Precinct 301,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Over Votes,0,0,0,0
+Winkler,Precinct 301,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Under Votes,300,5,190,105
+Winkler,Precinct 301,"Justice, 8th Ct of App Dist, Pl 2",,DEM,"Lisa Soto",193,7,109,77
+Winkler,Precinct 301,"Justice, 8th Ct of App Dist, Pl 2",,,Over Votes,0,0,0,0
+Winkler,Precinct 301,"Justice, 8th Ct of App Dist, Pl 2",,,Under Votes,306,5,194,107
+Winkler,Precinct 301,"Justice, 8th Ct of App Dist, Pl 3",,DEM,"Gina Palafox",183,7,106,70
+Winkler,Precinct 301,"Justice, 8th Ct of App Dist, Pl 3",,,Over Votes,0,0,0,0
+Winkler,Precinct 301,"Justice, 8th Ct of App Dist, Pl 3",,,Under Votes,316,5,197,114
+Winkler,Precinct 301,"Dist Attorney, 109th Judicial Dist",,REP,"Amanda Navarette",414,10,262,142
+Winkler,Precinct 301,"Dist Attorney, 109th Judicial Dist",,,Over Votes,0,0,0,0
+Winkler,Precinct 301,"Dist Attorney, 109th Judicial Dist",,,Under Votes,85,2,41,42
+Winkler,Precinct 301,"County Attorney",,REP,"Thomas Duckworth",404,8,261,135
+Winkler,Precinct 301,"County Attorney",,,Over Votes,0,0,0,0
+Winkler,Precinct 301,"County Attorney",,,Under Votes,95,4,42,49
+Winkler,Precinct 301,"Sheriff",,REP,"Darin Mitchell",421,10,263,148
+Winkler,Precinct 301,"Sheriff",,,Over Votes,0,0,0,0
+Winkler,Precinct 301,"Sheriff",,,Under Votes,78,2,40,36
+Winkler,Precinct 301,"County Tax Assessor-Collector",,REP,"Minerva Soltero",424,10,266,148
+Winkler,Precinct 301,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Winkler,Precinct 301,"County Tax Assessor-Collector",,,Under Votes,75,2,37,36
+Winkler,Precinct 301,"County Commissioner Pct 3",,REP,"Victor Berzoza",432,8,267,157
+Winkler,Precinct 301,"County Commissioner Pct 3",,,Over Votes,0,0,0,0
+Winkler,Precinct 301,"County Commissioner Pct 3",,,Under Votes,67,4,36,27
+Winkler,Precinct 301,"Constable Pct 1",,REP,"Leon Stroud",410,7,264,139
+Winkler,Precinct 301,"Constable Pct 1",,,Over Votes,0,0,0,0
+Winkler,Precinct 301,"Constable Pct 1",,,Under Votes,89,5,39,45
+Winkler,Precinct 401,Registered Voters,,,,786,,,
+Winkler,Precinct 401,Ballots Cast,,,,290,8,140,142
+Winkler,Precinct 401,Ballots Cast Blank,,,,1,0,0,1
+Winkler,Precinct 401,President,,REP,Donald J. Trump,206,2,110,94
+Winkler,Precinct 401,President,,DEM,Kamala D. Harris,81,6,29,46
+Winkler,Precinct 401,President,,LIB,Chase Oliver,0,0,0,0
+Winkler,Precinct 401,President,,GRN,Jill Stein,0,0,0,0
+Winkler,Precinct 401,President,,,Write-ins,0,0,0,0
+Winkler,Precinct 401,President,,,Over Votes,1,0,1,0
+Winkler,Precinct 401,President,,,Under Votes,2,0,0,2
+Winkler,Precinct 401,"U.S. Senate",,REP,Ted Cruz,194,2,108,84
+Winkler,Precinct 401,"U.S. Senate",,DEM,Colin Allred,84,6,30,48
+Winkler,Precinct 401,"U.S. Senate",,LIB,Ted Brown,2,0,0,2
+Winkler,Precinct 401,"U.S. Senate",,,Write-ins,0,0,0,0
+Winkler,Precinct 401,"U.S. Senate",,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"U.S. Senate",,,Under Votes,10,0,2,8
+Winkler,Precinct 401,"U.S. House",23,REP,Tony Gonzales,201,0,112,89
+Winkler,Precinct 401,"U.S. House",23,DEM,S. Limon,72,6,23,43
+Winkler,Precinct 401,"U.S. House",23,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"U.S. House",23,,Under Votes,17,2,5,10
+Winkler,Precinct 401,"Railroad Commissioner",,REP,Christi Craddick,179,2,99,78
+Winkler,Precinct 401,"Railroad Commissioner",,DEM,Katherine Culbert,69,4,25,40
+Winkler,Precinct 401,"Railroad Commissioner",,LIB,Hawk Dunlap,11,0,5,6
+Winkler,Precinct 401,"Railroad Commissioner",,GRN,Eddie Espinoza,15,2,4,9
+Winkler,Precinct 401,"Railroad Commissioner",,,Write-ins,0,0,0,0
+Winkler,Precinct 401,"Railroad Commissioner",,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"Railroad Commissioner",,,Under Votes,16,0,7,9
+Winkler,Precinct 401,"Justice, Supreme Court, Pl 2",,REP,Jimmy Blacklock,188,2,101,85
+Winkler,Precinct 401,"Justice, Supreme Court, Pl 2",,DEM,DaSean Jones,80,6,31,43
+Winkler,Precinct 401,"Justice, Supreme Court, Pl 2",,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"Justice, Supreme Court, Pl 2",,,Under Votes,22,0,8,14
+Winkler,Precinct 401,"Justice, Supreme Court, Pl 4",,REP,John Devine,184,2,99,83
+Winkler,Precinct 401,"Justice, Supreme Court, Pl 4",,DEM,Christine Vinh Weems,80,6,29,45
+Winkler,Precinct 401,"Justice, Supreme Court, Pl 4",,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"Justice, Supreme Court, Pl 4",,,Under Votes,26,0,12,14
+Winkler,Precinct 401,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,191,2,103,86
+Winkler,Precinct 401,"Justice, Supreme Court, Pl 6",,DEM,Bonnie Lee Goldstein,74,5,26,43
+Winkler,Precinct 401,"Justice, Supreme Court, Pl 6",,LIB,"J. David Roberson",5,1,3,1
+Winkler,Precinct 401,"Justice, Supreme Court, Pl 6",,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"Justice, Supreme Court, Pl 6",,,Under Votes,20,0,8,12
+Winkler,Precinct 401,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",191,2,103,86
+Winkler,Precinct 401,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",79,6,30,43
+Winkler,Precinct 401,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"Presiding Judge, Ct of Crim App",,,Under Votes,20,0,7,13
+Winkler,Precinct 401,"Judge, Ct of Crim App, Pl 7",,REP,"Gina Parker",186,2,98,86
+Winkler,Precinct 401,"Judge, Ct of Crim App, Pl 7",,DEM,"Nancy Mulder",72,6,28,38
+Winkler,Precinct 401,"Judge, Ct of Crim App, Pl 7",,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"Judge, Ct of Crim App, Pl 7",,,Under Votes,32,0,14,18
+Winkler,Precinct 401,"Judge, Ct of Crim App, Pl 8",,REP,"Lee Finley",193,2,104,87
+Winkler,Precinct 401,"Judge, Ct of Crim App, Pl 8",,DEM,"Chika Anyiam",72,6,24,42
+Winkler,Precinct 401,"Judge, Ct of Crim App, Pl 8",,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"Judge, Ct of Crim App, Pl 8",,,Under Votes,25,0,12,13
+Winkler,Precinct 401,"Member, State BoE",15,REP,"Aaron Kinsey",185,2,99,84
+Winkler,Precinct 401,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",75,6,26,43
+Winkler,Precinct 401,"Member, State BoE",15,LIB,"Jack Westbrook",5,0,2,3
+Winkler,Precinct 401,"Member, State BoE",15,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"Member, State BoE",15,,Under Votes,25,0,13,12
+Winkler,Precinct 401,"State Representative",81,REP,"Brooks Landgraf",214,5,113,96
+Winkler,Precinct 401,"State Representative",81,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"State Representative",81,,Under Votes,76,3,27,46
+Winkler,Precinct 401,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,DEM,"Maria Salas Mendoza",147,6,52,89
+Winkler,Precinct 401,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"Chief Justice, 8th Court of Appeals District - Unexpired Term",,,Under Votes,143,2,88,53
+Winkler,Precinct 401,"Justice, 8th Ct of App Dist, Pl 2",,DEM,"Lisa Soto",150,6,54,90
+Winkler,Precinct 401,"Justice, 8th Ct of App Dist, Pl 2",,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"Justice, 8th Ct of App Dist, Pl 2",,,Under Votes,140,2,86,52
+Winkler,Precinct 401,"Justice, 8th Ct of App Dist, Pl 3",,DEM,"Gina Palafox",142,6,51,85
+Winkler,Precinct 401,"Justice, 8th Ct of App Dist, Pl 3",,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"Justice, 8th Ct of App Dist, Pl 3",,,Under Votes,148,2,89,57
+Winkler,Precinct 401,"Dist Attorney, 109th Judicial Dist",,REP,"Amanda Navarette",207,4,105,98
+Winkler,Precinct 401,"Dist Attorney, 109th Judicial Dist",,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"Dist Attorney, 109th Judicial Dist",,,Under Votes,83,4,35,44
+Winkler,Precinct 401,"County Attorney",,REP,"Thomas Duckworth",200,2,106,92
+Winkler,Precinct 401,"County Attorney",,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"County Attorney",,,Under Votes,90,6,34,50
+Winkler,Precinct 401,"Sheriff",,REP,"Darin Mitchell",215,4,109,102
+Winkler,Precinct 401,"Sheriff",,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"Sheriff",,,Under Votes,75,4,31,40
+Winkler,Precinct 401,"County Tax Assessor-Collector",,REP,"Minerva Soltero",229,7,112,110
+Winkler,Precinct 401,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"County Tax Assessor-Collector",,,Under Votes,61,1,28,32
+Winkler,Precinct 401,"Constable Pct 2",,REP,"Carl Garrett",194,2,100,92
+Winkler,Precinct 401,"Constable Pct 2",,,Over Votes,0,0,0,0
+Winkler,Precinct 401,"Constable Pct 2",,,Under Votes,96,6,40,50

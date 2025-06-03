@@ -1,0 +1,791 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Hamilton,Precinct 1,Registered Voters,,,,1053,,,
+Hamilton,Precinct 1,Ballots Cast,,,,730,25,600,105
+Hamilton,Precinct 1,Ballots Cast - Blank,,,,1,0,1,0
+Hamilton,Precinct 1,President,,REP,Donald J. Trump/JD Vance,619,14,518,87
+Hamilton,Precinct 1,President,,DEM,Kamala D. Harris/Tim Walz,106,11,78,17
+Hamilton,Precinct 1,President,,LIB,Chase Oliver/Mike ter Maat,3,0,2,1
+Hamilton,Precinct 1,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Hamilton,Precinct 1,President,,,Over Votes,0,0,0,0
+Hamilton,Precinct 1,President,,,Under Votes,1,0,1,0
+Hamilton,Precinct 1,U.S. Senate,,REP,Ted Cruz,605,14,507,84
+Hamilton,Precinct 1,U.S. Senate,,DEM,Colin Allred,114,11,84,19
+Hamilton,Precinct 1,U.S. Senate,,LIB,Ted Brown,8,0,7,1
+Hamilton,Precinct 1,U.S. Senate,,,Over Votes,0,0,0,0
+Hamilton,Precinct 1,U.S. Senate,,,Under Votes,3,0,2,1
+Hamilton,Precinct 1,U.S. House,31,REP,John Carter,623,15,524,84
+Hamilton,Precinct 1,U.S. House,31,DEM,Stuart Whitlow,94,10,67,17
+Hamilton,Precinct 1,U.S. House,31,,Over Votes,0,0,0,0
+Hamilton,Precinct 1,U.S. House,31,,Under Votes,13,0,9,4
+Hamilton,Precinct 1,Railroad Commissioner,,REP,Christi Craddick,600,13,504,83
+Hamilton,Precinct 1,Railroad Commissioner,,DEM,Katherine Culbert,84,9,58,17
+Hamilton,Precinct 1,Railroad Commissioner,,LIB,Hawk Dunlap,23,1,20,2
+Hamilton,Precinct 1,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,4,0
+Hamilton,Precinct 1,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hamilton,Precinct 1,Railroad Commissioner,,,Under Votes,19,2,14,3
+Hamilton,Precinct 1,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,611,14,515,82
+Hamilton,Precinct 1,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,95,9,70,16
+Hamilton,Precinct 1,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Hamilton,Precinct 1,"Justice, Supreme Court, Pl 2",2,,Under Votes,24,2,15,7
+Hamilton,Precinct 1,"Justice, Supreme Court, Pl 4",4,REP,John Devine,607,14,508,85
+Hamilton,Precinct 1,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,98,9,73,16
+Hamilton,Precinct 1,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Hamilton,Precinct 1,"Justice, Supreme Court, Pl 4",4,,Under Votes,25,2,19,4
+Hamilton,Precinct 1,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,594,12,502,80
+Hamilton,Precinct 1,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,88,10,61,17
+Hamilton,Precinct 1,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,24,1,20,3
+Hamilton,Precinct 1,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Hamilton,Precinct 1,"Justice, Supreme Court, Pl 6",6,,Under Votes,24,2,17,5
+Hamilton,Precinct 1,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,606,14,507,85
+Hamilton,Precinct 1,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,96,9,72,15
+Hamilton,Precinct 1,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Hamilton,Precinct 1,"Presiding Judge, Ct of Crim App",,,Under Votes,28,2,21,5
+Hamilton,Precinct 1,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,584,14,491,79
+Hamilton,Precinct 1,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,96,9,71,16
+Hamilton,Precinct 1,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Hamilton,Precinct 1,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,50,2,38,10
+Hamilton,Precinct 1,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,608,14,509,85
+Hamilton,Precinct 1,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,90,9,67,14
+Hamilton,Precinct 1,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Hamilton,Precinct 1,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,32,2,24,6
+Hamilton,Precinct 1,State Representative,59,REP,Shelby Slawson,617,14,518,85
+Hamilton,Precinct 1,State Representative,59,DEM,Hannah Bohm,94,9,70,15
+Hamilton,Precinct 1,State Representative,59,,Over Votes,0,0,0,0
+Hamilton,Precinct 1,State Representative,59,,Under Votes,19,2,12,5
+Hamilton,Precinct 1,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,622,16,520,86
+Hamilton,Precinct 1,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Hamilton,Precinct 1,"Chief Justice, 10th Ct of App Dist",,,Under Votes,108,9,80,19
+Hamilton,Precinct 1,District Attorney,,REP,Adam Sibley,603,16,502,85
+Hamilton,Precinct 1,District Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 1,District Attorney,,,Under Votes,127,9,98,20
+Hamilton,Precinct 1,County Attorney,,REP,Mark C. Henkes,631,18,522,91
+Hamilton,Precinct 1,County Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 1,County Attorney,,,Under Votes,99,7,78,14
+Hamilton,Precinct 1,County Clerk - Unexpired Term,,REP,Rachel Lamb Geeslin,615,19,508,88
+Hamilton,Precinct 1,County Clerk - Unexpired Term,,,Over Votes,0,0,0,0
+Hamilton,Precinct 1,County Clerk - Unexpired Term,,,Under Votes,115,6,92,17
+Hamilton,Precinct 1,Sheriff,,REP,"Jason ""Brad"" Boulton",621,18,514,89
+Hamilton,Precinct 1,Sheriff,,,Over Votes,0,0,0,0
+Hamilton,Precinct 1,Sheriff,,,Under Votes,109,7,86,16
+Hamilton,Precinct 1,County Tax Assessor-Collector,,REP,Terry Payne Short,640,19,528,93
+Hamilton,Precinct 1,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hamilton,Precinct 1,County Tax Assessor-Collector,,,Under Votes,90,6,72,12
+Hamilton,Precinct 1,County Commissioner Pct 1,1,REP,Johnny Wagner,608,19,502,87
+Hamilton,Precinct 1,County Commissioner Pct 1,1,,Over Votes,0,0,0,0
+Hamilton,Precinct 1,County Commissioner Pct 1,1,,Under Votes,122,6,98,18
+Hamilton,Precinct 22,Registered Voters,,,,1152,,,
+Hamilton,Precinct 22,Ballots Cast,,,,809,22,664,123
+Hamilton,Precinct 22,Ballots Cast - Blank,,,,0,0,0,0
+Hamilton,Precinct 22,President,,REP,Donald J. Trump/JD Vance,667,13,559,95
+Hamilton,Precinct 22,President,,DEM,Kamala D. Harris/Tim Walz,129,9,97,23
+Hamilton,Precinct 22,President,,LIB,Chase Oliver/Mike ter Maat,8,0,5,3
+Hamilton,Precinct 22,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Hamilton,Precinct 22,President,,,Over Votes,0,0,0,0
+Hamilton,Precinct 22,President,,,Under Votes,3,0,2,1
+Hamilton,Precinct 22,U.S. Senate,,REP,Ted Cruz,644,12,540,92
+Hamilton,Precinct 22,U.S. Senate,,DEM,Colin Allred,143,9,109,25
+Hamilton,Precinct 22,U.S. Senate,,LIB,Ted Brown,17,1,13,3
+Hamilton,Precinct 22,U.S. Senate,,,Over Votes,0,0,0,0
+Hamilton,Precinct 22,U.S. Senate,,,Under Votes,4,0,1,3
+Hamilton,Precinct 22,U.S. House,31,REP,John Carter,681,15,562,104
+Hamilton,Precinct 22,U.S. House,31,DEM,Stuart Whitlow,111,7,89,15
+Hamilton,Precinct 22,U.S. House,31,,Over Votes,0,0,0,0
+Hamilton,Precinct 22,U.S. House,31,,Under Votes,17,0,13,4
+Hamilton,Precinct 22,Railroad Commissioner,,REP,Christi Craddick,658,15,544,99
+Hamilton,Precinct 22,Railroad Commissioner,,DEM,Katherine Culbert,104,7,80,17
+Hamilton,Precinct 22,Railroad Commissioner,,LIB,Hawk Dunlap,23,0,20,3
+Hamilton,Precinct 22,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,4,0
+Hamilton,Precinct 22,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hamilton,Precinct 22,Railroad Commissioner,,,Under Votes,20,0,16,4
+Hamilton,Precinct 22,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,671,15,559,97
+Hamilton,Precinct 22,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,107,7,82,18
+Hamilton,Precinct 22,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Hamilton,Precinct 22,"Justice, Supreme Court, Pl 2",2,,Under Votes,31,0,23,8
+Hamilton,Precinct 22,"Justice, Supreme Court, Pl 4",4,REP,John Devine,665,15,551,99
+Hamilton,Precinct 22,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,111,7,87,17
+Hamilton,Precinct 22,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Hamilton,Precinct 22,"Justice, Supreme Court, Pl 4",4,,Under Votes,33,0,26,7
+Hamilton,Precinct 22,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,639,15,533,91
+Hamilton,Precinct 22,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,110,7,83,20
+Hamilton,Precinct 22,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,31,0,26,5
+Hamilton,Precinct 22,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Hamilton,Precinct 22,"Justice, Supreme Court, Pl 6",6,,Under Votes,29,0,22,7
+Hamilton,Precinct 22,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,667,15,556,96
+Hamilton,Precinct 22,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,109,7,83,19
+Hamilton,Precinct 22,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Hamilton,Precinct 22,"Presiding Judge, Ct of Crim App",,,Under Votes,33,0,25,8
+Hamilton,Precinct 22,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,654,15,544,95
+Hamilton,Precinct 22,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,107,7,83,17
+Hamilton,Precinct 22,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Hamilton,Precinct 22,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,48,0,37,11
+Hamilton,Precinct 22,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,674,15,560,99
+Hamilton,Precinct 22,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,97,7,74,16
+Hamilton,Precinct 22,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Hamilton,Precinct 22,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,38,0,30,8
+Hamilton,Precinct 22,State Representative,59,REP,Shelby Slawson,667,15,553,99
+Hamilton,Precinct 22,State Representative,59,DEM,Hannah Bohm,116,7,91,18
+Hamilton,Precinct 22,State Representative,59,,Over Votes,0,0,0,0
+Hamilton,Precinct 22,State Representative,59,,Under Votes,26,0,20,6
+Hamilton,Precinct 22,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,701,16,577,108
+Hamilton,Precinct 22,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Hamilton,Precinct 22,"Chief Justice, 10th Ct of App Dist",,,Under Votes,108,6,87,15
+Hamilton,Precinct 22,District Attorney,,REP,Adam Sibley,689,14,574,101
+Hamilton,Precinct 22,District Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 22,District Attorney,,,Under Votes,120,8,90,22
+Hamilton,Precinct 22,County Attorney,,REP,Mark C. Henkes,711,18,592,101
+Hamilton,Precinct 22,County Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 22,County Attorney,,,Under Votes,98,4,72,22
+Hamilton,Precinct 22,County Clerk - Unexpired Term,,REP,Rachel Lamb Geeslin,702,16,586,100
+Hamilton,Precinct 22,County Clerk - Unexpired Term,,,Over Votes,0,0,0,0
+Hamilton,Precinct 22,County Clerk - Unexpired Term,,,Under Votes,107,6,78,23
+Hamilton,Precinct 22,Sheriff,,REP,"Jason ""Brad"" Boulton",717,16,596,105
+Hamilton,Precinct 22,Sheriff,,,Over Votes,0,0,0,0
+Hamilton,Precinct 22,Sheriff,,,Under Votes,92,6,68,18
+Hamilton,Precinct 22,County Tax Assessor-Collector,,REP,Terry Payne Short,728,19,608,101
+Hamilton,Precinct 22,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hamilton,Precinct 22,County Tax Assessor-Collector,,,Under Votes,81,3,56,22
+Hamilton,Precinct 23,Registered Voters,,,,1081,,,
+Hamilton,Precinct 23,Ballots Cast,,,,767,25,631,111
+Hamilton,Precinct 23,Ballots Cast - Blank,,,,0,0,0,0
+Hamilton,Precinct 23,President,,REP,Donald J. Trump/JD Vance,647,19,537,91
+Hamilton,Precinct 23,President,,DEM,Kamala D. Harris/Tim Walz,112,5,87,20
+Hamilton,Precinct 23,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Hamilton,Precinct 23,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Hamilton,Precinct 23,President,,,Over Votes,0,0,0,0
+Hamilton,Precinct 23,President,,,Under Votes,5,1,4,0
+Hamilton,Precinct 23,U.S. Senate,,REP,Ted Cruz,621,18,519,84
+Hamilton,Precinct 23,U.S. Senate,,DEM,Colin Allred,120,5,96,19
+Hamilton,Precinct 23,U.S. Senate,,LIB,Ted Brown,22,1,14,7
+Hamilton,Precinct 23,U.S. Senate,,,Over Votes,0,0,0,0
+Hamilton,Precinct 23,U.S. Senate,,,Under Votes,4,1,2,1
+Hamilton,Precinct 23,U.S. House,31,REP,John Carter,650,20,541,89
+Hamilton,Precinct 23,U.S. House,31,DEM,Stuart Whitlow,99,5,78,16
+Hamilton,Precinct 23,U.S. House,31,,Over Votes,0,0,0,0
+Hamilton,Precinct 23,U.S. House,31,,Under Votes,18,0,12,6
+Hamilton,Precinct 23,Railroad Commissioner,,REP,Christi Craddick,623,20,523,80
+Hamilton,Precinct 23,Railroad Commissioner,,DEM,Katherine Culbert,94,5,75,14
+Hamilton,Precinct 23,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,9,8
+Hamilton,Precinct 23,Railroad Commissioner,,GRN,Eddie Espinoza,9,0,8,1
+Hamilton,Precinct 23,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hamilton,Precinct 23,Railroad Commissioner,,,Under Votes,23,0,16,7
+Hamilton,Precinct 23,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,642,20,536,86
+Hamilton,Precinct 23,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,99,5,77,17
+Hamilton,Precinct 23,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Hamilton,Precinct 23,"Justice, Supreme Court, Pl 2",2,,Under Votes,26,0,18,8
+Hamilton,Precinct 23,"Justice, Supreme Court, Pl 4",4,REP,John Devine,632,20,526,86
+Hamilton,Precinct 23,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,109,5,86,18
+Hamilton,Precinct 23,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Hamilton,Precinct 23,"Justice, Supreme Court, Pl 4",4,,Under Votes,26,0,19,7
+Hamilton,Precinct 23,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,627,20,524,83
+Hamilton,Precinct 23,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,97,5,79,13
+Hamilton,Precinct 23,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,17,0,10,7
+Hamilton,Precinct 23,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Hamilton,Precinct 23,"Justice, Supreme Court, Pl 6",6,,Under Votes,26,0,18,8
+Hamilton,Precinct 23,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,629,20,525,84
+Hamilton,Precinct 23,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,113,5,88,20
+Hamilton,Precinct 23,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Hamilton,Precinct 23,"Presiding Judge, Ct of Crim App",,,Under Votes,25,0,18,7
+Hamilton,Precinct 23,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,617,20,515,82
+Hamilton,Precinct 23,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,101,4,81,16
+Hamilton,Precinct 23,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Hamilton,Precinct 23,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,49,1,35,13
+Hamilton,Precinct 23,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,644,20,539,85
+Hamilton,Precinct 23,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,90,5,69,16
+Hamilton,Precinct 23,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Hamilton,Precinct 23,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,33,0,23,10
+Hamilton,Precinct 23,State Representative,59,REP,Shelby Slawson,643,20,537,86
+Hamilton,Precinct 23,State Representative,59,DEM,Hannah Bohm,99,5,76,18
+Hamilton,Precinct 23,State Representative,59,,Over Votes,0,0,0,0
+Hamilton,Precinct 23,State Representative,59,,Under Votes,25,0,18,7
+Hamilton,Precinct 23,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,658,21,555,82
+Hamilton,Precinct 23,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Hamilton,Precinct 23,"Chief Justice, 10th Ct of App Dist",,,Under Votes,109,4,76,29
+Hamilton,Precinct 23,District Attorney,,REP,Adam Sibley,645,21,544,80
+Hamilton,Precinct 23,District Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 23,District Attorney,,,Under Votes,122,4,87,31
+Hamilton,Precinct 23,County Attorney,,REP,Mark C. Henkes,657,22,552,83
+Hamilton,Precinct 23,County Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 23,County Attorney,,,Under Votes,110,3,79,28
+Hamilton,Precinct 23,County Clerk - Unexpired Term,,REP,Rachel Lamb Geeslin,653,22,550,81
+Hamilton,Precinct 23,County Clerk - Unexpired Term,,,Over Votes,0,0,0,0
+Hamilton,Precinct 23,County Clerk - Unexpired Term,,,Under Votes,114,3,81,30
+Hamilton,Precinct 23,Sheriff,,REP,"Jason ""Brad"" Boulton",667,22,561,84
+Hamilton,Precinct 23,Sheriff,,,Over Votes,0,0,0,0
+Hamilton,Precinct 23,Sheriff,,,Under Votes,100,3,70,27
+Hamilton,Precinct 23,County Tax Assessor-Collector,,REP,Terry Payne Short,675,22,569,84
+Hamilton,Precinct 23,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hamilton,Precinct 23,County Tax Assessor-Collector,,,Under Votes,92,3,62,27
+Hamilton,Precinct 4,Registered Voters,,,,143,,,
+Hamilton,Precinct 4,Ballots Cast,,,,88,1,53,34
+Hamilton,Precinct 4,Ballots Cast - Blank,,,,0,0,0,0
+Hamilton,Precinct 4,President,,REP,Donald J. Trump/JD Vance,77,1,45,31
+Hamilton,Precinct 4,President,,DEM,Kamala D. Harris/Tim Walz,9,0,8,1
+Hamilton,Precinct 4,President,,LIB,Chase Oliver/Mike ter Maat,2,0,0,2
+Hamilton,Precinct 4,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Hamilton,Precinct 4,President,,,Over Votes,0,0,0,0
+Hamilton,Precinct 4,President,,,Under Votes,0,0,0,0
+Hamilton,Precinct 4,U.S. Senate,,REP,Ted Cruz,73,1,44,28
+Hamilton,Precinct 4,U.S. Senate,,DEM,Colin Allred,9,0,8,1
+Hamilton,Precinct 4,U.S. Senate,,LIB,Ted Brown,6,0,1,5
+Hamilton,Precinct 4,U.S. Senate,,,Over Votes,0,0,0,0
+Hamilton,Precinct 4,U.S. Senate,,,Under Votes,0,0,0,0
+Hamilton,Precinct 4,U.S. House,31,REP,John Carter,79,1,46,32
+Hamilton,Precinct 4,U.S. House,31,DEM,Stuart Whitlow,8,0,6,2
+Hamilton,Precinct 4,U.S. House,31,,Over Votes,0,0,0,0
+Hamilton,Precinct 4,U.S. House,31,,Under Votes,1,0,1,0
+Hamilton,Precinct 4,Railroad Commissioner,,REP,Christi Craddick,78,1,47,30
+Hamilton,Precinct 4,Railroad Commissioner,,DEM,Katherine Culbert,8,0,6,2
+Hamilton,Precinct 4,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,0,1
+Hamilton,Precinct 4,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Hamilton,Precinct 4,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hamilton,Precinct 4,Railroad Commissioner,,,Under Votes,1,0,0,1
+Hamilton,Precinct 4,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,79,1,46,32
+Hamilton,Precinct 4,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,8,0,7,1
+Hamilton,Precinct 4,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Hamilton,Precinct 4,"Justice, Supreme Court, Pl 2",2,,Under Votes,1,0,0,1
+Hamilton,Precinct 4,"Justice, Supreme Court, Pl 4",4,REP,John Devine,78,1,45,32
+Hamilton,Precinct 4,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,8,0,7,1
+Hamilton,Precinct 4,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Hamilton,Precinct 4,"Justice, Supreme Court, Pl 4",4,,Under Votes,2,0,1,1
+Hamilton,Precinct 4,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,77,1,46,30
+Hamilton,Precinct 4,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,7,0,6,1
+Hamilton,Precinct 4,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,3,0,1,2
+Hamilton,Precinct 4,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Hamilton,Precinct 4,"Justice, Supreme Court, Pl 6",6,,Under Votes,1,0,0,1
+Hamilton,Precinct 4,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,78,1,46,31
+Hamilton,Precinct 4,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,9,0,7,2
+Hamilton,Precinct 4,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Hamilton,Precinct 4,"Presiding Judge, Ct of Crim App",,,Under Votes,1,0,0,1
+Hamilton,Precinct 4,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,76,0,44,32
+Hamilton,Precinct 4,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,8,0,7,1
+Hamilton,Precinct 4,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Hamilton,Precinct 4,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,4,1,2,1
+Hamilton,Precinct 4,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,78,1,45,32
+Hamilton,Precinct 4,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,7,0,6,1
+Hamilton,Precinct 4,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Hamilton,Precinct 4,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,3,0,2,1
+Hamilton,Precinct 4,State Representative,59,REP,Shelby Slawson,78,1,45,32
+Hamilton,Precinct 4,State Representative,59,DEM,Hannah Bohm,8,0,7,1
+Hamilton,Precinct 4,State Representative,59,,Over Votes,0,0,0,0
+Hamilton,Precinct 4,State Representative,59,,Under Votes,2,0,1,1
+Hamilton,Precinct 4,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,82,1,52,29
+Hamilton,Precinct 4,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Hamilton,Precinct 4,"Chief Justice, 10th Ct of App Dist",,,Under Votes,6,0,1,5
+Hamilton,Precinct 4,District Attorney,,REP,Adam Sibley,78,1,52,25
+Hamilton,Precinct 4,District Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 4,District Attorney,,,Under Votes,10,0,1,9
+Hamilton,Precinct 4,County Attorney,,REP,Mark C. Henkes,79,1,52,26
+Hamilton,Precinct 4,County Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 4,County Attorney,,,Under Votes,9,0,1,8
+Hamilton,Precinct 4,County Clerk - Unexpired Term,,REP,Rachel Lamb Geeslin,78,1,52,25
+Hamilton,Precinct 4,County Clerk - Unexpired Term,,,Over Votes,0,0,0,0
+Hamilton,Precinct 4,County Clerk - Unexpired Term,,,Under Votes,10,0,1,9
+Hamilton,Precinct 4,Sheriff,,REP,"Jason ""Brad"" Boulton",80,1,51,28
+Hamilton,Precinct 4,Sheriff,,,Over Votes,0,0,0,0
+Hamilton,Precinct 4,Sheriff,,,Under Votes,8,0,2,6
+Hamilton,Precinct 4,County Tax Assessor-Collector,,REP,Terry Payne Short,79,1,52,26
+Hamilton,Precinct 4,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hamilton,Precinct 4,County Tax Assessor-Collector,,,Under Votes,9,0,1,8
+Hamilton,Precinct 5,Registered Voters,,,,157,,,
+Hamilton,Precinct 5,Ballots Cast,,,,128,1,102,25
+Hamilton,Precinct 5,Ballots Cast - Blank,,,,0,0,0,0
+Hamilton,Precinct 5,President,,REP,Donald J. Trump/JD Vance,114,1,94,19
+Hamilton,Precinct 5,President,,DEM,Kamala D. Harris/Tim Walz,9,0,4,5
+Hamilton,Precinct 5,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Hamilton,Precinct 5,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Hamilton,Precinct 5,President,,,Over Votes,0,0,0,0
+Hamilton,Precinct 5,President,,,Under Votes,1,0,1,0
+Hamilton,Precinct 5,U.S. Senate,,REP,Ted Cruz,113,1,94,18
+Hamilton,Precinct 5,U.S. Senate,,DEM,Colin Allred,11,0,5,6
+Hamilton,Precinct 5,U.S. Senate,,LIB,Ted Brown,2,0,2,0
+Hamilton,Precinct 5,U.S. Senate,,,Over Votes,0,0,0,0
+Hamilton,Precinct 5,U.S. Senate,,,Under Votes,2,0,1,1
+Hamilton,Precinct 5,U.S. House,31,REP,John Carter,116,1,98,17
+Hamilton,Precinct 5,U.S. House,31,DEM,Stuart Whitlow,9,0,4,5
+Hamilton,Precinct 5,U.S. House,31,,Over Votes,0,0,0,0
+Hamilton,Precinct 5,U.S. House,31,,Under Votes,3,0,0,3
+Hamilton,Precinct 5,Railroad Commissioner,,REP,Christi Craddick,110,0,92,18
+Hamilton,Precinct 5,Railroad Commissioner,,DEM,Katherine Culbert,12,0,8,4
+Hamilton,Precinct 5,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,1,0
+Hamilton,Precinct 5,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Hamilton,Precinct 5,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hamilton,Precinct 5,Railroad Commissioner,,,Under Votes,5,1,1,3
+Hamilton,Precinct 5,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,114,1,95,18
+Hamilton,Precinct 5,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,7,0,3,4
+Hamilton,Precinct 5,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Hamilton,Precinct 5,"Justice, Supreme Court, Pl 2",2,,Under Votes,7,0,4,3
+Hamilton,Precinct 5,"Justice, Supreme Court, Pl 4",4,REP,John Devine,109,1,90,18
+Hamilton,Precinct 5,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,11,0,7,4
+Hamilton,Precinct 5,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Hamilton,Precinct 5,"Justice, Supreme Court, Pl 4",4,,Under Votes,8,0,5,3
+Hamilton,Precinct 5,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,111,0,93,18
+Hamilton,Precinct 5,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,8,0,4,4
+Hamilton,Precinct 5,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,1,0,1,0
+Hamilton,Precinct 5,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Hamilton,Precinct 5,"Justice, Supreme Court, Pl 6",6,,Under Votes,8,1,4,3
+Hamilton,Precinct 5,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,110,0,91,19
+Hamilton,Precinct 5,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,10,1,6,3
+Hamilton,Precinct 5,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Hamilton,Precinct 5,"Presiding Judge, Ct of Crim App",,,Under Votes,8,0,5,3
+Hamilton,Precinct 5,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,112,1,92,19
+Hamilton,Precinct 5,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,6,0,3,3
+Hamilton,Precinct 5,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Hamilton,Precinct 5,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,10,0,7,3
+Hamilton,Precinct 5,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,110,1,92,17
+Hamilton,Precinct 5,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,10,0,5,5
+Hamilton,Precinct 5,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Hamilton,Precinct 5,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,8,0,5,3
+Hamilton,Precinct 5,State Representative,59,REP,Shelby Slawson,114,1,94,19
+Hamilton,Precinct 5,State Representative,59,DEM,Hannah Bohm,9,0,6,3
+Hamilton,Precinct 5,State Representative,59,,Over Votes,0,0,0,0
+Hamilton,Precinct 5,State Representative,59,,Under Votes,5,0,2,3
+Hamilton,Precinct 5,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,110,0,90,20
+Hamilton,Precinct 5,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Hamilton,Precinct 5,"Chief Justice, 10th Ct of App Dist",,,Under Votes,18,1,12,5
+Hamilton,Precinct 5,District Attorney,,REP,Adam Sibley,109,1,88,20
+Hamilton,Precinct 5,District Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 5,District Attorney,,,Under Votes,19,0,14,5
+Hamilton,Precinct 5,County Attorney,,REP,Mark C. Henkes,106,0,86,20
+Hamilton,Precinct 5,County Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 5,County Attorney,,,Under Votes,22,1,16,5
+Hamilton,Precinct 5,County Clerk - Unexpired Term,,REP,Rachel Lamb Geeslin,106,0,86,20
+Hamilton,Precinct 5,County Clerk - Unexpired Term,,,Over Votes,0,0,0,0
+Hamilton,Precinct 5,County Clerk - Unexpired Term,,,Under Votes,22,1,16,5
+Hamilton,Precinct 5,Sheriff,,REP,"Jason ""Brad"" Boulton",107,0,86,21
+Hamilton,Precinct 5,Sheriff,,,Over Votes,0,0,0,0
+Hamilton,Precinct 5,Sheriff,,,Under Votes,21,1,16,4
+Hamilton,Precinct 5,County Tax Assessor-Collector,,REP,Terry Payne Short,110,0,89,21
+Hamilton,Precinct 5,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hamilton,Precinct 5,County Tax Assessor-Collector,,,Under Votes,18,1,13,4
+Hamilton,Precinct 7,Registered Voters,,,,1627,,,
+Hamilton,Precinct 7,Ballots Cast,,,,1160,27,622,511
+Hamilton,Precinct 7,Ballots Cast - Blank,,,,0,0,0,0
+Hamilton,Precinct 7,President,,REP,Donald J. Trump/JD Vance,966,15,528,423
+Hamilton,Precinct 7,President,,DEM,Kamala D. Harris/Tim Walz,178,11,90,77
+Hamilton,Precinct 7,President,,LIB,Chase Oliver/Mike ter Maat,5,0,2,3
+Hamilton,Precinct 7,President,,GRN,Jill Stein/Rudolph Ware,3,0,0,3
+Hamilton,Precinct 7,President,,,Over Votes,0,0,0,0
+Hamilton,Precinct 7,President,,,Under Votes,2,0,1,1
+Hamilton,Precinct 7,U.S. Senate,,REP,Ted Cruz,939,18,520,401
+Hamilton,Precinct 7,U.S. Senate,,DEM,Colin Allred,194,9,92,93
+Hamilton,Precinct 7,U.S. Senate,,LIB,Ted Brown,21,0,6,15
+Hamilton,Precinct 7,U.S. Senate,,,Over Votes,0,0,0,0
+Hamilton,Precinct 7,U.S. Senate,,,Under Votes,4,0,3,1
+Hamilton,Precinct 7,U.S. House,31,REP,John Carter,995,18,538,439
+Hamilton,Precinct 7,U.S. House,31,DEM,Stuart Whitlow,145,9,76,60
+Hamilton,Precinct 7,U.S. House,31,,Over Votes,0,0,0,0
+Hamilton,Precinct 7,U.S. House,31,,Under Votes,20,0,8,12
+Hamilton,Precinct 7,Railroad Commissioner,,REP,Christi Craddick,949,17,523,409
+Hamilton,Precinct 7,Railroad Commissioner,,DEM,Katherine Culbert,148,9,78,61
+Hamilton,Precinct 7,Railroad Commissioner,,LIB,Hawk Dunlap,30,0,10,20
+Hamilton,Precinct 7,Railroad Commissioner,,GRN,Eddie Espinoza,9,0,1,8
+Hamilton,Precinct 7,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hamilton,Precinct 7,Railroad Commissioner,,,Under Votes,24,1,10,13
+Hamilton,Precinct 7,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,976,18,531,427
+Hamilton,Precinct 7,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,153,8,77,68
+Hamilton,Precinct 7,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Hamilton,Precinct 7,"Justice, Supreme Court, Pl 2",2,,Under Votes,31,1,14,16
+Hamilton,Precinct 7,"Justice, Supreme Court, Pl 4",4,REP,John Devine,963,17,527,419
+Hamilton,Precinct 7,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,162,9,79,74
+Hamilton,Precinct 7,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Hamilton,Precinct 7,"Justice, Supreme Court, Pl 4",4,,Under Votes,35,1,16,18
+Hamilton,Precinct 7,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,961,18,532,411
+Hamilton,Precinct 7,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,145,8,73,64
+Hamilton,Precinct 7,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,30,0,7,23
+Hamilton,Precinct 7,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Hamilton,Precinct 7,"Justice, Supreme Court, Pl 6",6,,Under Votes,24,1,10,13
+Hamilton,Precinct 7,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,972,17,529,426
+Hamilton,Precinct 7,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,158,9,81,68
+Hamilton,Precinct 7,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Hamilton,Precinct 7,"Presiding Judge, Ct of Crim App",,,Under Votes,30,1,12,17
+Hamilton,Precinct 7,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,947,17,520,410
+Hamilton,Precinct 7,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,157,9,78,70
+Hamilton,Precinct 7,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Hamilton,Precinct 7,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,56,1,24,31
+Hamilton,Precinct 7,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,985,18,533,434
+Hamilton,Precinct 7,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,139,8,72,59
+Hamilton,Precinct 7,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Hamilton,Precinct 7,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,36,1,17,18
+Hamilton,Precinct 7,State Representative,59,REP,Shelby Slawson,969,18,527,424
+Hamilton,Precinct 7,State Representative,59,DEM,Hannah Bohm,158,8,80,70
+Hamilton,Precinct 7,State Representative,59,,Over Votes,0,0,0,0
+Hamilton,Precinct 7,State Representative,59,,Under Votes,33,1,15,17
+Hamilton,Precinct 7,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Hamilton,Precinct 7,"Chief Justice, 10th Ct of App Dist",,,Under Votes,156,7,78,71
+Hamilton,Precinct 7,District Attorney,,REP,Adam Sibley,979,20,534,425
+Hamilton,Precinct 7,District Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 7,District Attorney,,,Under Votes,181,7,88,86
+Hamilton,Precinct 7,County Attorney,,REP,Mark C. Henkes,997,20,538,439
+Hamilton,Precinct 7,County Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 7,County Attorney,,,Under Votes,163,7,84,72
+Hamilton,Precinct 7,County Clerk - Unexpired Term,,REP,Rachel Lamb Geeslin,984,21,533,430
+Hamilton,Precinct 7,County Clerk - Unexpired Term,,,Over Votes,0,0,0,0
+Hamilton,Precinct 7,County Clerk - Unexpired Term,,,Under Votes,176,6,89,81
+Hamilton,Precinct 7,Sheriff,,REP,"Jason ""Brad"" Boulton",994,20,537,437
+Hamilton,Precinct 7,Sheriff,,,Over Votes,0,0,0,0
+Hamilton,Precinct 7,Sheriff,,,Under Votes,166,7,85,74
+Hamilton,Precinct 7,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hamilton,Precinct 7,County Tax Assessor-Collector,,,Under Votes,157,6,79,72
+Hamilton,Precinct 7,County Commissioner Pct 3,3,,Over Votes,0,0,0,0
+Hamilton,Precinct 7,County Commissioner Pct 3,3,,Under Votes,144,5,83,56
+Hamilton,Precinct 9,Registered Voters,,,,180,,,
+Hamilton,Precinct 9,Ballots Cast,,,,143,7,109,27
+Hamilton,Precinct 9,Ballots Cast - Blank,,,,1,0,1,0
+Hamilton,Precinct 9,President,,REP,Donald J. Trump/JD Vance,121,7,92,22
+Hamilton,Precinct 9,President,,DEM,Kamala D. Harris/Tim Walz,16,0,13,3
+Hamilton,Precinct 9,President,,LIB,Chase Oliver/Mike ter Maat,3,0,1,2
+Hamilton,Precinct 9,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Hamilton,Precinct 9,President,,,Over Votes,0,0,0,0
+Hamilton,Precinct 9,President,,,Under Votes,1,0,1,0
+Hamilton,Precinct 9,U.S. Senate,,REP,Ted Cruz,123,7,92,24
+Hamilton,Precinct 9,U.S. Senate,,DEM,Colin Allred,16,0,13,3
+Hamilton,Precinct 9,U.S. Senate,,LIB,Ted Brown,2,0,2,0
+Hamilton,Precinct 9,U.S. Senate,,,Over Votes,0,0,0,0
+Hamilton,Precinct 9,U.S. Senate,,,Under Votes,1,0,1,0
+Hamilton,Precinct 9,U.S. House,31,REP,John Carter,126,7,93,26
+Hamilton,Precinct 9,U.S. House,31,DEM,Stuart Whitlow,15,0,14,1
+Hamilton,Precinct 9,U.S. House,31,,Over Votes,0,0,0,0
+Hamilton,Precinct 9,U.S. House,31,,Under Votes,2,0,2,0
+Hamilton,Precinct 9,Railroad Commissioner,,REP,Christi Craddick,122,7,91,24
+Hamilton,Precinct 9,Railroad Commissioner,,DEM,Katherine Culbert,15,0,13,2
+Hamilton,Precinct 9,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,1,0
+Hamilton,Precinct 9,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Hamilton,Precinct 9,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hamilton,Precinct 9,Railroad Commissioner,,,Under Votes,4,0,3,1
+Hamilton,Precinct 9,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,123,6,93,24
+Hamilton,Precinct 9,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,16,1,14,1
+Hamilton,Precinct 9,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Hamilton,Precinct 9,"Justice, Supreme Court, Pl 2",2,,Under Votes,4,0,2,2
+Hamilton,Precinct 9,"Justice, Supreme Court, Pl 4",4,REP,John Devine,121,6,92,23
+Hamilton,Precinct 9,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,18,1,15,2
+Hamilton,Precinct 9,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Hamilton,Precinct 9,"Justice, Supreme Court, Pl 4",4,,Under Votes,4,0,2,2
+Hamilton,Precinct 9,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,121,7,91,23
+Hamilton,Precinct 9,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,16,0,14,2
+Hamilton,Precinct 9,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,2,0,2,0
+Hamilton,Precinct 9,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Hamilton,Precinct 9,"Justice, Supreme Court, Pl 6",6,,Under Votes,4,0,2,2
+Hamilton,Precinct 9,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,121,7,92,22
+Hamilton,Precinct 9,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,18,0,15,3
+Hamilton,Precinct 9,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Hamilton,Precinct 9,"Presiding Judge, Ct of Crim App",,,Under Votes,4,0,2,2
+Hamilton,Precinct 9,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,116,6,91,19
+Hamilton,Precinct 9,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,16,0,13,3
+Hamilton,Precinct 9,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Hamilton,Precinct 9,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,11,1,5,5
+Hamilton,Precinct 9,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,121,7,92,22
+Hamilton,Precinct 9,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,16,0,14,2
+Hamilton,Precinct 9,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Hamilton,Precinct 9,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,6,0,3,3
+Hamilton,Precinct 9,State Representative,59,REP,Shelby Slawson,119,6,89,24
+Hamilton,Precinct 9,State Representative,59,DEM,Hannah Bohm,17,1,15,1
+Hamilton,Precinct 9,State Representative,59,,Over Votes,0,0,0,0
+Hamilton,Precinct 9,State Representative,59,,Under Votes,7,0,5,2
+Hamilton,Precinct 9,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,127,7,96,24
+Hamilton,Precinct 9,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Hamilton,Precinct 9,"Chief Justice, 10th Ct of App Dist",,,Under Votes,16,0,13,3
+Hamilton,Precinct 9,District Attorney,,REP,Adam Sibley,127,7,96,24
+Hamilton,Precinct 9,District Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 9,District Attorney,,,Under Votes,16,0,13,3
+Hamilton,Precinct 9,County Attorney,,REP,Mark C. Henkes,128,7,96,25
+Hamilton,Precinct 9,County Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 9,County Attorney,,,Under Votes,15,0,13,2
+Hamilton,Precinct 9,County Clerk - Unexpired Term,,REP,Rachel Lamb Geeslin,125,7,94,24
+Hamilton,Precinct 9,County Clerk - Unexpired Term,,,Over Votes,0,0,0,0
+Hamilton,Precinct 9,County Clerk - Unexpired Term,,,Under Votes,18,0,15,3
+Hamilton,Precinct 9,Sheriff,,REP,"Jason ""Brad"" Boulton",125,7,93,25
+Hamilton,Precinct 9,Sheriff,,,Over Votes,0,0,0,0
+Hamilton,Precinct 9,Sheriff,,,Under Votes,18,0,16,2
+Hamilton,Precinct 9,County Tax Assessor-Collector,,REP,Terry Payne Short,132,7,100,25
+Hamilton,Precinct 9,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hamilton,Precinct 9,County Tax Assessor-Collector,,,Under Votes,11,0,9,2
+Hamilton,Precinct 12,Registered Voters,,,,238,,,
+Hamilton,Precinct 12,Ballots Cast,,,,203,5,166,32
+Hamilton,Precinct 12,Ballots Cast - Blank,,,,0,0,0,0
+Hamilton,Precinct 12,President,,REP,Donald J. Trump/JD Vance,185,3,158,24
+Hamilton,Precinct 12,President,,DEM,Kamala D. Harris/Tim Walz,16,2,6,8
+Hamilton,Precinct 12,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Hamilton,Precinct 12,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Hamilton,Precinct 12,President,,,Over Votes,0,0,0,0
+Hamilton,Precinct 12,President,,,Under Votes,0,0,0,0
+Hamilton,Precinct 12,U.S. Senate,,REP,Ted Cruz,176,3,153,20
+Hamilton,Precinct 12,U.S. Senate,,DEM,Colin Allred,22,2,9,11
+Hamilton,Precinct 12,U.S. Senate,,LIB,Ted Brown,4,0,3,1
+Hamilton,Precinct 12,U.S. Senate,,,Over Votes,0,0,0,0
+Hamilton,Precinct 12,U.S. Senate,,,Under Votes,1,0,1,0
+Hamilton,Precinct 12,U.S. House,31,REP,John Carter,181,3,154,24
+Hamilton,Precinct 12,U.S. House,31,DEM,Stuart Whitlow,14,2,5,7
+Hamilton,Precinct 12,U.S. House,31,,Over Votes,0,0,0,0
+Hamilton,Precinct 12,U.S. House,31,,Under Votes,8,0,7,1
+Hamilton,Precinct 12,Railroad Commissioner,,REP,Christi Craddick,177,3,152,22
+Hamilton,Precinct 12,Railroad Commissioner,,DEM,Katherine Culbert,16,2,6,8
+Hamilton,Precinct 12,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,2,0
+Hamilton,Precinct 12,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+Hamilton,Precinct 12,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hamilton,Precinct 12,Railroad Commissioner,,,Under Votes,7,0,6,1
+Hamilton,Precinct 12,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,180,3,154,23
+Hamilton,Precinct 12,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,15,2,5,8
+Hamilton,Precinct 12,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Hamilton,Precinct 12,"Justice, Supreme Court, Pl 2",2,,Under Votes,8,0,7,1
+Hamilton,Precinct 12,"Justice, Supreme Court, Pl 4",4,REP,John Devine,175,3,152,20
+Hamilton,Precinct 12,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,17,2,6,9
+Hamilton,Precinct 12,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Hamilton,Precinct 12,"Justice, Supreme Court, Pl 4",4,,Under Votes,11,0,8,3
+Hamilton,Precinct 12,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,176,3,150,23
+Hamilton,Precinct 12,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,16,2,6,8
+Hamilton,Precinct 12,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,5,0,4,1
+Hamilton,Precinct 12,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Hamilton,Precinct 12,"Justice, Supreme Court, Pl 6",6,,Under Votes,6,0,6,0
+Hamilton,Precinct 12,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,175,3,152,20
+Hamilton,Precinct 12,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,20,2,6,12
+Hamilton,Precinct 12,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Hamilton,Precinct 12,"Presiding Judge, Ct of Crim App",,,Under Votes,8,0,8,0
+Hamilton,Precinct 12,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,174,3,147,24
+Hamilton,Precinct 12,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,16,2,7,7
+Hamilton,Precinct 12,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Hamilton,Precinct 12,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,13,0,12,1
+Hamilton,Precinct 12,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,179,3,152,24
+Hamilton,Precinct 12,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,13,2,5,6
+Hamilton,Precinct 12,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Hamilton,Precinct 12,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,11,0,9,2
+Hamilton,Precinct 12,State Representative,59,REP,Shelby Slawson,177,3,153,21
+Hamilton,Precinct 12,State Representative,59,DEM,Hannah Bohm,16,2,5,9
+Hamilton,Precinct 12,State Representative,59,,Over Votes,0,0,0,0
+Hamilton,Precinct 12,State Representative,59,,Under Votes,10,0,8,2
+Hamilton,Precinct 12,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,178,5,146,27
+Hamilton,Precinct 12,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Hamilton,Precinct 12,"Chief Justice, 10th Ct of App Dist",,,Under Votes,25,0,20,5
+Hamilton,Precinct 12,District Attorney,,REP,Adam Sibley,175,5,144,26
+Hamilton,Precinct 12,District Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 12,District Attorney,,,Under Votes,28,0,22,6
+Hamilton,Precinct 12,County Attorney,,REP,Mark C. Henkes,168,5,138,25
+Hamilton,Precinct 12,County Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 12,County Attorney,,,Under Votes,35,0,28,7
+Hamilton,Precinct 12,County Clerk - Unexpired Term,,REP,Rachel Lamb Geeslin,180,5,146,29
+Hamilton,Precinct 12,County Clerk - Unexpired Term,,,Over Votes,0,0,0,0
+Hamilton,Precinct 12,County Clerk - Unexpired Term,,,Under Votes,23,0,20,3
+Hamilton,Precinct 12,Sheriff,,REP,"Jason ""Brad"" Boulton",172,5,141,26
+Hamilton,Precinct 12,Sheriff,,,Over Votes,0,0,0,0
+Hamilton,Precinct 12,Sheriff,,,Under Votes,31,0,25,6
+Hamilton,Precinct 12,County Tax Assessor-Collector,,REP,Terry Payne Short,183,5,150,28
+Hamilton,Precinct 12,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hamilton,Precinct 12,County Tax Assessor-Collector,,,Under Votes,20,0,16,4
+Hamilton,Precinct 14,Registered Voters,,,,202,,,
+Hamilton,Precinct 14,Ballots Cast,,,,151,5,103,43
+Hamilton,Precinct 14,Ballots Cast - Blank,,,,0,0,0,0
+Hamilton,Precinct 14,President,,REP,Donald J. Trump/JD Vance,135,5,94,36
+Hamilton,Precinct 14,President,,DEM,Kamala D. Harris/Tim Walz,16,0,9,7
+Hamilton,Precinct 14,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Hamilton,Precinct 14,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Hamilton,Precinct 14,President,,,Over Votes,0,0,0,0
+Hamilton,Precinct 14,President,,,Under Votes,0,0,0,0
+Hamilton,Precinct 14,U.S. Senate,,REP,Ted Cruz,133,5,94,34
+Hamilton,Precinct 14,U.S. Senate,,DEM,Colin Allred,17,0,9,8
+Hamilton,Precinct 14,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+Hamilton,Precinct 14,U.S. Senate,,,Over Votes,0,0,0,0
+Hamilton,Precinct 14,U.S. Senate,,,Under Votes,0,0,0,0
+Hamilton,Precinct 14,U.S. House,31,REP,John Carter,129,4,93,32
+Hamilton,Precinct 14,U.S. House,31,DEM,Stuart Whitlow,15,0,9,6
+Hamilton,Precinct 14,U.S. House,31,,Over Votes,0,0,0,0
+Hamilton,Precinct 14,U.S. House,31,,Under Votes,7,1,1,5
+Hamilton,Precinct 14,Railroad Commissioner,,REP,Christi Craddick,131,5,93,33
+Hamilton,Precinct 14,Railroad Commissioner,,DEM,Katherine Culbert,15,0,9,6
+Hamilton,Precinct 14,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,0,1
+Hamilton,Precinct 14,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Hamilton,Precinct 14,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hamilton,Precinct 14,Railroad Commissioner,,,Under Votes,4,0,1,3
+Hamilton,Precinct 14,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,130,5,92,33
+Hamilton,Precinct 14,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,17,0,10,7
+Hamilton,Precinct 14,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Hamilton,Precinct 14,"Justice, Supreme Court, Pl 2",2,,Under Votes,4,0,1,3
+Hamilton,Precinct 14,"Justice, Supreme Court, Pl 4",4,REP,John Devine,128,5,92,31
+Hamilton,Precinct 14,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,17,0,10,7
+Hamilton,Precinct 14,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Hamilton,Precinct 14,"Justice, Supreme Court, Pl 4",4,,Under Votes,6,0,1,5
+Hamilton,Precinct 14,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,127,5,91,31
+Hamilton,Precinct 14,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,15,0,9,6
+Hamilton,Precinct 14,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,3,0,2,1
+Hamilton,Precinct 14,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Hamilton,Precinct 14,"Justice, Supreme Court, Pl 6",6,,Under Votes,6,0,1,5
+Hamilton,Precinct 14,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,130,5,93,32
+Hamilton,Precinct 14,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,15,0,9,6
+Hamilton,Precinct 14,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Hamilton,Precinct 14,"Presiding Judge, Ct of Crim App",,,Under Votes,6,0,1,5
+Hamilton,Precinct 14,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,124,5,91,28
+Hamilton,Precinct 14,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,15,0,8,7
+Hamilton,Precinct 14,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Hamilton,Precinct 14,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,12,0,4,8
+Hamilton,Precinct 14,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,130,5,93,32
+Hamilton,Precinct 14,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,14,0,8,6
+Hamilton,Precinct 14,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Hamilton,Precinct 14,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,7,0,2,5
+Hamilton,Precinct 14,State Representative,59,REP,Shelby Slawson,126,4,90,32
+Hamilton,Precinct 14,State Representative,59,DEM,Hannah Bohm,17,0,9,8
+Hamilton,Precinct 14,State Representative,59,,Over Votes,0,0,0,0
+Hamilton,Precinct 14,State Representative,59,,Under Votes,8,1,4,3
+Hamilton,Precinct 14,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,133,5,97,31
+Hamilton,Precinct 14,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Hamilton,Precinct 14,"Chief Justice, 10th Ct of App Dist",,,Under Votes,18,0,6,12
+Hamilton,Precinct 14,District Attorney,,REP,Adam Sibley,130,5,95,30
+Hamilton,Precinct 14,District Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 14,District Attorney,,,Under Votes,21,0,8,13
+Hamilton,Precinct 14,County Attorney,,REP,Mark C. Henkes,136,5,96,35
+Hamilton,Precinct 14,County Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 14,County Attorney,,,Under Votes,15,0,7,8
+Hamilton,Precinct 14,County Clerk - Unexpired Term,,REP,Rachel Lamb Geeslin,133,5,96,32
+Hamilton,Precinct 14,County Clerk - Unexpired Term,,,Over Votes,0,0,0,0
+Hamilton,Precinct 14,County Clerk - Unexpired Term,,,Under Votes,18,0,7,11
+Hamilton,Precinct 14,Sheriff,,REP,"Jason ""Brad"" Boulton",136,5,97,34
+Hamilton,Precinct 14,Sheriff,,,Over Votes,0,0,0,0
+Hamilton,Precinct 14,Sheriff,,,Under Votes,15,0,6,9
+Hamilton,Precinct 14,County Tax Assessor-Collector,,REP,Terry Payne Short,141,5,99,37
+Hamilton,Precinct 14,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hamilton,Precinct 14,County Tax Assessor-Collector,,,Under Votes,10,0,4,6
+Hamilton,Precinct 14,County Commissioner Pct 1,1,REP,Johnny Wagner,136,5,95,36
+Hamilton,Precinct 14,County Commissioner Pct 1,1,,Over Votes,0,0,0,0
+Hamilton,Precinct 14,County Commissioner Pct 1,1,,Under Votes,15,0,8,7
+Hamilton,Precinct 15,Registered Voters,,,,240,,,
+Hamilton,Precinct 15,Ballots Cast,,,,167,2,103,62
+Hamilton,Precinct 15,Ballots Cast - Blank,,,,0,0,0,0
+Hamilton,Precinct 15,President,,REP,Donald J. Trump/JD Vance,149,1,97,51
+Hamilton,Precinct 15,President,,DEM,Kamala D. Harris/Tim Walz,15,1,6,8
+Hamilton,Precinct 15,President,,LIB,Chase Oliver/Mike ter Maat,2,0,0,2
+Hamilton,Precinct 15,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Hamilton,Precinct 15,President,,,Over Votes,0,0,0,0
+Hamilton,Precinct 15,President,,,Under Votes,1,0,0,1
+Hamilton,Precinct 15,U.S. Senate,,REP,Ted Cruz,145,1,94,50
+Hamilton,Precinct 15,U.S. Senate,,DEM,Colin Allred,13,1,7,5
+Hamilton,Precinct 15,U.S. Senate,,LIB,Ted Brown,7,0,2,5
+Hamilton,Precinct 15,U.S. Senate,,,Over Votes,0,0,0,0
+Hamilton,Precinct 15,U.S. Senate,,,Under Votes,2,0,0,2
+Hamilton,Precinct 15,U.S. House,31,REP,John Carter,149,1,94,54
+Hamilton,Precinct 15,U.S. House,31,DEM,Stuart Whitlow,14,1,6,7
+Hamilton,Precinct 15,U.S. House,31,,Over Votes,0,0,0,0
+Hamilton,Precinct 15,U.S. House,31,,Under Votes,4,0,3,1
+Hamilton,Precinct 15,Railroad Commissioner,,REP,Christi Craddick,145,1,93,51
+Hamilton,Precinct 15,Railroad Commissioner,,DEM,Katherine Culbert,13,1,5,7
+Hamilton,Precinct 15,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,2,1
+Hamilton,Precinct 15,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1
+Hamilton,Precinct 15,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hamilton,Precinct 15,Railroad Commissioner,,,Under Votes,3,0,2,1
+Hamilton,Precinct 15,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,147,1,95,51
+Hamilton,Precinct 15,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,12,1,6,5
+Hamilton,Precinct 15,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Hamilton,Precinct 15,"Justice, Supreme Court, Pl 2",2,,Under Votes,8,0,2,6
+Hamilton,Precinct 15,"Justice, Supreme Court, Pl 4",4,REP,John Devine,145,1,94,50
+Hamilton,Precinct 15,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,14,1,7,6
+Hamilton,Precinct 15,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Hamilton,Precinct 15,"Justice, Supreme Court, Pl 4",4,,Under Votes,8,0,2,6
+Hamilton,Precinct 15,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,146,1,96,49
+Hamilton,Precinct 15,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,10,1,4,5
+Hamilton,Precinct 15,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,5,0,1,4
+Hamilton,Precinct 15,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Hamilton,Precinct 15,"Justice, Supreme Court, Pl 6",6,,Under Votes,6,0,2,4
+Hamilton,Precinct 15,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,145,1,94,50
+Hamilton,Precinct 15,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,16,1,7,8
+Hamilton,Precinct 15,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Hamilton,Precinct 15,"Presiding Judge, Ct of Crim App",,,Under Votes,6,0,2,4
+Hamilton,Precinct 15,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,145,1,95,49
+Hamilton,Precinct 15,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,13,1,6,6
+Hamilton,Precinct 15,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Hamilton,Precinct 15,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,9,0,2,7
+Hamilton,Precinct 15,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,149,1,97,51
+Hamilton,Precinct 15,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,11,1,4,6
+Hamilton,Precinct 15,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Hamilton,Precinct 15,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,7,0,2,5
+Hamilton,Precinct 15,State Representative,59,REP,Shelby Slawson,145,1,94,50
+Hamilton,Precinct 15,State Representative,59,DEM,Hannah Bohm,14,1,7,6
+Hamilton,Precinct 15,State Representative,59,,Over Votes,0,0,0,0
+Hamilton,Precinct 15,State Representative,59,,Under Votes,8,0,2,6
+Hamilton,Precinct 15,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,147,1,95,51
+Hamilton,Precinct 15,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Hamilton,Precinct 15,"Chief Justice, 10th Ct of App Dist",,,Under Votes,20,1,8,11
+Hamilton,Precinct 15,District Attorney,,REP,Adam Sibley,144,1,94,49
+Hamilton,Precinct 15,District Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 15,District Attorney,,,Under Votes,23,1,9,13
+Hamilton,Precinct 15,County Attorney,,REP,Mark C. Henkes,147,1,95,51
+Hamilton,Precinct 15,County Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 15,County Attorney,,,Under Votes,20,1,8,11
+Hamilton,Precinct 15,County Clerk - Unexpired Term,,REP,Rachel Lamb Geeslin,146,1,95,50
+Hamilton,Precinct 15,County Clerk - Unexpired Term,,,Over Votes,0,0,0,0
+Hamilton,Precinct 15,County Clerk - Unexpired Term,,,Under Votes,21,1,8,12
+Hamilton,Precinct 15,Sheriff,,REP,"Jason ""Brad"" Boulton",146,1,91,54
+Hamilton,Precinct 15,Sheriff,,,Over Votes,0,0,0,0
+Hamilton,Precinct 15,Sheriff,,,Under Votes,21,1,12,8
+Hamilton,Precinct 15,County Tax Assessor-Collector,,REP,Terry Payne Short,148,1,97,50
+Hamilton,Precinct 15,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hamilton,Precinct 15,County Tax Assessor-Collector,,,Under Votes,19,1,6,12
+Hamilton,Precinct 15,County Commissioner Pct 1,1,REP,Johnny Wagner,144,1,93,50
+Hamilton,Precinct 15,County Commissioner Pct 1,1,,Over Votes,0,0,0,0
+Hamilton,Precinct 15,County Commissioner Pct 1,1,,Under Votes,23,1,10,12
+Hamilton,Precinct 17,Registered Voters,,,,186,,,
+Hamilton,Precinct 17,Ballots Cast,,,,149,5,96,48
+Hamilton,Precinct 17,Ballots Cast - Blank,,,,0,0,0,0
+Hamilton,Precinct 17,President,,REP,Donald J. Trump/JD Vance,129,2,85,42
+Hamilton,Precinct 17,President,,DEM,Kamala D. Harris/Tim Walz,19,3,10,6
+Hamilton,Precinct 17,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Hamilton,Precinct 17,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Hamilton,Precinct 17,President,,,Over Votes,0,0,0,0
+Hamilton,Precinct 17,President,,,Under Votes,1,0,1,0
+Hamilton,Precinct 17,U.S. Senate,,REP,Ted Cruz,127,2,83,42
+Hamilton,Precinct 17,U.S. Senate,,DEM,Colin Allred,20,3,11,6
+Hamilton,Precinct 17,U.S. Senate,,LIB,Ted Brown,1,0,1,0
+Hamilton,Precinct 17,U.S. Senate,,,Over Votes,0,0,0,0
+Hamilton,Precinct 17,U.S. Senate,,,Under Votes,1,0,1,0
+Hamilton,Precinct 17,U.S. House,31,REP,John Carter,132,2,87,43
+Hamilton,Precinct 17,U.S. House,31,DEM,Stuart Whitlow,16,2,9,5
+Hamilton,Precinct 17,U.S. House,31,,Over Votes,0,0,0,0
+Hamilton,Precinct 17,U.S. House,31,,Under Votes,1,1,0,0
+Hamilton,Precinct 17,Railroad Commissioner,,REP,Christi Craddick,124,2,81,41
+Hamilton,Precinct 17,Railroad Commissioner,,DEM,Katherine Culbert,15,2,8,5
+Hamilton,Precinct 17,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,4,1
+Hamilton,Precinct 17,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Hamilton,Precinct 17,Railroad Commissioner,,,Over Votes,0,0,0,0
+Hamilton,Precinct 17,Railroad Commissioner,,,Under Votes,4,1,2,1
+Hamilton,Precinct 17,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,130,2,85,43
+Hamilton,Precinct 17,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,17,2,10,5
+Hamilton,Precinct 17,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Hamilton,Precinct 17,"Justice, Supreme Court, Pl 2",2,,Under Votes,2,1,1,0
+Hamilton,Precinct 17,"Justice, Supreme Court, Pl 4",4,REP,John Devine,130,2,85,43
+Hamilton,Precinct 17,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,17,2,10,5
+Hamilton,Precinct 17,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Hamilton,Precinct 17,"Justice, Supreme Court, Pl 4",4,,Under Votes,2,1,1,0
+Hamilton,Precinct 17,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,125,2,83,40
+Hamilton,Precinct 17,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,16,2,9,5
+Hamilton,Precinct 17,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,7,0,4,3
+Hamilton,Precinct 17,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Hamilton,Precinct 17,"Justice, Supreme Court, Pl 6",6,,Under Votes,1,1,0,0
+Hamilton,Precinct 17,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,130,2,85,43
+Hamilton,Precinct 17,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,17,2,10,5
+Hamilton,Precinct 17,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Hamilton,Precinct 17,"Presiding Judge, Ct of Crim App",,,Under Votes,2,1,1,0
+Hamilton,Precinct 17,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,129,2,84,43
+Hamilton,Precinct 17,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,16,2,9,5
+Hamilton,Precinct 17,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Hamilton,Precinct 17,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,4,1,3,0
+Hamilton,Precinct 17,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,130,2,85,43
+Hamilton,Precinct 17,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,16,2,9,5
+Hamilton,Precinct 17,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Hamilton,Precinct 17,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,3,1,2,0
+Hamilton,Precinct 17,State Representative,59,REP,Shelby Slawson,130,2,85,43
+Hamilton,Precinct 17,State Representative,59,DEM,Hannah Bohm,17,2,10,5
+Hamilton,Precinct 17,State Representative,59,,Over Votes,0,0,0,0
+Hamilton,Precinct 17,State Representative,59,,Under Votes,2,1,1,0
+Hamilton,Precinct 17,"Chief Justice, 10th Ct of App Dist",,REP,Matt Johnson,130,2,83,45
+Hamilton,Precinct 17,"Chief Justice, 10th Ct of App Dist",,,Over Votes,0,0,0,0
+Hamilton,Precinct 17,"Chief Justice, 10th Ct of App Dist",,,Under Votes,19,3,13,3
+Hamilton,Precinct 17,District Attorney,,REP,Adam Sibley,126,2,81,43
+Hamilton,Precinct 17,District Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 17,District Attorney,,,Under Votes,23,3,15,5
+Hamilton,Precinct 17,County Attorney,,REP,Mark C. Henkes,129,2,83,44
+Hamilton,Precinct 17,County Attorney,,,Over Votes,0,0,0,0
+Hamilton,Precinct 17,County Attorney,,,Under Votes,20,3,13,4
+Hamilton,Precinct 17,County Clerk - Unexpired Term,,REP,Rachel Lamb Geeslin,128,2,83,43
+Hamilton,Precinct 17,County Clerk - Unexpired Term,,,Over Votes,0,0,0,0
+Hamilton,Precinct 17,County Clerk - Unexpired Term,,,Under Votes,21,3,13,5
+Hamilton,Precinct 17,Sheriff,,REP,"Jason ""Brad"" Boulton",124,2,80,42
+Hamilton,Precinct 17,Sheriff,,,Over Votes,0,0,0,0
+Hamilton,Precinct 17,Sheriff,,,Under Votes,25,3,16,6
+Hamilton,Precinct 17,County Tax Assessor-Collector,,REP,Terry Payne Short,127,2,83,42
+Hamilton,Precinct 17,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Hamilton,Precinct 17,County Tax Assessor-Collector,,,Under Votes,22,3,13,6

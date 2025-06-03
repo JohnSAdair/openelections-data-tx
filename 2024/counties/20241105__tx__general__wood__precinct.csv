@@ -1,0 +1,752 @@
+county,precinct,office,district,party,candidate,votes,absentee,early,election
+Wood,11,Ballots Cast,,,,2414,,,
+Wood,12,Ballots Cast,,,,2206,,,
+Wood,13,Ballots Cast,,,,1748,,,
+Wood,14,Ballots Cast,,,,630,,,
+Wood,21,Ballots Cast,,,,412,,,
+Wood,22,Ballots Cast,,,,3124,,,
+Wood,23,Ballots Cast,,,,2278,,,
+Wood,31,Ballots Cast,,,,1000,,,
+Wood,32,Ballots Cast,,,,2566,,,
+Wood,33,Ballots Cast,,,,2657,,,
+Wood,41,Ballots Cast,,,,646,,,
+Wood,42,Ballots Cast,,,,2036,,,
+Wood,42 - UHISD,Ballots Cast,,,,65,,,
+Wood,43,Ballots Cast,,,,2213,,,
+Wood,44,Ballots Cast,,,,508,,,
+Wood,11,Constable,1,REP,Robert Holland,2056,86,1712,258
+Wood,12,Constable,1,REP,Robert Holland,1907,86,1360,461
+Wood,13,Constable,1,REP,Robert Holland,1503,63,1058,382
+Wood,14,Constable,1,REP,Robert Holland,556,9,378,169
+Wood,31,Constable,1,REP,Robert Holland,863,25,695,143
+Wood,41,Constable,1,REP,Robert Holland,569,22,448,99
+Wood,44,Constable,1,REP,Robert Holland,438,20,349,69
+Wood,21,Constable,2,REP,Bobby Tucker,375,8,302,65
+Wood,22,Constable,2,REP,Bobby Tucker,2685,115,2099,471
+Wood,23,Constable,2,REP,Bobby Tucker,1873,81,1492,300
+Wood,32,Constable,3,REP,John McQueen,2175,102,1647,426
+Wood,33,Constable,3,REP,John McQueen,2284,67,1632,585
+Wood,42,Constable,4,REP,Chase Glover,1793,68,1422,303
+Wood,42 - UHISD,Constable,4,REP,Chase Glover,62,8,44,10
+Wood,43,Constable,4,REP,Chase Glover,1915,85,1478,352
+Wood,11,County Commissioner,1,REP,Justin Bowring,2066,86,1720,260
+Wood,12,County Commissioner,1,REP,Justin Bowring,1932,88,1373,471
+Wood,13,County Commissioner,1,REP,Justin Bowring,1508,62,1066,380
+Wood,14,County Commissioner,1,REP,Justin Bowring,553,9,377,167
+Wood,31,County Commissioner,3,DEM,Madeline Gibson,131,11,100,20
+Wood,32,County Commissioner,3,DEM,Madeline Gibson,380,47,267,66
+Wood,33,County Commissioner,3,DEM,Madeline Gibson,432,14,280,138
+Wood,31,County Commissioner,3,REP,Mike Simmons,825,25,663,137
+Wood,32,County Commissioner,3,REP,Mike Simmons,2095,96,1592,407
+Wood,33,County Commissioner,3,REP,Mike Simmons,2113,64,1538,511
+Wood,11,County Tax Assessor-Collector,,REP,Angie Luman,2082,87,1737,258
+Wood,12,County Tax Assessor-Collector,,REP,Angie Luman,1932,90,1368,474
+Wood,13,County Tax Assessor-Collector,,REP,Angie Luman,1501,62,1059,380
+Wood,14,County Tax Assessor-Collector,,REP,Angie Luman,551,9,374,168
+Wood,21,County Tax Assessor-Collector,,REP,Angie Luman,373,8,301,64
+Wood,22,County Tax Assessor-Collector,,REP,Angie Luman,2664,114,2085,465
+Wood,23,County Tax Assessor-Collector,,REP,Angie Luman,1886,83,1505,298
+Wood,31,County Tax Assessor-Collector,,REP,Angie Luman,863,26,693,144
+Wood,32,County Tax Assessor-Collector,,REP,Angie Luman,2162,105,1631,426
+Wood,33,County Tax Assessor-Collector,,REP,Angie Luman,2248,66,1607,575
+Wood,41,County Tax Assessor-Collector,,REP,Angie Luman,569,20,450,99
+Wood,42,County Tax Assessor-Collector,,REP,Angie Luman,1782,67,1418,297
+Wood,42 - UHISD,County Tax Assessor-Collector,,REP,Angie Luman,59,8,43,8
+Wood,43,County Tax Assessor-Collector,,REP,Angie Luman,1882,82,1455,345
+Wood,44,County Tax Assessor-Collector,,REP,Angie Luman,444,21,356,67
+Wood,11,District Judge,,REP,J. Brad McCampbell,2063,83,1716,264
+Wood,12,District Judge,,REP,J. Brad McCampbell,1932,92,1374,466
+Wood,13,District Judge,,REP,J. Brad McCampbell,1502,60,1062,380
+Wood,14,District Judge,,REP,J. Brad McCampbell,554,10,376,168
+Wood,21,District Judge,,REP,J. Brad McCampbell,368,8,298,62
+Wood,22,District Judge,,REP,J. Brad McCampbell,2654,113,2079,462
+Wood,23,District Judge,,REP,J. Brad McCampbell,1871,85,1492,294
+Wood,31,District Judge,,REP,J. Brad McCampbell,854,25,690,139
+Wood,32,District Judge,,REP,J. Brad McCampbell,2165,104,1634,427
+Wood,33,District Judge,,REP,J. Brad McCampbell,2253,66,1615,572
+Wood,41,District Judge,,REP,J. Brad McCampbell,574,21,453,100
+Wood,42,District Judge,,REP,J. Brad McCampbell,1777,65,1415,297
+Wood,42 - UHISD,District Judge,,REP,J. Brad McCampbell,60,8,44,8
+Wood,43,District Judge,,REP,J. Brad McCampbell,1878,81,1455,342
+Wood,44,District Judge,,REP,J. Brad McCampbell,448,21,356,71
+Wood,11,Judge,7,REP,Gina Parker,2016,87,1681,248
+Wood,12,Judge,7,REP,Gina Parker,1883,92,1348,443
+Wood,13,Judge,7,REP,Gina Parker,1489,61,1049,379
+Wood,14,Judge,7,REP,Gina Parker,563,10,382,171
+Wood,21,Judge,7,REP,Gina Parker,363,9,291,63
+Wood,22,Judge,7,REP,Gina Parker,2606,115,2048,443
+Wood,23,Judge,7,REP,Gina Parker,1834,88,1458,288
+Wood,31,Judge,7,REP,Gina Parker,853,27,683,143
+Wood,32,Judge,7,REP,Gina Parker,2119,102,1596,421
+Wood,33,Judge,7,REP,Gina Parker,2151,75,1553,523
+Wood,41,Judge,7,REP,Gina Parker,567,20,450,97
+Wood,42,Judge,7,REP,Gina Parker,1755,68,1404,283
+Wood,42 - UHISD,Judge,7,REP,Gina Parker,60,8,43,9
+Wood,43,Judge,7,REP,Gina Parker,1855,84,1434,337
+Wood,44,Judge,7,REP,Gina Parker,440,21,347,72
+Wood,11,Judge,7,DEM,Nancy Mulder,319,33,241,45
+Wood,12,Judge,7,DEM,Nancy Mulder,278,22,173,83
+Wood,13,Judge,7,DEM,Nancy Mulder,216,27,124,65
+Wood,14,Judge,7,DEM,Nancy Mulder,46,5,18,23
+Wood,21,Judge,7,DEM,Nancy Mulder,37,1,26,10
+Wood,22,Judge,7,DEM,Nancy Mulder,428,38,287,103
+Wood,23,Judge,7,DEM,Nancy Mulder,381,37,257,87
+Wood,31,Judge,7,DEM,Nancy Mulder,119,14,90,15
+Wood,32,Judge,7,DEM,Nancy Mulder,404,55,284,65
+Wood,33,Judge,7,DEM,Nancy Mulder,440,17,286,137
+Wood,41,Judge,7,DEM,Nancy Mulder,65,8,45,12
+Wood,42,Judge,7,DEM,Nancy Mulder,240,23,162,55
+Wood,42 - UHISD,Judge,7,DEM,Nancy Mulder,4,2,1,1
+Wood,43,Judge,7,DEM,Nancy Mulder,299,36,208,55
+Wood,44,Judge,7,DEM,Nancy Mulder,51,0,41,10
+Wood,11,Judge,8,DEM,Chika Anyiam,295,32,222,41
+Wood,12,Judge,8,DEM,Chika Anyiam,252,19,150,83
+Wood,13,Judge,8,DEM,Chika Anyiam,206,27,118,61
+Wood,14,Judge,8,DEM,Chika Anyiam,43,5,15,23
+Wood,21,Judge,8,DEM,Chika Anyiam,32,1,23,8
+Wood,22,Judge,8,DEM,Chika Anyiam,412,37,285,90
+Wood,23,Judge,8,DEM,Chika Anyiam,369,34,246,89
+Wood,31,Judge,8,DEM,Chika Anyiam,112,14,84,14
+Wood,32,Judge,8,DEM,Chika Anyiam,377,52,268,57
+Wood,33,Judge,8,DEM,Chika Anyiam,426,17,274,135
+Wood,41,Judge,8,DEM,Chika Anyiam,59,8,43,8
+Wood,42,Judge,8,DEM,Chika Anyiam,228,24,148,56
+Wood,42 - UHISD,Judge,8,DEM,Chika Anyiam,3,2,1,0
+Wood,43,Judge,8,DEM,Chika Anyiam,285,34,200,51
+Wood,44,Judge,8,DEM,Chika Anyiam,50,0,39,11
+Wood,11,Judge,8,REP,Lee Finley,2038,88,1697,253
+Wood,12,Judge,8,REP,Lee Finley,1908,95,1371,442
+Wood,13,Judge,8,REP,Lee Finley,1495,61,1053,381
+Wood,14,Judge,8,REP,Lee Finley,569,10,387,172
+Wood,21,Judge,8,REP,Lee Finley,368,9,293,66
+Wood,22,Judge,8,REP,Lee Finley,2626,116,2054,456
+Wood,23,Judge,8,REP,Lee Finley,1839,91,1461,287
+Wood,31,Judge,8,REP,Lee Finley,862,27,690,145
+Wood,32,Judge,8,REP,Lee Finley,2141,105,1608,428
+Wood,33,Judge,8,REP,Lee Finley,2161,76,1561,524
+Wood,41,Judge,8,REP,Lee Finley,573,20,452,101
+Wood,42,Judge,8,REP,Lee Finley,1767,67,1417,283
+Wood,42 - UHISD,Judge,8,REP,Lee Finley,61,8,43,10
+Wood,43,Judge,8,REP,Lee Finley,1871,87,1445,339
+Wood,44,Judge,8,REP,Lee Finley,441,21,350,70
+Wood,11,Justice,2,DEM,DaSean Jones,317,33,240,44
+Wood,12,Justice,2,DEM,DaSean Jones,270,21,166,83
+Wood,13,Justice,2,DEM,DaSean Jones,208,26,119,63
+Wood,14,Justice,2,DEM,DaSean Jones,46,5,18,23
+Wood,21,Justice,2,DEM,DaSean Jones,37,1,27,9
+Wood,22,Justice,2,DEM,DaSean Jones,421,37,287,97
+Wood,23,Justice,2,DEM,DaSean Jones,381,37,254,90
+Wood,31,Justice,2,DEM,DaSean Jones,124,15,94,15
+Wood,32,Justice,2,DEM,DaSean Jones,390,55,270,65
+Wood,33,Justice,2,DEM,DaSean Jones,435,19,281,135
+Wood,41,Justice,2,DEM,DaSean Jones,64,8,46,10
+Wood,42,Justice,2,DEM,DaSean Jones,231,25,148,58
+Wood,42 - UHISD,Justice,2,DEM,DaSean Jones,4,2,1,1
+Wood,43,Justice,2,DEM,DaSean Jones,297,35,210,52
+Wood,44,Justice,2,DEM,DaSean Jones,53,0,42,11
+Wood,11,Justice,2,REP,Jeff Rambin,2069,83,1722,264
+Wood,12,Justice,2,REP,Jeff Rambin,1944,88,1384,472
+Wood,13,Justice,2,REP,Jeff Rambin,1516,62,1073,381
+Wood,14,Justice,2,REP,Jeff Rambin,561,9,383,169
+Wood,21,Justice,2,REP,Jeff Rambin,371,9,298,64
+Wood,22,Justice,2,REP,Jeff Rambin,2690,116,2097,477
+Wood,23,Justice,2,REP,Jeff Rambin,1895,83,1508,304
+Wood,31,Justice,2,REP,Jeff Rambin,860,24,693,143
+Wood,32,Justice,2,REP,Jeff Rambin,2184,105,1643,436
+Wood,33,Justice,2,REP,Jeff Rambin,2265,66,1623,576
+Wood,41,Justice,2,REP,Jeff Rambin,581,21,457,103
+Wood,42,Justice,2,REP,Jeff Rambin,1795,67,1426,302
+Wood,42 - UHISD,Justice,2,REP,Jeff Rambin,61,8,44,9
+Wood,43,Justice,2,REP,Jeff Rambin,1888,79,1461,348
+Wood,44,Justice,2,REP,Jeff Rambin,443,21,354,68
+Wood,11,Justice,2,REP,Jimmy Blacklock,2023,87,1688,248
+Wood,12,Justice,2,REP,Jimmy Blacklock,1899,93,1359,447
+Wood,13,Justice,2,REP,Jimmy Blacklock,1497,61,1053,383
+Wood,14,Justice,2,REP,Jimmy Blacklock,571,10,387,174
+Wood,21,Justice,2,REP,Jimmy Blacklock,365,9,291,65
+Wood,22,Justice,2,REP,Jimmy Blacklock,2630,118,2060,452
+Wood,23,Justice,2,REP,Jimmy Blacklock,1838,91,1459,288
+Wood,31,Justice,2,REP,Jimmy Blacklock,852,28,682,142
+Wood,32,Justice,2,REP,Jimmy Blacklock,2133,102,1612,419
+Wood,33,Justice,2,REP,Jimmy Blacklock,2165,75,1561,529
+Wood,41,Justice,2,REP,Jimmy Blacklock,570,20,451,99
+Wood,42,Justice,2,REP,Jimmy Blacklock,1768,66,1419,283
+Wood,42 - UHISD,Justice,2,REP,Jimmy Blacklock,61,8,43,10
+Wood,43,Justice,2,REP,Jimmy Blacklock,1867,85,1441,341
+Wood,44,Justice,2,REP,Jimmy Blacklock,440,22,348,70
+Wood,11,Justice,3,REP,Greg Neeley,2051,82,1707,262
+Wood,12,Justice,3,REP,Greg Neeley,1925,88,1372,465
+Wood,13,Justice,3,REP,Greg Neeley,1498,62,1057,379
+Wood,14,Justice,3,REP,Greg Neeley,553,10,375,168
+Wood,21,Justice,3,REP,Greg Neeley,371,9,301,61
+Wood,22,Justice,3,REP,Greg Neeley,2671,116,2085,470
+Wood,23,Justice,3,REP,Greg Neeley,1876,82,1493,301
+Wood,31,Justice,3,REP,Greg Neeley,858,24,692,142
+Wood,32,Justice,3,REP,Greg Neeley,2165,104,1633,428
+Wood,33,Justice,3,REP,Greg Neeley,2250,67,1609,574
+Wood,41,Justice,3,REP,Greg Neeley,577,21,455,101
+Wood,42,Justice,3,REP,Greg Neeley,1781,67,1417,297
+Wood,42 - UHISD,Justice,3,REP,Greg Neeley,61,8,44,9
+Wood,43,Justice,3,REP,Greg Neeley,1882,81,1455,346
+Wood,44,Justice,3,REP,Greg Neeley,439,21,350,68
+Wood,11,Justice,4,DEM,Christine Vinh Weems,336,34,254,48
+Wood,12,Justice,4,DEM,Christine Vinh Weems,292,25,179,88
+Wood,13,Justice,4,DEM,Christine Vinh Weems,225,27,129,69
+Wood,14,Justice,4,DEM,Christine Vinh Weems,53,5,20,28
+Wood,21,Justice,4,DEM,Christine Vinh Weems,40,1,29,10
+Wood,22,Justice,4,DEM,Christine Vinh Weems,439,41,298,100
+Wood,23,Justice,4,DEM,Christine Vinh Weems,390,41,260,89
+Wood,31,Justice,4,DEM,Christine Vinh Weems,138,15,105,18
+Wood,32,Justice,4,DEM,Christine Vinh Weems,412,57,289,66
+Wood,33,Justice,4,DEM,Christine Vinh Weems,467,20,298,149
+Wood,41,Justice,4,DEM,Christine Vinh Weems,66,8,49,9
+Wood,42,Justice,4,DEM,Christine Vinh Weems,259,26,173,60
+Wood,42 - UHISD,Justice,4,DEM,Christine Vinh Weems,4,2,1,1
+Wood,43,Justice,4,DEM,Christine Vinh Weems,316,36,228,52
+Wood,44,Justice,4,DEM,Christine Vinh Weems,53,0,44,9
+Wood,11,Justice,4,REP,John Devine,2003,87,1673,243
+Wood,12,Justice,4,REP,John Devine,1872,88,1344,440
+Wood,13,Justice,4,REP,John Devine,1476,60,1044,372
+Wood,14,Justice,4,REP,John Devine,555,10,381,164
+Wood,21,Justice,4,REP,John Devine,361,9,289,63
+Wood,22,Justice,4,REP,John Devine,2586,114,2035,437
+Wood,23,Justice,4,REP,John Devine,1813,85,1442,286
+Wood,31,Justice,4,REP,John Devine,836,28,667,141
+Wood,32,Justice,4,REP,John Devine,2103,100,1587,416
+Wood,33,Justice,4,REP,John Devine,2121,74,1536,511
+Wood,41,Justice,4,REP,John Devine,567,20,448,99
+Wood,42,Justice,4,REP,John Devine,1740,66,1394,280
+Wood,42 - UHISD,Justice,4,REP,John Devine,60,8,43,9
+Wood,43,Justice,4,REP,John Devine,1845,84,1421,340
+Wood,44,Justice,4,REP,John Devine,437,22,342,73
+Wood,11,Justice,6,DEM,Bonnie Lee Goldstein,303,32,226,45
+Wood,12,Justice,6,DEM,Bonnie Lee Goldstein,267,22,160,85
+Wood,13,Justice,6,DEM,Bonnie Lee Goldstein,212,27,122,63
+Wood,14,Justice,6,DEM,Bonnie Lee Goldstein,44,5,16,23
+Wood,21,Justice,6,DEM,Bonnie Lee Goldstein,36,1,26,9
+Wood,22,Justice,6,DEM,Bonnie Lee Goldstein,419,40,286,93
+Wood,23,Justice,6,DEM,Bonnie Lee Goldstein,372,38,248,86
+Wood,31,Justice,6,DEM,Bonnie Lee Goldstein,116,15,89,12
+Wood,32,Justice,6,DEM,Bonnie Lee Goldstein,394,55,277,62
+Wood,33,Justice,6,DEM,Bonnie Lee Goldstein,418,19,275,124
+Wood,41,Justice,6,DEM,Bonnie Lee Goldstein,60,8,44,8
+Wood,42,Justice,6,DEM,Bonnie Lee Goldstein,231,24,153,54
+Wood,42 - UHISD,Justice,6,DEM,Bonnie Lee Goldstein,3,2,1,0
+Wood,43,Justice,6,DEM,Bonnie Lee Goldstein,280,35,200,45
+Wood,44,Justice,6,DEM,Bonnie Lee Goldstein,51,0,41,10
+Wood,11,Justice,6,LIB,J. David Roberson,51,2,37,12
+Wood,12,Justice,6,LIB,J. David Roberson,44,1,29,14
+Wood,13,Justice,6,LIB,J. David Roberson,19,1,9,9
+Wood,14,Justice,6,LIB,J. David Roberson,18,0,10,8
+Wood,21,Justice,6,LIB,J. David Roberson,9,0,7,2
+Wood,22,Justice,6,LIB,J. David Roberson,89,2,52,35
+Wood,23,Justice,6,LIB,J. David Roberson,51,1,33,17
+Wood,31,Justice,6,LIB,J. David Roberson,21,0,13,8
+Wood,32,Justice,6,LIB,J. David Roberson,48,1,26,21
+Wood,33,Justice,6,LIB,J. David Roberson,87,2,56,29
+Wood,41,Justice,6,LIB,J. David Roberson,14,0,6,8
+Wood,42,Justice,6,LIB,J. David Roberson,45,2,29,14
+Wood,42 - UHISD,Justice,6,LIB,J. David Roberson,2,0,1,1
+Wood,43,Justice,6,LIB,J. David Roberson,74,3,50,21
+Wood,44,Justice,6,LIB,J. David Roberson,15,0,12,3
+Wood,11,Justice,6,REP,Jane Bland,1985,86,1662,237
+Wood,12,Justice,6,REP,Jane Bland,1863,91,1337,435
+Wood,13,Justice,6,REP,Jane Bland,1477,59,1045,373
+Wood,14,Justice,6,REP,Jane Bland,551,10,377,164
+Wood,21,Justice,6,REP,Jane Bland,355,9,284,62
+Wood,22,Justice,6,REP,Jane Bland,2531,111,2001,419
+Wood,23,Justice,6,REP,Jane Bland,1795,88,1433,274
+Wood,31,Justice,6,REP,Jane Bland,839,28,673,138
+Wood,32,Justice,6,REP,Jane Bland,2082,101,1580,401
+Wood,33,Justice,6,REP,Jane Bland,2096,72,1514,510
+Wood,41,Justice,6,REP,Jane Bland,561,20,447,94
+Wood,42,Justice,6,REP,Jane Bland,1725,66,1388,271
+Wood,42 - UHISD,Justice,6,REP,Jane Bland,60,8,42,10
+Wood,43,Justice,6,REP,Jane Bland,1815,83,1404,328
+Wood,44,Justice,6,REP,Jane Bland,427,21,336,70
+Wood,11,President,,LIB,Chase Oliver,6,1,3,2
+Wood,12,President,,LIB,Chase Oliver,5,0,2,3
+Wood,13,President,,LIB,Chase Oliver,3,0,2,1
+Wood,14,President,,LIB,Chase Oliver,2,0,0,2
+Wood,21,President,,LIB,Chase Oliver,2,0,2,0
+Wood,22,President,,LIB,Chase Oliver,18,3,11,4
+Wood,23,President,,LIB,Chase Oliver,10,2,8,0
+Wood,31,President,,LIB,Chase Oliver,7,0,5,2
+Wood,32,President,,LIB,Chase Oliver,15,0,12,3
+Wood,33,President,,LIB,Chase Oliver,15,1,7,7
+Wood,41,President,,LIB,Chase Oliver,0,0,0,0
+Wood,42,President,,LIB,Chase Oliver,2,0,2,0
+Wood,42 - UHISD,President,,LIB,Chase Oliver,1,0,0,1
+Wood,43,President,,LIB,Chase Oliver,12,2,8,2
+Wood,44,President,,LIB,Chase Oliver,2,0,2,0
+Wood,11,President,,,Cherunda Fox/Harlan McVay,0,0,0,0
+Wood,12,President,,,Cherunda Fox/Harlan McVay,0,0,0,0
+Wood,13,President,,,Cherunda Fox/Harlan McVay,0,0,0,0
+Wood,14,President,,,Cherunda Fox/Harlan McVay,0,0,0,0
+Wood,21,President,,,Cherunda Fox/Harlan McVay,0,0,0,0
+Wood,22,President,,,Cherunda Fox/Harlan McVay,0,0,0,0
+Wood,23,President,,,Cherunda Fox/Harlan McVay,0,0,0,0
+Wood,31,President,,,Cherunda Fox/Harlan McVay,0,0,0,0
+Wood,32,President,,,Cherunda Fox/Harlan McVay,0,0,0,0
+Wood,33,President,,,Cherunda Fox/Harlan McVay,0,0,0,0
+Wood,41,President,,,Cherunda Fox/Harlan McVay,0,0,0,0
+Wood,42,President,,,Cherunda Fox/Harlan McVay,0,0,0,0
+Wood,42 - UHISD,President,,,Cherunda Fox/Harlan McVay,0,0,0,0
+Wood,43,President,,,Cherunda Fox/Harlan McVay,0,0,0,0
+Wood,44,President,,,Cherunda Fox/Harlan McVay,0,0,0,0
+Wood,11,President,,,Claudia De la Cruz/Karina Garcia,0,0,0,0
+Wood,12,President,,,Claudia De la Cruz/Karina Garcia,0,0,0,0
+Wood,13,President,,,Claudia De la Cruz/Karina Garcia,0,0,0,0
+Wood,14,President,,,Claudia De la Cruz/Karina Garcia,0,0,0,0
+Wood,21,President,,,Claudia De la Cruz/Karina Garcia,0,0,0,0
+Wood,22,President,,,Claudia De la Cruz/Karina Garcia,0,0,0,0
+Wood,23,President,,,Claudia De la Cruz/Karina Garcia,0,0,0,0
+Wood,31,President,,,Claudia De la Cruz/Karina Garcia,0,0,0,0
+Wood,32,President,,,Claudia De la Cruz/Karina Garcia,0,0,0,0
+Wood,33,President,,,Claudia De la Cruz/Karina Garcia,0,0,0,0
+Wood,41,President,,,Claudia De la Cruz/Karina Garcia,1,0,1,0
+Wood,42,President,,,Claudia De la Cruz/Karina Garcia,0,0,0,0
+Wood,42 - UHISD,President,,,Claudia De la Cruz/Karina Garcia,0,0,0,0
+Wood,43,President,,,Claudia De la Cruz/Karina Garcia,0,0,0,0
+Wood,44,President,,,Claudia De la Cruz/Karina Garcia,0,0,0,0
+Wood,11,President,,,Cornel West,0,0,0,0
+Wood,12,President,,,Cornel West,0,0,0,0
+Wood,13,President,,,Cornel West,0,0,0,0
+Wood,14,President,,,Cornel West,0,0,0,0
+Wood,21,President,,,Cornel West,0,0,0,0
+Wood,22,President,,,Cornel West,0,0,0,0
+Wood,23,President,,,Cornel West,0,0,0,0
+Wood,31,President,,,Cornel West,0,0,0,0
+Wood,32,President,,,Cornel West,0,0,0,0
+Wood,33,President,,,Cornel West,1,0,1,0
+Wood,41,President,,,Cornel West,0,0,0,0
+Wood,42,President,,,Cornel West,0,0,0,0
+Wood,42 - UHISD,President,,,Cornel West,0,0,0,0
+Wood,43,President,,,Cornel West,0,0,0,0
+Wood,44,President,,,Cornel West,0,0,0,0
+Wood,11,President,,REP,Donald J. Trump,2049,90,1706,253
+Wood,12,President,,REP,Donald J. Trump,1879,87,1348,444
+Wood,13,President,,REP,Donald J. Trump,1490,59,1049,382
+Wood,14,President,,REP,Donald J. Trump,574,10,393,171
+Wood,21,President,,REP,Donald J. Trump,359,9,285,65
+Wood,22,President,,REP,Donald J. Trump,2625,112,2063,450
+Wood,23,President,,REP,Donald J. Trump,1834,86,1454,294
+Wood,31,President,,REP,Donald J. Trump,856,30,682,144
+Wood,32,President,,REP,Donald J. Trump,2092,100,1578,414
+Wood,33,President,,REP,Donald J. Trump,2155,76,1550,529
+Wood,41,President,,REP,Donald J. Trump,580,20,459,101
+Wood,42,President,,REP,Donald J. Trump,1757,65,1404,288
+Wood,42 - UHISD,President,,REP,Donald J. Trump,60,8,43,9
+Wood,43,President,,REP,Donald J. Trump,1858,81,1431,346
+Wood,44,President,,REP,Donald J. Trump,453,24,352,77
+Wood,11,President,,,Jessie Cuellar,0,0,0,0
+Wood,12,President,,,Jessie Cuellar,0,0,0,0
+Wood,13,President,,,Jessie Cuellar,0,0,0,0
+Wood,14,President,,,Jessie Cuellar,0,0,0,0
+Wood,21,President,,,Jessie Cuellar,0,0,0,0
+Wood,22,President,,,Jessie Cuellar,0,0,0,0
+Wood,23,President,,,Jessie Cuellar,0,0,0,0
+Wood,31,President,,,Jessie Cuellar,0,0,0,0
+Wood,32,President,,,Jessie Cuellar,0,0,0,0
+Wood,33,President,,,Jessie Cuellar,0,0,0,0
+Wood,41,President,,,Jessie Cuellar,0,0,0,0
+Wood,42,President,,,Jessie Cuellar,0,0,0,0
+Wood,42 - UHISD,President,,,Jessie Cuellar,0,0,0,0
+Wood,43,President,,,Jessie Cuellar,0,0,0,0
+Wood,44,President,,,Jessie Cuellar,0,0,0,0
+Wood,11,President,,GRN,Jill Stein,2,0,0,2
+Wood,12,President,,GRN,Jill Stein,5,0,4,1
+Wood,13,President,,GRN,Jill Stein,6,0,4,2
+Wood,14,President,,GRN,Jill Stein,0,0,0,0
+Wood,21,President,,GRN,Jill Stein,2,0,2,0
+Wood,22,President,,GRN,Jill Stein,2,0,2,0
+Wood,23,President,,GRN,Jill Stein,4,1,0,3
+Wood,31,President,,GRN,Jill Stein,1,0,1,0
+Wood,32,President,,GRN,Jill Stein,4,0,3,1
+Wood,33,President,,GRN,Jill Stein,8,0,6,2
+Wood,41,President,,GRN,Jill Stein,3,0,2,1
+Wood,42,President,,GRN,Jill Stein,4,0,2,2
+Wood,42 - UHISD,President,,GRN,Jill Stein,0,0,0,0
+Wood,43,President,,GRN,Jill Stein,1,0,1,0
+Wood,44,President,,GRN,Jill Stein,0,0,0,0
+Wood,11,President,,DEM,Kamala D. Harris,345,33,266,46
+Wood,12,President,,DEM,Kamala D. Harris,307,26,186,95
+Wood,13,President,,DEM,Kamala D. Harris,238,30,138,70
+Wood,14,President,,DEM,Kamala D. Harris,53,5,17,31
+Wood,21,President,,DEM,Kamala D. Harris,42,1,32,9
+Wood,22,President,,DEM,Kamala D. Harris,466,42,315,109
+Wood,23,President,,DEM,Kamala D. Harris,423,45,283,95
+Wood,31,President,,DEM,Kamala D. Harris,131,15,99,17
+Wood,32,President,,DEM,Kamala D. Harris,437,58,302,77
+Wood,33,President,,DEM,Kamala D. Harris,468,22,304,142
+Wood,41,President,,DEM,Kamala D. Harris,62,8,45,9
+Wood,42,President,,DEM,Kamala D. Harris,263,27,177,59
+Wood,42 - UHISD,President,,DEM,Kamala D. Harris,4,2,1,1
+Wood,43,President,,DEM,Kamala D. Harris,327,39,236,52
+Wood,44,President,,DEM,Kamala D. Harris,52,0,42,10
+Wood,11,President,,,Peter Sonski,0,0,0,0
+Wood,12,President,,,Peter Sonski,0,0,0,0
+Wood,13,President,,,Peter Sonski,0,0,0,0
+Wood,14,President,,,Peter Sonski,0,0,0,0
+Wood,21,President,,,Peter Sonski,0,0,0,0
+Wood,22,President,,,Peter Sonski,0,0,0,0
+Wood,23,President,,,Peter Sonski,1,0,1,0
+Wood,31,President,,,Peter Sonski,0,0,0,0
+Wood,32,President,,,Peter Sonski,0,0,0,0
+Wood,33,President,,,Peter Sonski,1,0,1,0
+Wood,41,President,,,Peter Sonski,0,0,0,0
+Wood,42,President,,,Peter Sonski,0,0,0,0
+Wood,42 - UHISD,President,,,Peter Sonski,0,0,0,0
+Wood,43,President,,,Peter Sonski,1,0,1,0
+Wood,44,President,,,Peter Sonski,0,0,0,0
+Wood,11,President,,,Shiva Ayyaduria,0,0,0,0
+Wood,12,President,,,Shiva Ayyaduria,0,0,0,0
+Wood,13,President,,,Shiva Ayyaduria,0,0,0,0
+Wood,14,President,,,Shiva Ayyaduria,0,0,0,0
+Wood,21,President,,,Shiva Ayyaduria,0,0,0,0
+Wood,22,President,,,Shiva Ayyaduria,0,0,0,0
+Wood,23,President,,,Shiva Ayyaduria,0,0,0,0
+Wood,31,President,,,Shiva Ayyaduria,0,0,0,0
+Wood,32,President,,,Shiva Ayyaduria,0,0,0,0
+Wood,33,President,,,Shiva Ayyaduria,0,0,0,0
+Wood,41,President,,,Shiva Ayyaduria,0,0,0,0
+Wood,42,President,,,Shiva Ayyaduria,0,0,0,0
+Wood,42 - UHISD,President,,,Shiva Ayyaduria,0,0,0,0
+Wood,43,President,,,Shiva Ayyaduria,0,0,0,0
+Wood,44,President,,,Shiva Ayyaduria,0,0,0,0
+Wood,11,President,,,Unassigned write-ins,0,0,0,0
+Wood,12,President,,,Unassigned write-ins,0,0,0,0
+Wood,13,President,,,Unassigned write-ins,0,0,0,0
+Wood,14,President,,,Unassigned write-ins,0,0,0,0
+Wood,21,President,,,Unassigned write-ins,0,0,0,0
+Wood,22,President,,,Unassigned write-ins,0,0,0,0
+Wood,23,President,,,Unassigned write-ins,0,0,0,0
+Wood,31,President,,,Unassigned write-ins,0,0,0,0
+Wood,32,President,,,Unassigned write-ins,0,0,0,0
+Wood,33,President,,,Unassigned write-ins,0,0,0,0
+Wood,41,President,,,Unassigned write-ins,0,0,0,0
+Wood,42,President,,,Unassigned write-ins,0,0,0,0
+Wood,42 - UHISD,President,,,Unassigned write-ins,0,0,0,0
+Wood,43,President,,,Unassigned write-ins,0,0,0,0
+Wood,44,President,,,Unassigned write-ins,0,0,0,0
+Wood,11,Presiding Judge,,REP,David J. Schenck,2011,88,1678,245
+Wood,12,Presiding Judge,,REP,David J. Schenck,1888,92,1352,444
+Wood,13,Presiding Judge,,REP,David J. Schenck,1488,62,1048,378
+Wood,14,Presiding Judge,,REP,David J. Schenck,562,10,386,166
+Wood,21,Presiding Judge,,REP,David J. Schenck,362,9,288,65
+Wood,22,Presiding Judge,,REP,David J. Schenck,2600,110,2047,443
+Wood,23,Presiding Judge,,REP,David J. Schenck,1809,85,1446,278
+Wood,31,Presiding Judge,,REP,David J. Schenck,846,28,678,140
+Wood,32,Presiding Judge,,REP,David J. Schenck,2100,99,1582,419
+Wood,33,Presiding Judge,,REP,David J. Schenck,2134,75,1546,513
+Wood,41,Presiding Judge,,REP,David J. Schenck,562,20,444,98
+Wood,42,Presiding Judge,,REP,David J. Schenck,1748,67,1403,278
+Wood,42 - UHISD,Presiding Judge,,REP,David J. Schenck,61,8,43,10
+Wood,43,Presiding Judge,,REP,David J. Schenck,1854,85,1432,337
+Wood,44,Presiding Judge,,REP,David J. Schenck,440,21,346,73
+Wood,11,Presiding Judge,,DEM,Holly Taylor,329,33,246,50
+Wood,12,Presiding Judge,,DEM,Holly Taylor,277,21,171,85
+Wood,13,Presiding Judge,,DEM,Holly Taylor,220,26,126,68
+Wood,14,Presiding Judge,,DEM,Holly Taylor,51,5,17,29
+Wood,21,Presiding Judge,,DEM,Holly Taylor,39,1,29,9
+Wood,22,Presiding Judge,,DEM,Holly Taylor,447,45,298,104
+Wood,23,Presiding Judge,,DEM,Holly Taylor,409,41,268,100
+Wood,31,Presiding Judge,,DEM,Holly Taylor,129,14,97,18
+Wood,32,Presiding Judge,,DEM,Holly Taylor,421,56,298,67
+Wood,33,Presiding Judge,,DEM,Holly Taylor,466,19,297,150
+Wood,41,Presiding Judge,,DEM,Holly Taylor,69,8,50,11
+Wood,42,Presiding Judge,,DEM,Holly Taylor,251,24,166,61
+Wood,42 - UHISD,Presiding Judge,,DEM,Holly Taylor,4,2,1,1
+Wood,43,Presiding Judge,,DEM,Holly Taylor,311,36,219,56
+Wood,44,Presiding Judge,,DEM,Holly Taylor,53,0,43,10
+Wood,11,Railroad Commissioner,,REP,Christi Craddick,1970,86,1647,237
+Wood,12,Railroad Commissioner,,REP,Christi Craddick,1853,95,1331,427
+Wood,13,Railroad Commissioner,,REP,Christi Craddick,1460,59,1035,366
+Wood,14,Railroad Commissioner,,REP,Christi Craddick,535,10,377,148
+Wood,21,Railroad Commissioner,,REP,Christi Craddick,356,9,286,61
+Wood,22,Railroad Commissioner,,REP,Christi Craddick,2536,116,1998,422
+Wood,23,Railroad Commissioner,,REP,Christi Craddick,1768,85,1415,268
+Wood,31,Railroad Commissioner,,REP,Christi Craddick,826,29,662,135
+Wood,32,Railroad Commissioner,,REP,Christi Craddick,2072,99,1570,403
+Wood,33,Railroad Commissioner,,REP,Christi Craddick,2054,71,1485,498
+Wood,41,Railroad Commissioner,,REP,Christi Craddick,560,20,443,97
+Wood,42,Railroad Commissioner,,REP,Christi Craddick,1723,68,1384,271
+Wood,42 - UHISD,Railroad Commissioner,,REP,Christi Craddick,60,8,42,10
+Wood,43,Railroad Commissioner,,REP,Christi Craddick,1815,86,1402,327
+Wood,44,Railroad Commissioner,,REP,Christi Craddick,424,22,335,67
+Wood,11,Railroad Commissioner,,GRN,Eddie Espinoza,14,0,11,3
+Wood,12,Railroad Commissioner,,GRN,Eddie Espinoza,20,0,12,8
+Wood,13,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,4,2
+Wood,14,Railroad Commissioner,,GRN,Eddie Espinoza,6,1,2,3
+Wood,21,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,2,1
+Wood,22,Railroad Commissioner,,GRN,Eddie Espinoza,36,3,19,14
+Wood,23,Railroad Commissioner,,GRN,Eddie Espinoza,23,3,16,4
+Wood,31,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,6,1
+Wood,32,Railroad Commissioner,,GRN,Eddie Espinoza,21,0,12,9
+Wood,33,Railroad Commissioner,,GRN,Eddie Espinoza,28,0,13,15
+Wood,41,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,6,1
+Wood,42,Railroad Commissioner,,GRN,Eddie Espinoza,24,0,16,8
+Wood,42 - UHISD,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Wood,43,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,5,1
+Wood,44,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1
+Wood,11,Railroad Commissioner,,LIB,Hawk Dunlap,64,0,47,17
+Wood,12,Railroad Commissioner,,LIB,Hawk Dunlap,49,0,29,20
+Wood,13,Railroad Commissioner,,LIB,Hawk Dunlap,29,1,16,12
+Wood,14,Railroad Commissioner,,LIB,Hawk Dunlap,26,0,10,16
+Wood,21,Railroad Commissioner,,LIB,Hawk Dunlap,18,0,12,6
+Wood,22,Railroad Commissioner,,LIB,Hawk Dunlap,75,2,47,26
+Wood,23,Railroad Commissioner,,LIB,Hawk Dunlap,58,2,38,18
+Wood,31,Railroad Commissioner,,LIB,Hawk Dunlap,36,1,28,7
+Wood,32,Railroad Commissioner,,LIB,Hawk Dunlap,52,1,32,19
+Wood,33,Railroad Commissioner,,LIB,Hawk Dunlap,120,2,80,38
+Wood,41,Railroad Commissioner,,LIB,Hawk Dunlap,12,0,8,4
+Wood,42,Railroad Commissioner,,LIB,Hawk Dunlap,55,1,39,15
+Wood,42 - UHISD,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,1,0
+Wood,43,Railroad Commissioner,,LIB,Hawk Dunlap,72,1,47,24
+Wood,44,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,13,4
+Wood,11,Railroad Commissioner,,DEM,Katherine Culbert,300,35,228,37
+Wood,12,Railroad Commissioner,,DEM,Katherine Culbert,250,19,155,76
+Wood,13,Railroad Commissioner,,DEM,Katherine Culbert,207,27,118,62
+Wood,14,Railroad Commissioner,,DEM,Katherine Culbert,45,4,15,26
+Wood,21,Railroad Commissioner,,DEM,Katherine Culbert,26,1,19,6
+Wood,22,Railroad Commissioner,,DEM,Katherine Culbert,398,33,282,83
+Wood,23,Railroad Commissioner,,DEM,Katherine Culbert,366,38,239,89
+Wood,31,Railroad Commissioner,,DEM,Katherine Culbert,108,14,81,13
+Wood,32,Railroad Commissioner,,DEM,Katherine Culbert,380,55,271,54
+Wood,33,Railroad Commissioner,,DEM,Katherine Culbert,396,20,266,110
+Wood,41,Railroad Commissioner,,DEM,Katherine Culbert,54,8,39,7
+Wood,42,Railroad Commissioner,,DEM,Katherine Culbert,207,23,136,48
+Wood,42 - UHISD,Railroad Commissioner,,DEM,Katherine Culbert,3,2,1,0
+Wood,43,Railroad Commissioner,,DEM,Katherine Culbert,278,32,202,44
+Wood,44,Railroad Commissioner,,DEM,Katherine Culbert,48,0,40,8
+Wood,11,Railroad Commissioner,,,Richard McKibbin,1,0,0,1
+Wood,12,Railroad Commissioner,,,Richard McKibbin,0,0,0,0
+Wood,13,Railroad Commissioner,,,Richard McKibbin,0,0,0,0
+Wood,14,Railroad Commissioner,,,Richard McKibbin,1,0,0,1
+Wood,21,Railroad Commissioner,,,Richard McKibbin,0,0,0,0
+Wood,22,Railroad Commissioner,,,Richard McKibbin,0,0,0,0
+Wood,23,Railroad Commissioner,,,Richard McKibbin,2,0,2,0
+Wood,31,Railroad Commissioner,,,Richard McKibbin,1,0,1,0
+Wood,32,Railroad Commissioner,,,Richard McKibbin,1,0,1,0
+Wood,33,Railroad Commissioner,,,Richard McKibbin,0,0,0,0
+Wood,41,Railroad Commissioner,,,Richard McKibbin,1,0,1,0
+Wood,42,Railroad Commissioner,,,Richard McKibbin,0,0,0,0
+Wood,42 - UHISD,Railroad Commissioner,,,Richard McKibbin,0,0,0,0
+Wood,43,Railroad Commissioner,,,Richard McKibbin,0,0,0,0
+Wood,44,Railroad Commissioner,,,Richard McKibbin,1,0,1,0
+Wood,11,Railroad Commissioner,,,Unassigned write-ins,0,0,0,0
+Wood,12,Railroad Commissioner,,,Unassigned write-ins,0,0,0,0
+Wood,13,Railroad Commissioner,,,Unassigned write-ins,0,0,0,0
+Wood,14,Railroad Commissioner,,,Unassigned write-ins,0,0,0,0
+Wood,21,Railroad Commissioner,,,Unassigned write-ins,0,0,0,0
+Wood,22,Railroad Commissioner,,,Unassigned write-ins,0,0,0,0
+Wood,23,Railroad Commissioner,,,Unassigned write-ins,0,0,0,0
+Wood,31,Railroad Commissioner,,,Unassigned write-ins,0,0,0,0
+Wood,32,Railroad Commissioner,,,Unassigned write-ins,0,0,0,0
+Wood,33,Railroad Commissioner,,,Unassigned write-ins,0,0,0,0
+Wood,41,Railroad Commissioner,,,Unassigned write-ins,0,0,0,0
+Wood,42,Railroad Commissioner,,,Unassigned write-ins,0,0,0,0
+Wood,42 - UHISD,Railroad Commissioner,,,Unassigned write-ins,0,0,0,0
+Wood,43,Railroad Commissioner,,,Unassigned write-ins,0,0,0,0
+Wood,44,Railroad Commissioner,,,Unassigned write-ins,0,0,0,0
+Wood,11,Registered Voters,,,,3456,,,
+Wood,12,Registered Voters,,,,2984,,,
+Wood,13,Registered Voters,,,,2460,,,
+Wood,14,Registered Voters,,,,827,,,
+Wood,21,Registered Voters,,,,575,,,
+Wood,22,Registered Voters,,,,4585,,,
+Wood,23,Registered Voters,,,,3315,,,
+Wood,31,Registered Voters,,,,1363,,,
+Wood,32,Registered Voters,,,,3329,,,
+Wood,33,Registered Voters,,,,4190,,,
+Wood,41,Registered Voters,,,,909,,,
+Wood,42,Registered Voters,,,,2982,,,
+Wood,42 - UHISD,Registered Voters,,,,159,,,
+Wood,43,Registered Voters,,,,3322,,,
+Wood,44,Registered Voters,,,,833,,,
+Wood,11,Sheriff,,REP,Kelly Cole,2080,87,1732,261
+Wood,12,Sheriff,,REP,Kelly Cole,1944,90,1382,472
+Wood,13,Sheriff,,REP,Kelly Cole,1520,64,1068,388
+Wood,14,Sheriff,,REP,Kelly Cole,553,9,374,170
+Wood,21,Sheriff,,REP,Kelly Cole,375,8,303,64
+Wood,22,Sheriff,,REP,Kelly Cole,2684,116,2101,467
+Wood,23,Sheriff,,REP,Kelly Cole,1891,83,1512,296
+Wood,31,Sheriff,,REP,Kelly Cole,856,25,691,140
+Wood,32,Sheriff,,REP,Kelly Cole,2184,105,1649,430
+Wood,33,Sheriff,,REP,Kelly Cole,2252,65,1617,570
+Wood,41,Sheriff,,REP,Kelly Cole,576,22,453,101
+Wood,42,Sheriff,,REP,Kelly Cole,1790,67,1423,300
+Wood,42 - UHISD,Sheriff,,REP,Kelly Cole,58,7,43,8
+Wood,43,Sheriff,,REP,Kelly Cole,1900,82,1470,348
+Wood,44,Sheriff,,REP,Kelly Cole,439,22,349,68
+Wood,11,State House,5,REP,Cole Hefner,2104,82,1757,265
+Wood,12,State House,5,REP,Cole Hefner,1944,92,1385,467
+Wood,13,State House,5,REP,Cole Hefner,1539,58,1081,400
+Wood,14,State House,5,REP,Cole Hefner,564,7,378,179
+Wood,21,State House,5,REP,Cole Hefner,369,8,296,65
+Wood,22,State House,5,REP,Cole Hefner,2727,114,2128,485
+Wood,23,State House,5,REP,Cole Hefner,1928,85,1528,315
+Wood,31,State House,5,REP,Cole Hefner,872,27,700,145
+Wood,32,State House,5,REP,Cole Hefner,2175,104,1632,439
+Wood,33,State House,5,REP,Cole Hefner,2271,68,1618,585
+Wood,41,State House,5,REP,Cole Hefner,584,20,462,102
+Wood,42,State House,5,REP,Cole Hefner,1786,65,1412,309
+Wood,42 - UHISD,State House,5,REP,Cole Hefner,62,8,43,11
+Wood,43,State House,5,REP,Cole Hefner,1909,85,1467,357
+Wood,44,State House,5,REP,Cole Hefner,449,22,354,73
+Wood,11,State House,5,,Nancy A. Nichols,33,9,19,5
+Wood,12,State House,5,,Nancy A. Nichols,23,1,15,7
+Wood,13,State House,5,,Nancy A. Nichols,24,2,13,9
+Wood,14,State House,5,,Nancy A. Nichols,10,0,6,4
+Wood,21,State House,5,,Nancy A. Nichols,7,1,3,3
+Wood,22,State House,5,,Nancy A. Nichols,50,5,34,11
+Wood,23,State House,5,,Nancy A. Nichols,43,10,29,4
+Wood,31,State House,5,,Nancy A. Nichols,22,2,18,2
+Wood,32,State House,5,,Nancy A. Nichols,72,11,51,10
+Wood,33,State House,5,,Nancy A. Nichols,45,3,31,11
+Wood,41,State House,5,,Nancy A. Nichols,14,3,10,1
+Wood,42,State House,5,,Nancy A. Nichols,22,2,18,2
+Wood,42 - UHISD,State House,5,,Nancy A. Nichols,2,2,0,0
+Wood,43,State House,5,,Nancy A. Nichols,37,5,28,4
+Wood,44,State House,5,,Nancy A. Nichols,6,0,5,1
+Wood,11,State House,5,,Unassigned write-ins,0,0,0,0
+Wood,12,State House,5,,Unassigned write-ins,0,0,0,0
+Wood,13,State House,5,,Unassigned write-ins,0,0,0,0
+Wood,14,State House,5,,Unassigned write-ins,0,0,0,0
+Wood,21,State House,5,,Unassigned write-ins,0,0,0,0
+Wood,22,State House,5,,Unassigned write-ins,0,0,0,0
+Wood,23,State House,5,,Unassigned write-ins,0,0,0,0
+Wood,31,State House,5,,Unassigned write-ins,0,0,0,0
+Wood,32,State House,5,,Unassigned write-ins,0,0,0,0
+Wood,33,State House,5,,Unassigned write-ins,0,0,0,0
+Wood,41,State House,5,,Unassigned write-ins,0,0,0,0
+Wood,42,State House,5,,Unassigned write-ins,0,0,0,0
+Wood,42 - UHISD,State House,5,,Unassigned write-ins,0,0,0,0
+Wood,43,State House,5,,Unassigned write-ins,0,0,0,0
+Wood,44,State House,5,,Unassigned write-ins,0,0,0,0
+Wood,11,U.S. House,5,REP,Lance Gooden,2038,82,1704,252
+Wood,12,U.S. House,5,REP,Lance Gooden,1890,85,1359,446
+Wood,13,U.S. House,5,REP,Lance Gooden,1498,54,1060,384
+Wood,14,U.S. House,5,REP,Lance Gooden,569,7,385,177
+Wood,21,U.S. House,5,REP,Lance Gooden,369,9,296,64
+Wood,22,U.S. House,5,REP,Lance Gooden,2637,107,2072,458
+Wood,23,U.S. House,5,REP,Lance Gooden,1839,84,1466,289
+Wood,31,U.S. House,5,REP,Lance Gooden,857,26,689,142
+Wood,32,U.S. House,5,REP,Lance Gooden,2137,97,1621,419
+Wood,33,U.S. House,5,REP,Lance Gooden,2151,69,1560,522
+Wood,41,U.S. House,5,REP,Lance Gooden,577,20,457,100
+Wood,42,U.S. House,5,REP,Lance Gooden,1766,66,1413,287
+Wood,42 - UHISD,U.S. House,5,REP,Lance Gooden,61,8,43,10
+Wood,43,U.S. House,5,REP,Lance Gooden,1871,83,1443,345
+Wood,44,U.S. House,5,REP,Lance Gooden,448,24,352,72
+Wood,11,U.S. House,5,DEM,"Ruth ""Truth"" Torres",320,35,241,44
+Wood,12,U.S. House,5,DEM,"Ruth ""Truth"" Torres",282,21,173,88
+Wood,13,U.S. House,5,DEM,"Ruth ""Truth"" Torres",213,26,122,65
+Wood,14,U.S. House,5,DEM,"Ruth ""Truth"" Torres",45,4,19,22
+Wood,21,U.S. House,5,DEM,"Ruth ""Truth"" Torres",36,1,25,10
+Wood,22,U.S. House,5,DEM,"Ruth ""Truth"" Torres",433,39,297,97
+Wood,23,U.S. House,5,DEM,"Ruth ""Truth"" Torres",389,39,256,94
+Wood,31,U.S. House,5,DEM,"Ruth ""Truth"" Torres",124,14,93,17
+Wood,32,U.S. House,5,DEM,"Ruth ""Truth"" Torres",401,55,278,68
+Wood,33,U.S. House,5,DEM,"Ruth ""Truth"" Torres",449,17,293,139
+Wood,41,U.S. House,5,DEM,"Ruth ""Truth"" Torres",59,6,44,9
+Wood,42,U.S. House,5,DEM,"Ruth ""Truth"" Torres",245,23,162,60
+Wood,42 - UHISD,U.S. House,5,DEM,"Ruth ""Truth"" Torres",4,2,1,1
+Wood,43,U.S. House,5,DEM,"Ruth ""Truth"" Torres",306,35,219,52
+Wood,44,U.S. House,5,DEM,"Ruth ""Truth"" Torres",52,0,41,11
+Wood,11,U.S. Senate,,,Analisa Roche,0,0,0,0
+Wood,12,U.S. Senate,,,Analisa Roche,1,0,1,0
+Wood,13,U.S. Senate,,,Analisa Roche,0,0,0,0
+Wood,14,U.S. Senate,,,Analisa Roche,1,0,0,1
+Wood,21,U.S. Senate,,,Analisa Roche,0,0,0,0
+Wood,22,U.S. Senate,,,Analisa Roche,1,0,0,1
+Wood,23,U.S. Senate,,,Analisa Roche,0,0,0,0
+Wood,31,U.S. Senate,,,Analisa Roche,0,0,0,0
+Wood,32,U.S. Senate,,,Analisa Roche,0,0,0,0
+Wood,33,U.S. Senate,,,Analisa Roche,1,0,0,1
+Wood,41,U.S. Senate,,,Analisa Roche,0,0,0,0
+Wood,42,U.S. Senate,,,Analisa Roche,0,0,0,0
+Wood,42 - UHISD,U.S. Senate,,,Analisa Roche,0,0,0,0
+Wood,43,U.S. Senate,,,Analisa Roche,0,0,0,0
+Wood,44,U.S. Senate,,,Analisa Roche,0,0,0,0
+Wood,11,U.S. Senate,,DEM,Colin Allred,354,36,269,49
+Wood,12,U.S. Senate,,DEM,Colin Allred,315,26,193,96
+Wood,13,U.S. Senate,,DEM,Colin Allred,240,29,142,69
+Wood,14,U.S. Senate,,DEM,Colin Allred,50,4,22,24
+Wood,21,U.S. Senate,,DEM,Colin Allred,48,1,34,13
+Wood,22,U.S. Senate,,DEM,Colin Allred,484,42,326,116
+Wood,23,U.S. Senate,,DEM,Colin Allred,435,42,292,101
+Wood,31,U.S. Senate,,DEM,Colin Allred,144,14,110,20
+Wood,32,U.S. Senate,,DEM,Colin Allred,446,55,307,84
+Wood,33,U.S. Senate,,DEM,Colin Allred,481,23,313,145
+Wood,41,U.S. Senate,,DEM,Colin Allred,74,8,53,13
+Wood,42,U.S. Senate,,DEM,Colin Allred,272,26,183,63
+Wood,42 - UHISD,U.S. Senate,,DEM,Colin Allred,5,2,1,2
+Wood,43,U.S. Senate,,DEM,Colin Allred,345,39,245,61
+Wood,44,U.S. Senate,,DEM,Colin Allred,64,1,53,10
+Wood,11,U.S. Senate,,LIB,Ted Brown,38,0,31,7
+Wood,12,U.S. Senate,,LIB,Ted Brown,47,1,18,28
+Wood,13,U.S. Senate,,LIB,Ted Brown,24,1,9,14
+Wood,14,U.S. Senate,,LIB,Ted Brown,5,0,2,3
+Wood,21,U.S. Senate,,LIB,Ted Brown,13,0,10,3
+Wood,22,U.S. Senate,,LIB,Ted Brown,60,2,36,22
+Wood,23,U.S. Senate,,LIB,Ted Brown,34,3,21,10
+Wood,31,U.S. Senate,,LIB,Ted Brown,16,0,12,4
+Wood,32,U.S. Senate,,LIB,Ted Brown,43,1,26,16
+Wood,33,U.S. Senate,,LIB,Ted Brown,62,1,38,23
+Wood,41,U.S. Senate,,LIB,Ted Brown,2,0,0,2
+Wood,42,U.S. Senate,,LIB,Ted Brown,33,0,23,10
+Wood,42 - UHISD,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Wood,43,U.S. Senate,,LIB,Ted Brown,47,3,32,12
+Wood,44,U.S. Senate,,LIB,Ted Brown,8,0,5,3
+Wood,11,U.S. Senate,,REP,Ted Cruz,2002,88,1669,245
+Wood,12,U.S. Senate,,REP,Ted Cruz,1832,87,1327,418
+Wood,13,U.S. Senate,,REP,Ted Cruz,1475,60,1040,375
+Wood,14,U.S. Senate,,REP,Ted Cruz,570,10,384,176
+Wood,21,U.S. Senate,,REP,Ted Cruz,349,9,280,60
+Wood,22,U.S. Senate,,REP,Ted Cruz,2551,113,2019,419
+Wood,23,U.S. Senate,,REP,Ted Cruz,1779,86,1416,277
+Wood,31,U.S. Senate,,REP,Ted Cruz,833,30,665,138
+Wood,32,U.S. Senate,,REP,Ted Cruz,2067,103,1569,395
+Wood,33,U.S. Senate,,REP,Ted Cruz,2087,75,1510,502
+Wood,41,U.S. Senate,,REP,Ted Cruz,568,20,453,95
+Wood,42,U.S. Senate,,REP,Ted Cruz,1717,67,1375,275
+Wood,42 - UHISD,U.S. Senate,,REP,Ted Cruz,60,8,43,9
+Wood,43,U.S. Senate,,REP,Ted Cruz,1806,82,1398,326
+Wood,44,U.S. Senate,,REP,Ted Cruz,433,23,338,72
+Wood,11,U.S. Senate,,,Tracy Andrus,0,0,0,0
+Wood,12,U.S. Senate,,,Tracy Andrus,0,0,0,0
+Wood,13,U.S. Senate,,,Tracy Andrus,0,0,0,0
+Wood,14,U.S. Senate,,,Tracy Andrus,0,0,0,0
+Wood,21,U.S. Senate,,,Tracy Andrus,0,0,0,0
+Wood,22,U.S. Senate,,,Tracy Andrus,1,1,0,0
+Wood,23,U.S. Senate,,,Tracy Andrus,0,0,0,0
+Wood,31,U.S. Senate,,,Tracy Andrus,0,0,0,0
+Wood,32,U.S. Senate,,,Tracy Andrus,0,0,0,0
+Wood,33,U.S. Senate,,,Tracy Andrus,1,0,1,0
+Wood,41,U.S. Senate,,,Tracy Andrus,0,0,0,0
+Wood,42,U.S. Senate,,,Tracy Andrus,0,0,0,0
+Wood,42 - UHISD,U.S. Senate,,,Tracy Andrus,0,0,0,0
+Wood,43,U.S. Senate,,,Tracy Andrus,0,0,0,0
+Wood,44,U.S. Senate,,,Tracy Andrus,0,0,0,0
+Wood,11,U.S. Senate,,,Unassigned write-ins,0,0,0,0
+Wood,12,U.S. Senate,,,Unassigned write-ins,0,0,0,0
+Wood,13,U.S. Senate,,,Unassigned write-ins,0,0,0,0
+Wood,14,U.S. Senate,,,Unassigned write-ins,0,0,0,0
+Wood,21,U.S. Senate,,,Unassigned write-ins,0,0,0,0
+Wood,22,U.S. Senate,,,Unassigned write-ins,0,0,0,0
+Wood,23,U.S. Senate,,,Unassigned write-ins,0,0,0,0
+Wood,31,U.S. Senate,,,Unassigned write-ins,0,0,0,0
+Wood,32,U.S. Senate,,,Unassigned write-ins,0,0,0,0
+Wood,33,U.S. Senate,,,Unassigned write-ins,0,0,0,0
+Wood,41,U.S. Senate,,,Unassigned write-ins,0,0,0,0
+Wood,42,U.S. Senate,,,Unassigned write-ins,0,0,0,0
+Wood,42 - UHISD,U.S. Senate,,,Unassigned write-ins,0,0,0,0
+Wood,43,U.S. Senate,,,Unassigned write-ins,0,0,0,0
+Wood,44,U.S. Senate,,,Unassigned write-ins,0,0,0,0
+Wood,42 - UHISD,UNION HILL INDEPENDENT SCHOOL DISTRICT Board of Trustees,,,Adam B. Jones,10,0,8,2
+Wood,42 - UHISD,UNION HILL INDEPENDENT SCHOOL DISTRICT Board of Trustees,,,Amanda Ainsworth,20,0,14,6
+Wood,42 - UHISD,UNION HILL INDEPENDENT SCHOOL DISTRICT Board of Trustees,,,Chuck Montgomery,11,1,7,3
+Wood,42 - UHISD,UNION HILL INDEPENDENT SCHOOL DISTRICT Board of Trustees,,,James Roy Elledge,12,1,11,0
+Wood,42 - UHISD,UNION HILL INDEPENDENT SCHOOL DISTRICT Board of Trustees,,,Pat Parish,18,2,13,3
+Wood,42 - UHISD,UNION HILL INDEPENDENT SCHOOL DISTRICT Board of Trustees,,,William Johnston,9,1,5,3

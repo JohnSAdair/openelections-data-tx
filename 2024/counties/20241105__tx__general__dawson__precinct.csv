@@ -1,0 +1,813 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Dawson,1,President,,REP,"Donald J. Trump",368,10,269,89
+Dawson,1,President,,DEM,"Kamala D. Harris",165,6,107,52
+Dawson,1,President,,LIB,"Chase Oliver",5,0,4,1
+Dawson,1,President,,GRN,"Jill Stein",3,0,2,1
+Dawson,1,President,,,"Cherunda Fox/ Harlan McVay (W)",0,0,0,0
+Dawson,1,President,,,"Claudia De la Cruz/Karina Garcia (W)",1,0,1,0
+Dawson,1,President,,,"Cornel West/Melina Abdullah (W)",0,0,0,0
+Dawson,1,President,,,"Jessie Cuellar/Wesley Lasley (W)",0,0,0,0
+Dawson,1,President,,,"Peter Sonski/Lauren Onak (W)",0,0,0,0
+Dawson,1,President,,,"Shiva Ayyadurai/Crystal Ellis (W)",0,0,0,0
+Dawson,1,President,,,Under Votes,3,0,2,1
+Dawson,1,President,,,Over Votes,0,0,0,0
+Dawson,1,"U.S. Senate",,REP,"Ted Cruz",345,10,258,77
+Dawson,1,"U.S. Senate",,DEM,"Colin Allred",158,5,104,49
+Dawson,1,"U.S. Senate",,LIB,"Ted Brown",17,0,11,6
+Dawson,1,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Dawson,1,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Dawson,1,"U.S. Senate",,,Under Votes,24,0,12,12
+Dawson,1,"U.S. Senate",,,Over Votes,1,0,0,1
+Dawson,1,"U.S. House",19,REP,"Jodey C. Arrington",366,11,273,82
+Dawson,1,"U.S. House",19,LIB,"Bernard Johnson",46,0,32,14
+Dawson,1,"U.S. House",19,IND,"Nathan Lewis",66,1,41,24
+Dawson,1,"U.S. House",19,,Under Votes,67,4,39,24
+Dawson,1,"U.S. House",19,,Over Votes,0,0,0,0
+Dawson,1,"Railroad Commissioner",,REP,"Christi Craddick",309,10,234,65
+Dawson,1,"Railroad Commissioner",,DEM,"Katherine Culbert",138,5,92,41
+Dawson,1,"Railroad Commissioner",,LIB,"Hawk Dunlap",30,0,23,7
+Dawson,1,"Railroad Commissioner",,GRN,"Eddie Espinoza",26,1,16,9
+Dawson,1,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Dawson,1,"Railroad Commissioner",,,Under Votes,42,0,20,22
+Dawson,1,"Railroad Commissioner",,,Over Votes,0,0,0,0
+Dawson,1,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",335,10,255,70
+Dawson,1,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",159,6,102,51
+Dawson,1,"Justice, Supreme Court, Place 2",,,Under Votes,51,0,28,23
+Dawson,1,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Dawson,1,"Justice, Supreme Court, Place 4",,REP,"John Devine",327,10,246,71
+Dawson,1,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",159,6,106,47
+Dawson,1,"Justice, Supreme Court, Place 4",,,Under Votes,59,0,33,26
+Dawson,1,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+Dawson,1,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",319,10,242,67
+Dawson,1,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",143,6,98,39
+Dawson,1,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",24,0,14,10
+Dawson,1,"Justice, Supreme Court, Place 6",,,Under Votes,59,0,31,28
+Dawson,1,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+Dawson,1,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",325,10,246,69
+Dawson,1,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",164,6,108,50
+Dawson,1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,56,0,31,25
+Dawson,1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Dawson,1,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",327,10,247,70
+Dawson,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",160,6,106,48
+Dawson,1,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,58,0,32,26
+Dawson,1,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Dawson,1,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",339,11,255,73
+Dawson,1,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",148,5,100,43
+Dawson,1,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,58,0,30,28
+Dawson,1,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+Dawson,1,"Member, State Board of Education, District 15",,REP,"Aaron Kinsey",317,10,241,66
+Dawson,1,"Member, State Board of Education, District 15",,DEM,"Morgan Kirkpatrick",151,6,99,46
+Dawson,1,"Member, State Board of Education, District 15",,LIB,"Jack B. Westbrook",18,0,12,6
+Dawson,1,"Member, State Board of Education, District 15",,,Under Votes,59,0,33,26
+Dawson,1,"Member, State Board of Education, District 15",,,Over Votes,0,0,0,0
+Dawson,1,"State Representative, District 82",,REP,"Tom Craddick",348,11,262,75
+Dawson,1,"State Representative, District 82",,DEM,"Steven Schafersman",145,5,95,45
+Dawson,1,"State Representative, District 82",,,Under Votes,52,0,28,24
+Dawson,1,"State Representative, District 82",,,Over Votes,0,0,0,0
+Dawson,1,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",388,11,292,85
+Dawson,1,"Chief Justice, 11th Court of Appeals District",,,Under Votes,157,5,93,59
+Dawson,1,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Dawson,1,"District Attorney, 106th Judicial District",,REP,"Philip Mack Furlow",393,11,298,84
+Dawson,1,"District Attorney, 106th Judicial District",,,Under Votes,152,5,87,60
+Dawson,1,"District Attorney, 106th Judicial District",,,Over Votes,0,0,0,0
+Dawson,1,"County Attorney",,REP,"Steven B. Payson",393,12,294,87
+Dawson,1,"County Attorney",,,Under Votes,152,4,91,57
+Dawson,1,"County Attorney",,,Over Votes,0,0,0,0
+Dawson,1,"Sheriff",,REP,"Matt Hogg",409,11,304,94
+Dawson,1,"Sheriff",,,Under Votes,136,5,81,50
+Dawson,1,"Sheriff",,,Over Votes,0,0,0,0
+Dawson,1,"County Tax Assessor-Collector",,REP,"Yvonne Moreno",415,12,311,92
+Dawson,1,"County Tax Assessor-Collector",,,Under Votes,130,4,74,52
+Dawson,1,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Dawson,1,"County Commissioner, Precinct 1",,REP,"Mark Shofner",411,11,309,91
+Dawson,1,"County Commissioner, Precinct 1",,,Under Votes,134,5,76,53
+Dawson,1,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Dawson,1,"County Constable",,REP,"Tommy Flores",433,13,323,97
+Dawson,1,"County Constable",,,Under Votes,112,3,62,47
+Dawson,1,"County Constable",,,Over Votes,0,0,0,0
+Dawson,2,President,,REP,"Donald J. Trump",406,9,297,100
+Dawson,2,President,,DEM,"Kamala D. Harris",155,7,95,53
+Dawson,2,President,,LIB,"Chase Oliver",3,0,2,1
+Dawson,2,President,,GRN,"Jill Stein",3,0,2,1
+Dawson,2,President,,,"Cherunda Fox/ Harlan McVay (W)",0,0,0,0
+Dawson,2,President,,,"Claudia De la Cruz/Karina Garcia (W)",0,0,0,0
+Dawson,2,President,,,"Cornel West/Melina Abdullah (W)",0,0,0,0
+Dawson,2,President,,,"Jessie Cuellar/Wesley Lasley (W)",0,0,0,0
+Dawson,2,President,,,"Peter Sonski/Lauren Onak (W)",0,0,0,0
+Dawson,2,President,,,"Shiva Ayyadurai/Crystal Ellis (W)",0,0,0,0
+Dawson,2,President,,,Under Votes,4,0,1,3
+Dawson,2,President,,,Over Votes,0,0,0,0
+Dawson,2,"U.S. Senate",,REP,"Ted Cruz",380,7,285,88
+Dawson,2,"U.S. Senate",,DEM,"Colin Allred",157,6,95,56
+Dawson,2,"U.S. Senate",,LIB,"Ted Brown",13,3,6,4
+Dawson,2,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Dawson,2,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Dawson,2,"U.S. Senate",,,Under Votes,21,0,11,10
+Dawson,2,"U.S. Senate",,,Over Votes,0,0,0,0
+Dawson,2,"U.S. House",19,REP,"Jodey C. Arrington",390,8,289,93
+Dawson,2,"U.S. House",19,LIB,"Bernard Johnson",58,4,36,18
+Dawson,2,"U.S. House",19,IND,"Nathan Lewis",53,4,34,15
+Dawson,2,"U.S. House",19,,Under Votes,70,0,38,32
+Dawson,2,"U.S. House",19,,Over Votes,0,0,0,0
+Dawson,2,"Railroad Commissioner",,REP,"Christi Craddick",349,8,261,80
+Dawson,2,"Railroad Commissioner",,DEM,"Katherine Culbert",121,6,77,38
+Dawson,2,"Railroad Commissioner",,LIB,"Hawk Dunlap",20,0,15,5
+Dawson,2,"Railroad Commissioner",,GRN,"Eddie Espinoza",29,0,17,12
+Dawson,2,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Dawson,2,"Railroad Commissioner",,,Under Votes,52,2,27,23
+Dawson,2,"Railroad Commissioner",,,Over Votes,0,0,0,0
+Dawson,2,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",384,8,287,89
+Dawson,2,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",133,6,84,43
+Dawson,2,"Justice, Supreme Court, Place 2",,,Under Votes,54,2,26,26
+Dawson,2,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Dawson,2,"Justice, Supreme Court, Place 4",,REP,"John Devine",378,8,280,90
+Dawson,2,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",135,6,88,41
+Dawson,2,"Justice, Supreme Court, Place 4",,,Under Votes,58,2,29,27
+Dawson,2,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+Dawson,2,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",364,8,274,82
+Dawson,2,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",128,6,80,42
+Dawson,2,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",20,0,14,6
+Dawson,2,"Justice, Supreme Court, Place 6",,,Under Votes,59,2,29,28
+Dawson,2,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+Dawson,2,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",376,8,281,87
+Dawson,2,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",138,6,90,42
+Dawson,2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,57,2,26,29
+Dawson,2,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Dawson,2,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",378,8,283,87
+Dawson,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",137,6,87,44
+Dawson,2,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,56,2,27,27
+Dawson,2,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Dawson,2,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",374,8,278,88
+Dawson,2,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",131,6,85,40
+Dawson,2,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,66,2,34,30
+Dawson,2,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+Dawson,2,"Member, State Board of Education, District 15",,REP,"Aaron Kinsey",352,7,263,82
+Dawson,2,"Member, State Board of Education, District 15",,DEM,"Morgan Kirkpatrick",138,7,88,43
+Dawson,2,"Member, State Board of Education, District 15",,LIB,"Jack B. Westbrook",16,0,12,4
+Dawson,2,"Member, State Board of Education, District 15",,,Under Votes,65,2,32,31
+Dawson,2,"Member, State Board of Education, District 15",,,Over Votes,0,0,0,0
+Dawson,2,"State Representative, District 82",,REP,"Tom Craddick",379,8,285,86
+Dawson,2,"State Representative, District 82",,DEM,"Steven Schafersman",134,6,86,42
+Dawson,2,"State Representative, District 82",,,Under Votes,58,2,26,30
+Dawson,2,"State Representative, District 82",,,Over Votes,0,0,0,0
+Dawson,2,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",419,9,302,108
+Dawson,2,"Chief Justice, 11th Court of Appeals District",,,Under Votes,152,7,95,50
+Dawson,2,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Dawson,2,"District Attorney, 106th Judicial District",,REP,"Philip Mack Furlow",430,10,311,109
+Dawson,2,"District Attorney, 106th Judicial District",,,Under Votes,141,6,86,49
+Dawson,2,"District Attorney, 106th Judicial District",,,Over Votes,0,0,0,0
+Dawson,2,"County Attorney",,REP,"Steven B. Payson",434,10,310,114
+Dawson,2,"County Attorney",,,Under Votes,137,6,87,44
+Dawson,2,"County Attorney",,,Over Votes,0,0,0,0
+Dawson,2,"Sheriff",,REP,"Matt Hogg",457,12,331,114
+Dawson,2,"Sheriff",,,Under Votes,114,4,66,44
+Dawson,2,"Sheriff",,,Over Votes,0,0,0,0
+Dawson,2,"County Tax Assessor-Collector",,REP,"Yvonne Moreno",464,9,334,121
+Dawson,2,"County Tax Assessor-Collector",,,Under Votes,107,7,63,37
+Dawson,2,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Dawson,2,"County Constable",,REP,"Tommy Flores",465,9,332,124
+Dawson,2,"County Constable",,,Under Votes,106,7,65,34
+Dawson,2,"County Constable",,,Over Votes,0,0,0,0
+Dawson,3,President,,REP,"Donald J. Trump",847,25,626,196
+Dawson,3,President,,DEM,"Kamala D. Harris",180,6,119,55
+Dawson,3,President,,LIB,"Chase Oliver",8,1,5,2
+Dawson,3,President,,GRN,"Jill Stein",2,0,1,1
+Dawson,3,President,,,"Cherunda Fox/ Harlan McVay (W)",0,0,0,0
+Dawson,3,President,,,"Claudia De la Cruz/Karina Garcia (W)",0,0,0,0
+Dawson,3,President,,,"Cornel West/Melina Abdullah (W)",0,0,0,0
+Dawson,3,President,,,"Jessie Cuellar/Wesley Lasley (W)",0,0,0,0
+Dawson,3,President,,,"Peter Sonski/Lauren Onak (W)",0,0,0,0
+Dawson,3,President,,,"Shiva Ayyadurai/Crystal Ellis (W)",0,0,0,0
+Dawson,3,President,,,Under Votes,3,1,1,1
+Dawson,3,President,,,Over Votes,1,1,0,0
+Dawson,3,"U.S. Senate",,REP,"Ted Cruz",804,25,603,176
+Dawson,3,"U.S. Senate",,DEM,"Colin Allred",191,6,120,65
+Dawson,3,"U.S. Senate",,LIB,"Ted Brown",26,1,16,9
+Dawson,3,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Dawson,3,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Dawson,3,"U.S. Senate",,,Under Votes,20,2,13,5
+Dawson,3,"U.S. Senate",,,Over Votes,0,0,0,0
+Dawson,3,"U.S. House",19,REP,"Jodey C. Arrington",843,25,626,192
+Dawson,3,"U.S. House",19,LIB,"Bernard Johnson",73,3,44,26
+Dawson,3,"U.S. House",19,IND,"Nathan Lewis",74,2,46,26
+Dawson,3,"U.S. House",19,,Under Votes,51,4,36,11
+Dawson,3,"U.S. House",19,,Over Votes,0,0,0,0
+Dawson,3,"Railroad Commissioner",,REP,"Christi Craddick",773,22,583,168
+Dawson,3,"Railroad Commissioner",,DEM,"Katherine Culbert",150,5,96,49
+Dawson,3,"Railroad Commissioner",,LIB,"Hawk Dunlap",44,4,27,13
+Dawson,3,"Railroad Commissioner",,GRN,"Eddie Espinoza",41,0,23,18
+Dawson,3,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Dawson,3,"Railroad Commissioner",,,Under Votes,33,3,23,7
+Dawson,3,"Railroad Commissioner",,,Over Votes,0,0,0,0
+Dawson,3,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",822,25,611,186
+Dawson,3,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",178,6,112,60
+Dawson,3,"Justice, Supreme Court, Place 2",,,Under Votes,41,3,29,9
+Dawson,3,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Dawson,3,"Justice, Supreme Court, Place 4",,REP,"John Devine",816,23,611,182
+Dawson,3,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",183,8,110,65
+Dawson,3,"Justice, Supreme Court, Place 4",,,Under Votes,42,3,31,8
+Dawson,3,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+Dawson,3,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",788,21,592,175
+Dawson,3,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",174,6,111,57
+Dawson,3,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",41,4,22,15
+Dawson,3,"Justice, Supreme Court, Place 6",,,Under Votes,38,3,27,8
+Dawson,3,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+Dawson,3,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",824,26,607,191
+Dawson,3,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",182,5,119,58
+Dawson,3,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,35,3,26,6
+Dawson,3,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Dawson,3,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",824,25,615,184
+Dawson,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",174,6,110,58
+Dawson,3,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,43,3,27,13
+Dawson,3,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Dawson,3,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",832,26,608,198
+Dawson,3,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",163,5,110,48
+Dawson,3,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,46,3,34,9
+Dawson,3,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+Dawson,3,"Member, State Board of Education, District 15",,REP,"Aaron Kinsey",779,21,591,167
+Dawson,3,"Member, State Board of Education, District 15",,DEM,"Morgan Kirkpatrick",183,8,114,61
+Dawson,3,"Member, State Board of Education, District 15",,LIB,"Jack B. Westbrook",39,3,19,17
+Dawson,3,"Member, State Board of Education, District 15",,,Under Votes,40,2,28,10
+Dawson,3,"Member, State Board of Education, District 15",,,Over Votes,0,0,0,0
+Dawson,3,"State Representative, District 82",,REP,"Tom Craddick",829,25,612,192
+Dawson,3,"State Representative, District 82",,DEM,"Steven Schafersman",179,5,118,56
+Dawson,3,"State Representative, District 82",,,Under Votes,33,4,22,7
+Dawson,3,"State Representative, District 82",,,Over Votes,0,0,0,0
+Dawson,3,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",904,23,658,223
+Dawson,3,"Chief Justice, 11th Court of Appeals District",,,Under Votes,137,11,94,32
+Dawson,3,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Dawson,3,"District Attorney, 106th Judicial District",,REP,"Philip Mack Furlow",883,28,634,221
+Dawson,3,"District Attorney, 106th Judicial District",,,Under Votes,158,6,118,34
+Dawson,3,"District Attorney, 106th Judicial District",,,Over Votes,0,0,0,0
+Dawson,3,"County Attorney",,REP,"Steven B. Payson",872,27,626,219
+Dawson,3,"County Attorney",,,Under Votes,169,7,126,36
+Dawson,3,"County Attorney",,,Over Votes,0,0,0,0
+Dawson,3,"Sheriff",,REP,"Matt Hogg",905,27,653,225
+Dawson,3,"Sheriff",,,Under Votes,136,7,99,30
+Dawson,3,"Sheriff",,,Over Votes,0,0,0,0
+Dawson,3,"County Tax Assessor-Collector",,REP,"Yvonne Moreno",915,26,660,229
+Dawson,3,"County Tax Assessor-Collector",,,Under Votes,126,8,92,26
+Dawson,3,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Dawson,3,"County Commissioner, Precinct 3",,REP,"Al Crisp",887,26,638,223
+Dawson,3,"County Commissioner, Precinct 3",,,Under Votes,154,8,114,32
+Dawson,3,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Dawson,3,"County Constable",,REP,"Tommy Flores",911,25,660,226
+Dawson,3,"County Constable",,,Under Votes,130,9,92,29
+Dawson,3,"County Constable",,,Over Votes,0,0,0,0
+Dawson,3,"School Board Trustee - Vote for none, one, two, three or four.",,,"Brent Hill",3,0,2,1
+Dawson,3,"School Board Trustee - Vote for none, one, two, three or four.",,,"Justin Cave",5,0,3,2
+Dawson,3,"School Board Trustee - Vote for none, one, two, three or four.",,,"Kylie Justine Brown",4,0,4,0
+Dawson,3,"School Board Trustee - Vote for none, one, two, three or four.",,,"Ricky Barkowsky",10,0,10,0
+Dawson,3,"School Board Trustee - Vote for none, one, two, three or four.",,,"Mike Barkowsky",7,0,7,0
+Dawson,3,"School Board Trustee - Vote for none, one, two, three or four.",,,"Jessica Estes",15,0,15,0
+Dawson,3,"School Board Trustee - Vote for none, one, two, three or four.",,,"Clay Thixton",11,0,11,0
+Dawson,3,"School Board Trustee - Vote for none, one, two, three or four.",,,"Cody King",5,0,5,0
+Dawson,3,"School Board Trustee - Vote for none, one, two, three or four.",,,Under Votes,22,0,19,3
+Dawson,3,"School Board Trustee - Vote for none, one, two, three or four.",,,Over Votes,0,0,0,0
+Dawson,4,President,,REP,"Donald J. Trump",808,29,607,172
+Dawson,4,President,,DEM,"Kamala D. Harris",127,7,82,38
+Dawson,4,President,,LIB,"Chase Oliver",6,0,4,2
+Dawson,4,President,,GRN,"Jill Stein",2,0,0,2
+Dawson,4,President,,,"Cherunda Fox/ Harlan McVay (W)",0,0,0,0
+Dawson,4,President,,,"Claudia De la Cruz/Karina Garcia (W)",0,0,0,0
+Dawson,4,President,,,"Cornel West/Melina Abdullah (W)",0,0,0,0
+Dawson,4,President,,,"Jessie Cuellar/Wesley Lasley (W)",0,0,0,0
+Dawson,4,President,,,"Peter Sonski/Lauren Onak (W)",1,1,0,0
+Dawson,4,President,,,"Shiva Ayyadurai/Crystal Ellis (W)",0,0,0,0
+Dawson,4,President,,,Under Votes,7,0,4,3
+Dawson,4,President,,,Over Votes,0,0,0,0
+Dawson,4,"U.S. Senate",,REP,"Ted Cruz",785,30,595,160
+Dawson,4,"U.S. Senate",,DEM,"Colin Allred",135,6,89,40
+Dawson,4,"U.S. Senate",,LIB,"Ted Brown",20,0,9,11
+Dawson,4,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Dawson,4,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Dawson,4,"U.S. Senate",,,Under Votes,11,1,4,6
+Dawson,4,"U.S. Senate",,,Over Votes,0,0,0,0
+Dawson,4,"U.S. House",19,REP,"Jodey C. Arrington",801,32,602,167
+Dawson,4,"U.S. House",19,LIB,"Bernard Johnson",50,1,32,17
+Dawson,4,"U.S. House",19,IND,"Nathan Lewis",63,3,36,24
+Dawson,4,"U.S. House",19,,Under Votes,37,1,27,9
+Dawson,4,"U.S. House",19,,Over Votes,0,0,0,0
+Dawson,4,"Railroad Commissioner",,REP,"Christi Craddick",728,30,552,146
+Dawson,4,"Railroad Commissioner",,DEM,"Katherine Culbert",112,5,70,37
+Dawson,4,"Railroad Commissioner",,LIB,"Hawk Dunlap",52,1,35,16
+Dawson,4,"Railroad Commissioner",,GRN,"Eddie Espinoza",21,0,13,8
+Dawson,4,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Dawson,4,"Railroad Commissioner",,,Under Votes,38,1,27,10
+Dawson,4,"Railroad Commissioner",,,Over Votes,0,0,0,0
+Dawson,4,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",789,30,600,159
+Dawson,4,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",128,6,74,48
+Dawson,4,"Justice, Supreme Court, Place 2",,,Under Votes,34,1,23,10
+Dawson,4,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Dawson,4,"Justice, Supreme Court, Place 4",,REP,"John Devine",789,30,598,161
+Dawson,4,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",122,6,72,44
+Dawson,4,"Justice, Supreme Court, Place 4",,,Under Votes,40,1,27,12
+Dawson,4,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+Dawson,4,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",756,29,577,150
+Dawson,4,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",119,5,73,41
+Dawson,4,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",28,1,16,11
+Dawson,4,"Justice, Supreme Court, Place 6",,,Under Votes,48,2,31,15
+Dawson,4,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+Dawson,4,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",785,29,595,161
+Dawson,4,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",127,6,79,42
+Dawson,4,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,39,2,23,14
+Dawson,4,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Dawson,4,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",779,30,594,155
+Dawson,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",130,6,75,49
+Dawson,4,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,42,1,28,13
+Dawson,4,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Dawson,4,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",791,31,598,162
+Dawson,4,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",118,6,69,43
+Dawson,4,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,42,0,30,12
+Dawson,4,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+Dawson,4,"Member, State Board of Education, District 15",,REP,"Aaron Kinsey",743,29,565,149
+Dawson,4,"Member, State Board of Education, District 15",,DEM,"Morgan Kirkpatrick",131,5,77,49
+Dawson,4,"Member, State Board of Education, District 15",,LIB,"Jack B. Westbrook",30,1,21,8
+Dawson,4,"Member, State Board of Education, District 15",,,Under Votes,47,2,33,12
+Dawson,4,"Member, State Board of Education, District 15",,,Over Votes,0,0,0,0
+Dawson,4,"State Representative, District 82",,REP,"Tom Craddick",788,31,594,163
+Dawson,4,"State Representative, District 82",,DEM,"Steven Schafersman",124,6,75,43
+Dawson,4,"State Representative, District 82",,,Under Votes,39,0,28,11
+Dawson,4,"State Representative, District 82",,,Over Votes,0,0,0,0
+Dawson,4,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",846,33,625,188
+Dawson,4,"Chief Justice, 11th Court of Appeals District",,,Under Votes,105,4,72,29
+Dawson,4,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Dawson,4,"District Attorney, 106th Judicial District",,REP,"Philip Mack Furlow",837,32,616,189
+Dawson,4,"District Attorney, 106th Judicial District",,,Under Votes,114,5,81,28
+Dawson,4,"District Attorney, 106th Judicial District",,,Over Votes,0,0,0,0
+Dawson,4,"County Attorney",,REP,"Steven B. Payson",815,31,599,185
+Dawson,4,"County Attorney",,,Under Votes,136,6,98,32
+Dawson,4,"County Attorney",,,Over Votes,0,0,0,0
+Dawson,4,"Sheriff",,REP,"Matt Hogg",848,33,622,193
+Dawson,4,"Sheriff",,,Under Votes,103,4,75,24
+Dawson,4,"Sheriff",,,Over Votes,0,0,0,0
+Dawson,4,"County Tax Assessor-Collector",,REP,"Yvonne Moreno",865,32,642,191
+Dawson,4,"County Tax Assessor-Collector",,,Under Votes,86,5,55,26
+Dawson,4,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Dawson,4,"County Constable",,REP,"Tommy Flores",859,29,640,190
+Dawson,4,"County Constable",,,Under Votes,92,8,57,27
+Dawson,4,"County Constable",,,Over Votes,0,0,0,0
+Dawson,4,"School Board Trustee - Vote for none, one, two, three or four.",,,"Brent Hill",21,0,17,4
+Dawson,4,"School Board Trustee - Vote for none, one, two, three or four.",,,"Justin Cave",27,0,24,3
+Dawson,4,"School Board Trustee - Vote for none, one, two, three or four.",,,"Kylie Justine Brown",26,0,21,5
+Dawson,4,"School Board Trustee - Vote for none, one, two, three or four.",,,"Ricky Barkowsky",7,0,6,1
+Dawson,4,"School Board Trustee - Vote for none, one, two, three or four.",,,"Mike Barkowsky",11,0,10,1
+Dawson,4,"School Board Trustee - Vote for none, one, two, three or four.",,,"Jessica Estes",21,0,18,3
+Dawson,4,"School Board Trustee - Vote for none, one, two, three or four.",,,"Clay Thixton",13,0,12,1
+Dawson,4,"School Board Trustee - Vote for none, one, two, three or four.",,,"Cody King",27,0,23,4
+Dawson,4,"School Board Trustee - Vote for none, one, two, three or four.",,,Under Votes,49,0,42,7
+Dawson,4,"School Board Trustee - Vote for none, one, two, three or four.",,,Over Votes,0,0,0,0
+Dawson,5,President,,REP,"Donald J. Trump",94,1,54,39
+Dawson,5,President,,DEM,"Kamala D. Harris",8,0,1,7
+Dawson,5,President,,LIB,"Chase Oliver",0,0,0,0
+Dawson,5,President,,GRN,"Jill Stein",0,0,0,0
+Dawson,5,President,,,"Cherunda Fox/ Harlan McVay (W)",0,0,0,0
+Dawson,5,President,,,"Claudia De la Cruz/Karina Garcia (W)",0,0,0,0
+Dawson,5,President,,,"Cornel West/Melina Abdullah (W)",0,0,0,0
+Dawson,5,President,,,"Jessie Cuellar/Wesley Lasley (W)",0,0,0,0
+Dawson,5,President,,,"Peter Sonski/Lauren Onak (W)",0,0,0,0
+Dawson,5,President,,,"Shiva Ayyadurai/Crystal Ellis (W)",0,0,0,0
+Dawson,5,President,,,Under Votes,1,0,0,1
+Dawson,5,President,,,Over Votes,0,0,0,0
+Dawson,5,"U.S. Senate",,REP,"Ted Cruz",89,1,53,35
+Dawson,5,"U.S. Senate",,DEM,"Colin Allred",13,0,2,11
+Dawson,5,"U.S. Senate",,LIB,"Ted Brown",1,0,0,1
+Dawson,5,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Dawson,5,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Dawson,5,"U.S. Senate",,,Under Votes,0,0,0,0
+Dawson,5,"U.S. Senate",,,Over Votes,0,0,0,0
+Dawson,5,"U.S. House",19,REP,"Jodey C. Arrington",94,1,54,39
+Dawson,5,"U.S. House",19,LIB,"Bernard Johnson",2,0,1,1
+Dawson,5,"U.S. House",19,IND,"Nathan Lewis",6,0,0,6
+Dawson,5,"U.S. House",19,,Under Votes,1,0,0,1
+Dawson,5,"U.S. House",19,,Over Votes,0,0,0,0
+Dawson,5,"Railroad Commissioner",,REP,"Christi Craddick",87,1,51,35
+Dawson,5,"Railroad Commissioner",,DEM,"Katherine Culbert",8,0,1,7
+Dawson,5,"Railroad Commissioner",,LIB,"Hawk Dunlap",7,0,2,5
+Dawson,5,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Dawson,5,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Dawson,5,"Railroad Commissioner",,,Under Votes,1,0,1,0
+Dawson,5,"Railroad Commissioner",,,Over Votes,0,0,0,0
+Dawson,5,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",95,1,53,41
+Dawson,5,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",7,0,1,6
+Dawson,5,"Justice, Supreme Court, Place 2",,,Under Votes,1,0,1,0
+Dawson,5,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Dawson,5,"Justice, Supreme Court, Place 4",,REP,"John Devine",94,1,53,40
+Dawson,5,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",8,0,1,7
+Dawson,5,"Justice, Supreme Court, Place 4",,,Under Votes,1,0,1,0
+Dawson,5,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+Dawson,5,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",91,1,52,38
+Dawson,5,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",9,0,1,8
+Dawson,5,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",1,0,0,1
+Dawson,5,"Justice, Supreme Court, Place 6",,,Under Votes,2,0,2,0
+Dawson,5,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+Dawson,5,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",93,1,52,40
+Dawson,5,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",8,0,1,7
+Dawson,5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,2,0,2,0
+Dawson,5,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Dawson,5,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",94,1,52,41
+Dawson,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",7,0,1,6
+Dawson,5,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,2,0,2,0
+Dawson,5,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Dawson,5,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",93,1,52,40
+Dawson,5,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",7,0,1,6
+Dawson,5,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,3,0,2,1
+Dawson,5,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+Dawson,5,"Member, State Board of Education, District 15",,REP,"Aaron Kinsey",86,1,50,35
+Dawson,5,"Member, State Board of Education, District 15",,DEM,"Morgan Kirkpatrick",11,0,2,9
+Dawson,5,"Member, State Board of Education, District 15",,LIB,"Jack B. Westbrook",3,0,1,2
+Dawson,5,"Member, State Board of Education, District 15",,,Under Votes,3,0,2,1
+Dawson,5,"Member, State Board of Education, District 15",,,Over Votes,0,0,0,0
+Dawson,5,"State Representative, District 82",,REP,"Tom Craddick",89,1,51,37
+Dawson,5,"State Representative, District 82",,DEM,"Steven Schafersman",12,0,2,10
+Dawson,5,"State Representative, District 82",,,Under Votes,2,0,2,0
+Dawson,5,"State Representative, District 82",,,Over Votes,0,0,0,0
+Dawson,5,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",94,1,52,41
+Dawson,5,"Chief Justice, 11th Court of Appeals District",,,Under Votes,9,0,3,6
+Dawson,5,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Dawson,5,"District Attorney, 106th Judicial District",,REP,"Philip Mack Furlow",93,1,51,41
+Dawson,5,"District Attorney, 106th Judicial District",,,Under Votes,10,0,4,6
+Dawson,5,"District Attorney, 106th Judicial District",,,Over Votes,0,0,0,0
+Dawson,5,"County Attorney",,REP,"Steven B. Payson",95,1,51,43
+Dawson,5,"County Attorney",,,Under Votes,8,0,4,4
+Dawson,5,"County Attorney",,,Over Votes,0,0,0,0
+Dawson,5,"Sheriff",,REP,"Matt Hogg",96,1,53,42
+Dawson,5,"Sheriff",,,Under Votes,7,0,2,5
+Dawson,5,"Sheriff",,,Over Votes,0,0,0,0
+Dawson,5,"County Tax Assessor-Collector",,REP,"Yvonne Moreno",96,1,53,42
+Dawson,5,"County Tax Assessor-Collector",,,Under Votes,7,0,2,5
+Dawson,5,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Dawson,5,"County Commissioner, Precinct 1",,REP,"Mark Shofner",94,1,53,40
+Dawson,5,"County Commissioner, Precinct 1",,,Under Votes,9,0,2,7
+Dawson,5,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Dawson,5,"County Constable",,REP,"Tommy Flores",97,1,53,43
+Dawson,5,"County Constable",,,Under Votes,6,0,2,4
+Dawson,5,"County Constable",,,Over Votes,0,0,0,0
+Dawson,11,President,,REP,"Donald J. Trump",96,0,61,35
+Dawson,11,President,,DEM,"Kamala D. Harris",13,0,9,4
+Dawson,11,President,,LIB,"Chase Oliver",1,0,1,0
+Dawson,11,President,,GRN,"Jill Stein",0,0,0,0
+Dawson,11,President,,,"Cherunda Fox/ Harlan McVay (W)",0,0,0,0
+Dawson,11,President,,,"Claudia De la Cruz/Karina Garcia (W)",0,0,0,0
+Dawson,11,President,,,"Cornel West/Melina Abdullah (W)",0,0,0,0
+Dawson,11,President,,,"Jessie Cuellar/Wesley Lasley (W)",0,0,0,0
+Dawson,11,President,,,"Peter Sonski/Lauren Onak (W)",0,0,0,0
+Dawson,11,President,,,"Shiva Ayyadurai/Crystal Ellis (W)",0,0,0,0
+Dawson,11,President,,,Under Votes,0,0,0,0
+Dawson,11,President,,,Over Votes,0,0,0,0
+Dawson,11,"U.S. Senate",,REP,"Ted Cruz",93,0,60,33
+Dawson,11,"U.S. Senate",,DEM,"Colin Allred",14,0,9,5
+Dawson,11,"U.S. Senate",,LIB,"Ted Brown",2,0,2,0
+Dawson,11,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Dawson,11,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Dawson,11,"U.S. Senate",,,Under Votes,1,0,0,1
+Dawson,11,"U.S. Senate",,,Over Votes,0,0,0,0
+Dawson,11,"U.S. House",19,REP,"Jodey C. Arrington",97,0,60,37
+Dawson,11,"U.S. House",19,LIB,"Bernard Johnson",7,0,4,3
+Dawson,11,"U.S. House",19,IND,"Nathan Lewis",4,0,3,1
+Dawson,11,"U.S. House",19,,Under Votes,2,0,0,2
+Dawson,11,"U.S. House",19,,Over Votes,0,0,0,0
+Dawson,11,"Railroad Commissioner",,REP,"Christi Craddick",87,0,58,29
+Dawson,11,"Railroad Commissioner",,DEM,"Katherine Culbert",9,0,5,4
+Dawson,11,"Railroad Commissioner",,LIB,"Hawk Dunlap",8,0,4,4
+Dawson,11,"Railroad Commissioner",,GRN,"Eddie Espinoza",4,0,3,1
+Dawson,11,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Dawson,11,"Railroad Commissioner",,,Under Votes,2,0,1,1
+Dawson,11,"Railroad Commissioner",,,Over Votes,0,0,0,0
+Dawson,11,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",92,0,62,30
+Dawson,11,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",16,0,9,7
+Dawson,11,"Justice, Supreme Court, Place 2",,,Under Votes,2,0,0,2
+Dawson,11,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Dawson,11,"Justice, Supreme Court, Place 4",,REP,"John Devine",92,0,60,32
+Dawson,11,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",16,0,10,6
+Dawson,11,"Justice, Supreme Court, Place 4",,,Under Votes,2,0,1,1
+Dawson,11,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+Dawson,11,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",89,0,59,30
+Dawson,11,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",16,0,10,6
+Dawson,11,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",2,0,2,0
+Dawson,11,"Justice, Supreme Court, Place 6",,,Under Votes,3,0,1,2
+Dawson,11,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+Dawson,11,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",90,0,60,30
+Dawson,11,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",17,0,10,7
+Dawson,11,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,3,0,1,2
+Dawson,11,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Dawson,11,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",93,0,60,33
+Dawson,11,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",13,0,9,4
+Dawson,11,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,4,0,2,2
+Dawson,11,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Dawson,11,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",92,0,60,32
+Dawson,11,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",14,0,10,4
+Dawson,11,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,4,0,1,3
+Dawson,11,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+Dawson,11,"Member, State Board of Education, District 15",,REP,"Aaron Kinsey",88,0,59,29
+Dawson,11,"Member, State Board of Education, District 15",,DEM,"Morgan Kirkpatrick",17,0,10,7
+Dawson,11,"Member, State Board of Education, District 15",,LIB,"Jack B. Westbrook",2,0,1,1
+Dawson,11,"Member, State Board of Education, District 15",,,Under Votes,3,0,2,1
+Dawson,11,"Member, State Board of Education, District 15",,,Over Votes,0,0,0,0
+Dawson,11,"State Representative, District 82",,REP,"Tom Craddick",97,0,63,34
+Dawson,11,"State Representative, District 82",,DEM,"Steven Schafersman",12,0,8,4
+Dawson,11,"State Representative, District 82",,,Under Votes,1,0,0,1
+Dawson,11,"State Representative, District 82",,,Over Votes,0,0,0,0
+Dawson,11,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",102,0,67,35
+Dawson,11,"Chief Justice, 11th Court of Appeals District",,,Under Votes,8,0,4,4
+Dawson,11,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Dawson,11,"District Attorney, 106th Judicial District",,REP,"Philip Mack Furlow",104,0,67,37
+Dawson,11,"District Attorney, 106th Judicial District",,,Under Votes,6,0,4,2
+Dawson,11,"District Attorney, 106th Judicial District",,,Over Votes,0,0,0,0
+Dawson,11,"County Attorney",,REP,"Steven B. Payson",100,0,63,37
+Dawson,11,"County Attorney",,,Under Votes,10,0,8,2
+Dawson,11,"County Attorney",,,Over Votes,0,0,0,0
+Dawson,11,"Sheriff",,REP,"Matt Hogg",105,0,67,38
+Dawson,11,"Sheriff",,,Under Votes,5,0,4,1
+Dawson,11,"Sheriff",,,Over Votes,0,0,0,0
+Dawson,11,"County Tax Assessor-Collector",,REP,"Yvonne Moreno",102,0,66,36
+Dawson,11,"County Tax Assessor-Collector",,,Under Votes,8,0,5,3
+Dawson,11,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Dawson,11,"County Commissioner, Precinct 3",,REP,"Al Crisp",103,0,66,37
+Dawson,11,"County Commissioner, Precinct 3",,,Under Votes,7,0,5,2
+Dawson,11,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Dawson,11,"County Constable",,REP,"Tommy Flores",105,0,69,36
+Dawson,11,"County Constable",,,Under Votes,5,0,2,3
+Dawson,11,"County Constable",,,Over Votes,0,0,0,0
+Dawson,11,"School Board Trustee - Vote for none, one, two, three or four.",,,"Brent Hill",0,0,0,0
+Dawson,11,"School Board Trustee - Vote for none, one, two, three or four.",,,"Justin Cave",0,0,0,0
+Dawson,11,"School Board Trustee - Vote for none, one, two, three or four.",,,"Kylie Justine Brown",0,0,0,0
+Dawson,11,"School Board Trustee - Vote for none, one, two, three or four.",,,"Ricky Barkowsky",0,0,0,0
+Dawson,11,"School Board Trustee - Vote for none, one, two, three or four.",,,"Mike Barkowsky",0,0,0,0
+Dawson,11,"School Board Trustee - Vote for none, one, two, three or four.",,,"Jessica Estes",0,0,0,0
+Dawson,11,"School Board Trustee - Vote for none, one, two, three or four.",,,"Clay Thixton",0,0,0,0
+Dawson,11,"School Board Trustee - Vote for none, one, two, three or four.",,,"Cody King",0,0,0,0
+Dawson,11,"School Board Trustee - Vote for none, one, two, three or four.",,,Under Votes,4,0,4,0
+Dawson,11,"School Board Trustee - Vote for none, one, two, three or four.",,,Over Votes,0,0,0,0
+Dawson,12,President,,REP,"Donald J. Trump",45,3,38,4
+Dawson,12,President,,DEM,"Kamala D. Harris",8,0,8,0
+Dawson,12,President,,LIB,"Chase Oliver",0,0,0,0
+Dawson,12,President,,GRN,"Jill Stein",0,0,0,0
+Dawson,12,President,,,"Cherunda Fox/ Harlan McVay (W)",0,0,0,0
+Dawson,12,President,,,"Claudia De la Cruz/Karina Garcia (W)",0,0,0,0
+Dawson,12,President,,,"Cornel West/Melina Abdullah (W)",0,0,0,0
+Dawson,12,President,,,"Jessie Cuellar/Wesley Lasley (W)",0,0,0,0
+Dawson,12,President,,,"Peter Sonski/Lauren Onak (W)",0,0,0,0
+Dawson,12,President,,,"Shiva Ayyadurai/Crystal Ellis (W)",0,0,0,0
+Dawson,12,President,,,Under Votes,1,1,0,0
+Dawson,12,President,,,Over Votes,0,0,0,0
+Dawson,12,"U.S. Senate",,REP,"Ted Cruz",45,2,37,6
+Dawson,12,"U.S. Senate",,DEM,"Colin Allred",8,0,8,0
+Dawson,12,"U.S. Senate",,LIB,"Ted Brown",1,0,1,0
+Dawson,12,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Dawson,12,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Dawson,12,"U.S. Senate",,,Under Votes,0,0,0,0
+Dawson,12,"U.S. Senate",,,Over Votes,0,0,0,0
+Dawson,12,"U.S. House",19,REP,"Jodey C. Arrington",47,2,39,6
+Dawson,12,"U.S. House",19,LIB,"Bernard Johnson",4,0,4,0
+Dawson,12,"U.S. House",19,IND,"Nathan Lewis",1,0,1,0
+Dawson,12,"U.S. House",19,,Under Votes,2,0,2,0
+Dawson,12,"U.S. House",19,,Over Votes,0,0,0,0
+Dawson,12,"Railroad Commissioner",,REP,"Christi Craddick",40,2,34,4
+Dawson,12,"Railroad Commissioner",,DEM,"Katherine Culbert",6,0,6,0
+Dawson,12,"Railroad Commissioner",,LIB,"Hawk Dunlap",7,0,5,2
+Dawson,12,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Dawson,12,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Dawson,12,"Railroad Commissioner",,,Under Votes,1,0,1,0
+Dawson,12,"Railroad Commissioner",,,Over Votes,0,0,0,0
+Dawson,12,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",48,2,40,6
+Dawson,12,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",6,0,6,0
+Dawson,12,"Justice, Supreme Court, Place 2",,,Under Votes,0,0,0,0
+Dawson,12,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Dawson,12,"Justice, Supreme Court, Place 4",,REP,"John Devine",47,2,39,6
+Dawson,12,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",7,0,7,0
+Dawson,12,"Justice, Supreme Court, Place 4",,,Under Votes,0,0,0,0
+Dawson,12,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+Dawson,12,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",45,2,37,6
+Dawson,12,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",6,0,6,0
+Dawson,12,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",1,0,1,0
+Dawson,12,"Justice, Supreme Court, Place 6",,,Under Votes,2,0,2,0
+Dawson,12,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+Dawson,12,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",47,2,39,6
+Dawson,12,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",7,0,7,0
+Dawson,12,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,0,0,0
+Dawson,12,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Dawson,12,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",47,2,39,6
+Dawson,12,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",6,0,6,0
+Dawson,12,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,1,0,1,0
+Dawson,12,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Dawson,12,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",47,2,39,6
+Dawson,12,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",7,0,7,0
+Dawson,12,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,0,0,0,0
+Dawson,12,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+Dawson,12,"Member, State Board of Education, District 15",,REP,"Aaron Kinsey",44,2,37,5
+Dawson,12,"Member, State Board of Education, District 15",,DEM,"Morgan Kirkpatrick",8,0,8,0
+Dawson,12,"Member, State Board of Education, District 15",,LIB,"Jack B. Westbrook",1,0,1,0
+Dawson,12,"Member, State Board of Education, District 15",,,Under Votes,1,0,0,1
+Dawson,12,"Member, State Board of Education, District 15",,,Over Votes,0,0,0,0
+Dawson,12,"State Representative, District 82",,REP,"Tom Craddick",46,2,39,5
+Dawson,12,"State Representative, District 82",,DEM,"Steven Schafersman",8,0,7,1
+Dawson,12,"State Representative, District 82",,,Under Votes,0,0,0,0
+Dawson,12,"State Representative, District 82",,,Over Votes,0,0,0,0
+Dawson,12,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",48,2,40,6
+Dawson,12,"Chief Justice, 11th Court of Appeals District",,,Under Votes,6,0,6,0
+Dawson,12,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Dawson,12,"District Attorney, 106th Judicial District",,REP,"Philip Mack Furlow",44,1,37,6
+Dawson,12,"District Attorney, 106th Judicial District",,,Under Votes,10,1,9,0
+Dawson,12,"District Attorney, 106th Judicial District",,,Over Votes,0,0,0,0
+Dawson,12,"County Attorney",,REP,"Steven B. Payson",46,1,39,6
+Dawson,12,"County Attorney",,,Under Votes,8,1,7,0
+Dawson,12,"County Attorney",,,Over Votes,0,0,0,0
+Dawson,12,"Sheriff",,REP,"Matt Hogg",46,1,39,6
+Dawson,12,"Sheriff",,,Under Votes,8,1,7,0
+Dawson,12,"Sheriff",,,Over Votes,0,0,0,0
+Dawson,12,"County Tax Assessor-Collector",,REP,"Yvonne Moreno",45,1,38,6
+Dawson,12,"County Tax Assessor-Collector",,,Under Votes,9,1,8,0
+Dawson,12,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Dawson,12,"County Commissioner, Precinct 1",,REP,"Mark Shofner",44,2,36,6
+Dawson,12,"County Commissioner, Precinct 1",,,Under Votes,10,0,10,0
+Dawson,12,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Dawson,12,"County Constable",,REP,"Tommy Flores",46,1,39,6
+Dawson,12,"County Constable",,,Under Votes,8,1,7,0
+Dawson,12,"County Constable",,,Over Votes,0,0,0,0
+Dawson,12,"School Board Trustee - Vote for none, one, two, three or four.",,,"Brent Hill",21,0,19,2
+Dawson,12,"School Board Trustee - Vote for none, one, two, three or four.",,,"Justin Cave",24,1,21,2
+Dawson,12,"School Board Trustee - Vote for none, one, two, three or four.",,,"Kylie Justine Brown",29,1,26,2
+Dawson,12,"School Board Trustee - Vote for none, one, two, three or four.",,,"Ricky Barkowsky",7,0,7,0
+Dawson,12,"School Board Trustee - Vote for none, one, two, three or four.",,,"Mike Barkowsky",7,0,7,0
+Dawson,12,"School Board Trustee - Vote for none, one, two, three or four.",,,"Jessica Estes",15,0,14,1
+Dawson,12,"School Board Trustee - Vote for none, one, two, three or four.",,,"Clay Thixton",13,1,11,1
+Dawson,12,"School Board Trustee - Vote for none, one, two, three or four.",,,"Cody King",25,1,21,3
+Dawson,12,"School Board Trustee - Vote for none, one, two, three or four.",,,Under Votes,23,1,22,0
+Dawson,12,"School Board Trustee - Vote for none, one, two, three or four.",,,Over Votes,0,0,0,0
+Dawson,13,President,,REP,"Donald J. Trump",87,1,60,26
+Dawson,13,President,,DEM,"Kamala D. Harris",7,0,2,5
+Dawson,13,President,,LIB,"Chase Oliver",0,0,0,0
+Dawson,13,President,,GRN,"Jill Stein",0,0,0,0
+Dawson,13,President,,,"Cherunda Fox/ Harlan McVay (W)",0,0,0,0
+Dawson,13,President,,,"Claudia De la Cruz/Karina Garcia (W)",0,0,0,0
+Dawson,13,President,,,"Cornel West/Melina Abdullah (W)",0,0,0,0
+Dawson,13,President,,,"Jessie Cuellar/Wesley Lasley (W)",0,0,0,0
+Dawson,13,President,,,"Peter Sonski/Lauren Onak (W)",0,0,0,0
+Dawson,13,President,,,"Shiva Ayyadurai/Crystal Ellis (W)",0,0,0,0
+Dawson,13,President,,,Under Votes,1,0,0,1
+Dawson,13,President,,,Over Votes,0,0,0,0
+Dawson,13,"U.S. Senate",,REP,"Ted Cruz",87,1,60,26
+Dawson,13,"U.S. Senate",,DEM,"Colin Allred",8,0,2,6
+Dawson,13,"U.S. Senate",,LIB,"Ted Brown",0,0,0,0
+Dawson,13,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Dawson,13,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Dawson,13,"U.S. Senate",,,Under Votes,0,0,0,0
+Dawson,13,"U.S. Senate",,,Over Votes,0,0,0,0
+Dawson,13,"U.S. House",19,REP,"Jodey C. Arrington",88,1,58,29
+Dawson,13,"U.S. House",19,LIB,"Bernard Johnson",1,0,1,0
+Dawson,13,"U.S. House",19,IND,"Nathan Lewis",3,0,0,3
+Dawson,13,"U.S. House",19,,Under Votes,3,0,0,3
+Dawson,13,"U.S. House",19,,Over Votes,0,0,0,0
+Dawson,13,"Railroad Commissioner",,REP,"Christi Craddick",78,1,54,23
+Dawson,13,"Railroad Commissioner",,DEM,"Katherine Culbert",5,0,1,4
+Dawson,13,"Railroad Commissioner",,LIB,"Hawk Dunlap",5,0,2,3
+Dawson,13,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,0,2
+Dawson,13,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Dawson,13,"Railroad Commissioner",,,Under Votes,5,0,5,0
+Dawson,13,"Railroad Commissioner",,,Over Votes,0,0,0,0
+Dawson,13,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",87,1,58,28
+Dawson,13,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",4,0,0,4
+Dawson,13,"Justice, Supreme Court, Place 2",,,Under Votes,4,0,4,0
+Dawson,13,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Dawson,13,"Justice, Supreme Court, Place 4",,REP,"John Devine",87,1,58,28
+Dawson,13,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",4,0,0,4
+Dawson,13,"Justice, Supreme Court, Place 4",,,Under Votes,4,0,4,0
+Dawson,13,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+Dawson,13,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",85,1,58,26
+Dawson,13,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",5,0,0,5
+Dawson,13,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",0,0,0,0
+Dawson,13,"Justice, Supreme Court, Place 6",,,Under Votes,5,0,4,1
+Dawson,13,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+Dawson,13,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",86,1,58,27
+Dawson,13,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",5,0,0,5
+Dawson,13,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,4,0,4,0
+Dawson,13,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Dawson,13,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",85,1,58,26
+Dawson,13,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",5,0,0,5
+Dawson,13,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,5,0,4,1
+Dawson,13,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Dawson,13,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",84,1,58,25
+Dawson,13,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",5,0,0,5
+Dawson,13,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,6,0,4,2
+Dawson,13,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+Dawson,13,"Member, State Board of Education, District 15",,REP,"Aaron Kinsey",83,1,56,26
+Dawson,13,"Member, State Board of Education, District 15",,DEM,"Morgan Kirkpatrick",4,0,0,4
+Dawson,13,"Member, State Board of Education, District 15",,LIB,"Jack B. Westbrook",2,0,1,1
+Dawson,13,"Member, State Board of Education, District 15",,,Under Votes,6,0,5,1
+Dawson,13,"Member, State Board of Education, District 15",,,Over Votes,0,0,0,0
+Dawson,13,"State Representative, District 82",,REP,"Tom Craddick",85,1,59,25
+Dawson,13,"State Representative, District 82",,DEM,"Steven Schafersman",7,0,1,6
+Dawson,13,"State Representative, District 82",,,Under Votes,3,0,2,1
+Dawson,13,"State Representative, District 82",,,Over Votes,0,0,0,0
+Dawson,13,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",91,1,59,31
+Dawson,13,"Chief Justice, 11th Court of Appeals District",,,Under Votes,4,0,3,1
+Dawson,13,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Dawson,13,"District Attorney, 106th Judicial District",,REP,"Philip Mack Furlow",86,1,54,31
+Dawson,13,"District Attorney, 106th Judicial District",,,Under Votes,9,0,8,1
+Dawson,13,"District Attorney, 106th Judicial District",,,Over Votes,0,0,0,0
+Dawson,13,"County Attorney",,REP,"Steven B. Payson",87,1,55,31
+Dawson,13,"County Attorney",,,Under Votes,8,0,7,1
+Dawson,13,"County Attorney",,,Over Votes,0,0,0,0
+Dawson,13,"Sheriff",,REP,"Matt Hogg",92,1,59,32
+Dawson,13,"Sheriff",,,Under Votes,3,0,3,0
+Dawson,13,"Sheriff",,,Over Votes,0,0,0,0
+Dawson,13,"County Tax Assessor-Collector",,REP,"Yvonne Moreno",89,1,58,30
+Dawson,13,"County Tax Assessor-Collector",,,Under Votes,6,0,4,2
+Dawson,13,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Dawson,13,"County Constable",,REP,"Tommy Flores",88,1,57,30
+Dawson,13,"County Constable",,,Under Votes,7,0,5,2
+Dawson,13,"County Constable",,,Over Votes,0,0,0,0
+Dawson,13,"School Board Trustee - Vote for none, one, two, three or four.",,,"Brent Hill",25,0,19,6
+Dawson,13,"School Board Trustee - Vote for none, one, two, three or four.",,,"Justin Cave",33,0,27,6
+Dawson,13,"School Board Trustee - Vote for none, one, two, three or four.",,,"Kylie Justine Brown",39,0,30,9
+Dawson,13,"School Board Trustee - Vote for none, one, two, three or four.",,,"Ricky Barkowsky",33,1,18,14
+Dawson,13,"School Board Trustee - Vote for none, one, two, three or four.",,,"Mike Barkowsky",33,1,17,15
+Dawson,13,"School Board Trustee - Vote for none, one, two, three or four.",,,"Jessica Estes",51,1,28,22
+Dawson,13,"School Board Trustee - Vote for none, one, two, three or four.",,,"Clay Thixton",49,1,27,21
+Dawson,13,"School Board Trustee - Vote for none, one, two, three or four.",,,"Cody King",41,0,36,5
+Dawson,13,"School Board Trustee - Vote for none, one, two, three or four.",,,Under Votes,76,0,46,30
+Dawson,13,"School Board Trustee - Vote for none, one, two, three or four.",,,Over Votes,0,0,0,0
+Dawson,17,President,,REP,"Donald J. Trump",59,1,42,16
+Dawson,17,President,,DEM,"Kamala D. Harris",4,0,3,1
+Dawson,17,President,,LIB,"Chase Oliver",1,0,0,1
+Dawson,17,President,,GRN,"Jill Stein",0,0,0,0
+Dawson,17,President,,,"Cherunda Fox/ Harlan McVay (W)",0,0,0,0
+Dawson,17,President,,,"Claudia De la Cruz/Karina Garcia (W)",0,0,0,0
+Dawson,17,President,,,"Cornel West/Melina Abdullah (W)",0,0,0,0
+Dawson,17,President,,,"Jessie Cuellar/Wesley Lasley (W)",0,0,0,0
+Dawson,17,President,,,"Peter Sonski/Lauren Onak (W)",0,0,0,0
+Dawson,17,President,,,"Shiva Ayyadurai/Crystal Ellis (W)",0,0,0,0
+Dawson,17,President,,,Under Votes,0,0,0,0
+Dawson,17,President,,,Over Votes,0,0,0,0
+Dawson,17,"U.S. Senate",,REP,"Ted Cruz",58,1,42,15
+Dawson,17,"U.S. Senate",,DEM,"Colin Allred",4,0,2,2
+Dawson,17,"U.S. Senate",,LIB,"Ted Brown",1,0,0,1
+Dawson,17,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Dawson,17,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Dawson,17,"U.S. Senate",,,Under Votes,1,0,1,0
+Dawson,17,"U.S. Senate",,,Over Votes,0,0,0,0
+Dawson,17,"U.S. House",19,REP,"Jodey C. Arrington",56,1,40,15
+Dawson,17,"U.S. House",19,LIB,"Bernard Johnson",4,0,2,2
+Dawson,17,"U.S. House",19,IND,"Nathan Lewis",1,0,1,0
+Dawson,17,"U.S. House",19,,Under Votes,3,0,2,1
+Dawson,17,"U.S. House",19,,Over Votes,0,0,0,0
+Dawson,17,"Railroad Commissioner",,REP,"Christi Craddick",54,1,38,15
+Dawson,17,"Railroad Commissioner",,DEM,"Katherine Culbert",3,0,2,1
+Dawson,17,"Railroad Commissioner",,LIB,"Hawk Dunlap",1,0,0,1
+Dawson,17,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Dawson,17,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Dawson,17,"Railroad Commissioner",,,Under Votes,6,0,5,1
+Dawson,17,"Railroad Commissioner",,,Over Votes,0,0,0,0
+Dawson,17,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",56,1,39,16
+Dawson,17,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",3,0,2,1
+Dawson,17,"Justice, Supreme Court, Place 2",,,Under Votes,5,0,4,1
+Dawson,17,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Dawson,17,"Justice, Supreme Court, Place 4",,REP,"John Devine",56,1,39,16
+Dawson,17,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",3,0,2,1
+Dawson,17,"Justice, Supreme Court, Place 4",,,Under Votes,5,0,4,1
+Dawson,17,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+Dawson,17,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",55,1,38,16
+Dawson,17,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",2,0,0,2
+Dawson,17,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",2,0,1,1
+Dawson,17,"Justice, Supreme Court, Place 6",,,Under Votes,5,0,4,1
+Dawson,17,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+Dawson,17,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",56,1,38,17
+Dawson,17,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",2,0,2,0
+Dawson,17,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,6,0,5,1
+Dawson,17,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Dawson,17,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",57,1,39,17
+Dawson,17,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",2,0,2,0
+Dawson,17,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,5,0,4,1
+Dawson,17,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Dawson,17,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",58,1,40,17
+Dawson,17,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",2,0,2,0
+Dawson,17,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,4,0,3,1
+Dawson,17,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+Dawson,17,"Member, State Board of Education, District 15",,REP,"Aaron Kinsey",56,1,39,16
+Dawson,17,"Member, State Board of Education, District 15",,DEM,"Morgan Kirkpatrick",4,0,4,0
+Dawson,17,"Member, State Board of Education, District 15",,LIB,"Jack B. Westbrook",1,0,0,1
+Dawson,17,"Member, State Board of Education, District 15",,,Under Votes,3,0,2,1
+Dawson,17,"Member, State Board of Education, District 15",,,Over Votes,0,0,0,0
+Dawson,17,"State Representative, District 82",,REP,"Tom Craddick",58,1,41,16
+Dawson,17,"State Representative, District 82",,DEM,"Steven Schafersman",3,0,2,1
+Dawson,17,"State Representative, District 82",,,Under Votes,3,0,2,1
+Dawson,17,"State Representative, District 82",,,Over Votes,0,0,0,0
+Dawson,17,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",59,1,41,17
+Dawson,17,"Chief Justice, 11th Court of Appeals District",,,Under Votes,5,0,4,1
+Dawson,17,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Dawson,17,"District Attorney, 106th Judicial District",,REP,"Philip Mack Furlow",58,1,40,17
+Dawson,17,"District Attorney, 106th Judicial District",,,Under Votes,6,0,5,1
+Dawson,17,"District Attorney, 106th Judicial District",,,Over Votes,0,0,0,0
+Dawson,17,"County Attorney",,REP,"Steven B. Payson",56,1,38,17
+Dawson,17,"County Attorney",,,Under Votes,8,0,7,1
+Dawson,17,"County Attorney",,,Over Votes,0,0,0,0
+Dawson,17,"Sheriff",,REP,"Matt Hogg",59,1,41,17
+Dawson,17,"Sheriff",,,Under Votes,5,0,4,1
+Dawson,17,"Sheriff",,,Over Votes,0,0,0,0
+Dawson,17,"County Tax Assessor-Collector",,REP,"Yvonne Moreno",59,1,41,17
+Dawson,17,"County Tax Assessor-Collector",,,Under Votes,5,0,4,1
+Dawson,17,"County Tax Assessor-Collector",,,Over Votes,0,0,0,0
+Dawson,17,"County Constable",,REP,"Tommy Flores",57,1,39,17
+Dawson,17,"County Constable",,,Under Votes,7,0,6,1
+Dawson,17,"County Constable",,,Over Votes,0,0,0,0
