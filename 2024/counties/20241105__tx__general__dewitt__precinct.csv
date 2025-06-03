@@ -1,0 +1,1252 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+DeWitt,101,Registered Voters,,,,1532,,,
+DeWitt,101,Ballots Cast,,,,1124,,,
+DeWitt,101,President,,REP,Donald J. Trump,905,63,733,109
+DeWitt,101,President,,DEM,Kamala D. Harris,214,27,146,41
+DeWitt,101,President,,LIB,Chase Oliver,2,0,1,1
+DeWitt,101,President,,GRN,Jill Stein,1,0,1,0
+DeWitt,101,President,,,Under Votes,2,0,2,0
+DeWitt,101,President,,,Over Votes,0,0,0,0
+DeWitt,101,U.S. Senate,,REP,Ted Cruz,862,54,708,100
+DeWitt,101,U.S. Senate,,DEM,Colin Allred,237,34,159,44
+DeWitt,101,U.S. Senate,,LIB,Ted Brown,12,0,8,4
+DeWitt,101,U.S. Senate,,,Under Votes,13,2,8,3
+DeWitt,101,U.S. Senate,,,Over Votes,0,0,0,0
+DeWitt,101,U.S. House,27,REP,Michael Cloud,912,61,739,112
+DeWitt,101,U.S. House,27,DEM,Tanya Lloyd,196,27,133,36
+DeWitt,101,U.S. House,27,,Under Votes,16,2,11,3
+DeWitt,101,U.S. House,27,,Over Votes,0,0,0,0
+DeWitt,101,Railroad Commissioner,,REP,Christi Craddick,878,61,716,101
+DeWitt,101,Railroad Commissioner,,DEM,Katherine Culbert,185,24,128,33
+DeWitt,101,Railroad Commissioner,,LIB,Hawk Dunlap,22,1,11,10
+DeWitt,101,Railroad Commissioner,,GRN,Eddie Espinoza,8,1,4,3
+DeWitt,101,Railroad Commissioner,,,Under Votes,31,3,24,4
+DeWitt,101,Railroad Commissioner,,,Over Votes,0,0,0,0
+DeWitt,101,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,904,61,732,111
+DeWitt,101,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,190,25,129,36
+DeWitt,101,"Justice, Supreme Court, Place 2",,,Under Votes,30,4,22,4
+DeWitt,101,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+DeWitt,101,"Justice, Supreme Court, Place 4",,REP,John Devine,893,59,725,109
+DeWitt,101,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,197,26,132,39
+DeWitt,101,"Justice, Supreme Court, Place 4",,,Under Votes,34,5,26,3
+DeWitt,101,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+DeWitt,101,"Justice, Supreme Court, Place 6",,REP,Jane Bland,887,62,717,108
+DeWitt,101,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,191,24,130,37
+DeWitt,101,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,18,1,14,3
+DeWitt,101,"Justice, Supreme Court, Place 6",,,Under Votes,28,3,22,3
+DeWitt,101,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+DeWitt,101,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,898,59,730,109
+DeWitt,101,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,197,26,132,39
+DeWitt,101,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,29,5,21,3
+DeWitt,101,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+DeWitt,101,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,893,59,728,106
+DeWitt,101,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,194,26,127,41
+DeWitt,101,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,37,5,28,4
+DeWitt,101,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+DeWitt,101,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,910,60,733,117
+DeWitt,101,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,181,25,123,33
+DeWitt,101,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,33,5,25,3
+DeWitt,101,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+DeWitt,101,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,447,38,332,77
+DeWitt,101,"Member, State Board of Education",3,,Under Votes,677,52,551,74
+DeWitt,101,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+DeWitt,101,State Representative,30,REP,AJ Louderback,893,50,731,112
+DeWitt,101,State Representative,30,DEM,Stephanie R. Bassham,199,28,134,37
+DeWitt,101,State Representative,30,,Under Votes,32,12,18,2
+DeWitt,101,State Representative,30,,Over Votes,0,0,0,0
+DeWitt,101,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,877,49,722,106
+DeWitt,101,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,200,25,136,39
+DeWitt,101,"Chief Justice, 13th Court of Appeals District",,,Under Votes,47,16,25,6
+DeWitt,101,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+DeWitt,101,"Justice, 13th Court of Appeals District, Place 2",,REP,Jenny Cron,875,50,719,106
+DeWitt,101,"Justice, 13th Court of Appeals District, Place 2",,DEM,Nora Longoria,206,24,142,40
+DeWitt,101,"Justice, 13th Court of Appeals District, Place 2",,,Under Votes,43,16,22,5
+DeWitt,101,"Justice, 13th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+DeWitt,101,"Justice, 13th Court of Appeals District, Place 4",,REP,Ysmael D. Fonseca,868,50,717,101
+DeWitt,101,"Justice, 13th Court of Appeals District, Place 4",,DEM,Joe Martinez,201,23,136,42
+DeWitt,101,"Justice, 13th Court of Appeals District, Place 4",,,Under Votes,55,17,30,8
+DeWitt,101,"Justice, 13th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+DeWitt,101,"Justice, 13th Court of Appeals District, Place 5",,REP,Jon West,891,50,731,110
+DeWitt,101,"Justice, 13th Court of Appeals District, Place 5",,DEM,Regi Compian Richardson,183,22,126,35
+DeWitt,101,"Justice, 13th Court of Appeals District, Place 5",,,Under Votes,50,18,26,6
+DeWitt,101,"Justice, 13th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+DeWitt,101,"District Judge, 24th Judicial District",,REP,Lisa Harvey Moore,940,56,763,121
+DeWitt,101,"District Judge, 24th Judicial District",,,Under Votes,184,34,120,30
+DeWitt,101,"District Judge, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,101,"District Judge, 135th Judicial District",,REP,Kemper Stephen Williams,948,59,767,122
+DeWitt,101,"District Judge, 135th Judicial District",,,Under Votes,176,31,116,29
+DeWitt,101,"District Judge, 135th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,101,"District Attorney, 24th Judicial District",,REP,Brian Michael Cromeens,942,55,764,123
+DeWitt,101,"District Attorney, 24th Judicial District",,,Under Votes,182,35,119,28
+DeWitt,101,"District Attorney, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,101,County Attorney,,REP,A. Jay Condie,934,55,758,121
+DeWitt,101,County Attorney,,,Under Votes,190,35,125,30
+DeWitt,101,County Attorney,,,Over Votes,0,0,0,0
+DeWitt,101,Sheriff,,REP,Carl R. Bowen,943,63,762,118
+DeWitt,101,Sheriff,,,Under Votes,181,27,121,33
+DeWitt,101,Sheriff,,,Over Votes,0,0,0,0
+DeWitt,101,County Tax Assessor-Collector,,REP,Ashley D. Mraz,965,59,781,125
+DeWitt,101,County Tax Assessor-Collector,,,Under Votes,159,31,102,26
+DeWitt,101,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+DeWitt,101,"County Treasurer, Unexpired Term",,REP,Desirae Poth-Garibay,956,58,773,125
+DeWitt,101,"County Treasurer, Unexpired Term",,,Under Votes,168,32,110,26
+DeWitt,101,"County Treasurer, Unexpired Term",,,Over Votes,0,0,0,0
+DeWitt,101,"County Commissioner, Precinct 1",,REP,Ryan Varela,956,58,773,125
+DeWitt,101,"County Commissioner, Precinct 1",,,Under Votes,168,32,110,26
+DeWitt,101,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+DeWitt,101,"Constable, Precinct 1",,REP,Roy Kuester,960,59,780,121
+DeWitt,101,"Constable, Precinct 1",,,Under Votes,164,31,103,30
+DeWitt,101,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+DeWitt,102,Registered Voters,,,,1134,,,
+DeWitt,102,Ballots Cast,,,,520,,,
+DeWitt,102,President,,REP,Donald J. Trump,260,9,192,59
+DeWitt,102,President,,DEM,Kamala D. Harris,254,16,167,71
+DeWitt,102,President,,LIB,Chase Oliver,3,0,1,2
+DeWitt,102,President,,GRN,Jill Stein,1,0,0,1
+DeWitt,102,President,,,Under Votes,1,0,1,0
+DeWitt,102,President,,,Over Votes,1,0,0,1
+DeWitt,102,U.S. Senate,,REP,Ted Cruz,243,10,180,53
+DeWitt,102,U.S. Senate,,DEM,Colin Allred,248,16,159,73
+DeWitt,102,U.S. Senate,,LIB,Ted Brown,18,0,12,6
+DeWitt,102,U.S. Senate,,,Under Votes,11,0,10,1
+DeWitt,102,U.S. Senate,,,Over Votes,0,0,0,0
+DeWitt,102,U.S. House,27,REP,Michael Cloud,262,11,192,59
+DeWitt,102,U.S. House,27,DEM,Tanya Lloyd,240,15,153,72
+DeWitt,102,U.S. House,27,,Under Votes,18,0,16,2
+DeWitt,102,U.S. House,27,,Over Votes,0,0,0,0
+DeWitt,102,Railroad Commissioner,,REP,Christi Craddick,245,9,186,50
+DeWitt,102,Railroad Commissioner,,DEM,Katherine Culbert,218,17,137,64
+DeWitt,102,Railroad Commissioner,,LIB,Hawk Dunlap,11,0,8,3
+DeWitt,102,Railroad Commissioner,,GRN,Eddie Espinoza,19,0,10,9
+DeWitt,102,Railroad Commissioner,,,Under Votes,27,0,20,7
+DeWitt,102,Railroad Commissioner,,,Over Votes,0,0,0,0
+DeWitt,102,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,259,10,194,55
+DeWitt,102,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,237,16,151,70
+DeWitt,102,"Justice, Supreme Court, Place 2",,,Under Votes,24,0,16,8
+DeWitt,102,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+DeWitt,102,"Justice, Supreme Court, Place 4",,REP,John Devine,252,9,190,53
+DeWitt,102,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,243,17,154,72
+DeWitt,102,"Justice, Supreme Court, Place 4",,,Under Votes,25,0,17,8
+DeWitt,102,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+DeWitt,102,"Justice, Supreme Court, Place 6",,REP,Jane Bland,247,10,179,58
+DeWitt,102,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,229,16,150,63
+DeWitt,102,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,16,0,13,3
+DeWitt,102,"Justice, Supreme Court, Place 6",,,Under Votes,28,0,19,9
+DeWitt,102,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+DeWitt,102,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,256,11,190,55
+DeWitt,102,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,237,15,152,70
+DeWitt,102,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,27,0,19,8
+DeWitt,102,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+DeWitt,102,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,264,10,194,60
+DeWitt,102,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,233,16,150,67
+DeWitt,102,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,23,0,17,6
+DeWitt,102,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+DeWitt,102,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,267,10,195,62
+DeWitt,102,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,225,16,145,64
+DeWitt,102,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,28,0,21,7
+DeWitt,102,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+DeWitt,102,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,332,20,212,100
+DeWitt,102,"Member, State Board of Education",3,,Under Votes,188,6,149,33
+DeWitt,102,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+DeWitt,102,State Representative,30,REP,AJ Louderback,263,12,194,57
+DeWitt,102,State Representative,30,DEM,Stephanie R. Bassham,233,14,150,69
+DeWitt,102,State Representative,30,,Under Votes,24,0,17,7
+DeWitt,102,State Representative,30,,Over Votes,0,0,0,0
+DeWitt,102,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,252,9,186,57
+DeWitt,102,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,244,17,159,68
+DeWitt,102,"Chief Justice, 13th Court of Appeals District",,,Under Votes,24,0,16,8
+DeWitt,102,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+DeWitt,102,"Justice, 13th Court of Appeals District, Place 2",,REP,Jenny Cron,248,9,189,50
+DeWitt,102,"Justice, 13th Court of Appeals District, Place 2",,DEM,Nora Longoria,246,17,157,72
+DeWitt,102,"Justice, 13th Court of Appeals District, Place 2",,,Under Votes,26,0,15,11
+DeWitt,102,"Justice, 13th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+DeWitt,102,"Justice, 13th Court of Appeals District, Place 4",,REP,Ysmael D. Fonseca,254,9,187,58
+DeWitt,102,"Justice, 13th Court of Appeals District, Place 4",,DEM,Joe Martinez,238,17,155,66
+DeWitt,102,"Justice, 13th Court of Appeals District, Place 4",,,Under Votes,28,0,19,9
+DeWitt,102,"Justice, 13th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+DeWitt,102,"Justice, 13th Court of Appeals District, Place 5",,REP,Jon West,262,9,196,57
+DeWitt,102,"Justice, 13th Court of Appeals District, Place 5",,DEM,Regi Compian Richardson,233,17,150,66
+DeWitt,102,"Justice, 13th Court of Appeals District, Place 5",,,Under Votes,25,0,15,10
+DeWitt,102,"Justice, 13th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+DeWitt,102,"District Judge, 24th Judicial District",,REP,Lisa Harvey Moore,326,13,231,82
+DeWitt,102,"District Judge, 24th Judicial District",,,Under Votes,194,13,130,51
+DeWitt,102,"District Judge, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,102,"District Judge, 135th Judicial District",,REP,Kemper Stephen Williams,322,13,229,80
+DeWitt,102,"District Judge, 135th Judicial District",,,Under Votes,198,13,132,53
+DeWitt,102,"District Judge, 135th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,102,"District Attorney, 24th Judicial District",,REP,Brian Michael Cromeens,327,14,231,82
+DeWitt,102,"District Attorney, 24th Judicial District",,,Under Votes,193,12,130,51
+DeWitt,102,"District Attorney, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,102,County Attorney,,REP,A. Jay Condie,319,14,222,83
+DeWitt,102,County Attorney,,,Under Votes,201,12,139,50
+DeWitt,102,County Attorney,,,Over Votes,0,0,0,0
+DeWitt,102,Sheriff,,REP,Carl R. Bowen,327,14,231,82
+DeWitt,102,Sheriff,,,Under Votes,193,12,130,51
+DeWitt,102,Sheriff,,,Over Votes,0,0,0,0
+DeWitt,102,County Tax Assessor-Collector,,REP,Ashley D. Mraz,342,15,243,84
+DeWitt,102,County Tax Assessor-Collector,,,Under Votes,178,11,118,49
+DeWitt,102,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+DeWitt,102,"County Treasurer, Unexpired Term",,REP,Desirae Poth-Garibay,334,14,237,83
+DeWitt,102,"County Treasurer, Unexpired Term",,,Under Votes,186,12,124,50
+DeWitt,102,"County Treasurer, Unexpired Term",,,Over Votes,0,0,0,0
+DeWitt,102,"County Commissioner, Precinct 1",,REP,Ryan Varela,351,14,250,87
+DeWitt,102,"County Commissioner, Precinct 1",,,Under Votes,169,12,111,46
+DeWitt,102,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+DeWitt,102,"Constable, Precinct 1",,REP,Roy Kuester,324,14,230,80
+DeWitt,102,"Constable, Precinct 1",,,Under Votes,196,12,131,53
+DeWitt,102,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+DeWitt,201,Registered Voters,,,,453,,,
+DeWitt,201,Ballots Cast,,,,322,,,
+DeWitt,201,President,,REP,Donald J. Trump,279,12,228,39
+DeWitt,201,President,,DEM,Kamala D. Harris,43,3,33,7
+DeWitt,201,President,,,Under Votes,0,0,0,0
+DeWitt,201,President,,,Over Votes,0,0,0,0
+DeWitt,201,U.S. Senate,,REP,Ted Cruz,267,12,222,33
+DeWitt,201,U.S. Senate,,DEM,Colin Allred,44,3,33,8
+DeWitt,201,U.S. Senate,,LIB,Ted Brown,5,0,2,3
+DeWitt,201,U.S. Senate,,,Under Votes,6,0,4,2
+DeWitt,201,U.S. Senate,,,Over Votes,0,0,0,0
+DeWitt,201,U.S. House,27,REP,Michael Cloud,272,12,224,36
+DeWitt,201,U.S. House,27,DEM,Tanya Lloyd,42,3,31,8
+DeWitt,201,U.S. House,27,,Under Votes,8,0,6,2
+DeWitt,201,U.S. House,27,,Over Votes,0,0,0,0
+DeWitt,201,Railroad Commissioner,,REP,Christi Craddick,263,12,215,36
+DeWitt,201,Railroad Commissioner,,DEM,Katherine Culbert,39,3,31,5
+DeWitt,201,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,5,1
+DeWitt,201,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1
+DeWitt,201,Railroad Commissioner,,,Under Votes,12,0,9,3
+DeWitt,201,Railroad Commissioner,,,Over Votes,0,0,0,0
+DeWitt,201,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,270,12,221,37
+DeWitt,201,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,42,3,34,5
+DeWitt,201,"Justice, Supreme Court, Place 2",,,Under Votes,10,0,6,4
+DeWitt,201,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+DeWitt,201,"Justice, Supreme Court, Place 4",,REP,John Devine,272,12,223,37
+DeWitt,201,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,40,3,32,5
+DeWitt,201,"Justice, Supreme Court, Place 4",,,Under Votes,10,0,6,4
+DeWitt,201,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+DeWitt,201,"Justice, Supreme Court, Place 6",,REP,Jane Bland,267,12,221,34
+DeWitt,201,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,39,3,30,6
+DeWitt,201,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,6,0,3,3
+DeWitt,201,"Justice, Supreme Court, Place 6",,,Under Votes,10,0,7,3
+DeWitt,201,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+DeWitt,201,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,268,12,221,35
+DeWitt,201,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,43,3,33,7
+DeWitt,201,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,11,0,7,4
+DeWitt,201,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+DeWitt,201,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,269,12,221,36
+DeWitt,201,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,42,3,33,6
+DeWitt,201,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,11,0,7,4
+DeWitt,201,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+DeWitt,201,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,272,12,224,36
+DeWitt,201,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,39,3,30,6
+DeWitt,201,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,11,0,7,4
+DeWitt,201,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+DeWitt,201,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,105,3,80,22
+DeWitt,201,"Member, State Board of Education",3,,Under Votes,217,12,181,24
+DeWitt,201,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+DeWitt,201,State Representative,30,REP,AJ Louderback,265,10,220,35
+DeWitt,201,State Representative,30,DEM,Stephanie R. Bassham,47,3,37,7
+DeWitt,201,State Representative,30,,Under Votes,10,0,4,6
+DeWitt,201,State Representative,30,,Over Votes,0,0,0,0
+DeWitt,201,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,263,10,215,38
+DeWitt,201,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,43,3,33,7
+DeWitt,201,"Chief Justice, 13th Court of Appeals District",,,Under Votes,16,0,13,3
+DeWitt,201,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+DeWitt,201,"Justice, 13th Court of Appeals District, Place 2",,REP,Jenny Cron,258,10,214,34
+DeWitt,201,"Justice, 13th Court of Appeals District, Place 2",,DEM,Nora Longoria,49,3,36,10
+DeWitt,201,"Justice, 13th Court of Appeals District, Place 2",,,Under Votes,15,0,11,4
+DeWitt,201,"Justice, 13th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+DeWitt,201,"Justice, 13th Court of Appeals District, Place 4",,REP,Ysmael D. Fonseca,260,10,214,36
+DeWitt,201,"Justice, 13th Court of Appeals District, Place 4",,DEM,Joe Martinez,47,3,35,9
+DeWitt,201,"Justice, 13th Court of Appeals District, Place 4",,,Under Votes,15,0,12,3
+DeWitt,201,"Justice, 13th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+DeWitt,201,"Justice, 13th Court of Appeals District, Place 5",,REP,Jon West,267,11,218,38
+DeWitt,201,"Justice, 13th Court of Appeals District, Place 5",,DEM,Regi Compian Richardson,39,3,29,7
+DeWitt,201,"Justice, 13th Court of Appeals District, Place 5",,,Under Votes,16,1,14,1
+DeWitt,201,"Justice, 13th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+DeWitt,201,"District Judge, 24th Judicial District",,REP,Lisa Harvey Moore,283,10,233,40
+DeWitt,201,"District Judge, 24th Judicial District",,,Under Votes,39,5,28,6
+DeWitt,201,"District Judge, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,201,"District Judge, 135th Judicial District",,REP,Kemper Stephen Williams,282,10,232,40
+DeWitt,201,"District Judge, 135th Judicial District",,,Under Votes,40,5,29,6
+DeWitt,201,"District Judge, 135th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,201,"District Attorney, 24th Judicial District",,REP,Brian Michael Cromeens,278,10,228,40
+DeWitt,201,"District Attorney, 24th Judicial District",,,Under Votes,44,5,33,6
+DeWitt,201,"District Attorney, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,201,County Attorney,,REP,A. Jay Condie,275,10,224,41
+DeWitt,201,County Attorney,,,Under Votes,47,5,37,5
+DeWitt,201,County Attorney,,,Over Votes,0,0,0,0
+DeWitt,201,Sheriff,,REP,Carl R. Bowen,267,7,222,38
+DeWitt,201,Sheriff,,,Under Votes,55,8,39,8
+DeWitt,201,Sheriff,,,Over Votes,0,0,0,0
+DeWitt,201,County Tax Assessor-Collector,,REP,Ashley D. Mraz,285,10,234,41
+DeWitt,201,County Tax Assessor-Collector,,,Under Votes,37,5,27,5
+DeWitt,201,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+DeWitt,201,"County Treasurer, Unexpired Term",,REP,Desirae Poth-Garibay,278,10,228,40
+DeWitt,201,"County Treasurer, Unexpired Term",,,Under Votes,44,5,33,6
+DeWitt,201,"County Treasurer, Unexpired Term",,,Over Votes,0,0,0,0
+DeWitt,201,"Constable, Precinct 1",,REP,Roy Kuester,279,10,230,39
+DeWitt,201,"Constable, Precinct 1",,,Under Votes,43,5,31,7
+DeWitt,201,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+DeWitt,201-YISD,Registered Voters,,,,54,,,
+DeWitt,201-YISD,Ballots Cast,,,,43,,,
+DeWitt,201-YISD,President,,REP,Donald J. Trump,37,2,31,4
+DeWitt,201-YISD,President,,DEM,Kamala D. Harris,6,0,4,2
+DeWitt,201-YISD,President,,,Under Votes,0,0,0,0
+DeWitt,201-YISD,President,,,Over Votes,0,0,0,0
+DeWitt,201-YISD,U.S. Senate,,REP,Ted Cruz,40,2,34,4
+DeWitt,201-YISD,U.S. Senate,,DEM,Colin Allred,3,0,1,2
+DeWitt,201-YISD,U.S. Senate,,,Under Votes,0,0,0,0
+DeWitt,201-YISD,U.S. Senate,,,Over Votes,0,0,0,0
+DeWitt,201-YISD,U.S. House,27,REP,Michael Cloud,41,2,35,4
+DeWitt,201-YISD,U.S. House,27,DEM,Tanya Lloyd,2,0,0,2
+DeWitt,201-YISD,U.S. House,27,,Under Votes,0,0,0,0
+DeWitt,201-YISD,U.S. House,27,,Over Votes,0,0,0,0
+DeWitt,201-YISD,Railroad Commissioner,,REP,Christi Craddick,39,2,34,3
+DeWitt,201-YISD,Railroad Commissioner,,DEM,Katherine Culbert,2,0,0,2
+DeWitt,201-YISD,Railroad Commissioner,,,Under Votes,2,0,1,1
+DeWitt,201-YISD,Railroad Commissioner,,,Over Votes,0,0,0,0
+DeWitt,201-YISD,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,40,2,34,4
+DeWitt,201-YISD,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,2,0,0,2
+DeWitt,201-YISD,"Justice, Supreme Court, Place 2",,,Under Votes,1,0,1,0
+DeWitt,201-YISD,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+DeWitt,201-YISD,"Justice, Supreme Court, Place 4",,REP,John Devine,40,2,35,3
+DeWitt,201-YISD,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,2,0,0,2
+DeWitt,201-YISD,"Justice, Supreme Court, Place 4",,,Under Votes,1,0,0,1
+DeWitt,201-YISD,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+DeWitt,201-YISD,"Justice, Supreme Court, Place 6",,REP,Jane Bland,40,2,35,3
+DeWitt,201-YISD,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,2,0,0,2
+DeWitt,201-YISD,"Justice, Supreme Court, Place 6",,,Under Votes,1,0,0,1
+DeWitt,201-YISD,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+DeWitt,201-YISD,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,39,2,34,3
+DeWitt,201-YISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,2,0,0,2
+DeWitt,201-YISD,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,2,0,1,1
+DeWitt,201-YISD,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+DeWitt,201-YISD,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,39,2,34,3
+DeWitt,201-YISD,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,2,0,0,2
+DeWitt,201-YISD,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,2,0,1,1
+DeWitt,201-YISD,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+DeWitt,201-YISD,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,39,2,34,3
+DeWitt,201-YISD,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,2,0,0,2
+DeWitt,201-YISD,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,2,0,1,1
+DeWitt,201-YISD,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+DeWitt,201-YISD,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,8,0,5,3
+DeWitt,201-YISD,"Member, State Board of Education",3,,Under Votes,35,2,30,3
+DeWitt,201-YISD,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+DeWitt,201-YISD,State Representative,30,REP,AJ Louderback,40,2,35,3
+DeWitt,201-YISD,State Representative,30,DEM,Stephanie R. Bassham,2,0,0,2
+DeWitt,201-YISD,State Representative,30,,Under Votes,1,0,0,1
+DeWitt,201-YISD,State Representative,30,,Over Votes,0,0,0,0
+DeWitt,201-YISD,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,36,1,33,2
+DeWitt,201-YISD,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,2,0,0,2
+DeWitt,201-YISD,"Chief Justice, 13th Court of Appeals District",,,Under Votes,5,1,2,2
+DeWitt,201-YISD,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+DeWitt,201-YISD,"Justice, 13th Court of Appeals District, Place 2",,REP,Jenny Cron,37,1,34,2
+DeWitt,201-YISD,"Justice, 13th Court of Appeals District, Place 2",,DEM,Nora Longoria,2,0,0,2
+DeWitt,201-YISD,"Justice, 13th Court of Appeals District, Place 2",,,Under Votes,4,1,1,2
+DeWitt,201-YISD,"Justice, 13th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+DeWitt,201-YISD,"Justice, 13th Court of Appeals District, Place 4",,REP,Ysmael D. Fonseca,35,1,32,2
+DeWitt,201-YISD,"Justice, 13th Court of Appeals District, Place 4",,DEM,Joe Martinez,2,0,0,2
+DeWitt,201-YISD,"Justice, 13th Court of Appeals District, Place 4",,,Under Votes,6,1,3,2
+DeWitt,201-YISD,"Justice, 13th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+DeWitt,201-YISD,"Justice, 13th Court of Appeals District, Place 5",,REP,Jon West,37,1,34,2
+DeWitt,201-YISD,"Justice, 13th Court of Appeals District, Place 5",,DEM,Regi Compian Richardson,2,0,0,2
+DeWitt,201-YISD,"Justice, 13th Court of Appeals District, Place 5",,,Under Votes,4,1,1,2
+DeWitt,201-YISD,"Justice, 13th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+DeWitt,201-YISD,"District Judge, 24th Judicial District",,REP,Lisa Harvey Moore,39,1,34,4
+DeWitt,201-YISD,"District Judge, 24th Judicial District",,,Under Votes,4,1,1,2
+DeWitt,201-YISD,"District Judge, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,201-YISD,"District Judge, 135th Judicial District",,REP,Kemper Stephen Williams,39,1,34,4
+DeWitt,201-YISD,"District Judge, 135th Judicial District",,,Under Votes,4,1,1,2
+DeWitt,201-YISD,"District Judge, 135th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,201-YISD,"District Attorney, 24th Judicial District",,REP,Brian Michael Cromeens,37,1,33,3
+DeWitt,201-YISD,"District Attorney, 24th Judicial District",,,Under Votes,6,1,2,3
+DeWitt,201-YISD,"District Attorney, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,201-YISD,County Attorney,,REP,A. Jay Condie,38,1,34,3
+DeWitt,201-YISD,County Attorney,,,Under Votes,5,1,1,3
+DeWitt,201-YISD,County Attorney,,,Over Votes,0,0,0,0
+DeWitt,201-YISD,Sheriff,,REP,Carl R. Bowen,39,1,34,4
+DeWitt,201-YISD,Sheriff,,,Under Votes,4,1,1,2
+DeWitt,201-YISD,Sheriff,,,Over Votes,0,0,0,0
+DeWitt,201-YISD,County Tax Assessor-Collector,,REP,Ashley D. Mraz,38,1,34,3
+DeWitt,201-YISD,County Tax Assessor-Collector,,,Under Votes,5,1,1,3
+DeWitt,201-YISD,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+DeWitt,201-YISD,"County Treasurer, Unexpired Term",,REP,Desirae Poth-Garibay,38,1,34,3
+DeWitt,201-YISD,"County Treasurer, Unexpired Term",,,Under Votes,5,1,1,3
+DeWitt,201-YISD,"County Treasurer, Unexpired Term",,,Over Votes,0,0,0,0
+DeWitt,201-YISD,"Constable, Precinct 1",,REP,Roy Kuester,36,1,32,3
+DeWitt,201-YISD,"Constable, Precinct 1",,,Under Votes,7,1,3,3
+DeWitt,201-YISD,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+DeWitt,201-YISD,Yoakum ISD Voter Approval Tax Rate Election,,,For,9,0,7,2
+DeWitt,201-YISD,Yoakum ISD Voter Approval Tax Rate Election,,,Against,30,1,27,2
+DeWitt,201-YISD,Yoakum ISD Voter Approval Tax Rate Election,,,Under Votes,4,1,1,2
+DeWitt,201-YISD,Yoakum ISD Voter Approval Tax Rate Election,,,Over Votes,0,0,0,0
+DeWitt,202,Registered Voters,,,,18,,,
+DeWitt,202,Ballots Cast,,,,16,,,
+DeWitt,202,President,,REP,Donald J. Trump,14,1,13,0
+DeWitt,202,President,,DEM,Kamala D. Harris,2,0,0,2
+DeWitt,202,President,,,Under Votes,0,0,0,0
+DeWitt,202,President,,,Over Votes,0,0,0,0
+DeWitt,202,U.S. Senate,,REP,Ted Cruz,13,1,12,0
+DeWitt,202,U.S. Senate,,DEM,Colin Allred,2,1,1,0
+DeWitt,202,U.S. Senate,,LIB,Ted Brown,1,1,0,0
+DeWitt,202,U.S. Senate,,,Under Votes,0,0,0,0
+DeWitt,202,U.S. Senate,,,Over Votes,0,0,0,0
+DeWitt,202,U.S. House,27,REP,Michael Cloud,14,1,13,0
+DeWitt,202,U.S. House,27,DEM,Tanya Lloyd,2,1,0,1
+DeWitt,202,U.S. House,27,,Under Votes,0,0,0,0
+DeWitt,202,U.S. House,27,,Over Votes,0,0,0,0
+DeWitt,202,Railroad Commissioner,,REP,Christi Craddick,14,1,13,0
+DeWitt,202,Railroad Commissioner,,DEM,Katherine Culbert,2,0,0,2
+DeWitt,202,Railroad Commissioner,,,Under Votes,0,0,0,0
+DeWitt,202,Railroad Commissioner,,,Over Votes,0,0,0,0
+DeWitt,202,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,14,1,13,0
+DeWitt,202,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,2,1,0,1
+DeWitt,202,"Justice, Supreme Court, Place 2",,,Under Votes,0,0,0,0
+DeWitt,202,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+DeWitt,202,"Justice, Supreme Court, Place 4",,REP,John Devine,15,2,13,0
+DeWitt,202,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,1,1,0,0
+DeWitt,202,"Justice, Supreme Court, Place 4",,,Under Votes,0,0,0,0
+DeWitt,202,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+DeWitt,202,"Justice, Supreme Court, Place 6",,REP,Jane Bland,13,1,12,0
+DeWitt,202,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,1,1,0,0
+DeWitt,202,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,2,1,1,0
+DeWitt,202,"Justice, Supreme Court, Place 6",,,Under Votes,0,0,0,0
+DeWitt,202,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+DeWitt,202,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,15,2,13,0
+DeWitt,202,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,1,1,0,0
+DeWitt,202,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,0,0,0
+DeWitt,202,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+DeWitt,202,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,15,2,13,0
+DeWitt,202,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,1,1,0,0
+DeWitt,202,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,0,0,0,0
+DeWitt,202,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+DeWitt,202,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,14,1,13,0
+DeWitt,202,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,2,2,0,0
+DeWitt,202,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,0,0,0,0
+DeWitt,202,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+DeWitt,202,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,6,1,5,0
+DeWitt,202,"Member, State Board of Education",3,,Under Votes,10,2,8,0
+DeWitt,202,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+DeWitt,202,State Representative,30,REP,AJ Louderback,14,1,13,0
+DeWitt,202,State Representative,30,DEM,Stephanie R. Bassham,1,1,0,0
+DeWitt,202,State Representative,30,,Under Votes,1,0,0,1
+DeWitt,202,State Representative,30,,Over Votes,0,0,0,0
+DeWitt,202,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,14,1,13,0
+DeWitt,202,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,1,1,0,0
+DeWitt,202,"Chief Justice, 13th Court of Appeals District",,,Under Votes,1,0,0,1
+DeWitt,202,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+DeWitt,202,"Justice, 13th Court of Appeals District, Place 2",,REP,Jenny Cron,14,1,13,0
+DeWitt,202,"Justice, 13th Court of Appeals District, Place 2",,DEM,Nora Longoria,1,1,0,0
+DeWitt,202,"Justice, 13th Court of Appeals District, Place 2",,,Under Votes,1,0,0,1
+DeWitt,202,"Justice, 13th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+DeWitt,202,"Justice, 13th Court of Appeals District, Place 4",,REP,Ysmael D. Fonseca,14,1,13,0
+DeWitt,202,"Justice, 13th Court of Appeals District, Place 4",,DEM,Joe Martinez,1,1,0,0
+DeWitt,202,"Justice, 13th Court of Appeals District, Place 4",,,Under Votes,1,0,0,1
+DeWitt,202,"Justice, 13th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+DeWitt,202,"Justice, 13th Court of Appeals District, Place 5",,REP,Jon West,14,1,13,0
+DeWitt,202,"Justice, 13th Court of Appeals District, Place 5",,DEM,Regi Compian Richardson,1,1,0,0
+DeWitt,202,"Justice, 13th Court of Appeals District, Place 5",,,Under Votes,1,0,0,1
+DeWitt,202,"Justice, 13th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+DeWitt,202,"District Judge, 24th Judicial District",,REP,Lisa Harvey Moore,14,1,13,0
+DeWitt,202,"District Judge, 24th Judicial District",,,Under Votes,2,1,0,1
+DeWitt,202,"District Judge, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,202,"District Judge, 135th Judicial District",,REP,Kemper Stephen Williams,14,1,13,0
+DeWitt,202,"District Judge, 135th Judicial District",,,Under Votes,2,1,0,1
+DeWitt,202,"District Judge, 135th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,202,"District Attorney, 24th Judicial District",,REP,Brian Michael Cromeens,14,1,13,0
+DeWitt,202,"District Attorney, 24th Judicial District",,,Under Votes,2,1,0,1
+DeWitt,202,"District Attorney, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,202,County Attorney,,REP,A. Jay Condie,14,1,13,0
+DeWitt,202,County Attorney,,,Under Votes,2,1,0,1
+DeWitt,202,County Attorney,,,Over Votes,0,0,0,0
+DeWitt,202,Sheriff,,REP,Carl R. Bowen,14,1,13,0
+DeWitt,202,Sheriff,,,Under Votes,2,1,0,1
+DeWitt,202,Sheriff,,,Over Votes,0,0,0,0
+DeWitt,202,County Tax Assessor-Collector,,REP,Ashley D. Mraz,14,1,13,0
+DeWitt,202,County Tax Assessor-Collector,,,Under Votes,2,1,0,1
+DeWitt,202,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+DeWitt,202,"County Treasurer, Unexpired Term",,REP,Desirae Poth-Garibay,14,1,13,0
+DeWitt,202,"County Treasurer, Unexpired Term",,,Under Votes,2,1,0,1
+DeWitt,202,"County Treasurer, Unexpired Term",,,Over Votes,0,0,0,0
+DeWitt,202,"Constable, Precinct 1",,REP,Roy Kuester,14,1,13,0
+DeWitt,202,"Constable, Precinct 1",,,Under Votes,2,1,0,1
+DeWitt,202,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+DeWitt,202-YISD,Registered Voters,,,,1114,,,
+DeWitt,202-YISD,Ballots Cast,,,,734,,,
+DeWitt,202-YISD,President,,REP,Donald J. Trump,608,29,375,204
+DeWitt,202-YISD,President,,DEM,Kamala D. Harris,120,8,67,45
+DeWitt,202-YISD,President,,LIB,Chase Oliver,1,0,0,1
+DeWitt,202-YISD,President,,GRN,Jill Stein,2,0,0,2
+DeWitt,202-YISD,President,,,Under Votes,3,1,1,1
+DeWitt,202-YISD,President,,,Over Votes,0,0,0,0
+DeWitt,202-YISD,U.S. Senate,,REP,Ted Cruz,579,28,362,189
+DeWitt,202-YISD,U.S. Senate,,DEM,Colin Allred,137,7,71,59
+DeWitt,202-YISD,U.S. Senate,,LIB,Ted Brown,12,2,7,3
+DeWitt,202-YISD,U.S. Senate,,,Under Votes,6,1,3,2
+DeWitt,202-YISD,U.S. Senate,,,Over Votes,0,0,0,0
+DeWitt,202-YISD,U.S. House,27,REP,Michael Cloud,605,29,380,196
+DeWitt,202-YISD,U.S. House,27,DEM,Tanya Lloyd,116,8,57,51
+DeWitt,202-YISD,U.S. House,27,,Under Votes,13,1,6,6
+DeWitt,202-YISD,U.S. House,27,,Over Votes,0,0,0,0
+DeWitt,202-YISD,Railroad Commissioner,,REP,Christi Craddick,596,28,372,196
+DeWitt,202-YISD,Railroad Commissioner,,DEM,Katherine Culbert,105,7,56,42
+DeWitt,202-YISD,Railroad Commissioner,,LIB,Hawk Dunlap,9,1,4,4
+DeWitt,202-YISD,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,1,4
+DeWitt,202-YISD,Railroad Commissioner,,,Under Votes,19,2,10,7
+DeWitt,202-YISD,Railroad Commissioner,,,Over Votes,0,0,0,0
+DeWitt,202-YISD,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,602,29,378,195
+DeWitt,202-YISD,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,111,7,56,48
+DeWitt,202-YISD,"Justice, Supreme Court, Place 2",,,Under Votes,21,2,9,10
+DeWitt,202-YISD,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+DeWitt,202-YISD,"Justice, Supreme Court, Place 4",,REP,John Devine,597,29,372,196
+DeWitt,202-YISD,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,112,7,57,48
+DeWitt,202-YISD,"Justice, Supreme Court, Place 4",,,Under Votes,25,2,14,9
+DeWitt,202-YISD,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+DeWitt,202-YISD,"Justice, Supreme Court, Place 6",,REP,Jane Bland,587,27,368,192
+DeWitt,202-YISD,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,110,8,58,44
+DeWitt,202-YISD,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,14,1,7,6
+DeWitt,202-YISD,"Justice, Supreme Court, Place 6",,,Under Votes,23,2,10,11
+DeWitt,202-YISD,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+DeWitt,202-YISD,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,593,27,372,194
+DeWitt,202-YISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,116,9,60,47
+DeWitt,202-YISD,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,25,2,11,12
+DeWitt,202-YISD,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+DeWitt,202-YISD,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,599,28,374,197
+DeWitt,202-YISD,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,110,8,59,43
+DeWitt,202-YISD,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,25,2,10,13
+DeWitt,202-YISD,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+DeWitt,202-YISD,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,594,28,371,195
+DeWitt,202-YISD,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,109,8,56,45
+DeWitt,202-YISD,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,31,2,16,13
+DeWitt,202-YISD,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+DeWitt,202-YISD,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,299,14,165,120
+DeWitt,202-YISD,"Member, State Board of Education",3,,Under Votes,435,24,278,133
+DeWitt,202-YISD,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+DeWitt,202-YISD,State Representative,30,REP,AJ Louderback,591,27,368,196
+DeWitt,202-YISD,State Representative,30,DEM,Stephanie R. Bassham,111,8,57,46
+DeWitt,202-YISD,State Representative,30,,Under Votes,32,3,18,11
+DeWitt,202-YISD,State Representative,30,,Over Votes,0,0,0,0
+DeWitt,202-YISD,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,578,26,360,192
+DeWitt,202-YISD,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,120,8,64,48
+DeWitt,202-YISD,"Chief Justice, 13th Court of Appeals District",,,Under Votes,36,4,19,13
+DeWitt,202-YISD,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+DeWitt,202-YISD,"Justice, 13th Court of Appeals District, Place 2",,REP,Jenny Cron,580,27,360,193
+DeWitt,202-YISD,"Justice, 13th Court of Appeals District, Place 2",,DEM,Nora Longoria,116,7,63,46
+DeWitt,202-YISD,"Justice, 13th Court of Appeals District, Place 2",,,Under Votes,38,4,20,14
+DeWitt,202-YISD,"Justice, 13th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+DeWitt,202-YISD,"Justice, 13th Court of Appeals District, Place 4",,REP,Ysmael D. Fonseca,579,26,362,191
+DeWitt,202-YISD,"Justice, 13th Court of Appeals District, Place 4",,DEM,Joe Martinez,116,8,59,49
+DeWitt,202-YISD,"Justice, 13th Court of Appeals District, Place 4",,,Under Votes,39,4,22,13
+DeWitt,202-YISD,"Justice, 13th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+DeWitt,202-YISD,"Justice, 13th Court of Appeals District, Place 5",,REP,Jon West,591,28,369,194
+DeWitt,202-YISD,"Justice, 13th Court of Appeals District, Place 5",,DEM,Regi Compian Richardson,105,7,54,44
+DeWitt,202-YISD,"Justice, 13th Court of Appeals District, Place 5",,,Under Votes,38,3,20,15
+DeWitt,202-YISD,"Justice, 13th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+DeWitt,202-YISD,"District Judge, 24th Judicial District",,REP,Lisa Harvey Moore,621,27,380,214
+DeWitt,202-YISD,"District Judge, 24th Judicial District",,,Under Votes,113,11,63,39
+DeWitt,202-YISD,"District Judge, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,202-YISD,"District Judge, 135th Judicial District",,REP,Kemper Stephen Williams,622,26,380,216
+DeWitt,202-YISD,"District Judge, 135th Judicial District",,,Under Votes,112,12,63,37
+DeWitt,202-YISD,"District Judge, 135th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,202-YISD,"District Attorney, 24th Judicial District",,REP,Brian Michael Cromeens,621,28,379,214
+DeWitt,202-YISD,"District Attorney, 24th Judicial District",,,Under Votes,113,10,64,39
+DeWitt,202-YISD,"District Attorney, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,202-YISD,County Attorney,,REP,A. Jay Condie,622,27,383,212
+DeWitt,202-YISD,County Attorney,,,Under Votes,112,11,60,41
+DeWitt,202-YISD,County Attorney,,,Over Votes,0,0,0,0
+DeWitt,202-YISD,Sheriff,,REP,Carl R. Bowen,626,27,382,217
+DeWitt,202-YISD,Sheriff,,,Under Votes,108,11,61,36
+DeWitt,202-YISD,Sheriff,,,Over Votes,0,0,0,0
+DeWitt,202-YISD,County Tax Assessor-Collector,,REP,Ashley D. Mraz,640,28,391,221
+DeWitt,202-YISD,County Tax Assessor-Collector,,,Under Votes,94,10,52,32
+DeWitt,202-YISD,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+DeWitt,202-YISD,"County Treasurer, Unexpired Term",,REP,Desirae Poth-Garibay,627,27,383,217
+DeWitt,202-YISD,"County Treasurer, Unexpired Term",,,Under Votes,107,11,60,36
+DeWitt,202-YISD,"County Treasurer, Unexpired Term",,,Over Votes,0,0,0,0
+DeWitt,202-YISD,"Constable, Precinct 1",,REP,Roy Kuester,630,27,385,218
+DeWitt,202-YISD,"Constable, Precinct 1",,,Under Votes,104,11,58,35
+DeWitt,202-YISD,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+DeWitt,202-YISD,Yoakum ISD Voter Approval Tax Rate Election,,,For,347,9,177,161
+DeWitt,202-YISD,Yoakum ISD Voter Approval Tax Rate Election,,,Against,321,20,229,72
+DeWitt,202-YISD,Yoakum ISD Voter Approval Tax Rate Election,,,Under Votes,66,9,37,20
+DeWitt,202-YISD,Yoakum ISD Voter Approval Tax Rate Election,,,Over Votes,0,0,0,0
+DeWitt,203-YISD,Registered Voters,,,,1061,,,
+DeWitt,203-YISD,Ballots Cast,,,,752,,,
+DeWitt,203-YISD,President,,REP,Donald J. Trump,669,30,455,184
+DeWitt,203-YISD,President,,DEM,Kamala D. Harris,79,5,42,32
+DeWitt,203-YISD,President,,LIB,Chase Oliver,3,0,2,1
+DeWitt,203-YISD,President,,GRN,Jill Stein,1,0,1,0
+DeWitt,203-YISD,President,,,Under Votes,0,0,0,0
+DeWitt,203-YISD,President,,,Over Votes,0,0,0,0
+DeWitt,203-YISD,U.S. Senate,,REP,Ted Cruz,641,30,440,171
+DeWitt,203-YISD,U.S. Senate,,DEM,Colin Allred,85,5,48,32
+DeWitt,203-YISD,U.S. Senate,,LIB,Ted Brown,13,0,7,6
+DeWitt,203-YISD,U.S. Senate,,,Under Votes,13,0,5,8
+DeWitt,203-YISD,U.S. Senate,,,Over Votes,0,0,0,0
+DeWitt,203-YISD,U.S. House,27,REP,Michael Cloud,663,29,458,176
+DeWitt,203-YISD,U.S. House,27,DEM,Tanya Lloyd,65,5,34,26
+DeWitt,203-YISD,U.S. House,27,,Under Votes,24,1,8,15
+DeWitt,203-YISD,U.S. House,27,,Over Votes,0,0,0,0
+DeWitt,203-YISD,Railroad Commissioner,,REP,Christi Craddick,638,29,446,163
+DeWitt,203-YISD,Railroad Commissioner,,DEM,Katherine Culbert,67,5,36,26
+DeWitt,203-YISD,Railroad Commissioner,,LIB,Hawk Dunlap,13,0,6,7
+DeWitt,203-YISD,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,1,3
+DeWitt,203-YISD,Railroad Commissioner,,,Under Votes,30,1,11,18
+DeWitt,203-YISD,Railroad Commissioner,,,Over Votes,0,0,0,0
+DeWitt,203-YISD,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,653,29,451,173
+DeWitt,203-YISD,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,69,5,38,26
+DeWitt,203-YISD,"Justice, Supreme Court, Place 2",,,Under Votes,30,1,11,18
+DeWitt,203-YISD,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+DeWitt,203-YISD,"Justice, Supreme Court, Place 4",,REP,John Devine,649,29,450,170
+DeWitt,203-YISD,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,68,5,36,27
+DeWitt,203-YISD,"Justice, Supreme Court, Place 4",,,Under Votes,35,1,14,20
+DeWitt,203-YISD,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+DeWitt,203-YISD,"Justice, Supreme Court, Place 6",,REP,Jane Bland,642,29,446,167
+DeWitt,203-YISD,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,69,5,37,27
+DeWitt,203-YISD,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,9,0,4,5
+DeWitt,203-YISD,"Justice, Supreme Court, Place 6",,,Under Votes,32,1,13,18
+DeWitt,203-YISD,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+DeWitt,203-YISD,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,648,28,450,170
+DeWitt,203-YISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,74,6,40,28
+DeWitt,203-YISD,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,30,1,10,19
+DeWitt,203-YISD,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+DeWitt,203-YISD,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,649,29,448,172
+DeWitt,203-YISD,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,68,5,38,25
+DeWitt,203-YISD,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,35,1,14,20
+DeWitt,203-YISD,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+DeWitt,203-YISD,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,648,29,449,170
+DeWitt,203-YISD,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,67,5,35,27
+DeWitt,203-YISD,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,37,1,16,20
+DeWitt,203-YISD,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+DeWitt,203-YISD,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,237,10,129,98
+DeWitt,203-YISD,"Member, State Board of Education",3,,Under Votes,515,25,371,119
+DeWitt,203-YISD,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+DeWitt,203-YISD,State Representative,30,REP,AJ Louderback,638,27,442,169
+DeWitt,203-YISD,State Representative,30,DEM,Stephanie R. Bassham,75,5,43,27
+DeWitt,203-YISD,State Representative,30,,Under Votes,39,3,15,21
+DeWitt,203-YISD,State Representative,30,,Over Votes,0,0,0,0
+DeWitt,203-YISD,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,634,27,441,166
+DeWitt,203-YISD,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,71,5,40,26
+DeWitt,203-YISD,"Chief Justice, 13th Court of Appeals District",,,Under Votes,47,3,19,25
+DeWitt,203-YISD,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+DeWitt,203-YISD,"Justice, 13th Court of Appeals District, Place 2",,REP,Jenny Cron,637,27,445,165
+DeWitt,203-YISD,"Justice, 13th Court of Appeals District, Place 2",,DEM,Nora Longoria,70,5,38,27
+DeWitt,203-YISD,"Justice, 13th Court of Appeals District, Place 2",,,Under Votes,45,3,17,25
+DeWitt,203-YISD,"Justice, 13th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+DeWitt,203-YISD,"Justice, 13th Court of Appeals District, Place 4",,REP,Ysmael D. Fonseca,636,26,445,165
+DeWitt,203-YISD,"Justice, 13th Court of Appeals District, Place 4",,DEM,Joe Martinez,72,6,39,27
+DeWitt,203-YISD,"Justice, 13th Court of Appeals District, Place 4",,,Under Votes,44,3,16,25
+DeWitt,203-YISD,"Justice, 13th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+DeWitt,203-YISD,"Justice, 13th Court of Appeals District, Place 5",,REP,Jon West,650,28,453,169
+DeWitt,203-YISD,"Justice, 13th Court of Appeals District, Place 5",,DEM,Regi Compian Richardson,63,5,33,25
+DeWitt,203-YISD,"Justice, 13th Court of Appeals District, Place 5",,,Under Votes,39,2,14,23
+DeWitt,203-YISD,"Justice, 13th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+DeWitt,203-YISD,"District Judge, 24th Judicial District",,REP,Lisa Harvey Moore,659,26,452,181
+DeWitt,203-YISD,"District Judge, 24th Judicial District",,,Under Votes,93,9,48,36
+DeWitt,203-YISD,"District Judge, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,203-YISD,"District Judge, 135th Judicial District",,REP,Kemper Stephen Williams,657,26,450,181
+DeWitt,203-YISD,"District Judge, 135th Judicial District",,,Under Votes,95,9,50,36
+DeWitt,203-YISD,"District Judge, 135th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,203-YISD,"District Attorney, 24th Judicial District",,REP,Brian Michael Cromeens,649,22,448,179
+DeWitt,203-YISD,"District Attorney, 24th Judicial District",,,Under Votes,103,13,52,38
+DeWitt,203-YISD,"District Attorney, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,203-YISD,County Attorney,,REP,A. Jay Condie,648,22,450,176
+DeWitt,203-YISD,County Attorney,,,Under Votes,104,13,50,41
+DeWitt,203-YISD,County Attorney,,,Over Votes,0,0,0,0
+DeWitt,203-YISD,Sheriff,,REP,Carl R. Bowen,644,22,447,175
+DeWitt,203-YISD,Sheriff,,,Under Votes,108,13,53,42
+DeWitt,203-YISD,Sheriff,,,Over Votes,0,0,0,0
+DeWitt,203-YISD,County Tax Assessor-Collector,,REP,Ashley D. Mraz,659,23,457,179
+DeWitt,203-YISD,County Tax Assessor-Collector,,,Under Votes,93,12,43,38
+DeWitt,203-YISD,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+DeWitt,203-YISD,"County Treasurer, Unexpired Term",,REP,Desirae Poth-Garibay,656,23,452,181
+DeWitt,203-YISD,"County Treasurer, Unexpired Term",,,Under Votes,96,12,48,36
+DeWitt,203-YISD,"County Treasurer, Unexpired Term",,,Over Votes,0,0,0,0
+DeWitt,203-YISD,"Constable, Precinct 1",,REP,Roy Kuester,658,23,452,183
+DeWitt,203-YISD,"Constable, Precinct 1",,,Under Votes,94,12,48,34
+DeWitt,203-YISD,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+DeWitt,203-YISD,Yoakum ISD Voter Approval Tax Rate Election,,,For,297,14,167,116
+DeWitt,203-YISD,Yoakum ISD Voter Approval Tax Rate Election,,,Against,397,12,301,84
+DeWitt,203-YISD,Yoakum ISD Voter Approval Tax Rate Election,,,Under Votes,58,9,32,17
+DeWitt,203-YISD,Yoakum ISD Voter Approval Tax Rate Election,,,Over Votes,0,0,0,0
+DeWitt,301,Registered Voters,,,,1399,,,
+DeWitt,301,Ballots Cast,,,,934,,,
+DeWitt,301,President,,REP,Donald J. Trump,832,53,508,271
+DeWitt,301,President,,DEM,Kamala D. Harris,89,2,62,25
+DeWitt,301,President,,LIB,Chase Oliver,5,0,2,3
+DeWitt,301,President,,GRN,Jill Stein,3,0,2,1
+DeWitt,301,President,,,Under Votes,5,0,3,2
+DeWitt,301,President,,,Over Votes,0,0,0,0
+DeWitt,301,U.S. Senate,,REP,Ted Cruz,796,51,496,249
+DeWitt,301,U.S. Senate,,DEM,Colin Allred,108,2,70,36
+DeWitt,301,U.S. Senate,,LIB,Ted Brown,14,1,7,6
+DeWitt,301,U.S. Senate,,,Under Votes,15,0,4,11
+DeWitt,301,U.S. Senate,,,Over Votes,1,1,0,0
+DeWitt,301,U.S. House,27,REP,Michael Cloud,825,53,505,267
+DeWitt,301,U.S. House,27,DEM,Tanya Lloyd,90,2,65,23
+DeWitt,301,U.S. House,27,,Under Votes,19,0,7,12
+DeWitt,301,U.S. House,27,,Over Votes,0,0,0,0
+DeWitt,301,Railroad Commissioner,,REP,Christi Craddick,803,51,505,247
+DeWitt,301,Railroad Commissioner,,DEM,Katherine Culbert,87,3,59,25
+DeWitt,301,Railroad Commissioner,,LIB,Hawk Dunlap,20,1,5,14
+DeWitt,301,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,2,2
+DeWitt,301,Railroad Commissioner,,,Under Votes,20,0,6,14
+DeWitt,301,Railroad Commissioner,,,Over Votes,0,0,0,0
+DeWitt,301,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,822,54,508,260
+DeWitt,301,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,89,1,61,27
+DeWitt,301,"Justice, Supreme Court, Place 2",,,Under Votes,23,0,8,15
+DeWitt,301,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+DeWitt,301,"Justice, Supreme Court, Place 4",,REP,John Devine,815,50,503,262
+DeWitt,301,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,90,4,64,22
+DeWitt,301,"Justice, Supreme Court, Place 4",,,Under Votes,29,1,10,18
+DeWitt,301,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+DeWitt,301,"Justice, Supreme Court, Place 6",,REP,Jane Bland,807,50,501,256
+DeWitt,301,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,86,3,60,23
+DeWitt,301,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,18,1,8,9
+DeWitt,301,"Justice, Supreme Court, Place 6",,,Under Votes,23,1,8,14
+DeWitt,301,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+DeWitt,301,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,825,52,509,264
+DeWitt,301,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,86,2,61,23
+DeWitt,301,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,23,1,7,15
+DeWitt,301,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+DeWitt,301,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,820,51,507,262
+DeWitt,301,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,92,3,64,25
+DeWitt,301,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,22,1,6,15
+DeWitt,301,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+DeWitt,301,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,826,53,509,264
+DeWitt,301,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,84,2,62,20
+DeWitt,301,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,24,0,8,16
+DeWitt,301,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+DeWitt,301,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,326,14,196,116
+DeWitt,301,"Member, State Board of Education",3,,Under Votes,608,41,381,186
+DeWitt,301,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+DeWitt,301,State Representative,30,REP,AJ Louderback,818,50,506,262
+DeWitt,301,State Representative,30,DEM,Stephanie R. Bassham,92,2,63,27
+DeWitt,301,State Representative,30,,Under Votes,24,3,8,13
+DeWitt,301,State Representative,30,,Over Votes,0,0,0,0
+DeWitt,301,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,810,49,503,258
+DeWitt,301,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,95,2,66,27
+DeWitt,301,"Chief Justice, 13th Court of Appeals District",,,Under Votes,29,4,8,17
+DeWitt,301,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+DeWitt,301,"Justice, 13th Court of Appeals District, Place 2",,REP,Jenny Cron,815,50,506,259
+DeWitt,301,"Justice, 13th Court of Appeals District, Place 2",,DEM,Nora Longoria,92,1,65,26
+DeWitt,301,"Justice, 13th Court of Appeals District, Place 2",,,Under Votes,27,4,6,17
+DeWitt,301,"Justice, 13th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+DeWitt,301,"Justice, 13th Court of Appeals District, Place 4",,REP,Ysmael D. Fonseca,812,49,502,261
+DeWitt,301,"Justice, 13th Court of Appeals District, Place 4",,DEM,Joe Martinez,94,3,65,26
+DeWitt,301,"Justice, 13th Court of Appeals District, Place 4",,,Under Votes,28,3,10,15
+DeWitt,301,"Justice, 13th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+DeWitt,301,"Justice, 13th Court of Appeals District, Place 5",,REP,Jon West,822,50,507,265
+DeWitt,301,"Justice, 13th Court of Appeals District, Place 5",,DEM,Regi Compian Richardson,86,2,62,22
+DeWitt,301,"Justice, 13th Court of Appeals District, Place 5",,,Under Votes,26,3,8,15
+DeWitt,301,"Justice, 13th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+DeWitt,301,"District Judge, 24th Judicial District",,REP,Lisa Harvey Moore,836,47,518,271
+DeWitt,301,"District Judge, 24th Judicial District",,,Under Votes,98,8,59,31
+DeWitt,301,"District Judge, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,301,"District Judge, 135th Judicial District",,REP,Kemper Stephen Williams,836,46,519,271
+DeWitt,301,"District Judge, 135th Judicial District",,,Under Votes,98,9,58,31
+DeWitt,301,"District Judge, 135th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,301,"District Attorney, 24th Judicial District",,REP,Brian Michael Cromeens,829,48,512,269
+DeWitt,301,"District Attorney, 24th Judicial District",,,Under Votes,105,7,65,33
+DeWitt,301,"District Attorney, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,301,County Attorney,,REP,A. Jay Condie,832,48,514,270
+DeWitt,301,County Attorney,,,Under Votes,102,7,63,32
+DeWitt,301,County Attorney,,,Over Votes,0,0,0,0
+DeWitt,301,Sheriff,,REP,Carl R. Bowen,827,48,509,270
+DeWitt,301,Sheriff,,,Under Votes,107,7,68,32
+DeWitt,301,Sheriff,,,Over Votes,0,0,0,0
+DeWitt,301,County Tax Assessor-Collector,,REP,Ashley D. Mraz,843,47,523,273
+DeWitt,301,County Tax Assessor-Collector,,,Under Votes,91,8,54,29
+DeWitt,301,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+DeWitt,301,"County Treasurer, Unexpired Term",,REP,Desirae Poth-Garibay,840,48,519,273
+DeWitt,301,"County Treasurer, Unexpired Term",,,Under Votes,94,7,58,29
+DeWitt,301,"County Treasurer, Unexpired Term",,,Over Votes,0,0,0,0
+DeWitt,301,"County Commissioner, Precinct 3",,REP,James Kaiser,837,48,520,269
+DeWitt,301,"County Commissioner, Precinct 3",,,Under Votes,97,7,57,33
+DeWitt,301,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+DeWitt,301,"Constable, Precinct 2",,REP,Jefferson Hobbs,835,46,518,271
+DeWitt,301,"Constable, Precinct 2",,,Under Votes,99,9,59,31
+DeWitt,301,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+DeWitt,302,Registered Voters,,,,1166,,,
+DeWitt,302,Ballots Cast,,,,787,,,
+DeWitt,302,President,,REP,Donald J. Trump,667,26,475,166
+DeWitt,302,President,,DEM,Kamala D. Harris,116,11,80,25
+DeWitt,302,President,,LIB,Chase Oliver,3,0,1,2
+DeWitt,302,President,,GRN,Jill Stein,0,0,0,0
+DeWitt,302,President,,,Under Votes,0,0,0,0
+DeWitt,302,President,,,Over Votes,0,0,0,0
+DeWitt,302,U.S. Senate,,REP,Ted Cruz,641,26,457,158
+DeWitt,302,U.S. Senate,,DEM,Colin Allred,131,11,82,38
+DeWitt,302,U.S. Senate,,LIB,Ted Brown,7,0,4,3
+DeWitt,302,U.S. Senate,,,Under Votes,8,0,5,3
+DeWitt,302,U.S. Senate,,,Over Votes,0,0,0,0
+DeWitt,302,U.S. House,27,REP,Michael Cloud,669,26,476,167
+DeWitt,302,U.S. House,27,DEM,Tanya Lloyd,106,11,72,23
+DeWitt,302,U.S. House,27,,Under Votes,12,0,8,4
+DeWitt,302,U.S. House,27,,Over Votes,0,0,0,0
+DeWitt,302,Railroad Commissioner,,REP,Christi Craddick,642,25,460,157
+DeWitt,302,Railroad Commissioner,,DEM,Katherine Culbert,113,11,78,24
+DeWitt,302,Railroad Commissioner,,LIB,Hawk Dunlap,15,1,6,8
+DeWitt,302,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1
+DeWitt,302,Railroad Commissioner,,,Under Votes,15,0,11,4
+DeWitt,302,Railroad Commissioner,,,Over Votes,0,0,0,0
+DeWitt,302,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,646,26,460,160
+DeWitt,302,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,122,11,82,29
+DeWitt,302,"Justice, Supreme Court, Place 2",,,Under Votes,19,0,14,5
+DeWitt,302,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+DeWitt,302,"Justice, Supreme Court, Place 4",,REP,John Devine,645,26,458,161
+DeWitt,302,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,117,11,80,26
+DeWitt,302,"Justice, Supreme Court, Place 4",,,Under Votes,25,0,18,7
+DeWitt,302,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+DeWitt,302,"Justice, Supreme Court, Place 6",,REP,Jane Bland,643,25,460,158
+DeWitt,302,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,107,11,73,23
+DeWitt,302,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,12,1,5,6
+DeWitt,302,"Justice, Supreme Court, Place 6",,,Under Votes,25,0,18,7
+DeWitt,302,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+DeWitt,302,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,654,27,463,164
+DeWitt,302,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,114,10,78,26
+DeWitt,302,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,19,0,15,4
+DeWitt,302,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+DeWitt,302,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,655,26,466,163
+DeWitt,302,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,109,11,73,25
+DeWitt,302,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,23,0,17,6
+DeWitt,302,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+DeWitt,302,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,650,26,462,162
+DeWitt,302,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,113,11,77,25
+DeWitt,302,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,24,0,17,7
+DeWitt,302,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+DeWitt,302,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,306,17,202,87
+DeWitt,302,"Member, State Board of Education",3,,Under Votes,481,20,354,107
+DeWitt,302,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+DeWitt,302,State Representative,30,REP,AJ Louderback,647,26,460,161
+DeWitt,302,State Representative,30,DEM,Stephanie R. Bassham,119,11,81,27
+DeWitt,302,State Representative,30,,Under Votes,21,0,15,6
+DeWitt,302,State Representative,30,,Over Votes,0,0,0,0
+DeWitt,302,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,642,26,459,157
+DeWitt,302,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,119,10,81,28
+DeWitt,302,"Chief Justice, 13th Court of Appeals District",,,Under Votes,26,1,16,9
+DeWitt,302,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+DeWitt,302,"Justice, 13th Court of Appeals District, Place 2",,REP,Jenny Cron,639,26,456,157
+DeWitt,302,"Justice, 13th Court of Appeals District, Place 2",,DEM,Nora Longoria,121,11,82,28
+DeWitt,302,"Justice, 13th Court of Appeals District, Place 2",,,Under Votes,27,0,18,9
+DeWitt,302,"Justice, 13th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+DeWitt,302,"Justice, 13th Court of Appeals District, Place 4",,REP,Ysmael D. Fonseca,641,26,457,158
+DeWitt,302,"Justice, 13th Court of Appeals District, Place 4",,DEM,Joe Martinez,117,10,80,27
+DeWitt,302,"Justice, 13th Court of Appeals District, Place 4",,,Under Votes,29,1,19,9
+DeWitt,302,"Justice, 13th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+DeWitt,302,"Justice, 13th Court of Appeals District, Place 5",,REP,Jon West,654,26,466,162
+DeWitt,302,"Justice, 13th Court of Appeals District, Place 5",,DEM,Regi Compian Richardson,106,10,72,24
+DeWitt,302,"Justice, 13th Court of Appeals District, Place 5",,,Under Votes,27,1,18,8
+DeWitt,302,"Justice, 13th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+DeWitt,302,"District Judge, 24th Judicial District",,REP,Lisa Harvey Moore,682,27,486,169
+DeWitt,302,"District Judge, 24th Judicial District",,,Under Votes,105,10,70,25
+DeWitt,302,"District Judge, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,302,"District Judge, 135th Judicial District",,REP,Kemper Stephen Williams,679,26,484,169
+DeWitt,302,"District Judge, 135th Judicial District",,,Under Votes,108,11,72,25
+DeWitt,302,"District Judge, 135th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,302,"District Attorney, 24th Judicial District",,REP,Brian Michael Cromeens,677,26,485,166
+DeWitt,302,"District Attorney, 24th Judicial District",,,Under Votes,110,11,71,28
+DeWitt,302,"District Attorney, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,302,County Attorney,,REP,A. Jay Condie,674,26,480,168
+DeWitt,302,County Attorney,,,Under Votes,113,11,76,26
+DeWitt,302,County Attorney,,,Over Votes,0,0,0,0
+DeWitt,302,Sheriff,,REP,Carl R. Bowen,675,28,480,167
+DeWitt,302,Sheriff,,,Under Votes,112,9,76,27
+DeWitt,302,Sheriff,,,Over Votes,0,0,0,0
+DeWitt,302,County Tax Assessor-Collector,,REP,Ashley D. Mraz,684,29,487,168
+DeWitt,302,County Tax Assessor-Collector,,,Under Votes,103,8,69,26
+DeWitt,302,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+DeWitt,302,"County Treasurer, Unexpired Term",,REP,Desirae Poth-Garibay,684,26,488,170
+DeWitt,302,"County Treasurer, Unexpired Term",,,Under Votes,103,11,68,24
+DeWitt,302,"County Treasurer, Unexpired Term",,,Over Votes,0,0,0,0
+DeWitt,302,"County Commissioner, Precinct 3",,REP,James Kaiser,688,28,489,171
+DeWitt,302,"County Commissioner, Precinct 3",,,Under Votes,99,9,67,23
+DeWitt,302,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+DeWitt,302,"Constable, Precinct 2",,REP,Jefferson Hobbs,676,26,485,165
+DeWitt,302,"Constable, Precinct 2",,,Under Votes,111,11,71,29
+DeWitt,302,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+DeWitt,303,Registered Voters,,,,426,,,
+DeWitt,303,Ballots Cast,,,,304,,,
+DeWitt,303,President,,REP,Donald J. Trump,244,14,106,124
+DeWitt,303,President,,DEM,Kamala D. Harris,53,1,21,31
+DeWitt,303,President,,LIB,Chase Oliver,3,0,0,3
+DeWitt,303,President,,GRN,Jill Stein,3,0,0,3
+DeWitt,303,President,,,Under Votes,1,0,0,1
+DeWitt,303,President,,,Over Votes,0,0,0,0
+DeWitt,303,U.S. Senate,,REP,Ted Cruz,227,10,102,115
+DeWitt,303,U.S. Senate,,DEM,Colin Allred,67,4,22,41
+DeWitt,303,U.S. Senate,,LIB,Ted Brown,6,0,2,4
+DeWitt,303,U.S. Senate,,,Under Votes,4,0,1,3
+DeWitt,303,U.S. Senate,,,Over Votes,0,0,0,0
+DeWitt,303,U.S. House,27,REP,Michael Cloud,243,14,105,124
+DeWitt,303,U.S. House,27,DEM,Tanya Lloyd,56,1,21,34
+DeWitt,303,U.S. House,27,,Under Votes,5,0,1,4
+DeWitt,303,U.S. House,27,,Over Votes,0,0,0,0
+DeWitt,303,Railroad Commissioner,,REP,Christi Craddick,227,11,96,120
+DeWitt,303,Railroad Commissioner,,DEM,Katherine Culbert,51,2,19,30
+DeWitt,303,Railroad Commissioner,,LIB,Hawk Dunlap,14,0,7,7
+DeWitt,303,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,2,3
+DeWitt,303,Railroad Commissioner,,,Under Votes,6,0,3,3
+DeWitt,303,Railroad Commissioner,,,Over Votes,1,1,0,0
+DeWitt,303,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,239,13,103,123
+DeWitt,303,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,55,1,21,33
+DeWitt,303,"Justice, Supreme Court, Place 2",,,Under Votes,10,0,3,7
+DeWitt,303,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+DeWitt,303,"Justice, Supreme Court, Place 4",,REP,John Devine,239,13,103,123
+DeWitt,303,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,55,1,21,33
+DeWitt,303,"Justice, Supreme Court, Place 4",,,Under Votes,10,0,3,7
+DeWitt,303,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+DeWitt,303,"Justice, Supreme Court, Place 6",,REP,Jane Bland,232,13,102,117
+DeWitt,303,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,52,1,21,30
+DeWitt,303,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,8,0,1,7
+DeWitt,303,"Justice, Supreme Court, Place 6",,,Under Votes,12,0,3,9
+DeWitt,303,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+DeWitt,303,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,238,12,102,124
+DeWitt,303,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,57,1,22,34
+DeWitt,303,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,0,3,6
+DeWitt,303,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+DeWitt,303,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,238,12,103,123
+DeWitt,303,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,55,1,21,33
+DeWitt,303,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,11,0,3,8
+DeWitt,303,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+DeWitt,303,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,236,11,103,122
+DeWitt,303,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,54,1,21,32
+DeWitt,303,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,14,1,3,10
+DeWitt,303,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+DeWitt,303,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,135,6,57,72
+DeWitt,303,"Member, State Board of Education",3,,Under Votes,169,10,70,89
+DeWitt,303,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+DeWitt,303,State Representative,30,REP,AJ Louderback,237,12,104,121
+DeWitt,303,State Representative,30,DEM,Stephanie R. Bassham,57,1,21,35
+DeWitt,303,State Representative,30,,Under Votes,10,0,2,8
+DeWitt,303,State Representative,30,,Over Votes,0,0,0,0
+DeWitt,303,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,234,11,103,120
+DeWitt,303,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,56,1,21,34
+DeWitt,303,"Chief Justice, 13th Court of Appeals District",,,Under Votes,14,1,3,10
+DeWitt,303,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+DeWitt,303,"Justice, 13th Court of Appeals District, Place 2",,REP,Jenny Cron,234,11,103,120
+DeWitt,303,"Justice, 13th Court of Appeals District, Place 2",,DEM,Nora Longoria,57,2,20,35
+DeWitt,303,"Justice, 13th Court of Appeals District, Place 2",,,Under Votes,13,0,4,9
+DeWitt,303,"Justice, 13th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+DeWitt,303,"Justice, 13th Court of Appeals District, Place 4",,REP,Ysmael D. Fonseca,232,12,102,118
+DeWitt,303,"Justice, 13th Court of Appeals District, Place 4",,DEM,Joe Martinez,56,1,21,34
+DeWitt,303,"Justice, 13th Court of Appeals District, Place 4",,,Under Votes,16,0,4,12
+DeWitt,303,"Justice, 13th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+DeWitt,303,"Justice, 13th Court of Appeals District, Place 5",,REP,Jon West,235,12,102,121
+DeWitt,303,"Justice, 13th Court of Appeals District, Place 5",,DEM,Regi Compian Richardson,55,1,21,33
+DeWitt,303,"Justice, 13th Court of Appeals District, Place 5",,,Under Votes,14,0,4,10
+DeWitt,303,"Justice, 13th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+DeWitt,303,"District Judge, 24th Judicial District",,REP,Lisa Harvey Moore,254,12,109,133
+DeWitt,303,"District Judge, 24th Judicial District",,,Under Votes,50,4,18,28
+DeWitt,303,"District Judge, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,303,"District Judge, 135th Judicial District",,REP,Kemper Stephen Williams,255,12,109,134
+DeWitt,303,"District Judge, 135th Judicial District",,,Under Votes,49,4,18,27
+DeWitt,303,"District Judge, 135th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,303,"District Attorney, 24th Judicial District",,REP,Brian Michael Cromeens,256,12,108,136
+DeWitt,303,"District Attorney, 24th Judicial District",,,Under Votes,48,4,19,25
+DeWitt,303,"District Attorney, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,303,County Attorney,,REP,A. Jay Condie,254,11,108,135
+DeWitt,303,County Attorney,,,Under Votes,50,5,19,26
+DeWitt,303,County Attorney,,,Over Votes,0,0,0,0
+DeWitt,303,Sheriff,,REP,Carl R. Bowen,250,11,108,131
+DeWitt,303,Sheriff,,,Under Votes,54,5,19,30
+DeWitt,303,Sheriff,,,Over Votes,0,0,0,0
+DeWitt,303,County Tax Assessor-Collector,,REP,Ashley D. Mraz,262,13,111,138
+DeWitt,303,County Tax Assessor-Collector,,,Under Votes,42,3,16,23
+DeWitt,303,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+DeWitt,303,"County Treasurer, Unexpired Term",,REP,Desirae Poth-Garibay,257,11,111,135
+DeWitt,303,"County Treasurer, Unexpired Term",,,Under Votes,47,5,16,26
+DeWitt,303,"County Treasurer, Unexpired Term",,,Over Votes,0,0,0,0
+DeWitt,303,"County Commissioner, Precinct 3",,REP,James Kaiser,263,14,113,136
+DeWitt,303,"County Commissioner, Precinct 3",,,Under Votes,41,2,14,25
+DeWitt,303,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+DeWitt,303,"Constable, Precinct 2",,REP,Jefferson Hobbs,259,13,109,137
+DeWitt,303,"Constable, Precinct 2",,,Under Votes,45,3,18,24
+DeWitt,303,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+DeWitt,401,Registered Voters,,,,1903,,,
+DeWitt,401,Ballots Cast,,,,1333,,,
+DeWitt,401,President,,REP,Donald J. Trump,1111,49,908,154
+DeWitt,401,President,,DEM,Kamala D. Harris,214,20,170,24
+DeWitt,401,President,,LIB,Chase Oliver,3,1,1,1
+DeWitt,401,President,,GRN,Jill Stein,2,0,2,0
+DeWitt,401,President,,,Under Votes,2,1,1,0
+DeWitt,401,President,,,Over Votes,1,0,1,0
+DeWitt,401,U.S. Senate,,REP,Ted Cruz,1070,47,881,142
+DeWitt,401,U.S. Senate,,DEM,Colin Allred,236,19,186,31
+DeWitt,401,U.S. Senate,,LIB,Ted Brown,18,4,8,6
+DeWitt,401,U.S. Senate,,,Under Votes,9,1,8,0
+DeWitt,401,U.S. Senate,,,Over Votes,0,0,0,0
+DeWitt,401,U.S. House,27,REP,Michael Cloud,1121,51,919,151
+DeWitt,401,U.S. House,27,DEM,Tanya Lloyd,198,20,151,27
+DeWitt,401,U.S. House,27,,Under Votes,14,0,13,1
+DeWitt,401,U.S. House,27,,Over Votes,0,0,0,0
+DeWitt,401,Railroad Commissioner,,REP,Christi Craddick,1094,47,905,142
+DeWitt,401,Railroad Commissioner,,DEM,Katherine Culbert,187,19,144,24
+DeWitt,401,Railroad Commissioner,,LIB,Hawk Dunlap,18,3,6,9
+DeWitt,401,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,6,2
+DeWitt,401,Railroad Commissioner,,REP,Richard McKibbin (W),2,0,0,2
+DeWitt,401,Railroad Commissioner,,,Under Votes,24,0,22,2
+DeWitt,401,Railroad Commissioner,,,Over Votes,0,0,0,0
+DeWitt,401,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1110,52,910,148
+DeWitt,401,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,193,19,146,28
+DeWitt,401,"Justice, Supreme Court, Place 2",,,Under Votes,30,0,27,3
+DeWitt,401,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+DeWitt,401,"Justice, Supreme Court, Place 4",,REP,John Devine,1101,52,901,148
+DeWitt,401,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,202,19,154,29
+DeWitt,401,"Justice, Supreme Court, Place 4",,,Under Votes,30,0,28,2
+DeWitt,401,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+DeWitt,401,"Justice, Supreme Court, Place 6",,REP,Jane Bland,1088,49,895,144
+DeWitt,401,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,183,19,140,24
+DeWitt,401,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,22,3,11,8
+DeWitt,401,"Justice, Supreme Court, Place 6",,,Under Votes,40,0,37,3
+DeWitt,401,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+DeWitt,401,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1100,51,901,148
+DeWitt,401,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,199,19,152,28
+DeWitt,401,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,34,1,30,3
+DeWitt,401,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+DeWitt,401,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,1099,50,900,149
+DeWitt,401,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,197,21,149,27
+DeWitt,401,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,37,0,34,3
+DeWitt,401,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+DeWitt,401,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,1112,52,911,149
+DeWitt,401,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,185,19,139,27
+DeWitt,401,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,36,0,33,3
+DeWitt,401,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+DeWitt,401,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,523,32,398,93
+DeWitt,401,"Member, State Board of Education",3,,Under Votes,810,39,685,86
+DeWitt,401,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+DeWitt,401,State Representative,30,REP,AJ Louderback,1097,48,899,150
+DeWitt,401,State Representative,30,DEM,Stephanie R. Bassham,200,18,155,27
+DeWitt,401,State Representative,30,,Under Votes,36,5,29,2
+DeWitt,401,State Representative,30,,Over Votes,0,0,0,0
+DeWitt,401,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,1076,45,885,146
+DeWitt,401,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,211,22,162,27
+DeWitt,401,"Chief Justice, 13th Court of Appeals District",,,Under Votes,46,4,36,6
+DeWitt,401,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+DeWitt,401,"Justice, 13th Court of Appeals District, Place 2",,REP,Jenny Cron,1079,47,891,141
+DeWitt,401,"Justice, 13th Court of Appeals District, Place 2",,DEM,Nora Longoria,208,20,158,30
+DeWitt,401,"Justice, 13th Court of Appeals District, Place 2",,,Under Votes,46,4,34,8
+DeWitt,401,"Justice, 13th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+DeWitt,401,"Justice, 13th Court of Appeals District, Place 4",,REP,Ysmael D. Fonseca,1078,43,893,142
+DeWitt,401,"Justice, 13th Court of Appeals District, Place 4",,DEM,Joe Martinez,203,23,153,27
+DeWitt,401,"Justice, 13th Court of Appeals District, Place 4",,,Under Votes,52,5,37,10
+DeWitt,401,"Justice, 13th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+DeWitt,401,"Justice, 13th Court of Appeals District, Place 5",,REP,Jon West,1097,47,903,147
+DeWitt,401,"Justice, 13th Court of Appeals District, Place 5",,DEM,Regi Compian Richardson,186,19,142,25
+DeWitt,401,"Justice, 13th Court of Appeals District, Place 5",,,Under Votes,50,5,38,7
+DeWitt,401,"Justice, 13th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+DeWitt,401,"District Judge, 24th Judicial District",,REP,Lisa Harvey Moore,1158,53,950,155
+DeWitt,401,"District Judge, 24th Judicial District",,,Under Votes,175,18,133,24
+DeWitt,401,"District Judge, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,401,"District Judge, 135th Judicial District",,REP,Kemper Stephen Williams,1168,53,961,154
+DeWitt,401,"District Judge, 135th Judicial District",,,Under Votes,165,18,122,25
+DeWitt,401,"District Judge, 135th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,401,"District Attorney, 24th Judicial District",,REP,Brian Michael Cromeens,1156,47,953,156
+DeWitt,401,"District Attorney, 24th Judicial District",,,Under Votes,177,24,130,23
+DeWitt,401,"District Attorney, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,401,County Attorney,,REP,A. Jay Condie,1121,48,919,154
+DeWitt,401,County Attorney,,,Under Votes,212,23,164,25
+DeWitt,401,County Attorney,,,Over Votes,0,0,0,0
+DeWitt,401,Sheriff,,REP,Carl R. Bowen,1149,51,947,151
+DeWitt,401,Sheriff,,,Under Votes,184,20,136,28
+DeWitt,401,Sheriff,,,Over Votes,0,0,0,0
+DeWitt,401,County Tax Assessor-Collector,,REP,Ashley D. Mraz,1174,51,963,160
+DeWitt,401,County Tax Assessor-Collector,,,Under Votes,159,20,120,19
+DeWitt,401,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+DeWitt,401,"County Treasurer, Unexpired Term",,REP,Desirae Poth-Garibay,1161,49,954,158
+DeWitt,401,"County Treasurer, Unexpired Term",,,Under Votes,172,22,129,21
+DeWitt,401,"County Treasurer, Unexpired Term",,,Over Votes,0,0,0,0
+DeWitt,401,"Constable, Precinct 2",,REP,Jefferson Hobbs,1162,47,958,157
+DeWitt,401,"Constable, Precinct 2",,,Under Votes,171,24,125,22
+DeWitt,401,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+DeWitt,401-YISD,Registered Voters,,,,83,,,
+DeWitt,401-YISD,Ballots Cast,,,,65,,,
+DeWitt,401-YISD,President,,REP,Donald J. Trump,55,2,43,10
+DeWitt,401-YISD,President,,DEM,Kamala D. Harris,10,2,3,5
+DeWitt,401-YISD,President,,,Under Votes,0,0,0,0
+DeWitt,401-YISD,President,,,Over Votes,0,0,0,0
+DeWitt,401-YISD,U.S. Senate,,REP,Ted Cruz,53,2,42,9
+DeWitt,401-YISD,U.S. Senate,,DEM,Colin Allred,11,2,4,5
+DeWitt,401-YISD,U.S. Senate,,,Under Votes,1,0,1,0
+DeWitt,401-YISD,U.S. Senate,,,Over Votes,0,0,0,0
+DeWitt,401-YISD,U.S. House,27,REP,Michael Cloud,56,2,43,11
+DeWitt,401-YISD,U.S. House,27,DEM,Tanya Lloyd,8,2,2,4
+DeWitt,401-YISD,U.S. House,27,,Under Votes,1,0,1,0
+DeWitt,401-YISD,U.S. House,27,,Over Votes,0,0,0,0
+DeWitt,401-YISD,Railroad Commissioner,,REP,Christi Craddick,55,2,43,10
+DeWitt,401-YISD,Railroad Commissioner,,DEM,Katherine Culbert,6,2,2,2
+DeWitt,401-YISD,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,0,1
+DeWitt,401-YISD,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,0,2
+DeWitt,401-YISD,Railroad Commissioner,,,Under Votes,1,0,1,0
+DeWitt,401-YISD,Railroad Commissioner,,,Over Votes,0,0,0,0
+DeWitt,401-YISD,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,56,2,43,11
+DeWitt,401-YISD,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,8,2,2,4
+DeWitt,401-YISD,"Justice, Supreme Court, Place 2",,,Under Votes,1,0,1,0
+DeWitt,401-YISD,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+DeWitt,401-YISD,"Justice, Supreme Court, Place 4",,REP,John Devine,55,2,43,10
+DeWitt,401-YISD,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,9,2,2,5
+DeWitt,401-YISD,"Justice, Supreme Court, Place 4",,,Under Votes,1,0,1,0
+DeWitt,401-YISD,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+DeWitt,401-YISD,"Justice, Supreme Court, Place 6",,REP,Jane Bland,55,2,43,10
+DeWitt,401-YISD,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,9,2,2,5
+DeWitt,401-YISD,"Justice, Supreme Court, Place 6",,,Under Votes,1,0,1,0
+DeWitt,401-YISD,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+DeWitt,401-YISD,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,56,2,43,11
+DeWitt,401-YISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,8,2,2,4
+DeWitt,401-YISD,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,0,1,0
+DeWitt,401-YISD,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+DeWitt,401-YISD,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,55,2,43,10
+DeWitt,401-YISD,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,9,2,2,5
+DeWitt,401-YISD,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,1,0,1,0
+DeWitt,401-YISD,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+DeWitt,401-YISD,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,56,2,43,11
+DeWitt,401-YISD,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,8,2,2,4
+DeWitt,401-YISD,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,1,0,1,0
+DeWitt,401-YISD,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+DeWitt,401-YISD,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,22,2,13,7
+DeWitt,401-YISD,"Member, State Board of Education",3,,Under Votes,43,2,33,8
+DeWitt,401-YISD,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+DeWitt,401-YISD,State Representative,30,REP,AJ Louderback,54,2,43,9
+DeWitt,401-YISD,State Representative,30,DEM,Stephanie R. Bassham,9,2,2,5
+DeWitt,401-YISD,State Representative,30,,Under Votes,2,0,1,1
+DeWitt,401-YISD,State Representative,30,,Over Votes,0,0,0,0
+DeWitt,401-YISD,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,54,1,43,10
+DeWitt,401-YISD,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,5,2,2,1
+DeWitt,401-YISD,"Chief Justice, 13th Court of Appeals District",,,Under Votes,6,1,2,3
+DeWitt,401-YISD,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+DeWitt,401-YISD,"Justice, 13th Court of Appeals District, Place 2",,REP,Jenny Cron,54,2,43,9
+DeWitt,401-YISD,"Justice, 13th Court of Appeals District, Place 2",,DEM,Nora Longoria,10,2,2,6
+DeWitt,401-YISD,"Justice, 13th Court of Appeals District, Place 2",,,Under Votes,1,0,1,0
+DeWitt,401-YISD,"Justice, 13th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+DeWitt,401-YISD,"Justice, 13th Court of Appeals District, Place 4",,REP,Ysmael D. Fonseca,54,2,42,10
+DeWitt,401-YISD,"Justice, 13th Court of Appeals District, Place 4",,DEM,Joe Martinez,10,2,3,5
+DeWitt,401-YISD,"Justice, 13th Court of Appeals District, Place 4",,,Under Votes,1,0,1,0
+DeWitt,401-YISD,"Justice, 13th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+DeWitt,401-YISD,"Justice, 13th Court of Appeals District, Place 5",,REP,Jon West,56,2,43,11
+DeWitt,401-YISD,"Justice, 13th Court of Appeals District, Place 5",,DEM,Regi Compian Richardson,8,2,2,4
+DeWitt,401-YISD,"Justice, 13th Court of Appeals District, Place 5",,,Under Votes,1,0,1,0
+DeWitt,401-YISD,"Justice, 13th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+DeWitt,401-YISD,"District Judge, 24th Judicial District",,REP,Lisa Harvey Moore,57,2,43,12
+DeWitt,401-YISD,"District Judge, 24th Judicial District",,,Under Votes,8,2,3,3
+DeWitt,401-YISD,"District Judge, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,401-YISD,"District Judge, 135th Judicial District",,REP,Kemper Stephen Williams,57,2,43,12
+DeWitt,401-YISD,"District Judge, 135th Judicial District",,,Under Votes,8,2,3,3
+DeWitt,401-YISD,"District Judge, 135th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,401-YISD,"District Attorney, 24th Judicial District",,REP,Brian Michael Cromeens,56,2,42,12
+DeWitt,401-YISD,"District Attorney, 24th Judicial District",,,Under Votes,9,2,4,3
+DeWitt,401-YISD,"District Attorney, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,401-YISD,County Attorney,,REP,A. Jay Condie,57,2,43,12
+DeWitt,401-YISD,County Attorney,,,Under Votes,8,2,3,3
+DeWitt,401-YISD,County Attorney,,,Over Votes,0,0,0,0
+DeWitt,401-YISD,Sheriff,,REP,Carl R. Bowen,58,2,44,12
+DeWitt,401-YISD,Sheriff,,,Under Votes,7,2,2,3
+DeWitt,401-YISD,Sheriff,,,Over Votes,0,0,0,0
+DeWitt,401-YISD,County Tax Assessor-Collector,,REP,Ashley D. Mraz,59,3,44,12
+DeWitt,401-YISD,County Tax Assessor-Collector,,,Under Votes,6,1,2,3
+DeWitt,401-YISD,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+DeWitt,401-YISD,"County Treasurer, Unexpired Term",,REP,Desirae Poth-Garibay,56,2,42,12
+DeWitt,401-YISD,"County Treasurer, Unexpired Term",,,Under Votes,9,2,4,3
+DeWitt,401-YISD,"County Treasurer, Unexpired Term",,,Over Votes,0,0,0,0
+DeWitt,401-YISD,"Constable, Precinct 2",,REP,Jefferson Hobbs,58,2,44,12
+DeWitt,401-YISD,"Constable, Precinct 2",,,Under Votes,7,2,3,2
+DeWitt,401-YISD,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+DeWitt,401-YISD,Yoakum ISD Voter Approval Tax Rate Election,,,For,18,1,11,6
+DeWitt,401-YISD,Yoakum ISD Voter Approval Tax Rate Election,,,Against,37,2,29,6
+DeWitt,401-YISD,Yoakum ISD Voter Approval Tax Rate Election,,,Under Votes,10,1,6,3
+DeWitt,401-YISD,Yoakum ISD Voter Approval Tax Rate Election,,,Over Votes,0,0,0,0
+DeWitt,402,Registered Voters,,,,1085,,,
+DeWitt,402,Ballots Cast,,,,908,,,
+DeWitt,402,President,,REP,Donald J. Trump,834,47,598,189
+DeWitt,402,President,,DEM,Kamala D. Harris,70,13,39,18
+DeWitt,402,President,,LIB,Chase Oliver,1,0,0,1
+DeWitt,402,President,,GRN,Jill Stein,2,0,2,0
+DeWitt,402,President,,,Under Votes,1,0,1,0
+DeWitt,402,President,,,Over Votes,0,0,0,0
+DeWitt,402,U.S. Senate,,REP,Ted Cruz,808,46,592,170
+DeWitt,402,U.S. Senate,,DEM,Colin Allred,83,12,43,28
+DeWitt,402,U.S. Senate,,LIB,Ted Brown,12,0,8,4
+DeWitt,402,U.S. Senate,,,Under Votes,5,0,1,4
+DeWitt,402,U.S. Senate,,,Over Votes,0,0,0,0
+DeWitt,402,U.S. House,27,REP,Michael Cloud,840,48,602,190
+DeWitt,402,U.S. House,27,DEM,Tanya Lloyd,63,10,36,17
+DeWitt,402,U.S. House,27,,Under Votes,5,0,2,3
+DeWitt,402,U.S. House,27,,Over Votes,0,0,0,0
+DeWitt,402,Railroad Commissioner,,REP,Christi Craddick,821,49,585,187
+DeWitt,402,Railroad Commissioner,,DEM,Katherine Culbert,52,7,32,13
+DeWitt,402,Railroad Commissioner,,LIB,Hawk Dunlap,17,2,11,4
+DeWitt,402,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,3,0
+DeWitt,402,Railroad Commissioner,,,Under Votes,15,0,9,6
+DeWitt,402,Railroad Commissioner,,,Over Votes,0,0,0,0
+DeWitt,402,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,831,48,597,186
+DeWitt,402,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,62,10,31,21
+DeWitt,402,"Justice, Supreme Court, Place 2",,,Under Votes,15,0,9,6
+DeWitt,402,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+DeWitt,402,"Justice, Supreme Court, Place 4",,REP,John Devine,828,48,594,186
+DeWitt,402,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,64,10,36,18
+DeWitt,402,"Justice, Supreme Court, Place 4",,,Under Votes,16,0,10,6
+DeWitt,402,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+DeWitt,402,"Justice, Supreme Court, Place 6",,REP,Jane Bland,821,47,589,185
+DeWitt,402,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,64,10,35,19
+DeWitt,402,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,7,1,5,1
+DeWitt,402,"Justice, Supreme Court, Place 6",,,Under Votes,16,0,11,5
+DeWitt,402,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+DeWitt,402,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,824,48,592,184
+DeWitt,402,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,68,10,38,20
+DeWitt,402,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,16,0,10,6
+DeWitt,402,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+DeWitt,402,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,826,46,591,189
+DeWitt,402,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,59,9,36,14
+DeWitt,402,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,23,5,13,5
+DeWitt,402,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+DeWitt,402,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,826,46,591,189
+DeWitt,402,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,57,10,34,13
+DeWitt,402,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,25,4,15,6
+DeWitt,402,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+DeWitt,402,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,297,21,180,96
+DeWitt,402,"Member, State Board of Education",3,,Under Votes,611,39,460,112
+DeWitt,402,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+DeWitt,402,State Representative,30,REP,AJ Louderback,812,45,585,182
+DeWitt,402,State Representative,30,DEM,Stephanie R. Bassham,70,9,40,21
+DeWitt,402,State Representative,30,,Under Votes,26,6,15,5
+DeWitt,402,State Representative,30,,Over Votes,0,0,0,0
+DeWitt,402,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,810,44,590,176
+DeWitt,402,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,67,10,37,20
+DeWitt,402,"Chief Justice, 13th Court of Appeals District",,,Under Votes,31,6,13,12
+DeWitt,402,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+DeWitt,402,"Justice, 13th Court of Appeals District, Place 2",,REP,Jenny Cron,809,44,586,179
+DeWitt,402,"Justice, 13th Court of Appeals District, Place 2",,DEM,Nora Longoria,67,10,38,19
+DeWitt,402,"Justice, 13th Court of Appeals District, Place 2",,,Under Votes,32,6,16,10
+DeWitt,402,"Justice, 13th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+DeWitt,402,"Justice, 13th Court of Appeals District, Place 4",,REP,Ysmael D. Fonseca,798,44,576,178
+DeWitt,402,"Justice, 13th Court of Appeals District, Place 4",,DEM,Joe Martinez,68,10,39,19
+DeWitt,402,"Justice, 13th Court of Appeals District, Place 4",,,Under Votes,42,6,25,11
+DeWitt,402,"Justice, 13th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+DeWitt,402,"Justice, 13th Court of Appeals District, Place 5",,REP,Jon West,820,44,592,184
+DeWitt,402,"Justice, 13th Court of Appeals District, Place 5",,DEM,Regi Compian Richardson,60,10,34,16
+DeWitt,402,"Justice, 13th Court of Appeals District, Place 5",,,Under Votes,28,6,14,8
+DeWitt,402,"Justice, 13th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+DeWitt,402,"District Judge, 24th Judicial District",,REP,Lisa Harvey Moore,835,47,596,192
+DeWitt,402,"District Judge, 24th Judicial District",,,Under Votes,73,13,44,16
+DeWitt,402,"District Judge, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,402,"District Judge, 135th Judicial District",,REP,Kemper Stephen Williams,833,46,596,191
+DeWitt,402,"District Judge, 135th Judicial District",,,Under Votes,75,14,44,17
+DeWitt,402,"District Judge, 135th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,402,"District Attorney, 24th Judicial District",,REP,Brian Michael Cromeens,825,45,588,192
+DeWitt,402,"District Attorney, 24th Judicial District",,,Under Votes,83,15,52,16
+DeWitt,402,"District Attorney, 24th Judicial District",,,Over Votes,0,0,0,0
+DeWitt,402,County Attorney,,REP,A. Jay Condie,824,44,587,193
+DeWitt,402,County Attorney,,,Under Votes,84,16,53,15
+DeWitt,402,County Attorney,,,Over Votes,0,0,0,0
+DeWitt,402,Sheriff,,REP,Carl R. Bowen,830,46,587,197
+DeWitt,402,Sheriff,,,Under Votes,78,14,53,11
+DeWitt,402,Sheriff,,,Over Votes,0,0,0,0
+DeWitt,402,County Tax Assessor-Collector,,REP,Ashley D. Mraz,841,45,599,197
+DeWitt,402,County Tax Assessor-Collector,,,Under Votes,67,15,41,11
+DeWitt,402,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+DeWitt,402,"County Treasurer, Unexpired Term",,REP,Desirae Poth-Garibay,837,45,598,194
+DeWitt,402,"County Treasurer, Unexpired Term",,,Under Votes,71,15,42,14
+DeWitt,402,"County Treasurer, Unexpired Term",,,Over Votes,0,0,0,0
+DeWitt,402,"Constable, Precinct 2",,REP,Jefferson Hobbs,834,45,596,193
+DeWitt,402,"Constable, Precinct 2",,,Under Votes,74,15,44,15
+DeWitt,402,"Constable, Precinct 2",,,Over Votes,0,0,0,0
