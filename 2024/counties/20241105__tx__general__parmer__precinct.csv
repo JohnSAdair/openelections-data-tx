@@ -1,0 +1,563 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Parmer,Pct. 101,"Registered Voters",,,,1301,,,
+Parmer,Pct. 101,"Ballots Cast",,,,727,20,293,414
+Parmer,Pct. 101,"Ballots Cast Blank",,,,3,0,0,3
+Parmer,Pct. 101,"President",,REP,"Donald J. Trump",584,17,241,326
+Parmer,Pct. 101,"President",,DEM,"Kamala D. Harris",132,3,48,81
+Parmer,Pct. 101,"President",,LIB,"Chase Oliver",4,0,2,2
+Parmer,Pct. 101,"President",,GRN,"Jill Stein",2,0,1,1
+Parmer,Pct. 101,"President",,,"Write-ins",2,0,1,1
+Parmer,Pct. 101,"President",,,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"President",,,"Under Votes",3,0,0,3
+Parmer,Pct. 101,"U.S. Senate",,REP,"Ted Cruz",571,17,243,311
+Parmer,Pct. 101,"U.S. Senate",,DEM,"Colin Allred",132,2,45,85
+Parmer,Pct. 101,"U.S. Senate",,LIB,"Ted Brown",15,1,4,10
+Parmer,Pct. 101,"U.S. Senate",,,"Write-ins",0,0,0,0
+Parmer,Pct. 101,"U.S. Senate",,,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"U.S. Senate",,,"Under Votes",9,0,1,8
+Parmer,Pct. 101,"U.S. House",19,REP,"Jodey C. Arrington",599,18,243,338
+Parmer,Pct. 101,"U.S. House",19,LIB,"Bernard Johnson",54,0,23,31
+Parmer,Pct. 101,"U.S. House",19,IND,"Nathan Lewis",38,1,18,19
+Parmer,Pct. 101,"U.S. House",19,,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"U.S. House",19,,"Under Votes",36,1,9,26
+Parmer,Pct. 101,"Railroad Commissioner",,REP,"Christi Craddick",557,17,232,308
+Parmer,Pct. 101,"Railroad Commissioner",,DEM,"Katherine Culbert",111,2,43,66
+Parmer,Pct. 101,"Railroad Commissioner",,LIB,"Hawk Dunlap",15,0,5,10
+Parmer,Pct. 101,"Railroad Commissioner",,GRN,"Eddie Espinoza",15,0,4,11
+Parmer,Pct. 101,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Parmer,Pct. 101,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"Railroad Commissioner",,,"Under Votes",29,1,9,19
+Parmer,Pct. 101,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",575,17,238,320
+Parmer,Pct. 101,"Justice, Supreme Court",2,DEM,"DaSean Jones",124,2,45,77
+Parmer,Pct. 101,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"Justice, Supreme Court",2,,"Under Votes",28,1,10,17
+Parmer,Pct. 101,"Justice, Supreme Court",4,REP,"John Devine",566,16,240,310
+Parmer,Pct. 101,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",132,3,43,86
+Parmer,Pct. 101,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"Justice, Supreme Court",4,,"Under Votes",29,1,10,18
+Parmer,Pct. 101,"Justice, Supreme Court",6,REP,"Jane Bland",553,16,233,304
+Parmer,Pct. 101,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",126,1,45,80
+Parmer,Pct. 101,"Justice, Supreme Court",6,LIB,"J. David Roberson",16,1,4,11
+Parmer,Pct. 101,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"Justice, Supreme Court",6,,"Under Votes",32,2,11,19
+Parmer,Pct. 101,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",559,17,238,304
+Parmer,Pct. 101,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",129,2,42,85
+Parmer,Pct. 101,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"Presiding Judge, Ct of Crim App",,,"Under Votes",39,1,13,25
+Parmer,Pct. 101,"Judge, Ct of Crim App",7,REP,"Gina Parker",562,16,236,310
+Parmer,Pct. 101,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",129,3,45,81
+Parmer,Pct. 101,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"Judge, Ct of Crim App",7,,"Under Votes",36,1,12,23
+Parmer,Pct. 101,"Judge, Ct of Crim App",8,REP,"Lee Finley",570,18,236,316
+Parmer,Pct. 101,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",117,1,44,72
+Parmer,Pct. 101,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"Judge, Ct of Crim App",8,,"Under Votes",40,1,13,26
+Parmer,Pct. 101,"Member, State BoE",15,REP,"Aaron Kinsey",540,16,223,299
+Parmer,Pct. 101,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",128,2,45,81
+Parmer,Pct. 101,"Member, State BoE",15,LIB,"Jack B. Westbrook",17,1,4,12
+Parmer,Pct. 101,"Member, State BoE",15,,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"Member, State BoE",15,,"Under Votes",42,1,13,28
+Parmer,Pct. 101,"State Representative",86,REP,"John Smithee",628,17,257,354
+Parmer,Pct. 101,"State Representative",86,,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"State Representative",86,,"Under Votes",99,3,36,60
+Parmer,Pct. 101,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",614,15,257,342
+Parmer,Pct. 101,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"Justice, 7th Ct of App Dist",2,,"Under Votes",113,5,36,72
+Parmer,Pct. 101,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",605,14,249,342
+Parmer,Pct. 101,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"Justice, 7th Ct of App Dist",3,,"Under Votes",122,6,44,72
+Parmer,Pct. 101,"Dist Attorney","287th Judicial Dist",REP,"Jackie R. Claborn II",608,15,250,343
+Parmer,Pct. 101,"Dist Attorney","287th Judicial Dist",,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"Dist Attorney","287th Judicial Dist",,"Under Votes",119,5,43,71
+Parmer,Pct. 101,"County Attorney",,REP,"Jeff W. Actkinson",636,19,261,356
+Parmer,Pct. 101,"County Attorney",,,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"County Attorney",,,"Under Votes",91,1,32,58
+Parmer,Pct. 101,"Sheriff",,REP,"Eric Geske",637,19,262,356
+Parmer,Pct. 101,"Sheriff",,,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"Sheriff",,,"Under Votes",90,1,31,58
+Parmer,Pct. 101,"County Tax Assessor-Collector",,REP,"Awyna Sanchez",639,16,266,357
+Parmer,Pct. 101,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"County Tax Assessor-Collector",,,"Under Votes",88,4,27,57
+Parmer,Pct. 101,"County Commissioner",1,REP,"Kirk Frye",643,18,264,361
+Parmer,Pct. 101,"County Commissioner",1,,"Over Votes",0,0,0,0
+Parmer,Pct. 101,"County Commissioner",1,,"Under Votes",84,2,29,53
+Parmer,Pct. 201,"Registered Voters",,,,847,,,
+Parmer,Pct. 201,"Ballots Cast",,,,356,3,125,228
+Parmer,Pct. 201,"Ballots Cast Blank",,,,0,0,0,0
+Parmer,Pct. 201,"President",,REP,"Donald J. Trump",264,2,94,168
+Parmer,Pct. 201,"President",,DEM,"Kamala D. Harris",86,1,30,55
+Parmer,Pct. 201,"President",,LIB,"Chase Oliver",1,0,0,1
+Parmer,Pct. 201,"President",,GRN,"Jill Stein",2,0,0,2
+Parmer,Pct. 201,"President",,,"Write-ins",0,0,0,0
+Parmer,Pct. 201,"President",,,"Over Votes",0,0,0,0
+Parmer,Pct. 201,"President",,,"Under Votes",3,0,1,2
+Parmer,Pct. 201,"U.S. Senate",,REP,"Ted Cruz",247,2,94,151
+Parmer,Pct. 201,"U.S. Senate",,DEM,"Colin Allred",86,1,25,60
+Parmer,Pct. 201,"U.S. Senate",,LIB,"Ted Brown",8,0,1,7
+Parmer,Pct. 201,"U.S. Senate",,,"Write-ins",0,0,0,0
+Parmer,Pct. 201,"U.S. Senate",,,"Over Votes",0,0,0,0
+Parmer,Pct. 201,"U.S. Senate",,,"Under Votes",15,0,5,10
+Parmer,Pct. 201,"U.S. House",19,REP,"Jodey C. Arrington",247,2,90,155
+Parmer,Pct. 201,"U.S. House",19,LIB,"Bernard Johnson",32,0,11,21
+Parmer,Pct. 201,"U.S. House",19,IND,"Nathan Lewis",25,0,11,14
+Parmer,Pct. 201,"U.S. House",19,,"Over Votes",0,0,0,0
+Parmer,Pct. 201,"U.S. House",19,,"Under Votes",52,1,13,38
+Parmer,Pct. 201,"Railroad Commissioner",,REP,"Christi Craddick",225,2,87,136
+Parmer,Pct. 201,"Railroad Commissioner",,DEM,"Katherine Culbert",73,1,24,48
+Parmer,Pct. 201,"Railroad Commissioner",,LIB,"Hawk Dunlap",11,0,3,8
+Parmer,Pct. 201,"Railroad Commissioner",,GRN,"Eddie Espinoza",14,0,2,12
+Parmer,Pct. 201,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Parmer,Pct. 201,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Parmer,Pct. 201,"Railroad Commissioner",,,"Under Votes",33,0,9,24
+Parmer,Pct. 201,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",244,2,92,150
+Parmer,Pct. 201,"Justice, Supreme Court",2,DEM,"DaSean Jones",80,1,25,54
+Parmer,Pct. 201,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Parmer,Pct. 201,"Justice, Supreme Court",2,,"Under Votes",32,0,8,24
+Parmer,Pct. 201,"Justice, Supreme Court",4,REP,"John Devine",242,2,90,150
+Parmer,Pct. 201,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",74,0,24,50
+Parmer,Pct. 201,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Parmer,Pct. 201,"Justice, Supreme Court",4,,"Under Votes",40,1,11,28
+Parmer,Pct. 201,"Justice, Supreme Court",6,REP,"Jane Bland",232,2,88,142
+Parmer,Pct. 201,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",79,0,24,55
+Parmer,Pct. 201,"Justice, Supreme Court",6,LIB,"J. David Roberson",2,0,1,1
+Parmer,Pct. 201,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Parmer,Pct. 201,"Justice, Supreme Court",6,,"Under Votes",43,1,12,30
+Parmer,Pct. 201,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",235,2,90,143
+Parmer,Pct. 201,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",81,1,24,56
+Parmer,Pct. 201,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Parmer,Pct. 201,"Presiding Judge, Ct of Crim App",,,"Under Votes",40,0,11,29
+Parmer,Pct. 201,"Judge, Ct of Crim App",7,REP,"Gina Parker",237,2,89,146
+Parmer,Pct. 201,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",75,0,27,48
+Parmer,Pct. 201,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Parmer,Pct. 201,"Judge, Ct of Crim App",7,,"Under Votes",44,1,9,34
+Parmer,Pct. 201,"Judge, Ct of Crim App",8,REP,"Lee Finley",239,2,92,145
+Parmer,Pct. 201,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",77,1,24,52
+Parmer,Pct. 201,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Parmer,Pct. 201,"Judge, Ct of Crim App",8,,"Under Votes",40,0,9,31
+Parmer,Pct. 201,"Member, State BoE",15,REP,"Aaron Kinsey",228,2,88,138
+Parmer,Pct. 201,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",84,1,27,56
+Parmer,Pct. 201,"Member, State BoE",15,LIB,"Jack B. Westbrook",5,0,2,3
+Parmer,Pct. 201,"Member, State BoE",15,,"Over Votes",0,0,0,0
+Parmer,Pct. 201,"Member, State BoE",15,,"Under Votes",39,0,8,31
+Parmer,Pct. 201,"State Representative",86,REP,"John Smithee",274,1,107,166
+Parmer,Pct. 201,"State Representative",86,,"Over Votes",0,0,0,0
+Parmer,Pct. 201,"State Representative",86,,"Under Votes",82,2,18,62
+Parmer,Pct. 201,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",265,1,101,163
+Parmer,Pct. 201,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Parmer,Pct. 201,"Justice, 7th Ct of App Dist",2,,"Under Votes",91,2,24,65
+Parmer,Pct. 201,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",265,1,101,163
+Parmer,Pct. 201,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Parmer,Pct. 201,"Justice, 7th Ct of App Dist",3,,"Under Votes",91,2,24,65
+Parmer,Pct. 201,"Dist Attorney","287th Judicial Dist",REP,"Jackie R. Claborn II",261,1,100,160
+Parmer,Pct. 201,"Dist Attorney","287th Judicial Dist",,"Over Votes",0,0,0,0
+Parmer,Pct. 201,"Dist Attorney","287th Judicial Dist",,"Under Votes",95,2,25,68
+Parmer,Pct. 201,"County Attorney",,REP,"Jeff W. Actkinson",284,1,109,174
+Parmer,Pct. 201,"County Attorney",,,"Over Votes",0,0,0,0
+Parmer,Pct. 201,"County Attorney",,,"Under Votes",72,2,16,54
+Parmer,Pct. 201,"Sheriff",,REP,"Eric Geske",282,1,109,172
+Parmer,Pct. 201,"Sheriff",,,"Over Votes",0,0,0,0
+Parmer,Pct. 201,"Sheriff",,,"Under Votes",74,2,16,56
+Parmer,Pct. 201,"County Tax Assessor-Collector",,REP,"Awyna Sanchez",277,1,111,165
+Parmer,Pct. 201,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Parmer,Pct. 201,"County Tax Assessor-Collector",,,"Under Votes",79,2,14,63
+Parmer,Pct. 202,"Registered Voters",,,,283,,,
+Parmer,Pct. 202,"Ballots Cast",,,,194,4,110,80
+Parmer,Pct. 202,"Ballots Cast Blank",,,,0,0,0,0
+Parmer,Pct. 202,"President",,REP,"Donald J. Trump",187,4,107,76
+Parmer,Pct. 202,"President",,DEM,"Kamala D. Harris",7,0,3,4
+Parmer,Pct. 202,"President",,LIB,"Chase Oliver",0,0,0,0
+Parmer,Pct. 202,"President",,GRN,"Jill Stein",0,0,0,0
+Parmer,Pct. 202,"President",,,"Write-ins",0,0,0,0
+Parmer,Pct. 202,"President",,,"Over Votes",0,0,0,0
+Parmer,Pct. 202,"President",,,"Under Votes",0,0,0,0
+Parmer,Pct. 202,"U.S. Senate",,REP,"Ted Cruz",183,4,106,73
+Parmer,Pct. 202,"U.S. Senate",,DEM,"Colin Allred",8,0,4,4
+Parmer,Pct. 202,"U.S. Senate",,LIB,"Ted Brown",3,0,0,3
+Parmer,Pct. 202,"U.S. Senate",,,"Write-ins",0,0,0,0
+Parmer,Pct. 202,"U.S. Senate",,,"Over Votes",0,0,0,0
+Parmer,Pct. 202,"U.S. Senate",,,"Under Votes",0,0,0,0
+Parmer,Pct. 202,"U.S. House",19,REP,"Jodey C. Arrington",183,4,106,73
+Parmer,Pct. 202,"U.S. House",19,LIB,"Bernard Johnson",7,0,3,4
+Parmer,Pct. 202,"U.S. House",19,IND,"Nathan Lewis",3,0,0,3
+Parmer,Pct. 202,"U.S. House",19,,"Over Votes",0,0,0,0
+Parmer,Pct. 202,"U.S. House",19,,"Under Votes",1,0,1,0
+Parmer,Pct. 202,"Railroad Commissioner",,REP,"Christi Craddick",178,4,102,72
+Parmer,Pct. 202,"Railroad Commissioner",,DEM,"Katherine Culbert",7,0,3,4
+Parmer,Pct. 202,"Railroad Commissioner",,LIB,"Hawk Dunlap",4,0,2,2
+Parmer,Pct. 202,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,1,1
+Parmer,Pct. 202,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Parmer,Pct. 202,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Parmer,Pct. 202,"Railroad Commissioner",,,"Under Votes",3,0,2,1
+Parmer,Pct. 202,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",184,4,106,74
+Parmer,Pct. 202,"Justice, Supreme Court",2,DEM,"DaSean Jones",8,0,3,5
+Parmer,Pct. 202,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Parmer,Pct. 202,"Justice, Supreme Court",2,,"Under Votes",2,0,1,1
+Parmer,Pct. 202,"Justice, Supreme Court",4,REP,"John Devine",183,4,105,74
+Parmer,Pct. 202,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",9,0,4,5
+Parmer,Pct. 202,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Parmer,Pct. 202,"Justice, Supreme Court",4,,"Under Votes",2,0,1,1
+Parmer,Pct. 202,"Justice, Supreme Court",6,REP,"Jane Bland",182,4,106,72
+Parmer,Pct. 202,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",8,0,3,5
+Parmer,Pct. 202,"Justice, Supreme Court",6,LIB,"J. David Roberson",2,0,0,2
+Parmer,Pct. 202,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Parmer,Pct. 202,"Justice, Supreme Court",6,,"Under Votes",2,0,1,1
+Parmer,Pct. 202,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",182,4,105,73
+Parmer,Pct. 202,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",9,0,4,5
+Parmer,Pct. 202,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Parmer,Pct. 202,"Presiding Judge, Ct of Crim App",,,"Under Votes",3,0,1,2
+Parmer,Pct. 202,"Judge, Ct of Crim App",7,REP,"Gina Parker",179,4,103,72
+Parmer,Pct. 202,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",10,0,4,6
+Parmer,Pct. 202,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Parmer,Pct. 202,"Judge, Ct of Crim App",7,,"Under Votes",5,0,3,2
+Parmer,Pct. 202,"Judge, Ct of Crim App",8,REP,"Lee Finley",182,4,106,72
+Parmer,Pct. 202,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",8,0,3,5
+Parmer,Pct. 202,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Parmer,Pct. 202,"Judge, Ct of Crim App",8,,"Under Votes",4,0,1,3
+Parmer,Pct. 202,"Member, State BoE",15,REP,"Aaron Kinsey",178,4,103,71
+Parmer,Pct. 202,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",8,0,4,4
+Parmer,Pct. 202,"Member, State BoE",15,LIB,"Jack B. Westbrook",1,0,0,1
+Parmer,Pct. 202,"Member, State BoE",15,,"Over Votes",0,0,0,0
+Parmer,Pct. 202,"Member, State BoE",15,,"Under Votes",7,0,3,4
+Parmer,Pct. 202,"State Representative",86,REP,"John Smithee",181,4,103,74
+Parmer,Pct. 202,"State Representative",86,,"Over Votes",0,0,0,0
+Parmer,Pct. 202,"State Representative",86,,"Under Votes",13,0,7,6
+Parmer,Pct. 202,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",179,4,104,71
+Parmer,Pct. 202,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Parmer,Pct. 202,"Justice, 7th Ct of App Dist",2,,"Under Votes",15,0,6,9
+Parmer,Pct. 202,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",180,4,103,73
+Parmer,Pct. 202,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Parmer,Pct. 202,"Justice, 7th Ct of App Dist",3,,"Under Votes",14,0,7,7
+Parmer,Pct. 202,"Dist Attorney","287th Judicial Dist",REP,"Jackie R. Claborn II",180,4,104,72
+Parmer,Pct. 202,"Dist Attorney","287th Judicial Dist",,"Over Votes",0,0,0,0
+Parmer,Pct. 202,"Dist Attorney","287th Judicial Dist",,"Under Votes",14,0,6,8
+Parmer,Pct. 202,"County Attorney",,REP,"Jeff W. Actkinson",185,4,105,76
+Parmer,Pct. 202,"County Attorney",,,"Over Votes",0,0,0,0
+Parmer,Pct. 202,"County Attorney",,,"Under Votes",9,0,5,4
+Parmer,Pct. 202,"Sheriff",,REP,"Eric Geske",182,4,103,75
+Parmer,Pct. 202,"Sheriff",,,"Over Votes",0,0,0,0
+Parmer,Pct. 202,"Sheriff",,,"Under Votes",12,0,7,5
+Parmer,Pct. 202,"County Tax Assessor-Collector",,REP,"Awyna Sanchez",182,3,104,75
+Parmer,Pct. 202,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Parmer,Pct. 202,"County Tax Assessor-Collector",,,"Under Votes",12,1,6,5
+Parmer,Pct. 301,"Registered Voters",,,,1218,,,
+Parmer,Pct. 301,"Ballots Cast",,,,813,18,520,275
+Parmer,Pct. 301,"Ballots Cast Blank",,,,0,0,0,0
+Parmer,Pct. 301,"President",,REP,"Donald J. Trump",730,12,471,247
+Parmer,Pct. 301,"President",,DEM,"Kamala D. Harris",75,6,46,23
+Parmer,Pct. 301,"President",,LIB,"Chase Oliver",3,0,2,1
+Parmer,Pct. 301,"President",,GRN,"Jill Stein",0,0,0,0
+Parmer,Pct. 301,"President",,,"Write-ins",0,0,0,0
+Parmer,Pct. 301,"President",,,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"President",,,"Under Votes",5,0,1,4
+Parmer,Pct. 301,"U.S. Senate",,REP,"Ted Cruz",715,12,464,239
+Parmer,Pct. 301,"U.S. Senate",,DEM,"Colin Allred",85,5,48,32
+Parmer,Pct. 301,"U.S. Senate",,LIB,"Ted Brown",4,1,2,1
+Parmer,Pct. 301,"U.S. Senate",,,"Write-ins",0,0,0,0
+Parmer,Pct. 301,"U.S. Senate",,,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"U.S. Senate",,,"Under Votes",9,0,6,3
+Parmer,Pct. 301,"U.S. House",19,REP,"Jodey C. Arrington",725,13,469,243
+Parmer,Pct. 301,"U.S. House",19,LIB,"Bernard Johnson",34,3,18,13
+Parmer,Pct. 301,"U.S. House",19,IND,"Nathan Lewis",22,2,12,8
+Parmer,Pct. 301,"U.S. House",19,,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"U.S. House",19,,"Under Votes",32,0,21,11
+Parmer,Pct. 301,"Railroad Commissioner",,REP,"Christi Craddick",683,9,446,228
+Parmer,Pct. 301,"Railroad Commissioner",,DEM,"Katherine Culbert",58,3,37,18
+Parmer,Pct. 301,"Railroad Commissioner",,LIB,"Hawk Dunlap",25,3,12,10
+Parmer,Pct. 301,"Railroad Commissioner",,GRN,"Eddie Espinoza",18,2,10,6
+Parmer,Pct. 301,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Parmer,Pct. 301,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"Railroad Commissioner",,,"Under Votes",29,1,15,13
+Parmer,Pct. 301,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",707,12,461,234
+Parmer,Pct. 301,"Justice, Supreme Court",2,DEM,"DaSean Jones",72,5,41,26
+Parmer,Pct. 301,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"Justice, Supreme Court",2,,"Under Votes",34,1,18,15
+Parmer,Pct. 301,"Justice, Supreme Court",4,REP,"John Devine",706,12,458,236
+Parmer,Pct. 301,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",73,5,43,25
+Parmer,Pct. 301,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"Justice, Supreme Court",4,,"Under Votes",34,1,19,14
+Parmer,Pct. 301,"Justice, Supreme Court",6,REP,"Jane Bland",694,11,454,229
+Parmer,Pct. 301,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",76,5,44,27
+Parmer,Pct. 301,"Justice, Supreme Court",6,LIB,"J. David Roberson",10,1,5,4
+Parmer,Pct. 301,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"Justice, Supreme Court",6,,"Under Votes",33,1,17,15
+Parmer,Pct. 301,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",699,12,455,232
+Parmer,Pct. 301,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",77,5,44,28
+Parmer,Pct. 301,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"Presiding Judge, Ct of Crim App",,,"Under Votes",37,1,21,15
+Parmer,Pct. 301,"Judge, Ct of Crim App",7,REP,"Gina Parker",703,12,455,236
+Parmer,Pct. 301,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",72,5,43,24
+Parmer,Pct. 301,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"Judge, Ct of Crim App",7,,"Under Votes",38,1,22,15
+Parmer,Pct. 301,"Judge, Ct of Crim App",8,REP,"Lee Finley",705,12,457,236
+Parmer,Pct. 301,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",71,5,41,25
+Parmer,Pct. 301,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"Judge, Ct of Crim App",8,,"Under Votes",37,1,22,14
+Parmer,Pct. 301,"Member, State BoE",15,REP,"Aaron Kinsey",696,10,452,234
+Parmer,Pct. 301,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",75,5,43,27
+Parmer,Pct. 301,"Member, State BoE",15,LIB,"Jack B. Westbrook",10,2,5,3
+Parmer,Pct. 301,"Member, State BoE",15,,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"Member, State BoE",15,,"Under Votes",32,1,20,11
+Parmer,Pct. 301,"State Representative",86,REP,"John Smithee",728,13,472,243
+Parmer,Pct. 301,"State Representative",86,,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"State Representative",86,,"Under Votes",85,5,48,32
+Parmer,Pct. 301,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",725,13,470,242
+Parmer,Pct. 301,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"Justice, 7th Ct of App Dist",2,,"Under Votes",88,5,50,33
+Parmer,Pct. 301,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",720,13,467,240
+Parmer,Pct. 301,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"Justice, 7th Ct of App Dist",3,,"Under Votes",93,5,53,35
+Parmer,Pct. 301,"Dist Attorney","287th Judicial Dist",REP,"Jackie R. Claborn II",720,13,468,239
+Parmer,Pct. 301,"Dist Attorney","287th Judicial Dist",,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"Dist Attorney","287th Judicial Dist",,"Under Votes",93,5,52,36
+Parmer,Pct. 301,"County Attorney",,REP,"Jeff W. Actkinson",745,13,475,257
+Parmer,Pct. 301,"County Attorney",,,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"County Attorney",,,"Under Votes",68,5,45,18
+Parmer,Pct. 301,"Sheriff",,REP,"Eric Geske",725,13,468,244
+Parmer,Pct. 301,"Sheriff",,,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"Sheriff",,,"Under Votes",88,5,52,31
+Parmer,Pct. 301,"County Tax Assessor-Collector",,REP,"Awyna Sanchez",741,13,480,248
+Parmer,Pct. 301,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"County Tax Assessor-Collector",,,"Under Votes",72,5,40,27
+Parmer,Pct. 301,"County Commissioner",3,REP,"Kenny White",716,13,458,245
+Parmer,Pct. 301,"County Commissioner",3,,"Over Votes",0,0,0,0
+Parmer,Pct. 301,"County Commissioner",3,,"Under Votes",97,5,62,30
+Parmer,Pct. 303,"Registered Voters",,,,65,,,
+Parmer,Pct. 303,"Ballots Cast",,,,40,0,17,23
+Parmer,Pct. 303,"Ballots Cast Blank",,,,0,0,0,0
+Parmer,Pct. 303,"President",,REP,"Donald J. Trump",36,0,15,21
+Parmer,Pct. 303,"President",,DEM,"Kamala D. Harris",4,0,2,2
+Parmer,Pct. 303,"President",,LIB,"Chase Oliver",0,0,0,0
+Parmer,Pct. 303,"President",,GRN,"Jill Stein",0,0,0,0
+Parmer,Pct. 303,"President",,,"Write-ins",0,0,0,0
+Parmer,Pct. 303,"President",,,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"President",,,"Under Votes",0,0,0,0
+Parmer,Pct. 303,"U.S. Senate",,REP,"Ted Cruz",36,0,15,21
+Parmer,Pct. 303,"U.S. Senate",,DEM,"Colin Allred",4,0,2,2
+Parmer,Pct. 303,"U.S. Senate",,LIB,"Ted Brown",0,0,0,0
+Parmer,Pct. 303,"U.S. Senate",,,"Write-ins",0,0,0,0
+Parmer,Pct. 303,"U.S. Senate",,,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"U.S. Senate",,,"Under Votes",0,0,0,0
+Parmer,Pct. 303,"U.S. House",19,REP,"Jodey C. Arrington",35,0,15,20
+Parmer,Pct. 303,"U.S. House",19,LIB,"Bernard Johnson",0,0,0,0
+Parmer,Pct. 303,"U.S. House",19,IND,"Nathan Lewis",2,0,2,0
+Parmer,Pct. 303,"U.S. House",19,,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"U.S. House",19,,"Under Votes",3,0,0,3
+Parmer,Pct. 303,"Railroad Commissioner",,REP,"Christi Craddick",35,0,16,19
+Parmer,Pct. 303,"Railroad Commissioner",,DEM,"Katherine Culbert",2,0,1,1
+Parmer,Pct. 303,"Railroad Commissioner",,LIB,"Hawk Dunlap",0,0,0,0
+Parmer,Pct. 303,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,0,1
+Parmer,Pct. 303,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Parmer,Pct. 303,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"Railroad Commissioner",,,"Under Votes",2,0,0,2
+Parmer,Pct. 303,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",35,0,15,20
+Parmer,Pct. 303,"Justice, Supreme Court",2,DEM,"DaSean Jones",3,0,2,1
+Parmer,Pct. 303,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"Justice, Supreme Court",2,,"Under Votes",2,0,0,2
+Parmer,Pct. 303,"Justice, Supreme Court",4,REP,"John Devine",36,0,15,21
+Parmer,Pct. 303,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",4,0,2,2
+Parmer,Pct. 303,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"Justice, Supreme Court",4,,"Under Votes",0,0,0,0
+Parmer,Pct. 303,"Justice, Supreme Court",6,REP,"Jane Bland",34,0,15,19
+Parmer,Pct. 303,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",6,0,2,4
+Parmer,Pct. 303,"Justice, Supreme Court",6,LIB,"J. David Roberson",0,0,0,0
+Parmer,Pct. 303,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"Justice, Supreme Court",6,,"Under Votes",0,0,0,0
+Parmer,Pct. 303,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",36,0,15,21
+Parmer,Pct. 303,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",4,0,2,2
+Parmer,Pct. 303,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"Presiding Judge, Ct of Crim App",,,"Under Votes",0,0,0,0
+Parmer,Pct. 303,"Judge, Ct of Crim App",7,REP,"Gina Parker",34,0,15,19
+Parmer,Pct. 303,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",4,0,2,2
+Parmer,Pct. 303,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"Judge, Ct of Crim App",7,,"Under Votes",2,0,0,2
+Parmer,Pct. 303,"Judge, Ct of Crim App",8,REP,"Lee Finley",33,0,14,19
+Parmer,Pct. 303,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",4,0,3,1
+Parmer,Pct. 303,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"Judge, Ct of Crim App",8,,"Under Votes",3,0,0,3
+Parmer,Pct. 303,"Member, State BoE",15,REP,"Aaron Kinsey",35,0,15,20
+Parmer,Pct. 303,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",3,0,2,1
+Parmer,Pct. 303,"Member, State BoE",15,LIB,"Jack B. Westbrook",0,0,0,0
+Parmer,Pct. 303,"Member, State BoE",15,,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"Member, State BoE",15,,"Under Votes",2,0,0,2
+Parmer,Pct. 303,"State Representative",86,REP,"John Smithee",36,0,16,20
+Parmer,Pct. 303,"State Representative",86,,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"State Representative",86,,"Under Votes",4,0,1,3
+Parmer,Pct. 303,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",37,0,17,20
+Parmer,Pct. 303,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"Justice, 7th Ct of App Dist",2,,"Under Votes",3,0,0,3
+Parmer,Pct. 303,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",34,0,16,18
+Parmer,Pct. 303,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"Justice, 7th Ct of App Dist",3,,"Under Votes",6,0,1,5
+Parmer,Pct. 303,"Dist Attorney","287th Judicial Dist",REP,"Jackie R. Claborn II",34,0,16,18
+Parmer,Pct. 303,"Dist Attorney","287th Judicial Dist",,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"Dist Attorney","287th Judicial Dist",,"Under Votes",6,0,1,5
+Parmer,Pct. 303,"County Attorney",,REP,"Jeff W. Actkinson",34,0,16,18
+Parmer,Pct. 303,"County Attorney",,,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"County Attorney",,,"Under Votes",6,0,1,5
+Parmer,Pct. 303,"Sheriff",,REP,"Eric Geske",35,0,16,19
+Parmer,Pct. 303,"Sheriff",,,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"Sheriff",,,"Under Votes",5,0,1,4
+Parmer,Pct. 303,"County Tax Assessor-Collector",,REP,"Awyna Sanchez",38,0,16,22
+Parmer,Pct. 303,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"County Tax Assessor-Collector",,,"Under Votes",2,0,1,1
+Parmer,Pct. 303,"County Commissioner",3,REP,"Kenny White",33,0,16,17
+Parmer,Pct. 303,"County Commissioner",3,,"Over Votes",0,0,0,0
+Parmer,Pct. 303,"County Commissioner",3,,"Under Votes",7,0,1,6
+Parmer,Pct. 401,"Registered Voters",,,,284,,,
+Parmer,Pct. 401,"Ballots Cast",,,,206,12,84,110
+Parmer,Pct. 401,"Ballots Cast Blank",,,,0,0,0,0
+Parmer,Pct. 401,"President",,REP,"Donald J. Trump",196,9,83,104
+Parmer,Pct. 401,"President",,DEM,"Kamala D. Harris",10,3,1,6
+Parmer,Pct. 401,"President",,LIB,"Chase Oliver",0,0,0,0
+Parmer,Pct. 401,"President",,GRN,"Jill Stein",0,0,0,0
+Parmer,Pct. 401,"President",,,"Write-ins",0,0,0,0
+Parmer,Pct. 401,"President",,,"Over Votes",0,0,0,0
+Parmer,Pct. 401,"President",,,"Under Votes",0,0,0,0
+Parmer,Pct. 401,"U.S. Senate",,REP,"Ted Cruz",192,9,84,99
+Parmer,Pct. 401,"U.S. Senate",,DEM,"Colin Allred",7,3,0,4
+Parmer,Pct. 401,"U.S. Senate",,LIB,"Ted Brown",4,0,0,4
+Parmer,Pct. 401,"U.S. Senate",,,"Write-ins",0,0,0,0
+Parmer,Pct. 401,"U.S. Senate",,,"Over Votes",0,0,0,0
+Parmer,Pct. 401,"U.S. Senate",,,"Under Votes",3,0,0,3
+Parmer,Pct. 401,"U.S. House",19,REP,"Jodey C. Arrington",199,11,84,104
+Parmer,Pct. 401,"U.S. House",19,LIB,"Bernard Johnson",1,0,0,1
+Parmer,Pct. 401,"U.S. House",19,IND,"Nathan Lewis",2,1,0,1
+Parmer,Pct. 401,"U.S. House",19,,"Over Votes",0,0,0,0
+Parmer,Pct. 401,"U.S. House",19,,"Under Votes",4,0,0,4
+Parmer,Pct. 401,"Railroad Commissioner",,REP,"Christi Craddick",190,9,80,101
+Parmer,Pct. 401,"Railroad Commissioner",,DEM,"Katherine Culbert",4,3,0,1
+Parmer,Pct. 401,"Railroad Commissioner",,LIB,"Hawk Dunlap",7,0,4,3
+Parmer,Pct. 401,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Parmer,Pct. 401,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Parmer,Pct. 401,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Parmer,Pct. 401,"Railroad Commissioner",,,"Under Votes",5,0,0,5
+Parmer,Pct. 401,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",197,9,84,104
+Parmer,Pct. 401,"Justice, Supreme Court",2,DEM,"DaSean Jones",5,3,0,2
+Parmer,Pct. 401,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Parmer,Pct. 401,"Justice, Supreme Court",2,,"Under Votes",4,0,0,4
+Parmer,Pct. 401,"Justice, Supreme Court",4,REP,"John Devine",195,9,84,102
+Parmer,Pct. 401,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",5,3,0,2
+Parmer,Pct. 401,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Parmer,Pct. 401,"Justice, Supreme Court",4,,"Under Votes",6,0,0,6
+Parmer,Pct. 401,"Justice, Supreme Court",6,REP,"Jane Bland",193,9,83,101
+Parmer,Pct. 401,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",5,3,0,2
+Parmer,Pct. 401,"Justice, Supreme Court",6,LIB,"J. David Roberson",3,0,1,2
+Parmer,Pct. 401,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Parmer,Pct. 401,"Justice, Supreme Court",6,,"Under Votes",5,0,0,5
+Parmer,Pct. 401,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",195,9,84,102
+Parmer,Pct. 401,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",6,3,0,3
+Parmer,Pct. 401,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Parmer,Pct. 401,"Presiding Judge, Ct of Crim App",,,"Under Votes",5,0,0,5
+Parmer,Pct. 401,"Judge, Ct of Crim App",7,REP,"Gina Parker",197,9,84,104
+Parmer,Pct. 401,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",4,3,0,1
+Parmer,Pct. 401,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Parmer,Pct. 401,"Judge, Ct of Crim App",7,,"Under Votes",5,0,0,5
+Parmer,Pct. 401,"Judge, Ct of Crim App",8,REP,"Lee Finley",198,9,84,105
+Parmer,Pct. 401,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",3,3,0,0
+Parmer,Pct. 401,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Parmer,Pct. 401,"Judge, Ct of Crim App",8,,"Under Votes",5,0,0,5
+Parmer,Pct. 401,"Member, State BoE",15,REP,"Aaron Kinsey",190,9,82,99
+Parmer,Pct. 401,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",7,3,0,4
+Parmer,Pct. 401,"Member, State BoE",15,LIB,"Jack B. Westbrook",1,0,0,1
+Parmer,Pct. 401,"Member, State BoE",15,,"Over Votes",0,0,0,0
+Parmer,Pct. 401,"Member, State BoE",15,,"Under Votes",8,0,2,6
+Parmer,Pct. 401,"State Representative",86,REP,"John Smithee",196,10,83,103
+Parmer,Pct. 401,"State Representative",86,,"Over Votes",0,0,0,0
+Parmer,Pct. 401,"State Representative",86,,"Under Votes",10,2,1,7
+Parmer,Pct. 401,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",193,11,81,101
+Parmer,Pct. 401,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Parmer,Pct. 401,"Justice, 7th Ct of App Dist",2,,"Under Votes",13,1,3,9
+Parmer,Pct. 401,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",194,11,83,100
+Parmer,Pct. 401,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Parmer,Pct. 401,"Justice, 7th Ct of App Dist",3,,"Under Votes",12,1,1,10
+Parmer,Pct. 401,"Dist Attorney","287th Judicial Dist",REP,"Jackie R. Claborn II",192,11,83,98
+Parmer,Pct. 401,"Dist Attorney","287th Judicial Dist",,"Over Votes",0,0,0,0
+Parmer,Pct. 401,"Dist Attorney","287th Judicial Dist",,"Under Votes",14,1,1,12
+Parmer,Pct. 401,"County Attorney",,REP,"Jeff W. Actkinson",190,11,81,98
+Parmer,Pct. 401,"County Attorney",,,"Over Votes",0,0,0,0
+Parmer,Pct. 401,"County Attorney",,,"Under Votes",16,1,3,12
+Parmer,Pct. 401,"Sheriff",,REP,"Eric Geske",189,11,79,99
+Parmer,Pct. 401,"Sheriff",,,"Over Votes",0,0,0,0
+Parmer,Pct. 401,"Sheriff",,,"Under Votes",17,1,5,11
+Parmer,Pct. 401,"County Tax Assessor-Collector",,REP,"Awyna Sanchez",190,11,79,100
+Parmer,Pct. 401,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Parmer,Pct. 401,"County Tax Assessor-Collector",,,"Under Votes",16,1,5,10
+Parmer,Pct. 402,"Registered Voters",,,,545,,,
+Parmer,Pct. 402,"Ballots Cast",,,,182,4,59,119
+Parmer,Pct. 402,"Ballots Cast Blank",,,,1,0,0,1
+Parmer,Pct. 402,"President",,REP,"Donald J. Trump",126,4,43,79
+Parmer,Pct. 402,"President",,DEM,"Kamala D. Harris",54,0,15,39
+Parmer,Pct. 402,"President",,LIB,"Chase Oliver",1,0,1,0
+Parmer,Pct. 402,"President",,GRN,"Jill Stein",0,0,0,0
+Parmer,Pct. 402,"President",,,"Write-ins",0,0,0,0
+Parmer,Pct. 402,"President",,,"Over Votes",0,0,0,0
+Parmer,Pct. 402,"President",,,"Under Votes",1,0,0,1
+Parmer,Pct. 402,"U.S. Senate",,REP,"Ted Cruz",116,4,42,70
+Parmer,Pct. 402,"U.S. Senate",,DEM,"Colin Allred",52,0,14,38
+Parmer,Pct. 402,"U.S. Senate",,LIB,"Ted Brown",6,0,2,4
+Parmer,Pct. 402,"U.S. Senate",,,"Write-ins",0,0,0,0
+Parmer,Pct. 402,"U.S. Senate",,,"Over Votes",0,0,0,0
+Parmer,Pct. 402,"U.S. Senate",,,"Under Votes",8,0,1,7
+Parmer,Pct. 402,"U.S. House",19,REP,"Jodey C. Arrington",125,2,43,80
+Parmer,Pct. 402,"U.S. House",19,LIB,"Bernard Johnson",21,0,6,15
+Parmer,Pct. 402,"U.S. House",19,IND,"Nathan Lewis",12,0,5,7
+Parmer,Pct. 402,"U.S. House",19,,"Over Votes",0,0,0,0
+Parmer,Pct. 402,"U.S. House",19,,"Under Votes",24,2,5,17
+Parmer,Pct. 402,"Railroad Commissioner",,REP,"Christi Craddick",111,2,41,68
+Parmer,Pct. 402,"Railroad Commissioner",,DEM,"Katherine Culbert",41,0,15,26
+Parmer,Pct. 402,"Railroad Commissioner",,LIB,"Hawk Dunlap",1,0,0,1
+Parmer,Pct. 402,"Railroad Commissioner",,GRN,"Eddie Espinoza",11,0,2,9
+Parmer,Pct. 402,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Parmer,Pct. 402,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Parmer,Pct. 402,"Railroad Commissioner",,,"Under Votes",18,2,1,15
+Parmer,Pct. 402,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",115,1,43,71
+Parmer,Pct. 402,"Justice, Supreme Court",2,DEM,"DaSean Jones",50,1,15,34
+Parmer,Pct. 402,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Parmer,Pct. 402,"Justice, Supreme Court",2,,"Under Votes",17,2,1,14
+Parmer,Pct. 402,"Justice, Supreme Court",4,REP,"John Devine",115,2,44,69
+Parmer,Pct. 402,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",46,0,14,32
+Parmer,Pct. 402,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Parmer,Pct. 402,"Justice, Supreme Court",4,,"Under Votes",21,2,1,18
+Parmer,Pct. 402,"Justice, Supreme Court",6,REP,"Jane Bland",113,2,44,67
+Parmer,Pct. 402,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",48,0,14,34
+Parmer,Pct. 402,"Justice, Supreme Court",6,LIB,"J. David Roberson",2,0,0,2
+Parmer,Pct. 402,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Parmer,Pct. 402,"Justice, Supreme Court",6,,"Under Votes",19,2,1,16
+Parmer,Pct. 402,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",112,2,44,66
+Parmer,Pct. 402,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",51,0,13,38
+Parmer,Pct. 402,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Parmer,Pct. 402,"Presiding Judge, Ct of Crim App",,,"Under Votes",19,2,2,15
+Parmer,Pct. 402,"Judge, Ct of Crim App",7,REP,"Gina Parker",114,2,44,68
+Parmer,Pct. 402,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",47,0,13,34
+Parmer,Pct. 402,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Parmer,Pct. 402,"Judge, Ct of Crim App",7,,"Under Votes",21,2,2,17
+Parmer,Pct. 402,"Judge, Ct of Crim App",8,REP,"Lee Finley",116,2,43,71
+Parmer,Pct. 402,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",46,0,14,32
+Parmer,Pct. 402,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Parmer,Pct. 402,"Judge, Ct of Crim App",8,,"Under Votes",20,2,2,16
+Parmer,Pct. 402,"Member, State BoE",15,REP,"Aaron Kinsey",112,2,42,68
+Parmer,Pct. 402,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",48,0,15,33
+Parmer,Pct. 402,"Member, State BoE",15,LIB,"Jack B. Westbrook",2,0,1,1
+Parmer,Pct. 402,"Member, State BoE",15,,"Over Votes",0,0,0,0
+Parmer,Pct. 402,"Member, State BoE",15,,"Under Votes",20,2,1,17
+Parmer,Pct. 402,"State Representative",86,REP,"John Smithee",140,2,52,86
+Parmer,Pct. 402,"State Representative",86,,"Over Votes",0,0,0,0
+Parmer,Pct. 402,"State Representative",86,,"Under Votes",42,2,7,33
+Parmer,Pct. 402,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",139,2,51,86
+Parmer,Pct. 402,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Parmer,Pct. 402,"Justice, 7th Ct of App Dist",2,,"Under Votes",43,2,8,33
+Parmer,Pct. 402,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",138,2,51,85
+Parmer,Pct. 402,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Parmer,Pct. 402,"Justice, 7th Ct of App Dist",3,,"Under Votes",44,2,8,34
+Parmer,Pct. 402,"Dist Attorney","287th Judicial Dist",REP,"Jackie R. Claborn II",137,2,51,84
+Parmer,Pct. 402,"Dist Attorney","287th Judicial Dist",,"Over Votes",0,0,0,0
+Parmer,Pct. 402,"Dist Attorney","287th Judicial Dist",,"Under Votes",45,2,8,35
+Parmer,Pct. 402,"County Attorney",,REP,"Jeff W. Actkinson",145,2,52,91
+Parmer,Pct. 402,"County Attorney",,,"Over Votes",0,0,0,0
+Parmer,Pct. 402,"County Attorney",,,"Under Votes",37,2,7,28
+Parmer,Pct. 402,"Sheriff",,REP,"Eric Geske",143,2,50,91
+Parmer,Pct. 402,"Sheriff",,,"Over Votes",0,0,0,0
+Parmer,Pct. 402,"Sheriff",,,"Under Votes",39,2,9,28
+Parmer,Pct. 402,"County Tax Assessor-Collector",,REP,"Awyna Sanchez",148,2,53,93
+Parmer,Pct. 402,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Parmer,Pct. 402,"County Tax Assessor-Collector",,,"Under Votes",34,2,6,26

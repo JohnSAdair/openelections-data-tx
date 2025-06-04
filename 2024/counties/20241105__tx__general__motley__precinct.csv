@@ -1,0 +1,472 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Motley,1,Registered Voters,,,,219,,,
+Motley,1,Ballots Cast,,,,194,,,
+Motley,1,President,,REP,Donald J. Trump,184,14,130,40
+Motley,1,President,,DEM,Kamala D. Harris,9,1,7,1
+Motley,1,President,,LIB,Chase Oliver,1,0,1,0
+Motley,1,President,,GRN,Jill Stein,0,0,0,0
+Motley,1,President,,,Under Votes,0,0,0,0
+Motley,1,President,,,Over Votes,0,0,0,0
+Motley,1,U.S. Senate,,REP,Ted Cruz,178,14,125,39
+Motley,1,U.S. Senate,,DEM,Colin Allred,11,1,9,1
+Motley,1,U.S. Senate,,LIB,Ted Brown,3,0,2,1
+Motley,1,U.S. Senate,,,Under Votes,2,0,2,0
+Motley,1,U.S. Senate,,,Over Votes,0,0,0,0
+Motley,1,U.S. House,13,REP,Ronny Jackson,183,14,131,38
+Motley,1,U.S. House,13,,Under Votes,11,1,7,3
+Motley,1,U.S. House,13,,Over Votes,0,0,0,0
+Motley,1,Railroad Commissioner,,REP,Christi Craddick,168,14,122,32
+Motley,1,Railroad Commissioner,,DEM,Katherine Culbert,5,1,4,0
+Motley,1,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,4,2
+Motley,1,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Motley,1,Railroad Commissioner,,,Under Votes,14,0,7,7
+Motley,1,Railroad Commissioner,,,Over Votes,0,0,0,0
+Motley,1,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,178,14,127,37
+Motley,1,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,6,1,5,0
+Motley,1,"Justice, Supreme Court, Place 2",2,,Under Votes,10,0,6,4
+Motley,1,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Motley,1,"Justice, Supreme Court, Place 4",4,REP,John Devine,175,14,124,37
+Motley,1,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,9,1,8,0
+Motley,1,"Justice, Supreme Court, Place 4",4,,Under Votes,10,0,6,4
+Motley,1,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Motley,1,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,176,14,125,37
+Motley,1,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,5,1,4,0
+Motley,1,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,4,0,3,1
+Motley,1,"Justice, Supreme Court, Place 6",6,,Under Votes,9,0,6,3
+Motley,1,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Motley,1,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,176,14,125,37
+Motley,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,7,1,6,0
+Motley,1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,11,0,7,4
+Motley,1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Motley,1,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,171,14,121,36
+Motley,1,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,8,1,7,0
+Motley,1,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,15,0,10,5
+Motley,1,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Motley,1,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,175,14,124,37
+Motley,1,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,7,1,6,0
+Motley,1,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,12,0,8,4
+Motley,1,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Motley,1,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,172,14,122,36
+Motley,1,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,7,1,6,0
+Motley,1,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,3,0,2,1
+Motley,1,"Member, State Board of Education, District 15",15,,Under Votes,11,0,7,4
+Motley,1,"Member, State Board of Education, District 15",15,,Over Votes,1,0,1,0
+Motley,1,State Representative,69,REP,James B Frank,175,14,124,37
+Motley,1,State Representative,69,DEM,Walter Coppage,8,1,7,0
+Motley,1,State Representative,69,,Under Votes,11,0,7,4
+Motley,1,State Representative,69,,Over Votes,0,0,0,0
+Motley,1,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,177,14,125,38
+Motley,1,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,17,1,13,3
+Motley,1,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Motley,1,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,178,14,126,38
+Motley,1,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,16,1,12,3
+Motley,1,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Motley,1,"District Attorney, 110th Judicial District",110,REP,Emily Teegardin,177,14,125,38
+Motley,1,"District Attorney, 110th Judicial District",110,,Under Votes,17,1,13,3
+Motley,1,"District Attorney, 110th Judicial District",110,,Over Votes,0,0,0,0
+Motley,1,County Attorney,,REP,Tom Edwards,123,6,84,33
+Motley,1,County Attorney,,,Under Votes,71,9,54,8
+Motley,1,County Attorney,,,Over Votes,0,0,0,0
+Motley,1,County Attorney,,REP,D'anna Russell,185,15,132,38
+Motley,1,County Attorney,,,Under Votes,9,0,6,3
+Motley,1,County Attorney,,,Over Votes,0,0,0,0
+Motley,1,Sheriff,,REP,Robert Fisk,145,14,100,31
+Motley,1,Sheriff,,,Under Votes,49,1,38,10
+Motley,1,Sheriff,,,Over Votes,0,0,0,0
+Motley,1,County Tax Assessor-Collector,,REP,Ronda Miller,180,14,129,37
+Motley,1,County Tax Assessor-Collector,,,Under Votes,14,1,9,4
+Motley,1,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Motley,1,"County Commissioner, Precinct 1",,REP,Douglas Campbell,172,14,122,36
+Motley,1,"County Commissioner, Precinct 1",,,Under Votes,22,1,16,5
+Motley,1,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Motley,2,Registered Voters,,,,78,,,
+Motley,2,Ballots Cast,,,,66,,,
+Motley,2,President,,REP,Donald J. Trump,63,5,22,36
+Motley,2,President,,DEM,Kamala D. Harris,3,2,1,0
+Motley,2,President,,LIB,Chase Oliver,0,0,0,0
+Motley,2,President,,GRN,Jill Stein,0,0,0,0
+Motley,2,President,,,Under Votes,0,0,0,0
+Motley,2,President,,,Over Votes,0,0,0,0
+Motley,2,U.S. Senate,,REP,Ted Cruz,61,5,22,34
+Motley,2,U.S. Senate,,DEM,Colin Allred,3,2,1,0
+Motley,2,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Motley,2,U.S. Senate,,,Under Votes,2,0,0,2
+Motley,2,U.S. Senate,,,Over Votes,0,0,0,0
+Motley,2,U.S. House,13,REP,Ronny Jackson,61,5,21,35
+Motley,2,U.S. House,13,,Under Votes,5,2,2,1
+Motley,2,U.S. House,13,,Over Votes,0,0,0,0
+Motley,2,Railroad Commissioner,,REP,Christi Craddick,55,5,18,32
+Motley,2,Railroad Commissioner,,DEM,Katherine Culbert,3,2,1,0
+Motley,2,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,0,3
+Motley,2,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Motley,2,Railroad Commissioner,,,Under Votes,5,0,4,1
+Motley,2,Railroad Commissioner,,,Over Votes,0,0,0,0
+Motley,2,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,57,5,18,34
+Motley,2,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,2,1,1,0
+Motley,2,"Justice, Supreme Court, Place 2",2,,Under Votes,7,1,4,2
+Motley,2,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Motley,2,"Justice, Supreme Court, Place 4",4,REP,John Devine,58,5,19,34
+Motley,2,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,2,1,1,0
+Motley,2,"Justice, Supreme Court, Place 4",4,,Under Votes,6,1,3,2
+Motley,2,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Motley,2,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,57,5,20,32
+Motley,2,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,2,1,1,0
+Motley,2,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,1,0,0,1
+Motley,2,"Justice, Supreme Court, Place 6",6,,Under Votes,6,1,2,3
+Motley,2,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Motley,2,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,58,5,19,34
+Motley,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,3,2,1,0
+Motley,2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,5,0,3,2
+Motley,2,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Motley,2,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,58,5,19,34
+Motley,2,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,2,1,1,0
+Motley,2,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,6,1,3,2
+Motley,2,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Motley,2,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,58,5,19,34
+Motley,2,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,2,1,1,0
+Motley,2,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,6,1,3,2
+Motley,2,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Motley,2,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,57,5,20,32
+Motley,2,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,2,1,1,0
+Motley,2,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,1,0,0,1
+Motley,2,"Member, State Board of Education, District 15",15,,Under Votes,6,1,2,3
+Motley,2,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Motley,2,State Representative,69,REP,James B Frank,56,5,19,32
+Motley,2,State Representative,69,DEM,Walter Coppage,2,1,1,0
+Motley,2,State Representative,69,,Under Votes,8,1,3,4
+Motley,2,State Representative,69,,Over Votes,0,0,0,0
+Motley,2,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,57,5,18,34
+Motley,2,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,9,2,5,2
+Motley,2,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Motley,2,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,54,5,16,33
+Motley,2,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,12,2,7,3
+Motley,2,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Motley,2,"District Attorney, 110th Judicial District",110,REP,Emily Teegardin,55,5,19,31
+Motley,2,"District Attorney, 110th Judicial District",110,,Under Votes,11,2,4,5
+Motley,2,"District Attorney, 110th Judicial District",110,,Over Votes,0,0,0,0
+Motley,2,County Attorney,,REP,Tom Edwards,49,5,16,28
+Motley,2,County Attorney,,,Under Votes,17,2,7,8
+Motley,2,County Attorney,,,Over Votes,0,0,0,0
+Motley,2,County Attorney,,REP,D'anna Russell,64,5,23,36
+Motley,2,County Attorney,,,Under Votes,2,2,0,0
+Motley,2,County Attorney,,,Over Votes,0,0,0,0
+Motley,2,Sheriff,,REP,Robert Fisk,51,5,15,31
+Motley,2,Sheriff,,,Under Votes,15,2,8,5
+Motley,2,Sheriff,,,Over Votes,0,0,0,0
+Motley,2,County Tax Assessor-Collector,,REP,Ronda Miller,59,5,19,35
+Motley,2,County Tax Assessor-Collector,,,Under Votes,7,2,4,1
+Motley,2,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Motley,3,Registered Voters,,,,18,,,
+Motley,3,Ballots Cast,,,,11,,,
+Motley,3,President,,REP,Donald J. Trump,10,1,6,3
+Motley,3,President,,DEM,Kamala D. Harris,1,1,0,0
+Motley,3,President,,LIB,Chase Oliver,0,0,0,0
+Motley,3,President,,GRN,Jill Stein,0,0,0,0
+Motley,3,President,,,Under Votes,0,0,0,0
+Motley,3,President,,,Over Votes,0,0,0,0
+Motley,3,U.S. Senate,,REP,Ted Cruz,9,1,6,2
+Motley,3,U.S. Senate,,DEM,Colin Allred,1,1,0,0
+Motley,3,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+Motley,3,U.S. Senate,,,Under Votes,0,0,0,0
+Motley,3,U.S. Senate,,,Over Votes,0,0,0,0
+Motley,3,U.S. House,13,REP,Ronny Jackson,10,1,6,3
+Motley,3,U.S. House,13,,Under Votes,1,1,0,0
+Motley,3,U.S. House,13,,Over Votes,0,0,0,0
+Motley,3,Railroad Commissioner,,REP,Christi Craddick,9,1,6,2
+Motley,3,Railroad Commissioner,,DEM,Katherine Culbert,1,1,0,0
+Motley,3,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,0,1
+Motley,3,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Motley,3,Railroad Commissioner,,,Under Votes,0,0,0,0
+Motley,3,Railroad Commissioner,,,Over Votes,0,0,0,0
+Motley,3,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,10,1,6,3
+Motley,3,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,1,1,0,0
+Motley,3,"Justice, Supreme Court, Place 2",2,,Under Votes,0,0,0,0
+Motley,3,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Motley,3,"Justice, Supreme Court, Place 4",4,REP,John Devine,10,1,6,3
+Motley,3,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,1,1,0,0
+Motley,3,"Justice, Supreme Court, Place 4",4,,Under Votes,0,0,0,0
+Motley,3,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Motley,3,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,9,1,6,2
+Motley,3,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,1,1,0,0
+Motley,3,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,1,0,0,1
+Motley,3,"Justice, Supreme Court, Place 6",6,,Under Votes,0,0,0,0
+Motley,3,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Motley,3,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,10,1,6,3
+Motley,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,1,1,0,0
+Motley,3,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,0,0,0
+Motley,3,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Motley,3,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,10,1,6,3
+Motley,3,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,1,1,0,0
+Motley,3,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,0,0,0,0
+Motley,3,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Motley,3,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,10,1,6,3
+Motley,3,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,1,1,0,0
+Motley,3,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,0,0,0,0
+Motley,3,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Motley,3,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,8,1,5,2
+Motley,3,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,1,1,0,0
+Motley,3,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,2,0,1,1
+Motley,3,"Member, State Board of Education, District 15",15,,Under Votes,0,0,0,0
+Motley,3,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Motley,3,State Representative,69,REP,James B Frank,10,1,6,3
+Motley,3,State Representative,69,DEM,Walter Coppage,1,1,0,0
+Motley,3,State Representative,69,,Under Votes,0,0,0,0
+Motley,3,State Representative,69,,Over Votes,0,0,0,0
+Motley,3,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,9,1,5,3
+Motley,3,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,2,1,1,0
+Motley,3,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Motley,3,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,9,1,5,3
+Motley,3,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,2,1,1,0
+Motley,3,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Motley,3,"District Attorney, 110th Judicial District",110,REP,Emily Teegardin,8,1,4,3
+Motley,3,"District Attorney, 110th Judicial District",110,,Under Votes,3,1,2,0
+Motley,3,"District Attorney, 110th Judicial District",110,,Over Votes,0,0,0,0
+Motley,3,County Attorney,,REP,Tom Edwards,7,2,2,3
+Motley,3,County Attorney,,,Under Votes,4,0,4,0
+Motley,3,County Attorney,,,Over Votes,0,0,0,0
+Motley,3,County Attorney,,REP,D'anna Russell,10,2,5,3
+Motley,3,County Attorney,,,Under Votes,1,0,1,0
+Motley,3,County Attorney,,,Over Votes,0,0,0,0
+Motley,3,Sheriff,,REP,Robert Fisk,8,1,4,3
+Motley,3,Sheriff,,,Under Votes,3,1,2,0
+Motley,3,Sheriff,,,Over Votes,0,0,0,0
+Motley,3,County Tax Assessor-Collector,,REP,Ronda Miller,10,2,5,3
+Motley,3,County Tax Assessor-Collector,,,Under Votes,1,0,1,0
+Motley,3,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Motley,3,"County Commissioner, Precinct 3",,REP,Franklin Jameson,10,2,5,3
+Motley,3,"County Commissioner, Precinct 3",,,Under Votes,1,0,1,0
+Motley,3,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Motley,4,Registered Voters,,,,211,,,
+Motley,4,Ballots Cast,,,,156,,,
+Motley,4,President,,REP,Donald J. Trump,141,4,102,35
+Motley,4,President,,DEM,Kamala D. Harris,13,2,6,5
+Motley,4,President,,LIB,Chase Oliver,1,1,0,0
+Motley,4,President,,GRN,Jill Stein,1,0,0,1
+Motley,4,President,,,Under Votes,0,0,0,0
+Motley,4,President,,,Over Votes,0,0,0,0
+Motley,4,U.S. Senate,,REP,Ted Cruz,136,4,100,32
+Motley,4,U.S. Senate,,DEM,Colin Allred,14,2,5,7
+Motley,4,U.S. Senate,,LIB,Ted Brown,2,0,1,1
+Motley,4,U.S. Senate,,,Under Votes,4,1,2,1
+Motley,4,U.S. Senate,,,Over Votes,0,0,0,0
+Motley,4,U.S. House,13,REP,Ronny Jackson,141,5,101,35
+Motley,4,U.S. House,13,,Under Votes,15,2,7,6
+Motley,4,U.S. House,13,,Over Votes,0,0,0,0
+Motley,4,Railroad Commissioner,,REP,Christi Craddick,133,5,95,33
+Motley,4,Railroad Commissioner,,DEM,Katherine Culbert,9,2,4,3
+Motley,4,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,5,2
+Motley,4,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Motley,4,Railroad Commissioner,,,Under Votes,7,0,4,3
+Motley,4,Railroad Commissioner,,,Over Votes,0,0,0,0
+Motley,4,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,139,5,100,34
+Motley,4,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,10,2,5,3
+Motley,4,"Justice, Supreme Court, Place 2",2,,Under Votes,7,0,3,4
+Motley,4,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Motley,4,"Justice, Supreme Court, Place 4",4,REP,John Devine,138,5,99,34
+Motley,4,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,8,2,4,2
+Motley,4,"Justice, Supreme Court, Place 4",4,,Under Votes,10,0,5,5
+Motley,4,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Motley,4,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,139,5,100,34
+Motley,4,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,10,2,5,3
+Motley,4,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,1,0,0,1
+Motley,4,"Justice, Supreme Court, Place 6",6,,Under Votes,6,0,3,3
+Motley,4,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Motley,4,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,137,5,98,34
+Motley,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,10,2,5,3
+Motley,4,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,0,5,4
+Motley,4,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Motley,4,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,140,5,100,35
+Motley,4,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,10,2,5,3
+Motley,4,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,6,0,3,3
+Motley,4,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Motley,4,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,141,5,101,35
+Motley,4,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,8,2,4,2
+Motley,4,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,7,0,3,4
+Motley,4,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Motley,4,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,136,4,99,33
+Motley,4,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,10,3,5,2
+Motley,4,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,2,0,1,1
+Motley,4,"Member, State Board of Education, District 15",15,,Under Votes,8,0,3,5
+Motley,4,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Motley,4,State Representative,69,REP,James B Frank,136,5,97,34
+Motley,4,State Representative,69,DEM,Walter Coppage,12,2,7,3
+Motley,4,State Representative,69,,Under Votes,8,0,4,4
+Motley,4,State Representative,69,,Over Votes,0,0,0,0
+Motley,4,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,141,5,101,35
+Motley,4,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,15,2,7,6
+Motley,4,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Motley,4,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,136,5,97,34
+Motley,4,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,20,2,11,7
+Motley,4,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Motley,4,"District Attorney, 110th Judicial District",110,REP,Emily Teegardin,140,5,99,36
+Motley,4,"District Attorney, 110th Judicial District",110,,Under Votes,16,2,9,5
+Motley,4,"District Attorney, 110th Judicial District",110,,Over Votes,0,0,0,0
+Motley,4,County Attorney,,REP,Tom Edwards,119,6,83,30
+Motley,4,County Attorney,,,Under Votes,37,1,25,11
+Motley,4,County Attorney,,,Over Votes,0,0,0,0
+Motley,4,County Attorney,,REP,D'anna Russell,145,6,102,37
+Motley,4,County Attorney,,,Under Votes,11,1,6,4
+Motley,4,County Attorney,,,Over Votes,0,0,0,0
+Motley,4,Sheriff,,REP,Robert Fisk,130,5,92,33
+Motley,4,Sheriff,,,Under Votes,26,2,16,8
+Motley,4,Sheriff,,,Over Votes,0,0,0,0
+Motley,4,County Tax Assessor-Collector,,REP,Ronda Miller,142,6,98,38
+Motley,4,County Tax Assessor-Collector,,,Under Votes,14,1,10,3
+Motley,4,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Motley,5,Registered Voters,,,,130,,,
+Motley,5,Ballots Cast,,,,89,,,
+Motley,5,President,,REP,Donald J. Trump,87,3,63,21
+Motley,5,President,,DEM,Kamala D. Harris,2,0,1,1
+Motley,5,President,,LIB,Chase Oliver,0,0,0,0
+Motley,5,President,,GRN,Jill Stein,0,0,0,0
+Motley,5,President,,,Under Votes,0,0,0,0
+Motley,5,President,,,Over Votes,0,0,0,0
+Motley,5,U.S. Senate,,REP,Ted Cruz,85,3,62,20
+Motley,5,U.S. Senate,,DEM,Colin Allred,3,0,1,2
+Motley,5,U.S. Senate,,LIB,Ted Brown,1,0,1,0
+Motley,5,U.S. Senate,,,Under Votes,0,0,0,0
+Motley,5,U.S. Senate,,,Over Votes,0,0,0,0
+Motley,5,U.S. House,13,REP,Ronny Jackson,87,2,63,22
+Motley,5,U.S. House,13,,Under Votes,2,1,1,0
+Motley,5,U.S. House,13,,Over Votes,0,0,0,0
+Motley,5,Railroad Commissioner,,REP,Christi Craddick,84,3,60,21
+Motley,5,Railroad Commissioner,,DEM,Katherine Culbert,1,0,1,0
+Motley,5,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,2,0
+Motley,5,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Motley,5,Railroad Commissioner,,,Under Votes,2,0,1,1
+Motley,5,Railroad Commissioner,,,Over Votes,0,0,0,0
+Motley,5,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,85,3,62,20
+Motley,5,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,1,0,0,1
+Motley,5,"Justice, Supreme Court, Place 2",2,,Under Votes,3,0,2,1
+Motley,5,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Motley,5,"Justice, Supreme Court, Place 4",4,REP,John Devine,85,3,62,20
+Motley,5,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,1,0,0,1
+Motley,5,"Justice, Supreme Court, Place 4",4,,Under Votes,3,0,2,1
+Motley,5,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Motley,5,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,84,3,61,20
+Motley,5,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,1,0,0,1
+Motley,5,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Motley,5,"Justice, Supreme Court, Place 6",6,,Under Votes,4,0,3,1
+Motley,5,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Motley,5,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,82,3,60,19
+Motley,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,2,0,1,1
+Motley,5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,5,0,3,2
+Motley,5,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Motley,5,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,84,3,61,20
+Motley,5,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,1,0,0,1
+Motley,5,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,4,0,3,1
+Motley,5,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Motley,5,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,84,3,60,21
+Motley,5,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,1,0,1,0
+Motley,5,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,4,0,3,1
+Motley,5,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Motley,5,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,79,2,57,20
+Motley,5,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,2,0,1,1
+Motley,5,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,2,0,2,0
+Motley,5,"Member, State Board of Education, District 15",15,,Under Votes,6,1,4,1
+Motley,5,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Motley,5,State Representative,69,REP,James B Frank,83,3,60,20
+Motley,5,State Representative,69,DEM,Walter Coppage,2,0,1,1
+Motley,5,State Representative,69,,Under Votes,4,0,3,1
+Motley,5,State Representative,69,,Over Votes,0,0,0,0
+Motley,5,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,86,2,62,22
+Motley,5,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,3,1,2,0
+Motley,5,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Motley,5,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,86,2,62,22
+Motley,5,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,3,1,2,0
+Motley,5,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Motley,5,"District Attorney, 110th Judicial District",110,REP,Emily Teegardin,82,2,60,20
+Motley,5,"District Attorney, 110th Judicial District",110,,Under Votes,7,1,4,2
+Motley,5,"District Attorney, 110th Judicial District",110,,Over Votes,0,0,0,0
+Motley,5,County Attorney,,REP,Tom Edwards,60,2,43,15
+Motley,5,County Attorney,,,Under Votes,29,1,21,7
+Motley,5,County Attorney,,,Over Votes,0,0,0,0
+Motley,5,County Attorney,,REP,D'anna Russell,87,3,64,20
+Motley,5,County Attorney,,,Under Votes,2,0,0,2
+Motley,5,County Attorney,,,Over Votes,0,0,0,0
+Motley,5,Sheriff,,REP,Robert Fisk,66,2,47,17
+Motley,5,Sheriff,,,Under Votes,23,1,17,5
+Motley,5,Sheriff,,,Over Votes,0,0,0,0
+Motley,5,County Tax Assessor-Collector,,REP,Ronda Miller,86,3,63,20
+Motley,5,County Tax Assessor-Collector,,,Under Votes,3,0,1,2
+Motley,5,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Motley,6,Registered Voters,,,,192,,,
+Motley,6,Ballots Cast,,,,136,,,
+Motley,6,President,,REP,Donald J. Trump,127,11,85,31
+Motley,6,President,,DEM,Kamala D. Harris,7,1,4,2
+Motley,6,President,,LIB,Chase Oliver,0,0,0,0
+Motley,6,President,,GRN,Jill Stein,0,0,0,0
+Motley,6,President,,,Under Votes,2,0,2,0
+Motley,6,President,,,Over Votes,0,0,0,0
+Motley,6,U.S. Senate,,REP,Ted Cruz,123,11,84,28
+Motley,6,U.S. Senate,,DEM,Colin Allred,9,0,5,4
+Motley,6,U.S. Senate,,LIB,Ted Brown,2,0,1,1
+Motley,6,U.S. Senate,,,Under Votes,2,1,1,0
+Motley,6,U.S. Senate,,,Over Votes,0,0,0,0
+Motley,6,U.S. House,13,REP,Ronny Jackson,123,10,83,30
+Motley,6,U.S. House,13,,Under Votes,13,2,8,3
+Motley,6,U.S. House,13,,Over Votes,0,0,0,0
+Motley,6,Railroad Commissioner,,REP,Christi Craddick,108,10,73,25
+Motley,6,Railroad Commissioner,,DEM,Katherine Culbert,7,1,4,2
+Motley,6,Railroad Commissioner,,LIB,Hawk Dunlap,4,0,2,2
+Motley,6,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Motley,6,Railroad Commissioner,,,Under Votes,17,1,12,4
+Motley,6,Railroad Commissioner,,,Over Votes,0,0,0,0
+Motley,6,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,113,10,77,26
+Motley,6,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,8,0,6,2
+Motley,6,"Justice, Supreme Court, Place 2",2,,Under Votes,15,2,8,5
+Motley,6,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Motley,6,"Justice, Supreme Court, Place 4",4,REP,John Devine,113,11,76,26
+Motley,6,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,9,0,6,3
+Motley,6,"Justice, Supreme Court, Place 4",4,,Under Votes,14,1,9,4
+Motley,6,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Motley,6,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,110,10,74,26
+Motley,6,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,8,0,6,2
+Motley,6,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,1,0,0,1
+Motley,6,"Justice, Supreme Court, Place 6",6,,Under Votes,17,2,11,4
+Motley,6,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Motley,6,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,111,10,75,26
+Motley,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,7,0,6,1
+Motley,6,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,18,2,10,6
+Motley,6,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Motley,6,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,112,9,76,27
+Motley,6,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,8,1,5,2
+Motley,6,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,16,2,10,4
+Motley,6,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Motley,6,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,112,10,75,27
+Motley,6,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,7,0,5,2
+Motley,6,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,17,2,11,4
+Motley,6,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Motley,6,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,111,10,76,25
+Motley,6,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,8,0,5,3
+Motley,6,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,1,0,1,0
+Motley,6,"Member, State Board of Education, District 15",15,,Under Votes,16,2,9,5
+Motley,6,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Motley,6,State Representative,69,REP,James B Frank,110,8,76,26
+Motley,6,State Representative,69,DEM,Walter Coppage,7,1,5,1
+Motley,6,State Representative,69,,Under Votes,19,3,10,6
+Motley,6,State Representative,69,,Over Votes,0,0,0,0
+Motley,6,"Justice, 7th Court of Appeals District, Place 2",2,REP,Judy Parker,112,10,74,28
+Motley,6,"Justice, 7th Court of Appeals District, Place 2",2,,Under Votes,24,2,17,5
+Motley,6,"Justice, 7th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Motley,6,"Justice, 7th Court of Appeals District, Place 3",3,REP,Alex Yarbrough,109,10,71,28
+Motley,6,"Justice, 7th Court of Appeals District, Place 3",3,,Under Votes,27,2,20,5
+Motley,6,"Justice, 7th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Motley,6,"District Attorney, 110th Judicial District",110,REP,Emily Teegardin,109,10,73,26
+Motley,6,"District Attorney, 110th Judicial District",110,,Under Votes,27,2,18,7
+Motley,6,"District Attorney, 110th Judicial District",110,,Over Votes,0,0,0,0
+Motley,6,County Attorney,,REP,Tom Edwards,76,8,47,21
+Motley,6,County Attorney,,,Under Votes,60,4,44,12
+Motley,6,County Attorney,,,Over Votes,0,0,0,0
+Motley,6,County Attorney,,REP,D'anna Russell,125,12,81,32
+Motley,6,County Attorney,,,Under Votes,11,0,10,1
+Motley,6,County Attorney,,,Over Votes,0,0,0,0
+Motley,6,Sheriff,,REP,Robert Fisk,94,10,58,26
+Motley,6,Sheriff,,,Under Votes,42,2,33,7
+Motley,6,Sheriff,,,Over Votes,0,0,0,0
+Motley,6,County Tax Assessor-Collector,,REP,Ronda Miller,127,12,83,32
+Motley,6,County Tax Assessor-Collector,,,Under Votes,9,0,8,1
+Motley,6,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Motley,6,"County Commissioner, Precinct 3",,REP,Franklin Jameson,105,11,65,29
+Motley,6,"County Commissioner, Precinct 3",,,Under Votes,31,1,26,4
+Motley,6,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
