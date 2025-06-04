@@ -1,0 +1,299 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Moore,Precinct 101,"Registered Voters",,,,2524,,,
+Moore,Precinct 101,"Ballots Cast",,,,1225,40,877,308
+Moore,Precinct 101,"President",,REP,"Donald J. Trump",961,33,708,220
+Moore,Precinct 101,"President",,DEM,"Kamala D. Harris",253,7,162,84
+Moore,Precinct 101,"President",,LIB,"Chase Oliver",6,0,2,4
+Moore,Precinct 101,"President",,GRN,"Jill Stein",1,0,1,0
+Moore,Precinct 101,"President",,,"Write-ins",1,0,1,0
+Moore,Precinct 101,"U.S. Senate",,REP,"Ted Cruz",879,31,674,174
+Moore,Precinct 101,"U.S. Senate",,DEM,"Colin Allred",283,7,175,101
+Moore,Precinct 101,"U.S. Senate",,LIB,"Ted Brown",34,1,12,21
+Moore,Precinct 101,"U.S. Senate",,,"Write-ins",0,0,0,0
+Moore,Precinct 101,"U.S. House",13,REP,"Ronny Jackson",985,30,719,236
+Moore,Precinct 101,"Railroad Commissioner",,REP,"Christi Craddick",844,27,642,175
+Moore,Precinct 101,"Railroad Commissioner",,DEM,"Katherine Culbert",230,6,149,75
+Moore,Precinct 101,"Railroad Commissioner",,LIB,"Hawk Dunlap",37,2,20,15
+Moore,Precinct 101,"Railroad Commissioner",,GRN,"Eddie Espinoza",40,1,20,19
+Moore,Precinct 101,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Moore,Precinct 101,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",919,31,683,205
+Moore,Precinct 101,"Justice, Supreme Court",2,DEM,"DaSean Jones",238,6,150,82
+Moore,Precinct 101,"Justice, Supreme Court",4,REP,"John Devine",897,30,668,199
+Moore,Precinct 101,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",249,6,158,85
+Moore,Precinct 101,"Justice, Supreme Court",6,REP,"Jane Bland",889,28,668,193
+Moore,Precinct 101,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",230,6,148,76
+Moore,Precinct 101,"Justice, Supreme Court",6,LIB,"J. David Roberson",36,2,15,19
+Moore,Precinct 101,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",903,31,673,199
+Moore,Precinct 101,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",245,5,154,86
+Moore,Precinct 101,"Judge, Ct of Crim App",7,REP,"Gina Parker",894,30,670,194
+Moore,Precinct 101,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",253,6,156,91
+Moore,Precinct 101,"Judge, Ct of Crim App",8,REP,"Lee Finley",913,31,673,209
+Moore,Precinct 101,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",224,5,145,74
+Moore,Precinct 101,"Member, State BoE",15,REP,"Aaron Kinsey",875,29,658,188
+Moore,Precinct 101,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",239,5,153,81
+Moore,Precinct 101,"Member, State BoE",15,LIB,"Jack B. Westbrook",31,2,13,16
+Moore,Precinct 101,"State Representative",87,REP,"Caroline Fairly",910,31,677,202
+Moore,Precinct 101,"State Representative",87,DEM,"Timothy W. Gassaway",234,5,150,79
+Moore,Precinct 101,"State Representative",87,,"Write-ins",5,0,4,1
+Moore,Precinct 101,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",1011,31,736,244
+Moore,Precinct 101,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",985,31,715,239
+Moore,Precinct 101,"Dist Attorney, 69th Judicial Dist",,REP,"Erin Lands Anchondo",972,28,696,248
+Moore,Precinct 101,"County Attorney",,REP,"Scott M. Higginbotham",1006,30,730,246
+Moore,Precinct 101,"Sheriff",,REP,"Morgan W. Hightower",1027,30,740,257
+Moore,Precinct 101,"County Tax Assessor-Collector",,REP,"Chris A. Rivera",1021,31,735,255
+Moore,Precinct 101,"County Commissioner Pct 1",,REP,"Daniel Garcia",999,32,717,250
+Moore,Precinct 201,"Registered Voters",,,,1532,,,
+Moore,Precinct 201,"Ballots Cast",,,,1021,25,760,236
+Moore,Precinct 201,"President",,REP,"Donald J. Trump",893,19,685,189
+Moore,Precinct 201,"President",,DEM,"Kamala D. Harris",120,5,73,42
+Moore,Precinct 201,"President",,LIB,"Chase Oliver",4,1,0,3
+Moore,Precinct 201,"President",,GRN,"Jill Stein",1,0,1,0
+Moore,Precinct 201,"President",,,"Write-ins",2,0,1,1
+Moore,Precinct 201,"U.S. Senate",,REP,"Ted Cruz",854,16,668,170
+Moore,Precinct 201,"U.S. Senate",,DEM,"Colin Allred",131,5,72,54
+Moore,Precinct 201,"U.S. Senate",,LIB,"Ted Brown",13,2,5,6
+Moore,Precinct 201,"U.S. Senate",,,"Write-ins",0,0,0,0
+Moore,Precinct 201,"U.S. House",13,REP,"Ronny Jackson",892,17,690,185
+Moore,Precinct 201,"Railroad Commissioner",,REP,"Christi Craddick",830,17,654,159
+Moore,Precinct 201,"Railroad Commissioner",,DEM,"Katherine Culbert",97,2,59,36
+Moore,Precinct 201,"Railroad Commissioner",,LIB,"Hawk Dunlap",23,1,15,7
+Moore,Precinct 201,"Railroad Commissioner",,GRN,"Eddie Espinoza",17,1,6,10
+Moore,Precinct 201,"Railroad Commissioner",,,"Write-ins",2,1,1,0
+Moore,Precinct 201,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",857,17,667,173
+Moore,Precinct 201,"Justice, Supreme Court",2,DEM,"DaSean Jones",113,4,67,42
+Moore,Precinct 201,"Justice, Supreme Court",4,REP,"John Devine",845,17,659,169
+Moore,Precinct 201,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",116,4,67,45
+Moore,Precinct 201,"Justice, Supreme Court",6,REP,"Jane Bland",834,15,656,163
+Moore,Precinct 201,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",108,4,63,41
+Moore,Precinct 201,"Justice, Supreme Court",6,LIB,"J. David Roberson",29,1,15,13
+Moore,Precinct 201,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",850,17,663,170
+Moore,Precinct 201,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",117,4,69,44
+Moore,Precinct 201,"Judge, Ct of Crim App",7,REP,"Gina Parker",857,17,669,171
+Moore,Precinct 201,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",110,4,63,43
+Moore,Precinct 201,"Judge, Ct of Crim App",8,REP,"Lee Finley",855,16,669,170
+Moore,Precinct 201,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",108,5,59,44
+Moore,Precinct 201,"Member, State BoE",15,REP,"Aaron Kinsey",828,15,651,162
+Moore,Precinct 201,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",111,4,65,42
+Moore,Precinct 201,"Member, State BoE",15,LIB,"Jack B. Westbrook",23,2,13,8
+Moore,Precinct 201,"State Representative",87,REP,"Caroline Fairly",846,18,659,169
+Moore,Precinct 201,"State Representative",87,DEM,"Timothy W. Gassaway",118,3,71,44
+Moore,Precinct 201,"State Representative",87,,"Write-ins",6,1,5,0
+Moore,Precinct 201,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",883,18,684,181
+Moore,Precinct 201,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",882,18,679,185
+Moore,Precinct 201,"Dist Attorney, 69th Judicial Dist",,REP,"Erin Lands Anchondo",876,18,670,188
+Moore,Precinct 201,"County Attorney",,REP,"Scott M. Higginbotham",904,17,695,192
+Moore,Precinct 201,"Sheriff",,REP,"Morgan W. Hightower",916,17,700,199
+Moore,Precinct 201,"County Tax Assessor-Collector",,REP,"Chris A. Rivera",898,19,676,203
+Moore,Precinct 202,"Registered Voters",,,,1688,,,
+Moore,Precinct 202,"Ballots Cast",,,,1120,31,882,207
+Moore,Precinct 202,"President",,REP,"Donald J. Trump",983,24,789,170
+Moore,Precinct 202,"President",,DEM,"Kamala D. Harris",118,7,81,30
+Moore,Precinct 202,"President",,LIB,"Chase Oliver",7,0,5,2
+Moore,Precinct 202,"President",,GRN,"Jill Stein",4,0,3,1
+Moore,Precinct 202,"President",,,"Write-ins",5,0,2,3
+Moore,Precinct 202,"U.S. Senate",,REP,"Ted Cruz",945,25,764,156
+Moore,Precinct 202,"U.S. Senate",,DEM,"Colin Allred",137,5,95,37
+Moore,Precinct 202,"U.S. Senate",,LIB,"Ted Brown",20,0,13,7
+Moore,Precinct 202,"U.S. Senate",,,"Write-ins",0,0,0,0
+Moore,Precinct 202,"U.S. House",13,REP,"Ronny Jackson",980,24,781,175
+Moore,Precinct 202,"Railroad Commissioner",,REP,"Christi Craddick",916,24,742,150
+Moore,Precinct 202,"Railroad Commissioner",,DEM,"Katherine Culbert",96,4,68,24
+Moore,Precinct 202,"Railroad Commissioner",,LIB,"Hawk Dunlap",30,0,22,8
+Moore,Precinct 202,"Railroad Commissioner",,GRN,"Eddie Espinoza",28,0,19,9
+Moore,Precinct 202,"Railroad Commissioner",,,"Write-ins",1,0,1,0
+Moore,Precinct 202,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",964,24,776,164
+Moore,Precinct 202,"Justice, Supreme Court",2,DEM,"DaSean Jones",100,5,68,27
+Moore,Precinct 202,"Justice, Supreme Court",4,REP,"John Devine",949,24,764,161
+Moore,Precinct 202,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",111,5,78,28
+Moore,Precinct 202,"Justice, Supreme Court",6,REP,"Jane Bland",936,23,764,149
+Moore,Precinct 202,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",109,5,75,29
+Moore,Precinct 202,"Justice, Supreme Court",6,LIB,"J. David Roberson",22,1,12,9
+Moore,Precinct 202,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",957,24,773,160
+Moore,Precinct 202,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",112,5,80,27
+Moore,Precinct 202,"Judge, Ct of Crim App",7,REP,"Gina Parker",949,24,765,160
+Moore,Precinct 202,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",109,4,79,26
+Moore,Precinct 202,"Judge, Ct of Crim App",8,REP,"Lee Finley",952,24,767,161
+Moore,Precinct 202,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",105,4,76,25
+Moore,Precinct 202,"Member, State BoE",15,REP,"Aaron Kinsey",928,23,756,149
+Moore,Precinct 202,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",113,4,80,29
+Moore,Precinct 202,"Member, State BoE",15,LIB,"Jack B. Westbrook",26,1,16,9
+Moore,Precinct 202,"State Representative",87,REP,"Caroline Fairly",944,25,760,159
+Moore,Precinct 202,"State Representative",87,DEM,"Timothy W. Gassaway",119,5,84,30
+Moore,Precinct 202,"State Representative",87,,"Write-ins",4,0,4,0
+Moore,Precinct 202,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",981,23,785,173
+Moore,Precinct 202,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",974,23,778,173
+Moore,Precinct 202,"Dist Attorney, 69th Judicial Dist",,REP,"Erin Lands Anchondo",946,22,753,171
+Moore,Precinct 202,"County Attorney",,REP,"Scott M. Higginbotham",1001,23,797,181
+Moore,Precinct 202,"Sheriff",,REP,"Morgan W. Hightower",1002,25,798,179
+Moore,Precinct 202,"County Tax Assessor-Collector",,REP,"Chris A. Rivera",1002,24,799,179
+Moore,Precinct 203,"Registered Voters",,,,77,,,
+Moore,Precinct 203,"Ballots Cast",,,,53,6,7,40
+Moore,Precinct 203,"President",,REP,"Donald J. Trump",45,5,4,36
+Moore,Precinct 203,"President",,DEM,"Kamala D. Harris",7,1,3,3
+Moore,Precinct 203,"President",,LIB,"Chase Oliver",1,0,0,1
+Moore,Precinct 203,"President",,GRN,"Jill Stein",0,0,0,0
+Moore,Precinct 203,"President",,,"Write-ins",0,0,0,0
+Moore,Precinct 203,"U.S. Senate",,REP,"Ted Cruz",44,5,4,35
+Moore,Precinct 203,"U.S. Senate",,DEM,"Colin Allred",7,1,2,4
+Moore,Precinct 203,"U.S. Senate",,LIB,"Ted Brown",2,0,1,1
+Moore,Precinct 203,"U.S. Senate",,,"Write-ins",0,0,0,0
+Moore,Precinct 203,"U.S. House",13,REP,"Ronny Jackson",46,6,4,36
+Moore,Precinct 203,"Railroad Commissioner",,REP,"Christi Craddick",43,6,3,34
+Moore,Precinct 203,"Railroad Commissioner",,DEM,"Katherine Culbert",4,0,2,2
+Moore,Precinct 203,"Railroad Commissioner",,LIB,"Hawk Dunlap",2,0,1,1
+Moore,Precinct 203,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,1,2
+Moore,Precinct 203,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Moore,Precinct 203,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",46,6,5,35
+Moore,Precinct 203,"Justice, Supreme Court",2,DEM,"DaSean Jones",5,0,2,3
+Moore,Precinct 203,"Justice, Supreme Court",4,REP,"John Devine",45,6,5,34
+Moore,Precinct 203,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",5,0,2,3
+Moore,Precinct 203,"Justice, Supreme Court",6,REP,"Jane Bland",44,6,4,34
+Moore,Precinct 203,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",4,0,2,2
+Moore,Precinct 203,"Justice, Supreme Court",6,LIB,"J. David Roberson",2,0,1,1
+Moore,Precinct 203,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",44,6,3,35
+Moore,Precinct 203,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",6,0,4,2
+Moore,Precinct 203,"Judge, Ct of Crim App",7,REP,"Gina Parker",45,6,4,35
+Moore,Precinct 203,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",4,0,2,2
+Moore,Precinct 203,"Judge, Ct of Crim App",8,REP,"Lee Finley",44,6,4,34
+Moore,Precinct 203,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",5,0,3,2
+Moore,Precinct 203,"Member, State BoE",15,REP,"Aaron Kinsey",41,5,3,33
+Moore,Precinct 203,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",7,1,3,3
+Moore,Precinct 203,"Member, State BoE",15,LIB,"Jack B. Westbrook",2,0,1,1
+Moore,Precinct 203,"State Representative",87,REP,"Caroline Fairly",45,5,5,35
+Moore,Precinct 203,"State Representative",87,DEM,"Timothy W. Gassaway",6,1,2,3
+Moore,Precinct 203,"State Representative",87,,"Write-ins",0,0,0,0
+Moore,Precinct 203,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",45,6,4,35
+Moore,Precinct 203,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",43,6,3,34
+Moore,Precinct 203,"Dist Attorney, 69th Judicial Dist",,REP,"Erin Lands Anchondo",42,6,3,33
+Moore,Precinct 203,"County Attorney",,REP,"Scott M. Higginbotham",44,6,4,34
+Moore,Precinct 203,"Sheriff",,REP,"Morgan W. Hightower",45,6,5,34
+Moore,Precinct 203,"County Tax Assessor-Collector",,REP,"Chris A. Rivera",44,6,4,34
+Moore,Precinct 301,"Registered Voters",,,,2361,,,
+Moore,Precinct 301,"Ballots Cast",,,,1025,26,659,340
+Moore,Precinct 301,"President",,REP,"Donald J. Trump",789,24,519,246
+Moore,Precinct 301,"President",,DEM,"Kamala D. Harris",219,2,134,83
+Moore,Precinct 301,"President",,LIB,"Chase Oliver",5,0,2,3
+Moore,Precinct 301,"President",,GRN,"Jill Stein",5,0,3,2
+Moore,Precinct 301,"President",,,"Write-ins",2,0,0,2
+Moore,Precinct 301,"U.S. Senate",,REP,"Ted Cruz",717,23,481,213
+Moore,Precinct 301,"U.S. Senate",,DEM,"Colin Allred",243,3,143,97
+Moore,Precinct 301,"U.S. Senate",,LIB,"Ted Brown",26,0,15,11
+Moore,Precinct 301,"U.S. Senate",,,"Write-ins",0,0,0,0
+Moore,Precinct 301,"U.S. House",13,REP,"Ronny Jackson",794,23,523,248
+Moore,Precinct 301,"Railroad Commissioner",,REP,"Christi Craddick",697,24,477,196
+Moore,Precinct 301,"Railroad Commissioner",,DEM,"Katherine Culbert",202,2,124,76
+Moore,Precinct 301,"Railroad Commissioner",,LIB,"Hawk Dunlap",20,0,10,10
+Moore,Precinct 301,"Railroad Commissioner",,GRN,"Eddie Espinoza",33,0,15,18
+Moore,Precinct 301,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Moore,Precinct 301,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",735,24,498,213
+Moore,Precinct 301,"Justice, Supreme Court",2,DEM,"DaSean Jones",220,2,129,89
+Moore,Precinct 301,"Justice, Supreme Court",4,REP,"John Devine",728,24,487,217
+Moore,Precinct 301,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",219,2,133,84
+Moore,Precinct 301,"Justice, Supreme Court",6,REP,"Jane Bland",712,24,485,203
+Moore,Precinct 301,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",213,2,127,84
+Moore,Precinct 301,"Justice, Supreme Court",6,LIB,"J. David Roberson",28,0,11,17
+Moore,Precinct 301,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",727,24,491,212
+Moore,Precinct 301,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",216,2,130,84
+Moore,Precinct 301,"Judge, Ct of Crim App",7,REP,"Gina Parker",725,24,495,206
+Moore,Precinct 301,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",218,2,127,89
+Moore,Precinct 301,"Judge, Ct of Crim App",8,REP,"Lee Finley",734,24,496,214
+Moore,Precinct 301,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",205,2,121,82
+Moore,Precinct 301,"Member, State BoE",15,REP,"Aaron Kinsey",722,24,486,212
+Moore,Precinct 301,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",208,2,124,82
+Moore,Precinct 301,"Member, State BoE",15,LIB,"Jack B. Westbrook",18,0,9,9
+Moore,Precinct 301,"State Representative",87,REP,"Caroline Fairly",730,24,492,214
+Moore,Precinct 301,"State Representative",87,DEM,"Timothy W. Gassaway",210,2,121,87
+Moore,Precinct 301,"State Representative",87,,"Write-ins",7,0,7,0
+Moore,Precinct 301,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",817,24,540,253
+Moore,Precinct 301,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",804,24,527,253
+Moore,Precinct 301,"Dist Attorney, 69th Judicial Dist",,REP,"Erin Lands Anchondo",780,24,514,242
+Moore,Precinct 301,"County Attorney",,REP,"Scott M. Higginbotham",833,24,539,270
+Moore,Precinct 301,"Sheriff",,REP,"Morgan W. Hightower",832,24,538,270
+Moore,Precinct 301,"County Tax Assessor-Collector",,REP,"Chris A. Rivera",825,25,534,266
+Moore,Precinct 301,"County Commissioner Pct 3",,REP,"Dee Vaughan",811,24,525,262
+Moore,Precinct 401,"Registered Voters",,,,1183,,,
+Moore,Precinct 401,"Ballots Cast",,,,735,26,329,380
+Moore,Precinct 401,"President",,REP,"Donald J. Trump",661,18,313,330
+Moore,Precinct 401,"President",,DEM,"Kamala D. Harris",69,8,14,47
+Moore,Precinct 401,"President",,LIB,"Chase Oliver",0,0,0,0
+Moore,Precinct 401,"President",,GRN,"Jill Stein",0,0,0,0
+Moore,Precinct 401,"President",,,"Write-ins",1,0,0,1
+Moore,Precinct 401,"U.S. Senate",,REP,"Ted Cruz",641,19,308,314
+Moore,Precinct 401,"U.S. Senate",,DEM,"Colin Allred",77,7,15,55
+Moore,Precinct 401,"U.S. Senate",,LIB,"Ted Brown",7,0,1,6
+Moore,Precinct 401,"U.S. Senate",,,"Write-ins",1,0,0,1
+Moore,Precinct 401,"U.S. House",13,REP,"Ronny Jackson",644,20,299,325
+Moore,Precinct 401,"Railroad Commissioner",,REP,"Christi Craddick",609,19,290,300
+Moore,Precinct 401,"Railroad Commissioner",,DEM,"Katherine Culbert",64,6,14,44
+Moore,Precinct 401,"Railroad Commissioner",,LIB,"Hawk Dunlap",19,0,7,12
+Moore,Precinct 401,"Railroad Commissioner",,GRN,"Eddie Espinoza",8,0,0,8
+Moore,Precinct 401,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Moore,Precinct 401,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",630,18,297,315
+Moore,Precinct 401,"Justice, Supreme Court",2,DEM,"DaSean Jones",72,7,14,51
+Moore,Precinct 401,"Justice, Supreme Court",4,REP,"John Devine",630,18,295,317
+Moore,Precinct 401,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",70,7,15,48
+Moore,Precinct 401,"Justice, Supreme Court",6,REP,"Jane Bland",616,17,294,305
+Moore,Precinct 401,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",74,7,14,53
+Moore,Precinct 401,"Justice, Supreme Court",6,LIB,"J. David Roberson",12,1,4,7
+Moore,Precinct 401,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",626,17,294,315
+Moore,Precinct 401,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",71,8,16,47
+Moore,Precinct 401,"Judge, Ct of Crim App",7,REP,"Gina Parker",623,18,295,310
+Moore,Precinct 401,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",74,7,14,53
+Moore,Precinct 401,"Judge, Ct of Crim App",8,REP,"Lee Finley",628,17,295,316
+Moore,Precinct 401,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",63,7,13,43
+Moore,Precinct 401,"Member, State BoE",15,REP,"Aaron Kinsey",610,17,289,304
+Moore,Precinct 401,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",77,7,17,53
+Moore,Precinct 401,"Member, State BoE",15,LIB,"Jack B. Westbrook",11,0,4,7
+Moore,Precinct 401,"State Representative",87,REP,"Caroline Fairly",620,18,294,308
+Moore,Precinct 401,"State Representative",87,DEM,"Timothy W. Gassaway",73,7,15,51
+Moore,Precinct 401,"State Representative",87,,"Write-ins",1,0,1,0
+Moore,Precinct 401,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",654,19,298,337
+Moore,Precinct 401,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",645,18,294,333
+Moore,Precinct 401,"Dist Attorney, 69th Judicial Dist",,REP,"Erin Lands Anchondo",626,20,277,329
+Moore,Precinct 401,"County Attorney",,REP,"Scott M. Higginbotham",652,20,293,339
+Moore,Precinct 401,"Sheriff",,REP,"Morgan W. Hightower",683,20,309,354
+Moore,Precinct 401,"County Tax Assessor-Collector",,REP,"Chris A. Rivera",651,19,291,341
+Moore,Precinct 401,"Justice of the Peace Pct 2 - Unexpired Term",,REP,"Britt Marquez",664,19,300,345
+Moore,Precinct 402,"Registered Voters",,,,768,,,
+Moore,Precinct 402,"Ballots Cast",,,,209,0,42,167
+Moore,Precinct 402,"President",,REP,"Donald J. Trump",126,0,25,101
+Moore,Precinct 402,"President",,DEM,"Kamala D. Harris",74,0,16,58
+Moore,Precinct 402,"President",,LIB,"Chase Oliver",2,0,0,2
+Moore,Precinct 402,"President",,GRN,"Jill Stein",5,0,1,4
+Moore,Precinct 402,"President",,,"Write-ins",0,0,0,0
+Moore,Precinct 402,"U.S. Senate",,REP,"Ted Cruz",106,0,21,85
+Moore,Precinct 402,"U.S. Senate",,DEM,"Colin Allred",76,0,21,55
+Moore,Precinct 402,"U.S. Senate",,LIB,"Ted Brown",6,0,0,6
+Moore,Precinct 402,"U.S. Senate",,,"Write-ins",0,0,0,0
+Moore,Precinct 402,"U.S. House",13,REP,"Ronny Jackson",119,0,33,86
+Moore,Precinct 402,"Railroad Commissioner",,REP,"Christi Craddick",80,0,20,60
+Moore,Precinct 402,"Railroad Commissioner",,DEM,"Katherine Culbert",56,0,17,39
+Moore,Precinct 402,"Railroad Commissioner",,LIB,"Hawk Dunlap",2,0,1,1
+Moore,Precinct 402,"Railroad Commissioner",,GRN,"Eddie Espinoza",29,0,3,26
+Moore,Precinct 402,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Moore,Precinct 402,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",89,0,21,68
+Moore,Precinct 402,"Justice, Supreme Court",2,DEM,"DaSean Jones",76,0,20,56
+Moore,Precinct 402,"Justice, Supreme Court",4,REP,"John Devine",87,0,20,67
+Moore,Precinct 402,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",71,0,19,52
+Moore,Precinct 402,"Justice, Supreme Court",6,REP,"Jane Bland",89,0,21,68
+Moore,Precinct 402,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",68,0,15,53
+Moore,Precinct 402,"Justice, Supreme Court",6,LIB,"J. David Roberson",13,0,4,9
+Moore,Precinct 402,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",88,0,19,69
+Moore,Precinct 402,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",73,0,19,54
+Moore,Precinct 402,"Judge, Ct of Crim App",7,REP,"Gina Parker",89,0,22,67
+Moore,Precinct 402,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",71,0,17,54
+Moore,Precinct 402,"Judge, Ct of Crim App",8,REP,"Lee Finley",85,0,20,65
+Moore,Precinct 402,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",75,0,19,56
+Moore,Precinct 402,"Member, State BoE",15,REP,"Aaron Kinsey",86,0,21,65
+Moore,Precinct 402,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",72,0,17,55
+Moore,Precinct 402,"Member, State BoE",15,LIB,"Jack B. Westbrook",7,0,2,5
+Moore,Precinct 402,"State Representative",87,REP,"Caroline Fairly",90,0,22,68
+Moore,Precinct 402,"State Representative",87,DEM,"Timothy W. Gassaway",69,0,16,53
+Moore,Precinct 402,"State Representative",87,,"Write-ins",0,0,0,0
+Moore,Precinct 402,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",116,0,32,84
+Moore,Precinct 402,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",116,0,31,85
+Moore,Precinct 402,"Dist Attorney, 69th Judicial Dist",,REP,"Erin Lands Anchondo",116,0,32,84
+Moore,Precinct 402,"County Attorney",,REP,"Scott M. Higginbotham",124,0,34,90
+Moore,Precinct 402,"Sheriff",,REP,"Morgan W. Hightower",126,0,32,94
+Moore,Precinct 402,"County Tax Assessor-Collector",,REP,"Chris A. Rivera",138,0,34,104
+Moore,Precinct 402,"Justice of the Peace Pct 2 - Unexpired Term",,REP,"Britt Marquez",125,0,31,94

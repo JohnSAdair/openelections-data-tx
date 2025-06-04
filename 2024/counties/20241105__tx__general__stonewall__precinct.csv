@@ -1,0 +1,239 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Stonewall,Precinct One,"Registered Voters",,,,232,,,
+Stonewall,Precinct One,"Ballots Cast",,,,161,6,115,40
+Stonewall,Precinct One,"Ballots Cast Blank",,,,0,0,0,0
+Stonewall,Precinct One,"President",,REP,"Donald J. Trump",147,4,105,38
+Stonewall,Precinct One,"President",,DEM,"Kamala D. Harris",13,2,9,2
+Stonewall,Precinct One,"President",,LIB,"Chase Oliver",1,0,1,0
+Stonewall,Precinct One,"President",,GRN,"Jill Stein",0,0,0,0
+Stonewall,Precinct One,"President",,,"Write-ins",0,0,0,0
+Stonewall,Precinct One,"U.S. Senate",,REP,"Ted Cruz",145,4,104,37
+Stonewall,Precinct One,"U.S. Senate",,DEM,"Colin Allred",14,2,10,2
+Stonewall,Precinct One,"U.S. Senate",,LIB,"Ted Brown",1,0,0,1
+Stonewall,Precinct One,"U.S. Senate",,,"Write-ins",0,0,0,0
+Stonewall,Precinct One,"U.S. House",19,REP,"Jodey C. Arrington",144,4,104,36
+Stonewall,Precinct One,"U.S. House",19,DEM,"Bernard Johnson",11,2,7,2
+Stonewall,Precinct One,"U.S. House",19,LIB,"Nathan Lewis",1,0,1,0
+Stonewall,Precinct One,"Railroad Commissioner",,REP,"Christi Craddick",142,4,102,36
+Stonewall,Precinct One,"Railroad Commissioner",,DEM,"Katherine Culbert",10,2,6,2
+Stonewall,Precinct One,"Railroad Commissioner",,LIB,"Hawk Dunlap",4,0,3,1
+Stonewall,Precinct One,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Stonewall,Precinct One,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Stonewall,Precinct One,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",139,4,101,34
+Stonewall,Precinct One,"Justice, Supreme Court",2,DEM,"DaSean Jones",14,2,8,4
+Stonewall,Precinct One,"Justice, Supreme Court",4,REP,"John Devine",143,4,102,37
+Stonewall,Precinct One,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",12,2,8,2
+Stonewall,Precinct One,"Justice, Supreme Court",6,REP,"Jane Bland",142,4,103,35
+Stonewall,Precinct One,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",13,2,8,3
+Stonewall,Precinct One,"Justice, Supreme Court",6,LIB,"J. David Roberson",1,0,0,1
+Stonewall,Precinct One,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",140,4,102,34
+Stonewall,Precinct One,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",14,2,8,4
+Stonewall,Precinct One,"Judge, Ct of Crim App",7,REP,"Gina Parker",139,3,100,36
+Stonewall,Precinct One,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",13,2,9,2
+Stonewall,Precinct One,"Judge, Ct of Crim App",8,REP,"Lee Finley",139,4,99,36
+Stonewall,Precinct One,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",13,2,9,2
+Stonewall,Precinct One,"Member, State BoE",15,REP,"Aaron Kinsey",137,4,100,33
+Stonewall,Precinct One,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",16,2,9,5
+Stonewall,Precinct One,"Member, State BoE",15,LIB,"Jack B. Westbrook",2,0,1,1
+Stonewall,Precinct One,"State Representative",69,REP,"James B. Frank",141,4,102,35
+Stonewall,Precinct One,"State Representative",69,DEM,"Walter Coppage",12,2,8,2
+Stonewall,Precinct One,"Chief Justice, 11th Ct of App Dist",,REP,"John Bailey",143,4,102,37
+Stonewall,Precinct One,"Dist Attorney, 39th Judicial Dist",,DEM,"Mike Fouts",79,3,58,18
+Stonewall,Precinct One,"County Attorney",,IND,"Riley Branch",99,3,71,25
+Stonewall,Precinct One,"Sheriff",,REP,"Bill Mullen",109,5,78,26
+Stonewall,Precinct One,"County Tax Assessor-Collector",,REP,"Lacy English",137,4,98,35
+Stonewall,Precinct One,"County Commissioner Pct 1",,REP,"Shorty Martin",144,6,101,37
+Stonewall,Precinct One,"Proposition A Aspermont independent School District",,,"For",80,2,56,22
+Stonewall,Precinct One,"Proposition A Aspermont independent School District",,,"Against",72,4,52,16
+Stonewall,Precinct Two,"Registered Voters",,,,255,,,
+Stonewall,Precinct Two,"Ballots Cast",,,,196,3,134,59
+Stonewall,Precinct Two,"Ballots Cast Blank",,,,0,0,0,0
+Stonewall,Precinct Two,"President",,REP,"Donald J. Trump",158,2,109,47
+Stonewall,Precinct Two,"President",,DEM,"Kamala D. Harris",35,1,23,11
+Stonewall,Precinct Two,"President",,LIB,"Chase Oliver",0,0,0,0
+Stonewall,Precinct Two,"President",,GRN,"Jill Stein",0,0,0,0
+Stonewall,Precinct Two,"President",,,"Write-ins",0,0,0,0
+Stonewall,Precinct Two,"U.S. Senate",,REP,"Ted Cruz",147,2,102,43
+Stonewall,Precinct Two,"U.S. Senate",,DEM,"Colin Allred",41,1,26,14
+Stonewall,Precinct Two,"U.S. Senate",,LIB,"Ted Brown",5,0,3,2
+Stonewall,Precinct Two,"U.S. Senate",,,"Write-ins",0,0,0,0
+Stonewall,Precinct Two,"U.S. House",19,REP,"Jodey C. Arrington",157,2,109,46
+Stonewall,Precinct Two,"U.S. House",19,DEM,"Bernard Johnson",28,1,18,9
+Stonewall,Precinct Two,"U.S. House",19,LIB,"Nathan Lewis",1,0,0,1
+Stonewall,Precinct Two,"Railroad Commissioner",,REP,"Christi Craddick",143,2,102,39
+Stonewall,Precinct Two,"Railroad Commissioner",,DEM,"Katherine Culbert",29,1,19,9
+Stonewall,Precinct Two,"Railroad Commissioner",,LIB,"Hawk Dunlap",11,0,6,5
+Stonewall,Precinct Two,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Stonewall,Precinct Two,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Stonewall,Precinct Two,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",153,2,108,43
+Stonewall,Precinct Two,"Justice, Supreme Court",2,DEM,"DaSean Jones",29,1,19,9
+Stonewall,Precinct Two,"Justice, Supreme Court",4,REP,"John Devine",146,2,103,41
+Stonewall,Precinct Two,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",29,1,17,11
+Stonewall,Precinct Two,"Justice, Supreme Court",6,REP,"Jane Bland",145,2,103,40
+Stonewall,Precinct Two,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",30,1,19,10
+Stonewall,Precinct Two,"Justice, Supreme Court",6,LIB,"J. David Roberson",2,0,0,2
+Stonewall,Precinct Two,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",147,2,103,42
+Stonewall,Precinct Two,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",31,1,20,10
+Stonewall,Precinct Two,"Judge, Ct of Crim App",7,REP,"Gina Parker",147,2,103,42
+Stonewall,Precinct Two,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",29,1,18,10
+Stonewall,Precinct Two,"Judge, Ct of Crim App",8,REP,"Lee Finley",146,2,103,41
+Stonewall,Precinct Two,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",29,1,18,10
+Stonewall,Precinct Two,"Member, State BoE",15,REP,"Aaron Kinsey",147,2,104,41
+Stonewall,Precinct Two,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",29,1,18,10
+Stonewall,Precinct Two,"Member, State BoE",15,LIB,"Jack B. Westbrook",2,0,0,2
+Stonewall,Precinct Two,"State Representative",69,REP,"James B. Frank",147,2,102,43
+Stonewall,Precinct Two,"State Representative",69,DEM,"Walter Coppage",31,1,20,10
+Stonewall,Precinct Two,"Chief Justice, 11th Ct of App Dist",,REP,"John Bailey",147,2,103,42
+Stonewall,Precinct Two,"Dist Attorney, 39th Judicial Dist",,DEM,"Mike Fouts",99,2,61,36
+Stonewall,Precinct Two,"County Attorney",,IND,"Riley Branch",129,1,86,42
+Stonewall,Precinct Two,"Sheriff",,REP,"Bill Mullen",139,0,97,42
+Stonewall,Precinct Two,"County Tax Assessor-Collector",,REP,"Lacy English",173,1,118,54
+Stonewall,Precinct Two,"Proposition A Aspermont Independent School District",,,"For",125,1,89,35
+Stonewall,Precinct Two,"Proposition A Aspermont Independent School District",,,"Against",60,1,39,20
+Stonewall,Precinct Three,"Registered Voters",,,,222,,,
+Stonewall,Precinct Three,"Ballots Cast",,,,189,9,127,53
+Stonewall,Precinct Three,"Ballots Cast Blank",,,,1,0,0,1
+Stonewall,Precinct Three,"President",,REP,"Donald J. Trump",162,5,115,42
+Stonewall,Precinct Three,"President",,DEM,"Kamala D. Harris",22,3,9,10
+Stonewall,Precinct Three,"President",,LIB,"Chase Oliver",0,0,0,0
+Stonewall,Precinct Three,"President",,GRN,"Jill Stein",0,0,0,0
+Stonewall,Precinct Three,"President",,,"Write-ins",0,0,0,0
+Stonewall,Precinct Three,"U.S. Senate",,REP,"Ted Cruz",160,8,112,40
+Stonewall,Precinct Three,"U.S. Senate",,DEM,"Colin Allred",24,1,11,12
+Stonewall,Precinct Three,"U.S. Senate",,LIB,"Ted Brown",0,0,0,0
+Stonewall,Precinct Three,"U.S. Senate",,,"Write-ins",0,0,0,0
+Stonewall,Precinct Three,"U.S. House",19,REP,"Jodey C. Arrington",162,7,115,40
+Stonewall,Precinct Three,"U.S. House",19,DEM,"Bernard Johnson",21,2,8,11
+Stonewall,Precinct Three,"U.S. House",19,LIB,"Nathan Lewis",0,0,0,0
+Stonewall,Precinct Three,"Railroad Commissioner",,REP,"Christi Craddick",156,6,111,39
+Stonewall,Precinct Three,"Railroad Commissioner",,DEM,"Katherine Culbert",19,2,9,8
+Stonewall,Precinct Three,"Railroad Commissioner",,LIB,"Hawk Dunlap",8,0,5,3
+Stonewall,Precinct Three,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Stonewall,Precinct Three,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Stonewall,Precinct Three,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",158,5,113,40
+Stonewall,Precinct Three,"Justice, Supreme Court",2,DEM,"DaSean Jones",22,3,9,10
+Stonewall,Precinct Three,"Justice, Supreme Court",4,REP,"John Devine",152,6,108,38
+Stonewall,Precinct Three,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",24,2,11,11
+Stonewall,Precinct Three,"Justice, Supreme Court",6,REP,"Jane Bland",155,6,109,40
+Stonewall,Precinct Three,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",23,2,11,10
+Stonewall,Precinct Three,"Justice, Supreme Court",6,LIB,"J. David Roberson",0,0,0,0
+Stonewall,Precinct Three,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",156,6,109,41
+Stonewall,Precinct Three,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",22,2,10,10
+Stonewall,Precinct Three,"Judge, Ct of Crim App",7,REP,"Gina Parker",155,7,108,40
+Stonewall,Precinct Three,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",22,1,10,11
+Stonewall,Precinct Three,"Judge, Ct of Crim App",8,REP,"Lee Finley",152,5,108,39
+Stonewall,Precinct Three,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",22,3,9,10
+Stonewall,Precinct Three,"Member, State BoE",15,REP,"Aaron Kinsey",155,6,111,38
+Stonewall,Precinct Three,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",22,2,10,10
+Stonewall,Precinct Three,"Member, State BoE",15,LIB,"Jack B. Westbrook",0,0,0,0
+Stonewall,Precinct Three,"State Representative",69,REP,"James B. Frank",157,6,112,39
+Stonewall,Precinct Three,"State Representative",69,DEM,"Walter Coppage",21,2,9,10
+Stonewall,Precinct Three,"Chief Justice, 11th Ct of App Dist",,REP,"John Bailey",156,7,109,40
+Stonewall,Precinct Three,"Dist Attorney, 39th Judicial Dist",,DEM,"Mike Fouts",100,6,65,29
+Stonewall,Precinct Three,"County Attorney",,IND,"Riley Branch",143,7,100,36
+Stonewall,Precinct Three,"Sheriff",,REP,"Bill Mullen",141,7,99,35
+Stonewall,Precinct Three,"County Tax Assessor-Collector",,REP,"Lacy English",174,9,118,47
+Stonewall,Precinct Three,"County Commissioner Pct 3",,REP,"Ike Mitchell",107,2,75,30
+Stonewall,Precinct Three,"County Commissioner Pct 3",,DEM,"Billy Kirk Meador",76,7,49,20
+Stonewall,Precinct Three,"Proposition A Aspermont Independent School District",,,"For",97,6,64,27
+Stonewall,Precinct Three,"Proposition A Aspermont Independent School District",,,"Against",81,3,55,23
+Stonewall,Precinct Four,"Registered Voters",,,,246,,,
+Stonewall,Precinct Four,"Ballots Cast",,,,176,6,126,44
+Stonewall,Precinct Four,"Ballots Cast Blank",,,,0,0,0,0
+Stonewall,Precinct Four,"President",,REP,"Donald J. Trump",136,5,100,31
+Stonewall,Precinct Four,"President",,DEM,"Kamala D. Harris",38,1,25,12
+Stonewall,Precinct Four,"President",,LIB,"Chase Oliver",0,0,0,0
+Stonewall,Precinct Four,"President",,GRN,"Jill Stein",1,0,0,1
+Stonewall,Precinct Four,"President",,,"Write-ins",0,0,0,0
+Stonewall,Precinct Four,"U.S. Senate",,REP,"Ted Cruz",128,4,95,29
+Stonewall,Precinct Four,"U.S. Senate",,DEM,"Colin Allred",39,1,26,12
+Stonewall,Precinct Four,"U.S. Senate",,LIB,"Ted Brown",5,0,2,3
+Stonewall,Precinct Four,"U.S. Senate",,,"Write-ins",0,0,0,0
+Stonewall,Precinct Four,"U.S. House",19,REP,"Jodey C. Arrington",140,5,99,36
+Stonewall,Precinct Four,"U.S. House",19,DEM,"Bernard Johnson",30,1,23,6
+Stonewall,Precinct Four,"U.S. House",19,LIB,"Nathan Lewis",2,0,1,1
+Stonewall,Precinct Four,"Railroad Commissioner",,REP,"Christi Craddick",125,4,93,28
+Stonewall,Precinct Four,"Railroad Commissioner",,DEM,"Katherine Culbert",29,0,19,10
+Stonewall,Precinct Four,"Railroad Commissioner",,LIB,"Hawk Dunlap",10,1,6,3
+Stonewall,Precinct Four,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,1,1
+Stonewall,Precinct Four,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Stonewall,Precinct Four,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",131,4,97,30
+Stonewall,Precinct Four,"Justice, Supreme Court",2,DEM,"DaSean Jones",36,1,24,11
+Stonewall,Precinct Four,"Justice, Supreme Court",4,REP,"John Devine",126,4,90,32
+Stonewall,Precinct Four,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",36,1,26,9
+Stonewall,Precinct Four,"Justice, Supreme Court",6,REP,"Jane Bland",124,5,91,28
+Stonewall,Precinct Four,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",36,0,25,11
+Stonewall,Precinct Four,"Justice, Supreme Court",6,LIB,"J. David Roberson",2,0,0,2
+Stonewall,Precinct Four,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",126,4,92,30
+Stonewall,Precinct Four,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",35,1,23,11
+Stonewall,Precinct Four,"Judge, Ct of Crim App",7,REP,"Gina Parker",128,4,94,30
+Stonewall,Precinct Four,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",34,1,22,11
+Stonewall,Precinct Four,"Judge, Ct of Crim App",8,REP,"Lee Finley",128,5,93,30
+Stonewall,Precinct Four,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",33,0,23,10
+Stonewall,Precinct Four,"Member, State BoE",15,REP,"Aaron Kinsey",125,4,92,29
+Stonewall,Precinct Four,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",35,1,23,11
+Stonewall,Precinct Four,"Member, State BoE",15,LIB,"Jack B. Westbrook",1,0,1,0
+Stonewall,Precinct Four,"State Representative",69,REP,"James B. Frank",125,4,91,30
+Stonewall,Precinct Four,"State Representative",69,DEM,"Walter Coppage",34,1,23,10
+Stonewall,Precinct Four,"Chief Justice, 11th Ct of App Dist",,REP,"John Bailey",131,4,92,35
+Stonewall,Precinct Four,"Dist Attorney, 39th Judicial Dist",,DEM,"Mike Fouts",97,2,66,29
+Stonewall,Precinct Four,"County Attorney",,IND,"Riley Branch",125,4,88,33
+Stonewall,Precinct Four,"Sheriff",,REP,"Bill Mullen",126,3,90,33
+Stonewall,Precinct Four,"County Tax Assessor-Collector",,REP,"Lacy English",151,5,107,39
+Stonewall,Precinct Four,"Board of Trustees Rotan Independent School District",,,"Klay McWilliams",10,0,7,3
+Stonewall,Precinct Four,"Board of Trustees Rotan Independent School District",,,"Ruple Weems",1,0,0,1
+Stonewall,Precinct Four,"Board of Trustees Rotan Independent School District",,,"Jeff Stanley",2,0,1,1
+Stonewall,Precinct Four,"Board of Trustees Rotan Independent School District",,,"David Mullins",8,0,5,3
+Stonewall,Precinct Four,"Board of Trustees Rotan Independent School District",,,"Monica Carrillo",5,0,5,0
+Stonewall,Precinct Four,"Board of Trustees Rotan Independent School District",,,"Scott Spruill",3,0,3,0
+Stonewall,Precinct Four,"Board of Trustees Rotan Independent School District",,,"Joel Clary",7,0,5,2
+Stonewall,Precinct Four,"Proposition A Rotan Independent School District",,,"For",8,0,7,1
+Stonewall,Precinct Four,"Proposition A Rotan Independent School District",,,"Against",11,1,7,3
+Stonewall,Precinct Four,"Proposition B Rotan Independent School District",,,"For",7,0,6,1
+Stonewall,Precinct Four,"Proposition B Rotan Independent School District",,,"Against",12,1,8,3
+Stonewall,Precinct Four,"Proposition A Aspermont Independent School District",,,"For",81,0,58,23
+Stonewall,Precinct Four,"Proposition A Aspermont Independent School District",,,"Against",68,2,51,15
+Stonewall,Precinct One County Only,"Registered Voters",,,,5,,,
+Stonewall,Precinct One County Only,"Ballots Cast",,,,3,0,1,2
+Stonewall,Precinct One County Only,"Ballots Cast Blank",,,,0,0,0,0
+Stonewall,Precinct One County Only,"President",,REP,"Donald J. Trump",1,0,1,0
+Stonewall,Precinct One County Only,"President",,DEM,"Kamala D. Harris",2,0,0,2
+Stonewall,Precinct One County Only,"President",,LIB,"Chase Oliver",0,0,0,0
+Stonewall,Precinct One County Only,"President",,GRN,"Jill Stein",0,0,0,0
+Stonewall,Precinct One County Only,"President",,,"Write-ins",0,0,0,0
+Stonewall,Precinct One County Only,"U.S. Senate",,REP,"Ted Cruz",1,0,1,0
+Stonewall,Precinct One County Only,"U.S. Senate",,DEM,"Colin Allred",2,0,0,2
+Stonewall,Precinct One County Only,"U.S. Senate",,LIB,"Ted Brown",0,0,0,0
+Stonewall,Precinct One County Only,"U.S. Senate",,,"Write-ins",0,0,0,0
+Stonewall,Precinct One County Only,"U.S. House",19,REP,"Jodey C. Arrington",1,0,1,0
+Stonewall,Precinct One County Only,"U.S. House",19,DEM,"Bernard Johnson",2,0,0,2
+Stonewall,Precinct One County Only,"U.S. House",19,LIB,"Nathan Lewis",0,0,0,0
+Stonewall,Precinct One County Only,"Railroad Commissioner",,REP,"Christi Craddick",1,0,1,0
+Stonewall,Precinct One County Only,"Railroad Commissioner",,DEM,"Katherine Culbert",2,0,0,2
+Stonewall,Precinct One County Only,"Railroad Commissioner",,LIB,"Hawk Dunlap",0,0,0,0
+Stonewall,Precinct One County Only,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Stonewall,Precinct One County Only,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Stonewall,Precinct One County Only,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",1,0,1,0
+Stonewall,Precinct One County Only,"Justice, Supreme Court",2,DEM,"DaSean Jones",2,0,0,2
+Stonewall,Precinct One County Only,"Justice, Supreme Court",4,REP,"John Devine",1,0,1,0
+Stonewall,Precinct One County Only,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",2,0,0,2
+Stonewall,Precinct One County Only,"Justice, Supreme Court",6,REP,"Jane Bland",1,0,1,0
+Stonewall,Precinct One County Only,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",2,0,0,2
+Stonewall,Precinct One County Only,"Justice, Supreme Court",6,LIB,"J. David Roberson",0,0,0,0
+Stonewall,Precinct One County Only,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1,0,1,0
+Stonewall,Precinct One County Only,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",2,0,0,2
+Stonewall,Precinct One County Only,"Judge, Ct of Crim App",7,REP,"Gina Parker",1,0,1,0
+Stonewall,Precinct One County Only,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",2,0,0,2
+Stonewall,Precinct One County Only,"Judge, Ct of Crim App",8,REP,"Lee Finley",1,0,1,0
+Stonewall,Precinct One County Only,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",2,0,0,2
+Stonewall,Precinct One County Only,"Member, State BoE",15,REP,"Aaron Kinsey",1,0,1,0
+Stonewall,Precinct One County Only,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",1,0,0,1
+Stonewall,Precinct One County Only,"Member, State BoE",15,LIB,"Jack B. Westbrook",0,0,0,0
+Stonewall,Precinct One County Only,"State Representative",69,REP,"James B. Frank",1,0,1,0
+Stonewall,Precinct One County Only,"State Representative",69,DEM,"Walter Coppage",2,0,0,2
+Stonewall,Precinct One County Only,"Chief Justice, 11th Ct of App Dist",,REP,"John Bailey",2,0,1,1
+Stonewall,Precinct One County Only,"Dist Attorney, 39th Judicial Dist",,DEM,"Mike Fouts",3,0,1,2
+Stonewall,Precinct One County Only,"County Attorney",,IND,"Riley Branch",2,0,1,1
+Stonewall,Precinct One County Only,"Sheriff",,REP,"Bill Mullen",3,0,1,2
+Stonewall,Precinct One County Only,"County Tax Assessor-Collector",,REP,"Lacy English",3,0,1,2
+Stonewall,Precinct One County Only,"County Commissioner Pct 1",,REP,"Shorty Martin",2,0,1,1

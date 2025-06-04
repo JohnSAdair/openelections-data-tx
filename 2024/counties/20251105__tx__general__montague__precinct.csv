@@ -1,0 +1,783 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_votes,election_day,limited,provisional
+Montague,2,Ballots Cast,,,,2086,,,,,
+Montague,3,Ballots Cast,,,,1100,,,,,
+Montague,4,Ballots Cast,,,,462,,,,,
+Montague,5,Ballots Cast,,,,793,,,,,
+Montague,6,Ballots Cast,,,,708,,,,,
+Montague,7,Ballots Cast,,,,892,,,,,
+Montague,8,Ballots Cast,,,,703,,,,,
+Montague,9,Ballots Cast,,,,1013,,,,,
+Montague,10,Ballots Cast,,,,829,,,,,
+Montague,11,Ballots Cast,,,,743,,,,,
+Montague,12,Ballots Cast,,,,106,,,,,
+Montague,13,Ballots Cast,,,,785,,,,,
+Montague,14,Ballots Cast,,,,210,,,,,
+Montague,15,Ballots Cast,,,,452,,,,,
+Montague,16,Ballots Cast,,,,249,,,,,
+Montague,2,Board of Trustees,1 Bowie ISD,,Brian S. Rhodes,549,14,460,75,0,0
+Montague,3,Board of Trustees,1 Bowie ISD,,Brian S. Rhodes,364,7,305,52,0,0
+Montague,4,Board of Trustees,1 Bowie ISD,,Brian S. Rhodes,163,1,123,39,0,0
+Montague,5,Board of Trustees,1 Bowie ISD,,Brian S. Rhodes,265,2,219,44,0,0
+Montague,6,Board of Trustees,1 Bowie ISD,,Brian S. Rhodes,227,9,186,32,0,0
+Montague,7,Board of Trustees,1 Bowie ISD,,Brian S. Rhodes,12,0,12,0,0,0
+Montague,8,Board of Trustees,1 Bowie ISD,,Brian S. Rhodes,198,4,121,73,0,0
+Montague,15,Board of Trustees,1 Bowie ISD,,Brian S. Rhodes,11,1,9,1,0,0
+Montague,16,Board of Trustees,1 Bowie ISD,,Brian S. Rhodes,57,0,45,12,0,0
+Montague,2,Board of Trustees,1 Bowie ISD,,Jacky Betts,896,28,740,128,0,0
+Montague,3,Board of Trustees,1 Bowie ISD,,Jacky Betts,523,6,412,105,0,0
+Montague,4,Board of Trustees,1 Bowie ISD,,Jacky Betts,208,8,159,41,0,0
+Montague,5,Board of Trustees,1 Bowie ISD,,Jacky Betts,375,7,304,64,0,0
+Montague,6,Board of Trustees,1 Bowie ISD,,Jacky Betts,348,8,293,47,0,0
+Montague,7,Board of Trustees,1 Bowie ISD,,Jacky Betts,6,0,6,0,0,0
+Montague,8,Board of Trustees,1 Bowie ISD,,Jacky Betts,275,4,178,93,0,0
+Montague,15,Board of Trustees,1 Bowie ISD,,Jacky Betts,26,0,23,3,0,0
+Montague,16,Board of Trustees,1 Bowie ISD,,Jacky Betts,104,1,89,14,0,0
+Montague,9,Board of Trustees,1 Nocona ISD,,Chico Cabrera,345,4,288,53,0,0
+Montague,10,Board of Trustees,1 Nocona ISD,,Chico Cabrera,392,7,325,60,0,0
+Montague,11,Board of Trustees,1 Nocona ISD,,Chico Cabrera,376,5,299,72,0,0
+Montague,13,Board of Trustees,1 Nocona ISD,,Chico Cabrera,30,1,28,1,0,0
+Montague,14,Board of Trustees,1 Nocona ISD,,Chico Cabrera,50,0,43,7,0,0
+Montague,15,Board of Trustees,1 Nocona ISD,,Chico Cabrera,8,1,7,0,0,0
+Montague,9,Board of Trustees,1 Nocona ISD,,Kyle LaMar,246,6,203,37,0,0
+Montague,10,Board of Trustees,1 Nocona ISD,,Kyle LaMar,286,7,227,52,0,0
+Montague,11,Board of Trustees,1 Nocona ISD,,Kyle LaMar,295,9,241,45,0,0
+Montague,13,Board of Trustees,1 Nocona ISD,,Kyle LaMar,19,2,15,2,0,0
+Montague,14,Board of Trustees,1 Nocona ISD,,Kyle LaMar,52,0,35,17,0,0
+Montague,15,Board of Trustees,1 Nocona ISD,,Kyle LaMar,7,0,6,1,0,0
+Montague,2,Board of Trustees,2 Bowie ISD,,Angie Christmas,591,19,486,86,0,0
+Montague,3,Board of Trustees,2 Bowie ISD,,Angie Christmas,377,4,294,79,0,0
+Montague,4,Board of Trustees,2 Bowie ISD,,Angie Christmas,211,6,161,44,0,0
+Montague,5,Board of Trustees,2 Bowie ISD,,Angie Christmas,301,2,248,51,0,0
+Montague,6,Board of Trustees,2 Bowie ISD,,Angie Christmas,264,2,219,43,0,0
+Montague,7,Board of Trustees,2 Bowie ISD,,Angie Christmas,13,0,11,2,0,0
+Montague,8,Board of Trustees,2 Bowie ISD,,Angie Christmas,229,5,140,84,0,0
+Montague,15,Board of Trustees,2 Bowie ISD,,Angie Christmas,19,0,17,2,0,0
+Montague,16,Board of Trustees,2 Bowie ISD,,Angie Christmas,65,0,51,14,0,0
+Montague,2,Board of Trustees,2 Bowie ISD,,Chase Thomas,604,14,506,84,0,0
+Montague,3,Board of Trustees,2 Bowie ISD,,Chase Thomas,360,5,294,61,0,0
+Montague,4,Board of Trustees,2 Bowie ISD,,Chase Thomas,125,4,99,22,0,0
+Montague,5,Board of Trustees,2 Bowie ISD,,Chase Thomas,255,5,209,41,0,0
+Montague,6,Board of Trustees,2 Bowie ISD,,Chase Thomas,225,9,182,34,0,0
+Montague,7,Board of Trustees,2 Bowie ISD,,Chase Thomas,5,0,5,0,0,0
+Montague,8,Board of Trustees,2 Bowie ISD,,Chase Thomas,164,1,97,66,0,0
+Montague,15,Board of Trustees,2 Bowie ISD,,Chase Thomas,15,1,13,1,0,0
+Montague,16,Board of Trustees,2 Bowie ISD,,Chase Thomas,61,0,52,9,0,0
+Montague,2,Board of Trustees,2 Bowie ISD,,Nichole V. Maddox,279,9,226,44,0,0
+Montague,3,Board of Trustees,2 Bowie ISD,,Nichole V. Maddox,148,3,128,17,0,0
+Montague,4,Board of Trustees,2 Bowie ISD,,Nichole V. Maddox,51,0,37,14,0,0
+Montague,5,Board of Trustees,2 Bowie ISD,,Nichole V. Maddox,92,3,71,18,0,0
+Montague,6,Board of Trustees,2 Bowie ISD,,Nichole V. Maddox,87,6,76,5,0,0
+Montague,7,Board of Trustees,2 Bowie ISD,,Nichole V. Maddox,3,0,3,0,0,0
+Montague,8,Board of Trustees,2 Bowie ISD,,Nichole V. Maddox,96,2,70,24,0,0
+Montague,15,Board of Trustees,2 Bowie ISD,,Nichole V. Maddox,5,0,5,0,0,0
+Montague,16,Board of Trustees,2 Bowie ISD,,Nichole V. Maddox,32,0,29,3,0,0
+Montague,2,Board of Trustees Goldburg ISD,,,Becky Case,37,2,32,3,0,0
+Montague,12,Board of Trustees Goldburg ISD,,,Becky Case,56,2,26,28,0,0
+Montague,15,Board of Trustees Goldburg ISD,,,Becky Case,100,3,77,20,0,0
+Montague,16,Board of Trustees Goldburg ISD,,,Becky Case,33,0,29,4,0,0
+Montague,2,Board of Trustees Goldburg ISD,,,Chuck Healer,45,2,37,6,0,0
+Montague,12,Board of Trustees Goldburg ISD,,,Chuck Healer,35,0,17,18,0,0
+Montague,15,Board of Trustees Goldburg ISD,,,Chuck Healer,93,2,78,13,0,0
+Montague,16,Board of Trustees Goldburg ISD,,,Chuck Healer,38,0,32,6,0,0
+Montague,2,Board of Trustees Goldburg ISD,,,James Martin,40,2,33,5,0,0
+Montague,12,Board of Trustees Goldburg ISD,,,James Martin,63,1,29,33,0,0
+Montague,15,Board of Trustees Goldburg ISD,,,James Martin,118,2,93,23,0,0
+Montague,16,Board of Trustees Goldburg ISD,,,James Martin,33,0,27,6,0,0
+Montague,2,Board of Trustees Goldburg ISD,,,Lynn Allen,43,0,39,4,0,0
+Montague,12,Board of Trustees Goldburg ISD,,,Lynn Allen,67,1,33,33,0,0
+Montague,15,Board of Trustees Goldburg ISD,,,Lynn Allen,148,3,118,27,0,0
+Montague,16,Board of Trustees Goldburg ISD,,,Lynn Allen,46,0,37,9,0,0
+Montague,2,Board of Trustees Goldburg ISD,,,Weldon Duff,33,0,30,3,0,0
+Montague,12,Board of Trustees Goldburg ISD,,,Weldon Duff,53,2,26,25,0,0
+Montague,15,Board of Trustees Goldburg ISD,,,Weldon Duff,86,1,73,12,0,0
+Montague,16,Board of Trustees Goldburg ISD,,,Weldon Duff,28,0,25,3,0,0
+Montague,7,Board of Trustees Saint Jo ISD,,,Dee Weger,53,0,41,12,0,0
+Montague,9,Board of Trustees Saint Jo ISD,,,Dee Weger,10,3,7,0,0,0
+Montague,13,Board of Trustees Saint Jo ISD,,,Dee Weger,322,4,261,57,0,0
+Montague,7,Board of Trustees Saint Jo ISD,,,Leeton Phillips,33,0,27,6,0,0
+Montague,9,Board of Trustees Saint Jo ISD,,,Leeton Phillips,11,3,8,0,0,0
+Montague,13,Board of Trustees Saint Jo ISD,,,Leeton Phillips,405,4,324,77,0,0
+Montague,7,Board of Trustees Saint Jo ISD,,,Tim Hennessey,38,0,33,5,0,0
+Montague,9,Board of Trustees Saint Jo ISD,,,Tim Hennessey,7,1,6,0,0,0
+Montague,13,Board of Trustees Saint Jo ISD,,,Tim Hennessey,340,3,258,79,0,0
+Montague,2,Chief Justice,,REP,Bonnie Sudderth,1804,40,1514,247,3,0
+Montague,3,Chief Justice,,REP,Bonnie Sudderth,969,9,786,171,3,0
+Montague,4,Chief Justice,,REP,Bonnie Sudderth,400,8,301,90,1,0
+Montague,5,Chief Justice,,REP,Bonnie Sudderth,674,11,555,107,1,0
+Montague,6,Chief Justice,,REP,Bonnie Sudderth,602,19,497,82,4,0
+Montague,7,Chief Justice,,REP,Bonnie Sudderth,800,13,548,237,2,0
+Montague,8,Chief Justice,,REP,Bonnie Sudderth,607,8,385,213,1,0
+Montague,9,Chief Justice,,REP,Bonnie Sudderth,869,20,722,125,2,0
+Montague,10,Chief Justice,,REP,Bonnie Sudderth,696,11,566,117,2,0
+Montague,11,Chief Justice,,REP,Bonnie Sudderth,623,15,500,106,2,0
+Montague,12,Chief Justice,,REP,Bonnie Sudderth,90,1,42,47,0,0
+Montague,13,Chief Justice,,REP,Bonnie Sudderth,693,9,554,129,1,0
+Montague,14,Chief Justice,,REP,Bonnie Sudderth,191,1,137,51,2,0
+Montague,15,Chief Justice,,REP,Bonnie Sudderth,392,4,324,61,3,0
+Montague,16,Chief Justice,,REP,Bonnie Sudderth,220,3,183,34,0,0
+Montague,9,Constable Pct 1,,REP,Harvey Johnson,859,19,711,129,0,0
+Montague,10,Constable Pct 1,,REP,Harvey Johnson,702,11,571,120,0,0
+Montague,11,Constable Pct 1,,REP,Harvey Johnson,636,14,516,106,0,0
+Montague,12,Constable Pct 1,,REP,Harvey Johnson,88,1,41,46,0,0
+Montague,13,Constable Pct 1,,REP,Harvey Johnson,707,9,569,129,0,0
+Montague,14,Constable Pct 1,,REP,Harvey Johnson,187,1,135,51,0,0
+Montague,15,Constable Pct 1,,REP,Harvey Johnson,378,4,314,60,0,0
+Montague,2,Constable Pct 2,,REP,Jerry DeMoss,1777,40,1493,244,0,0
+Montague,3,Constable Pct 2,,REP,Jerry DeMoss,939,10,761,168,0,0
+Montague,4,Constable Pct 2,,REP,Jerry DeMoss,386,9,295,82,0,0
+Montague,5,Constable Pct 2,,REP,Jerry DeMoss,667,13,546,108,0,0
+Montague,6,Constable Pct 2,,REP,Jerry DeMoss,576,20,477,79,0,0
+Montague,7,Constable Pct 2,,REP,Jerry DeMoss,768,13,527,228,0,0
+Montague,8,Constable Pct 2,,REP,Jerry DeMoss,592,9,376,207,0,0
+Montague,16,Constable Pct 2,,REP,Jerry DeMoss,215,3,177,35,0,0
+Montague,2,County Attorney,,REP,Clay Riddle II,1803,41,1514,248,0,0
+Montague,3,County Attorney,,REP,Clay Riddle II,953,10,773,170,0,0
+Montague,4,County Attorney,,REP,Clay Riddle II,396,8,299,89,0,0
+Montague,5,County Attorney,,REP,Clay Riddle II,672,12,553,107,0,0
+Montague,6,County Attorney,,REP,Clay Riddle II,590,19,491,80,0,0
+Montague,7,County Attorney,,REP,Clay Riddle II,796,14,542,240,0,0
+Montague,8,County Attorney,,REP,Clay Riddle II,595,8,378,209,0,0
+Montague,9,County Attorney,,REP,Clay Riddle II,862,20,713,129,0,0
+Montague,10,County Attorney,,REP,Clay Riddle II,695,10,569,116,0,0
+Montague,11,County Attorney,,REP,Clay Riddle II,624,15,503,106,0,0
+Montague,12,County Attorney,,REP,Clay Riddle II,91,1,42,48,0,0
+Montague,13,County Attorney,,REP,Clay Riddle II,696,9,558,129,0,0
+Montague,14,County Attorney,,REP,Clay Riddle II,186,1,134,51,0,0
+Montague,15,County Attorney,,REP,Clay Riddle II,385,4,320,61,0,0
+Montague,16,County Attorney,,REP,Clay Riddle II,222,3,183,36,0,0
+Montague,4,County Commissioner Pct 1,,REP,Roy Darden,390,9,294,87,0,0
+Montague,6,County Commissioner Pct 1,,REP,Roy Darden,592,19,494,79,0,0
+Montague,7,County Commissioner Pct 1,,REP,Roy Darden,771,13,522,236,0,0
+Montague,8,County Commissioner Pct 1,,REP,Roy Darden,587,9,378,200,0,0
+Montague,10,County Commissioner Pct 3,,REP,Mark Murphey,727,12,594,121,0,0
+Montague,11,County Commissioner Pct 3,,REP,Mark Murphey,659,15,531,113,0,0
+Montague,12,County Commissioner Pct 3,,REP,Mark Murphey,89,1,41,47,0,0
+Montague,15,County Commissioner Pct 3,,REP,Mark Murphey,383,4,318,61,0,0
+Montague,16,County Commissioner Pct 3,,REP,Mark Murphey,225,3,186,36,0,0
+Montague,2,County Tax Assessor-Collector,,REP,Kathy Phillips,1800,44,1509,247,0,0
+Montague,3,County Tax Assessor-Collector,,REP,Kathy Phillips,955,10,775,170,0,0
+Montague,4,County Tax Assessor-Collector,,REP,Kathy Phillips,401,9,304,88,0,0
+Montague,5,County Tax Assessor-Collector,,REP,Kathy Phillips,675,13,557,105,0,0
+Montague,6,County Tax Assessor-Collector,,REP,Kathy Phillips,595,18,497,80,0,0
+Montague,7,County Tax Assessor-Collector,,REP,Kathy Phillips,800,14,543,243,0,0
+Montague,8,County Tax Assessor-Collector,,REP,Kathy Phillips,606,9,388,209,0,0
+Montague,9,County Tax Assessor-Collector,,REP,Kathy Phillips,876,21,724,131,0,0
+Montague,10,County Tax Assessor-Collector,,REP,Kathy Phillips,709,12,578,119,0,0
+Montague,11,County Tax Assessor-Collector,,REP,Kathy Phillips,649,16,525,108,0,0
+Montague,12,County Tax Assessor-Collector,,REP,Kathy Phillips,93,1,44,48,0,0
+Montague,13,County Tax Assessor-Collector,,REP,Kathy Phillips,702,9,563,130,0,0
+Montague,14,County Tax Assessor-Collector,,REP,Kathy Phillips,190,1,138,51,0,0
+Montague,15,County Tax Assessor-Collector,,REP,Kathy Phillips,391,4,325,62,0,0
+Montague,16,County Tax Assessor-Collector,,REP,Kathy Phillips,222,3,183,36,0,0
+Montague,2,Dist Attorney,,REP,Katie (Woods) Boggeman,1753,40,1471,242,0,0
+Montague,3,Dist Attorney,,REP,Katie (Woods) Boggeman,935,10,758,167,0,0
+Montague,4,Dist Attorney,,REP,Katie (Woods) Boggeman,389,8,296,85,0,0
+Montague,5,Dist Attorney,,REP,Katie (Woods) Boggeman,666,13,548,105,0,0
+Montague,6,Dist Attorney,,REP,Katie (Woods) Boggeman,579,18,484,77,0,0
+Montague,7,Dist Attorney,,REP,Katie (Woods) Boggeman,784,13,537,234,0,0
+Montague,8,Dist Attorney,,REP,Katie (Woods) Boggeman,583,9,374,200,0,0
+Montague,9,Dist Attorney,,REP,Katie (Woods) Boggeman,868,19,722,127,0,0
+Montague,10,Dist Attorney,,REP,Katie (Woods) Boggeman,694,11,567,115,1,0
+Montague,11,Dist Attorney,,REP,Katie (Woods) Boggeman,637,15,514,108,0,0
+Montague,12,Dist Attorney,,REP,Katie (Woods) Boggeman,91,1,42,48,0,0
+Montague,13,Dist Attorney,,REP,Katie (Woods) Boggeman,683,9,548,126,0,0
+Montague,14,Dist Attorney,,REP,Katie (Woods) Boggeman,187,1,135,51,0,0
+Montague,15,Dist Attorney,,REP,Katie (Woods) Boggeman,385,4,321,58,2,0
+Montague,16,Dist Attorney,,REP,Katie (Woods) Boggeman,219,3,180,36,0,0
+Montague,2,Dist Judge,,REP,Trish Coleman Byars,1795,40,1511,244,0,0
+Montague,3,Dist Judge,,REP,Trish Coleman Byars,949,10,772,167,0,0
+Montague,4,Dist Judge,,REP,Trish Coleman Byars,394,8,299,87,0,0
+Montague,5,Dist Judge,,REP,Trish Coleman Byars,679,12,558,109,0,0
+Montague,6,Dist Judge,,REP,Trish Coleman Byars,585,18,489,78,0,0
+Montague,7,Dist Judge,,REP,Trish Coleman Byars,790,14,541,235,0,0
+Montague,8,Dist Judge,,REP,Trish Coleman Byars,597,8,379,210,0,0
+Montague,9,Dist Judge,,REP,Trish Coleman Byars,865,20,718,127,0,0
+Montague,10,Dist Judge,,REP,Trish Coleman Byars,699,10,572,116,1,0
+Montague,11,Dist Judge,,REP,Trish Coleman Byars,631,15,508,108,0,0
+Montague,12,Dist Judge,,REP,Trish Coleman Byars,90,1,41,48,0,0
+Montague,13,Dist Judge,,REP,Trish Coleman Byars,687,9,551,127,0,0
+Montague,14,Dist Judge,,REP,Trish Coleman Byars,185,1,132,52,0,0
+Montague,15,Dist Judge,,REP,Trish Coleman Byars,388,4,321,61,2,0
+Montague,16,Dist Judge,,REP,Trish Coleman Byars,223,3,183,37,0,0
+Montague,2,Judge,7,REP,Gina Parker,1797,40,1503,242,12,0
+Montague,3,Judge,7,REP,Gina Parker,943,9,769,162,3,0
+Montague,4,Judge,7,REP,Gina Parker,392,6,294,89,3,0
+Montague,5,Judge,7,REP,Gina Parker,662,10,540,108,4,0
+Montague,6,Judge,7,REP,Gina Parker,586,19,488,74,5,0
+Montague,7,Judge,7,REP,Gina Parker,795,16,543,232,4,0
+Montague,8,Judge,7,REP,Gina Parker,608,8,388,210,2,0
+Montague,9,Judge,7,REP,Gina Parker,848,18,709,115,6,0
+Montague,10,Judge,7,REP,Gina Parker,703,10,574,114,5,0
+Montague,11,Judge,7,REP,Gina Parker,601,14,484,102,1,0
+Montague,12,Judge,7,REP,Gina Parker,92,1,40,49,2,0
+Montague,13,Judge,7,REP,Gina Parker,676,8,548,118,2,0
+Montague,14,Judge,7,REP,Gina Parker,187,1,135,49,2,0
+Montague,15,Judge,7,REP,Gina Parker,387,3,323,57,4,0
+Montague,16,Judge,7,REP,Gina Parker,213,3,176,34,0,0
+Montague,2,Judge,7,DEM,Nancy Mulder,193,17,146,28,2,0
+Montague,3,Judge,7,DEM,Nancy Mulder,106,6,77,22,1,0
+Montague,4,Judge,7,DEM,Nancy Mulder,40,6,30,4,0,0
+Montague,5,Judge,7,DEM,Nancy Mulder,86,7,67,12,0,0
+Montague,6,Judge,7,DEM,Nancy Mulder,81,0,61,20,0,0
+Montague,7,Judge,7,DEM,Nancy Mulder,77,2,43,32,0,0
+Montague,8,Judge,7,DEM,Nancy Mulder,69,5,45,19,0,0
+Montague,9,Judge,7,DEM,Nancy Mulder,112,5,83,23,1,0
+Montague,10,Judge,7,DEM,Nancy Mulder,81,3,66,12,0,0
+Montague,11,Judge,7,DEM,Nancy Mulder,78,1,62,15,0,0
+Montague,12,Judge,7,DEM,Nancy Mulder,7,1,3,3,0,0
+Montague,13,Judge,7,DEM,Nancy Mulder,67,2,48,17,0,0
+Montague,14,Judge,7,DEM,Nancy Mulder,15,0,12,3,0,0
+Montague,15,Judge,7,DEM,Nancy Mulder,46,6,31,8,1,0
+Montague,16,Judge,7,DEM,Nancy Mulder,25,2,17,6,0,0
+Montague,2,Judge,8,DEM,Chika Anyiam,181,18,134,27,2,0
+Montague,3,Judge,8,DEM,Chika Anyiam,103,5,75,22,1,0
+Montague,4,Judge,8,DEM,Chika Anyiam,38,4,28,6,0,0
+Montague,5,Judge,8,DEM,Chika Anyiam,82,7,63,12,0,0
+Montague,6,Judge,8,DEM,Chika Anyiam,73,0,58,15,0,0
+Montague,7,Judge,8,DEM,Chika Anyiam,73,2,37,34,0,0
+Montague,8,Judge,8,DEM,Chika Anyiam,68,5,46,17,0,0
+Montague,9,Judge,8,DEM,Chika Anyiam,104,5,77,22,0,0
+Montague,10,Judge,8,DEM,Chika Anyiam,80,4,66,10,0,0
+Montague,11,Judge,8,DEM,Chika Anyiam,70,0,55,15,0,0
+Montague,12,Judge,8,DEM,Chika Anyiam,7,1,3,3,0,0
+Montague,13,Judge,8,DEM,Chika Anyiam,59,2,43,14,0,0
+Montague,14,Judge,8,DEM,Chika Anyiam,14,0,10,4,0,0
+Montague,15,Judge,8,DEM,Chika Anyiam,45,6,31,7,1,0
+Montague,16,Judge,8,DEM,Chika Anyiam,24,2,16,6,0,0
+Montague,2,Judge,8,REP,Lee Finley,1798,39,1504,242,13,0
+Montague,3,Judge,8,REP,Lee Finley,946,9,772,162,3,0
+Montague,4,Judge,8,REP,Lee Finley,393,8,296,86,3,0
+Montague,5,Judge,8,REP,Lee Finley,663,10,541,108,4,0
+Montague,6,Judge,8,REP,Lee Finley,593,20,490,78,5,0
+Montague,7,Judge,8,REP,Lee Finley,795,16,546,229,4,0
+Montague,8,Judge,8,REP,Lee Finley,605,8,384,211,2,0
+Montague,9,Judge,8,REP,Lee Finley,857,18,715,116,8,0
+Montague,10,Judge,8,REP,Lee Finley,698,10,568,115,5,0
+Montague,11,Judge,8,REP,Lee Finley,606,16,487,101,2,0
+Montague,12,Judge,8,REP,Lee Finley,91,1,41,47,2,0
+Montague,13,Judge,8,REP,Lee Finley,681,7,551,121,2,0
+Montague,14,Judge,8,REP,Lee Finley,184,1,135,46,2,0
+Montague,15,Judge,8,REP,Lee Finley,389,3,324,58,4,0
+Montague,16,Judge,8,REP,Lee Finley,217,3,180,34,0,0
+Montague,2,Justice,2,DEM,DaSean Jones,187,18,137,30,2,0
+Montague,3,Justice,2,DEM,DaSean Jones,112,6,81,24,1,0
+Montague,4,Justice,2,DEM,DaSean Jones,40,4,29,7,0,0
+Montague,5,Justice,2,DEM,DaSean Jones,87,6,67,14,0,0
+Montague,6,Justice,2,DEM,DaSean Jones,81,0,62,19,0,0
+Montague,7,Justice,2,DEM,DaSean Jones,84,3,44,37,0,0
+Montague,8,Justice,2,DEM,DaSean Jones,68,4,46,18,0,0
+Montague,9,Justice,2,DEM,DaSean Jones,113,5,85,23,0,0
+Montague,10,Justice,2,DEM,DaSean Jones,83,4,66,13,0,0
+Montague,11,Justice,2,DEM,DaSean Jones,78,0,62,16,0,0
+Montague,12,Justice,2,DEM,DaSean Jones,7,1,3,3,0,0
+Montague,13,Justice,2,DEM,DaSean Jones,60,2,41,17,0,0
+Montague,14,Justice,2,DEM,DaSean Jones,14,0,11,3,0,0
+Montague,15,Justice,2,DEM,DaSean Jones,45,5,30,9,1,0
+Montague,16,Justice,2,DEM,DaSean Jones,26,2,18,6,0,0
+Montague,2,Justice,2,REP,Jimmy Blacklock,1811,38,1518,242,13,0
+Montague,3,Justice,2,REP,Jimmy Blacklock,948,9,776,160,3,0
+Montague,4,Justice,2,REP,Jimmy Blacklock,387,8,290,86,3,0
+Montague,5,Justice,2,REP,Jimmy Blacklock,664,11,544,105,4,0
+Montague,6,Justice,2,REP,Jimmy Blacklock,593,20,492,76,5,0
+Montague,7,Justice,2,REP,Jimmy Blacklock,791,15,542,230,4,0
+Montague,8,Justice,2,REP,Jimmy Blacklock,614,9,389,214,2,0
+Montague,9,Justice,2,REP,Jimmy Blacklock,859,18,713,120,8,0
+Montague,10,Justice,2,REP,Jimmy Blacklock,703,12,571,115,5,0
+Montague,11,Justice,2,REP,Jimmy Blacklock,608,15,488,103,2,0
+Montague,12,Justice,2,REP,Jimmy Blacklock,92,1,41,48,2,0
+Montague,13,Justice,2,REP,Jimmy Blacklock,684,8,555,119,2,0
+Montague,14,Justice,2,REP,Jimmy Blacklock,189,1,138,48,2,0
+Montague,15,Justice,2,REP,Jimmy Blacklock,394,4,329,57,4,0
+Montague,16,Justice,2,REP,Jimmy Blacklock,212,3,177,32,0,0
+Montague,2,Justice,4,DEM,Christine Vinh Weems,193,19,142,30,2,0
+Montague,3,Justice,4,DEM,Christine Vinh Weems,118,7,85,25,1,0
+Montague,4,Justice,4,DEM,Christine Vinh Weems,44,5,30,9,0,0
+Montague,5,Justice,4,DEM,Christine Vinh Weems,97,7,76,14,0,0
+Montague,6,Justice,4,DEM,Christine Vinh Weems,80,0,60,20,0,0
+Montague,7,Justice,4,DEM,Christine Vinh Weems,84,3,45,36,0,0
+Montague,8,Justice,4,DEM,Christine Vinh Weems,76,5,48,23,0,0
+Montague,9,Justice,4,DEM,Christine Vinh Weems,117,5,87,25,0,0
+Montague,10,Justice,4,DEM,Christine Vinh Weems,89,4,70,15,0,0
+Montague,11,Justice,4,DEM,Christine Vinh Weems,81,1,60,20,0,0
+Montague,12,Justice,4,DEM,Christine Vinh Weems,8,1,4,3,0,0
+Montague,13,Justice,4,DEM,Christine Vinh Weems,69,2,48,19,0,0
+Montague,14,Justice,4,DEM,Christine Vinh Weems,17,0,12,5,0,0
+Montague,15,Justice,4,DEM,Christine Vinh Weems,55,5,39,10,1,0
+Montague,16,Justice,4,DEM,Christine Vinh Weems,28,2,20,6,0,0
+Montague,2,Justice,4,REP,John Devine,1795,37,1508,238,12,0
+Montague,3,Justice,4,REP,John Devine,938,8,768,159,3,0
+Montague,4,Justice,4,REP,John Devine,378,7,288,80,3,0
+Montague,5,Justice,4,REP,John Devine,648,10,529,105,4,0
+Montague,6,Justice,4,REP,John Devine,585,20,485,75,5,0
+Montague,7,Justice,4,REP,John Devine,787,14,540,229,4,0
+Montague,8,Justice,4,REP,John Devine,597,8,383,204,2,0
+Montague,9,Justice,4,REP,John Devine,843,18,700,117,8,0
+Montague,10,Justice,4,REP,John Devine,690,11,564,111,4,0
+Montague,11,Justice,4,REP,John Devine,600,14,486,98,2,0
+Montague,12,Justice,4,REP,John Devine,91,1,40,48,2,0
+Montague,13,Justice,4,REP,John Devine,672,8,545,117,2,0
+Montague,14,Justice,4,REP,John Devine,186,1,137,46,2,0
+Montague,15,Justice,4,REP,John Devine,384,4,320,56,4,0
+Montague,16,Justice,4,REP,John Devine,211,3,175,33,0,0
+Montague,2,Justice,4,REP,Wade Birdwell,1792,38,1501,250,3,0
+Montague,3,Justice,4,REP,Wade Birdwell,964,9,780,172,3,0
+Montague,4,Justice,4,REP,Wade Birdwell,400,9,301,89,1,0
+Montague,5,Justice,4,REP,Wade Birdwell,673,11,555,106,1,0
+Montague,6,Justice,4,REP,Wade Birdwell,599,19,494,82,4,0
+Montague,7,Justice,4,REP,Wade Birdwell,801,14,547,238,2,0
+Montague,8,Justice,4,REP,Wade Birdwell,602,8,381,212,1,0
+Montague,9,Justice,4,REP,Wade Birdwell,863,20,715,126,2,0
+Montague,10,Justice,4,REP,Wade Birdwell,689,10,562,115,2,0
+Montague,11,Justice,4,REP,Wade Birdwell,621,15,496,108,2,0
+Montague,12,Justice,4,REP,Wade Birdwell,87,1,39,47,0,0
+Montague,13,Justice,4,REP,Wade Birdwell,685,8,551,125,1,0
+Montague,14,Justice,4,REP,Wade Birdwell,188,1,135,50,2,0
+Montague,15,Justice,4,REP,Wade Birdwell,389,4,321,61,3,0
+Montague,16,Justice,4,REP,Wade Birdwell,219,3,182,34,0,0
+Montague,2,Justice,5,REP,Dabney Bassel,1788,41,1497,247,3,0
+Montague,3,Justice,5,REP,Dabney Bassel,956,9,774,170,3,0
+Montague,4,Justice,5,REP,Dabney Bassel,395,8,297,89,1,0
+Montague,5,Justice,5,REP,Dabney Bassel,669,11,550,107,1,0
+Montague,6,Justice,5,REP,Dabney Bassel,598,19,494,81,4,0
+Montague,7,Justice,5,REP,Dabney Bassel,800,14,547,237,2,0
+Montague,8,Justice,5,REP,Dabney Bassel,599,8,380,210,1,0
+Montague,9,Justice,5,REP,Dabney Bassel,857,20,711,124,2,0
+Montague,10,Justice,5,REP,Dabney Bassel,694,11,565,116,2,0
+Montague,11,Justice,5,REP,Dabney Bassel,615,15,493,105,2,0
+Montague,12,Justice,5,REP,Dabney Bassel,90,1,41,48,0,0
+Montague,13,Justice,5,REP,Dabney Bassel,684,9,548,126,1,0
+Montague,14,Justice,5,REP,Dabney Bassel,187,1,134,50,2,0
+Montague,15,Justice,5,REP,Dabney Bassel,390,4,322,61,3,0
+Montague,16,Justice,5,REP,Dabney Bassel,217,3,180,34,0,0
+Montague,2,Justice,6,DEM,Bonnie Lee Goldstein,185,18,140,26,1,0
+Montague,3,Justice,6,DEM,Bonnie Lee Goldstein,107,7,77,22,1,0
+Montague,4,Justice,6,DEM,Bonnie Lee Goldstein,48,7,33,8,0,0
+Montague,5,Justice,6,DEM,Bonnie Lee Goldstein,86,6,66,14,0,0
+Montague,6,Justice,6,DEM,Bonnie Lee Goldstein,75,0,58,17,0,0
+Montague,7,Justice,6,DEM,Bonnie Lee Goldstein,77,3,47,27,0,0
+Montague,8,Justice,6,DEM,Bonnie Lee Goldstein,67,4,43,20,0,0
+Montague,9,Justice,6,DEM,Bonnie Lee Goldstein,111,5,85,21,0,0
+Montague,10,Justice,6,DEM,Bonnie Lee Goldstein,89,4,69,16,0,0
+Montague,11,Justice,6,DEM,Bonnie Lee Goldstein,81,1,61,19,0,0
+Montague,12,Justice,6,DEM,Bonnie Lee Goldstein,7,1,3,3,0,0
+Montague,13,Justice,6,DEM,Bonnie Lee Goldstein,64,2,46,16,0,0
+Montague,14,Justice,6,DEM,Bonnie Lee Goldstein,14,0,12,2,0,0
+Montague,15,Justice,6,DEM,Bonnie Lee Goldstein,50,5,35,10,0,0
+Montague,16,Justice,6,DEM,Bonnie Lee Goldstein,23,2,15,6,0,0
+Montague,2,Justice,6,LIB,J. David Roberson,43,3,29,9,2,0
+Montague,3,Justice,6,LIB,J. David Roberson,22,0,18,4,0,0
+Montague,4,Justice,6,LIB,J. David Roberson,12,0,10,2,0,0
+Montague,5,Justice,6,LIB,J. David Roberson,26,0,18,8,0,0
+Montague,6,Justice,6,LIB,J. David Roberson,24,0,15,8,1,0
+Montague,7,Justice,6,LIB,J. David Roberson,17,0,6,11,0,0
+Montague,8,Justice,6,LIB,J. David Roberson,10,0,5,5,0,0
+Montague,9,Justice,6,LIB,J. David Roberson,11,0,9,2,0,0
+Montague,10,Justice,6,LIB,J. David Roberson,10,0,8,2,0,0
+Montague,11,Justice,6,LIB,J. David Roberson,13,0,11,2,0,0
+Montague,12,Justice,6,LIB,J. David Roberson,0,0,0,0,0,0
+Montague,13,Justice,6,LIB,J. David Roberson,13,1,7,5,0,0
+Montague,14,Justice,6,LIB,J. David Roberson,1,0,0,1,0,0
+Montague,15,Justice,6,LIB,J. David Roberson,10,0,4,5,1,0
+Montague,16,Justice,6,LIB,J. David Roberson,7,0,6,1,0,0
+Montague,2,Justice,6,REP,Jane Bland,1773,36,1490,235,12,0
+Montague,3,Justice,6,REP,Jane Bland,929,8,759,159,3,0
+Montague,4,Justice,6,REP,Jane Bland,372,5,280,84,3,0
+Montague,5,Justice,6,REP,Jane Bland,640,11,525,100,4,0
+Montague,6,Justice,6,REP,Jane Bland,573,20,478,71,4,0
+Montague,7,Justice,6,REP,Jane Bland,781,15,535,227,4,0
+Montague,8,Justice,6,REP,Jane Bland,601,9,386,204,2,0
+Montague,9,Justice,6,REP,Jane Bland,842,18,700,116,8,0
+Montague,10,Justice,6,REP,Jane Bland,689,11,564,109,5,0
+Montague,11,Justice,6,REP,Jane Bland,589,15,475,97,2,0
+Montague,12,Justice,6,REP,Jane Bland,91,1,40,48,2,0
+Montague,13,Justice,6,REP,Jane Bland,666,7,543,114,2,0
+Montague,14,Justice,6,REP,Jane Bland,186,1,135,48,2,0
+Montague,15,Justice,6,REP,Jane Bland,376,4,318,50,4,0
+Montague,16,Justice,6,REP,Jane Bland,210,3,174,33,0,0
+Montague,2,Justice,6,REP,Mike Wallach,1773,40,1481,249,3,0
+Montague,3,Justice,6,REP,Mike Wallach,957,9,776,169,3,0
+Montague,4,Justice,6,REP,Mike Wallach,394,8,298,87,1,0
+Montague,5,Justice,6,REP,Mike Wallach,663,11,545,106,1,0
+Montague,6,Justice,6,REP,Mike Wallach,593,19,491,79,4,0
+Montague,7,Justice,6,REP,Mike Wallach,793,13,541,237,2,0
+Montague,8,Justice,6,REP,Mike Wallach,596,8,377,210,1,0
+Montague,9,Justice,6,REP,Mike Wallach,856,20,710,124,2,0
+Montague,10,Justice,6,REP,Mike Wallach,683,9,558,114,2,0
+Montague,11,Justice,6,REP,Mike Wallach,617,14,495,106,2,0
+Montague,12,Justice,6,REP,Mike Wallach,90,1,42,47,0,0
+Montague,13,Justice,6,REP,Mike Wallach,683,9,549,124,1,0
+Montague,14,Justice,6,REP,Mike Wallach,189,1,136,50,2,0
+Montague,15,Justice,6,REP,Mike Wallach,386,4,318,61,3,0
+Montague,16,Justice,6,REP,Mike Wallach,219,3,183,33,0,0
+Montague,2,Precinct 1,1 - North Ward City of Bowie,,Brandon Walker,279,4,228,47,0,0
+Montague,3,Precinct 1,1 - North Ward City of Bowie,,Brandon Walker,163,1,128,34,0,0
+Montague,4,Precinct 1,1 - North Ward City of Bowie,,Brandon Walker,283,6,211,66,0,0
+Montague,5,Precinct 1,1 - North Ward City of Bowie,,Brandon Walker,437,6,360,71,0,0
+Montague,6,Precinct 1,1 - North Ward City of Bowie,,Brandon Walker,533,17,441,75,0,0
+Montague,16,Precinct 1,1 - North Ward City of Bowie,,Brandon Walker,57,0,45,12,0,0
+Montague,2,Precinct 2,2 - South Ward City of Bowie,,Boyd Hulstine,122,2,96,24,0,0
+Montague,3,Precinct 2,2 - South Ward City of Bowie,,Boyd Hulstine,85,0,72,13,0,0
+Montague,4,Precinct 2,2 - South Ward City of Bowie,,Boyd Hulstine,115,0,86,29,0,0
+Montague,5,Precinct 2,2 - South Ward City of Bowie,,Boyd Hulstine,189,3,154,32,0,0
+Montague,6,Precinct 2,2 - South Ward City of Bowie,,Boyd Hulstine,230,6,199,25,0,0
+Montague,16,Precinct 2,2 - South Ward City of Bowie,,Boyd Hulstine,19,0,16,3,0,0
+Montague,2,Precinct 2,2 - South Ward City of Bowie,,Laura Sproles,191,3,162,26,0,0
+Montague,3,Precinct 2,2 - South Ward City of Bowie,,Laura Sproles,97,3,73,21,0,0
+Montague,4,Precinct 2,2 - South Ward City of Bowie,,Laura Sproles,172,8,130,34,0,0
+Montague,5,Precinct 2,2 - South Ward City of Bowie,,Laura Sproles,267,3,222,42,0,0
+Montague,6,Precinct 2,2 - South Ward City of Bowie,,Laura Sproles,328,12,263,53,0,0
+Montague,16,Precinct 2,2 - South Ward City of Bowie,,Laura Sproles,41,0,32,9,0,0
+Montague,2,Precinct 3,3 - East Ward City of Bowie,,Laramie Truax,299,6,245,48,0,0
+Montague,3,Precinct 3,3 - East Ward City of Bowie,,Laramie Truax,177,1,142,34,0,0
+Montague,4,Precinct 3,3 - East Ward City of Bowie,,Laramie Truax,284,7,213,64,0,0
+Montague,5,Precinct 3,3 - East Ward City of Bowie,,Laramie Truax,437,5,361,71,0,0
+Montague,6,Precinct 3,3 - East Ward City of Bowie,,Laramie Truax,558,15,467,76,0,0
+Montague,16,Precinct 3,3 - East Ward City of Bowie,,Laramie Truax,62,0,50,12,0,0
+Montague,2,President,,LIB,Chase Oliver/Mike ter Maat,8,1,4,3,0,0
+Montague,3,President,,LIB,Chase Oliver/Mike ter Maat,1,0,1,0,0,0
+Montague,4,President,,LIB,Chase Oliver/Mike ter Maat,1,0,0,1,0,0
+Montague,5,President,,LIB,Chase Oliver/Mike ter Maat,4,0,1,3,0,0
+Montague,6,President,,LIB,Chase Oliver/Mike ter Maat,2,1,0,1,0,0
+Montague,7,President,,LIB,Chase Oliver/Mike ter Maat,1,0,0,1,0,0
+Montague,8,President,,LIB,Chase Oliver/Mike ter Maat,2,0,0,2,0,0
+Montague,9,President,,LIB,Chase Oliver/Mike ter Maat,3,0,3,0,0,0
+Montague,10,President,,LIB,Chase Oliver/Mike ter Maat,5,0,5,0,0,0
+Montague,11,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0,0,0
+Montague,12,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0,0,0
+Montague,13,President,,LIB,Chase Oliver/Mike ter Maat,2,0,1,1,0,0
+Montague,14,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0,0,0
+Montague,15,President,,LIB,Chase Oliver/Mike ter Maat,5,0,1,4,0,0
+Montague,16,President,,LIB,Chase Oliver/Mike ter Maat,2,0,2,0,0,0
+Montague,2,President,,REP,Donald J. Trump/JD Vance,1845,41,1548,242,14,0
+Montague,3,President,,REP,Donald J. Trump/JD Vance,970,9,797,161,3,0
+Montague,4,President,,REP,Donald J. Trump/JD Vance,417,6,311,97,3,0
+Montague,5,President,,REP,Donald J. Trump/JD Vance,691,12,564,110,5,0
+Montague,6,President,,REP,Donald J. Trump/JD Vance,619,19,509,86,5,0
+Montague,7,President,,REP,Donald J. Trump/JD Vance,803,16,546,237,4,0
+Montague,8,President,,REP,Donald J. Trump/JD Vance,619,10,396,211,2,0
+Montague,9,President,,REP,Donald J. Trump/JD Vance,882,19,732,122,9,0
+Montague,10,President,,REP,Donald J. Trump/JD Vance,721,13,583,120,5,0
+Montague,11,President,,REP,Donald J. Trump/JD Vance,641,15,513,111,2,0
+Montague,12,President,,REP,Donald J. Trump/JD Vance,97,1,43,51,2,0
+Montague,13,President,,REP,Donald J. Trump/JD Vance,699,9,566,122,2,0
+Montague,14,President,,REP,Donald J. Trump/JD Vance,192,1,134,55,2,0
+Montague,15,President,,REP,Donald J. Trump/JD Vance,390,3,329,54,4,0
+Montague,16,President,,REP,Donald J. Trump/JD Vance,218,3,181,34,0,0
+Montague,2,President,,GRN,Jill Stein/Rudolph Ware,3,0,3,0,0,0
+Montague,3,President,,GRN,Jill Stein/Rudolph Ware,3,0,2,1,0,0
+Montague,4,President,,GRN,Jill Stein/Rudolph Ware,2,0,2,0,0,0
+Montague,5,President,,GRN,Jill Stein/Rudolph Ware,4,0,4,0,0,0
+Montague,6,President,,GRN,Jill Stein/Rudolph Ware,3,0,3,0,0,0
+Montague,7,President,,GRN,Jill Stein/Rudolph Ware,1,0,0,1,0,0
+Montague,8,President,,GRN,Jill Stein/Rudolph Ware,4,0,2,2,0,0
+Montague,9,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0,0,0
+Montague,10,President,,GRN,Jill Stein/Rudolph Ware,4,0,4,0,0,0
+Montague,11,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0,0,0
+Montague,12,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0,0,0
+Montague,13,President,,GRN,Jill Stein/Rudolph Ware,2,0,1,1,0,0
+Montague,14,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0,0,0
+Montague,15,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0,0,0
+Montague,16,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0,0,0
+Montague,2,President,,DEM,Kamala D. Harris/Tim Walz,224,19,168,35,2,0
+Montague,3,President,,DEM,Kamala D. Harris/Tim Walz,123,7,89,26,1,0
+Montague,4,President,,DEM,Kamala D. Harris/Tim Walz,42,6,30,6,0,0
+Montague,5,President,,DEM,Kamala D. Harris/Tim Walz,88,6,68,14,0,0
+Montague,6,President,,DEM,Kamala D. Harris/Tim Walz,83,0,66,17,0,0
+Montague,7,President,,DEM,Kamala D. Harris/Tim Walz,85,2,48,35,0,0
+Montague,8,President,,DEM,Kamala D. Harris/Tim Walz,73,4,49,20,0,0
+Montague,9,President,,DEM,Kamala D. Harris/Tim Walz,122,5,90,26,1,0
+Montague,10,President,,DEM,Kamala D. Harris/Tim Walz,95,4,76,15,0,0
+Montague,11,President,,DEM,Kamala D. Harris/Tim Walz,89,1,71,17,0,0
+Montague,12,President,,DEM,Kamala D. Harris/Tim Walz,9,1,5,3,0,0
+Montague,13,President,,DEM,Kamala D. Harris/Tim Walz,77,3,52,22,0,0
+Montague,14,President,,DEM,Kamala D. Harris/Tim Walz,16,0,14,2,0,0
+Montague,15,President,,DEM,Kamala D. Harris/Tim Walz,52,6,36,9,1,0
+Montague,16,President,,DEM,Kamala D. Harris/Tim Walz,26,2,18,6,0,0
+Montague,2,President,,,Write-in,2,0,1,1,0,0
+Montague,3,President,,,Write-in,0,0,0,0,0,0
+Montague,4,President,,,Write-in,0,0,0,0,0,0
+Montague,5,President,,,Write-in,2,0,1,1,0,0
+Montague,6,President,,,Write-in,0,0,0,0,0,0
+Montague,7,President,,,Write-in,0,0,0,0,0,0
+Montague,8,President,,,Write-in,2,0,0,2,0,0
+Montague,9,President,,,Write-in,4,0,3,1,0,0
+Montague,10,President,,,Write-in,0,0,0,0,0,0
+Montague,11,President,,,Write-in,8,0,5,3,0,0
+Montague,12,President,,,Write-in,0,0,0,0,0,0
+Montague,13,President,,,Write-in,1,0,1,0,0,0
+Montague,14,President,,,Write-in,2,0,2,0,0,0
+Montague,15,President,,,Write-in,5,0,5,0,0,0
+Montague,16,President,,,Write-in,0,0,0,0,0,0
+Montague,2,Presiding Judge,,REP,David J. Schenck,1787,40,1495,239,13,0
+Montague,3,Presiding Judge,,REP,David J. Schenck,947,8,775,161,3,0
+Montague,4,Presiding Judge,,REP,David J. Schenck,391,8,292,88,3,0
+Montague,5,Presiding Judge,,REP,David J. Schenck,648,11,527,106,4,0
+Montague,6,Presiding Judge,,REP,David J. Schenck,583,19,485,74,5,0
+Montague,7,Presiding Judge,,REP,David J. Schenck,786,16,539,227,4,0
+Montague,8,Presiding Judge,,REP,David J. Schenck,605,9,388,206,2,0
+Montague,9,Presiding Judge,,REP,David J. Schenck,845,18,703,116,8,0
+Montague,10,Presiding Judge,,REP,David J. Schenck,695,11,567,112,5,0
+Montague,11,Presiding Judge,,REP,David J. Schenck,598,15,482,99,2,0
+Montague,12,Presiding Judge,,REP,David J. Schenck,89,1,39,47,2,0
+Montague,13,Presiding Judge,,REP,David J. Schenck,673,8,549,114,2,0
+Montague,14,Presiding Judge,,REP,David J. Schenck,187,1,136,48,2,0
+Montague,15,Presiding Judge,,REP,David J. Schenck,388,3,325,56,4,0
+Montague,16,Presiding Judge,,REP,David J. Schenck,217,3,180,34,0,0
+Montague,2,Presiding Judge,,DEM,Holly Taylor,198,17,148,31,2,0
+Montague,3,Presiding Judge,,DEM,Holly Taylor,110,7,78,24,1,0
+Montague,4,Presiding Judge,,DEM,Holly Taylor,42,4,32,6,0,0
+Montague,5,Presiding Judge,,DEM,Holly Taylor,97,6,78,13,0,0
+Montague,6,Presiding Judge,,DEM,Holly Taylor,81,1,61,19,0,0
+Montague,7,Presiding Judge,,DEM,Holly Taylor,84,2,46,36,0,0
+Montague,8,Presiding Judge,,DEM,Holly Taylor,74,4,47,23,0,0
+Montague,9,Presiding Judge,,DEM,Holly Taylor,114,5,87,22,0,0
+Montague,10,Presiding Judge,,DEM,Holly Taylor,90,4,72,14,0,0
+Montague,11,Presiding Judge,,DEM,Holly Taylor,87,1,67,19,0,0
+Montague,12,Presiding Judge,,DEM,Holly Taylor,7,1,3,3,0,0
+Montague,13,Presiding Judge,,DEM,Holly Taylor,70,2,47,21,0,0
+Montague,14,Presiding Judge,,DEM,Holly Taylor,14,0,11,3,0,0
+Montague,15,Presiding Judge,,DEM,Holly Taylor,46,6,30,9,1,0
+Montague,16,Presiding Judge,,DEM,Holly Taylor,24,2,16,6,0,0
+Montague,2,Railroad Commissioner,,REP,Christi Craddick,1724,38,1445,228,13,0
+Montague,3,Railroad Commissioner,,REP,Christi Craddick,926,9,755,160,2,0
+Montague,4,Railroad Commissioner,,REP,Christi Craddick,376,8,280,85,3,0
+Montague,5,Railroad Commissioner,,REP,Christi Craddick,630,11,519,96,4,0
+Montague,6,Railroad Commissioner,,REP,Christi Craddick,572,20,477,70,5,0
+Montague,7,Railroad Commissioner,,REP,Christi Craddick,760,16,524,216,4,0
+Montague,8,Railroad Commissioner,,REP,Christi Craddick,594,8,383,201,2,0
+Montague,9,Railroad Commissioner,,REP,Christi Craddick,847,18,701,120,8,0
+Montague,10,Railroad Commissioner,,REP,Christi Craddick,679,11,553,110,5,0
+Montague,11,Railroad Commissioner,,REP,Christi Craddick,598,16,480,100,2,0
+Montague,12,Railroad Commissioner,,REP,Christi Craddick,92,1,41,48,2,0
+Montague,13,Railroad Commissioner,,REP,Christi Craddick,662,7,540,113,2,0
+Montague,14,Railroad Commissioner,,REP,Christi Craddick,187,1,131,53,2,0
+Montague,15,Railroad Commissioner,,REP,Christi Craddick,371,4,309,54,4,0
+Montague,16,Railroad Commissioner,,REP,Christi Craddick,209,3,172,34,0,0
+Montague,2,Railroad Commissioner,,GRN,Eddie Espinoza,9,0,6,3,0,0
+Montague,3,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,3,5,0,0
+Montague,4,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,1,2,0,0
+Montague,5,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,5,2,0,0
+Montague,6,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,2,4,0,0
+Montague,7,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,4,3,0,0
+Montague,8,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,4,2,0,0
+Montague,9,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,3,1,0,0
+Montague,10,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,4,2,0,0
+Montague,11,Railroad Commissioner,,GRN,Eddie Espinoza,10,0,8,2,0,0
+Montague,12,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0,0,0
+Montague,13,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,3,4,0,0
+Montague,14,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0,0,0
+Montague,15,Railroad Commissioner,,GRN,Eddie Espinoza,10,0,7,2,1,0
+Montague,16,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1,0,0
+Montague,2,Railroad Commissioner,,LIB,Hawk Dunlap,69,1,53,14,1,0
+Montague,3,Railroad Commissioner,,LIB,Hawk Dunlap,26,0,24,1,1,0
+Montague,4,Railroad Commissioner,,LIB,Hawk Dunlap,14,0,13,1,0,0
+Montague,5,Railroad Commissioner,,LIB,Hawk Dunlap,28,0,18,10,0,0
+Montague,6,Railroad Commissioner,,LIB,Hawk Dunlap,20,0,16,4,0,0
+Montague,7,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,3,14,0,0
+Montague,8,Railroad Commissioner,,LIB,Hawk Dunlap,12,0,6,6,0,0
+Montague,9,Railroad Commissioner,,LIB,Hawk Dunlap,18,0,14,4,0,0
+Montague,10,Railroad Commissioner,,LIB,Hawk Dunlap,19,0,12,7,0,0
+Montague,11,Railroad Commissioner,,LIB,Hawk Dunlap,18,0,14,4,0,0
+Montague,12,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,0,2,0,0
+Montague,13,Railroad Commissioner,,LIB,Hawk Dunlap,26,1,18,7,0,0
+Montague,14,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,7,0,0,0
+Montague,15,Railroad Commissioner,,LIB,Hawk Dunlap,21,0,17,4,0,0
+Montague,16,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,8,0,0,0
+Montague,2,Railroad Commissioner,,DEM,Katherine Culbert,186,17,144,24,1,0
+Montague,3,Railroad Commissioner,,DEM,Katherine Culbert,98,6,75,16,1,0
+Montague,4,Railroad Commissioner,,DEM,Katherine Culbert,38,4,30,4,0,0
+Montague,5,Railroad Commissioner,,DEM,Katherine Culbert,84,5,65,14,0,0
+Montague,6,Railroad Commissioner,,DEM,Katherine Culbert,72,0,54,18,0,0
+Montague,7,Railroad Commissioner,,DEM,Katherine Culbert,78,2,46,30,0,0
+Montague,8,Railroad Commissioner,,DEM,Katherine Culbert,64,5,40,19,0,0
+Montague,9,Railroad Commissioner,,DEM,Katherine Culbert,102,5,77,20,0,0
+Montague,10,Railroad Commissioner,,DEM,Katherine Culbert,79,4,66,9,0,0
+Montague,11,Railroad Commissioner,,DEM,Katherine Culbert,62,0,49,13,0,0
+Montague,12,Railroad Commissioner,,DEM,Katherine Culbert,8,1,4,3,0,0
+Montague,13,Railroad Commissioner,,DEM,Katherine Culbert,56,2,41,13,0,0
+Montague,14,Railroad Commissioner,,DEM,Katherine Culbert,11,0,9,2,0,0
+Montague,15,Railroad Commissioner,,DEM,Katherine Culbert,38,5,26,7,0,0
+Montague,16,Railroad Commissioner,,DEM,Katherine Culbert,18,2,12,4,0,0
+Montague,2,Railroad Commissioner,,,Write-in,2,0,1,0,1,0
+Montague,3,Railroad Commissioner,,,Write-in,0,0,0,0,0,0
+Montague,4,Railroad Commissioner,,,Write-in,0,0,0,0,0,0
+Montague,5,Railroad Commissioner,,,Write-in,0,0,0,0,0,0
+Montague,6,Railroad Commissioner,,,Write-in,0,0,0,0,0,0
+Montague,7,Railroad Commissioner,,,Write-in,2,0,2,0,0,0
+Montague,8,Railroad Commissioner,,,Write-in,1,0,0,1,0,0
+Montague,9,Railroad Commissioner,,,Write-in,1,0,0,0,1,0
+Montague,10,Railroad Commissioner,,,Write-in,0,0,0,0,0,0
+Montague,11,Railroad Commissioner,,,Write-in,2,0,2,0,0,0
+Montague,12,Railroad Commissioner,,,Write-in,0,0,0,0,0,0
+Montague,13,Railroad Commissioner,,,Write-in,0,0,0,0,0,0
+Montague,14,Railroad Commissioner,,,Write-in,0,0,0,0,0,0
+Montague,15,Railroad Commissioner,,,Write-in,0,0,0,0,0,0
+Montague,16,Railroad Commissioner,,,Write-in,0,0,0,0,0,0
+Montague,7,School Board Member Forestburg ISD,,,Audi Keown,276,10,181,85,0,0
+Montague,8,School Board Member Forestburg ISD,,,Audi Keown,5,2,3,0,0,0
+Montague,7,School Board Member Forestburg ISD,,,Chad Hudspeth,485,12,320,153,0,0
+Montague,8,School Board Member Forestburg ISD,,,Chad Hudspeth,5,2,2,1,0,0
+Montague,7,School Board Member Forestburg ISD,,,Chris Jones,291,6,193,92,0,0
+Montague,8,School Board Member Forestburg ISD,,,Chris Jones,5,2,2,1,0,0
+Montague,7,School Board Member Forestburg ISD,,,Rick Balthrop,377,7,229,141,0,0
+Montague,8,School Board Member Forestburg ISD,,,Rick Balthrop,4,2,2,0,0,0
+Montague,7,School Board Member Forestburg ISD,,,Ricky Towery,320,8,204,108,0,0
+Montague,8,School Board Member Forestburg ISD,,,Ricky Towery,2,0,1,1,0,0
+Montague,7,School Board Member Forestburg ISD,,,Steve Sandusky,507,15,319,173,0,0
+Montague,8,School Board Member Forestburg ISD,,,Steve Sandusky,3,0,2,1,0,0
+Montague,2,Sheriff,,REP,Marshall W. Thomas,1802,43,1516,243,0,0
+Montague,3,Sheriff,,REP,Marshall W. Thomas,962,10,780,172,0,0
+Montague,4,Sheriff,,REP,Marshall W. Thomas,396,9,301,86,0,0
+Montague,5,Sheriff,,REP,Marshall W. Thomas,683,13,564,106,0,0
+Montague,6,Sheriff,,REP,Marshall W. Thomas,602,18,501,83,0,0
+Montague,7,Sheriff,,REP,Marshall W. Thomas,797,14,544,239,0,0
+Montague,8,Sheriff,,REP,Marshall W. Thomas,603,9,386,208,0,0
+Montague,9,Sheriff,,REP,Marshall W. Thomas,877,18,730,129,0,0
+Montague,10,Sheriff,,REP,Marshall W. Thomas,711,11,581,119,0,0
+Montague,11,Sheriff,,REP,Marshall W. Thomas,655,15,530,110,0,0
+Montague,12,Sheriff,,REP,Marshall W. Thomas,92,1,44,47,0,0
+Montague,13,Sheriff,,REP,Marshall W. Thomas,718,11,575,132,0,0
+Montague,14,Sheriff,,REP,Marshall W. Thomas,189,1,137,51,0,0
+Montague,15,Sheriff,,REP,Marshall W. Thomas,389,4,324,61,0,0
+Montague,16,Sheriff,,REP,Marshall W. Thomas,225,2,186,37,0,0
+Montague,2,State House,68,REP,David Spiller,1785,38,1509,238,0,0
+Montague,3,State House,68,REP,David Spiller,952,7,783,162,0,0
+Montague,4,State House,68,REP,David Spiller,385,8,289,87,1,0
+Montague,5,State House,68,REP,David Spiller,652,12,535,105,0,0
+Montague,6,State House,68,REP,David Spiller,586,18,493,75,0,0
+Montague,7,State House,68,REP,David Spiller,792,16,544,231,1,0
+Montague,8,State House,68,REP,David Spiller,607,8,390,209,0,0
+Montague,9,State House,68,REP,David Spiller,844,18,704,121,1,0
+Montague,10,State House,68,REP,David Spiller,704,12,576,116,0,0
+Montague,11,State House,68,REP,David Spiller,612,16,492,104,0,0
+Montague,12,State House,68,REP,David Spiller,90,1,40,49,0,0
+Montague,13,State House,68,REP,David Spiller,679,9,552,117,1,0
+Montague,14,State House,68,REP,David Spiller,184,1,134,49,0,0
+Montague,15,State House,68,REP,David Spiller,383,4,319,57,3,0
+Montague,16,State House,68,REP,David Spiller,217,3,180,34,0,0
+Montague,2,State House,68,DEM,Stacey Swann,196,19,145,32,0,0
+Montague,3,State House,68,DEM,Stacey Swann,105,8,73,23,1,0
+Montague,4,State House,68,DEM,Stacey Swann,47,4,34,9,0,0
+Montague,5,State House,68,DEM,Stacey Swann,95,6,76,13,0,0
+Montague,6,State House,68,DEM,Stacey Swann,78,1,59,18,0,0
+Montague,7,State House,68,DEM,Stacey Swann,78,1,43,34,0,0
+Montague,8,State House,68,DEM,Stacey Swann,70,4,45,21,0,0
+Montague,9,State House,68,DEM,Stacey Swann,112,5,87,20,0,0
+Montague,10,State House,68,DEM,Stacey Swann,83,4,67,12,0,0
+Montague,11,State House,68,DEM,Stacey Swann,77,0,63,14,0,0
+Montague,12,State House,68,DEM,Stacey Swann,7,1,3,3,0,0
+Montague,13,State House,68,DEM,Stacey Swann,64,2,43,19,0,0
+Montague,14,State House,68,DEM,Stacey Swann,16,0,11,5,0,0
+Montague,15,State House,68,DEM,Stacey Swann,50,5,36,9,0,0
+Montague,16,State House,68,DEM,Stacey Swann,24,2,16,6,0,0
+Montague,2,State Senate,30,REP,Brent Hagenbuch,1780,39,1497,241,3,0
+Montague,3,State Senate,30,REP,Brent Hagenbuch,942,9,769,162,2,0
+Montague,4,State Senate,30,REP,Brent Hagenbuch,381,8,288,84,1,0
+Montague,5,State Senate,30,REP,Brent Hagenbuch,651,11,535,105,0,0
+Montague,6,State Senate,30,REP,Brent Hagenbuch,587,19,493,74,1,0
+Montague,7,State Senate,30,REP,Brent Hagenbuch,787,16,544,225,2,0
+Montague,8,State Senate,30,REP,Brent Hagenbuch,604,9,389,206,0,0
+Montague,9,State Senate,30,REP,Brent Hagenbuch,837,18,702,115,2,0
+Montague,10,State Senate,30,REP,Brent Hagenbuch,692,10,565,113,4,0
+Montague,11,State Senate,30,REP,Brent Hagenbuch,598,16,481,100,1,0
+Montague,12,State Senate,30,REP,Brent Hagenbuch,89,1,40,48,0,0
+Montague,13,State Senate,30,REP,Brent Hagenbuch,684,9,554,120,1,0
+Montague,14,State Senate,30,REP,Brent Hagenbuch,187,1,136,50,0,0
+Montague,15,State Senate,30,REP,Brent Hagenbuch,390,4,325,57,4,0
+Montague,16,State Senate,30,REP,Brent Hagenbuch,214,3,178,33,0,0
+Montague,2,State Senate,30,DEM,Dale Frey,195,18,147,30,0,0
+Montague,3,State Senate,30,DEM,Dale Frey,108,6,78,23,1,0
+Montague,4,State Senate,30,DEM,Dale Frey,46,4,33,9,0,0
+Montague,5,State Senate,30,DEM,Dale Frey,91,6,71,14,0,0
+Montague,6,State Senate,30,DEM,Dale Frey,81,1,61,19,0,0
+Montague,7,State Senate,30,DEM,Dale Frey,81,2,43,36,0,0
+Montague,8,State Senate,30,DEM,Dale Frey,71,4,46,21,0,0
+Montague,9,State Senate,30,DEM,Dale Frey,116,5,86,25,0,0
+Montague,10,State Senate,30,DEM,Dale Frey,95,5,77,13,0,0
+Montague,11,State Senate,30,DEM,Dale Frey,83,0,68,15,0,0
+Montague,12,State Senate,30,DEM,Dale Frey,7,1,3,3,0,0
+Montague,13,State Senate,30,DEM,Dale Frey,62,2,44,16,0,0
+Montague,14,State Senate,30,DEM,Dale Frey,16,0,12,4,0,0
+Montague,15,State Senate,30,DEM,Dale Frey,47,5,33,9,0,0
+Montague,16,State Senate,30,DEM,Dale Frey,23,2,15,6,0,0
+Montague,7,Trustee,,,Alex Markel,1,0,1,0,0,0
+Montague,7,Trustee,,,Ash Self,0,0,0,0,0,0
+Montague,7,Trustee,,,Jason Paris,1,0,1,0,0,0
+Montague,7,Trustee,,,Jeff Weber,0,0,0,0,0,0
+Montague,7,Trustee,,,Marshall Bain Fortenberry,1,0,1,0,0,0
+Montague,7,Trustee,,,Tim Fletcher,0,0,0,0,0,0
+Montague,2,U.S. House,13,REP,Ronny Jackson,1793,41,1507,244,1,0
+Montague,3,U.S. House,13,REP,Ronny Jackson,956,10,771,173,2,0
+Montague,4,U.S. House,13,REP,Ronny Jackson,387,7,289,89,2,0
+Montague,5,U.S. House,13,REP,Ronny Jackson,670,12,552,105,1,0
+Montague,6,U.S. House,13,REP,Ronny Jackson,595,19,492,82,2,0
+Montague,7,U.S. House,13,REP,Ronny Jackson,796,16,540,239,1,0
+Montague,8,U.S. House,13,REP,Ronny Jackson,604,9,386,208,1,0
+Montague,9,U.S. House,13,REP,Ronny Jackson,870,19,724,125,2,0
+Montague,10,U.S. House,13,REP,Ronny Jackson,703,12,575,115,1,0
+Montague,11,U.S. House,13,REP,Ronny Jackson,631,16,506,107,2,0
+Montague,12,U.S. House,13,REP,Ronny Jackson,89,1,40,48,0,0
+Montague,13,U.S. House,13,REP,Ronny Jackson,688,10,552,126,0,0
+Montague,14,U.S. House,13,REP,Ronny Jackson,191,1,136,53,1,0
+Montague,15,U.S. House,13,REP,Ronny Jackson,384,3,319,60,2,0
+Montague,16,U.S. House,13,REP,Ronny Jackson,220,3,183,34,0,0
+Montague,2,U.S. Senate,,DEM,Colin Allred,242,19,183,38,2,0
+Montague,3,U.S. Senate,,DEM,Colin Allred,133,6,98,28,1,0
+Montague,4,U.S. Senate,,DEM,Colin Allred,51,5,34,12,0,0
+Montague,5,U.S. Senate,,DEM,Colin Allred,111,6,85,20,0,0
+Montague,6,U.S. Senate,,DEM,Colin Allred,96,0,70,25,1,0
+Montague,7,U.S. Senate,,DEM,Colin Allred,94,3,51,40,0,0
+Montague,8,U.S. Senate,,DEM,Colin Allred,86,5,56,25,0,0
+Montague,9,U.S. Senate,,DEM,Colin Allred,128,5,97,25,1,0
+Montague,10,U.S. Senate,,DEM,Colin Allred,106,4,85,17,0,0
+Montague,11,U.S. Senate,,DEM,Colin Allred,104,0,84,20,0,0
+Montague,12,U.S. Senate,,DEM,Colin Allred,8,1,4,3,0,0
+Montague,13,U.S. Senate,,DEM,Colin Allred,87,3,58,26,0,0
+Montague,14,U.S. Senate,,DEM,Colin Allred,17,0,13,4,0,0
+Montague,15,U.S. Senate,,DEM,Colin Allred,58,6,43,9,0,0
+Montague,16,U.S. Senate,,DEM,Colin Allred,28,2,20,6,0,0
+Montague,2,U.S. Senate,,LIB,Ted Brown,28,2,18,8,0,0
+Montague,3,U.S. Senate,,LIB,Ted Brown,19,0,12,7,0,0
+Montague,4,U.S. Senate,,LIB,Ted Brown,8,0,4,4,0,0
+Montague,5,U.S. Senate,,LIB,Ted Brown,17,0,11,6,0,0
+Montague,6,U.S. Senate,,LIB,Ted Brown,7,0,3,4,0,0
+Montague,7,U.S. Senate,,LIB,Ted Brown,10,0,3,7,0,0
+Montague,8,U.S. Senate,,LIB,Ted Brown,8,0,3,5,0,0
+Montague,9,U.S. Senate,,LIB,Ted Brown,10,0,8,2,0,0
+Montague,10,U.S. Senate,,LIB,Ted Brown,18,1,9,8,0,0
+Montague,11,U.S. Senate,,LIB,Ted Brown,12,1,9,2,0,0
+Montague,12,U.S. Senate,,LIB,Ted Brown,1,0,1,0,0,0
+Montague,13,U.S. Senate,,LIB,Ted Brown,17,0,10,7,0,0
+Montague,14,U.S. Senate,,LIB,Ted Brown,1,0,1,0,0,0
+Montague,15,U.S. Senate,,LIB,Ted Brown,10,0,6,3,1,0
+Montague,16,U.S. Senate,,LIB,Ted Brown,5,0,4,1,0,0
+Montague,2,U.S. Senate,,REP,Ted Cruz,1793,40,1508,231,14,0
+Montague,3,U.S. Senate,,REP,Ted Cruz,933,10,769,151,3,0
+Montague,4,U.S. Senate,,REP,Ted Cruz,393,7,298,85,3,0
+Montague,5,U.S. Senate,,REP,Ted Cruz,654,12,536,101,5,0
+Montague,6,U.S. Senate,,REP,Ted Cruz,599,20,503,72,4,0
+Montague,7,U.S. Senate,,REP,Ted Cruz,781,15,539,223,4,0
+Montague,8,U.S. Senate,,REP,Ted Cruz,600,8,388,202,2,0
+Montague,9,U.S. Senate,,REP,Ted Cruz,863,19,715,120,9,0
+Montague,10,U.S. Senate,,REP,Ted Cruz,693,12,569,107,5,0
+Montague,11,U.S. Senate,,REP,Ted Cruz,605,15,482,106,2,0
+Montague,12,U.S. Senate,,REP,Ted Cruz,95,1,42,50,2,0
+Montague,13,U.S. Senate,,REP,Ted Cruz,676,9,552,113,2,0
+Montague,14,U.S. Senate,,REP,Ted Cruz,191,1,136,52,2,0
+Montague,15,U.S. Senate,,REP,Ted Cruz,378,3,316,55,4,0
+Montague,16,U.S. Senate,,REP,Ted Cruz,214,3,178,33,0,0
+Montague,2,U.S. Senate,,,Write-in,2,0,1,1,0,0
+Montague,3,U.S. Senate,,,Write-in,1,0,1,0,0,0
+Montague,4,U.S. Senate,,,Write-in,0,0,0,0,0,0
+Montague,5,U.S. Senate,,,Write-in,0,0,0,0,0,0
+Montague,6,U.S. Senate,,,Write-in,0,0,0,0,0,0
+Montague,7,U.S. Senate,,,Write-in,0,0,0,0,0,0
+Montague,8,U.S. Senate,,,Write-in,3,0,0,3,0,0
+Montague,9,U.S. Senate,,,Write-in,0,0,0,0,0,0
+Montague,10,U.S. Senate,,,Write-in,0,0,0,0,0,0
+Montague,11,U.S. Senate,,,Write-in,3,0,2,1,0,0
+Montague,12,U.S. Senate,,,Write-in,0,0,0,0,0,0
+Montague,13,U.S. Senate,,,Write-in,0,0,0,0,0,0
+Montague,14,U.S. Senate,,,Write-in,0,0,0,0,0,0
+Montague,15,U.S. Senate,,,Write-in,2,0,2,0,0,0
+Montague,16,U.S. Senate,,,Write-in,0,0,0,0,0,0

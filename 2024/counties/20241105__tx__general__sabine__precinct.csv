@@ -1,0 +1,581 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Sabine,1,Registered Voters,,,,2070,,,
+Sabine,1,Ballots Cast,,,,1402,,,
+Sabine,1,President,,REP,Donald J. Trump JD Vance,1272,62,1017,193
+Sabine,1,President,,DEM,Kamala D. Harris Tim Walz,114,10,78,26
+Sabine,1,President,,LIB,Chase Oliver Mike ter Maat,6,0,3,3
+Sabine,1,President,,GRN,Jill Stein Rudolph Ware,4,0,3,1
+Sabine,1,President,,,Under Votes,2,1,1,0
+Sabine,1,President,,,Over Votes,4,1,3,0
+Sabine,1,U.S. Senate,,REP,Ted Cruz,1252,60,1006,186
+Sabine,1,U.S. Senate,,DEM,Colin Allred,117,7,81,29
+Sabine,1,U.S. Senate,,LIB,Ted Brown,20,4,10,6
+Sabine,1,U.S. Senate,,,Under Votes,9,2,5,2
+Sabine,1,U.S. Senate,,,Over Votes,4,1,3,0
+Sabine,1,U.S. House,1,REP,Nathaniel Moran,1258,64,997,197
+Sabine,1,U.S. House,1,,Under Votes,144,10,108,26
+Sabine,1,U.S. House,1,,Over Votes,0,0,0,0
+Sabine,1,Railroad Commissioner,,REP,Christi Craddick,1226,60,985,181
+Sabine,1,Railroad Commissioner,,DEM,Katherine Culbert,94,7,64,23
+Sabine,1,Railroad Commissioner,,LIB,Hawk Dunlap,25,1,18,6
+Sabine,1,Railroad Commissioner,,GRN,Eddie Espinoza,8,2,5,1
+Sabine,1,Railroad Commissioner,,,Under Votes,46,3,31,12
+Sabine,1,Railroad Commissioner,,,Over Votes,3,1,2,0
+Sabine,1,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1251,62,999,190
+Sabine,1,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,108,8,76,24
+Sabine,1,"Justice, Supreme Court, Place 2",2,,Under Votes,42,3,30,9
+Sabine,1,"Justice, Supreme Court, Place 2",2,,Over Votes,1,1,0,0
+Sabine,1,"Justice, Supreme Court, Place 4",4,REP,John Devine,1234,61,986,187
+Sabine,1,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,110,9,79,22
+Sabine,1,"Justice, Supreme Court, Place 4",4,,Under Votes,56,3,39,14
+Sabine,1,"Justice, Supreme Court, Place 4",4,,Over Votes,2,1,1,0
+Sabine,1,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1229,60,984,185
+Sabine,1,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,99,8,70,21
+Sabine,1,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,27,1,18,8
+Sabine,1,"Justice, Supreme Court, Place 6",6,,Under Votes,45,4,32,9
+Sabine,1,"Justice, Supreme Court, Place 6",6,,Over Votes,2,1,1,0
+Sabine,1,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1242,62,996,184
+Sabine,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,114,8,78,28
+Sabine,1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,45,3,31,11
+Sabine,1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,1,0,0
+Sabine,1,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1235,62,985,188
+Sabine,1,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,110,8,77,25
+Sabine,1,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,56,3,43,10
+Sabine,1,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,1,0,0
+Sabine,1,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1238,62,985,191
+Sabine,1,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,98,8,70,20
+Sabine,1,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,65,3,50,12
+Sabine,1,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,1,0,0
+Sabine,1,State Representative,11,REP,Joanne Shofner,1215,62,956,197
+Sabine,1,State Representative,11,,Under Votes,187,12,149,26
+Sabine,1,State Representative,11,,Over Votes,0,0,0,0
+Sabine,1,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,1204,63,959,182
+Sabine,1,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,198,11,146,41
+Sabine,1,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Sabine,1,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,1181,63,940,178
+Sabine,1,"District Judge, 1st Judicial District",1,,Under Votes,221,11,165,45
+Sabine,1,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+Sabine,1,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,1166,63,925,178
+Sabine,1,"District Attorney, 1st Judicial District",1,,Under Votes,236,11,180,45
+Sabine,1,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+Sabine,1,County Attorney,,REP,"Robert ""Bobby"" G. Neal Jr",1202,65,957,180
+Sabine,1,County Attorney,,,Under Votes,200,9,148,43
+Sabine,1,County Attorney,,,Over Votes,0,0,0,0
+Sabine,1,Sheriff,,REP,Tom Maddox,1170,61,931,178
+Sabine,1,Sheriff,,,Under Votes,232,13,174,45
+Sabine,1,Sheriff,,,Over Votes,0,0,0,0
+Sabine,1,County Tax Assessor-Collector,,REP,Martha M. Stone,1213,65,963,185
+Sabine,1,County Tax Assessor-Collector,,,Under Votes,189,9,142,38
+Sabine,1,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Sabine,1,"County Commissioner, Precinct 1",,REP,Brent Cox,1191,63,946,182
+Sabine,1,"County Commissioner, Precinct 1",,,Under Votes,211,11,159,41
+Sabine,1,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Sabine,1,"Constable, Precinct 1",,REP,David West,1188,63,943,182
+Sabine,1,"Constable, Precinct 1",,,Under Votes,214,11,162,41
+Sabine,1,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Sabine,2,Registered Voters,,,,1657,,,
+Sabine,2,Ballots Cast,,,,1186,,,
+Sabine,2,President,,REP,Donald J. Trump JD Vance,1075,29,878,168
+Sabine,2,President,,DEM,Kamala D. Harris Tim Walz,104,12,71,21
+Sabine,2,President,,LIB,Chase Oliver Mike ter Maat,3,1,1,1
+Sabine,2,President,,GRN,Jill Stein Rudolph Ware,2,0,2,0
+Sabine,2,President,,,Under Votes,2,0,2,0
+Sabine,2,President,,,Over Votes,0,0,0,0
+Sabine,2,U.S. Senate,,REP,Ted Cruz,1055,29,866,160
+Sabine,2,U.S. Senate,,DEM,Colin Allred,103,13,68,22
+Sabine,2,U.S. Senate,,LIB,Ted Brown,16,0,11,5
+Sabine,2,U.S. Senate,,,Under Votes,12,0,9,3
+Sabine,2,U.S. Senate,,,Over Votes,0,0,0,0
+Sabine,2,U.S. House,1,REP,Nathaniel Moran,1072,32,873,167
+Sabine,2,U.S. House,1,,Under Votes,114,10,81,23
+Sabine,2,U.S. House,1,,Over Votes,0,0,0,0
+Sabine,2,Railroad Commissioner,,REP,Christi Craddick,1037,29,854,154
+Sabine,2,Railroad Commissioner,,DEM,Katherine Culbert,92,9,65,18
+Sabine,2,Railroad Commissioner,,LIB,Hawk Dunlap,20,1,12,7
+Sabine,2,Railroad Commissioner,,GRN,Eddie Espinoza,2,1,1,0
+Sabine,2,Railroad Commissioner,,,Under Votes,34,2,21,11
+Sabine,2,Railroad Commissioner,,,Over Votes,1,0,1,0
+Sabine,2,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1068,31,871,166
+Sabine,2,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,93,10,66,17
+Sabine,2,"Justice, Supreme Court, Place 2",2,,Under Votes,23,1,15,7
+Sabine,2,"Justice, Supreme Court, Place 2",2,,Over Votes,2,0,2,0
+Sabine,2,"Justice, Supreme Court, Place 4",4,REP,John Devine,1060,30,868,162
+Sabine,2,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,97,11,65,21
+Sabine,2,"Justice, Supreme Court, Place 4",4,,Under Votes,29,1,21,7
+Sabine,2,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Sabine,2,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1059,31,866,162
+Sabine,2,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,89,9,63,17
+Sabine,2,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,13,1,9,3
+Sabine,2,"Justice, Supreme Court, Place 6",6,,Under Votes,24,1,15,8
+Sabine,2,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Sabine,2,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1063,30,872,161
+Sabine,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,99,11,67,21
+Sabine,2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,24,1,15,8
+Sabine,2,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Sabine,2,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1066,28,873,165
+Sabine,2,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,92,12,63,17
+Sabine,2,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,28,2,18,8
+Sabine,2,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Sabine,2,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1070,30,876,164
+Sabine,2,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,88,10,60,18
+Sabine,2,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,28,2,18,8
+Sabine,2,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Sabine,2,State Representative,11,REP,Joanne Shofner,1063,33,865,165
+Sabine,2,State Representative,11,,Under Votes,123,9,89,25
+Sabine,2,State Representative,11,,Over Votes,0,0,0,0
+Sabine,2,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,1045,33,856,156
+Sabine,2,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,141,9,98,34
+Sabine,2,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Sabine,2,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,1026,33,836,157
+Sabine,2,"District Judge, 1st Judicial District",1,,Under Votes,160,9,118,33
+Sabine,2,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+Sabine,2,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,1033,33,847,153
+Sabine,2,"District Attorney, 1st Judicial District",1,,Under Votes,153,9,107,37
+Sabine,2,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+Sabine,2,County Attorney,,REP,"Robert ""Bobby"" G. Neal Jr",1032,34,847,151
+Sabine,2,County Attorney,,,Under Votes,154,8,107,39
+Sabine,2,County Attorney,,,Over Votes,0,0,0,0
+Sabine,2,Sheriff,,REP,Tom Maddox,1001,34,815,152
+Sabine,2,Sheriff,,,Under Votes,185,8,139,38
+Sabine,2,Sheriff,,,Over Votes,0,0,0,0
+Sabine,2,County Tax Assessor-Collector,,REP,Martha M. Stone,1059,34,868,157
+Sabine,2,County Tax Assessor-Collector,,,Under Votes,127,8,86,33
+Sabine,2,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Sabine,2,"Constable, Precinct 2",,REP,Johnny Jackson,1016,33,829,154
+Sabine,2,"Constable, Precinct 2",,,Under Votes,170,9,125,36
+Sabine,2,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Sabine,3,Registered Voters,,,,610,,,
+Sabine,3,Ballots Cast,,,,354,,,
+Sabine,3,President,,REP,Donald J. Trump JD Vance,270,5,154,111
+Sabine,3,President,,DEM,Kamala D. Harris Tim Walz,80,3,33,44
+Sabine,3,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Sabine,3,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Sabine,3,President,,,Under Votes,1,0,1,0
+Sabine,3,President,,,Over Votes,3,0,2,1
+Sabine,3,U.S. Senate,,REP,Ted Cruz,260,5,154,101
+Sabine,3,U.S. Senate,,DEM,Colin Allred,85,3,35,47
+Sabine,3,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+Sabine,3,U.S. Senate,,,Under Votes,7,0,1,6
+Sabine,3,U.S. Senate,,,Over Votes,1,0,0,1
+Sabine,3,U.S. House,1,REP,Nathaniel Moran,268,6,151,111
+Sabine,3,U.S. House,1,,Under Votes,86,2,39,45
+Sabine,3,U.S. House,1,,Over Votes,0,0,0,0
+Sabine,3,Railroad Commissioner,,REP,Christi Craddick,255,5,150,100
+Sabine,3,Railroad Commissioner,,DEM,Katherine Culbert,77,3,33,41
+Sabine,3,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,2,3
+Sabine,3,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,3,1
+Sabine,3,Railroad Commissioner,,,Under Votes,13,0,2,11
+Sabine,3,Railroad Commissioner,,,Over Votes,0,0,0,0
+Sabine,3,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,262,5,154,103
+Sabine,3,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,77,3,33,41
+Sabine,3,"Justice, Supreme Court, Place 2",2,,Under Votes,15,0,3,12
+Sabine,3,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Sabine,3,"Justice, Supreme Court, Place 4",4,REP,John Devine,257,5,153,99
+Sabine,3,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,75,3,32,40
+Sabine,3,"Justice, Supreme Court, Place 4",4,,Under Votes,22,0,5,17
+Sabine,3,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Sabine,3,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,252,5,150,97
+Sabine,3,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,75,2,32,41
+Sabine,3,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,10,1,3,6
+Sabine,3,"Justice, Supreme Court, Place 6",6,,Under Votes,15,0,3,12
+Sabine,3,"Justice, Supreme Court, Place 6",6,,Over Votes,2,0,2,0
+Sabine,3,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,258,5,152,101
+Sabine,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,80,3,35,42
+Sabine,3,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,16,0,3,13
+Sabine,3,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Sabine,3,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,261,5,153,103
+Sabine,3,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,76,3,34,39
+Sabine,3,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,17,0,3,14
+Sabine,3,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Sabine,3,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,259,5,153,101
+Sabine,3,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,76,3,34,39
+Sabine,3,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,19,0,3,16
+Sabine,3,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Sabine,3,State Representative,11,REP,Joanne Shofner,260,6,149,105
+Sabine,3,State Representative,11,,Under Votes,94,2,41,51
+Sabine,3,State Representative,11,,Over Votes,0,0,0,0
+Sabine,3,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,260,6,148,106
+Sabine,3,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,94,2,42,50
+Sabine,3,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Sabine,3,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,257,6,146,105
+Sabine,3,"District Judge, 1st Judicial District",1,,Under Votes,97,2,44,51
+Sabine,3,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+Sabine,3,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,254,6,144,104
+Sabine,3,"District Attorney, 1st Judicial District",1,,Under Votes,100,2,46,52
+Sabine,3,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+Sabine,3,County Attorney,,REP,"Robert ""Bobby"" G. Neal Jr",273,5,156,112
+Sabine,3,County Attorney,,,Under Votes,81,3,34,44
+Sabine,3,County Attorney,,,Over Votes,0,0,0,0
+Sabine,3,Sheriff,,REP,Tom Maddox,252,3,145,104
+Sabine,3,Sheriff,,,Under Votes,102,5,45,52
+Sabine,3,Sheriff,,,Over Votes,0,0,0,0
+Sabine,3,County Tax Assessor-Collector,,REP,Martha M. Stone,284,6,160,118
+Sabine,3,County Tax Assessor-Collector,,,Under Votes,70,2,30,38
+Sabine,3,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Sabine,3,"Constable, Precinct 2",,REP,Johnny Jackson,257,5,148,104
+Sabine,3,"Constable, Precinct 2",,,Under Votes,97,3,42,52
+Sabine,3,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Sabine,4,Registered Voters,,,,301,,,
+Sabine,4,Ballots Cast,,,,200,,,
+Sabine,4,President,,REP,Donald J. Trump JD Vance,191,11,101,79
+Sabine,4,President,,DEM,Kamala D. Harris Tim Walz,8,2,5,1
+Sabine,4,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Sabine,4,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Sabine,4,President,,,Under Votes,0,0,0,0
+Sabine,4,President,,,Over Votes,1,0,0,1
+Sabine,4,U.S. Senate,,REP,Ted Cruz,188,11,99,78
+Sabine,4,U.S. Senate,,DEM,Colin Allred,10,2,6,2
+Sabine,4,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Sabine,4,U.S. Senate,,,Under Votes,2,0,1,1
+Sabine,4,U.S. Senate,,,Over Votes,0,0,0,0
+Sabine,4,U.S. House,1,REP,Nathaniel Moran,189,10,100,79
+Sabine,4,U.S. House,1,,Under Votes,11,3,6,2
+Sabine,4,U.S. House,1,,Over Votes,0,0,0,0
+Sabine,4,Railroad Commissioner,,REP,Christi Craddick,184,10,96,78
+Sabine,4,Railroad Commissioner,,DEM,Katherine Culbert,8,2,4,2
+Sabine,4,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,2,0
+Sabine,4,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Sabine,4,Railroad Commissioner,,,Under Votes,5,1,3,1
+Sabine,4,Railroad Commissioner,,,Over Votes,0,0,0,0
+Sabine,4,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,191,10,101,80
+Sabine,4,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,6,2,3,1
+Sabine,4,"Justice, Supreme Court, Place 2",2,,Under Votes,3,1,2,0
+Sabine,4,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Sabine,4,"Justice, Supreme Court, Place 4",4,REP,John Devine,187,10,97,80
+Sabine,4,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,6,2,3,1
+Sabine,4,"Justice, Supreme Court, Place 4",4,,Under Votes,7,1,6,0
+Sabine,4,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Sabine,4,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,190,10,100,80
+Sabine,4,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,6,2,3,1
+Sabine,4,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,1,0,1,0
+Sabine,4,"Justice, Supreme Court, Place 6",6,,Under Votes,3,1,2,0
+Sabine,4,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Sabine,4,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,189,10,99,80
+Sabine,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,8,2,5,1
+Sabine,4,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,3,1,2,0
+Sabine,4,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Sabine,4,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,191,10,100,81
+Sabine,4,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,6,2,4,0
+Sabine,4,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,3,1,2,0
+Sabine,4,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Sabine,4,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,191,10,100,81
+Sabine,4,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,5,2,3,0
+Sabine,4,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,3,1,2,0
+Sabine,4,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,0,1,0
+Sabine,4,State Representative,11,REP,Joanne Shofner,188,10,97,81
+Sabine,4,State Representative,11,,Under Votes,12,3,9,0
+Sabine,4,State Representative,11,,Over Votes,0,0,0,0
+Sabine,4,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,191,10,100,81
+Sabine,4,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,9,3,6,0
+Sabine,4,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Sabine,4,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,191,10,100,81
+Sabine,4,"District Judge, 1st Judicial District",1,,Under Votes,9,3,6,0
+Sabine,4,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+Sabine,4,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,187,10,97,80
+Sabine,4,"District Attorney, 1st Judicial District",1,,Under Votes,13,3,9,1
+Sabine,4,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+Sabine,4,County Attorney,,REP,"Robert ""Bobby"" G. Neal Jr",188,10,98,80
+Sabine,4,County Attorney,,,Under Votes,12,3,8,1
+Sabine,4,County Attorney,,,Over Votes,0,0,0,0
+Sabine,4,Sheriff,,REP,Tom Maddox,191,11,100,80
+Sabine,4,Sheriff,,,Under Votes,9,2,6,1
+Sabine,4,Sheriff,,,Over Votes,0,0,0,0
+Sabine,4,County Tax Assessor-Collector,,REP,Martha M. Stone,194,11,102,81
+Sabine,4,County Tax Assessor-Collector,,,Under Votes,6,2,4,0
+Sabine,4,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Sabine,4,"County Commissioner, Precinct 3",,REP,Kenneth Brodie Jr,187,9,99,79
+Sabine,4,"County Commissioner, Precinct 3",,,Under Votes,13,4,7,2
+Sabine,4,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Sabine,4,"Constable, Precinct 2",,REP,Johnny Jackson,187,9,99,79
+Sabine,4,"Constable, Precinct 2",,,Under Votes,13,4,7,2
+Sabine,4,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Sabine,5,Registered Voters,,,,1358,,,
+Sabine,5,Ballots Cast,,,,870,,,
+Sabine,5,President,,REP,Donald J. Trump JD Vance,803,25,543,235
+Sabine,5,President,,DEM,Kamala D. Harris Tim Walz,63,2,42,19
+Sabine,5,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+Sabine,5,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+Sabine,5,President,,,Under Votes,0,0,0,0
+Sabine,5,President,,,Over Votes,2,0,1,1
+Sabine,5,U.S. Senate,,REP,Ted Cruz,773,24,528,221
+Sabine,5,U.S. Senate,,DEM,Colin Allred,77,2,48,27
+Sabine,5,U.S. Senate,,LIB,Ted Brown,10,0,7,3
+Sabine,5,U.S. Senate,,,Under Votes,9,1,4,4
+Sabine,5,U.S. Senate,,,Over Votes,1,0,1,0
+Sabine,5,U.S. House,1,REP,Nathaniel Moran,759,25,516,218
+Sabine,5,U.S. House,1,,Under Votes,111,2,72,37
+Sabine,5,U.S. House,1,,Over Votes,0,0,0,0
+Sabine,5,Railroad Commissioner,,REP,Christi Craddick,744,25,504,215
+Sabine,5,Railroad Commissioner,,DEM,Katherine Culbert,62,2,41,19
+Sabine,5,Railroad Commissioner,,LIB,Hawk Dunlap,11,0,6,5
+Sabine,5,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,2,2
+Sabine,5,Railroad Commissioner,,,Under Votes,49,0,35,14
+Sabine,5,Railroad Commissioner,,,Over Votes,0,0,0,0
+Sabine,5,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,764,25,522,217
+Sabine,5,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,60,2,39,19
+Sabine,5,"Justice, Supreme Court, Place 2",2,,Under Votes,46,0,27,19
+Sabine,5,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Sabine,5,"Justice, Supreme Court, Place 4",4,REP,John Devine,749,23,512,214
+Sabine,5,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,61,2,43,16
+Sabine,5,"Justice, Supreme Court, Place 4",4,,Under Votes,60,2,33,25
+Sabine,5,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Sabine,5,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,760,24,518,218
+Sabine,5,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,58,2,42,14
+Sabine,5,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,12,0,4,8
+Sabine,5,"Justice, Supreme Court, Place 6",6,,Under Votes,40,1,24,15
+Sabine,5,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Sabine,5,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,766,25,522,219
+Sabine,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,61,2,40,19
+Sabine,5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,43,0,26,17
+Sabine,5,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Sabine,5,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,763,24,519,220
+Sabine,5,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,61,2,42,17
+Sabine,5,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,46,1,27,18
+Sabine,5,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Sabine,5,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,772,25,523,224
+Sabine,5,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,55,2,39,14
+Sabine,5,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,43,0,26,17
+Sabine,5,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Sabine,5,State Representative,11,REP,Joanne Shofner,755,24,516,215
+Sabine,5,State Representative,11,,Under Votes,115,3,72,40
+Sabine,5,State Representative,11,,Over Votes,0,0,0,0
+Sabine,5,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,726,25,494,207
+Sabine,5,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,144,2,94,48
+Sabine,5,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Sabine,5,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,729,25,496,208
+Sabine,5,"District Judge, 1st Judicial District",1,,Under Votes,141,2,92,47
+Sabine,5,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+Sabine,5,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,719,25,487,207
+Sabine,5,"District Attorney, 1st Judicial District",1,,Under Votes,151,2,101,48
+Sabine,5,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+Sabine,5,County Attorney,,REP,"Robert ""Bobby"" G. Neal Jr",726,21,496,209
+Sabine,5,County Attorney,,,Under Votes,144,6,92,46
+Sabine,5,County Attorney,,,Over Votes,0,0,0,0
+Sabine,5,Sheriff,,REP,Tom Maddox,714,24,480,210
+Sabine,5,Sheriff,,,Under Votes,156,3,108,45
+Sabine,5,Sheriff,,,Over Votes,0,0,0,0
+Sabine,5,County Tax Assessor-Collector,,REP,Martha M. Stone,752,26,508,218
+Sabine,5,County Tax Assessor-Collector,,,Under Votes,118,1,80,37
+Sabine,5,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Sabine,5,"County Commissioner, Precinct 3",,REP,Kenneth Brodie Jr,729,26,491,212
+Sabine,5,"County Commissioner, Precinct 3",,,Under Votes,141,1,97,43
+Sabine,5,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Sabine,5,"Constable, Precinct 2",,REP,Johnny Jackson,696,21,469,206
+Sabine,5,"Constable, Precinct 2",,,Under Votes,174,6,119,49
+Sabine,5,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Sabine,6,Registered Voters,,,,1904,,,
+Sabine,6,Ballots Cast,,,,1236,,,
+Sabine,6,President,,REP,Donald J. Trump JD Vance,1097,35,803,259
+Sabine,6,President,,DEM,Kamala D. Harris Tim Walz,132,9,82,41
+Sabine,6,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+Sabine,6,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Sabine,6,President,,,Under Votes,4,0,3,1
+Sabine,6,President,,,Over Votes,2,0,1,1
+Sabine,6,U.S. Senate,,REP,Ted Cruz,1076,35,788,253
+Sabine,6,U.S. Senate,,DEM,Colin Allred,130,8,81,41
+Sabine,6,U.S. Senate,,LIB,Ted Brown,15,0,11,4
+Sabine,6,U.S. Senate,,,Under Votes,15,1,10,4
+Sabine,6,U.S. Senate,,,Over Votes,0,0,0,0
+Sabine,6,U.S. House,1,REP,Nathaniel Moran,1097,33,798,266
+Sabine,6,U.S. House,1,,Under Votes,139,11,92,36
+Sabine,6,U.S. House,1,,Over Votes,0,0,0,0
+Sabine,6,Railroad Commissioner,,REP,Christi Craddick,1066,33,780,253
+Sabine,6,Railroad Commissioner,,DEM,Katherine Culbert,111,8,70,33
+Sabine,6,Railroad Commissioner,,LIB,Hawk Dunlap,17,1,11,5
+Sabine,6,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,5,2
+Sabine,6,Railroad Commissioner,,,Under Votes,32,2,22,8
+Sabine,6,Railroad Commissioner,,,Over Votes,3,0,2,1
+Sabine,6,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1091,35,796,260
+Sabine,6,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,116,8,73,35
+Sabine,6,"Justice, Supreme Court, Place 2",2,,Under Votes,28,1,21,6
+Sabine,6,"Justice, Supreme Court, Place 2",2,,Over Votes,1,0,0,1
+Sabine,6,"Justice, Supreme Court, Place 4",4,REP,John Devine,1075,33,784,258
+Sabine,6,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,120,9,78,33
+Sabine,6,"Justice, Supreme Court, Place 4",4,,Under Votes,40,2,27,11
+Sabine,6,"Justice, Supreme Court, Place 4",4,,Over Votes,1,0,1,0
+Sabine,6,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1076,35,784,257
+Sabine,6,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,107,8,66,33
+Sabine,6,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,23,0,18,5
+Sabine,6,"Justice, Supreme Court, Place 6",6,,Under Votes,30,1,22,7
+Sabine,6,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Sabine,6,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1084,35,794,255
+Sabine,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,122,8,75,39
+Sabine,6,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,29,1,21,7
+Sabine,6,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,0,0,1
+Sabine,6,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1088,34,794,260
+Sabine,6,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,113,8,70,35
+Sabine,6,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,34,2,25,7
+Sabine,6,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,0,1,0
+Sabine,6,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1092,34,796,262
+Sabine,6,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,111,8,70,33
+Sabine,6,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,33,2,24,7
+Sabine,6,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Sabine,6,State Representative,11,REP,Joanne Shofner,1100,33,796,271
+Sabine,6,State Representative,11,,Under Votes,136,11,94,31
+Sabine,6,State Representative,11,,Over Votes,0,0,0,0
+Sabine,6,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,1096,33,794,269
+Sabine,6,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,140,11,96,33
+Sabine,6,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Sabine,6,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,1078,33,780,265
+Sabine,6,"District Judge, 1st Judicial District",1,,Under Votes,158,11,110,37
+Sabine,6,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+Sabine,6,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,1068,33,774,261
+Sabine,6,"District Attorney, 1st Judicial District",1,,Under Votes,168,11,116,41
+Sabine,6,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+Sabine,6,County Attorney,,REP,"Robert ""Bobby"" G. Neal Jr",1092,33,790,269
+Sabine,6,County Attorney,,,Under Votes,144,11,100,33
+Sabine,6,County Attorney,,,Over Votes,0,0,0,0
+Sabine,6,Sheriff,,REP,Tom Maddox,1042,32,751,259
+Sabine,6,Sheriff,,,Under Votes,194,12,139,43
+Sabine,6,Sheriff,,,Over Votes,0,0,0,0
+Sabine,6,County Tax Assessor-Collector,,REP,Martha M. Stone,1111,34,808,269
+Sabine,6,County Tax Assessor-Collector,,,Under Votes,125,10,82,33
+Sabine,6,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Sabine,6,"Constable, Precinct 1",,REP,David West,1083,34,788,261
+Sabine,6,"Constable, Precinct 1",,,Under Votes,153,10,102,41
+Sabine,6,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Sabine,7,Registered Voters,,,,208,,,
+Sabine,7,Ballots Cast,,,,103,,,
+Sabine,7,President,,REP,Donald J. Trump JD Vance,51,6,38,7
+Sabine,7,President,,DEM,Kamala D. Harris Tim Walz,52,7,21,24
+Sabine,7,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Sabine,7,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Sabine,7,President,,,Under Votes,0,0,0,0
+Sabine,7,President,,,Over Votes,0,0,0,0
+Sabine,7,U.S. Senate,,REP,Ted Cruz,52,8,38,6
+Sabine,7,U.S. Senate,,DEM,Colin Allred,50,5,21,24
+Sabine,7,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+Sabine,7,U.S. Senate,,,Under Votes,0,0,0,0
+Sabine,7,U.S. Senate,,,Over Votes,0,0,0,0
+Sabine,7,U.S. House,1,REP,Nathaniel Moran,65,9,43,13
+Sabine,7,U.S. House,1,,Under Votes,38,4,16,18
+Sabine,7,U.S. House,1,,Over Votes,0,0,0,0
+Sabine,7,Railroad Commissioner,,REP,Christi Craddick,48,7,36,5
+Sabine,7,Railroad Commissioner,,DEM,Katherine Culbert,47,6,20,21
+Sabine,7,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,0,3
+Sabine,7,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+Sabine,7,Railroad Commissioner,,,Under Votes,4,0,3,1
+Sabine,7,Railroad Commissioner,,,Over Votes,0,0,0,0
+Sabine,7,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,51,7,37,7
+Sabine,7,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,50,6,21,23
+Sabine,7,"Justice, Supreme Court, Place 2",2,,Under Votes,2,0,1,1
+Sabine,7,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Sabine,7,"Justice, Supreme Court, Place 4",4,REP,John Devine,45,6,33,6
+Sabine,7,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,53,6,23,24
+Sabine,7,"Justice, Supreme Court, Place 4",4,,Under Votes,5,1,3,1
+Sabine,7,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Sabine,7,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,50,7,37,6
+Sabine,7,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,50,6,20,24
+Sabine,7,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,1,0,0,1
+Sabine,7,"Justice, Supreme Court, Place 6",6,,Under Votes,2,0,2,0
+Sabine,7,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Sabine,7,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,50,7,37,6
+Sabine,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,50,6,19,25
+Sabine,7,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,3,0,3,0
+Sabine,7,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Sabine,7,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,52,7,37,8
+Sabine,7,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,49,6,20,23
+Sabine,7,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,2,0,2,0
+Sabine,7,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Sabine,7,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,52,7,37,8
+Sabine,7,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,49,6,20,23
+Sabine,7,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,2,0,2,0
+Sabine,7,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Sabine,7,State Representative,11,REP,Joanne Shofner,64,9,41,14
+Sabine,7,State Representative,11,,Under Votes,39,4,18,17
+Sabine,7,State Representative,11,,Over Votes,0,0,0,0
+Sabine,7,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,72,10,46,16
+Sabine,7,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,31,3,13,15
+Sabine,7,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Sabine,7,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,73,11,46,16
+Sabine,7,"District Judge, 1st Judicial District",1,,Under Votes,30,2,13,15
+Sabine,7,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+Sabine,7,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,71,10,45,16
+Sabine,7,"District Attorney, 1st Judicial District",1,,Under Votes,32,3,14,15
+Sabine,7,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+Sabine,7,County Attorney,,REP,"Robert ""Bobby"" G. Neal Jr",81,11,50,20
+Sabine,7,County Attorney,,,Under Votes,22,2,9,11
+Sabine,7,County Attorney,,,Over Votes,0,0,0,0
+Sabine,7,Sheriff,,REP,Tom Maddox,74,9,45,20
+Sabine,7,Sheriff,,,Under Votes,29,4,14,11
+Sabine,7,Sheriff,,,Over Votes,0,0,0,0
+Sabine,7,County Tax Assessor-Collector,,REP,Martha M. Stone,77,11,47,19
+Sabine,7,County Tax Assessor-Collector,,,Under Votes,26,2,12,12
+Sabine,7,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Sabine,7,"Constable, Precinct 1",,REP,David West,78,11,45,22
+Sabine,7,"Constable, Precinct 1",,,Under Votes,25,2,14,9
+Sabine,7,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Sabine,8,Registered Voters,,,,368,,,
+Sabine,8,Ballots Cast,,,,253,,,
+Sabine,8,President,,REP,Donald J. Trump JD Vance,213,5,127,81
+Sabine,8,President,,DEM,Kamala D. Harris Tim Walz,37,6,17,14
+Sabine,8,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+Sabine,8,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Sabine,8,President,,,Under Votes,1,0,0,1
+Sabine,8,President,,,Over Votes,1,0,0,1
+Sabine,8,U.S. Senate,,REP,Ted Cruz,208,5,124,79
+Sabine,8,U.S. Senate,,DEM,Colin Allred,40,6,17,17
+Sabine,8,U.S. Senate,,LIB,Ted Brown,1,0,1,0
+Sabine,8,U.S. Senate,,,Under Votes,4,0,2,2
+Sabine,8,U.S. Senate,,,Over Votes,0,0,0,0
+Sabine,8,U.S. House,1,REP,Nathaniel Moran,219,5,131,83
+Sabine,8,U.S. House,1,,Under Votes,34,6,13,15
+Sabine,8,U.S. House,1,,Over Votes,0,0,0,0
+Sabine,8,Railroad Commissioner,,REP,Christi Craddick,207,6,124,77
+Sabine,8,Railroad Commissioner,,DEM,Katherine Culbert,31,5,15,11
+Sabine,8,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,3,4
+Sabine,8,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Sabine,8,Railroad Commissioner,,,Under Votes,7,0,1,6
+Sabine,8,Railroad Commissioner,,,Over Votes,0,0,0,0
+Sabine,8,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,210,5,126,79
+Sabine,8,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,33,6,15,12
+Sabine,8,"Justice, Supreme Court, Place 2",2,,Under Votes,10,0,3,7
+Sabine,8,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Sabine,8,"Justice, Supreme Court, Place 4",4,REP,John Devine,207,5,125,77
+Sabine,8,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,38,6,18,14
+Sabine,8,"Justice, Supreme Court, Place 4",4,,Under Votes,8,0,1,7
+Sabine,8,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Sabine,8,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,203,5,124,74
+Sabine,8,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,35,6,15,14
+Sabine,8,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,6,0,3,3
+Sabine,8,"Justice, Supreme Court, Place 6",6,,Under Votes,8,0,1,7
+Sabine,8,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+Sabine,8,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,206,5,126,75
+Sabine,8,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,38,6,17,15
+Sabine,8,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,0,1,8
+Sabine,8,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Sabine,8,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,208,5,127,76
+Sabine,8,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,35,6,16,13
+Sabine,8,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,10,0,1,9
+Sabine,8,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Sabine,8,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,209,5,127,77
+Sabine,8,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,35,6,16,13
+Sabine,8,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,9,0,1,8
+Sabine,8,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Sabine,8,State Representative,11,REP,Joanne Shofner,216,5,132,79
+Sabine,8,State Representative,11,,Under Votes,37,6,12,19
+Sabine,8,State Representative,11,,Over Votes,0,0,0,0
+Sabine,8,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,216,5,130,81
+Sabine,8,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,37,6,14,17
+Sabine,8,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Sabine,8,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,211,5,128,78
+Sabine,8,"District Judge, 1st Judicial District",1,,Under Votes,42,6,16,20
+Sabine,8,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+Sabine,8,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,213,5,128,80
+Sabine,8,"District Attorney, 1st Judicial District",1,,Under Votes,40,6,16,18
+Sabine,8,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+Sabine,8,County Attorney,,REP,"Robert ""Bobby"" G. Neal Jr",219,5,130,84
+Sabine,8,County Attorney,,,Under Votes,34,6,14,14
+Sabine,8,County Attorney,,,Over Votes,0,0,0,0
+Sabine,8,Sheriff,,REP,Tom Maddox,215,5,125,85
+Sabine,8,Sheriff,,,Under Votes,38,6,19,13
+Sabine,8,Sheriff,,,Over Votes,0,0,0,0
+Sabine,8,County Tax Assessor-Collector,,REP,Martha M. Stone,223,7,128,88
+Sabine,8,County Tax Assessor-Collector,,,Under Votes,30,4,16,10
+Sabine,8,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Sabine,8,"County Commissioner, Precinct 3",,REP,Kenneth Brodie Jr,217,5,126,86
+Sabine,8,"County Commissioner, Precinct 3",,,Under Votes,36,6,18,12
+Sabine,8,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Sabine,8,"Constable, Precinct 2",,REP,Johnny Jackson,208,5,124,79
+Sabine,8,"Constable, Precinct 2",,,Under Votes,45,6,20,19
+Sabine,8,"Constable, Precinct 2",,,Over Votes,0,0,0,0

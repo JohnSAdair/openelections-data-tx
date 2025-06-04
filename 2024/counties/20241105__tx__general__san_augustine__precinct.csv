@@ -1,0 +1,888 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+San Augustine,1,Ballots Cast,,,,753,,,
+San Augustine,1,President,,REP,Donald J. Trump,517,6,385,126
+San Augustine,1,President,,DEM,Kamala D. Harris,224,11,156,57
+San Augustine,1,President,,LIB,Chase Oliver,2,0,1,1
+San Augustine,1,President,,GRN,Jill Stein,0,0,0,0
+San Augustine,1,President,,,Under Votes,4,0,4,0
+San Augustine,1,President,,,Over Votes,1,0,0,1
+San Augustine,1,U.S. Senate,,REP,Ted Cruz,502,4,379,119
+San Augustine,1,U.S. Senate,,DEM,Colin Allred,223,12,150,61
+San Augustine,1,U.S. Senate,,LIB,Ted Brown,9,1,4,4
+San Augustine,1,U.S. Senate,,,Under Votes,14,0,13,1
+San Augustine,1,U.S. Senate,,,Over Votes,0,0,0,0
+San Augustine,1,U.S. House,1,REP,Nathaniel Moran,549,8,400,141
+San Augustine,1,U.S. House,1,,Under Votes,199,9,146,44
+San Augustine,1,U.S. House,1,,Over Votes,0,0,0,0
+San Augustine,1,Railroad Commissioner,,REP,Christi Craddick,492,5,368,119
+San Augustine,1,Railroad Commissioner,,DEM,Katherine Culbert,203,8,143,52
+San Augustine,1,Railroad Commissioner,,LIB,Hawk Dunlap,14,1,8,5
+San Augustine,1,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1
+San Augustine,1,Railroad Commissioner,,,Under Votes,35,2,25,8
+San Augustine,1,Railroad Commissioner,,,Over Votes,1,1,0,0
+San Augustine,1,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,504,6,375,123
+San Augustine,1,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,207,8,145,54
+San Augustine,1,"Justice, Supreme Court, Place 2",2,,Under Votes,35,2,25,8
+San Augustine,1,"Justice, Supreme Court, Place 2",2,,Over Votes,2,1,1,0
+San Augustine,1,"Justice, Supreme Court, Place 4",4,REP,John Devine,501,6,371,124
+San Augustine,1,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,202,10,143,49
+San Augustine,1,"Justice, Supreme Court, Place 4",4,,Under Votes,44,0,32,12
+San Augustine,1,"Justice, Supreme Court, Place 4",4,,Over Votes,1,1,0,0
+San Augustine,1,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,494,5,370,119
+San Augustine,1,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,200,8,141,51
+San Augustine,1,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,13,1,6,6
+San Augustine,1,"Justice, Supreme Court, Place 6",6,,Under Votes,40,2,29,9
+San Augustine,1,"Justice, Supreme Court, Place 6",6,,Over Votes,1,1,0,0
+San Augustine,1,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,502,6,373,123
+San Augustine,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,207,8,147,52
+San Augustine,1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,38,2,26,10
+San Augustine,1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,1,0,0
+San Augustine,1,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,507,7,376,124
+San Augustine,1,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,199,9,139,51
+San Augustine,1,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,42,1,31,10
+San Augustine,1,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Augustine,1,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,503,6,372,125
+San Augustine,1,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,199,9,141,49
+San Augustine,1,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,45,1,33,11
+San Augustine,1,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,1,0,0
+San Augustine,1,State Representative,9,REP,Trent Ashby,559,9,408,142
+San Augustine,1,State Representative,9,,Under Votes,189,8,138,43
+San Augustine,1,State Representative,9,,Over Votes,0,0,0,0
+San Augustine,1,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,545,9,395,141
+San Augustine,1,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,203,8,151,44
+San Augustine,1,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Augustine,1,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,546,9,398,139
+San Augustine,1,"District Judge, 1st Judicial District",1,,Under Votes,202,8,148,46
+San Augustine,1,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,1,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,554,9,403,142
+San Augustine,1,"District Attorney, 1st Judicial District",1,,Under Votes,194,8,143,43
+San Augustine,1,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,1,County Attorney,,REP,Johnathan Bates,544,10,400,134
+San Augustine,1,County Attorney,,,Under Votes,204,7,146,51
+San Augustine,1,County Attorney,,,Over Votes,0,0,0,0
+San Augustine,1,Sheriff,,REP,Robert Cartwright,601,13,436,152
+San Augustine,1,Sheriff,,,Under Votes,147,4,110,33
+San Augustine,1,Sheriff,,,Over Votes,0,0,0,0
+San Augustine,1,County Tax Assessor-Collector,,REP,Regina Barthol,575,13,416,146
+San Augustine,1,County Tax Assessor-Collector,,,Under Votes,173,4,130,39
+San Augustine,1,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Augustine,1,"County Commissioner, Precinct 1",,REP,Adam Sharp,582,12,421,149
+San Augustine,1,"County Commissioner, Precinct 1",,,Under Votes,166,5,125,36
+San Augustine,1,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+San Augustine,1,"Constable, Precinct 1",,REP,"Walter ""Herman"" Shofner",544,9,396,139
+San Augustine,1,"Constable, Precinct 1",,,Under Votes,204,8,150,46
+San Augustine,1,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+San Augustine,1,"Constable, Precinct 1",,,Under Votes,66,2,46,18
+San Augustine,1,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+San Augustine,1,"Constable, Precinct 1",,,Under Votes,72,2,51,19
+San Augustine,1,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+San Augustine,1,"Constable, Precinct 1",,,Under Votes,31,1,19,11
+San Augustine,1,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+San Augustine,1,"Constable, Precinct 1",,,Under Votes,62,2,48,12
+San Augustine,1,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+San Augustine,1,"Constable, Precinct 1",,,Under Votes,61,2,41,18
+San Augustine,1,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+San Augustine,1,"Constable, Precinct 1",,,Under Votes,61,2,38,21
+San Augustine,1,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+San Augustine,1,"Constable, Precinct 1",,,Under Votes,152,4,110,38
+San Augustine,1,"Constable, Precinct 1",,,Over Votes,1,1,0,0
+San Augustine,1,"Constable, Precinct 1",,,Under Votes,94,1,73,20
+San Augustine,1,"Constable, Precinct 1",,,Over Votes,3,1,1,1
+San Augustine,1,"Constable, Precinct 1",,,Under Votes,232,4,174,54
+San Augustine,1,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+San Augustine,2,Ballots Cast,,,,223,,,
+San Augustine,2,President,,REP,Donald J. Trump,125,4,93,28
+San Augustine,2,President,,DEM,Kamala D. Harris,93,3,71,19
+San Augustine,2,President,,LIB,Chase Oliver,0,0,0,0
+San Augustine,2,President,,GRN,Jill Stein,2,0,2,0
+San Augustine,2,President,,,Under Votes,3,0,1,2
+San Augustine,2,President,,,Over Votes,0,0,0,0
+San Augustine,2,U.S. Senate,,REP,Ted Cruz,122,5,93,24
+San Augustine,2,U.S. Senate,,DEM,Colin Allred,94,2,70,22
+San Augustine,2,U.S. Senate,,LIB,Ted Brown,4,0,3,1
+San Augustine,2,U.S. Senate,,,Under Votes,3,0,1,2
+San Augustine,2,U.S. Senate,,,Over Votes,0,0,0,0
+San Augustine,2,U.S. House,1,REP,Nathaniel Moran,156,5,117,34
+San Augustine,2,U.S. House,1,,Under Votes,67,2,50,15
+San Augustine,2,U.S. House,1,,Over Votes,0,0,0,0
+San Augustine,2,Railroad Commissioner,,REP,Christi Craddick,120,4,89,27
+San Augustine,2,Railroad Commissioner,,DEM,Katherine Culbert,86,3,65,18
+San Augustine,2,Railroad Commissioner,,LIB,Hawk Dunlap,4,0,4,0
+San Augustine,2,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+San Augustine,2,Railroad Commissioner,,,Under Votes,12,0,8,4
+San Augustine,2,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Augustine,2,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,119,4,88,27
+San Augustine,2,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,91,3,70,18
+San Augustine,2,"Justice, Supreme Court, Place 2",2,,Under Votes,13,0,9,4
+San Augustine,2,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Augustine,2,"Justice, Supreme Court, Place 4",4,REP,John Devine,118,4,88,26
+San Augustine,2,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,88,3,67,18
+San Augustine,2,"Justice, Supreme Court, Place 4",4,,Under Votes,17,0,12,5
+San Augustine,2,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Augustine,2,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,117,4,86,27
+San Augustine,2,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,84,3,64,17
+San Augustine,2,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,6,0,6,0
+San Augustine,2,"Justice, Supreme Court, Place 6",6,,Under Votes,16,0,11,5
+San Augustine,2,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Augustine,2,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,120,4,90,26
+San Augustine,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,89,3,67,19
+San Augustine,2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,14,0,10,4
+San Augustine,2,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Augustine,2,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,118,4,88,26
+San Augustine,2,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,90,3,69,18
+San Augustine,2,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,15,0,10,5
+San Augustine,2,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Augustine,2,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,119,4,89,26
+San Augustine,2,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,87,3,66,18
+San Augustine,2,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,17,0,12,5
+San Augustine,2,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Augustine,2,State Representative,9,REP,Trent Ashby,156,5,116,35
+San Augustine,2,State Representative,9,,Under Votes,67,2,51,14
+San Augustine,2,State Representative,9,,Over Votes,0,0,0,0
+San Augustine,2,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,151,5,112,34
+San Augustine,2,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,72,2,55,15
+San Augustine,2,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Augustine,2,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,154,5,115,34
+San Augustine,2,"District Judge, 1st Judicial District",1,,Under Votes,69,2,52,15
+San Augustine,2,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,2,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,154,5,114,35
+San Augustine,2,"District Attorney, 1st Judicial District",1,,Under Votes,69,2,53,14
+San Augustine,2,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,2,County Attorney,,REP,Johnathan Bates,158,5,117,36
+San Augustine,2,County Attorney,,,Under Votes,65,2,50,13
+San Augustine,2,County Attorney,,,Over Votes,0,0,0,0
+San Augustine,2,Sheriff,,REP,Robert Cartwright,172,5,128,39
+San Augustine,2,Sheriff,,,Under Votes,51,2,39,10
+San Augustine,2,Sheriff,,,Over Votes,0,0,0,0
+San Augustine,2,County Tax Assessor-Collector,,REP,Regina Barthol,167,5,123,39
+San Augustine,2,County Tax Assessor-Collector,,,Under Votes,56,2,44,10
+San Augustine,2,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Augustine,2,"Constable, Precinct 2",,DEM,Alex Garner,156,7,112,37
+San Augustine,2,"Constable, Precinct 2",,,Under Votes,60,0,50,10
+San Augustine,2,"Constable, Precinct 2",,,Over Votes,1,0,1,0
+San Augustine,2,"Constable, Precinct 2",,,Under Votes,6,0,6,0
+San Augustine,2,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,2,"Constable, Precinct 2",,,Under Votes,6,0,6,0
+San Augustine,2,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,2,"Constable, Precinct 2",,,Under Votes,5,0,5,0
+San Augustine,2,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,2,"Constable, Precinct 2",,,Under Votes,7,0,7,0
+San Augustine,2,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,2,"Constable, Precinct 2",,,Under Votes,6,0,6,0
+San Augustine,2,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,2,"Constable, Precinct 2",,,Under Votes,5,0,5,0
+San Augustine,2,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,2,"Constable, Precinct 2",,,Under Votes,45,1,36,8
+San Augustine,2,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,2,"Constable, Precinct 2",,,Under Votes,22,1,17,4
+San Augustine,2,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,2,"Constable, Precinct 2",,,Under Votes,60,0,50,10
+San Augustine,2,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,3,Ballots Cast,,,,159,,,
+San Augustine,3,President,,REP,Donald J. Trump,111,14,73,24
+San Augustine,3,President,,DEM,Kamala D. Harris,46,7,22,17
+San Augustine,3,President,,LIB,Chase Oliver,1,0,0,1
+San Augustine,3,President,,GRN,Jill Stein,0,0,0,0
+San Augustine,3,President,,,Under Votes,0,0,0,0
+San Augustine,3,President,,,Over Votes,1,0,0,1
+San Augustine,3,U.S. Senate,,REP,Ted Cruz,109,14,73,22
+San Augustine,3,U.S. Senate,,DEM,Colin Allred,46,7,20,19
+San Augustine,3,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+San Augustine,3,U.S. Senate,,,Under Votes,3,0,2,1
+San Augustine,3,U.S. Senate,,,Over Votes,0,0,0,0
+San Augustine,3,U.S. House,1,REP,Nathaniel Moran,122,14,77,31
+San Augustine,3,U.S. House,1,,Under Votes,37,7,18,12
+San Augustine,3,U.S. House,1,,Over Votes,0,0,0,0
+San Augustine,3,Railroad Commissioner,,REP,Christi Craddick,104,10,70,24
+San Augustine,3,Railroad Commissioner,,DEM,Katherine Culbert,42,9,19,14
+San Augustine,3,Railroad Commissioner,,LIB,Hawk Dunlap,3,1,2,0
+San Augustine,3,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+San Augustine,3,Railroad Commissioner,,,Under Votes,9,1,4,4
+San Augustine,3,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Augustine,3,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,108,11,73,24
+San Augustine,3,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,43,9,20,14
+San Augustine,3,"Justice, Supreme Court, Place 2",2,,Under Votes,7,1,2,4
+San Augustine,3,"Justice, Supreme Court, Place 2",2,,Over Votes,1,0,0,1
+San Augustine,3,"Justice, Supreme Court, Place 4",4,REP,John Devine,108,12,73,23
+San Augustine,3,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,41,7,18,16
+San Augustine,3,"Justice, Supreme Court, Place 4",4,,Under Votes,9,1,4,4
+San Augustine,3,"Justice, Supreme Court, Place 4",4,,Over Votes,1,1,0,0
+San Augustine,3,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,100,9,71,20
+San Augustine,3,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,45,10,18,17
+San Augustine,3,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,6,1,2,3
+San Augustine,3,"Justice, Supreme Court, Place 6",6,,Under Votes,7,0,4,3
+San Augustine,3,"Justice, Supreme Court, Place 6",6,,Over Votes,1,1,0,0
+San Augustine,3,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,104,11,71,22
+San Augustine,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,48,10,21,17
+San Augustine,3,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,7,0,3,4
+San Augustine,3,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Augustine,3,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,109,13,73,23
+San Augustine,3,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,39,7,18,14
+San Augustine,3,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,10,1,4,5
+San Augustine,3,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,0,0,1
+San Augustine,3,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,109,13,73,23
+San Augustine,3,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,42,8,18,16
+San Augustine,3,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,8,0,4,4
+San Augustine,3,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Augustine,3,State Representative,9,REP,Trent Ashby,122,16,78,28
+San Augustine,3,State Representative,9,,Under Votes,37,5,17,15
+San Augustine,3,State Representative,9,,Over Votes,0,0,0,0
+San Augustine,3,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,117,16,72,29
+San Augustine,3,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,42,5,23,14
+San Augustine,3,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Augustine,3,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,117,16,71,30
+San Augustine,3,"District Judge, 1st Judicial District",1,,Under Votes,42,5,24,13
+San Augustine,3,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,3,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,116,18,70,28
+San Augustine,3,"District Attorney, 1st Judicial District",1,,Under Votes,43,3,25,15
+San Augustine,3,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,3,County Attorney,,REP,Johnathan Bates,120,18,76,26
+San Augustine,3,County Attorney,,,Under Votes,39,3,19,17
+San Augustine,3,County Attorney,,,Over Votes,0,0,0,0
+San Augustine,3,Sheriff,,REP,Robert Cartwright,128,17,79,32
+San Augustine,3,Sheriff,,,Under Votes,31,4,16,11
+San Augustine,3,Sheriff,,,Over Votes,0,0,0,0
+San Augustine,3,County Tax Assessor-Collector,,REP,Regina Barthol,123,18,76,29
+San Augustine,3,County Tax Assessor-Collector,,,Under Votes,36,3,19,14
+San Augustine,3,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Augustine,3,"County Commissioner, Precinct 3",,REP,Joey Holloway,125,18,78,29
+San Augustine,3,"County Commissioner, Precinct 3",,,Under Votes,34,3,17,14
+San Augustine,3,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+San Augustine,3,"Constable, Precinct 3",,REP,Joseph Watson,123,17,77,29
+San Augustine,3,"Constable, Precinct 3",,,Under Votes,36,4,18,14
+San Augustine,3,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Augustine,3,"Constable, Precinct 3",,,Under Votes,14,1,6,7
+San Augustine,3,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Augustine,3,"Constable, Precinct 3",,,Under Votes,21,3,10,8
+San Augustine,3,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Augustine,3,"Constable, Precinct 3",,,Under Votes,11,2,6,3
+San Augustine,3,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Augustine,3,"Constable, Precinct 3",,,Under Votes,21,3,11,7
+San Augustine,3,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Augustine,3,"Constable, Precinct 3",,,Under Votes,14,2,6,6
+San Augustine,3,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Augustine,3,"Constable, Precinct 3",,,Under Votes,16,2,9,5
+San Augustine,3,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Augustine,3,"Constable, Precinct 3",,,Under Votes,33,5,16,12
+San Augustine,3,"Constable, Precinct 3",,,Over Votes,1,0,0,1
+San Augustine,3,"Constable, Precinct 3",,,Under Votes,26,4,16,6
+San Augustine,3,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Augustine,3,"Constable, Precinct 3",,,Under Votes,49,4,29,16
+San Augustine,3,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Augustine,4,Ballots Cast,,,,266,,,
+San Augustine,4,President,,REP,Donald J. Trump,187,9,142,36
+San Augustine,4,President,,DEM,Kamala D. Harris,74,2,56,16
+San Augustine,4,President,,LIB,Chase Oliver,1,0,0,1
+San Augustine,4,President,,GRN,Jill Stein,0,0,0,0
+San Augustine,4,President,,,Under Votes,4,0,3,1
+San Augustine,4,President,,,Over Votes,0,0,0,0
+San Augustine,4,U.S. Senate,,REP,Ted Cruz,178,9,136,33
+San Augustine,4,U.S. Senate,,DEM,Colin Allred,72,2,55,15
+San Augustine,4,U.S. Senate,,LIB,Ted Brown,8,0,4,4
+San Augustine,4,U.S. Senate,,,Under Votes,8,0,6,2
+San Augustine,4,U.S. Senate,,,Over Votes,0,0,0,0
+San Augustine,4,U.S. House,1,REP,Nathaniel Moran,197,8,150,39
+San Augustine,4,U.S. House,1,,Under Votes,69,3,51,15
+San Augustine,4,U.S. House,1,,Over Votes,0,0,0,0
+San Augustine,4,Railroad Commissioner,,REP,Christi Craddick,174,9,132,33
+San Augustine,4,Railroad Commissioner,,DEM,Katherine Culbert,59,2,46,11
+San Augustine,4,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,5,2
+San Augustine,4,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,1,2
+San Augustine,4,Railroad Commissioner,,,Under Votes,23,0,17,6
+San Augustine,4,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Augustine,4,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,178,9,135,34
+San Augustine,4,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,64,2,47,15
+San Augustine,4,"Justice, Supreme Court, Place 2",2,,Under Votes,24,0,19,5
+San Augustine,4,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Augustine,4,"Justice, Supreme Court, Place 4",4,REP,John Devine,179,8,136,35
+San Augustine,4,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,61,2,45,14
+San Augustine,4,"Justice, Supreme Court, Place 4",4,,Under Votes,26,1,20,5
+San Augustine,4,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Augustine,4,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,174,9,132,33
+San Augustine,4,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,68,2,50,16
+San Augustine,4,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,5,0,3,2
+San Augustine,4,"Justice, Supreme Court, Place 6",6,,Under Votes,19,0,16,3
+San Augustine,4,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Augustine,4,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,178,8,135,35
+San Augustine,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,66,2,50,14
+San Augustine,4,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,22,1,16,5
+San Augustine,4,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Augustine,4,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,175,8,133,34
+San Augustine,4,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,70,2,53,15
+San Augustine,4,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,21,1,15,5
+San Augustine,4,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Augustine,4,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,180,8,137,35
+San Augustine,4,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,64,2,48,14
+San Augustine,4,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,22,1,16,5
+San Augustine,4,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Augustine,4,State Representative,9,REP,Trent Ashby,208,9,159,40
+San Augustine,4,State Representative,9,,Under Votes,58,2,42,14
+San Augustine,4,State Representative,9,,Over Votes,0,0,0,0
+San Augustine,4,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,192,8,148,36
+San Augustine,4,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,74,3,53,18
+San Augustine,4,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Augustine,4,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,196,8,150,38
+San Augustine,4,"District Judge, 1st Judicial District",1,,Under Votes,70,3,51,16
+San Augustine,4,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,4,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,201,8,155,38
+San Augustine,4,"District Attorney, 1st Judicial District",1,,Under Votes,65,3,46,16
+San Augustine,4,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,4,County Attorney,,REP,Johnathan Bates,199,8,153,38
+San Augustine,4,County Attorney,,,Under Votes,67,3,48,16
+San Augustine,4,County Attorney,,,Over Votes,0,0,0,0
+San Augustine,4,Sheriff,,REP,Robert Cartwright,220,9,166,45
+San Augustine,4,Sheriff,,,Under Votes,46,2,35,9
+San Augustine,4,Sheriff,,,Over Votes,0,0,0,0
+San Augustine,4,County Tax Assessor-Collector,,REP,Regina Barthol,207,8,157,42
+San Augustine,4,County Tax Assessor-Collector,,,Under Votes,59,3,44,12
+San Augustine,4,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Augustine,4,"Constable, Precinct 4",,REP,Ben Miller,207,9,155,43
+San Augustine,4,"Constable, Precinct 4",,,Under Votes,59,2,46,11
+San Augustine,4,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Augustine,4,"Constable, Precinct 4",,,Under Votes,73,3,55,15
+San Augustine,4,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Augustine,4,"Constable, Precinct 4",,,Under Votes,90,3,68,19
+San Augustine,4,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Augustine,4,"Constable, Precinct 4",,,Under Votes,42,1,30,11
+San Augustine,4,"Constable, Precinct 4",,,Over Votes,1,1,0,0
+San Augustine,4,"Constable, Precinct 4",,,Under Votes,60,3,43,14
+San Augustine,4,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Augustine,4,"Constable, Precinct 4",,,Under Votes,82,4,62,16
+San Augustine,4,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Augustine,4,"Constable, Precinct 4",,,Under Votes,52,2,36,14
+San Augustine,4,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Augustine,4,"Constable, Precinct 4",,,Under Votes,37,3,27,7
+San Augustine,4,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Augustine,4,"Constable, Precinct 4",,,Under Votes,28,3,19,6
+San Augustine,4,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Augustine,4,"Constable, Precinct 4",,,Under Votes,93,3,72,18
+San Augustine,4,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Augustine,5,Ballots Cast,,,,253,,,
+San Augustine,5,President,,REP,Donald J. Trump,212,7,132,73
+San Augustine,5,President,,DEM,Kamala D. Harris,38,5,27,6
+San Augustine,5,President,,LIB,Chase Oliver,2,0,0,2
+San Augustine,5,President,,GRN,Jill Stein,0,0,0,0
+San Augustine,5,President,,,Under Votes,1,0,0,1
+San Augustine,5,President,,,Over Votes,0,0,0,0
+San Augustine,5,U.S. Senate,,REP,Ted Cruz,209,7,128,74
+San Augustine,5,U.S. Senate,,DEM,Colin Allred,39,5,28,6
+San Augustine,5,U.S. Senate,,LIB,Ted Brown,2,0,1,1
+San Augustine,5,U.S. Senate,,,Under Votes,3,0,2,1
+San Augustine,5,U.S. Senate,,,Over Votes,0,0,0,0
+San Augustine,5,U.S. House,1,REP,Nathaniel Moran,211,8,129,74
+San Augustine,5,U.S. House,1,,Under Votes,42,4,30,8
+San Augustine,5,U.S. House,1,,Over Votes,0,0,0,0
+San Augustine,5,Railroad Commissioner,,REP,Christi Craddick,201,7,126,68
+San Augustine,5,Railroad Commissioner,,DEM,Katherine Culbert,36,5,26,5
+San Augustine,5,Railroad Commissioner,,LIB,Hawk Dunlap,9,0,2,7
+San Augustine,5,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+San Augustine,5,Railroad Commissioner,,,Under Votes,7,0,5,2
+San Augustine,5,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Augustine,5,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,211,7,128,76
+San Augustine,5,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,34,5,25,4
+San Augustine,5,"Justice, Supreme Court, Place 2",2,,Under Votes,8,0,6,2
+San Augustine,5,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Augustine,5,"Justice, Supreme Court, Place 4",4,REP,John Devine,208,7,127,74
+San Augustine,5,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,35,5,25,5
+San Augustine,5,"Justice, Supreme Court, Place 4",4,,Under Votes,9,0,7,2
+San Augustine,5,"Justice, Supreme Court, Place 4",4,,Over Votes,1,0,0,1
+San Augustine,5,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,203,7,126,70
+San Augustine,5,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,36,5,25,6
+San Augustine,5,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,3,0,1,2
+San Augustine,5,"Justice, Supreme Court, Place 6",6,,Under Votes,9,0,6,3
+San Augustine,5,"Justice, Supreme Court, Place 6",6,,Over Votes,2,0,1,1
+San Augustine,5,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,206,7,124,75
+San Augustine,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,37,5,28,4
+San Augustine,5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,10,0,7,3
+San Augustine,5,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Augustine,5,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,209,7,128,74
+San Augustine,5,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,34,5,25,4
+San Augustine,5,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,10,0,6,4
+San Augustine,5,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Augustine,5,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,212,7,128,77
+San Augustine,5,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,33,5,25,3
+San Augustine,5,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,8,0,6,2
+San Augustine,5,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Augustine,5,State Representative,9,REP,Trent Ashby,217,8,133,76
+San Augustine,5,State Representative,9,,Under Votes,36,4,26,6
+San Augustine,5,State Representative,9,,Over Votes,0,0,0,0
+San Augustine,5,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,209,8,128,73
+San Augustine,5,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,44,4,31,9
+San Augustine,5,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Augustine,5,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,204,7,124,73
+San Augustine,5,"District Judge, 1st Judicial District",1,,Under Votes,49,5,35,9
+San Augustine,5,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,5,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,209,8,126,75
+San Augustine,5,"District Attorney, 1st Judicial District",1,,Under Votes,44,4,33,7
+San Augustine,5,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,5,County Attorney,,REP,Johnathan Bates,206,8,124,74
+San Augustine,5,County Attorney,,,Under Votes,47,4,35,8
+San Augustine,5,County Attorney,,,Over Votes,0,0,0,0
+San Augustine,5,Sheriff,,REP,Robert Cartwright,215,8,134,73
+San Augustine,5,Sheriff,,,Under Votes,38,4,25,9
+San Augustine,5,Sheriff,,,Over Votes,0,0,0,0
+San Augustine,5,County Tax Assessor-Collector,,REP,Regina Barthol,219,8,135,76
+San Augustine,5,County Tax Assessor-Collector,,,Under Votes,34,4,24,6
+San Augustine,5,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Augustine,5,"Constable, Precinct 2",,DEM,Alex Garner,132,6,82,44
+San Augustine,5,"Constable, Precinct 2",,,Under Votes,110,4,76,30
+San Augustine,5,"Constable, Precinct 2",,,Over Votes,1,0,0,1
+San Augustine,5,"Constable, Precinct 2",,,Under Votes,47,1,26,20
+San Augustine,5,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,5,"Constable, Precinct 2",,,Under Votes,39,1,22,16
+San Augustine,5,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,5,"Constable, Precinct 2",,,Under Votes,78,3,48,27
+San Augustine,5,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,6,Ballots Cast,,,,221,,,
+San Augustine,6,President,,REP,Donald J. Trump,208,3,123,82
+San Augustine,6,President,,DEM,Kamala D. Harris,11,1,7,3
+San Augustine,6,President,,LIB,Chase Oliver,2,0,0,2
+San Augustine,6,President,,GRN,Jill Stein,0,0,0,0
+San Augustine,6,President,,,Under Votes,0,0,0,0
+San Augustine,6,President,,,Over Votes,0,0,0,0
+San Augustine,6,U.S. Senate,,REP,Ted Cruz,197,3,120,74
+San Augustine,6,U.S. Senate,,DEM,Colin Allred,13,1,7,5
+San Augustine,6,U.S. Senate,,LIB,Ted Brown,3,0,0,3
+San Augustine,6,U.S. Senate,,,Under Votes,8,0,3,5
+San Augustine,6,U.S. Senate,,,Over Votes,0,0,0,0
+San Augustine,6,U.S. House,1,REP,Nathaniel Moran,189,4,116,69
+San Augustine,6,U.S. House,1,,Under Votes,32,0,14,18
+San Augustine,6,U.S. House,1,,Over Votes,0,0,0,0
+San Augustine,6,Railroad Commissioner,,REP,Christi Craddick,183,3,110,70
+San Augustine,6,Railroad Commissioner,,DEM,Katherine Culbert,12,1,8,3
+San Augustine,6,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,2,3
+San Augustine,6,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,3,0
+San Augustine,6,Railroad Commissioner,,,Under Votes,17,0,7,10
+San Augustine,6,Railroad Commissioner,,,Over Votes,1,0,0,1
+San Augustine,6,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,193,3,117,73
+San Augustine,6,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,13,1,8,4
+San Augustine,6,"Justice, Supreme Court, Place 2",2,,Under Votes,15,0,5,10
+San Augustine,6,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Augustine,6,"Justice, Supreme Court, Place 4",4,REP,John Devine,190,3,116,71
+San Augustine,6,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,13,1,8,4
+San Augustine,6,"Justice, Supreme Court, Place 4",4,,Under Votes,18,0,6,12
+San Augustine,6,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Augustine,6,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,191,3,119,69
+San Augustine,6,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,10,1,6,3
+San Augustine,6,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,1,0,0,1
+San Augustine,6,"Justice, Supreme Court, Place 6",6,,Under Votes,19,0,5,14
+San Augustine,6,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Augustine,6,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,191,3,117,71
+San Augustine,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,11,1,6,4
+San Augustine,6,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,19,0,7,12
+San Augustine,6,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Augustine,6,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,192,3,119,70
+San Augustine,6,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,11,1,6,4
+San Augustine,6,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,18,0,5,13
+San Augustine,6,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Augustine,6,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,193,3,119,71
+San Augustine,6,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,10,1,6,3
+San Augustine,6,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,18,0,5,13
+San Augustine,6,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Augustine,6,State Representative,9,REP,Trent Ashby,194,4,115,75
+San Augustine,6,State Representative,9,,Under Votes,27,0,15,12
+San Augustine,6,State Representative,9,,Over Votes,0,0,0,0
+San Augustine,6,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,188,4,114,70
+San Augustine,6,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,33,0,16,17
+San Augustine,6,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Augustine,6,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,188,4,115,69
+San Augustine,6,"District Judge, 1st Judicial District",1,,Under Votes,33,0,15,18
+San Augustine,6,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,6,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,192,4,114,74
+San Augustine,6,"District Attorney, 1st Judicial District",1,,Under Votes,29,0,16,13
+San Augustine,6,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,6,County Attorney,,REP,Johnathan Bates,191,4,116,71
+San Augustine,6,County Attorney,,,Under Votes,30,0,14,16
+San Augustine,6,County Attorney,,,Over Votes,0,0,0,0
+San Augustine,6,Sheriff,,REP,Robert Cartwright,194,4,117,73
+San Augustine,6,Sheriff,,,Under Votes,27,0,13,14
+San Augustine,6,Sheriff,,,Over Votes,0,0,0,0
+San Augustine,6,County Tax Assessor-Collector,,REP,Regina Barthol,195,4,117,74
+San Augustine,6,County Tax Assessor-Collector,,,Under Votes,26,0,13,13
+San Augustine,6,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Augustine,6,"County Commissioner, Precinct 3",,REP,Joey Holloway,202,4,122,76
+San Augustine,6,"County Commissioner, Precinct 3",,,Under Votes,19,0,8,11
+San Augustine,6,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+San Augustine,6,"Constable, Precinct 3",,REP,Joseph Watson,192,4,115,73
+San Augustine,6,"Constable, Precinct 3",,,Under Votes,29,0,15,14
+San Augustine,6,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Augustine,7,Ballots Cast,,,,259,,,
+San Augustine,7,President,,REP,Donald J. Trump,228,3,144,81
+San Augustine,7,President,,DEM,Kamala D. Harris,28,0,16,12
+San Augustine,7,President,,LIB,Chase Oliver,2,0,2,0
+San Augustine,7,President,,GRN,Jill Stein,0,0,0,0
+San Augustine,7,President,,,Under Votes,1,0,0,1
+San Augustine,7,President,,,Over Votes,0,0,0,0
+San Augustine,7,U.S. Senate,,REP,Ted Cruz,220,3,141,76
+San Augustine,7,U.S. Senate,,DEM,Colin Allred,31,0,16,15
+San Augustine,7,U.S. Senate,,LIB,Ted Brown,5,0,3,2
+San Augustine,7,U.S. Senate,,,Under Votes,3,0,2,1
+San Augustine,7,U.S. Senate,,,Over Votes,0,0,0,0
+San Augustine,7,U.S. House,1,REP,Nathaniel Moran,225,3,141,81
+San Augustine,7,U.S. House,1,,Under Votes,34,0,21,13
+San Augustine,7,U.S. House,1,,Over Votes,0,0,0,0
+San Augustine,7,Railroad Commissioner,,REP,Christi Craddick,210,3,136,71
+San Augustine,7,Railroad Commissioner,,DEM,Katherine Culbert,28,0,15,13
+San Augustine,7,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,3,4
+San Augustine,7,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+San Augustine,7,Railroad Commissioner,,,Under Votes,13,0,8,5
+San Augustine,7,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Augustine,7,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,218,3,138,77
+San Augustine,7,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,28,0,15,13
+San Augustine,7,"Justice, Supreme Court, Place 2",2,,Under Votes,13,0,9,4
+San Augustine,7,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Augustine,7,"Justice, Supreme Court, Place 4",4,REP,John Devine,217,3,137,77
+San Augustine,7,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,26,0,16,10
+San Augustine,7,"Justice, Supreme Court, Place 4",4,,Under Votes,16,0,9,7
+San Augustine,7,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Augustine,7,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,211,3,136,72
+San Augustine,7,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,29,0,15,14
+San Augustine,7,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,6,0,3,3
+San Augustine,7,"Justice, Supreme Court, Place 6",6,,Under Votes,12,0,8,4
+San Augustine,7,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,0,1
+San Augustine,7,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,214,3,137,74
+San Augustine,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,31,0,16,15
+San Augustine,7,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,14,0,9,5
+San Augustine,7,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Augustine,7,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,216,3,138,75
+San Augustine,7,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,27,0,15,12
+San Augustine,7,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,16,0,9,7
+San Augustine,7,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Augustine,7,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,218,3,138,77
+San Augustine,7,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,25,0,15,10
+San Augustine,7,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,16,0,9,7
+San Augustine,7,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Augustine,7,State Representative,9,REP,Trent Ashby,234,3,145,86
+San Augustine,7,State Representative,9,,Under Votes,25,0,17,8
+San Augustine,7,State Representative,9,,Over Votes,0,0,0,0
+San Augustine,7,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,229,3,143,83
+San Augustine,7,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,30,0,19,11
+San Augustine,7,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Augustine,7,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,224,3,140,81
+San Augustine,7,"District Judge, 1st Judicial District",1,,Under Votes,35,0,22,13
+San Augustine,7,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,7,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,225,3,142,80
+San Augustine,7,"District Attorney, 1st Judicial District",1,,Under Votes,34,0,20,14
+San Augustine,7,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,7,County Attorney,,REP,Johnathan Bates,222,3,139,80
+San Augustine,7,County Attorney,,,Under Votes,37,0,23,14
+San Augustine,7,County Attorney,,,Over Votes,0,0,0,0
+San Augustine,7,Sheriff,,REP,Robert Cartwright,229,3,142,84
+San Augustine,7,Sheriff,,,Under Votes,30,0,20,10
+San Augustine,7,Sheriff,,,Over Votes,0,0,0,0
+San Augustine,7,County Tax Assessor-Collector,,REP,Regina Barthol,226,3,142,81
+San Augustine,7,County Tax Assessor-Collector,,,Under Votes,33,0,20,13
+San Augustine,7,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Augustine,7,"County Commissioner, Precinct 3",,REP,Joey Holloway,228,3,142,83
+San Augustine,7,"County Commissioner, Precinct 3",,,Under Votes,31,0,20,11
+San Augustine,7,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+San Augustine,7,"Constable, Precinct 3",,REP,Joseph Watson,227,3,141,83
+San Augustine,7,"Constable, Precinct 3",,,Under Votes,32,0,21,11
+San Augustine,7,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Augustine,8,Ballots Cast,,,,477,,,
+San Augustine,8,President,,REP,Donald J. Trump,432,7,326,99
+San Augustine,8,President,,DEM,Kamala D. Harris,43,5,25,13
+San Augustine,8,President,,LIB,Chase Oliver,1,0,1,0
+San Augustine,8,President,,GRN,Jill Stein,0,0,0,0
+San Augustine,8,President,,,Under Votes,1,0,1,0
+San Augustine,8,President,,,Over Votes,0,0,0,0
+San Augustine,8,U.S. Senate,,REP,Ted Cruz,420,6,321,93
+San Augustine,8,U.S. Senate,,DEM,Colin Allred,40,5,22,13
+San Augustine,8,U.S. Senate,,LIB,Ted Brown,14,1,8,5
+San Augustine,8,U.S. Senate,,,Under Votes,3,0,2,1
+San Augustine,8,U.S. Senate,,,Over Votes,0,0,0,0
+San Augustine,8,U.S. House,1,REP,Nathaniel Moran,413,7,313,93
+San Augustine,8,U.S. House,1,,Under Votes,64,5,40,19
+San Augustine,8,U.S. House,1,,Over Votes,0,0,0,0
+San Augustine,8,Railroad Commissioner,,REP,Christi Craddick,392,5,301,86
+San Augustine,8,Railroad Commissioner,,DEM,Katherine Culbert,42,5,24,13
+San Augustine,8,Railroad Commissioner,,LIB,Hawk Dunlap,21,2,12,7
+San Augustine,8,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+San Augustine,8,Railroad Commissioner,,,Under Votes,21,0,15,6
+San Augustine,8,Railroad Commissioner,,,Over Votes,1,0,1,0
+San Augustine,8,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,421,7,322,92
+San Augustine,8,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,40,5,20,15
+San Augustine,8,"Justice, Supreme Court, Place 2",2,,Under Votes,16,0,11,5
+San Augustine,8,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Augustine,8,"Justice, Supreme Court, Place 4",4,REP,John Devine,416,6,316,94
+San Augustine,8,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,41,6,22,13
+San Augustine,8,"Justice, Supreme Court, Place 4",4,,Under Votes,20,0,15,5
+San Augustine,8,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Augustine,8,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,410,6,314,90
+San Augustine,8,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,38,4,23,11
+San Augustine,8,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,9,1,5,3
+San Augustine,8,"Justice, Supreme Court, Place 6",6,,Under Votes,20,1,11,8
+San Augustine,8,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Augustine,8,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,422,5,321,96
+San Augustine,8,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,37,6,20,11
+San Augustine,8,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,18,1,12,5
+San Augustine,8,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Augustine,8,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,414,5,317,92
+San Augustine,8,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,43,6,23,14
+San Augustine,8,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,20,1,13,6
+San Augustine,8,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Augustine,8,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,421,5,319,97
+San Augustine,8,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,35,5,21,9
+San Augustine,8,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,21,2,13,6
+San Augustine,8,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Augustine,8,State Representative,9,REP,Trent Ashby,419,8,316,95
+San Augustine,8,State Representative,9,,Under Votes,58,4,37,17
+San Augustine,8,State Representative,9,,Over Votes,0,0,0,0
+San Augustine,8,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,407,8,309,90
+San Augustine,8,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,70,4,44,22
+San Augustine,8,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Augustine,8,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,400,7,301,92
+San Augustine,8,"District Judge, 1st Judicial District",1,,Under Votes,77,5,52,20
+San Augustine,8,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,8,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,405,7,308,90
+San Augustine,8,"District Attorney, 1st Judicial District",1,,Under Votes,72,5,45,22
+San Augustine,8,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,8,County Attorney,,REP,Johnathan Bates,403,7,305,91
+San Augustine,8,County Attorney,,,Under Votes,74,5,48,21
+San Augustine,8,County Attorney,,,Over Votes,0,0,0,0
+San Augustine,8,Sheriff,,REP,Robert Cartwright,399,10,299,90
+San Augustine,8,Sheriff,,,Under Votes,78,2,54,22
+San Augustine,8,Sheriff,,,Over Votes,0,0,0,0
+San Augustine,8,County Tax Assessor-Collector,,REP,Regina Barthol,408,9,306,93
+San Augustine,8,County Tax Assessor-Collector,,,Under Votes,69,3,47,19
+San Augustine,8,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Augustine,8,"County Commissioner, Precinct 3",,REP,Joey Holloway,408,10,305,93
+San Augustine,8,"County Commissioner, Precinct 3",,,Under Votes,69,2,48,19
+San Augustine,8,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+San Augustine,8,"Constable, Precinct 3",,REP,Joseph Watson,403,8,301,94
+San Augustine,8,"Constable, Precinct 3",,,Under Votes,74,4,52,18
+San Augustine,8,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Augustine,9,Ballots Cast,,,,687,,,
+San Augustine,9,President,,REP,Donald J. Trump,619,15,482,122
+San Augustine,9,President,,DEM,Kamala D. Harris,62,7,43,12
+San Augustine,9,President,,LIB,Chase Oliver,5,0,4,1
+San Augustine,9,President,,GRN,Jill Stein,0,0,0,0
+San Augustine,9,President,,,Under Votes,1,0,1,0
+San Augustine,9,President,,,Over Votes,0,0,0,0
+San Augustine,9,U.S. Senate,,REP,Ted Cruz,604,15,473,116
+San Augustine,9,U.S. Senate,,DEM,Colin Allred,67,6,48,13
+San Augustine,9,U.S. Senate,,LIB,Ted Brown,10,1,5,4
+San Augustine,9,U.S. Senate,,,Under Votes,6,0,4,2
+San Augustine,9,U.S. Senate,,,Over Votes,0,0,0,0
+San Augustine,9,U.S. House,1,REP,Nathaniel Moran,599,16,470,113
+San Augustine,9,U.S. House,1,,Under Votes,88,6,60,22
+San Augustine,9,U.S. House,1,,Over Votes,0,0,0,0
+San Augustine,9,Railroad Commissioner,,REP,Christi Craddick,588,15,458,115
+San Augustine,9,Railroad Commissioner,,DEM,Katherine Culbert,56,7,42,7
+San Augustine,9,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,12,5
+San Augustine,9,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+San Augustine,9,Railroad Commissioner,,,Under Votes,25,0,18,7
+San Augustine,9,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Augustine,9,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,603,15,473,115
+San Augustine,9,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,58,6,42,10
+San Augustine,9,"Justice, Supreme Court, Place 2",2,,Under Votes,26,1,15,10
+San Augustine,9,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Augustine,9,"Justice, Supreme Court, Place 4",4,REP,John Devine,601,15,471,115
+San Augustine,9,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,57,7,40,10
+San Augustine,9,"Justice, Supreme Court, Place 4",4,,Under Votes,29,0,19,10
+San Augustine,9,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Augustine,9,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,584,15,461,108
+San Augustine,9,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,57,7,40,10
+San Augustine,9,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,11,0,6,5
+San Augustine,9,"Justice, Supreme Court, Place 6",6,,Under Votes,35,0,23,12
+San Augustine,9,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Augustine,9,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,597,15,467,115
+San Augustine,9,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,62,7,44,11
+San Augustine,9,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,28,0,19,9
+San Augustine,9,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Augustine,9,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,598,15,469,114
+San Augustine,9,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,59,7,41,11
+San Augustine,9,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,30,0,20,10
+San Augustine,9,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Augustine,9,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,599,15,470,114
+San Augustine,9,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,57,7,41,9
+San Augustine,9,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,31,0,19,12
+San Augustine,9,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Augustine,9,State Representative,9,REP,Trent Ashby,610,16,478,116
+San Augustine,9,State Representative,9,,Under Votes,77,6,52,19
+San Augustine,9,State Representative,9,,Over Votes,0,0,0,0
+San Augustine,9,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,603,16,475,112
+San Augustine,9,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,84,6,55,23
+San Augustine,9,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Augustine,9,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,601,16,474,111
+San Augustine,9,"District Judge, 1st Judicial District",1,,Under Votes,86,6,56,24
+San Augustine,9,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,9,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,599,16,471,112
+San Augustine,9,"District Attorney, 1st Judicial District",1,,Under Votes,88,6,59,23
+San Augustine,9,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,9,County Attorney,,REP,Johnathan Bates,591,16,464,111
+San Augustine,9,County Attorney,,,Under Votes,96,6,66,24
+San Augustine,9,County Attorney,,,Over Votes,0,0,0,0
+San Augustine,9,Sheriff,,REP,Robert Cartwright,604,16,478,110
+San Augustine,9,Sheriff,,,Under Votes,83,6,52,25
+San Augustine,9,Sheriff,,,Over Votes,0,0,0,0
+San Augustine,9,County Tax Assessor-Collector,,REP,Regina Barthol,611,18,476,117
+San Augustine,9,County Tax Assessor-Collector,,,Under Votes,76,4,54,18
+San Augustine,9,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Augustine,9,"Constable, Precinct 4",,REP,Ben Miller,595,16,467,112
+San Augustine,9,"Constable, Precinct 4",,,Under Votes,92,6,63,23
+San Augustine,9,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Augustine,10,Ballots Cast,,,,287,,,
+San Augustine,10,President,,REP,Donald J. Trump,264,1,129,134
+San Augustine,10,President,,DEM,Kamala D. Harris,22,5,9,8
+San Augustine,10,President,,LIB,Chase Oliver,0,0,0,0
+San Augustine,10,President,,GRN,Jill Stein,1,0,0,1
+San Augustine,10,President,,,Under Votes,0,0,0,0
+San Augustine,10,President,,,Over Votes,0,0,0,0
+San Augustine,10,U.S. Senate,,REP,Ted Cruz,260,1,130,129
+San Augustine,10,U.S. Senate,,DEM,Colin Allred,19,4,6,9
+San Augustine,10,U.S. Senate,,LIB,Ted Brown,4,0,1,3
+San Augustine,10,U.S. Senate,,,Under Votes,4,1,1,2
+San Augustine,10,U.S. Senate,,,Over Votes,0,0,0,0
+San Augustine,10,U.S. House,1,REP,Nathaniel Moran,250,4,122,124
+San Augustine,10,U.S. House,1,,Under Votes,37,2,16,19
+San Augustine,10,U.S. House,1,,Over Votes,0,0,0,0
+San Augustine,10,Railroad Commissioner,,REP,Christi Craddick,245,1,120,124
+San Augustine,10,Railroad Commissioner,,DEM,Katherine Culbert,25,4,9,12
+San Augustine,10,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,2,1
+San Augustine,10,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+San Augustine,10,Railroad Commissioner,,,Under Votes,14,1,7,6
+San Augustine,10,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Augustine,10,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,253,2,125,126
+San Augustine,10,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,19,3,6,10
+San Augustine,10,"Justice, Supreme Court, Place 2",2,,Under Votes,15,1,7,7
+San Augustine,10,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Augustine,10,"Justice, Supreme Court, Place 4",4,REP,John Devine,247,1,124,122
+San Augustine,10,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,23,4,8,11
+San Augustine,10,"Justice, Supreme Court, Place 4",4,,Under Votes,17,1,6,10
+San Augustine,10,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Augustine,10,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,252,3,125,124
+San Augustine,10,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,19,2,7,10
+San Augustine,10,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,1,1
+San Augustine,10,"Justice, Supreme Court, Place 6",6,,Under Votes,14,1,5,8
+San Augustine,10,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Augustine,10,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,250,2,124,124
+San Augustine,10,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,20,3,8,9
+San Augustine,10,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,17,1,6,10
+San Augustine,10,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Augustine,10,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,245,1,123,121
+San Augustine,10,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,22,4,9,9
+San Augustine,10,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,20,1,6,13
+San Augustine,10,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Augustine,10,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,250,2,126,122
+San Augustine,10,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,19,3,6,10
+San Augustine,10,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,18,1,6,11
+San Augustine,10,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Augustine,10,State Representative,9,REP,Trent Ashby,258,5,124,129
+San Augustine,10,State Representative,9,,Under Votes,29,1,14,14
+San Augustine,10,State Representative,9,,Over Votes,0,0,0,0
+San Augustine,10,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,244,3,119,122
+San Augustine,10,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,43,3,19,21
+San Augustine,10,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Augustine,10,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,253,3,121,129
+San Augustine,10,"District Judge, 1st Judicial District",1,,Under Votes,34,3,17,14
+San Augustine,10,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,10,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,245,3,117,125
+San Augustine,10,"District Attorney, 1st Judicial District",1,,Under Votes,42,3,21,18
+San Augustine,10,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,10,County Attorney,,REP,Johnathan Bates,240,4,116,120
+San Augustine,10,County Attorney,,,Under Votes,47,2,22,23
+San Augustine,10,County Attorney,,,Over Votes,0,0,0,0
+San Augustine,10,Sheriff,,REP,Robert Cartwright,248,5,119,124
+San Augustine,10,Sheriff,,,Under Votes,39,1,19,19
+San Augustine,10,Sheriff,,,Over Votes,0,0,0,0
+San Augustine,10,County Tax Assessor-Collector,,REP,Regina Barthol,250,4,120,126
+San Augustine,10,County Tax Assessor-Collector,,,Under Votes,37,2,18,17
+San Augustine,10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Augustine,10,"Constable, Precinct 4",,REP,Ben Miller,244,3,117,124
+San Augustine,10,"Constable, Precinct 4",,,Under Votes,43,3,21,19
+San Augustine,10,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Augustine,10,"Constable, Precinct 4",,,Under Votes,87,2,52,33
+San Augustine,10,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Augustine,10,"Constable, Precinct 4",,,Under Votes,71,1,40,30
+San Augustine,10,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Augustine,10,"Constable, Precinct 4",,,Under Votes,119,1,68,50
+San Augustine,10,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Augustine,11,Ballots Cast,,,,187,,,
+San Augustine,11,President,,REP,Donald J. Trump,14,1,5,8
+San Augustine,11,President,,DEM,Kamala D. Harris,168,11,98,59
+San Augustine,11,President,,LIB,Chase Oliver,1,0,0,1
+San Augustine,11,President,,GRN,Jill Stein,1,0,1,0
+San Augustine,11,President,,,Under Votes,2,0,1,1
+San Augustine,11,President,,,Over Votes,1,0,1,0
+San Augustine,11,U.S. Senate,,REP,Ted Cruz,13,1,6,6
+San Augustine,11,U.S. Senate,,DEM,Colin Allred,164,10,94,60
+San Augustine,11,U.S. Senate,,LIB,Ted Brown,5,0,2,3
+San Augustine,11,U.S. Senate,,,Under Votes,5,1,4,0
+San Augustine,11,U.S. Senate,,,Over Votes,0,0,0,0
+San Augustine,11,U.S. House,1,REP,Nathaniel Moran,58,2,37,19
+San Augustine,11,U.S. House,1,,Under Votes,129,10,69,50
+San Augustine,11,U.S. House,1,,Over Votes,0,0,0,0
+San Augustine,11,Railroad Commissioner,,REP,Christi Craddick,8,2,3,3
+San Augustine,11,Railroad Commissioner,,DEM,Katherine Culbert,159,8,96,55
+San Augustine,11,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,0,1
+San Augustine,11,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+San Augustine,11,Railroad Commissioner,,,Under Votes,19,2,7,10
+San Augustine,11,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Augustine,11,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,7,1,3,3
+San Augustine,11,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,162,9,96,57
+San Augustine,11,"Justice, Supreme Court, Place 2",2,,Under Votes,18,2,7,9
+San Augustine,11,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Augustine,11,"Justice, Supreme Court, Place 4",4,REP,John Devine,8,1,3,4
+San Augustine,11,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,154,9,92,53
+San Augustine,11,"Justice, Supreme Court, Place 4",4,,Under Votes,25,2,11,12
+San Augustine,11,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Augustine,11,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,11,2,4,5
+San Augustine,11,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,154,8,94,52
+San Augustine,11,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,1,1
+San Augustine,11,"Justice, Supreme Court, Place 6",6,,Under Votes,20,2,7,11
+San Augustine,11,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Augustine,11,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,6,0,3,3
+San Augustine,11,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,159,9,94,56
+San Augustine,11,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,22,3,9,10
+San Augustine,11,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Augustine,11,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,8,1,4,3
+San Augustine,11,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,160,9,94,57
+San Augustine,11,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,19,2,8,9
+San Augustine,11,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Augustine,11,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,7,0,3,4
+San Augustine,11,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,155,9,93,53
+San Augustine,11,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,25,3,10,12
+San Augustine,11,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Augustine,11,State Representative,9,REP,Trent Ashby,62,3,36,23
+San Augustine,11,State Representative,9,,Under Votes,125,9,70,46
+San Augustine,11,State Representative,9,,Over Votes,0,0,0,0
+San Augustine,11,"Justice, 12th Court of Appeals District, Place 3",3,REP,Greg Neeley,57,3,33,21
+San Augustine,11,"Justice, 12th Court of Appeals District, Place 3",3,,Under Votes,130,9,73,48
+San Augustine,11,"Justice, 12th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Augustine,11,"District Judge, 1st Judicial District",1,REP,Craig M. Mixson,57,4,32,21
+San Augustine,11,"District Judge, 1st Judicial District",1,,Under Votes,130,8,74,48
+San Augustine,11,"District Judge, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,11,"District Attorney, 1st Judicial District",1,REP,Paul A. Robbins,67,4,37,26
+San Augustine,11,"District Attorney, 1st Judicial District",1,,Under Votes,120,8,69,43
+San Augustine,11,"District Attorney, 1st Judicial District",1,,Over Votes,0,0,0,0
+San Augustine,11,County Attorney,,REP,Johnathan Bates,72,4,41,27
+San Augustine,11,County Attorney,,,Under Votes,115,8,65,42
+San Augustine,11,County Attorney,,,Over Votes,0,0,0,0
+San Augustine,11,Sheriff,,REP,Robert Cartwright,103,7,63,33
+San Augustine,11,Sheriff,,,Under Votes,84,5,43,36
+San Augustine,11,Sheriff,,,Over Votes,0,0,0,0
+San Augustine,11,County Tax Assessor-Collector,,REP,Regina Barthol,90,6,56,28
+San Augustine,11,County Tax Assessor-Collector,,,Under Votes,97,6,50,41
+San Augustine,11,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Augustine,11,"Constable, Precinct 2",,DEM,Alex Garner,175,11,99,65
+San Augustine,11,"Constable, Precinct 2",,,Under Votes,12,1,7,4
+San Augustine,11,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,11,"Constable, Precinct 2",,,Under Votes,37,3,15,19
+San Augustine,11,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,11,"Constable, Precinct 2",,,Under Votes,52,1,25,26
+San Augustine,11,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,11,"Constable, Precinct 2",,,Under Votes,11,0,5,6
+San Augustine,11,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,11,"Constable, Precinct 2",,,Under Votes,80,5,41,34
+San Augustine,11,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,11,"Constable, Precinct 2",,,Under Votes,30,3,15,12
+San Augustine,11,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,11,"Constable, Precinct 2",,,Under Votes,66,5,31,30
+San Augustine,11,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,11,"Constable, Precinct 2",,,Under Votes,47,2,26,19
+San Augustine,11,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Augustine,11,"Constable, Precinct 2",,,Under Votes,10,1,6,3
+San Augustine,11,"Constable, Precinct 2",,,Over Votes,1,0,0,1
+San Augustine,11,"Constable, Precinct 2",,,Under Votes,30,2,13,15
+San Augustine,11,"Constable, Precinct 2",,,Over Votes,0,0,0,0

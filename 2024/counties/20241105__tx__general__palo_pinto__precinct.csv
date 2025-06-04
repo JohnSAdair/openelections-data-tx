@@ -1,0 +1,2276 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Palo Pinto,1,Registered Voters,,,,608,,,
+Palo Pinto,1,Ballots Cast,,,,476,,,
+Palo Pinto,1,President,,REP,Donald J. Trump JD Vance,401,16,305,80
+Palo Pinto,1,President,,DEM,Kamala D. Harris Tim Walz,69,8,44,17
+Palo Pinto,1,President,,LIB,Chase Oliver Mike ter Maat,2,0,1,1
+Palo Pinto,1,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+Palo Pinto,1,President,,,Under Votes,3,0,3,0
+Palo Pinto,1,President,,,Over Votes,0,0,0,0
+Palo Pinto,1,U.S. Senate,,REP,Ted Cruz,394,15,299,80
+Palo Pinto,1,U.S. Senate,,DEM,Colin Allred,72,9,47,16
+Palo Pinto,1,U.S. Senate,,LIB,Ted Brown,9,0,7,2
+Palo Pinto,1,U.S. Senate,,,Under Votes,1,0,0,1
+Palo Pinto,1,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,1,U.S. House,25,REP,Roger Williams,423,16,326,81
+Palo Pinto,1,U.S. House,25,(W),CHAD HAGG,0,0,0,0
+Palo Pinto,1,U.S. House,25,,Under Votes,53,8,27,18
+Palo Pinto,1,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,1,Railroad Commissioner,,REP,Christi Craddick,388,14,300,74
+Palo Pinto,1,Railroad Commissioner,,DEM,Katherine Culbert,57,7,36,14
+Palo Pinto,1,Railroad Commissioner,,LIB,Hawk Dunlap,14,0,10,4
+Palo Pinto,1,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+Palo Pinto,1,Railroad Commissioner,,,Under Votes,16,3,7,6
+Palo Pinto,1,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,1,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,398,14,307,77
+Palo Pinto,1,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,59,7,38,14
+Palo Pinto,1,"Justice, Supreme Court, Place 2",2,,Under Votes,19,3,8,8
+Palo Pinto,1,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,1,"Justice, Supreme Court, Place 4",4,REP,John Devine,398,14,306,78
+Palo Pinto,1,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,60,7,40,13
+Palo Pinto,1,"Justice, Supreme Court, Place 4",4,,Under Votes,18,3,7,8
+Palo Pinto,1,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,1,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,390,14,304,72
+Palo Pinto,1,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,63,8,39,16
+Palo Pinto,1,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,9,0,5,4
+Palo Pinto,1,"Justice, Supreme Court, Place 6",6,,Under Votes,14,2,5,7
+Palo Pinto,1,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,1,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,400,14,309,77
+Palo Pinto,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,60,7,38,15
+Palo Pinto,1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,16,3,6,7
+Palo Pinto,1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,1,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,399,14,307,78
+Palo Pinto,1,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,58,7,37,14
+Palo Pinto,1,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,19,3,9,7
+Palo Pinto,1,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,1,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,403,15,310,78
+Palo Pinto,1,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,55,5,36,14
+Palo Pinto,1,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,18,4,7,7
+Palo Pinto,1,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,1,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,408,15,312,81
+Palo Pinto,1,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,61,8,40,13
+Palo Pinto,1,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,7,1,1,5
+Palo Pinto,1,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,1,State Representative,60,REP,Mike Olcott,391,13,301,77
+Palo Pinto,1,State Representative,60,,Under Votes,85,11,52,22
+Palo Pinto,1,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,1,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,414,15,319,80
+Palo Pinto,1,"Chief Justice, 11th Court of Appeals District",,,Under Votes,62,9,34,19
+Palo Pinto,1,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,1,"District Judge, 29th Judicial District",29,REP,Michael Moore,417,16,320,81
+Palo Pinto,1,"District Judge, 29th Judicial District",29,,Under Votes,59,8,33,18
+Palo Pinto,1,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,1,"District Attorney, 29th Judicial District",29,REP,Jett Smith,421,16,323,82
+Palo Pinto,1,"District Attorney, 29th Judicial District",29,,Under Votes,55,8,30,17
+Palo Pinto,1,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,1,County Attorney,,REP,Maegan Kostiha,421,18,319,84
+Palo Pinto,1,County Attorney,,,Under Votes,55,6,34,15
+Palo Pinto,1,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,1,"District Clerk, Unexpired Term",,REP,Nathan Choate,409,17,310,82
+Palo Pinto,1,"District Clerk, Unexpired Term",,,Under Votes,67,7,43,17
+Palo Pinto,1,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,1,Sheriff,,REP,JR Patterson,424,18,321,85
+Palo Pinto,1,Sheriff,,,Under Votes,52,6,32,14
+Palo Pinto,1,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,1,County Tax Assessor-Collector,,REP,Stacy Choate,403,16,306,81
+Palo Pinto,1,County Tax Assessor-Collector,,,Under Votes,73,8,47,18
+Palo Pinto,1,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,1,"County Commissioner, Precinct 1",,REP,Richard Ralls,422,17,322,83
+Palo Pinto,1,"County Commissioner, Precinct 1",,,Under Votes,54,7,31,16
+Palo Pinto,1,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Palo Pinto,1,"Constable, Precinct 1",,REP,Rodney Price,425,18,322,85
+Palo Pinto,1,"Constable, Precinct 1",,,Under Votes,51,6,31,14
+Palo Pinto,1,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Palo Pinto,2,Registered Voters,,,,30,,,
+Palo Pinto,2,Ballots Cast,,,,18,,,
+Palo Pinto,2,President,,REP,Donald J. Trump JD Vance,17,0,12,5
+Palo Pinto,2,President,,DEM,Kamala D. Harris Tim Walz,1,0,1,0
+Palo Pinto,2,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Palo Pinto,2,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Palo Pinto,2,President,,,Under Votes,0,0,0,0
+Palo Pinto,2,President,,,Over Votes,0,0,0,0
+Palo Pinto,2,U.S. Senate,,REP,Ted Cruz,16,0,12,4
+Palo Pinto,2,U.S. Senate,,DEM,Colin Allred,2,0,1,1
+Palo Pinto,2,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Palo Pinto,2,U.S. Senate,,,Under Votes,0,0,0,0
+Palo Pinto,2,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,2,U.S. House,25,REP,Roger Williams,18,0,13,5
+Palo Pinto,2,U.S. House,25,(W),CHAD HAGG,0,0,0,0
+Palo Pinto,2,U.S. House,25,,Under Votes,0,0,0,0
+Palo Pinto,2,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,2,Railroad Commissioner,,REP,Christi Craddick,16,0,11,5
+Palo Pinto,2,Railroad Commissioner,,DEM,Katherine Culbert,1,0,1,0
+Palo Pinto,2,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Palo Pinto,2,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Palo Pinto,2,Railroad Commissioner,,,Under Votes,1,0,1,0
+Palo Pinto,2,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,2,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,17,0,12,5
+Palo Pinto,2,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,1,0,1,0
+Palo Pinto,2,"Justice, Supreme Court, Place 2",2,,Under Votes,0,0,0,0
+Palo Pinto,2,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,2,"Justice, Supreme Court, Place 4",4,REP,John Devine,17,0,12,5
+Palo Pinto,2,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,1,0,1,0
+Palo Pinto,2,"Justice, Supreme Court, Place 4",4,,Under Votes,0,0,0,0
+Palo Pinto,2,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,2,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,17,0,12,5
+Palo Pinto,2,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,1,0,1,0
+Palo Pinto,2,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Palo Pinto,2,"Justice, Supreme Court, Place 6",6,,Under Votes,0,0,0,0
+Palo Pinto,2,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,2,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,17,0,12,5
+Palo Pinto,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,1,0,1,0
+Palo Pinto,2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,0,0,0
+Palo Pinto,2,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,2,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,17,0,12,5
+Palo Pinto,2,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,1,0,1,0
+Palo Pinto,2,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,0,0,0,0
+Palo Pinto,2,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,2,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,17,0,12,5
+Palo Pinto,2,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,1,0,1,0
+Palo Pinto,2,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,0,0,0,0
+Palo Pinto,2,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,2,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,17,0,12,5
+Palo Pinto,2,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,1,0,1,0
+Palo Pinto,2,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,0,0,0,0
+Palo Pinto,2,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,2,State Representative,60,REP,Mike Olcott,16,0,12,4
+Palo Pinto,2,State Representative,60,,Under Votes,2,0,1,1
+Palo Pinto,2,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,2,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,17,0,12,5
+Palo Pinto,2,"Chief Justice, 11th Court of Appeals District",,,Under Votes,1,0,1,0
+Palo Pinto,2,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,2,"District Judge, 29th Judicial District",29,REP,Michael Moore,17,0,12,5
+Palo Pinto,2,"District Judge, 29th Judicial District",29,,Under Votes,1,0,1,0
+Palo Pinto,2,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,2,"District Attorney, 29th Judicial District",29,REP,Jett Smith,17,0,12,5
+Palo Pinto,2,"District Attorney, 29th Judicial District",29,,Under Votes,1,0,1,0
+Palo Pinto,2,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,2,County Attorney,,REP,Maegan Kostiha,17,0,12,5
+Palo Pinto,2,County Attorney,,,Under Votes,1,0,1,0
+Palo Pinto,2,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,2,"District Clerk, Unexpired Term",,REP,Nathan Choate,18,0,13,5
+Palo Pinto,2,"District Clerk, Unexpired Term",,,Under Votes,0,0,0,0
+Palo Pinto,2,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,2,Sheriff,,REP,JR Patterson,18,0,13,5
+Palo Pinto,2,Sheriff,,,Under Votes,0,0,0,0
+Palo Pinto,2,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,2,County Tax Assessor-Collector,,REP,Stacy Choate,18,0,13,5
+Palo Pinto,2,County Tax Assessor-Collector,,,Under Votes,0,0,0,0
+Palo Pinto,2,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,2,"County Commissioner, Precinct 1",,REP,Richard Ralls,18,0,13,5
+Palo Pinto,2,"County Commissioner, Precinct 1",,,Under Votes,0,0,0,0
+Palo Pinto,2,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Palo Pinto,2,"Constable, Precinct 2",,REP,Marc Moon,18,0,13,5
+Palo Pinto,2,"Constable, Precinct 2",,,Under Votes,0,0,0,0
+Palo Pinto,2,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Palo Pinto,3,Registered Voters,,,,1085,,,
+Palo Pinto,3,Ballots Cast,,,,787,,,
+Palo Pinto,3,President,,REP,Donald J. Trump JD Vance,675,43,426,206
+Palo Pinto,3,President,,DEM,Kamala D. Harris Tim Walz,105,7,67,31
+Palo Pinto,3,President,,LIB,Chase Oliver Mike ter Maat,2,0,1,1
+Palo Pinto,3,President,,GRN,Jill Stein Rudolph Ware,2,0,1,1
+Palo Pinto,3,President,,,Under Votes,2,0,1,1
+Palo Pinto,3,President,,,Over Votes,1,1,0,0
+Palo Pinto,3,U.S. Senate,,REP,Ted Cruz,651,42,417,192
+Palo Pinto,3,U.S. Senate,,DEM,Colin Allred,117,8,71,38
+Palo Pinto,3,U.S. Senate,,LIB,Ted Brown,9,1,5,3
+Palo Pinto,3,U.S. Senate,,,Under Votes,10,0,3,7
+Palo Pinto,3,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,3,U.S. House,25,REP,Roger Williams,715,40,458,217
+Palo Pinto,3,U.S. House,25,(W),CHAD HAGG,1,0,1,0
+Palo Pinto,3,U.S. House,25,,Under Votes,71,11,37,23
+Palo Pinto,3,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,3,Railroad Commissioner,,REP,Christi Craddick,665,41,426,198
+Palo Pinto,3,Railroad Commissioner,,DEM,Katherine Culbert,91,7,60,24
+Palo Pinto,3,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,4,4
+Palo Pinto,3,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,0,4
+Palo Pinto,3,Railroad Commissioner,,,Under Votes,19,3,6,10
+Palo Pinto,3,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,3,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,675,41,430,204
+Palo Pinto,3,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,94,7,58,29
+Palo Pinto,3,"Justice, Supreme Court, Place 2",2,,Under Votes,18,3,8,7
+Palo Pinto,3,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,3,"Justice, Supreme Court, Place 4",4,REP,John Devine,669,40,427,202
+Palo Pinto,3,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,98,8,61,29
+Palo Pinto,3,"Justice, Supreme Court, Place 4",4,,Under Votes,20,3,8,9
+Palo Pinto,3,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,3,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,668,41,424,203
+Palo Pinto,3,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,91,7,57,27
+Palo Pinto,3,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,7,0,6,1
+Palo Pinto,3,"Justice, Supreme Court, Place 6",6,,Under Votes,21,3,9,9
+Palo Pinto,3,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,3,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,670,40,428,202
+Palo Pinto,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,99,8,62,29
+Palo Pinto,3,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,18,3,6,9
+Palo Pinto,3,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,3,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,678,41,428,209
+Palo Pinto,3,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,88,7,59,22
+Palo Pinto,3,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,21,3,9,9
+Palo Pinto,3,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,3,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,678,41,432,205
+Palo Pinto,3,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,83,7,53,23
+Palo Pinto,3,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,26,3,11,12
+Palo Pinto,3,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,3,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,676,36,432,208
+Palo Pinto,3,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,88,7,59,22
+Palo Pinto,3,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,23,8,5,10
+Palo Pinto,3,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,3,State Representative,60,REP,Mike Olcott,671,33,432,206
+Palo Pinto,3,State Representative,60,,Under Votes,116,18,64,34
+Palo Pinto,3,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,3,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,693,34,448,211
+Palo Pinto,3,"Chief Justice, 11th Court of Appeals District",,,Under Votes,94,17,48,29
+Palo Pinto,3,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,3,"District Judge, 29th Judicial District",29,REP,Michael Moore,688,34,443,211
+Palo Pinto,3,"District Judge, 29th Judicial District",29,,Under Votes,99,17,53,29
+Palo Pinto,3,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,3,"District Attorney, 29th Judicial District",29,REP,Jett Smith,692,34,448,210
+Palo Pinto,3,"District Attorney, 29th Judicial District",29,,Under Votes,95,17,48,30
+Palo Pinto,3,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,3,County Attorney,,REP,Maegan Kostiha,696,35,450,211
+Palo Pinto,3,County Attorney,,,Under Votes,91,16,46,29
+Palo Pinto,3,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,3,"District Clerk, Unexpired Term",,REP,Nathan Choate,692,33,450,209
+Palo Pinto,3,"District Clerk, Unexpired Term",,,Under Votes,95,18,46,31
+Palo Pinto,3,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,3,Sheriff,,REP,JR Patterson,703,34,454,215
+Palo Pinto,3,Sheriff,,,Under Votes,84,17,42,25
+Palo Pinto,3,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,3,County Tax Assessor-Collector,,REP,Stacy Choate,712,37,456,219
+Palo Pinto,3,County Tax Assessor-Collector,,,Under Votes,75,14,40,21
+Palo Pinto,3,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,3,"Constable, Precinct 3",,REP,Johnny McKee Jr,704,33,455,216
+Palo Pinto,3,"Constable, Precinct 3",,,Under Votes,83,18,41,24
+Palo Pinto,3,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Palo Pinto,4,Registered Voters,,,,558,,,
+Palo Pinto,4,Ballots Cast,,,,345,,,
+Palo Pinto,4,President,,REP,Donald J. Trump JD Vance,313,4,236,73
+Palo Pinto,4,President,,DEM,Kamala D. Harris Tim Walz,31,0,22,9
+Palo Pinto,4,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Palo Pinto,4,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+Palo Pinto,4,President,,,Under Votes,0,0,0,0
+Palo Pinto,4,President,,,Over Votes,0,0,0,0
+Palo Pinto,4,U.S. Senate,,REP,Ted Cruz,302,4,229,69
+Palo Pinto,4,U.S. Senate,,DEM,Colin Allred,35,0,24,11
+Palo Pinto,4,U.S. Senate,,LIB,Ted Brown,6,0,4,2
+Palo Pinto,4,U.S. Senate,,,Under Votes,2,0,2,0
+Palo Pinto,4,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,4,U.S. House,25,REP,Roger Williams,325,4,244,77
+Palo Pinto,4,U.S. House,25,(W),CHAD HAGG,0,0,0,0
+Palo Pinto,4,U.S. House,25,,Under Votes,20,0,15,5
+Palo Pinto,4,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,4,Railroad Commissioner,,REP,Christi Craddick,298,4,225,69
+Palo Pinto,4,Railroad Commissioner,,DEM,Katherine Culbert,29,0,20,9
+Palo Pinto,4,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,4,3
+Palo Pinto,4,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,3,0
+Palo Pinto,4,Railroad Commissioner,,,Under Votes,8,0,7,1
+Palo Pinto,4,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,4,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,304,4,227,73
+Palo Pinto,4,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,32,0,24,8
+Palo Pinto,4,"Justice, Supreme Court, Place 2",2,,Under Votes,9,0,8,1
+Palo Pinto,4,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,4,"Justice, Supreme Court, Place 4",4,REP,John Devine,304,4,228,72
+Palo Pinto,4,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,33,0,24,9
+Palo Pinto,4,"Justice, Supreme Court, Place 4",4,,Under Votes,8,0,7,1
+Palo Pinto,4,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,4,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,301,4,226,71
+Palo Pinto,4,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,28,0,22,6
+Palo Pinto,4,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,9,0,5,4
+Palo Pinto,4,"Justice, Supreme Court, Place 6",6,,Under Votes,7,0,6,1
+Palo Pinto,4,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,4,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,301,4,224,73
+Palo Pinto,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,35,0,27,8
+Palo Pinto,4,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,0,8,1
+Palo Pinto,4,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,4,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,305,4,229,72
+Palo Pinto,4,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,32,0,23,9
+Palo Pinto,4,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,8,0,7,1
+Palo Pinto,4,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,4,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,303,4,227,72
+Palo Pinto,4,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,31,0,22,9
+Palo Pinto,4,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,11,0,10,1
+Palo Pinto,4,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,4,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,311,4,235,72
+Palo Pinto,4,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,30,0,21,9
+Palo Pinto,4,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,4,0,3,1
+Palo Pinto,4,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,4,State Representative,60,REP,Mike Olcott,312,3,234,75
+Palo Pinto,4,State Representative,60,,Under Votes,33,1,25,7
+Palo Pinto,4,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,4,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,315,4,236,75
+Palo Pinto,4,"Chief Justice, 11th Court of Appeals District",,,Under Votes,30,0,23,7
+Palo Pinto,4,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,4,"District Judge, 29th Judicial District",29,REP,Michael Moore,312,4,232,76
+Palo Pinto,4,"District Judge, 29th Judicial District",29,,Under Votes,33,0,27,6
+Palo Pinto,4,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,4,"District Attorney, 29th Judicial District",29,REP,Jett Smith,319,4,240,75
+Palo Pinto,4,"District Attorney, 29th Judicial District",29,,Under Votes,26,0,19,7
+Palo Pinto,4,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,4,County Attorney,,REP,Maegan Kostiha,312,4,232,76
+Palo Pinto,4,County Attorney,,,Under Votes,33,0,27,6
+Palo Pinto,4,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,4,"District Clerk, Unexpired Term",,REP,Nathan Choate,315,4,236,75
+Palo Pinto,4,"District Clerk, Unexpired Term",,,Under Votes,30,0,23,7
+Palo Pinto,4,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,4,Sheriff,,REP,JR Patterson,321,4,240,77
+Palo Pinto,4,Sheriff,,,Under Votes,24,0,19,5
+Palo Pinto,4,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,4,County Tax Assessor-Collector,,REP,Stacy Choate,318,4,240,74
+Palo Pinto,4,County Tax Assessor-Collector,,,Under Votes,27,0,19,8
+Palo Pinto,4,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,4,"Constable, Precinct 5",,REP,Scott Mitcham,315,4,239,72
+Palo Pinto,4,"Constable, Precinct 5",,,Under Votes,30,0,20,10
+Palo Pinto,4,"Constable, Precinct 5",,,Over Votes,0,0,0,0
+Palo Pinto,5,Registered Voters,,,,509,,,
+Palo Pinto,5,Ballots Cast,,,,350,,,
+Palo Pinto,5,President,,REP,Donald J. Trump JD Vance,274,10,88,176
+Palo Pinto,5,President,,DEM,Kamala D. Harris Tim Walz,70,4,30,36
+Palo Pinto,5,President,,LIB,Chase Oliver Mike ter Maat,4,0,2,2
+Palo Pinto,5,President,,GRN,Jill Stein Rudolph Ware,2,0,0,2
+Palo Pinto,5,President,,,Under Votes,0,0,0,0
+Palo Pinto,5,President,,,Over Votes,0,0,0,0
+Palo Pinto,5,U.S. Senate,,REP,Ted Cruz,266,10,87,169
+Palo Pinto,5,U.S. Senate,,DEM,Colin Allred,74,4,29,41
+Palo Pinto,5,U.S. Senate,,LIB,Ted Brown,6,0,1,5
+Palo Pinto,5,U.S. Senate,,,Under Votes,4,0,3,1
+Palo Pinto,5,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,5,U.S. House,25,REP,Roger Williams,297,9,98,190
+Palo Pinto,5,U.S. House,25,(W),CHAD HAGG,1,0,1,0
+Palo Pinto,5,U.S. House,25,,Under Votes,52,5,21,26
+Palo Pinto,5,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,5,Railroad Commissioner,,REP,Christi Craddick,262,9,88,165
+Palo Pinto,5,Railroad Commissioner,,DEM,Katherine Culbert,60,4,27,29
+Palo Pinto,5,Railroad Commissioner,,LIB,Hawk Dunlap,13,0,3,10
+Palo Pinto,5,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,0,6
+Palo Pinto,5,Railroad Commissioner,,,Under Votes,9,1,2,6
+Palo Pinto,5,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,5,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,273,9,90,174
+Palo Pinto,5,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,67,4,27,36
+Palo Pinto,5,"Justice, Supreme Court, Place 2",2,,Under Votes,10,1,3,6
+Palo Pinto,5,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,5,"Justice, Supreme Court, Place 4",4,REP,John Devine,269,9,90,170
+Palo Pinto,5,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,76,4,29,43
+Palo Pinto,5,"Justice, Supreme Court, Place 4",4,,Under Votes,5,1,1,3
+Palo Pinto,5,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,5,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,267,9,90,168
+Palo Pinto,5,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,63,4,26,33
+Palo Pinto,5,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,13,0,3,10
+Palo Pinto,5,"Justice, Supreme Court, Place 6",6,,Under Votes,7,1,1,5
+Palo Pinto,5,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,5,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,272,9,91,172
+Palo Pinto,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,72,4,29,39
+Palo Pinto,5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,6,1,0,5
+Palo Pinto,5,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,5,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,273,9,93,171
+Palo Pinto,5,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,68,4,26,38
+Palo Pinto,5,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,9,1,1,7
+Palo Pinto,5,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,5,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,274,9,92,173
+Palo Pinto,5,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,66,4,27,35
+Palo Pinto,5,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,10,1,1,8
+Palo Pinto,5,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,5,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,270,9,95,166
+Palo Pinto,5,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,66,4,24,38
+Palo Pinto,5,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,14,1,1,12
+Palo Pinto,5,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,5,State Representative,60,REP,Mike Olcott,278,9,92,177
+Palo Pinto,5,State Representative,60,,Under Votes,72,5,28,39
+Palo Pinto,5,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,5,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,283,9,96,178
+Palo Pinto,5,"Chief Justice, 11th Court of Appeals District",,,Under Votes,67,5,24,38
+Palo Pinto,5,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,5,"District Judge, 29th Judicial District",29,REP,Michael Moore,286,9,98,179
+Palo Pinto,5,"District Judge, 29th Judicial District",29,,Under Votes,64,5,22,37
+Palo Pinto,5,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,5,"District Attorney, 29th Judicial District",29,REP,Jett Smith,287,9,97,181
+Palo Pinto,5,"District Attorney, 29th Judicial District",29,,Under Votes,63,5,23,35
+Palo Pinto,5,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,5,County Attorney,,REP,Maegan Kostiha,298,10,99,189
+Palo Pinto,5,County Attorney,,,Under Votes,52,4,21,27
+Palo Pinto,5,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,5,"District Clerk, Unexpired Term",,REP,Nathan Choate,287,8,97,182
+Palo Pinto,5,"District Clerk, Unexpired Term",,,Under Votes,63,6,23,34
+Palo Pinto,5,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,5,Sheriff,,REP,JR Patterson,290,9,98,183
+Palo Pinto,5,Sheriff,,,Under Votes,59,5,21,33
+Palo Pinto,5,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,5,County Tax Assessor-Collector,,REP,Stacy Choate,299,12,99,188
+Palo Pinto,5,County Tax Assessor-Collector,,,Under Votes,51,2,21,28
+Palo Pinto,5,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,5,"County Commissioner, Precinct 3",,REP,James Pollock,317,12,109,196
+Palo Pinto,5,"County Commissioner, Precinct 3",,,Under Votes,33,2,11,20
+Palo Pinto,5,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Palo Pinto,5,"Constable, Precinct 4",,REP,Abelardo Saldana,304,11,100,193
+Palo Pinto,5,"Constable, Precinct 4",,,Under Votes,46,3,20,23
+Palo Pinto,5,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Palo Pinto,6,Registered Voters,,,,1069,,,
+Palo Pinto,6,Ballots Cast,,,,850,,,
+Palo Pinto,6,President,,REP,Donald J. Trump JD Vance,685,24,439,222
+Palo Pinto,6,President,,DEM,Kamala D. Harris Tim Walz,152,14,102,36
+Palo Pinto,6,President,,LIB,Chase Oliver Mike ter Maat,4,0,3,1
+Palo Pinto,6,President,,GRN,Jill Stein Rudolph Ware,4,0,3,1
+Palo Pinto,6,President,,,Under Votes,5,0,4,1
+Palo Pinto,6,President,,,Over Votes,0,0,0,0
+Palo Pinto,6,U.S. Senate,,REP,Ted Cruz,657,23,427,207
+Palo Pinto,6,U.S. Senate,,DEM,Colin Allred,167,14,112,41
+Palo Pinto,6,U.S. Senate,,LIB,Ted Brown,14,0,6,8
+Palo Pinto,6,U.S. Senate,,,Under Votes,11,1,6,4
+Palo Pinto,6,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,6,U.S. House,25,REP,Roger Williams,731,26,471,234
+Palo Pinto,6,U.S. House,25,(W),CHAD HAGG,4,2,2,0
+Palo Pinto,6,U.S. House,25,,Under Votes,115,10,78,27
+Palo Pinto,6,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,6,Railroad Commissioner,,REP,Christi Craddick,655,23,427,205
+Palo Pinto,6,Railroad Commissioner,,DEM,Katherine Culbert,132,11,89,32
+Palo Pinto,6,Railroad Commissioner,,LIB,Hawk Dunlap,23,0,12,11
+Palo Pinto,6,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,5,2
+Palo Pinto,6,Railroad Commissioner,,,Under Votes,33,4,18,11
+Palo Pinto,6,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,6,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,691,23,446,222
+Palo Pinto,6,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,130,12,88,30
+Palo Pinto,6,"Justice, Supreme Court, Place 2",2,,Under Votes,29,3,17,9
+Palo Pinto,6,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,6,"Justice, Supreme Court, Place 4",4,REP,John Devine,678,23,442,213
+Palo Pinto,6,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,139,12,93,34
+Palo Pinto,6,"Justice, Supreme Court, Place 4",4,,Under Votes,33,3,16,14
+Palo Pinto,6,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,6,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,673,23,440,210
+Palo Pinto,6,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,130,13,86,31
+Palo Pinto,6,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,17,0,9,8
+Palo Pinto,6,"Justice, Supreme Court, Place 6",6,,Under Votes,30,2,16,12
+Palo Pinto,6,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,6,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,679,23,442,214
+Palo Pinto,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,137,11,92,34
+Palo Pinto,6,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,34,4,17,13
+Palo Pinto,6,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,6,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,676,23,439,214
+Palo Pinto,6,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,136,11,94,31
+Palo Pinto,6,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,38,4,18,16
+Palo Pinto,6,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,6,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,683,23,444,216
+Palo Pinto,6,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,126,11,86,29
+Palo Pinto,6,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,41,4,21,16
+Palo Pinto,6,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,6,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,687,24,444,219
+Palo Pinto,6,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,133,10,93,30
+Palo Pinto,6,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,30,4,14,12
+Palo Pinto,6,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,6,State Representative,60,REP,Mike Olcott,707,27,457,223
+Palo Pinto,6,State Representative,60,,Under Votes,143,11,94,38
+Palo Pinto,6,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,6,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,709,26,462,221
+Palo Pinto,6,"Chief Justice, 11th Court of Appeals District",,,Under Votes,141,12,89,40
+Palo Pinto,6,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,6,"District Judge, 29th Judicial District",29,REP,Michael Moore,707,26,461,220
+Palo Pinto,6,"District Judge, 29th Judicial District",29,,Under Votes,143,12,90,41
+Palo Pinto,6,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,6,"District Attorney, 29th Judicial District",29,REP,Jett Smith,714,27,466,221
+Palo Pinto,6,"District Attorney, 29th Judicial District",29,,Under Votes,136,11,85,40
+Palo Pinto,6,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,6,County Attorney,,REP,Maegan Kostiha,735,26,487,222
+Palo Pinto,6,County Attorney,,,Under Votes,115,12,64,39
+Palo Pinto,6,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,6,"District Clerk, Unexpired Term",,REP,Nathan Choate,705,26,459,220
+Palo Pinto,6,"District Clerk, Unexpired Term",,,Under Votes,145,12,92,41
+Palo Pinto,6,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,6,Sheriff,,REP,JR Patterson,719,28,468,223
+Palo Pinto,6,Sheriff,,,Under Votes,128,9,81,38
+Palo Pinto,6,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,6,County Tax Assessor-Collector,,REP,Stacy Choate,727,27,472,228
+Palo Pinto,6,County Tax Assessor-Collector,,,Under Votes,123,11,79,33
+Palo Pinto,6,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,6,"County Commissioner, Precinct 3",,REP,James Pollock,730,27,475,228
+Palo Pinto,6,"County Commissioner, Precinct 3",,,Under Votes,120,11,76,33
+Palo Pinto,6,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Palo Pinto,6,"Constable, Precinct 4",,REP,Abelardo Saldana,736,30,481,225
+Palo Pinto,6,"Constable, Precinct 4",,,Under Votes,114,8,70,36
+Palo Pinto,6,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Palo Pinto,7,Registered Voters,,,,633,,,
+Palo Pinto,7,Ballots Cast,,,,463,,,
+Palo Pinto,7,President,,REP,Donald J. Trump JD Vance,414,8,227,179
+Palo Pinto,7,President,,DEM,Kamala D. Harris Tim Walz,43,3,22,18
+Palo Pinto,7,President,,LIB,Chase Oliver Mike ter Maat,3,1,1,1
+Palo Pinto,7,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+Palo Pinto,7,President,,,Under Votes,2,0,2,0
+Palo Pinto,7,President,,,Over Votes,0,0,0,0
+Palo Pinto,7,U.S. Senate,,REP,Ted Cruz,404,8,224,172
+Palo Pinto,7,U.S. Senate,,DEM,Colin Allred,49,4,25,20
+Palo Pinto,7,U.S. Senate,,LIB,Ted Brown,7,0,3,4
+Palo Pinto,7,U.S. Senate,,,Under Votes,3,0,1,2
+Palo Pinto,7,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,7,U.S. House,25,REP,Roger Williams,442,9,244,189
+Palo Pinto,7,U.S. House,25,(W),CHAD HAGG,1,1,0,0
+Palo Pinto,7,U.S. House,25,,Under Votes,20,2,9,9
+Palo Pinto,7,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,7,Railroad Commissioner,,REP,Christi Craddick,387,8,216,163
+Palo Pinto,7,Railroad Commissioner,,DEM,Katherine Culbert,38,3,17,18
+Palo Pinto,7,Railroad Commissioner,,LIB,Hawk Dunlap,22,0,10,12
+Palo Pinto,7,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,4,1
+Palo Pinto,7,Railroad Commissioner,,,Under Votes,11,1,6,4
+Palo Pinto,7,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,7,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,406,8,227,171
+Palo Pinto,7,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,43,3,20,20
+Palo Pinto,7,"Justice, Supreme Court, Place 2",2,,Under Votes,14,1,6,7
+Palo Pinto,7,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,7,"Justice, Supreme Court, Place 4",4,REP,John Devine,403,8,225,170
+Palo Pinto,7,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,48,3,22,23
+Palo Pinto,7,"Justice, Supreme Court, Place 4",4,,Under Votes,12,1,6,5
+Palo Pinto,7,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,7,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,404,8,226,170
+Palo Pinto,7,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,38,2,19,17
+Palo Pinto,7,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,10,1,3,6
+Palo Pinto,7,"Justice, Supreme Court, Place 6",6,,Under Votes,11,1,5,5
+Palo Pinto,7,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,7,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,405,8,228,169
+Palo Pinto,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,46,3,22,21
+Palo Pinto,7,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,12,1,3,8
+Palo Pinto,7,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,7,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,408,9,229,170
+Palo Pinto,7,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,43,2,20,21
+Palo Pinto,7,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,12,1,4,7
+Palo Pinto,7,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,7,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,410,9,230,171
+Palo Pinto,7,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,36,2,17,17
+Palo Pinto,7,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,17,1,6,10
+Palo Pinto,7,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,7,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,402,7,223,172
+Palo Pinto,7,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,47,3,23,21
+Palo Pinto,7,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,14,2,7,5
+Palo Pinto,7,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,7,State Representative,60,REP,Mike Olcott,402,8,224,170
+Palo Pinto,7,State Representative,60,,Under Votes,61,4,29,28
+Palo Pinto,7,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,7,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,422,9,234,179
+Palo Pinto,7,"Chief Justice, 11th Court of Appeals District",,,Under Votes,41,3,19,19
+Palo Pinto,7,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,7,"District Judge, 29th Judicial District",29,REP,Michael Moore,423,9,236,178
+Palo Pinto,7,"District Judge, 29th Judicial District",29,,Under Votes,40,3,17,20
+Palo Pinto,7,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,7,"District Attorney, 29th Judicial District",29,REP,Jett Smith,424,9,235,180
+Palo Pinto,7,"District Attorney, 29th Judicial District",29,,Under Votes,39,3,18,18
+Palo Pinto,7,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,7,County Attorney,,REP,Maegan Kostiha,419,9,235,175
+Palo Pinto,7,County Attorney,,,Under Votes,44,3,18,23
+Palo Pinto,7,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,7,"District Clerk, Unexpired Term",,REP,Nathan Choate,422,9,236,177
+Palo Pinto,7,"District Clerk, Unexpired Term",,,Under Votes,41,3,17,21
+Palo Pinto,7,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,7,Sheriff,,REP,JR Patterson,427,8,235,184
+Palo Pinto,7,Sheriff,,,Under Votes,35,3,18,14
+Palo Pinto,7,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,7,County Tax Assessor-Collector,,REP,Stacy Choate,427,9,241,177
+Palo Pinto,7,County Tax Assessor-Collector,,,Under Votes,36,3,12,21
+Palo Pinto,7,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,7,"Constable, Precinct 2",,REP,Marc Moon,415,9,234,172
+Palo Pinto,7,"Constable, Precinct 2",,,Under Votes,48,3,19,26
+Palo Pinto,7,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Palo Pinto,8,Registered Voters,,,,1940,,,
+Palo Pinto,8,Ballots Cast,,,,1493,,,
+Palo Pinto,8,President,,REP,Donald J. Trump JD Vance,1321,37,924,360
+Palo Pinto,8,President,,DEM,Kamala D. Harris Tim Walz,155,18,96,41
+Palo Pinto,8,President,,LIB,Chase Oliver Mike ter Maat,5,0,2,3
+Palo Pinto,8,President,,GRN,Jill Stein Rudolph Ware,9,0,6,3
+Palo Pinto,8,President,,,Under Votes,3,0,2,1
+Palo Pinto,8,President,,,Over Votes,0,0,0,0
+Palo Pinto,8,U.S. Senate,,REP,Ted Cruz,1279,36,903,340
+Palo Pinto,8,U.S. Senate,,DEM,Colin Allred,176,18,107,51
+Palo Pinto,8,U.S. Senate,,LIB,Ted Brown,30,0,17,13
+Palo Pinto,8,U.S. Senate,,,Under Votes,8,1,3,4
+Palo Pinto,8,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,8,U.S. House,25,REP,Roger Williams,1380,40,955,385
+Palo Pinto,8,U.S. House,25,(W),CHAD HAGG,3,1,2,0
+Palo Pinto,8,U.S. House,25,,Under Votes,110,14,73,23
+Palo Pinto,8,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,8,Railroad Commissioner,,REP,Christi Craddick,1288,36,908,344
+Palo Pinto,8,Railroad Commissioner,,DEM,Katherine Culbert,127,10,79,38
+Palo Pinto,8,Railroad Commissioner,,LIB,Hawk Dunlap,34,1,21,12
+Palo Pinto,8,Railroad Commissioner,,GRN,Eddie Espinoza,4,1,2,1
+Palo Pinto,8,Railroad Commissioner,,,Under Votes,40,7,20,13
+Palo Pinto,8,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,8,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1314,35,920,359
+Palo Pinto,8,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,142,13,92,37
+Palo Pinto,8,"Justice, Supreme Court, Place 2",2,,Under Votes,37,7,18,12
+Palo Pinto,8,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,8,"Justice, Supreme Court, Place 4",4,REP,John Devine,1304,35,919,350
+Palo Pinto,8,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,147,13,94,40
+Palo Pinto,8,"Justice, Supreme Court, Place 4",4,,Under Votes,42,7,17,18
+Palo Pinto,8,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,8,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1278,35,901,342
+Palo Pinto,8,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,139,13,91,35
+Palo Pinto,8,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,34,1,19,14
+Palo Pinto,8,"Justice, Supreme Court, Place 6",6,,Under Votes,42,6,19,17
+Palo Pinto,8,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,8,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1299,36,914,349
+Palo Pinto,8,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,150,11,98,41
+Palo Pinto,8,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,44,8,18,18
+Palo Pinto,8,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,8,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1300,37,913,350
+Palo Pinto,8,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,145,10,96,39
+Palo Pinto,8,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,48,8,21,19
+Palo Pinto,8,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,8,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1306,37,917,352
+Palo Pinto,8,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,140,10,92,38
+Palo Pinto,8,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,47,8,21,18
+Palo Pinto,8,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,8,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,1305,36,915,354
+Palo Pinto,8,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,152,13,99,40
+Palo Pinto,8,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,36,6,16,14
+Palo Pinto,8,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,8,State Representative,60,REP,Mike Olcott,1348,39,935,374
+Palo Pinto,8,State Representative,60,,Under Votes,145,16,95,34
+Palo Pinto,8,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,8,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,1362,38,950,374
+Palo Pinto,8,"Chief Justice, 11th Court of Appeals District",,,Under Votes,131,17,80,34
+Palo Pinto,8,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,8,"District Judge, 29th Judicial District",29,REP,Michael Moore,1359,37,946,376
+Palo Pinto,8,"District Judge, 29th Judicial District",29,,Under Votes,134,18,84,32
+Palo Pinto,8,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,8,"District Attorney, 29th Judicial District",29,REP,Jett Smith,1362,38,950,374
+Palo Pinto,8,"District Attorney, 29th Judicial District",29,,Under Votes,131,17,80,34
+Palo Pinto,8,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,8,County Attorney,,REP,Maegan Kostiha,1357,37,947,373
+Palo Pinto,8,County Attorney,,,Under Votes,136,18,83,35
+Palo Pinto,8,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,8,"District Clerk, Unexpired Term",,REP,Nathan Choate,1346,38,937,371
+Palo Pinto,8,"District Clerk, Unexpired Term",,,Under Votes,147,17,93,37
+Palo Pinto,8,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,8,Sheriff,,REP,JR Patterson,1368,37,949,382
+Palo Pinto,8,Sheriff,,,Under Votes,124,18,80,26
+Palo Pinto,8,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,8,County Tax Assessor-Collector,,REP,Stacy Choate,1348,37,933,378
+Palo Pinto,8,County Tax Assessor-Collector,,,Under Votes,145,18,97,30
+Palo Pinto,8,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,8,"Constable, Precinct 1",,REP,Rodney Price,1360,37,945,378
+Palo Pinto,8,"Constable, Precinct 1",,,Under Votes,133,18,85,30
+Palo Pinto,8,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Palo Pinto,9,Registered Voters,,,,442,,,
+Palo Pinto,9,Ballots Cast,,,,373,,,
+Palo Pinto,9,President,,REP,Donald J. Trump JD Vance,323,15,239,69
+Palo Pinto,9,President,,DEM,Kamala D. Harris Tim Walz,49,4,32,13
+Palo Pinto,9,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Palo Pinto,9,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Palo Pinto,9,President,,,Under Votes,1,0,1,0
+Palo Pinto,9,President,,,Over Votes,0,0,0,0
+Palo Pinto,9,U.S. Senate,,REP,Ted Cruz,316,16,232,68
+Palo Pinto,9,U.S. Senate,,DEM,Colin Allred,49,3,34,12
+Palo Pinto,9,U.S. Senate,,LIB,Ted Brown,6,0,4,2
+Palo Pinto,9,U.S. Senate,,,Under Votes,2,0,2,0
+Palo Pinto,9,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,9,U.S. House,25,REP,Roger Williams,342,18,248,76
+Palo Pinto,9,U.S. House,25,(W),CHAD HAGG,1,0,1,0
+Palo Pinto,9,U.S. House,25,,Under Votes,30,1,23,6
+Palo Pinto,9,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,9,Railroad Commissioner,,REP,Christi Craddick,325,16,237,72
+Palo Pinto,9,Railroad Commissioner,,DEM,Katherine Culbert,41,2,30,9
+Palo Pinto,9,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,2,0
+Palo Pinto,9,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Palo Pinto,9,Railroad Commissioner,,,Under Votes,5,1,3,1
+Palo Pinto,9,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,9,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,330,17,242,71
+Palo Pinto,9,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,42,2,29,11
+Palo Pinto,9,"Justice, Supreme Court, Place 2",2,,Under Votes,1,0,1,0
+Palo Pinto,9,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,9,"Justice, Supreme Court, Place 4",4,REP,John Devine,329,16,242,71
+Palo Pinto,9,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,43,3,29,11
+Palo Pinto,9,"Justice, Supreme Court, Place 4",4,,Under Votes,1,0,1,0
+Palo Pinto,9,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,9,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,322,15,237,70
+Palo Pinto,9,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,43,3,28,12
+Palo Pinto,9,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,4,0,4,0
+Palo Pinto,9,"Justice, Supreme Court, Place 6",6,,Under Votes,4,1,3,0
+Palo Pinto,9,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,9,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,328,15,243,70
+Palo Pinto,9,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,44,3,29,12
+Palo Pinto,9,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,1,0,0
+Palo Pinto,9,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,9,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,327,16,242,69
+Palo Pinto,9,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,44,2,29,13
+Palo Pinto,9,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,2,1,1,0
+Palo Pinto,9,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,9,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,330,15,242,73
+Palo Pinto,9,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,41,3,29,9
+Palo Pinto,9,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,2,1,1,0
+Palo Pinto,9,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,9,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,324,13,240,71
+Palo Pinto,9,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,44,4,29,11
+Palo Pinto,9,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,5,2,3,0
+Palo Pinto,9,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,9,State Representative,60,REP,Mike Olcott,330,15,239,76
+Palo Pinto,9,State Representative,60,,Under Votes,43,4,33,6
+Palo Pinto,9,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,9,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,336,16,244,76
+Palo Pinto,9,"Chief Justice, 11th Court of Appeals District",,,Under Votes,37,3,28,6
+Palo Pinto,9,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,9,"District Judge, 29th Judicial District",29,REP,Michael Moore,325,16,233,76
+Palo Pinto,9,"District Judge, 29th Judicial District",29,,Under Votes,48,3,39,6
+Palo Pinto,9,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,9,"District Attorney, 29th Judicial District",29,REP,Jett Smith,334,16,242,76
+Palo Pinto,9,"District Attorney, 29th Judicial District",29,,Under Votes,39,3,30,6
+Palo Pinto,9,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,9,County Attorney,,REP,Maegan Kostiha,334,16,241,77
+Palo Pinto,9,County Attorney,,,Under Votes,39,3,31,5
+Palo Pinto,9,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,9,"District Clerk, Unexpired Term",,REP,Nathan Choate,335,16,241,78
+Palo Pinto,9,"District Clerk, Unexpired Term",,,Under Votes,38,3,31,4
+Palo Pinto,9,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,9,Sheriff,,REP,JR Patterson,339,16,245,78
+Palo Pinto,9,Sheriff,,,Under Votes,34,3,27,4
+Palo Pinto,9,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,9,County Tax Assessor-Collector,,REP,Stacy Choate,342,17,246,79
+Palo Pinto,9,County Tax Assessor-Collector,,,Under Votes,31,2,26,3
+Palo Pinto,9,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,9,"County Commissioner, Precinct 3",,REP,James Pollock,336,16,242,78
+Palo Pinto,9,"County Commissioner, Precinct 3",,,Under Votes,37,3,30,4
+Palo Pinto,9,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Palo Pinto,9,"Constable, Precinct 3",,REP,Johnny McKee Jr,336,16,243,77
+Palo Pinto,9,"Constable, Precinct 3",,,Under Votes,37,3,29,5
+Palo Pinto,9,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Palo Pinto,11,Registered Voters,,,,341,,,
+Palo Pinto,11,Ballots Cast,,,,217,,,
+Palo Pinto,11,President,,REP,Donald J. Trump JD Vance,195,3,153,39
+Palo Pinto,11,President,,DEM,Kamala D. Harris Tim Walz,21,2,12,7
+Palo Pinto,11,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+Palo Pinto,11,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Palo Pinto,11,President,,,Under Votes,0,0,0,0
+Palo Pinto,11,President,,,Over Votes,0,0,0,0
+Palo Pinto,11,U.S. Senate,,REP,Ted Cruz,185,3,144,38
+Palo Pinto,11,U.S. Senate,,DEM,Colin Allred,23,2,14,7
+Palo Pinto,11,U.S. Senate,,LIB,Ted Brown,6,0,4,2
+Palo Pinto,11,U.S. Senate,,,Under Votes,3,0,3,0
+Palo Pinto,11,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,11,U.S. House,25,REP,Roger Williams,202,2,155,45
+Palo Pinto,11,U.S. House,25,(W),CHAD HAGG,0,0,0,0
+Palo Pinto,11,U.S. House,25,,Under Votes,15,3,10,2
+Palo Pinto,11,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,11,Railroad Commissioner,,REP,Christi Craddick,179,3,138,38
+Palo Pinto,11,Railroad Commissioner,,DEM,Katherine Culbert,14,1,8,5
+Palo Pinto,11,Railroad Commissioner,,LIB,Hawk Dunlap,10,0,9,1
+Palo Pinto,11,Railroad Commissioner,,GRN,Eddie Espinoza,4,1,2,1
+Palo Pinto,11,Railroad Commissioner,,,Under Votes,10,0,8,2
+Palo Pinto,11,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,11,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,192,3,149,40
+Palo Pinto,11,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,16,2,8,6
+Palo Pinto,11,"Justice, Supreme Court, Place 2",2,,Under Votes,9,0,8,1
+Palo Pinto,11,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,11,"Justice, Supreme Court, Place 4",4,REP,John Devine,193,3,148,42
+Palo Pinto,11,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,15,2,8,5
+Palo Pinto,11,"Justice, Supreme Court, Place 4",4,,Under Votes,9,0,9,0
+Palo Pinto,11,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,11,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,187,3,145,39
+Palo Pinto,11,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,12,2,7,3
+Palo Pinto,11,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,8,0,5,3
+Palo Pinto,11,"Justice, Supreme Court, Place 6",6,,Under Votes,10,0,8,2
+Palo Pinto,11,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,11,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,195,3,150,42
+Palo Pinto,11,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,13,2,7,4
+Palo Pinto,11,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,0,8,1
+Palo Pinto,11,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,11,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,194,3,149,42
+Palo Pinto,11,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,15,2,9,4
+Palo Pinto,11,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,8,0,7,1
+Palo Pinto,11,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,11,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,193,3,148,42
+Palo Pinto,11,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,14,2,8,4
+Palo Pinto,11,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,10,0,9,1
+Palo Pinto,11,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,11,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,191,2,147,42
+Palo Pinto,11,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,16,2,10,4
+Palo Pinto,11,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,10,1,8,1
+Palo Pinto,11,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,11,State Representative,60,REP,Mike Olcott,194,2,150,42
+Palo Pinto,11,State Representative,60,,Under Votes,23,3,15,5
+Palo Pinto,11,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,11,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,198,2,154,42
+Palo Pinto,11,"Chief Justice, 11th Court of Appeals District",,,Under Votes,19,3,11,5
+Palo Pinto,11,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,11,"District Judge, 29th Judicial District",29,REP,Michael Moore,196,1,153,42
+Palo Pinto,11,"District Judge, 29th Judicial District",29,,Under Votes,21,4,12,5
+Palo Pinto,11,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,11,"District Attorney, 29th Judicial District",29,REP,Jett Smith,197,1,154,42
+Palo Pinto,11,"District Attorney, 29th Judicial District",29,,Under Votes,20,4,11,5
+Palo Pinto,11,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,11,County Attorney,,REP,Maegan Kostiha,196,1,152,43
+Palo Pinto,11,County Attorney,,,Under Votes,21,4,13,4
+Palo Pinto,11,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,11,"District Clerk, Unexpired Term",,REP,Nathan Choate,191,1,149,41
+Palo Pinto,11,"District Clerk, Unexpired Term",,,Under Votes,26,4,16,6
+Palo Pinto,11,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,11,Sheriff,,REP,JR Patterson,192,1,147,44
+Palo Pinto,11,Sheriff,,,Under Votes,25,4,18,3
+Palo Pinto,11,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,11,County Tax Assessor-Collector,,REP,Stacy Choate,192,1,148,43
+Palo Pinto,11,County Tax Assessor-Collector,,,Under Votes,25,4,17,4
+Palo Pinto,11,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,11,"County Commissioner, Precinct 1",,REP,Richard Ralls,196,1,151,44
+Palo Pinto,11,"County Commissioner, Precinct 1",,,Under Votes,21,4,14,3
+Palo Pinto,11,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Palo Pinto,11,"Constable, Precinct 5",,REP,Scott Mitcham,195,1,151,43
+Palo Pinto,11,"Constable, Precinct 5",,,Under Votes,22,4,14,4
+Palo Pinto,11,"Constable, Precinct 5",,,Over Votes,0,0,0,0
+Palo Pinto,12,Registered Voters,,,,486,,,
+Palo Pinto,12,Ballots Cast,,,,303,,,
+Palo Pinto,12,President,,REP,Donald J. Trump JD Vance,261,10,204,47
+Palo Pinto,12,President,,DEM,Kamala D. Harris Tim Walz,42,7,31,4
+Palo Pinto,12,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Palo Pinto,12,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Palo Pinto,12,President,,,Under Votes,0,0,0,0
+Palo Pinto,12,President,,,Over Votes,0,0,0,0
+Palo Pinto,12,U.S. Senate,,REP,Ted Cruz,237,10,187,40
+Palo Pinto,12,U.S. Senate,,DEM,Colin Allred,55,7,39,9
+Palo Pinto,12,U.S. Senate,,LIB,Ted Brown,8,0,7,1
+Palo Pinto,12,U.S. Senate,,,Under Votes,3,0,2,1
+Palo Pinto,12,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,12,U.S. House,25,REP,Roger Williams,266,10,210,46
+Palo Pinto,12,U.S. House,25,(W),CHAD HAGG,2,2,0,0
+Palo Pinto,12,U.S. House,25,,Under Votes,35,5,25,5
+Palo Pinto,12,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,12,Railroad Commissioner,,REP,Christi Craddick,234,10,183,41
+Palo Pinto,12,Railroad Commissioner,,DEM,Katherine Culbert,45,7,33,5
+Palo Pinto,12,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,6,2
+Palo Pinto,12,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0
+Palo Pinto,12,Railroad Commissioner,,,Under Votes,14,0,11,3
+Palo Pinto,12,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,12,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,248,9,195,44
+Palo Pinto,12,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,48,8,34,6
+Palo Pinto,12,"Justice, Supreme Court, Place 2",2,,Under Votes,7,0,6,1
+Palo Pinto,12,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,12,"Justice, Supreme Court, Place 4",4,REP,John Devine,244,9,192,43
+Palo Pinto,12,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,49,8,35,6
+Palo Pinto,12,"Justice, Supreme Court, Place 4",4,,Under Votes,10,0,8,2
+Palo Pinto,12,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,12,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,242,9,190,43
+Palo Pinto,12,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,46,8,34,4
+Palo Pinto,12,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,6,0,4,2
+Palo Pinto,12,"Justice, Supreme Court, Place 6",6,,Under Votes,9,0,7,2
+Palo Pinto,12,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,12,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,246,9,194,43
+Palo Pinto,12,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,47,8,33,6
+Palo Pinto,12,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,10,0,8,2
+Palo Pinto,12,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,12,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,250,9,198,43
+Palo Pinto,12,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,45,8,31,6
+Palo Pinto,12,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,8,0,6,2
+Palo Pinto,12,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,12,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,246,9,195,42
+Palo Pinto,12,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,47,8,33,6
+Palo Pinto,12,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,10,0,7,3
+Palo Pinto,12,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,12,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,252,10,198,44
+Palo Pinto,12,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,46,7,33,6
+Palo Pinto,12,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,5,0,4,1
+Palo Pinto,12,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,12,State Representative,60,REP,Mike Olcott,248,10,193,45
+Palo Pinto,12,State Representative,60,,Under Votes,55,7,42,6
+Palo Pinto,12,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,12,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,258,10,202,46
+Palo Pinto,12,"Chief Justice, 11th Court of Appeals District",,,Under Votes,45,7,33,5
+Palo Pinto,12,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,12,"District Judge, 29th Judicial District",29,REP,Michael Moore,255,11,198,46
+Palo Pinto,12,"District Judge, 29th Judicial District",29,,Under Votes,48,6,37,5
+Palo Pinto,12,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,12,"District Attorney, 29th Judicial District",29,REP,Jett Smith,256,11,199,46
+Palo Pinto,12,"District Attorney, 29th Judicial District",29,,Under Votes,47,6,36,5
+Palo Pinto,12,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,12,County Attorney,,REP,Maegan Kostiha,258,11,201,46
+Palo Pinto,12,County Attorney,,,Under Votes,45,6,34,5
+Palo Pinto,12,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,12,"District Clerk, Unexpired Term",,REP,Nathan Choate,257,11,200,46
+Palo Pinto,12,"District Clerk, Unexpired Term",,,Under Votes,46,6,35,5
+Palo Pinto,12,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,12,Sheriff,,REP,JR Patterson,263,11,206,46
+Palo Pinto,12,Sheriff,,,Under Votes,40,6,29,5
+Palo Pinto,12,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,12,County Tax Assessor-Collector,,REP,Stacy Choate,261,13,203,45
+Palo Pinto,12,County Tax Assessor-Collector,,,Under Votes,42,4,32,6
+Palo Pinto,12,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,12,"Constable, Precinct 5",,REP,Scott Mitcham,256,11,201,44
+Palo Pinto,12,"Constable, Precinct 5",,,Under Votes,47,6,34,7
+Palo Pinto,12,"Constable, Precinct 5",,,Over Votes,0,0,0,0
+Palo Pinto,13,Registered Voters,,,,758,,,
+Palo Pinto,13,Ballots Cast,,,,525,,,
+Palo Pinto,13,President,,REP,Donald J. Trump JD Vance,443,26,333,84
+Palo Pinto,13,President,,DEM,Kamala D. Harris Tim Walz,79,1,65,13
+Palo Pinto,13,President,,LIB,Chase Oliver Mike ter Maat,2,0,2,0
+Palo Pinto,13,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Palo Pinto,13,President,,,Under Votes,1,0,0,1
+Palo Pinto,13,President,,,Over Votes,0,0,0,0
+Palo Pinto,13,U.S. Senate,,REP,Ted Cruz,417,22,315,80
+Palo Pinto,13,U.S. Senate,,DEM,Colin Allred,94,3,75,16
+Palo Pinto,13,U.S. Senate,,LIB,Ted Brown,8,1,5,2
+Palo Pinto,13,U.S. Senate,,,Under Votes,6,1,5,0
+Palo Pinto,13,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,13,U.S. House,25,REP,Roger Williams,469,26,352,91
+Palo Pinto,13,U.S. House,25,(W),CHAD HAGG,1,0,0,1
+Palo Pinto,13,U.S. House,25,,Under Votes,55,1,48,6
+Palo Pinto,13,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,13,Railroad Commissioner,,REP,Christi Craddick,416,23,315,78
+Palo Pinto,13,Railroad Commissioner,,DEM,Katherine Culbert,69,1,57,11
+Palo Pinto,13,Railroad Commissioner,,LIB,Hawk Dunlap,15,1,10,4
+Palo Pinto,13,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,3,0
+Palo Pinto,13,Railroad Commissioner,,,Under Votes,22,2,15,5
+Palo Pinto,13,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,13,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,429,24,321,84
+Palo Pinto,13,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,77,1,66,10
+Palo Pinto,13,"Justice, Supreme Court, Place 2",2,,Under Votes,19,2,13,4
+Palo Pinto,13,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,13,"Justice, Supreme Court, Place 4",4,REP,John Devine,424,24,319,81
+Palo Pinto,13,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,79,1,65,13
+Palo Pinto,13,"Justice, Supreme Court, Place 4",4,,Under Votes,22,2,16,4
+Palo Pinto,13,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,13,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,409,24,309,76
+Palo Pinto,13,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,75,1,61,13
+Palo Pinto,13,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,16,0,12,4
+Palo Pinto,13,"Justice, Supreme Court, Place 6",6,,Under Votes,25,2,18,5
+Palo Pinto,13,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,13,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,428,24,323,81
+Palo Pinto,13,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,76,1,63,12
+Palo Pinto,13,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,21,2,14,5
+Palo Pinto,13,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,13,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,427,24,322,81
+Palo Pinto,13,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,75,1,62,12
+Palo Pinto,13,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,23,2,16,5
+Palo Pinto,13,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,13,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,424,24,319,81
+Palo Pinto,13,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,73,1,61,11
+Palo Pinto,13,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,28,2,20,6
+Palo Pinto,13,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,13,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,430,24,325,81
+Palo Pinto,13,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,77,1,63,13
+Palo Pinto,13,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,18,2,12,4
+Palo Pinto,13,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,13,State Representative,60,REP,Mike Olcott,438,24,324,90
+Palo Pinto,13,State Representative,60,,Under Votes,87,3,76,8
+Palo Pinto,13,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,13,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,443,23,332,88
+Palo Pinto,13,"Chief Justice, 11th Court of Appeals District",,,Under Votes,82,4,68,10
+Palo Pinto,13,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,13,"District Judge, 29th Judicial District",29,REP,Michael Moore,441,23,331,87
+Palo Pinto,13,"District Judge, 29th Judicial District",29,,Under Votes,84,4,69,11
+Palo Pinto,13,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,13,"District Attorney, 29th Judicial District",29,REP,Jett Smith,453,24,341,88
+Palo Pinto,13,"District Attorney, 29th Judicial District",29,,Under Votes,72,3,59,10
+Palo Pinto,13,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,13,County Attorney,,REP,Maegan Kostiha,447,23,336,88
+Palo Pinto,13,County Attorney,,,Under Votes,78,4,64,10
+Palo Pinto,13,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,13,"District Clerk, Unexpired Term",,REP,Nathan Choate,456,23,344,89
+Palo Pinto,13,"District Clerk, Unexpired Term",,,Under Votes,69,4,56,9
+Palo Pinto,13,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,13,Sheriff,,REP,JR Patterson,467,23,355,89
+Palo Pinto,13,Sheriff,,,Under Votes,56,3,45,8
+Palo Pinto,13,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,13,County Tax Assessor-Collector,,REP,Stacy Choate,458,23,346,89
+Palo Pinto,13,County Tax Assessor-Collector,,,Under Votes,67,4,54,9
+Palo Pinto,13,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,13,"County Commissioner, Precinct 1",,REP,Richard Ralls,466,23,352,91
+Palo Pinto,13,"County Commissioner, Precinct 1",,,Under Votes,59,4,48,7
+Palo Pinto,13,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Palo Pinto,13,"Constable, Precinct 5",,REP,Scott Mitcham,455,23,344,88
+Palo Pinto,13,"Constable, Precinct 5",,,Under Votes,70,4,56,10
+Palo Pinto,13,"Constable, Precinct 5",,,Over Votes,0,0,0,0
+Palo Pinto,14,Registered Voters,,,,185,,,
+Palo Pinto,14,Ballots Cast,,,,115,,,
+Palo Pinto,14,President,,REP,Donald J. Trump JD Vance,100,3,83,14
+Palo Pinto,14,President,,DEM,Kamala D. Harris Tim Walz,13,0,11,2
+Palo Pinto,14,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Palo Pinto,14,President,,GRN,Jill Stein Rudolph Ware,2,0,1,1
+Palo Pinto,14,President,,,Under Votes,0,0,0,0
+Palo Pinto,14,President,,,Over Votes,0,0,0,0
+Palo Pinto,14,U.S. Senate,,REP,Ted Cruz,98,3,82,13
+Palo Pinto,14,U.S. Senate,,DEM,Colin Allred,12,0,10,2
+Palo Pinto,14,U.S. Senate,,LIB,Ted Brown,3,0,1,2
+Palo Pinto,14,U.S. Senate,,,Under Votes,2,0,2,0
+Palo Pinto,14,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,14,U.S. House,25,REP,Roger Williams,106,3,87,16
+Palo Pinto,14,U.S. House,25,(W),CHAD HAGG,0,0,0,0
+Palo Pinto,14,U.S. House,25,,Under Votes,9,0,8,1
+Palo Pinto,14,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,14,Railroad Commissioner,,REP,Christi Craddick,98,3,80,15
+Palo Pinto,14,Railroad Commissioner,,DEM,Katherine Culbert,10,0,8,2
+Palo Pinto,14,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,2,0
+Palo Pinto,14,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0
+Palo Pinto,14,Railroad Commissioner,,,Under Votes,3,0,3,0
+Palo Pinto,14,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,14,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,100,3,82,15
+Palo Pinto,14,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,12,0,10,2
+Palo Pinto,14,"Justice, Supreme Court, Place 2",2,,Under Votes,3,0,3,0
+Palo Pinto,14,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,14,"Justice, Supreme Court, Place 4",4,REP,John Devine,99,3,81,15
+Palo Pinto,14,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,12,0,10,2
+Palo Pinto,14,"Justice, Supreme Court, Place 4",4,,Under Votes,4,0,4,0
+Palo Pinto,14,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,14,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,100,3,82,15
+Palo Pinto,14,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,10,0,8,2
+Palo Pinto,14,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Palo Pinto,14,"Justice, Supreme Court, Place 6",6,,Under Votes,5,0,5,0
+Palo Pinto,14,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,14,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,100,3,82,15
+Palo Pinto,14,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,11,0,9,2
+Palo Pinto,14,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,4,0,4,0
+Palo Pinto,14,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,14,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,99,3,81,15
+Palo Pinto,14,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,11,0,9,2
+Palo Pinto,14,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,5,0,5,0
+Palo Pinto,14,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,14,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,99,3,81,15
+Palo Pinto,14,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,11,0,9,2
+Palo Pinto,14,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,5,0,5,0
+Palo Pinto,14,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,14,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,99,3,81,15
+Palo Pinto,14,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,10,0,8,2
+Palo Pinto,14,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,6,0,6,0
+Palo Pinto,14,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,14,State Representative,60,REP,Mike Olcott,99,3,80,16
+Palo Pinto,14,State Representative,60,,Under Votes,16,0,15,1
+Palo Pinto,14,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,14,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,102,3,83,16
+Palo Pinto,14,"Chief Justice, 11th Court of Appeals District",,,Under Votes,13,0,12,1
+Palo Pinto,14,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,14,"District Judge, 29th Judicial District",29,REP,Michael Moore,103,3,84,16
+Palo Pinto,14,"District Judge, 29th Judicial District",29,,Under Votes,12,0,11,1
+Palo Pinto,14,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,14,"District Attorney, 29th Judicial District",29,REP,Jett Smith,104,3,85,16
+Palo Pinto,14,"District Attorney, 29th Judicial District",29,,Under Votes,11,0,10,1
+Palo Pinto,14,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,14,County Attorney,,REP,Maegan Kostiha,103,3,84,16
+Palo Pinto,14,County Attorney,,,Under Votes,12,0,11,1
+Palo Pinto,14,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,14,"District Clerk, Unexpired Term",,REP,Nathan Choate,101,3,82,16
+Palo Pinto,14,"District Clerk, Unexpired Term",,,Under Votes,14,0,13,1
+Palo Pinto,14,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,14,Sheriff,,REP,JR Patterson,107,3,87,17
+Palo Pinto,14,Sheriff,,,Under Votes,8,0,8,0
+Palo Pinto,14,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,14,County Tax Assessor-Collector,,REP,Stacy Choate,103,3,85,15
+Palo Pinto,14,County Tax Assessor-Collector,,,Under Votes,12,0,10,2
+Palo Pinto,14,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,14,"County Commissioner, Precinct 1",,REP,Richard Ralls,108,3,88,17
+Palo Pinto,14,"County Commissioner, Precinct 1",,,Under Votes,7,0,7,0
+Palo Pinto,14,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Palo Pinto,14,"Constable, Precinct 5",,REP,Scott Mitcham,103,3,84,16
+Palo Pinto,14,"Constable, Precinct 5",,,Under Votes,12,0,11,1
+Palo Pinto,14,"Constable, Precinct 5",,,Over Votes,0,0,0,0
+Palo Pinto,15,Registered Voters,,,,1073,,,
+Palo Pinto,15,Ballots Cast,,,,753,,,
+Palo Pinto,15,President,,REP,Donald J. Trump JD Vance,682,11,559,112
+Palo Pinto,15,President,,DEM,Kamala D. Harris Tim Walz,64,10,47,7
+Palo Pinto,15,President,,LIB,Chase Oliver Mike ter Maat,3,0,2,1
+Palo Pinto,15,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Palo Pinto,15,President,,,Under Votes,3,0,3,0
+Palo Pinto,15,President,,,Over Votes,1,1,0,0
+Palo Pinto,15,U.S. Senate,,REP,Ted Cruz,663,11,545,107
+Palo Pinto,15,U.S. Senate,,DEM,Colin Allred,78,11,55,12
+Palo Pinto,15,U.S. Senate,,LIB,Ted Brown,5,0,5,0
+Palo Pinto,15,U.S. Senate,,,Under Votes,7,0,6,1
+Palo Pinto,15,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,15,U.S. House,25,REP,Roger Williams,693,11,567,115
+Palo Pinto,15,U.S. House,25,(W),CHAD HAGG,0,0,0,0
+Palo Pinto,15,U.S. House,25,,Under Votes,60,11,44,5
+Palo Pinto,15,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,15,Railroad Commissioner,,REP,Christi Craddick,659,10,547,102
+Palo Pinto,15,Railroad Commissioner,,DEM,Katherine Culbert,59,10,44,5
+Palo Pinto,15,Railroad Commissioner,,LIB,Hawk Dunlap,14,0,8,6
+Palo Pinto,15,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,0,3
+Palo Pinto,15,Railroad Commissioner,,,Under Votes,18,2,12,4
+Palo Pinto,15,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,15,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,678,11,557,110
+Palo Pinto,15,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,62,11,43,8
+Palo Pinto,15,"Justice, Supreme Court, Place 2",2,,Under Votes,13,0,11,2
+Palo Pinto,15,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,15,"Justice, Supreme Court, Place 4",4,REP,John Devine,678,11,556,111
+Palo Pinto,15,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,60,10,42,8
+Palo Pinto,15,"Justice, Supreme Court, Place 4",4,,Under Votes,15,1,13,1
+Palo Pinto,15,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,15,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,667,11,549,107
+Palo Pinto,15,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,61,11,43,7
+Palo Pinto,15,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,10,0,7,3
+Palo Pinto,15,"Justice, Supreme Court, Place 6",6,,Under Votes,15,0,12,3
+Palo Pinto,15,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,15,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,674,11,556,107
+Palo Pinto,15,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,63,11,43,9
+Palo Pinto,15,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,16,0,12,4
+Palo Pinto,15,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,15,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,675,11,555,109
+Palo Pinto,15,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,61,11,43,7
+Palo Pinto,15,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,17,0,13,4
+Palo Pinto,15,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,15,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,672,12,552,108
+Palo Pinto,15,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,61,10,43,8
+Palo Pinto,15,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,20,0,16,4
+Palo Pinto,15,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,15,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,677,9,558,110
+Palo Pinto,15,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,62,11,44,7
+Palo Pinto,15,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,14,2,9,3
+Palo Pinto,15,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,15,State Representative,60,REP,Mike Olcott,661,10,538,113
+Palo Pinto,15,State Representative,60,,Under Votes,92,12,73,7
+Palo Pinto,15,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,15,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,681,9,559,113
+Palo Pinto,15,"Chief Justice, 11th Court of Appeals District",,,Under Votes,72,13,52,7
+Palo Pinto,15,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,15,"District Judge, 29th Judicial District",29,REP,Michael Moore,670,9,548,113
+Palo Pinto,15,"District Judge, 29th Judicial District",29,,Under Votes,83,13,63,7
+Palo Pinto,15,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,15,"District Attorney, 29th Judicial District",29,REP,Jett Smith,682,9,561,112
+Palo Pinto,15,"District Attorney, 29th Judicial District",29,,Under Votes,71,13,50,8
+Palo Pinto,15,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,15,County Attorney,,REP,Maegan Kostiha,677,11,555,111
+Palo Pinto,15,County Attorney,,,Under Votes,76,11,56,9
+Palo Pinto,15,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,15,"District Clerk, Unexpired Term",,REP,Nathan Choate,667,8,547,112
+Palo Pinto,15,"District Clerk, Unexpired Term",,,Under Votes,86,14,64,8
+Palo Pinto,15,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,15,Sheriff,,REP,JR Patterson,687,11,565,111
+Palo Pinto,15,Sheriff,,,Under Votes,66,11,46,9
+Palo Pinto,15,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,15,County Tax Assessor-Collector,,REP,Stacy Choate,676,12,555,109
+Palo Pinto,15,County Tax Assessor-Collector,,,Under Votes,77,10,56,11
+Palo Pinto,15,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,15,"Constable, Precinct 2",,REP,Marc Moon,675,11,558,106
+Palo Pinto,15,"Constable, Precinct 2",,,Under Votes,78,11,53,14
+Palo Pinto,15,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Palo Pinto,16,Registered Voters,,,,517,,,
+Palo Pinto,16,Ballots Cast,,,,413,,,
+Palo Pinto,16,President,,REP,Donald J. Trump JD Vance,368,9,285,74
+Palo Pinto,16,President,,DEM,Kamala D. Harris Tim Walz,42,7,24,11
+Palo Pinto,16,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+Palo Pinto,16,President,,GRN,Jill Stein Rudolph Ware,2,0,1,1
+Palo Pinto,16,President,,,Under Votes,0,0,0,0
+Palo Pinto,16,President,,,Over Votes,0,0,0,0
+Palo Pinto,16,U.S. Senate,,REP,Ted Cruz,358,9,281,68
+Palo Pinto,16,U.S. Senate,,DEM,Colin Allred,49,7,28,14
+Palo Pinto,16,U.S. Senate,,LIB,Ted Brown,5,0,2,3
+Palo Pinto,16,U.S. Senate,,,Under Votes,1,0,0,1
+Palo Pinto,16,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,16,U.S. House,25,REP,Roger Williams,381,12,292,77
+Palo Pinto,16,U.S. House,25,(W),CHAD HAGG,0,0,0,0
+Palo Pinto,16,U.S. House,25,,Under Votes,32,4,19,9
+Palo Pinto,16,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,16,Railroad Commissioner,,REP,Christi Craddick,353,12,273,68
+Palo Pinto,16,Railroad Commissioner,,DEM,Katherine Culbert,39,4,24,11
+Palo Pinto,16,Railroad Commissioner,,LIB,Hawk Dunlap,12,0,6,6
+Palo Pinto,16,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Palo Pinto,16,Railroad Commissioner,,,Under Votes,9,0,8,1
+Palo Pinto,16,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,16,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,365,11,281,73
+Palo Pinto,16,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,41,5,25,11
+Palo Pinto,16,"Justice, Supreme Court, Place 2",2,,Under Votes,7,0,5,2
+Palo Pinto,16,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,16,"Justice, Supreme Court, Place 4",4,REP,John Devine,365,9,281,75
+Palo Pinto,16,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,41,6,25,10
+Palo Pinto,16,"Justice, Supreme Court, Place 4",4,,Under Votes,7,1,5,1
+Palo Pinto,16,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,16,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,359,9,278,72
+Palo Pinto,16,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,42,6,25,11
+Palo Pinto,16,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,3,0,1,2
+Palo Pinto,16,"Justice, Supreme Court, Place 6",6,,Under Votes,9,1,7,1
+Palo Pinto,16,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,16,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,365,8,282,75
+Palo Pinto,16,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,43,8,25,10
+Palo Pinto,16,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,5,0,4,1
+Palo Pinto,16,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,16,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,367,11,283,73
+Palo Pinto,16,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,40,5,24,11
+Palo Pinto,16,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,6,0,4,2
+Palo Pinto,16,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,16,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,370,12,284,74
+Palo Pinto,16,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,38,4,23,11
+Palo Pinto,16,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,5,0,4,1
+Palo Pinto,16,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,16,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,362,10,279,73
+Palo Pinto,16,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,41,6,23,12
+Palo Pinto,16,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,10,0,9,1
+Palo Pinto,16,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,16,State Representative,60,REP,Mike Olcott,376,14,285,77
+Palo Pinto,16,State Representative,60,,Under Votes,37,2,26,9
+Palo Pinto,16,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,16,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,381,13,293,75
+Palo Pinto,16,"Chief Justice, 11th Court of Appeals District",,,Under Votes,32,3,18,11
+Palo Pinto,16,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,16,"District Judge, 29th Judicial District",29,REP,Michael Moore,376,13,289,74
+Palo Pinto,16,"District Judge, 29th Judicial District",29,,Under Votes,37,3,22,12
+Palo Pinto,16,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,16,"District Attorney, 29th Judicial District",29,REP,Jett Smith,381,13,293,75
+Palo Pinto,16,"District Attorney, 29th Judicial District",29,,Under Votes,32,3,18,11
+Palo Pinto,16,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,16,County Attorney,,REP,Maegan Kostiha,380,13,290,77
+Palo Pinto,16,County Attorney,,,Under Votes,33,3,21,9
+Palo Pinto,16,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,16,"District Clerk, Unexpired Term",,REP,Nathan Choate,379,13,289,77
+Palo Pinto,16,"District Clerk, Unexpired Term",,,Under Votes,34,3,22,9
+Palo Pinto,16,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,16,Sheriff,,REP,JR Patterson,379,13,289,77
+Palo Pinto,16,Sheriff,,,Under Votes,34,3,22,9
+Palo Pinto,16,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,16,County Tax Assessor-Collector,,REP,Stacy Choate,380,13,290,77
+Palo Pinto,16,County Tax Assessor-Collector,,,Under Votes,33,3,21,9
+Palo Pinto,16,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,16,"County Commissioner, Precinct 3",,REP,James Pollock,375,13,287,75
+Palo Pinto,16,"County Commissioner, Precinct 3",,,Under Votes,38,3,24,11
+Palo Pinto,16,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Palo Pinto,16,"Constable, Precinct 1",,REP,Rodney Price,376,15,284,77
+Palo Pinto,16,"Constable, Precinct 1",,,Under Votes,37,1,27,9
+Palo Pinto,16,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Palo Pinto,17,Registered Voters,,,,923,,,
+Palo Pinto,17,Ballots Cast,,,,444,,,
+Palo Pinto,17,President,,REP,Donald J. Trump JD Vance,320,7,223,90
+Palo Pinto,17,President,,DEM,Kamala D. Harris Tim Walz,118,7,72,39
+Palo Pinto,17,President,,LIB,Chase Oliver Mike ter Maat,2,0,0,2
+Palo Pinto,17,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+Palo Pinto,17,President,,,Under Votes,2,2,0,0
+Palo Pinto,17,President,,,Over Votes,0,0,0,0
+Palo Pinto,17,U.S. Senate,,REP,Ted Cruz,299,7,208,84
+Palo Pinto,17,U.S. Senate,,DEM,Colin Allred,124,9,75,40
+Palo Pinto,17,U.S. Senate,,LIB,Ted Brown,16,1,9,6
+Palo Pinto,17,U.S. Senate,,,Under Votes,5,0,4,1
+Palo Pinto,17,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,17,U.S. House,25,REP,Roger Williams,372,11,252,109
+Palo Pinto,17,U.S. House,25,(W),CHAD HAGG,1,1,0,0
+Palo Pinto,17,U.S. House,25,,Under Votes,71,5,44,22
+Palo Pinto,17,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,17,Railroad Commissioner,,REP,Christi Craddick,297,8,211,78
+Palo Pinto,17,Railroad Commissioner,,DEM,Katherine Culbert,98,7,59,32
+Palo Pinto,17,Railroad Commissioner,,LIB,Hawk Dunlap,10,0,7,3
+Palo Pinto,17,Railroad Commissioner,,GRN,Eddie Espinoza,12,0,4,8
+Palo Pinto,17,Railroad Commissioner,,,Under Votes,26,1,15,10
+Palo Pinto,17,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,17,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,315,7,220,88
+Palo Pinto,17,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,111,9,68,34
+Palo Pinto,17,"Justice, Supreme Court, Place 2",2,,Under Votes,18,1,8,9
+Palo Pinto,17,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,17,"Justice, Supreme Court, Place 4",4,REP,John Devine,306,8,214,84
+Palo Pinto,17,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,115,8,70,37
+Palo Pinto,17,"Justice, Supreme Court, Place 4",4,,Under Votes,23,1,12,10
+Palo Pinto,17,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,17,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,294,7,206,81
+Palo Pinto,17,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,110,8,68,34
+Palo Pinto,17,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,14,1,9,4
+Palo Pinto,17,"Justice, Supreme Court, Place 6",6,,Under Votes,26,1,13,12
+Palo Pinto,17,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,17,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,301,8,210,83
+Palo Pinto,17,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,119,7,75,37
+Palo Pinto,17,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,24,2,11,11
+Palo Pinto,17,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,17,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,306,8,213,85
+Palo Pinto,17,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,112,8,70,34
+Palo Pinto,17,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,26,1,13,12
+Palo Pinto,17,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,17,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,308,8,214,86
+Palo Pinto,17,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,111,8,70,33
+Palo Pinto,17,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,25,1,12,12
+Palo Pinto,17,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,17,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,310,9,217,84
+Palo Pinto,17,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,114,8,70,36
+Palo Pinto,17,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,20,0,9,11
+Palo Pinto,17,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,17,State Representative,60,REP,Mike Olcott,356,10,239,107
+Palo Pinto,17,State Representative,60,,Under Votes,88,7,57,24
+Palo Pinto,17,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,17,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,356,10,241,105
+Palo Pinto,17,"Chief Justice, 11th Court of Appeals District",,,Under Votes,88,7,55,26
+Palo Pinto,17,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,17,"District Judge, 29th Judicial District",29,REP,Michael Moore,360,10,244,106
+Palo Pinto,17,"District Judge, 29th Judicial District",29,,Under Votes,84,7,52,25
+Palo Pinto,17,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,17,"District Attorney, 29th Judicial District",29,REP,Jett Smith,359,10,242,107
+Palo Pinto,17,"District Attorney, 29th Judicial District",29,,Under Votes,85,7,54,24
+Palo Pinto,17,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,17,County Attorney,,REP,Maegan Kostiha,357,11,243,103
+Palo Pinto,17,County Attorney,,,Under Votes,87,6,53,28
+Palo Pinto,17,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,17,"District Clerk, Unexpired Term",,REP,Nathan Choate,364,14,244,106
+Palo Pinto,17,"District Clerk, Unexpired Term",,,Under Votes,80,3,52,25
+Palo Pinto,17,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,17,Sheriff,,REP,JR Patterson,359,10,243,106
+Palo Pinto,17,Sheriff,,,Under Votes,82,6,53,23
+Palo Pinto,17,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,17,County Tax Assessor-Collector,,REP,Stacy Choate,368,13,249,106
+Palo Pinto,17,County Tax Assessor-Collector,,,Under Votes,76,4,47,25
+Palo Pinto,17,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,17,"County Commissioner, Precinct 3",,REP,James Pollock,356,10,242,104
+Palo Pinto,17,"County Commissioner, Precinct 3",,,Under Votes,88,7,54,27
+Palo Pinto,17,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Palo Pinto,17,"Constable, Precinct 5",,REP,Scott Mitcham,351,11,237,103
+Palo Pinto,17,"Constable, Precinct 5",,,Under Votes,93,6,59,28
+Palo Pinto,17,"Constable, Precinct 5",,,Over Votes,0,0,0,0
+Palo Pinto,18,Registered Voters,,,,228,,,
+Palo Pinto,18,Ballots Cast,,,,161,,,
+Palo Pinto,18,President,,REP,Donald J. Trump JD Vance,140,5,69,66
+Palo Pinto,18,President,,DEM,Kamala D. Harris Tim Walz,21,1,15,5
+Palo Pinto,18,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Palo Pinto,18,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Palo Pinto,18,President,,,Under Votes,0,0,0,0
+Palo Pinto,18,President,,,Over Votes,0,0,0,0
+Palo Pinto,18,U.S. Senate,,REP,Ted Cruz,137,5,70,62
+Palo Pinto,18,U.S. Senate,,DEM,Colin Allred,21,1,13,7
+Palo Pinto,18,U.S. Senate,,LIB,Ted Brown,2,0,0,2
+Palo Pinto,18,U.S. Senate,,,Under Votes,1,0,1,0
+Palo Pinto,18,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,18,U.S. House,25,REP,Roger Williams,151,6,76,69
+Palo Pinto,18,U.S. House,25,(W),CHAD HAGG,0,0,0,0
+Palo Pinto,18,U.S. House,25,,Under Votes,10,0,8,2
+Palo Pinto,18,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,18,Railroad Commissioner,,REP,Christi Craddick,135,5,65,65
+Palo Pinto,18,Railroad Commissioner,,DEM,Katherine Culbert,17,1,13,3
+Palo Pinto,18,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,4,1
+Palo Pinto,18,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1
+Palo Pinto,18,Railroad Commissioner,,,Under Votes,2,0,1,1
+Palo Pinto,18,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,18,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,140,5,70,65
+Palo Pinto,18,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,17,1,11,5
+Palo Pinto,18,"Justice, Supreme Court, Place 2",2,,Under Votes,4,0,3,1
+Palo Pinto,18,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,18,"Justice, Supreme Court, Place 4",4,REP,John Devine,138,6,68,64
+Palo Pinto,18,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,18,0,12,6
+Palo Pinto,18,"Justice, Supreme Court, Place 4",4,,Under Votes,5,0,4,1
+Palo Pinto,18,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,18,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,129,5,66,58
+Palo Pinto,18,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,22,1,13,8
+Palo Pinto,18,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,5,0,2,3
+Palo Pinto,18,"Justice, Supreme Court, Place 6",6,,Under Votes,5,0,3,2
+Palo Pinto,18,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,18,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,134,4,68,62
+Palo Pinto,18,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,21,2,13,6
+Palo Pinto,18,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,6,0,3,3
+Palo Pinto,18,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,18,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,140,5,70,65
+Palo Pinto,18,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,15,1,11,3
+Palo Pinto,18,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,6,0,3,3
+Palo Pinto,18,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,18,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,139,6,67,66
+Palo Pinto,18,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,15,0,13,2
+Palo Pinto,18,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,7,0,4,3
+Palo Pinto,18,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,18,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,135,5,68,62
+Palo Pinto,18,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,20,1,13,6
+Palo Pinto,18,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,6,0,3,3
+Palo Pinto,18,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,18,State Representative,60,REP,Mike Olcott,145,5,72,68
+Palo Pinto,18,State Representative,60,,Under Votes,16,1,12,3
+Palo Pinto,18,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,18,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,144,6,72,66
+Palo Pinto,18,"Chief Justice, 11th Court of Appeals District",,,Under Votes,17,0,12,5
+Palo Pinto,18,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,18,"District Judge, 29th Judicial District",29,REP,Michael Moore,145,6,73,66
+Palo Pinto,18,"District Judge, 29th Judicial District",29,,Under Votes,16,0,11,5
+Palo Pinto,18,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,18,"District Attorney, 29th Judicial District",29,REP,Jett Smith,146,6,74,66
+Palo Pinto,18,"District Attorney, 29th Judicial District",29,,Under Votes,15,0,10,5
+Palo Pinto,18,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,18,County Attorney,,REP,Maegan Kostiha,150,6,77,67
+Palo Pinto,18,County Attorney,,,Under Votes,11,0,7,4
+Palo Pinto,18,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,18,"District Clerk, Unexpired Term",,REP,Nathan Choate,148,6,74,68
+Palo Pinto,18,"District Clerk, Unexpired Term",,,Under Votes,13,0,10,3
+Palo Pinto,18,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,18,Sheriff,,REP,JR Patterson,150,6,76,68
+Palo Pinto,18,Sheriff,,,Under Votes,11,0,8,3
+Palo Pinto,18,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,18,County Tax Assessor-Collector,,REP,Stacy Choate,152,6,78,68
+Palo Pinto,18,County Tax Assessor-Collector,,,Under Votes,9,0,6,3
+Palo Pinto,18,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,18,"County Commissioner, Precinct 3",,REP,James Pollock,151,6,77,68
+Palo Pinto,18,"County Commissioner, Precinct 3",,,Under Votes,10,0,7,3
+Palo Pinto,18,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Palo Pinto,18,"Constable, Precinct 4",,REP,Abelardo Saldana,150,6,77,67
+Palo Pinto,18,"Constable, Precinct 4",,,Under Votes,11,0,7,4
+Palo Pinto,18,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Palo Pinto,20,Registered Voters,,,,231,,,
+Palo Pinto,20,Ballots Cast,,,,180,,,
+Palo Pinto,20,President,,REP,Donald J. Trump JD Vance,167,6,52,109
+Palo Pinto,20,President,,DEM,Kamala D. Harris Tim Walz,13,1,5,7
+Palo Pinto,20,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Palo Pinto,20,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Palo Pinto,20,President,,,Under Votes,0,0,0,0
+Palo Pinto,20,President,,,Over Votes,0,0,0,0
+Palo Pinto,20,U.S. Senate,,REP,Ted Cruz,162,6,51,105
+Palo Pinto,20,U.S. Senate,,DEM,Colin Allred,15,1,6,8
+Palo Pinto,20,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+Palo Pinto,20,U.S. Senate,,,Under Votes,2,0,0,2
+Palo Pinto,20,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,20,U.S. House,25,REP,Roger Williams,171,6,56,109
+Palo Pinto,20,U.S. House,25,(W),CHAD HAGG,0,0,0,0
+Palo Pinto,20,U.S. House,25,,Under Votes,9,1,1,7
+Palo Pinto,20,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,20,Railroad Commissioner,,REP,Christi Craddick,166,6,52,108
+Palo Pinto,20,Railroad Commissioner,,DEM,Katherine Culbert,12,1,5,6
+Palo Pinto,20,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Palo Pinto,20,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Palo Pinto,20,Railroad Commissioner,,,Under Votes,2,0,0,2
+Palo Pinto,20,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,20,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,164,6,51,107
+Palo Pinto,20,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,12,1,6,5
+Palo Pinto,20,"Justice, Supreme Court, Place 2",2,,Under Votes,4,0,0,4
+Palo Pinto,20,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,20,"Justice, Supreme Court, Place 4",4,REP,John Devine,164,6,52,106
+Palo Pinto,20,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,11,1,5,5
+Palo Pinto,20,"Justice, Supreme Court, Place 4",4,,Under Votes,5,0,0,5
+Palo Pinto,20,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,20,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,164,6,52,106
+Palo Pinto,20,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,11,1,5,5
+Palo Pinto,20,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,1,0,0,1
+Palo Pinto,20,"Justice, Supreme Court, Place 6",6,,Under Votes,4,0,0,4
+Palo Pinto,20,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,20,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,164,6,51,107
+Palo Pinto,20,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,12,1,6,5
+Palo Pinto,20,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,4,0,0,4
+Palo Pinto,20,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,20,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,163,6,51,106
+Palo Pinto,20,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,13,1,6,6
+Palo Pinto,20,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,4,0,0,4
+Palo Pinto,20,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,20,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,166,6,52,108
+Palo Pinto,20,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,10,1,5,4
+Palo Pinto,20,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,4,0,0,4
+Palo Pinto,20,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,20,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,164,6,52,106
+Palo Pinto,20,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,12,1,5,6
+Palo Pinto,20,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,4,0,0,4
+Palo Pinto,20,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,20,State Representative,60,REP,Mike Olcott,166,6,53,107
+Palo Pinto,20,State Representative,60,,Under Votes,14,1,4,9
+Palo Pinto,20,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,20,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,167,6,54,107
+Palo Pinto,20,"Chief Justice, 11th Court of Appeals District",,,Under Votes,13,1,3,9
+Palo Pinto,20,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,20,"District Judge, 29th Judicial District",29,REP,Michael Moore,168,6,54,108
+Palo Pinto,20,"District Judge, 29th Judicial District",29,,Under Votes,12,1,3,8
+Palo Pinto,20,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,20,"District Attorney, 29th Judicial District",29,REP,Jett Smith,169,6,54,109
+Palo Pinto,20,"District Attorney, 29th Judicial District",29,,Under Votes,11,1,3,7
+Palo Pinto,20,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,20,County Attorney,,REP,Maegan Kostiha,168,6,54,108
+Palo Pinto,20,County Attorney,,,Under Votes,12,1,3,8
+Palo Pinto,20,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,20,"District Clerk, Unexpired Term",,REP,Nathan Choate,167,6,53,108
+Palo Pinto,20,"District Clerk, Unexpired Term",,,Under Votes,13,1,4,8
+Palo Pinto,20,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,20,Sheriff,,REP,JR Patterson,167,6,54,107
+Palo Pinto,20,Sheriff,,,Under Votes,13,1,3,9
+Palo Pinto,20,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,20,County Tax Assessor-Collector,,REP,Stacy Choate,168,6,54,108
+Palo Pinto,20,County Tax Assessor-Collector,,,Under Votes,12,1,3,8
+Palo Pinto,20,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,20,"Constable, Precinct 3",,REP,Johnny McKee Jr,169,5,55,109
+Palo Pinto,20,"Constable, Precinct 3",,,Under Votes,11,2,2,7
+Palo Pinto,20,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Palo Pinto,21,Registered Voters,,,,869,,,
+Palo Pinto,21,Ballots Cast,,,,575,,,
+Palo Pinto,21,President,,REP,Donald J. Trump JD Vance,447,25,332,90
+Palo Pinto,21,President,,DEM,Kamala D. Harris Tim Walz,123,8,85,30
+Palo Pinto,21,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+Palo Pinto,21,President,,GRN,Jill Stein Rudolph Ware,2,0,1,1
+Palo Pinto,21,President,,,Under Votes,2,0,1,1
+Palo Pinto,21,President,,,Over Votes,0,0,0,0
+Palo Pinto,21,U.S. Senate,,REP,Ted Cruz,428,21,321,86
+Palo Pinto,21,U.S. Senate,,DEM,Colin Allred,129,6,89,34
+Palo Pinto,21,U.S. Senate,,LIB,Ted Brown,10,3,6,1
+Palo Pinto,21,U.S. Senate,,,Under Votes,8,3,3,2
+Palo Pinto,21,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,21,U.S. House,25,REP,Roger Williams,495,23,360,112
+Palo Pinto,21,U.S. House,25,(W),CHAD HAGG,0,0,0,0
+Palo Pinto,21,U.S. House,25,,Under Votes,80,10,59,11
+Palo Pinto,21,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,21,Railroad Commissioner,,REP,Christi Craddick,418,22,307,89
+Palo Pinto,21,Railroad Commissioner,,DEM,Katherine Culbert,105,3,78,24
+Palo Pinto,21,Railroad Commissioner,,LIB,Hawk Dunlap,13,1,10,2
+Palo Pinto,21,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,4,4
+Palo Pinto,21,Railroad Commissioner,,,Under Votes,31,7,20,4
+Palo Pinto,21,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,21,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,438,25,319,94
+Palo Pinto,21,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,107,3,80,24
+Palo Pinto,21,"Justice, Supreme Court, Place 2",2,,Under Votes,30,5,20,5
+Palo Pinto,21,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,21,"Justice, Supreme Court, Place 4",4,REP,John Devine,432,23,317,92
+Palo Pinto,21,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,114,4,83,27
+Palo Pinto,21,"Justice, Supreme Court, Place 4",4,,Under Votes,29,6,19,4
+Palo Pinto,21,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,21,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,427,24,313,90
+Palo Pinto,21,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,105,3,78,24
+Palo Pinto,21,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,14,1,9,4
+Palo Pinto,21,"Justice, Supreme Court, Place 6",6,,Under Votes,29,5,19,5
+Palo Pinto,21,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,21,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,436,23,321,92
+Palo Pinto,21,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,110,4,79,27
+Palo Pinto,21,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,29,6,19,4
+Palo Pinto,21,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,21,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,438,24,323,91
+Palo Pinto,21,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,108,3,78,27
+Palo Pinto,21,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,29,6,18,5
+Palo Pinto,21,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,21,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,436,24,317,95
+Palo Pinto,21,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,105,3,80,22
+Palo Pinto,21,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,34,6,22,6
+Palo Pinto,21,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,21,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,449,22,330,97
+Palo Pinto,21,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,107,4,81,22
+Palo Pinto,21,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,19,7,8,4
+Palo Pinto,21,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,21,State Representative,60,REP,Mike Olcott,460,22,333,105
+Palo Pinto,21,State Representative,60,,Under Votes,115,11,86,18
+Palo Pinto,21,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,21,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,472,22,342,108
+Palo Pinto,21,"Chief Justice, 11th Court of Appeals District",,,Under Votes,103,11,77,15
+Palo Pinto,21,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,21,"District Judge, 29th Judicial District",29,REP,Michael Moore,465,22,333,110
+Palo Pinto,21,"District Judge, 29th Judicial District",29,,Under Votes,110,11,86,13
+Palo Pinto,21,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,21,"District Attorney, 29th Judicial District",29,REP,Jett Smith,473,22,342,109
+Palo Pinto,21,"District Attorney, 29th Judicial District",29,,Under Votes,102,11,77,14
+Palo Pinto,21,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,21,County Attorney,,REP,Maegan Kostiha,474,22,341,111
+Palo Pinto,21,County Attorney,,,Under Votes,101,11,78,12
+Palo Pinto,21,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,21,"District Clerk, Unexpired Term",,REP,Nathan Choate,474,22,341,111
+Palo Pinto,21,"District Clerk, Unexpired Term",,,Under Votes,101,11,78,12
+Palo Pinto,21,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,21,Sheriff,,REP,JR Patterson,479,23,347,109
+Palo Pinto,21,Sheriff,,,Under Votes,94,10,70,14
+Palo Pinto,21,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,21,County Tax Assessor-Collector,,REP,Stacy Choate,481,23,348,110
+Palo Pinto,21,County Tax Assessor-Collector,,,Under Votes,94,10,71,13
+Palo Pinto,21,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,21,"Constable, Precinct 5",,REP,Scott Mitcham,473,23,339,111
+Palo Pinto,21,"Constable, Precinct 5",,,Under Votes,102,10,80,12
+Palo Pinto,21,"Constable, Precinct 5",,,Over Votes,0,0,0,0
+Palo Pinto,22,Registered Voters,,,,1118,,,
+Palo Pinto,22,Ballots Cast,,,,774,,,
+Palo Pinto,22,President,,REP,Donald J. Trump JD Vance,692,25,493,174
+Palo Pinto,22,President,,DEM,Kamala D. Harris Tim Walz,76,1,51,24
+Palo Pinto,22,President,,LIB,Chase Oliver Mike ter Maat,2,0,1,1
+Palo Pinto,22,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+Palo Pinto,22,President,,,Under Votes,3,0,2,1
+Palo Pinto,22,President,,,Over Votes,0,0,0,0
+Palo Pinto,22,U.S. Senate,,REP,Ted Cruz,670,23,481,166
+Palo Pinto,22,U.S. Senate,,DEM,Colin Allred,83,1,55,27
+Palo Pinto,22,U.S. Senate,,LIB,Ted Brown,13,0,8,5
+Palo Pinto,22,U.S. Senate,,,Under Votes,8,2,3,3
+Palo Pinto,22,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,22,U.S. House,25,REP,Roger Williams,707,23,501,183
+Palo Pinto,22,U.S. House,25,(W),CHAD HAGG,1,0,0,1
+Palo Pinto,22,U.S. House,25,,Under Votes,66,3,46,17
+Palo Pinto,22,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,22,Railroad Commissioner,,REP,Christi Craddick,664,23,473,168
+Palo Pinto,22,Railroad Commissioner,,DEM,Katherine Culbert,63,1,42,20
+Palo Pinto,22,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,9,8
+Palo Pinto,22,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,2,1
+Palo Pinto,22,Railroad Commissioner,,,Under Votes,27,2,21,4
+Palo Pinto,22,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,22,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,681,23,481,177
+Palo Pinto,22,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,66,1,45,20
+Palo Pinto,22,"Justice, Supreme Court, Place 2",2,,Under Votes,27,2,21,4
+Palo Pinto,22,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,22,"Justice, Supreme Court, Place 4",4,REP,John Devine,677,23,480,174
+Palo Pinto,22,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,69,1,45,23
+Palo Pinto,22,"Justice, Supreme Court, Place 4",4,,Under Votes,28,2,22,4
+Palo Pinto,22,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,22,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,654,21,467,166
+Palo Pinto,22,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,63,2,43,18
+Palo Pinto,22,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,26,1,14,11
+Palo Pinto,22,"Justice, Supreme Court, Place 6",6,,Under Votes,31,2,23,6
+Palo Pinto,22,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,22,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,678,22,481,175
+Palo Pinto,22,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,68,2,44,22
+Palo Pinto,22,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,28,2,22,4
+Palo Pinto,22,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,22,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,678,22,482,174
+Palo Pinto,22,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,64,2,40,22
+Palo Pinto,22,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,32,2,25,5
+Palo Pinto,22,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,22,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,682,23,483,176
+Palo Pinto,22,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,62,1,40,21
+Palo Pinto,22,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,30,2,24,4
+Palo Pinto,22,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,22,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,682,23,488,171
+Palo Pinto,22,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,72,1,45,26
+Palo Pinto,22,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,20,2,14,4
+Palo Pinto,22,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,22,State Representative,60,REP,Mike Olcott,677,20,480,177
+Palo Pinto,22,State Representative,60,,Under Votes,97,6,67,24
+Palo Pinto,22,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,22,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,690,20,492,178
+Palo Pinto,22,"Chief Justice, 11th Court of Appeals District",,,Under Votes,84,6,55,23
+Palo Pinto,22,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,22,"District Judge, 29th Judicial District",29,REP,Michael Moore,691,20,493,178
+Palo Pinto,22,"District Judge, 29th Judicial District",29,,Under Votes,83,6,54,23
+Palo Pinto,22,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,22,"District Attorney, 29th Judicial District",29,REP,Jett Smith,696,21,495,180
+Palo Pinto,22,"District Attorney, 29th Judicial District",29,,Under Votes,78,5,52,21
+Palo Pinto,22,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,22,County Attorney,,REP,Maegan Kostiha,689,20,490,179
+Palo Pinto,22,County Attorney,,,Under Votes,85,6,57,22
+Palo Pinto,22,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,22,"District Clerk, Unexpired Term",,REP,Nathan Choate,691,21,494,176
+Palo Pinto,22,"District Clerk, Unexpired Term",,,Under Votes,83,5,53,25
+Palo Pinto,22,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,22,Sheriff,,REP,JR Patterson,698,21,496,181
+Palo Pinto,22,Sheriff,,,Under Votes,76,5,51,20
+Palo Pinto,22,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,22,County Tax Assessor-Collector,,REP,Stacy Choate,692,21,493,178
+Palo Pinto,22,County Tax Assessor-Collector,,,Under Votes,82,5,54,23
+Palo Pinto,22,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,22,"Constable, Precinct 5",,REP,Scott Mitcham,683,21,482,180
+Palo Pinto,22,"Constable, Precinct 5",,,Under Votes,91,5,65,21
+Palo Pinto,22,"Constable, Precinct 5",,,Over Votes,0,0,0,0
+Palo Pinto,23,Registered Voters,,,,1617,,,
+Palo Pinto,23,Ballots Cast,,,,867,,,
+Palo Pinto,23,President,,REP,Donald J. Trump JD Vance,650,21,503,126
+Palo Pinto,23,President,,DEM,Kamala D. Harris Tim Walz,205,15,142,48
+Palo Pinto,23,President,,LIB,Chase Oliver Mike ter Maat,4,0,3,1
+Palo Pinto,23,President,,GRN,Jill Stein Rudolph Ware,5,0,2,3
+Palo Pinto,23,President,,,Under Votes,3,0,3,0
+Palo Pinto,23,President,,,Over Votes,0,0,0,0
+Palo Pinto,23,U.S. Senate,,REP,Ted Cruz,613,20,476,117
+Palo Pinto,23,U.S. Senate,,DEM,Colin Allred,220,15,152,53
+Palo Pinto,23,U.S. Senate,,LIB,Ted Brown,24,1,16,7
+Palo Pinto,23,U.S. Senate,,,Under Votes,10,0,9,1
+Palo Pinto,23,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,23,U.S. House,25,REP,Roger Williams,718,24,552,142
+Palo Pinto,23,U.S. House,25,(W),CHAD HAGG,5,0,5,0
+Palo Pinto,23,U.S. House,25,,Under Votes,144,12,96,36
+Palo Pinto,23,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,23,Railroad Commissioner,,REP,Christi Craddick,609,18,477,114
+Palo Pinto,23,Railroad Commissioner,,DEM,Katherine Culbert,179,15,122,42
+Palo Pinto,23,Railroad Commissioner,,LIB,Hawk Dunlap,32,1,25,6
+Palo Pinto,23,Railroad Commissioner,,GRN,Eddie Espinoza,12,0,6,6
+Palo Pinto,23,Railroad Commissioner,,,Under Votes,35,2,23,10
+Palo Pinto,23,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,23,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,639,21,496,122
+Palo Pinto,23,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,192,13,132,47
+Palo Pinto,23,"Justice, Supreme Court, Place 2",2,,Under Votes,36,2,25,9
+Palo Pinto,23,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,23,"Justice, Supreme Court, Place 4",4,REP,John Devine,629,21,488,120
+Palo Pinto,23,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,202,13,139,50
+Palo Pinto,23,"Justice, Supreme Court, Place 4",4,,Under Votes,36,2,26,8
+Palo Pinto,23,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,23,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,617,18,482,117
+Palo Pinto,23,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,189,13,130,46
+Palo Pinto,23,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,26,2,18,6
+Palo Pinto,23,"Justice, Supreme Court, Place 6",6,,Under Votes,35,3,23,9
+Palo Pinto,23,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,23,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,631,19,491,121
+Palo Pinto,23,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,199,15,135,49
+Palo Pinto,23,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,37,2,27,8
+Palo Pinto,23,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,23,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,637,21,495,121
+Palo Pinto,23,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,194,13,132,49
+Palo Pinto,23,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,36,2,26,8
+Palo Pinto,23,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,23,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,640,21,496,123
+Palo Pinto,23,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,187,13,130,44
+Palo Pinto,23,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,40,2,27,11
+Palo Pinto,23,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,23,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,654,21,505,128
+Palo Pinto,23,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,183,13,128,42
+Palo Pinto,23,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,30,2,20,8
+Palo Pinto,23,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,23,State Representative,60,REP,Mike Olcott,665,21,507,137
+Palo Pinto,23,State Representative,60,,Under Votes,202,15,146,41
+Palo Pinto,23,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,23,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,687,22,530,135
+Palo Pinto,23,"Chief Justice, 11th Court of Appeals District",,,Under Votes,180,14,123,43
+Palo Pinto,23,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,23,"District Judge, 29th Judicial District",29,REP,Michael Moore,688,22,529,137
+Palo Pinto,23,"District Judge, 29th Judicial District",29,,Under Votes,179,14,124,41
+Palo Pinto,23,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,23,"District Attorney, 29th Judicial District",29,REP,Jett Smith,696,22,538,136
+Palo Pinto,23,"District Attorney, 29th Judicial District",29,,Under Votes,171,14,115,42
+Palo Pinto,23,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,23,County Attorney,,REP,Maegan Kostiha,677,22,520,135
+Palo Pinto,23,County Attorney,,,Under Votes,190,14,133,43
+Palo Pinto,23,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,23,"District Clerk, Unexpired Term",,REP,Nathan Choate,697,23,534,140
+Palo Pinto,23,"District Clerk, Unexpired Term",,,Under Votes,170,13,119,38
+Palo Pinto,23,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,23,Sheriff,,REP,JR Patterson,699,24,538,137
+Palo Pinto,23,Sheriff,,,Under Votes,158,11,107,40
+Palo Pinto,23,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,23,County Tax Assessor-Collector,,REP,Stacy Choate,713,22,548,143
+Palo Pinto,23,County Tax Assessor-Collector,,,Under Votes,154,14,105,35
+Palo Pinto,23,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,23,"Constable, Precinct 5",,REP,Scott Mitcham,693,20,534,139
+Palo Pinto,23,"Constable, Precinct 5",,,Under Votes,174,16,119,39
+Palo Pinto,23,"Constable, Precinct 5",,,Over Votes,0,0,0,0
+Palo Pinto,24,Registered Voters,,,,262,,,
+Palo Pinto,24,Ballots Cast,,,,166,,,
+Palo Pinto,24,President,,REP,Donald J. Trump JD Vance,128,5,96,27
+Palo Pinto,24,President,,DEM,Kamala D. Harris Tim Walz,37,3,27,7
+Palo Pinto,24,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+Palo Pinto,24,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Palo Pinto,24,President,,,Under Votes,0,0,0,0
+Palo Pinto,24,President,,,Over Votes,0,0,0,0
+Palo Pinto,24,U.S. Senate,,REP,Ted Cruz,121,5,90,26
+Palo Pinto,24,U.S. Senate,,DEM,Colin Allred,39,3,29,7
+Palo Pinto,24,U.S. Senate,,LIB,Ted Brown,4,0,3,1
+Palo Pinto,24,U.S. Senate,,,Under Votes,2,0,2,0
+Palo Pinto,24,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,24,U.S. House,25,REP,Roger Williams,147,5,111,31
+Palo Pinto,24,U.S. House,25,(W),CHAD HAGG,0,0,0,0
+Palo Pinto,24,U.S. House,25,,Under Votes,19,3,13,3
+Palo Pinto,24,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,24,Railroad Commissioner,,REP,Christi Craddick,117,5,90,22
+Palo Pinto,24,Railroad Commissioner,,DEM,Katherine Culbert,28,2,22,4
+Palo Pinto,24,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,3,4
+Palo Pinto,24,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,3,2
+Palo Pinto,24,Railroad Commissioner,,,Under Votes,9,1,6,2
+Palo Pinto,24,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,24,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,123,5,93,25
+Palo Pinto,24,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,32,2,24,6
+Palo Pinto,24,"Justice, Supreme Court, Place 2",2,,Under Votes,11,1,7,3
+Palo Pinto,24,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,24,"Justice, Supreme Court, Place 4",4,REP,John Devine,124,5,94,25
+Palo Pinto,24,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,31,2,23,6
+Palo Pinto,24,"Justice, Supreme Court, Place 4",4,,Under Votes,11,1,7,3
+Palo Pinto,24,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,24,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,115,5,89,21
+Palo Pinto,24,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,31,2,23,6
+Palo Pinto,24,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,7,0,4,3
+Palo Pinto,24,"Justice, Supreme Court, Place 6",6,,Under Votes,13,1,8,4
+Palo Pinto,24,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,24,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,122,5,92,25
+Palo Pinto,24,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,35,2,27,6
+Palo Pinto,24,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,1,5,3
+Palo Pinto,24,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,24,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,123,5,94,24
+Palo Pinto,24,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,32,2,24,6
+Palo Pinto,24,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,11,1,6,4
+Palo Pinto,24,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,24,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,124,5,94,25
+Palo Pinto,24,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,31,2,25,4
+Palo Pinto,24,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,11,1,5,5
+Palo Pinto,24,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,24,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,125,5,94,26
+Palo Pinto,24,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,34,2,25,7
+Palo Pinto,24,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,7,1,5,1
+Palo Pinto,24,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,24,State Representative,60,REP,Mike Olcott,135,5,102,28
+Palo Pinto,24,State Representative,60,,Under Votes,31,3,22,6
+Palo Pinto,24,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,24,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,140,5,107,28
+Palo Pinto,24,"Chief Justice, 11th Court of Appeals District",,,Under Votes,26,3,17,6
+Palo Pinto,24,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,24,"District Judge, 29th Judicial District",29,REP,Michael Moore,140,5,107,28
+Palo Pinto,24,"District Judge, 29th Judicial District",29,,Under Votes,26,3,17,6
+Palo Pinto,24,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,24,"District Attorney, 29th Judicial District",29,REP,Jett Smith,141,5,108,28
+Palo Pinto,24,"District Attorney, 29th Judicial District",29,,Under Votes,25,3,16,6
+Palo Pinto,24,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,24,County Attorney,,REP,Maegan Kostiha,139,5,108,26
+Palo Pinto,24,County Attorney,,,Under Votes,27,3,16,8
+Palo Pinto,24,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,24,"District Clerk, Unexpired Term",,REP,Nathan Choate,140,5,107,28
+Palo Pinto,24,"District Clerk, Unexpired Term",,,Under Votes,26,3,17,6
+Palo Pinto,24,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,24,Sheriff,,REP,JR Patterson,140,5,108,27
+Palo Pinto,24,Sheriff,,,Under Votes,26,3,16,7
+Palo Pinto,24,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,24,County Tax Assessor-Collector,,REP,Stacy Choate,146,6,110,30
+Palo Pinto,24,County Tax Assessor-Collector,,,Under Votes,20,2,14,4
+Palo Pinto,24,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,24,"County Commissioner, Precinct 3",,REP,James Pollock,140,5,107,28
+Palo Pinto,24,"County Commissioner, Precinct 3",,,Under Votes,26,3,17,6
+Palo Pinto,24,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Palo Pinto,24,"Constable, Precinct 5",,REP,Scott Mitcham,135,5,102,28
+Palo Pinto,24,"Constable, Precinct 5",,,Under Votes,31,3,22,6
+Palo Pinto,24,"Constable, Precinct 5",,,Over Votes,0,0,0,0
+Palo Pinto,25,Registered Voters,,,,182,,,
+Palo Pinto,25,Ballots Cast,,,,86,,,
+Palo Pinto,25,President,,REP,Donald J. Trump JD Vance,64,5,50,9
+Palo Pinto,25,President,,DEM,Kamala D. Harris Tim Walz,21,0,19,2
+Palo Pinto,25,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+Palo Pinto,25,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Palo Pinto,25,President,,,Under Votes,0,0,0,0
+Palo Pinto,25,President,,,Over Votes,0,0,0,0
+Palo Pinto,25,U.S. Senate,,REP,Ted Cruz,55,5,41,9
+Palo Pinto,25,U.S. Senate,,DEM,Colin Allred,24,0,22,2
+Palo Pinto,25,U.S. Senate,,LIB,Ted Brown,5,0,5,0
+Palo Pinto,25,U.S. Senate,,,Under Votes,2,0,2,0
+Palo Pinto,25,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,25,U.S. House,25,REP,Roger Williams,70,5,55,10
+Palo Pinto,25,U.S. House,25,(W),CHAD HAGG,0,0,0,0
+Palo Pinto,25,U.S. House,25,,Under Votes,16,0,15,1
+Palo Pinto,25,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,25,Railroad Commissioner,,REP,Christi Craddick,58,3,45,10
+Palo Pinto,25,Railroad Commissioner,,DEM,Katherine Culbert,15,0,14,1
+Palo Pinto,25,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,5,0
+Palo Pinto,25,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Palo Pinto,25,Railroad Commissioner,,,Under Votes,8,2,6,0
+Palo Pinto,25,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,25,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,63,4,49,10
+Palo Pinto,25,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,18,0,17,1
+Palo Pinto,25,"Justice, Supreme Court, Place 2",2,,Under Votes,5,1,4,0
+Palo Pinto,25,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,25,"Justice, Supreme Court, Place 4",4,REP,John Devine,58,4,45,9
+Palo Pinto,25,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,21,0,19,2
+Palo Pinto,25,"Justice, Supreme Court, Place 4",4,,Under Votes,7,1,6,0
+Palo Pinto,25,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,25,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,58,4,45,9
+Palo Pinto,25,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,18,0,16,2
+Palo Pinto,25,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,5,0,5,0
+Palo Pinto,25,"Justice, Supreme Court, Place 6",6,,Under Votes,5,1,4,0
+Palo Pinto,25,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,25,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,62,4,49,9
+Palo Pinto,25,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,18,0,16,2
+Palo Pinto,25,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,6,1,5,0
+Palo Pinto,25,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,25,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,63,4,49,10
+Palo Pinto,25,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,17,0,16,1
+Palo Pinto,25,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,6,1,5,0
+Palo Pinto,25,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,25,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,62,4,49,9
+Palo Pinto,25,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,18,0,16,2
+Palo Pinto,25,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,6,1,5,0
+Palo Pinto,25,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,25,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,63,4,50,9
+Palo Pinto,25,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,19,0,17,2
+Palo Pinto,25,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,4,1,3,0
+Palo Pinto,25,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,25,State Representative,60,REP,Mike Olcott,60,3,47,10
+Palo Pinto,25,State Representative,60,,Under Votes,26,2,23,1
+Palo Pinto,25,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,25,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,62,4,48,10
+Palo Pinto,25,"Chief Justice, 11th Court of Appeals District",,,Under Votes,24,1,22,1
+Palo Pinto,25,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,25,"District Judge, 29th Judicial District",29,REP,Michael Moore,63,4,49,10
+Palo Pinto,25,"District Judge, 29th Judicial District",29,,Under Votes,23,1,21,1
+Palo Pinto,25,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,25,"District Attorney, 29th Judicial District",29,REP,Jett Smith,62,4,48,10
+Palo Pinto,25,"District Attorney, 29th Judicial District",29,,Under Votes,24,1,22,1
+Palo Pinto,25,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,25,County Attorney,,REP,Maegan Kostiha,64,4,50,10
+Palo Pinto,25,County Attorney,,,Under Votes,22,1,20,1
+Palo Pinto,25,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,25,"District Clerk, Unexpired Term",,REP,Nathan Choate,64,4,51,9
+Palo Pinto,25,"District Clerk, Unexpired Term",,,Under Votes,22,1,19,2
+Palo Pinto,25,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,25,Sheriff,,REP,JR Patterson,69,4,55,10
+Palo Pinto,25,Sheriff,,,Under Votes,17,1,15,1
+Palo Pinto,25,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,25,County Tax Assessor-Collector,,REP,Stacy Choate,68,4,55,9
+Palo Pinto,25,County Tax Assessor-Collector,,,Under Votes,18,1,15,2
+Palo Pinto,25,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,25,"County Commissioner, Precinct 1",,REP,Richard Ralls,67,4,54,9
+Palo Pinto,25,"County Commissioner, Precinct 1",,,Under Votes,19,1,16,2
+Palo Pinto,25,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Palo Pinto,25,"Constable, Precinct 5",,REP,Scott Mitcham,64,4,51,9
+Palo Pinto,25,"Constable, Precinct 5",,,Under Votes,22,1,19,2
+Palo Pinto,25,"Constable, Precinct 5",,,Over Votes,0,0,0,0
+Palo Pinto,26,Registered Voters,,,,123,,,
+Palo Pinto,26,Ballots Cast,,,,56,,,
+Palo Pinto,26,President,,REP,Donald J. Trump JD Vance,44,2,31,11
+Palo Pinto,26,President,,DEM,Kamala D. Harris Tim Walz,10,1,6,3
+Palo Pinto,26,President,,LIB,Chase Oliver Mike ter Maat,2,0,1,1
+Palo Pinto,26,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Palo Pinto,26,President,,,Under Votes,0,0,0,0
+Palo Pinto,26,President,,,Over Votes,0,0,0,0
+Palo Pinto,26,U.S. Senate,,REP,Ted Cruz,40,2,29,9
+Palo Pinto,26,U.S. Senate,,DEM,Colin Allred,14,1,8,5
+Palo Pinto,26,U.S. Senate,,LIB,Ted Brown,2,0,1,1
+Palo Pinto,26,U.S. Senate,,,Under Votes,0,0,0,0
+Palo Pinto,26,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,26,U.S. House,25,REP,Roger Williams,53,2,37,14
+Palo Pinto,26,U.S. House,25,(W),CHAD HAGG,0,0,0,0
+Palo Pinto,26,U.S. House,25,,Under Votes,3,1,1,1
+Palo Pinto,26,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,26,Railroad Commissioner,,REP,Christi Craddick,37,2,26,9
+Palo Pinto,26,Railroad Commissioner,,DEM,Katherine Culbert,11,1,7,3
+Palo Pinto,26,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,3,2
+Palo Pinto,26,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+Palo Pinto,26,Railroad Commissioner,,,Under Votes,2,0,2,0
+Palo Pinto,26,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,26,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,43,2,29,12
+Palo Pinto,26,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,11,1,7,3
+Palo Pinto,26,"Justice, Supreme Court, Place 2",2,,Under Votes,2,0,2,0
+Palo Pinto,26,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,26,"Justice, Supreme Court, Place 4",4,REP,John Devine,44,1,31,12
+Palo Pinto,26,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,10,1,6,3
+Palo Pinto,26,"Justice, Supreme Court, Place 4",4,,Under Votes,2,1,1,0
+Palo Pinto,26,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,26,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,42,2,29,11
+Palo Pinto,26,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,10,1,6,3
+Palo Pinto,26,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,1,0,0,1
+Palo Pinto,26,"Justice, Supreme Court, Place 6",6,,Under Votes,3,0,3,0
+Palo Pinto,26,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,26,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,42,2,29,11
+Palo Pinto,26,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,11,1,6,4
+Palo Pinto,26,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,3,0,3,0
+Palo Pinto,26,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,26,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,42,2,29,11
+Palo Pinto,26,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,13,1,8,4
+Palo Pinto,26,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,1,0,1,0
+Palo Pinto,26,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,26,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,45,2,31,12
+Palo Pinto,26,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,9,1,5,3
+Palo Pinto,26,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,2,0,2,0
+Palo Pinto,26,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,26,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,47,2,33,12
+Palo Pinto,26,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,8,1,4,3
+Palo Pinto,26,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,1,0,1,0
+Palo Pinto,26,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,26,State Representative,60,REP,Mike Olcott,51,2,35,14
+Palo Pinto,26,State Representative,60,,Under Votes,5,1,3,1
+Palo Pinto,26,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,26,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,51,2,35,14
+Palo Pinto,26,"Chief Justice, 11th Court of Appeals District",,,Under Votes,5,1,3,1
+Palo Pinto,26,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,26,"District Judge, 29th Judicial District",29,REP,Michael Moore,49,2,33,14
+Palo Pinto,26,"District Judge, 29th Judicial District",29,,Under Votes,7,1,5,1
+Palo Pinto,26,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,26,"District Attorney, 29th Judicial District",29,REP,Jett Smith,49,1,34,14
+Palo Pinto,26,"District Attorney, 29th Judicial District",29,,Under Votes,7,2,4,1
+Palo Pinto,26,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,26,County Attorney,,REP,Maegan Kostiha,48,0,34,14
+Palo Pinto,26,County Attorney,,,Under Votes,8,3,4,1
+Palo Pinto,26,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,26,"District Clerk, Unexpired Term",,REP,Nathan Choate,49,2,33,14
+Palo Pinto,26,"District Clerk, Unexpired Term",,,Under Votes,7,1,5,1
+Palo Pinto,26,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,26,Sheriff,,REP,JR Patterson,49,2,33,14
+Palo Pinto,26,Sheriff,,,Under Votes,6,1,4,1
+Palo Pinto,26,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,26,County Tax Assessor-Collector,,REP,Stacy Choate,51,2,35,14
+Palo Pinto,26,County Tax Assessor-Collector,,,Under Votes,5,1,3,1
+Palo Pinto,26,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,26,"Constable, Precinct 5",,REP,Scott Mitcham,48,2,33,13
+Palo Pinto,26,"Constable, Precinct 5",,,Under Votes,8,1,5,2
+Palo Pinto,26,"Constable, Precinct 5",,,Over Votes,0,0,0,0
+Palo Pinto,27,Registered Voters,,,,1725,,,
+Palo Pinto,27,Ballots Cast,,,,1121,,,
+Palo Pinto,27,President,,REP,Donald J. Trump JD Vance,882,32,706,144
+Palo Pinto,27,President,,DEM,Kamala D. Harris Tim Walz,222,23,176,23
+Palo Pinto,27,President,,LIB,Chase Oliver Mike ter Maat,8,0,7,1
+Palo Pinto,27,President,,GRN,Jill Stein Rudolph Ware,3,0,2,1
+Palo Pinto,27,President,,,Under Votes,4,1,3,0
+Palo Pinto,27,President,,,Over Votes,0,0,0,0
+Palo Pinto,27,U.S. Senate,,REP,Ted Cruz,829,30,670,129
+Palo Pinto,27,U.S. Senate,,DEM,Colin Allred,241,22,189,30
+Palo Pinto,27,U.S. Senate,,LIB,Ted Brown,38,2,28,8
+Palo Pinto,27,U.S. Senate,,,Under Votes,12,2,7,3
+Palo Pinto,27,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,27,U.S. House,25,REP,Roger Williams,967,35,782,150
+Palo Pinto,27,U.S. House,25,(W),CHAD HAGG,0,0,0,0
+Palo Pinto,27,U.S. House,25,,Under Votes,154,21,112,21
+Palo Pinto,27,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,27,Railroad Commissioner,,REP,Christi Craddick,831,31,675,125
+Palo Pinto,27,Railroad Commissioner,,DEM,Katherine Culbert,176,17,137,22
+Palo Pinto,27,Railroad Commissioner,,LIB,Hawk Dunlap,44,3,34,7
+Palo Pinto,27,Railroad Commissioner,,GRN,Eddie Espinoza,13,0,8,5
+Palo Pinto,27,Railroad Commissioner,,,Under Votes,57,5,40,12
+Palo Pinto,27,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,27,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,882,34,710,138
+Palo Pinto,27,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,180,17,142,21
+Palo Pinto,27,"Justice, Supreme Court, Place 2",2,,Under Votes,59,5,42,12
+Palo Pinto,27,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,27,"Justice, Supreme Court, Place 4",4,REP,John Devine,863,33,696,134
+Palo Pinto,27,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,197,18,152,27
+Palo Pinto,27,"Justice, Supreme Court, Place 4",4,,Under Votes,61,5,46,10
+Palo Pinto,27,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,27,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,837,30,677,130
+Palo Pinto,27,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,180,16,143,21
+Palo Pinto,27,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,43,4,30,9
+Palo Pinto,27,"Justice, Supreme Court, Place 6",6,,Under Votes,61,6,44,11
+Palo Pinto,27,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,27,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,863,33,699,131
+Palo Pinto,27,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,197,18,154,25
+Palo Pinto,27,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,61,5,41,15
+Palo Pinto,27,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,27,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,875,34,705,136
+Palo Pinto,27,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,184,17,147,20
+Palo Pinto,27,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,62,5,42,15
+Palo Pinto,27,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,27,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,878,33,711,134
+Palo Pinto,27,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,174,18,136,20
+Palo Pinto,27,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,69,5,47,17
+Palo Pinto,27,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,27,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,891,35,718,138
+Palo Pinto,27,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,186,16,149,21
+Palo Pinto,27,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,44,5,27,12
+Palo Pinto,27,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,27,State Representative,60,REP,Mike Olcott,898,31,720,147
+Palo Pinto,27,State Representative,60,,Under Votes,223,25,174,24
+Palo Pinto,27,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,27,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,928,34,748,146
+Palo Pinto,27,"Chief Justice, 11th Court of Appeals District",,,Under Votes,193,22,146,25
+Palo Pinto,27,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,27,"District Judge, 29th Judicial District",29,REP,Michael Moore,920,34,743,143
+Palo Pinto,27,"District Judge, 29th Judicial District",29,,Under Votes,201,22,151,28
+Palo Pinto,27,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,27,"District Attorney, 29th Judicial District",29,REP,Jett Smith,946,34,765,147
+Palo Pinto,27,"District Attorney, 29th Judicial District",29,,Under Votes,175,22,129,24
+Palo Pinto,27,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,27,County Attorney,,REP,Maegan Kostiha,939,32,755,152
+Palo Pinto,27,County Attorney,,,Under Votes,182,24,139,19
+Palo Pinto,27,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,27,"District Clerk, Unexpired Term",,REP,Nathan Choate,950,34,766,150
+Palo Pinto,27,"District Clerk, Unexpired Term",,,Under Votes,171,22,128,21
+Palo Pinto,27,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,27,Sheriff,,REP,JR Patterson,932,29,756,147
+Palo Pinto,27,Sheriff,,,Under Votes,180,26,130,24
+Palo Pinto,27,Sheriff,,,Over Votes,1,1,0,0
+Palo Pinto,27,County Tax Assessor-Collector,,REP,Stacy Choate,961,33,780,148
+Palo Pinto,27,County Tax Assessor-Collector,,,Under Votes,160,23,114,23
+Palo Pinto,27,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,27,"County Commissioner, Precinct 1",,REP,Richard Ralls,965,30,786,149
+Palo Pinto,27,"County Commissioner, Precinct 1",,,Under Votes,156,26,108,22
+Palo Pinto,27,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Palo Pinto,27,"Constable, Precinct 5",,REP,Scott Mitcham,933,31,758,144
+Palo Pinto,27,"Constable, Precinct 5",,,Under Votes,188,25,136,27
+Palo Pinto,27,"Constable, Precinct 5",,,Over Votes,0,0,0,0
+Palo Pinto,28,Registered Voters,,,,963,,,
+Palo Pinto,28,Ballots Cast,,,,443,,,
+Palo Pinto,28,President,,REP,Donald J. Trump JD Vance,360,9,273,78
+Palo Pinto,28,President,,DEM,Kamala D. Harris Tim Walz,79,2,51,26
+Palo Pinto,28,President,,LIB,Chase Oliver Mike ter Maat,3,0,3,0
+Palo Pinto,28,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+Palo Pinto,28,President,,,Under Votes,0,0,0,0
+Palo Pinto,28,President,,,Over Votes,0,0,0,0
+Palo Pinto,28,U.S. Senate,,REP,Ted Cruz,330,9,253,68
+Palo Pinto,28,U.S. Senate,,DEM,Colin Allred,93,1,60,32
+Palo Pinto,28,U.S. Senate,,LIB,Ted Brown,13,0,10,3
+Palo Pinto,28,U.S. Senate,,,Under Votes,7,1,5,1
+Palo Pinto,28,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,28,U.S. House,25,REP,Roger Williams,372,9,283,80
+Palo Pinto,28,U.S. House,25,(W),CHAD HAGG,0,0,0,0
+Palo Pinto,28,U.S. House,25,,Under Votes,71,2,45,24
+Palo Pinto,28,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,28,Railroad Commissioner,,REP,Christi Craddick,324,9,250,65
+Palo Pinto,28,Railroad Commissioner,,DEM,Katherine Culbert,71,2,45,24
+Palo Pinto,28,Railroad Commissioner,,LIB,Hawk Dunlap,9,0,7,2
+Palo Pinto,28,Railroad Commissioner,,GRN,Eddie Espinoza,9,0,7,2
+Palo Pinto,28,Railroad Commissioner,,,Under Votes,30,0,19,11
+Palo Pinto,28,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,28,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,344,9,267,68
+Palo Pinto,28,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,76,2,47,27
+Palo Pinto,28,"Justice, Supreme Court, Place 2",2,,Under Votes,23,0,14,9
+Palo Pinto,28,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,28,"Justice, Supreme Court, Place 4",4,REP,John Devine,333,9,259,65
+Palo Pinto,28,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,81,2,51,28
+Palo Pinto,28,"Justice, Supreme Court, Place 4",4,,Under Votes,29,0,18,11
+Palo Pinto,28,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,28,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,325,9,251,65
+Palo Pinto,28,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,74,1,46,27
+Palo Pinto,28,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,18,0,16,2
+Palo Pinto,28,"Justice, Supreme Court, Place 6",6,,Under Votes,26,1,15,10
+Palo Pinto,28,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,28,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,335,9,259,67
+Palo Pinto,28,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,80,2,50,28
+Palo Pinto,28,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,28,0,19,9
+Palo Pinto,28,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,28,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,338,9,260,69
+Palo Pinto,28,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,77,2,49,26
+Palo Pinto,28,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,28,0,19,9
+Palo Pinto,28,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,28,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,338,9,261,68
+Palo Pinto,28,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,77,2,49,26
+Palo Pinto,28,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,28,0,18,10
+Palo Pinto,28,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,28,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,342,9,265,68
+Palo Pinto,28,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,78,1,49,28
+Palo Pinto,28,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,23,1,14,8
+Palo Pinto,28,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,28,State Representative,60,REP,Mike Olcott,364,8,280,76
+Palo Pinto,28,State Representative,60,,Under Votes,79,3,48,28
+Palo Pinto,28,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,28,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,361,6,278,77
+Palo Pinto,28,"Chief Justice, 11th Court of Appeals District",,,Under Votes,82,5,50,27
+Palo Pinto,28,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,28,"District Judge, 29th Judicial District",29,REP,Michael Moore,357,7,275,75
+Palo Pinto,28,"District Judge, 29th Judicial District",29,,Under Votes,86,4,53,29
+Palo Pinto,28,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,28,"District Attorney, 29th Judicial District",29,REP,Jett Smith,363,7,279,77
+Palo Pinto,28,"District Attorney, 29th Judicial District",29,,Under Votes,80,4,49,27
+Palo Pinto,28,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,28,County Attorney,,REP,Maegan Kostiha,357,7,273,77
+Palo Pinto,28,County Attorney,,,Under Votes,86,4,55,27
+Palo Pinto,28,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,28,"District Clerk, Unexpired Term",,REP,Nathan Choate,366,7,281,78
+Palo Pinto,28,"District Clerk, Unexpired Term",,,Under Votes,77,4,47,26
+Palo Pinto,28,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,28,Sheriff,,REP,JR Patterson,365,8,279,78
+Palo Pinto,28,Sheriff,,,Under Votes,77,3,48,26
+Palo Pinto,28,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,28,County Tax Assessor-Collector,,REP,Stacy Choate,361,8,277,76
+Palo Pinto,28,County Tax Assessor-Collector,,,Under Votes,82,3,51,28
+Palo Pinto,28,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,28,"County Commissioner, Precinct 1",,REP,Richard Ralls,369,8,284,77
+Palo Pinto,28,"County Commissioner, Precinct 1",,,Under Votes,74,3,44,27
+Palo Pinto,28,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Palo Pinto,28,"Constable, Precinct 5",,REP,Scott Mitcham,365,8,279,78
+Palo Pinto,28,"Constable, Precinct 5",,,Under Votes,78,3,49,26
+Palo Pinto,28,"Constable, Precinct 5",,,Over Votes,0,0,0,0
+Palo Pinto,29,Registered Voters,,,,1034,,,
+Palo Pinto,29,Ballots Cast,,,,566,,,
+Palo Pinto,29,President,,REP,Donald J. Trump JD Vance,419,9,292,118
+Palo Pinto,29,President,,DEM,Kamala D. Harris Tim Walz,140,6,101,33
+Palo Pinto,29,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Palo Pinto,29,President,,GRN,Jill Stein Rudolph Ware,5,0,1,4
+Palo Pinto,29,President,,,Under Votes,2,0,2,0
+Palo Pinto,29,President,,,Over Votes,0,0,0,0
+Palo Pinto,29,U.S. Senate,,REP,Ted Cruz,395,9,277,109
+Palo Pinto,29,U.S. Senate,,DEM,Colin Allred,154,6,109,39
+Palo Pinto,29,U.S. Senate,,LIB,Ted Brown,12,0,7,5
+Palo Pinto,29,U.S. Senate,,,Under Votes,5,0,3,2
+Palo Pinto,29,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,29,U.S. House,25,REP,Roger Williams,488,12,339,137
+Palo Pinto,29,U.S. House,25,(W),CHAD HAGG,1,0,1,0
+Palo Pinto,29,U.S. House,25,,Under Votes,77,3,56,18
+Palo Pinto,29,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,29,Railroad Commissioner,,REP,Christi Craddick,397,8,277,112
+Palo Pinto,29,Railroad Commissioner,,DEM,Katherine Culbert,110,5,82,23
+Palo Pinto,29,Railroad Commissioner,,LIB,Hawk Dunlap,13,1,9,3
+Palo Pinto,29,Railroad Commissioner,,GRN,Eddie Espinoza,24,0,15,9
+Palo Pinto,29,Railroad Commissioner,,,Under Votes,22,1,13,8
+Palo Pinto,29,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,29,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,417,9,293,115
+Palo Pinto,29,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,132,5,94,33
+Palo Pinto,29,"Justice, Supreme Court, Place 2",2,,Under Votes,17,1,9,7
+Palo Pinto,29,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,29,"Justice, Supreme Court, Place 4",4,REP,John Devine,415,8,292,115
+Palo Pinto,29,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,135,5,95,35
+Palo Pinto,29,"Justice, Supreme Court, Place 4",4,,Under Votes,16,2,9,5
+Palo Pinto,29,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,29,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,403,8,285,110
+Palo Pinto,29,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,121,5,86,30
+Palo Pinto,29,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,28,1,18,9
+Palo Pinto,29,"Justice, Supreme Court, Place 6",6,,Under Votes,14,1,7,6
+Palo Pinto,29,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,29,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,417,9,292,116
+Palo Pinto,29,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,134,5,96,33
+Palo Pinto,29,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,15,1,8,6
+Palo Pinto,29,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,29,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,418,9,292,117
+Palo Pinto,29,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,135,5,97,33
+Palo Pinto,29,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,13,1,7,5
+Palo Pinto,29,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,29,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,423,9,297,117
+Palo Pinto,29,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,124,5,90,29
+Palo Pinto,29,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,19,1,9,9
+Palo Pinto,29,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,29,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,427,9,297,121
+Palo Pinto,29,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,125,5,91,29
+Palo Pinto,29,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,14,1,8,5
+Palo Pinto,29,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,29,State Representative,60,REP,Mike Olcott,476,12,328,136
+Palo Pinto,29,State Representative,60,,Under Votes,90,3,68,19
+Palo Pinto,29,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,29,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,478,11,331,136
+Palo Pinto,29,"Chief Justice, 11th Court of Appeals District",,,Under Votes,88,4,65,19
+Palo Pinto,29,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,29,"District Judge, 29th Judicial District",29,REP,Michael Moore,476,10,331,135
+Palo Pinto,29,"District Judge, 29th Judicial District",29,,Under Votes,90,5,65,20
+Palo Pinto,29,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,29,"District Attorney, 29th Judicial District",29,REP,Jett Smith,471,11,327,133
+Palo Pinto,29,"District Attorney, 29th Judicial District",29,,Under Votes,95,4,69,22
+Palo Pinto,29,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,29,County Attorney,,REP,Maegan Kostiha,468,10,324,134
+Palo Pinto,29,County Attorney,,,Under Votes,98,5,72,21
+Palo Pinto,29,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,29,"District Clerk, Unexpired Term",,REP,Nathan Choate,466,8,325,133
+Palo Pinto,29,"District Clerk, Unexpired Term",,,Under Votes,100,7,71,22
+Palo Pinto,29,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,29,Sheriff,,REP,JR Patterson,474,10,336,128
+Palo Pinto,29,Sheriff,,,Under Votes,91,5,60,26
+Palo Pinto,29,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,29,County Tax Assessor-Collector,,REP,Stacy Choate,479,10,335,134
+Palo Pinto,29,County Tax Assessor-Collector,,,Under Votes,87,5,61,21
+Palo Pinto,29,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,29,"Constable, Precinct 5",,REP,Scott Mitcham,470,8,327,135
+Palo Pinto,29,"Constable, Precinct 5",,,Under Votes,96,7,69,20
+Palo Pinto,29,"Constable, Precinct 5",,,Over Votes,0,0,0,0
+Palo Pinto,30,Registered Voters,,,,919,,,
+Palo Pinto,30,Ballots Cast,,,,457,,,
+Palo Pinto,30,President,,REP,Donald J. Trump JD Vance,308,15,221,72
+Palo Pinto,30,President,,DEM,Kamala D. Harris Tim Walz,142,8,105,29
+Palo Pinto,30,President,,LIB,Chase Oliver Mike ter Maat,3,0,1,2
+Palo Pinto,30,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+Palo Pinto,30,President,,,Under Votes,3,0,2,1
+Palo Pinto,30,President,,,Over Votes,0,0,0,0
+Palo Pinto,30,U.S. Senate,,REP,Ted Cruz,289,14,210,65
+Palo Pinto,30,U.S. Senate,,DEM,Colin Allred,146,7,107,32
+Palo Pinto,30,U.S. Senate,,LIB,Ted Brown,13,1,6,6
+Palo Pinto,30,U.S. Senate,,,Under Votes,9,1,7,1
+Palo Pinto,30,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,30,U.S. House,25,REP,Roger Williams,353,17,249,87
+Palo Pinto,30,U.S. House,25,(W),CHAD HAGG,4,1,3,0
+Palo Pinto,30,U.S. House,25,,Under Votes,100,5,78,17
+Palo Pinto,30,U.S. House,25,,Over Votes,0,0,0,0
+Palo Pinto,30,Railroad Commissioner,,REP,Christi Craddick,274,13,202,59
+Palo Pinto,30,Railroad Commissioner,,DEM,Katherine Culbert,130,6,97,27
+Palo Pinto,30,Railroad Commissioner,,LIB,Hawk Dunlap,9,0,6,3
+Palo Pinto,30,Railroad Commissioner,,GRN,Eddie Espinoza,11,1,4,6
+Palo Pinto,30,Railroad Commissioner,,,Under Votes,33,3,21,9
+Palo Pinto,30,Railroad Commissioner,,,Over Votes,0,0,0,0
+Palo Pinto,30,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,284,13,209,62
+Palo Pinto,30,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,135,7,96,32
+Palo Pinto,30,"Justice, Supreme Court, Place 2",2,,Under Votes,38,3,25,10
+Palo Pinto,30,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Palo Pinto,30,"Justice, Supreme Court, Place 4",4,REP,John Devine,281,13,206,62
+Palo Pinto,30,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,137,7,97,33
+Palo Pinto,30,"Justice, Supreme Court, Place 4",4,,Under Votes,39,3,27,9
+Palo Pinto,30,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Palo Pinto,30,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,283,13,210,60
+Palo Pinto,30,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,131,6,93,32
+Palo Pinto,30,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,9,1,4,4
+Palo Pinto,30,"Justice, Supreme Court, Place 6",6,,Under Votes,34,3,23,8
+Palo Pinto,30,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Palo Pinto,30,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,291,13,214,64
+Palo Pinto,30,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,135,7,95,33
+Palo Pinto,30,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,31,3,21,7
+Palo Pinto,30,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Palo Pinto,30,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,289,13,211,65
+Palo Pinto,30,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,133,7,95,31
+Palo Pinto,30,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,35,3,24,8
+Palo Pinto,30,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Palo Pinto,30,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,297,14,214,69
+Palo Pinto,30,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,124,6,91,27
+Palo Pinto,30,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,36,3,25,8
+Palo Pinto,30,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,30,"Judge, Court of Criminal Appeals, Place 8",8,REP,Phil King,299,13,219,67
+Palo Pinto,30,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Andy Morris,131,7,94,30
+Palo Pinto,30,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,27,3,17,7
+Palo Pinto,30,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Palo Pinto,30,State Representative,60,REP,Mike Olcott,322,13,227,82
+Palo Pinto,30,State Representative,60,,Under Votes,135,10,103,22
+Palo Pinto,30,State Representative,60,,Over Votes,0,0,0,0
+Palo Pinto,30,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,329,16,231,82
+Palo Pinto,30,"Chief Justice, 11th Court of Appeals District",,,Under Votes,128,7,99,22
+Palo Pinto,30,"Chief Justice, 11th Court of Appeals District",,,Over Votes,0,0,0,0
+Palo Pinto,30,"District Judge, 29th Judicial District",29,REP,Michael Moore,331,16,235,80
+Palo Pinto,30,"District Judge, 29th Judicial District",29,,Under Votes,126,7,95,24
+Palo Pinto,30,"District Judge, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,30,"District Attorney, 29th Judicial District",29,REP,Jett Smith,330,17,235,78
+Palo Pinto,30,"District Attorney, 29th Judicial District",29,,Under Votes,127,6,95,26
+Palo Pinto,30,"District Attorney, 29th Judicial District",29,,Over Votes,0,0,0,0
+Palo Pinto,30,County Attorney,,REP,Maegan Kostiha,332,16,237,79
+Palo Pinto,30,County Attorney,,,Under Votes,125,7,93,25
+Palo Pinto,30,County Attorney,,,Over Votes,0,0,0,0
+Palo Pinto,30,"District Clerk, Unexpired Term",,REP,Nathan Choate,331,16,237,78
+Palo Pinto,30,"District Clerk, Unexpired Term",,,Under Votes,126,7,93,26
+Palo Pinto,30,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Palo Pinto,30,Sheriff,,REP,JR Patterson,328,15,234,79
+Palo Pinto,30,Sheriff,,,Under Votes,124,7,92,25
+Palo Pinto,30,Sheriff,,,Over Votes,0,0,0,0
+Palo Pinto,30,County Tax Assessor-Collector,,REP,Stacy Choate,342,16,248,78
+Palo Pinto,30,County Tax Assessor-Collector,,,Under Votes,115,7,82,26
+Palo Pinto,30,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Palo Pinto,30,"County Commissioner, Precinct 3",,REP,James Pollock,328,16,235,77
+Palo Pinto,30,"County Commissioner, Precinct 3",,,Under Votes,129,7,95,27
+Palo Pinto,30,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Palo Pinto,30,"Constable, Precinct 5",,REP,Scott Mitcham,327,17,232,78
+Palo Pinto,30,"Constable, Precinct 5",,,Under Votes,130,6,98,26
+Palo Pinto,30,"Constable, Precinct 5",,,Over Votes,0,0,0,0
+Palo Pinto,30,President,,REP,Donald J. Trump JD Vance,0,0,0,0
+Palo Pinto,30,President,,DEM,Kamala D. Harris Tim Walz,0,0,0,0
+Palo Pinto,30,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Palo Pinto,30,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Palo Pinto,30,President,,,Under Votes,0,0,0,0
+Palo Pinto,30,President,,,Over Votes,0,0,0,0
+Palo Pinto,30,U.S. Senate,,REP,Ted Cruz,0,0,0,0
+Palo Pinto,30,U.S. Senate,,DEM,Colin Allred,0,0,0,0
+Palo Pinto,30,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Palo Pinto,30,U.S. Senate,,,Under Votes,0,0,0,0
+Palo Pinto,30,U.S. Senate,,,Over Votes,0,0,0,0
+Palo Pinto,30,U.S. House,25,REP,Roger Williams,0,0,0,0
+Palo Pinto,30,U.S. House,25,(W),CHAD HAGG,0,0,0,0
+Palo Pinto,30,U.S. House,25,,Under Votes,0,0,0,0
+Palo Pinto,30,U.S. House,25,,Over Votes,0,0,0,0
