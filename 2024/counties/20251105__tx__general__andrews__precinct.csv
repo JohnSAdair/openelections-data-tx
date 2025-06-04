@@ -1,0 +1,177 @@
+county,precinct,office,district,party,candidate,votes
+Andrews,Precinct 1,"President",,REP,"Donald J. Trump",1237
+Andrews,Precinct 1,"President",,DEM,"Kamala D. Harris",188
+Andrews,Precinct 1,"President",,LIB,"Chase Oliver",8
+Andrews,Precinct 1,"President",,GRN,"Jill Stein",4
+Andrews,Precinct 1,"President",,,"Write-ins",0
+Andrews,Precinct 1,"U.S. Senate",,REP,"Ted Cruz",1193
+Andrews,Precinct 1,"U.S. Senate",,DEM,"Colin Allred",197
+Andrews,Precinct 1,"U.S. Senate",,LIB,"Ted Brown",30
+Andrews,Precinct 1,"U.S. Senate",,,"Write-ins",0
+Andrews,Precinct 1,"U.S. House",19,REP,"Jodey C. Arrington",1189
+Andrews,Precinct 1,"U.S. House",19,LIB,"Bernard Johnson",82
+Andrews,Precinct 1,"U.S. House",19,IND,"Nathan Lewis",63
+Andrews,Precinct 1,"Railroad Commissioner",,REP,"Christi Craddick",1101
+Andrews,Precinct 1,"Railroad Commissioner",,DEM,"Katherine Culbert",139
+Andrews,Precinct 1,"Railroad Commissioner",,LIB,"Hawk Dunlap",90
+Andrews,Precinct 1,"Railroad Commissioner",,GRN,"Eddie Espinoza",36
+Andrews,Precinct 1,"Railroad Commissioner",,,"Write-ins",2
+Andrews,Precinct 1,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",1191
+Andrews,Precinct 1,"Justice, Supreme Court",2,DEM,"DaSean Jones",172
+Andrews,Precinct 1,"Justice, Supreme Court",4,REP,"John Devine",1181
+Andrews,Precinct 1,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",172
+Andrews,Precinct 1,"Justice, Supreme Court",6,REP,"Jane Bland",1143
+Andrews,Precinct 1,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",171
+Andrews,Precinct 1,"Justice, Supreme Court",6,LIB,"J. David Roberson",34
+Andrews,Precinct 1,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1179
+Andrews,Precinct 1,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",172
+Andrews,Precinct 1,"Judge, Ct of Crim App",7,REP,"Gina Parker",1169
+Andrews,Precinct 1,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",173
+Andrews,Precinct 1,"Judge, Ct of Crim App",8,REP,"Lee Finley",1191
+Andrews,Precinct 1,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",153
+Andrews,Precinct 1,"Member, State BoE",15,REP,"Aaron Kinsey",1137
+Andrews,Precinct 1,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",172
+Andrews,Precinct 1,"Member, State BoE",15,LIB,"Jack B. Westbrook",36
+Andrews,Precinct 1,"State Representative",88,REP,"Ken King",1224
+Andrews,Precinct 1,"Chief Justice, 8th Ct of App Dist - Unexpired Term",,DEM,"Maria Salas Mendoza",548
+Andrews,Precinct 1,"Justice, 8th Ct of App Dist",2,DEM,"Lisa Soto",532
+Andrews,Precinct 1,"Justice, 8th Ct of App Dist",3,DEM,"Gina M. Palafox",517
+Andrews,Precinct 1,"County Judge - Unexpired Term",,REP,"Sam H. Jones",1185
+Andrews,Precinct 1,"County Judge - Unexpired Term",,IND,"Jeneane Anderegg",189
+Andrews,Precinct 1,"County Attorney",,DEM,"Sean B. Galloway",656
+Andrews,Precinct 1,"Sheriff",,REP,"Rusty Stewart",1237
+Andrews,Precinct 1,"County Tax Assessor-Collector",,REP,"Robin Lynne Harper",1223
+Andrews,Precinct 1,"County Commissioner Pct 1",,REP,"Kerry Pack",1209
+Andrews,Precinct 1,"County Constable, Precinct No. 1 & 4",,REP,"Ronny R. Alaniz",1215
+Andrews,Precinct 2,"President",,REP,"Donald J. Trump",1690
+Andrews,Precinct 2,"President",,DEM,"Kamala D. Harris",219
+Andrews,Precinct 2,"President",,LIB,"Chase Oliver",9
+Andrews,Precinct 2,"President",,GRN,"Jill Stein",1
+Andrews,Precinct 2,"President",,,"Write-ins",1
+Andrews,Precinct 2,"U.S. Senate",,REP,"Ted Cruz",1624
+Andrews,Precinct 2,"U.S. Senate",,DEM,"Colin Allred",236
+Andrews,Precinct 2,"U.S. Senate",,LIB,"Ted Brown",37
+Andrews,Precinct 2,"U.S. Senate",,,"Write-ins",0
+Andrews,Precinct 2,"U.S. House",19,REP,"Jodey C. Arrington",1637
+Andrews,Precinct 2,"U.S. House",19,LIB,"Bernard Johnson",101
+Andrews,Precinct 2,"U.S. House",19,IND,"Nathan Lewis",79
+Andrews,Precinct 2,"Railroad Commissioner",,REP,"Christi Craddick",1529
+Andrews,Precinct 2,"Railroad Commissioner",,DEM,"Katherine Culbert",166
+Andrews,Precinct 2,"Railroad Commissioner",,LIB,"Hawk Dunlap",110
+Andrews,Precinct 2,"Railroad Commissioner",,GRN,"Eddie Espinoza",44
+Andrews,Precinct 2,"Railroad Commissioner",,,"Write-ins",0
+Andrews,Precinct 2,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",1646
+Andrews,Precinct 2,"Justice, Supreme Court",2,DEM,"DaSean Jones",196
+Andrews,Precinct 2,"Justice, Supreme Court",4,REP,"John Devine",1621
+Andrews,Precinct 2,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",209
+Andrews,Precinct 2,"Justice, Supreme Court",6,REP,"Jane Bland",1584
+Andrews,Precinct 2,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",196
+Andrews,Precinct 2,"Justice, Supreme Court",6,LIB,"J. David Roberson",48
+Andrews,Precinct 2,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1613
+Andrews,Precinct 2,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",212
+Andrews,Precinct 2,"Judge, Ct of Crim App",7,REP,"Gina Parker",1622
+Andrews,Precinct 2,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",197
+Andrews,Precinct 2,"Judge, Ct of Crim App",8,REP,"Lee Finley",1639
+Andrews,Precinct 2,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",186
+Andrews,Precinct 2,"Member, State BoE",15,REP,"Aaron Kinsey",1554
+Andrews,Precinct 2,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",211
+Andrews,Precinct 2,"Member, State BoE",15,LIB,"Jack B. Westbrook",54
+Andrews,Precinct 2,"State Representative",88,REP,"Ken King",1700
+Andrews,Precinct 2,"Chief Justice, 8th Ct of App Dist - Unexpired Term",,DEM,"Maria Salas Mendoza",730
+Andrews,Precinct 2,"Justice, 8th Ct of App Dist",2,DEM,"Lisa Soto",706
+Andrews,Precinct 2,"Justice, 8th Ct of App Dist",3,DEM,"Gina M. Palafox",706
+Andrews,Precinct 2,"County Judge - Unexpired Term",,REP,"Sam H. Jones",1600
+Andrews,Precinct 2,"County Judge - Unexpired Term",,IND,"Jeneane Anderegg",254
+Andrews,Precinct 2,"County Attorney",,DEM,"Sean B. Galloway",897
+Andrews,Precinct 2,"Sheriff",,REP,"Rusty Stewart",1735
+Andrews,Precinct 2,"County Tax Assessor-Collector",,REP,"Robin Lynne Harper",1715
+Andrews,Precinct 2,"Justice of the Peace Precinct 2 & 3 - Unexpired Term Precinct 2 & 3",,REP,"Adaly Garcia",1658
+Andrews,Precinct 2,"County Constable, Precinct No. 2 & 3",,REP,"Richard H. Dolgener",1666
+Andrews,Precinct 3,"President",,REP,"Donald J. Trump",1276
+Andrews,Precinct 3,"President",,DEM,"Kamala D. Harris",218
+Andrews,Precinct 3,"President",,LIB,"Chase Oliver",10
+Andrews,Precinct 3,"President",,GRN,"Jill Stein",5
+Andrews,Precinct 3,"President",,,"Write-ins",0
+Andrews,Precinct 3,"U.S. Senate",,REP,"Ted Cruz",1219
+Andrews,Precinct 3,"U.S. Senate",,DEM,"Colin Allred",232
+Andrews,Precinct 3,"U.S. Senate",,LIB,"Ted Brown",34
+Andrews,Precinct 3,"U.S. Senate",,,"Write-ins",1
+Andrews,Precinct 3,"U.S. House",19,REP,"Jodey C. Arrington",1227
+Andrews,Precinct 3,"U.S. House",19,LIB,"Bernard Johnson",84
+Andrews,Precinct 3,"U.S. House",19,IND,"Nathan Lewis",75
+Andrews,Precinct 3,"Railroad Commissioner",,REP,"Christi Craddick",1152
+Andrews,Precinct 3,"Railroad Commissioner",,DEM,"Katherine Culbert",183
+Andrews,Precinct 3,"Railroad Commissioner",,LIB,"Hawk Dunlap",73
+Andrews,Precinct 3,"Railroad Commissioner",,GRN,"Eddie Espinoza",32
+Andrews,Precinct 3,"Railroad Commissioner",,,"Write-ins",3
+Andrews,Precinct 3,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",1218
+Andrews,Precinct 3,"Justice, Supreme Court",2,DEM,"DaSean Jones",213
+Andrews,Precinct 3,"Justice, Supreme Court",4,REP,"John Devine",1214
+Andrews,Precinct 3,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",205
+Andrews,Precinct 3,"Justice, Supreme Court",6,REP,"Jane Bland",1182
+Andrews,Precinct 3,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",204
+Andrews,Precinct 3,"Justice, Supreme Court",6,LIB,"J. David Roberson",36
+Andrews,Precinct 3,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1213
+Andrews,Precinct 3,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",203
+Andrews,Precinct 3,"Judge, Ct of Crim App",7,REP,"Gina Parker",1205
+Andrews,Precinct 3,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",208
+Andrews,Precinct 3,"Judge, Ct of Crim App",8,REP,"Lee Finley",1206
+Andrews,Precinct 3,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",202
+Andrews,Precinct 3,"Member, State BoE",15,REP,"Aaron Kinsey",1172
+Andrews,Precinct 3,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",206
+Andrews,Precinct 3,"Member, State BoE",15,LIB,"Jack B. Westbrook",32
+Andrews,Precinct 3,"State Representative",88,REP,"Ken King",1268
+Andrews,Precinct 3,"Chief Justice, 8th Ct of App Dist - Unexpired Term",,DEM,"Maria Salas Mendoza",626
+Andrews,Precinct 3,"Justice, 8th Ct of App Dist",2,DEM,"Lisa Soto",618
+Andrews,Precinct 3,"Justice, 8th Ct of App Dist",3,DEM,"Gina M. Palafox",608
+Andrews,Precinct 3,"County Judge - Unexpired Term",,REP,"Sam H. Jones",1182
+Andrews,Precinct 3,"County Judge - Unexpired Term",,IND,"Jeneane Anderegg",255
+Andrews,Precinct 3,"County Attorney",,DEM,"Sean B. Galloway",743
+Andrews,Precinct 3,"Sheriff",,REP,"Rusty Stewart",1290
+Andrews,Precinct 3,"County Tax Assessor-Collector",,REP,"Robin Lynne Harper",1272
+Andrews,Precinct 3,"County Commissioner Pct 3",,REP,"Vernon (Buddy) Hobbs",1256
+Andrews,Precinct 3,"Justice of the Peace Precinct 2 & 3 - Unexpired Term Precinct 2 & 3",,REP,"Adaly Garcia",1242
+Andrews,Precinct 3,"County Constable, Precinct No. 2 & 3",,REP,"Richard H. Dolgener",1164
+Andrews,Precinct 4,"President",,REP,"Donald J. Trump",1002
+Andrews,Precinct 4,"President",,DEM,"Kamala D. Harris",181
+Andrews,Precinct 4,"President",,LIB,"Chase Oliver",8
+Andrews,Precinct 4,"President",,GRN,"Jill Stein",3
+Andrews,Precinct 4,"President",,,"Write-ins",6
+Andrews,Precinct 4,"U.S. Senate",,REP,"Ted Cruz",940
+Andrews,Precinct 4,"U.S. Senate",,DEM,"Colin Allred",208
+Andrews,Precinct 4,"U.S. Senate",,LIB,"Ted Brown",22
+Andrews,Precinct 4,"U.S. Senate",,,"Write-ins",2
+Andrews,Precinct 4,"U.S. House",19,REP,"Jodey C. Arrington",950
+Andrews,Precinct 4,"U.S. House",19,LIB,"Bernard Johnson",83
+Andrews,Precinct 4,"U.S. House",19,IND,"Nathan Lewis",59
+Andrews,Precinct 4,"Railroad Commissioner",,REP,"Christi Craddick",894
+Andrews,Precinct 4,"Railroad Commissioner",,DEM,"Katherine Culbert",162
+Andrews,Precinct 4,"Railroad Commissioner",,LIB,"Hawk Dunlap",51
+Andrews,Precinct 4,"Railroad Commissioner",,GRN,"Eddie Espinoza",30
+Andrews,Precinct 4,"Railroad Commissioner",,,"Write-ins",0
+Andrews,Precinct 4,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",948
+Andrews,Precinct 4,"Justice, Supreme Court",2,DEM,"DaSean Jones",189
+Andrews,Precinct 4,"Justice, Supreme Court",4,REP,"John Devine",937
+Andrews,Precinct 4,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",180
+Andrews,Precinct 4,"Justice, Supreme Court",6,REP,"Jane Bland",909
+Andrews,Precinct 4,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",177
+Andrews,Precinct 4,"Justice, Supreme Court",6,LIB,"J. David Roberson",29
+Andrews,Precinct 4,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",926
+Andrews,Precinct 4,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",188
+Andrews,Precinct 4,"Judge, Ct of Crim App",7,REP,"Gina Parker",935
+Andrews,Precinct 4,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",173
+Andrews,Precinct 4,"Judge, Ct of Crim App",8,REP,"Lee Finley",935
+Andrews,Precinct 4,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",170
+Andrews,Precinct 4,"Member, State BoE",15,REP,"Aaron Kinsey",904
+Andrews,Precinct 4,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",175
+Andrews,Precinct 4,"Member, State BoE",15,LIB,"Jack B. Westbrook",27
+Andrews,Precinct 4,"State Representative",88,REP,"Ken King",983
+Andrews,Precinct 4,"Chief Justice, 8th Ct of App Dist - Unexpired Term",,DEM,"Maria Salas Mendoza",479
+Andrews,Precinct 4,"Justice, 8th Ct of App Dist",2,DEM,"Lisa Soto",454
+Andrews,Precinct 4,"Justice, 8th Ct of App Dist",3,DEM,"Gina M. Palafox",453
+Andrews,Precinct 4,"County Judge - Unexpired Term",,REP,"Sam H. Jones",951
+Andrews,Precinct 4,"County Judge - Unexpired Term",,IND,"Jeneane Anderegg",190
+Andrews,Precinct 4,"County Attorney",,DEM,"Sean B. Galloway",557
+Andrews,Precinct 4,"Sheriff",,REP,"Rusty Stewart",1024
+Andrews,Precinct 4,"County Tax Assessor-Collector",,REP,"Robin Lynne Harper",1000
+Andrews,Precinct 4,"County Constable, Precinct No. 1 & 4",,REP,"Ronny R. Alaniz",1008
