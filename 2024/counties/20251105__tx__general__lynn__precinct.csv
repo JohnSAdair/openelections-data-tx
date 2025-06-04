@@ -1,0 +1,651 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Lynn,Precinct 1,"Registered Voters",,,,855,,,
+Lynn,Precinct 1,"Ballots Cast",,,,341,8,228,105
+Lynn,Precinct 1,"President",,REP,"Donald J. Trump",241,6,167,68
+Lynn,Precinct 1,"President",,DEM,"Kamala D. Harris",97,1,61,35
+Lynn,Precinct 1,"President",,LIB,"Chase Oliver",3,1,0,2
+Lynn,Precinct 1,"President",,GRN,"Jill Stein",0,0,0,0
+Lynn,Precinct 1,"President",,,"Write-ins",0,0,0,0
+Lynn,Precinct 1,"President",,,"Over Votes",0,0,0,0
+Lynn,Precinct 1,"President",,,"Under Votes",0,0,0,0
+Lynn,Precinct 1,"U.S. Senate",,REP,"Ted Cruz",230,6,161,63
+Lynn,Precinct 1,"U.S. Senate",,DEM,"Colin Allred",95,2,58,35
+Lynn,Precinct 1,"U.S. Senate",,LIB,"Ted Brown",4,0,2,2
+Lynn,Precinct 1,"U.S. Senate",,,"Write-ins",1,0,0,1
+Lynn,Precinct 1,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lynn,Precinct 1,"U.S. Senate",,,"Under Votes",11,0,7,4
+Lynn,Precinct 1,"U.S. House",19,REP,"Jodey C. Arrington",257,7,176,74
+Lynn,Precinct 1,"U.S. House",19,LIB,"Bernard Johnson",30,0,16,14
+Lynn,Precinct 1,"U.S. House",19,IND,"Nathan Lewis",20,0,15,5
+Lynn,Precinct 1,"U.S. House",19,,"Over Votes",0,0,0,0
+Lynn,Precinct 1,"U.S. House",19,,"Under Votes",34,1,21,12
+Lynn,Precinct 1,"Railroad Commissioner",,REP,"Christi Craddick",224,6,159,59
+Lynn,Precinct 1,"Railroad Commissioner",,DEM,"Katherine Culbert",73,1,45,27
+Lynn,Precinct 1,"Railroad Commissioner",,LIB,"Hawk Dunlap",6,0,3,3
+Lynn,Precinct 1,"Railroad Commissioner",,GRN,"Eddie Espinoza",13,0,5,8
+Lynn,Precinct 1,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Lynn,Precinct 1,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lynn,Precinct 1,"Railroad Commissioner",,,"Under Votes",25,1,16,8
+Lynn,Precinct 1,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",224,7,150,67
+Lynn,Precinct 1,"Justice, Supreme Court",2,DEM,"DaSean Jones",84,1,49,34
+Lynn,Precinct 1,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lynn,Precinct 1,"Justice, Supreme Court",2,,"Under Votes",33,0,24,9
+Lynn,Precinct 1,"Justice, Supreme Court",4,REP,"John Devine",224,6,154,64
+Lynn,Precinct 1,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",85,1,54,30
+Lynn,Precinct 1,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lynn,Precinct 1,"Justice, Supreme Court",4,,"Under Votes",32,1,20,11
+Lynn,Precinct 1,"Justice, Supreme Court",6,REP,"Jane Bland",222,6,153,63
+Lynn,Precinct 1,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",78,2,48,28
+Lynn,Precinct 1,"Justice, Supreme Court",6,LIB,"J. David Roberson",7,0,3,4
+Lynn,Precinct 1,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lynn,Precinct 1,"Justice, Supreme Court",6,,"Under Votes",34,0,22,12
+Lynn,Precinct 1,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",225,6,158,61
+Lynn,Precinct 1,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",83,1,50,32
+Lynn,Precinct 1,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lynn,Precinct 1,"Presiding Judge, Ct of Crim App",,,"Under Votes",33,1,20,12
+Lynn,Precinct 1,"Judge, Ct of Crim App",7,REP,"Gina Parker",228,6,159,63
+Lynn,Precinct 1,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",77,1,47,29
+Lynn,Precinct 1,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lynn,Precinct 1,"Judge, Ct of Crim App",7,,"Under Votes",36,1,22,13
+Lynn,Precinct 1,"Judge, Ct of Crim App",8,REP,"Lee Finley",228,6,159,63
+Lynn,Precinct 1,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",77,1,47,29
+Lynn,Precinct 1,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lynn,Precinct 1,"Judge, Ct of Crim App",8,,"Under Votes",36,1,23,12
+Lynn,Precinct 1,"Member, State BoE",15,REP,"Aaron Kinsey",218,6,154,58
+Lynn,Precinct 1,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",83,2,49,32
+Lynn,Precinct 1,"Member, State BoE",15,LIB,"Jack B. Westbrook",7,0,4,3
+Lynn,Precinct 1,"Member, State BoE",15,,"Over Votes",0,0,0,0
+Lynn,Precinct 1,"Member, State BoE",15,,"Under Votes",33,0,21,12
+Lynn,Precinct 1,"State Representative",83,REP,"Dustin Burrows",267,6,181,80
+Lynn,Precinct 1,"State Representative",83,,"Over Votes",0,0,0,0
+Lynn,Precinct 1,"State Representative",83,,"Under Votes",74,2,47,25
+Lynn,Precinct 1,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",262,6,178,78
+Lynn,Precinct 1,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lynn,Precinct 1,"Justice, 7th Ct of App Dist",2,,"Under Votes",79,2,50,27
+Lynn,Precinct 1,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",253,6,172,75
+Lynn,Precinct 1,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lynn,Precinct 1,"Justice, 7th Ct of App Dist",3,,"Under Votes",88,2,56,30
+Lynn,Precinct 1,"Dist Attorney, 106th Judicial Dist",,REP,"Philip Mack Furlow",268,6,181,81
+Lynn,Precinct 1,"Dist Attorney, 106th Judicial Dist",,,"Over Votes",0,0,0,0
+Lynn,Precinct 1,"Dist Attorney, 106th Judicial Dist",,,"Under Votes",73,2,47,24
+Lynn,Precinct 1,"County Attorney",,REP,"Rebekah Filley",285,6,194,85
+Lynn,Precinct 1,"County Attorney",,,"Over Votes",0,0,0,0
+Lynn,Precinct 1,"County Attorney",,,"Under Votes",56,2,34,20
+Lynn,Precinct 1,"Sheriff",,REP,"Wanda Mason",282,7,191,84
+Lynn,Precinct 1,"Sheriff",,,"Over Votes",0,0,0,0
+Lynn,Precinct 1,"Sheriff",,,"Under Votes",59,1,37,21
+Lynn,Precinct 1,"County Tax Assessor-Collector",,REP,"Kathy Grant",282,6,194,82
+Lynn,Precinct 1,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lynn,Precinct 1,"County Tax Assessor-Collector",,,"Under Votes",59,2,34,23
+Lynn,Precinct 2,"Registered Voters",,,,553,,,
+Lynn,Precinct 2,"Ballots Cast",,,,311,9,127,175
+Lynn,Precinct 2,"President",,REP,"Donald J. Trump",255,5,141,109
+Lynn,Precinct 2,"President",,DEM,"Kamala D. Harris",51,4,16,31
+Lynn,Precinct 2,"President",,LIB,"Chase Oliver",3,0,0,3
+Lynn,Precinct 2,"President",,GRN,"Jill Stein",1,0,1,0
+Lynn,Precinct 2,"President",,,"Write-ins",1,0,1,0
+Lynn,Precinct 2,"President",,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"President",,,"Under Votes",0,0,0,0
+Lynn,Precinct 2,"U.S. Senate",,REP,"Ted Cruz",247,5,108,134
+Lynn,Precinct 2,"U.S. Senate",,DEM,"Colin Allred",48,4,15,29
+Lynn,Precinct 2,"U.S. Senate",,LIB,"Ted Brown",10,0,3,7
+Lynn,Precinct 2,"U.S. Senate",,,"Write-ins",0,0,0,0
+Lynn,Precinct 2,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"U.S. Senate",,,"Under Votes",6,0,1,5
+Lynn,Precinct 2,"U.S. House",19,REP,"Jodey C. Arrington",258,5,110,143
+Lynn,Precinct 2,"U.S. House",19,LIB,"Bernard Johnson",23,1,7,15
+Lynn,Precinct 2,"U.S. House",19,IND,"Nathan Lewis",18,1,6,11
+Lynn,Precinct 2,"U.S. House",19,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"U.S. House",19,,"Under Votes",12,2,4,6
+Lynn,Precinct 2,"Railroad Commissioner",,REP,"Christi Craddick",229,5,100,124
+Lynn,Precinct 2,"Railroad Commissioner",,DEM,"Katherine Culbert",37,4,16,17
+Lynn,Precinct 2,"Railroad Commissioner",,LIB,"Hawk Dunlap",19,0,5,14
+Lynn,Precinct 2,"Railroad Commissioner",,GRN,"Eddie Espinoza",11,0,3,8
+Lynn,Precinct 2,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Lynn,Precinct 2,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"Railroad Commissioner",,,"Under Votes",15,0,4,11
+Lynn,Precinct 2,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",253,5,108,140
+Lynn,Precinct 2,"Justice, Supreme Court",2,DEM,"DaSean Jones",47,4,16,27
+Lynn,Precinct 2,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"Justice, Supreme Court",2,,"Under Votes",11,0,3,8
+Lynn,Precinct 2,"Justice, Supreme Court",4,REP,"John Devine",248,5,106,137
+Lynn,Precinct 2,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",45,4,17,24
+Lynn,Precinct 2,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"Justice, Supreme Court",4,,"Under Votes",18,0,4,14
+Lynn,Precinct 2,"Justice, Supreme Court",6,REP,"Jane Bland",237,5,105,127
+Lynn,Precinct 2,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",40,4,14,22
+Lynn,Precinct 2,"Justice, Supreme Court",6,LIB,"J. David Roberson",15,0,4,11
+Lynn,Precinct 2,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"Justice, Supreme Court",6,,"Under Votes",19,0,4,15
+Lynn,Precinct 2,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",245,5,104,136
+Lynn,Precinct 2,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",47,4,17,26
+Lynn,Precinct 2,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"Presiding Judge, Ct of Crim App",,,"Under Votes",19,0,5,14
+Lynn,Precinct 2,"Judge, Ct of Crim App",7,REP,"Gina Parker",248,5,106,137
+Lynn,Precinct 2,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",44,4,15,25
+Lynn,Precinct 2,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"Judge, Ct of Crim App",7,,"Under Votes",19,0,6,13
+Lynn,Precinct 2,"Judge, Ct of Crim App",8,REP,"Lee Finley",248,5,106,137
+Lynn,Precinct 2,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",44,4,16,24
+Lynn,Precinct 2,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"Judge, Ct of Crim App",8,,"Under Votes",19,0,5,14
+Lynn,Precinct 2,"Member, State BoE",15,REP,"Aaron Kinsey",235,5,100,130
+Lynn,Precinct 2,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",47,4,16,27
+Lynn,Precinct 2,"Member, State BoE",15,LIB,"Jack B. Westbrook",11,0,1,10
+Lynn,Precinct 2,"Member, State BoE",15,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"Member, State BoE",15,,"Under Votes",18,0,4,14
+Lynn,Precinct 2,"State Representative",83,REP,"Dustin Burrows",271,6,111,154
+Lynn,Precinct 2,"State Representative",83,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"State Representative",83,,"Under Votes",40,3,16,21
+Lynn,Precinct 2,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",271,6,112,153
+Lynn,Precinct 2,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"Justice, 7th Ct of App Dist",2,,"Under Votes",40,3,15,22
+Lynn,Precinct 2,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",263,6,109,148
+Lynn,Precinct 2,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"Justice, 7th Ct of App Dist",3,,"Under Votes",48,3,18,27
+Lynn,Precinct 2,"Dist Attorney, 106th Judicial Dist",,REP,"Philip Mack Furlow",262,6,109,147
+Lynn,Precinct 2,"Dist Attorney, 106th Judicial Dist",,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"Dist Attorney, 106th Judicial Dist",,,"Under Votes",49,3,18,28
+Lynn,Precinct 2,"County Attorney",,REP,"Rebekah Filley",272,6,110,156
+Lynn,Precinct 2,"County Attorney",,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"County Attorney",,,"Under Votes",39,3,17,19
+Lynn,Precinct 2,"Sheriff",,REP,"Wanda Mason",267,6,112,149
+Lynn,Precinct 2,"Sheriff",,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"Sheriff",,,"Under Votes",44,3,15,26
+Lynn,Precinct 2,"County Tax Assessor-Collector",,REP,"Kathy Grant",267,6,110,151
+Lynn,Precinct 2,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"County Tax Assessor-Collector",,,"Under Votes",44,3,17,24
+Lynn,Precinct 2,"County Commissioner Pct 1",,REP,"Matthew Woodley",272,6,109,157
+Lynn,Precinct 2,"County Commissioner Pct 1",,,"Over Votes",0,0,0,0
+Lynn,Precinct 2,"County Commissioner Pct 1",,,"Under Votes",39,3,18,18
+Lynn,Precinct 3,"Registered Voters",,,,640,,,
+Lynn,Precinct 3,"Ballots Cast",,,,313,4,159,150
+Lynn,Precinct 3,"President",,REP,"Donald J. Trump",265,1,145,119
+Lynn,Precinct 3,"President",,DEM,"Kamala D. Harris",46,3,13,30
+Lynn,Precinct 3,"President",,LIB,"Chase Oliver",0,0,0,0
+Lynn,Precinct 3,"President",,GRN,"Jill Stein",1,0,1,0
+Lynn,Precinct 3,"President",,,"Write-ins",0,0,0,0
+Lynn,Precinct 3,"President",,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"President",,,"Under Votes",1,0,0,1
+Lynn,Precinct 3,"U.S. Senate",,REP,"Ted Cruz",246,1,140,105
+Lynn,Precinct 3,"U.S. Senate",,DEM,"Colin Allred",47,3,14,30
+Lynn,Precinct 3,"U.S. Senate",,LIB,"Ted Brown",9,0,2,7
+Lynn,Precinct 3,"U.S. Senate",,,"Write-ins",0,0,0,0
+Lynn,Precinct 3,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"U.S. Senate",,,"Under Votes",11,0,3,8
+Lynn,Precinct 3,"U.S. House",19,REP,"Jodey C. Arrington",253,1,142,110
+Lynn,Precinct 3,"U.S. House",19,LIB,"Bernard Johnson",23,1,6,16
+Lynn,Precinct 3,"U.S. House",19,IND,"Nathan Lewis",15,0,6,9
+Lynn,Precinct 3,"U.S. House",19,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"U.S. House",19,,"Under Votes",22,2,5,15
+Lynn,Precinct 3,"Railroad Commissioner",,REP,"Christi Craddick",233,1,134,98
+Lynn,Precinct 3,"Railroad Commissioner",,DEM,"Katherine Culbert",39,3,8,28
+Lynn,Precinct 3,"Railroad Commissioner",,LIB,"Hawk Dunlap",12,0,5,7
+Lynn,Precinct 3,"Railroad Commissioner",,GRN,"Eddie Espinoza",11,0,6,5
+Lynn,Precinct 3,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Lynn,Precinct 3,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"Railroad Commissioner",,,"Under Votes",18,0,6,12
+Lynn,Precinct 3,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",242,1,138,103
+Lynn,Precinct 3,"Justice, Supreme Court",2,DEM,"DaSean Jones",50,3,13,34
+Lynn,Precinct 3,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"Justice, Supreme Court",2,,"Under Votes",21,0,8,13
+Lynn,Precinct 3,"Justice, Supreme Court",4,REP,"John Devine",242,1,135,106
+Lynn,Precinct 3,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",53,3,16,34
+Lynn,Precinct 3,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"Justice, Supreme Court",4,,"Under Votes",18,0,8,10
+Lynn,Precinct 3,"Justice, Supreme Court",6,REP,"Jane Bland",240,1,137,102
+Lynn,Precinct 3,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",50,3,13,34
+Lynn,Precinct 3,"Justice, Supreme Court",6,LIB,"J. David Roberson",5,0,1,4
+Lynn,Precinct 3,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"Justice, Supreme Court",6,,"Under Votes",18,0,8,10
+Lynn,Precinct 3,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",236,1,134,101
+Lynn,Precinct 3,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",58,3,17,38
+Lynn,Precinct 3,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"Presiding Judge, Ct of Crim App",,,"Under Votes",19,0,8,11
+Lynn,Precinct 3,"Judge, Ct of Crim App",7,REP,"Gina Parker",242,1,138,103
+Lynn,Precinct 3,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",50,3,13,34
+Lynn,Precinct 3,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"Judge, Ct of Crim App",7,,"Under Votes",21,0,8,13
+Lynn,Precinct 3,"Judge, Ct of Crim App",8,REP,"Lee Finley",244,1,136,107
+Lynn,Precinct 3,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",48,3,14,31
+Lynn,Precinct 3,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"Judge, Ct of Crim App",8,,"Under Votes",21,0,9,12
+Lynn,Precinct 3,"Member, State BoE",15,REP,"Aaron Kinsey",233,1,133,99
+Lynn,Precinct 3,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",58,3,17,38
+Lynn,Precinct 3,"Member, State BoE",15,LIB,"Jack B. Westbrook",3,0,1,2
+Lynn,Precinct 3,"Member, State BoE",15,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"Member, State BoE",15,,"Under Votes",19,0,8,11
+Lynn,Precinct 3,"State Representative",83,REP,"Dustin Burrows",255,1,139,115
+Lynn,Precinct 3,"State Representative",83,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"State Representative",83,,"Under Votes",58,3,20,35
+Lynn,Precinct 3,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",251,1,139,111
+Lynn,Precinct 3,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"Justice, 7th Ct of App Dist",2,,"Under Votes",62,3,20,39
+Lynn,Precinct 3,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",248,1,137,110
+Lynn,Precinct 3,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"Justice, 7th Ct of App Dist",3,,"Under Votes",65,3,22,40
+Lynn,Precinct 3,"Dist Attorney, 106th Judicial Dist",,REP,"Philip Mack Furlow",262,1,141,120
+Lynn,Precinct 3,"Dist Attorney, 106th Judicial Dist",,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"Dist Attorney, 106th Judicial Dist",,,"Under Votes",51,3,18,30
+Lynn,Precinct 3,"County Attorney",,REP,"Rebekah Filley",262,1,143,118
+Lynn,Precinct 3,"County Attorney",,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"County Attorney",,,"Under Votes",51,3,16,32
+Lynn,Precinct 3,"Sheriff",,REP,"Wanda Mason",263,1,141,121
+Lynn,Precinct 3,"Sheriff",,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"Sheriff",,,"Under Votes",50,3,18,29
+Lynn,Precinct 3,"County Tax Assessor-Collector",,REP,"Kathy Grant",263,1,138,124
+Lynn,Precinct 3,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"County Tax Assessor-Collector",,,"Under Votes",50,3,21,26
+Lynn,Precinct 3,"County Commissioner Pct 3",,REP,"Tate Gass",270,1,143,126
+Lynn,Precinct 3,"County Commissioner Pct 3",,,"Over Votes",0,0,0,0
+Lynn,Precinct 3,"County Commissioner Pct 3",,,"Under Votes",43,3,16,24
+Lynn,Precinct 4,"Registered Voters",,,,1237,,,
+Lynn,Precinct 4,"Ballots Cast",,,,982,11,546,425
+Lynn,Precinct 4,"President",,REP,"Donald J. Trump",895,8,512,375
+Lynn,Precinct 4,"President",,DEM,"Kamala D. Harris",73,3,25,45
+Lynn,Precinct 4,"President",,LIB,"Chase Oliver",4,0,1,3
+Lynn,Precinct 4,"President",,GRN,"Jill Stein",1,0,1,0
+Lynn,Precinct 4,"President",,,"Write-ins",6,0,1,5
+Lynn,Precinct 4,"President",,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"President",,,"Under Votes",3,0,1,2
+Lynn,Precinct 4,"U.S. Senate",,REP,"Ted Cruz",889,8,516,365
+Lynn,Precinct 4,"U.S. Senate",,DEM,"Colin Allred",79,3,27,49
+Lynn,Precinct 4,"U.S. Senate",,LIB,"Ted Brown",8,0,3,5
+Lynn,Precinct 4,"U.S. Senate",,,"Write-ins",1,0,0,1
+Lynn,Precinct 4,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"U.S. Senate",,,"Under Votes",5,0,0,5
+Lynn,Precinct 4,"U.S. House",19,REP,"Jodey C. Arrington",893,6,513,374
+Lynn,Precinct 4,"U.S. House",19,LIB,"Bernard Johnson",33,3,10,20
+Lynn,Precinct 4,"U.S. House",19,IND,"Nathan Lewis",36,2,16,18
+Lynn,Precinct 4,"U.S. House",19,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"U.S. House",19,,"Under Votes",20,0,7,13
+Lynn,Precinct 4,"Railroad Commissioner",,REP,"Christi Craddick",844,6,490,348
+Lynn,Precinct 4,"Railroad Commissioner",,DEM,"Katherine Culbert",59,3,23,33
+Lynn,Precinct 4,"Railroad Commissioner",,LIB,"Hawk Dunlap",45,2,21,22
+Lynn,Precinct 4,"Railroad Commissioner",,GRN,"Eddie Espinoza",14,0,4,10
+Lynn,Precinct 4,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Lynn,Precinct 4,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"Railroad Commissioner",,,"Under Votes",20,0,8,12
+Lynn,Precinct 4,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",891,8,511,372
+Lynn,Precinct 4,"Justice, Supreme Court",2,DEM,"DaSean Jones",68,3,26,39
+Lynn,Precinct 4,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"Justice, Supreme Court",2,,"Under Votes",23,0,9,14
+Lynn,Precinct 4,"Justice, Supreme Court",4,REP,"John Devine",887,8,508,371
+Lynn,Precinct 4,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",74,3,29,42
+Lynn,Precinct 4,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"Justice, Supreme Court",4,,"Under Votes",21,0,9,12
+Lynn,Precinct 4,"Justice, Supreme Court",6,REP,"Jane Bland",870,6,503,361
+Lynn,Precinct 4,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",66,3,23,40
+Lynn,Precinct 4,"Justice, Supreme Court",6,LIB,"J. David Roberson",22,2,11,9
+Lynn,Precinct 4,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"Justice, Supreme Court",6,,"Under Votes",24,0,9,15
+Lynn,Precinct 4,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",889,8,511,370
+Lynn,Precinct 4,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",70,3,27,40
+Lynn,Precinct 4,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"Presiding Judge, Ct of Crim App",,,"Under Votes",23,0,9,14
+Lynn,Precinct 4,"Judge, Ct of Crim App",7,REP,"Gina Parker",885,8,511,366
+Lynn,Precinct 4,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",71,3,28,40
+Lynn,Precinct 4,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"Judge, Ct of Crim App",7,,"Under Votes",26,0,10,16
+Lynn,Precinct 4,"Judge, Ct of Crim App",8,REP,"Lee Finley",885,8,507,370
+Lynn,Precinct 4,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",64,3,25,36
+Lynn,Precinct 4,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"Judge, Ct of Crim App",8,,"Under Votes",33,0,14,19
+Lynn,Precinct 4,"Member, State BoE",15,REP,"Aaron Kinsey",852,6,494,352
+Lynn,Precinct 4,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",74,2,32,40
+Lynn,Precinct 4,"Member, State BoE",15,LIB,"Jack B. Westbrook",29,2,15,12
+Lynn,Precinct 4,"Member, State BoE",15,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"Member, State BoE",15,,"Under Votes",27,1,9,17
+Lynn,Precinct 4,"State Representative",83,REP,"Dustin Burrows",900,8,509,383
+Lynn,Precinct 4,"State Representative",83,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"State Representative",83,,"Under Votes",82,3,37,42
+Lynn,Precinct 4,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",900,8,513,379
+Lynn,Precinct 4,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"Justice, 7th Ct of App Dist",2,,"Under Votes",82,3,33,46
+Lynn,Precinct 4,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",899,8,510,381
+Lynn,Precinct 4,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"Justice, 7th Ct of App Dist",3,,"Under Votes",83,3,36,44
+Lynn,Precinct 4,"Dist Attorney, 106th Judicial Dist",,REP,"Philip Mack Furlow",894,8,508,378
+Lynn,Precinct 4,"Dist Attorney, 106th Judicial Dist",,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"Dist Attorney, 106th Judicial Dist",,,"Under Votes",88,3,38,47
+Lynn,Precinct 4,"County Attorney",,REP,"Rebekah Filley",902,8,508,386
+Lynn,Precinct 4,"County Attorney",,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"County Attorney",,,"Under Votes",80,3,38,39
+Lynn,Precinct 4,"Sheriff",,REP,"Wanda Mason",892,8,511,373
+Lynn,Precinct 4,"Sheriff",,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"Sheriff",,,"Under Votes",90,3,35,52
+Lynn,Precinct 4,"County Tax Assessor-Collector",,REP,"Kathy Grant",899,8,503,388
+Lynn,Precinct 4,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"County Tax Assessor-Collector",,,"Under Votes",83,3,43,37
+Lynn,Precinct 4,"School Board New Home ISD",,1,"Kevin Bass",38,0,38,0
+Lynn,Precinct 4,"School Board New Home ISD",,2,"Kevin Bass",18,0,18,0
+Lynn,Precinct 4,"School Board New Home ISD",,3,"Kevin Bass",13,0,13,0
+Lynn,Precinct 4,"School Board New Home ISD",,,"Justin Tubb",34,0,34,0
+Lynn,Precinct 4,"School Board New Home ISD",,1,"Justin Tubb",19,0,19,0
+Lynn,Precinct 4,"School Board New Home ISD",,2,"Justin Tubb",17,0,17,0
+Lynn,Precinct 4,"School Board New Home ISD",,,"Martin Gill",28,0,28,0
+Lynn,Precinct 4,"School Board New Home ISD",,1,"Martin Gill",10,0,10,0
+Lynn,Precinct 4,"School Board New Home ISD",,2,"Martin Gill",14,0,14,0
+Lynn,Precinct 4,"School Board New Home ISD",,,"Shaun Weid",32,0,32,0
+Lynn,Precinct 4,"School Board New Home ISD",,1,"Shaun Weid",11,0,11,0
+Lynn,Precinct 4,"School Board New Home ISD",,2,"Shaun Weid",5,0,5,0
+Lynn,Precinct 4,"School Board New Home ISD",,,"Over Votes",0,0,0,0
+Lynn,Precinct 4,"School Board New Home ISD",,,"Under Votes",40,0,40,0
+Lynn,Precinct 5,"Registered Voters",,,,47,,,
+Lynn,Precinct 5,"Ballots Cast",,,,37,1,30,6
+Lynn,Precinct 5,"President",,REP,"Donald J. Trump",33,0,28,5
+Lynn,Precinct 5,"President",,DEM,"Kamala D. Harris",4,1,2,1
+Lynn,Precinct 5,"President",,LIB,"Chase Oliver",0,0,0,0
+Lynn,Precinct 5,"President",,GRN,"Jill Stein",0,0,0,0
+Lynn,Precinct 5,"President",,,"Write-ins",0,0,0,0
+Lynn,Precinct 5,"President",,,"Over Votes",0,0,0,0
+Lynn,Precinct 5,"President",,,"Under Votes",0,0,0,0
+Lynn,Precinct 5,"U.S. Senate",,REP,"Ted Cruz",33,0,28,5
+Lynn,Precinct 5,"U.S. Senate",,DEM,"Colin Allred",4,1,2,1
+Lynn,Precinct 5,"U.S. Senate",,LIB,"Ted Brown",0,0,0,0
+Lynn,Precinct 5,"U.S. Senate",,,"Write-ins",0,0,0,0
+Lynn,Precinct 5,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lynn,Precinct 5,"U.S. Senate",,,"Under Votes",0,0,0,0
+Lynn,Precinct 5,"U.S. House",19,REP,"Jodey C. Arrington",31,0,26,5
+Lynn,Precinct 5,"U.S. House",19,LIB,"Bernard Johnson",1,0,1,0
+Lynn,Precinct 5,"U.S. House",19,IND,"Nathan Lewis",3,0,3,0
+Lynn,Precinct 5,"U.S. House",19,,"Over Votes",0,0,0,0
+Lynn,Precinct 5,"U.S. House",19,,"Under Votes",2,1,0,1
+Lynn,Precinct 5,"Railroad Commissioner",,REP,"Christi Craddick",31,0,26,5
+Lynn,Precinct 5,"Railroad Commissioner",,DEM,"Katherine Culbert",4,1,2,1
+Lynn,Precinct 5,"Railroad Commissioner",,LIB,"Hawk Dunlap",1,0,1,0
+Lynn,Precinct 5,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Lynn,Precinct 5,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Lynn,Precinct 5,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lynn,Precinct 5,"Railroad Commissioner",,,"Under Votes",1,0,1,0
+Lynn,Precinct 5,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",32,0,27,5
+Lynn,Precinct 5,"Justice, Supreme Court",2,DEM,"DaSean Jones",4,1,2,1
+Lynn,Precinct 5,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lynn,Precinct 5,"Justice, Supreme Court",2,,"Under Votes",1,0,1,0
+Lynn,Precinct 5,"Justice, Supreme Court",4,REP,"John Devine",32,0,27,5
+Lynn,Precinct 5,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",4,1,2,1
+Lynn,Precinct 5,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lynn,Precinct 5,"Justice, Supreme Court",4,,"Under Votes",1,0,1,0
+Lynn,Precinct 5,"Justice, Supreme Court",6,REP,"Jane Bland",32,0,27,5
+Lynn,Precinct 5,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",4,1,2,1
+Lynn,Precinct 5,"Justice, Supreme Court",6,LIB,"J. David Roberson",0,0,0,0
+Lynn,Precinct 5,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lynn,Precinct 5,"Justice, Supreme Court",6,,"Under Votes",1,0,1,0
+Lynn,Precinct 5,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",32,0,27,5
+Lynn,Precinct 5,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",4,1,2,1
+Lynn,Precinct 5,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lynn,Precinct 5,"Presiding Judge, Ct of Crim App",,,"Under Votes",1,0,1,0
+Lynn,Precinct 5,"Judge, Ct of Crim App",7,REP,"Gina Parker",31,0,26,5
+Lynn,Precinct 5,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",4,1,2,1
+Lynn,Precinct 5,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lynn,Precinct 5,"Judge, Ct of Crim App",7,,"Under Votes",2,0,2,0
+Lynn,Precinct 5,"Judge, Ct of Crim App",8,REP,"Lee Finley",31,0,26,5
+Lynn,Precinct 5,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",4,1,2,1
+Lynn,Precinct 5,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lynn,Precinct 5,"Judge, Ct of Crim App",8,,"Under Votes",2,0,2,0
+Lynn,Precinct 5,"Member, State BoE",15,REP,"Aaron Kinsey",30,0,25,5
+Lynn,Precinct 5,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",5,1,3,1
+Lynn,Precinct 5,"Member, State BoE",15,LIB,"Jack B. Westbrook",0,0,0,0
+Lynn,Precinct 5,"Member, State BoE",15,,"Over Votes",0,0,0,0
+Lynn,Precinct 5,"Member, State BoE",15,,"Under Votes",2,0,2,0
+Lynn,Precinct 5,"State Representative",83,REP,"Dustin Burrows",31,0,25,6
+Lynn,Precinct 5,"State Representative",83,,"Over Votes",0,0,0,0
+Lynn,Precinct 5,"State Representative",83,,"Under Votes",6,1,5,0
+Lynn,Precinct 5,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",31,0,25,6
+Lynn,Precinct 5,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lynn,Precinct 5,"Justice, 7th Ct of App Dist",2,,"Under Votes",6,1,5,0
+Lynn,Precinct 5,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",31,0,25,6
+Lynn,Precinct 5,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lynn,Precinct 5,"Justice, 7th Ct of App Dist",3,,"Under Votes",6,1,5,0
+Lynn,Precinct 5,"Dist Attorney, 106th Judicial Dist",,REP,"Philip Mack Furlow",32,0,26,6
+Lynn,Precinct 5,"Dist Attorney, 106th Judicial Dist",,,"Over Votes",0,0,0,0
+Lynn,Precinct 5,"Dist Attorney, 106th Judicial Dist",,,"Under Votes",5,1,4,0
+Lynn,Precinct 5,"County Attorney",,REP,"Rebekah Filley",31,0,25,6
+Lynn,Precinct 5,"County Attorney",,,"Over Votes",0,0,0,0
+Lynn,Precinct 5,"County Attorney",,,"Under Votes",6,1,5,0
+Lynn,Precinct 5,"Sheriff",,REP,"Wanda Mason",29,0,23,6
+Lynn,Precinct 5,"Sheriff",,,"Over Votes",0,0,0,0
+Lynn,Precinct 5,"Sheriff",,,"Under Votes",8,1,7,0
+Lynn,Precinct 5,"County Tax Assessor-Collector",,REP,"Kathy Grant",32,0,26,6
+Lynn,Precinct 5,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lynn,Precinct 5,"County Tax Assessor-Collector",,,"Under Votes",5,1,4,0
+Lynn,Precinct 6,"Registered Voters",,,,505,,,
+Lynn,Precinct 6,"Ballots Cast",,,,255,7,181,67
+Lynn,Precinct 6,"President",,REP,"Donald J. Trump",189,1,139,49
+Lynn,Precinct 6,"President",,DEM,"Kamala D. Harris",61,6,38,17
+Lynn,Precinct 6,"President",,LIB,"Chase Oliver",3,0,2,1
+Lynn,Precinct 6,"President",,GRN,"Jill Stein",2,0,2,0
+Lynn,Precinct 6,"President",,,"Write-ins",0,0,0,0
+Lynn,Precinct 6,"President",,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"President",,,"Under Votes",0,0,0,0
+Lynn,Precinct 6,"U.S. Senate",,REP,"Ted Cruz",184,1,136,47
+Lynn,Precinct 6,"U.S. Senate",,DEM,"Colin Allred",56,6,34,16
+Lynn,Precinct 6,"U.S. Senate",,LIB,"Ted Brown",6,0,6,0
+Lynn,Precinct 6,"U.S. Senate",,,"Write-ins",0,0,0,0
+Lynn,Precinct 6,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"U.S. Senate",,,"Under Votes",10,0,5,5
+Lynn,Precinct 6,"U.S. House",19,REP,"Jodey C. Arrington",193,1,146,46
+Lynn,Precinct 6,"U.S. House",19,LIB,"Bernard Johnson",24,1,9,14
+Lynn,Precinct 6,"U.S. House",19,IND,"Nathan Lewis",14,2,10,2
+Lynn,Precinct 6,"U.S. House",19,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"U.S. House",19,,"Under Votes",25,4,13,8
+Lynn,Precinct 6,"Railroad Commissioner",,REP,"Christi Craddick",173,2,130,41
+Lynn,Precinct 6,"Railroad Commissioner",,DEM,"Katherine Culbert",51,5,32,14
+Lynn,Precinct 6,"Railroad Commissioner",,LIB,"Hawk Dunlap",4,0,1,3
+Lynn,Precinct 6,"Railroad Commissioner",,GRN,"Eddie Espinoza",10,0,8,2
+Lynn,Precinct 6,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Lynn,Precinct 6,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"Railroad Commissioner",,,"Under Votes",18,0,10,8
+Lynn,Precinct 6,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",185,1,137,47
+Lynn,Precinct 6,"Justice, Supreme Court",2,DEM,"DaSean Jones",53,6,35,12
+Lynn,Precinct 6,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"Justice, Supreme Court",2,,"Under Votes",18,0,9,9
+Lynn,Precinct 6,"Justice, Supreme Court",4,REP,"John Devine",174,1,131,42
+Lynn,Precinct 6,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",59,6,37,16
+Lynn,Precinct 6,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"Justice, Supreme Court",4,,"Under Votes",23,0,13,10
+Lynn,Precinct 6,"Justice, Supreme Court",6,REP,"Jane Bland",167,1,125,41
+Lynn,Precinct 6,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",61,6,41,14
+Lynn,Precinct 6,"Justice, Supreme Court",6,LIB,"J. David Roberson",5,0,2,3
+Lynn,Precinct 6,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"Justice, Supreme Court",6,,"Under Votes",23,0,13,10
+Lynn,Precinct 6,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",169,1,125,43
+Lynn,Precinct 6,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",61,6,41,14
+Lynn,Precinct 6,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"Presiding Judge, Ct of Crim App",,,"Under Votes",26,0,15,11
+Lynn,Precinct 6,"Judge, Ct of Crim App",7,REP,"Gina Parker",174,1,130,43
+Lynn,Precinct 6,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",56,6,37,13
+Lynn,Precinct 6,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"Judge, Ct of Crim App",7,,"Under Votes",26,0,14,12
+Lynn,Precinct 6,"Judge, Ct of Crim App",8,REP,"Lee Finley",174,2,129,43
+Lynn,Precinct 6,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",54,5,37,12
+Lynn,Precinct 6,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"Judge, Ct of Crim App",8,,"Under Votes",28,0,15,13
+Lynn,Precinct 6,"Member, State BoE",15,REP,"Aaron Kinsey",164,1,123,40
+Lynn,Precinct 6,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",67,6,43,18
+Lynn,Precinct 6,"Member, State BoE",15,LIB,"Jack B. Westbrook",0,0,0,0
+Lynn,Precinct 6,"Member, State BoE",15,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"Member, State BoE",15,,"Under Votes",25,0,15,10
+Lynn,Precinct 6,"State Representative",83,REP,"Dustin Burrows",198,3,146,49
+Lynn,Precinct 6,"State Representative",83,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"State Representative",83,,"Under Votes",58,4,35,19
+Lynn,Precinct 6,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",197,3,145,49
+Lynn,Precinct 6,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"Justice, 7th Ct of App Dist",2,,"Under Votes",59,4,36,19
+Lynn,Precinct 6,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",195,3,143,49
+Lynn,Precinct 6,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"Justice, 7th Ct of App Dist",3,,"Under Votes",61,4,38,19
+Lynn,Precinct 6,"Dist Attorney, 106th Judicial Dist",,REP,"Philip Mack Furlow",200,4,145,51
+Lynn,Precinct 6,"Dist Attorney, 106th Judicial Dist",,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"Dist Attorney, 106th Judicial Dist",,,"Under Votes",56,3,36,17
+Lynn,Precinct 6,"County Attorney",,REP,"Rebekah Filley",211,3,153,55
+Lynn,Precinct 6,"County Attorney",,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"County Attorney",,,"Under Votes",45,4,28,13
+Lynn,Precinct 6,"Sheriff",,REP,"Wanda Mason",213,5,153,55
+Lynn,Precinct 6,"Sheriff",,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"Sheriff",,,"Under Votes",43,2,28,13
+Lynn,Precinct 6,"County Tax Assessor-Collector",,REP,"Kathy Grant",200,4,144,52
+Lynn,Precinct 6,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"County Tax Assessor-Collector",,,"Under Votes",56,3,37,16
+Lynn,Precinct 6,"County Commissioner Pct 1",,REP,"Matthew Woodley",206,3,149,54
+Lynn,Precinct 6,"County Commissioner Pct 1",,,"Over Votes",0,0,0,0
+Lynn,Precinct 6,"County Commissioner Pct 1",,,"Under Votes",50,4,32,14
+Lynn,Precinct 9,"Registered Voters",,,,77,,,
+Lynn,Precinct 9,"Ballots Cast",,,,52,1,38,13
+Lynn,Precinct 9,"President",,REP,"Donald J. Trump",49,1,36,12
+Lynn,Precinct 9,"President",,DEM,"Kamala D. Harris",3,0,2,1
+Lynn,Precinct 9,"President",,LIB,"Chase Oliver",0,0,0,0
+Lynn,Precinct 9,"President",,GRN,"Jill Stein",0,0,0,0
+Lynn,Precinct 9,"President",,,"Write-ins",0,0,0,0
+Lynn,Precinct 9,"President",,,"Over Votes",0,0,0,0
+Lynn,Precinct 9,"President",,,"Under Votes",0,0,0,0
+Lynn,Precinct 9,"U.S. Senate",,REP,"Ted Cruz",46,1,35,10
+Lynn,Precinct 9,"U.S. Senate",,DEM,"Colin Allred",4,0,1,3
+Lynn,Precinct 9,"U.S. Senate",,LIB,"Ted Brown",1,0,1,0
+Lynn,Precinct 9,"U.S. Senate",,,"Write-ins",0,0,0,0
+Lynn,Precinct 9,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lynn,Precinct 9,"U.S. Senate",,,"Under Votes",1,0,1,0
+Lynn,Precinct 9,"U.S. House",19,REP,"Jodey C. Arrington",47,1,35,11
+Lynn,Precinct 9,"U.S. House",19,LIB,"Bernard Johnson",2,0,1,1
+Lynn,Precinct 9,"U.S. House",19,IND,"Nathan Lewis",2,0,1,1
+Lynn,Precinct 9,"U.S. House",19,,"Over Votes",0,0,0,0
+Lynn,Precinct 9,"U.S. House",19,,"Under Votes",1,0,1,0
+Lynn,Precinct 9,"Railroad Commissioner",,REP,"Christi Craddick",41,1,30,10
+Lynn,Precinct 9,"Railroad Commissioner",,DEM,"Katherine Culbert",4,0,1,3
+Lynn,Precinct 9,"Railroad Commissioner",,LIB,"Hawk Dunlap",1,0,1,0
+Lynn,Precinct 9,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,3,0
+Lynn,Precinct 9,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Lynn,Precinct 9,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lynn,Precinct 9,"Railroad Commissioner",,,"Under Votes",3,0,3,0
+Lynn,Precinct 9,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",44,1,33,10
+Lynn,Precinct 9,"Justice, Supreme Court",2,DEM,"DaSean Jones",4,0,1,3
+Lynn,Precinct 9,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lynn,Precinct 9,"Justice, Supreme Court",2,,"Under Votes",4,0,4,0
+Lynn,Precinct 9,"Justice, Supreme Court",4,REP,"John Devine",42,1,32,9
+Lynn,Precinct 9,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",5,0,2,3
+Lynn,Precinct 9,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lynn,Precinct 9,"Justice, Supreme Court",4,,"Under Votes",5,0,4,1
+Lynn,Precinct 9,"Justice, Supreme Court",6,REP,"Jane Bland",43,1,32,10
+Lynn,Precinct 9,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",4,0,2,2
+Lynn,Precinct 9,"Justice, Supreme Court",6,LIB,"J. David Roberson",0,0,0,0
+Lynn,Precinct 9,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lynn,Precinct 9,"Justice, Supreme Court",6,,"Under Votes",5,0,4,1
+Lynn,Precinct 9,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",43,1,32,10
+Lynn,Precinct 9,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",5,0,3,2
+Lynn,Precinct 9,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lynn,Precinct 9,"Presiding Judge, Ct of Crim App",,,"Under Votes",4,0,3,1
+Lynn,Precinct 9,"Judge, Ct of Crim App",7,REP,"Gina Parker",44,1,34,9
+Lynn,Precinct 9,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",4,0,1,3
+Lynn,Precinct 9,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lynn,Precinct 9,"Judge, Ct of Crim App",7,,"Under Votes",4,0,3,1
+Lynn,Precinct 9,"Judge, Ct of Crim App",8,REP,"Lee Finley",43,1,33,9
+Lynn,Precinct 9,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",4,0,1,3
+Lynn,Precinct 9,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lynn,Precinct 9,"Judge, Ct of Crim App",8,,"Under Votes",5,0,4,1
+Lynn,Precinct 9,"Member, State BoE",15,REP,"Aaron Kinsey",43,1,33,9
+Lynn,Precinct 9,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",5,0,2,3
+Lynn,Precinct 9,"Member, State BoE",15,LIB,"Jack B. Westbrook",0,0,0,0
+Lynn,Precinct 9,"Member, State BoE",15,,"Over Votes",0,0,0,0
+Lynn,Precinct 9,"Member, State BoE",15,,"Under Votes",4,0,3,1
+Lynn,Precinct 9,"State Representative",83,REP,"Dustin Burrows",47,1,34,12
+Lynn,Precinct 9,"State Representative",83,,"Over Votes",0,0,0,0
+Lynn,Precinct 9,"State Representative",83,,"Under Votes",5,0,4,1
+Lynn,Precinct 9,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",47,1,34,12
+Lynn,Precinct 9,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lynn,Precinct 9,"Justice, 7th Ct of App Dist",2,,"Under Votes",5,0,4,1
+Lynn,Precinct 9,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",47,1,34,12
+Lynn,Precinct 9,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lynn,Precinct 9,"Justice, 7th Ct of App Dist",3,,"Under Votes",5,0,4,1
+Lynn,Precinct 9,"Dist Attorney, 106th Judicial Dist",,REP,"Philip Mack Furlow",46,0,35,11
+Lynn,Precinct 9,"Dist Attorney, 106th Judicial Dist",,,"Over Votes",0,0,0,0
+Lynn,Precinct 9,"Dist Attorney, 106th Judicial Dist",,,"Under Votes",6,1,3,2
+Lynn,Precinct 9,"County Attorney",,REP,"Rebekah Filley",47,0,34,13
+Lynn,Precinct 9,"County Attorney",,,"Over Votes",0,0,0,0
+Lynn,Precinct 9,"County Attorney",,,"Under Votes",5,1,4,0
+Lynn,Precinct 9,"Sheriff",,REP,"Wanda Mason",47,1,34,12
+Lynn,Precinct 9,"Sheriff",,,"Over Votes",0,0,0,0
+Lynn,Precinct 9,"Sheriff",,,"Under Votes",5,0,4,1
+Lynn,Precinct 9,"County Tax Assessor-Collector",,REP,"Kathy Grant",47,1,34,12
+Lynn,Precinct 9,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lynn,Precinct 9,"County Tax Assessor-Collector",,,"Under Votes",5,0,4,1
+Lynn,Precinct 12,"Registered Voters",,,,419,,,
+Lynn,Precinct 12,"Ballots Cast",,,,279,8,220,51
+Lynn,Precinct 12,"President",,REP,"Donald J. Trump",244,6,191,47
+Lynn,Precinct 12,"President",,DEM,"Kamala D. Harris",32,2,26,4
+Lynn,Precinct 12,"President",,LIB,"Chase Oliver",1,0,1,0
+Lynn,Precinct 12,"President",,GRN,"Jill Stein",2,0,2,0
+Lynn,Precinct 12,"President",,,"Write-ins",0,0,0,0
+Lynn,Precinct 12,"President",,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"President",,,"Under Votes",0,0,0,0
+Lynn,Precinct 12,"U.S. Senate",,REP,"Ted Cruz",238,6,191,41
+Lynn,Precinct 12,"U.S. Senate",,DEM,"Colin Allred",30,1,23,6
+Lynn,Precinct 12,"U.S. Senate",,LIB,"Ted Brown",5,0,4,1
+Lynn,Precinct 12,"U.S. Senate",,,"Write-ins",0,0,0,0
+Lynn,Precinct 12,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"U.S. Senate",,,"Under Votes",6,1,2,3
+Lynn,Precinct 12,"U.S. House",19,REP,"Jodey C. Arrington",248,7,198,43
+Lynn,Precinct 12,"U.S. House",19,LIB,"Bernard Johnson",5,0,3,2
+Lynn,Precinct 12,"U.S. House",19,IND,"Nathan Lewis",16,0,13,3
+Lynn,Precinct 12,"U.S. House",19,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"U.S. House",19,,"Under Votes",10,1,6,3
+Lynn,Precinct 12,"Railroad Commissioner",,REP,"Christi Craddick",230,6,182,42
+Lynn,Precinct 12,"Railroad Commissioner",,DEM,"Katherine Culbert",29,1,25,3
+Lynn,Precinct 12,"Railroad Commissioner",,LIB,"Hawk Dunlap",4,0,3,1
+Lynn,Precinct 12,"Railroad Commissioner",,GRN,"Eddie Espinoza",5,0,3,2
+Lynn,Precinct 12,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Lynn,Precinct 12,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"Railroad Commissioner",,,"Under Votes",11,1,7,3
+Lynn,Precinct 12,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",242,6,192,44
+Lynn,Precinct 12,"Justice, Supreme Court",2,DEM,"DaSean Jones",28,1,23,4
+Lynn,Precinct 12,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"Justice, Supreme Court",2,,"Under Votes",9,1,5,3
+Lynn,Precinct 12,"Justice, Supreme Court",4,REP,"John Devine",239,6,188,45
+Lynn,Precinct 12,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",25,1,21,3
+Lynn,Precinct 12,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"Justice, Supreme Court",4,,"Under Votes",15,1,11,3
+Lynn,Precinct 12,"Justice, Supreme Court",6,REP,"Jane Bland",230,5,183,42
+Lynn,Precinct 12,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",29,2,22,5
+Lynn,Precinct 12,"Justice, Supreme Court",6,LIB,"J. David Roberson",7,0,6,1
+Lynn,Precinct 12,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"Justice, Supreme Court",6,,"Under Votes",13,1,9,3
+Lynn,Precinct 12,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",235,5,185,45
+Lynn,Precinct 12,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",31,2,24,5
+Lynn,Precinct 12,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"Presiding Judge, Ct of Crim App",,,"Under Votes",13,1,9,3
+Lynn,Precinct 12,"Judge, Ct of Crim App",7,REP,"Gina Parker",238,6,188,44
+Lynn,Precinct 12,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",28,1,22,5
+Lynn,Precinct 12,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"Judge, Ct of Crim App",7,,"Under Votes",13,1,10,2
+Lynn,Precinct 12,"Judge, Ct of Crim App",8,REP,"Lee Finley",239,6,191,42
+Lynn,Precinct 12,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",26,1,19,6
+Lynn,Precinct 12,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"Judge, Ct of Crim App",8,,"Under Votes",14,1,10,3
+Lynn,Precinct 12,"Member, State BoE",15,REP,"Aaron Kinsey",228,6,181,41
+Lynn,Precinct 12,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",30,1,24,5
+Lynn,Precinct 12,"Member, State BoE",15,LIB,"Jack B. Westbrook",10,0,8,2
+Lynn,Precinct 12,"Member, State BoE",15,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"Member, State BoE",15,,"Under Votes",11,1,7,3
+Lynn,Precinct 12,"State Representative",83,REP,"Dustin Burrows",250,7,198,45
+Lynn,Precinct 12,"State Representative",83,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"State Representative",83,,"Under Votes",29,1,22,6
+Lynn,Precinct 12,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",251,6,198,47
+Lynn,Precinct 12,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"Justice, 7th Ct of App Dist",2,,"Under Votes",28,2,22,4
+Lynn,Precinct 12,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",251,7,198,46
+Lynn,Precinct 12,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"Justice, 7th Ct of App Dist",3,,"Under Votes",28,1,22,5
+Lynn,Precinct 12,"Dist Attorney, 106th Judicial Dist",,REP,"Philip Mack Furlow",251,7,199,45
+Lynn,Precinct 12,"Dist Attorney, 106th Judicial Dist",,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"Dist Attorney, 106th Judicial Dist",,,"Under Votes",28,1,21,6
+Lynn,Precinct 12,"County Attorney",,REP,"Rebekah Filley",248,7,196,45
+Lynn,Precinct 12,"County Attorney",,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"County Attorney",,,"Under Votes",31,1,24,6
+Lynn,Precinct 12,"Sheriff",,REP,"Wanda Mason",246,6,192,48
+Lynn,Precinct 12,"Sheriff",,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"Sheriff",,,"Under Votes",33,2,28,3
+Lynn,Precinct 12,"County Tax Assessor-Collector",,REP,"Kathy Grant",247,7,195,45
+Lynn,Precinct 12,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"County Tax Assessor-Collector",,,"Under Votes",32,1,25,6
+Lynn,Precinct 12,"County Commissioner Pct 3",,REP,"Tate Gass",247,7,195,45
+Lynn,Precinct 12,"County Commissioner Pct 3",,,"Over Votes",0,0,0,0
+Lynn,Precinct 12,"County Commissioner Pct 3",,,"Under Votes",32,1,25,6

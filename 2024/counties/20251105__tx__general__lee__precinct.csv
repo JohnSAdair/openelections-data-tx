@@ -1,0 +1,1446 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Lee,101,"Registered Voters",,,,2004,,,
+Lee,101,"Ballots Cast",,,,1228,42,940,246
+Lee,101,"Ballots Cast Blank",,,,1,0,1,0
+Lee,101,"President",,REP,"Donald J. Trump",914,23,721,170
+Lee,101,"President",,DEM,"Kamala D. Harris",297,19,208,70
+Lee,101,"President",,LIB,"Chase Oliver",8,0,3,5
+Lee,101,"President",,GRN,"Jill Stein",1,0,0,1
+Lee,101,"President",,,"Write-ins",1,0,1,0
+Lee,101,"President",,,"Over Votes",0,0,0,0
+Lee,101,"President",,,"Under Votes",7,0,7,0
+Lee,101,"U.S. Senate",,REP,"Ted Cruz",877,21,695,161
+Lee,101,"U.S. Senate",,DEM,"Colin Allred",309,18,217,74
+Lee,101,"U.S. Senate",,LIB,"Ted Brown",22,1,15,6
+Lee,101,"U.S. Senate",,,"Write-ins",0,0,0,0
+Lee,101,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lee,101,"U.S. Senate",,,"Under Votes",20,2,13,5
+Lee,101,"U.S. House",10,REP,"Michael T. McCaul",905,22,725,158
+Lee,101,"U.S. House",10,DEM,"Theresa Boisseau",261,15,180,66
+Lee,101,"U.S. House",10,LIB,"Jeff Miller",21,1,12,8
+Lee,101,"U.S. House",10,,"Over Votes",0,0,0,0
+Lee,101,"U.S. House",10,,"Under Votes",41,4,23,14
+Lee,101,"Railroad Commissioner",,REP,"Christi Craddick",859,21,684,154
+Lee,101,"Railroad Commissioner",,DEM,"Katherine Culbert",259,17,189,53
+Lee,101,"Railroad Commissioner",,LIB,"Hawk Dunlap",37,0,25,12
+Lee,101,"Railroad Commissioner",,GRN,"Eddie Espinoza",23,1,13,9
+Lee,101,"Railroad Commissioner",,,"Write-ins",2,1,1,0
+Lee,101,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lee,101,"Railroad Commissioner",,,"Under Votes",48,2,28,18
+Lee,101,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",885,23,706,156
+Lee,101,"Justice, Supreme Court",2,DEM,"DaSean Jones",286,16,199,71
+Lee,101,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lee,101,"Justice, Supreme Court",2,,"Under Votes",57,3,35,19
+Lee,101,"Justice, Supreme Court",4,REP,"John Devine",864,22,694,148
+Lee,101,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",297,16,202,79
+Lee,101,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lee,101,"Justice, Supreme Court",4,,"Under Votes",67,4,44,19
+Lee,101,"Justice, Supreme Court",6,REP,"Jane Bland",860,21,690,149
+Lee,101,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",268,17,190,61
+Lee,101,"Justice, Supreme Court",6,LIB,"J. David Roberson",33,1,18,14
+Lee,101,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lee,101,"Justice, Supreme Court",6,,"Under Votes",67,3,42,22
+Lee,101,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",880,24,701,155
+Lee,101,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",278,15,193,70
+Lee,101,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lee,101,"Presiding Judge, Ct of Crim App",,,"Under Votes",70,3,46,21
+Lee,101,"Judge, Ct of Crim App",7,REP,"Gina Parker",881,19,707,155
+Lee,101,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",273,17,187,69
+Lee,101,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lee,101,"Judge, Ct of Crim App",7,,"Under Votes",74,6,46,22
+Lee,101,"Judge, Ct of Crim App",8,REP,"Lee Finley",890,22,713,155
+Lee,101,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",265,17,179,69
+Lee,101,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lee,101,"Judge, Ct of Crim App",8,,"Under Votes",73,3,48,22
+Lee,101,"Member, State BoE",10,REP,"Tom Maynard",878,20,704,154
+Lee,101,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",275,15,188,72
+Lee,101,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Lee,101,"Member, State BoE",10,,"Under Votes",75,7,48,20
+Lee,101,"State Representative",17,REP,"Stan Gerdes",886,21,702,163
+Lee,101,"State Representative",17,DEM,"Desiree Venable",288,15,205,68
+Lee,101,"State Representative",17,,"Over Votes",0,0,0,0
+Lee,101,"State Representative",17,,"Under Votes",54,6,33,15
+Lee,101,"Justice, 3rd Ct of App Dist",2,REP,"John Messinger",866,22,693,151
+Lee,101,"Justice, 3rd Ct of App Dist",2,DEM,"Maggie Ellis",290,16,198,76
+Lee,101,"Justice, 3rd Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lee,101,"Justice, 3rd Ct of App Dist",2,,"Under Votes",72,4,49,19
+Lee,101,"Justice, 3rd Ct of App Dist",3,DEM,"Chari Kelly",552,23,394,135
+Lee,101,"Justice, 3rd Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lee,101,"Justice, 3rd Ct of App Dist",3,,"Under Votes",676,19,546,111
+Lee,101,"Justice, 3rd Ct of App Dist",5,DEM,"Karin Crump",538,22,396,120
+Lee,101,"Justice, 3rd Ct of App Dist",5,,"Over Votes",0,0,0,0
+Lee,101,"Justice, 3rd Ct of App Dist",5,,"Under Votes",690,20,544,126
+Lee,101,"Justice, 3rd Ct of App Dist",6,DEM,"Gisela D. Triana",539,23,394,122
+Lee,101,"Justice, 3rd Ct of App Dist",6,,"Over Votes",0,0,0,0
+Lee,101,"Justice, 3rd Ct of App Dist",6,,"Under Votes",689,19,546,124
+Lee,101,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",972,23,761,188
+Lee,101,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,101,"Dist Judge, 21st Judicial Dist",,,"Under Votes",256,19,179,58
+Lee,101,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",961,24,756,181
+Lee,101,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,101,"Dist Judge, 335th Judicial Dist",,,"Under Votes",267,18,184,65
+Lee,101,"County Attorney",,REP,"Martin J. Placke",1016,26,792,198
+Lee,101,"County Attorney",,,"Over Votes",0,0,0,0
+Lee,101,"County Attorney",,,"Under Votes",212,16,148,48
+Lee,101,"Sheriff",,REP,"Garrett C. Durrenberger",1025,22,806,197
+Lee,101,"Sheriff",,,"Over Votes",0,0,0,0
+Lee,101,"Sheriff",,,"Under Votes",203,20,134,49
+Lee,101,"County Tax Assessor-Collector",,REP,"David Matthijetz",1002,25,784,193
+Lee,101,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lee,101,"County Tax Assessor-Collector",,,"Under Votes",226,17,156,53
+Lee,101,"County Commissioner Pct 1",,REP,"Mark Matthijetz",980,26,764,190
+Lee,101,"County Commissioner Pct 1",,,"Over Votes",0,0,0,0
+Lee,101,"County Commissioner Pct 1",,,"Under Votes",248,16,176,56
+Lee,101,"Constable Precinct 1 & 2",,REP,"A. J. Gonzales",1027,25,802,200
+Lee,101,"Constable Precinct 1 & 2",,,"Over Votes",0,0,0,0
+Lee,101,"Constable Precinct 1 & 2",,,"Under Votes",201,17,138,46
+Lee,101,"Trustees Dime Box",,,"Douglas Spacek",6,0,4,2
+Lee,101,"Trustees Dime Box",,,"Ty West",3,0,2,1
+Lee,101,"Trustees Dime Box",,,"Kendrick Gilbert",3,0,2,1
+Lee,101,"Trustees Dime Box",,,"Roberts Brinkman",3,0,2,1
+Lee,101,"Trustees Dime Box",,,"Over Votes",0,0,0,0
+Lee,101,"Trustees Dime Box",,,"Under Votes",17,0,12,5
+Lee,102,"Registered Voters",,,,354,,,
+Lee,102,"Ballots Cast",,,,248,27,169,52
+Lee,102,"Ballots Cast Blank",,,,0,0,0,0
+Lee,102,"President",,REP,"Donald J. Trump",150,13,105,32
+Lee,102,"President",,DEM,"Kamala D. Harris",94,14,60,20
+Lee,102,"President",,LIB,"Chase Oliver",1,0,1,0
+Lee,102,"President",,GRN,"Jill Stein",3,0,3,0
+Lee,102,"President",,,"Write-ins",0,0,0,0
+Lee,102,"President",,,"Over Votes",0,0,0,0
+Lee,102,"President",,,"Under Votes",0,0,0,0
+Lee,102,"U.S. Senate",,REP,"Ted Cruz",143,12,100,31
+Lee,102,"U.S. Senate",,DEM,"Colin Allred",98,14,65,19
+Lee,102,"U.S. Senate",,LIB,"Ted Brown",5,0,4,1
+Lee,102,"U.S. Senate",,,"Write-ins",1,1,0,0
+Lee,102,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lee,102,"U.S. Senate",,,"Under Votes",1,0,0,1
+Lee,102,"U.S. House",10,REP,"Michael T. McCaul",142,13,103,26
+Lee,102,"U.S. House",10,DEM,"Theresa Boisseau",91,13,60,18
+Lee,102,"U.S. House",10,LIB,"Jeff Miller",4,0,4,0
+Lee,102,"U.S. House",10,,"Over Votes",0,0,0,0
+Lee,102,"U.S. House",10,,"Under Votes",11,1,2,8
+Lee,102,"Railroad Commissioner",,REP,"Christi Craddick",141,11,99,31
+Lee,102,"Railroad Commissioner",,DEM,"Katherine Culbert",87,12,58,17
+Lee,102,"Railroad Commissioner",,LIB,"Hawk Dunlap",8,0,6,2
+Lee,102,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,2,1
+Lee,102,"Railroad Commissioner",,,"Write-ins",1,1,0,0
+Lee,102,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lee,102,"Railroad Commissioner",,,"Under Votes",8,3,4,1
+Lee,102,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",151,13,105,33
+Lee,102,"Justice, Supreme Court",2,DEM,"DaSean Jones",89,12,59,18
+Lee,102,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lee,102,"Justice, Supreme Court",2,,"Under Votes",8,2,5,1
+Lee,102,"Justice, Supreme Court",4,REP,"John Devine",144,12,101,31
+Lee,102,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",95,13,63,19
+Lee,102,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lee,102,"Justice, Supreme Court",4,,"Under Votes",9,2,5,2
+Lee,102,"Justice, Supreme Court",6,REP,"Jane Bland",143,11,102,30
+Lee,102,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",91,12,60,19
+Lee,102,"Justice, Supreme Court",6,LIB,"J. David Roberson",6,2,3,1
+Lee,102,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lee,102,"Justice, Supreme Court",6,,"Under Votes",8,2,4,2
+Lee,102,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",146,12,104,30
+Lee,102,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",93,13,61,19
+Lee,102,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lee,102,"Presiding Judge, Ct of Crim App",,,"Under Votes",9,2,4,3
+Lee,102,"Judge, Ct of Crim App",7,REP,"Gina Parker",145,12,102,31
+Lee,102,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",94,12,64,18
+Lee,102,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lee,102,"Judge, Ct of Crim App",7,,"Under Votes",9,3,3,3
+Lee,102,"Judge, Ct of Crim App",8,REP,"Lee Finley",147,12,103,32
+Lee,102,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",93,13,62,18
+Lee,102,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lee,102,"Judge, Ct of Crim App",8,,"Under Votes",8,2,4,2
+Lee,102,"Member, State BoE",10,REP,"Tom Maynard",138,4,102,32
+Lee,102,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",90,11,63,16
+Lee,102,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Lee,102,"Member, State BoE",10,,"Under Votes",20,12,4,4
+Lee,102,"State Representative",17,REP,"Stan Gerdes",138,3,103,32
+Lee,102,"State Representative",17,DEM,"Desiree Venable",93,13,62,18
+Lee,102,"State Representative",17,,"Over Votes",0,0,0,0
+Lee,102,"State Representative",17,,"Under Votes",17,11,4,2
+Lee,102,"Justice, 3rd Ct of App Dist",2,REP,"John Messinger",142,8,103,31
+Lee,102,"Justice, 3rd Ct of App Dist",2,DEM,"Maggie Ellis",91,11,62,18
+Lee,102,"Justice, 3rd Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lee,102,"Justice, 3rd Ct of App Dist",2,,"Under Votes",15,8,4,3
+Lee,102,"Justice, 3rd Ct of App Dist",3,DEM,"Chari Kelly",114,11,77,26
+Lee,102,"Justice, 3rd Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lee,102,"Justice, 3rd Ct of App Dist",3,,"Under Votes",134,16,92,26
+Lee,102,"Justice, 3rd Ct of App Dist",5,DEM,"Karin Crump",113,12,77,24
+Lee,102,"Justice, 3rd Ct of App Dist",5,,"Over Votes",0,0,0,0
+Lee,102,"Justice, 3rd Ct of App Dist",5,,"Under Votes",135,15,92,28
+Lee,102,"Justice, 3rd Ct of App Dist",6,DEM,"Gisela D. Triana",119,13,81,25
+Lee,102,"Justice, 3rd Ct of App Dist",6,,"Over Votes",0,0,0,0
+Lee,102,"Justice, 3rd Ct of App Dist",6,,"Under Votes",129,14,88,27
+Lee,102,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",163,7,119,37
+Lee,102,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,102,"Dist Judge, 21st Judicial Dist",,,"Under Votes",85,20,50,15
+Lee,102,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",159,5,117,37
+Lee,102,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,102,"Dist Judge, 335th Judicial Dist",,,"Under Votes",91,22,52,17
+Lee,102,"County Attorney",,REP,"Martin J. Placke",162,4,122,36
+Lee,102,"County Attorney",,,"Over Votes",0,0,0,0
+Lee,102,"County Attorney",,,"Under Votes",86,23,47,16
+Lee,102,"Sheriff",,REP,"Garrett C. Durrenberger",170,3,129,38
+Lee,102,"Sheriff",,,"Over Votes",0,0,0,0
+Lee,102,"Sheriff",,,"Under Votes",78,24,40,14
+Lee,102,"County Tax Assessor-Collector",,REP,"David Matthijetz",163,4,122,37
+Lee,102,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lee,102,"County Tax Assessor-Collector",,,"Under Votes",85,23,47,15
+Lee,102,"County Commissioner Pct 1",,REP,"Mark Matthijetz",160,4,120,36
+Lee,102,"County Commissioner Pct 1",,,"Over Votes",0,0,0,0
+Lee,102,"County Commissioner Pct 1",,,"Under Votes",88,23,49,16
+Lee,102,"Constable Precinct 1 & 2",,REP,"A. J. Gonzales",171,4,129,38
+Lee,102,"Constable Precinct 1 & 2",,,"Over Votes",0,0,0,0
+Lee,102,"Constable Precinct 1 & 2",,,"Under Votes",77,23,40,14
+Lee,102,"Trustees Dime Box",,,"Douglas Spacek",38,0,26,12
+Lee,102,"Trustees Dime Box",,,"Ty West",17,0,11,6
+Lee,102,"Trustees Dime Box",,,"Kendrick Gilbert",14,0,8,6
+Lee,102,"Trustees Dime Box",,,"Roberts Brinkman",16,0,13,3
+Lee,102,"Trustees Dime Box",,,"Over Votes",0,0,0,0
+Lee,102,"Trustees Dime Box",,,"Under Votes",119,12,80,27
+Lee,103,"Registered Voters",,,,273,,,
+Lee,103,"Ballots Cast",,,,205,3,152,50
+Lee,103,"Ballots Cast Blank",,,,0,0,0,0
+Lee,103,"President",,REP,"Donald J. Trump",190,1,144,45
+Lee,103,"President",,DEM,"Kamala D. Harris",14,2,8,4
+Lee,103,"President",,LIB,"Chase Oliver",0,0,0,0
+Lee,103,"President",,GRN,"Jill Stein",1,0,0,1
+Lee,103,"President",,,"Write-ins",0,0,0,0
+Lee,103,"President",,,"Over Votes",0,0,0,0
+Lee,103,"President",,,"Under Votes",0,0,0,0
+Lee,103,"U.S. Senate",,REP,"Ted Cruz",186,1,139,46
+Lee,103,"U.S. Senate",,DEM,"Colin Allred",17,2,11,4
+Lee,103,"U.S. Senate",,LIB,"Ted Brown",1,0,1,0
+Lee,103,"U.S. Senate",,,"Write-ins",0,0,0,0
+Lee,103,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lee,103,"U.S. Senate",,,"Under Votes",1,0,1,0
+Lee,103,"U.S. House",10,REP,"Michael T. McCaul",188,2,140,46
+Lee,103,"U.S. House",10,DEM,"Theresa Boisseau",10,1,6,3
+Lee,103,"U.S. House",10,LIB,"Jeff Miller",3,0,3,0
+Lee,103,"U.S. House",10,,"Over Votes",0,0,0,0
+Lee,103,"U.S. House",10,,"Under Votes",4,0,3,1
+Lee,103,"Railroad Commissioner",,REP,"Christi Craddick",182,1,138,43
+Lee,103,"Railroad Commissioner",,DEM,"Katherine Culbert",13,1,8,4
+Lee,103,"Railroad Commissioner",,LIB,"Hawk Dunlap",2,0,1,1
+Lee,103,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Lee,103,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Lee,103,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lee,103,"Railroad Commissioner",,,"Under Votes",8,1,5,2
+Lee,103,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",183,1,138,44
+Lee,103,"Justice, Supreme Court",2,DEM,"DaSean Jones",12,2,7,3
+Lee,103,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lee,103,"Justice, Supreme Court",2,,"Under Votes",10,0,7,3
+Lee,103,"Justice, Supreme Court",4,REP,"John Devine",183,1,136,46
+Lee,103,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",15,2,10,3
+Lee,103,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lee,103,"Justice, Supreme Court",4,,"Under Votes",7,0,6,1
+Lee,103,"Justice, Supreme Court",6,REP,"Jane Bland",177,1,134,42
+Lee,103,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",14,1,8,5
+Lee,103,"Justice, Supreme Court",6,LIB,"J. David Roberson",3,0,2,1
+Lee,103,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lee,103,"Justice, Supreme Court",6,,"Under Votes",11,1,7,3
+Lee,103,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",182,1,137,44
+Lee,103,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",12,2,8,2
+Lee,103,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lee,103,"Presiding Judge, Ct of Crim App",,,"Under Votes",11,0,7,4
+Lee,103,"Judge, Ct of Crim App",7,REP,"Gina Parker",181,1,136,44
+Lee,103,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",13,2,9,2
+Lee,103,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lee,103,"Judge, Ct of Crim App",7,,"Under Votes",11,0,7,4
+Lee,103,"Judge, Ct of Crim App",8,REP,"Lee Finley",183,1,137,45
+Lee,103,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",12,2,9,1
+Lee,103,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lee,103,"Judge, Ct of Crim App",8,,"Under Votes",10,0,6,4
+Lee,103,"Member, State BoE",10,REP,"Tom Maynard",182,2,136,44
+Lee,103,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",13,0,9,4
+Lee,103,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Lee,103,"Member, State BoE",10,,"Under Votes",10,1,7,2
+Lee,103,"State Representative",17,REP,"Stan Gerdes",187,1,139,47
+Lee,103,"State Representative",17,DEM,"Desiree Venable",13,1,9,3
+Lee,103,"State Representative",17,,"Over Votes",0,0,0,0
+Lee,103,"State Representative",17,,"Under Votes",5,1,4,0
+Lee,103,"Justice, 3rd Ct of App Dist",2,REP,"John Messinger",182,1,137,44
+Lee,103,"Justice, 3rd Ct of App Dist",2,DEM,"Maggie Ellis",13,1,8,4
+Lee,103,"Justice, 3rd Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lee,103,"Justice, 3rd Ct of App Dist",2,,"Under Votes",10,1,7,2
+Lee,103,"Justice, 3rd Ct of App Dist",3,DEM,"Chari Kelly",45,0,35,10
+Lee,103,"Justice, 3rd Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lee,103,"Justice, 3rd Ct of App Dist",3,,"Under Votes",160,3,117,40
+Lee,103,"Justice, 3rd Ct of App Dist",5,DEM,"Karin Crump",43,0,32,11
+Lee,103,"Justice, 3rd Ct of App Dist",5,,"Over Votes",0,0,0,0
+Lee,103,"Justice, 3rd Ct of App Dist",5,,"Under Votes",162,3,120,39
+Lee,103,"Justice, 3rd Ct of App Dist",6,DEM,"Gisela D. Triana",41,0,30,11
+Lee,103,"Justice, 3rd Ct of App Dist",6,,"Over Votes",0,0,0,0
+Lee,103,"Justice, 3rd Ct of App Dist",6,,"Under Votes",164,3,122,39
+Lee,103,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",180,2,135,43
+Lee,103,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,103,"Dist Judge, 21st Judicial Dist",,,"Under Votes",25,1,17,7
+Lee,103,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",176,1,129,46
+Lee,103,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,103,"Dist Judge, 335th Judicial Dist",,,"Under Votes",29,2,23,4
+Lee,103,"County Attorney",,REP,"Martin J. Placke",184,3,135,46
+Lee,103,"County Attorney",,,"Over Votes",0,0,0,0
+Lee,103,"County Attorney",,,"Under Votes",21,0,17,4
+Lee,103,"Sheriff",,REP,"Garrett C. Durrenberger",191,3,140,48
+Lee,103,"Sheriff",,,"Over Votes",0,0,0,0
+Lee,103,"Sheriff",,,"Under Votes",14,0,12,2
+Lee,103,"County Tax Assessor-Collector",,REP,"David Matthijetz",188,2,137,49
+Lee,103,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lee,103,"County Tax Assessor-Collector",,,"Under Votes",17,1,15,1
+Lee,103,"County Commissioner Pct 1",,REP,"Mark Matthijetz",175,2,126,47
+Lee,103,"County Commissioner Pct 1",,,"Over Votes",0,0,0,0
+Lee,103,"County Commissioner Pct 1",,,"Under Votes",30,1,26,3
+Lee,103,"Constable Pct 4",,REP,"Steven Pohorelsky",182,2,135,45
+Lee,103,"Constable Pct 4",,,"Over Votes",0,0,0,0
+Lee,103,"Constable Pct 4",,,"Under Votes",23,1,17,5
+Lee,103,"Trustees Dime Box",,,"Douglas Spacek",56,1,37,18
+Lee,103,"Trustees Dime Box",,,"Ty West",30,0,20,10
+Lee,103,"Trustees Dime Box",,,"Kendrick Gilbert",27,0,20,7
+Lee,103,"Trustees Dime Box",,,"Roberts Brinkman",20,0,15,5
+Lee,103,"Trustees Dime Box",,,"Over Votes",0,0,0,0
+Lee,103,"Trustees Dime Box",,,"Under Votes",193,5,136,52
+Lee,201,"Registered Voters",,,,592,,,
+Lee,201,"Ballots Cast",,,,489,18,325,146
+Lee,201,"Ballots Cast Blank",,,,0,0,0,0
+Lee,201,"President",,REP,"Donald J. Trump",449,11,301,137
+Lee,201,"President",,DEM,"Kamala D. Harris",36,7,21,8
+Lee,201,"President",,LIB,"Chase Oliver",2,0,1,1
+Lee,201,"President",,GRN,"Jill Stein",0,0,0,0
+Lee,201,"President",,,"Write-ins",1,0,1,0
+Lee,201,"President",,,"Over Votes",0,0,0,0
+Lee,201,"President",,,"Under Votes",1,0,1,0
+Lee,201,"U.S. Senate",,REP,"Ted Cruz",439,11,294,134
+Lee,201,"U.S. Senate",,DEM,"Colin Allred",40,6,26,8
+Lee,201,"U.S. Senate",,LIB,"Ted Brown",8,0,4,4
+Lee,201,"U.S. Senate",,,"Write-ins",0,0,0,0
+Lee,201,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lee,201,"U.S. Senate",,,"Under Votes",2,1,1,0
+Lee,201,"U.S. House",10,REP,"Michael T. McCaul",449,11,302,136
+Lee,201,"U.S. House",10,DEM,"Theresa Boisseau",27,4,18,5
+Lee,201,"U.S. House",10,LIB,"Jeff Miller",4,0,2,2
+Lee,201,"U.S. House",10,,"Over Votes",0,0,0,0
+Lee,201,"U.S. House",10,,"Under Votes",9,3,3,3
+Lee,201,"Railroad Commissioner",,REP,"Christi Craddick",430,13,292,125
+Lee,201,"Railroad Commissioner",,DEM,"Katherine Culbert",26,3,17,6
+Lee,201,"Railroad Commissioner",,LIB,"Hawk Dunlap",16,0,7,9
+Lee,201,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,1,0
+Lee,201,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Lee,201,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lee,201,"Railroad Commissioner",,,"Under Votes",16,2,8,6
+Lee,201,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",441,14,297,130
+Lee,201,"Justice, Supreme Court",2,DEM,"DaSean Jones",30,2,19,9
+Lee,201,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lee,201,"Justice, Supreme Court",2,,"Under Votes",18,2,9,7
+Lee,201,"Justice, Supreme Court",4,REP,"John Devine",434,13,295,126
+Lee,201,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",30,2,20,8
+Lee,201,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lee,201,"Justice, Supreme Court",4,,"Under Votes",25,3,10,12
+Lee,201,"Justice, Supreme Court",6,REP,"Jane Bland",430,13,292,125
+Lee,201,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",30,3,19,8
+Lee,201,"Justice, Supreme Court",6,LIB,"J. David Roberson",5,0,3,2
+Lee,201,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lee,201,"Justice, Supreme Court",6,,"Under Votes",24,2,11,11
+Lee,201,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",433,14,293,126
+Lee,201,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",30,2,19,9
+Lee,201,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lee,201,"Presiding Judge, Ct of Crim App",,,"Under Votes",26,2,13,11
+Lee,201,"Judge, Ct of Crim App",7,REP,"Gina Parker",433,13,294,126
+Lee,201,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",30,3,19,8
+Lee,201,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lee,201,"Judge, Ct of Crim App",7,,"Under Votes",26,2,12,12
+Lee,201,"Judge, Ct of Crim App",8,REP,"Lee Finley",439,14,297,128
+Lee,201,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",23,2,16,5
+Lee,201,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lee,201,"Judge, Ct of Crim App",8,,"Under Votes",27,2,12,13
+Lee,201,"Member, State BoE",10,REP,"Tom Maynard",435,12,294,129
+Lee,201,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",29,2,21,6
+Lee,201,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Lee,201,"Member, State BoE",10,,"Under Votes",25,4,10,11
+Lee,201,"State Representative",17,REP,"Stan Gerdes",435,12,293,130
+Lee,201,"State Representative",17,DEM,"Desiree Venable",32,4,21,7
+Lee,201,"State Representative",17,,"Over Votes",0,0,0,0
+Lee,201,"State Representative",17,,"Under Votes",22,2,11,9
+Lee,201,"Justice, 3rd Ct of App Dist",2,REP,"John Messinger",431,13,292,126
+Lee,201,"Justice, 3rd Ct of App Dist",2,DEM,"Maggie Ellis",31,2,21,8
+Lee,201,"Justice, 3rd Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lee,201,"Justice, 3rd Ct of App Dist",2,,"Under Votes",27,3,12,12
+Lee,201,"Justice, 3rd Ct of App Dist",3,DEM,"Chari Kelly",171,9,102,60
+Lee,201,"Justice, 3rd Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lee,201,"Justice, 3rd Ct of App Dist",3,,"Under Votes",318,9,223,86
+Lee,201,"Justice, 3rd Ct of App Dist",5,DEM,"Karin Crump",165,9,96,60
+Lee,201,"Justice, 3rd Ct of App Dist",5,,"Over Votes",0,0,0,0
+Lee,201,"Justice, 3rd Ct of App Dist",5,,"Under Votes",324,9,229,86
+Lee,201,"Justice, 3rd Ct of App Dist",6,DEM,"Gisela D. Triana",161,9,95,57
+Lee,201,"Justice, 3rd Ct of App Dist",6,,"Over Votes",0,0,0,0
+Lee,201,"Justice, 3rd Ct of App Dist",6,,"Under Votes",328,9,230,89
+Lee,201,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",432,14,293,125
+Lee,201,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,201,"Dist Judge, 21st Judicial Dist",,,"Under Votes",57,4,32,21
+Lee,201,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",425,14,288,123
+Lee,201,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,201,"Dist Judge, 335th Judicial Dist",,,"Under Votes",64,4,37,23
+Lee,201,"County Attorney",,REP,"Martin J. Placke",433,13,294,126
+Lee,201,"County Attorney",,,"Over Votes",0,0,0,0
+Lee,201,"County Attorney",,,"Under Votes",56,5,31,20
+Lee,201,"Sheriff",,REP,"Garrett C. Durrenberger",436,13,293,130
+Lee,201,"Sheriff",,,"Over Votes",0,0,0,0
+Lee,201,"Sheriff",,,"Under Votes",53,5,32,16
+Lee,201,"County Tax Assessor-Collector",,REP,"David Matthijetz",438,13,292,133
+Lee,201,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lee,201,"County Tax Assessor-Collector",,,"Under Votes",51,5,33,13
+Lee,201,"Constable Precinct 1 & 2",,REP,"A. J. Gonzales",429,13,291,125
+Lee,201,"Constable Precinct 1 & 2",,,"Over Votes",0,0,0,0
+Lee,201,"Constable Precinct 1 & 2",,,"Under Votes",60,5,34,21
+Lee,202,"Registered Voters",,,,2072,,,
+Lee,202,"Ballots Cast",,,,1398,41,1114,243
+Lee,202,"Ballots Cast Blank",,,,0,0,0,0
+Lee,202,"President",,REP,"Donald J. Trump",1128,23,921,184
+Lee,202,"President",,DEM,"Kamala D. Harris",252,17,182,53
+Lee,202,"President",,LIB,"Chase Oliver",5,0,3,2
+Lee,202,"President",,GRN,"Jill Stein",2,0,1,1
+Lee,202,"President",,,"Write-ins",4,0,3,1
+Lee,202,"President",,,"Over Votes",0,0,0,0
+Lee,202,"President",,,"Under Votes",7,1,4,2
+Lee,202,"U.S. Senate",,REP,"Ted Cruz",1087,24,892,171
+Lee,202,"U.S. Senate",,DEM,"Colin Allred",266,17,191,58
+Lee,202,"U.S. Senate",,LIB,"Ted Brown",27,0,20,7
+Lee,202,"U.S. Senate",,,"Write-ins",0,0,0,0
+Lee,202,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lee,202,"U.S. Senate",,,"Under Votes",18,0,11,7
+Lee,202,"U.S. House",10,REP,"Michael T. McCaul",1120,23,919,178
+Lee,202,"U.S. House",10,DEM,"Theresa Boisseau",222,17,154,51
+Lee,202,"U.S. House",10,LIB,"Jeff Miller",21,0,18,3
+Lee,202,"U.S. House",10,,"Over Votes",0,0,0,0
+Lee,202,"U.S. House",10,,"Under Votes",35,1,23,11
+Lee,202,"Railroad Commissioner",,REP,"Christi Craddick",1075,21,875,179
+Lee,202,"Railroad Commissioner",,DEM,"Katherine Culbert",219,15,159,45
+Lee,202,"Railroad Commissioner",,LIB,"Hawk Dunlap",31,1,25,5
+Lee,202,"Railroad Commissioner",,GRN,"Eddie Espinoza",22,0,16,6
+Lee,202,"Railroad Commissioner",,,"Write-ins",2,0,1,1
+Lee,202,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lee,202,"Railroad Commissioner",,,"Under Votes",49,4,37,8
+Lee,202,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",1118,21,912,185
+Lee,202,"Justice, Supreme Court",2,DEM,"DaSean Jones",227,16,162,49
+Lee,202,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lee,202,"Justice, Supreme Court",2,,"Under Votes",53,4,40,9
+Lee,202,"Justice, Supreme Court",4,REP,"John Devine",1092,20,892,180
+Lee,202,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",243,17,172,54
+Lee,202,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lee,202,"Justice, Supreme Court",4,,"Under Votes",63,4,50,9
+Lee,202,"Justice, Supreme Court",6,REP,"Jane Bland",1082,21,885,176
+Lee,202,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",231,16,163,52
+Lee,202,"Justice, Supreme Court",6,LIB,"J. David Roberson",26,0,20,6
+Lee,202,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lee,202,"Justice, Supreme Court",6,,"Under Votes",59,4,46,9
+Lee,202,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1097,21,896,180
+Lee,202,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",238,17,167,54
+Lee,202,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lee,202,"Presiding Judge, Ct of Crim App",,,"Under Votes",63,3,51,9
+Lee,202,"Judge, Ct of Crim App",7,REP,"Gina Parker",1103,22,900,181
+Lee,202,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",227,15,164,48
+Lee,202,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lee,202,"Judge, Ct of Crim App",7,,"Under Votes",68,4,50,14
+Lee,202,"Judge, Ct of Crim App",8,REP,"Lee Finley",1109,21,906,182
+Lee,202,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",222,16,155,51
+Lee,202,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lee,202,"Judge, Ct of Crim App",8,,"Under Votes",67,4,53,10
+Lee,202,"Member, State BoE",10,REP,"Tom Maynard",1095,18,898,179
+Lee,202,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",239,19,170,50
+Lee,202,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Lee,202,"Member, State BoE",10,,"Under Votes",64,4,46,14
+Lee,202,"State Representative",17,REP,"Stan Gerdes",1090,17,894,179
+Lee,202,"State Representative",17,DEM,"Desiree Venable",247,14,178,55
+Lee,202,"State Representative",17,,"Over Votes",0,0,0,0
+Lee,202,"State Representative",17,,"Under Votes",61,10,42,9
+Lee,202,"Justice, 3rd Ct of App Dist",2,REP,"John Messinger",1087,17,889,181
+Lee,202,"Justice, 3rd Ct of App Dist",2,DEM,"Maggie Ellis",241,15,173,53
+Lee,202,"Justice, 3rd Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lee,202,"Justice, 3rd Ct of App Dist",2,,"Under Votes",70,9,52,9
+Lee,202,"Justice, 3rd Ct of App Dist",3,DEM,"Chari Kelly",538,18,413,107
+Lee,202,"Justice, 3rd Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lee,202,"Justice, 3rd Ct of App Dist",3,,"Under Votes",860,23,701,136
+Lee,202,"Justice, 3rd Ct of App Dist",5,DEM,"Karin Crump",526,18,405,103
+Lee,202,"Justice, 3rd Ct of App Dist",5,,"Over Votes",0,0,0,0
+Lee,202,"Justice, 3rd Ct of App Dist",5,,"Under Votes",872,23,709,140
+Lee,202,"Justice, 3rd Ct of App Dist",6,DEM,"Gisela D. Triana",515,18,396,101
+Lee,202,"Justice, 3rd Ct of App Dist",6,,"Over Votes",0,0,0,0
+Lee,202,"Justice, 3rd Ct of App Dist",6,,"Under Votes",883,23,718,142
+Lee,202,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",1155,19,945,191
+Lee,202,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,202,"Dist Judge, 21st Judicial Dist",,,"Under Votes",243,22,169,52
+Lee,202,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",1122,16,921,185
+Lee,202,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,202,"Dist Judge, 335th Judicial Dist",,,"Under Votes",276,25,193,58
+Lee,202,"County Attorney",,REP,"Martin J. Placke",1156,24,945,187
+Lee,202,"County Attorney",,,"Over Votes",0,0,0,0
+Lee,202,"County Attorney",,,"Under Votes",242,17,169,56
+Lee,202,"Sheriff",,REP,"Garrett C. Durrenberger",1188,23,967,198
+Lee,202,"Sheriff",,,"Over Votes",0,0,0,0
+Lee,202,"Sheriff",,,"Under Votes",210,18,147,45
+Lee,202,"County Tax Assessor-Collector",,REP,"David Matthijetz",1168,24,949,195
+Lee,202,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lee,202,"County Tax Assessor-Collector",,,"Under Votes",230,17,165,48
+Lee,202,"Constable Precinct 1 & 2",,REP,"A. J. Gonzales",1191,23,970,198
+Lee,202,"Constable Precinct 1 & 2",,,"Over Votes",0,0,0,0
+Lee,202,"Constable Precinct 1 & 2",,,"Under Votes",207,18,144,45
+Lee,203,"Registered Voters",,,,448,,,
+Lee,203,"Ballots Cast",,,,369,22,282,65
+Lee,203,"Ballots Cast Blank",,,,0,0,0,0
+Lee,203,"President",,REP,"Donald J. Trump",315,11,248,56
+Lee,203,"President",,DEM,"Kamala D. Harris",51,11,33,7
+Lee,203,"President",,LIB,"Chase Oliver",3,0,1,2
+Lee,203,"President",,GRN,"Jill Stein",0,0,0,0
+Lee,203,"President",,,"Write-ins",0,0,0,0
+Lee,203,"President",,,"Over Votes",0,0,0,0
+Lee,203,"President",,,"Under Votes",0,0,0,0
+Lee,203,"U.S. Senate",,REP,"Ted Cruz",311,12,244,55
+Lee,203,"U.S. Senate",,DEM,"Colin Allred",54,10,35,9
+Lee,203,"U.S. Senate",,LIB,"Ted Brown",2,0,1,1
+Lee,203,"U.S. Senate",,,"Write-ins",0,0,0,0
+Lee,203,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lee,203,"U.S. Senate",,,"Under Votes",2,0,2,0
+Lee,203,"U.S. House",10,REP,"Michael T. McCaul",311,13,243,55
+Lee,203,"U.S. House",10,DEM,"Theresa Boisseau",38,8,27,3
+Lee,203,"U.S. House",10,LIB,"Jeff Miller",14,0,7,7
+Lee,203,"U.S. House",10,,"Over Votes",0,0,0,0
+Lee,203,"U.S. House",10,,"Under Votes",6,1,5,0
+Lee,203,"Railroad Commissioner",,REP,"Christi Craddick",305,13,237,55
+Lee,203,"Railroad Commissioner",,DEM,"Katherine Culbert",37,8,25,4
+Lee,203,"Railroad Commissioner",,LIB,"Hawk Dunlap",9,0,7,2
+Lee,203,"Railroad Commissioner",,GRN,"Eddie Espinoza",4,0,3,1
+Lee,203,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Lee,203,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lee,203,"Railroad Commissioner",,,"Under Votes",14,1,10,3
+Lee,203,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",310,12,243,55
+Lee,203,"Justice, Supreme Court",2,DEM,"DaSean Jones",45,9,28,8
+Lee,203,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lee,203,"Justice, Supreme Court",2,,"Under Votes",14,1,11,2
+Lee,203,"Justice, Supreme Court",4,REP,"John Devine",307,12,239,56
+Lee,203,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",47,9,31,7
+Lee,203,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lee,203,"Justice, Supreme Court",4,,"Under Votes",15,1,12,2
+Lee,203,"Justice, Supreme Court",6,REP,"Jane Bland",298,12,234,52
+Lee,203,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",43,9,28,6
+Lee,203,"Justice, Supreme Court",6,LIB,"J. David Roberson",12,0,7,5
+Lee,203,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lee,203,"Justice, Supreme Court",6,,"Under Votes",16,1,13,2
+Lee,203,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",307,12,238,57
+Lee,203,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",46,9,32,5
+Lee,203,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lee,203,"Presiding Judge, Ct of Crim App",,,"Under Votes",16,1,12,3
+Lee,203,"Judge, Ct of Crim App",7,REP,"Gina Parker",307,12,239,56
+Lee,203,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",44,9,29,6
+Lee,203,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lee,203,"Judge, Ct of Crim App",7,,"Under Votes",18,1,14,3
+Lee,203,"Judge, Ct of Crim App",8,REP,"Lee Finley",311,12,240,59
+Lee,203,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",44,9,30,5
+Lee,203,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lee,203,"Judge, Ct of Crim App",8,,"Under Votes",14,1,12,1
+Lee,203,"Member, State BoE",10,REP,"Tom Maynard",308,12,237,59
+Lee,203,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",48,9,33,6
+Lee,203,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Lee,203,"Member, State BoE",10,,"Under Votes",13,1,12,0
+Lee,203,"State Representative",17,REP,"Stan Gerdes",313,13,243,57
+Lee,203,"State Representative",17,DEM,"Desiree Venable",48,8,33,7
+Lee,203,"State Representative",17,,"Over Votes",0,0,0,0
+Lee,203,"State Representative",17,,"Under Votes",8,1,6,1
+Lee,203,"Justice, 3rd Ct of App Dist",2,REP,"John Messinger",304,12,236,56
+Lee,203,"Justice, 3rd Ct of App Dist",2,DEM,"Maggie Ellis",47,9,32,6
+Lee,203,"Justice, 3rd Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lee,203,"Justice, 3rd Ct of App Dist",2,,"Under Votes",18,1,14,3
+Lee,203,"Justice, 3rd Ct of App Dist",3,DEM,"Chari Kelly",119,12,89,18
+Lee,203,"Justice, 3rd Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lee,203,"Justice, 3rd Ct of App Dist",3,,"Under Votes",250,10,193,47
+Lee,203,"Justice, 3rd Ct of App Dist",5,DEM,"Karin Crump",116,12,85,19
+Lee,203,"Justice, 3rd Ct of App Dist",5,,"Over Votes",0,0,0,0
+Lee,203,"Justice, 3rd Ct of App Dist",5,,"Under Votes",253,10,197,46
+Lee,203,"Justice, 3rd Ct of App Dist",6,DEM,"Gisela D. Triana",113,12,83,18
+Lee,203,"Justice, 3rd Ct of App Dist",6,,"Over Votes",0,0,0,0
+Lee,203,"Justice, 3rd Ct of App Dist",6,,"Under Votes",256,10,199,47
+Lee,203,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",316,16,245,55
+Lee,203,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,203,"Dist Judge, 21st Judicial Dist",,,"Under Votes",53,6,37,10
+Lee,203,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",309,16,238,55
+Lee,203,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,203,"Dist Judge, 335th Judicial Dist",,,"Under Votes",60,6,44,10
+Lee,203,"County Attorney",,REP,"Martin J. Placke",319,16,245,58
+Lee,203,"County Attorney",,,"Over Votes",0,0,0,0
+Lee,203,"County Attorney",,,"Under Votes",50,6,37,7
+Lee,203,"Sheriff",,REP,"Garrett C. Durrenberger",322,16,250,56
+Lee,203,"Sheriff",,,"Over Votes",0,0,0,0
+Lee,203,"Sheriff",,,"Under Votes",47,6,32,9
+Lee,203,"County Tax Assessor-Collector",,REP,"David Matthijetz",318,16,244,58
+Lee,203,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lee,203,"County Tax Assessor-Collector",,,"Under Votes",51,6,38,7
+Lee,203,"Constable Precinct 1 & 2",,REP,"A. J. Gonzales",316,17,243,56
+Lee,203,"Constable Precinct 1 & 2",,,"Over Votes",0,0,0,0
+Lee,203,"Constable Precinct 1 & 2",,,"Under Votes",53,5,39,9
+Lee,301,"Registered Voters",,,,160,,,
+Lee,301,"Ballots Cast",,,,117,0,92,25
+Lee,301,"Ballots Cast Blank",,,,0,0,0,0
+Lee,301,"President",,REP,"Donald J. Trump",105,0,85,20
+Lee,301,"President",,DEM,"Kamala D. Harris",9,0,4,5
+Lee,301,"President",,LIB,"Chase Oliver",0,0,0,0
+Lee,301,"President",,GRN,"Jill Stein",0,0,0,0
+Lee,301,"President",,,"Write-ins",0,0,0,0
+Lee,301,"President",,,"Over Votes",0,0,0,0
+Lee,301,"President",,,"Under Votes",3,0,3,0
+Lee,301,"U.S. Senate",,REP,"Ted Cruz",102,0,86,16
+Lee,301,"U.S. Senate",,DEM,"Colin Allred",12,0,6,6
+Lee,301,"U.S. Senate",,LIB,"Ted Brown",2,0,0,2
+Lee,301,"U.S. Senate",,,"Write-ins",0,0,0,0
+Lee,301,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lee,301,"U.S. Senate",,,"Under Votes",1,0,0,1
+Lee,301,"U.S. House",10,REP,"Michael T. McCaul",106,0,86,20
+Lee,301,"U.S. House",10,DEM,"Theresa Boisseau",6,0,4,2
+Lee,301,"U.S. House",10,LIB,"Jeff Miller",1,0,0,1
+Lee,301,"U.S. House",10,,"Over Votes",0,0,0,0
+Lee,301,"U.S. House",10,,"Under Votes",4,0,2,2
+Lee,301,"Railroad Commissioner",,REP,"Christi Craddick",102,0,82,20
+Lee,301,"Railroad Commissioner",,DEM,"Katherine Culbert",6,0,5,1
+Lee,301,"Railroad Commissioner",,LIB,"Hawk Dunlap",4,0,4,0
+Lee,301,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,0,1
+Lee,301,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Lee,301,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lee,301,"Railroad Commissioner",,,"Under Votes",4,0,1,3
+Lee,301,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",106,0,86,20
+Lee,301,"Justice, Supreme Court",2,DEM,"DaSean Jones",8,0,5,3
+Lee,301,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lee,301,"Justice, Supreme Court",2,,"Under Votes",3,0,1,2
+Lee,301,"Justice, Supreme Court",4,REP,"John Devine",105,0,84,21
+Lee,301,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",7,0,5,2
+Lee,301,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lee,301,"Justice, Supreme Court",4,,"Under Votes",5,0,3,2
+Lee,301,"Justice, Supreme Court",6,REP,"Jane Bland",104,0,83,21
+Lee,301,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",8,0,6,2
+Lee,301,"Justice, Supreme Court",6,LIB,"J. David Roberson",0,0,0,0
+Lee,301,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lee,301,"Justice, Supreme Court",6,,"Under Votes",5,0,3,2
+Lee,301,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",106,0,85,21
+Lee,301,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",6,0,4,2
+Lee,301,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lee,301,"Presiding Judge, Ct of Crim App",,,"Under Votes",5,0,3,2
+Lee,301,"Judge, Ct of Crim App",7,REP,"Gina Parker",107,0,86,21
+Lee,301,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",6,0,4,2
+Lee,301,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lee,301,"Judge, Ct of Crim App",7,,"Under Votes",4,0,2,2
+Lee,301,"Judge, Ct of Crim App",8,REP,"Lee Finley",107,0,86,21
+Lee,301,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",6,0,4,2
+Lee,301,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lee,301,"Judge, Ct of Crim App",8,,"Under Votes",4,0,2,2
+Lee,301,"Member, State BoE",10,REP,"Tom Maynard",105,0,84,21
+Lee,301,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",6,0,5,1
+Lee,301,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Lee,301,"Member, State BoE",10,,"Under Votes",6,0,3,3
+Lee,301,"State Representative",17,REP,"Stan Gerdes",106,0,86,20
+Lee,301,"State Representative",17,DEM,"Desiree Venable",8,0,4,4
+Lee,301,"State Representative",17,,"Over Votes",0,0,0,0
+Lee,301,"State Representative",17,,"Under Votes",3,0,2,1
+Lee,301,"Justice, 3rd Ct of App Dist",2,REP,"John Messinger",106,0,85,21
+Lee,301,"Justice, 3rd Ct of App Dist",2,DEM,"Maggie Ellis",7,0,5,2
+Lee,301,"Justice, 3rd Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lee,301,"Justice, 3rd Ct of App Dist",2,,"Under Votes",4,0,2,2
+Lee,301,"Justice, 3rd Ct of App Dist",3,DEM,"Chari Kelly",38,0,29,9
+Lee,301,"Justice, 3rd Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lee,301,"Justice, 3rd Ct of App Dist",3,,"Under Votes",79,0,63,16
+Lee,301,"Justice, 3rd Ct of App Dist",5,DEM,"Karin Crump",39,0,31,8
+Lee,301,"Justice, 3rd Ct of App Dist",5,,"Over Votes",0,0,0,0
+Lee,301,"Justice, 3rd Ct of App Dist",5,,"Under Votes",78,0,61,17
+Lee,301,"Justice, 3rd Ct of App Dist",6,DEM,"Gisela D. Triana",38,0,30,8
+Lee,301,"Justice, 3rd Ct of App Dist",6,,"Over Votes",0,0,0,0
+Lee,301,"Justice, 3rd Ct of App Dist",6,,"Under Votes",79,0,62,17
+Lee,301,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",102,0,83,19
+Lee,301,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,301,"Dist Judge, 21st Judicial Dist",,,"Under Votes",15,0,9,6
+Lee,301,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",101,0,82,19
+Lee,301,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,301,"Dist Judge, 335th Judicial Dist",,,"Under Votes",16,0,10,6
+Lee,301,"County Attorney",,REP,"Martin J. Placke",103,0,85,18
+Lee,301,"County Attorney",,,"Over Votes",0,0,0,0
+Lee,301,"County Attorney",,,"Under Votes",14,0,7,7
+Lee,301,"Sheriff",,REP,"Garrett C. Durrenberger",102,0,83,19
+Lee,301,"Sheriff",,,"Over Votes",0,0,0,0
+Lee,301,"Sheriff",,,"Under Votes",15,0,9,6
+Lee,301,"County Tax Assessor-Collector",,REP,"David Matthijetz",104,0,85,19
+Lee,301,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lee,301,"County Tax Assessor-Collector",,,"Under Votes",13,0,7,6
+Lee,301,"County Commissioner Pct 3",,REP,"Alan B. Turner",101,0,83,18
+Lee,301,"County Commissioner Pct 3",,,"Over Votes",0,0,0,0
+Lee,301,"County Commissioner Pct 3",,,"Under Votes",16,0,9,7
+Lee,301,"Constable Pct 3",,REP,"Billy Stephens",95,0,78,17
+Lee,301,"Constable Pct 3",,,"Over Votes",0,0,0,0
+Lee,301,"Constable Pct 3",,,"Under Votes",22,0,14,8
+Lee,302,"Registered Voters",,,,1207,,,
+Lee,302,"Ballots Cast",,,,864,31,686,147
+Lee,302,"Ballots Cast Blank",,,,0,0,0,0
+Lee,302,"President",,REP,"Donald J. Trump",720,21,581,118
+Lee,302,"President",,DEM,"Kamala D. Harris",134,10,101,23
+Lee,302,"President",,LIB,"Chase Oliver",4,0,2,2
+Lee,302,"President",,GRN,"Jill Stein",1,0,1,0
+Lee,302,"President",,,"Write-ins",2,0,0,2
+Lee,302,"President",,,"Over Votes",0,0,0,0
+Lee,302,"President",,,"Under Votes",3,0,1,2
+Lee,302,"U.S. Senate",,REP,"Ted Cruz",694,20,559,115
+Lee,302,"U.S. Senate",,DEM,"Colin Allred",142,10,107,25
+Lee,302,"U.S. Senate",,LIB,"Ted Brown",12,0,9,3
+Lee,302,"U.S. Senate",,,"Write-ins",1,0,1,0
+Lee,302,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lee,302,"U.S. Senate",,,"Under Votes",15,1,10,4
+Lee,302,"U.S. House",10,REP,"Michael T. McCaul",688,19,560,109
+Lee,302,"U.S. House",10,DEM,"Theresa Boisseau",123,10,91,22
+Lee,302,"U.S. House",10,LIB,"Jeff Miller",18,0,12,6
+Lee,302,"U.S. House",10,,"Over Votes",0,0,0,0
+Lee,302,"U.S. House",10,,"Under Votes",35,2,23,10
+Lee,302,"Railroad Commissioner",,REP,"Christi Craddick",679,22,549,108
+Lee,302,"Railroad Commissioner",,DEM,"Katherine Culbert",115,8,87,20
+Lee,302,"Railroad Commissioner",,LIB,"Hawk Dunlap",21,0,17,4
+Lee,302,"Railroad Commissioner",,GRN,"Eddie Espinoza",6,0,2,4
+Lee,302,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Lee,302,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lee,302,"Railroad Commissioner",,,"Under Votes",44,1,31,12
+Lee,302,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",691,20,558,113
+Lee,302,"Justice, Supreme Court",2,DEM,"DaSean Jones",125,10,93,22
+Lee,302,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lee,302,"Justice, Supreme Court",2,,"Under Votes",48,1,35,12
+Lee,302,"Justice, Supreme Court",4,REP,"John Devine",677,20,547,110
+Lee,302,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",137,10,103,24
+Lee,302,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lee,302,"Justice, Supreme Court",4,,"Under Votes",50,1,36,13
+Lee,302,"Justice, Supreme Court",6,REP,"Jane Bland",659,19,537,103
+Lee,302,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",130,10,98,22
+Lee,302,"Justice, Supreme Court",6,LIB,"J. David Roberson",21,0,14,7
+Lee,302,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lee,302,"Justice, Supreme Court",6,,"Under Votes",54,2,36,16
+Lee,302,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",676,21,545,110
+Lee,302,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",136,8,104,24
+Lee,302,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lee,302,"Presiding Judge, Ct of Crim App",,,"Under Votes",52,2,37,13
+Lee,302,"Judge, Ct of Crim App",7,REP,"Gina Parker",679,18,552,109
+Lee,302,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",125,8,95,22
+Lee,302,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lee,302,"Judge, Ct of Crim App",7,,"Under Votes",60,5,39,16
+Lee,302,"Judge, Ct of Crim App",8,REP,"Lee Finley",684,19,559,106
+Lee,302,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",121,10,85,26
+Lee,302,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lee,302,"Judge, Ct of Crim App",8,,"Under Votes",59,2,41,16
+Lee,302,"Member, State BoE",10,REP,"Tom Maynard",682,18,555,109
+Lee,302,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",127,10,93,24
+Lee,302,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Lee,302,"Member, State BoE",10,,"Under Votes",55,3,38,14
+Lee,302,"State Representative",17,REP,"Stan Gerdes",692,19,560,113
+Lee,302,"State Representative",17,DEM,"Desiree Venable",124,10,90,24
+Lee,302,"State Representative",17,,"Over Votes",0,0,0,0
+Lee,302,"State Representative",17,,"Under Votes",48,2,36,10
+Lee,302,"Justice, 3rd Ct of App Dist",2,REP,"John Messinger",683,20,552,111
+Lee,302,"Justice, 3rd Ct of App Dist",2,DEM,"Maggie Ellis",127,8,97,22
+Lee,302,"Justice, 3rd Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lee,302,"Justice, 3rd Ct of App Dist",2,,"Under Votes",54,3,37,14
+Lee,302,"Justice, 3rd Ct of App Dist",3,DEM,"Chari Kelly",295,10,230,55
+Lee,302,"Justice, 3rd Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lee,302,"Justice, 3rd Ct of App Dist",3,,"Under Votes",569,21,456,92
+Lee,302,"Justice, 3rd Ct of App Dist",5,DEM,"Karin Crump",296,10,228,58
+Lee,302,"Justice, 3rd Ct of App Dist",5,,"Over Votes",0,0,0,0
+Lee,302,"Justice, 3rd Ct of App Dist",5,,"Under Votes",568,21,458,89
+Lee,302,"Justice, 3rd Ct of App Dist",6,DEM,"Gisela D. Triana",291,10,225,56
+Lee,302,"Justice, 3rd Ct of App Dist",6,,"Over Votes",0,0,0,0
+Lee,302,"Justice, 3rd Ct of App Dist",6,,"Under Votes",573,21,461,91
+Lee,302,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",699,22,561,116
+Lee,302,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,302,"Dist Judge, 21st Judicial Dist",,,"Under Votes",165,9,125,31
+Lee,302,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",696,22,558,116
+Lee,302,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,302,"Dist Judge, 335th Judicial Dist",,,"Under Votes",168,9,128,31
+Lee,302,"County Attorney",,REP,"Martin J. Placke",712,26,568,118
+Lee,302,"County Attorney",,,"Over Votes",0,0,0,0
+Lee,302,"County Attorney",,,"Under Votes",152,5,118,29
+Lee,302,"Sheriff",,REP,"Garrett C. Durrenberger",712,25,565,122
+Lee,302,"Sheriff",,,"Over Votes",0,0,0,0
+Lee,302,"Sheriff",,,"Under Votes",152,6,121,25
+Lee,302,"County Tax Assessor-Collector",,REP,"David Matthijetz",722,27,573,122
+Lee,302,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lee,302,"County Tax Assessor-Collector",,,"Under Votes",142,4,113,25
+Lee,302,"County Commissioner Pct 3",,REP,"Alan B. Turner",722,26,573,123
+Lee,302,"County Commissioner Pct 3",,,"Over Votes",0,0,0,0
+Lee,302,"County Commissioner Pct 3",,,"Under Votes",142,5,113,24
+Lee,302,"Constable Pct 3",,REP,"Billy Stephens",699,24,558,117
+Lee,302,"Constable Pct 3",,,"Over Votes",0,0,0,0
+Lee,302,"Constable Pct 3",,,"Under Votes",165,7,128,30
+Lee,303,"Registered Voters",,,,1481,,,
+Lee,303,"Ballots Cast",,,,1083,32,701,350
+Lee,303,"Ballots Cast Blank",,,,0,0,0,0
+Lee,303,"President",,REP,"Donald J. Trump",855,16,567,272
+Lee,303,"President",,DEM,"Kamala D. Harris",217,16,129,72
+Lee,303,"President",,LIB,"Chase Oliver",5,0,2,3
+Lee,303,"President",,GRN,"Jill Stein",5,0,2,3
+Lee,303,"President",,,"Write-ins",0,0,0,0
+Lee,303,"President",,,"Over Votes",0,0,0,0
+Lee,303,"President",,,"Under Votes",1,0,1,0
+Lee,303,"U.S. Senate",,REP,"Ted Cruz",820,16,546,258
+Lee,303,"U.S. Senate",,DEM,"Colin Allred",231,15,137,79
+Lee,303,"U.S. Senate",,LIB,"Ted Brown",22,0,12,10
+Lee,303,"U.S. Senate",,,"Write-ins",1,0,0,1
+Lee,303,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lee,303,"U.S. Senate",,,"Under Votes",9,1,6,2
+Lee,303,"U.S. House",10,REP,"Michael T. McCaul",815,12,547,256
+Lee,303,"U.S. House",10,DEM,"Theresa Boisseau",204,13,122,69
+Lee,303,"U.S. House",10,LIB,"Jeff Miller",26,0,13,13
+Lee,303,"U.S. House",10,,"Over Votes",0,0,0,0
+Lee,303,"U.S. House",10,,"Under Votes",38,7,19,12
+Lee,303,"Railroad Commissioner",,REP,"Christi Craddick",792,17,535,240
+Lee,303,"Railroad Commissioner",,DEM,"Katherine Culbert",199,14,119,66
+Lee,303,"Railroad Commissioner",,LIB,"Hawk Dunlap",34,0,18,16
+Lee,303,"Railroad Commissioner",,GRN,"Eddie Espinoza",22,0,9,13
+Lee,303,"Railroad Commissioner",,,"Write-ins",2,0,1,1
+Lee,303,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lee,303,"Railroad Commissioner",,,"Under Votes",34,1,19,14
+Lee,303,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",822,17,545,260
+Lee,303,"Justice, Supreme Court",2,DEM,"DaSean Jones",221,14,131,76
+Lee,303,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lee,303,"Justice, Supreme Court",2,,"Under Votes",40,1,25,14
+Lee,303,"Justice, Supreme Court",4,REP,"John Devine",812,16,541,255
+Lee,303,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",226,14,134,78
+Lee,303,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lee,303,"Justice, Supreme Court",4,,"Under Votes",45,2,26,17
+Lee,303,"Justice, Supreme Court",6,REP,"Jane Bland",795,17,527,251
+Lee,303,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",210,14,124,72
+Lee,303,"Justice, Supreme Court",6,LIB,"J. David Roberson",31,0,21,10
+Lee,303,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lee,303,"Justice, Supreme Court",6,,"Under Votes",47,1,29,17
+Lee,303,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",815,16,543,256
+Lee,303,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",219,14,128,77
+Lee,303,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lee,303,"Presiding Judge, Ct of Crim App",,,"Under Votes",49,2,30,17
+Lee,303,"Judge, Ct of Crim App",7,REP,"Gina Parker",811,16,538,257
+Lee,303,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",220,14,130,76
+Lee,303,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lee,303,"Judge, Ct of Crim App",7,,"Under Votes",52,2,33,17
+Lee,303,"Judge, Ct of Crim App",8,REP,"Lee Finley",817,16,543,258
+Lee,303,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",220,15,130,75
+Lee,303,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lee,303,"Judge, Ct of Crim App",8,,"Under Votes",46,1,28,17
+Lee,303,"Member, State BoE",10,REP,"Tom Maynard",815,15,549,251
+Lee,303,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",221,13,126,82
+Lee,303,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Lee,303,"Member, State BoE",10,,"Under Votes",47,4,26,17
+Lee,303,"State Representative",17,REP,"Stan Gerdes",811,11,549,251
+Lee,303,"State Representative",17,DEM,"Desiree Venable",221,12,129,80
+Lee,303,"State Representative",17,,"Over Votes",0,0,0,0
+Lee,303,"State Representative",17,,"Under Votes",51,9,23,19
+Lee,303,"Justice, 3rd Ct of App Dist",2,REP,"John Messinger",807,12,542,253
+Lee,303,"Justice, 3rd Ct of App Dist",2,DEM,"Maggie Ellis",220,15,126,79
+Lee,303,"Justice, 3rd Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lee,303,"Justice, 3rd Ct of App Dist",2,,"Under Votes",56,5,33,18
+Lee,303,"Justice, 3rd Ct of App Dist",3,DEM,"Chari Kelly",424,14,268,142
+Lee,303,"Justice, 3rd Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lee,303,"Justice, 3rd Ct of App Dist",3,,"Under Votes",659,18,433,208
+Lee,303,"Justice, 3rd Ct of App Dist",5,DEM,"Karin Crump",413,15,258,140
+Lee,303,"Justice, 3rd Ct of App Dist",5,,"Over Votes",0,0,0,0
+Lee,303,"Justice, 3rd Ct of App Dist",5,,"Under Votes",670,17,443,210
+Lee,303,"Justice, 3rd Ct of App Dist",6,DEM,"Gisela D. Triana",410,15,257,138
+Lee,303,"Justice, 3rd Ct of App Dist",6,,"Over Votes",0,0,0,0
+Lee,303,"Justice, 3rd Ct of App Dist",6,,"Under Votes",673,17,444,212
+Lee,303,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",854,10,570,274
+Lee,303,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,303,"Dist Judge, 21st Judicial Dist",,,"Under Votes",229,22,131,76
+Lee,303,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",835,10,559,266
+Lee,303,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,303,"Dist Judge, 335th Judicial Dist",,,"Under Votes",245,22,142,81
+Lee,303,"County Attorney",,REP,"Martin J. Placke",850,11,563,276
+Lee,303,"County Attorney",,,"Over Votes",0,0,0,0
+Lee,303,"County Attorney",,,"Under Votes",233,21,138,74
+Lee,303,"Sheriff",,REP,"Garrett C. Durrenberger",850,11,563,276
+Lee,303,"Sheriff",,,"Over Votes",0,0,0,0
+Lee,303,"Sheriff",,,"Under Votes",233,21,138,74
+Lee,303,"County Tax Assessor-Collector",,REP,"David Matthijetz",871,11,576,284
+Lee,303,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lee,303,"County Tax Assessor-Collector",,,"Under Votes",212,21,125,66
+Lee,303,"County Commissioner Pct 3",,REP,"Alan B. Turner",883,12,588,283
+Lee,303,"County Commissioner Pct 3",,,"Over Votes",0,0,0,0
+Lee,303,"County Commissioner Pct 3",,,"Under Votes",200,20,113,67
+Lee,303,"Constable Pct 3",,REP,"Billy Stephens",854,11,568,275
+Lee,303,"Constable Pct 3",,,"Over Votes",0,0,0,0
+Lee,303,"Constable Pct 3",,,"Under Votes",229,21,133,75
+Lee,303,"Trustee, Place 7 ACC",,,"Sherri Lynn Taylor",23,2,14,7
+Lee,303,"Trustee, Place 7 ACC",,,"Cole Wilson",10,0,3,7
+Lee,303,"Trustee, Place 7 ACC",,,"Over Votes",0,0,0,0
+Lee,303,"Trustee, Place 7 ACC",,,"Under Votes",36,4,21,11
+Lee,303,"Trustee, Place 8 ACC",,,"Stephanie Charakhanian",28,2,14,12
+Lee,303,"Trustee, Place 8 ACC",,,"Over Votes",0,0,0,0
+Lee,303,"Trustee, Place 8 ACC",,,"Under Votes",41,4,24,13
+Lee,303,"Trustee, Place 9 ACC",,,"Joe Sefton",17,0,11,6
+Lee,303,"Trustee, Place 9 ACC",,,"Julie Ann Nitsch",19,2,11,6
+Lee,303,"Trustee, Place 9 ACC",,,"Over Votes",0,0,0,0
+Lee,303,"Trustee, Place 9 ACC",,,"Under Votes",33,4,19,10
+Lee,304,"Registered Voters",,,,297,,,
+Lee,304,"Ballots Cast",,,,252,8,196,48
+Lee,304,"Ballots Cast Blank",,,,0,0,0,0
+Lee,304,"President",,REP,"Donald J. Trump",210,5,167,38
+Lee,304,"President",,DEM,"Kamala D. Harris",42,3,29,10
+Lee,304,"President",,LIB,"Chase Oliver",0,0,0,0
+Lee,304,"President",,GRN,"Jill Stein",0,0,0,0
+Lee,304,"President",,,"Write-ins",0,0,0,0
+Lee,304,"President",,,"Over Votes",0,0,0,0
+Lee,304,"President",,,"Under Votes",0,0,0,0
+Lee,304,"U.S. Senate",,REP,"Ted Cruz",209,5,166,38
+Lee,304,"U.S. Senate",,DEM,"Colin Allred",41,3,28,10
+Lee,304,"U.S. Senate",,LIB,"Ted Brown",1,0,1,0
+Lee,304,"U.S. Senate",,,"Write-ins",0,0,0,0
+Lee,304,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lee,304,"U.S. Senate",,,"Under Votes",1,0,1,0
+Lee,304,"U.S. House",10,REP,"Michael T. McCaul",217,6,172,39
+Lee,304,"U.S. House",10,DEM,"Theresa Boisseau",30,1,21,8
+Lee,304,"U.S. House",10,LIB,"Jeff Miller",3,0,3,0
+Lee,304,"U.S. House",10,,"Over Votes",0,0,0,0
+Lee,304,"U.S. House",10,,"Under Votes",2,1,0,1
+Lee,304,"Railroad Commissioner",,REP,"Christi Craddick",202,4,162,36
+Lee,304,"Railroad Commissioner",,DEM,"Katherine Culbert",36,4,22,10
+Lee,304,"Railroad Commissioner",,LIB,"Hawk Dunlap",5,0,4,1
+Lee,304,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,1,0
+Lee,304,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Lee,304,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lee,304,"Railroad Commissioner",,,"Under Votes",8,0,6,2
+Lee,304,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",210,4,168,38
+Lee,304,"Justice, Supreme Court",2,DEM,"DaSean Jones",37,3,25,9
+Lee,304,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lee,304,"Justice, Supreme Court",2,,"Under Votes",5,1,3,1
+Lee,304,"Justice, Supreme Court",4,REP,"John Devine",207,4,164,39
+Lee,304,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",37,3,27,7
+Lee,304,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lee,304,"Justice, Supreme Court",4,,"Under Votes",8,1,5,2
+Lee,304,"Justice, Supreme Court",6,REP,"Jane Bland",204,4,163,37
+Lee,304,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",35,3,24,8
+Lee,304,"Justice, Supreme Court",6,LIB,"J. David Roberson",4,0,3,1
+Lee,304,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lee,304,"Justice, Supreme Court",6,,"Under Votes",9,1,6,2
+Lee,304,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",205,4,164,37
+Lee,304,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",37,3,25,9
+Lee,304,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lee,304,"Presiding Judge, Ct of Crim App",,,"Under Votes",10,1,7,2
+Lee,304,"Judge, Ct of Crim App",7,REP,"Gina Parker",204,4,162,38
+Lee,304,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",35,4,24,7
+Lee,304,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lee,304,"Judge, Ct of Crim App",7,,"Under Votes",13,0,10,3
+Lee,304,"Judge, Ct of Crim App",8,REP,"Lee Finley",206,4,164,38
+Lee,304,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",35,3,24,8
+Lee,304,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lee,304,"Judge, Ct of Crim App",8,,"Under Votes",11,1,8,2
+Lee,304,"Member, State BoE",10,REP,"Tom Maynard",211,4,169,38
+Lee,304,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",33,3,22,8
+Lee,304,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Lee,304,"Member, State BoE",10,,"Under Votes",8,1,5,2
+Lee,304,"State Representative",17,REP,"Stan Gerdes",212,4,170,38
+Lee,304,"State Representative",17,DEM,"Desiree Venable",36,3,24,9
+Lee,304,"State Representative",17,,"Over Votes",0,0,0,0
+Lee,304,"State Representative",17,,"Under Votes",4,1,2,1
+Lee,304,"Justice, 3rd Ct of App Dist",2,REP,"John Messinger",204,4,162,38
+Lee,304,"Justice, 3rd Ct of App Dist",2,DEM,"Maggie Ellis",37,3,26,8
+Lee,304,"Justice, 3rd Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lee,304,"Justice, 3rd Ct of App Dist",2,,"Under Votes",11,1,8,2
+Lee,304,"Justice, 3rd Ct of App Dist",3,DEM,"Chari Kelly",87,2,63,22
+Lee,304,"Justice, 3rd Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lee,304,"Justice, 3rd Ct of App Dist",3,,"Under Votes",165,6,133,26
+Lee,304,"Justice, 3rd Ct of App Dist",5,DEM,"Karin Crump",82,5,58,19
+Lee,304,"Justice, 3rd Ct of App Dist",5,,"Over Votes",0,0,0,0
+Lee,304,"Justice, 3rd Ct of App Dist",5,,"Under Votes",170,3,138,29
+Lee,304,"Justice, 3rd Ct of App Dist",6,DEM,"Gisela D. Triana",83,3,59,21
+Lee,304,"Justice, 3rd Ct of App Dist",6,,"Over Votes",0,0,0,0
+Lee,304,"Justice, 3rd Ct of App Dist",6,,"Under Votes",169,5,137,27
+Lee,304,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",210,5,164,41
+Lee,304,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,304,"Dist Judge, 21st Judicial Dist",,,"Under Votes",42,3,32,7
+Lee,304,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",208,6,163,39
+Lee,304,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,304,"Dist Judge, 335th Judicial Dist",,,"Under Votes",44,2,33,9
+Lee,304,"County Attorney",,REP,"Martin J. Placke",206,6,162,38
+Lee,304,"County Attorney",,,"Over Votes",0,0,0,0
+Lee,304,"County Attorney",,,"Under Votes",46,2,34,10
+Lee,304,"Sheriff",,REP,"Garrett C. Durrenberger",213,6,167,40
+Lee,304,"Sheriff",,,"Over Votes",0,0,0,0
+Lee,304,"Sheriff",,,"Under Votes",39,2,29,8
+Lee,304,"County Tax Assessor-Collector",,REP,"David Matthijetz",214,6,167,41
+Lee,304,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lee,304,"County Tax Assessor-Collector",,,"Under Votes",38,2,29,7
+Lee,304,"County Commissioner Pct 3",,REP,"Alan B. Turner",210,6,164,40
+Lee,304,"County Commissioner Pct 3",,,"Over Votes",0,0,0,0
+Lee,304,"County Commissioner Pct 3",,,"Under Votes",42,2,32,8
+Lee,304,"Constable Pct 3",,REP,"Billy Stephens",209,6,162,41
+Lee,304,"Constable Pct 3",,,"Over Votes",0,0,0,0
+Lee,304,"Constable Pct 3",,,"Under Votes",43,2,34,7
+Lee,401,"Registered Voters",,,,832,,,
+Lee,401,"Ballots Cast",,,,587,20,317,250
+Lee,401,"Ballots Cast Blank",,,,1,0,0,1
+Lee,401,"President",,REP,"Donald J. Trump",436,12,259,165
+Lee,401,"President",,DEM,"Kamala D. Harris",138,8,57,73
+Lee,401,"President",,LIB,"Chase Oliver",4,0,0,4
+Lee,401,"President",,GRN,"Jill Stein",0,0,0,0
+Lee,401,"President",,,"Write-ins",2,0,1,1
+Lee,401,"President",,,"Over Votes",0,0,0,0
+Lee,401,"President",,,"Under Votes",7,0,4,3
+Lee,401,"U.S. Senate",,REP,"Ted Cruz",422,12,250,160
+Lee,401,"U.S. Senate",,DEM,"Colin Allred",140,8,58,74
+Lee,401,"U.S. Senate",,LIB,"Ted Brown",14,0,4,10
+Lee,401,"U.S. Senate",,,"Write-ins",0,0,0,0
+Lee,401,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lee,401,"U.S. Senate",,,"Under Votes",11,0,5,6
+Lee,401,"U.S. House",10,REP,"Michael T. McCaul",427,12,249,166
+Lee,401,"U.S. House",10,DEM,"Theresa Boisseau",127,7,53,67
+Lee,401,"U.S. House",10,LIB,"Jeff Miller",13,0,8,5
+Lee,401,"U.S. House",10,,"Over Votes",0,0,0,0
+Lee,401,"U.S. House",10,,"Under Votes",20,1,8,11
+Lee,401,"Railroad Commissioner",,REP,"Christi Craddick",416,13,243,160
+Lee,401,"Railroad Commissioner",,DEM,"Katherine Culbert",120,7,51,62
+Lee,401,"Railroad Commissioner",,LIB,"Hawk Dunlap",16,0,4,12
+Lee,401,"Railroad Commissioner",,GRN,"Eddie Espinoza",7,0,3,4
+Lee,401,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Lee,401,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lee,401,"Railroad Commissioner",,,"Under Votes",28,0,12,16
+Lee,401,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",424,12,248,164
+Lee,401,"Justice, Supreme Court",2,DEM,"DaSean Jones",130,8,54,68
+Lee,401,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lee,401,"Justice, Supreme Court",2,,"Under Votes",33,0,15,18
+Lee,401,"Justice, Supreme Court",4,REP,"John Devine",421,12,249,160
+Lee,401,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",137,8,55,74
+Lee,401,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lee,401,"Justice, Supreme Court",4,,"Under Votes",29,0,13,16
+Lee,401,"Justice, Supreme Court",6,REP,"Jane Bland",411,12,241,158
+Lee,401,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",130,8,56,66
+Lee,401,"Justice, Supreme Court",6,LIB,"J. David Roberson",15,0,9,6
+Lee,401,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lee,401,"Justice, Supreme Court",6,,"Under Votes",31,0,14,17
+Lee,401,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",415,12,247,156
+Lee,401,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",137,7,57,73
+Lee,401,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lee,401,"Presiding Judge, Ct of Crim App",,,"Under Votes",35,1,13,21
+Lee,401,"Judge, Ct of Crim App",7,REP,"Gina Parker",418,11,246,161
+Lee,401,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",131,7,57,67
+Lee,401,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lee,401,"Judge, Ct of Crim App",7,,"Under Votes",37,2,14,21
+Lee,401,"Judge, Ct of Crim App",8,REP,"Lee Finley",423,13,249,161
+Lee,401,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",131,7,54,70
+Lee,401,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lee,401,"Judge, Ct of Crim App",8,,"Under Votes",33,0,14,19
+Lee,401,"Member, State BoE",10,REP,"Tom Maynard",422,12,250,160
+Lee,401,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",134,7,55,72
+Lee,401,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Lee,401,"Member, State BoE",10,,"Under Votes",31,1,12,18
+Lee,401,"State Representative",17,REP,"Stan Gerdes",428,13,252,163
+Lee,401,"State Representative",17,DEM,"Desiree Venable",135,7,54,74
+Lee,401,"State Representative",17,,"Over Votes",0,0,0,0
+Lee,401,"State Representative",17,,"Under Votes",24,0,11,13
+Lee,401,"Justice, 3rd Ct of App Dist",2,REP,"John Messinger",423,13,252,158
+Lee,401,"Justice, 3rd Ct of App Dist",2,DEM,"Maggie Ellis",131,7,52,72
+Lee,401,"Justice, 3rd Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lee,401,"Justice, 3rd Ct of App Dist",2,,"Under Votes",33,0,13,20
+Lee,401,"Justice, 3rd Ct of App Dist",3,DEM,"Chari Kelly",236,8,107,121
+Lee,401,"Justice, 3rd Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lee,401,"Justice, 3rd Ct of App Dist",3,,"Under Votes",351,12,210,129
+Lee,401,"Justice, 3rd Ct of App Dist",5,DEM,"Karin Crump",224,8,96,120
+Lee,401,"Justice, 3rd Ct of App Dist",5,,"Over Votes",0,0,0,0
+Lee,401,"Justice, 3rd Ct of App Dist",5,,"Under Votes",362,12,221,129
+Lee,401,"Justice, 3rd Ct of App Dist",6,DEM,"Gisela D. Triana",225,8,100,117
+Lee,401,"Justice, 3rd Ct of App Dist",6,,"Over Votes",0,0,0,0
+Lee,401,"Justice, 3rd Ct of App Dist",6,,"Under Votes",362,12,217,133
+Lee,401,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",452,13,259,180
+Lee,401,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,401,"Dist Judge, 21st Judicial Dist",,,"Under Votes",135,7,58,70
+Lee,401,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",451,13,256,182
+Lee,401,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,401,"Dist Judge, 335th Judicial Dist",,,"Under Votes",136,7,61,68
+Lee,401,"County Attorney",,REP,"Martin J. Placke",461,13,259,189
+Lee,401,"County Attorney",,,"Over Votes",0,0,0,0
+Lee,401,"County Attorney",,,"Under Votes",126,7,58,61
+Lee,401,"Sheriff",,REP,"Garrett C. Durrenberger",475,13,266,196
+Lee,401,"Sheriff",,,"Over Votes",0,0,0,0
+Lee,401,"Sheriff",,,"Under Votes",112,7,51,54
+Lee,401,"County Tax Assessor-Collector",,REP,"David Matthijetz",458,12,264,182
+Lee,401,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lee,401,"County Tax Assessor-Collector",,,"Under Votes",129,8,53,68
+Lee,401,"Constable Pct 4",,REP,"Steven Pohorelsky",464,13,256,195
+Lee,401,"Constable Pct 4",,,"Over Votes",0,0,0,0
+Lee,401,"Constable Pct 4",,,"Under Votes",123,7,61,55
+Lee,401,"Trustees Dime Box",,,"Douglas Spacek",240,6,133,101
+Lee,401,"Trustees Dime Box",,,"Ty West",159,3,69,87
+Lee,401,"Trustees Dime Box",,,"Kendrick Gilbert",215,4,91,120
+Lee,401,"Trustees Dime Box",,,"Roberts Brinkman",177,10,92,75
+Lee,401,"Trustees Dime Box",,,"Over Votes",0,0,0,0
+Lee,401,"Trustees Dime Box",,,"Under Votes",649,31,344,274
+Lee,402,"Registered Voters",,,,201,,,
+Lee,402,"Ballots Cast",,,,136,8,96,32
+Lee,402,"Ballots Cast Blank",,,,0,0,0,0
+Lee,402,"President",,REP,"Donald J. Trump",77,2,59,16
+Lee,402,"President",,DEM,"Kamala D. Harris",59,6,37,16
+Lee,402,"President",,LIB,"Chase Oliver",0,0,0,0
+Lee,402,"President",,GRN,"Jill Stein",0,0,0,0
+Lee,402,"President",,,"Write-ins",0,0,0,0
+Lee,402,"President",,,"Over Votes",0,0,0,0
+Lee,402,"President",,,"Under Votes",0,0,0,0
+Lee,402,"U.S. Senate",,REP,"Ted Cruz",76,2,58,16
+Lee,402,"U.S. Senate",,DEM,"Colin Allred",58,6,36,16
+Lee,402,"U.S. Senate",,LIB,"Ted Brown",1,0,1,0
+Lee,402,"U.S. Senate",,,"Write-ins",0,0,0,0
+Lee,402,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lee,402,"U.S. Senate",,,"Under Votes",1,0,1,0
+Lee,402,"U.S. House",10,REP,"Michael T. McCaul",80,2,61,17
+Lee,402,"U.S. House",10,DEM,"Theresa Boisseau",46,6,29,11
+Lee,402,"U.S. House",10,LIB,"Jeff Miller",2,0,2,0
+Lee,402,"U.S. House",10,,"Over Votes",0,0,0,0
+Lee,402,"U.S. House",10,,"Under Votes",8,0,4,4
+Lee,402,"Railroad Commissioner",,REP,"Christi Craddick",75,2,57,16
+Lee,402,"Railroad Commissioner",,DEM,"Katherine Culbert",48,6,30,12
+Lee,402,"Railroad Commissioner",,LIB,"Hawk Dunlap",2,0,2,0
+Lee,402,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,1,0
+Lee,402,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Lee,402,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lee,402,"Railroad Commissioner",,,"Under Votes",10,0,6,4
+Lee,402,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",73,2,55,16
+Lee,402,"Justice, Supreme Court",2,DEM,"DaSean Jones",52,6,34,12
+Lee,402,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lee,402,"Justice, Supreme Court",2,,"Under Votes",11,0,7,4
+Lee,402,"Justice, Supreme Court",4,REP,"John Devine",74,2,55,17
+Lee,402,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",53,6,34,13
+Lee,402,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lee,402,"Justice, Supreme Court",4,,"Under Votes",9,0,6,3
+Lee,402,"Justice, Supreme Court",6,REP,"Jane Bland",74,2,55,17
+Lee,402,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",51,6,32,13
+Lee,402,"Justice, Supreme Court",6,LIB,"J. David Roberson",2,0,2,0
+Lee,402,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lee,402,"Justice, Supreme Court",6,,"Under Votes",9,0,6,3
+Lee,402,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",76,2,58,16
+Lee,402,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",50,6,31,13
+Lee,402,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lee,402,"Presiding Judge, Ct of Crim App",,,"Under Votes",10,0,7,3
+Lee,402,"Judge, Ct of Crim App",7,REP,"Gina Parker",74,2,56,16
+Lee,402,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",48,5,31,12
+Lee,402,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lee,402,"Judge, Ct of Crim App",7,,"Under Votes",14,1,9,4
+Lee,402,"Judge, Ct of Crim App",8,REP,"Lee Finley",75,2,57,16
+Lee,402,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",51,6,32,13
+Lee,402,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lee,402,"Judge, Ct of Crim App",8,,"Under Votes",10,0,7,3
+Lee,402,"Member, State BoE",10,REP,"Tom Maynard",76,2,58,16
+Lee,402,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",51,6,32,13
+Lee,402,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Lee,402,"Member, State BoE",10,,"Under Votes",9,0,6,3
+Lee,402,"State Representative",17,REP,"Stan Gerdes",76,2,58,16
+Lee,402,"State Representative",17,DEM,"Desiree Venable",53,6,34,13
+Lee,402,"State Representative",17,,"Over Votes",0,0,0,0
+Lee,402,"State Representative",17,,"Under Votes",7,0,4,3
+Lee,402,"Justice, 3rd Ct of App Dist",2,REP,"John Messinger",74,2,56,16
+Lee,402,"Justice, 3rd Ct of App Dist",2,DEM,"Maggie Ellis",50,6,32,12
+Lee,402,"Justice, 3rd Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lee,402,"Justice, 3rd Ct of App Dist",2,,"Under Votes",12,0,8,4
+Lee,402,"Justice, 3rd Ct of App Dist",3,DEM,"Chari Kelly",67,5,43,19
+Lee,402,"Justice, 3rd Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lee,402,"Justice, 3rd Ct of App Dist",3,,"Under Votes",69,3,53,13
+Lee,402,"Justice, 3rd Ct of App Dist",5,DEM,"Karin Crump",62,5,40,17
+Lee,402,"Justice, 3rd Ct of App Dist",5,,"Over Votes",0,0,0,0
+Lee,402,"Justice, 3rd Ct of App Dist",5,,"Under Votes",74,3,56,15
+Lee,402,"Justice, 3rd Ct of App Dist",6,DEM,"Gisela D. Triana",60,5,40,15
+Lee,402,"Justice, 3rd Ct of App Dist",6,,"Over Votes",0,0,0,0
+Lee,402,"Justice, 3rd Ct of App Dist",6,,"Under Votes",76,3,56,17
+Lee,402,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",83,3,60,20
+Lee,402,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,402,"Dist Judge, 21st Judicial Dist",,,"Under Votes",53,5,36,12
+Lee,402,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",82,3,59,20
+Lee,402,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,402,"Dist Judge, 335th Judicial Dist",,,"Under Votes",54,5,37,12
+Lee,402,"County Attorney",,REP,"Martin J. Placke",85,0,64,21
+Lee,402,"County Attorney",,,"Over Votes",0,0,0,0
+Lee,402,"County Attorney",,,"Under Votes",51,8,32,11
+Lee,402,"Sheriff",,REP,"Garrett C. Durrenberger",91,3,66,22
+Lee,402,"Sheriff",,,"Over Votes",0,0,0,0
+Lee,402,"Sheriff",,,"Under Votes",45,5,30,10
+Lee,402,"County Tax Assessor-Collector",,REP,"David Matthijetz",91,2,68,21
+Lee,402,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lee,402,"County Tax Assessor-Collector",,,"Under Votes",45,6,28,11
+Lee,402,"Constable Pct 4",,REP,"Steven Pohorelsky",86,2,63,21
+Lee,402,"Constable Pct 4",,,"Over Votes",0,0,0,0
+Lee,402,"Constable Pct 4",,,"Under Votes",50,6,33,11
+Lee,403,"Registered Voters",,,,344,,,
+Lee,403,"Ballots Cast",,,,260,4,182,74
+Lee,403,"Ballots Cast Blank",,,,0,0,0,0
+Lee,403,"President",,REP,"Donald J. Trump",218,0,153,65
+Lee,403,"President",,DEM,"Kamala D. Harris",39,4,27,8
+Lee,403,"President",,LIB,"Chase Oliver",0,0,0,0
+Lee,403,"President",,GRN,"Jill Stein",0,0,0,0
+Lee,403,"President",,,"Write-ins",1,0,0,1
+Lee,403,"President",,,"Over Votes",0,0,0,0
+Lee,403,"President",,,"Under Votes",2,0,2,0
+Lee,403,"U.S. Senate",,REP,"Ted Cruz",208,0,148,60
+Lee,403,"U.S. Senate",,DEM,"Colin Allred",44,4,30,10
+Lee,403,"U.S. Senate",,LIB,"Ted Brown",4,0,2,2
+Lee,403,"U.S. Senate",,,"Write-ins",0,0,0,0
+Lee,403,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lee,403,"U.S. Senate",,,"Under Votes",4,0,2,2
+Lee,403,"U.S. House",10,REP,"Michael T. McCaul",211,0,152,59
+Lee,403,"U.S. House",10,DEM,"Theresa Boisseau",38,3,26,9
+Lee,403,"U.S. House",10,LIB,"Jeff Miller",2,0,1,1
+Lee,403,"U.S. House",10,,"Over Votes",0,0,0,0
+Lee,403,"U.S. House",10,,"Under Votes",9,1,3,5
+Lee,403,"Railroad Commissioner",,REP,"Christi Craddick",209,0,149,60
+Lee,403,"Railroad Commissioner",,DEM,"Katherine Culbert",36,4,25,7
+Lee,403,"Railroad Commissioner",,LIB,"Hawk Dunlap",4,0,2,2
+Lee,403,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,1,1
+Lee,403,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Lee,403,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lee,403,"Railroad Commissioner",,,"Under Votes",9,0,5,4
+Lee,403,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",212,0,152,60
+Lee,403,"Justice, Supreme Court",2,DEM,"DaSean Jones",37,4,25,8
+Lee,403,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lee,403,"Justice, Supreme Court",2,,"Under Votes",11,0,5,6
+Lee,403,"Justice, Supreme Court",4,REP,"John Devine",206,0,148,58
+Lee,403,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",41,4,27,10
+Lee,403,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lee,403,"Justice, Supreme Court",4,,"Under Votes",13,0,7,6
+Lee,403,"Justice, Supreme Court",6,REP,"Jane Bland",204,0,147,57
+Lee,403,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",39,4,25,10
+Lee,403,"Justice, Supreme Court",6,LIB,"J. David Roberson",4,0,3,1
+Lee,403,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lee,403,"Justice, Supreme Court",6,,"Under Votes",13,0,7,6
+Lee,403,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",208,0,150,58
+Lee,403,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",38,4,24,10
+Lee,403,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lee,403,"Presiding Judge, Ct of Crim App",,,"Under Votes",14,0,8,6
+Lee,403,"Judge, Ct of Crim App",7,REP,"Gina Parker",206,0,148,58
+Lee,403,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",38,4,26,8
+Lee,403,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lee,403,"Judge, Ct of Crim App",7,,"Under Votes",16,0,8,8
+Lee,403,"Judge, Ct of Crim App",8,REP,"Lee Finley",207,0,149,58
+Lee,403,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",35,4,22,9
+Lee,403,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lee,403,"Judge, Ct of Crim App",8,,"Under Votes",18,0,11,7
+Lee,403,"Member, State BoE",10,REP,"Tom Maynard",207,0,147,60
+Lee,403,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",37,3,26,8
+Lee,403,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Lee,403,"Member, State BoE",10,,"Under Votes",16,1,9,6
+Lee,403,"State Representative",17,REP,"Stan Gerdes",212,0,150,62
+Lee,403,"State Representative",17,DEM,"Desiree Venable",36,3,25,8
+Lee,403,"State Representative",17,,"Over Votes",0,0,0,0
+Lee,403,"State Representative",17,,"Under Votes",12,1,7,4
+Lee,403,"Justice, 3rd Ct of App Dist",2,REP,"John Messinger",206,0,148,58
+Lee,403,"Justice, 3rd Ct of App Dist",2,DEM,"Maggie Ellis",40,4,26,10
+Lee,403,"Justice, 3rd Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lee,403,"Justice, 3rd Ct of App Dist",2,,"Under Votes",14,0,8,6
+Lee,403,"Justice, 3rd Ct of App Dist",3,DEM,"Chari Kelly",90,4,63,23
+Lee,403,"Justice, 3rd Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lee,403,"Justice, 3rd Ct of App Dist",3,,"Under Votes",170,0,119,51
+Lee,403,"Justice, 3rd Ct of App Dist",5,DEM,"Karin Crump",86,4,61,21
+Lee,403,"Justice, 3rd Ct of App Dist",5,,"Over Votes",0,0,0,0
+Lee,403,"Justice, 3rd Ct of App Dist",5,,"Under Votes",174,0,121,53
+Lee,403,"Justice, 3rd Ct of App Dist",6,DEM,"Gisela D. Triana",87,4,61,22
+Lee,403,"Justice, 3rd Ct of App Dist",6,,"Over Votes",0,0,0,0
+Lee,403,"Justice, 3rd Ct of App Dist",6,,"Under Votes",173,0,121,52
+Lee,403,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",210,2,149,59
+Lee,403,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,403,"Dist Judge, 21st Judicial Dist",,,"Under Votes",50,2,33,15
+Lee,403,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",205,2,148,55
+Lee,403,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,403,"Dist Judge, 335th Judicial Dist",,,"Under Votes",55,2,34,19
+Lee,403,"County Attorney",,REP,"Martin J. Placke",217,2,152,63
+Lee,403,"County Attorney",,,"Over Votes",0,0,0,0
+Lee,403,"County Attorney",,,"Under Votes",43,2,30,11
+Lee,403,"Sheriff",,REP,"Garrett C. Durrenberger",225,2,157,66
+Lee,403,"Sheriff",,,"Over Votes",0,0,0,0
+Lee,403,"Sheriff",,,"Under Votes",35,2,25,8
+Lee,403,"County Tax Assessor-Collector",,REP,"David Matthijetz",221,2,155,64
+Lee,403,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lee,403,"County Tax Assessor-Collector",,,"Under Votes",39,2,27,10
+Lee,403,"County Commissioner Pct 3",,REP,"Alan B. Turner",222,2,158,62
+Lee,403,"County Commissioner Pct 3",,,"Over Votes",0,0,0,0
+Lee,403,"County Commissioner Pct 3",,,"Under Votes",38,2,24,12
+Lee,403,"Constable Pct 3",,REP,"Billy Stephens",222,2,158,62
+Lee,403,"Constable Pct 3",,,"Over Votes",0,0,0,0
+Lee,403,"Constable Pct 3",,,"Under Votes",38,2,24,12
+Lee,403,"Trustees Dime Box",,,"Douglas Spacek",17,0,12,5
+Lee,403,"Trustees Dime Box",,,"Ty West",11,0,8,3
+Lee,403,"Trustees Dime Box",,,"Kendrick Gilbert",6,0,6,0
+Lee,403,"Trustees Dime Box",,,"Roberts Brinkman",9,0,5,4
+Lee,403,"Trustees Dime Box",,,"Over Votes",0,0,0,0
+Lee,403,"Trustees Dime Box",,,"Under Votes",44,0,31,13
+Lee,404,"Registered Voters",,,,841,,,
+Lee,404,"Ballots Cast",,,,504,27,367,110
+Lee,404,"Ballots Cast Blank",,,,0,0,0,0
+Lee,404,"President",,REP,"Donald J. Trump",373,15,288,70
+Lee,404,"President",,DEM,"Kamala D. Harris",124,10,74,40
+Lee,404,"President",,LIB,"Chase Oliver",1,0,1,0
+Lee,404,"President",,GRN,"Jill Stein",1,0,1,0
+Lee,404,"President",,,"Write-ins",1,0,1,0
+Lee,404,"President",,,"Over Votes",0,0,0,0
+Lee,404,"President",,,"Under Votes",4,2,2,0
+Lee,404,"U.S. Senate",,REP,"Ted Cruz",362,14,284,64
+Lee,404,"U.S. Senate",,DEM,"Colin Allred",128,11,75,42
+Lee,404,"U.S. Senate",,LIB,"Ted Brown",6,1,3,2
+Lee,404,"U.S. Senate",,,"Write-ins",1,0,1,0
+Lee,404,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lee,404,"U.S. Senate",,,"Under Votes",7,1,4,2
+Lee,404,"U.S. House",10,REP,"Michael T. McCaul",365,13,283,69
+Lee,404,"U.S. House",10,DEM,"Theresa Boisseau",109,7,70,32
+Lee,404,"U.S. House",10,LIB,"Jeff Miller",8,2,4,2
+Lee,404,"U.S. House",10,,"Over Votes",0,0,0,0
+Lee,404,"U.S. House",10,,"Under Votes",22,5,10,7
+Lee,404,"Railroad Commissioner",,REP,"Christi Craddick",354,14,276,64
+Lee,404,"Railroad Commissioner",,DEM,"Katherine Culbert",108,6,71,31
+Lee,404,"Railroad Commissioner",,LIB,"Hawk Dunlap",12,1,8,3
+Lee,404,"Railroad Commissioner",,GRN,"Eddie Espinoza",6,1,4,1
+Lee,404,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Lee,404,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lee,404,"Railroad Commissioner",,,"Under Votes",24,5,11,8
+Lee,404,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",363,15,283,65
+Lee,404,"Justice, Supreme Court",2,DEM,"DaSean Jones",113,7,69,37
+Lee,404,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lee,404,"Justice, Supreme Court",2,,"Under Votes",28,5,15,8
+Lee,404,"Justice, Supreme Court",4,REP,"John Devine",358,14,280,64
+Lee,404,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",118,7,71,40
+Lee,404,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lee,404,"Justice, Supreme Court",4,,"Under Votes",28,6,16,6
+Lee,404,"Justice, Supreme Court",6,REP,"Jane Bland",350,12,279,59
+Lee,404,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",116,9,73,34
+Lee,404,"Justice, Supreme Court",6,LIB,"J. David Roberson",11,2,4,5
+Lee,404,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lee,404,"Justice, Supreme Court",6,,"Under Votes",27,4,17,6
+Lee,404,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",360,15,279,66
+Lee,404,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",116,8,70,38
+Lee,404,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lee,404,"Presiding Judge, Ct of Crim App",,,"Under Votes",28,4,18,6
+Lee,404,"Judge, Ct of Crim App",7,REP,"Gina Parker",360,15,278,67
+Lee,404,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",115,7,71,37
+Lee,404,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lee,404,"Judge, Ct of Crim App",7,,"Under Votes",29,5,18,6
+Lee,404,"Judge, Ct of Crim App",8,REP,"Lee Finley",362,15,279,68
+Lee,404,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",110,6,68,36
+Lee,404,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lee,404,"Judge, Ct of Crim App",8,,"Under Votes",32,6,20,6
+Lee,404,"Member, State BoE",10,REP,"Tom Maynard",358,12,280,66
+Lee,404,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",117,8,71,38
+Lee,404,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Lee,404,"Member, State BoE",10,,"Under Votes",29,7,16,6
+Lee,404,"State Representative",17,REP,"Stan Gerdes",362,13,281,68
+Lee,404,"State Representative",17,DEM,"Desiree Venable",117,8,70,39
+Lee,404,"State Representative",17,,"Over Votes",0,0,0,0
+Lee,404,"State Representative",17,,"Under Votes",25,6,16,3
+Lee,404,"Justice, 3rd Ct of App Dist",2,REP,"John Messinger",356,12,278,66
+Lee,404,"Justice, 3rd Ct of App Dist",2,DEM,"Maggie Ellis",119,9,72,38
+Lee,404,"Justice, 3rd Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lee,404,"Justice, 3rd Ct of App Dist",2,,"Under Votes",29,6,17,6
+Lee,404,"Justice, 3rd Ct of App Dist",3,DEM,"Chari Kelly",196,9,127,60
+Lee,404,"Justice, 3rd Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lee,404,"Justice, 3rd Ct of App Dist",3,,"Under Votes",308,18,240,50
+Lee,404,"Justice, 3rd Ct of App Dist",5,DEM,"Karin Crump",201,11,130,60
+Lee,404,"Justice, 3rd Ct of App Dist",5,,"Over Votes",0,0,0,0
+Lee,404,"Justice, 3rd Ct of App Dist",5,,"Under Votes",303,16,237,50
+Lee,404,"Justice, 3rd Ct of App Dist",6,DEM,"Gisela D. Triana",196,10,126,60
+Lee,404,"Justice, 3rd Ct of App Dist",6,,"Over Votes",0,0,0,0
+Lee,404,"Justice, 3rd Ct of App Dist",6,,"Under Votes",308,17,241,50
+Lee,404,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",397,18,294,85
+Lee,404,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,404,"Dist Judge, 21st Judicial Dist",,,"Under Votes",107,9,73,25
+Lee,404,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",386,18,287,81
+Lee,404,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,404,"Dist Judge, 335th Judicial Dist",,,"Under Votes",118,9,80,29
+Lee,404,"County Attorney",,REP,"Martin J. Placke",414,19,304,91
+Lee,404,"County Attorney",,,"Over Votes",0,0,0,0
+Lee,404,"County Attorney",,,"Under Votes",90,8,63,19
+Lee,404,"Sheriff",,REP,"Garrett C. Durrenberger",432,20,318,94
+Lee,404,"Sheriff",,,"Over Votes",0,0,0,0
+Lee,404,"Sheriff",,,"Under Votes",72,7,49,16
+Lee,404,"County Tax Assessor-Collector",,REP,"David Matthijetz",415,19,305,91
+Lee,404,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lee,404,"County Tax Assessor-Collector",,,"Under Votes",89,8,62,19
+Lee,404,"Constable Precinct 1 & 2",,REP,"A. J. Gonzales",420,18,309,93
+Lee,404,"Constable Precinct 1 & 2",,,"Over Votes",0,0,0,0
+Lee,404,"Constable Precinct 1 & 2",,,"Under Votes",84,9,58,17
+Lee,405,"Registered Voters",,,,1017,,,
+Lee,405,"Ballots Cast",,,,722,21,591,110
+Lee,405,"Ballots Cast Blank",,,,0,0,0,0
+Lee,405,"President",,REP,"Donald J. Trump",584,9,495,80
+Lee,405,"President",,DEM,"Kamala D. Harris",134,12,89,33
+Lee,405,"President",,LIB,"Chase Oliver",2,0,1,1
+Lee,405,"President",,GRN,"Jill Stein",0,0,0,0
+Lee,405,"President",,,"Write-ins",2,0,2,0
+Lee,405,"President",,,"Over Votes",0,0,0,0
+Lee,405,"President",,,"Under Votes",0,0,0,0
+Lee,405,"U.S. Senate",,REP,"Ted Cruz",569,7,486,76
+Lee,405,"U.S. Senate",,DEM,"Colin Allred",139,13,93,33
+Lee,405,"U.S. Senate",,LIB,"Ted Brown",9,0,5,4
+Lee,405,"U.S. Senate",,,"Write-ins",1,0,1,0
+Lee,405,"U.S. Senate",,,"Over Votes",0,0,0,0
+Lee,405,"U.S. Senate",,,"Under Votes",9,1,6,2
+Lee,405,"U.S. House",10,REP,"Michael T. McCaul",575,9,487,79
+Lee,405,"U.S. House",10,DEM,"Theresa Boisseau",110,11,73,26
+Lee,405,"U.S. House",10,LIB,"Jeff Miller",17,0,13,4
+Lee,405,"U.S. House",10,,"Over Votes",0,0,0,0
+Lee,405,"U.S. House",10,,"Under Votes",25,1,18,6
+Lee,405,"Railroad Commissioner",,REP,"Christi Craddick",564,9,483,72
+Lee,405,"Railroad Commissioner",,DEM,"Katherine Culbert",107,9,69,29
+Lee,405,"Railroad Commissioner",,LIB,"Hawk Dunlap",15,0,14,1
+Lee,405,"Railroad Commissioner",,GRN,"Eddie Espinoza",6,0,3,3
+Lee,405,"Railroad Commissioner",,,"Write-ins",2,0,2,0
+Lee,405,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Lee,405,"Railroad Commissioner",,,"Under Votes",33,3,20,10
+Lee,405,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",576,10,497,69
+Lee,405,"Justice, Supreme Court",2,DEM,"DaSean Jones",113,8,72,33
+Lee,405,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Lee,405,"Justice, Supreme Court",2,,"Under Votes",38,3,22,13
+Lee,405,"Justice, Supreme Court",4,REP,"John Devine",570,8,490,72
+Lee,405,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",123,9,81,33
+Lee,405,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Lee,405,"Justice, Supreme Court",4,,"Under Votes",34,4,20,10
+Lee,405,"Justice, Supreme Court",6,REP,"Jane Bland",560,9,483,68
+Lee,405,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",117,8,78,31
+Lee,405,"Justice, Supreme Court",6,LIB,"J. David Roberson",13,1,6,6
+Lee,405,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Lee,405,"Justice, Supreme Court",6,,"Under Votes",37,3,24,10
+Lee,405,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",565,8,488,69
+Lee,405,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",123,9,79,35
+Lee,405,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Lee,405,"Presiding Judge, Ct of Crim App",,,"Under Votes",39,4,24,11
+Lee,405,"Judge, Ct of Crim App",7,REP,"Gina Parker",566,7,488,71
+Lee,405,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",118,9,76,33
+Lee,405,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Lee,405,"Judge, Ct of Crim App",7,,"Under Votes",43,5,27,11
+Lee,405,"Judge, Ct of Crim App",8,REP,"Lee Finley",567,9,486,72
+Lee,405,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",117,8,77,32
+Lee,405,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Lee,405,"Judge, Ct of Crim App",8,,"Under Votes",43,4,28,11
+Lee,405,"Member, State BoE",10,REP,"Tom Maynard",573,9,489,75
+Lee,405,"Member, State BoE",10,DEM,"Raquel Saenz Ortiz",120,9,82,29
+Lee,405,"Member, State BoE",10,,"Over Votes",0,0,0,0
+Lee,405,"Member, State BoE",10,,"Under Votes",34,4,20,10
+Lee,405,"State Representative",17,REP,"Stan Gerdes",576,9,492,75
+Lee,405,"State Representative",17,DEM,"Desiree Venable",125,11,81,33
+Lee,405,"State Representative",17,,"Over Votes",0,0,0,0
+Lee,405,"State Representative",17,,"Under Votes",26,1,18,7
+Lee,405,"Justice, 3rd Ct of App Dist",2,REP,"John Messinger",572,7,491,74
+Lee,405,"Justice, 3rd Ct of App Dist",2,DEM,"Maggie Ellis",112,8,74,30
+Lee,405,"Justice, 3rd Ct of App Dist",2,,"Over Votes",0,0,0,0
+Lee,405,"Justice, 3rd Ct of App Dist",2,,"Under Votes",43,6,26,11
+Lee,405,"Justice, 3rd Ct of App Dist",3,DEM,"Chari Kelly",268,9,198,61
+Lee,405,"Justice, 3rd Ct of App Dist",3,,"Over Votes",0,0,0,0
+Lee,405,"Justice, 3rd Ct of App Dist",3,,"Under Votes",459,12,393,54
+Lee,405,"Justice, 3rd Ct of App Dist",5,DEM,"Karin Crump",266,10,195,61
+Lee,405,"Justice, 3rd Ct of App Dist",5,,"Over Votes",0,0,0,0
+Lee,405,"Justice, 3rd Ct of App Dist",5,,"Under Votes",461,11,396,54
+Lee,405,"Justice, 3rd Ct of App Dist",6,DEM,"Gisela D. Triana",261,9,191,61
+Lee,405,"Justice, 3rd Ct of App Dist",6,,"Over Votes",0,0,0,0
+Lee,405,"Justice, 3rd Ct of App Dist",6,,"Under Votes",466,12,400,54
+Lee,405,"Dist Judge, 21st Judicial Dist",,REP,"Carson Campbell",589,8,503,78
+Lee,405,"Dist Judge, 21st Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,405,"Dist Judge, 21st Judicial Dist",,,"Under Votes",138,13,88,37
+Lee,405,"Dist Judge, 335th Judicial Dist",,REP,"John D. Winkelmann",580,8,492,80
+Lee,405,"Dist Judge, 335th Judicial Dist",,,"Over Votes",0,0,0,0
+Lee,405,"Dist Judge, 335th Judicial Dist",,,"Under Votes",147,13,99,35
+Lee,405,"County Attorney",,REP,"Martin J. Placke",595,12,500,83
+Lee,405,"County Attorney",,,"Over Votes",0,0,0,0
+Lee,405,"County Attorney",,,"Under Votes",132,9,91,32
+Lee,405,"Sheriff",,REP,"Garrett C. Durrenberger",611,12,513,86
+Lee,405,"Sheriff",,,"Over Votes",0,0,0,0
+Lee,405,"Sheriff",,,"Under Votes",116,9,78,29
+Lee,405,"County Tax Assessor-Collector",,REP,"David Matthijetz",611,11,515,85
+Lee,405,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Lee,405,"County Tax Assessor-Collector",,,"Under Votes",116,10,76,30
+Lee,405,"Constable Pct 3",,REP,"Billy Stephens",602,11,509,82
+Lee,405,"Constable Pct 3",,,"Over Votes",0,0,0,0
+Lee,405,"Constable Pct 3",,,"Under Votes",125,10,82,33

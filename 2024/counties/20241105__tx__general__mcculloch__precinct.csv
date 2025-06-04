@@ -1,0 +1,791 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+McCulloch,101,Registered Voters,,,,1402,,,
+McCulloch,101,Ballots Cast,,,,983,,,
+McCulloch,101,President,,REP,Donald J. Trump JD Vance,862,26,711,125
+McCulloch,101,President,,DEM,Kamala D. Harris Tim Walz,112,8,84,20
+McCulloch,101,President,,LIB,Chase Oliver Mike ter Maat,6,2,3,1
+McCulloch,101,President,,GRN,Jill Stein Rudolph Ware,2,1,1,0
+McCulloch,101,President,,,Under Votes,1,0,1,0
+McCulloch,101,President,,,Over Votes,0,0,0,0
+McCulloch,101,U.S. Senate,,REP,Ted Cruz,845,26,697,122
+McCulloch,101,U.S. Senate,,DEM,Colin Allred,117,8,88,21
+McCulloch,101,U.S. Senate,,LIB,Ted Brown,14,3,9,2
+McCulloch,101,U.S. Senate,,,Under Votes,7,0,6,1
+McCulloch,101,U.S. Senate,,,Over Votes,0,0,0,0
+McCulloch,101,U.S. House,11,REP,August Pfluger,870,30,714,126
+McCulloch,101,U.S. House,11,,Under Votes,113,7,86,20
+McCulloch,101,U.S. House,11,,Over Votes,0,0,0,0
+McCulloch,101,Railroad Commissioner,,REP,Christi Craddick,823,26,683,114
+McCulloch,101,Railroad Commissioner,,DEM,Katherine Culbert,97,5,74,18
+McCulloch,101,Railroad Commissioner,,LIB,Hawk Dunlap,18,3,12,3
+McCulloch,101,Railroad Commissioner,,GRN,Eddie Espinoza,11,1,7,3
+McCulloch,101,Railroad Commissioner,,,Under Votes,34,2,24,8
+McCulloch,101,Railroad Commissioner,,,Over Votes,0,0,0,0
+McCulloch,101,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,840,28,691,121
+McCulloch,101,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,103,6,79,18
+McCulloch,101,"Justice, Supreme Court, Place 2",2,,Under Votes,40,3,30,7
+McCulloch,101,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+McCulloch,101,"Justice, Supreme Court, Place 4",4,REP,John Devine,838,27,686,125
+McCulloch,101,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,106,7,82,17
+McCulloch,101,"Justice, Supreme Court, Place 4",4,,Under Votes,39,3,32,4
+McCulloch,101,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+McCulloch,101,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,828,25,685,118
+McCulloch,101,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,99,7,76,16
+McCulloch,101,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,16,2,8,6
+McCulloch,101,"Justice, Supreme Court, Place 6",6,,Under Votes,39,3,30,6
+McCulloch,101,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,1,0
+McCulloch,101,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,833,27,683,123
+McCulloch,101,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,106,8,81,17
+McCulloch,101,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,44,2,36,6
+McCulloch,101,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+McCulloch,101,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,836,28,686,122
+McCulloch,101,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,106,7,81,18
+McCulloch,101,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,41,2,33,6
+McCulloch,101,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+McCulloch,101,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,841,27,690,124
+McCulloch,101,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,101,9,74,18
+McCulloch,101,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,41,1,36,4
+McCulloch,101,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+McCulloch,101,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,817,26,673,118
+McCulloch,101,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,108,7,82,19
+McCulloch,101,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,18,2,11,5
+McCulloch,101,"Member, State Board of Education, District 15",15,,Under Votes,40,2,34,4
+McCulloch,101,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+McCulloch,101,State Representative,53,REP,Wes Virdell,848,27,696,125
+McCulloch,101,State Representative,53,DEM,Joe P. Herrera,103,8,78,17
+McCulloch,101,State Representative,53,LIB,B. W. Holk,8,0,6,2
+McCulloch,101,State Representative,53,,Under Votes,24,2,20,2
+McCulloch,101,State Representative,53,,Over Votes,0,0,0,0
+McCulloch,101,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,834,28,681,125
+McCulloch,101,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,106,7,82,17
+McCulloch,101,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,43,2,37,4
+McCulloch,101,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+McCulloch,101,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,330,17,252,61
+McCulloch,101,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,653,20,548,85
+McCulloch,101,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+McCulloch,101,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,316,16,239,61
+McCulloch,101,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,667,21,561,85
+McCulloch,101,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+McCulloch,101,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,318,16,243,59
+McCulloch,101,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,665,21,557,87
+McCulloch,101,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+McCulloch,101,County Attorney,,REP,Greg Torres,877,32,714,131
+McCulloch,101,County Attorney,,,Under Votes,106,5,86,15
+McCulloch,101,County Attorney,,,Over Votes,0,0,0,0
+McCulloch,101,"District Clerk, Unexpired Term",,REP,Charla Pitcox,870,29,710,131
+McCulloch,101,"District Clerk, Unexpired Term",,,Under Votes,113,8,90,15
+McCulloch,101,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+McCulloch,101,Sheriff,,REP,Matt Andrews,866,31,703,132
+McCulloch,101,Sheriff,,,Under Votes,117,6,97,14
+McCulloch,101,Sheriff,,,Over Votes,0,0,0,0
+McCulloch,101,County Tax Assessor-Collector,,REP,Sylvia Campos,872,30,716,126
+McCulloch,101,County Tax Assessor-Collector,,,Under Votes,111,7,84,20
+McCulloch,101,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,101,"County Commissioner, Precinct 1",,REP,Carol Anderson,797,31,649,117
+McCulloch,101,"County Commissioner, Precinct 1",,,Under Votes,96,6,77,13
+McCulloch,101,"County Commissioner, Precinct 1",,,Over Votes,16,0,16,0
+McCulloch,102,Registered Voters,,,,168,,,
+McCulloch,102,Ballots Cast,,,,110,,,
+McCulloch,102,President,,REP,Donald J. Trump JD Vance,97,3,54,40
+McCulloch,102,President,,DEM,Kamala D. Harris Tim Walz,11,0,5,6
+McCulloch,102,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+McCulloch,102,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+McCulloch,102,President,,,Under Votes,0,0,0,0
+McCulloch,102,President,,,Over Votes,0,0,0,0
+McCulloch,102,U.S. Senate,,REP,Ted Cruz,94,3,54,37
+McCulloch,102,U.S. Senate,,DEM,Colin Allred,12,0,4,8
+McCulloch,102,U.S. Senate,,LIB,Ted Brown,3,0,0,3
+McCulloch,102,U.S. Senate,,,Under Votes,1,0,1,0
+McCulloch,102,U.S. Senate,,,Over Votes,0,0,0,0
+McCulloch,102,U.S. House,11,REP,August Pfluger,99,3,54,42
+McCulloch,102,U.S. House,11,,Under Votes,11,0,5,6
+McCulloch,102,U.S. House,11,,Over Votes,0,0,0,0
+McCulloch,102,Railroad Commissioner,,REP,Christi Craddick,92,3,50,39
+McCulloch,102,Railroad Commissioner,,DEM,Katherine Culbert,14,0,5,9
+McCulloch,102,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,2,0
+McCulloch,102,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+McCulloch,102,Railroad Commissioner,,,Under Votes,1,0,1,0
+McCulloch,102,Railroad Commissioner,,,Over Votes,0,0,0,0
+McCulloch,102,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,96,3,53,40
+McCulloch,102,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,14,0,6,8
+McCulloch,102,"Justice, Supreme Court, Place 2",2,,Under Votes,0,0,0,0
+McCulloch,102,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+McCulloch,102,"Justice, Supreme Court, Place 4",4,REP,John Devine,95,3,54,38
+McCulloch,102,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,14,0,5,9
+McCulloch,102,"Justice, Supreme Court, Place 4",4,,Under Votes,1,0,0,1
+McCulloch,102,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+McCulloch,102,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,95,3,53,39
+McCulloch,102,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,11,0,5,6
+McCulloch,102,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,0,2
+McCulloch,102,"Justice, Supreme Court, Place 6",6,,Under Votes,2,0,1,1
+McCulloch,102,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+McCulloch,102,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,94,3,53,38
+McCulloch,102,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,15,0,6,9
+McCulloch,102,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,0,0,1
+McCulloch,102,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+McCulloch,102,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,94,3,53,38
+McCulloch,102,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,13,0,6,7
+McCulloch,102,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,3,0,0,3
+McCulloch,102,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+McCulloch,102,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,95,3,54,38
+McCulloch,102,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,13,0,5,8
+McCulloch,102,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,2,0,0,2
+McCulloch,102,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+McCulloch,102,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,95,3,53,39
+McCulloch,102,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,14,0,6,8
+McCulloch,102,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,1,0,0,1
+McCulloch,102,"Member, State Board of Education, District 15",15,,Under Votes,0,0,0,0
+McCulloch,102,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+McCulloch,102,State Representative,53,REP,Wes Virdell,94,3,53,38
+McCulloch,102,State Representative,53,DEM,Joe P. Herrera,14,0,5,9
+McCulloch,102,State Representative,53,LIB,B. W. Holk,1,0,1,0
+McCulloch,102,State Representative,53,,Under Votes,1,0,0,1
+McCulloch,102,State Representative,53,,Over Votes,0,0,0,0
+McCulloch,102,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,94,3,53,38
+McCulloch,102,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,14,0,5,9
+McCulloch,102,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,2,0,1,1
+McCulloch,102,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+McCulloch,102,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,45,1,22,22
+McCulloch,102,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,65,2,37,26
+McCulloch,102,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+McCulloch,102,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,40,1,20,19
+McCulloch,102,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,70,2,39,29
+McCulloch,102,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+McCulloch,102,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,41,1,20,20
+McCulloch,102,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,69,2,39,28
+McCulloch,102,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+McCulloch,102,County Attorney,,REP,Greg Torres,96,3,55,38
+McCulloch,102,County Attorney,,,Under Votes,14,0,4,10
+McCulloch,102,County Attorney,,,Over Votes,0,0,0,0
+McCulloch,102,"District Clerk, Unexpired Term",,REP,Charla Pitcox,96,3,55,38
+McCulloch,102,"District Clerk, Unexpired Term",,,Under Votes,14,0,4,10
+McCulloch,102,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+McCulloch,102,Sheriff,,REP,Matt Andrews,96,3,53,40
+McCulloch,102,Sheriff,,,Under Votes,14,0,6,8
+McCulloch,102,Sheriff,,,Over Votes,0,0,0,0
+McCulloch,102,County Tax Assessor-Collector,,REP,Sylvia Campos,94,3,54,37
+McCulloch,102,County Tax Assessor-Collector,,,Under Votes,16,0,5,11
+McCulloch,102,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,102,"County Commissioner, Precinct 1",,REP,Carol Anderson,68,3,40,25
+McCulloch,102,"County Commissioner, Precinct 1",,,Under Votes,14,0,9,5
+McCulloch,102,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+McCulloch,201,Registered Voters,,,,961,,,
+McCulloch,201,Ballots Cast,,,,479,,,
+McCulloch,201,President,,REP,Donald J. Trump JD Vance,361,5,275,81
+McCulloch,201,President,,DEM,Kamala D. Harris Tim Walz,109,7,68,34
+McCulloch,201,President,,LIB,Chase Oliver Mike ter Maat,4,0,1,3
+McCulloch,201,President,,GRN,Jill Stein Rudolph Ware,3,0,3,0
+McCulloch,201,President,,,Under Votes,2,0,1,1
+McCulloch,201,President,,,Over Votes,0,0,0,0
+McCulloch,201,U.S. Senate,,REP,Ted Cruz,347,5,268,74
+McCulloch,201,U.S. Senate,,DEM,Colin Allred,118,7,73,38
+McCulloch,201,U.S. Senate,,LIB,Ted Brown,7,0,4,3
+McCulloch,201,U.S. Senate,,,Under Votes,7,0,3,4
+McCulloch,201,U.S. Senate,,,Over Votes,0,0,0,0
+McCulloch,201,U.S. House,11,REP,August Pfluger,387,7,287,93
+McCulloch,201,U.S. House,11,,Under Votes,92,5,61,26
+McCulloch,201,U.S. House,11,,Over Votes,0,0,0,0
+McCulloch,201,Railroad Commissioner,,REP,Christi Craddick,344,5,265,74
+McCulloch,201,Railroad Commissioner,,DEM,Katherine Culbert,94,7,57,30
+McCulloch,201,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,5,1
+McCulloch,201,Railroad Commissioner,,GRN,Eddie Espinoza,14,0,9,5
+McCulloch,201,Railroad Commissioner,,,Under Votes,21,0,12,9
+McCulloch,201,Railroad Commissioner,,,Over Votes,0,0,0,0
+McCulloch,201,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,353,5,273,75
+McCulloch,201,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,107,7,63,37
+McCulloch,201,"Justice, Supreme Court, Place 2",2,,Under Votes,19,0,12,7
+McCulloch,201,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+McCulloch,201,"Justice, Supreme Court, Place 4",4,REP,John Devine,354,5,271,78
+McCulloch,201,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,105,7,63,35
+McCulloch,201,"Justice, Supreme Court, Place 4",4,,Under Votes,20,0,14,6
+McCulloch,201,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+McCulloch,201,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,348,5,267,76
+McCulloch,201,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,102,7,64,31
+McCulloch,201,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,9,0,2,7
+McCulloch,201,"Justice, Supreme Court, Place 6",6,,Under Votes,20,0,15,5
+McCulloch,201,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+McCulloch,201,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,354,5,272,77
+McCulloch,201,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,107,7,65,35
+McCulloch,201,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,18,0,11,7
+McCulloch,201,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+McCulloch,201,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,357,5,273,79
+McCulloch,201,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,106,7,64,35
+McCulloch,201,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,16,0,11,5
+McCulloch,201,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+McCulloch,201,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,358,5,273,80
+McCulloch,201,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,102,7,61,34
+McCulloch,201,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,19,0,14,5
+McCulloch,201,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+McCulloch,201,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,350,5,269,76
+McCulloch,201,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,101,7,64,30
+McCulloch,201,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,7,0,2,5
+McCulloch,201,"Member, State Board of Education, District 15",15,,Under Votes,20,0,12,8
+McCulloch,201,"Member, State Board of Education, District 15",15,,Over Votes,1,0,1,0
+McCulloch,201,State Representative,53,REP,Wes Virdell,360,6,275,79
+McCulloch,201,State Representative,53,DEM,Joe P. Herrera,98,6,61,31
+McCulloch,201,State Representative,53,LIB,B. W. Holk,3,0,0,3
+McCulloch,201,State Representative,53,,Under Votes,18,0,12,6
+McCulloch,201,State Representative,53,,Over Votes,0,0,0,0
+McCulloch,201,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,349,5,268,76
+McCulloch,201,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,108,7,64,37
+McCulloch,201,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,22,0,16,6
+McCulloch,201,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+McCulloch,201,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,219,7,149,63
+McCulloch,201,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,260,5,199,56
+McCulloch,201,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+McCulloch,201,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,211,7,141,63
+McCulloch,201,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,268,5,207,56
+McCulloch,201,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+McCulloch,201,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,206,7,138,61
+McCulloch,201,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,273,5,210,58
+McCulloch,201,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+McCulloch,201,County Attorney,,REP,Greg Torres,400,7,293,100
+McCulloch,201,County Attorney,,,Under Votes,79,5,55,19
+McCulloch,201,County Attorney,,,Over Votes,0,0,0,0
+McCulloch,201,"District Clerk, Unexpired Term",,REP,Charla Pitcox,395,8,292,95
+McCulloch,201,"District Clerk, Unexpired Term",,,Under Votes,84,4,56,24
+McCulloch,201,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+McCulloch,201,Sheriff,,REP,Matt Andrews,389,8,285,96
+McCulloch,201,Sheriff,,,Under Votes,90,4,63,23
+McCulloch,201,Sheriff,,,Over Votes,0,0,0,0
+McCulloch,201,County Tax Assessor-Collector,,REP,Sylvia Campos,395,9,292,94
+McCulloch,201,County Tax Assessor-Collector,,,Under Votes,84,3,56,25
+McCulloch,201,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,202,Registered Voters,,,,146,,,
+McCulloch,202,Ballots Cast,,,,125,,,
+McCulloch,202,President,,REP,Donald J. Trump JD Vance,106,1,67,38
+McCulloch,202,President,,DEM,Kamala D. Harris Tim Walz,17,3,11,3
+McCulloch,202,President,,LIB,Chase Oliver Mike ter Maat,1,1,0,0
+McCulloch,202,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+McCulloch,202,President,,,Under Votes,0,0,0,0
+McCulloch,202,President,,,Over Votes,0,0,0,0
+McCulloch,202,U.S. Senate,,REP,Ted Cruz,103,1,66,36
+McCulloch,202,U.S. Senate,,DEM,Colin Allred,19,3,12,4
+McCulloch,202,U.S. Senate,,LIB,Ted Brown,3,1,0,2
+McCulloch,202,U.S. Senate,,,Under Votes,0,0,0,0
+McCulloch,202,U.S. Senate,,,Over Votes,0,0,0,0
+McCulloch,202,U.S. House,11,REP,August Pfluger,108,1,69,38
+McCulloch,202,U.S. House,11,,Under Votes,17,4,9,4
+McCulloch,202,U.S. House,11,,Over Votes,0,0,0,0
+McCulloch,202,Railroad Commissioner,,REP,Christi Craddick,104,0,68,36
+McCulloch,202,Railroad Commissioner,,DEM,Katherine Culbert,14,3,8,3
+McCulloch,202,Railroad Commissioner,,LIB,Hawk Dunlap,4,1,1,2
+McCulloch,202,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+McCulloch,202,Railroad Commissioner,,,Under Votes,3,1,1,1
+McCulloch,202,Railroad Commissioner,,,Over Votes,0,0,0,0
+McCulloch,202,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,108,1,68,39
+McCulloch,202,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,16,3,10,3
+McCulloch,202,"Justice, Supreme Court, Place 2",2,,Under Votes,1,1,0,0
+McCulloch,202,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+McCulloch,202,"Justice, Supreme Court, Place 4",4,REP,John Devine,105,1,67,37
+McCulloch,202,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,17,3,10,4
+McCulloch,202,"Justice, Supreme Court, Place 4",4,,Under Votes,3,1,1,1
+McCulloch,202,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+McCulloch,202,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,103,0,66,37
+McCulloch,202,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,17,3,10,4
+McCulloch,202,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,3,1,1,1
+McCulloch,202,"Justice, Supreme Court, Place 6",6,,Under Votes,2,1,1,0
+McCulloch,202,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+McCulloch,202,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,106,1,68,37
+McCulloch,202,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,16,3,9,4
+McCulloch,202,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,3,1,1,1
+McCulloch,202,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+McCulloch,202,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,103,1,67,35
+McCulloch,202,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,18,3,10,5
+McCulloch,202,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,4,1,1,2
+McCulloch,202,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+McCulloch,202,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,104,1,68,35
+McCulloch,202,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,16,3,9,4
+McCulloch,202,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,5,1,1,3
+McCulloch,202,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+McCulloch,202,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,97,0,66,31
+McCulloch,202,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,15,3,9,3
+McCulloch,202,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,4,1,0,3
+McCulloch,202,"Member, State Board of Education, District 15",15,,Under Votes,9,1,3,5
+McCulloch,202,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+McCulloch,202,State Representative,53,REP,Wes Virdell,104,1,66,37
+McCulloch,202,State Representative,53,DEM,Joe P. Herrera,15,3,9,3
+McCulloch,202,State Representative,53,LIB,B. W. Holk,4,1,1,2
+McCulloch,202,State Representative,53,,Under Votes,2,0,2,0
+McCulloch,202,State Representative,53,,Over Votes,0,0,0,0
+McCulloch,202,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,102,1,66,35
+McCulloch,202,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,17,3,10,4
+McCulloch,202,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,6,1,2,3
+McCulloch,202,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+McCulloch,202,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,37,3,22,12
+McCulloch,202,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,88,2,56,30
+McCulloch,202,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+McCulloch,202,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,36,3,21,12
+McCulloch,202,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,89,2,57,30
+McCulloch,202,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+McCulloch,202,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,34,3,19,12
+McCulloch,202,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,91,2,59,30
+McCulloch,202,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+McCulloch,202,County Attorney,,REP,Greg Torres,106,2,70,34
+McCulloch,202,County Attorney,,,Under Votes,19,3,8,8
+McCulloch,202,County Attorney,,,Over Votes,0,0,0,0
+McCulloch,202,"District Clerk, Unexpired Term",,REP,Charla Pitcox,108,4,73,31
+McCulloch,202,"District Clerk, Unexpired Term",,,Under Votes,17,1,5,11
+McCulloch,202,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+McCulloch,202,Sheriff,,REP,Matt Andrews,105,4,68,33
+McCulloch,202,Sheriff,,,Under Votes,20,1,10,9
+McCulloch,202,Sheriff,,,Over Votes,0,0,0,0
+McCulloch,202,County Tax Assessor-Collector,,REP,Sylvia Campos,110,4,73,33
+McCulloch,202,County Tax Assessor-Collector,,,Under Votes,15,1,5,9
+McCulloch,202,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,301,Registered Voters,,,,1178,,,
+McCulloch,301,Ballots Cast,,,,736,,,
+McCulloch,301,President,,REP,Donald J. Trump JD Vance,618,17,495,106
+McCulloch,301,President,,DEM,Kamala D. Harris Tim Walz,109,5,87,17
+McCulloch,301,President,,LIB,Chase Oliver Mike ter Maat,2,0,2,0
+McCulloch,301,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+McCulloch,301,President,,,Under Votes,2,0,2,0
+McCulloch,301,President,,,Over Votes,5,1,4,0
+McCulloch,301,U.S. Senate,,REP,Ted Cruz,609,17,492,100
+McCulloch,301,U.S. Senate,,DEM,Colin Allred,110,6,89,15
+McCulloch,301,U.S. Senate,,LIB,Ted Brown,10,0,4,6
+McCulloch,301,U.S. Senate,,,Under Votes,6,0,4,2
+McCulloch,301,U.S. Senate,,,Over Votes,1,0,1,0
+McCulloch,301,U.S. House,11,REP,August Pfluger,648,18,519,111
+McCulloch,301,U.S. House,11,,Under Votes,88,5,71,12
+McCulloch,301,U.S. House,11,,Over Votes,0,0,0,0
+McCulloch,301,Railroad Commissioner,,REP,Christi Craddick,593,15,485,93
+McCulloch,301,Railroad Commissioner,,DEM,Katherine Culbert,96,6,74,16
+McCulloch,301,Railroad Commissioner,,LIB,Hawk Dunlap,20,0,12,8
+McCulloch,301,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,2,1
+McCulloch,301,Railroad Commissioner,,,Under Votes,22,2,15,5
+McCulloch,301,Railroad Commissioner,,,Over Votes,2,0,2,0
+McCulloch,301,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,619,16,497,106
+McCulloch,301,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,97,6,78,13
+McCulloch,301,"Justice, Supreme Court, Place 2",2,,Under Votes,19,1,14,4
+McCulloch,301,"Justice, Supreme Court, Place 2",2,,Over Votes,1,0,1,0
+McCulloch,301,"Justice, Supreme Court, Place 4",4,REP,John Devine,611,16,493,102
+McCulloch,301,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,103,6,80,17
+McCulloch,301,"Justice, Supreme Court, Place 4",4,,Under Votes,22,1,17,4
+McCulloch,301,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+McCulloch,301,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,606,16,493,97
+McCulloch,301,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,97,6,75,16
+McCulloch,301,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,14,0,7,7
+McCulloch,301,"Justice, Supreme Court, Place 6",6,,Under Votes,19,1,15,3
+McCulloch,301,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+McCulloch,301,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,611,16,492,103
+McCulloch,301,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,102,6,81,15
+McCulloch,301,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,23,1,17,5
+McCulloch,301,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+McCulloch,301,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,614,16,494,104
+McCulloch,301,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,99,6,78,15
+McCulloch,301,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,23,1,18,4
+McCulloch,301,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+McCulloch,301,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,620,16,498,106
+McCulloch,301,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,92,5,74,13
+McCulloch,301,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,23,1,18,4
+McCulloch,301,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,1,0,0
+McCulloch,301,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,586,15,479,92
+McCulloch,301,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,108,6,84,18
+McCulloch,301,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,19,0,11,8
+McCulloch,301,"Member, State Board of Education, District 15",15,,Under Votes,23,2,16,5
+McCulloch,301,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+McCulloch,301,State Representative,53,REP,Wes Virdell,610,15,494,101
+McCulloch,301,State Representative,53,DEM,Joe P. Herrera,100,6,78,16
+McCulloch,301,State Representative,53,LIB,B. W. Holk,10,0,7,3
+McCulloch,301,State Representative,53,,Under Votes,16,2,11,3
+McCulloch,301,State Representative,53,,Over Votes,0,0,0,0
+McCulloch,301,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,605,15,491,99
+McCulloch,301,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,102,6,77,19
+McCulloch,301,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,29,2,22,5
+McCulloch,301,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+McCulloch,301,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,291,12,226,53
+McCulloch,301,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,445,11,364,70
+McCulloch,301,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+McCulloch,301,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,272,12,209,51
+McCulloch,301,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,464,11,381,72
+McCulloch,301,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+McCulloch,301,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,270,11,211,48
+McCulloch,301,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,466,12,379,75
+McCulloch,301,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+McCulloch,301,County Attorney,,REP,Greg Torres,666,18,536,112
+McCulloch,301,County Attorney,,,Under Votes,70,5,54,11
+McCulloch,301,County Attorney,,,Over Votes,0,0,0,0
+McCulloch,301,"District Clerk, Unexpired Term",,REP,Charla Pitcox,660,18,531,111
+McCulloch,301,"District Clerk, Unexpired Term",,,Under Votes,76,5,59,12
+McCulloch,301,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+McCulloch,301,Sheriff,,REP,Matt Andrews,654,15,526,113
+McCulloch,301,Sheriff,,,Under Votes,82,8,64,10
+McCulloch,301,Sheriff,,,Over Votes,0,0,0,0
+McCulloch,301,County Tax Assessor-Collector,,REP,Sylvia Campos,664,20,534,110
+McCulloch,301,County Tax Assessor-Collector,,,Under Votes,72,3,56,13
+McCulloch,301,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,301,"County Commissioner, Precinct 3",,REP,Rod Young,666,18,533,115
+McCulloch,301,"County Commissioner, Precinct 3",,,Under Votes,70,5,57,8
+McCulloch,301,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+McCulloch,301,"County Commissioner, Precinct 3",,,Under Votes,25,1,22,2
+McCulloch,301,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+McCulloch,301,"County Commissioner, Precinct 3",,,Under Votes,23,1,19,3
+McCulloch,301,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+McCulloch,301,"County Commissioner, Precinct 3",,,Under Votes,29,1,25,3
+McCulloch,301,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+McCulloch,301,"County Commissioner, Precinct 3",,,Under Votes,8,0,8,0
+McCulloch,301,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+McCulloch,302,Registered Voters,,,,257,,,
+McCulloch,302,Ballots Cast,,,,221,,,
+McCulloch,302,President,,REP,Donald J. Trump JD Vance,202,1,117,84
+McCulloch,302,President,,DEM,Kamala D. Harris Tim Walz,16,3,2,11
+McCulloch,302,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+McCulloch,302,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+McCulloch,302,President,,,Under Votes,2,0,0,2
+McCulloch,302,President,,,Over Votes,0,0,0,0
+McCulloch,302,U.S. Senate,,REP,Ted Cruz,198,1,113,84
+McCulloch,302,U.S. Senate,,DEM,Colin Allred,19,3,4,12
+McCulloch,302,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+McCulloch,302,U.S. Senate,,,Under Votes,3,0,2,1
+McCulloch,302,U.S. Senate,,,Over Votes,0,0,0,0
+McCulloch,302,U.S. House,11,REP,August Pfluger,204,1,112,91
+McCulloch,302,U.S. House,11,,Under Votes,17,3,7,7
+McCulloch,302,U.S. House,11,,Over Votes,0,0,0,0
+McCulloch,302,Railroad Commissioner,,REP,Christi Craddick,189,1,106,82
+McCulloch,302,Railroad Commissioner,,DEM,Katherine Culbert,10,2,1,7
+McCulloch,302,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,4,3
+McCulloch,302,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,2,2
+McCulloch,302,Railroad Commissioner,,,Under Votes,11,1,6,4
+McCulloch,302,Railroad Commissioner,,,Over Votes,0,0,0,0
+McCulloch,302,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,200,1,113,86
+McCulloch,302,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,14,3,2,9
+McCulloch,302,"Justice, Supreme Court, Place 2",2,,Under Votes,7,0,4,3
+McCulloch,302,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+McCulloch,302,"Justice, Supreme Court, Place 4",4,REP,John Devine,201,1,113,87
+McCulloch,302,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,12,3,2,7
+McCulloch,302,"Justice, Supreme Court, Place 4",4,,Under Votes,8,0,4,4
+McCulloch,302,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+McCulloch,302,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,196,1,112,83
+McCulloch,302,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,14,2,2,10
+McCulloch,302,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+McCulloch,302,"Justice, Supreme Court, Place 6",6,,Under Votes,11,1,5,5
+McCulloch,302,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+McCulloch,302,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,201,1,113,87
+McCulloch,302,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,11,2,2,7
+McCulloch,302,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,1,4,4
+McCulloch,302,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+McCulloch,302,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,199,1,114,84
+McCulloch,302,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,14,2,2,10
+McCulloch,302,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,8,1,3,4
+McCulloch,302,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+McCulloch,302,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,203,1,114,88
+McCulloch,302,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,11,2,2,7
+McCulloch,302,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,7,1,3,3
+McCulloch,302,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+McCulloch,302,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,195,1,112,82
+McCulloch,302,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,16,3,2,11
+McCulloch,302,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,2,0,1,1
+McCulloch,302,"Member, State Board of Education, District 15",15,,Under Votes,8,0,4,4
+McCulloch,302,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+McCulloch,302,State Representative,53,REP,Wes Virdell,201,1,113,87
+McCulloch,302,State Representative,53,DEM,Joe P. Herrera,16,3,3,10
+McCulloch,302,State Representative,53,LIB,B. W. Holk,1,0,1,0
+McCulloch,302,State Representative,53,,Under Votes,3,0,2,1
+McCulloch,302,State Representative,53,,Over Votes,0,0,0,0
+McCulloch,302,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,199,1,113,85
+McCulloch,302,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,14,2,2,10
+McCulloch,302,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,8,1,4,3
+McCulloch,302,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+McCulloch,302,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,67,3,26,38
+McCulloch,302,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,154,1,93,60
+McCulloch,302,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+McCulloch,302,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,59,3,23,33
+McCulloch,302,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,162,1,96,65
+McCulloch,302,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+McCulloch,302,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,59,3,26,30
+McCulloch,302,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,162,1,93,68
+McCulloch,302,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+McCulloch,302,County Attorney,,REP,Greg Torres,204,1,113,90
+McCulloch,302,County Attorney,,,Under Votes,17,3,6,8
+McCulloch,302,County Attorney,,,Over Votes,0,0,0,0
+McCulloch,302,"District Clerk, Unexpired Term",,REP,Charla Pitcox,206,2,111,93
+McCulloch,302,"District Clerk, Unexpired Term",,,Under Votes,15,2,8,5
+McCulloch,302,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+McCulloch,302,Sheriff,,REP,Matt Andrews,199,2,107,90
+McCulloch,302,Sheriff,,,Under Votes,22,2,12,8
+McCulloch,302,Sheriff,,,Over Votes,0,0,0,0
+McCulloch,302,County Tax Assessor-Collector,,REP,Sylvia Campos,202,1,110,91
+McCulloch,302,County Tax Assessor-Collector,,,Under Votes,19,3,9,7
+McCulloch,302,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,302,"County Commissioner, Precinct 3",,REP,Rod Young,202,1,110,91
+McCulloch,302,"County Commissioner, Precinct 3",,,Under Votes,19,3,9,7
+McCulloch,302,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+McCulloch,302,"County Commissioner, Precinct 3",,,Under Votes,4,0,4,0
+McCulloch,302,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+McCulloch,302,"County Commissioner, Precinct 3",,,Under Votes,5,0,5,0
+McCulloch,302,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+McCulloch,302,"County Commissioner, Precinct 3",,,Under Votes,5,0,5,0
+McCulloch,302,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+McCulloch,302,"County Commissioner, Precinct 3",,,Under Votes,2,0,2,0
+McCulloch,302,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+McCulloch,401,Registered Voters,,,,813,,,
+McCulloch,401,Ballots Cast,,,,478,,,
+McCulloch,401,President,,REP,Donald J. Trump JD Vance,430,11,309,110
+McCulloch,401,President,,DEM,Kamala D. Harris Tim Walz,44,6,26,12
+McCulloch,401,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+McCulloch,401,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+McCulloch,401,President,,,Under Votes,2,1,1,0
+McCulloch,401,President,,,Over Votes,0,0,0,0
+McCulloch,401,U.S. Senate,,REP,Ted Cruz,404,10,297,97
+McCulloch,401,U.S. Senate,,DEM,Colin Allred,56,6,32,18
+McCulloch,401,U.S. Senate,,LIB,Ted Brown,15,2,4,9
+McCulloch,401,U.S. Senate,,,Under Votes,3,0,3,0
+McCulloch,401,U.S. Senate,,,Over Votes,0,0,0,0
+McCulloch,401,U.S. House,11,REP,August Pfluger,427,13,306,108
+McCulloch,401,U.S. House,11,,Under Votes,51,5,30,16
+McCulloch,401,U.S. House,11,,Over Votes,0,0,0,0
+McCulloch,401,Railroad Commissioner,,REP,Christi Craddick,397,10,290,97
+McCulloch,401,Railroad Commissioner,,DEM,Katherine Culbert,42,6,26,10
+McCulloch,401,Railroad Commissioner,,LIB,Hawk Dunlap,12,2,4,6
+McCulloch,401,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,5,6
+McCulloch,401,Railroad Commissioner,,,Under Votes,16,0,11,5
+McCulloch,401,Railroad Commissioner,,,Over Votes,0,0,0,0
+McCulloch,401,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,415,12,299,104
+McCulloch,401,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,49,6,27,16
+McCulloch,401,"Justice, Supreme Court, Place 2",2,,Under Votes,14,0,10,4
+McCulloch,401,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+McCulloch,401,"Justice, Supreme Court, Place 4",4,REP,John Devine,413,12,297,104
+McCulloch,401,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,49,6,27,16
+McCulloch,401,"Justice, Supreme Court, Place 4",4,,Under Votes,16,0,12,4
+McCulloch,401,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+McCulloch,401,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,401,10,292,99
+McCulloch,401,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,43,6,25,12
+McCulloch,401,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,14,2,5,7
+McCulloch,401,"Justice, Supreme Court, Place 6",6,,Under Votes,20,0,14,6
+McCulloch,401,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+McCulloch,401,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,409,12,292,105
+McCulloch,401,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,52,6,32,14
+McCulloch,401,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,17,0,12,5
+McCulloch,401,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+McCulloch,401,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,405,10,293,102
+McCulloch,401,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,53,8,29,16
+McCulloch,401,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,20,0,14,6
+McCulloch,401,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+McCulloch,401,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,410,12,292,106
+McCulloch,401,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,45,6,27,12
+McCulloch,401,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,23,0,17,6
+McCulloch,401,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+McCulloch,401,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,403,11,291,101
+McCulloch,401,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,43,6,25,12
+McCulloch,401,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,14,1,6,7
+McCulloch,401,"Member, State Board of Education, District 15",15,,Under Votes,18,0,14,4
+McCulloch,401,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+McCulloch,401,State Representative,53,REP,Wes Virdell,409,10,295,104
+McCulloch,401,State Representative,53,DEM,Joe P. Herrera,50,6,30,14
+McCulloch,401,State Representative,53,LIB,B. W. Holk,9,2,4,3
+McCulloch,401,State Representative,53,,Under Votes,10,0,7,3
+McCulloch,401,State Representative,53,,Over Votes,0,0,0,0
+McCulloch,401,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,407,12,293,102
+McCulloch,401,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,51,6,30,15
+McCulloch,401,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,20,0,13,7
+McCulloch,401,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+McCulloch,401,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,156,8,103,45
+McCulloch,401,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,322,10,233,79
+McCulloch,401,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+McCulloch,401,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,141,8,92,41
+McCulloch,401,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,337,10,244,83
+McCulloch,401,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+McCulloch,401,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,147,8,97,42
+McCulloch,401,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,331,10,239,82
+McCulloch,401,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+McCulloch,401,County Attorney,,REP,Greg Torres,428,14,308,106
+McCulloch,401,County Attorney,,,Under Votes,50,4,28,18
+McCulloch,401,County Attorney,,,Over Votes,0,0,0,0
+McCulloch,401,"District Clerk, Unexpired Term",,REP,Charla Pitcox,427,13,307,107
+McCulloch,401,"District Clerk, Unexpired Term",,,Under Votes,51,5,29,17
+McCulloch,401,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+McCulloch,401,Sheriff,,REP,Matt Andrews,420,11,303,106
+McCulloch,401,Sheriff,,,Under Votes,58,7,33,18
+McCulloch,401,Sheriff,,,Over Votes,0,0,0,0
+McCulloch,401,County Tax Assessor-Collector,,REP,Sylvia Campos,425,14,305,106
+McCulloch,401,County Tax Assessor-Collector,,,Under Votes,53,4,31,18
+McCulloch,401,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,401,County Tax Assessor-Collector,,,Under Votes,10,2,5,3
+McCulloch,401,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,401,County Tax Assessor-Collector,,,Under Votes,9,2,5,2
+McCulloch,401,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,401,County Tax Assessor-Collector,,,Under Votes,16,2,10,4
+McCulloch,401,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,401,County Tax Assessor-Collector,,,Under Votes,2,0,1,1
+McCulloch,401,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,402,Registered Voters,,,,360,,,
+McCulloch,402,Ballots Cast,,,,278,,,
+McCulloch,402,President,,REP,Donald J. Trump JD Vance,254,7,160,87
+McCulloch,402,President,,DEM,Kamala D. Harris Tim Walz,23,0,20,3
+McCulloch,402,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+McCulloch,402,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+McCulloch,402,President,,,Under Votes,1,0,1,0
+McCulloch,402,President,,,Over Votes,0,0,0,0
+McCulloch,402,U.S. Senate,,REP,Ted Cruz,239,7,153,79
+McCulloch,402,U.S. Senate,,DEM,Colin Allred,30,0,24,6
+McCulloch,402,U.S. Senate,,LIB,Ted Brown,6,0,3,3
+McCulloch,402,U.S. Senate,,,Under Votes,3,0,1,2
+McCulloch,402,U.S. Senate,,,Over Votes,0,0,0,0
+McCulloch,402,U.S. House,11,REP,August Pfluger,245,5,161,79
+McCulloch,402,U.S. House,11,,Under Votes,33,2,20,11
+McCulloch,402,U.S. House,11,,Over Votes,0,0,0,0
+McCulloch,402,Railroad Commissioner,,REP,Christi Craddick,231,4,156,71
+McCulloch,402,Railroad Commissioner,,DEM,Katherine Culbert,23,0,17,6
+McCulloch,402,Railroad Commissioner,,LIB,Hawk Dunlap,9,0,5,4
+McCulloch,402,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+McCulloch,402,Railroad Commissioner,,,Under Votes,14,3,3,8
+McCulloch,402,Railroad Commissioner,,,Over Votes,0,0,0,0
+McCulloch,402,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,236,4,158,74
+McCulloch,402,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,27,0,21,6
+McCulloch,402,"Justice, Supreme Court, Place 2",2,,Under Votes,15,3,2,10
+McCulloch,402,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+McCulloch,402,"Justice, Supreme Court, Place 4",4,REP,John Devine,236,4,157,75
+McCulloch,402,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,26,0,21,5
+McCulloch,402,"Justice, Supreme Court, Place 4",4,,Under Votes,16,3,3,10
+McCulloch,402,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+McCulloch,402,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,230,4,153,73
+McCulloch,402,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,27,0,22,5
+McCulloch,402,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,4,0,2,2
+McCulloch,402,"Justice, Supreme Court, Place 6",6,,Under Votes,17,3,4,10
+McCulloch,402,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+McCulloch,402,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,236,4,158,74
+McCulloch,402,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,27,0,21,6
+McCulloch,402,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,15,3,2,10
+McCulloch,402,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+McCulloch,402,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,237,4,158,75
+McCulloch,402,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,23,0,19,4
+McCulloch,402,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,18,3,4,11
+McCulloch,402,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+McCulloch,402,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,236,4,157,75
+McCulloch,402,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,23,0,19,4
+McCulloch,402,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,19,3,5,11
+McCulloch,402,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+McCulloch,402,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,230,4,152,74
+McCulloch,402,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,26,0,22,4
+McCulloch,402,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,7,0,5,2
+McCulloch,402,"Member, State Board of Education, District 15",15,,Under Votes,15,3,2,10
+McCulloch,402,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+McCulloch,402,State Representative,53,REP,Wes Virdell,249,7,159,83
+McCulloch,402,State Representative,53,DEM,Joe P. Herrera,23,0,19,4
+McCulloch,402,State Representative,53,LIB,B. W. Holk,3,0,3,0
+McCulloch,402,State Representative,53,,Under Votes,3,0,0,3
+McCulloch,402,State Representative,53,,Over Votes,0,0,0,0
+McCulloch,402,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,235,4,158,73
+McCulloch,402,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,26,0,20,6
+McCulloch,402,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,16,3,2,11
+McCulloch,402,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,1,0,1,0
+McCulloch,402,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,81,2,51,28
+McCulloch,402,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,197,5,130,62
+McCulloch,402,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+McCulloch,402,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,73,3,45,25
+McCulloch,402,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,205,4,136,65
+McCulloch,402,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+McCulloch,402,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,68,2,42,24
+McCulloch,402,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,210,5,139,66
+McCulloch,402,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+McCulloch,402,County Attorney,,REP,Greg Torres,246,4,163,79
+McCulloch,402,County Attorney,,,Under Votes,32,3,18,11
+McCulloch,402,County Attorney,,,Over Votes,0,0,0,0
+McCulloch,402,"District Clerk, Unexpired Term",,REP,Charla Pitcox,239,4,160,75
+McCulloch,402,"District Clerk, Unexpired Term",,,Under Votes,39,3,21,15
+McCulloch,402,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+McCulloch,402,Sheriff,,REP,Matt Andrews,223,4,148,71
+McCulloch,402,Sheriff,,,Under Votes,55,3,33,19
+McCulloch,402,Sheriff,,,Over Votes,0,0,0,0
+McCulloch,402,County Tax Assessor-Collector,,REP,Sylvia Campos,245,5,163,77
+McCulloch,402,County Tax Assessor-Collector,,,Under Votes,33,2,18,13
+McCulloch,402,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,402,County Tax Assessor-Collector,,,Under Votes,70,3,43,24
+McCulloch,402,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,402,County Tax Assessor-Collector,,,Under Votes,59,2,39,18
+McCulloch,402,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,402,County Tax Assessor-Collector,,,Under Votes,98,3,61,34
+McCulloch,402,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,402,County Tax Assessor-Collector,,,Under Votes,19,1,8,10
+McCulloch,402,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,403,Registered Voters,,,,154,,,
+McCulloch,403,Ballots Cast,,,,119,,,
+McCulloch,403,President,,REP,Donald J. Trump JD Vance,103,2,53,48
+McCulloch,403,President,,DEM,Kamala D. Harris Tim Walz,14,0,5,9
+McCulloch,403,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+McCulloch,403,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+McCulloch,403,President,,,Under Votes,1,0,1,0
+McCulloch,403,President,,,Over Votes,0,0,0,0
+McCulloch,403,U.S. Senate,,REP,Ted Cruz,99,2,52,45
+McCulloch,403,U.S. Senate,,DEM,Colin Allred,16,0,6,10
+McCulloch,403,U.S. Senate,,LIB,Ted Brown,4,0,1,3
+McCulloch,403,U.S. Senate,,,Under Votes,0,0,0,0
+McCulloch,403,U.S. Senate,,,Over Votes,0,0,0,0
+McCulloch,403,U.S. House,11,REP,August Pfluger,102,2,52,48
+McCulloch,403,U.S. House,11,,Under Votes,17,0,7,10
+McCulloch,403,U.S. House,11,,Over Votes,0,0,0,0
+McCulloch,403,Railroad Commissioner,,REP,Christi Craddick,100,2,52,46
+McCulloch,403,Railroad Commissioner,,DEM,Katherine Culbert,10,0,4,6
+McCulloch,403,Railroad Commissioner,,LIB,Hawk Dunlap,4,0,0,4
+McCulloch,403,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+McCulloch,403,Railroad Commissioner,,,Under Votes,4,0,3,1
+McCulloch,403,Railroad Commissioner,,,Over Votes,0,0,0,0
+McCulloch,403,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,104,2,54,48
+McCulloch,403,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,12,0,4,8
+McCulloch,403,"Justice, Supreme Court, Place 2",2,,Under Votes,3,0,1,2
+McCulloch,403,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+McCulloch,403,"Justice, Supreme Court, Place 4",4,REP,John Devine,99,2,49,48
+McCulloch,403,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,16,0,8,8
+McCulloch,403,"Justice, Supreme Court, Place 4",4,,Under Votes,4,0,2,2
+McCulloch,403,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+McCulloch,403,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,103,2,54,47
+McCulloch,403,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,12,0,4,8
+McCulloch,403,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,0,2
+McCulloch,403,"Justice, Supreme Court, Place 6",6,,Under Votes,2,0,1,1
+McCulloch,403,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+McCulloch,403,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,98,2,52,44
+McCulloch,403,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,16,0,5,11
+McCulloch,403,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,5,0,2,3
+McCulloch,403,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+McCulloch,403,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,100,2,52,46
+McCulloch,403,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,14,0,5,9
+McCulloch,403,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,5,0,2,3
+McCulloch,403,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+McCulloch,403,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,102,2,53,47
+McCulloch,403,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,12,0,4,8
+McCulloch,403,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,5,0,2,3
+McCulloch,403,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+McCulloch,403,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,97,2,48,47
+McCulloch,403,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,16,0,9,7
+McCulloch,403,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,2,0,0,2
+McCulloch,403,"Member, State Board of Education, District 15",15,,Under Votes,4,0,2,2
+McCulloch,403,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+McCulloch,403,State Representative,53,REP,Wes Virdell,98,2,49,47
+McCulloch,403,State Representative,53,DEM,Joe P. Herrera,13,0,6,7
+McCulloch,403,State Representative,53,LIB,B. W. Holk,4,0,2,2
+McCulloch,403,State Representative,53,,Under Votes,4,0,2,2
+McCulloch,403,State Representative,53,,Over Votes,0,0,0,0
+McCulloch,403,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,101,2,52,47
+McCulloch,403,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,12,0,4,8
+McCulloch,403,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,6,0,3,3
+McCulloch,403,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+McCulloch,403,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,41,0,21,20
+McCulloch,403,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,78,2,38,38
+McCulloch,403,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+McCulloch,403,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,39,0,19,20
+McCulloch,403,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,80,2,40,38
+McCulloch,403,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+McCulloch,403,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,39,0,19,20
+McCulloch,403,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,80,2,40,38
+McCulloch,403,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+McCulloch,403,County Attorney,,REP,Greg Torres,101,2,49,50
+McCulloch,403,County Attorney,,,Under Votes,18,0,10,8
+McCulloch,403,County Attorney,,,Over Votes,0,0,0,0
+McCulloch,403,"District Clerk, Unexpired Term",,REP,Charla Pitcox,99,2,49,48
+McCulloch,403,"District Clerk, Unexpired Term",,,Under Votes,20,0,10,10
+McCulloch,403,"District Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+McCulloch,403,Sheriff,,REP,Matt Andrews,95,2,48,45
+McCulloch,403,Sheriff,,,Under Votes,24,0,11,13
+McCulloch,403,Sheriff,,,Over Votes,0,0,0,0
+McCulloch,403,County Tax Assessor-Collector,,REP,Sylvia Campos,98,2,49,47
+McCulloch,403,County Tax Assessor-Collector,,,Under Votes,21,0,10,11
+McCulloch,403,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,403,County Tax Assessor-Collector,,,Under Votes,29,0,16,13
+McCulloch,403,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,403,County Tax Assessor-Collector,,,Under Votes,30,0,16,14
+McCulloch,403,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,403,County Tax Assessor-Collector,,,Under Votes,38,0,20,18
+McCulloch,403,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+McCulloch,403,County Tax Assessor-Collector,,,Under Votes,10,0,6,4
+McCulloch,403,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
