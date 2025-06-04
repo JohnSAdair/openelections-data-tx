@@ -1,0 +1,2219 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Matagorda,1 - A,Registered Voters,,,,2594,,,
+Matagorda,1 - A,Ballots Cast,,,,1673,,,
+Matagorda,1 - A,President,,REP,Donald J. Trump JD Vance,1350,29,1114,207
+Matagorda,1 - A,President,,DEM,Kamala D. Harris Tim Walz,313,14,234,65
+Matagorda,1 - A,President,,LIB,Chase Oliver Mike ter Maat,5,0,3,2
+Matagorda,1 - A,President,,GRN,Jill Stein Rudolph Ware,3,0,2,1
+Matagorda,1 - A,President,,,Under Votes,1,0,1,0
+Matagorda,1 - A,President,,,Over Votes,0,0,0,0
+Matagorda,1 - A,U.S. Senate,,REP,Ted Cruz,1291,30,1074,187
+Matagorda,1 - A,U.S. Senate,,DEM,Colin Allred,341,12,251,78
+Matagorda,1 - A,U.S. Senate,,LIB,Ted Brown,22,0,17,5
+Matagorda,1 - A,U.S. Senate,,,Under Votes,19,1,13,5
+Matagorda,1 - A,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,1 - A,U.S. House,22,REP,Troy E. Nehls,1323,25,1098,200
+Matagorda,1 - A,U.S. House,22,DEM,Marquette Greene-Scott,301,10,227,64
+Matagorda,1 - A,U.S. House,22,,Under Votes,49,8,30,11
+Matagorda,1 - A,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,1 - A,Railroad Commissioner,,REP,Christi Craddick,1279,30,1063,186
+Matagorda,1 - A,Railroad Commissioner,,DEM,Katherine Culbert,271,12,198,61
+Matagorda,1 - A,Railroad Commissioner,,LIB,Hawk Dunlap,28,0,26,2
+Matagorda,1 - A,Railroad Commissioner,,GRN,Eddie Espinoza,34,0,20,14
+Matagorda,1 - A,Railroad Commissioner,,,Under Votes,61,1,48,12
+Matagorda,1 - A,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,1 - A,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1325,30,1094,201
+Matagorda,1 - A,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,286,12,215,59
+Matagorda,1 - A,"Justice, Supreme Court, Place 2",2,,Under Votes,62,1,46,15
+Matagorda,1 - A,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,1 - A,"Justice, Supreme Court, Place 4",4,REP,John Devine,1301,29,1082,190
+Matagorda,1 - A,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,302,12,221,69
+Matagorda,1 - A,"Justice, Supreme Court, Place 4",4,,Under Votes,70,2,52,16
+Matagorda,1 - A,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,1 - A,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1287,30,1069,188
+Matagorda,1 - A,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,280,12,205,63
+Matagorda,1 - A,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,39,0,29,10
+Matagorda,1 - A,"Justice, Supreme Court, Place 6",6,,Under Votes,67,1,52,14
+Matagorda,1 - A,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,1 - A,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1308,30,1082,196
+Matagorda,1 - A,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,293,12,216,65
+Matagorda,1 - A,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,72,1,57,14
+Matagorda,1 - A,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,1 - A,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1312,30,1086,196
+Matagorda,1 - A,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,286,12,208,66
+Matagorda,1 - A,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,75,1,61,13
+Matagorda,1 - A,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,1 - A,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1334,30,1102,202
+Matagorda,1 - A,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,264,11,196,57
+Matagorda,1 - A,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,75,2,57,16
+Matagorda,1 - A,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,1 - A,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,1302,24,1083,195
+Matagorda,1 - A,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,286,10,213,63
+Matagorda,1 - A,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,85,9,59,17
+Matagorda,1 - A,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,1 - A,State Representative,30,REP,AJ Louderback,1294,25,1077,192
+Matagorda,1 - A,State Representative,30,DEM,Stephanie R. Bassham,311,10,234,67
+Matagorda,1 - A,State Representative,30,,Under Votes,68,8,44,16
+Matagorda,1 - A,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,1 - A,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,1294,24,1074,196
+Matagorda,1 - A,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,287,10,214,63
+Matagorda,1 - A,"Chief Justice, 13th Court of Appeals District",,,Under Votes,92,9,67,16
+Matagorda,1 - A,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,1 - A,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,1282,24,1068,190
+Matagorda,1 - A,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,302,11,222,69
+Matagorda,1 - A,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,89,8,65,16
+Matagorda,1 - A,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,1 - A,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,1278,24,1057,197
+Matagorda,1 - A,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,296,11,223,62
+Matagorda,1 - A,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,99,8,75,16
+Matagorda,1 - A,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,1 - A,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,1310,24,1090,196
+Matagorda,1 - A,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,268,11,195,62
+Matagorda,1 - A,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,95,8,70,17
+Matagorda,1 - A,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,1 - A,"District Judge, 23rd Judicial District",23,REP,John Maher,1420,25,1159,236
+Matagorda,1 - A,"District Judge, 23rd Judicial District",23,,Under Votes,253,18,196,39
+Matagorda,1 - A,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,1 - A,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,1436,25,1172,239
+Matagorda,1 - A,"District Judge, 130th Judicial District",130,,Under Votes,237,18,183,36
+Matagorda,1 - A,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,1 - A,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,1044,25,833,186
+Matagorda,1 - A,"District Attorney, 23rd Judicial District",23,,Under Votes,629,18,522,89
+Matagorda,1 - A,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,1 - A,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",1402,24,1141,237
+Matagorda,1 - A,County Attorney,,,Under Votes,271,19,214,38
+Matagorda,1 - A,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,1 - A,Sheriff,,REP,Rick DeLeon,1291,25,1074,192
+Matagorda,1 - A,Sheriff,,DEM,Aaron C. Green,342,8,259,75
+Matagorda,1 - A,Sheriff,,,Under Votes,40,10,22,8
+Matagorda,1 - A,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,1 - A,County Tax Assessor-Collector,,REP,Becky Barrett Cook,1459,27,1188,244
+Matagorda,1 - A,County Tax Assessor-Collector,,,Under Votes,214,16,167,31
+Matagorda,1 - A,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,1 - A,"County Commissioner, Precinct 1",,REP,Bubba Cook,1439,24,1176,239
+Matagorda,1 - A,"County Commissioner, Precinct 1",,,Under Votes,234,19,179,36
+Matagorda,1 - A,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Matagorda,1 - A,"Constable, Precinct 1",,REP,Douglas Schoppe,1420,23,1159,238
+Matagorda,1 - A,"Constable, Precinct 1",,,Under Votes,253,20,196,37
+Matagorda,1 - A,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Matagorda,1 - B,Registered Voters,,,,3300,,,
+Matagorda,1 - B,Ballots Cast,,,,1903,,,
+Matagorda,1 - B,President,,REP,Donald J. Trump JD Vance,1372,53,1129,190
+Matagorda,1 - B,President,,DEM,Kamala D. Harris Tim Walz,511,36,396,79
+Matagorda,1 - B,President,,LIB,Chase Oliver Mike ter Maat,9,2,7,0
+Matagorda,1 - B,President,,GRN,Jill Stein Rudolph Ware,6,0,3,3
+Matagorda,1 - B,President,,,Under Votes,2,0,2,0
+Matagorda,1 - B,President,,,Over Votes,1,1,0,0
+Matagorda,1 - B,U.S. Senate,,REP,Ted Cruz,1303,51,1079,173
+Matagorda,1 - B,U.S. Senate,,DEM,Colin Allred,540,34,420,86
+Matagorda,1 - B,U.S. Senate,,LIB,Ted Brown,41,1,28,12
+Matagorda,1 - B,U.S. Senate,,,Under Votes,19,6,10,3
+Matagorda,1 - B,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,1 - B,U.S. House,22,REP,Troy E. Nehls,1351,47,1123,181
+Matagorda,1 - B,U.S. House,22,DEM,Marquette Greene-Scott,475,28,373,74
+Matagorda,1 - B,U.S. House,22,,Under Votes,77,17,41,19
+Matagorda,1 - B,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,1 - B,Railroad Commissioner,,REP,Christi Craddick,1300,53,1081,166
+Matagorda,1 - B,Railroad Commissioner,,DEM,Katherine Culbert,455,33,356,66
+Matagorda,1 - B,Railroad Commissioner,,LIB,Hawk Dunlap,53,1,40,12
+Matagorda,1 - B,Railroad Commissioner,,GRN,Eddie Espinoza,27,0,15,12
+Matagorda,1 - B,Railroad Commissioner,,,Under Votes,67,4,45,18
+Matagorda,1 - B,Railroad Commissioner,,,Over Votes,1,1,0,0
+Matagorda,1 - B,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1354,55,1116,183
+Matagorda,1 - B,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,480,33,375,72
+Matagorda,1 - B,"Justice, Supreme Court, Place 2",2,,Under Votes,69,4,46,19
+Matagorda,1 - B,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,1 - B,"Justice, Supreme Court, Place 4",4,REP,John Devine,1343,54,1112,177
+Matagorda,1 - B,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,487,32,378,77
+Matagorda,1 - B,"Justice, Supreme Court, Place 4",4,,Under Votes,73,6,47,20
+Matagorda,1 - B,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,1 - B,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1307,51,1083,173
+Matagorda,1 - B,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,460,32,360,68
+Matagorda,1 - B,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,54,4,38,12
+Matagorda,1 - B,"Justice, Supreme Court, Place 6",6,,Under Votes,82,5,56,21
+Matagorda,1 - B,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,1 - B,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1348,52,1114,182
+Matagorda,1 - B,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,478,35,372,71
+Matagorda,1 - B,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,77,5,51,21
+Matagorda,1 - B,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,1 - B,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1358,53,1121,184
+Matagorda,1 - B,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,475,34,373,68
+Matagorda,1 - B,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,70,5,43,22
+Matagorda,1 - B,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,1 - B,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1363,53,1127,183
+Matagorda,1 - B,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,453,32,354,67
+Matagorda,1 - B,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,87,7,56,24
+Matagorda,1 - B,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,1 - B,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,1344,46,1117,181
+Matagorda,1 - B,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,475,29,372,74
+Matagorda,1 - B,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,84,17,48,19
+Matagorda,1 - B,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,1 - B,State Representative,30,REP,AJ Louderback,1335,45,1111,179
+Matagorda,1 - B,State Representative,30,DEM,Stephanie R. Bassham,489,30,386,73
+Matagorda,1 - B,State Representative,30,,Under Votes,79,17,40,22
+Matagorda,1 - B,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,1 - B,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,1316,45,1090,181
+Matagorda,1 - B,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,476,30,377,69
+Matagorda,1 - B,"Chief Justice, 13th Court of Appeals District",,,Under Votes,111,17,70,24
+Matagorda,1 - B,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,1 - B,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,1315,43,1096,176
+Matagorda,1 - B,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,487,32,380,75
+Matagorda,1 - B,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,101,17,61,23
+Matagorda,1 - B,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,1 - B,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,1302,44,1085,173
+Matagorda,1 - B,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,491,30,384,77
+Matagorda,1 - B,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,110,18,68,24
+Matagorda,1 - B,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,1 - B,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,1334,45,1107,182
+Matagorda,1 - B,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,461,28,364,69
+Matagorda,1 - B,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,108,19,66,23
+Matagorda,1 - B,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,1 - B,"District Judge, 23rd Judicial District",23,REP,John Maher,1501,53,1240,208
+Matagorda,1 - B,"District Judge, 23rd Judicial District",23,,Under Votes,402,39,297,66
+Matagorda,1 - B,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,1 - B,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,1497,53,1237,207
+Matagorda,1 - B,"District Judge, 130th Judicial District",130,,Under Votes,406,39,300,67
+Matagorda,1 - B,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,1 - B,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,1264,62,1043,159
+Matagorda,1 - B,"District Attorney, 23rd Judicial District",23,,Under Votes,639,30,494,115
+Matagorda,1 - B,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,1 - B,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",1493,50,1234,209
+Matagorda,1 - B,County Attorney,,,Under Votes,410,42,303,65
+Matagorda,1 - B,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,1 - B,Sheriff,,REP,Rick DeLeon,1312,51,1088,173
+Matagorda,1 - B,Sheriff,,DEM,Aaron C. Green,532,26,423,83
+Matagorda,1 - B,Sheriff,,,Under Votes,59,15,26,18
+Matagorda,1 - B,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,1 - B,County Tax Assessor-Collector,,REP,Becky Barrett Cook,1539,56,1273,210
+Matagorda,1 - B,County Tax Assessor-Collector,,,Under Votes,364,36,264,64
+Matagorda,1 - B,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,1 - B,"Constable, Precinct 2",,REP,Keith Sullivan,1519,54,1256,209
+Matagorda,1 - B,"Constable, Precinct 2",,,Under Votes,384,38,281,65
+Matagorda,1 - B,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Matagorda,1 - C,Registered Voters,,,,976,,,
+Matagorda,1 - C,Ballots Cast,,,,509,,,
+Matagorda,1 - C,President,,REP,Donald J. Trump JD Vance,159,4,138,17
+Matagorda,1 - C,President,,DEM,Kamala D. Harris Tim Walz,336,27,253,56
+Matagorda,1 - C,President,,LIB,Chase Oliver Mike ter Maat,4,0,4,0
+Matagorda,1 - C,President,,GRN,Jill Stein Rudolph Ware,6,0,6,0
+Matagorda,1 - C,President,,,Under Votes,1,0,1,0
+Matagorda,1 - C,President,,,Over Votes,1,1,0,0
+Matagorda,1 - C,U.S. Senate,,REP,Ted Cruz,146,3,131,12
+Matagorda,1 - C,U.S. Senate,,DEM,Colin Allred,343,29,258,56
+Matagorda,1 - C,U.S. Senate,,LIB,Ted Brown,8,0,6,2
+Matagorda,1 - C,U.S. Senate,,,Under Votes,12,0,8,4
+Matagorda,1 - C,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,1 - C,U.S. House,22,REP,Troy E. Nehls,154,2,137,15
+Matagorda,1 - C,U.S. House,22,DEM,Marquette Greene-Scott,334,26,255,53
+Matagorda,1 - C,U.S. House,22,,Under Votes,21,4,11,6
+Matagorda,1 - C,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,1 - C,Railroad Commissioner,,REP,Christi Craddick,154,3,136,15
+Matagorda,1 - C,Railroad Commissioner,,DEM,Katherine Culbert,322,28,244,50
+Matagorda,1 - C,Railroad Commissioner,,LIB,Hawk Dunlap,7,1,6,0
+Matagorda,1 - C,Railroad Commissioner,,GRN,Eddie Espinoza,10,0,8,2
+Matagorda,1 - C,Railroad Commissioner,,,Under Votes,16,0,9,7
+Matagorda,1 - C,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,1 - C,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,160,3,141,16
+Matagorda,1 - C,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,335,29,255,51
+Matagorda,1 - C,"Justice, Supreme Court, Place 2",2,,Under Votes,14,0,7,7
+Matagorda,1 - C,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,1 - C,"Justice, Supreme Court, Place 4",4,REP,John Devine,157,4,138,15
+Matagorda,1 - C,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,337,28,256,53
+Matagorda,1 - C,"Justice, Supreme Court, Place 4",4,,Under Votes,15,0,9,6
+Matagorda,1 - C,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,1 - C,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,152,3,134,15
+Matagorda,1 - C,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,328,28,249,51
+Matagorda,1 - C,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,13,1,11,1
+Matagorda,1 - C,"Justice, Supreme Court, Place 6",6,,Under Votes,16,0,9,7
+Matagorda,1 - C,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,1 - C,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,157,3,139,15
+Matagorda,1 - C,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,334,29,253,52
+Matagorda,1 - C,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,18,0,11,7
+Matagorda,1 - C,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,1 - C,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,163,4,141,18
+Matagorda,1 - C,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,325,27,250,48
+Matagorda,1 - C,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,21,1,12,8
+Matagorda,1 - C,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,1 - C,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,161,4,140,17
+Matagorda,1 - C,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,329,28,251,50
+Matagorda,1 - C,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,19,0,12,7
+Matagorda,1 - C,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,1 - C,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,160,2,140,18
+Matagorda,1 - C,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,327,26,253,48
+Matagorda,1 - C,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,22,4,10,8
+Matagorda,1 - C,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,1 - C,State Representative,30,REP,AJ Louderback,154,2,136,16
+Matagorda,1 - C,State Representative,30,DEM,Stephanie R. Bassham,329,25,253,51
+Matagorda,1 - C,State Representative,30,,Under Votes,26,5,14,7
+Matagorda,1 - C,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,1 - C,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,159,2,141,16
+Matagorda,1 - C,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,328,25,251,52
+Matagorda,1 - C,"Chief Justice, 13th Court of Appeals District",,,Under Votes,22,5,11,6
+Matagorda,1 - C,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,1 - C,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,154,2,137,15
+Matagorda,1 - C,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,331,25,254,52
+Matagorda,1 - C,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,24,5,12,7
+Matagorda,1 - C,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,1 - C,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,156,2,139,15
+Matagorda,1 - C,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,331,25,254,52
+Matagorda,1 - C,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,22,5,10,7
+Matagorda,1 - C,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,1 - C,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,161,2,142,17
+Matagorda,1 - C,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,321,24,247,50
+Matagorda,1 - C,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,27,6,14,7
+Matagorda,1 - C,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,1 - C,"District Judge, 23rd Judicial District",23,REP,John Maher,225,5,188,32
+Matagorda,1 - C,"District Judge, 23rd Judicial District",23,,Under Votes,284,27,215,42
+Matagorda,1 - C,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,1 - C,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,231,5,194,32
+Matagorda,1 - C,"District Judge, 130th Judicial District",130,,Under Votes,278,27,209,42
+Matagorda,1 - C,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,1 - C,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,382,26,305,51
+Matagorda,1 - C,"District Attorney, 23rd Judicial District",23,,Under Votes,127,6,98,23
+Matagorda,1 - C,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,1 - C,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",234,9,193,32
+Matagorda,1 - C,County Attorney,,,Under Votes,275,23,210,42
+Matagorda,1 - C,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,1 - C,Sheriff,,REP,Rick DeLeon,152,2,138,12
+Matagorda,1 - C,Sheriff,,DEM,Aaron C. Green,340,25,258,57
+Matagorda,1 - C,Sheriff,,,Under Votes,17,5,7,5
+Matagorda,1 - C,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,1 - C,County Tax Assessor-Collector,,REP,Becky Barrett Cook,250,10,205,35
+Matagorda,1 - C,County Tax Assessor-Collector,,,Under Votes,259,22,198,39
+Matagorda,1 - C,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,1 - C,"Constable, Precinct 4",,REP,David Miles,234,6,194,34
+Matagorda,1 - C,"Constable, Precinct 4",,,Under Votes,275,26,209,40
+Matagorda,1 - C,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Matagorda,1 - D,Registered Voters,,,,1460,,,
+Matagorda,1 - D,Ballots Cast,,,,619,,,
+Matagorda,1 - D,President,,REP,Donald J. Trump JD Vance,388,13,296,79
+Matagorda,1 - D,President,,DEM,Kamala D. Harris Tim Walz,214,25,150,39
+Matagorda,1 - D,President,,LIB,Chase Oliver Mike ter Maat,8,1,4,3
+Matagorda,1 - D,President,,GRN,Jill Stein Rudolph Ware,3,0,3,0
+Matagorda,1 - D,President,,,Under Votes,4,0,3,1
+Matagorda,1 - D,President,,,Over Votes,0,0,0,0
+Matagorda,1 - D,U.S. Senate,,REP,Ted Cruz,353,12,276,65
+Matagorda,1 - D,U.S. Senate,,DEM,Colin Allred,235,24,166,45
+Matagorda,1 - D,U.S. Senate,,LIB,Ted Brown,21,3,10,8
+Matagorda,1 - D,U.S. Senate,,,Under Votes,10,0,6,4
+Matagorda,1 - D,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,1 - D,U.S. House,22,REP,Troy E. Nehls,365,11,282,72
+Matagorda,1 - D,U.S. House,22,DEM,Marquette Greene-Scott,219,24,153,42
+Matagorda,1 - D,U.S. House,22,,Under Votes,35,4,23,8
+Matagorda,1 - D,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,1 - D,Railroad Commissioner,,REP,Christi Craddick,347,12,273,62
+Matagorda,1 - D,Railroad Commissioner,,DEM,Katherine Culbert,197,25,132,40
+Matagorda,1 - D,Railroad Commissioner,,LIB,Hawk Dunlap,18,0,12,6
+Matagorda,1 - D,Railroad Commissioner,,GRN,Eddie Espinoza,27,2,18,7
+Matagorda,1 - D,Railroad Commissioner,,,Under Votes,30,0,23,7
+Matagorda,1 - D,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,1 - D,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,375,13,292,70
+Matagorda,1 - D,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,211,26,144,41
+Matagorda,1 - D,"Justice, Supreme Court, Place 2",2,,Under Votes,33,0,22,11
+Matagorda,1 - D,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,1 - D,"Justice, Supreme Court, Place 4",4,REP,John Devine,358,12,282,64
+Matagorda,1 - D,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,220,27,148,45
+Matagorda,1 - D,"Justice, Supreme Court, Place 4",4,,Under Votes,41,0,28,13
+Matagorda,1 - D,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,1 - D,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,350,12,274,64
+Matagorda,1 - D,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,213,26,146,41
+Matagorda,1 - D,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,19,1,11,7
+Matagorda,1 - D,"Justice, Supreme Court, Place 6",6,,Under Votes,37,0,27,10
+Matagorda,1 - D,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,1 - D,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,365,13,286,66
+Matagorda,1 - D,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,215,25,146,44
+Matagorda,1 - D,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,39,1,26,12
+Matagorda,1 - D,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,1 - D,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,363,12,287,64
+Matagorda,1 - D,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,212,26,143,43
+Matagorda,1 - D,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,44,1,28,15
+Matagorda,1 - D,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,1 - D,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,366,13,286,67
+Matagorda,1 - D,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,210,25,144,41
+Matagorda,1 - D,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,43,1,28,14
+Matagorda,1 - D,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,1 - D,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,366,12,288,66
+Matagorda,1 - D,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,212,24,144,44
+Matagorda,1 - D,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,41,3,26,12
+Matagorda,1 - D,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,1 - D,State Representative,30,REP,AJ Louderback,364,11,285,68
+Matagorda,1 - D,State Representative,30,DEM,Stephanie R. Bassham,213,22,149,42
+Matagorda,1 - D,State Representative,30,,Under Votes,42,6,24,12
+Matagorda,1 - D,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,1 - D,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,359,11,280,68
+Matagorda,1 - D,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,216,22,153,41
+Matagorda,1 - D,"Chief Justice, 13th Court of Appeals District",,,Under Votes,44,6,25,13
+Matagorda,1 - D,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,1 - D,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,353,12,276,65
+Matagorda,1 - D,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,218,21,155,42
+Matagorda,1 - D,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,48,6,27,15
+Matagorda,1 - D,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,1 - D,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,351,12,276,63
+Matagorda,1 - D,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,216,21,150,45
+Matagorda,1 - D,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,52,6,32,14
+Matagorda,1 - D,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,1 - D,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,360,12,282,66
+Matagorda,1 - D,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,204,21,141,42
+Matagorda,1 - D,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,55,6,35,14
+Matagorda,1 - D,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,1 - D,"District Judge, 23rd Judicial District",23,REP,John Maher,440,17,333,90
+Matagorda,1 - D,"District Judge, 23rd Judicial District",23,,Under Votes,179,22,125,32
+Matagorda,1 - D,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,1 - D,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,450,17,340,93
+Matagorda,1 - D,"District Judge, 130th Judicial District",130,,Under Votes,169,22,118,29
+Matagorda,1 - D,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,1 - D,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,414,27,308,79
+Matagorda,1 - D,"District Attorney, 23rd Judicial District",23,,Under Votes,205,12,150,43
+Matagorda,1 - D,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,1 - D,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",441,17,331,93
+Matagorda,1 - D,County Attorney,,,Under Votes,178,22,127,29
+Matagorda,1 - D,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,1 - D,Sheriff,,REP,Rick DeLeon,366,12,275,79
+Matagorda,1 - D,Sheriff,,DEM,Aaron C. Green,224,21,166,37
+Matagorda,1 - D,Sheriff,,,Under Votes,29,6,17,6
+Matagorda,1 - D,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,1 - D,County Tax Assessor-Collector,,REP,Becky Barrett Cook,458,18,343,97
+Matagorda,1 - D,County Tax Assessor-Collector,,,Under Votes,161,21,115,25
+Matagorda,1 - D,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,1 - D,"Constable, Precinct 4",,REP,David Miles,450,17,338,95
+Matagorda,1 - D,"Constable, Precinct 4",,,Under Votes,169,22,120,27
+Matagorda,1 - D,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Matagorda,1 - E,Registered Voters,,,,1612,,,
+Matagorda,1 - E,Ballots Cast,,,,846,,,
+Matagorda,1 - E,President,,REP,Donald J. Trump JD Vance,513,7,410,96
+Matagorda,1 - E,President,,DEM,Kamala D. Harris Tim Walz,322,14,254,54
+Matagorda,1 - E,President,,LIB,Chase Oliver Mike ter Maat,4,0,2,2
+Matagorda,1 - E,President,,GRN,Jill Stein Rudolph Ware,5,1,3,1
+Matagorda,1 - E,President,,,Under Votes,1,0,1,0
+Matagorda,1 - E,President,,,Over Votes,0,0,0,0
+Matagorda,1 - E,U.S. Senate,,REP,Ted Cruz,483,7,391,85
+Matagorda,1 - E,U.S. Senate,,DEM,Colin Allred,335,15,261,59
+Matagorda,1 - E,U.S. Senate,,LIB,Ted Brown,16,0,11,5
+Matagorda,1 - E,U.S. Senate,,,Under Votes,12,0,8,4
+Matagorda,1 - E,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,1 - E,U.S. House,22,REP,Troy E. Nehls,499,7,399,93
+Matagorda,1 - E,U.S. House,22,DEM,Marquette Greene-Scott,318,14,250,54
+Matagorda,1 - E,U.S. House,22,,Under Votes,29,1,22,6
+Matagorda,1 - E,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,1 - E,Railroad Commissioner,,REP,Christi Craddick,479,7,388,84
+Matagorda,1 - E,Railroad Commissioner,,DEM,Katherine Culbert,291,14,228,49
+Matagorda,1 - E,Railroad Commissioner,,LIB,Hawk Dunlap,18,0,12,6
+Matagorda,1 - E,Railroad Commissioner,,GRN,Eddie Espinoza,22,1,15,6
+Matagorda,1 - E,Railroad Commissioner,,,Under Votes,36,0,28,8
+Matagorda,1 - E,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,1 - E,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,504,8,403,93
+Matagorda,1 - E,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,307,14,240,53
+Matagorda,1 - E,"Justice, Supreme Court, Place 2",2,,Under Votes,35,0,28,7
+Matagorda,1 - E,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,1 - E,"Justice, Supreme Court, Place 4",4,REP,John Devine,496,7,400,89
+Matagorda,1 - E,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,311,15,240,56
+Matagorda,1 - E,"Justice, Supreme Court, Place 4",4,,Under Votes,39,0,31,8
+Matagorda,1 - E,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,1 - E,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,490,7,393,90
+Matagorda,1 - E,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,296,15,234,47
+Matagorda,1 - E,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,24,0,15,9
+Matagorda,1 - E,"Justice, Supreme Court, Place 6",6,,Under Votes,36,0,29,7
+Matagorda,1 - E,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,1 - E,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,502,7,405,90
+Matagorda,1 - E,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,306,15,235,56
+Matagorda,1 - E,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,38,0,31,7
+Matagorda,1 - E,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,1 - E,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,502,7,403,92
+Matagorda,1 - E,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,299,15,233,51
+Matagorda,1 - E,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,45,0,35,10
+Matagorda,1 - E,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,1 - E,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,507,8,407,92
+Matagorda,1 - E,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,293,14,228,51
+Matagorda,1 - E,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,46,0,36,10
+Matagorda,1 - E,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,1 - E,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,500,7,402,91
+Matagorda,1 - E,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,309,14,242,53
+Matagorda,1 - E,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,37,1,27,9
+Matagorda,1 - E,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,1 - E,State Representative,30,REP,AJ Louderback,502,4,405,93
+Matagorda,1 - E,State Representative,30,DEM,Stephanie R. Bassham,308,15,240,53
+Matagorda,1 - E,State Representative,30,,Under Votes,36,3,26,7
+Matagorda,1 - E,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,1 - E,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,487,6,392,89
+Matagorda,1 - E,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,308,15,239,54
+Matagorda,1 - E,"Chief Justice, 13th Court of Appeals District",,,Under Votes,51,1,40,10
+Matagorda,1 - E,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,1 - E,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,488,6,392,90
+Matagorda,1 - E,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,311,15,241,55
+Matagorda,1 - E,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,47,1,38,8
+Matagorda,1 - E,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,1 - E,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,486,6,390,90
+Matagorda,1 - E,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,308,15,239,54
+Matagorda,1 - E,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,52,1,42,9
+Matagorda,1 - E,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,1 - E,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,494,6,395,93
+Matagorda,1 - E,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,301,15,237,49
+Matagorda,1 - E,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,51,1,39,11
+Matagorda,1 - E,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,1 - E,"District Judge, 23rd Judicial District",23,REP,John Maher,598,10,475,113
+Matagorda,1 - E,"District Judge, 23rd Judicial District",23,,Under Votes,248,12,196,40
+Matagorda,1 - E,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,1 - E,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,598,10,475,113
+Matagorda,1 - E,"District Judge, 130th Judicial District",130,,Under Votes,248,12,196,40
+Matagorda,1 - E,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,1 - E,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,566,14,440,112
+Matagorda,1 - E,"District Attorney, 23rd Judicial District",23,,Under Votes,280,8,231,41
+Matagorda,1 - E,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,1 - E,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",593,12,471,110
+Matagorda,1 - E,County Attorney,,,Under Votes,253,10,200,43
+Matagorda,1 - E,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,1 - E,Sheriff,,REP,Rick DeLeon,478,7,385,86
+Matagorda,1 - E,Sheriff,,DEM,Aaron C. Green,345,12,272,61
+Matagorda,1 - E,Sheriff,,,Under Votes,23,3,14,6
+Matagorda,1 - E,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,1 - E,County Tax Assessor-Collector,,REP,Becky Barrett Cook,597,10,475,112
+Matagorda,1 - E,County Tax Assessor-Collector,,,Under Votes,249,12,196,41
+Matagorda,1 - E,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,1 - E,"County Commissioner, Precinct 3",,REP,Donald Shimek,582,10,459,113
+Matagorda,1 - E,"County Commissioner, Precinct 3",,,Under Votes,262,12,210,40
+Matagorda,1 - E,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,1 - E,"Constable, Precinct 3",,REP,Jesse Alvarez Jr,591,9,470,112
+Matagorda,1 - E,"Constable, Precinct 3",,,Under Votes,255,13,201,41
+Matagorda,1 - E,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,1 - F,Registered Voters,,,,928,,,
+Matagorda,1 - F,Ballots Cast,,,,431,,,
+Matagorda,1 - F,President,,REP,Donald J. Trump JD Vance,297,10,240,47
+Matagorda,1 - F,President,,DEM,Kamala D. Harris Tim Walz,130,5,95,30
+Matagorda,1 - F,President,,LIB,Chase Oliver Mike ter Maat,2,0,1,1
+Matagorda,1 - F,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+Matagorda,1 - F,President,,,Under Votes,1,0,1,0
+Matagorda,1 - F,President,,,Over Votes,0,0,0,0
+Matagorda,1 - F,U.S. Senate,,REP,Ted Cruz,280,9,231,40
+Matagorda,1 - F,U.S. Senate,,DEM,Colin Allred,139,6,98,35
+Matagorda,1 - F,U.S. Senate,,LIB,Ted Brown,6,0,3,3
+Matagorda,1 - F,U.S. Senate,,,Under Votes,6,0,5,1
+Matagorda,1 - F,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,1 - F,U.S. House,22,REP,Troy E. Nehls,295,10,241,44
+Matagorda,1 - F,U.S. House,22,DEM,Marquette Greene-Scott,122,5,87,30
+Matagorda,1 - F,U.S. House,22,,Under Votes,14,0,9,5
+Matagorda,1 - F,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,1 - F,Railroad Commissioner,,REP,Christi Craddick,280,10,227,43
+Matagorda,1 - F,Railroad Commissioner,,DEM,Katherine Culbert,108,4,78,26
+Matagorda,1 - F,Railroad Commissioner,,LIB,Hawk Dunlap,10,0,8,2
+Matagorda,1 - F,Railroad Commissioner,,GRN,Eddie Espinoza,14,0,12,2
+Matagorda,1 - F,Railroad Commissioner,,,Under Votes,19,1,12,6
+Matagorda,1 - F,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,1 - F,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,297,10,242,45
+Matagorda,1 - F,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,115,5,84,26
+Matagorda,1 - F,"Justice, Supreme Court, Place 2",2,,Under Votes,19,0,11,8
+Matagorda,1 - F,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,1 - F,"Justice, Supreme Court, Place 4",4,REP,John Devine,287,10,235,42
+Matagorda,1 - F,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,122,5,87,30
+Matagorda,1 - F,"Justice, Supreme Court, Place 4",4,,Under Votes,22,0,15,7
+Matagorda,1 - F,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,1 - F,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,281,10,227,44
+Matagorda,1 - F,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,111,5,81,25
+Matagorda,1 - F,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,16,0,14,2
+Matagorda,1 - F,"Justice, Supreme Court, Place 6",6,,Under Votes,23,0,15,8
+Matagorda,1 - F,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,1 - F,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,296,10,242,44
+Matagorda,1 - F,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,114,5,81,28
+Matagorda,1 - F,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,21,0,14,7
+Matagorda,1 - F,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,1 - F,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,293,10,238,45
+Matagorda,1 - F,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,115,5,83,27
+Matagorda,1 - F,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,23,0,16,7
+Matagorda,1 - F,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,1 - F,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,298,10,245,43
+Matagorda,1 - F,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,112,5,77,30
+Matagorda,1 - F,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,21,0,15,6
+Matagorda,1 - F,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,1 - F,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,293,8,238,47
+Matagorda,1 - F,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,115,5,84,26
+Matagorda,1 - F,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,23,2,15,6
+Matagorda,1 - F,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,1 - F,State Representative,30,REP,AJ Louderback,287,6,238,43
+Matagorda,1 - F,State Representative,30,DEM,Stephanie R. Bassham,121,5,86,30
+Matagorda,1 - F,State Representative,30,,Under Votes,23,4,13,6
+Matagorda,1 - F,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,1 - F,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,286,6,236,44
+Matagorda,1 - F,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,120,5,88,27
+Matagorda,1 - F,"Chief Justice, 13th Court of Appeals District",,,Under Votes,25,4,13,8
+Matagorda,1 - F,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,1 - F,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,269,6,221,42
+Matagorda,1 - F,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,133,5,98,30
+Matagorda,1 - F,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,29,4,18,7
+Matagorda,1 - F,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,1 - F,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,273,6,225,42
+Matagorda,1 - F,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,128,5,92,31
+Matagorda,1 - F,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,30,4,20,6
+Matagorda,1 - F,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,1 - F,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,288,6,236,46
+Matagorda,1 - F,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,114,5,83,26
+Matagorda,1 - F,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,29,4,18,7
+Matagorda,1 - F,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,1 - F,"District Judge, 23rd Judicial District",23,REP,John Maher,332,6,266,60
+Matagorda,1 - F,"District Judge, 23rd Judicial District",23,,Under Votes,99,9,71,19
+Matagorda,1 - F,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,1 - F,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,335,7,267,61
+Matagorda,1 - F,"District Judge, 130th Judicial District",130,,Under Votes,96,8,70,18
+Matagorda,1 - F,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,1 - F,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,287,8,224,55
+Matagorda,1 - F,"District Attorney, 23rd Judicial District",23,,Under Votes,144,7,113,24
+Matagorda,1 - F,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,1 - F,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",330,5,262,63
+Matagorda,1 - F,County Attorney,,,Under Votes,101,10,75,16
+Matagorda,1 - F,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,1 - F,Sheriff,,REP,Rick DeLeon,292,7,240,45
+Matagorda,1 - F,Sheriff,,DEM,Aaron C. Green,124,3,93,28
+Matagorda,1 - F,Sheriff,,,Under Votes,15,5,4,6
+Matagorda,1 - F,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,1 - F,County Tax Assessor-Collector,,REP,Becky Barrett Cook,341,6,273,62
+Matagorda,1 - F,County Tax Assessor-Collector,,,Under Votes,90,9,64,17
+Matagorda,1 - F,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,1 - F,"County Commissioner, Precinct 1",,REP,Bubba Cook,347,6,278,63
+Matagorda,1 - F,"County Commissioner, Precinct 1",,,Under Votes,84,9,59,16
+Matagorda,1 - F,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Matagorda,1 - F,"Constable, Precinct 1",,REP,Douglas Schoppe,333,5,268,60
+Matagorda,1 - F,"Constable, Precinct 1",,,Under Votes,98,10,69,19
+Matagorda,1 - F,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Matagorda,2,Registered Voters,,,,9,,,
+Matagorda,2,Ballots Cast,,,,16,,,
+Matagorda,2,President,,REP,Donald J. Trump JD Vance,12,1,6,5
+Matagorda,2,President,,DEM,Kamala D. Harris Tim Walz,4,0,2,2
+Matagorda,2,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Matagorda,2,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Matagorda,2,President,,,Under Votes,0,0,0,0
+Matagorda,2,President,,,Over Votes,0,0,0,0
+Matagorda,2,U.S. Senate,,REP,Ted Cruz,12,1,6,5
+Matagorda,2,U.S. Senate,,DEM,Colin Allred,4,0,2,2
+Matagorda,2,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Matagorda,2,U.S. Senate,,,Under Votes,0,0,0,0
+Matagorda,2,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,2,U.S. House,22,REP,Troy E. Nehls,11,0,6,5
+Matagorda,2,U.S. House,22,DEM,Marquette Greene-Scott,4,0,2,2
+Matagorda,2,U.S. House,22,,Under Votes,1,1,0,0
+Matagorda,2,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,2,Railroad Commissioner,,REP,Christi Craddick,11,1,6,4
+Matagorda,2,Railroad Commissioner,,DEM,Katherine Culbert,3,0,1,2
+Matagorda,2,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,1,0
+Matagorda,2,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Matagorda,2,Railroad Commissioner,,,Under Votes,1,0,0,1
+Matagorda,2,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,2,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,11,1,6,4
+Matagorda,2,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,5,0,2,3
+Matagorda,2,"Justice, Supreme Court, Place 2",2,,Under Votes,0,0,0,0
+Matagorda,2,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,2,"Justice, Supreme Court, Place 4",4,REP,John Devine,12,1,6,5
+Matagorda,2,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,4,0,2,2
+Matagorda,2,"Justice, Supreme Court, Place 4",4,,Under Votes,0,0,0,0
+Matagorda,2,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,2,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,12,1,6,5
+Matagorda,2,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,4,0,2,2
+Matagorda,2,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Matagorda,2,"Justice, Supreme Court, Place 6",6,,Under Votes,0,0,0,0
+Matagorda,2,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,2,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,12,1,6,5
+Matagorda,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,4,0,2,2
+Matagorda,2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,0,0,0
+Matagorda,2,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,2,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,12,1,6,5
+Matagorda,2,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,4,0,2,2
+Matagorda,2,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,0,0,0,0
+Matagorda,2,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,2,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,12,1,6,5
+Matagorda,2,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,4,0,2,2
+Matagorda,2,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,0,0,0,0
+Matagorda,2,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,2,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,11,0,6,5
+Matagorda,2,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,4,0,2,2
+Matagorda,2,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,1,1,0,0
+Matagorda,2,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,2,State Representative,30,REP,AJ Louderback,11,0,6,5
+Matagorda,2,State Representative,30,DEM,Stephanie R. Bassham,4,0,2,2
+Matagorda,2,State Representative,30,,Under Votes,1,1,0,0
+Matagorda,2,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,2,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,11,0,6,5
+Matagorda,2,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,4,0,2,2
+Matagorda,2,"Chief Justice, 13th Court of Appeals District",,,Under Votes,1,1,0,0
+Matagorda,2,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,2,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,11,0,6,5
+Matagorda,2,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,4,0,2,2
+Matagorda,2,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,1,1,0,0
+Matagorda,2,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,2,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,11,0,6,5
+Matagorda,2,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,4,0,2,2
+Matagorda,2,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,1,1,0,0
+Matagorda,2,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,2,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,11,0,6,5
+Matagorda,2,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,4,0,2,2
+Matagorda,2,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,1,1,0,0
+Matagorda,2,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,2,"District Judge, 23rd Judicial District",23,REP,John Maher,14,0,8,6
+Matagorda,2,"District Judge, 23rd Judicial District",23,,Under Votes,2,1,0,1
+Matagorda,2,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,2,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,14,0,8,6
+Matagorda,2,"District Judge, 130th Judicial District",130,,Under Votes,2,1,0,1
+Matagorda,2,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,2,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,9,0,5,4
+Matagorda,2,"District Attorney, 23rd Judicial District",23,,Under Votes,7,1,3,3
+Matagorda,2,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,2,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",14,0,8,6
+Matagorda,2,County Attorney,,,Under Votes,2,1,0,1
+Matagorda,2,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,2,Sheriff,,REP,Rick DeLeon,12,0,7,5
+Matagorda,2,Sheriff,,DEM,Aaron C. Green,3,0,1,2
+Matagorda,2,Sheriff,,,Under Votes,1,1,0,0
+Matagorda,2,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,2,County Tax Assessor-Collector,,REP,Becky Barrett Cook,14,0,8,6
+Matagorda,2,County Tax Assessor-Collector,,,Under Votes,2,1,0,1
+Matagorda,2,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,2,"Constable, Precinct 2",,REP,Keith Sullivan,14,0,8,6
+Matagorda,2,"Constable, Precinct 2",,,Under Votes,2,1,0,1
+Matagorda,2,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,Registered Voters,,,,764,,,
+Matagorda,2 - MISD,Ballots Cast,,,,551,,,
+Matagorda,2 - MISD,President,,REP,Donald J. Trump JD Vance,452,5,298,149
+Matagorda,2 - MISD,President,,DEM,Kamala D. Harris Tim Walz,93,6,48,39
+Matagorda,2 - MISD,President,,LIB,Chase Oliver Mike ter Maat,2,0,2,0
+Matagorda,2 - MISD,President,,GRN,Jill Stein Rudolph Ware,2,0,2,0
+Matagorda,2 - MISD,President,,,Under Votes,1,0,1,0
+Matagorda,2 - MISD,President,,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,U.S. Senate,,REP,Ted Cruz,448,5,295,148
+Matagorda,2 - MISD,U.S. Senate,,DEM,Colin Allred,95,6,51,38
+Matagorda,2 - MISD,U.S. Senate,,LIB,Ted Brown,5,0,3,2
+Matagorda,2 - MISD,U.S. Senate,,,Under Votes,3,0,3,0
+Matagorda,2 - MISD,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,U.S. House,22,REP,Troy E. Nehls,456,4,300,152
+Matagorda,2 - MISD,U.S. House,22,DEM,Marquette Greene-Scott,84,6,44,34
+Matagorda,2 - MISD,U.S. House,22,,Under Votes,11,1,8,2
+Matagorda,2 - MISD,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,Railroad Commissioner,,REP,Christi Craddick,453,5,299,149
+Matagorda,2 - MISD,Railroad Commissioner,,DEM,Katherine Culbert,66,5,33,28
+Matagorda,2 - MISD,Railroad Commissioner,,LIB,Hawk Dunlap,11,0,8,3
+Matagorda,2 - MISD,Railroad Commissioner,,GRN,Eddie Espinoza,8,1,2,5
+Matagorda,2 - MISD,Railroad Commissioner,,,Under Votes,13,0,10,3
+Matagorda,2 - MISD,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,459,5,301,153
+Matagorda,2 - MISD,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,82,6,43,33
+Matagorda,2 - MISD,"Justice, Supreme Court, Place 2",2,,Under Votes,10,0,8,2
+Matagorda,2 - MISD,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,"Justice, Supreme Court, Place 4",4,REP,John Devine,457,5,299,153
+Matagorda,2 - MISD,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,82,6,43,33
+Matagorda,2 - MISD,"Justice, Supreme Court, Place 4",4,,Under Votes,12,0,10,2
+Matagorda,2 - MISD,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,449,5,294,150
+Matagorda,2 - MISD,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,79,6,41,32
+Matagorda,2 - MISD,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,11,0,8,3
+Matagorda,2 - MISD,"Justice, Supreme Court, Place 6",6,,Under Votes,12,0,9,3
+Matagorda,2 - MISD,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,464,5,304,155
+Matagorda,2 - MISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,78,6,40,32
+Matagorda,2 - MISD,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,0,8,1
+Matagorda,2 - MISD,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,461,5,301,155
+Matagorda,2 - MISD,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,78,6,41,31
+Matagorda,2 - MISD,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,12,0,10,2
+Matagorda,2 - MISD,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,464,5,304,155
+Matagorda,2 - MISD,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,75,6,39,30
+Matagorda,2 - MISD,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,12,0,9,3
+Matagorda,2 - MISD,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,465,5,304,156
+Matagorda,2 - MISD,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,75,5,40,30
+Matagorda,2 - MISD,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,11,1,8,2
+Matagorda,2 - MISD,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,State Representative,30,REP,AJ Louderback,462,4,306,152
+Matagorda,2 - MISD,State Representative,30,DEM,Stephanie R. Bassham,79,6,39,34
+Matagorda,2 - MISD,State Representative,30,,Under Votes,10,1,7,2
+Matagorda,2 - MISD,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,452,5,298,149
+Matagorda,2 - MISD,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,83,5,44,34
+Matagorda,2 - MISD,"Chief Justice, 13th Court of Appeals District",,,Under Votes,16,1,10,5
+Matagorda,2 - MISD,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,455,5,298,152
+Matagorda,2 - MISD,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,79,5,43,31
+Matagorda,2 - MISD,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,17,1,11,5
+Matagorda,2 - MISD,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,446,5,295,146
+Matagorda,2 - MISD,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,87,5,46,36
+Matagorda,2 - MISD,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,18,1,11,6
+Matagorda,2 - MISD,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,455,5,300,150
+Matagorda,2 - MISD,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,77,5,40,32
+Matagorda,2 - MISD,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,19,1,12,6
+Matagorda,2 - MISD,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,"District Judge, 23rd Judicial District",23,REP,John Maher,488,7,316,165
+Matagorda,2 - MISD,"District Judge, 23rd Judicial District",23,,Under Votes,63,4,36,23
+Matagorda,2 - MISD,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,498,6,323,169
+Matagorda,2 - MISD,"District Judge, 130th Judicial District",130,,Under Votes,53,5,29,19
+Matagorda,2 - MISD,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,267,7,153,107
+Matagorda,2 - MISD,"District Attorney, 23rd Judicial District",23,,Under Votes,284,4,199,81
+Matagorda,2 - MISD,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",480,6,315,159
+Matagorda,2 - MISD,County Attorney,,,Under Votes,71,5,37,29
+Matagorda,2 - MISD,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,Sheriff,,REP,Rick DeLeon,440,5,290,145
+Matagorda,2 - MISD,Sheriff,,DEM,Aaron C. Green,99,5,52,42
+Matagorda,2 - MISD,Sheriff,,,Under Votes,12,1,10,1
+Matagorda,2 - MISD,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,County Tax Assessor-Collector,,REP,Becky Barrett Cook,492,7,317,168
+Matagorda,2 - MISD,County Tax Assessor-Collector,,,Under Votes,59,4,35,20
+Matagorda,2 - MISD,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,"Constable, Precinct 2",,REP,Keith Sullivan,494,7,321,166
+Matagorda,2 - MISD,"Constable, Precinct 2",,,Under Votes,57,4,31,22
+Matagorda,2 - MISD,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,"Constable, Precinct 2",,,Under Votes,80,4,55,21
+Matagorda,2 - MISD,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,"Constable, Precinct 2",,,Under Votes,154,5,101,48
+Matagorda,2 - MISD,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Matagorda,2 - MISD,"Constable, Precinct 2",,,Under Votes,151,5,101,45
+Matagorda,2 - MISD,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Matagorda,3 - A,Registered Voters,,,,2344,,,
+Matagorda,3 - A,Ballots Cast,,,,1179,,,
+Matagorda,3 - A,President,,REP,Donald J. Trump JD Vance,824,13,653,158
+Matagorda,3 - A,President,,DEM,Kamala D. Harris Tim Walz,331,16,234,81
+Matagorda,3 - A,President,,LIB,Chase Oliver Mike ter Maat,8,0,6,2
+Matagorda,3 - A,President,,GRN,Jill Stein Rudolph Ware,8,0,5,3
+Matagorda,3 - A,President,,,Under Votes,4,0,3,1
+Matagorda,3 - A,President,,,Over Votes,0,0,0,0
+Matagorda,3 - A,U.S. Senate,,REP,Ted Cruz,769,13,617,139
+Matagorda,3 - A,U.S. Senate,,DEM,Colin Allred,353,14,245,94
+Matagorda,3 - A,U.S. Senate,,LIB,Ted Brown,34,1,27,6
+Matagorda,3 - A,U.S. Senate,,,Under Votes,23,1,14,8
+Matagorda,3 - A,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,3 - A,U.S. House,22,REP,Troy E. Nehls,796,10,643,143
+Matagorda,3 - A,U.S. House,22,DEM,Marquette Greene-Scott,336,16,235,85
+Matagorda,3 - A,U.S. House,22,,Under Votes,47,3,25,19
+Matagorda,3 - A,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,3 - A,Railroad Commissioner,,REP,Christi Craddick,770,13,622,135
+Matagorda,3 - A,Railroad Commissioner,,DEM,Katherine Culbert,284,13,206,65
+Matagorda,3 - A,Railroad Commissioner,,LIB,Hawk Dunlap,27,2,14,11
+Matagorda,3 - A,Railroad Commissioner,,GRN,Eddie Espinoza,46,0,30,16
+Matagorda,3 - A,Railroad Commissioner,,,Under Votes,52,1,31,20
+Matagorda,3 - A,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,3 - A,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,809,14,646,149
+Matagorda,3 - A,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,314,14,224,76
+Matagorda,3 - A,"Justice, Supreme Court, Place 2",2,,Under Votes,56,1,33,22
+Matagorda,3 - A,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,3 - A,"Justice, Supreme Court, Place 4",4,REP,John Devine,790,13,633,144
+Matagorda,3 - A,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,325,15,231,79
+Matagorda,3 - A,"Justice, Supreme Court, Place 4",4,,Under Votes,64,1,39,24
+Matagorda,3 - A,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,3 - A,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,771,13,618,140
+Matagorda,3 - A,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,308,14,222,72
+Matagorda,3 - A,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,34,1,20,13
+Matagorda,3 - A,"Justice, Supreme Court, Place 6",6,,Under Votes,66,1,43,22
+Matagorda,3 - A,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,3 - A,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,794,13,636,145
+Matagorda,3 - A,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,322,15,227,80
+Matagorda,3 - A,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,63,1,40,22
+Matagorda,3 - A,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,3 - A,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,787,13,628,146
+Matagorda,3 - A,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,328,15,233,80
+Matagorda,3 - A,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,64,1,42,21
+Matagorda,3 - A,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,3 - A,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,793,13,637,143
+Matagorda,3 - A,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,315,14,222,79
+Matagorda,3 - A,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,71,2,44,25
+Matagorda,3 - A,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,3 - A,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,793,11,640,142
+Matagorda,3 - A,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,319,14,222,83
+Matagorda,3 - A,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,67,4,41,22
+Matagorda,3 - A,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,3 - A,State Representative,30,REP,AJ Louderback,805,11,649,145
+Matagorda,3 - A,State Representative,30,DEM,Stephanie R. Bassham,315,14,219,82
+Matagorda,3 - A,State Representative,30,,Under Votes,59,4,35,20
+Matagorda,3 - A,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,3 - A,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,783,11,633,139
+Matagorda,3 - A,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,327,14,225,88
+Matagorda,3 - A,"Chief Justice, 13th Court of Appeals District",,,Under Votes,69,4,45,20
+Matagorda,3 - A,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,3 - A,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,755,10,611,134
+Matagorda,3 - A,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,350,14,246,90
+Matagorda,3 - A,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,74,5,46,23
+Matagorda,3 - A,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,3 - A,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,746,10,607,129
+Matagorda,3 - A,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,354,14,248,92
+Matagorda,3 - A,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,79,5,48,26
+Matagorda,3 - A,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,3 - A,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,792,11,637,144
+Matagorda,3 - A,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,305,14,214,77
+Matagorda,3 - A,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,82,4,52,26
+Matagorda,3 - A,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,3 - A,"District Judge, 23rd Judicial District",23,REP,John Maher,890,14,691,185
+Matagorda,3 - A,"District Judge, 23rd Judicial District",23,,Under Votes,289,15,212,62
+Matagorda,3 - A,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,3 - A,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,894,14,692,188
+Matagorda,3 - A,"District Judge, 130th Judicial District",130,,Under Votes,285,15,211,59
+Matagorda,3 - A,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,3 - A,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,601,19,448,134
+Matagorda,3 - A,"District Attorney, 23rd Judicial District",23,,Under Votes,578,10,455,113
+Matagorda,3 - A,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,3 - A,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",891,13,691,187
+Matagorda,3 - A,County Attorney,,,Under Votes,288,16,212,60
+Matagorda,3 - A,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,3 - A,Sheriff,,REP,Rick DeLeon,798,13,639,146
+Matagorda,3 - A,Sheriff,,DEM,Aaron C. Green,333,12,238,83
+Matagorda,3 - A,Sheriff,,,Under Votes,48,4,26,18
+Matagorda,3 - A,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,3 - A,County Tax Assessor-Collector,,REP,Becky Barrett Cook,906,13,705,188
+Matagorda,3 - A,County Tax Assessor-Collector,,,Under Votes,273,16,198,59
+Matagorda,3 - A,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,3 - A,"County Commissioner, Precinct 3",,REP,Donald Shimek,925,13,717,195
+Matagorda,3 - A,"County Commissioner, Precinct 3",,,Under Votes,225,13,163,49
+Matagorda,3 - A,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,3 - A,"Constable, Precinct 3",,REP,Jesse Alvarez Jr,934,13,719,202
+Matagorda,3 - A,"Constable, Precinct 3",,,Under Votes,245,16,184,45
+Matagorda,3 - A,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,3 - A,"Constable, Precinct 3",,,Under Votes,116,7,83,26
+Matagorda,3 - A,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,3 - B,Registered Voters,,,,8,,,
+Matagorda,3 - B,Ballots Cast,,,,15,,,
+Matagorda,3 - B,President,,REP,Donald J. Trump JD Vance,14,0,10,4
+Matagorda,3 - B,President,,DEM,Kamala D. Harris Tim Walz,1,0,0,1
+Matagorda,3 - B,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Matagorda,3 - B,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Matagorda,3 - B,President,,,Under Votes,0,0,0,0
+Matagorda,3 - B,President,,,Over Votes,0,0,0,0
+Matagorda,3 - B,U.S. Senate,,REP,Ted Cruz,13,0,10,3
+Matagorda,3 - B,U.S. Senate,,DEM,Colin Allred,2,0,0,2
+Matagorda,3 - B,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Matagorda,3 - B,U.S. Senate,,,Under Votes,0,0,0,0
+Matagorda,3 - B,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,3 - B,U.S. House,22,REP,Troy E. Nehls,14,0,10,4
+Matagorda,3 - B,U.S. House,22,DEM,Marquette Greene-Scott,1,0,0,1
+Matagorda,3 - B,U.S. House,22,,Under Votes,0,0,0,0
+Matagorda,3 - B,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,3 - B,Railroad Commissioner,,REP,Christi Craddick,15,0,10,5
+Matagorda,3 - B,Railroad Commissioner,,DEM,Katherine Culbert,0,0,0,0
+Matagorda,3 - B,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Matagorda,3 - B,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Matagorda,3 - B,Railroad Commissioner,,,Under Votes,0,0,0,0
+Matagorda,3 - B,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,3 - B,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,15,0,10,5
+Matagorda,3 - B,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,0,0,0,0
+Matagorda,3 - B,"Justice, Supreme Court, Place 2",2,,Under Votes,0,0,0,0
+Matagorda,3 - B,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,3 - B,"Justice, Supreme Court, Place 4",4,REP,John Devine,14,0,10,4
+Matagorda,3 - B,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,1,0,0,1
+Matagorda,3 - B,"Justice, Supreme Court, Place 4",4,,Under Votes,0,0,0,0
+Matagorda,3 - B,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,3 - B,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,14,0,10,4
+Matagorda,3 - B,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,1,0,0,1
+Matagorda,3 - B,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Matagorda,3 - B,"Justice, Supreme Court, Place 6",6,,Under Votes,0,0,0,0
+Matagorda,3 - B,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,3 - B,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,15,0,10,5
+Matagorda,3 - B,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,0,0,0,0
+Matagorda,3 - B,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,0,0,0
+Matagorda,3 - B,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,3 - B,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,14,0,10,4
+Matagorda,3 - B,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,1,0,0,1
+Matagorda,3 - B,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,0,0,0,0
+Matagorda,3 - B,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,3 - B,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,15,0,10,5
+Matagorda,3 - B,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,0,0,0,0
+Matagorda,3 - B,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,0,0,0,0
+Matagorda,3 - B,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,3 - B,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,15,0,10,5
+Matagorda,3 - B,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,0,0,0,0
+Matagorda,3 - B,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,0,0,0,0
+Matagorda,3 - B,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,3 - B,State Representative,30,REP,AJ Louderback,15,0,10,5
+Matagorda,3 - B,State Representative,30,DEM,Stephanie R. Bassham,0,0,0,0
+Matagorda,3 - B,State Representative,30,,Under Votes,0,0,0,0
+Matagorda,3 - B,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,3 - B,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,14,0,10,4
+Matagorda,3 - B,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,1,0,0,1
+Matagorda,3 - B,"Chief Justice, 13th Court of Appeals District",,,Under Votes,0,0,0,0
+Matagorda,3 - B,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,3 - B,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,14,0,10,4
+Matagorda,3 - B,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,1,0,0,1
+Matagorda,3 - B,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,0,0,0,0
+Matagorda,3 - B,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,3 - B,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,14,0,10,4
+Matagorda,3 - B,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,1,0,0,1
+Matagorda,3 - B,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,0,0,0,0
+Matagorda,3 - B,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,3 - B,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,15,0,10,5
+Matagorda,3 - B,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,0,0,0,0
+Matagorda,3 - B,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,0,0,0,0
+Matagorda,3 - B,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,3 - B,"District Judge, 23rd Judicial District",23,REP,John Maher,15,0,10,5
+Matagorda,3 - B,"District Judge, 23rd Judicial District",23,,Under Votes,0,0,0,0
+Matagorda,3 - B,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,3 - B,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,15,0,10,5
+Matagorda,3 - B,"District Judge, 130th Judicial District",130,,Under Votes,0,0,0,0
+Matagorda,3 - B,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,3 - B,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,10,0,7,3
+Matagorda,3 - B,"District Attorney, 23rd Judicial District",23,,Under Votes,5,0,3,2
+Matagorda,3 - B,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,3 - B,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",15,0,10,5
+Matagorda,3 - B,County Attorney,,,Under Votes,0,0,0,0
+Matagorda,3 - B,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,3 - B,Sheriff,,REP,Rick DeLeon,14,0,10,4
+Matagorda,3 - B,Sheriff,,DEM,Aaron C. Green,1,0,0,1
+Matagorda,3 - B,Sheriff,,,Under Votes,0,0,0,0
+Matagorda,3 - B,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,3 - B,County Tax Assessor-Collector,,REP,Becky Barrett Cook,15,0,10,5
+Matagorda,3 - B,County Tax Assessor-Collector,,,Under Votes,0,0,0,0
+Matagorda,3 - B,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,3 - B,"County Commissioner, Precinct 3",,REP,Donald Shimek,15,0,10,5
+Matagorda,3 - B,"County Commissioner, Precinct 3",,,Under Votes,0,0,0,0
+Matagorda,3 - B,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,3 - B,"Constable, Precinct 3",,REP,Jesse Alvarez Jr,15,0,10,5
+Matagorda,3 - B,"Constable, Precinct 3",,,Under Votes,0,0,0,0
+Matagorda,3 - B,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,Registered Voters,,,,880,,,
+Matagorda,3 - B NAV,Ballots Cast,,,,573,,,
+Matagorda,3 - B NAV,President,,REP,Donald J. Trump JD Vance,463,6,379,78
+Matagorda,3 - B NAV,President,,DEM,Kamala D. Harris Tim Walz,101,5,79,17
+Matagorda,3 - B NAV,President,,LIB,Chase Oliver Mike ter Maat,2,0,1,1
+Matagorda,3 - B NAV,President,,GRN,Jill Stein Rudolph Ware,4,0,4,0
+Matagorda,3 - B NAV,President,,,Under Votes,3,0,1,2
+Matagorda,3 - B NAV,President,,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,U.S. Senate,,REP,Ted Cruz,440,5,356,79
+Matagorda,3 - B NAV,U.S. Senate,,DEM,Colin Allred,116,5,93,18
+Matagorda,3 - B NAV,U.S. Senate,,LIB,Ted Brown,6,0,6,0
+Matagorda,3 - B NAV,U.S. Senate,,,Under Votes,10,1,8,1
+Matagorda,3 - B NAV,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,U.S. House,22,REP,Troy E. Nehls,457,4,373,80
+Matagorda,3 - B NAV,U.S. House,22,DEM,Marquette Greene-Scott,97,6,77,14
+Matagorda,3 - B NAV,U.S. House,22,,Under Votes,19,1,14,4
+Matagorda,3 - B NAV,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,Railroad Commissioner,,REP,Christi Craddick,434,6,354,74
+Matagorda,3 - B NAV,Railroad Commissioner,,DEM,Katherine Culbert,91,4,73,14
+Matagorda,3 - B NAV,Railroad Commissioner,,LIB,Hawk Dunlap,10,0,10,0
+Matagorda,3 - B NAV,Railroad Commissioner,,GRN,Eddie Espinoza,10,0,7,3
+Matagorda,3 - B NAV,Railroad Commissioner,,,Under Votes,28,1,20,7
+Matagorda,3 - B NAV,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,459,5,376,78
+Matagorda,3 - B NAV,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,89,5,70,14
+Matagorda,3 - B NAV,"Justice, Supreme Court, Place 2",2,,Under Votes,25,1,18,6
+Matagorda,3 - B NAV,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,"Justice, Supreme Court, Place 4",4,REP,John Devine,450,5,370,75
+Matagorda,3 - B NAV,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,97,5,75,17
+Matagorda,3 - B NAV,"Justice, Supreme Court, Place 4",4,,Under Votes,26,1,19,6
+Matagorda,3 - B NAV,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,445,5,365,75
+Matagorda,3 - B NAV,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,89,5,68,16
+Matagorda,3 - B NAV,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,8,0,8,0
+Matagorda,3 - B NAV,"Justice, Supreme Court, Place 6",6,,Under Votes,31,1,23,7
+Matagorda,3 - B NAV,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,450,5,370,75
+Matagorda,3 - B NAV,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,97,4,76,17
+Matagorda,3 - B NAV,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,26,2,18,6
+Matagorda,3 - B NAV,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,454,5,370,79
+Matagorda,3 - B NAV,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,92,4,73,15
+Matagorda,3 - B NAV,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,27,2,21,4
+Matagorda,3 - B NAV,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,460,6,378,76
+Matagorda,3 - B NAV,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,82,3,64,15
+Matagorda,3 - B NAV,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,31,2,22,7
+Matagorda,3 - B NAV,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,458,5,375,78
+Matagorda,3 - B NAV,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,91,5,71,15
+Matagorda,3 - B NAV,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,24,1,18,5
+Matagorda,3 - B NAV,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,State Representative,30,REP,AJ Louderback,458,5,377,76
+Matagorda,3 - B NAV,State Representative,30,DEM,Stephanie R. Bassham,95,5,74,16
+Matagorda,3 - B NAV,State Representative,30,,Under Votes,20,1,13,6
+Matagorda,3 - B NAV,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,447,6,366,75
+Matagorda,3 - B NAV,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,96,3,77,16
+Matagorda,3 - B NAV,"Chief Justice, 13th Court of Appeals District",,,Under Votes,30,2,21,7
+Matagorda,3 - B NAV,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,434,5,357,72
+Matagorda,3 - B NAV,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,107,3,86,18
+Matagorda,3 - B NAV,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,32,3,21,8
+Matagorda,3 - B NAV,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,434,5,354,75
+Matagorda,3 - B NAV,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,106,3,87,16
+Matagorda,3 - B NAV,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,33,3,23,7
+Matagorda,3 - B NAV,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,455,5,374,76
+Matagorda,3 - B NAV,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,82,2,65,15
+Matagorda,3 - B NAV,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,36,4,25,7
+Matagorda,3 - B NAV,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,"District Judge, 23rd Judicial District",23,REP,John Maher,495,5,405,85
+Matagorda,3 - B NAV,"District Judge, 23rd Judicial District",23,,Under Votes,78,6,59,13
+Matagorda,3 - B NAV,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,491,5,401,85
+Matagorda,3 - B NAV,"District Judge, 130th Judicial District",130,,Under Votes,82,6,63,13
+Matagorda,3 - B NAV,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,305,4,249,52
+Matagorda,3 - B NAV,"District Attorney, 23rd Judicial District",23,,Under Votes,268,7,215,46
+Matagorda,3 - B NAV,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",488,5,399,84
+Matagorda,3 - B NAV,County Attorney,,,Under Votes,85,6,65,14
+Matagorda,3 - B NAV,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,Sheriff,,REP,Rick DeLeon,443,6,361,76
+Matagorda,3 - B NAV,Sheriff,,DEM,Aaron C. Green,114,2,95,17
+Matagorda,3 - B NAV,Sheriff,,,Under Votes,16,3,8,5
+Matagorda,3 - B NAV,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,County Tax Assessor-Collector,,REP,Becky Barrett Cook,500,6,408,86
+Matagorda,3 - B NAV,County Tax Assessor-Collector,,,Under Votes,73,5,56,12
+Matagorda,3 - B NAV,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,"County Commissioner, Precinct 3",,REP,Donald Shimek,477,4,388,85
+Matagorda,3 - B NAV,"County Commissioner, Precinct 3",,,Under Votes,61,7,44,10
+Matagorda,3 - B NAV,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,"Constable, Precinct 3",,REP,Jesse Alvarez Jr,499,4,411,84
+Matagorda,3 - B NAV,"Constable, Precinct 3",,,Under Votes,74,7,53,14
+Matagorda,3 - B NAV,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,3 - B NAV,"Constable, Precinct 3",,,Under Votes,61,5,44,12
+Matagorda,3 - B NAV,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,4,Registered Voters,,,,1209,,,
+Matagorda,4,Ballots Cast,,,,829,,,
+Matagorda,4,President,,REP,Donald J. Trump JD Vance,727,12,535,180
+Matagorda,4,President,,DEM,Kamala D. Harris Tim Walz,97,9,46,42
+Matagorda,4,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Matagorda,4,President,,GRN,Jill Stein Rudolph Ware,2,0,0,2
+Matagorda,4,President,,,Under Votes,3,1,2,0
+Matagorda,4,President,,,Over Votes,0,0,0,0
+Matagorda,4,U.S. Senate,,REP,Ted Cruz,699,12,524,163
+Matagorda,4,U.S. Senate,,DEM,Colin Allred,115,9,55,51
+Matagorda,4,U.S. Senate,,LIB,Ted Brown,9,0,4,5
+Matagorda,4,U.S. Senate,,,Under Votes,5,1,0,4
+Matagorda,4,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,4,U.S. House,22,REP,Troy E. Nehls,710,13,527,170
+Matagorda,4,U.S. House,22,DEM,Marquette Greene-Scott,94,7,41,46
+Matagorda,4,U.S. House,22,,Under Votes,25,2,15,8
+Matagorda,4,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,4,Railroad Commissioner,,REP,Christi Craddick,676,14,510,152
+Matagorda,4,Railroad Commissioner,,DEM,Katherine Culbert,74,7,36,31
+Matagorda,4,Railroad Commissioner,,LIB,Hawk Dunlap,19,0,10,9
+Matagorda,4,Railroad Commissioner,,GRN,Eddie Espinoza,25,1,8,16
+Matagorda,4,Railroad Commissioner,,,Under Votes,35,0,19,16
+Matagorda,4,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,4,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,708,14,522,172
+Matagorda,4,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,87,8,41,38
+Matagorda,4,"Justice, Supreme Court, Place 2",2,,Under Votes,34,0,20,14
+Matagorda,4,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,4,"Justice, Supreme Court, Place 4",4,REP,John Devine,705,13,522,170
+Matagorda,4,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,89,9,40,40
+Matagorda,4,"Justice, Supreme Court, Place 4",4,,Under Votes,35,0,21,14
+Matagorda,4,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,4,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,687,13,514,160
+Matagorda,4,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,84,9,37,38
+Matagorda,4,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,15,0,8,7
+Matagorda,4,"Justice, Supreme Court, Place 6",6,,Under Votes,43,0,24,19
+Matagorda,4,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,4,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,704,14,522,168
+Matagorda,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,86,8,39,39
+Matagorda,4,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,39,0,22,17
+Matagorda,4,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,4,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,711,15,524,172
+Matagorda,4,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,83,7,39,37
+Matagorda,4,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,35,0,20,15
+Matagorda,4,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,4,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,706,14,525,167
+Matagorda,4,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,79,8,37,34
+Matagorda,4,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,44,0,21,23
+Matagorda,4,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,4,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,701,12,521,168
+Matagorda,4,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,88,9,41,38
+Matagorda,4,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,40,1,21,18
+Matagorda,4,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,4,State Representative,30,REP,AJ Louderback,701,10,523,168
+Matagorda,4,State Representative,30,DEM,Stephanie R. Bassham,97,10,49,38
+Matagorda,4,State Representative,30,,Under Votes,31,2,11,18
+Matagorda,4,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,4,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,703,14,522,167
+Matagorda,4,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,89,8,41,40
+Matagorda,4,"Chief Justice, 13th Court of Appeals District",,,Under Votes,37,0,20,17
+Matagorda,4,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,4,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,685,14,511,160
+Matagorda,4,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,105,8,49,48
+Matagorda,4,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,39,0,23,16
+Matagorda,4,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,4,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,688,14,514,160
+Matagorda,4,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,98,8,43,47
+Matagorda,4,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,43,0,26,17
+Matagorda,4,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,4,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,707,14,522,171
+Matagorda,4,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,77,8,36,33
+Matagorda,4,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,45,0,25,20
+Matagorda,4,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,4,"District Judge, 23rd Judicial District",23,REP,John Maher,732,12,533,187
+Matagorda,4,"District Judge, 23rd Judicial District",23,,Under Votes,97,10,50,37
+Matagorda,4,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,4,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,740,12,539,189
+Matagorda,4,"District Judge, 130th Judicial District",130,,Under Votes,89,10,44,35
+Matagorda,4,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,4,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,457,13,310,134
+Matagorda,4,"District Attorney, 23rd Judicial District",23,,Under Votes,372,9,273,90
+Matagorda,4,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,4,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",730,12,530,188
+Matagorda,4,County Attorney,,,Under Votes,99,10,53,36
+Matagorda,4,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,4,Sheriff,,REP,Rick DeLeon,642,9,479,154
+Matagorda,4,Sheriff,,DEM,Aaron C. Green,171,10,96,65
+Matagorda,4,Sheriff,,,Under Votes,16,3,8,5
+Matagorda,4,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,4,County Tax Assessor-Collector,,REP,Becky Barrett Cook,743,13,539,191
+Matagorda,4,County Tax Assessor-Collector,,,Under Votes,86,9,44,33
+Matagorda,4,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,4,"Constable, Precinct 4",,REP,David Miles,744,13,535,196
+Matagorda,4,"Constable, Precinct 4",,,Under Votes,85,9,48,28
+Matagorda,4,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,Registered Voters,,,,234,,,
+Matagorda,4 - NAV,Ballots Cast,,,,129,,,
+Matagorda,4 - NAV,President,,REP,Donald J. Trump JD Vance,119,1,88,30
+Matagorda,4 - NAV,President,,DEM,Kamala D. Harris Tim Walz,10,1,7,2
+Matagorda,4 - NAV,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Matagorda,4 - NAV,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Matagorda,4 - NAV,President,,,Under Votes,0,0,0,0
+Matagorda,4 - NAV,President,,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,U.S. Senate,,REP,Ted Cruz,110,1,80,29
+Matagorda,4 - NAV,U.S. Senate,,DEM,Colin Allred,13,1,10,2
+Matagorda,4 - NAV,U.S. Senate,,LIB,Ted Brown,5,0,4,1
+Matagorda,4 - NAV,U.S. Senate,,,Under Votes,1,0,1,0
+Matagorda,4 - NAV,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,U.S. House,22,REP,Troy E. Nehls,113,1,83,29
+Matagorda,4 - NAV,U.S. House,22,DEM,Marquette Greene-Scott,9,1,6,2
+Matagorda,4 - NAV,U.S. House,22,,Under Votes,7,0,6,1
+Matagorda,4 - NAV,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,Railroad Commissioner,,REP,Christi Craddick,103,1,76,26
+Matagorda,4 - NAV,Railroad Commissioner,,DEM,Katherine Culbert,9,1,6,2
+Matagorda,4 - NAV,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,4,2
+Matagorda,4 - NAV,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Matagorda,4 - NAV,Railroad Commissioner,,,Under Votes,10,0,8,2
+Matagorda,4 - NAV,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,111,1,82,28
+Matagorda,4 - NAV,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,10,1,6,3
+Matagorda,4 - NAV,"Justice, Supreme Court, Place 2",2,,Under Votes,8,0,7,1
+Matagorda,4 - NAV,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,"Justice, Supreme Court, Place 4",4,REP,John Devine,109,1,81,27
+Matagorda,4 - NAV,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,11,1,6,4
+Matagorda,4 - NAV,"Justice, Supreme Court, Place 4",4,,Under Votes,9,0,8,1
+Matagorda,4 - NAV,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,107,1,78,28
+Matagorda,4 - NAV,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,10,1,7,2
+Matagorda,4 - NAV,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,3,0,2,1
+Matagorda,4 - NAV,"Justice, Supreme Court, Place 6",6,,Under Votes,9,0,8,1
+Matagorda,4 - NAV,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,111,1,82,28
+Matagorda,4 - NAV,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,11,1,7,3
+Matagorda,4 - NAV,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,7,0,6,1
+Matagorda,4 - NAV,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,110,1,80,29
+Matagorda,4 - NAV,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,11,1,8,2
+Matagorda,4 - NAV,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,8,0,7,1
+Matagorda,4 - NAV,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,114,1,84,29
+Matagorda,4 - NAV,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,8,1,5,2
+Matagorda,4 - NAV,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,7,0,6,1
+Matagorda,4 - NAV,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,110,1,82,27
+Matagorda,4 - NAV,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,12,1,7,4
+Matagorda,4 - NAV,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,7,0,6,1
+Matagorda,4 - NAV,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,State Representative,30,REP,AJ Louderback,112,1,83,28
+Matagorda,4 - NAV,State Representative,30,DEM,Stephanie R. Bassham,10,1,6,3
+Matagorda,4 - NAV,State Representative,30,,Under Votes,7,0,6,1
+Matagorda,4 - NAV,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,111,1,81,29
+Matagorda,4 - NAV,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,10,1,7,2
+Matagorda,4 - NAV,"Chief Justice, 13th Court of Appeals District",,,Under Votes,8,0,7,1
+Matagorda,4 - NAV,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,110,1,82,27
+Matagorda,4 - NAV,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,10,1,6,3
+Matagorda,4 - NAV,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,9,0,7,2
+Matagorda,4 - NAV,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,107,1,78,28
+Matagorda,4 - NAV,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,14,1,10,3
+Matagorda,4 - NAV,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,8,0,7,1
+Matagorda,4 - NAV,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,112,1,82,29
+Matagorda,4 - NAV,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,9,1,6,2
+Matagorda,4 - NAV,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,8,0,7,1
+Matagorda,4 - NAV,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,"District Judge, 23rd Judicial District",23,REP,John Maher,119,2,87,30
+Matagorda,4 - NAV,"District Judge, 23rd Judicial District",23,,Under Votes,10,0,8,2
+Matagorda,4 - NAV,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,117,2,86,29
+Matagorda,4 - NAV,"District Judge, 130th Judicial District",130,,Under Votes,12,0,9,3
+Matagorda,4 - NAV,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,52,1,39,12
+Matagorda,4 - NAV,"District Attorney, 23rd Judicial District",23,,Under Votes,77,1,56,20
+Matagorda,4 - NAV,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",113,2,84,27
+Matagorda,4 - NAV,County Attorney,,,Under Votes,16,0,11,5
+Matagorda,4 - NAV,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,Sheriff,,REP,Rick DeLeon,111,1,82,28
+Matagorda,4 - NAV,Sheriff,,DEM,Aaron C. Green,13,1,9,3
+Matagorda,4 - NAV,Sheriff,,,Under Votes,5,0,4,1
+Matagorda,4 - NAV,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,County Tax Assessor-Collector,,REP,Becky Barrett Cook,118,2,87,29
+Matagorda,4 - NAV,County Tax Assessor-Collector,,,Under Votes,11,0,8,3
+Matagorda,4 - NAV,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,"Constable, Precinct 4",,REP,David Miles,119,2,89,28
+Matagorda,4 - NAV,"Constable, Precinct 4",,,Under Votes,10,0,6,4
+Matagorda,4 - NAV,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Matagorda,4 - NAV,"Constable, Precinct 4",,,Under Votes,23,0,19,4
+Matagorda,4 - NAV,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Matagorda,5,Registered Voters,,,,2088,,,
+Matagorda,5,Ballots Cast,,,,1405,,,
+Matagorda,5,President,,REP,Donald J. Trump JD Vance,1108,17,886,205
+Matagorda,5,President,,DEM,Kamala D. Harris Tim Walz,279,19,174,86
+Matagorda,5,President,,LIB,Chase Oliver Mike ter Maat,7,0,5,2
+Matagorda,5,President,,GRN,Jill Stein Rudolph Ware,6,0,5,1
+Matagorda,5,President,,,Under Votes,2,0,1,1
+Matagorda,5,President,,,Over Votes,0,0,0,0
+Matagorda,5,U.S. Senate,,REP,Ted Cruz,1058,16,852,190
+Matagorda,5,U.S. Senate,,DEM,Colin Allred,312,19,199,94
+Matagorda,5,U.S. Senate,,LIB,Ted Brown,23,0,15,8
+Matagorda,5,U.S. Senate,,,Under Votes,12,1,8,3
+Matagorda,5,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,5,U.S. House,22,REP,Troy E. Nehls,1100,16,875,209
+Matagorda,5,U.S. House,22,DEM,Marquette Greene-Scott,272,14,176,82
+Matagorda,5,U.S. House,22,,Under Votes,33,6,23,4
+Matagorda,5,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,5,Railroad Commissioner,,REP,Christi Craddick,1063,18,849,196
+Matagorda,5,Railroad Commissioner,,DEM,Katherine Culbert,256,16,171,69
+Matagorda,5,Railroad Commissioner,,LIB,Hawk Dunlap,38,0,29,9
+Matagorda,5,Railroad Commissioner,,GRN,Eddie Espinoza,15,0,5,10
+Matagorda,5,Railroad Commissioner,,,Under Votes,33,2,20,11
+Matagorda,5,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,5,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1100,18,877,205
+Matagorda,5,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,270,16,177,77
+Matagorda,5,"Justice, Supreme Court, Place 2",2,,Under Votes,35,2,20,13
+Matagorda,5,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,5,"Justice, Supreme Court, Place 4",4,REP,John Devine,1088,18,870,200
+Matagorda,5,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,275,16,178,81
+Matagorda,5,"Justice, Supreme Court, Place 4",4,,Under Votes,42,2,26,14
+Matagorda,5,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,5,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1062,17,855,190
+Matagorda,5,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,264,18,170,76
+Matagorda,5,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,34,0,21,13
+Matagorda,5,"Justice, Supreme Court, Place 6",6,,Under Votes,45,1,28,16
+Matagorda,5,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,5,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1083,18,871,194
+Matagorda,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,280,15,179,86
+Matagorda,5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,42,3,24,15
+Matagorda,5,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,5,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1087,17,870,200
+Matagorda,5,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,275,16,180,79
+Matagorda,5,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,43,3,24,16
+Matagorda,5,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,5,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1090,17,869,204
+Matagorda,5,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,267,16,176,75
+Matagorda,5,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,48,3,29,16
+Matagorda,5,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,5,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,1090,15,866,209
+Matagorda,5,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,272,16,183,73
+Matagorda,5,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,43,5,25,13
+Matagorda,5,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,5,State Representative,30,REP,AJ Louderback,1084,14,869,201
+Matagorda,5,State Representative,30,DEM,Stephanie R. Bassham,278,15,185,78
+Matagorda,5,State Representative,30,,Under Votes,43,7,20,16
+Matagorda,5,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,5,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,1072,15,862,195
+Matagorda,5,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,285,15,186,84
+Matagorda,5,"Chief Justice, 13th Court of Appeals District",,,Under Votes,48,6,26,16
+Matagorda,5,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,5,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,1068,15,861,192
+Matagorda,5,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,284,14,183,87
+Matagorda,5,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,53,7,30,16
+Matagorda,5,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,5,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,1047,15,846,186
+Matagorda,5,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,295,14,191,90
+Matagorda,5,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,63,7,37,19
+Matagorda,5,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,5,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,1087,15,866,206
+Matagorda,5,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,259,14,175,70
+Matagorda,5,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,59,7,33,19
+Matagorda,5,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,5,"District Judge, 23rd Judicial District",23,REP,John Maher,1170,19,913,238
+Matagorda,5,"District Judge, 23rd Judicial District",23,,Under Votes,235,17,161,57
+Matagorda,5,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,5,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,1164,19,901,244
+Matagorda,5,"District Judge, 130th Judicial District",130,,Under Votes,241,17,173,51
+Matagorda,5,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,5,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,882,21,644,217
+Matagorda,5,"District Attorney, 23rd Judicial District",23,,Under Votes,523,15,430,78
+Matagorda,5,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,5,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",1150,18,894,238
+Matagorda,5,County Attorney,,,Under Votes,255,18,180,57
+Matagorda,5,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,5,Sheriff,,REP,Rick DeLeon,1014,15,804,195
+Matagorda,5,Sheriff,,DEM,Aaron C. Green,348,15,245,88
+Matagorda,5,Sheriff,,,Under Votes,43,6,25,12
+Matagorda,5,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,5,County Tax Assessor-Collector,,REP,Becky Barrett Cook,1174,20,907,247
+Matagorda,5,County Tax Assessor-Collector,,,Under Votes,231,16,167,48
+Matagorda,5,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,5,"County Commissioner, Precinct 1",,REP,Bubba Cook,1162,19,900,243
+Matagorda,5,"County Commissioner, Precinct 1",,,Under Votes,243,17,174,52
+Matagorda,5,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Matagorda,5,"Constable, Precinct 1",,REP,Douglas Schoppe,1162,18,903,241
+Matagorda,5,"Constable, Precinct 1",,,Under Votes,243,18,171,54
+Matagorda,5,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Matagorda,6,Registered Voters,,,,1562,,,
+Matagorda,6,Ballots Cast,,,,1145,,,
+Matagorda,6,President,,REP,Donald J. Trump JD Vance,928,41,560,327
+Matagorda,6,President,,DEM,Kamala D. Harris Tim Walz,204,20,123,61
+Matagorda,6,President,,LIB,Chase Oliver Mike ter Maat,8,1,5,2
+Matagorda,6,President,,GRN,Jill Stein Rudolph Ware,2,0,1,1
+Matagorda,6,President,,,Under Votes,2,0,2,0
+Matagorda,6,President,,,Over Votes,0,0,0,0
+Matagorda,6,U.S. Senate,,REP,Ted Cruz,889,36,542,311
+Matagorda,6,U.S. Senate,,DEM,Colin Allred,232,25,133,74
+Matagorda,6,U.S. Senate,,LIB,Ted Brown,18,0,11,7
+Matagorda,6,U.S. Senate,,,Under Votes,6,1,5,0
+Matagorda,6,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,6,U.S. House,22,REP,Troy E. Nehls,920,37,563,320
+Matagorda,6,U.S. House,22,DEM,Marquette Greene-Scott,190,17,117,56
+Matagorda,6,U.S. House,22,,Under Votes,35,8,11,16
+Matagorda,6,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,6,Railroad Commissioner,,REP,Christi Craddick,890,37,552,301
+Matagorda,6,Railroad Commissioner,,DEM,Katherine Culbert,183,21,107,55
+Matagorda,6,Railroad Commissioner,,LIB,Hawk Dunlap,27,0,11,16
+Matagorda,6,Railroad Commissioner,,GRN,Eddie Espinoza,9,1,6,2
+Matagorda,6,Railroad Commissioner,,,Under Votes,36,3,15,18
+Matagorda,6,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,6,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,921,40,565,316
+Matagorda,6,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,192,18,114,60
+Matagorda,6,"Justice, Supreme Court, Place 2",2,,Under Votes,32,4,12,16
+Matagorda,6,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,6,"Justice, Supreme Court, Place 4",4,REP,John Devine,922,39,565,318
+Matagorda,6,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,187,19,110,58
+Matagorda,6,"Justice, Supreme Court, Place 4",4,,Under Votes,36,4,16,16
+Matagorda,6,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,6,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,893,40,550,303
+Matagorda,6,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,188,19,112,57
+Matagorda,6,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,31,0,16,15
+Matagorda,6,"Justice, Supreme Court, Place 6",6,,Under Votes,33,3,13,17
+Matagorda,6,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,6,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,922,39,563,320
+Matagorda,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,188,19,114,55
+Matagorda,6,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,35,4,14,17
+Matagorda,6,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,6,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,921,39,565,317
+Matagorda,6,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,184,19,112,53
+Matagorda,6,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,40,4,14,22
+Matagorda,6,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,6,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,918,39,565,314
+Matagorda,6,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,185,19,110,56
+Matagorda,6,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,42,4,16,22
+Matagorda,6,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,6,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,921,36,563,322
+Matagorda,6,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,185,18,115,52
+Matagorda,6,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,39,8,13,18
+Matagorda,6,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,6,State Representative,30,REP,AJ Louderback,916,38,558,320
+Matagorda,6,State Representative,30,DEM,Stephanie R. Bassham,189,15,119,55
+Matagorda,6,State Representative,30,,Under Votes,40,9,14,17
+Matagorda,6,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,6,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,906,36,555,315
+Matagorda,6,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,191,17,117,57
+Matagorda,6,"Chief Justice, 13th Court of Appeals District",,,Under Votes,48,9,19,20
+Matagorda,6,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,6,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,908,36,559,313
+Matagorda,6,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,188,17,115,56
+Matagorda,6,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,49,9,17,23
+Matagorda,6,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,6,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,895,36,551,308
+Matagorda,6,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,194,16,121,57
+Matagorda,6,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,56,10,19,27
+Matagorda,6,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,6,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,914,36,566,312
+Matagorda,6,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,179,17,107,55
+Matagorda,6,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,52,9,18,25
+Matagorda,6,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,6,"District Judge, 23rd Judicial District",23,REP,John Maher,986,42,601,343
+Matagorda,6,"District Judge, 23rd Judicial District",23,,Under Votes,159,20,90,49
+Matagorda,6,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,6,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,980,43,594,343
+Matagorda,6,"District Judge, 130th Judicial District",130,,Under Votes,165,19,97,49
+Matagorda,6,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,6,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,482,27,294,161
+Matagorda,6,"District Attorney, 23rd Judicial District",23,,Under Votes,663,35,397,231
+Matagorda,6,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,6,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",968,40,593,335
+Matagorda,6,County Attorney,,,Under Votes,177,22,98,57
+Matagorda,6,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,6,Sheriff,,REP,Rick DeLeon,876,38,539,299
+Matagorda,6,Sheriff,,DEM,Aaron C. Green,241,16,147,78
+Matagorda,6,Sheriff,,,Under Votes,28,8,5,15
+Matagorda,6,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,6,County Tax Assessor-Collector,,REP,Becky Barrett Cook,978,46,590,342
+Matagorda,6,County Tax Assessor-Collector,,,Under Votes,167,16,101,50
+Matagorda,6,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,6,"Constable, Precinct 6",,REP,"William ""Bill"" Orton",933,42,565,326
+Matagorda,6,"Constable, Precinct 6",,,Under Votes,212,20,126,66
+Matagorda,6,"Constable, Precinct 6",,,Over Votes,0,0,0,0
+Matagorda,7,Registered Voters,,,,28,,,
+Matagorda,7,Ballots Cast,,,,25,,,
+Matagorda,7,President,,REP,Donald J. Trump JD Vance,22,0,21,1
+Matagorda,7,President,,DEM,Kamala D. Harris Tim Walz,3,0,3,0
+Matagorda,7,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Matagorda,7,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Matagorda,7,President,,,Under Votes,0,0,0,0
+Matagorda,7,President,,,Over Votes,0,0,0,0
+Matagorda,7,U.S. Senate,,REP,Ted Cruz,22,0,21,1
+Matagorda,7,U.S. Senate,,DEM,Colin Allred,2,0,2,0
+Matagorda,7,U.S. Senate,,LIB,Ted Brown,1,0,1,0
+Matagorda,7,U.S. Senate,,,Under Votes,0,0,0,0
+Matagorda,7,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,7,U.S. House,22,REP,Troy E. Nehls,24,0,23,1
+Matagorda,7,U.S. House,22,DEM,Marquette Greene-Scott,0,0,0,0
+Matagorda,7,U.S. House,22,,Under Votes,1,0,1,0
+Matagorda,7,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,7,Railroad Commissioner,,REP,Christi Craddick,22,0,21,1
+Matagorda,7,Railroad Commissioner,,DEM,Katherine Culbert,2,0,2,0
+Matagorda,7,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,1,0
+Matagorda,7,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Matagorda,7,Railroad Commissioner,,,Under Votes,0,0,0,0
+Matagorda,7,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,7,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,23,0,22,1
+Matagorda,7,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,0,0,0,0
+Matagorda,7,"Justice, Supreme Court, Place 2",2,,Under Votes,2,0,2,0
+Matagorda,7,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,7,"Justice, Supreme Court, Place 4",4,REP,John Devine,21,0,20,1
+Matagorda,7,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,3,0,3,0
+Matagorda,7,"Justice, Supreme Court, Place 4",4,,Under Votes,1,0,1,0
+Matagorda,7,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,7,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,21,0,20,1
+Matagorda,7,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,3,0,3,0
+Matagorda,7,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Matagorda,7,"Justice, Supreme Court, Place 6",6,,Under Votes,1,0,1,0
+Matagorda,7,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,7,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,21,0,20,1
+Matagorda,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,3,0,3,0
+Matagorda,7,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,0,1,0
+Matagorda,7,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,7,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,21,0,20,1
+Matagorda,7,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,3,0,3,0
+Matagorda,7,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,1,0,1,0
+Matagorda,7,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,7,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,24,0,23,1
+Matagorda,7,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,1,0,1,0
+Matagorda,7,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,0,0,0,0
+Matagorda,7,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,7,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,23,0,22,1
+Matagorda,7,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,1,0,1,0
+Matagorda,7,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,1,0,1,0
+Matagorda,7,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,7,State Representative,30,REP,AJ Louderback,24,0,23,1
+Matagorda,7,State Representative,30,DEM,Stephanie R. Bassham,0,0,0,0
+Matagorda,7,State Representative,30,,Under Votes,1,0,1,0
+Matagorda,7,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,7,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,21,0,20,1
+Matagorda,7,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,3,0,3,0
+Matagorda,7,"Chief Justice, 13th Court of Appeals District",,,Under Votes,1,0,1,0
+Matagorda,7,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,7,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,23,0,22,1
+Matagorda,7,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,1,0,1,0
+Matagorda,7,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,1,0,1,0
+Matagorda,7,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,7,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,21,0,20,1
+Matagorda,7,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,2,0,2,0
+Matagorda,7,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,2,0,2,0
+Matagorda,7,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,7,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,23,0,22,1
+Matagorda,7,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,0,0,0,0
+Matagorda,7,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,2,0,2,0
+Matagorda,7,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,7,"District Judge, 23rd Judicial District",23,REP,John Maher,22,0,21,1
+Matagorda,7,"District Judge, 23rd Judicial District",23,,Under Votes,3,0,3,0
+Matagorda,7,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,7,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,24,0,23,1
+Matagorda,7,"District Judge, 130th Judicial District",130,,Under Votes,1,0,1,0
+Matagorda,7,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,7,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,11,0,11,0
+Matagorda,7,"District Attorney, 23rd Judicial District",23,,Under Votes,14,0,13,1
+Matagorda,7,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,7,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",24,0,23,1
+Matagorda,7,County Attorney,,,Under Votes,1,0,1,0
+Matagorda,7,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,7,Sheriff,,REP,Rick DeLeon,19,0,18,1
+Matagorda,7,Sheriff,,DEM,Aaron C. Green,6,0,6,0
+Matagorda,7,Sheriff,,,Under Votes,0,0,0,0
+Matagorda,7,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,7,County Tax Assessor-Collector,,REP,Becky Barrett Cook,23,0,22,1
+Matagorda,7,County Tax Assessor-Collector,,,Under Votes,2,0,2,0
+Matagorda,7,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,7,"County Commissioner, Precinct 3",,REP,Donald Shimek,24,0,23,1
+Matagorda,7,"County Commissioner, Precinct 3",,,Under Votes,0,0,0,0
+Matagorda,7,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,7,"Constable, Precinct 3",,REP,Jesse Alvarez Jr,23,0,22,1
+Matagorda,7,"Constable, Precinct 3",,,Under Votes,2,0,2,0
+Matagorda,7,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,Registered Voters,,,,163,,,
+Matagorda,7 - NAV,Ballots Cast,,,,130,,,
+Matagorda,7 - NAV,President,,REP,Donald J. Trump JD Vance,118,0,104,14
+Matagorda,7 - NAV,President,,DEM,Kamala D. Harris Tim Walz,8,0,8,0
+Matagorda,7 - NAV,President,,LIB,Chase Oliver Mike ter Maat,2,0,2,0
+Matagorda,7 - NAV,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Matagorda,7 - NAV,President,,,Under Votes,0,0,0,0
+Matagorda,7 - NAV,President,,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,U.S. Senate,,REP,Ted Cruz,117,0,102,15
+Matagorda,7 - NAV,U.S. Senate,,DEM,Colin Allred,8,0,8,0
+Matagorda,7 - NAV,U.S. Senate,,LIB,Ted Brown,5,0,5,0
+Matagorda,7 - NAV,U.S. Senate,,,Under Votes,0,0,0,0
+Matagorda,7 - NAV,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,U.S. House,22,REP,Troy E. Nehls,118,0,105,13
+Matagorda,7 - NAV,U.S. House,22,DEM,Marquette Greene-Scott,8,0,8,0
+Matagorda,7 - NAV,U.S. House,22,,Under Votes,4,0,2,2
+Matagorda,7 - NAV,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,Railroad Commissioner,,REP,Christi Craddick,115,0,102,13
+Matagorda,7 - NAV,Railroad Commissioner,,DEM,Katherine Culbert,6,0,6,0
+Matagorda,7 - NAV,Railroad Commissioner,,LIB,Hawk Dunlap,4,0,3,1
+Matagorda,7 - NAV,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0
+Matagorda,7 - NAV,Railroad Commissioner,,,Under Votes,3,0,2,1
+Matagorda,7 - NAV,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,120,0,107,13
+Matagorda,7 - NAV,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,6,0,6,0
+Matagorda,7 - NAV,"Justice, Supreme Court, Place 2",2,,Under Votes,4,0,2,2
+Matagorda,7 - NAV,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,"Justice, Supreme Court, Place 4",4,REP,John Devine,120,0,107,13
+Matagorda,7 - NAV,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,6,0,6,0
+Matagorda,7 - NAV,"Justice, Supreme Court, Place 4",4,,Under Votes,4,0,2,2
+Matagorda,7 - NAV,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,116,0,103,13
+Matagorda,7 - NAV,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,6,0,6,0
+Matagorda,7 - NAV,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,5,0,5,0
+Matagorda,7 - NAV,"Justice, Supreme Court, Place 6",6,,Under Votes,3,0,1,2
+Matagorda,7 - NAV,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,119,0,106,13
+Matagorda,7 - NAV,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,7,0,7,0
+Matagorda,7 - NAV,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,4,0,2,2
+Matagorda,7 - NAV,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,118,0,106,12
+Matagorda,7 - NAV,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,7,0,7,0
+Matagorda,7 - NAV,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,5,0,2,3
+Matagorda,7 - NAV,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,118,0,106,12
+Matagorda,7 - NAV,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,6,0,6,0
+Matagorda,7 - NAV,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,6,0,3,3
+Matagorda,7 - NAV,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,118,0,106,12
+Matagorda,7 - NAV,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,7,0,7,0
+Matagorda,7 - NAV,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,5,0,2,3
+Matagorda,7 - NAV,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,State Representative,30,REP,AJ Louderback,120,0,107,13
+Matagorda,7 - NAV,State Representative,30,DEM,Stephanie R. Bassham,6,0,6,0
+Matagorda,7 - NAV,State Representative,30,,Under Votes,4,0,2,2
+Matagorda,7 - NAV,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,118,0,106,12
+Matagorda,7 - NAV,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,7,0,7,0
+Matagorda,7 - NAV,"Chief Justice, 13th Court of Appeals District",,,Under Votes,5,0,2,3
+Matagorda,7 - NAV,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,118,0,106,12
+Matagorda,7 - NAV,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,6,0,6,0
+Matagorda,7 - NAV,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,6,0,3,3
+Matagorda,7 - NAV,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,115,0,103,12
+Matagorda,7 - NAV,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,9,0,9,0
+Matagorda,7 - NAV,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,6,0,3,3
+Matagorda,7 - NAV,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,121,0,108,13
+Matagorda,7 - NAV,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,5,0,5,0
+Matagorda,7 - NAV,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,4,0,2,2
+Matagorda,7 - NAV,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,"District Judge, 23rd Judicial District",23,REP,John Maher,121,0,108,13
+Matagorda,7 - NAV,"District Judge, 23rd Judicial District",23,,Under Votes,9,0,7,2
+Matagorda,7 - NAV,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,121,0,108,13
+Matagorda,7 - NAV,"District Judge, 130th Judicial District",130,,Under Votes,9,0,7,2
+Matagorda,7 - NAV,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,71,0,65,6
+Matagorda,7 - NAV,"District Attorney, 23rd Judicial District",23,,Under Votes,59,0,50,9
+Matagorda,7 - NAV,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",121,0,107,14
+Matagorda,7 - NAV,County Attorney,,,Under Votes,9,0,8,1
+Matagorda,7 - NAV,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,Sheriff,,REP,Rick DeLeon,103,0,89,14
+Matagorda,7 - NAV,Sheriff,,DEM,Aaron C. Green,24,0,24,0
+Matagorda,7 - NAV,Sheriff,,,Under Votes,3,0,2,1
+Matagorda,7 - NAV,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,County Tax Assessor-Collector,,REP,Becky Barrett Cook,123,0,109,14
+Matagorda,7 - NAV,County Tax Assessor-Collector,,,Under Votes,7,0,6,1
+Matagorda,7 - NAV,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,"County Commissioner, Precinct 3",,REP,Donald Shimek,124,0,110,14
+Matagorda,7 - NAV,"County Commissioner, Precinct 3",,,Under Votes,5,0,4,1
+Matagorda,7 - NAV,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,"Constable, Precinct 3",,REP,Jesse Alvarez Jr,122,0,109,13
+Matagorda,7 - NAV,"Constable, Precinct 3",,,Under Votes,8,0,6,2
+Matagorda,7 - NAV,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,7 - NAV,"Constable, Precinct 3",,,Under Votes,20,0,14,6
+Matagorda,7 - NAV,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,Registered Voters,,,,9,,,
+Matagorda,7 - MISD,Ballots Cast,,,,5,,,
+Matagorda,7 - MISD,President,,REP,Donald J. Trump JD Vance,5,2,2,1
+Matagorda,7 - MISD,President,,DEM,Kamala D. Harris Tim Walz,0,0,0,0
+Matagorda,7 - MISD,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Matagorda,7 - MISD,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Matagorda,7 - MISD,President,,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,President,,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,U.S. Senate,,REP,Ted Cruz,5,2,2,1
+Matagorda,7 - MISD,U.S. Senate,,DEM,Colin Allred,0,0,0,0
+Matagorda,7 - MISD,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Matagorda,7 - MISD,U.S. Senate,,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,U.S. House,22,REP,Troy E. Nehls,5,2,2,1
+Matagorda,7 - MISD,U.S. House,22,DEM,Marquette Greene-Scott,0,0,0,0
+Matagorda,7 - MISD,U.S. House,22,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,Railroad Commissioner,,REP,Christi Craddick,5,2,2,1
+Matagorda,7 - MISD,Railroad Commissioner,,DEM,Katherine Culbert,0,0,0,0
+Matagorda,7 - MISD,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Matagorda,7 - MISD,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Matagorda,7 - MISD,Railroad Commissioner,,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,5,2,2,1
+Matagorda,7 - MISD,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,0,0,0,0
+Matagorda,7 - MISD,"Justice, Supreme Court, Place 2",2,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"Justice, Supreme Court, Place 4",4,REP,John Devine,5,2,2,1
+Matagorda,7 - MISD,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,0,0,0,0
+Matagorda,7 - MISD,"Justice, Supreme Court, Place 4",4,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,5,2,2,1
+Matagorda,7 - MISD,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,0,0,0,0
+Matagorda,7 - MISD,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Matagorda,7 - MISD,"Justice, Supreme Court, Place 6",6,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,5,2,2,1
+Matagorda,7 - MISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,0,0,0,0
+Matagorda,7 - MISD,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,5,2,2,1
+Matagorda,7 - MISD,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,0,0,0,0
+Matagorda,7 - MISD,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,5,2,2,1
+Matagorda,7 - MISD,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,0,0,0,0
+Matagorda,7 - MISD,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,5,2,2,1
+Matagorda,7 - MISD,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,0,0,0,0
+Matagorda,7 - MISD,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,State Representative,30,REP,AJ Louderback,5,2,2,1
+Matagorda,7 - MISD,State Representative,30,DEM,Stephanie R. Bassham,0,0,0,0
+Matagorda,7 - MISD,State Representative,30,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,5,2,2,1
+Matagorda,7 - MISD,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,0,0,0,0
+Matagorda,7 - MISD,"Chief Justice, 13th Court of Appeals District",,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,5,2,2,1
+Matagorda,7 - MISD,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,0,0,0,0
+Matagorda,7 - MISD,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,5,2,2,1
+Matagorda,7 - MISD,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,0,0,0,0
+Matagorda,7 - MISD,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,5,2,2,1
+Matagorda,7 - MISD,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,0,0,0,0
+Matagorda,7 - MISD,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"District Judge, 23rd Judicial District",23,REP,John Maher,5,2,2,1
+Matagorda,7 - MISD,"District Judge, 23rd Judicial District",23,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,5,2,2,1
+Matagorda,7 - MISD,"District Judge, 130th Judicial District",130,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,0,0,0,0
+Matagorda,7 - MISD,"District Attorney, 23rd Judicial District",23,,Under Votes,5,2,2,1
+Matagorda,7 - MISD,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",5,2,2,1
+Matagorda,7 - MISD,County Attorney,,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,Sheriff,,REP,Rick DeLeon,5,2,2,1
+Matagorda,7 - MISD,Sheriff,,DEM,Aaron C. Green,0,0,0,0
+Matagorda,7 - MISD,Sheriff,,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,County Tax Assessor-Collector,,REP,Becky Barrett Cook,5,2,2,1
+Matagorda,7 - MISD,County Tax Assessor-Collector,,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"County Commissioner, Precinct 3",,REP,Donald Shimek,5,2,2,1
+Matagorda,7 - MISD,"County Commissioner, Precinct 3",,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"Constable, Precinct 3",,REP,Jesse Alvarez Jr,5,2,2,1
+Matagorda,7 - MISD,"Constable, Precinct 3",,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"Constable, Precinct 3",,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"Constable, Precinct 3",,,Under Votes,4,2,2,0
+Matagorda,7 - MISD,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,7 - MISD,"Constable, Precinct 3",,,Under Votes,0,0,0,0
+Matagorda,7 - MISD,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Matagorda,8,Registered Voters,,,,875,,,
+Matagorda,8,Ballots Cast,,,,539,,,
+Matagorda,8,President,,REP,Donald J. Trump JD Vance,437,5,301,131
+Matagorda,8,President,,DEM,Kamala D. Harris Tim Walz,95,3,61,31
+Matagorda,8,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+Matagorda,8,President,,GRN,Jill Stein Rudolph Ware,3,0,2,1
+Matagorda,8,President,,,Under Votes,3,0,1,2
+Matagorda,8,President,,,Over Votes,0,0,0,0
+Matagorda,8,U.S. Senate,,REP,Ted Cruz,417,5,290,122
+Matagorda,8,U.S. Senate,,DEM,Colin Allred,109,3,71,35
+Matagorda,8,U.S. Senate,,LIB,Ted Brown,5,0,0,5
+Matagorda,8,U.S. Senate,,,Under Votes,8,0,5,3
+Matagorda,8,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,8,U.S. House,22,REP,Troy E. Nehls,428,5,295,128
+Matagorda,8,U.S. House,22,DEM,Marquette Greene-Scott,95,3,60,32
+Matagorda,8,U.S. House,22,,Under Votes,16,0,11,5
+Matagorda,8,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,8,Railroad Commissioner,,REP,Christi Craddick,411,5,286,120
+Matagorda,8,Railroad Commissioner,,DEM,Katherine Culbert,85,3,51,31
+Matagorda,8,Railroad Commissioner,,LIB,Hawk Dunlap,9,0,5,4
+Matagorda,8,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,7,1
+Matagorda,8,Railroad Commissioner,,,Under Votes,26,0,17,9
+Matagorda,8,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,8,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,423,5,293,125
+Matagorda,8,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,90,3,57,30
+Matagorda,8,"Justice, Supreme Court, Place 2",2,,Under Votes,26,0,16,10
+Matagorda,8,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,8,"Justice, Supreme Court, Place 4",4,REP,John Devine,424,5,293,126
+Matagorda,8,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,87,2,56,29
+Matagorda,8,"Justice, Supreme Court, Place 4",4,,Under Votes,28,1,17,10
+Matagorda,8,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,8,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,406,5,281,120
+Matagorda,8,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,93,3,59,31
+Matagorda,8,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,10,0,8,2
+Matagorda,8,"Justice, Supreme Court, Place 6",6,,Under Votes,30,0,18,12
+Matagorda,8,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,8,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,419,5,290,124
+Matagorda,8,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,95,3,61,31
+Matagorda,8,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,25,0,15,10
+Matagorda,8,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,8,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,421,5,291,125
+Matagorda,8,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,85,3,55,27
+Matagorda,8,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,33,0,20,13
+Matagorda,8,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,8,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,428,5,297,126
+Matagorda,8,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,81,3,52,26
+Matagorda,8,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,30,0,17,13
+Matagorda,8,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,8,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,427,5,295,127
+Matagorda,8,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,89,3,59,27
+Matagorda,8,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,23,0,12,11
+Matagorda,8,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,8,State Representative,30,REP,AJ Louderback,426,5,294,127
+Matagorda,8,State Representative,30,DEM,Stephanie R. Bassham,88,3,57,28
+Matagorda,8,State Representative,30,,Under Votes,25,0,15,10
+Matagorda,8,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,8,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,414,5,286,123
+Matagorda,8,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,94,3,61,30
+Matagorda,8,"Chief Justice, 13th Court of Appeals District",,,Under Votes,31,0,19,12
+Matagorda,8,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,8,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,406,5,280,121
+Matagorda,8,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,97,3,64,30
+Matagorda,8,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,36,0,22,14
+Matagorda,8,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,8,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,404,5,281,118
+Matagorda,8,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,99,3,65,31
+Matagorda,8,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,36,0,20,16
+Matagorda,8,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,8,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,418,5,290,123
+Matagorda,8,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,85,3,55,27
+Matagorda,8,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,36,0,21,15
+Matagorda,8,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,8,"District Judge, 23rd Judicial District",23,REP,John Maher,447,5,308,134
+Matagorda,8,"District Judge, 23rd Judicial District",23,,Under Votes,92,3,58,31
+Matagorda,8,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,8,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,455,5,312,138
+Matagorda,8,"District Judge, 130th Judicial District",130,,Under Votes,84,3,54,27
+Matagorda,8,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,8,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,315,4,205,106
+Matagorda,8,"District Attorney, 23rd Judicial District",23,,Under Votes,224,4,161,59
+Matagorda,8,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,8,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",451,5,308,138
+Matagorda,8,County Attorney,,,Under Votes,88,3,58,27
+Matagorda,8,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,8,Sheriff,,REP,Rick DeLeon,356,5,255,96
+Matagorda,8,Sheriff,,DEM,Aaron C. Green,174,3,104,67
+Matagorda,8,Sheriff,,,Under Votes,9,0,7,2
+Matagorda,8,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,8,County Tax Assessor-Collector,,REP,Becky Barrett Cook,457,5,313,139
+Matagorda,8,County Tax Assessor-Collector,,,Under Votes,82,3,53,26
+Matagorda,8,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,8,"Constable, Precinct 4",,REP,David Miles,444,4,307,133
+Matagorda,8,"Constable, Precinct 4",,,Under Votes,95,4,59,32
+Matagorda,8,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Matagorda,9,Registered Voters,,,,216,,,
+Matagorda,9,Ballots Cast,,,,126,,,
+Matagorda,9,President,,REP,Donald J. Trump JD Vance,81,9,54,18
+Matagorda,9,President,,DEM,Kamala D. Harris Tim Walz,45,4,29,12
+Matagorda,9,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Matagorda,9,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Matagorda,9,President,,,Under Votes,0,0,0,0
+Matagorda,9,President,,,Over Votes,0,0,0,0
+Matagorda,9,U.S. Senate,,REP,Ted Cruz,77,9,52,16
+Matagorda,9,U.S. Senate,,DEM,Colin Allred,46,4,30,12
+Matagorda,9,U.S. Senate,,LIB,Ted Brown,3,0,1,2
+Matagorda,9,U.S. Senate,,,Under Votes,0,0,0,0
+Matagorda,9,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,9,U.S. House,22,REP,Troy E. Nehls,80,8,53,19
+Matagorda,9,U.S. House,22,DEM,Marquette Greene-Scott,42,3,28,11
+Matagorda,9,U.S. House,22,,Under Votes,4,2,2,0
+Matagorda,9,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,9,Railroad Commissioner,,REP,Christi Craddick,79,8,53,18
+Matagorda,9,Railroad Commissioner,,DEM,Katherine Culbert,39,4,24,11
+Matagorda,9,Railroad Commissioner,,LIB,Hawk Dunlap,3,1,2,0
+Matagorda,9,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1
+Matagorda,9,Railroad Commissioner,,,Under Votes,3,0,3,0
+Matagorda,9,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,9,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,83,9,55,19
+Matagorda,9,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,42,4,27,11
+Matagorda,9,"Justice, Supreme Court, Place 2",2,,Under Votes,1,0,1,0
+Matagorda,9,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,9,"Justice, Supreme Court, Place 4",4,REP,John Devine,83,9,55,19
+Matagorda,9,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,42,4,27,11
+Matagorda,9,"Justice, Supreme Court, Place 4",4,,Under Votes,1,0,1,0
+Matagorda,9,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,9,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,80,9,54,17
+Matagorda,9,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,40,4,25,11
+Matagorda,9,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,5,0,3,2
+Matagorda,9,"Justice, Supreme Court, Place 6",6,,Under Votes,1,0,1,0
+Matagorda,9,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,9,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,82,9,55,18
+Matagorda,9,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,43,4,27,12
+Matagorda,9,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,0,1,0
+Matagorda,9,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,9,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,82,9,55,18
+Matagorda,9,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,43,4,27,12
+Matagorda,9,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,1,0,1,0
+Matagorda,9,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,9,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,85,9,57,19
+Matagorda,9,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,39,3,25,11
+Matagorda,9,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,2,1,1,0
+Matagorda,9,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,9,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,83,8,56,19
+Matagorda,9,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,41,3,27,11
+Matagorda,9,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,2,2,0,0
+Matagorda,9,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,9,State Representative,30,REP,AJ Louderback,81,8,55,18
+Matagorda,9,State Representative,30,DEM,Stephanie R. Bassham,40,2,26,12
+Matagorda,9,State Representative,30,,Under Votes,5,3,2,0
+Matagorda,9,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,9,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,79,8,54,17
+Matagorda,9,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,42,3,27,12
+Matagorda,9,"Chief Justice, 13th Court of Appeals District",,,Under Votes,5,2,2,1
+Matagorda,9,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,9,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,80,8,55,17
+Matagorda,9,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,41,3,26,12
+Matagorda,9,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,5,2,2,1
+Matagorda,9,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,9,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,81,8,55,18
+Matagorda,9,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,42,3,27,12
+Matagorda,9,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,3,2,1,0
+Matagorda,9,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,9,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,82,8,56,18
+Matagorda,9,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,40,3,26,11
+Matagorda,9,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,4,2,1,1
+Matagorda,9,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,9,"District Judge, 23rd Judicial District",23,REP,John Maher,93,8,65,20
+Matagorda,9,"District Judge, 23rd Judicial District",23,,Under Votes,33,5,18,10
+Matagorda,9,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,9,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,93,7,66,20
+Matagorda,9,"District Judge, 130th Judicial District",130,,Under Votes,33,6,17,10
+Matagorda,9,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,9,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,72,6,47,19
+Matagorda,9,"District Attorney, 23rd Judicial District",23,,Under Votes,54,7,36,11
+Matagorda,9,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,9,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",90,7,64,19
+Matagorda,9,County Attorney,,,Under Votes,36,6,19,11
+Matagorda,9,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,9,Sheriff,,REP,Rick DeLeon,81,7,56,18
+Matagorda,9,Sheriff,,DEM,Aaron C. Green,43,4,27,12
+Matagorda,9,Sheriff,,,Under Votes,2,2,0,0
+Matagorda,9,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,9,County Tax Assessor-Collector,,REP,Becky Barrett Cook,94,8,66,20
+Matagorda,9,County Tax Assessor-Collector,,,Under Votes,32,5,17,10
+Matagorda,9,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,9,"County Commissioner, Precinct 1",,REP,Bubba Cook,93,8,65,20
+Matagorda,9,"County Commissioner, Precinct 1",,,Under Votes,33,5,18,10
+Matagorda,9,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Matagorda,9,"Constable, Precinct 1",,REP,Douglas Schoppe,90,6,65,19
+Matagorda,9,"Constable, Precinct 1",,,Under Votes,36,7,18,11
+Matagorda,9,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Matagorda,10,Registered Voters,,,,405,,,
+Matagorda,10,Ballots Cast,,,,270,,,
+Matagorda,10,President,,REP,Donald J. Trump JD Vance,228,7,171,50
+Matagorda,10,President,,DEM,Kamala D. Harris Tim Walz,38,1,25,12
+Matagorda,10,President,,LIB,Chase Oliver Mike ter Maat,2,0,2,0
+Matagorda,10,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+Matagorda,10,President,,,Under Votes,1,0,0,1
+Matagorda,10,President,,,Over Votes,0,0,0,0
+Matagorda,10,U.S. Senate,,REP,Ted Cruz,224,7,168,49
+Matagorda,10,U.S. Senate,,DEM,Colin Allred,38,1,28,9
+Matagorda,10,U.S. Senate,,LIB,Ted Brown,7,0,3,4
+Matagorda,10,U.S. Senate,,,Under Votes,1,0,0,1
+Matagorda,10,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,10,U.S. House,22,REP,Troy E. Nehls,225,5,170,50
+Matagorda,10,U.S. House,22,DEM,Marquette Greene-Scott,36,1,25,10
+Matagorda,10,U.S. House,22,,Under Votes,9,2,4,3
+Matagorda,10,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,10,Railroad Commissioner,,REP,Christi Craddick,224,8,169,47
+Matagorda,10,Railroad Commissioner,,DEM,Katherine Culbert,30,0,22,8
+Matagorda,10,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,2,1
+Matagorda,10,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,1,3
+Matagorda,10,Railroad Commissioner,,,Under Votes,9,0,5,4
+Matagorda,10,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,10,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,228,8,169,51
+Matagorda,10,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,32,0,24,8
+Matagorda,10,"Justice, Supreme Court, Place 2",2,,Under Votes,10,0,6,4
+Matagorda,10,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,10,"Justice, Supreme Court, Place 4",4,REP,John Devine,225,8,168,49
+Matagorda,10,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,33,0,25,8
+Matagorda,10,"Justice, Supreme Court, Place 4",4,,Under Votes,12,0,6,6
+Matagorda,10,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,10,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,218,8,163,47
+Matagorda,10,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,34,0,26,8
+Matagorda,10,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,7,0,4,3
+Matagorda,10,"Justice, Supreme Court, Place 6",6,,Under Votes,11,0,6,5
+Matagorda,10,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,10,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,227,8,170,49
+Matagorda,10,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,33,0,24,9
+Matagorda,10,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,10,0,5,5
+Matagorda,10,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,10,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,227,8,169,50
+Matagorda,10,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,33,0,24,9
+Matagorda,10,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,10,0,6,4
+Matagorda,10,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,10,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,229,8,171,50
+Matagorda,10,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,31,0,22,9
+Matagorda,10,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,10,0,6,4
+Matagorda,10,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,10,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,219,5,167,47
+Matagorda,10,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,37,1,27,9
+Matagorda,10,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,14,2,5,7
+Matagorda,10,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,10,State Representative,30,REP,AJ Louderback,224,5,169,50
+Matagorda,10,State Representative,30,DEM,Stephanie R. Bassham,36,1,26,9
+Matagorda,10,State Representative,30,,Under Votes,10,2,4,4
+Matagorda,10,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,10,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,221,6,168,47
+Matagorda,10,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,37,0,26,11
+Matagorda,10,"Chief Justice, 13th Court of Appeals District",,,Under Votes,12,2,5,5
+Matagorda,10,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,10,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,223,6,168,49
+Matagorda,10,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,33,0,25,8
+Matagorda,10,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,14,2,6,6
+Matagorda,10,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,10,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,217,5,164,48
+Matagorda,10,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,38,1,28,9
+Matagorda,10,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,15,2,7,6
+Matagorda,10,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,10,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,226,6,171,49
+Matagorda,10,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,31,0,23,8
+Matagorda,10,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,13,2,5,6
+Matagorda,10,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,10,"District Judge, 23rd Judicial District",23,REP,John Maher,234,6,176,52
+Matagorda,10,"District Judge, 23rd Judicial District",23,,Under Votes,36,2,23,11
+Matagorda,10,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,10,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,231,6,172,53
+Matagorda,10,"District Judge, 130th Judicial District",130,,Under Votes,39,2,27,10
+Matagorda,10,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,10,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,150,1,118,31
+Matagorda,10,"District Attorney, 23rd Judicial District",23,,Under Votes,120,7,81,32
+Matagorda,10,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,10,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",226,6,172,48
+Matagorda,10,County Attorney,,,Under Votes,44,2,27,15
+Matagorda,10,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,10,Sheriff,,REP,Rick DeLeon,213,6,159,48
+Matagorda,10,Sheriff,,DEM,Aaron C. Green,49,0,37,12
+Matagorda,10,Sheriff,,,Under Votes,8,2,3,3
+Matagorda,10,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,10,County Tax Assessor-Collector,,REP,Becky Barrett Cook,233,6,175,52
+Matagorda,10,County Tax Assessor-Collector,,,Under Votes,37,2,24,11
+Matagorda,10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,10,"Constable, Precinct 2",,REP,Keith Sullivan,232,6,175,51
+Matagorda,10,"Constable, Precinct 2",,,Under Votes,38,2,24,12
+Matagorda,10,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Matagorda,12,Registered Voters,,,,281,,,
+Matagorda,12,Ballots Cast,,,,179,,,
+Matagorda,12,President,,REP,Donald J. Trump JD Vance,152,3,114,35
+Matagorda,12,President,,DEM,Kamala D. Harris Tim Walz,26,2,16,8
+Matagorda,12,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+Matagorda,12,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Matagorda,12,President,,,Under Votes,0,0,0,0
+Matagorda,12,President,,,Over Votes,0,0,0,0
+Matagorda,12,U.S. Senate,,REP,Ted Cruz,144,3,110,31
+Matagorda,12,U.S. Senate,,DEM,Colin Allred,32,2,19,11
+Matagorda,12,U.S. Senate,,LIB,Ted Brown,3,0,2,1
+Matagorda,12,U.S. Senate,,,Under Votes,0,0,0,0
+Matagorda,12,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,12,U.S. House,22,REP,Troy E. Nehls,147,3,112,32
+Matagorda,12,U.S. House,22,DEM,Marquette Greene-Scott,28,2,17,9
+Matagorda,12,U.S. House,22,,Under Votes,4,0,2,2
+Matagorda,12,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,12,Railroad Commissioner,,REP,Christi Craddick,136,3,106,27
+Matagorda,12,Railroad Commissioner,,DEM,Katherine Culbert,27,2,17,8
+Matagorda,12,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,3,3
+Matagorda,12,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,0,2
+Matagorda,12,Railroad Commissioner,,,Under Votes,8,0,5,3
+Matagorda,12,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,12,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,146,3,112,31
+Matagorda,12,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,26,2,16,8
+Matagorda,12,"Justice, Supreme Court, Place 2",2,,Under Votes,7,0,3,4
+Matagorda,12,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,12,"Justice, Supreme Court, Place 4",4,REP,John Devine,149,3,113,33
+Matagorda,12,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,27,2,16,9
+Matagorda,12,"Justice, Supreme Court, Place 4",4,,Under Votes,3,0,2,1
+Matagorda,12,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,12,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,141,3,109,29
+Matagorda,12,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,27,2,17,8
+Matagorda,12,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,3,0,1,2
+Matagorda,12,"Justice, Supreme Court, Place 6",6,,Under Votes,8,0,4,4
+Matagorda,12,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,12,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,144,3,110,31
+Matagorda,12,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,25,2,16,7
+Matagorda,12,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,10,0,5,5
+Matagorda,12,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,12,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,143,3,110,30
+Matagorda,12,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,25,2,16,7
+Matagorda,12,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,11,0,5,6
+Matagorda,12,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,12,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,145,3,111,31
+Matagorda,12,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,22,2,14,6
+Matagorda,12,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,12,0,6,6
+Matagorda,12,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,12,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,148,3,114,31
+Matagorda,12,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,25,2,15,8
+Matagorda,12,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,6,0,2,4
+Matagorda,12,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,12,State Representative,30,REP,AJ Louderback,145,3,110,32
+Matagorda,12,State Representative,30,DEM,Stephanie R. Bassham,29,2,19,8
+Matagorda,12,State Representative,30,,Under Votes,5,0,2,3
+Matagorda,12,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,12,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,145,3,109,33
+Matagorda,12,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,28,2,18,8
+Matagorda,12,"Chief Justice, 13th Court of Appeals District",,,Under Votes,6,0,4,2
+Matagorda,12,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,12,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,143,3,109,31
+Matagorda,12,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,27,2,16,9
+Matagorda,12,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,9,0,6,3
+Matagorda,12,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,12,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,137,3,104,30
+Matagorda,12,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,32,2,21,9
+Matagorda,12,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,10,0,6,4
+Matagorda,12,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,12,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,145,3,111,31
+Matagorda,12,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,26,2,16,8
+Matagorda,12,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,8,0,4,4
+Matagorda,12,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,12,"District Judge, 23rd Judicial District",23,REP,John Maher,159,4,120,35
+Matagorda,12,"District Judge, 23rd Judicial District",23,,Under Votes,20,1,11,8
+Matagorda,12,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,12,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,162,4,121,37
+Matagorda,12,"District Judge, 130th Judicial District",130,,Under Votes,17,1,10,6
+Matagorda,12,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,12,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,93,2,68,23
+Matagorda,12,"District Attorney, 23rd Judicial District",23,,Under Votes,86,3,63,20
+Matagorda,12,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,12,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",151,4,112,35
+Matagorda,12,County Attorney,,,Under Votes,28,1,19,8
+Matagorda,12,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,12,Sheriff,,REP,Rick DeLeon,115,3,87,25
+Matagorda,12,Sheriff,,DEM,Aaron C. Green,61,2,43,16
+Matagorda,12,Sheriff,,,Under Votes,3,0,1,2
+Matagorda,12,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,12,County Tax Assessor-Collector,,REP,Becky Barrett Cook,162,4,123,35
+Matagorda,12,County Tax Assessor-Collector,,,Under Votes,17,1,8,8
+Matagorda,12,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,12,"Constable, Precinct 4",,REP,David Miles,157,4,118,35
+Matagorda,12,"Constable, Precinct 4",,,Under Votes,22,1,13,8
+Matagorda,12,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Matagorda,13,Registered Voters,,,,393,,,
+Matagorda,13,Ballots Cast,,,,262,,,
+Matagorda,13,President,,REP,Donald J. Trump JD Vance,188,11,152,25
+Matagorda,13,President,,DEM,Kamala D. Harris Tim Walz,70,7,56,7
+Matagorda,13,President,,LIB,Chase Oliver Mike ter Maat,2,0,2,0
+Matagorda,13,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+Matagorda,13,President,,,Under Votes,1,0,1,0
+Matagorda,13,President,,,Over Votes,0,0,0,0
+Matagorda,13,U.S. Senate,,REP,Ted Cruz,182,10,149,23
+Matagorda,13,U.S. Senate,,DEM,Colin Allred,76,8,60,8
+Matagorda,13,U.S. Senate,,LIB,Ted Brown,3,0,3,0
+Matagorda,13,U.S. Senate,,,Under Votes,1,0,0,1
+Matagorda,13,U.S. Senate,,,Over Votes,0,0,0,0
+Matagorda,13,U.S. House,22,REP,Troy E. Nehls,180,9,149,22
+Matagorda,13,U.S. House,22,DEM,Marquette Greene-Scott,73,8,57,8
+Matagorda,13,U.S. House,22,,Under Votes,9,1,6,2
+Matagorda,13,U.S. House,22,,Over Votes,0,0,0,0
+Matagorda,13,Railroad Commissioner,,REP,Christi Craddick,174,9,145,20
+Matagorda,13,Railroad Commissioner,,DEM,Katherine Culbert,67,7,52,8
+Matagorda,13,Railroad Commissioner,,LIB,Hawk Dunlap,4,0,3,1
+Matagorda,13,Railroad Commissioner,,GRN,Eddie Espinoza,5,2,3,0
+Matagorda,13,Railroad Commissioner,,,Under Votes,12,0,9,3
+Matagorda,13,Railroad Commissioner,,,Over Votes,0,0,0,0
+Matagorda,13,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,182,12,148,22
+Matagorda,13,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,72,6,58,8
+Matagorda,13,"Justice, Supreme Court, Place 2",2,,Under Votes,8,0,6,2
+Matagorda,13,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,13,"Justice, Supreme Court, Place 4",4,REP,John Devine,181,11,148,22
+Matagorda,13,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,76,7,61,8
+Matagorda,13,"Justice, Supreme Court, Place 4",4,,Under Votes,5,0,3,2
+Matagorda,13,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,13,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,177,10,146,21
+Matagorda,13,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,72,6,58,8
+Matagorda,13,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,4,2,2,0
+Matagorda,13,"Justice, Supreme Court, Place 6",6,,Under Votes,9,0,6,3
+Matagorda,13,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Matagorda,13,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,178,11,145,22
+Matagorda,13,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,74,7,59,8
+Matagorda,13,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,10,0,8,2
+Matagorda,13,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Matagorda,13,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,178,11,145,22
+Matagorda,13,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,74,7,59,8
+Matagorda,13,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,10,0,8,2
+Matagorda,13,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Matagorda,13,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,179,10,147,22
+Matagorda,13,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,76,8,60,8
+Matagorda,13,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,7,0,5,2
+Matagorda,13,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,13,"Judge, Court of Criminal Appeals, Place 8",8,REP,Joan Huffman,179,10,147,22
+Matagorda,13,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Kathy Cheng,76,7,61,8
+Matagorda,13,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,7,1,4,2
+Matagorda,13,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Matagorda,13,State Representative,30,REP,AJ Louderback,182,11,149,22
+Matagorda,13,State Representative,30,DEM,Stephanie R. Bassham,73,6,59,8
+Matagorda,13,State Representative,30,,Under Votes,7,1,4,2
+Matagorda,13,State Representative,30,,Over Votes,0,0,0,0
+Matagorda,13,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,177,9,146,22
+Matagorda,13,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,76,8,60,8
+Matagorda,13,"Chief Justice, 13th Court of Appeals District",,,Under Votes,9,1,6,2
+Matagorda,13,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Matagorda,13,"Justice, 13th Court of Appeals District, Place 2",2,REP,Jenny Cron,177,9,146,22
+Matagorda,13,"Justice, 13th Court of Appeals District, Place 2",2,DEM,Nora Longoria,74,8,59,7
+Matagorda,13,"Justice, 13th Court of Appeals District, Place 2",2,,Under Votes,11,1,7,3
+Matagorda,13,"Justice, 13th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Matagorda,13,"Justice, 13th Court of Appeals District, Place 4",4,REP,Ysmael D. Fonseca,175,10,144,21
+Matagorda,13,"Justice, 13th Court of Appeals District, Place 4",4,DEM,Joe Martinez,74,7,60,7
+Matagorda,13,"Justice, 13th Court of Appeals District, Place 4",4,,Under Votes,13,1,8,4
+Matagorda,13,"Justice, 13th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+Matagorda,13,"Justice, 13th Court of Appeals District, Place 5",5,REP,Jon West,178,10,146,22
+Matagorda,13,"Justice, 13th Court of Appeals District, Place 5",5,DEM,Regi Compian Richardson,71,6,57,8
+Matagorda,13,"Justice, 13th Court of Appeals District, Place 5",5,,Under Votes,13,2,9,2
+Matagorda,13,"Justice, 13th Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Matagorda,13,"District Judge, 23rd Judicial District",23,REP,John Maher,197,12,160,25
+Matagorda,13,"District Judge, 23rd Judicial District",23,,Under Votes,65,6,52,7
+Matagorda,13,"District Judge, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,13,"District Judge, 130th Judicial District",130,REP,Denise M. Fortenberry,198,13,159,26
+Matagorda,13,"District Judge, 130th Judicial District",130,,Under Votes,64,5,53,6
+Matagorda,13,"District Judge, 130th Judicial District",130,,Over Votes,0,0,0,0
+Matagorda,13,"District Attorney, 23rd Judicial District",23,DEM,Steven Reis,150,14,118,18
+Matagorda,13,"District Attorney, 23rd Judicial District",23,,Under Votes,112,4,94,14
+Matagorda,13,"District Attorney, 23rd Judicial District",23,,Over Votes,0,0,0,0
+Matagorda,13,County Attorney,,REP,"Matthew Hardy ""Matt"" Sloan",200,13,161,26
+Matagorda,13,County Attorney,,,Under Votes,62,5,51,6
+Matagorda,13,County Attorney,,,Over Votes,0,0,0,0
+Matagorda,13,Sheriff,,REP,Rick DeLeon,179,9,147,23
+Matagorda,13,Sheriff,,DEM,Aaron C. Green,82,8,65,9
+Matagorda,13,Sheriff,,,Under Votes,1,1,0,0
+Matagorda,13,Sheriff,,,Over Votes,0,0,0,0
+Matagorda,13,County Tax Assessor-Collector,,REP,Becky Barrett Cook,200,13,159,28
+Matagorda,13,County Tax Assessor-Collector,,,Under Votes,62,5,53,4
+Matagorda,13,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Matagorda,13,"County Commissioner, Precinct 1",,REP,Bubba Cook,202,13,161,28
+Matagorda,13,"County Commissioner, Precinct 1",,,Under Votes,60,5,51,4
+Matagorda,13,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Matagorda,13,"Constable, Precinct 1",,REP,Douglas Schoppe,195,12,157,26
+Matagorda,13,"Constable, Precinct 1",,,Under Votes,67,6,55,6
+Matagorda,13,"Constable, Precinct 1",,,Over Votes,0,0,0,0
