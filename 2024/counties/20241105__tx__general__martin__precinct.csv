@@ -1,0 +1,526 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Martin,1,"Registered Voters",,,,1077,,,
+Martin,1,"Ballots Cast",,,,563,,,
+Martin,1,"President",,REP,"Donald J. Trump JD Vance",483,16,342,125
+Martin,1,"President",,DEM,"Kamala D. Harris Tim Walz",76,3,40,33
+Martin,1,"President",,LIB,"Chase Oliver Mike ter Maat",1,0,1,0
+Martin,1,"President",,GRN,"Jill Stein Rudolph Ware",1,0,0,1
+Martin,1,"President",,,"Over Votes",0,0,0,0
+Martin,1,"President",,,"Under Votes",2,0,1,1
+Martin,1,"U.S. Senate",,REP,"Ted Cruz",464,17,326,121
+Martin,1,"U.S. Senate",,DEM,"Colin Allred",82,2,46,34
+Martin,1,"U.S. Senate",,LIB,"Ted Brown",14,0,9,5
+Martin,1,"U.S. Senate",,,"Over Votes",0,0,0,0
+Martin,1,"U.S. Senate",,,"Under Votes",3,0,3,0
+Martin,1,"U.S. House","19",REP,"Jodey C. Arrington",467,15,326,126
+Martin,1,"U.S. House","19",LIB,"Bernard Johnson",34,1,17,16
+Martin,1,"U.S. House","19",IND,"Nathan Lewis",40,1,21,18
+Martin,1,"U.S. House","19",,"Over Votes",0,0,0,0
+Martin,1,"U.S. House","19",,"Under Votes",22,2,20,0
+Martin,1,"Railroad Commissioner",,REP,"Christi Craddick",434,13,306,115
+Martin,1,"Railroad Commissioner",,DEM,"Katherine Culbert",65,2,34,29
+Martin,1,"Railroad Commissioner",,LIB,"Hawk Dunlap",37,2,23,12
+Martin,1,"Railroad Commissioner",,GRN,"Eddie Espinoza",12,1,8,3
+Martin,1,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Martin,1,"Railroad Commissioner",,,"Under Votes",15,1,13,1
+Martin,1,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",470,16,327,127
+Martin,1,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",72,2,39,31
+Martin,1,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Martin,1,"Justice, Supreme Court","Place 2",,"Under Votes",21,1,18,2
+Martin,1,"Justice, Supreme Court","Place 4",REP,"John Devine",465,16,327,122
+Martin,1,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",77,2,39,36
+Martin,1,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Martin,1,"Justice, Supreme Court","Place 4",,"Under Votes",21,1,18,2
+Martin,1,"Justice, Supreme Court","Place 6",REP,"Jane Bland",453,15,316,122
+Martin,1,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",71,2,38,31
+Martin,1,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",16,1,10,5
+Martin,1,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Martin,1,"Justice, Supreme Court","Place 6",,"Under Votes",23,1,20,2
+Martin,1,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",463,16,322,125
+Martin,1,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",78,2,43,33
+Martin,1,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Martin,1,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",22,1,19,2
+Martin,1,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",463,16,324,123
+Martin,1,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",74,2,37,35
+Martin,1,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Martin,1,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",26,1,23,2
+Martin,1,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",463,17,321,125
+Martin,1,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",72,1,39,32
+Martin,1,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Martin,1,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",28,1,24,3
+Martin,1,"Member, State Board of Education","15",REP,"Aaron Kinsey",446,11,316,119
+Martin,1,"Member, State Board of Education","15",DEM,"Morgan Kirkpatrick",71,1,38,32
+Martin,1,"Member, State Board of Education","15",LIB,"Jack B. Westbrook",18,0,11,7
+Martin,1,"Member, State Board of Education","15",,"Over Votes",0,0,0,0
+Martin,1,"Member, State Board of Education","15",,"Under Votes",28,7,19,2
+Martin,1,"State Representative","82",REP,"Tom Craddick",465,11,328,126
+Martin,1,"State Representative","82",DEM,"Steven Schafersman",71,1,37,33
+Martin,1,"State Representative","82",,"Over Votes",0,0,0,0
+Martin,1,"State Representative","82",,"Under Votes",27,7,19,1
+Martin,1,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",503,10,351,142
+Martin,1,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Martin,1,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",60,9,33,18
+Martin,1,"District Attorney, 118th Judicial District",,REP,"Joshua Andrew Hamby",502,9,350,143
+Martin,1,"District Attorney, 118th Judicial District",,,"Over Votes",0,0,0,0
+Martin,1,"District Attorney, 118th Judicial District",,,"Under Votes",61,10,34,17
+Martin,1,"County Attorney",,REP,"James J. Napper",507,10,355,142
+Martin,1,"County Attorney",,,"Over Votes",0,0,0,0
+Martin,1,"County Attorney",,,"Under Votes",56,9,29,18
+Martin,1,"Sheriff",,REP,"Randy Cozart",511,8,360,143
+Martin,1,"Sheriff",,,"Over Votes",0,0,0,0
+Martin,1,"Sheriff",,,"Under Votes",52,11,24,17
+Martin,1,"County Tax Assessor-Collector",,REP,"Lori Pardue",511,13,354,144
+Martin,1,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Martin,1,"County Tax Assessor-Collector",,,"Under Votes",52,6,30,16
+Martin,1,"County Commissioner","1",REP,"Kenny Stewart",509,15,350,144
+Martin,1,"County Commissioner","1",,"Over Votes",0,0,0,0
+Martin,1,"County Commissioner","1",,"Under Votes",54,4,34,16
+Martin,2,"Registered Voters",,,,759,,,
+Martin,2,"Ballots Cast",,,,379,,,
+Martin,2,"President",,REP,"Donald J. Trump JD Vance",305,9,210,86
+Martin,2,"President",,DEM,"Kamala D. Harris Tim Walz",70,2,42,26
+Martin,2,"President",,LIB,"Chase Oliver Mike ter Maat",1,0,1,0
+Martin,2,"President",,GRN,"Jill Stein Rudolph Ware",2,0,2,0
+Martin,2,"President",,,"Over Votes",0,0,0,0
+Martin,2,"President",,,"Under Votes",1,0,0,1
+Martin,2,"U.S. Senate",,REP,"Ted Cruz",286,9,202,75
+Martin,2,"U.S. Senate",,DEM,"Colin Allred",71,1,45,25
+Martin,2,"U.S. Senate",,LIB,"Ted Brown",13,0,4,9
+Martin,2,"U.S. Senate",,,"Over Votes",0,0,0,0
+Martin,2,"U.S. Senate",,,"Under Votes",9,1,4,4
+Martin,2,"U.S. House","19",REP,"Jodey C. Arrington",288,9,200,79
+Martin,2,"U.S. House","19",LIB,"Bernard Johnson",31,0,16,15
+Martin,2,"U.S. House","19",IND,"Nathan Lewis",25,1,16,8
+Martin,2,"U.S. House","19",,"Over Votes",0,0,0,0
+Martin,2,"U.S. House","19",,"Under Votes",35,1,23,11
+Martin,2,"Railroad Commissioner",,REP,"Christi Craddick",275,8,188,79
+Martin,2,"Railroad Commissioner",,DEM,"Katherine Culbert",55,1,36,18
+Martin,2,"Railroad Commissioner",,LIB,"Hawk Dunlap",15,1,9,5
+Martin,2,"Railroad Commissioner",,GRN,"Eddie Espinoza",11,0,6,5
+Martin,2,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Martin,2,"Railroad Commissioner",,,"Under Votes",23,1,16,6
+Martin,2,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",294,9,200,85
+Martin,2,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",57,1,36,20
+Martin,2,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Martin,2,"Justice, Supreme Court","Place 2",,"Under Votes",28,1,19,8
+Martin,2,"Justice, Supreme Court","Place 4",REP,"John Devine",294,9,198,87
+Martin,2,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",56,1,37,18
+Martin,2,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Martin,2,"Justice, Supreme Court","Place 4",,"Under Votes",29,1,20,8
+Martin,2,"Justice, Supreme Court","Place 6",REP,"Jane Bland",281,9,193,79
+Martin,2,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",55,1,35,19
+Martin,2,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",15,0,8,7
+Martin,2,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Martin,2,"Justice, Supreme Court","Place 6",,"Under Votes",28,1,19,8
+Martin,2,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",289,9,194,86
+Martin,2,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",61,1,41,19
+Martin,2,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Martin,2,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",29,1,20,8
+Martin,2,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",291,9,197,85
+Martin,2,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",57,1,37,19
+Martin,2,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Martin,2,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",31,1,21,9
+Martin,2,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",293,9,199,85
+Martin,2,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",53,1,34,18
+Martin,2,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Martin,2,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",33,1,22,10
+Martin,2,"Member, State Board of Education","15",REP,"Aaron Kinsey",277,4,193,80
+Martin,2,"Member, State Board of Education","15",DEM,"Morgan Kirkpatrick",56,0,35,21
+Martin,2,"Member, State Board of Education","15",LIB,"Jack B. Westbrook",8,0,4,4
+Martin,2,"Member, State Board of Education","15",,"Over Votes",0,0,0,0
+Martin,2,"Member, State Board of Education","15",,"Under Votes",38,7,23,8
+Martin,2,"State Representative","82",REP,"Tom Craddick",298,5,206,87
+Martin,2,"State Representative","82",DEM,"Steven Schafersman",54,0,33,21
+Martin,2,"State Representative","82",,"Over Votes",0,0,0,0
+Martin,2,"State Representative","82",,"Under Votes",27,6,16,5
+Martin,2,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",312,4,210,98
+Martin,2,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Martin,2,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",67,7,45,15
+Martin,2,"District Attorney, 118th Judicial District",,REP,"Joshua Andrew Hamby",310,4,208,98
+Martin,2,"District Attorney, 118th Judicial District",,,"Over Votes",0,0,0,0
+Martin,2,"District Attorney, 118th Judicial District",,,"Under Votes",69,7,47,15
+Martin,2,"County Attorney",,REP,"James J. Napper",321,6,215,100
+Martin,2,"County Attorney",,,"Over Votes",0,0,0,0
+Martin,2,"County Attorney",,,"Under Votes",58,5,40,13
+Martin,2,"Sheriff",,REP,"Randy Cozart",339,4,231,104
+Martin,2,"Sheriff",,,"Over Votes",0,0,0,0
+Martin,2,"Sheriff",,,"Under Votes",40,7,24,9
+Martin,2,"County Tax Assessor-Collector",,REP,"Lori Pardue",321,4,221,96
+Martin,2,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Martin,2,"County Tax Assessor-Collector",,,"Under Votes",58,7,34,17
+Martin,3,"Registered Voters",,,,691,,,
+Martin,3,"Ballots Cast",,,,485,,,
+Martin,3,"President",,REP,"Donald J. Trump JD Vance",440,2,356,82
+Martin,3,"President",,DEM,"Kamala D. Harris Tim Walz",41,1,31,9
+Martin,3,"President",,LIB,"Chase Oliver Mike ter Maat",2,0,2,0
+Martin,3,"President",,GRN,"Jill Stein Rudolph Ware",1,0,1,0
+Martin,3,"President",,,"Over Votes",0,0,0,0
+Martin,3,"President",,,"Under Votes",1,0,1,0
+Martin,3,"U.S. Senate",,REP,"Ted Cruz",426,2,346,78
+Martin,3,"U.S. Senate",,DEM,"Colin Allred",47,1,37,9
+Martin,3,"U.S. Senate",,LIB,"Ted Brown",7,0,6,1
+Martin,3,"U.S. Senate",,,"Over Votes",0,0,0,0
+Martin,3,"U.S. Senate",,,"Under Votes",5,0,2,3
+Martin,3,"U.S. House","19",REP,"Jodey C. Arrington",435,2,352,81
+Martin,3,"U.S. House","19",LIB,"Bernard Johnson",10,1,5,4
+Martin,3,"U.S. House","19",IND,"Nathan Lewis",26,0,23,3
+Martin,3,"U.S. House","19",,"Over Votes",0,0,0,0
+Martin,3,"U.S. House","19",,"Under Votes",14,0,11,3
+Martin,3,"Railroad Commissioner",,REP,"Christi Craddick",391,2,315,74
+Martin,3,"Railroad Commissioner",,DEM,"Katherine Culbert",35,1,26,8
+Martin,3,"Railroad Commissioner",,LIB,"Hawk Dunlap",33,0,28,5
+Martin,3,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,2,0
+Martin,3,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Martin,3,"Railroad Commissioner",,,"Under Votes",24,0,20,4
+Martin,3,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",435,2,352,81
+Martin,3,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",33,1,26,6
+Martin,3,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Martin,3,"Justice, Supreme Court","Place 2",,"Under Votes",17,0,13,4
+Martin,3,"Justice, Supreme Court","Place 4",REP,"John Devine",433,2,350,81
+Martin,3,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",34,1,27,6
+Martin,3,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Martin,3,"Justice, Supreme Court","Place 4",,"Under Votes",18,0,14,4
+Martin,3,"Justice, Supreme Court","Place 6",REP,"Jane Bland",423,2,341,80
+Martin,3,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",33,1,26,6
+Martin,3,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",10,0,9,1
+Martin,3,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Martin,3,"Justice, Supreme Court","Place 6",,"Under Votes",19,0,15,4
+Martin,3,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",434,2,351,81
+Martin,3,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",33,1,26,6
+Martin,3,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Martin,3,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",18,0,14,4
+Martin,3,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",434,2,351,81
+Martin,3,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",32,1,25,6
+Martin,3,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Martin,3,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",19,0,15,4
+Martin,3,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",436,3,350,83
+Martin,3,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",32,0,27,5
+Martin,3,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Martin,3,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",17,0,14,3
+Martin,3,"Member, State Board of Education","15",REP,"Aaron Kinsey",417,0,337,80
+Martin,3,"Member, State Board of Education","15",DEM,"Morgan Kirkpatrick",40,1,32,7
+Martin,3,"Member, State Board of Education","15",LIB,"Jack B. Westbrook",10,0,9,1
+Martin,3,"Member, State Board of Education","15",,"Over Votes",0,0,0,0
+Martin,3,"Member, State Board of Education","15",,"Under Votes",18,2,13,3
+Martin,3,"State Representative","82",REP,"Tom Craddick",421,0,343,78
+Martin,3,"State Representative","82",DEM,"Steven Schafersman",40,1,33,6
+Martin,3,"State Representative","82",,"Over Votes",0,0,0,0
+Martin,3,"State Representative","82",,"Under Votes",24,2,15,7
+Martin,3,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",442,0,360,82
+Martin,3,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Martin,3,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",43,3,31,9
+Martin,3,"District Attorney, 118th Judicial District",,REP,"Joshua Andrew Hamby",441,0,359,82
+Martin,3,"District Attorney, 118th Judicial District",,,"Over Votes",0,0,0,0
+Martin,3,"District Attorney, 118th Judicial District",,,"Under Votes",44,3,32,9
+Martin,3,"County Attorney",,REP,"James J. Napper",449,1,366,82
+Martin,3,"County Attorney",,,"Over Votes",0,0,0,0
+Martin,3,"County Attorney",,,"Under Votes",36,2,25,9
+Martin,3,"Sheriff",,REP,"Randy Cozart",425,2,345,78
+Martin,3,"Sheriff",,,"Over Votes",0,0,0,0
+Martin,3,"Sheriff",,,"Under Votes",60,1,46,13
+Martin,3,"County Tax Assessor-Collector",,REP,"Lori Pardue",454,1,369,84
+Martin,3,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Martin,3,"County Tax Assessor-Collector",,,"Under Votes",31,2,22,7
+Martin,3,"County Commissioner","3",REP,"Brian Snellgrove",452,3,363,86
+Martin,3,"County Commissioner","3",,"Over Votes",0,0,0,0
+Martin,3,"County Commissioner","3",,"Under Votes",33,0,28,5
+Martin,4,"Registered Voters",,,,590,,,
+Martin,4,"Ballots Cast",,,,381,,,
+Martin,4,"President",,REP,"Donald J. Trump JD Vance",336,5,268,63
+Martin,4,"President",,DEM,"Kamala D. Harris Tim Walz",40,3,30,7
+Martin,4,"President",,LIB,"Chase Oliver Mike ter Maat",3,0,3,0
+Martin,4,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Martin,4,"President",,,"Over Votes",0,0,0,0
+Martin,4,"President",,,"Under Votes",2,0,1,1
+Martin,4,"U.S. Senate",,REP,"Ted Cruz",323,5,257,61
+Martin,4,"U.S. Senate",,DEM,"Colin Allred",43,3,35,5
+Martin,4,"U.S. Senate",,LIB,"Ted Brown",12,0,8,4
+Martin,4,"U.S. Senate",,,"Over Votes",0,0,0,0
+Martin,4,"U.S. Senate",,,"Under Votes",3,0,2,1
+Martin,4,"U.S. House","19",REP,"Jodey C. Arrington",338,5,268,65
+Martin,4,"U.S. House","19",LIB,"Bernard Johnson",19,1,16,2
+Martin,4,"U.S. House","19",IND,"Nathan Lewis",12,0,11,1
+Martin,4,"U.S. House","19",,"Over Votes",0,0,0,0
+Martin,4,"U.S. House","19",,"Under Votes",12,2,7,3
+Martin,4,"Railroad Commissioner",,REP,"Christi Craddick",285,5,221,59
+Martin,4,"Railroad Commissioner",,DEM,"Katherine Culbert",33,2,26,5
+Martin,4,"Railroad Commissioner",,LIB,"Hawk Dunlap",47,1,41,5
+Martin,4,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,2,0
+Martin,4,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Martin,4,"Railroad Commissioner",,,"Under Votes",14,0,12,2
+Martin,4,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",343,5,274,64
+Martin,4,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",30,3,22,5
+Martin,4,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Martin,4,"Justice, Supreme Court","Place 2",,"Under Votes",8,0,6,2
+Martin,4,"Justice, Supreme Court","Place 4",REP,"John Devine",339,5,270,64
+Martin,4,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",33,3,25,5
+Martin,4,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Martin,4,"Justice, Supreme Court","Place 4",,"Under Votes",9,0,7,2
+Martin,4,"Justice, Supreme Court","Place 6",REP,"Jane Bland",336,5,266,65
+Martin,4,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",27,2,21,4
+Martin,4,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",10,1,9,0
+Martin,4,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Martin,4,"Justice, Supreme Court","Place 6",,"Under Votes",8,0,6,2
+Martin,4,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",340,5,270,65
+Martin,4,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",33,3,26,4
+Martin,4,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Martin,4,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",8,0,6,2
+Martin,4,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",340,5,270,65
+Martin,4,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",32,3,25,4
+Martin,4,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Martin,4,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",9,0,7,2
+Martin,4,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",338,5,269,64
+Martin,4,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",33,3,25,5
+Martin,4,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Martin,4,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",10,0,8,2
+Martin,4,"Member, State Board of Education","15",REP,"Aaron Kinsey",316,3,250,63
+Martin,4,"Member, State Board of Education","15",DEM,"Morgan Kirkpatrick",35,2,28,5
+Martin,4,"Member, State Board of Education","15",LIB,"Jack B. Westbrook",17,0,16,1
+Martin,4,"Member, State Board of Education","15",,"Over Votes",0,0,0,0
+Martin,4,"Member, State Board of Education","15",,"Under Votes",13,3,8,2
+Martin,4,"State Representative","82",REP,"Tom Craddick",315,3,251,61
+Martin,4,"State Representative","82",DEM,"Steven Schafersman",41,2,33,6
+Martin,4,"State Representative","82",,"Over Votes",0,0,0,0
+Martin,4,"State Representative","82",,"Under Votes",25,3,18,4
+Martin,4,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",352,3,283,66
+Martin,4,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Martin,4,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",29,5,19,5
+Martin,4,"District Attorney, 118th Judicial District",,REP,"Joshua Andrew Hamby",350,3,281,66
+Martin,4,"District Attorney, 118th Judicial District",,,"Over Votes",0,0,0,0
+Martin,4,"District Attorney, 118th Judicial District",,,"Under Votes",31,5,21,5
+Martin,4,"County Attorney",,REP,"James J. Napper",349,5,278,66
+Martin,4,"County Attorney",,,"Over Votes",0,0,0,0
+Martin,4,"County Attorney",,,"Under Votes",32,3,24,5
+Martin,4,"Sheriff",,REP,"Randy Cozart",338,3,271,64
+Martin,4,"Sheriff",,,"Over Votes",0,0,0,0
+Martin,4,"Sheriff",,,"Under Votes",43,5,31,7
+Martin,4,"County Tax Assessor-Collector",,REP,"Lori Pardue",357,6,283,68
+Martin,4,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Martin,4,"County Tax Assessor-Collector",,,"Under Votes",24,2,19,3
+Martin,3A,"Registered Voters",,,,179,,,
+Martin,3A,"Ballots Cast",,,,142,,,
+Martin,3A,"President",,REP,"Donald J. Trump JD Vance",134,3,87,44
+Martin,3A,"President",,DEM,"Kamala D. Harris Tim Walz",8,0,5,3
+Martin,3A,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Martin,3A,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Martin,3A,"President",,,"Over Votes",0,0,0,0
+Martin,3A,"President",,,"Under Votes",0,0,0,0
+Martin,3A,"U.S. Senate",,REP,"Ted Cruz",132,3,86,43
+Martin,3A,"U.S. Senate",,DEM,"Colin Allred",8,0,5,3
+Martin,3A,"U.S. Senate",,LIB,"Ted Brown",1,0,1,0
+Martin,3A,"U.S. Senate",,,"Over Votes",0,0,0,0
+Martin,3A,"U.S. Senate",,,"Under Votes",1,0,0,1
+Martin,3A,"U.S. House","19",REP,"Jodey C. Arrington",135,3,89,43
+Martin,3A,"U.S. House","19",LIB,"Bernard Johnson",0,0,0,0
+Martin,3A,"U.S. House","19",IND,"Nathan Lewis",4,0,2,2
+Martin,3A,"U.S. House","19",,"Over Votes",0,0,0,0
+Martin,3A,"U.S. House","19",,"Under Votes",3,0,1,2
+Martin,3A,"Railroad Commissioner",,REP,"Christi Craddick",98,3,66,29
+Martin,3A,"Railroad Commissioner",,DEM,"Katherine Culbert",5,0,4,1
+Martin,3A,"Railroad Commissioner",,LIB,"Hawk Dunlap",33,0,20,13
+Martin,3A,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+Martin,3A,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Martin,3A,"Railroad Commissioner",,,"Under Votes",6,0,2,4
+Martin,3A,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",131,2,86,43
+Martin,3A,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",7,0,5,2
+Martin,3A,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Martin,3A,"Justice, Supreme Court","Place 2",,"Under Votes",4,1,1,2
+Martin,3A,"Justice, Supreme Court","Place 4",REP,"John Devine",131,2,86,43
+Martin,3A,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",7,0,5,2
+Martin,3A,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Martin,3A,"Justice, Supreme Court","Place 4",,"Under Votes",4,1,1,2
+Martin,3A,"Justice, Supreme Court","Place 6",REP,"Jane Bland",129,2,85,42
+Martin,3A,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",6,0,4,2
+Martin,3A,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",2,0,2,0
+Martin,3A,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Martin,3A,"Justice, Supreme Court","Place 6",,"Under Votes",5,1,1,3
+Martin,3A,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",129,2,84,43
+Martin,3A,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",8,0,6,2
+Martin,3A,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Martin,3A,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",5,1,2,2
+Martin,3A,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",128,2,84,42
+Martin,3A,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",8,0,6,2
+Martin,3A,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Martin,3A,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",6,1,2,3
+Martin,3A,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",129,2,86,41
+Martin,3A,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",7,0,5,2
+Martin,3A,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Martin,3A,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",6,1,1,4
+Martin,3A,"Member, State Board of Education","15",REP,"Aaron Kinsey",126,2,83,41
+Martin,3A,"Member, State Board of Education","15",DEM,"Morgan Kirkpatrick",7,0,4,3
+Martin,3A,"Member, State Board of Education","15",LIB,"Jack B. Westbrook",4,0,4,0
+Martin,3A,"Member, State Board of Education","15",,"Over Votes",0,0,0,0
+Martin,3A,"Member, State Board of Education","15",,"Under Votes",5,1,1,3
+Martin,3A,"State Representative","82",REP,"Tom Craddick",118,3,77,38
+Martin,3A,"State Representative","82",DEM,"Steven Schafersman",15,0,10,5
+Martin,3A,"State Representative","82",,"Over Votes",0,0,0,0
+Martin,3A,"State Representative","82",,"Under Votes",9,0,5,4
+Martin,3A,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",130,3,85,42
+Martin,3A,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Martin,3A,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",12,0,7,5
+Martin,3A,"District Attorney, 118th Judicial District",,REP,"Joshua Andrew Hamby",128,2,85,41
+Martin,3A,"District Attorney, 118th Judicial District",,,"Over Votes",0,0,0,0
+Martin,3A,"District Attorney, 118th Judicial District",,,"Under Votes",14,1,7,6
+Martin,3A,"County Attorney",,REP,"James J. Napper",129,3,85,41
+Martin,3A,"County Attorney",,,"Over Votes",0,0,0,0
+Martin,3A,"County Attorney",,,"Under Votes",13,0,7,6
+Martin,3A,"Sheriff",,REP,"Randy Cozart",129,3,83,43
+Martin,3A,"Sheriff",,,"Over Votes",0,0,0,0
+Martin,3A,"Sheriff",,,"Under Votes",13,0,9,4
+Martin,3A,"County Tax Assessor-Collector",,REP,"Lori Pardue",131,3,87,41
+Martin,3A,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Martin,3A,"County Tax Assessor-Collector",,,"Under Votes",11,0,5,6
+Martin,3A,"County Commissioner","3",REP,"Brian Snellgrove",129,2,86,41
+Martin,3A,"County Commissioner","3",,"Over Votes",0,0,0,0
+Martin,3A,"County Commissioner","3",,"Under Votes",13,1,6,6
+Martin,4A,"Registered Voters",,,,192,,,
+Martin,4A,"Ballots Cast",,,,139,,,
+Martin,4A,"President",,REP,"Donald J. Trump JD Vance",127,4,103,20
+Martin,4A,"President",,DEM,"Kamala D. Harris Tim Walz",12,1,10,1
+Martin,4A,"President",,LIB,"Chase Oliver Mike ter Maat",0,0,0,0
+Martin,4A,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Martin,4A,"President",,,"Over Votes",0,0,0,0
+Martin,4A,"President",,,"Under Votes",0,0,0,0
+Martin,4A,"U.S. Senate",,REP,"Ted Cruz",125,4,101,20
+Martin,4A,"U.S. Senate",,DEM,"Colin Allred",13,1,11,1
+Martin,4A,"U.S. Senate",,LIB,"Ted Brown",0,0,0,0
+Martin,4A,"U.S. Senate",,,"Over Votes",0,0,0,0
+Martin,4A,"U.S. Senate",,,"Under Votes",1,0,1,0
+Martin,4A,"U.S. House","19",REP,"Jodey C. Arrington",127,4,103,20
+Martin,4A,"U.S. House","19",LIB,"Bernard Johnson",5,0,4,1
+Martin,4A,"U.S. House","19",IND,"Nathan Lewis",3,0,3,0
+Martin,4A,"U.S. House","19",,"Over Votes",0,0,0,0
+Martin,4A,"U.S. House","19",,"Under Votes",4,1,3,0
+Martin,4A,"Railroad Commissioner",,REP,"Christi Craddick",112,4,91,17
+Martin,4A,"Railroad Commissioner",,DEM,"Katherine Culbert",11,1,9,1
+Martin,4A,"Railroad Commissioner",,LIB,"Hawk Dunlap",12,0,9,3
+Martin,4A,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,1,0
+Martin,4A,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Martin,4A,"Railroad Commissioner",,,"Under Votes",3,0,3,0
+Martin,4A,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",127,4,103,20
+Martin,4A,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",10,1,8,1
+Martin,4A,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Martin,4A,"Justice, Supreme Court","Place 2",,"Under Votes",2,0,2,0
+Martin,4A,"Justice, Supreme Court","Place 4",REP,"John Devine",125,4,101,20
+Martin,4A,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",11,1,9,1
+Martin,4A,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Martin,4A,"Justice, Supreme Court","Place 4",,"Under Votes",3,0,3,0
+Martin,4A,"Justice, Supreme Court","Place 6",REP,"Jane Bland",122,4,98,20
+Martin,4A,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",11,0,10,1
+Martin,4A,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",2,0,2,0
+Martin,4A,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Martin,4A,"Justice, Supreme Court","Place 6",,"Under Votes",4,1,3,0
+Martin,4A,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",125,4,101,20
+Martin,4A,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",11,1,9,1
+Martin,4A,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Martin,4A,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",3,0,3,0
+Martin,4A,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",124,4,100,20
+Martin,4A,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",11,1,9,1
+Martin,4A,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Martin,4A,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",4,0,4,0
+Martin,4A,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",121,4,98,19
+Martin,4A,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",13,1,10,2
+Martin,4A,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Martin,4A,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",5,0,5,0
+Martin,4A,"Member, State Board of Education","15",REP,"Aaron Kinsey",122,3,100,19
+Martin,4A,"Member, State Board of Education","15",DEM,"Morgan Kirkpatrick",11,0,9,2
+Martin,4A,"Member, State Board of Education","15",LIB,"Jack B. Westbrook",1,0,1,0
+Martin,4A,"Member, State Board of Education","15",,"Over Votes",0,0,0,0
+Martin,4A,"Member, State Board of Education","15",,"Under Votes",5,2,3,0
+Martin,4A,"State Representative","82",REP,"Tom Craddick",124,3,101,20
+Martin,4A,"State Representative","82",DEM,"Steven Schafersman",11,1,9,1
+Martin,4A,"State Representative","82",,"Over Votes",0,0,0,0
+Martin,4A,"State Representative","82",,"Under Votes",4,1,3,0
+Martin,4A,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",127,3,104,20
+Martin,4A,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Martin,4A,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",12,2,9,1
+Martin,4A,"District Attorney, 118th Judicial District",,REP,"Joshua Andrew Hamby",128,3,105,20
+Martin,4A,"District Attorney, 118th Judicial District",,,"Over Votes",0,0,0,0
+Martin,4A,"District Attorney, 118th Judicial District",,,"Under Votes",11,2,8,1
+Martin,4A,"County Attorney",,REP,"James J. Napper",129,3,106,20
+Martin,4A,"County Attorney",,,"Over Votes",0,0,0,0
+Martin,4A,"County Attorney",,,"Under Votes",10,2,7,1
+Martin,4A,"Sheriff",,REP,"Randy Cozart",126,4,102,20
+Martin,4A,"Sheriff",,,"Over Votes",0,0,0,0
+Martin,4A,"Sheriff",,,"Under Votes",13,1,11,1
+Martin,4A,"County Tax Assessor-Collector",,REP,"Lori Pardue",129,3,106,20
+Martin,4A,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Martin,4A,"County Tax Assessor-Collector",,,"Under Votes",10,2,7,1
+Martin,"Grady ISD - 5","Registered Voters",,,,0,,,
+Martin,"Grady ISD - 5","Ballots Cast",,,,33,,,
+Martin,"Grady ISD - 5","Grady Independent School District Trustee","5",,"Austin Cole Luna",26,0,16,10
+Martin,"Grady ISD - 5","Grady Independent School District Trustee","5",,"Banny Wiebe",7,0,7,0
+Martin,"Grady ISD - 5","Grady Independent School District Trustee","5",,"Over Votes",0,0,0,0
+Martin,"Grady ISD - 5","Grady Independent School District Trustee","5",,"Under Votes",0,0,0,0
+Martin,"Grady ISD - 5","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION A",,,"For",23,0,15,8
+Martin,"Grady ISD - 5","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION A",,,"Against",10,0,8,2
+Martin,"Grady ISD - 5","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION A",,,"Over Votes",0,0,0,0
+Martin,"Grady ISD - 5","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION A",,,"Under Votes",0,0,0,0
+Martin,"Grady ISD - 5","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION B",,,"For",23,0,15,8
+Martin,"Grady ISD - 5","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION B",,,"Against",9,0,7,2
+Martin,"Grady ISD - 5","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION B",,,"Over Votes",0,0,0,0
+Martin,"Grady ISD - 5","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION B",,,"Under Votes",1,0,1,0
+Martin,"Grady ISD - 5","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION C",,,"For",25,0,16,9
+Martin,"Grady ISD - 5","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION C",,,"Against",7,0,6,1
+Martin,"Grady ISD - 5","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION C",,,"Over Votes",0,0,0,0
+Martin,"Grady ISD - 5","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION C",,,"Under Votes",1,0,1,0
+Martin,"Grady ISD - 6","Registered Voters",,,,0,,,
+Martin,"Grady ISD - 6","Ballots Cast",,,,45,,,
+Martin,"Grady ISD - 6","Grady Independent School District Trustee","6",,"Dawson Burns",9,1,8,0
+Martin,"Grady ISD - 6","Grady Independent School District Trustee","6",,"Vance McMorries",36,0,29,7
+Martin,"Grady ISD - 6","Grady Independent School District Trustee","6",,"Over Votes",0,0,0,0
+Martin,"Grady ISD - 6","Grady Independent School District Trustee","6",,"Under Votes",0,0,0,0
+Martin,"Grady ISD - 6","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION A",,,"For",26,1,18,7
+Martin,"Grady ISD - 6","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION A",,,"Against",19,0,19,0
+Martin,"Grady ISD - 6","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION A",,,"Over Votes",0,0,0,0
+Martin,"Grady ISD - 6","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION A",,,"Under Votes",0,0,0,0
+Martin,"Grady ISD - 6","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION B",,,"For",24,0,17,7
+Martin,"Grady ISD - 6","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION B",,,"Against",21,1,20,0
+Martin,"Grady ISD - 6","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION B",,,"Over Votes",0,0,0,0
+Martin,"Grady ISD - 6","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION B",,,"Under Votes",0,0,0,0
+Martin,"Grady ISD - 6","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION C",,,"For",33,1,25,7
+Martin,"Grady ISD - 6","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION C",,,"Against",12,0,12,0
+Martin,"Grady ISD - 6","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION C",,,"Over Votes",0,0,0,0
+Martin,"Grady ISD - 6","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION C",,,"Under Votes",0,0,0,0
+Martin,"Grady ISD","Registered Voters",,,,0,,,
+Martin,"Grady ISD","Ballots Cast",,,,169,,,
+Martin,"Grady ISD","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION A",,,"For",118,1,95,22
+Martin,"Grady ISD","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION A",,,"Against",51,1,40,10
+Martin,"Grady ISD","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION A",,,"Over Votes",0,0,0,0
+Martin,"Grady ISD","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION A",,,"Under Votes",0,0,0,0
+Martin,"Grady ISD","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION B",,,"For",117,1,92,24
+Martin,"Grady ISD","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION B",,,"Against",52,1,43,8
+Martin,"Grady ISD","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION B",,,"Over Votes",0,0,0,0
+Martin,"Grady ISD","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION B",,,"Under Votes",0,0,0,0
+Martin,"Grady ISD","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION C",,,"For",117,1,94,22
+Martin,"Grady ISD","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION C",,,"Against",52,1,41,10
+Martin,"Grady ISD","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION C",,,"Over Votes",0,0,0,0
+Martin,"Grady ISD","GRADY INDEPENDENT SCHOOL DISTRICT PROPOSITION C",,,"Under Votes",0,0,0,0
+Martin,"Klondike ISD","Registered Voters",,,,0,,,
+Martin,"Klondike ISD","Ballots Cast",,,,77,,,
+Martin,"Klondike ISD","Klondike Independent School District School Board",,,"Brent Hill",48,1,37,10
+Martin,"Klondike ISD","Klondike Independent School District School Board",,,"Justin Cave",54,1,40,13
+Martin,"Klondike ISD","Klondike Independent School District School Board",,,"Kyle Dwaine Brown",50,1,38,11
+Martin,"Klondike ISD","Klondike Independent School District School Board",,,"Ricky Barkowsky",13,0,12,1
+Martin,"Klondike ISD","Klondike Independent School District School Board",,,"Mike Barkowsky",10,0,9,1
+Martin,"Klondike ISD","Klondike Independent School District School Board",,,"Jessica Estes",18,1,12,5
+Martin,"Klondike ISD","Klondike Independent School District School Board",,,"Clay Thixton",33,0,23,10
+Martin,"Klondike ISD","Klondike Independent School District School Board",,,"Cody King",46,1,35,10
+Martin,"Klondike ISD","Klondike Independent School District School Board",,,"Over Votes",0,0,0,0
+Martin,"Klondike ISD","Klondike Independent School District School Board",,,"Under Votes",36,3,26,7
+Martin,"Midland City - 1","Registered Voters",,,,0,,,
+Martin,"Midland City - 1","Ballots Cast",,,,49,,,
+Martin,"Midland City - 1","City of Midland Council, At Large",,,"John Burkholder",21,1,18,2
+Martin,"Midland City - 1","City of Midland Council, At Large",,,"Eric Davidson",14,0,11,3
+Martin,"Midland City - 1","City of Midland Council, At Large",,,"Robin Poole",23,0,21,2
+Martin,"Midland City - 1","City of Midland Council, At Large",,,"Rance C. Norton",5,0,5,0
+Martin,"Midland City - 1","City of Midland Council, At Large",,,"Over Votes",0,0,0,0
+Martin,"Midland City - 1","City of Midland Council, At Large",,,"Under Votes",35,1,29,5
+Martin,"Midland City - 1","City of Midland Council","1",,"Brian Stubbs",34,1,28,5
+Martin,"Midland City - 1","City of Midland Council","1",,"Heather Bredimus",10,0,10,0
+Martin,"Midland City - 1","City of Midland Council","1",,"Over Votes",0,0,0,0
+Martin,"Midland City - 1","City of Midland Council","1",,"Under Votes",5,0,4,1
+Martin,"Midland City - 1","CITY OF MIDLAND PROPOSITION A",,,"FOR",42,1,36,5
+Martin,"Midland City - 1","CITY OF MIDLAND PROPOSITION A",,,"AGAINST",5,0,4,1
+Martin,"Midland City - 1","CITY OF MIDLAND PROPOSITION A",,,"Over Votes",0,0,0,0
+Martin,"Midland City - 1","CITY OF MIDLAND PROPOSITION A",,,"Under Votes",2,0,2,0

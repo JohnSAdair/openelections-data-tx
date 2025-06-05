@@ -1,0 +1,355 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Ochiltree,Precinct 1,"Registered Voters",,,,952,,,
+Ochiltree,Precinct 1,"Ballots Cast",,,,423,21,294,108
+Ochiltree,Precinct 1,"Ballots Cast Blank",,,,0,0,0,0
+Ochiltree,Precinct 1,"President",,REP,"Donald J. Trump",375,19,272,84
+Ochiltree,Precinct 1,"President",,DEM,"Kamala D. Harris",46,2,20,24
+Ochiltree,Precinct 1,"President",,LIB,"Chase Oliver",1,0,1,0
+Ochiltree,Precinct 1,"President",,GRN,"Jill Stein",1,0,1,0
+Ochiltree,Precinct 1,"President",,,"Write-ins",0,0,0,0
+Ochiltree,Precinct 1,"President",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"President",,,"Under Votes",0,0,0,0
+Ochiltree,Precinct 1,"U.S. Senate",,REP,"Ted Cruz",371,18,270,83
+Ochiltree,Precinct 1,"U.S. Senate",,DEM,"Colin Allred",45,2,22,21
+Ochiltree,Precinct 1,"U.S. Senate",,LIB,"Ted Brown",6,1,2,3
+Ochiltree,Precinct 1,"U.S. Senate",,,"Write-ins",0,0,0,0
+Ochiltree,Precinct 1,"U.S. Senate",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"U.S. Senate",,,"Under Votes",1,0,0,1
+Ochiltree,Precinct 1,"U.S. House",13,REP,"Ronny Jackson",382,18,274,90
+Ochiltree,Precinct 1,"U.S. House",13,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"U.S. House",13,,"Under Votes",41,3,20,18
+Ochiltree,Precinct 1,"Railroad Commissioner",,REP,"Christi Craddick",349,19,252,78
+Ochiltree,Precinct 1,"Railroad Commissioner",,DEM,"Katherine Culbert",35,1,18,16
+Ochiltree,Precinct 1,"Railroad Commissioner",,LIB,"Hawk Dunlap",13,1,10,2
+Ochiltree,Precinct 1,"Railroad Commissioner",,GRN,"Eddie Espinoza",6,0,3,3
+Ochiltree,Precinct 1,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Ochiltree,Precinct 1,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"Railroad Commissioner",,,"Under Votes",20,0,11,9
+Ochiltree,Precinct 1,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",362,19,263,80
+Ochiltree,Precinct 1,"Justice, Supreme Court",2,DEM,"DaSean Jones",37,2,20,15
+Ochiltree,Precinct 1,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"Justice, Supreme Court",2,,"Under Votes",24,0,11,13
+Ochiltree,Precinct 1,"Justice, Supreme Court",4,REP,"John Devine",359,20,259,80
+Ochiltree,Precinct 1,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",35,1,19,15
+Ochiltree,Precinct 1,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"Justice, Supreme Court",4,,"Under Votes",29,0,16,13
+Ochiltree,Precinct 1,"Justice, Supreme Court",6,REP,"Jane Bland",353,17,260,76
+Ochiltree,Precinct 1,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",39,2,20,17
+Ochiltree,Precinct 1,"Justice, Supreme Court",6,LIB,"J. David Roberson",8,2,2,4
+Ochiltree,Precinct 1,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"Justice, Supreme Court",6,,"Under Votes",23,0,12,11
+Ochiltree,Precinct 1,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",354,18,259,77
+Ochiltree,Precinct 1,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",41,2,20,19
+Ochiltree,Precinct 1,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"Presiding Judge, Ct of Crim App",,,"Under Votes",28,1,15,12
+Ochiltree,Precinct 1,"Judge, Ct of Crim App",7,REP,"Gina Parker",342,16,250,76
+Ochiltree,Precinct 1,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",44,2,21,21
+Ochiltree,Precinct 1,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"Judge, Ct of Crim App",7,,"Under Votes",37,3,20,14
+Ochiltree,Precinct 1,"Judge, Ct of Crim App",8,REP,"Lee Finley",357,18,260,79
+Ochiltree,Precinct 1,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",41,2,21,18
+Ochiltree,Precinct 1,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"Judge, Ct of Crim App",8,,"Under Votes",25,1,13,11
+Ochiltree,Precinct 1,"Member, State BoE",15,REP,"Aaron Kinsey",355,17,256,82
+Ochiltree,Precinct 1,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",38,2,20,16
+Ochiltree,Precinct 1,"Member, State BoE",15,LIB,"Jack B. Westbrook",5,2,2,1
+Ochiltree,Precinct 1,"Member, State BoE",15,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"Member, State BoE",15,,"Under Votes",25,0,16,9
+Ochiltree,Precinct 1,"State Representative",87,REP,"Caroline Fairly",352,18,258,76
+Ochiltree,Precinct 1,"State Representative",87,DEM,"Timothy W. Gassaway",46,2,20,24
+Ochiltree,Precinct 1,"State Representative",87,,"Write-ins",0,0,0,0
+Ochiltree,Precinct 1,"State Representative",87,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"State Representative",87,,"Under Votes",25,1,16,8
+Ochiltree,Precinct 1,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",365,18,258,89
+Ochiltree,Precinct 1,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"Justice, 7th Ct of App Dist",2,,"Under Votes",58,3,36,19
+Ochiltree,Precinct 1,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",357,18,255,84
+Ochiltree,Precinct 1,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"Justice, 7th Ct of App Dist",3,,"Under Votes",66,3,39,24
+Ochiltree,Precinct 1,"Dist Judge, 84th Judicial Dist",,REP,"Curt W. Brancheau",357,18,258,81
+Ochiltree,Precinct 1,"Dist Judge, 84th Judicial Dist",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"Dist Judge, 84th Judicial Dist",,,"Under Votes",66,3,36,27
+Ochiltree,Precinct 1,"County Attorney",,REP,"Jose Merez",359,17,252,90
+Ochiltree,Precinct 1,"County Attorney",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"County Attorney",,,"Under Votes",64,4,42,18
+Ochiltree,Precinct 1,"Sheriff",,REP,"Terry Bouchard",353,16,252,85
+Ochiltree,Precinct 1,"Sheriff",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"Sheriff",,,"Under Votes",70,5,42,23
+Ochiltree,Precinct 1,"County Tax Assessor-Collector",,REP,"Angel Hernandez",377,19,265,93
+Ochiltree,Precinct 1,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"County Tax Assessor-Collector",,,"Under Votes",46,2,29,15
+Ochiltree,Precinct 1,"County Commissioner Pct 1",,REP,"Duane Pshigoda",366,17,258,91
+Ochiltree,Precinct 1,"County Commissioner Pct 1",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"County Commissioner Pct 1",,,"Under Votes",57,4,36,17
+Ochiltree,Precinct 1,"County Constable",,REP,"Tim Olivarez",361,18,252,91
+Ochiltree,Precinct 1,"County Constable",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"County Constable",,,"Under Votes",62,3,42,17
+Ochiltree,Precinct 1,"PROPOSITION A, Perryton ISD",,,"For",253,7,184,62
+Ochiltree,Precinct 1,"PROPOSITION A, Perryton ISD",,,"Against",129,8,87,34
+Ochiltree,Precinct 1,"PROPOSITION A, Perryton ISD",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"PROPOSITION A, Perryton ISD",,,"Under Votes",18,1,9,8
+Ochiltree,Precinct 1,"PROPOSITION A, Booker ISD",,,"For",14,4,7,3
+Ochiltree,Precinct 1,"PROPOSITION A, Booker ISD",,,"Against",8,1,6,1
+Ochiltree,Precinct 1,"PROPOSITION A, Booker ISD",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 1,"PROPOSITION A, Booker ISD",,,"Under Votes",1,0,1,0
+Ochiltree,Precinct 2,"Registered Voters",,,,1137,,,
+Ochiltree,Precinct 2,"Ballots Cast",,,,631,23,422,186
+Ochiltree,Precinct 2,"Ballots Cast Blank",,,,0,0,0,0
+Ochiltree,Precinct 2,"President",,REP,"Donald J. Trump",563,20,378,165
+Ochiltree,Precinct 2,"President",,DEM,"Kamala D. Harris",65,3,37,25
+Ochiltree,Precinct 2,"President",,LIB,"Chase Oliver",1,0,0,1
+Ochiltree,Precinct 2,"President",,GRN,"Jill Stein",0,0,0,0
+Ochiltree,Precinct 2,"President",,,"Write-ins",1,0,1,0
+Ochiltree,Precinct 2,"President",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"President",,,"Under Votes",1,0,1,0
+Ochiltree,Precinct 2,"U.S. Senate",,REP,"Ted Cruz",545,20,372,153
+Ochiltree,Precinct 2,"U.S. Senate",,DEM,"Colin Allred",65,2,41,22
+Ochiltree,Precinct 2,"U.S. Senate",,LIB,"Ted Brown",12,0,5,7
+Ochiltree,Precinct 2,"U.S. Senate",,,"Write-ins",0,0,0,0
+Ochiltree,Precinct 2,"U.S. Senate",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"U.S. Senate",,,"Under Votes",9,1,4,4
+Ochiltree,Precinct 2,"U.S. House",13,REP,"Ronny Jackson",556,20,379,157
+Ochiltree,Precinct 2,"U.S. House",13,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"U.S. House",13,,"Under Votes",75,3,43,29
+Ochiltree,Precinct 2,"Railroad Commissioner",,REP,"Christi Craddick",521,19,355,147
+Ochiltree,Precinct 2,"Railroad Commissioner",,DEM,"Katherine Culbert",50,2,34,14
+Ochiltree,Precinct 2,"Railroad Commissioner",,LIB,"Hawk Dunlap",15,0,8,7
+Ochiltree,Precinct 2,"Railroad Commissioner",,GRN,"Eddie Espinoza",9,0,7,2
+Ochiltree,Precinct 2,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Ochiltree,Precinct 2,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"Railroad Commissioner",,,"Under Votes",36,2,18,16
+Ochiltree,Precinct 2,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",532,19,368,145
+Ochiltree,Precinct 2,"Justice, Supreme Court",2,DEM,"DaSean Jones",57,2,34,21
+Ochiltree,Precinct 2,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"Justice, Supreme Court",2,,"Under Votes",42,2,20,20
+Ochiltree,Precinct 2,"Justice, Supreme Court",4,REP,"John Devine",534,19,367,148
+Ochiltree,Precinct 2,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",53,2,33,18
+Ochiltree,Precinct 2,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"Justice, Supreme Court",4,,"Under Votes",44,2,22,20
+Ochiltree,Precinct 2,"Justice, Supreme Court",6,REP,"Jane Bland",528,19,367,142
+Ochiltree,Precinct 2,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",55,2,38,15
+Ochiltree,Precinct 2,"Justice, Supreme Court",6,LIB,"J. David Roberson",9,0,2,7
+Ochiltree,Precinct 2,"Justice, Supreme Court",6,,"Over Votes",1,0,0,1
+Ochiltree,Precinct 2,"Justice, Supreme Court",6,,"Under Votes",38,2,18,18
+Ochiltree,Precinct 2,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",536,19,369,148
+Ochiltree,Precinct 2,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",55,2,34,19
+Ochiltree,Precinct 2,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"Presiding Judge, Ct of Crim App",,,"Under Votes",40,2,19,19
+Ochiltree,Precinct 2,"Judge, Ct of Crim App",7,REP,"Gina Parker",526,17,363,146
+Ochiltree,Precinct 2,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",56,2,34,20
+Ochiltree,Precinct 2,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"Judge, Ct of Crim App",7,,"Under Votes",49,4,25,20
+Ochiltree,Precinct 2,"Judge, Ct of Crim App",8,REP,"Lee Finley",536,19,369,148
+Ochiltree,Precinct 2,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",55,2,34,19
+Ochiltree,Precinct 2,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"Judge, Ct of Crim App",8,,"Under Votes",40,2,19,19
+Ochiltree,Precinct 2,"Member, State BoE",15,REP,"Aaron Kinsey",522,19,358,145
+Ochiltree,Precinct 2,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",57,1,36,20
+Ochiltree,Precinct 2,"Member, State BoE",15,LIB,"Jack B. Westbrook",12,1,3,8
+Ochiltree,Precinct 2,"Member, State BoE",15,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"Member, State BoE",15,,"Under Votes",40,2,21,17
+Ochiltree,Precinct 2,"State Representative",87,REP,"Caroline Fairly",534,19,367,148
+Ochiltree,Precinct 2,"State Representative",87,DEM,"Timothy W. Gassaway",57,2,37,18
+Ochiltree,Precinct 2,"State Representative",87,,"Write-ins",0,0,0,0
+Ochiltree,Precinct 2,"State Representative",87,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"State Representative",87,,"Under Votes",40,2,18,20
+Ochiltree,Precinct 2,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",537,20,367,150
+Ochiltree,Precinct 2,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"Justice, 7th Ct of App Dist",2,,"Under Votes",94,3,55,36
+Ochiltree,Precinct 2,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",526,20,359,147
+Ochiltree,Precinct 2,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"Justice, 7th Ct of App Dist",3,,"Under Votes",105,3,63,39
+Ochiltree,Precinct 2,"Dist Judge, 84th Judicial Dist",,REP,"Curt W. Brancheau",534,19,369,146
+Ochiltree,Precinct 2,"Dist Judge, 84th Judicial Dist",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"Dist Judge, 84th Judicial Dist",,,"Under Votes",97,4,53,40
+Ochiltree,Precinct 2,"County Attorney",,REP,"Jose Merez",522,19,355,148
+Ochiltree,Precinct 2,"County Attorney",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"County Attorney",,,"Under Votes",109,4,67,38
+Ochiltree,Precinct 2,"Sheriff",,REP,"Terry Bouchard",526,22,356,148
+Ochiltree,Precinct 2,"Sheriff",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"Sheriff",,,"Under Votes",105,1,66,38
+Ochiltree,Precinct 2,"County Tax Assessor-Collector",,REP,"Angel Hernandez",538,21,366,151
+Ochiltree,Precinct 2,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"County Tax Assessor-Collector",,,"Under Votes",93,2,56,35
+Ochiltree,Precinct 2,"County Constable",,REP,"Tim Olivarez",532,20,363,149
+Ochiltree,Precinct 2,"County Constable",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"County Constable",,,"Under Votes",99,3,59,37
+Ochiltree,Precinct 2,"PROPOSITION A, Perryton ISD",,,"For",386,12,269,105
+Ochiltree,Precinct 2,"PROPOSITION A, Perryton ISD",,,"Against",200,11,130,59
+Ochiltree,Precinct 2,"PROPOSITION A, Perryton ISD",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 2,"PROPOSITION A, Perryton ISD",,,"Under Votes",45,0,27,18
+Ochiltree,Precinct 3,"Registered Voters",,,,1705,,,
+Ochiltree,Precinct 3,"Ballots Cast",,,,1119,45,839,235
+Ochiltree,Precinct 3,"Ballots Cast Blank",,,,0,0,0,0
+Ochiltree,Precinct 3,"President",,REP,"Donald J. Trump",1025,41,768,216
+Ochiltree,Precinct 3,"President",,DEM,"Kamala D. Harris",82,4,62,16
+Ochiltree,Precinct 3,"President",,LIB,"Chase Oliver",4,0,4,0
+Ochiltree,Precinct 3,"President",,GRN,"Jill Stein",1,0,0,1
+Ochiltree,Precinct 3,"President",,,"Write-ins",3,0,1,2
+Ochiltree,Precinct 3,"President",,,"Over Votes",1,0,0,1
+Ochiltree,Precinct 3,"President",,,"Under Votes",3,0,2,1
+Ochiltree,Precinct 3,"U.S. Senate",,REP,"Ted Cruz",1009,41,762,206
+Ochiltree,Precinct 3,"U.S. Senate",,DEM,"Colin Allred",85,3,62,20
+Ochiltree,Precinct 3,"U.S. Senate",,LIB,"Ted Brown",14,0,11,3
+Ochiltree,Precinct 3,"U.S. Senate",,,"Write-ins",0,0,0,0
+Ochiltree,Precinct 3,"U.S. Senate",,,"Over Votes",1,0,0,1
+Ochiltree,Precinct 3,"U.S. Senate",,,"Under Votes",10,1,4,5
+Ochiltree,Precinct 3,"U.S. House",13,REP,"Ronny Jackson",1020,42,769,209
+Ochiltree,Precinct 3,"U.S. House",13,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 3,"U.S. House",13,,"Under Votes",99,3,70,26
+Ochiltree,Precinct 3,"Railroad Commissioner",,REP,"Christi Craddick",963,40,722,191
+Ochiltree,Precinct 3,"Railroad Commissioner",,DEM,"Katherine Culbert",63,0,49,14
+Ochiltree,Precinct 3,"Railroad Commissioner",,LIB,"Hawk Dunlap",35,2,24,9
+Ochiltree,Precinct 3,"Railroad Commissioner",,GRN,"Eddie Espinoza",9,1,2,6
+Ochiltree,Precinct 3,"Railroad Commissioner",,,"Write-ins",2,0,2,0
+Ochiltree,Precinct 3,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 3,"Railroad Commissioner",,,"Under Votes",46,2,30,14
+Ochiltree,Precinct 3,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",997,40,757,200
+Ochiltree,Precinct 3,"Justice, Supreme Court",2,DEM,"DaSean Jones",66,2,46,18
+Ochiltree,Precinct 3,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 3,"Justice, Supreme Court",2,,"Under Votes",56,3,36,17
+Ochiltree,Precinct 3,"Justice, Supreme Court",4,REP,"John Devine",987,42,749,196
+Ochiltree,Precinct 3,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",75,2,52,21
+Ochiltree,Precinct 3,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 3,"Justice, Supreme Court",4,,"Under Votes",57,1,38,18
+Ochiltree,Precinct 3,"Justice, Supreme Court",6,REP,"Jane Bland",976,40,742,194
+Ochiltree,Precinct 3,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",60,2,45,13
+Ochiltree,Precinct 3,"Justice, Supreme Court",6,LIB,"J. David Roberson",24,0,15,9
+Ochiltree,Precinct 3,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 3,"Justice, Supreme Court",6,,"Under Votes",59,3,37,19
+Ochiltree,Precinct 3,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",989,40,752,197
+Ochiltree,Precinct 3,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",69,1,51,17
+Ochiltree,Precinct 3,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 3,"Presiding Judge, Ct of Crim App",,,"Under Votes",61,4,36,21
+Ochiltree,Precinct 3,"Judge, Ct of Crim App",7,REP,"Gina Parker",978,40,744,194
+Ochiltree,Precinct 3,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",66,2,46,18
+Ochiltree,Precinct 3,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 3,"Judge, Ct of Crim App",7,,"Under Votes",75,3,49,23
+Ochiltree,Precinct 3,"Judge, Ct of Crim App",8,REP,"Lee Finley",990,40,752,198
+Ochiltree,Precinct 3,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",63,2,45,16
+Ochiltree,Precinct 3,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 3,"Judge, Ct of Crim App",8,,"Under Votes",66,3,42,21
+Ochiltree,Precinct 3,"Member, State BoE",15,REP,"Aaron Kinsey",953,39,730,184
+Ochiltree,Precinct 3,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",81,3,58,20
+Ochiltree,Precinct 3,"Member, State BoE",15,LIB,"Jack B. Westbrook",18,0,11,7
+Ochiltree,Precinct 3,"Member, State BoE",15,,"Over Votes",1,0,1,0
+Ochiltree,Precinct 3,"Member, State BoE",15,,"Under Votes",66,3,39,24
+Ochiltree,Precinct 3,"State Representative",87,REP,"Caroline Fairly",980,41,743,196
+Ochiltree,Precinct 3,"State Representative",87,DEM,"Timothy W. Gassaway",78,2,57,19
+Ochiltree,Precinct 3,"State Representative",87,,"Write-ins",0,0,0,0
+Ochiltree,Precinct 3,"State Representative",87,,"Over Votes",1,0,0,1
+Ochiltree,Precinct 3,"State Representative",87,,"Under Votes",60,2,39,19
+Ochiltree,Precinct 3,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",976,39,737,200
+Ochiltree,Precinct 3,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 3,"Justice, 7th Ct of App Dist",2,,"Under Votes",143,6,102,35
+Ochiltree,Precinct 3,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",965,39,728,198
+Ochiltree,Precinct 3,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 3,"Justice, 7th Ct of App Dist",3,,"Under Votes",154,6,109,39
+Ochiltree,Precinct 3,"Dist Judge, 84th Judicial Dist",,REP,"Curt W. Brancheau",974,38,739,197
+Ochiltree,Precinct 3,"Dist Judge, 84th Judicial Dist",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 3,"Dist Judge, 84th Judicial Dist",,,"Under Votes",145,7,100,38
+Ochiltree,Precinct 3,"County Attorney",,REP,"Jose Merez",967,39,734,194
+Ochiltree,Precinct 3,"County Attorney",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 3,"County Attorney",,,"Under Votes",152,6,105,41
+Ochiltree,Precinct 3,"Sheriff",,REP,"Terry Bouchard",978,39,738,201
+Ochiltree,Precinct 3,"Sheriff",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 3,"Sheriff",,,"Under Votes",141,6,101,34
+Ochiltree,Precinct 3,"County Tax Assessor-Collector",,REP,"Angel Hernandez",1004,40,762,202
+Ochiltree,Precinct 3,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 3,"County Tax Assessor-Collector",,,"Under Votes",115,5,78,32
+Ochiltree,Precinct 3,"County Commissioner Pct 3",,REP,"J. W. Dewitt",1018,41,772,205
+Ochiltree,Precinct 3,"County Commissioner Pct 3",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 3,"County Commissioner Pct 3",,,"Under Votes",101,4,67,30
+Ochiltree,Precinct 3,"County Constable",,REP,"Tim Olivarez",975,38,734,203
+Ochiltree,Precinct 3,"County Constable",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 3,"County Constable",,,"Under Votes",144,7,105,32
+Ochiltree,Precinct 3,"PROPOSITION A, Perryton ISD",,,"For",759,16,602,141
+Ochiltree,Precinct 3,"PROPOSITION A, Perryton ISD",,,"Against",282,26,182,74
+Ochiltree,Precinct 3,"PROPOSITION A, Perryton ISD",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 3,"PROPOSITION A, Perryton ISD",,,"Under Votes",45,3,27,15
+Ochiltree,Precinct 4,"Registered Voters",,,,1407,,,
+Ochiltree,Precinct 4,"Ballots Cast",,,,840,41,586,222
+Ochiltree,Precinct 4,"Ballots Cast Blank",,,,1,0,1,0
+Ochiltree,Precinct 4,"President",,REP,"Donald J. Trump",759,35,528,196
+Ochiltree,Precinct 4,"President",,DEM,"Kamala D. Harris",75,3,50,22
+Ochiltree,Precinct 4,"President",,LIB,"Chase Oliver",6,1,3,2
+Ochiltree,Precinct 4,"President",,GRN,"Jill Stein",2,0,2,0
+Ochiltree,Precinct 4,"President",,,"Write-ins",3,2,0,1
+Ochiltree,Precinct 4,"President",,,"Over Votes",1,0,1,0
+Ochiltree,Precinct 4,"President",,,"Under Votes",3,0,2,1
+Ochiltree,Precinct 4,"U.S. Senate",,REP,"Ted Cruz",743,37,516,190
+Ochiltree,Precinct 4,"U.S. Senate",,DEM,"Colin Allred",84,1,56,27
+Ochiltree,Precinct 4,"U.S. Senate",,LIB,"Ted Brown",15,2,10,3
+Ochiltree,Precinct 4,"U.S. Senate",,,"Write-ins",0,0,0,0
+Ochiltree,Precinct 4,"U.S. Senate",,,"Over Votes",2,0,2,0
+Ochiltree,Precinct 4,"U.S. Senate",,,"Under Votes",5,1,3,1
+Ochiltree,Precinct 4,"U.S. House",13,REP,"Ronny Jackson",780,39,540,201
+Ochiltree,Precinct 4,"U.S. House",13,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 4,"U.S. House",13,,"Under Votes",69,2,46,21
+Ochiltree,Precinct 4,"Railroad Commissioner",,REP,"Christi Craddick",723,36,504,183
+Ochiltree,Precinct 4,"Railroad Commissioner",,DEM,"Katherine Culbert",61,2,41,18
+Ochiltree,Precinct 4,"Railroad Commissioner",,LIB,"Hawk Dunlap",25,0,19,6
+Ochiltree,Precinct 4,"Railroad Commissioner",,GRN,"Eddie Espinoza",13,1,6,6
+Ochiltree,Precinct 4,"Railroad Commissioner",,,"Write-ins",1,0,0,1
+Ochiltree,Precinct 4,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 4,"Railroad Commissioner",,,"Under Votes",25,2,15,8
+Ochiltree,Precinct 4,"Justice, Supreme Court",2,REP,"Jimmy Blacklock",751,37,524,190
+Ochiltree,Precinct 4,"Justice, Supreme Court",2,DEM,"DaSean Jones",67,0,45,22
+Ochiltree,Precinct 4,"Justice, Supreme Court",2,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 4,"Justice, Supreme Court",2,,"Under Votes",31,4,17,10
+Ochiltree,Precinct 4,"Justice, Supreme Court",4,REP,"John Devine",743,36,515,192
+Ochiltree,Precinct 4,"Justice, Supreme Court",4,DEM,"Christine Vinh Weems",72,2,51,19
+Ochiltree,Precinct 4,"Justice, Supreme Court",4,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 4,"Justice, Supreme Court",4,,"Under Votes",34,4,19,11
+Ochiltree,Precinct 4,"Justice, Supreme Court",6,REP,"Jane Bland",735,37,513,185
+Ochiltree,Precinct 4,"Justice, Supreme Court",6,DEM,"Bonnie Lee Goldstein",66,2,44,20
+Ochiltree,Precinct 4,"Justice, Supreme Court",6,LIB,"J. David Roberson",18,0,11,7
+Ochiltree,Precinct 4,"Justice, Supreme Court",6,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 4,"Justice, Supreme Court",6,,"Under Votes",30,2,18,10
+Ochiltree,Precinct 4,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",739,37,515,187
+Ochiltree,Precinct 4,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",77,2,50,25
+Ochiltree,Precinct 4,"Presiding Judge, Ct of Crim App",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 4,"Presiding Judge, Ct of Crim App",,,"Under Votes",33,2,21,10
+Ochiltree,Precinct 4,"Judge, Ct of Crim App",7,REP,"Gina Parker",732,35,509,188
+Ochiltree,Precinct 4,"Judge, Ct of Crim App",7,DEM,"Nancy Mulder",73,1,50,22
+Ochiltree,Precinct 4,"Judge, Ct of Crim App",7,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 4,"Judge, Ct of Crim App",7,,"Under Votes",44,5,27,12
+Ochiltree,Precinct 4,"Judge, Ct of Crim App",8,REP,"Lee Finley",745,36,518,191
+Ochiltree,Precinct 4,"Judge, Ct of Crim App",8,DEM,"Chika Anyiam",69,2,47,20
+Ochiltree,Precinct 4,"Judge, Ct of Crim App",8,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 4,"Judge, Ct of Crim App",8,,"Under Votes",35,3,21,11
+Ochiltree,Precinct 4,"Member, State BoE",15,REP,"Aaron Kinsey",720,35,505,180
+Ochiltree,Precinct 4,"Member, State BoE",15,DEM,"Morgan Kirkpatrick",69,2,44,23
+Ochiltree,Precinct 4,"Member, State BoE",15,LIB,"Jack B. Westbrook",24,1,14,9
+Ochiltree,Precinct 4,"Member, State BoE",15,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 4,"Member, State BoE",15,,"Under Votes",36,3,23,10
+Ochiltree,Precinct 4,"State Representative",87,REP,"Caroline Fairly",742,36,515,191
+Ochiltree,Precinct 4,"State Representative",87,DEM,"Timothy W. Gassaway",67,3,43,21
+Ochiltree,Precinct 4,"State Representative",87,,"Write-ins",1,0,1,0
+Ochiltree,Precinct 4,"State Representative",87,,"Over Votes",1,0,1,0
+Ochiltree,Precinct 4,"State Representative",87,,"Under Votes",38,2,26,10
+Ochiltree,Precinct 4,"Justice, 7th Ct of App Dist",2,REP,"Judy Parker",771,39,530,202
+Ochiltree,Precinct 4,"Justice, 7th Ct of App Dist",2,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 4,"Justice, 7th Ct of App Dist",2,,"Under Votes",78,2,56,20
+Ochiltree,Precinct 4,"Justice, 7th Ct of App Dist",3,REP,"Alex Yarbrough",766,38,525,203
+Ochiltree,Precinct 4,"Justice, 7th Ct of App Dist",3,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 4,"Justice, 7th Ct of App Dist",3,,"Under Votes",83,3,61,19
+Ochiltree,Precinct 4,"Dist Judge, 84th Judicial Dist",,REP,"Curt W. Brancheau",760,37,525,198
+Ochiltree,Precinct 4,"Dist Judge, 84th Judicial Dist",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 4,"Dist Judge, 84th Judicial Dist",,,"Under Votes",89,4,61,24
+Ochiltree,Precinct 4,"County Attorney",,REP,"Jose Merez",764,37,526,201
+Ochiltree,Precinct 4,"County Attorney",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 4,"County Attorney",,,"Under Votes",85,4,60,21
+Ochiltree,Precinct 4,"Sheriff",,REP,"Terry Bouchard",757,36,519,202
+Ochiltree,Precinct 4,"Sheriff",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 4,"Sheriff",,,"Under Votes",92,5,67,20
+Ochiltree,Precinct 4,"County Tax Assessor-Collector",,REP,"Angel Hernandez",775,40,534,201
+Ochiltree,Precinct 4,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 4,"County Tax Assessor-Collector",,,"Under Votes",74,1,52,21
+Ochiltree,Precinct 4,"County Constable",,REP,"Tim Olivarez",758,37,522,199
+Ochiltree,Precinct 4,"County Constable",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 4,"County Constable",,,"Under Votes",91,4,64,23
+Ochiltree,Precinct 4,"PROPOSITION A, Perryton ISD",,,"For",581,17,422,142
+Ochiltree,Precinct 4,"PROPOSITION A, Perryton ISD",,,"Against",238,20,146,72
+Ochiltree,Precinct 4,"PROPOSITION A, Perryton ISD",,,"Over Votes",0,0,0,0
+Ochiltree,Precinct 4,"PROPOSITION A, Perryton ISD",,,"Under Votes",30,4,18,8

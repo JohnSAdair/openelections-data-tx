@@ -1,0 +1,331 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Madison,1,"Registered Voters",,,,1917,,,
+Madison,1,"Ballots Cast",,,,1205,,,
+Madison,1,"President",,REP,"Donald J. Trump JD Vance",1007,15,817,175
+Madison,1,"President",,DEM,"Kamala D. Harris Tim Walz",189,13,123,53
+Madison,1,"President",,LIB,"Chase Oliver Mike ter Maat",4,0,3,1
+Madison,1,"President",,GRN,"Jill Stein Rudolph Ware",2,0,1,1
+Madison,1,"President",,,"Cherunda Fox/ Harlan McVey (W)",0,0,0,0
+Madison,1,"President",,,"Claudia De la Cruz/Karina Garcia (W)",0,0,0,0
+Madison,1,"President",,,"Cornel West/Melina Abdullah (W)",0,0,0,0
+Madison,1,"President",,,"Jessica Cuellar/Wesley Lasley (W)",0,0,0,0
+Madison,1,"President",,,"Peter Sonski/ Lauren Onak (W)",0,0,0,0
+Madison,1,"President",,,"Shiva Ayyadurai/ Crystal Ellis (W)",0,0,0,0
+Madison,1,"President",,,"Over Votes",0,0,0,0
+Madison,1,"President",,,"Under Votes",3,2,1,0
+Madison,1,"U.S. Senate",,REP,"Ted Cruz",968,17,790,161
+Madison,1,"U.S. Senate",,DEM,"Colin Allred",205,10,137,58
+Madison,1,"U.S. Senate",,LIB,"Ted Brown",24,1,16,7
+Madison,1,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Madison,1,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Madison,1,"U.S. Senate",,,"Over Votes",0,0,0,0
+Madison,1,"U.S. Senate",,,"Under Votes",8,2,2,4
+Madison,1,"U.S. House","10",REP,"Michael T. McCaul",989,15,805,169
+Madison,1,"U.S. House","10",DEM,"Theresa Boisseau",181,10,118,53
+Madison,1,"U.S. House","10",LIB,"Jeff Miller",16,1,11,4
+Madison,1,"U.S. House","10",,"Over Votes",2,2,0,0
+Madison,1,"U.S. House","10",,"Under Votes",17,2,11,4
+Madison,1,"Railroad Commissioner",,REP,"Christi Craddick",974,17,793,164
+Madison,1,"Railroad Commissioner",,DEM,"Katherine Culbert",164,10,109,45
+Madison,1,"Railroad Commissioner",,LIB,"Hawk Dunlap",36,1,25,10
+Madison,1,"Railroad Commissioner",,GRN,"Eddie Espinoza",10,1,4,5
+Madison,1,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Madison,1,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Madison,1,"Railroad Commissioner",,,"Under Votes",21,1,14,6
+Madison,1,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",1002,18,810,174
+Madison,1,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",178,9,117,52
+Madison,1,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Madison,1,"Justice, Supreme Court","Place 2",,"Under Votes",25,3,18,4
+Madison,1,"Justice, Supreme Court","Place 4",REP,"John Devine",998,16,809,173
+Madison,1,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",180,10,119,51
+Madison,1,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Madison,1,"Justice, Supreme Court","Place 4",,"Under Votes",27,4,17,6
+Madison,1,"Justice, Supreme Court","Place 6",REP,"Jane Bland",977,17,793,167
+Madison,1,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",177,9,116,52
+Madison,1,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",25,1,18,6
+Madison,1,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Madison,1,"Justice, Supreme Court","Place 6",,"Under Votes",26,3,18,5
+Madison,1,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",991,17,804,170
+Madison,1,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",188,11,123,54
+Madison,1,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Madison,1,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",26,2,18,6
+Madison,1,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",1004,18,812,174
+Madison,1,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",175,10,116,49
+Madison,1,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Madison,1,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",26,2,17,7
+Madison,1,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",1001,18,809,174
+Madison,1,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",174,9,115,50
+Madison,1,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Madison,1,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",30,3,21,6
+Madison,1,"Member, State Board of Education","10",REP,"Tom Maynard",996,15,813,168
+Madison,1,"Member, State Board of Education","10",DEM,"Raquel Saenz Ortiz",177,11,113,53
+Madison,1,"Member, State Board of Education","10",,"Over Votes",1,1,0,0
+Madison,1,"Member, State Board of Education","10",,"Under Votes",31,3,19,9
+Madison,1,"State Representative","12",REP,"Trey Wharton",1010,15,822,173
+Madison,1,"State Representative","12",DEM,"Dee Howard Mullins",167,10,108,49
+Madison,1,"State Representative","12",,"Over Votes",1,1,0,0
+Madison,1,"State Representative","12",,"Under Votes",27,4,15,8
+Madison,1,"Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",1063,17,850,196
+Madison,1,"Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Madison,1,"Chief Justice, 10th Court of Appeals District",,,"Under Votes",142,13,95,34
+Madison,1,"District Judge, 12th Judicial District",,REP,"David Wayne Moorman",1064,17,850,197
+Madison,1,"District Judge, 12th Judicial District",,,"Over Votes",0,0,0,0
+Madison,1,"District Judge, 12th Judicial District",,,"Under Votes",141,13,95,33
+Madison,1,"Sheriff",,,"Bobby Adams",1079,21,854,204
+Madison,1,"Sheriff",,,"Over Votes",0,0,0,0
+Madison,1,"Sheriff",,,"Under Votes",126,9,91,26
+Madison,1,"County Tax Assessor-Collector",,REP,"Karen Lane",1094,21,875,198
+Madison,1,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Madison,1,"County Tax Assessor-Collector",,,"Under Votes",111,9,70,32
+Madison,1,"County Commissioner","1",REP,"Steve Parrish",1084,19,867,198
+Madison,1,"County Commissioner","1",,"Over Votes",0,0,0,0
+Madison,1,"County Commissioner","1",,"Under Votes",121,11,78,32
+Madison,1,"Constable","1",REP,"Aaron Campbell",1084,16,865,203
+Madison,1,"Constable","1",,"Over Votes",0,0,0,0
+Madison,1,"Constable","1",,"Under Votes",121,14,80,27
+Madison,2,"Registered Voters",,,,2177,,,
+Madison,2,"Ballots Cast",,,,1436,,,
+Madison,2,"President",,REP,"Donald J. Trump JD Vance",1185,35,926,224
+Madison,2,"President",,DEM,"Kamala D. Harris Tim Walz",240,13,156,71
+Madison,2,"President",,LIB,"Chase Oliver Mike ter Maat",3,0,2,1
+Madison,2,"President",,GRN,"Jill Stein Rudolph Ware",4,0,2,2
+Madison,2,"President",,,"Cherunda Fox/ Harlan McVey (W)",0,0,0,0
+Madison,2,"President",,,"Claudia De la Cruz/Karina Garcia (W)",0,0,0,0
+Madison,2,"President",,,"Cornel West/Melina Abdullah (W)",0,0,0,0
+Madison,2,"President",,,"Jessica Cuellar/Wesley Lasley (W)",0,0,0,0
+Madison,2,"President",,,"Peter Sonski/ Lauren Onak (W)",0,0,0,0
+Madison,2,"President",,,"Shiva Ayyadurai/ Crystal Ellis (W)",0,0,0,0
+Madison,2,"President",,,"Over Votes",0,0,0,0
+Madison,2,"President",,,"Under Votes",4,0,3,1
+Madison,2,"U.S. Senate",,REP,"Ted Cruz",1138,31,892,215
+Madison,2,"U.S. Senate",,DEM,"Colin Allred",251,13,164,74
+Madison,2,"U.S. Senate",,LIB,"Ted Brown",28,3,18,7
+Madison,2,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Madison,2,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Madison,2,"U.S. Senate",,,"Over Votes",0,0,0,0
+Madison,2,"U.S. Senate",,,"Under Votes",19,1,15,3
+Madison,2,"U.S. House","10",REP,"Michael T. McCaul",1154,25,905,224
+Madison,2,"U.S. House","10",DEM,"Theresa Boisseau",209,13,137,59
+Madison,2,"U.S. House","10",LIB,"Jeff Miller",26,0,21,5
+Madison,2,"U.S. House","10",,"Over Votes",9,9,0,0
+Madison,2,"U.S. House","10",,"Under Votes",38,1,26,11
+Madison,2,"Railroad Commissioner",,REP,"Christi Craddick",1134,30,887,217
+Madison,2,"Railroad Commissioner",,DEM,"Katherine Culbert",217,13,141,63
+Madison,2,"Railroad Commissioner",,LIB,"Hawk Dunlap",32,4,22,6
+Madison,2,"Railroad Commissioner",,GRN,"Eddie Espinoza",10,0,7,3
+Madison,2,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Madison,2,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Madison,2,"Railroad Commissioner",,,"Under Votes",43,1,32,10
+Madison,2,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",1173,34,915,224
+Madison,2,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",221,13,142,66
+Madison,2,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Madison,2,"Justice, Supreme Court","Place 2",,"Under Votes",42,1,32,9
+Madison,2,"Justice, Supreme Court","Place 4",REP,"John Devine",1163,32,911,220
+Madison,2,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",224,13,142,69
+Madison,2,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Madison,2,"Justice, Supreme Court","Place 4",,"Under Votes",49,3,36,10
+Madison,2,"Justice, Supreme Court","Place 6",REP,"Jane Bland",1147,32,896,219
+Madison,2,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",216,13,139,64
+Madison,2,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",27,1,20,6
+Madison,2,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Madison,2,"Justice, Supreme Court","Place 6",,"Under Votes",46,2,34,10
+Madison,2,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1162,33,905,224
+Madison,2,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",232,12,154,66
+Madison,2,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Madison,2,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",42,3,30,9
+Madison,2,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",1165,33,909,223
+Madison,2,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",225,12,147,66
+Madison,2,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Madison,2,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",46,3,33,10
+Madison,2,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",1165,33,911,221
+Madison,2,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",216,12,139,65
+Madison,2,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Madison,2,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",55,3,39,13
+Madison,2,"Member, State Board of Education","10",REP,"Tom Maynard",1160,26,914,220
+Madison,2,"Member, State Board of Education","10",DEM,"Raquel Saenz Ortiz",225,13,144,68
+Madison,2,"Member, State Board of Education","10",,"Over Votes",4,4,0,0
+Madison,2,"Member, State Board of Education","10",,"Under Votes",47,5,31,11
+Madison,2,"State Representative","12",REP,"Trey Wharton",1171,26,918,227
+Madison,2,"State Representative","12",DEM,"Dee Howard Mullins",221,13,144,64
+Madison,2,"State Representative","12",,"Over Votes",4,4,0,0
+Madison,2,"State Representative","12",,"Under Votes",40,5,27,8
+Madison,2,"Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",1251,32,962,257
+Madison,2,"Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Madison,2,"Chief Justice, 10th Court of Appeals District",,,"Under Votes",185,16,127,42
+Madison,2,"District Judge, 12th Judicial District",,REP,"David Wayne Moorman",1239,29,955,255
+Madison,2,"District Judge, 12th Judicial District",,,"Over Votes",0,0,0,0
+Madison,2,"District Judge, 12th Judicial District",,,"Under Votes",197,19,134,44
+Madison,2,"Sheriff",,,"Bobby Adams",1252,32,961,259
+Madison,2,"Sheriff",,,"Over Votes",0,0,0,0
+Madison,2,"Sheriff",,,"Under Votes",184,16,128,40
+Madison,2,"County Tax Assessor-Collector",,REP,"Karen Lane",1255,30,967,258
+Madison,2,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Madison,2,"County Tax Assessor-Collector",,,"Under Votes",181,18,122,41
+Madison,2,"Constable","1",REP,"Aaron Campbell",1256,31,966,259
+Madison,2,"Constable","1",,"Over Votes",0,0,0,0
+Madison,2,"Constable","1",,"Under Votes",180,17,123,40
+Madison,3,"Registered Voters",,,,1952,,,
+Madison,3,"Ballots Cast",,,,1166,,,
+Madison,3,"President",,REP,"Donald J. Trump JD Vance",802,18,555,229
+Madison,3,"President",,DEM,"Kamala D. Harris Tim Walz",355,16,271,68
+Madison,3,"President",,LIB,"Chase Oliver Mike ter Maat",3,0,2,1
+Madison,3,"President",,GRN,"Jill Stein Rudolph Ware",4,0,4,0
+Madison,3,"President",,,"Cherunda Fox/ Harlan McVey (W)",0,0,0,0
+Madison,3,"President",,,"Claudia De la Cruz/Karina Garcia (W)",0,0,0,0
+Madison,3,"President",,,"Cornel West/Melina Abdullah (W)",0,0,0,0
+Madison,3,"President",,,"Jessica Cuellar/Wesley Lasley (W)",0,0,0,0
+Madison,3,"President",,,"Peter Sonski/ Lauren Onak (W)",0,0,0,0
+Madison,3,"President",,,"Shiva Ayyadurai/ Crystal Ellis (W)",0,0,0,0
+Madison,3,"President",,,"Over Votes",0,0,0,0
+Madison,3,"President",,,"Under Votes",2,0,1,1
+Madison,3,"U.S. Senate",,REP,"Ted Cruz",776,18,542,216
+Madison,3,"U.S. Senate",,DEM,"Colin Allred",353,14,266,73
+Madison,3,"U.S. Senate",,LIB,"Ted Brown",14,0,10,4
+Madison,3,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Madison,3,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Madison,3,"U.S. Senate",,,"Over Votes",0,0,0,0
+Madison,3,"U.S. Senate",,,"Under Votes",23,2,15,6
+Madison,3,"U.S. House","10",REP,"Michael T. McCaul",790,16,554,220
+Madison,3,"U.S. House","10",DEM,"Theresa Boisseau",337,14,255,68
+Madison,3,"U.S. House","10",LIB,"Jeff Miller",8,0,6,2
+Madison,3,"U.S. House","10",,"Over Votes",2,2,0,0
+Madison,3,"U.S. House","10",,"Under Votes",29,2,18,9
+Madison,3,"Railroad Commissioner",,REP,"Christi Craddick",760,19,534,207
+Madison,3,"Railroad Commissioner",,DEM,"Katherine Culbert",333,13,253,67
+Madison,3,"Railroad Commissioner",,LIB,"Hawk Dunlap",28,0,15,13
+Madison,3,"Railroad Commissioner",,GRN,"Eddie Espinoza",5,0,3,2
+Madison,3,"Railroad Commissioner",,,"Richard McKibbin (W)",0,0,0,0
+Madison,3,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Madison,3,"Railroad Commissioner",,,"Under Votes",40,2,28,10
+Madison,3,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",785,18,545,222
+Madison,3,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",344,14,264,66
+Madison,3,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Madison,3,"Justice, Supreme Court","Place 2",,"Under Votes",37,2,24,11
+Madison,3,"Justice, Supreme Court","Place 4",REP,"John Devine",782,18,545,219
+Madison,3,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",342,14,260,68
+Madison,3,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Madison,3,"Justice, Supreme Court","Place 4",,"Under Votes",42,2,28,12
+Madison,3,"Justice, Supreme Court","Place 6",REP,"Jane Bland",774,18,537,219
+Madison,3,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",337,14,259,64
+Madison,3,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",14,0,8,6
+Madison,3,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Madison,3,"Justice, Supreme Court","Place 6",,"Under Votes",41,2,29,10
+Madison,3,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",786,18,543,225
+Madison,3,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",336,14,257,65
+Madison,3,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Madison,3,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",44,2,33,9
+Madison,3,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",782,17,543,222
+Madison,3,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",336,14,257,65
+Madison,3,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Madison,3,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",48,3,33,12
+Madison,3,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",789,18,549,222
+Madison,3,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",328,14,250,64
+Madison,3,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Madison,3,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",49,2,34,13
+Madison,3,"Member, State Board of Education","10",REP,"Tom Maynard",784,17,545,222
+Madison,3,"Member, State Board of Education","10",DEM,"Raquel Saenz Ortiz",336,14,256,66
+Madison,3,"Member, State Board of Education","10",,"Over Votes",0,0,0,0
+Madison,3,"Member, State Board of Education","10",,"Under Votes",46,3,32,11
+Madison,3,"State Representative","12",REP,"Trey Wharton",793,18,550,225
+Madison,3,"State Representative","12",DEM,"Dee Howard Mullins",331,13,254,64
+Madison,3,"State Representative","12",,"Over Votes",1,1,0,0
+Madison,3,"State Representative","12",,"Under Votes",41,2,29,10
+Madison,3,"Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",875,20,607,248
+Madison,3,"Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Madison,3,"Chief Justice, 10th Court of Appeals District",,,"Under Votes",291,14,226,51
+Madison,3,"District Judge, 12th Judicial District",,REP,"David Wayne Moorman",873,20,602,251
+Madison,3,"District Judge, 12th Judicial District",,,"Over Votes",0,0,0,0
+Madison,3,"District Judge, 12th Judicial District",,,"Under Votes",293,14,231,48
+Madison,3,"Sheriff",,,"Bobby Adams",952,25,671,256
+Madison,3,"Sheriff",,,"Over Votes",0,0,0,0
+Madison,3,"Sheriff",,,"Under Votes",214,9,162,43
+Madison,3,"County Tax Assessor-Collector",,REP,"Karen Lane",914,26,632,256
+Madison,3,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Madison,3,"County Tax Assessor-Collector",,,"Under Votes",252,8,201,43
+Madison,3,"County Commissioner","3",REP,"Carl Cannon",919,26,636,257
+Madison,3,"County Commissioner","3",,"Over Votes",0,0,0,0
+Madison,3,"County Commissioner","3",,"Under Votes",247,8,197,42
+Madison,3,"Constable","2",REP,"Charles Turner",898,23,626,249
+Madison,3,"Constable","2",,"Over Votes",0,0,0,0
+Madison,3,"Constable","2",,"Under Votes",268,11,207,50
+Madison,4,"Registered Voters",,,,2391,,,
+Madison,4,"Ballots Cast",,,,1697,,,
+Madison,4,"President",,REP,"Donald J. Trump JD Vance",1504,44,1155,305
+Madison,4,"President",,DEM,"Kamala D. Harris Tim Walz",180,8,131,41
+Madison,4,"President",,LIB,"Chase Oliver Mike ter Maat",7,0,5,2
+Madison,4,"President",,GRN,"Jill Stein Rudolph Ware",0,0,0,0
+Madison,4,"President",,,"Cherunda Fox/ Harlan McVey (W)",0,0,0,0
+Madison,4,"President",,,"Claudia De la Cruz/Karina Garcia (W)",0,0,0,0
+Madison,4,"President",,,"Cornel West/Melina Abdullah (W)",0,0,0,0
+Madison,4,"President",,,"Jessica Cuellar/Wesley Lasley (W)",0,0,0,0
+Madison,4,"President",,,"Peter Sonski/ Lauren Onak (W)",1,0,1,0
+Madison,4,"President",,,"Shiva Ayyadurai/ Crystal Ellis (W)",0,0,0,0
+Madison,4,"President",,,"Over Votes",0,0,0,0
+Madison,4,"President",,,"Under Votes",5,0,4,1
+Madison,4,"U.S. Senate",,REP,"Ted Cruz",1454,43,1125,286
+Madison,4,"U.S. Senate",,DEM,"Colin Allred",203,9,146,48
+Madison,4,"U.S. Senate",,LIB,"Ted Brown",29,0,18,11
+Madison,4,"U.S. Senate",,,"Analisa Roche (W)",0,0,0,0
+Madison,4,"U.S. Senate",,,"Tracy Andrus (W)",0,0,0,0
+Madison,4,"U.S. Senate",,,"Over Votes",0,0,0,0
+Madison,4,"U.S. Senate",,,"Under Votes",11,0,7,4
+Madison,4,"U.S. House","10",REP,"Michael T. McCaul",1465,35,1138,292
+Madison,4,"U.S. House","10",DEM,"Theresa Boisseau",163,7,116,40
+Madison,4,"U.S. House","10",LIB,"Jeff Miller",34,0,25,9
+Madison,4,"U.S. House","10",,"Over Votes",10,10,0,0
+Madison,4,"U.S. House","10",,"Under Votes",25,0,17,8
+Madison,4,"Railroad Commissioner",,REP,"Christi Craddick",1423,42,1087,294
+Madison,4,"Railroad Commissioner",,DEM,"Katherine Culbert",163,7,121,35
+Madison,4,"Railroad Commissioner",,LIB,"Hawk Dunlap",59,1,51,7
+Madison,4,"Railroad Commissioner",,GRN,"Eddie Espinoza",11,2,7,2
+Madison,4,"Railroad Commissioner",,,"Richard McKibbin (W)",1,0,1,0
+Madison,4,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Madison,4,"Railroad Commissioner",,,"Under Votes",40,0,29,11
+Madison,4,"Justice, Supreme Court","Place 2",REP,"Jimmy Blacklock",1487,43,1145,299
+Madison,4,"Justice, Supreme Court","Place 2",DEM,"DaSean Jones",175,8,125,42
+Madison,4,"Justice, Supreme Court","Place 2",,"Over Votes",1,1,0,0
+Madison,4,"Justice, Supreme Court","Place 2",,"Under Votes",34,0,26,8
+Madison,4,"Justice, Supreme Court","Place 4",REP,"John Devine",1486,44,1147,295
+Madison,4,"Justice, Supreme Court","Place 4",DEM,"Christine Vinh Weems",179,8,126,45
+Madison,4,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Madison,4,"Justice, Supreme Court","Place 4",,"Under Votes",32,0,23,9
+Madison,4,"Justice, Supreme Court","Place 6",REP,"Jane Bland",1450,44,1124,282
+Madison,4,"Justice, Supreme Court","Place 6",DEM,"Bonnie Lee Goldstein",169,8,121,40
+Madison,4,"Justice, Supreme Court","Place 6",LIB,"J. David Roberson",43,0,26,17
+Madison,4,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Madison,4,"Justice, Supreme Court","Place 6",,"Under Votes",35,0,25,10
+Madison,4,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1487,43,1145,299
+Madison,4,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",176,8,126,42
+Madison,4,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Madison,4,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",34,1,25,8
+Madison,4,"Judge, Court of Criminal Appeals","Place 7",REP,"Gina Parker",1480,44,1139,297
+Madison,4,"Judge, Court of Criminal Appeals","Place 7",DEM,"Nancy Mulder",169,8,120,41
+Madison,4,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Madison,4,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",48,0,37,11
+Madison,4,"Judge, Court of Criminal Appeals","Place 8",REP,"Lee Finley",1488,45,1145,298
+Madison,4,"Judge, Court of Criminal Appeals","Place 8",DEM,"Chika Anyiam",159,7,114,38
+Madison,4,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Madison,4,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",50,0,37,13
+Madison,4,"Member, State Board of Education","10",REP,"Tom Maynard",1481,35,1149,297
+Madison,4,"Member, State Board of Education","10",DEM,"Raquel Saenz Ortiz",169,7,117,45
+Madison,4,"Member, State Board of Education","10",,"Over Votes",6,6,0,0
+Madison,4,"Member, State Board of Education","10",,"Under Votes",41,4,30,7
+Madison,4,"State Representative","12",REP,"Trey Wharton",1480,35,1149,296
+Madison,4,"State Representative","12",DEM,"Dee Howard Mullins",179,7,129,43
+Madison,4,"State Representative","12",,"Over Votes",5,5,0,0
+Madison,4,"State Representative","12",,"Under Votes",33,5,18,10
+Madison,4,"Chief Justice, 10th Court of Appeals District",,REP,"Matt Johnson",1549,34,1194,321
+Madison,4,"Chief Justice, 10th Court of Appeals District",,,"Over Votes",0,0,0,0
+Madison,4,"Chief Justice, 10th Court of Appeals District",,,"Under Votes",148,18,102,28
+Madison,4,"District Judge, 12th Judicial District",,REP,"David Wayne Moorman",1539,34,1183,322
+Madison,4,"District Judge, 12th Judicial District",,,"Over Votes",0,0,0,0
+Madison,4,"District Judge, 12th Judicial District",,,"Under Votes",158,18,113,27
+Madison,4,"Sheriff",,,"Bobby Adams",1527,30,1185,312
+Madison,4,"Sheriff",,,"Over Votes",0,0,0,0
+Madison,4,"Sheriff",,,"Under Votes",170,22,111,37
+Madison,4,"County Tax Assessor-Collector",,REP,"Karen Lane",1554,32,1198,324
+Madison,4,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Madison,4,"County Tax Assessor-Collector",,,"Under Votes",143,20,98,25
+Madison,4,"Constable","2",REP,"Charles Turner",1545,32,1189,324
+Madison,4,"Constable","2",,"Over Votes",0,0,0,0
+Madison,4,"Constable","2",,"Under Votes",152,20,107,25
