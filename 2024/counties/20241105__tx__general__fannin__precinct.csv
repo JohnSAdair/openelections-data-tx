@@ -1,0 +1,1352 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Fannin,1 W. Bonham,Registered Voters,,,,1809,,,
+Fannin,1 W. Bonham,Ballots Cast,,,,1042,,,
+Fannin,1 W. Bonham,President,,REP,Donald J. Trump JD Vance,834,31,681,122
+Fannin,1 W. Bonham,President,,DEM,Kamala D. Harris Tim Walz,190,16,125,49
+Fannin,1 W. Bonham,President,,LIB,Chase Oliver Mike ter Maat,6,0,5,1
+Fannin,1 W. Bonham,President,,GRN,Jill Stein Rudolph Ware,7,0,5,2
+Fannin,1 W. Bonham,President,,,Under Votes,3,1,1,1
+Fannin,1 W. Bonham,President,,,Over Votes,1,1,0,0
+Fannin,1 W. Bonham,U.S. Senate,,REP,Ted Cruz,785,32,644,109
+Fannin,1 W. Bonham,U.S. Senate,,DEM,Colin Allred,218,15,150,53
+Fannin,1 W. Bonham,U.S. Senate,,LIB,Ted Brown,28,1,17,10
+Fannin,1 W. Bonham,U.S. Senate,,,Under Votes,9,0,6,3
+Fannin,1 W. Bonham,U.S. Senate,,,Over Votes,1,1,0,0
+Fannin,1 W. Bonham,U.S. House,4,REP,Pat Fallon,835,31,677,127
+Fannin,1 W. Bonham,U.S. House,4,DEM,Simon Cardell,177,13,121,43
+Fannin,1 W. Bonham,U.S. House,4,,Under Votes,27,2,19,6
+Fannin,1 W. Bonham,U.S. House,4,,Over Votes,3,3,0,0
+Fannin,1 W. Bonham,Railroad Commissioner,,REP,Christi Craddick,796,30,654,112
+Fannin,1 W. Bonham,Railroad Commissioner,,DEM,Katherine Culbert,165,16,110,39
+Fannin,1 W. Bonham,Railroad Commissioner,,LIB,Hawk Dunlap,30,1,20,9
+Fannin,1 W. Bonham,Railroad Commissioner,,GRN,Eddie Espinoza,14,0,8,6
+Fannin,1 W. Bonham,Railroad Commissioner,,,Under Votes,36,2,25,9
+Fannin,1 W. Bonham,Railroad Commissioner,,,Over Votes,0,0,0,0
+Fannin,1 W. Bonham,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,831,32,676,123
+Fannin,1 W. Bonham,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,179,15,120,44
+Fannin,1 W. Bonham,"Justice, Supreme Court, Place 2",2,,Under Votes,32,2,21,9
+Fannin,1 W. Bonham,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Fannin,1 W. Bonham,"Justice, Supreme Court, Place 4",4,REP,John Devine,821,30,671,120
+Fannin,1 W. Bonham,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,182,17,118,47
+Fannin,1 W. Bonham,"Justice, Supreme Court, Place 4",4,,Under Votes,39,2,28,9
+Fannin,1 W. Bonham,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Fannin,1 W. Bonham,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,793,30,649,114
+Fannin,1 W. Bonham,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,171,16,115,40
+Fannin,1 W. Bonham,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,34,0,22,12
+Fannin,1 W. Bonham,"Justice, Supreme Court, Place 6",6,,Under Votes,43,2,31,10
+Fannin,1 W. Bonham,"Justice, Supreme Court, Place 6",6,,Over Votes,1,1,0,0
+Fannin,1 W. Bonham,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,808,30,664,114
+Fannin,1 W. Bonham,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,192,17,125,50
+Fannin,1 W. Bonham,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,42,2,28,12
+Fannin,1 W. Bonham,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Fannin,1 W. Bonham,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,811,32,661,118
+Fannin,1 W. Bonham,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,185,15,123,47
+Fannin,1 W. Bonham,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,46,2,33,11
+Fannin,1 W. Bonham,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Fannin,1 W. Bonham,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,826,32,672,122
+Fannin,1 W. Bonham,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,172,15,114,43
+Fannin,1 W. Bonham,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,44,2,31,11
+Fannin,1 W. Bonham,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Fannin,1 W. Bonham,"Member, State Board of Education, District 12",12,REP,Pam Little,817,30,667,120
+Fannin,1 W. Bonham,"Member, State Board of Education, District 12",12,DEM,George King,183,15,124,44
+Fannin,1 W. Bonham,"Member, State Board of Education, District 12",12,,Under Votes,40,2,26,12
+Fannin,1 W. Bonham,"Member, State Board of Education, District 12",12,,Over Votes,2,2,0,0
+Fannin,1 W. Bonham,State Representative,62,REP,Shelley Luther,797,25,649,123
+Fannin,1 W. Bonham,State Representative,62,DEM,Tiffany Drake,198,17,135,46
+Fannin,1 W. Bonham,State Representative,62,,Under Votes,44,4,33,7
+Fannin,1 W. Bonham,State Representative,62,,Over Votes,3,3,0,0
+Fannin,1 W. Bonham,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,879,32,709,138
+Fannin,1 W. Bonham,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,163,17,108,38
+Fannin,1 W. Bonham,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Fannin,1 W. Bonham,"District Judge, 336th Judicial District",336,REP,Christina Tillett,869,32,703,134
+Fannin,1 W. Bonham,"District Judge, 336th Judicial District",336,,Under Votes,173,17,114,42
+Fannin,1 W. Bonham,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,1 W. Bonham,"District Judge, 336th Judicial District",336,REP,John Skotnik,881,35,710,136
+Fannin,1 W. Bonham,"District Judge, 336th Judicial District",336,,Under Votes,161,14,107,40
+Fannin,1 W. Bonham,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,1 W. Bonham,"County Clerk, Unexpired Term",,REP,Jenny Garner,881,33,708,140
+Fannin,1 W. Bonham,"County Clerk, Unexpired Term",,,Under Votes,161,16,109,36
+Fannin,1 W. Bonham,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,1 W. Bonham,Sheriff,,REP,Cody Shook,881,36,706,139
+Fannin,1 W. Bonham,Sheriff,,,Under Votes,161,13,111,37
+Fannin,1 W. Bonham,Sheriff,,,Over Votes,0,0,0,0
+Fannin,1 W. Bonham,County Tax Assessor-Collector,,REP,Amber Vest Sutherland,891,35,714,142
+Fannin,1 W. Bonham,County Tax Assessor-Collector,,,Under Votes,151,14,103,34
+Fannin,1 W. Bonham,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Fannin,1 W. Bonham,"County Commissioner, Precinct 1",,REP,Troy Waggoner,892,35,714,143
+Fannin,1 W. Bonham,"County Commissioner, Precinct 1",,,Under Votes,150,14,103,33
+Fannin,1 W. Bonham,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Fannin,1 W. Bonham,"Constable, Precinct 1",,REP,David Thompson,878,33,707,138
+Fannin,1 W. Bonham,"Constable, Precinct 1",,,Under Votes,164,16,110,38
+Fannin,1 W. Bonham,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Fannin,2 Savoy,Registered Voters,,,,1564,,,
+Fannin,2 Savoy,Ballots Cast,,,,1085,,,
+Fannin,2 Savoy,President,,REP,Donald J. Trump JD Vance,963,23,640,300
+Fannin,2 Savoy,President,,DEM,Kamala D. Harris Tim Walz,118,10,72,36
+Fannin,2 Savoy,President,,LIB,Chase Oliver Mike ter Maat,3,1,1,1
+Fannin,2 Savoy,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Fannin,2 Savoy,President,,,Under Votes,1,0,0,1
+Fannin,2 Savoy,President,,,Over Votes,0,0,0,0
+Fannin,2 Savoy,U.S. Senate,,REP,Ted Cruz,927,23,618,286
+Fannin,2 Savoy,U.S. Senate,,DEM,Colin Allred,137,11,84,42
+Fannin,2 Savoy,U.S. Senate,,LIB,Ted Brown,15,0,9,6
+Fannin,2 Savoy,U.S. Senate,,,Under Votes,6,0,2,4
+Fannin,2 Savoy,U.S. Senate,,,Over Votes,0,0,0,0
+Fannin,2 Savoy,U.S. House,4,REP,Pat Fallon,954,21,646,287
+Fannin,2 Savoy,U.S. House,4,DEM,Simon Cardell,112,10,63,39
+Fannin,2 Savoy,U.S. House,4,,Under Votes,16,0,4,12
+Fannin,2 Savoy,U.S. House,4,,Over Votes,3,3,0,0
+Fannin,2 Savoy,Railroad Commissioner,,REP,Christi Craddick,915,24,616,275
+Fannin,2 Savoy,Railroad Commissioner,,DEM,Katherine Culbert,105,10,64,31
+Fannin,2 Savoy,Railroad Commissioner,,LIB,Hawk Dunlap,27,0,16,11
+Fannin,2 Savoy,Railroad Commissioner,,GRN,Eddie Espinoza,9,0,6,3
+Fannin,2 Savoy,Railroad Commissioner,,,Under Votes,29,0,11,18
+Fannin,2 Savoy,Railroad Commissioner,,,Over Votes,0,0,0,0
+Fannin,2 Savoy,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,951,24,639,288
+Fannin,2 Savoy,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,106,10,66,30
+Fannin,2 Savoy,"Justice, Supreme Court, Place 2",2,,Under Votes,28,0,8,20
+Fannin,2 Savoy,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Fannin,2 Savoy,"Justice, Supreme Court, Place 4",4,REP,John Devine,942,23,631,288
+Fannin,2 Savoy,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,113,11,69,33
+Fannin,2 Savoy,"Justice, Supreme Court, Place 4",4,,Under Votes,30,0,13,17
+Fannin,2 Savoy,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Fannin,2 Savoy,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,917,24,619,274
+Fannin,2 Savoy,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,104,10,62,32
+Fannin,2 Savoy,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,32,0,18,14
+Fannin,2 Savoy,"Justice, Supreme Court, Place 6",6,,Under Votes,32,0,14,18
+Fannin,2 Savoy,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Fannin,2 Savoy,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,945,22,635,288
+Fannin,2 Savoy,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,111,12,67,32
+Fannin,2 Savoy,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,29,0,11,18
+Fannin,2 Savoy,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Fannin,2 Savoy,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,946,24,635,287
+Fannin,2 Savoy,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,104,9,63,32
+Fannin,2 Savoy,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,35,1,15,19
+Fannin,2 Savoy,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Fannin,2 Savoy,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,946,24,635,287
+Fannin,2 Savoy,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,102,8,62,32
+Fannin,2 Savoy,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,37,2,16,19
+Fannin,2 Savoy,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Fannin,2 Savoy,"Member, State Board of Education, District 12",12,REP,Pam Little,942,21,638,283
+Fannin,2 Savoy,"Member, State Board of Education, District 12",12,DEM,George King,112,10,65,37
+Fannin,2 Savoy,"Member, State Board of Education, District 12",12,,Under Votes,28,0,10,18
+Fannin,2 Savoy,"Member, State Board of Education, District 12",12,,Over Votes,3,3,0,0
+Fannin,2 Savoy,State Representative,62,REP,Shelley Luther,929,21,630,278
+Fannin,2 Savoy,State Representative,62,DEM,Tiffany Drake,127,10,76,41
+Fannin,2 Savoy,State Representative,62,,Under Votes,26,0,7,19
+Fannin,2 Savoy,State Representative,62,,Over Votes,3,3,0,0
+Fannin,2 Savoy,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,978,20,654,304
+Fannin,2 Savoy,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,107,14,59,34
+Fannin,2 Savoy,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Fannin,2 Savoy,"District Judge, 336th Judicial District",336,REP,Christina Tillett,972,21,647,304
+Fannin,2 Savoy,"District Judge, 336th Judicial District",336,,Under Votes,113,13,66,34
+Fannin,2 Savoy,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,2 Savoy,"District Judge, 336th Judicial District",336,REP,John Skotnik,966,21,645,300
+Fannin,2 Savoy,"District Judge, 336th Judicial District",336,,Under Votes,119,13,68,38
+Fannin,2 Savoy,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,2 Savoy,"County Clerk, Unexpired Term",,REP,Jenny Garner,974,21,653,300
+Fannin,2 Savoy,"County Clerk, Unexpired Term",,,Under Votes,111,13,60,38
+Fannin,2 Savoy,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,2 Savoy,Sheriff,,REP,Cody Shook,973,21,647,305
+Fannin,2 Savoy,Sheriff,,,Under Votes,112,13,66,33
+Fannin,2 Savoy,Sheriff,,,Over Votes,0,0,0,0
+Fannin,2 Savoy,County Tax Assessor-Collector,,REP,Amber Vest Sutherland,976,21,654,301
+Fannin,2 Savoy,County Tax Assessor-Collector,,,Under Votes,109,13,59,37
+Fannin,2 Savoy,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Fannin,2 Savoy,"County Commissioner, Precinct 1",,REP,Troy Waggoner,975,21,652,302
+Fannin,2 Savoy,"County Commissioner, Precinct 1",,,Under Votes,110,13,61,36
+Fannin,2 Savoy,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Fannin,2 Savoy,"Constable, Precinct 1",,REP,David Thompson,965,20,643,302
+Fannin,2 Savoy,"Constable, Precinct 1",,,Under Votes,120,14,70,36
+Fannin,2 Savoy,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,Registered Voters,,,,672,,,
+Fannin,3 Ladonia,Ballots Cast,,,,419,,,
+Fannin,3 Ladonia,President,,REP,Donald J. Trump JD Vance,287,4,87,196
+Fannin,3 Ladonia,President,,DEM,Kamala D. Harris Tim Walz,130,13,44,73
+Fannin,3 Ladonia,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+Fannin,3 Ladonia,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+Fannin,3 Ladonia,President,,,Under Votes,0,0,0,0
+Fannin,3 Ladonia,President,,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,U.S. Senate,,REP,Ted Cruz,269,4,86,179
+Fannin,3 Ladonia,U.S. Senate,,DEM,Colin Allred,136,13,44,79
+Fannin,3 Ladonia,U.S. Senate,,LIB,Ted Brown,10,0,1,9
+Fannin,3 Ladonia,U.S. Senate,,,Under Votes,4,0,1,3
+Fannin,3 Ladonia,U.S. Senate,,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,U.S. House,4,REP,Pat Fallon,285,4,87,194
+Fannin,3 Ladonia,U.S. House,4,DEM,Simon Cardell,118,11,41,66
+Fannin,3 Ladonia,U.S. House,4,,Under Votes,15,1,4,10
+Fannin,3 Ladonia,U.S. House,4,,Over Votes,1,1,0,0
+Fannin,3 Ladonia,Railroad Commissioner,,REP,Christi Craddick,264,4,83,177
+Fannin,3 Ladonia,Railroad Commissioner,,DEM,Katherine Culbert,118,13,38,67
+Fannin,3 Ladonia,Railroad Commissioner,,LIB,Hawk Dunlap,11,0,3,8
+Fannin,3 Ladonia,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,2,5
+Fannin,3 Ladonia,Railroad Commissioner,,,Under Votes,19,0,6,13
+Fannin,3 Ladonia,Railroad Commissioner,,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,280,4,87,189
+Fannin,3 Ladonia,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,122,13,40,69
+Fannin,3 Ladonia,"Justice, Supreme Court, Place 2",2,,Under Votes,17,0,5,12
+Fannin,3 Ladonia,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,"Justice, Supreme Court, Place 4",4,REP,John Devine,276,4,84,188
+Fannin,3 Ladonia,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,127,13,40,74
+Fannin,3 Ladonia,"Justice, Supreme Court, Place 4",4,,Under Votes,16,0,8,8
+Fannin,3 Ladonia,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,269,4,86,179
+Fannin,3 Ladonia,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,118,12,40,66
+Fannin,3 Ladonia,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,12,0,2,10
+Fannin,3 Ladonia,"Justice, Supreme Court, Place 6",6,,Under Votes,20,1,4,15
+Fannin,3 Ladonia,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,275,4,85,186
+Fannin,3 Ladonia,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,129,13,43,73
+Fannin,3 Ladonia,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,15,0,4,11
+Fannin,3 Ladonia,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,279,4,85,190
+Fannin,3 Ladonia,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,124,13,43,68
+Fannin,3 Ladonia,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,16,0,4,12
+Fannin,3 Ladonia,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,284,5,86,193
+Fannin,3 Ladonia,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,119,11,42,66
+Fannin,3 Ladonia,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,16,1,4,11
+Fannin,3 Ladonia,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,"Member, State Board of Education, District 12",12,REP,Pam Little,276,4,86,186
+Fannin,3 Ladonia,"Member, State Board of Education, District 12",12,DEM,George King,124,12,42,70
+Fannin,3 Ladonia,"Member, State Board of Education, District 12",12,,Under Votes,19,1,4,14
+Fannin,3 Ladonia,"Member, State Board of Education, District 12",12,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,State Representative,62,REP,Shelley Luther,273,4,84,185
+Fannin,3 Ladonia,State Representative,62,DEM,Tiffany Drake,125,12,43,70
+Fannin,3 Ladonia,State Representative,62,,Under Votes,21,1,5,15
+Fannin,3 Ladonia,State Representative,62,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,315,5,91,219
+Fannin,3 Ladonia,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,104,12,41,51
+Fannin,3 Ladonia,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,"District Judge, 336th Judicial District",336,REP,Christina Tillett,309,5,89,215
+Fannin,3 Ladonia,"District Judge, 336th Judicial District",336,,Under Votes,110,12,43,55
+Fannin,3 Ladonia,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,"District Judge, 336th Judicial District",336,REP,John Skotnik,309,6,89,214
+Fannin,3 Ladonia,"District Judge, 336th Judicial District",336,,Under Votes,110,11,43,56
+Fannin,3 Ladonia,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,"County Clerk, Unexpired Term",,REP,Jenny Garner,304,5,86,213
+Fannin,3 Ladonia,"County Clerk, Unexpired Term",,,Under Votes,115,12,46,57
+Fannin,3 Ladonia,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,Sheriff,,REP,Cody Shook,310,5,94,211
+Fannin,3 Ladonia,Sheriff,,,Under Votes,109,12,38,59
+Fannin,3 Ladonia,Sheriff,,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,County Tax Assessor-Collector,,REP,Amber Vest Sutherland,310,6,88,216
+Fannin,3 Ladonia,County Tax Assessor-Collector,,,Under Votes,109,11,44,54
+Fannin,3 Ladonia,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,"County Commissioner, Precinct 3",,REP,Kurt Fogelberg II,307,5,93,209
+Fannin,3 Ladonia,"County Commissioner, Precinct 3",,,Under Votes,112,12,39,61
+Fannin,3 Ladonia,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Fannin,3 Ladonia,"Constable, Precinct 3",,REP,Kevin Mayberry,313,5,92,216
+Fannin,3 Ladonia,"Constable, Precinct 3",,,Under Votes,106,12,40,54
+Fannin,3 Ladonia,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Fannin,4 N. Bonham,Registered Voters,,,,1777,,,
+Fannin,4 N. Bonham,Ballots Cast,,,,1082,,,
+Fannin,4 N. Bonham,President,,REP,Donald J. Trump JD Vance,802,26,659,117
+Fannin,4 N. Bonham,President,,DEM,Kamala D. Harris Tim Walz,266,27,191,48
+Fannin,4 N. Bonham,President,,LIB,Chase Oliver Mike ter Maat,4,0,3,1
+Fannin,4 N. Bonham,President,,GRN,Jill Stein Rudolph Ware,3,0,2,1
+Fannin,4 N. Bonham,President,,,Under Votes,6,1,3,2
+Fannin,4 N. Bonham,President,,,Over Votes,1,1,0,0
+Fannin,4 N. Bonham,U.S. Senate,,REP,Ted Cruz,770,25,639,106
+Fannin,4 N. Bonham,U.S. Senate,,DEM,Colin Allred,286,29,203,54
+Fannin,4 N. Bonham,U.S. Senate,,LIB,Ted Brown,19,1,10,8
+Fannin,4 N. Bonham,U.S. Senate,,,Under Votes,7,0,6,1
+Fannin,4 N. Bonham,U.S. Senate,,,Over Votes,0,0,0,0
+Fannin,4 N. Bonham,U.S. House,4,REP,Pat Fallon,812,24,669,119
+Fannin,4 N. Bonham,U.S. House,4,DEM,Simon Cardell,245,25,175,45
+Fannin,4 N. Bonham,U.S. House,4,,Under Votes,21,2,14,5
+Fannin,4 N. Bonham,U.S. House,4,,Over Votes,4,4,0,0
+Fannin,4 N. Bonham,Railroad Commissioner,,REP,Christi Craddick,782,23,643,116
+Fannin,4 N. Bonham,Railroad Commissioner,,DEM,Katherine Culbert,235,25,171,39
+Fannin,4 N. Bonham,Railroad Commissioner,,LIB,Hawk Dunlap,24,0,18,6
+Fannin,4 N. Bonham,Railroad Commissioner,,GRN,Eddie Espinoza,13,1,8,4
+Fannin,4 N. Bonham,Railroad Commissioner,,,Under Votes,27,5,18,4
+Fannin,4 N. Bonham,Railroad Commissioner,,,Over Votes,1,1,0,0
+Fannin,4 N. Bonham,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,808,27,662,119
+Fannin,4 N. Bonham,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,249,24,179,46
+Fannin,4 N. Bonham,"Justice, Supreme Court, Place 2",2,,Under Votes,24,3,17,4
+Fannin,4 N. Bonham,"Justice, Supreme Court, Place 2",2,,Over Votes,1,1,0,0
+Fannin,4 N. Bonham,"Justice, Supreme Court, Place 4",4,REP,John Devine,799,24,659,116
+Fannin,4 N. Bonham,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,257,25,182,50
+Fannin,4 N. Bonham,"Justice, Supreme Court, Place 4",4,,Under Votes,24,4,17,3
+Fannin,4 N. Bonham,"Justice, Supreme Court, Place 4",4,,Over Votes,2,2,0,0
+Fannin,4 N. Bonham,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,789,25,650,114
+Fannin,4 N. Bonham,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,241,24,172,45
+Fannin,4 N. Bonham,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,27,0,20,7
+Fannin,4 N. Bonham,"Justice, Supreme Court, Place 6",6,,Under Votes,24,5,16,3
+Fannin,4 N. Bonham,"Justice, Supreme Court, Place 6",6,,Over Votes,1,1,0,0
+Fannin,4 N. Bonham,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,806,27,660,119
+Fannin,4 N. Bonham,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,249,24,179,46
+Fannin,4 N. Bonham,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,26,3,19,4
+Fannin,4 N. Bonham,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,1,0,0
+Fannin,4 N. Bonham,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,807,25,662,120
+Fannin,4 N. Bonham,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,250,26,179,45
+Fannin,4 N. Bonham,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,24,3,17,4
+Fannin,4 N. Bonham,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,1,0,0
+Fannin,4 N. Bonham,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,812,24,667,121
+Fannin,4 N. Bonham,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,244,26,175,43
+Fannin,4 N. Bonham,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,25,4,16,5
+Fannin,4 N. Bonham,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,1,0,0
+Fannin,4 N. Bonham,"Member, State Board of Education, District 12",12,REP,Pam Little,800,25,657,118
+Fannin,4 N. Bonham,"Member, State Board of Education, District 12",12,DEM,George King,246,20,181,45
+Fannin,4 N. Bonham,"Member, State Board of Education, District 12",12,,Under Votes,32,6,20,6
+Fannin,4 N. Bonham,"Member, State Board of Education, District 12",12,,Over Votes,4,4,0,0
+Fannin,4 N. Bonham,State Representative,62,REP,Shelley Luther,785,24,644,117
+Fannin,4 N. Bonham,State Representative,62,DEM,Tiffany Drake,263,22,196,45
+Fannin,4 N. Bonham,State Representative,62,,Under Votes,30,5,18,7
+Fannin,4 N. Bonham,State Representative,62,,Over Votes,4,4,0,0
+Fannin,4 N. Bonham,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,870,32,696,142
+Fannin,4 N. Bonham,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,212,23,162,27
+Fannin,4 N. Bonham,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Fannin,4 N. Bonham,"District Judge, 336th Judicial District",336,REP,Christina Tillett,873,32,699,142
+Fannin,4 N. Bonham,"District Judge, 336th Judicial District",336,,Under Votes,209,23,159,27
+Fannin,4 N. Bonham,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,4 N. Bonham,"District Judge, 336th Judicial District",336,REP,John Skotnik,889,35,713,141
+Fannin,4 N. Bonham,"District Judge, 336th Judicial District",336,,Under Votes,193,20,145,28
+Fannin,4 N. Bonham,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,4 N. Bonham,"County Clerk, Unexpired Term",,REP,Jenny Garner,877,34,701,142
+Fannin,4 N. Bonham,"County Clerk, Unexpired Term",,,Under Votes,205,21,157,27
+Fannin,4 N. Bonham,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,4 N. Bonham,Sheriff,,REP,Cody Shook,872,33,700,139
+Fannin,4 N. Bonham,Sheriff,,,Under Votes,210,22,158,30
+Fannin,4 N. Bonham,Sheriff,,,Over Votes,0,0,0,0
+Fannin,4 N. Bonham,County Tax Assessor-Collector,,REP,Amber Vest Sutherland,878,33,703,142
+Fannin,4 N. Bonham,County Tax Assessor-Collector,,,Under Votes,204,22,155,27
+Fannin,4 N. Bonham,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Fannin,4 N. Bonham,"County Commissioner, Precinct 3",,REP,Kurt Fogelberg II,869,32,698,139
+Fannin,4 N. Bonham,"County Commissioner, Precinct 3",,,Under Votes,213,23,160,30
+Fannin,4 N. Bonham,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Fannin,4 N. Bonham,"Constable, Precinct 1",,REP,David Thompson,861,32,690,139
+Fannin,4 N. Bonham,"Constable, Precinct 1",,,Under Votes,221,23,168,30
+Fannin,4 N. Bonham,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Fannin,5 Ivanhoe,Registered Voters,,,,717,,,
+Fannin,5 Ivanhoe,Ballots Cast,,,,493,,,
+Fannin,5 Ivanhoe,President,,REP,Donald J. Trump JD Vance,427,8,309,110
+Fannin,5 Ivanhoe,President,,DEM,Kamala D. Harris Tim Walz,62,10,35,17
+Fannin,5 Ivanhoe,President,,LIB,Chase Oliver Mike ter Maat,2,0,2,0
+Fannin,5 Ivanhoe,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+Fannin,5 Ivanhoe,President,,,Under Votes,1,0,1,0
+Fannin,5 Ivanhoe,President,,,Over Votes,0,0,0,0
+Fannin,5 Ivanhoe,U.S. Senate,,REP,Ted Cruz,415,8,303,104
+Fannin,5 Ivanhoe,U.S. Senate,,DEM,Colin Allred,66,10,37,19
+Fannin,5 Ivanhoe,U.S. Senate,,LIB,Ted Brown,11,0,7,4
+Fannin,5 Ivanhoe,U.S. Senate,,,Under Votes,1,0,1,0
+Fannin,5 Ivanhoe,U.S. Senate,,,Over Votes,0,0,0,0
+Fannin,5 Ivanhoe,U.S. House,4,REP,Pat Fallon,426,7,311,108
+Fannin,5 Ivanhoe,U.S. House,4,DEM,Simon Cardell,62,10,34,18
+Fannin,5 Ivanhoe,U.S. House,4,,Under Votes,4,0,3,1
+Fannin,5 Ivanhoe,U.S. House,4,,Over Votes,1,1,0,0
+Fannin,5 Ivanhoe,Railroad Commissioner,,REP,Christi Craddick,412,7,300,105
+Fannin,5 Ivanhoe,Railroad Commissioner,,DEM,Katherine Culbert,60,9,35,16
+Fannin,5 Ivanhoe,Railroad Commissioner,,LIB,Hawk Dunlap,9,1,6,2
+Fannin,5 Ivanhoe,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1
+Fannin,5 Ivanhoe,Railroad Commissioner,,,Under Votes,10,1,6,3
+Fannin,5 Ivanhoe,Railroad Commissioner,,,Over Votes,0,0,0,0
+Fannin,5 Ivanhoe,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,425,7,309,109
+Fannin,5 Ivanhoe,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,60,10,34,16
+Fannin,5 Ivanhoe,"Justice, Supreme Court, Place 2",2,,Under Votes,7,0,5,2
+Fannin,5 Ivanhoe,"Justice, Supreme Court, Place 2",2,,Over Votes,1,1,0,0
+Fannin,5 Ivanhoe,"Justice, Supreme Court, Place 4",4,REP,John Devine,421,8,306,107
+Fannin,5 Ivanhoe,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,60,9,35,16
+Fannin,5 Ivanhoe,"Justice, Supreme Court, Place 4",4,,Under Votes,11,0,7,4
+Fannin,5 Ivanhoe,"Justice, Supreme Court, Place 4",4,,Over Votes,1,1,0,0
+Fannin,5 Ivanhoe,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,414,7,303,104
+Fannin,5 Ivanhoe,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,56,10,32,14
+Fannin,5 Ivanhoe,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,10,0,5,5
+Fannin,5 Ivanhoe,"Justice, Supreme Court, Place 6",6,,Under Votes,12,0,8,4
+Fannin,5 Ivanhoe,"Justice, Supreme Court, Place 6",6,,Over Votes,1,1,0,0
+Fannin,5 Ivanhoe,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,421,7,307,107
+Fannin,5 Ivanhoe,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,58,10,33,15
+Fannin,5 Ivanhoe,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,13,0,8,5
+Fannin,5 Ivanhoe,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,1,0,0
+Fannin,5 Ivanhoe,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,419,8,305,106
+Fannin,5 Ivanhoe,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,57,9,34,14
+Fannin,5 Ivanhoe,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,16,0,9,7
+Fannin,5 Ivanhoe,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,1,0,0
+Fannin,5 Ivanhoe,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,418,8,304,106
+Fannin,5 Ivanhoe,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,56,9,33,14
+Fannin,5 Ivanhoe,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,18,0,11,7
+Fannin,5 Ivanhoe,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,1,0,0
+Fannin,5 Ivanhoe,"Member, State Board of Education, District 12",12,REP,Pam Little,418,8,305,105
+Fannin,5 Ivanhoe,"Member, State Board of Education, District 12",12,DEM,George King,57,9,34,14
+Fannin,5 Ivanhoe,"Member, State Board of Education, District 12",12,,Under Votes,18,1,9,8
+Fannin,5 Ivanhoe,"Member, State Board of Education, District 12",12,,Over Votes,0,0,0,0
+Fannin,5 Ivanhoe,State Representative,62,REP,Shelley Luther,405,6,298,101
+Fannin,5 Ivanhoe,State Representative,62,DEM,Tiffany Drake,70,11,41,18
+Fannin,5 Ivanhoe,State Representative,62,,Under Votes,17,0,9,8
+Fannin,5 Ivanhoe,State Representative,62,,Over Votes,1,1,0,0
+Fannin,5 Ivanhoe,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,428,8,312,108
+Fannin,5 Ivanhoe,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,65,10,36,19
+Fannin,5 Ivanhoe,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Fannin,5 Ivanhoe,"District Judge, 336th Judicial District",336,REP,Christina Tillett,427,7,311,109
+Fannin,5 Ivanhoe,"District Judge, 336th Judicial District",336,,Under Votes,66,11,37,18
+Fannin,5 Ivanhoe,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,5 Ivanhoe,"District Judge, 336th Judicial District",336,REP,John Skotnik,431,8,313,110
+Fannin,5 Ivanhoe,"District Judge, 336th Judicial District",336,,Under Votes,62,10,35,17
+Fannin,5 Ivanhoe,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,5 Ivanhoe,"County Clerk, Unexpired Term",,REP,Jenny Garner,430,9,314,107
+Fannin,5 Ivanhoe,"County Clerk, Unexpired Term",,,Under Votes,63,9,34,20
+Fannin,5 Ivanhoe,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,5 Ivanhoe,Sheriff,,REP,Cody Shook,426,8,307,111
+Fannin,5 Ivanhoe,Sheriff,,,Under Votes,67,10,41,16
+Fannin,5 Ivanhoe,Sheriff,,,Over Votes,0,0,0,0
+Fannin,5 Ivanhoe,County Tax Assessor-Collector,,REP,Amber Vest Sutherland,431,8,313,110
+Fannin,5 Ivanhoe,County Tax Assessor-Collector,,,Under Votes,62,10,35,17
+Fannin,5 Ivanhoe,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Fannin,5 Ivanhoe,"County Commissioner, Precinct 1",,REP,Troy Waggoner,431,8,313,110
+Fannin,5 Ivanhoe,"County Commissioner, Precinct 1",,,Under Votes,62,10,35,17
+Fannin,5 Ivanhoe,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Fannin,5 Ivanhoe,"Constable, Precinct 1",,REP,David Thompson,432,8,314,110
+Fannin,5 Ivanhoe,"Constable, Precinct 1",,,Under Votes,61,10,34,17
+Fannin,5 Ivanhoe,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Fannin,6 Dodd City,Registered Voters,,,,883,,,
+Fannin,6 Dodd City,Ballots Cast,,,,610,,,
+Fannin,6 Dodd City,President,,REP,Donald J. Trump JD Vance,528,5,385,138
+Fannin,6 Dodd City,President,,DEM,Kamala D. Harris Tim Walz,78,6,51,21
+Fannin,6 Dodd City,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+Fannin,6 Dodd City,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+Fannin,6 Dodd City,President,,,Under Votes,2,0,1,1
+Fannin,6 Dodd City,President,,,Over Votes,0,0,0,0
+Fannin,6 Dodd City,U.S. Senate,,REP,Ted Cruz,509,5,372,132
+Fannin,6 Dodd City,U.S. Senate,,DEM,Colin Allred,86,6,56,24
+Fannin,6 Dodd City,U.S. Senate,,LIB,Ted Brown,9,0,5,4
+Fannin,6 Dodd City,U.S. Senate,,,Under Votes,6,0,5,1
+Fannin,6 Dodd City,U.S. Senate,,,Over Votes,0,0,0,0
+Fannin,6 Dodd City,U.S. House,4,REP,Pat Fallon,525,5,381,139
+Fannin,6 Dodd City,U.S. House,4,DEM,Simon Cardell,70,5,49,16
+Fannin,6 Dodd City,U.S. House,4,,Under Votes,14,0,8,6
+Fannin,6 Dodd City,U.S. House,4,,Over Votes,1,1,0,0
+Fannin,6 Dodd City,Railroad Commissioner,,REP,Christi Craddick,501,5,365,131
+Fannin,6 Dodd City,Railroad Commissioner,,DEM,Katherine Culbert,71,5,51,15
+Fannin,6 Dodd City,Railroad Commissioner,,LIB,Hawk Dunlap,16,1,9,6
+Fannin,6 Dodd City,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,0,3
+Fannin,6 Dodd City,Railroad Commissioner,,,Under Votes,19,0,13,6
+Fannin,6 Dodd City,Railroad Commissioner,,,Over Votes,0,0,0,0
+Fannin,6 Dodd City,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,520,6,375,139
+Fannin,6 Dodd City,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,70,5,49,16
+Fannin,6 Dodd City,"Justice, Supreme Court, Place 2",2,,Under Votes,20,0,14,6
+Fannin,6 Dodd City,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Fannin,6 Dodd City,"Justice, Supreme Court, Place 4",4,REP,John Devine,508,6,366,136
+Fannin,6 Dodd City,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,79,5,56,18
+Fannin,6 Dodd City,"Justice, Supreme Court, Place 4",4,,Under Votes,23,0,16,7
+Fannin,6 Dodd City,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Fannin,6 Dodd City,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,504,6,363,135
+Fannin,6 Dodd City,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,68,5,48,15
+Fannin,6 Dodd City,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,13,0,8,5
+Fannin,6 Dodd City,"Justice, Supreme Court, Place 6",6,,Under Votes,25,0,19,6
+Fannin,6 Dodd City,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Fannin,6 Dodd City,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,513,6,369,138
+Fannin,6 Dodd City,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,75,5,53,17
+Fannin,6 Dodd City,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,22,0,16,6
+Fannin,6 Dodd City,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Fannin,6 Dodd City,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,511,6,370,135
+Fannin,6 Dodd City,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,75,5,51,19
+Fannin,6 Dodd City,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,24,0,17,7
+Fannin,6 Dodd City,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Fannin,6 Dodd City,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,513,6,366,141
+Fannin,6 Dodd City,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,71,5,52,14
+Fannin,6 Dodd City,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,26,0,20,6
+Fannin,6 Dodd City,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Fannin,6 Dodd City,"Member, State Board of Education, District 12",12,REP,Pam Little,511,4,371,136
+Fannin,6 Dodd City,"Member, State Board of Education, District 12",12,DEM,George King,76,5,53,18
+Fannin,6 Dodd City,"Member, State Board of Education, District 12",12,,Under Votes,22,1,14,7
+Fannin,6 Dodd City,"Member, State Board of Education, District 12",12,,Over Votes,1,1,0,0
+Fannin,6 Dodd City,State Representative,62,REP,Shelley Luther,497,4,361,132
+Fannin,6 Dodd City,State Representative,62,DEM,Tiffany Drake,90,5,64,21
+Fannin,6 Dodd City,State Representative,62,,Under Votes,22,1,13,8
+Fannin,6 Dodd City,State Representative,62,,Over Votes,1,1,0,0
+Fannin,6 Dodd City,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,530,5,382,143
+Fannin,6 Dodd City,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,80,6,56,18
+Fannin,6 Dodd City,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Fannin,6 Dodd City,"District Judge, 336th Judicial District",336,REP,Christina Tillett,531,5,383,143
+Fannin,6 Dodd City,"District Judge, 336th Judicial District",336,,Under Votes,79,6,55,18
+Fannin,6 Dodd City,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,6 Dodd City,"District Judge, 336th Judicial District",336,REP,John Skotnik,533,7,383,143
+Fannin,6 Dodd City,"District Judge, 336th Judicial District",336,,Under Votes,77,4,55,18
+Fannin,6 Dodd City,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,6 Dodd City,"County Clerk, Unexpired Term",,REP,Jenny Garner,529,6,382,141
+Fannin,6 Dodd City,"County Clerk, Unexpired Term",,,Under Votes,81,5,56,20
+Fannin,6 Dodd City,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,6 Dodd City,Sheriff,,REP,Cody Shook,511,6,370,135
+Fannin,6 Dodd City,Sheriff,,,Under Votes,99,5,68,26
+Fannin,6 Dodd City,Sheriff,,,Over Votes,0,0,0,0
+Fannin,6 Dodd City,County Tax Assessor-Collector,,REP,Amber Vest Sutherland,539,7,389,143
+Fannin,6 Dodd City,County Tax Assessor-Collector,,,Under Votes,71,4,49,18
+Fannin,6 Dodd City,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Fannin,6 Dodd City,"Constable, Precinct 1",,REP,David Thompson,526,7,377,142
+Fannin,6 Dodd City,"Constable, Precinct 1",,,Under Votes,84,4,61,19
+Fannin,6 Dodd City,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Fannin,7 Bailey,Registered Voters,,,,562,,,
+Fannin,7 Bailey,Ballots Cast,,,,385,,,
+Fannin,7 Bailey,President,,REP,Donald J. Trump JD Vance,320,12,215,93
+Fannin,7 Bailey,President,,DEM,Kamala D. Harris Tim Walz,64,2,48,14
+Fannin,7 Bailey,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+Fannin,7 Bailey,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Fannin,7 Bailey,President,,,Under Votes,0,0,0,0
+Fannin,7 Bailey,President,,,Over Votes,0,0,0,0
+Fannin,7 Bailey,U.S. Senate,,REP,Ted Cruz,301,12,205,84
+Fannin,7 Bailey,U.S. Senate,,DEM,Colin Allred,68,2,51,15
+Fannin,7 Bailey,U.S. Senate,,LIB,Ted Brown,15,0,7,8
+Fannin,7 Bailey,U.S. Senate,,,Under Votes,1,0,0,1
+Fannin,7 Bailey,U.S. Senate,,,Over Votes,0,0,0,0
+Fannin,7 Bailey,U.S. House,4,REP,Pat Fallon,324,10,221,93
+Fannin,7 Bailey,U.S. House,4,DEM,Simon Cardell,52,2,38,12
+Fannin,7 Bailey,U.S. House,4,,Under Votes,7,0,4,3
+Fannin,7 Bailey,U.S. House,4,,Over Votes,2,2,0,0
+Fannin,7 Bailey,Railroad Commissioner,,REP,Christi Craddick,308,12,209,87
+Fannin,7 Bailey,Railroad Commissioner,,DEM,Katherine Culbert,49,2,36,11
+Fannin,7 Bailey,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,13,4
+Fannin,7 Bailey,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,2,3
+Fannin,7 Bailey,Railroad Commissioner,,,Under Votes,6,0,3,3
+Fannin,7 Bailey,Railroad Commissioner,,,Over Votes,0,0,0,0
+Fannin,7 Bailey,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,324,12,218,94
+Fannin,7 Bailey,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,54,2,40,12
+Fannin,7 Bailey,"Justice, Supreme Court, Place 2",2,,Under Votes,7,0,5,2
+Fannin,7 Bailey,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Fannin,7 Bailey,"Justice, Supreme Court, Place 4",4,REP,John Devine,323,12,218,93
+Fannin,7 Bailey,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,55,2,40,13
+Fannin,7 Bailey,"Justice, Supreme Court, Place 4",4,,Under Votes,7,0,5,2
+Fannin,7 Bailey,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Fannin,7 Bailey,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,306,12,205,89
+Fannin,7 Bailey,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,51,2,38,11
+Fannin,7 Bailey,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,20,0,14,6
+Fannin,7 Bailey,"Justice, Supreme Court, Place 6",6,,Under Votes,8,0,6,2
+Fannin,7 Bailey,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Fannin,7 Bailey,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,322,12,218,92
+Fannin,7 Bailey,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,55,2,39,14
+Fannin,7 Bailey,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,8,0,6,2
+Fannin,7 Bailey,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Fannin,7 Bailey,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,320,10,216,94
+Fannin,7 Bailey,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,51,2,38,11
+Fannin,7 Bailey,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,13,1,9,3
+Fannin,7 Bailey,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,1,0,0
+Fannin,7 Bailey,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,323,11,219,93
+Fannin,7 Bailey,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,50,2,36,12
+Fannin,7 Bailey,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,11,0,8,3
+Fannin,7 Bailey,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,1,0,0
+Fannin,7 Bailey,"Member, State Board of Education, District 12",12,REP,Pam Little,321,12,216,93
+Fannin,7 Bailey,"Member, State Board of Education, District 12",12,DEM,George King,54,2,40,12
+Fannin,7 Bailey,"Member, State Board of Education, District 12",12,,Under Votes,10,0,7,3
+Fannin,7 Bailey,"Member, State Board of Education, District 12",12,,Over Votes,0,0,0,0
+Fannin,7 Bailey,State Representative,62,REP,Shelley Luther,308,10,211,87
+Fannin,7 Bailey,State Representative,62,DEM,Tiffany Drake,60,2,44,14
+Fannin,7 Bailey,State Representative,62,,Under Votes,15,0,8,7
+Fannin,7 Bailey,State Representative,62,,Over Votes,2,2,0,0
+Fannin,7 Bailey,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,338,11,231,96
+Fannin,7 Bailey,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,47,3,32,12
+Fannin,7 Bailey,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Fannin,7 Bailey,"District Judge, 336th Judicial District",336,REP,Christina Tillett,341,11,231,99
+Fannin,7 Bailey,"District Judge, 336th Judicial District",336,,Under Votes,44,3,32,9
+Fannin,7 Bailey,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,7 Bailey,"District Judge, 336th Judicial District",336,REP,John Skotnik,339,11,231,97
+Fannin,7 Bailey,"District Judge, 336th Judicial District",336,,Under Votes,46,3,32,11
+Fannin,7 Bailey,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,7 Bailey,"County Clerk, Unexpired Term",,REP,Jenny Garner,342,11,231,100
+Fannin,7 Bailey,"County Clerk, Unexpired Term",,,Under Votes,43,3,32,8
+Fannin,7 Bailey,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,7 Bailey,Sheriff,,REP,Cody Shook,338,11,227,100
+Fannin,7 Bailey,Sheriff,,,Under Votes,47,3,36,8
+Fannin,7 Bailey,Sheriff,,,Over Votes,0,0,0,0
+Fannin,7 Bailey,County Tax Assessor-Collector,,REP,Amber Vest Sutherland,340,11,228,101
+Fannin,7 Bailey,County Tax Assessor-Collector,,,Under Votes,45,3,35,7
+Fannin,7 Bailey,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Fannin,7 Bailey,"Justice of the Peace, Precinct 2, Unexpired Term",,REP,Paul Thomas Ivy,340,11,229,100
+Fannin,7 Bailey,"Justice of the Peace, Precinct 2, Unexpired Term",,,Under Votes,45,3,34,8
+Fannin,7 Bailey,"Justice of the Peace, Precinct 2, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,7 Bailey,"Constable, Precinct 2",,REP,Jimmy Helms,331,9,225,97
+Fannin,7 Bailey,"Constable, Precinct 2",,,Under Votes,54,5,38,11
+Fannin,7 Bailey,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Fannin,9 Ravenna,Registered Voters,,,,1123,,,
+Fannin,9 Ravenna,Ballots Cast,,,,807,,,
+Fannin,9 Ravenna,President,,REP,Donald J. Trump JD Vance,697,22,514,161
+Fannin,9 Ravenna,President,,DEM,Kamala D. Harris Tim Walz,103,5,77,21
+Fannin,9 Ravenna,President,,LIB,Chase Oliver Mike ter Maat,6,1,2,3
+Fannin,9 Ravenna,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+Fannin,9 Ravenna,President,,,Under Votes,0,0,0,0
+Fannin,9 Ravenna,President,,,Over Votes,0,0,0,0
+Fannin,9 Ravenna,U.S. Senate,,REP,Ted Cruz,665,20,495,150
+Fannin,9 Ravenna,U.S. Senate,,DEM,Colin Allred,119,4,85,30
+Fannin,9 Ravenna,U.S. Senate,,LIB,Ted Brown,14,1,8,5
+Fannin,9 Ravenna,U.S. Senate,,,Under Votes,9,3,5,1
+Fannin,9 Ravenna,U.S. Senate,,,Over Votes,0,0,0,0
+Fannin,9 Ravenna,U.S. House,4,REP,Pat Fallon,698,22,515,161
+Fannin,9 Ravenna,U.S. House,4,DEM,Simon Cardell,99,5,71,23
+Fannin,9 Ravenna,U.S. House,4,,Under Votes,9,0,7,2
+Fannin,9 Ravenna,U.S. House,4,,Over Votes,1,1,0,0
+Fannin,9 Ravenna,Railroad Commissioner,,REP,Christi Craddick,673,19,500,154
+Fannin,9 Ravenna,Railroad Commissioner,,DEM,Katherine Culbert,88,5,63,20
+Fannin,9 Ravenna,Railroad Commissioner,,LIB,Hawk Dunlap,15,2,10,3
+Fannin,9 Ravenna,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,2,3
+Fannin,9 Ravenna,Railroad Commissioner,,,Under Votes,24,2,16,6
+Fannin,9 Ravenna,Railroad Commissioner,,,Over Votes,0,0,0,0
+Fannin,9 Ravenna,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,694,21,512,161
+Fannin,9 Ravenna,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,89,5,65,19
+Fannin,9 Ravenna,"Justice, Supreme Court, Place 2",2,,Under Votes,24,2,16,6
+Fannin,9 Ravenna,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Fannin,9 Ravenna,"Justice, Supreme Court, Place 4",4,REP,John Devine,688,20,511,157
+Fannin,9 Ravenna,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,92,4,67,21
+Fannin,9 Ravenna,"Justice, Supreme Court, Place 4",4,,Under Votes,27,4,15,8
+Fannin,9 Ravenna,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Fannin,9 Ravenna,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,667,20,495,152
+Fannin,9 Ravenna,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,97,5,68,24
+Fannin,9 Ravenna,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,21,1,15,5
+Fannin,9 Ravenna,"Justice, Supreme Court, Place 6",6,,Under Votes,22,2,15,5
+Fannin,9 Ravenna,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Fannin,9 Ravenna,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,679,21,504,154
+Fannin,9 Ravenna,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,98,5,69,24
+Fannin,9 Ravenna,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,30,2,20,8
+Fannin,9 Ravenna,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Fannin,9 Ravenna,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,685,21,509,155
+Fannin,9 Ravenna,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,92,5,65,22
+Fannin,9 Ravenna,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,30,2,19,9
+Fannin,9 Ravenna,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Fannin,9 Ravenna,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,698,21,516,161
+Fannin,9 Ravenna,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,77,5,58,14
+Fannin,9 Ravenna,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,32,2,19,11
+Fannin,9 Ravenna,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Fannin,9 Ravenna,"Member, State Board of Education, District 12",12,REP,Pam Little,684,21,505,158
+Fannin,9 Ravenna,"Member, State Board of Education, District 12",12,DEM,George King,87,5,64,18
+Fannin,9 Ravenna,"Member, State Board of Education, District 12",12,,Under Votes,36,2,24,10
+Fannin,9 Ravenna,"Member, State Board of Education, District 12",12,,Over Votes,0,0,0,0
+Fannin,9 Ravenna,State Representative,62,REP,Shelley Luther,681,21,505,155
+Fannin,9 Ravenna,State Representative,62,DEM,Tiffany Drake,95,4,72,19
+Fannin,9 Ravenna,State Representative,62,,Under Votes,30,2,16,12
+Fannin,9 Ravenna,State Representative,62,,Over Votes,1,1,0,0
+Fannin,9 Ravenna,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,722,23,532,167
+Fannin,9 Ravenna,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,85,5,61,19
+Fannin,9 Ravenna,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Fannin,9 Ravenna,"District Judge, 336th Judicial District",336,REP,Christina Tillett,720,22,530,168
+Fannin,9 Ravenna,"District Judge, 336th Judicial District",336,,Under Votes,87,6,63,18
+Fannin,9 Ravenna,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,9 Ravenna,"District Judge, 336th Judicial District",336,REP,John Skotnik,720,23,534,163
+Fannin,9 Ravenna,"District Judge, 336th Judicial District",336,,Under Votes,87,5,59,23
+Fannin,9 Ravenna,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,9 Ravenna,"County Clerk, Unexpired Term",,REP,Jenny Garner,715,23,527,165
+Fannin,9 Ravenna,"County Clerk, Unexpired Term",,,Under Votes,92,5,66,21
+Fannin,9 Ravenna,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,9 Ravenna,Sheriff,,REP,Cody Shook,716,23,526,167
+Fannin,9 Ravenna,Sheriff,,,Under Votes,91,5,67,19
+Fannin,9 Ravenna,Sheriff,,,Over Votes,0,0,0,0
+Fannin,9 Ravenna,County Tax Assessor-Collector,,REP,Amber Vest Sutherland,721,23,528,170
+Fannin,9 Ravenna,County Tax Assessor-Collector,,,Under Votes,86,5,65,16
+Fannin,9 Ravenna,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Fannin,9 Ravenna,"County Commissioner, Precinct 1",,REP,Troy Waggoner,723,23,532,168
+Fannin,9 Ravenna,"County Commissioner, Precinct 1",,,Under Votes,84,5,61,18
+Fannin,9 Ravenna,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Fannin,9 Ravenna,"Constable, Precinct 1",,REP,David Thompson,718,23,527,168
+Fannin,9 Ravenna,"Constable, Precinct 1",,,Under Votes,89,5,66,18
+Fannin,9 Ravenna,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Fannin,10 Trenton,Registered Voters,,,,3236,,,
+Fannin,10 Trenton,Ballots Cast,,,,2249,,,
+Fannin,10 Trenton,President,,REP,Donald J. Trump JD Vance,1891,44,1315,532
+Fannin,10 Trenton,President,,DEM,Kamala D. Harris Tim Walz,328,30,208,90
+Fannin,10 Trenton,President,,LIB,Chase Oliver Mike ter Maat,10,0,4,6
+Fannin,10 Trenton,President,,GRN,Jill Stein Rudolph Ware,8,0,4,4
+Fannin,10 Trenton,President,,,Under Votes,8,1,1,6
+Fannin,10 Trenton,President,,,Over Votes,0,0,0,0
+Fannin,10 Trenton,U.S. Senate,,REP,Ted Cruz,1816,43,1283,490
+Fannin,10 Trenton,U.S. Senate,,DEM,Colin Allred,379,30,228,121
+Fannin,10 Trenton,U.S. Senate,,LIB,Ted Brown,43,2,15,26
+Fannin,10 Trenton,U.S. Senate,,,Under Votes,11,0,7,4
+Fannin,10 Trenton,U.S. Senate,,,Over Votes,0,0,0,0
+Fannin,10 Trenton,U.S. House,4,REP,Pat Fallon,1901,33,1327,541
+Fannin,10 Trenton,U.S. House,4,DEM,Simon Cardell,296,24,191,81
+Fannin,10 Trenton,U.S. House,4,,Under Votes,38,4,15,19
+Fannin,10 Trenton,U.S. House,4,,Over Votes,14,14,0,0
+Fannin,10 Trenton,Railroad Commissioner,,REP,Christi Craddick,1837,43,1287,507
+Fannin,10 Trenton,Railroad Commissioner,,DEM,Katherine Culbert,273,24,175,74
+Fannin,10 Trenton,Railroad Commissioner,,LIB,Hawk Dunlap,62,2,33,27
+Fannin,10 Trenton,Railroad Commissioner,,GRN,Eddie Espinoza,25,1,12,12
+Fannin,10 Trenton,Railroad Commissioner,,,Under Votes,52,5,26,21
+Fannin,10 Trenton,Railroad Commissioner,,,Over Votes,0,0,0,0
+Fannin,10 Trenton,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1897,40,1316,541
+Fannin,10 Trenton,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,297,27,188,82
+Fannin,10 Trenton,"Justice, Supreme Court, Place 2",2,,Under Votes,54,7,29,18
+Fannin,10 Trenton,"Justice, Supreme Court, Place 2",2,,Over Votes,1,1,0,0
+Fannin,10 Trenton,"Justice, Supreme Court, Place 4",4,REP,John Devine,1873,41,1309,523
+Fannin,10 Trenton,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,316,27,194,95
+Fannin,10 Trenton,"Justice, Supreme Court, Place 4",4,,Under Votes,59,6,30,23
+Fannin,10 Trenton,"Justice, Supreme Court, Place 4",4,,Over Votes,1,1,0,0
+Fannin,10 Trenton,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1839,41,1292,506
+Fannin,10 Trenton,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,290,28,181,81
+Fannin,10 Trenton,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,65,0,33,32
+Fannin,10 Trenton,"Justice, Supreme Court, Place 6",6,,Under Votes,54,5,27,22
+Fannin,10 Trenton,"Justice, Supreme Court, Place 6",6,,Over Votes,1,1,0,0
+Fannin,10 Trenton,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1884,42,1314,528
+Fannin,10 Trenton,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,308,27,190,91
+Fannin,10 Trenton,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,56,5,29,22
+Fannin,10 Trenton,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,1,0,0
+Fannin,10 Trenton,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1890,40,1314,536
+Fannin,10 Trenton,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,296,27,186,83
+Fannin,10 Trenton,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,60,5,33,22
+Fannin,10 Trenton,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,3,3,0,0
+Fannin,10 Trenton,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1909,42,1326,541
+Fannin,10 Trenton,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,272,24,172,76
+Fannin,10 Trenton,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,65,6,35,24
+Fannin,10 Trenton,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,3,3,0,0
+Fannin,10 Trenton,"Member, State Board of Education, District 12",12,REP,Pam Little,1873,36,1308,529
+Fannin,10 Trenton,"Member, State Board of Education, District 12",12,DEM,George King,306,27,189,90
+Fannin,10 Trenton,"Member, State Board of Education, District 12",12,,Under Votes,64,6,36,22
+Fannin,10 Trenton,"Member, State Board of Education, District 12",12,,Over Votes,6,6,0,0
+Fannin,10 Trenton,State Representative,62,REP,Shelley Luther,1843,26,1288,529
+Fannin,10 Trenton,State Representative,62,DEM,Tiffany Drake,326,25,213,88
+Fannin,10 Trenton,State Representative,62,,Under Votes,62,6,32,24
+Fannin,10 Trenton,State Representative,62,,Over Votes,18,18,0,0
+Fannin,10 Trenton,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,1979,28,1380,571
+Fannin,10 Trenton,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,270,47,153,70
+Fannin,10 Trenton,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Fannin,10 Trenton,"District Judge, 336th Judicial District",336,REP,Christina Tillett,1974,30,1371,573
+Fannin,10 Trenton,"District Judge, 336th Judicial District",336,,Under Votes,275,45,162,68
+Fannin,10 Trenton,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,10 Trenton,"District Judge, 336th Judicial District",336,REP,John Skotnik,1964,29,1366,569
+Fannin,10 Trenton,"District Judge, 336th Judicial District",336,,Under Votes,285,46,167,72
+Fannin,10 Trenton,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,10 Trenton,"County Clerk, Unexpired Term",,REP,Jenny Garner,1961,31,1360,570
+Fannin,10 Trenton,"County Clerk, Unexpired Term",,,Under Votes,288,44,173,71
+Fannin,10 Trenton,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,10 Trenton,Sheriff,,REP,Cody Shook,1912,31,1324,557
+Fannin,10 Trenton,Sheriff,,,Under Votes,337,44,209,84
+Fannin,10 Trenton,Sheriff,,,Over Votes,0,0,0,0
+Fannin,10 Trenton,County Tax Assessor-Collector,,REP,Amber Vest Sutherland,1956,30,1358,568
+Fannin,10 Trenton,County Tax Assessor-Collector,,,Under Votes,293,45,175,73
+Fannin,10 Trenton,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Fannin,10 Trenton,"Justice of the Peace, Precinct 2, Unexpired Term",,REP,Paul Thomas Ivy,1944,29,1350,565
+Fannin,10 Trenton,"Justice of the Peace, Precinct 2, Unexpired Term",,,Under Votes,305,46,183,76
+Fannin,10 Trenton,"Justice of the Peace, Precinct 2, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,10 Trenton,"Constable, Precinct 2",,REP,Jimmy Helms,1937,29,1345,563
+Fannin,10 Trenton,"Constable, Precinct 2",,,Under Votes,312,46,188,78
+Fannin,10 Trenton,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Fannin,11 Leonard,Registered Voters,,,,3054,,,
+Fannin,11 Leonard,Ballots Cast,,,,2031,,,
+Fannin,11 Leonard,President,,REP,Donald J. Trump JD Vance,1727,32,1214,481
+Fannin,11 Leonard,President,,DEM,Kamala D. Harris Tim Walz,283,22,177,84
+Fannin,11 Leonard,President,,LIB,Chase Oliver Mike ter Maat,10,0,4,6
+Fannin,11 Leonard,President,,GRN,Jill Stein Rudolph Ware,4,0,1,3
+Fannin,11 Leonard,President,,,Under Votes,5,0,5,0
+Fannin,11 Leonard,President,,,Over Votes,0,0,0,0
+Fannin,11 Leonard,U.S. Senate,,REP,Ted Cruz,1659,28,1190,441
+Fannin,11 Leonard,U.S. Senate,,DEM,Colin Allred,313,24,189,100
+Fannin,11 Leonard,U.S. Senate,,LIB,Ted Brown,40,0,15,25
+Fannin,11 Leonard,U.S. Senate,,,Under Votes,19,2,9,8
+Fannin,11 Leonard,U.S. Senate,,,Over Votes,0,0,0,0
+Fannin,11 Leonard,U.S. House,4,REP,Pat Fallon,1736,23,1230,483
+Fannin,11 Leonard,U.S. House,4,DEM,Simon Cardell,257,21,159,77
+Fannin,11 Leonard,U.S. House,4,,Under Votes,31,3,14,14
+Fannin,11 Leonard,U.S. House,4,,Over Votes,7,7,0,0
+Fannin,11 Leonard,Railroad Commissioner,,REP,Christi Craddick,1669,28,1186,455
+Fannin,11 Leonard,Railroad Commissioner,,DEM,Katherine Culbert,234,23,143,68
+Fannin,11 Leonard,Railroad Commissioner,,LIB,Hawk Dunlap,61,0,33,28
+Fannin,11 Leonard,Railroad Commissioner,,GRN,Eddie Espinoza,15,0,6,9
+Fannin,11 Leonard,Railroad Commissioner,,,Under Votes,52,3,35,14
+Fannin,11 Leonard,Railroad Commissioner,,,Over Votes,0,0,0,0
+Fannin,11 Leonard,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1722,30,1218,474
+Fannin,11 Leonard,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,263,21,160,82
+Fannin,11 Leonard,"Justice, Supreme Court, Place 2",2,,Under Votes,45,2,25,18
+Fannin,11 Leonard,"Justice, Supreme Court, Place 2",2,,Over Votes,1,1,0,0
+Fannin,11 Leonard,"Justice, Supreme Court, Place 4",4,REP,John Devine,1714,27,1211,476
+Fannin,11 Leonard,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,259,22,160,77
+Fannin,11 Leonard,"Justice, Supreme Court, Place 4",4,,Under Votes,57,4,32,21
+Fannin,11 Leonard,"Justice, Supreme Court, Place 4",4,,Over Votes,1,1,0,0
+Fannin,11 Leonard,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1673,27,1190,456
+Fannin,11 Leonard,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,248,21,153,74
+Fannin,11 Leonard,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,53,1,27,25
+Fannin,11 Leonard,"Justice, Supreme Court, Place 6",6,,Under Votes,56,4,33,19
+Fannin,11 Leonard,"Justice, Supreme Court, Place 6",6,,Over Votes,1,1,0,0
+Fannin,11 Leonard,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1710,26,1213,471
+Fannin,11 Leonard,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,265,22,162,81
+Fannin,11 Leonard,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,55,5,28,22
+Fannin,11 Leonard,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,1,0,0
+Fannin,11 Leonard,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1712,27,1214,471
+Fannin,11 Leonard,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,260,21,160,79
+Fannin,11 Leonard,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,58,5,29,24
+Fannin,11 Leonard,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,1,0,0
+Fannin,11 Leonard,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1714,28,1216,470
+Fannin,11 Leonard,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,248,20,151,77
+Fannin,11 Leonard,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,68,5,36,27
+Fannin,11 Leonard,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,1,0,0
+Fannin,11 Leonard,"Member, State Board of Education, District 12",12,REP,Pam Little,1714,25,1216,473
+Fannin,11 Leonard,"Member, State Board of Education, District 12",12,DEM,George King,261,20,158,83
+Fannin,11 Leonard,"Member, State Board of Education, District 12",12,,Under Votes,54,7,29,18
+Fannin,11 Leonard,"Member, State Board of Education, District 12",12,,Over Votes,2,2,0,0
+Fannin,11 Leonard,State Representative,62,REP,Shelley Luther,1692,20,1199,473
+Fannin,11 Leonard,State Representative,62,DEM,Tiffany Drake,284,22,178,84
+Fannin,11 Leonard,State Representative,62,,Under Votes,49,6,26,17
+Fannin,11 Leonard,State Representative,62,,Over Votes,6,6,0,0
+Fannin,11 Leonard,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,1796,27,1262,507
+Fannin,11 Leonard,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,235,27,141,67
+Fannin,11 Leonard,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Fannin,11 Leonard,"District Judge, 336th Judicial District",336,REP,Christina Tillett,1792,26,1264,502
+Fannin,11 Leonard,"District Judge, 336th Judicial District",336,,Under Votes,239,28,139,72
+Fannin,11 Leonard,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,11 Leonard,"District Judge, 336th Judicial District",336,REP,John Skotnik,1790,25,1263,502
+Fannin,11 Leonard,"District Judge, 336th Judicial District",336,,Under Votes,241,29,140,72
+Fannin,11 Leonard,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,11 Leonard,"County Clerk, Unexpired Term",,REP,Jenny Garner,1795,30,1266,499
+Fannin,11 Leonard,"County Clerk, Unexpired Term",,,Under Votes,236,24,137,75
+Fannin,11 Leonard,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,11 Leonard,Sheriff,,REP,Cody Shook,1761,31,1237,493
+Fannin,11 Leonard,Sheriff,,,Under Votes,270,23,166,81
+Fannin,11 Leonard,Sheriff,,,Over Votes,0,0,0,0
+Fannin,11 Leonard,County Tax Assessor-Collector,,REP,Amber Vest Sutherland,1785,29,1258,498
+Fannin,11 Leonard,County Tax Assessor-Collector,,,Under Votes,246,25,145,76
+Fannin,11 Leonard,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Fannin,11 Leonard,"Justice of the Peace, Precinct 2, Unexpired Term",,REP,Paul Thomas Ivy,1774,28,1252,494
+Fannin,11 Leonard,"Justice of the Peace, Precinct 2, Unexpired Term",,,Under Votes,257,26,151,80
+Fannin,11 Leonard,"Justice of the Peace, Precinct 2, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,11 Leonard,"Constable, Precinct 2",,REP,Jimmy Helms,1753,29,1227,497
+Fannin,11 Leonard,"Constable, Precinct 2",,,Under Votes,278,25,176,77
+Fannin,11 Leonard,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Fannin,12 Telephone,Registered Voters,,,,1317,,,
+Fannin,12 Telephone,Ballots Cast,,,,925,,,
+Fannin,12 Telephone,President,,REP,Donald J. Trump JD Vance,820,26,575,219
+Fannin,12 Telephone,President,,DEM,Kamala D. Harris Tim Walz,91,7,57,27
+Fannin,12 Telephone,President,,LIB,Chase Oliver Mike ter Maat,9,1,6,2
+Fannin,12 Telephone,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+Fannin,12 Telephone,President,,,Under Votes,4,0,3,1
+Fannin,12 Telephone,President,,,Over Votes,0,0,0,0
+Fannin,12 Telephone,U.S. Senate,,REP,Ted Cruz,782,26,550,206
+Fannin,12 Telephone,U.S. Senate,,DEM,Colin Allred,123,7,78,38
+Fannin,12 Telephone,U.S. Senate,,LIB,Ted Brown,14,1,8,5
+Fannin,12 Telephone,U.S. Senate,,,Under Votes,6,0,5,1
+Fannin,12 Telephone,U.S. Senate,,,Over Votes,0,0,0,0
+Fannin,12 Telephone,U.S. House,4,REP,Pat Fallon,812,25,572,215
+Fannin,12 Telephone,U.S. House,4,DEM,Simon Cardell,94,7,57,30
+Fannin,12 Telephone,U.S. House,4,,Under Votes,18,1,12,5
+Fannin,12 Telephone,U.S. House,4,,Over Votes,1,1,0,0
+Fannin,12 Telephone,Railroad Commissioner,,REP,Christi Craddick,783,23,553,207
+Fannin,12 Telephone,Railroad Commissioner,,DEM,Katherine Culbert,87,7,55,25
+Fannin,12 Telephone,Railroad Commissioner,,LIB,Hawk Dunlap,28,3,15,10
+Fannin,12 Telephone,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+Fannin,12 Telephone,Railroad Commissioner,,,Under Votes,26,1,17,8
+Fannin,12 Telephone,Railroad Commissioner,,,Over Votes,0,0,0,0
+Fannin,12 Telephone,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,799,26,564,209
+Fannin,12 Telephone,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,92,7,56,29
+Fannin,12 Telephone,"Justice, Supreme Court, Place 2",2,,Under Votes,34,1,21,12
+Fannin,12 Telephone,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Fannin,12 Telephone,"Justice, Supreme Court, Place 4",4,REP,John Devine,798,26,561,211
+Fannin,12 Telephone,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,96,7,58,31
+Fannin,12 Telephone,"Justice, Supreme Court, Place 4",4,,Under Votes,31,1,22,8
+Fannin,12 Telephone,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Fannin,12 Telephone,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,775,24,550,201
+Fannin,12 Telephone,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,91,7,54,30
+Fannin,12 Telephone,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,27,1,16,10
+Fannin,12 Telephone,"Justice, Supreme Court, Place 6",6,,Under Votes,32,2,21,9
+Fannin,12 Telephone,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Fannin,12 Telephone,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,798,26,560,212
+Fannin,12 Telephone,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,96,7,60,29
+Fannin,12 Telephone,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,31,1,21,9
+Fannin,12 Telephone,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Fannin,12 Telephone,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,798,25,558,215
+Fannin,12 Telephone,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,98,7,62,29
+Fannin,12 Telephone,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,28,1,21,6
+Fannin,12 Telephone,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,1,0,0
+Fannin,12 Telephone,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,800,25,559,216
+Fannin,12 Telephone,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,90,7,57,26
+Fannin,12 Telephone,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,34,1,25,8
+Fannin,12 Telephone,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,1,0,0
+Fannin,12 Telephone,"Member, State Board of Education, District 12",12,REP,Pam Little,786,25,555,206
+Fannin,12 Telephone,"Member, State Board of Education, District 12",12,DEM,George King,106,7,63,36
+Fannin,12 Telephone,"Member, State Board of Education, District 12",12,,Under Votes,32,1,23,8
+Fannin,12 Telephone,"Member, State Board of Education, District 12",12,,Over Votes,1,1,0,0
+Fannin,12 Telephone,State Representative,62,REP,Shelley Luther,770,25,540,205
+Fannin,12 Telephone,State Representative,62,DEM,Tiffany Drake,123,7,79,37
+Fannin,12 Telephone,State Representative,62,,Under Votes,31,1,22,8
+Fannin,12 Telephone,State Representative,62,,Over Votes,1,1,0,0
+Fannin,12 Telephone,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,829,27,575,227
+Fannin,12 Telephone,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,96,7,66,23
+Fannin,12 Telephone,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Fannin,12 Telephone,"District Judge, 336th Judicial District",336,REP,Christina Tillett,840,27,582,231
+Fannin,12 Telephone,"District Judge, 336th Judicial District",336,,Under Votes,85,7,59,19
+Fannin,12 Telephone,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,12 Telephone,"District Judge, 336th Judicial District",336,REP,John Skotnik,834,27,574,233
+Fannin,12 Telephone,"District Judge, 336th Judicial District",336,,Under Votes,91,7,67,17
+Fannin,12 Telephone,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,12 Telephone,"County Clerk, Unexpired Term",,REP,Jenny Garner,831,26,577,228
+Fannin,12 Telephone,"County Clerk, Unexpired Term",,,Under Votes,94,8,64,22
+Fannin,12 Telephone,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,12 Telephone,Sheriff,,REP,Cody Shook,820,27,569,224
+Fannin,12 Telephone,Sheriff,,,Under Votes,105,7,72,26
+Fannin,12 Telephone,Sheriff,,,Over Votes,0,0,0,0
+Fannin,12 Telephone,County Tax Assessor-Collector,,REP,Amber Vest Sutherland,835,27,580,228
+Fannin,12 Telephone,County Tax Assessor-Collector,,,Under Votes,90,7,61,22
+Fannin,12 Telephone,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Fannin,12 Telephone,"County Commissioner, Precinct 3",,REP,Kurt Fogelberg II,820,27,561,232
+Fannin,12 Telephone,"County Commissioner, Precinct 3",,,Under Votes,105,7,80,18
+Fannin,12 Telephone,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Fannin,12 Telephone,"Constable, Precinct 3",,REP,Kevin Mayberry,828,27,571,230
+Fannin,12 Telephone,"Constable, Precinct 3",,,Under Votes,97,7,70,20
+Fannin,12 Telephone,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Fannin,13 Randolph,Registered Voters,,,,534,,,
+Fannin,13 Randolph,Ballots Cast,,,,330,,,
+Fannin,13 Randolph,President,,REP,Donald J. Trump JD Vance,273,5,183,85
+Fannin,13 Randolph,President,,DEM,Kamala D. Harris Tim Walz,54,10,33,11
+Fannin,13 Randolph,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Fannin,13 Randolph,President,,GRN,Jill Stein Rudolph Ware,1,1,0,0
+Fannin,13 Randolph,President,,,Under Votes,2,0,2,0
+Fannin,13 Randolph,President,,,Over Votes,0,0,0,0
+Fannin,13 Randolph,U.S. Senate,,REP,Ted Cruz,266,5,182,79
+Fannin,13 Randolph,U.S. Senate,,DEM,Colin Allred,57,10,33,14
+Fannin,13 Randolph,U.S. Senate,,LIB,Ted Brown,5,1,2,2
+Fannin,13 Randolph,U.S. Senate,,,Under Votes,2,0,1,1
+Fannin,13 Randolph,U.S. Senate,,,Over Votes,0,0,0,0
+Fannin,13 Randolph,U.S. House,4,REP,Pat Fallon,270,4,184,82
+Fannin,13 Randolph,U.S. House,4,DEM,Simon Cardell,51,11,32,8
+Fannin,13 Randolph,U.S. House,4,,Under Votes,8,0,2,6
+Fannin,13 Randolph,U.S. House,4,,Over Votes,1,1,0,0
+Fannin,13 Randolph,Railroad Commissioner,,REP,Christi Craddick,263,5,179,79
+Fannin,13 Randolph,Railroad Commissioner,,DEM,Katherine Culbert,51,11,31,9
+Fannin,13 Randolph,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,4,2
+Fannin,13 Randolph,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,0,2
+Fannin,13 Randolph,Railroad Commissioner,,,Under Votes,8,0,4,4
+Fannin,13 Randolph,Railroad Commissioner,,,Over Votes,0,0,0,0
+Fannin,13 Randolph,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,264,3,181,80
+Fannin,13 Randolph,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,54,11,32,11
+Fannin,13 Randolph,"Justice, Supreme Court, Place 2",2,,Under Votes,12,2,5,5
+Fannin,13 Randolph,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Fannin,13 Randolph,"Justice, Supreme Court, Place 4",4,REP,John Devine,262,4,181,77
+Fannin,13 Randolph,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,55,11,32,12
+Fannin,13 Randolph,"Justice, Supreme Court, Place 4",4,,Under Votes,13,1,5,7
+Fannin,13 Randolph,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Fannin,13 Randolph,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,258,4,175,79
+Fannin,13 Randolph,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,54,11,32,11
+Fannin,13 Randolph,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,6,0,5,1
+Fannin,13 Randolph,"Justice, Supreme Court, Place 6",6,,Under Votes,12,1,6,5
+Fannin,13 Randolph,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Fannin,13 Randolph,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,259,5,178,76
+Fannin,13 Randolph,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,58,10,34,14
+Fannin,13 Randolph,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,13,1,6,6
+Fannin,13 Randolph,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Fannin,13 Randolph,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,261,4,179,78
+Fannin,13 Randolph,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,55,11,33,11
+Fannin,13 Randolph,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,14,1,6,7
+Fannin,13 Randolph,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Fannin,13 Randolph,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,261,4,181,76
+Fannin,13 Randolph,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,51,11,30,10
+Fannin,13 Randolph,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,18,1,7,10
+Fannin,13 Randolph,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Fannin,13 Randolph,"Member, State Board of Education, District 12",12,REP,Pam Little,265,3,180,82
+Fannin,13 Randolph,"Member, State Board of Education, District 12",12,DEM,George King,54,12,34,8
+Fannin,13 Randolph,"Member, State Board of Education, District 12",12,,Under Votes,11,1,4,6
+Fannin,13 Randolph,"Member, State Board of Education, District 12",12,,Over Votes,0,0,0,0
+Fannin,13 Randolph,State Representative,62,REP,Shelley Luther,258,3,178,77
+Fannin,13 Randolph,State Representative,62,DEM,Tiffany Drake,58,11,35,12
+Fannin,13 Randolph,State Representative,62,,Under Votes,13,1,5,7
+Fannin,13 Randolph,State Representative,62,,Over Votes,1,1,0,0
+Fannin,13 Randolph,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,276,2,187,87
+Fannin,13 Randolph,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,54,14,31,9
+Fannin,13 Randolph,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Fannin,13 Randolph,"District Judge, 336th Judicial District",336,REP,Christina Tillett,281,4,190,87
+Fannin,13 Randolph,"District Judge, 336th Judicial District",336,,Under Votes,49,12,28,9
+Fannin,13 Randolph,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,13 Randolph,"District Judge, 336th Judicial District",336,REP,John Skotnik,280,4,189,87
+Fannin,13 Randolph,"District Judge, 336th Judicial District",336,,Under Votes,50,12,29,9
+Fannin,13 Randolph,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,13 Randolph,"County Clerk, Unexpired Term",,REP,Jenny Garner,276,4,185,87
+Fannin,13 Randolph,"County Clerk, Unexpired Term",,,Under Votes,54,12,33,9
+Fannin,13 Randolph,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,13 Randolph,Sheriff,,REP,Cody Shook,287,4,194,89
+Fannin,13 Randolph,Sheriff,,,Under Votes,43,12,24,7
+Fannin,13 Randolph,Sheriff,,,Over Votes,0,0,0,0
+Fannin,13 Randolph,County Tax Assessor-Collector,,REP,Amber Vest Sutherland,281,4,190,87
+Fannin,13 Randolph,County Tax Assessor-Collector,,,Under Votes,49,12,28,9
+Fannin,13 Randolph,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Fannin,13 Randolph,"Justice of the Peace, Precinct 2, Unexpired Term",,REP,Paul Thomas Ivy,277,3,186,88
+Fannin,13 Randolph,"Justice of the Peace, Precinct 2, Unexpired Term",,,Under Votes,53,13,32,8
+Fannin,13 Randolph,"Justice of the Peace, Precinct 2, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,13 Randolph,"Constable, Precinct 2",,REP,Jimmy Helms,279,3,188,88
+Fannin,13 Randolph,"Constable, Precinct 2",,,Under Votes,51,13,30,8
+Fannin,13 Randolph,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Fannin,15 Ector,Registered Voters,,,,1121,,,
+Fannin,15 Ector,Ballots Cast,,,,778,,,
+Fannin,15 Ector,President,,REP,Donald J. Trump JD Vance,680,19,486,175
+Fannin,15 Ector,President,,DEM,Kamala D. Harris Tim Walz,87,4,64,19
+Fannin,15 Ector,President,,LIB,Chase Oliver Mike ter Maat,2,1,1,0
+Fannin,15 Ector,President,,GRN,Jill Stein Rudolph Ware,4,1,0,3
+Fannin,15 Ector,President,,,Under Votes,3,0,2,1
+Fannin,15 Ector,President,,,Over Votes,1,1,0,0
+Fannin,15 Ector,U.S. Senate,,REP,Ted Cruz,662,19,476,167
+Fannin,15 Ector,U.S. Senate,,DEM,Colin Allred,101,5,70,26
+Fannin,15 Ector,U.S. Senate,,LIB,Ted Brown,11,2,4,5
+Fannin,15 Ector,U.S. Senate,,,Under Votes,3,0,3,0
+Fannin,15 Ector,U.S. Senate,,,Over Votes,0,0,0,0
+Fannin,15 Ector,U.S. House,4,REP,Pat Fallon,677,21,484,172
+Fannin,15 Ector,U.S. House,4,DEM,Simon Cardell,83,5,59,19
+Fannin,15 Ector,U.S. House,4,,Under Votes,18,0,11,7
+Fannin,15 Ector,U.S. House,4,,Over Votes,0,0,0,0
+Fannin,15 Ector,Railroad Commissioner,,REP,Christi Craddick,658,20,476,162
+Fannin,15 Ector,Railroad Commissioner,,DEM,Katherine Culbert,68,5,48,15
+Fannin,15 Ector,Railroad Commissioner,,LIB,Hawk Dunlap,23,1,15,7
+Fannin,15 Ector,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,3,5
+Fannin,15 Ector,Railroad Commissioner,,,Under Votes,19,0,11,8
+Fannin,15 Ector,Railroad Commissioner,,,Over Votes,0,0,0,0
+Fannin,15 Ector,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,679,21,486,172
+Fannin,15 Ector,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,79,5,55,19
+Fannin,15 Ector,"Justice, Supreme Court, Place 2",2,,Under Votes,20,0,13,7
+Fannin,15 Ector,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Fannin,15 Ector,"Justice, Supreme Court, Place 4",4,REP,John Devine,669,21,484,164
+Fannin,15 Ector,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,87,5,59,23
+Fannin,15 Ector,"Justice, Supreme Court, Place 4",4,,Under Votes,22,0,11,11
+Fannin,15 Ector,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Fannin,15 Ector,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,661,20,481,160
+Fannin,15 Ector,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,73,5,50,18
+Fannin,15 Ector,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,19,1,10,8
+Fannin,15 Ector,"Justice, Supreme Court, Place 6",6,,Under Votes,25,0,13,12
+Fannin,15 Ector,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Fannin,15 Ector,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,673,20,490,163
+Fannin,15 Ector,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,82,4,55,23
+Fannin,15 Ector,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,21,0,9,12
+Fannin,15 Ector,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,2,2,0,0
+Fannin,15 Ector,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,672,20,488,164
+Fannin,15 Ector,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,82,4,54,24
+Fannin,15 Ector,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,22,0,12,10
+Fannin,15 Ector,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,2,2,0,0
+Fannin,15 Ector,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,675,20,487,168
+Fannin,15 Ector,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,76,4,54,18
+Fannin,15 Ector,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,25,0,13,12
+Fannin,15 Ector,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,2,2,0,0
+Fannin,15 Ector,"Member, State Board of Education, District 12",12,REP,Pam Little,673,21,485,167
+Fannin,15 Ector,"Member, State Board of Education, District 12",12,DEM,George King,84,5,59,20
+Fannin,15 Ector,"Member, State Board of Education, District 12",12,,Under Votes,21,0,10,11
+Fannin,15 Ector,"Member, State Board of Education, District 12",12,,Over Votes,0,0,0,0
+Fannin,15 Ector,State Representative,62,REP,Shelley Luther,658,19,477,162
+Fannin,15 Ector,State Representative,62,DEM,Tiffany Drake,94,7,62,25
+Fannin,15 Ector,State Representative,62,,Under Votes,26,0,15,11
+Fannin,15 Ector,State Representative,62,,Over Votes,0,0,0,0
+Fannin,15 Ector,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,697,19,502,176
+Fannin,15 Ector,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,81,7,52,22
+Fannin,15 Ector,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Fannin,15 Ector,"District Judge, 336th Judicial District",336,REP,Christina Tillett,699,20,504,175
+Fannin,15 Ector,"District Judge, 336th Judicial District",336,,Under Votes,79,6,50,23
+Fannin,15 Ector,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,15 Ector,"District Judge, 336th Judicial District",336,REP,John Skotnik,692,19,497,176
+Fannin,15 Ector,"District Judge, 336th Judicial District",336,,Under Votes,86,7,57,22
+Fannin,15 Ector,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,15 Ector,"County Clerk, Unexpired Term",,REP,Jenny Garner,691,20,496,175
+Fannin,15 Ector,"County Clerk, Unexpired Term",,,Under Votes,87,6,58,23
+Fannin,15 Ector,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,15 Ector,Sheriff,,REP,Cody Shook,693,17,495,181
+Fannin,15 Ector,Sheriff,,,Under Votes,85,9,59,17
+Fannin,15 Ector,Sheriff,,,Over Votes,0,0,0,0
+Fannin,15 Ector,County Tax Assessor-Collector,,REP,Amber Vest Sutherland,696,18,500,178
+Fannin,15 Ector,County Tax Assessor-Collector,,,Under Votes,82,8,54,20
+Fannin,15 Ector,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Fannin,15 Ector,"County Commissioner, Precinct 1",,REP,Troy Waggoner,716,17,511,188
+Fannin,15 Ector,"County Commissioner, Precinct 1",,,Under Votes,62,9,43,10
+Fannin,15 Ector,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Fannin,15 Ector,"Constable, Precinct 1",,REP,David Thompson,685,15,496,174
+Fannin,15 Ector,"Constable, Precinct 1",,,Under Votes,93,11,58,24
+Fannin,15 Ector,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Fannin,16 Windom,Registered Voters,,,,383,,,
+Fannin,16 Windom,Ballots Cast,,,,256,,,
+Fannin,16 Windom,President,,REP,Donald J. Trump JD Vance,227,9,138,80
+Fannin,16 Windom,President,,DEM,Kamala D. Harris Tim Walz,23,1,13,9
+Fannin,16 Windom,President,,LIB,Chase Oliver Mike ter Maat,3,1,0,2
+Fannin,16 Windom,President,,GRN,Jill Stein Rudolph Ware,2,0,0,2
+Fannin,16 Windom,President,,,Under Votes,1,0,1,0
+Fannin,16 Windom,President,,,Over Votes,0,0,0,0
+Fannin,16 Windom,U.S. Senate,,REP,Ted Cruz,216,9,133,74
+Fannin,16 Windom,U.S. Senate,,DEM,Colin Allred,28,0,16,12
+Fannin,16 Windom,U.S. Senate,,LIB,Ted Brown,10,2,3,5
+Fannin,16 Windom,U.S. Senate,,,Under Votes,2,0,0,2
+Fannin,16 Windom,U.S. Senate,,,Over Votes,0,0,0,0
+Fannin,16 Windom,U.S. House,4,REP,Pat Fallon,225,11,133,81
+Fannin,16 Windom,U.S. House,4,DEM,Simon Cardell,26,0,16,10
+Fannin,16 Windom,U.S. House,4,,Under Votes,5,0,3,2
+Fannin,16 Windom,U.S. House,4,,Over Votes,0,0,0,0
+Fannin,16 Windom,Railroad Commissioner,,REP,Christi Craddick,209,9,127,73
+Fannin,16 Windom,Railroad Commissioner,,DEM,Katherine Culbert,24,0,14,10
+Fannin,16 Windom,Railroad Commissioner,,LIB,Hawk Dunlap,10,2,4,4
+Fannin,16 Windom,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,1,3
+Fannin,16 Windom,Railroad Commissioner,,,Under Votes,9,0,6,3
+Fannin,16 Windom,Railroad Commissioner,,,Over Votes,0,0,0,0
+Fannin,16 Windom,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,227,11,135,81
+Fannin,16 Windom,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,23,0,13,10
+Fannin,16 Windom,"Justice, Supreme Court, Place 2",2,,Under Votes,6,0,4,2
+Fannin,16 Windom,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Fannin,16 Windom,"Justice, Supreme Court, Place 4",4,REP,John Devine,226,11,134,81
+Fannin,16 Windom,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,26,0,15,11
+Fannin,16 Windom,"Justice, Supreme Court, Place 4",4,,Under Votes,4,0,3,1
+Fannin,16 Windom,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Fannin,16 Windom,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,219,10,132,77
+Fannin,16 Windom,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,25,0,16,9
+Fannin,16 Windom,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,8,1,2,5
+Fannin,16 Windom,"Justice, Supreme Court, Place 6",6,,Under Votes,4,0,2,2
+Fannin,16 Windom,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Fannin,16 Windom,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,223,11,132,80
+Fannin,16 Windom,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,27,0,15,12
+Fannin,16 Windom,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,6,0,5,1
+Fannin,16 Windom,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Fannin,16 Windom,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,223,11,132,80
+Fannin,16 Windom,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,24,0,14,10
+Fannin,16 Windom,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,9,0,6,3
+Fannin,16 Windom,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Fannin,16 Windom,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,225,11,135,79
+Fannin,16 Windom,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,21,0,10,11
+Fannin,16 Windom,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,10,0,7,3
+Fannin,16 Windom,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Fannin,16 Windom,"Member, State Board of Education, District 12",12,REP,Pam Little,225,11,134,80
+Fannin,16 Windom,"Member, State Board of Education, District 12",12,DEM,George King,25,0,14,11
+Fannin,16 Windom,"Member, State Board of Education, District 12",12,,Under Votes,6,0,4,2
+Fannin,16 Windom,"Member, State Board of Education, District 12",12,,Over Votes,0,0,0,0
+Fannin,16 Windom,State Representative,62,REP,Shelley Luther,219,11,129,79
+Fannin,16 Windom,State Representative,62,DEM,Tiffany Drake,30,0,19,11
+Fannin,16 Windom,State Representative,62,,Under Votes,7,0,4,3
+Fannin,16 Windom,State Representative,62,,Over Votes,0,0,0,0
+Fannin,16 Windom,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,230,11,134,85
+Fannin,16 Windom,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,26,0,18,8
+Fannin,16 Windom,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Fannin,16 Windom,"District Judge, 336th Judicial District",336,REP,Christina Tillett,232,11,135,86
+Fannin,16 Windom,"District Judge, 336th Judicial District",336,,Under Votes,24,0,17,7
+Fannin,16 Windom,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,16 Windom,"District Judge, 336th Judicial District",336,REP,John Skotnik,232,11,131,90
+Fannin,16 Windom,"District Judge, 336th Judicial District",336,,Under Votes,24,0,21,3
+Fannin,16 Windom,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,16 Windom,"County Clerk, Unexpired Term",,REP,Jenny Garner,229,11,131,87
+Fannin,16 Windom,"County Clerk, Unexpired Term",,,Under Votes,27,0,21,6
+Fannin,16 Windom,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,16 Windom,Sheriff,,REP,Cody Shook,223,11,128,84
+Fannin,16 Windom,Sheriff,,,Under Votes,33,0,24,9
+Fannin,16 Windom,Sheriff,,,Over Votes,0,0,0,0
+Fannin,16 Windom,County Tax Assessor-Collector,,REP,Amber Vest Sutherland,234,11,135,88
+Fannin,16 Windom,County Tax Assessor-Collector,,,Under Votes,22,0,17,5
+Fannin,16 Windom,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Fannin,16 Windom,"Constable, Precinct 3",,REP,Kevin Mayberry,230,11,131,88
+Fannin,16 Windom,"Constable, Precinct 3",,,Under Votes,26,0,21,5
+Fannin,16 Windom,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Fannin,17 So. Bonham,Registered Voters,,,,889,,,
+Fannin,17 So. Bonham,Ballots Cast,,,,644,,,
+Fannin,17 So. Bonham,President,,REP,Donald J. Trump JD Vance,543,19,440,84
+Fannin,17 So. Bonham,President,,DEM,Kamala D. Harris Tim Walz,91,6,76,9
+Fannin,17 So. Bonham,President,,LIB,Chase Oliver Mike ter Maat,4,0,1,3
+Fannin,17 So. Bonham,President,,GRN,Jill Stein Rudolph Ware,2,0,2,0
+Fannin,17 So. Bonham,President,,,Under Votes,3,0,2,1
+Fannin,17 So. Bonham,President,,,Over Votes,0,0,0,0
+Fannin,17 So. Bonham,U.S. Senate,,REP,Ted Cruz,533,19,435,79
+Fannin,17 So. Bonham,U.S. Senate,,DEM,Colin Allred,97,6,76,15
+Fannin,17 So. Bonham,U.S. Senate,,LIB,Ted Brown,11,0,8,3
+Fannin,17 So. Bonham,U.S. Senate,,,Under Votes,3,0,3,0
+Fannin,17 So. Bonham,U.S. Senate,,,Over Votes,0,0,0,0
+Fannin,17 So. Bonham,U.S. House,4,REP,Pat Fallon,542,16,443,83
+Fannin,17 So. Bonham,U.S. House,4,DEM,Simon Cardell,89,6,71,12
+Fannin,17 So. Bonham,U.S. House,4,,Under Votes,10,0,8,2
+Fannin,17 So. Bonham,U.S. House,4,,Over Votes,3,3,0,0
+Fannin,17 So. Bonham,Railroad Commissioner,,REP,Christi Craddick,531,19,431,81
+Fannin,17 So. Bonham,Railroad Commissioner,,DEM,Katherine Culbert,81,6,66,9
+Fannin,17 So. Bonham,Railroad Commissioner,,LIB,Hawk Dunlap,11,0,9,2
+Fannin,17 So. Bonham,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,5,1
+Fannin,17 So. Bonham,Railroad Commissioner,,,Under Votes,14,0,10,4
+Fannin,17 So. Bonham,Railroad Commissioner,,,Over Votes,0,0,0,0
+Fannin,17 So. Bonham,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,546,18,442,86
+Fannin,17 So. Bonham,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,84,6,69,9
+Fannin,17 So. Bonham,"Justice, Supreme Court, Place 2",2,,Under Votes,13,0,11,2
+Fannin,17 So. Bonham,"Justice, Supreme Court, Place 2",2,,Over Votes,1,1,0,0
+Fannin,17 So. Bonham,"Justice, Supreme Court, Place 4",4,REP,John Devine,541,18,443,80
+Fannin,17 So. Bonham,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,89,5,72,12
+Fannin,17 So. Bonham,"Justice, Supreme Court, Place 4",4,,Under Votes,13,1,7,5
+Fannin,17 So. Bonham,"Justice, Supreme Court, Place 4",4,,Over Votes,1,1,0,0
+Fannin,17 So. Bonham,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,533,18,433,82
+Fannin,17 So. Bonham,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,83,6,69,8
+Fannin,17 So. Bonham,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,12,0,10,2
+Fannin,17 So. Bonham,"Justice, Supreme Court, Place 6",6,,Under Votes,15,0,10,5
+Fannin,17 So. Bonham,"Justice, Supreme Court, Place 6",6,,Over Votes,1,1,0,0
+Fannin,17 So. Bonham,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,540,18,441,81
+Fannin,17 So. Bonham,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,89,6,72,11
+Fannin,17 So. Bonham,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,14,0,9,5
+Fannin,17 So. Bonham,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,1,0,0
+Fannin,17 So. Bonham,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,540,18,439,83
+Fannin,17 So. Bonham,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,84,6,69,9
+Fannin,17 So. Bonham,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,19,0,14,5
+Fannin,17 So. Bonham,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,1,1,0,0
+Fannin,17 So. Bonham,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,547,19,444,84
+Fannin,17 So. Bonham,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,78,5,66,7
+Fannin,17 So. Bonham,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,18,0,12,6
+Fannin,17 So. Bonham,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,1,0,0
+Fannin,17 So. Bonham,"Member, State Board of Education, District 12",12,REP,Pam Little,540,19,441,80
+Fannin,17 So. Bonham,"Member, State Board of Education, District 12",12,DEM,George King,86,5,71,10
+Fannin,17 So. Bonham,"Member, State Board of Education, District 12",12,,Under Votes,17,0,10,7
+Fannin,17 So. Bonham,"Member, State Board of Education, District 12",12,,Over Votes,1,1,0,0
+Fannin,17 So. Bonham,State Representative,62,REP,Shelley Luther,533,17,433,83
+Fannin,17 So. Bonham,State Representative,62,DEM,Tiffany Drake,94,5,77,12
+Fannin,17 So. Bonham,State Representative,62,,Under Votes,14,0,12,2
+Fannin,17 So. Bonham,State Representative,62,,Over Votes,3,3,0,0
+Fannin,17 So. Bonham,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,572,20,465,87
+Fannin,17 So. Bonham,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,72,5,57,10
+Fannin,17 So. Bonham,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Fannin,17 So. Bonham,"District Judge, 336th Judicial District",336,REP,Christina Tillett,578,21,467,90
+Fannin,17 So. Bonham,"District Judge, 336th Judicial District",336,,Under Votes,66,4,55,7
+Fannin,17 So. Bonham,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,17 So. Bonham,"District Judge, 336th Judicial District",336,REP,John Skotnik,575,20,464,91
+Fannin,17 So. Bonham,"District Judge, 336th Judicial District",336,,Under Votes,69,5,58,6
+Fannin,17 So. Bonham,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,17 So. Bonham,"County Clerk, Unexpired Term",,REP,Jenny Garner,572,21,463,88
+Fannin,17 So. Bonham,"County Clerk, Unexpired Term",,,Under Votes,72,4,59,9
+Fannin,17 So. Bonham,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,17 So. Bonham,Sheriff,,REP,Cody Shook,577,19,470,88
+Fannin,17 So. Bonham,Sheriff,,,Under Votes,67,6,52,9
+Fannin,17 So. Bonham,Sheriff,,,Over Votes,0,0,0,0
+Fannin,17 So. Bonham,County Tax Assessor-Collector,,REP,Amber Vest Sutherland,576,20,470,86
+Fannin,17 So. Bonham,County Tax Assessor-Collector,,,Under Votes,68,5,52,11
+Fannin,17 So. Bonham,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Fannin,17 So. Bonham,"Justice of the Peace, Precinct 2, Unexpired Term",,REP,Paul Thomas Ivy,579,19,470,90
+Fannin,17 So. Bonham,"Justice of the Peace, Precinct 2, Unexpired Term",,,Under Votes,65,6,52,7
+Fannin,17 So. Bonham,"Justice of the Peace, Precinct 2, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,17 So. Bonham,"Constable, Precinct 2",,REP,Jimmy Helms,575,19,468,88
+Fannin,17 So. Bonham,"Constable, Precinct 2",,,Under Votes,69,6,54,9
+Fannin,17 So. Bonham,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Fannin,18 E. Bonham,Registered Voters,,,,3281,,,
+Fannin,18 E. Bonham,Ballots Cast,,,,1949,,,
+Fannin,18 E. Bonham,President,,REP,Donald J. Trump JD Vance,1558,84,1261,213
+Fannin,18 E. Bonham,President,,DEM,Kamala D. Harris Tim Walz,360,46,265,49
+Fannin,18 E. Bonham,President,,LIB,Chase Oliver Mike ter Maat,15,0,13,2
+Fannin,18 E. Bonham,President,,GRN,Jill Stein Rudolph Ware,6,0,5,1
+Fannin,18 E. Bonham,President,,,Under Votes,8,3,5,0
+Fannin,18 E. Bonham,President,,,Over Votes,2,2,0,0
+Fannin,18 E. Bonham,U.S. Senate,,REP,Ted Cruz,1490,85,1209,196
+Fannin,18 E. Bonham,U.S. Senate,,DEM,Colin Allred,406,48,300,58
+Fannin,18 E. Bonham,U.S. Senate,,LIB,Ted Brown,40,1,30,9
+Fannin,18 E. Bonham,U.S. Senate,,,Under Votes,13,1,10,2
+Fannin,18 E. Bonham,U.S. Senate,,,Over Votes,0,0,0,0
+Fannin,18 E. Bonham,U.S. House,4,REP,Pat Fallon,1569,76,1278,215
+Fannin,18 E. Bonham,U.S. House,4,DEM,Simon Cardell,335,44,250,41
+Fannin,18 E. Bonham,U.S. House,4,,Under Votes,30,0,21,9
+Fannin,18 E. Bonham,U.S. House,4,,Over Votes,15,15,0,0
+Fannin,18 E. Bonham,Railroad Commissioner,,REP,Christi Craddick,1490,82,1214,194
+Fannin,18 E. Bonham,Railroad Commissioner,,DEM,Katherine Culbert,313,43,227,43
+Fannin,18 E. Bonham,Railroad Commissioner,,LIB,Hawk Dunlap,60,4,42,14
+Fannin,18 E. Bonham,Railroad Commissioner,,GRN,Eddie Espinoza,23,2,18,3
+Fannin,18 E. Bonham,Railroad Commissioner,,,Under Votes,60,3,46,11
+Fannin,18 E. Bonham,Railroad Commissioner,,,Over Votes,1,1,0,0
+Fannin,18 E. Bonham,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1546,84,1254,208
+Fannin,18 E. Bonham,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,341,46,250,45
+Fannin,18 E. Bonham,"Justice, Supreme Court, Place 2",2,,Under Votes,61,4,45,12
+Fannin,18 E. Bonham,"Justice, Supreme Court, Place 2",2,,Over Votes,1,1,0,0
+Fannin,18 E. Bonham,"Justice, Supreme Court, Place 4",4,REP,John Devine,1538,83,1247,208
+Fannin,18 E. Bonham,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,340,45,250,45
+Fannin,18 E. Bonham,"Justice, Supreme Court, Place 4",4,,Under Votes,70,6,52,12
+Fannin,18 E. Bonham,"Justice, Supreme Court, Place 4",4,,Over Votes,1,1,0,0
+Fannin,18 E. Bonham,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1483,80,1205,198
+Fannin,18 E. Bonham,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,329,45,244,40
+Fannin,18 E. Bonham,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,61,3,44,14
+Fannin,18 E. Bonham,"Justice, Supreme Court, Place 6",6,,Under Votes,75,6,56,13
+Fannin,18 E. Bonham,"Justice, Supreme Court, Place 6",6,,Over Votes,1,1,0,0
+Fannin,18 E. Bonham,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1526,80,1238,208
+Fannin,18 E. Bonham,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,350,48,257,45
+Fannin,18 E. Bonham,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,72,6,54,12
+Fannin,18 E. Bonham,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,1,0,0
+Fannin,18 E. Bonham,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1533,82,1242,209
+Fannin,18 E. Bonham,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,342,46,252,44
+Fannin,18 E. Bonham,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,72,5,55,12
+Fannin,18 E. Bonham,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,2,2,0,0
+Fannin,18 E. Bonham,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1539,84,1243,212
+Fannin,18 E. Bonham,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,329,42,246,41
+Fannin,18 E. Bonham,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,79,7,60,12
+Fannin,18 E. Bonham,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,2,2,0,0
+Fannin,18 E. Bonham,"Member, State Board of Education, District 12",12,REP,Pam Little,1530,76,1252,202
+Fannin,18 E. Bonham,"Member, State Board of Education, District 12",12,DEM,George King,340,45,248,47
+Fannin,18 E. Bonham,"Member, State Board of Education, District 12",12,,Under Votes,68,3,49,16
+Fannin,18 E. Bonham,"Member, State Board of Education, District 12",12,,Over Votes,11,11,0,0
+Fannin,18 E. Bonham,State Representative,62,REP,Shelley Luther,1487,73,1210,204
+Fannin,18 E. Bonham,State Representative,62,DEM,Tiffany Drake,382,45,287,50
+Fannin,18 E. Bonham,State Representative,62,,Under Votes,67,4,52,11
+Fannin,18 E. Bonham,State Representative,62,,Over Votes,13,13,0,0
+Fannin,18 E. Bonham,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,1642,91,1319,232
+Fannin,18 E. Bonham,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,307,44,230,33
+Fannin,18 E. Bonham,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Fannin,18 E. Bonham,"District Judge, 336th Judicial District",336,REP,Christina Tillett,1640,91,1320,229
+Fannin,18 E. Bonham,"District Judge, 336th Judicial District",336,,Under Votes,309,44,229,36
+Fannin,18 E. Bonham,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,18 E. Bonham,"District Judge, 336th Judicial District",336,REP,John Skotnik,1653,93,1331,229
+Fannin,18 E. Bonham,"District Judge, 336th Judicial District",336,,Under Votes,296,42,218,36
+Fannin,18 E. Bonham,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,18 E. Bonham,"County Clerk, Unexpired Term",,REP,Jenny Garner,1646,90,1329,227
+Fannin,18 E. Bonham,"County Clerk, Unexpired Term",,,Under Votes,303,45,220,38
+Fannin,18 E. Bonham,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,18 E. Bonham,Sheriff,,REP,Cody Shook,1629,91,1311,227
+Fannin,18 E. Bonham,Sheriff,,,Under Votes,320,44,238,38
+Fannin,18 E. Bonham,Sheriff,,,Over Votes,0,0,0,0
+Fannin,18 E. Bonham,County Tax Assessor-Collector,,REP,Amber Vest Sutherland,1659,89,1344,226
+Fannin,18 E. Bonham,County Tax Assessor-Collector,,,Under Votes,290,46,205,39
+Fannin,18 E. Bonham,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Fannin,18 E. Bonham,"Constable, Precinct 1",,REP,David Thompson,1627,88,1317,222
+Fannin,18 E. Bonham,"Constable, Precinct 1",,,Under Votes,322,47,232,43
+Fannin,18 E. Bonham,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Fannin,19 Honey Grove,Registered Voters,,,,2073,,,
+Fannin,19 Honey Grove,Ballots Cast,,,,1368,,,
+Fannin,19 Honey Grove,President,,REP,Donald J. Trump JD Vance,1071,50,603,418
+Fannin,19 Honey Grove,President,,DEM,Kamala D. Harris Tim Walz,279,24,166,89
+Fannin,19 Honey Grove,President,,LIB,Chase Oliver Mike ter Maat,5,0,2,3
+Fannin,19 Honey Grove,President,,GRN,Jill Stein Rudolph Ware,6,2,2,2
+Fannin,19 Honey Grove,President,,,Under Votes,6,1,3,2
+Fannin,19 Honey Grove,President,,,Over Votes,0,0,0,0
+Fannin,19 Honey Grove,U.S. Senate,,REP,Ted Cruz,1019,48,582,389
+Fannin,19 Honey Grove,U.S. Senate,,DEM,Colin Allred,307,26,178,103
+Fannin,19 Honey Grove,U.S. Senate,,LIB,Ted Brown,30,1,13,16
+Fannin,19 Honey Grove,U.S. Senate,,,Under Votes,12,2,4,6
+Fannin,19 Honey Grove,U.S. Senate,,,Over Votes,0,0,0,0
+Fannin,19 Honey Grove,U.S. House,4,REP,Pat Fallon,1065,46,601,418
+Fannin,19 Honey Grove,U.S. House,4,DEM,Simon Cardell,266,27,158,81
+Fannin,19 Honey Grove,U.S. House,4,,Under Votes,34,1,18,15
+Fannin,19 Honey Grove,U.S. House,4,,Over Votes,3,3,0,0
+Fannin,19 Honey Grove,Railroad Commissioner,,REP,Christi Craddick,1035,46,589,400
+Fannin,19 Honey Grove,Railroad Commissioner,,DEM,Katherine Culbert,244,26,141,77
+Fannin,19 Honey Grove,Railroad Commissioner,,LIB,Hawk Dunlap,29,2,12,15
+Fannin,19 Honey Grove,Railroad Commissioner,,GRN,Eddie Espinoza,9,0,6,3
+Fannin,19 Honey Grove,Railroad Commissioner,,,Under Votes,50,2,29,19
+Fannin,19 Honey Grove,Railroad Commissioner,,,Over Votes,1,1,0,0
+Fannin,19 Honey Grove,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1061,49,599,413
+Fannin,19 Honey Grove,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,264,26,154,84
+Fannin,19 Honey Grove,"Justice, Supreme Court, Place 2",2,,Under Votes,43,2,24,17
+Fannin,19 Honey Grove,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Fannin,19 Honey Grove,"Justice, Supreme Court, Place 4",4,REP,John Devine,1037,48,588,401
+Fannin,19 Honey Grove,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,281,26,162,93
+Fannin,19 Honey Grove,"Justice, Supreme Court, Place 4",4,,Under Votes,50,3,27,20
+Fannin,19 Honey Grove,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Fannin,19 Honey Grove,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1039,48,590,401
+Fannin,19 Honey Grove,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,258,26,151,81
+Fannin,19 Honey Grove,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,32,1,10,21
+Fannin,19 Honey Grove,"Justice, Supreme Court, Place 6",6,,Under Votes,39,2,26,11
+Fannin,19 Honey Grove,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Fannin,19 Honey Grove,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1052,48,595,409
+Fannin,19 Honey Grove,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,273,27,157,89
+Fannin,19 Honey Grove,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,43,2,25,16
+Fannin,19 Honey Grove,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Fannin,19 Honey Grove,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1055,48,594,413
+Fannin,19 Honey Grove,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,269,27,157,85
+Fannin,19 Honey Grove,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,44,2,26,16
+Fannin,19 Honey Grove,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Fannin,19 Honey Grove,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1060,51,594,415
+Fannin,19 Honey Grove,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,255,24,149,82
+Fannin,19 Honey Grove,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,53,2,34,17
+Fannin,19 Honey Grove,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Fannin,19 Honey Grove,"Member, State Board of Education, District 12",12,REP,Pam Little,1044,46,593,405
+Fannin,19 Honey Grove,"Member, State Board of Education, District 12",12,DEM,George King,271,25,159,87
+Fannin,19 Honey Grove,"Member, State Board of Education, District 12",12,,Under Votes,50,3,25,22
+Fannin,19 Honey Grove,"Member, State Board of Education, District 12",12,,Over Votes,3,3,0,0
+Fannin,19 Honey Grove,State Representative,62,REP,Shelley Luther,1012,44,578,390
+Fannin,19 Honey Grove,State Representative,62,DEM,Tiffany Drake,307,27,175,105
+Fannin,19 Honey Grove,State Representative,62,,Under Votes,46,3,24,19
+Fannin,19 Honey Grove,State Representative,62,,Over Votes,3,3,0,0
+Fannin,19 Honey Grove,"Justice, 6th Court of Appeals District, Place 2",2,REP,Jeff Rambin,1119,50,623,446
+Fannin,19 Honey Grove,"Justice, 6th Court of Appeals District, Place 2",2,,Under Votes,249,27,154,68
+Fannin,19 Honey Grove,"Justice, 6th Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Fannin,19 Honey Grove,"District Judge, 336th Judicial District",336,REP,Christina Tillett,1128,50,632,446
+Fannin,19 Honey Grove,"District Judge, 336th Judicial District",336,,Under Votes,240,27,145,68
+Fannin,19 Honey Grove,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,19 Honey Grove,"District Judge, 336th Judicial District",336,REP,John Skotnik,1135,53,631,451
+Fannin,19 Honey Grove,"District Judge, 336th Judicial District",336,,Under Votes,233,24,146,63
+Fannin,19 Honey Grove,"District Judge, 336th Judicial District",336,,Over Votes,0,0,0,0
+Fannin,19 Honey Grove,"County Clerk, Unexpired Term",,REP,Jenny Garner,1139,53,636,450
+Fannin,19 Honey Grove,"County Clerk, Unexpired Term",,,Under Votes,229,24,141,64
+Fannin,19 Honey Grove,"County Clerk, Unexpired Term",,,Over Votes,0,0,0,0
+Fannin,19 Honey Grove,Sheriff,,REP,Cody Shook,1119,51,627,441
+Fannin,19 Honey Grove,Sheriff,,,Under Votes,249,26,150,73
+Fannin,19 Honey Grove,Sheriff,,,Over Votes,0,0,0,0
+Fannin,19 Honey Grove,County Tax Assessor-Collector,,REP,Amber Vest Sutherland,1174,55,664,455
+Fannin,19 Honey Grove,County Tax Assessor-Collector,,,Under Votes,194,22,113,59
+Fannin,19 Honey Grove,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Fannin,19 Honey Grove,"County Commissioner, Precinct 3",,REP,Kurt Fogelberg II,1187,56,668,463
+Fannin,19 Honey Grove,"County Commissioner, Precinct 3",,,Under Votes,181,21,109,51
+Fannin,19 Honey Grove,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Fannin,19 Honey Grove,"Constable, Precinct 3",,REP,Kevin Mayberry,1112,55,627,430
+Fannin,19 Honey Grove,"Constable, Precinct 3",,,Under Votes,256,22,150,84
+Fannin,19 Honey Grove,"Constable, Precinct 3",,,Over Votes,0,0,0,0
