@@ -1,0 +1,897 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Falls,101,Registered Voters,,,,704,,,
+Falls,101,Ballots Cast,,,,322,,,
+Falls,101,President,,REP,Donald J. Trump JD Vance,170,5,124,41
+Falls,101,President,,DEM,Kamala D. Harris Tim Walz,146,6,92,48
+Falls,101,President,,LIB,Chase Oliver Mike ter Maat,2,0,2,0
+Falls,101,President,,GRN,Jill Stein Rudolph Ware,2,0,0,2
+Falls,101,President,,,Under Votes,1,0,1,0
+Falls,101,President,,,Over Votes,1,0,1,0
+Falls,101,U.S. Senate,,REP,Ted Cruz,160,5,118,37
+Falls,101,U.S. Senate,,DEM,Colin Allred,147,5,94,48
+Falls,101,U.S. Senate,,LIB,Ted Brown,11,0,7,4
+Falls,101,U.S. Senate,,,Under Votes,3,1,0,2
+Falls,101,U.S. Senate,,,Over Votes,1,0,1,0
+Falls,101,U.S. House,17,REP,Pete Sessions,173,5,129,39
+Falls,101,U.S. House,17,DEM,Mark Lorenzen,142,6,88,48
+Falls,101,U.S. House,17,,Under Votes,7,0,3,4
+Falls,101,U.S. House,17,,Over Votes,0,0,0,0
+Falls,101,Railroad Commissioner,,REP,Christi Craddick,161,5,122,34
+Falls,101,Railroad Commissioner,,DEM,Katherine Culbert,138,5,88,45
+Falls,101,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,3,3
+Falls,101,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,3,5
+Falls,101,Railroad Commissioner,,,Under Votes,7,0,3,4
+Falls,101,Railroad Commissioner,,,Over Votes,2,1,1,0
+Falls,101,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,165,5,123,37
+Falls,101,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,147,6,91,50
+Falls,101,"Justice, Supreme Court, Place 2",2,,Under Votes,10,0,6,4
+Falls,101,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Falls,101,"Justice, Supreme Court, Place 4",4,REP,John Devine,159,5,120,34
+Falls,101,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,152,6,95,51
+Falls,101,"Justice, Supreme Court, Place 4",4,,Under Votes,11,0,5,6
+Falls,101,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Falls,101,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,156,5,116,35
+Falls,101,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,146,6,94,46
+Falls,101,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,10,0,5,5
+Falls,101,"Justice, Supreme Court, Place 6",6,,Under Votes,10,0,5,5
+Falls,101,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Falls,101,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,162,5,120,37
+Falls,101,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,147,6,94,47
+Falls,101,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,13,0,6,7
+Falls,101,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Falls,101,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,166,5,123,38
+Falls,101,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,146,6,92,48
+Falls,101,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,10,0,5,5
+Falls,101,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Falls,101,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,167,5,123,39
+Falls,101,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,141,6,90,45
+Falls,101,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,13,0,7,6
+Falls,101,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,0,0,1
+Falls,101,"Member, State Board of Education, District 10",10,REP,Tom Maynard,166,5,127,34
+Falls,101,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,143,6,87,50
+Falls,101,"Member, State Board of Education, District 10",10,,Under Votes,13,0,6,7
+Falls,101,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Falls,101,State Representative,13,REP,Angelia Orr,168,5,125,38
+Falls,101,State Representative,13,DEM,Albert Hunter,144,5,92,47
+Falls,101,State Representative,13,,Under Votes,10,1,3,6
+Falls,101,State Representative,13,,Over Votes,0,0,0,0
+Falls,101,"Chief Justice, 10th Court of Appeals District",,REP,Matt Johnson,213,7,158,48
+Falls,101,"Chief Justice, 10th Court of Appeals District",,,Under Votes,109,4,62,43
+Falls,101,"Chief Justice, 10th Court of Appeals District",,,Over Votes,0,0,0,0
+Falls,101,County Attorney,,REP,Jody Gilliam,197,7,143,47
+Falls,101,County Attorney,,,Under Votes,125,4,77,44
+Falls,101,County Attorney,,,Over Votes,0,0,0,0
+Falls,101,Sheriff,,REP,Jason Campbell,158,5,119,34
+Falls,101,Sheriff,,DEM,Joe Lopez,149,6,94,49
+Falls,101,Sheriff,,,Under Votes,15,0,7,8
+Falls,101,Sheriff,,,Over Votes,0,0,0,0
+Falls,101,County Tax Assessor-Collector,,REP,Kayci Nehring,220,8,158,54
+Falls,101,County Tax Assessor-Collector,,,Under Votes,102,3,62,37
+Falls,101,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Falls,101,"County Commissioner, Precinct 1",,REP,Milton Albright,217,8,155,54
+Falls,101,"County Commissioner, Precinct 1",,,Under Votes,105,3,65,37
+Falls,101,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Falls,101,"Constable, Precinct 1",,REP,Jonathan Shoemaker,209,8,152,49
+Falls,101,"Constable, Precinct 1",,,Under Votes,113,3,68,42
+Falls,101,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Falls,102,Registered Voters,,,,1021,,,
+Falls,102,Ballots Cast,,,,580,,,
+Falls,102,President,,REP,Donald J. Trump JD Vance,377,21,259,97
+Falls,102,President,,DEM,Kamala D. Harris Tim Walz,195,9,122,64
+Falls,102,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Falls,102,President,,GRN,Jill Stein Rudolph Ware,6,1,4,1
+Falls,102,President,,,Under Votes,0,0,0,0
+Falls,102,President,,,Over Votes,2,0,0,2
+Falls,102,U.S. Senate,,REP,Ted Cruz,351,20,248,83
+Falls,102,U.S. Senate,,DEM,Colin Allred,211,10,126,75
+Falls,102,U.S. Senate,,LIB,Ted Brown,13,0,9,4
+Falls,102,U.S. Senate,,,Under Votes,5,1,2,2
+Falls,102,U.S. Senate,,,Over Votes,0,0,0,0
+Falls,102,U.S. House,17,REP,Pete Sessions,377,20,265,92
+Falls,102,U.S. House,17,DEM,Mark Lorenzen,189,9,114,66
+Falls,102,U.S. House,17,,Under Votes,14,2,6,6
+Falls,102,U.S. House,17,,Over Votes,0,0,0,0
+Falls,102,Railroad Commissioner,,REP,Christi Craddick,355,22,249,84
+Falls,102,Railroad Commissioner,,DEM,Katherine Culbert,176,7,111,58
+Falls,102,Railroad Commissioner,,LIB,Hawk Dunlap,20,0,12,8
+Falls,102,Railroad Commissioner,,GRN,Eddie Espinoza,13,0,5,8
+Falls,102,Railroad Commissioner,,,Under Votes,16,2,8,6
+Falls,102,Railroad Commissioner,,,Over Votes,0,0,0,0
+Falls,102,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,372,23,257,92
+Falls,102,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,188,7,119,62
+Falls,102,"Justice, Supreme Court, Place 2",2,,Under Votes,20,1,9,10
+Falls,102,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Falls,102,"Justice, Supreme Court, Place 4",4,REP,John Devine,370,22,262,86
+Falls,102,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,195,8,117,70
+Falls,102,"Justice, Supreme Court, Place 4",4,,Under Votes,15,1,6,8
+Falls,102,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Falls,102,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,356,22,253,81
+Falls,102,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,187,8,113,66
+Falls,102,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,19,0,12,7
+Falls,102,"Justice, Supreme Court, Place 6",6,,Under Votes,18,1,7,10
+Falls,102,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Falls,102,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,366,22,260,84
+Falls,102,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,195,8,117,70
+Falls,102,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,19,1,8,10
+Falls,102,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Falls,102,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,367,22,258,87
+Falls,102,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,191,8,118,65
+Falls,102,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,22,1,9,12
+Falls,102,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Falls,102,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,372,22,259,91
+Falls,102,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,181,7,113,61
+Falls,102,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,27,2,13,12
+Falls,102,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Falls,102,"Member, State Board of Education, District 10",10,REP,Tom Maynard,367,22,259,86
+Falls,102,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,185,6,113,66
+Falls,102,"Member, State Board of Education, District 10",10,,Under Votes,28,3,13,12
+Falls,102,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Falls,102,State Representative,13,REP,Angelia Orr,366,20,256,90
+Falls,102,State Representative,13,DEM,Albert Hunter,186,10,114,62
+Falls,102,State Representative,13,,Under Votes,28,1,15,12
+Falls,102,State Representative,13,,Over Votes,0,0,0,0
+Falls,102,"Chief Justice, 10th Court of Appeals District",,REP,Matt Johnson,433,24,298,111
+Falls,102,"Chief Justice, 10th Court of Appeals District",,,Under Votes,147,7,87,53
+Falls,102,"Chief Justice, 10th Court of Appeals District",,,Over Votes,0,0,0,0
+Falls,102,County Attorney,,REP,Jody Gilliam,423,25,289,109
+Falls,102,County Attorney,,,Under Votes,157,6,96,55
+Falls,102,County Attorney,,,Over Votes,0,0,0,0
+Falls,102,Sheriff,,REP,Jason Campbell,365,20,256,89
+Falls,102,Sheriff,,DEM,Joe Lopez,199,10,119,70
+Falls,102,Sheriff,,,Under Votes,16,1,10,5
+Falls,102,Sheriff,,,Over Votes,0,0,0,0
+Falls,102,County Tax Assessor-Collector,,REP,Kayci Nehring,439,26,296,117
+Falls,102,County Tax Assessor-Collector,,,Under Votes,141,5,89,47
+Falls,102,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Falls,102,"County Commissioner, Precinct 1",,REP,Milton Albright,430,24,291,115
+Falls,102,"County Commissioner, Precinct 1",,,Under Votes,150,7,94,49
+Falls,102,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Falls,102,"Constable, Precinct 1",,REP,Jonathan Shoemaker,421,25,283,113
+Falls,102,"Constable, Precinct 1",,,Under Votes,159,6,102,51
+Falls,102,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Falls,103,Registered Voters,,,,783,,,
+Falls,103,Ballots Cast,,,,534,,,
+Falls,103,President,,REP,Donald J. Trump JD Vance,466,15,268,183
+Falls,103,President,,DEM,Kamala D. Harris Tim Walz,66,9,37,20
+Falls,103,President,,LIB,Chase Oliver Mike ter Maat,2,0,1,1
+Falls,103,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Falls,103,President,,,Under Votes,0,0,0,0
+Falls,103,President,,,Over Votes,0,0,0,0
+Falls,103,U.S. Senate,,REP,Ted Cruz,439,15,256,168
+Falls,103,U.S. Senate,,DEM,Colin Allred,83,9,45,29
+Falls,103,U.S. Senate,,LIB,Ted Brown,8,0,2,6
+Falls,103,U.S. Senate,,,Under Votes,4,0,3,1
+Falls,103,U.S. Senate,,,Over Votes,0,0,0,0
+Falls,103,U.S. House,17,REP,Pete Sessions,466,15,269,182
+Falls,103,U.S. House,17,DEM,Mark Lorenzen,61,9,31,21
+Falls,103,U.S. House,17,,Under Votes,7,0,6,1
+Falls,103,U.S. House,17,,Over Votes,0,0,0,0
+Falls,103,Railroad Commissioner,,REP,Christi Craddick,447,14,263,170
+Falls,103,Railroad Commissioner,,DEM,Katherine Culbert,56,9,26,21
+Falls,103,Railroad Commissioner,,LIB,Hawk Dunlap,18,0,8,10
+Falls,103,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,2,1
+Falls,103,Railroad Commissioner,,,Under Votes,10,1,7,2
+Falls,103,Railroad Commissioner,,,Over Votes,0,0,0,0
+Falls,103,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,461,14,267,180
+Falls,103,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,60,9,30,21
+Falls,103,"Justice, Supreme Court, Place 2",2,,Under Votes,13,1,9,3
+Falls,103,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Falls,103,"Justice, Supreme Court, Place 4",4,REP,John Devine,454,14,263,177
+Falls,103,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,65,9,33,23
+Falls,103,"Justice, Supreme Court, Place 4",4,,Under Votes,15,1,10,4
+Falls,103,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Falls,103,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,449,13,263,173
+Falls,103,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,57,10,28,19
+Falls,103,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,16,1,6,9
+Falls,103,"Justice, Supreme Court, Place 6",6,,Under Votes,11,0,9,2
+Falls,103,"Justice, Supreme Court, Place 6",6,,Over Votes,1,0,0,1
+Falls,103,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,455,15,261,179
+Falls,103,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,65,9,33,23
+Falls,103,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,14,0,12,2
+Falls,103,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Falls,103,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,457,15,261,181
+Falls,103,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,61,9,31,21
+Falls,103,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,16,0,14,2
+Falls,103,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Falls,103,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,461,16,263,182
+Falls,103,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,56,8,31,17
+Falls,103,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,16,0,11,5
+Falls,103,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,0,1,0
+Falls,103,"Member, State Board of Education, District 10",10,REP,Tom Maynard,457,17,264,176
+Falls,103,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,62,7,31,24
+Falls,103,"Member, State Board of Education, District 10",10,,Under Votes,15,0,11,4
+Falls,103,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Falls,103,State Representative,13,REP,Angelia Orr,456,13,262,181
+Falls,103,State Representative,13,DEM,Albert Hunter,62,10,34,18
+Falls,103,State Representative,13,,Under Votes,16,1,10,5
+Falls,103,State Representative,13,,Over Votes,0,0,0,0
+Falls,103,"Chief Justice, 10th Court of Appeals District",,REP,Matt Johnson,472,17,269,186
+Falls,103,"Chief Justice, 10th Court of Appeals District",,,Under Votes,62,7,37,18
+Falls,103,"Chief Justice, 10th Court of Appeals District",,,Over Votes,0,0,0,0
+Falls,103,County Attorney,,REP,Jody Gilliam,455,20,255,180
+Falls,103,County Attorney,,,Under Votes,79,4,51,24
+Falls,103,County Attorney,,,Over Votes,0,0,0,0
+Falls,103,Sheriff,,REP,Jason Campbell,450,16,263,171
+Falls,103,Sheriff,,DEM,Joe Lopez,74,8,35,31
+Falls,103,Sheriff,,,Under Votes,9,0,8,1
+Falls,103,Sheriff,,,Over Votes,1,0,0,1
+Falls,103,County Tax Assessor-Collector,,REP,Kayci Nehring,465,21,261,183
+Falls,103,County Tax Assessor-Collector,,,Under Votes,69,3,45,21
+Falls,103,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Falls,103,"County Commissioner, Precinct 1",,REP,Milton Albright,468,19,262,187
+Falls,103,"County Commissioner, Precinct 1",,,Under Votes,66,5,44,17
+Falls,103,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Falls,103,"Constable, Precinct 1",,REP,Jonathan Shoemaker,473,19,270,184
+Falls,103,"Constable, Precinct 1",,,Under Votes,61,5,36,20
+Falls,103,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Falls,201,Registered Voters,,,,703,,,
+Falls,201,Ballots Cast,,,,502,,,
+Falls,201,President,,REP,Donald J. Trump JD Vance,431,2,258,171
+Falls,201,President,,DEM,Kamala D. Harris Tim Walz,68,8,47,13
+Falls,201,President,,LIB,Chase Oliver Mike ter Maat,2,0,2,0
+Falls,201,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Falls,201,President,,,Under Votes,0,0,0,0
+Falls,201,President,,,Over Votes,1,0,0,1
+Falls,201,U.S. Senate,,REP,Ted Cruz,419,2,253,164
+Falls,201,U.S. Senate,,DEM,Colin Allred,74,8,49,17
+Falls,201,U.S. Senate,,LIB,Ted Brown,8,0,4,4
+Falls,201,U.S. Senate,,,Under Votes,1,0,1,0
+Falls,201,U.S. Senate,,,Over Votes,0,0,0,0
+Falls,201,U.S. House,17,REP,Pete Sessions,425,2,254,169
+Falls,201,U.S. House,17,DEM,Mark Lorenzen,74,8,50,16
+Falls,201,U.S. House,17,,Under Votes,3,0,3,0
+Falls,201,U.S. House,17,,Over Votes,0,0,0,0
+Falls,201,Railroad Commissioner,,REP,Christi Craddick,406,2,245,159
+Falls,201,Railroad Commissioner,,DEM,Katherine Culbert,66,8,43,15
+Falls,201,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,10,7
+Falls,201,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,2,1
+Falls,201,Railroad Commissioner,,,Under Votes,10,0,7,3
+Falls,201,Railroad Commissioner,,,Over Votes,0,0,0,0
+Falls,201,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,420,2,253,165
+Falls,201,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,73,8,48,17
+Falls,201,"Justice, Supreme Court, Place 2",2,,Under Votes,9,0,6,3
+Falls,201,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Falls,201,"Justice, Supreme Court, Place 4",4,REP,John Devine,417,2,250,165
+Falls,201,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,74,8,49,17
+Falls,201,"Justice, Supreme Court, Place 4",4,,Under Votes,11,0,8,3
+Falls,201,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Falls,201,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,413,2,250,161
+Falls,201,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,70,8,47,15
+Falls,201,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,10,0,4,6
+Falls,201,"Justice, Supreme Court, Place 6",6,,Under Votes,9,0,6,3
+Falls,201,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Falls,201,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,418,2,251,165
+Falls,201,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,74,8,49,17
+Falls,201,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,10,0,7,3
+Falls,201,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Falls,201,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,421,2,252,167
+Falls,201,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,69,8,46,15
+Falls,201,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,12,0,9,3
+Falls,201,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Falls,201,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,426,2,256,168
+Falls,201,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,66,8,44,14
+Falls,201,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,10,0,7,3
+Falls,201,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Falls,201,"Member, State Board of Education, District 10",10,REP,Tom Maynard,424,2,255,167
+Falls,201,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,66,8,45,13
+Falls,201,"Member, State Board of Education, District 10",10,,Under Votes,12,0,7,5
+Falls,201,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Falls,201,State Representative,13,REP,Angelia Orr,421,2,252,167
+Falls,201,State Representative,13,DEM,Albert Hunter,71,8,49,14
+Falls,201,State Representative,13,,Under Votes,10,0,6,4
+Falls,201,State Representative,13,,Over Votes,0,0,0,0
+Falls,201,"Chief Justice, 10th Court of Appeals District",,REP,Matt Johnson,443,5,268,170
+Falls,201,"Chief Justice, 10th Court of Appeals District",,,Under Votes,59,5,39,15
+Falls,201,"Chief Justice, 10th Court of Appeals District",,,Over Votes,0,0,0,0
+Falls,201,County Attorney,,REP,Jody Gilliam,439,6,265,168
+Falls,201,County Attorney,,,Under Votes,63,4,42,17
+Falls,201,County Attorney,,,Over Votes,0,0,0,0
+Falls,201,Sheriff,,REP,Jason Campbell,396,4,244,148
+Falls,201,Sheriff,,DEM,Joe Lopez,85,6,52,27
+Falls,201,Sheriff,,,Under Votes,20,0,11,9
+Falls,201,Sheriff,,,Over Votes,1,0,0,1
+Falls,201,County Tax Assessor-Collector,,REP,Kayci Nehring,441,5,260,176
+Falls,201,County Tax Assessor-Collector,,,Under Votes,61,5,47,9
+Falls,201,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Falls,201,"Constable, Precinct 2",,DEM,Marion Humphrey,290,9,163,118
+Falls,201,"Constable, Precinct 2",,,Under Votes,212,1,144,67
+Falls,201,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Falls,202,Registered Voters,,,,1323,,,
+Falls,202,Ballots Cast,,,,574,,,
+Falls,202,President,,REP,Donald J. Trump JD Vance,182,11,127,44
+Falls,202,President,,DEM,Kamala D. Harris Tim Walz,385,23,236,126
+Falls,202,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Falls,202,President,,GRN,Jill Stein Rudolph Ware,3,0,1,2
+Falls,202,President,,,Under Votes,4,1,1,2
+Falls,202,President,,,Over Votes,0,0,0,0
+Falls,202,U.S. Senate,,REP,Ted Cruz,177,10,125,42
+Falls,202,U.S. Senate,,DEM,Colin Allred,384,23,232,129
+Falls,202,U.S. Senate,,LIB,Ted Brown,9,2,4,3
+Falls,202,U.S. Senate,,,Under Votes,2,0,2,0
+Falls,202,U.S. Senate,,,Over Votes,2,0,2,0
+Falls,202,U.S. House,17,REP,Pete Sessions,194,13,134,47
+Falls,202,U.S. House,17,DEM,Mark Lorenzen,366,22,225,119
+Falls,202,U.S. House,17,,Under Votes,13,0,5,8
+Falls,202,U.S. House,17,,Over Votes,1,0,1,0
+Falls,202,Railroad Commissioner,,REP,Christi Craddick,170,11,121,38
+Falls,202,Railroad Commissioner,,DEM,Katherine Culbert,364,22,223,119
+Falls,202,Railroad Commissioner,,LIB,Hawk Dunlap,13,1,7,5
+Falls,202,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,4,7
+Falls,202,Railroad Commissioner,,,Under Votes,13,0,8,5
+Falls,202,Railroad Commissioner,,,Over Votes,3,1,2,0
+Falls,202,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,184,11,130,43
+Falls,202,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,370,23,225,122
+Falls,202,"Justice, Supreme Court, Place 2",2,,Under Votes,20,1,10,9
+Falls,202,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Falls,202,"Justice, Supreme Court, Place 4",4,REP,John Devine,184,11,130,43
+Falls,202,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,372,24,224,124
+Falls,202,"Justice, Supreme Court, Place 4",4,,Under Votes,18,0,11,7
+Falls,202,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Falls,202,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,170,9,120,41
+Falls,202,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,368,24,224,120
+Falls,202,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,20,1,12,7
+Falls,202,"Justice, Supreme Court, Place 6",6,,Under Votes,16,1,9,6
+Falls,202,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Falls,202,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,180,11,125,44
+Falls,202,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,376,24,229,123
+Falls,202,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,17,0,11,6
+Falls,202,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,0,0,1
+Falls,202,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,186,11,127,48
+Falls,202,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,370,24,225,121
+Falls,202,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,18,0,13,5
+Falls,202,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Falls,202,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,187,11,128,48
+Falls,202,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,366,23,224,119
+Falls,202,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,21,1,13,7
+Falls,202,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Falls,202,"Member, State Board of Education, District 10",10,REP,Tom Maynard,179,11,124,44
+Falls,202,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,374,24,226,124
+Falls,202,"Member, State Board of Education, District 10",10,,Under Votes,20,0,14,6
+Falls,202,"Member, State Board of Education, District 10",10,,Over Votes,1,0,1,0
+Falls,202,State Representative,13,REP,Angelia Orr,184,10,129,45
+Falls,202,State Representative,13,DEM,Albert Hunter,371,24,226,121
+Falls,202,State Representative,13,,Under Votes,18,1,10,7
+Falls,202,State Representative,13,,Over Votes,1,0,0,1
+Falls,202,"Chief Justice, 10th Court of Appeals District",,REP,Matt Johnson,293,16,182,95
+Falls,202,"Chief Justice, 10th Court of Appeals District",,,Under Votes,281,19,183,79
+Falls,202,"Chief Justice, 10th Court of Appeals District",,,Over Votes,0,0,0,0
+Falls,202,County Attorney,,REP,Jody Gilliam,284,15,179,90
+Falls,202,County Attorney,,,Under Votes,290,20,186,84
+Falls,202,County Attorney,,,Over Votes,0,0,0,0
+Falls,202,Sheriff,,REP,Jason Campbell,186,12,127,47
+Falls,202,Sheriff,,DEM,Joe Lopez,365,20,224,121
+Falls,202,Sheriff,,,Under Votes,23,3,14,6
+Falls,202,Sheriff,,,Over Votes,0,0,0,0
+Falls,202,County Tax Assessor-Collector,,REP,Kayci Nehring,311,17,195,99
+Falls,202,County Tax Assessor-Collector,,,Under Votes,263,18,170,75
+Falls,202,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Falls,202,"Constable, Precinct 2",,DEM,Marion Humphrey,489,29,305,155
+Falls,202,"Constable, Precinct 2",,,Under Votes,85,6,60,19
+Falls,202,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Falls,203,Registered Voters,,,,535,,,
+Falls,203,Ballots Cast,,,,233,,,
+Falls,203,President,,REP,Donald J. Trump JD Vance,37,1,26,10
+Falls,203,President,,DEM,Kamala D. Harris Tim Walz,192,15,111,66
+Falls,203,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Falls,203,President,,GRN,Jill Stein Rudolph Ware,2,0,1,1
+Falls,203,President,,,Under Votes,1,0,0,1
+Falls,203,President,,,Over Votes,0,0,0,0
+Falls,203,U.S. Senate,,REP,Ted Cruz,37,1,29,7
+Falls,203,U.S. Senate,,DEM,Colin Allred,188,15,107,66
+Falls,203,U.S. Senate,,LIB,Ted Brown,5,0,2,3
+Falls,203,U.S. Senate,,,Under Votes,3,0,1,2
+Falls,203,U.S. Senate,,,Over Votes,0,0,0,0
+Falls,203,U.S. House,17,REP,Pete Sessions,41,1,29,11
+Falls,203,U.S. House,17,DEM,Mark Lorenzen,184,15,107,62
+Falls,203,U.S. House,17,,Under Votes,8,0,3,5
+Falls,203,U.S. House,17,,Over Votes,0,0,0,0
+Falls,203,Railroad Commissioner,,REP,Christi Craddick,38,1,27,10
+Falls,203,Railroad Commissioner,,DEM,Katherine Culbert,181,15,106,60
+Falls,203,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,0,1
+Falls,203,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,3,2
+Falls,203,Railroad Commissioner,,,Under Votes,8,0,3,5
+Falls,203,Railroad Commissioner,,,Over Votes,0,0,0,0
+Falls,203,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,39,1,28,10
+Falls,203,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,185,15,108,62
+Falls,203,"Justice, Supreme Court, Place 2",2,,Under Votes,9,0,3,6
+Falls,203,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Falls,203,"Justice, Supreme Court, Place 4",4,REP,John Devine,43,1,29,13
+Falls,203,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,183,15,108,60
+Falls,203,"Justice, Supreme Court, Place 4",4,,Under Votes,7,0,2,5
+Falls,203,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Falls,203,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,36,1,26,9
+Falls,203,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,186,15,109,62
+Falls,203,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,5,0,3,2
+Falls,203,"Justice, Supreme Court, Place 6",6,,Under Votes,6,0,1,5
+Falls,203,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Falls,203,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,39,1,28,10
+Falls,203,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,186,15,110,61
+Falls,203,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,8,0,1,7
+Falls,203,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Falls,203,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,41,1,30,10
+Falls,203,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,184,15,108,61
+Falls,203,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,8,0,1,7
+Falls,203,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Falls,203,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,40,1,30,9
+Falls,203,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,182,14,106,62
+Falls,203,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,11,1,3,7
+Falls,203,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Falls,203,"Member, State Board of Education, District 10",10,REP,Tom Maynard,40,1,28,11
+Falls,203,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,184,14,110,60
+Falls,203,"Member, State Board of Education, District 10",10,,Under Votes,9,1,1,7
+Falls,203,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Falls,203,State Representative,13,REP,Angelia Orr,41,1,28,12
+Falls,203,State Representative,13,DEM,Albert Hunter,184,14,110,60
+Falls,203,State Representative,13,,Under Votes,8,1,1,6
+Falls,203,State Representative,13,,Over Votes,0,0,0,0
+Falls,203,"Chief Justice, 10th Court of Appeals District",,REP,Matt Johnson,88,2,59,27
+Falls,203,"Chief Justice, 10th Court of Appeals District",,,Under Votes,145,14,80,51
+Falls,203,"Chief Justice, 10th Court of Appeals District",,,Over Votes,0,0,0,0
+Falls,203,County Attorney,,REP,Jody Gilliam,88,2,60,26
+Falls,203,County Attorney,,,Under Votes,145,14,79,52
+Falls,203,County Attorney,,,Over Votes,0,0,0,0
+Falls,203,Sheriff,,REP,Jason Campbell,50,3,28,19
+Falls,203,Sheriff,,DEM,Joe Lopez,177,12,110,55
+Falls,203,Sheriff,,,Under Votes,6,1,1,4
+Falls,203,Sheriff,,,Over Votes,0,0,0,0
+Falls,203,County Tax Assessor-Collector,,REP,Kayci Nehring,99,1,64,34
+Falls,203,County Tax Assessor-Collector,,,Under Votes,134,15,75,44
+Falls,203,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Falls,203,"Constable, Precinct 2",,DEM,Marion Humphrey,211,14,128,69
+Falls,203,"Constable, Precinct 2",,,Under Votes,22,2,11,9
+Falls,203,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Falls,301,Registered Voters,,,,883,,,
+Falls,301,Ballots Cast,,,,597,,,
+Falls,301,President,,REP,Donald J. Trump JD Vance,480,13,299,168
+Falls,301,President,,DEM,Kamala D. Harris Tim Walz,110,6,67,37
+Falls,301,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+Falls,301,President,,GRN,Jill Stein Rudolph Ware,2,0,2,0
+Falls,301,President,,,Under Votes,3,0,1,2
+Falls,301,President,,,Over Votes,1,0,0,1
+Falls,301,U.S. Senate,,REP,Ted Cruz,455,13,289,153
+Falls,301,U.S. Senate,,DEM,Colin Allred,123,6,72,45
+Falls,301,U.S. Senate,,LIB,Ted Brown,16,0,8,8
+Falls,301,U.S. Senate,,,Under Votes,3,0,0,3
+Falls,301,U.S. Senate,,,Over Votes,0,0,0,0
+Falls,301,U.S. House,17,REP,Pete Sessions,469,13,298,158
+Falls,301,U.S. House,17,DEM,Mark Lorenzen,110,6,64,40
+Falls,301,U.S. House,17,,Under Votes,18,0,7,11
+Falls,301,U.S. House,17,,Over Votes,0,0,0,0
+Falls,301,Railroad Commissioner,,REP,Christi Craddick,451,13,287,151
+Falls,301,Railroad Commissioner,,DEM,Katherine Culbert,97,6,57,34
+Falls,301,Railroad Commissioner,,LIB,Hawk Dunlap,24,0,11,13
+Falls,301,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,4,3
+Falls,301,Railroad Commissioner,,,Under Votes,18,0,10,8
+Falls,301,Railroad Commissioner,,,Over Votes,0,0,0,0
+Falls,301,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,475,13,295,167
+Falls,301,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,99,6,59,34
+Falls,301,"Justice, Supreme Court, Place 2",2,,Under Votes,23,0,15,8
+Falls,301,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Falls,301,"Justice, Supreme Court, Place 4",4,REP,John Devine,460,13,288,159
+Falls,301,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,111,6,65,40
+Falls,301,"Justice, Supreme Court, Place 4",4,,Under Votes,26,0,16,10
+Falls,301,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Falls,301,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,450,13,284,153
+Falls,301,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,105,6,60,39
+Falls,301,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,15,0,12,3
+Falls,301,"Justice, Supreme Court, Place 6",6,,Under Votes,27,0,13,14
+Falls,301,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Falls,301,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,460,13,290,157
+Falls,301,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,111,6,65,40
+Falls,301,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,26,0,14,12
+Falls,301,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Falls,301,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,466,13,294,159
+Falls,301,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,103,6,61,36
+Falls,301,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,28,0,14,14
+Falls,301,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Falls,301,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,470,13,294,163
+Falls,301,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,99,6,60,33
+Falls,301,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,27,0,15,12
+Falls,301,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,0,0,1
+Falls,301,"Member, State Board of Education, District 10",10,REP,Tom Maynard,463,13,293,157
+Falls,301,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,104,6,61,37
+Falls,301,"Member, State Board of Education, District 10",10,,Under Votes,30,0,15,15
+Falls,301,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Falls,301,State Representative,13,REP,Angelia Orr,459,13,287,159
+Falls,301,State Representative,13,DEM,Albert Hunter,108,6,66,36
+Falls,301,State Representative,13,,Under Votes,30,0,16,14
+Falls,301,State Representative,13,,Over Votes,0,0,0,0
+Falls,301,"Chief Justice, 10th Court of Appeals District",,REP,Matt Johnson,481,15,300,166
+Falls,301,"Chief Justice, 10th Court of Appeals District",,,Under Votes,116,4,69,43
+Falls,301,"Chief Justice, 10th Court of Appeals District",,,Over Votes,0,0,0,0
+Falls,301,County Attorney,,REP,Jody Gilliam,452,13,281,158
+Falls,301,County Attorney,,,Under Votes,145,6,88,51
+Falls,301,County Attorney,,,Over Votes,0,0,0,0
+Falls,301,Sheriff,,REP,Jason Campbell,463,14,289,160
+Falls,301,Sheriff,,DEM,Joe Lopez,112,5,66,41
+Falls,301,Sheriff,,,Under Votes,22,0,14,8
+Falls,301,Sheriff,,,Over Votes,0,0,0,0
+Falls,301,County Tax Assessor-Collector,,REP,Kayci Nehring,488,15,304,169
+Falls,301,County Tax Assessor-Collector,,,Under Votes,109,4,65,40
+Falls,301,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Falls,301,"County Commissioner, Precinct 3",,REP,Jason Willberg,490,15,299,176
+Falls,301,"County Commissioner, Precinct 3",,,Under Votes,107,4,70,33
+Falls,301,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Falls,301,"Constable, Precinct 3",,REP,Jerry Loden,476,15,299,162
+Falls,301,"Constable, Precinct 3",,,Under Votes,121,4,70,47
+Falls,301,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Falls,302,Registered Voters,,,,1381,,,
+Falls,302,Ballots Cast,,,,817,,,
+Falls,302,President,,REP,Donald J. Trump JD Vance,633,11,286,336
+Falls,302,President,,DEM,Kamala D. Harris Tim Walz,175,15,49,111
+Falls,302,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+Falls,302,President,,GRN,Jill Stein Rudolph Ware,2,0,0,2
+Falls,302,President,,,Under Votes,4,0,2,2
+Falls,302,President,,,Over Votes,2,0,0,2
+Falls,302,U.S. Senate,,REP,Ted Cruz,613,11,280,322
+Falls,302,U.S. Senate,,DEM,Colin Allred,175,14,52,109
+Falls,302,U.S. Senate,,LIB,Ted Brown,21,0,3,18
+Falls,302,U.S. Senate,,,Under Votes,6,1,2,3
+Falls,302,U.S. Senate,,,Over Votes,2,0,0,2
+Falls,302,U.S. House,17,REP,Pete Sessions,635,9,282,344
+Falls,302,U.S. House,17,DEM,Mark Lorenzen,157,16,47,94
+Falls,302,U.S. House,17,,Under Votes,25,1,8,16
+Falls,302,U.S. House,17,,Over Votes,0,0,0,0
+Falls,302,Railroad Commissioner,,REP,Christi Craddick,589,11,269,309
+Falls,302,Railroad Commissioner,,DEM,Katherine Culbert,145,13,39,93
+Falls,302,Railroad Commissioner,,LIB,Hawk Dunlap,32,0,11,21
+Falls,302,Railroad Commissioner,,GRN,Eddie Espinoza,17,1,3,13
+Falls,302,Railroad Commissioner,,,Under Votes,33,1,15,17
+Falls,302,Railroad Commissioner,,,Over Votes,1,0,0,1
+Falls,302,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,619,11,280,328
+Falls,302,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,164,14,44,106
+Falls,302,"Justice, Supreme Court, Place 2",2,,Under Votes,34,1,13,20
+Falls,302,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Falls,302,"Justice, Supreme Court, Place 4",4,REP,John Devine,614,9,279,326
+Falls,302,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,165,16,45,104
+Falls,302,"Justice, Supreme Court, Place 4",4,,Under Votes,38,1,13,24
+Falls,302,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Falls,302,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,604,9,278,317
+Falls,302,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,147,16,40,91
+Falls,302,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,23,0,5,18
+Falls,302,"Justice, Supreme Court, Place 6",6,,Under Votes,43,1,14,28
+Falls,302,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Falls,302,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,608,11,281,316
+Falls,302,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,164,14,43,107
+Falls,302,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,44,1,13,30
+Falls,302,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,0,0,1
+Falls,302,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,609,11,281,317
+Falls,302,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,159,14,41,104
+Falls,302,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,49,1,15,33
+Falls,302,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Falls,302,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,619,11,281,327
+Falls,302,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,146,14,41,91
+Falls,302,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,51,1,15,35
+Falls,302,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,1,0,0,1
+Falls,302,"Member, State Board of Education, District 10",10,REP,Tom Maynard,613,11,278,324
+Falls,302,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,157,14,42,101
+Falls,302,"Member, State Board of Education, District 10",10,,Under Votes,47,1,17,29
+Falls,302,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Falls,302,State Representative,13,REP,Angelia Orr,609,11,279,319
+Falls,302,State Representative,13,DEM,Albert Hunter,162,14,43,105
+Falls,302,State Representative,13,,Under Votes,45,1,15,29
+Falls,302,State Representative,13,,Over Votes,1,0,0,1
+Falls,302,"Chief Justice, 10th Court of Appeals District",,REP,Matt Johnson,650,15,283,352
+Falls,302,"Chief Justice, 10th Court of Appeals District",,,Under Votes,167,11,54,102
+Falls,302,"Chief Justice, 10th Court of Appeals District",,,Over Votes,0,0,0,0
+Falls,302,County Attorney,,REP,Jody Gilliam,631,14,269,348
+Falls,302,County Attorney,,,Under Votes,186,12,68,106
+Falls,302,County Attorney,,,Over Votes,0,0,0,0
+Falls,302,Sheriff,,REP,Jason Campbell,624,7,281,336
+Falls,302,Sheriff,,DEM,Joe Lopez,164,15,44,105
+Falls,302,Sheriff,,,Under Votes,29,4,12,13
+Falls,302,Sheriff,,,Over Votes,0,0,0,0
+Falls,302,County Tax Assessor-Collector,,REP,Kayci Nehring,671,16,287,368
+Falls,302,County Tax Assessor-Collector,,,Under Votes,146,10,50,86
+Falls,302,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Falls,302,"County Commissioner, Precinct 3",,REP,Jason Willberg,674,16,286,372
+Falls,302,"County Commissioner, Precinct 3",,,Under Votes,143,10,51,82
+Falls,302,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Falls,302,"Constable, Precinct 3",,REP,Jerry Loden,672,16,282,374
+Falls,302,"Constable, Precinct 3",,,Under Votes,145,10,55,80
+Falls,302,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Falls,303,Registered Voters,,,,456,,,
+Falls,303,Ballots Cast,,,,374,,,
+Falls,303,President,,REP,Donald J. Trump JD Vance,341,2,120,219
+Falls,303,President,,DEM,Kamala D. Harris Tim Walz,29,1,14,14
+Falls,303,President,,LIB,Chase Oliver Mike ter Maat,2,0,0,2
+Falls,303,President,,GRN,Jill Stein Rudolph Ware,1,1,0,0
+Falls,303,President,,,Under Votes,1,0,0,1
+Falls,303,President,,,Over Votes,0,0,0,0
+Falls,303,U.S. Senate,,REP,Ted Cruz,338,1,119,218
+Falls,303,U.S. Senate,,DEM,Colin Allred,27,3,12,12
+Falls,303,U.S. Senate,,LIB,Ted Brown,6,0,2,4
+Falls,303,U.S. Senate,,,Under Votes,3,0,1,2
+Falls,303,U.S. Senate,,,Over Votes,0,0,0,0
+Falls,303,U.S. House,17,REP,Pete Sessions,343,2,122,219
+Falls,303,U.S. House,17,DEM,Mark Lorenzen,22,2,10,10
+Falls,303,U.S. House,17,,Under Votes,9,0,2,7
+Falls,303,U.S. House,17,,Over Votes,0,0,0,0
+Falls,303,Railroad Commissioner,,REP,Christi Craddick,333,2,119,212
+Falls,303,Railroad Commissioner,,DEM,Katherine Culbert,23,1,9,13
+Falls,303,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,3,5
+Falls,303,Railroad Commissioner,,GRN,Eddie Espinoza,3,1,0,2
+Falls,303,Railroad Commissioner,,,Under Votes,7,0,3,4
+Falls,303,Railroad Commissioner,,,Over Votes,0,0,0,0
+Falls,303,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,343,2,123,218
+Falls,303,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,20,2,9,9
+Falls,303,"Justice, Supreme Court, Place 2",2,,Under Votes,11,0,2,9
+Falls,303,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Falls,303,"Justice, Supreme Court, Place 4",4,REP,John Devine,343,2,123,218
+Falls,303,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,22,2,9,11
+Falls,303,"Justice, Supreme Court, Place 4",4,,Under Votes,9,0,2,7
+Falls,303,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Falls,303,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,329,2,115,212
+Falls,303,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,21,2,9,10
+Falls,303,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,10,0,4,6
+Falls,303,"Justice, Supreme Court, Place 6",6,,Under Votes,14,0,6,8
+Falls,303,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Falls,303,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,338,2,120,216
+Falls,303,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,23,2,9,12
+Falls,303,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,13,0,5,8
+Falls,303,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Falls,303,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,339,2,119,218
+Falls,303,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,21,2,9,10
+Falls,303,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,14,0,6,8
+Falls,303,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Falls,303,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,338,2,120,216
+Falls,303,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,19,2,8,9
+Falls,303,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,17,0,6,11
+Falls,303,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Falls,303,"Member, State Board of Education, District 10",10,REP,Tom Maynard,338,2,121,215
+Falls,303,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,22,2,9,11
+Falls,303,"Member, State Board of Education, District 10",10,,Under Votes,14,0,4,10
+Falls,303,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Falls,303,State Representative,13,REP,Angelia Orr,334,2,119,213
+Falls,303,State Representative,13,DEM,Albert Hunter,26,2,12,12
+Falls,303,State Representative,13,,Under Votes,14,0,3,11
+Falls,303,State Representative,13,,Over Votes,0,0,0,0
+Falls,303,"Chief Justice, 10th Court of Appeals District",,REP,Matt Johnson,334,3,120,211
+Falls,303,"Chief Justice, 10th Court of Appeals District",,,Under Votes,40,1,14,25
+Falls,303,"Chief Justice, 10th Court of Appeals District",,,Over Votes,0,0,0,0
+Falls,303,County Attorney,,REP,Jody Gilliam,337,2,118,217
+Falls,303,County Attorney,,,Under Votes,37,2,16,19
+Falls,303,County Attorney,,,Over Votes,0,0,0,0
+Falls,303,Sheriff,,REP,Jason Campbell,314,2,109,203
+Falls,303,Sheriff,,DEM,Joe Lopez,55,2,23,30
+Falls,303,Sheriff,,,Under Votes,5,0,2,3
+Falls,303,Sheriff,,,Over Votes,0,0,0,0
+Falls,303,County Tax Assessor-Collector,,REP,Kayci Nehring,336,2,118,216
+Falls,303,County Tax Assessor-Collector,,,Under Votes,38,2,16,20
+Falls,303,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Falls,303,"County Commissioner, Precinct 3",,REP,Jason Willberg,344,2,120,222
+Falls,303,"County Commissioner, Precinct 3",,,Under Votes,30,2,14,14
+Falls,303,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Falls,303,"Constable, Precinct 3",,REP,Jerry Loden,343,2,115,226
+Falls,303,"Constable, Precinct 3",,,Under Votes,31,2,19,10
+Falls,303,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+Falls,401,Registered Voters,,,,687,,,
+Falls,401,Ballots Cast,,,,486,,,
+Falls,401,President,,REP,Donald J. Trump JD Vance,431,7,238,186
+Falls,401,President,,DEM,Kamala D. Harris Tim Walz,44,2,28,14
+Falls,401,President,,LIB,Chase Oliver Mike ter Maat,5,0,3,2
+Falls,401,President,,GRN,Jill Stein Rudolph Ware,2,0,0,2
+Falls,401,President,,,Under Votes,4,1,2,1
+Falls,401,President,,,Over Votes,0,0,0,0
+Falls,401,U.S. Senate,,REP,Ted Cruz,425,8,235,182
+Falls,401,U.S. Senate,,DEM,Colin Allred,45,2,28,15
+Falls,401,U.S. Senate,,LIB,Ted Brown,13,0,7,6
+Falls,401,U.S. Senate,,,Under Votes,3,0,1,2
+Falls,401,U.S. Senate,,,Over Votes,0,0,0,0
+Falls,401,U.S. House,17,REP,Pete Sessions,441,8,243,190
+Falls,401,U.S. House,17,DEM,Mark Lorenzen,36,2,24,10
+Falls,401,U.S. House,17,,Under Votes,9,0,4,5
+Falls,401,U.S. House,17,,Over Votes,0,0,0,0
+Falls,401,Railroad Commissioner,,REP,Christi Craddick,415,8,231,176
+Falls,401,Railroad Commissioner,,DEM,Katherine Culbert,36,2,27,7
+Falls,401,Railroad Commissioner,,LIB,Hawk Dunlap,18,0,7,11
+Falls,401,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,0,2
+Falls,401,Railroad Commissioner,,,Under Votes,15,0,6,9
+Falls,401,Railroad Commissioner,,,Over Votes,0,0,0,0
+Falls,401,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,435,8,239,188
+Falls,401,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,39,2,26,11
+Falls,401,"Justice, Supreme Court, Place 2",2,,Under Votes,12,0,6,6
+Falls,401,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Falls,401,"Justice, Supreme Court, Place 4",4,REP,John Devine,428,7,236,185
+Falls,401,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,43,3,27,13
+Falls,401,"Justice, Supreme Court, Place 4",4,,Under Votes,15,0,8,7
+Falls,401,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Falls,401,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,424,8,234,182
+Falls,401,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,38,2,27,9
+Falls,401,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,8,0,4,4
+Falls,401,"Justice, Supreme Court, Place 6",6,,Under Votes,16,0,6,10
+Falls,401,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Falls,401,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,431,8,239,184
+Falls,401,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,39,2,26,11
+Falls,401,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,16,0,6,10
+Falls,401,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Falls,401,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,426,7,235,184
+Falls,401,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,42,3,29,10
+Falls,401,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,18,0,7,11
+Falls,401,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Falls,401,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,429,7,238,184
+Falls,401,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,41,3,27,11
+Falls,401,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,16,0,6,10
+Falls,401,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Falls,401,"Member, State Board of Education, District 10",10,REP,Tom Maynard,430,8,240,182
+Falls,401,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,39,2,26,11
+Falls,401,"Member, State Board of Education, District 10",10,,Under Votes,17,0,5,12
+Falls,401,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Falls,401,State Representative,13,REP,Angelia Orr,425,8,235,182
+Falls,401,State Representative,13,DEM,Albert Hunter,40,2,27,11
+Falls,401,State Representative,13,,Under Votes,21,0,9,12
+Falls,401,State Representative,13,,Over Votes,0,0,0,0
+Falls,401,"Chief Justice, 10th Court of Appeals District",,REP,Matt Johnson,426,8,239,179
+Falls,401,"Chief Justice, 10th Court of Appeals District",,,Under Votes,60,2,32,26
+Falls,401,"Chief Justice, 10th Court of Appeals District",,,Over Votes,0,0,0,0
+Falls,401,County Attorney,,REP,Jody Gilliam,424,8,233,183
+Falls,401,County Attorney,,,Under Votes,62,2,38,22
+Falls,401,County Attorney,,,Over Votes,0,0,0,0
+Falls,401,Sheriff,,REP,Jason Campbell,407,7,225,175
+Falls,401,Sheriff,,DEM,Joe Lopez,61,2,36,23
+Falls,401,Sheriff,,,Under Votes,18,1,10,7
+Falls,401,Sheriff,,,Over Votes,0,0,0,0
+Falls,401,County Tax Assessor-Collector,,REP,Kayci Nehring,430,8,235,187
+Falls,401,County Tax Assessor-Collector,,,Under Votes,56,2,36,18
+Falls,401,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Falls,401,"Constable, Precinct 4",,REP,Jerry Wood,428,8,233,187
+Falls,401,"Constable, Precinct 4",,,Under Votes,58,2,38,18
+Falls,401,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Falls,402,Registered Voters,,,,1212,,,
+Falls,402,Ballots Cast,,,,756,,,
+Falls,402,President,,REP,Donald J. Trump JD Vance,570,16,356,198
+Falls,402,President,,DEM,Kamala D. Harris Tim Walz,172,11,67,94
+Falls,402,President,,LIB,Chase Oliver Mike ter Maat,2,0,0,2
+Falls,402,President,,GRN,Jill Stein Rudolph Ware,4,0,3,1
+Falls,402,President,,,Under Votes,6,2,1,3
+Falls,402,President,,,Over Votes,2,0,1,1
+Falls,402,U.S. Senate,,REP,Ted Cruz,549,16,346,187
+Falls,402,U.S. Senate,,DEM,Colin Allred,184,10,75,99
+Falls,402,U.S. Senate,,LIB,Ted Brown,14,2,4,8
+Falls,402,U.S. Senate,,,Under Votes,9,1,3,5
+Falls,402,U.S. Senate,,,Over Votes,0,0,0,0
+Falls,402,U.S. House,17,REP,Pete Sessions,579,20,357,202
+Falls,402,U.S. House,17,DEM,Mark Lorenzen,161,9,64,88
+Falls,402,U.S. House,17,,Under Votes,16,0,7,9
+Falls,402,U.S. House,17,,Over Votes,0,0,0,0
+Falls,402,Railroad Commissioner,,REP,Christi Craddick,556,19,346,191
+Falls,402,Railroad Commissioner,,DEM,Katherine Culbert,150,8,58,84
+Falls,402,Railroad Commissioner,,LIB,Hawk Dunlap,15,1,7,7
+Falls,402,Railroad Commissioner,,GRN,Eddie Espinoza,9,0,4,5
+Falls,402,Railroad Commissioner,,,Under Votes,25,1,13,11
+Falls,402,Railroad Commissioner,,,Over Votes,1,0,0,1
+Falls,402,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,570,17,353,200
+Falls,402,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,164,10,63,91
+Falls,402,"Justice, Supreme Court, Place 2",2,,Under Votes,21,2,11,8
+Falls,402,"Justice, Supreme Court, Place 2",2,,Over Votes,1,0,1,0
+Falls,402,"Justice, Supreme Court, Place 4",4,REP,John Devine,567,17,351,199
+Falls,402,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,165,10,64,91
+Falls,402,"Justice, Supreme Court, Place 4",4,,Under Votes,24,2,13,9
+Falls,402,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Falls,402,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,561,17,349,195
+Falls,402,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,153,8,60,85
+Falls,402,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,14,1,7,6
+Falls,402,"Justice, Supreme Court, Place 6",6,,Under Votes,28,3,12,13
+Falls,402,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Falls,402,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,560,17,347,196
+Falls,402,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,167,10,66,91
+Falls,402,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,29,2,15,12
+Falls,402,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Falls,402,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,565,18,349,198
+Falls,402,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,158,8,64,86
+Falls,402,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,33,3,15,15
+Falls,402,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Falls,402,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,575,18,356,201
+Falls,402,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,151,9,58,84
+Falls,402,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,30,2,14,14
+Falls,402,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Falls,402,"Member, State Board of Education, District 10",10,REP,Tom Maynard,565,18,348,199
+Falls,402,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,163,11,65,87
+Falls,402,"Member, State Board of Education, District 10",10,,Under Votes,28,0,15,13
+Falls,402,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Falls,402,State Representative,13,REP,Angelia Orr,568,20,354,194
+Falls,402,State Representative,13,DEM,Albert Hunter,165,9,63,93
+Falls,402,State Representative,13,,Under Votes,23,0,11,12
+Falls,402,State Representative,13,,Over Votes,0,0,0,0
+Falls,402,"Chief Justice, 10th Court of Appeals District",,REP,Matt Johnson,624,22,369,233
+Falls,402,"Chief Justice, 10th Court of Appeals District",,,Under Votes,132,7,59,66
+Falls,402,"Chief Justice, 10th Court of Appeals District",,,Over Votes,0,0,0,0
+Falls,402,County Attorney,,REP,Jody Gilliam,618,21,361,236
+Falls,402,County Attorney,,,Under Votes,138,8,67,63
+Falls,402,County Attorney,,,Over Votes,0,0,0,0
+Falls,402,Sheriff,,REP,Jason Campbell,575,20,350,205
+Falls,402,Sheriff,,DEM,Joe Lopez,157,7,63,87
+Falls,402,Sheriff,,,Under Votes,24,2,15,7
+Falls,402,Sheriff,,,Over Votes,0,0,0,0
+Falls,402,County Tax Assessor-Collector,,REP,Kayci Nehring,632,23,369,240
+Falls,402,County Tax Assessor-Collector,,,Under Votes,124,6,59,59
+Falls,402,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Falls,402,"Constable, Precinct 4",,REP,Jerry Wood,614,22,361,231
+Falls,402,"Constable, Precinct 4",,,Under Votes,142,7,67,68
+Falls,402,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Falls,403,Registered Voters,,,,803,,,
+Falls,403,Ballots Cast,,,,539,,,
+Falls,403,President,,REP,Donald J. Trump JD Vance,402,5,213,184
+Falls,403,President,,DEM,Kamala D. Harris Tim Walz,131,12,68,51
+Falls,403,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+Falls,403,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+Falls,403,President,,,Under Votes,3,1,0,2
+Falls,403,President,,,Over Votes,1,0,0,1
+Falls,403,U.S. Senate,,REP,Ted Cruz,388,6,203,179
+Falls,403,U.S. Senate,,DEM,Colin Allred,141,12,76,53
+Falls,403,U.S. Senate,,LIB,Ted Brown,9,0,3,6
+Falls,403,U.S. Senate,,,Under Votes,1,0,0,1
+Falls,403,U.S. Senate,,,Over Votes,0,0,0,0
+Falls,403,U.S. House,17,REP,Pete Sessions,410,6,213,191
+Falls,403,U.S. House,17,DEM,Mark Lorenzen,122,12,65,45
+Falls,403,U.S. House,17,,Under Votes,7,0,4,3
+Falls,403,U.S. House,17,,Over Votes,0,0,0,0
+Falls,403,Railroad Commissioner,,REP,Christi Craddick,403,5,215,183
+Falls,403,Railroad Commissioner,,DEM,Katherine Culbert,116,12,63,41
+Falls,403,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,1,6
+Falls,403,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,1,3
+Falls,403,Railroad Commissioner,,,Under Votes,8,1,2,5
+Falls,403,Railroad Commissioner,,,Over Votes,1,0,0,1
+Falls,403,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,406,7,213,186
+Falls,403,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,124,11,67,46
+Falls,403,"Justice, Supreme Court, Place 2",2,,Under Votes,9,0,2,7
+Falls,403,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Falls,403,"Justice, Supreme Court, Place 4",4,REP,John Devine,404,6,212,186
+Falls,403,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,126,12,68,46
+Falls,403,"Justice, Supreme Court, Place 4",4,,Under Votes,9,0,2,7
+Falls,403,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Falls,403,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,392,4,212,176
+Falls,403,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,119,12,63,44
+Falls,403,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,14,1,5,8
+Falls,403,"Justice, Supreme Court, Place 6",6,,Under Votes,14,1,2,11
+Falls,403,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Falls,403,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,396,5,213,178
+Falls,403,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,128,12,66,50
+Falls,403,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,15,1,3,11
+Falls,403,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Falls,403,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,403,6,213,184
+Falls,403,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,123,11,67,45
+Falls,403,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,13,1,2,10
+Falls,403,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Falls,403,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,405,6,215,184
+Falls,403,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,117,11,63,43
+Falls,403,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,17,1,4,12
+Falls,403,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Falls,403,"Member, State Board of Education, District 10",10,REP,Tom Maynard,402,5,216,181
+Falls,403,"Member, State Board of Education, District 10",10,DEM,Raquel Saenz Ortiz,121,12,63,46
+Falls,403,"Member, State Board of Education, District 10",10,,Under Votes,16,1,3,12
+Falls,403,"Member, State Board of Education, District 10",10,,Over Votes,0,0,0,0
+Falls,403,State Representative,13,REP,Angelia Orr,408,6,218,184
+Falls,403,State Representative,13,DEM,Albert Hunter,118,11,63,44
+Falls,403,State Representative,13,,Under Votes,13,1,1,11
+Falls,403,State Representative,13,,Over Votes,0,0,0,0
+Falls,403,"Chief Justice, 10th Court of Appeals District",,REP,Matt Johnson,446,10,233,203
+Falls,403,"Chief Justice, 10th Court of Appeals District",,,Under Votes,93,8,49,36
+Falls,403,"Chief Justice, 10th Court of Appeals District",,,Over Votes,0,0,0,0
+Falls,403,County Attorney,,REP,Jody Gilliam,449,11,236,202
+Falls,403,County Attorney,,,Under Votes,90,7,46,37
+Falls,403,County Attorney,,,Over Votes,0,0,0,0
+Falls,403,Sheriff,,REP,Jason Campbell,407,9,215,183
+Falls,403,Sheriff,,DEM,Joe Lopez,120,9,63,48
+Falls,403,Sheriff,,,Under Votes,11,0,3,8
+Falls,403,Sheriff,,,Over Votes,1,0,1,0
+Falls,403,County Tax Assessor-Collector,,REP,Kayci Nehring,450,11,233,206
+Falls,403,County Tax Assessor-Collector,,,Under Votes,89,7,49,33
+Falls,403,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Falls,403,"Constable, Precinct 4",,REP,Jerry Wood,437,11,228,198
+Falls,403,"Constable, Precinct 4",,,Under Votes,102,7,54,41
+Falls,403,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Falls,RLISD,Registered Voters,,,,3097,,,
+Falls,RLISD,Ballots Cast,,,,1507,,,
+Falls,RLISD,"Constable, Precinct 4",,,Under Votes,15,1,6,8
+Falls,RLISD,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Falls,RLISD,"Constable, Precinct 4",,,Under Votes,39,1,17,21
+Falls,RLISD,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Falls,BEISD,Registered Voters,,,,325,,,
+Falls,BEISD,Ballots Cast,,,,98,,,
+Falls,BEISD,"Constable, Precinct 4",,,Under Votes,1,0,1,0
+Falls,BEISD,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Falls,BEISD,"Constable, Precinct 4",,,Under Votes,10,0,5,5
+Falls,BEISD,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+Falls,BEISD,"Constable, Precinct 4",,,Under Votes,1,0,0,1
+Falls,BEISD,"Constable, Precinct 4",,,Over Votes,0,0,0,0

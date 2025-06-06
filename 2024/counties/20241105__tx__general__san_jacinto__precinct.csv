@@ -1,0 +1,1202 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+San Jacinto,1,Registered Voters,,,,3628,,,
+San Jacinto,1,Ballots Cast,,,,2204,,,
+San Jacinto,1,President,,REP,Donald J. Trump JD Vance,1768,38,1460,270
+San Jacinto,1,President,,DEM,Kamala D. Harris Tim Walz,401,29,291,81
+San Jacinto,1,President,,LIB,Chase Oliver Mike ter Maat,12,0,12,0
+San Jacinto,1,President,,GRN,Jill Stein Rudolph Ware,10,0,8,2
+San Jacinto,1,President,,,Under Votes,10,0,9,1
+San Jacinto,1,President,,,Over Votes,0,0,0,0
+San Jacinto,1,U.S. Senate,,REP,Ted Cruz,1706,38,1417,251
+San Jacinto,1,U.S. Senate,,DEM,Colin Allred,428,27,318,83
+San Jacinto,1,U.S. Senate,,LIB,Ted Brown,41,0,28,13
+San Jacinto,1,U.S. Senate,,,Under Votes,29,2,20,7
+San Jacinto,1,U.S. Senate,,,Over Votes,0,0,0,0
+San Jacinto,1,U.S. House,8,REP,Morgan Luttrell,1755,38,1458,259
+San Jacinto,1,U.S. House,8,DEM,Laura Jones,389,26,280,83
+San Jacinto,1,U.S. House,8,,Under Votes,60,3,45,12
+San Jacinto,1,U.S. House,8,,Over Votes,0,0,0,0
+San Jacinto,1,Railroad Commissioner,,REP,Christi Craddick,1704,37,1416,251
+San Jacinto,1,Railroad Commissioner,,DEM,Katherine Culbert,366,26,271,69
+San Jacinto,1,Railroad Commissioner,,LIB,Hawk Dunlap,41,0,30,11
+San Jacinto,1,Railroad Commissioner,,GRN,Eddie Espinoza,18,0,11,7
+San Jacinto,1,Railroad Commissioner,,,Under Votes,74,4,55,15
+San Jacinto,1,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Jacinto,1,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1762,40,1458,264
+San Jacinto,1,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,367,22,272,73
+San Jacinto,1,"Justice, Supreme Court, Place 2",2,,Under Votes,75,5,53,17
+San Jacinto,1,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Jacinto,1,"Justice, Supreme Court, Place 4",4,REP,John Devine,1752,40,1453,259
+San Jacinto,1,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,381,22,281,78
+San Jacinto,1,"Justice, Supreme Court, Place 4",4,,Under Votes,71,5,49,17
+San Jacinto,1,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,1,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1736,38,1447,251
+San Jacinto,1,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,352,24,259,69
+San Jacinto,1,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,46,0,29,17
+San Jacinto,1,"Justice, Supreme Court, Place 6",6,,Under Votes,70,5,48,17
+San Jacinto,1,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Jacinto,1,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1757,40,1460,257
+San Jacinto,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,376,22,272,82
+San Jacinto,1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,71,5,51,15
+San Jacinto,1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Jacinto,1,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1766,38,1463,265
+San Jacinto,1,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,368,24,273,71
+San Jacinto,1,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,70,5,47,18
+San Jacinto,1,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Jacinto,1,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1781,40,1477,264
+San Jacinto,1,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,349,22,254,73
+San Jacinto,1,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,74,5,52,17
+San Jacinto,1,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Jacinto,1,State Representative,18,REP,Janis Holt,1739,41,1426,272
+San Jacinto,1,State Representative,18,LIB,Seth Steele,297,8,230,59
+San Jacinto,1,State Representative,18,,Under Votes,168,18,127,23
+San Jacinto,1,State Representative,18,,Over Votes,0,0,0,0
+San Jacinto,1,"Justice, 9th Court of Appeals District, Place 3",3,REP,Leanne Johnson,1897,41,1547,309
+San Jacinto,1,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,307,26,236,45
+San Jacinto,1,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Jacinto,1,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,1881,41,1536,304
+San Jacinto,1,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,323,26,247,50
+San Jacinto,1,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,1,"District Judge, 411th Judicial District",411,REP,John Wells,1878,37,1539,302
+San Jacinto,1,"District Judge, 411th Judicial District",411,,Under Votes,326,30,244,52
+San Jacinto,1,"District Judge, 411th Judicial District",411,,Over Votes,0,0,0,0
+San Jacinto,1,Sheriff,,REP,Sam Houston,1737,38,1407,292
+San Jacinto,1,Sheriff,,,Under Votes,467,29,376,62
+San Jacinto,1,Sheriff,,,Over Votes,0,0,0,0
+San Jacinto,1,County Tax Assessor-Collector,,REP,Betty Davis,1937,41,1582,314
+San Jacinto,1,County Tax Assessor-Collector,,,Under Votes,267,26,201,40
+San Jacinto,1,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Jacinto,1,"County Commissioner, Precinct 1",,REP,Luke Sweeney,1893,39,1540,314
+San Jacinto,1,"County Commissioner, Precinct 1",,,Under Votes,311,28,243,40
+San Jacinto,1,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+San Jacinto,1,"Constable, Precinct 1",,REP,Rae Lynn Phillips,1913,39,1562,312
+San Jacinto,1,"Constable, Precinct 1",,,Under Votes,291,28,221,42
+San Jacinto,1,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+San Jacinto,1,"Constable, Precinct 1",,,Under Votes,160,17,115,28
+San Jacinto,1,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,Registered Voters,,,,3796,,,
+San Jacinto,Shepherd ISD,Ballots Cast,,,,2117,,,
+San Jacinto,Shepherd ISD,President,,REP,Donald J. Trump JD Vance,1808,25,1254,529
+San Jacinto,Shepherd ISD,President,,DEM,Kamala D. Harris Tim Walz,287,20,174,93
+San Jacinto,Shepherd ISD,President,,LIB,Chase Oliver Mike ter Maat,6,0,3,3
+San Jacinto,Shepherd ISD,President,,GRN,Jill Stein Rudolph Ware,6,0,4,2
+San Jacinto,Shepherd ISD,President,,,Under Votes,6,0,4,2
+San Jacinto,Shepherd ISD,President,,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,U.S. Senate,,REP,Ted Cruz,1723,20,1211,492
+San Jacinto,Shepherd ISD,U.S. Senate,,DEM,Colin Allred,318,21,193,104
+San Jacinto,Shepherd ISD,U.S. Senate,,LIB,Ted Brown,46,1,24,21
+San Jacinto,Shepherd ISD,U.S. Senate,,,Under Votes,30,3,14,13
+San Jacinto,Shepherd ISD,U.S. Senate,,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,U.S. House,8,REP,Morgan Luttrell,1767,23,1238,506
+San Jacinto,Shepherd ISD,U.S. House,8,DEM,Laura Jones,295,19,175,101
+San Jacinto,Shepherd ISD,U.S. House,8,,Under Votes,55,3,29,23
+San Jacinto,Shepherd ISD,U.S. House,8,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,Railroad Commissioner,,REP,Christi Craddick,1707,21,1200,486
+San Jacinto,Shepherd ISD,Railroad Commissioner,,DEM,Katherine Culbert,264,19,158,87
+San Jacinto,Shepherd ISD,Railroad Commissioner,,LIB,Hawk Dunlap,55,2,34,19
+San Jacinto,Shepherd ISD,Railroad Commissioner,,GRN,Eddie Espinoza,24,0,11,13
+San Jacinto,Shepherd ISD,Railroad Commissioner,,,Under Votes,64,3,36,25
+San Jacinto,Shepherd ISD,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1773,22,1243,508
+San Jacinto,Shepherd ISD,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,284,20,168,96
+San Jacinto,Shepherd ISD,"Justice, Supreme Court, Place 2",2,,Under Votes,60,3,31,26
+San Jacinto,Shepherd ISD,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,"Justice, Supreme Court, Place 4",4,REP,John Devine,1758,23,1232,503
+San Jacinto,Shepherd ISD,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,298,20,176,102
+San Jacinto,Shepherd ISD,"Justice, Supreme Court, Place 4",4,,Under Votes,61,2,34,25
+San Jacinto,Shepherd ISD,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1717,23,1205,489
+San Jacinto,Shepherd ISD,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,271,20,156,95
+San Jacinto,Shepherd ISD,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,52,0,33,19
+San Jacinto,Shepherd ISD,"Justice, Supreme Court, Place 6",6,,Under Votes,77,2,48,27
+San Jacinto,Shepherd ISD,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1757,23,1234,500
+San Jacinto,Shepherd ISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,296,20,171,105
+San Jacinto,Shepherd ISD,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,64,2,37,25
+San Jacinto,Shepherd ISD,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1759,24,1231,504
+San Jacinto,Shepherd ISD,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,289,20,167,102
+San Jacinto,Shepherd ISD,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,69,1,44,24
+San Jacinto,Shepherd ISD,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1762,23,1233,506
+San Jacinto,Shepherd ISD,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,279,20,161,98
+San Jacinto,Shepherd ISD,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,76,2,48,26
+San Jacinto,Shepherd ISD,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,State Representative,18,REP,Janis Holt,1688,23,1167,498
+San Jacinto,Shepherd ISD,State Representative,18,LIB,Seth Steele,282,14,182,86
+San Jacinto,Shepherd ISD,State Representative,18,,Under Votes,147,8,93,46
+San Jacinto,Shepherd ISD,State Representative,18,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,"Justice, 9th Court of Appeals District, Place 3",3,REP,Leanne Johnson,1865,27,1285,553
+San Jacinto,Shepherd ISD,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,252,18,157,77
+San Jacinto,Shepherd ISD,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,1859,27,1279,553
+San Jacinto,Shepherd ISD,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,258,18,163,77
+San Jacinto,Shepherd ISD,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,"District Judge, 411th Judicial District",411,REP,John Wells,1862,24,1285,553
+San Jacinto,Shepherd ISD,"District Judge, 411th Judicial District",411,,Under Votes,255,21,157,77
+San Jacinto,Shepherd ISD,"District Judge, 411th Judicial District",411,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,Sheriff,,REP,Sam Houston,1789,24,1219,546
+San Jacinto,Shepherd ISD,Sheriff,,,Under Votes,328,21,223,84
+San Jacinto,Shepherd ISD,Sheriff,,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,County Tax Assessor-Collector,,REP,Betty Davis,1863,25,1281,557
+San Jacinto,Shepherd ISD,County Tax Assessor-Collector,,,Under Votes,254,20,161,73
+San Jacinto,Shepherd ISD,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,"County Commissioner, Precinct 1",,REP,Luke Sweeney,417,7,321,89
+San Jacinto,Shepherd ISD,"County Commissioner, Precinct 1",,,Under Votes,54,3,41,10
+San Jacinto,Shepherd ISD,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,"Constable, Precinct 1",,REP,Rae Lynn Phillips,421,8,324,89
+San Jacinto,Shepherd ISD,"Constable, Precinct 1",,,Under Votes,50,2,38,10
+San Jacinto,Shepherd ISD,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,"Constable, Precinct 2",,REP,Ray Atchley,1434,15,958,461
+San Jacinto,Shepherd ISD,"Constable, Precinct 2",,,Under Votes,212,20,122,70
+San Jacinto,Shepherd ISD,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,"Constable, Precinct 2",,,Under Votes,356,19,246,91
+San Jacinto,Shepherd ISD,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Jacinto,Shepherd ISD,"Constable, Precinct 2",,,Under Votes,348,19,240,89
+San Jacinto,Shepherd ISD,"Constable, Precinct 2",,,Over Votes,1,1,0,0
+San Jacinto,2 - S CITY ISD,Registered Voters,,,,1387,,,
+San Jacinto,2 - S CITY ISD,Ballots Cast,,,,785,,,
+San Jacinto,2 - S CITY ISD,President,,REP,Donald J. Trump JD Vance,615,5,401,209
+San Jacinto,2 - S CITY ISD,President,,DEM,Kamala D. Harris Tim Walz,159,6,96,57
+San Jacinto,2 - S CITY ISD,President,,LIB,Chase Oliver Mike ter Maat,3,0,2,1
+San Jacinto,2 - S CITY ISD,President,,GRN,Jill Stein Rudolph Ware,3,0,1,2
+San Jacinto,2 - S CITY ISD,President,,,Under Votes,3,1,0,2
+San Jacinto,2 - S CITY ISD,President,,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,U.S. Senate,,REP,Ted Cruz,578,4,387,187
+San Jacinto,2 - S CITY ISD,U.S. Senate,,DEM,Colin Allred,179,5,101,73
+San Jacinto,2 - S CITY ISD,U.S. Senate,,LIB,Ted Brown,16,1,8,7
+San Jacinto,2 - S CITY ISD,U.S. Senate,,,Under Votes,12,2,5,5
+San Jacinto,2 - S CITY ISD,U.S. Senate,,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,U.S. House,8,REP,Morgan Luttrell,606,6,397,203
+San Jacinto,2 - S CITY ISD,U.S. House,8,DEM,Laura Jones,155,5,87,63
+San Jacinto,2 - S CITY ISD,U.S. House,8,,Under Votes,24,1,17,6
+San Jacinto,2 - S CITY ISD,U.S. House,8,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,Railroad Commissioner,,REP,Christi Craddick,582,6,379,197
+San Jacinto,2 - S CITY ISD,Railroad Commissioner,,DEM,Katherine Culbert,140,4,84,52
+San Jacinto,2 - S CITY ISD,Railroad Commissioner,,LIB,Hawk Dunlap,19,0,14,5
+San Jacinto,2 - S CITY ISD,Railroad Commissioner,,GRN,Eddie Espinoza,13,0,4,9
+San Jacinto,2 - S CITY ISD,Railroad Commissioner,,,Under Votes,31,2,20,9
+San Jacinto,2 - S CITY ISD,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,607,6,399,202
+San Jacinto,2 - S CITY ISD,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,152,5,87,60
+San Jacinto,2 - S CITY ISD,"Justice, Supreme Court, Place 2",2,,Under Votes,26,1,15,10
+San Jacinto,2 - S CITY ISD,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,"Justice, Supreme Court, Place 4",4,REP,John Devine,602,6,395,201
+San Jacinto,2 - S CITY ISD,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,157,5,92,60
+San Jacinto,2 - S CITY ISD,"Justice, Supreme Court, Place 4",4,,Under Votes,26,1,14,11
+San Jacinto,2 - S CITY ISD,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,594,5,393,196
+San Jacinto,2 - S CITY ISD,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,149,5,83,61
+San Jacinto,2 - S CITY ISD,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,15,1,10,4
+San Jacinto,2 - S CITY ISD,"Justice, Supreme Court, Place 6",6,,Under Votes,27,1,15,11
+San Jacinto,2 - S CITY ISD,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,608,5,402,201
+San Jacinto,2 - S CITY ISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,147,5,83,59
+San Jacinto,2 - S CITY ISD,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,30,2,16,12
+San Jacinto,2 - S CITY ISD,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,605,5,399,201
+San Jacinto,2 - S CITY ISD,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,148,5,86,57
+San Jacinto,2 - S CITY ISD,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,32,2,16,14
+San Jacinto,2 - S CITY ISD,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,604,5,396,203
+San Jacinto,2 - S CITY ISD,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,145,5,83,57
+San Jacinto,2 - S CITY ISD,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,36,2,22,12
+San Jacinto,2 - S CITY ISD,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,State Representative,18,REP,Janis Holt,591,6,379,206
+San Jacinto,2 - S CITY ISD,State Representative,18,LIB,Seth Steele,128,5,82,41
+San Jacinto,2 - S CITY ISD,State Representative,18,,Under Votes,66,1,40,25
+San Jacinto,2 - S CITY ISD,State Representative,18,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,"Justice, 9th Court of Appeals District, Place 3",3,REP,Leanne Johnson,662,9,423,230
+San Jacinto,2 - S CITY ISD,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,123,3,78,42
+San Jacinto,2 - S CITY ISD,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,651,6,418,227
+San Jacinto,2 - S CITY ISD,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,134,6,83,45
+San Jacinto,2 - S CITY ISD,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,"District Judge, 411th Judicial District",411,REP,John Wells,655,7,418,230
+San Jacinto,2 - S CITY ISD,"District Judge, 411th Judicial District",411,,Under Votes,130,5,83,42
+San Jacinto,2 - S CITY ISD,"District Judge, 411th Judicial District",411,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,Sheriff,,REP,Sam Houston,647,8,408,231
+San Jacinto,2 - S CITY ISD,Sheriff,,,Under Votes,138,4,93,41
+San Jacinto,2 - S CITY ISD,Sheriff,,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,County Tax Assessor-Collector,,REP,Betty Davis,672,8,430,234
+San Jacinto,2 - S CITY ISD,County Tax Assessor-Collector,,,Under Votes,113,4,71,38
+San Jacinto,2 - S CITY ISD,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,"Constable, Precinct 2",,REP,Ray Atchley,664,9,423,232
+San Jacinto,2 - S CITY ISD,"Constable, Precinct 2",,,Under Votes,121,3,78,40
+San Jacinto,2 - S CITY ISD,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,"Constable, Precinct 2",,,Under Votes,180,4,127,49
+San Jacinto,2 - S CITY ISD,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,"Constable, Precinct 2",,,Under Votes,818,18,526,274
+San Jacinto,2 - S CITY ISD,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,"Constable, Precinct 2",,,Under Votes,153,7,110,36
+San Jacinto,2 - S CITY ISD,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Jacinto,2 - S CITY ISD,"Constable, Precinct 2",,,Under Votes,126,7,87,32
+San Jacinto,2 - S CITY ISD,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+San Jacinto,3,Registered Voters,,,,981,,,
+San Jacinto,3,Ballots Cast,,,,689,,,
+San Jacinto,3,President,,REP,Donald J. Trump JD Vance,578,15,440,123
+San Jacinto,3,President,,DEM,Kamala D. Harris Tim Walz,105,9,69,27
+San Jacinto,3,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+San Jacinto,3,President,,GRN,Jill Stein Rudolph Ware,2,0,1,1
+San Jacinto,3,President,,,Under Votes,2,0,2,0
+San Jacinto,3,President,,,Over Votes,0,0,0,0
+San Jacinto,3,U.S. Senate,,REP,Ted Cruz,560,13,430,117
+San Jacinto,3,U.S. Senate,,DEM,Colin Allred,110,9,75,26
+San Jacinto,3,U.S. Senate,,LIB,Ted Brown,14,2,7,5
+San Jacinto,3,U.S. Senate,,,Under Votes,5,0,2,3
+San Jacinto,3,U.S. Senate,,,Over Votes,0,0,0,0
+San Jacinto,3,U.S. House,8,REP,Morgan Luttrell,584,15,448,121
+San Jacinto,3,U.S. House,8,DEM,Laura Jones,93,9,60,24
+San Jacinto,3,U.S. House,8,,Under Votes,12,0,6,6
+San Jacinto,3,U.S. House,8,,Over Votes,0,0,0,0
+San Jacinto,3,Railroad Commissioner,,REP,Christi Craddick,552,14,423,115
+San Jacinto,3,Railroad Commissioner,,DEM,Katherine Culbert,86,9,60,17
+San Jacinto,3,Railroad Commissioner,,LIB,Hawk Dunlap,22,0,14,8
+San Jacinto,3,Railroad Commissioner,,GRN,Eddie Espinoza,9,0,4,5
+San Jacinto,3,Railroad Commissioner,,,Under Votes,20,1,13,6
+San Jacinto,3,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Jacinto,3,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,571,14,435,122
+San Jacinto,3,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,97,9,65,23
+San Jacinto,3,"Justice, Supreme Court, Place 2",2,,Under Votes,21,1,14,6
+San Jacinto,3,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Jacinto,3,"Justice, Supreme Court, Place 4",4,REP,John Devine,571,14,437,120
+San Jacinto,3,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,99,9,66,24
+San Jacinto,3,"Justice, Supreme Court, Place 4",4,,Under Votes,19,1,11,7
+San Jacinto,3,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,3,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,558,14,430,114
+San Jacinto,3,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,97,9,66,22
+San Jacinto,3,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,16,0,8,8
+San Jacinto,3,"Justice, Supreme Court, Place 6",6,,Under Votes,18,1,10,7
+San Jacinto,3,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Jacinto,3,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,565,14,432,119
+San Jacinto,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,104,9,69,26
+San Jacinto,3,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,20,1,13,6
+San Jacinto,3,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Jacinto,3,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,572,14,436,122
+San Jacinto,3,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,98,9,67,22
+San Jacinto,3,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,19,1,11,7
+San Jacinto,3,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Jacinto,3,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,571,14,438,119
+San Jacinto,3,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,96,9,64,23
+San Jacinto,3,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,22,1,12,9
+San Jacinto,3,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Jacinto,3,State Representative,18,REP,Janis Holt,546,14,417,115
+San Jacinto,3,State Representative,18,LIB,Seth Steele,83,4,56,23
+San Jacinto,3,State Representative,18,,Under Votes,60,6,41,13
+San Jacinto,3,State Representative,18,,Over Votes,0,0,0,0
+San Jacinto,3,"Justice, 9th Court of Appeals District, Place 3",3,REP,Leanne Johnson,598,15,453,130
+San Jacinto,3,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,91,9,61,21
+San Jacinto,3,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Jacinto,3,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,593,15,452,126
+San Jacinto,3,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,96,9,62,25
+San Jacinto,3,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,3,"District Judge, 411th Judicial District",411,REP,John Wells,597,14,456,127
+San Jacinto,3,"District Judge, 411th Judicial District",411,,Under Votes,92,10,58,24
+San Jacinto,3,"District Judge, 411th Judicial District",411,,Over Votes,0,0,0,0
+San Jacinto,3,Sheriff,,REP,Sam Houston,559,20,413,126
+San Jacinto,3,Sheriff,,,Under Votes,130,4,101,25
+San Jacinto,3,Sheriff,,,Over Votes,0,0,0,0
+San Jacinto,3,County Tax Assessor-Collector,,REP,Betty Davis,626,18,473,135
+San Jacinto,3,County Tax Assessor-Collector,,,Under Votes,63,6,41,16
+San Jacinto,3,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Jacinto,3,"County Commissioner, Precinct 3",,REP,Crystal Dominy,612,16,466,130
+San Jacinto,3,"County Commissioner, Precinct 3",,,Under Votes,77,8,48,21
+San Jacinto,3,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+San Jacinto,3,"Constable, Precinct 3",,REP,Kevin Freed,607,16,457,134
+San Jacinto,3,"Constable, Precinct 3",,,Under Votes,82,8,57,17
+San Jacinto,3,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Jacinto,3,"Constable, Precinct 3",,,Under Votes,58,5,37,16
+San Jacinto,3,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,Registered Voters,,,,54,,,
+San Jacinto,4 - COCISD,Ballots Cast,,,,46,,,
+San Jacinto,4 - COCISD,President,,REP,Donald J. Trump JD Vance,40,1,35,4
+San Jacinto,4 - COCISD,President,,DEM,Kamala D. Harris Tim Walz,5,0,4,1
+San Jacinto,4 - COCISD,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+San Jacinto,4 - COCISD,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+San Jacinto,4 - COCISD,President,,,Under Votes,0,0,0,0
+San Jacinto,4 - COCISD,President,,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,U.S. Senate,,REP,Ted Cruz,40,1,35,4
+San Jacinto,4 - COCISD,U.S. Senate,,DEM,Colin Allred,3,0,2,1
+San Jacinto,4 - COCISD,U.S. Senate,,LIB,Ted Brown,3,0,2,1
+San Jacinto,4 - COCISD,U.S. Senate,,,Under Votes,0,0,0,0
+San Jacinto,4 - COCISD,U.S. Senate,,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,U.S. House,8,REP,Morgan Luttrell,41,1,35,5
+San Jacinto,4 - COCISD,U.S. House,8,DEM,Laura Jones,4,0,3,1
+San Jacinto,4 - COCISD,U.S. House,8,,Under Votes,1,0,1,0
+San Jacinto,4 - COCISD,U.S. House,8,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,Railroad Commissioner,,REP,Christi Craddick,39,1,34,4
+San Jacinto,4 - COCISD,Railroad Commissioner,,DEM,Katherine Culbert,3,0,2,1
+San Jacinto,4 - COCISD,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,0,1
+San Jacinto,4 - COCISD,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,1,0
+San Jacinto,4 - COCISD,Railroad Commissioner,,,Under Votes,2,0,2,0
+San Jacinto,4 - COCISD,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,40,1,35,4
+San Jacinto,4 - COCISD,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,5,0,3,2
+San Jacinto,4 - COCISD,"Justice, Supreme Court, Place 2",2,,Under Votes,1,0,1,0
+San Jacinto,4 - COCISD,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,"Justice, Supreme Court, Place 4",4,REP,John Devine,39,1,34,4
+San Jacinto,4 - COCISD,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,5,0,3,2
+San Jacinto,4 - COCISD,"Justice, Supreme Court, Place 4",4,,Under Votes,2,0,2,0
+San Jacinto,4 - COCISD,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,39,1,34,4
+San Jacinto,4 - COCISD,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,3,0,2,1
+San Jacinto,4 - COCISD,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,1,1
+San Jacinto,4 - COCISD,"Justice, Supreme Court, Place 6",6,,Under Votes,2,0,2,0
+San Jacinto,4 - COCISD,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,40,1,35,4
+San Jacinto,4 - COCISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,4,0,3,1
+San Jacinto,4 - COCISD,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,2,0,1,1
+San Jacinto,4 - COCISD,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,39,1,34,4
+San Jacinto,4 - COCISD,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,6,0,4,2
+San Jacinto,4 - COCISD,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,1,0,1,0
+San Jacinto,4 - COCISD,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,40,1,35,4
+San Jacinto,4 - COCISD,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,5,0,3,2
+San Jacinto,4 - COCISD,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,1,0,1,0
+San Jacinto,4 - COCISD,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,State Representative,18,REP,Janis Holt,38,1,34,3
+San Jacinto,4 - COCISD,State Representative,18,LIB,Seth Steele,6,0,3,3
+San Jacinto,4 - COCISD,State Representative,18,,Under Votes,2,0,2,0
+San Jacinto,4 - COCISD,State Representative,18,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,"Justice, 9th Court of Appeals District, Place 3",3,REP,Leanne Johnson,39,0,35,4
+San Jacinto,4 - COCISD,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,7,1,4,2
+San Jacinto,4 - COCISD,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,38,0,35,3
+San Jacinto,4 - COCISD,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,8,1,4,3
+San Jacinto,4 - COCISD,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,"District Judge, 411th Judicial District",411,REP,John Wells,37,0,34,3
+San Jacinto,4 - COCISD,"District Judge, 411th Judicial District",411,,Under Votes,9,1,5,3
+San Jacinto,4 - COCISD,"District Judge, 411th Judicial District",411,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,Sheriff,,REP,Sam Houston,35,0,32,3
+San Jacinto,4 - COCISD,Sheriff,,,Under Votes,11,1,7,3
+San Jacinto,4 - COCISD,Sheriff,,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,County Tax Assessor-Collector,,REP,Betty Davis,39,0,35,4
+San Jacinto,4 - COCISD,County Tax Assessor-Collector,,,Under Votes,7,1,4,2
+San Jacinto,4 - COCISD,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,"County Commissioner, Precinct 1",,REP,Luke Sweeney,40,0,36,4
+San Jacinto,4 - COCISD,"County Commissioner, Precinct 1",,,Under Votes,6,1,3,2
+San Jacinto,4 - COCISD,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,"Constable, Precinct 1",,REP,Rae Lynn Phillips,38,0,34,4
+San Jacinto,4 - COCISD,"Constable, Precinct 1",,,Under Votes,8,1,5,2
+San Jacinto,4 - COCISD,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+San Jacinto,4 - COCISD,"Constable, Precinct 1",,,Under Votes,6,1,5,0
+San Jacinto,4 - COCISD,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+San Jacinto,5,Registered Voters,,,,1758,,,
+San Jacinto,5,Ballots Cast,,,,1072,,,
+San Jacinto,5,President,,REP,Donald J. Trump JD Vance,930,29,580,321
+San Jacinto,5,President,,DEM,Kamala D. Harris Tim Walz,135,7,81,47
+San Jacinto,5,President,,LIB,Chase Oliver Mike ter Maat,5,0,3,2
+San Jacinto,5,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+San Jacinto,5,President,,,Under Votes,0,0,0,0
+San Jacinto,5,President,,,Over Votes,0,0,0,0
+San Jacinto,5,U.S. Senate,,REP,Ted Cruz,893,29,561,303
+San Jacinto,5,U.S. Senate,,DEM,Colin Allred,147,7,83,57
+San Jacinto,5,U.S. Senate,,LIB,Ted Brown,25,0,18,7
+San Jacinto,5,U.S. Senate,,,Under Votes,6,0,3,3
+San Jacinto,5,U.S. Senate,,,Over Votes,0,0,0,0
+San Jacinto,5,U.S. House,8,REP,Morgan Luttrell,911,28,569,314
+San Jacinto,5,U.S. House,8,DEM,Laura Jones,146,7,85,54
+San Jacinto,5,U.S. House,8,,Under Votes,15,1,11,3
+San Jacinto,5,U.S. House,8,,Over Votes,0,0,0,0
+San Jacinto,5,Railroad Commissioner,,REP,Christi Craddick,892,28,560,304
+San Jacinto,5,Railroad Commissioner,,DEM,Katherine Culbert,130,6,81,43
+San Jacinto,5,Railroad Commissioner,,LIB,Hawk Dunlap,18,0,12,6
+San Jacinto,5,Railroad Commissioner,,GRN,Eddie Espinoza,17,0,4,13
+San Jacinto,5,Railroad Commissioner,,,Under Votes,15,2,8,5
+San Jacinto,5,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Jacinto,5,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,915,26,573,316
+San Jacinto,5,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,141,7,83,51
+San Jacinto,5,"Justice, Supreme Court, Place 2",2,,Under Votes,16,3,9,4
+San Jacinto,5,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Jacinto,5,"Justice, Supreme Court, Place 4",4,REP,John Devine,914,27,572,315
+San Jacinto,5,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,140,7,85,48
+San Jacinto,5,"Justice, Supreme Court, Place 4",4,,Under Votes,18,2,8,8
+San Jacinto,5,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,5,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,901,28,563,310
+San Jacinto,5,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,132,6,79,47
+San Jacinto,5,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,22,0,14,8
+San Jacinto,5,"Justice, Supreme Court, Place 6",6,,Under Votes,17,2,9,6
+San Jacinto,5,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Jacinto,5,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,916,28,571,317
+San Jacinto,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,138,6,84,48
+San Jacinto,5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,18,2,10,6
+San Jacinto,5,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Jacinto,5,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,913,27,571,315
+San Jacinto,5,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,139,7,81,51
+San Jacinto,5,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,20,2,13,5
+San Jacinto,5,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Jacinto,5,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,920,27,576,317
+San Jacinto,5,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,135,7,80,48
+San Jacinto,5,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,17,2,9,6
+San Jacinto,5,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Jacinto,5,State Representative,18,REP,Janis Holt,926,28,574,324
+San Jacinto,5,State Representative,18,LIB,Seth Steele,109,6,64,39
+San Jacinto,5,State Representative,18,,Under Votes,37,2,27,8
+San Jacinto,5,State Representative,18,,Over Votes,0,0,0,0
+San Jacinto,5,"Justice, 9th Court of Appeals District, Place 3",3,REP,Leanne Johnson,975,26,604,345
+San Jacinto,5,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,97,10,61,26
+San Jacinto,5,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Jacinto,5,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,968,26,600,342
+San Jacinto,5,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,104,10,65,29
+San Jacinto,5,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,5,"District Judge, 411th Judicial District",411,REP,John Wells,967,22,604,341
+San Jacinto,5,"District Judge, 411th Judicial District",411,,Under Votes,105,14,61,30
+San Jacinto,5,"District Judge, 411th Judicial District",411,,Over Votes,0,0,0,0
+San Jacinto,5,Sheriff,,REP,Sam Houston,944,22,582,340
+San Jacinto,5,Sheriff,,,Under Votes,128,14,83,31
+San Jacinto,5,Sheriff,,,Over Votes,0,0,0,0
+San Jacinto,5,County Tax Assessor-Collector,,REP,Betty Davis,974,23,608,343
+San Jacinto,5,County Tax Assessor-Collector,,,Under Votes,98,13,57,28
+San Jacinto,5,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Jacinto,5,"County Commissioner, Precinct 3",,REP,Crystal Dominy,971,22,608,341
+San Jacinto,5,"County Commissioner, Precinct 3",,,Under Votes,101,14,57,30
+San Jacinto,5,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+San Jacinto,5,"Constable, Precinct 3",,REP,Kevin Freed,968,22,605,341
+San Jacinto,5,"Constable, Precinct 3",,,Under Votes,104,14,60,30
+San Jacinto,5,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,Registered Voters,,,,1,,,
+San Jacinto,5 - COCISD,Ballots Cast,,,,3,,,
+San Jacinto,5 - COCISD,President,,REP,Donald J. Trump JD Vance,2,0,1,1
+San Jacinto,5 - COCISD,President,,DEM,Kamala D. Harris Tim Walz,1,0,0,1
+San Jacinto,5 - COCISD,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+San Jacinto,5 - COCISD,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+San Jacinto,5 - COCISD,President,,,Under Votes,0,0,0,0
+San Jacinto,5 - COCISD,President,,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,U.S. Senate,,REP,Ted Cruz,1,0,1,0
+San Jacinto,5 - COCISD,U.S. Senate,,DEM,Colin Allred,1,0,0,1
+San Jacinto,5 - COCISD,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+San Jacinto,5 - COCISD,U.S. Senate,,,Under Votes,0,0,0,0
+San Jacinto,5 - COCISD,U.S. Senate,,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,U.S. House,8,REP,Morgan Luttrell,2,0,1,1
+San Jacinto,5 - COCISD,U.S. House,8,DEM,Laura Jones,1,0,0,1
+San Jacinto,5 - COCISD,U.S. House,8,,Under Votes,0,0,0,0
+San Jacinto,5 - COCISD,U.S. House,8,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,Railroad Commissioner,,REP,Christi Craddick,2,0,1,1
+San Jacinto,5 - COCISD,Railroad Commissioner,,DEM,Katherine Culbert,1,0,0,1
+San Jacinto,5 - COCISD,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+San Jacinto,5 - COCISD,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+San Jacinto,5 - COCISD,Railroad Commissioner,,,Under Votes,0,0,0,0
+San Jacinto,5 - COCISD,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,2,0,1,1
+San Jacinto,5 - COCISD,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,1,0,0,1
+San Jacinto,5 - COCISD,"Justice, Supreme Court, Place 2",2,,Under Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Justice, Supreme Court, Place 4",4,REP,John Devine,2,0,1,1
+San Jacinto,5 - COCISD,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,1,0,0,1
+San Jacinto,5 - COCISD,"Justice, Supreme Court, Place 4",4,,Under Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1,0,1,0
+San Jacinto,5 - COCISD,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,1,0,0,1
+San Jacinto,5 - COCISD,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,1,0,0,1
+San Jacinto,5 - COCISD,"Justice, Supreme Court, Place 6",6,,Under Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,2,0,1,1
+San Jacinto,5 - COCISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,1,0,0,1
+San Jacinto,5 - COCISD,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,2,0,1,1
+San Jacinto,5 - COCISD,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,1,0,0,1
+San Jacinto,5 - COCISD,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,2,0,1,1
+San Jacinto,5 - COCISD,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,1,0,0,1
+San Jacinto,5 - COCISD,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,State Representative,18,REP,Janis Holt,1,0,1,0
+San Jacinto,5 - COCISD,State Representative,18,LIB,Seth Steele,2,0,0,2
+San Jacinto,5 - COCISD,State Representative,18,,Under Votes,0,0,0,0
+San Jacinto,5 - COCISD,State Representative,18,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Justice, 9th Court of Appeals District, Place 3",3,REP,Leanne Johnson,3,0,1,2
+San Jacinto,5 - COCISD,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,2,0,1,1
+San Jacinto,5 - COCISD,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,1,0,0,1
+San Jacinto,5 - COCISD,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,"District Judge, 411th Judicial District",411,REP,John Wells,3,0,1,2
+San Jacinto,5 - COCISD,"District Judge, 411th Judicial District",411,,Under Votes,0,0,0,0
+San Jacinto,5 - COCISD,"District Judge, 411th Judicial District",411,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,Sheriff,,REP,Sam Houston,2,0,1,1
+San Jacinto,5 - COCISD,Sheriff,,,Under Votes,1,0,0,1
+San Jacinto,5 - COCISD,Sheriff,,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,County Tax Assessor-Collector,,REP,Betty Davis,2,0,1,1
+San Jacinto,5 - COCISD,County Tax Assessor-Collector,,,Under Votes,1,0,0,1
+San Jacinto,5 - COCISD,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,"County Commissioner, Precinct 3",,REP,Crystal Dominy,2,0,1,1
+San Jacinto,5 - COCISD,"County Commissioner, Precinct 3",,,Under Votes,1,0,0,1
+San Jacinto,5 - COCISD,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Constable, Precinct 3",,REP,Kevin Freed,3,0,1,2
+San Jacinto,5 - COCISD,"Constable, Precinct 3",,,Under Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Constable, Precinct 3",,,Under Votes,0,0,0,0
+San Jacinto,5 - COCISD,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,Registered Voters,,,,690,,,
+San Jacinto,Willis ISD,Ballots Cast,,,,334,,,
+San Jacinto,Willis ISD,President,,REP,Donald J. Trump JD Vance,304,2,206,96
+San Jacinto,Willis ISD,President,,DEM,Kamala D. Harris Tim Walz,29,0,18,11
+San Jacinto,Willis ISD,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+San Jacinto,Willis ISD,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+San Jacinto,Willis ISD,President,,,Under Votes,0,0,0,0
+San Jacinto,Willis ISD,President,,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,U.S. Senate,,REP,Ted Cruz,290,2,199,89
+San Jacinto,Willis ISD,U.S. Senate,,DEM,Colin Allred,37,0,22,15
+San Jacinto,Willis ISD,U.S. Senate,,LIB,Ted Brown,7,0,3,4
+San Jacinto,Willis ISD,U.S. Senate,,,Under Votes,0,0,0,0
+San Jacinto,Willis ISD,U.S. Senate,,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,U.S. House,8,REP,Morgan Luttrell,302,2,204,96
+San Jacinto,Willis ISD,U.S. House,8,DEM,Laura Jones,29,0,18,11
+San Jacinto,Willis ISD,U.S. House,8,,Under Votes,3,0,2,1
+San Jacinto,Willis ISD,U.S. House,8,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,Railroad Commissioner,,REP,Christi Craddick,287,2,195,90
+San Jacinto,Willis ISD,Railroad Commissioner,,DEM,Katherine Culbert,26,0,17,9
+San Jacinto,Willis ISD,Railroad Commissioner,,LIB,Hawk Dunlap,15,0,7,8
+San Jacinto,Willis ISD,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,2,1
+San Jacinto,Willis ISD,Railroad Commissioner,,,Under Votes,3,0,3,0
+San Jacinto,Willis ISD,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,296,2,201,93
+San Jacinto,Willis ISD,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,32,0,18,14
+San Jacinto,Willis ISD,"Justice, Supreme Court, Place 2",2,,Under Votes,6,0,5,1
+San Jacinto,Willis ISD,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,"Justice, Supreme Court, Place 4",4,REP,John Devine,299,2,203,94
+San Jacinto,Willis ISD,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,30,0,17,13
+San Jacinto,Willis ISD,"Justice, Supreme Court, Place 4",4,,Under Votes,5,0,4,1
+San Jacinto,Willis ISD,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,290,2,198,90
+San Jacinto,Willis ISD,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,30,0,17,13
+San Jacinto,Willis ISD,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,10,0,5,5
+San Jacinto,Willis ISD,"Justice, Supreme Court, Place 6",6,,Under Votes,4,0,4,0
+San Jacinto,Willis ISD,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,297,2,201,94
+San Jacinto,Willis ISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,33,0,20,13
+San Jacinto,Willis ISD,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,4,0,3,1
+San Jacinto,Willis ISD,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,298,2,202,94
+San Jacinto,Willis ISD,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,29,0,16,13
+San Jacinto,Willis ISD,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,7,0,6,1
+San Jacinto,Willis ISD,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,297,2,202,93
+San Jacinto,Willis ISD,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,29,0,16,13
+San Jacinto,Willis ISD,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,8,0,6,2
+San Jacinto,Willis ISD,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,State Representative,18,REP,Janis Holt,295,2,198,95
+San Jacinto,Willis ISD,State Representative,18,LIB,Seth Steele,29,0,16,13
+San Jacinto,Willis ISD,State Representative,18,,Under Votes,10,0,10,0
+San Jacinto,Willis ISD,State Representative,18,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,"Justice, 9th Court of Appeals District, Place 3",3,REP,Leanne Johnson,309,2,204,103
+San Jacinto,Willis ISD,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,25,0,20,5
+San Jacinto,Willis ISD,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,307,2,204,101
+San Jacinto,Willis ISD,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,27,0,20,7
+San Jacinto,Willis ISD,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,"District Judge, 411th Judicial District",411,REP,John Wells,307,2,205,100
+San Jacinto,Willis ISD,"District Judge, 411th Judicial District",411,,Under Votes,27,0,19,8
+San Jacinto,Willis ISD,"District Judge, 411th Judicial District",411,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,Sheriff,,REP,Sam Houston,307,2,202,103
+San Jacinto,Willis ISD,Sheriff,,,Under Votes,27,0,22,5
+San Jacinto,Willis ISD,Sheriff,,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,County Tax Assessor-Collector,,REP,Betty Davis,310,2,205,103
+San Jacinto,Willis ISD,County Tax Assessor-Collector,,,Under Votes,24,0,19,5
+San Jacinto,Willis ISD,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,"County Commissioner, Precinct 3",,REP,Crystal Dominy,3,0,3,0
+San Jacinto,Willis ISD,"County Commissioner, Precinct 3",,,Under Votes,0,0,0,0
+San Jacinto,Willis ISD,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,"Constable, Precinct 3",,REP,Kevin Freed,3,0,3,0
+San Jacinto,Willis ISD,"Constable, Precinct 3",,,Under Votes,0,0,0,0
+San Jacinto,Willis ISD,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,"Constable, Precinct 3",,,Under Votes,15,0,10,5
+San Jacinto,Willis ISD,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,"Constable, Precinct 3",,,Under Votes,15,0,11,4
+San Jacinto,Willis ISD,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Jacinto,Willis ISD,"Constable, Precinct 3",,,Under Votes,16,0,10,6
+San Jacinto,Willis ISD,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Jacinto,6,Registered Voters,,,,2232,,,
+San Jacinto,6,Ballots Cast,,,,1626,,,
+San Jacinto,6,President,,REP,Donald J. Trump JD Vance,1339,32,1144,163
+San Jacinto,6,President,,DEM,Kamala D. Harris Tim Walz,270,20,217,33
+San Jacinto,6,President,,LIB,Chase Oliver Mike ter Maat,6,0,6,0
+San Jacinto,6,President,,GRN,Jill Stein Rudolph Ware,3,0,3,0
+San Jacinto,6,President,,,Under Votes,5,0,2,3
+San Jacinto,6,President,,,Over Votes,0,0,0,0
+San Jacinto,6,U.S. Senate,,REP,Ted Cruz,1292,34,1114,144
+San Jacinto,6,U.S. Senate,,DEM,Colin Allred,287,17,227,43
+San Jacinto,6,U.S. Senate,,LIB,Ted Brown,28,0,19,9
+San Jacinto,6,U.S. Senate,,,Under Votes,19,1,15,3
+San Jacinto,6,U.S. Senate,,,Over Votes,0,0,0,0
+San Jacinto,6,U.S. House,8,REP,Morgan Luttrell,1351,33,1157,161
+San Jacinto,6,U.S. House,8,DEM,Laura Jones,247,18,199,30
+San Jacinto,6,U.S. House,8,,Under Votes,28,1,19,8
+San Jacinto,6,U.S. House,8,,Over Votes,0,0,0,0
+San Jacinto,6,Railroad Commissioner,,REP,Christi Craddick,1296,31,1119,146
+San Jacinto,6,Railroad Commissioner,,DEM,Katherine Culbert,233,18,187,28
+San Jacinto,6,Railroad Commissioner,,LIB,Hawk Dunlap,37,0,25,12
+San Jacinto,6,Railroad Commissioner,,GRN,Eddie Espinoza,8,2,4,2
+San Jacinto,6,Railroad Commissioner,,,Under Votes,50,1,38,11
+San Jacinto,6,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Jacinto,6,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1346,31,1153,162
+San Jacinto,6,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,239,19,192,28
+San Jacinto,6,"Justice, Supreme Court, Place 2",2,,Under Votes,41,2,30,9
+San Jacinto,6,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Jacinto,6,"Justice, Supreme Court, Place 4",4,REP,John Devine,1323,29,1137,157
+San Jacinto,6,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,256,21,206,29
+San Jacinto,6,"Justice, Supreme Court, Place 4",4,,Under Votes,47,2,32,13
+San Jacinto,6,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,6,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1307,33,1125,149
+San Jacinto,6,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,235,18,188,29
+San Jacinto,6,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,39,0,31,8
+San Jacinto,6,"Justice, Supreme Court, Place 6",6,,Under Votes,45,1,31,13
+San Jacinto,6,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Jacinto,6,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1330,30,1142,158
+San Jacinto,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,250,20,200,30
+San Jacinto,6,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,46,2,33,11
+San Jacinto,6,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Jacinto,6,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1341,32,1151,158
+San Jacinto,6,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,238,18,192,28
+San Jacinto,6,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,47,2,32,13
+San Jacinto,6,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Jacinto,6,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1343,33,1149,161
+San Jacinto,6,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,231,17,187,27
+San Jacinto,6,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,52,2,39,11
+San Jacinto,6,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Jacinto,6,State Representative,18,REP,Janis Holt,1346,34,1161,151
+San Jacinto,6,State Representative,18,LIB,Seth Steele,174,11,133,30
+San Jacinto,6,State Representative,18,,Under Votes,106,7,81,18
+San Jacinto,6,State Representative,18,,Over Votes,0,0,0,0
+San Jacinto,6,"Justice, 9th Court of Appeals District, Place 3",3,REP,Leanne Johnson,1424,38,1215,171
+San Jacinto,6,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,202,14,160,28
+San Jacinto,6,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Jacinto,6,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,1410,37,1204,169
+San Jacinto,6,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,216,15,171,30
+San Jacinto,6,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,6,"District Judge, 411th Judicial District",411,REP,John Wells,1412,34,1210,168
+San Jacinto,6,"District Judge, 411th Judicial District",411,,Under Votes,214,18,165,31
+San Jacinto,6,"District Judge, 411th Judicial District",411,,Over Votes,0,0,0,0
+San Jacinto,6,Sheriff,,REP,Sam Houston,1336,37,1139,160
+San Jacinto,6,Sheriff,,,Under Votes,290,15,236,39
+San Jacinto,6,Sheriff,,,Over Votes,0,0,0,0
+San Jacinto,6,County Tax Assessor-Collector,,REP,Betty Davis,1441,36,1233,172
+San Jacinto,6,County Tax Assessor-Collector,,,Under Votes,185,16,142,27
+San Jacinto,6,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Jacinto,6,"Constable, Precinct 4",,REP,Brian Cosme,1413,35,1208,170
+San Jacinto,6,"Constable, Precinct 4",,,Under Votes,213,17,167,29
+San Jacinto,6,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Jacinto,6,"Constable, Precinct 4",,,Under Votes,109,10,75,24
+San Jacinto,6,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,Registered Voters,,,,0,,,
+San Jacinto,6 - SJC ESD2,Ballots Cast,,,,1,,,
+San Jacinto,6 - SJC ESD2,President,,REP,Donald J. Trump JD Vance,1,0,1,0
+San Jacinto,6 - SJC ESD2,President,,DEM,Kamala D. Harris Tim Walz,0,0,0,0
+San Jacinto,6 - SJC ESD2,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+San Jacinto,6 - SJC ESD2,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+San Jacinto,6 - SJC ESD2,President,,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,President,,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,U.S. Senate,,REP,Ted Cruz,1,0,1,0
+San Jacinto,6 - SJC ESD2,U.S. Senate,,DEM,Colin Allred,0,0,0,0
+San Jacinto,6 - SJC ESD2,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+San Jacinto,6 - SJC ESD2,U.S. Senate,,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,U.S. Senate,,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,U.S. House,8,REP,Morgan Luttrell,1,0,1,0
+San Jacinto,6 - SJC ESD2,U.S. House,8,DEM,Laura Jones,0,0,0,0
+San Jacinto,6 - SJC ESD2,U.S. House,8,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,U.S. House,8,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,Railroad Commissioner,,REP,Christi Craddick,1,0,1,0
+San Jacinto,6 - SJC ESD2,Railroad Commissioner,,DEM,Katherine Culbert,0,0,0,0
+San Jacinto,6 - SJC ESD2,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+San Jacinto,6 - SJC ESD2,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+San Jacinto,6 - SJC ESD2,Railroad Commissioner,,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1,0,1,0
+San Jacinto,6 - SJC ESD2,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Justice, Supreme Court, Place 2",2,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Justice, Supreme Court, Place 4",4,REP,John Devine,1,0,1,0
+San Jacinto,6 - SJC ESD2,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Justice, Supreme Court, Place 4",4,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1,0,1,0
+San Jacinto,6 - SJC ESD2,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Justice, Supreme Court, Place 6",6,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1,0,1,0
+San Jacinto,6 - SJC ESD2,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1,0,1,0
+San Jacinto,6 - SJC ESD2,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1,0,1,0
+San Jacinto,6 - SJC ESD2,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,State Representative,18,REP,Janis Holt,1,0,1,0
+San Jacinto,6 - SJC ESD2,State Representative,18,LIB,Seth Steele,0,0,0,0
+San Jacinto,6 - SJC ESD2,State Representative,18,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,State Representative,18,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Justice, 9th Court of Appeals District, Place 3",3,REP,Leanne Johnson,1,0,1,0
+San Jacinto,6 - SJC ESD2,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,1,0,1,0
+San Jacinto,6 - SJC ESD2,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"District Judge, 411th Judicial District",411,REP,John Wells,1,0,1,0
+San Jacinto,6 - SJC ESD2,"District Judge, 411th Judicial District",411,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"District Judge, 411th Judicial District",411,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,Sheriff,,REP,Sam Houston,1,0,1,0
+San Jacinto,6 - SJC ESD2,Sheriff,,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,Sheriff,,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,County Tax Assessor-Collector,,REP,Betty Davis,1,0,1,0
+San Jacinto,6 - SJC ESD2,County Tax Assessor-Collector,,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Constable, Precinct 4",,REP,Brian Cosme,1,0,1,0
+San Jacinto,6 - SJC ESD2,"Constable, Precinct 4",,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Constable, Precinct 4",,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Constable, Precinct 4",,,Under Votes,0,0,0,0
+San Jacinto,6 - SJC ESD2,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Jacinto,7,Registered Voters,,,,2167,,,
+San Jacinto,7,Ballots Cast,,,,1461,,,
+San Jacinto,7,President,,REP,Donald J. Trump JD Vance,1128,34,813,281
+San Jacinto,7,President,,DEM,Kamala D. Harris Tim Walz,317,26,191,100
+San Jacinto,7,President,,LIB,Chase Oliver Mike ter Maat,7,0,2,5
+San Jacinto,7,President,,GRN,Jill Stein Rudolph Ware,6,0,3,3
+San Jacinto,7,President,,,Under Votes,3,0,2,1
+San Jacinto,7,President,,,Over Votes,0,0,0,0
+San Jacinto,7,U.S. Senate,,REP,Ted Cruz,1091,30,795,266
+San Jacinto,7,U.S. Senate,,DEM,Colin Allred,337,29,200,108
+San Jacinto,7,U.S. Senate,,LIB,Ted Brown,26,0,12,14
+San Jacinto,7,U.S. Senate,,,Under Votes,6,0,4,2
+San Jacinto,7,U.S. Senate,,,Over Votes,0,0,0,0
+San Jacinto,7,U.S. House,8,REP,Morgan Luttrell,1138,36,823,279
+San Jacinto,7,U.S. House,8,DEM,Laura Jones,299,23,175,101
+San Jacinto,7,U.S. House,8,,Under Votes,24,1,13,10
+San Jacinto,7,U.S. House,8,,Over Votes,0,0,0,0
+San Jacinto,7,Railroad Commissioner,,REP,Christi Craddick,1121,35,809,277
+San Jacinto,7,Railroad Commissioner,,DEM,Katherine Culbert,277,21,165,91
+San Jacinto,7,Railroad Commissioner,,LIB,Hawk Dunlap,24,1,13,10
+San Jacinto,7,Railroad Commissioner,,GRN,Eddie Espinoza,12,1,7,4
+San Jacinto,7,Railroad Commissioner,,,Under Votes,27,2,17,8
+San Jacinto,7,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Jacinto,7,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,1142,37,829,276
+San Jacinto,7,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,291,20,167,104
+San Jacinto,7,"Justice, Supreme Court, Place 2",2,,Under Votes,28,3,15,10
+San Jacinto,7,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Jacinto,7,"Justice, Supreme Court, Place 4",4,REP,John Devine,1125,37,812,276
+San Jacinto,7,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,304,20,181,103
+San Jacinto,7,"Justice, Supreme Court, Place 4",4,,Under Votes,32,3,18,11
+San Jacinto,7,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,7,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,1110,32,808,270
+San Jacinto,7,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,281,24,168,89
+San Jacinto,7,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,31,0,14,17
+San Jacinto,7,"Justice, Supreme Court, Place 6",6,,Under Votes,39,4,21,14
+San Jacinto,7,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Jacinto,7,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1115,34,806,275
+San Jacinto,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,304,22,181,101
+San Jacinto,7,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,42,4,24,14
+San Jacinto,7,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Jacinto,7,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,1127,34,818,275
+San Jacinto,7,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,293,22,172,99
+San Jacinto,7,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,41,4,21,16
+San Jacinto,7,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Jacinto,7,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,1133,37,817,279
+San Jacinto,7,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,285,19,170,96
+San Jacinto,7,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,43,4,24,15
+San Jacinto,7,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Jacinto,7,State Representative,18,REP,Janis Holt,1157,39,834,284
+San Jacinto,7,State Representative,18,LIB,Seth Steele,206,13,120,73
+San Jacinto,7,State Representative,18,,Under Votes,98,8,57,33
+San Jacinto,7,State Representative,18,,Over Votes,0,0,0,0
+San Jacinto,7,"Justice, 9th Court of Appeals District, Place 3",3,REP,Leanne Johnson,1243,40,892,311
+San Jacinto,7,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,218,20,119,79
+San Jacinto,7,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Jacinto,7,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,1226,38,876,312
+San Jacinto,7,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,235,22,135,78
+San Jacinto,7,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,7,"District Judge, 411th Judicial District",411,REP,John Wells,1230,40,881,309
+San Jacinto,7,"District Judge, 411th Judicial District",411,,Under Votes,231,20,130,81
+San Jacinto,7,"District Judge, 411th Judicial District",411,,Over Votes,0,0,0,0
+San Jacinto,7,Sheriff,,REP,Sam Houston,1229,40,878,311
+San Jacinto,7,Sheriff,,,Under Votes,232,20,133,79
+San Jacinto,7,Sheriff,,,Over Votes,0,0,0,0
+San Jacinto,7,County Tax Assessor-Collector,,REP,Betty Davis,1262,41,899,322
+San Jacinto,7,County Tax Assessor-Collector,,,Under Votes,199,19,112,68
+San Jacinto,7,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Jacinto,7,"Constable, Precinct 4",,REP,Brian Cosme,1236,40,882,314
+San Jacinto,7,"Constable, Precinct 4",,,Under Votes,225,20,129,76
+San Jacinto,7,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Jacinto,7,"Constable, Precinct 4",,,Under Votes,111,11,72,28
+San Jacinto,7,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Jacinto,ESD2,Registered Voters,,,,491,,,
+San Jacinto,ESD2,Ballots Cast,,,,340,,,
+San Jacinto,ESD2,President,,REP,Donald J. Trump JD Vance,272,15,176,81
+San Jacinto,ESD2,President,,DEM,Kamala D. Harris Tim Walz,63,1,45,17
+San Jacinto,ESD2,President,,LIB,Chase Oliver Mike ter Maat,3,0,3,0
+San Jacinto,ESD2,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+San Jacinto,ESD2,President,,,Under Votes,1,0,0,1
+San Jacinto,ESD2,President,,,Over Votes,0,0,0,0
+San Jacinto,ESD2,U.S. Senate,,REP,Ted Cruz,261,15,171,75
+San Jacinto,ESD2,U.S. Senate,,DEM,Colin Allred,73,1,50,22
+San Jacinto,ESD2,U.S. Senate,,LIB,Ted Brown,5,0,3,2
+San Jacinto,ESD2,U.S. Senate,,,Under Votes,1,0,0,1
+San Jacinto,ESD2,U.S. Senate,,,Over Votes,0,0,0,0
+San Jacinto,ESD2,U.S. House,8,REP,Morgan Luttrell,269,15,176,78
+San Jacinto,ESD2,U.S. House,8,DEM,Laura Jones,66,1,46,19
+San Jacinto,ESD2,U.S. House,8,,Under Votes,5,0,2,3
+San Jacinto,ESD2,U.S. House,8,,Over Votes,0,0,0,0
+San Jacinto,ESD2,Railroad Commissioner,,REP,Christi Craddick,256,15,169,72
+San Jacinto,ESD2,Railroad Commissioner,,DEM,Katherine Culbert,59,1,43,15
+San Jacinto,ESD2,Railroad Commissioner,,LIB,Hawk Dunlap,13,0,5,8
+San Jacinto,ESD2,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,4,1
+San Jacinto,ESD2,Railroad Commissioner,,,Under Votes,7,0,3,4
+San Jacinto,ESD2,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Jacinto,ESD2,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,272,15,178,79
+San Jacinto,ESD2,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,62,1,44,17
+San Jacinto,ESD2,"Justice, Supreme Court, Place 2",2,,Under Votes,6,0,2,4
+San Jacinto,ESD2,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Jacinto,ESD2,"Justice, Supreme Court, Place 4",4,REP,John Devine,267,15,172,80
+San Jacinto,ESD2,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,68,1,49,18
+San Jacinto,ESD2,"Justice, Supreme Court, Place 4",4,,Under Votes,5,0,3,2
+San Jacinto,ESD2,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,ESD2,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,264,15,174,75
+San Jacinto,ESD2,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,59,1,41,17
+San Jacinto,ESD2,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,12,0,6,6
+San Jacinto,ESD2,"Justice, Supreme Court, Place 6",6,,Under Votes,5,0,3,2
+San Jacinto,ESD2,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Jacinto,ESD2,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,270,15,176,79
+San Jacinto,ESD2,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,62,1,45,16
+San Jacinto,ESD2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,8,0,3,5
+San Jacinto,ESD2,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Jacinto,ESD2,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,269,15,177,77
+San Jacinto,ESD2,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,62,1,44,17
+San Jacinto,ESD2,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,9,0,3,6
+San Jacinto,ESD2,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Jacinto,ESD2,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,269,15,177,77
+San Jacinto,ESD2,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,62,1,44,17
+San Jacinto,ESD2,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,9,0,3,6
+San Jacinto,ESD2,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Jacinto,ESD2,State Representative,18,REP,Janis Holt,282,14,189,79
+San Jacinto,ESD2,State Representative,18,LIB,Seth Steele,42,2,27,13
+San Jacinto,ESD2,State Representative,18,,Under Votes,16,0,8,8
+San Jacinto,ESD2,State Representative,18,,Over Votes,0,0,0,0
+San Jacinto,ESD2,"Justice, 9th Court of Appeals District, Place 3",3,REP,Leanne Johnson,305,14,204,87
+San Jacinto,ESD2,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,35,2,20,13
+San Jacinto,ESD2,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Jacinto,ESD2,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,303,14,202,87
+San Jacinto,ESD2,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,37,2,22,13
+San Jacinto,ESD2,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,ESD2,"District Judge, 411th Judicial District",411,REP,John Wells,298,12,201,85
+San Jacinto,ESD2,"District Judge, 411th Judicial District",411,,Under Votes,42,4,23,15
+San Jacinto,ESD2,"District Judge, 411th Judicial District",411,,Over Votes,0,0,0,0
+San Jacinto,ESD2,Sheriff,,REP,Sam Houston,302,12,202,88
+San Jacinto,ESD2,Sheriff,,,Under Votes,38,4,22,12
+San Jacinto,ESD2,Sheriff,,,Over Votes,0,0,0,0
+San Jacinto,ESD2,County Tax Assessor-Collector,,REP,Betty Davis,307,12,205,90
+San Jacinto,ESD2,County Tax Assessor-Collector,,,Under Votes,33,4,19,10
+San Jacinto,ESD2,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Jacinto,ESD2,"Constable, Precinct 4",,REP,Brian Cosme,299,12,200,87
+San Jacinto,ESD2,"Constable, Precinct 4",,,Under Votes,41,4,24,13
+San Jacinto,ESD2,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Jacinto,ESD2,"Constable, Precinct 4",,,Under Votes,15,3,5,7
+San Jacinto,ESD2,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Jacinto,ESD2,"Constable, Precinct 4",,,Under Votes,19,3,8,8
+San Jacinto,ESD2,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Jacinto,8,Registered Voters,,,,1095,,,
+San Jacinto,8,Ballots Cast,,,,769,,,
+San Jacinto,8,President,,REP,Donald J. Trump JD Vance,600,19,357,224
+San Jacinto,8,President,,DEM,Kamala D. Harris Tim Walz,160,18,74,68
+San Jacinto,8,President,,LIB,Chase Oliver Mike ter Maat,2,0,1,1
+San Jacinto,8,President,,GRN,Jill Stein Rudolph Ware,4,0,0,4
+San Jacinto,8,President,,,Under Votes,3,0,0,3
+San Jacinto,8,President,,,Over Votes,0,0,0,0
+San Jacinto,8,U.S. Senate,,REP,Ted Cruz,588,18,350,220
+San Jacinto,8,U.S. Senate,,DEM,Colin Allred,164,18,77,69
+San Jacinto,8,U.S. Senate,,LIB,Ted Brown,12,1,4,7
+San Jacinto,8,U.S. Senate,,,Under Votes,5,0,1,4
+San Jacinto,8,U.S. Senate,,,Over Votes,0,0,0,0
+San Jacinto,8,U.S. House,8,REP,Morgan Luttrell,609,18,361,230
+San Jacinto,8,U.S. House,8,DEM,Laura Jones,144,17,66,61
+San Jacinto,8,U.S. House,8,,Under Votes,16,2,5,9
+San Jacinto,8,U.S. House,8,,Over Votes,0,0,0,0
+San Jacinto,8,Railroad Commissioner,,REP,Christi Craddick,584,18,354,212
+San Jacinto,8,Railroad Commissioner,,DEM,Katherine Culbert,134,17,63,54
+San Jacinto,8,Railroad Commissioner,,LIB,Hawk Dunlap,19,0,7,12
+San Jacinto,8,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,4,4
+San Jacinto,8,Railroad Commissioner,,,Under Votes,24,2,4,18
+San Jacinto,8,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Jacinto,8,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,608,18,359,231
+San Jacinto,8,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,143,17,70,56
+San Jacinto,8,"Justice, Supreme Court, Place 2",2,,Under Votes,18,2,3,13
+San Jacinto,8,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Jacinto,8,"Justice, Supreme Court, Place 4",4,REP,John Devine,604,19,359,226
+San Jacinto,8,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,145,16,70,59
+San Jacinto,8,"Justice, Supreme Court, Place 4",4,,Under Votes,20,2,3,15
+San Jacinto,8,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,8,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,593,19,355,219
+San Jacinto,8,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,146,16,70,60
+San Jacinto,8,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,11,0,3,8
+San Jacinto,8,"Justice, Supreme Court, Place 6",6,,Under Votes,19,2,4,13
+San Jacinto,8,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Jacinto,8,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,603,18,357,228
+San Jacinto,8,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,145,17,71,57
+San Jacinto,8,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,21,2,4,15
+San Jacinto,8,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Jacinto,8,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,605,18,356,231
+San Jacinto,8,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,138,17,69,52
+San Jacinto,8,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,26,2,7,17
+San Jacinto,8,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Jacinto,8,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,606,19,359,228
+San Jacinto,8,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,134,16,63,55
+San Jacinto,8,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,29,2,10,17
+San Jacinto,8,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Jacinto,8,State Representative,18,REP,Janis Holt,614,20,360,234
+San Jacinto,8,State Representative,18,LIB,Seth Steele,98,7,54,37
+San Jacinto,8,State Representative,18,,Under Votes,57,10,18,29
+San Jacinto,8,State Representative,18,,Over Votes,0,0,0,0
+San Jacinto,8,"Justice, 9th Court of Appeals District, Place 3",3,REP,Leanne Johnson,672,26,394,252
+San Jacinto,8,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,97,11,38,48
+San Jacinto,8,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Jacinto,8,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,658,26,386,246
+San Jacinto,8,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,111,11,46,54
+San Jacinto,8,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,8,"District Judge, 411th Judicial District",411,REP,John Wells,662,26,388,248
+San Jacinto,8,"District Judge, 411th Judicial District",411,,Under Votes,107,11,44,52
+San Jacinto,8,"District Judge, 411th Judicial District",411,,Over Votes,0,0,0,0
+San Jacinto,8,Sheriff,,REP,Sam Houston,656,26,384,246
+San Jacinto,8,Sheriff,,,Under Votes,113,11,48,54
+San Jacinto,8,Sheriff,,,Over Votes,0,0,0,0
+San Jacinto,8,County Tax Assessor-Collector,,REP,Betty Davis,687,26,403,258
+San Jacinto,8,County Tax Assessor-Collector,,,Under Votes,82,11,29,42
+San Jacinto,8,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Jacinto,8,"Constable, Precinct 4",,REP,Brian Cosme,670,26,391,253
+San Jacinto,8,"Constable, Precinct 4",,,Under Votes,99,11,41,47
+San Jacinto,8,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Jacinto,8,"Constable, Precinct 4",,,Under Votes,47,5,20,22
+San Jacinto,8,"Constable, Precinct 4",,,Over Votes,0,0,0,0
+San Jacinto,9,Registered Voters,,,,596,,,
+San Jacinto,9,Ballots Cast,,,,424,,,
+San Jacinto,9,President,,REP,Donald J. Trump JD Vance,382,8,279,95
+San Jacinto,9,President,,DEM,Kamala D. Harris Tim Walz,39,4,29,6
+San Jacinto,9,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+San Jacinto,9,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+San Jacinto,9,President,,,Under Votes,1,0,1,0
+San Jacinto,9,President,,,Over Votes,0,0,0,0
+San Jacinto,9,U.S. Senate,,REP,Ted Cruz,366,7,272,87
+San Jacinto,9,U.S. Senate,,DEM,Colin Allred,44,5,31,8
+San Jacinto,9,U.S. Senate,,LIB,Ted Brown,6,0,2,4
+San Jacinto,9,U.S. Senate,,,Under Votes,7,0,6,1
+San Jacinto,9,U.S. Senate,,,Over Votes,0,0,0,0
+San Jacinto,9,U.S. House,8,REP,Morgan Luttrell,372,8,275,89
+San Jacinto,9,U.S. House,8,DEM,Laura Jones,40,4,27,9
+San Jacinto,9,U.S. House,8,,Under Votes,12,0,9,3
+San Jacinto,9,U.S. House,8,,Over Votes,0,0,0,0
+San Jacinto,9,Railroad Commissioner,,REP,Christi Craddick,362,9,270,83
+San Jacinto,9,Railroad Commissioner,,DEM,Katherine Culbert,37,2,27,8
+San Jacinto,9,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,4,2
+San Jacinto,9,Railroad Commissioner,,GRN,Eddie Espinoza,2,1,0,1
+San Jacinto,9,Railroad Commissioner,,,Under Votes,17,0,10,7
+San Jacinto,9,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Jacinto,9,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,371,8,274,89
+San Jacinto,9,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,37,4,26,7
+San Jacinto,9,"Justice, Supreme Court, Place 2",2,,Under Votes,16,0,11,5
+San Jacinto,9,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Jacinto,9,"Justice, Supreme Court, Place 4",4,REP,John Devine,369,8,272,89
+San Jacinto,9,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,37,4,25,8
+San Jacinto,9,"Justice, Supreme Court, Place 4",4,,Under Votes,18,0,14,4
+San Jacinto,9,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,9,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,363,9,270,84
+San Jacinto,9,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,34,3,24,7
+San Jacinto,9,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,10,0,6,4
+San Jacinto,9,"Justice, Supreme Court, Place 6",6,,Under Votes,17,0,11,6
+San Jacinto,9,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Jacinto,9,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,364,9,272,83
+San Jacinto,9,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,42,3,28,11
+San Jacinto,9,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,18,0,11,7
+San Jacinto,9,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Jacinto,9,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,369,9,273,87
+San Jacinto,9,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,36,3,25,8
+San Jacinto,9,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,19,0,13,6
+San Jacinto,9,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Jacinto,9,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,373,9,276,88
+San Jacinto,9,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,35,3,24,8
+San Jacinto,9,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,16,0,11,5
+San Jacinto,9,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Jacinto,9,State Representative,18,REP,Janis Holt,352,10,256,86
+San Jacinto,9,State Representative,18,LIB,Seth Steele,42,1,33,8
+San Jacinto,9,State Representative,18,,Under Votes,30,1,22,7
+San Jacinto,9,State Representative,18,,Over Votes,0,0,0,0
+San Jacinto,9,"Justice, 9th Court of Appeals District, Place 3",3,REP,Leanne Johnson,391,11,286,94
+San Jacinto,9,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,33,1,25,7
+San Jacinto,9,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Jacinto,9,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,385,11,284,90
+San Jacinto,9,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,39,1,27,11
+San Jacinto,9,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,9,"District Judge, 411th Judicial District",411,REP,John Wells,383,10,284,89
+San Jacinto,9,"District Judge, 411th Judicial District",411,,Under Votes,41,2,27,12
+San Jacinto,9,"District Judge, 411th Judicial District",411,,Over Votes,0,0,0,0
+San Jacinto,9,Sheriff,,REP,Sam Houston,332,10,243,79
+San Jacinto,9,Sheriff,,,Under Votes,92,2,68,22
+San Jacinto,9,Sheriff,,,Over Votes,0,0,0,0
+San Jacinto,9,County Tax Assessor-Collector,,REP,Betty Davis,389,11,287,91
+San Jacinto,9,County Tax Assessor-Collector,,,Under Votes,35,1,24,10
+San Jacinto,9,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Jacinto,9,"County Commissioner, Precinct 3",,REP,Crystal Dominy,382,11,282,89
+San Jacinto,9,"County Commissioner, Precinct 3",,,Under Votes,42,1,29,12
+San Jacinto,9,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+San Jacinto,9,"Constable, Precinct 3",,REP,Kevin Freed,382,11,287,84
+San Jacinto,9,"Constable, Precinct 3",,,Under Votes,42,1,24,17
+San Jacinto,9,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Jacinto,9,"Constable, Precinct 3",,,Under Votes,33,1,23,9
+San Jacinto,9,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Jacinto,10,Registered Voters,,,,813,,,
+San Jacinto,10,Ballots Cast,,,,480,,,
+San Jacinto,10,President,,REP,Donald J. Trump JD Vance,398,6,250,142
+San Jacinto,10,President,,DEM,Kamala D. Harris Tim Walz,76,2,55,19
+San Jacinto,10,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+San Jacinto,10,President,,GRN,Jill Stein Rudolph Ware,4,0,3,1
+San Jacinto,10,President,,,Under Votes,1,0,1,0
+San Jacinto,10,President,,,Over Votes,0,0,0,0
+San Jacinto,10,U.S. Senate,,REP,Ted Cruz,380,6,243,131
+San Jacinto,10,U.S. Senate,,DEM,Colin Allred,85,2,58,25
+San Jacinto,10,U.S. Senate,,LIB,Ted Brown,12,0,8,4
+San Jacinto,10,U.S. Senate,,,Under Votes,3,0,1,2
+San Jacinto,10,U.S. Senate,,,Over Votes,0,0,0,0
+San Jacinto,10,U.S. House,8,REP,Morgan Luttrell,393,5,250,138
+San Jacinto,10,U.S. House,8,DEM,Laura Jones,72,2,52,18
+San Jacinto,10,U.S. House,8,,Under Votes,15,1,8,6
+San Jacinto,10,U.S. House,8,,Over Votes,0,0,0,0
+San Jacinto,10,Railroad Commissioner,,REP,Christi Craddick,370,6,237,127
+San Jacinto,10,Railroad Commissioner,,DEM,Katherine Culbert,68,2,50,16
+San Jacinto,10,Railroad Commissioner,,LIB,Hawk Dunlap,15,0,10,5
+San Jacinto,10,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,4,4
+San Jacinto,10,Railroad Commissioner,,,Under Votes,19,0,9,10
+San Jacinto,10,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Jacinto,10,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,392,6,250,136
+San Jacinto,10,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,69,2,49,18
+San Jacinto,10,"Justice, Supreme Court, Place 2",2,,Under Votes,19,0,11,8
+San Jacinto,10,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Jacinto,10,"Justice, Supreme Court, Place 4",4,REP,John Devine,390,5,250,135
+San Jacinto,10,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,71,2,51,18
+San Jacinto,10,"Justice, Supreme Court, Place 4",4,,Under Votes,19,1,9,9
+San Jacinto,10,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,10,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,382,5,246,131
+San Jacinto,10,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,64,2,47,15
+San Jacinto,10,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,16,0,8,8
+San Jacinto,10,"Justice, Supreme Court, Place 6",6,,Under Votes,18,1,9,8
+San Jacinto,10,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Jacinto,10,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,395,5,256,134
+San Jacinto,10,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,70,2,49,19
+San Jacinto,10,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,15,1,5,9
+San Jacinto,10,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Jacinto,10,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,390,5,251,134
+San Jacinto,10,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,71,2,53,16
+San Jacinto,10,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,19,1,6,12
+San Jacinto,10,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Jacinto,10,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,389,5,251,133
+San Jacinto,10,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,65,2,48,15
+San Jacinto,10,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,26,1,11,14
+San Jacinto,10,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Jacinto,10,State Representative,18,REP,Janis Holt,384,5,250,129
+San Jacinto,10,State Representative,18,LIB,Seth Steele,64,2,43,19
+San Jacinto,10,State Representative,18,,Under Votes,32,1,17,14
+San Jacinto,10,State Representative,18,,Over Votes,0,0,0,0
+San Jacinto,10,"Justice, 9th Court of Appeals District, Place 3",3,REP,Leanne Johnson,410,5,263,142
+San Jacinto,10,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,70,3,47,20
+San Jacinto,10,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Jacinto,10,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,406,5,262,139
+San Jacinto,10,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,74,3,48,23
+San Jacinto,10,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,10,"District Judge, 411th Judicial District",411,REP,John Wells,406,5,262,139
+San Jacinto,10,"District Judge, 411th Judicial District",411,,Under Votes,74,3,48,23
+San Jacinto,10,"District Judge, 411th Judicial District",411,,Over Votes,0,0,0,0
+San Jacinto,10,Sheriff,,REP,Sam Houston,405,6,257,142
+San Jacinto,10,Sheriff,,,Under Votes,75,2,53,20
+San Jacinto,10,Sheriff,,,Over Votes,0,0,0,0
+San Jacinto,10,County Tax Assessor-Collector,,REP,Betty Davis,418,5,269,144
+San Jacinto,10,County Tax Assessor-Collector,,,Under Votes,62,3,41,18
+San Jacinto,10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Jacinto,10,"County Commissioner, Precinct 1",,REP,Luke Sweeney,409,5,264,140
+San Jacinto,10,"County Commissioner, Precinct 1",,,Under Votes,71,3,46,22
+San Jacinto,10,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+San Jacinto,10,"Constable, Precinct 1",,REP,Rae Lynn Phillips,408,5,267,136
+San Jacinto,10,"Constable, Precinct 1",,,Under Votes,72,3,43,26
+San Jacinto,10,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+San Jacinto,10,"Constable, Precinct 1",,,Under Votes,117,7,74,36
+San Jacinto,10,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+San Jacinto,10,"Constable, Precinct 1",,,Under Votes,133,7,87,39
+San Jacinto,10,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+San Jacinto,11,Registered Voters,,,,805,,,
+San Jacinto,11,Ballots Cast,,,,490,,,
+San Jacinto,11,President,,REP,Donald J. Trump JD Vance,359,15,287,57
+San Jacinto,11,President,,DEM,Kamala D. Harris Tim Walz,128,3,87,38
+San Jacinto,11,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+San Jacinto,11,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+San Jacinto,11,President,,,Under Votes,0,0,0,0
+San Jacinto,11,President,,,Over Votes,0,0,0,0
+San Jacinto,11,U.S. Senate,,REP,Ted Cruz,348,15,280,53
+San Jacinto,11,U.S. Senate,,DEM,Colin Allred,125,3,84,38
+San Jacinto,11,U.S. Senate,,LIB,Ted Brown,12,0,9,3
+San Jacinto,11,U.S. Senate,,,Under Votes,5,0,4,1
+San Jacinto,11,U.S. Senate,,,Over Votes,0,0,0,0
+San Jacinto,11,U.S. House,8,REP,Morgan Luttrell,359,15,290,54
+San Jacinto,11,U.S. House,8,DEM,Laura Jones,113,1,77,35
+San Jacinto,11,U.S. House,8,,Under Votes,18,2,10,6
+San Jacinto,11,U.S. House,8,,Over Votes,0,0,0,0
+San Jacinto,11,Railroad Commissioner,,REP,Christi Craddick,354,15,285,54
+San Jacinto,11,Railroad Commissioner,,DEM,Katherine Culbert,94,1,63,30
+San Jacinto,11,Railroad Commissioner,,LIB,Hawk Dunlap,14,0,11,3
+San Jacinto,11,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,4,1
+San Jacinto,11,Railroad Commissioner,,,Under Votes,23,2,14,7
+San Jacinto,11,Railroad Commissioner,,,Over Votes,0,0,0,0
+San Jacinto,11,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,355,15,288,52
+San Jacinto,11,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,109,1,72,36
+San Jacinto,11,"Justice, Supreme Court, Place 2",2,,Under Votes,26,2,17,7
+San Jacinto,11,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+San Jacinto,11,"Justice, Supreme Court, Place 4",4,REP,John Devine,351,15,284,52
+San Jacinto,11,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,110,1,74,35
+San Jacinto,11,"Justice, Supreme Court, Place 4",4,,Under Votes,29,2,19,8
+San Jacinto,11,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,11,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,347,14,282,51
+San Jacinto,11,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,96,1,64,31
+San Jacinto,11,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,17,1,11,5
+San Jacinto,11,"Justice, Supreme Court, Place 6",6,,Under Votes,30,2,20,8
+San Jacinto,11,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+San Jacinto,11,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,358,15,288,55
+San Jacinto,11,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,110,1,75,34
+San Jacinto,11,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,22,2,14,6
+San Jacinto,11,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+San Jacinto,11,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,356,15,287,54
+San Jacinto,11,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,107,1,72,34
+San Jacinto,11,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,27,2,18,7
+San Jacinto,11,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+San Jacinto,11,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,361,15,291,55
+San Jacinto,11,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,101,1,67,33
+San Jacinto,11,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,28,2,19,7
+San Jacinto,11,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+San Jacinto,11,State Representative,18,REP,Janis Holt,369,15,293,61
+San Jacinto,11,State Representative,18,LIB,Seth Steele,75,0,49,26
+San Jacinto,11,State Representative,18,,Under Votes,46,3,35,8
+San Jacinto,11,State Representative,18,,Over Votes,0,0,0,0
+San Jacinto,11,"Justice, 9th Court of Appeals District, Place 3",3,REP,Leanne Johnson,391,13,306,72
+San Jacinto,11,"Justice, 9th Court of Appeals District, Place 3",3,,Under Votes,99,5,71,23
+San Jacinto,11,"Justice, 9th Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+San Jacinto,11,"Justice, 9th Court of Appeals District, Place 4",4,REP,Kent Chambers,397,13,312,72
+San Jacinto,11,"Justice, 9th Court of Appeals District, Place 4",4,,Under Votes,93,5,65,23
+San Jacinto,11,"Justice, 9th Court of Appeals District, Place 4",4,,Over Votes,0,0,0,0
+San Jacinto,11,"District Judge, 411th Judicial District",411,REP,John Wells,388,9,307,72
+San Jacinto,11,"District Judge, 411th Judicial District",411,,Under Votes,102,9,70,23
+San Jacinto,11,"District Judge, 411th Judicial District",411,,Over Votes,0,0,0,0
+San Jacinto,11,Sheriff,,REP,Sam Houston,406,11,316,79
+San Jacinto,11,Sheriff,,,Under Votes,84,7,61,16
+San Jacinto,11,Sheriff,,,Over Votes,0,0,0,0
+San Jacinto,11,County Tax Assessor-Collector,,REP,Betty Davis,401,10,317,74
+San Jacinto,11,County Tax Assessor-Collector,,,Under Votes,89,8,60,21
+San Jacinto,11,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+San Jacinto,11,"County Commissioner, Precinct 3",,REP,Crystal Dominy,403,9,321,73
+San Jacinto,11,"County Commissioner, Precinct 3",,,Under Votes,87,9,56,22
+San Jacinto,11,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+San Jacinto,11,"Constable, Precinct 3",,REP,Kevin Freed,395,9,315,71
+San Jacinto,11,"Constable, Precinct 3",,,Under Votes,95,9,62,24
+San Jacinto,11,"Constable, Precinct 3",,,Over Votes,0,0,0,0
+San Jacinto,11,"Constable, Precinct 3",,,Under Votes,41,7,23,11
+San Jacinto,11,"Constable, Precinct 3",,,Over Votes,0,0,0,0
