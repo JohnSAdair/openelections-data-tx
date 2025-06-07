@@ -1,0 +1,276 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+San Saba,Precinct 1,"Ballots Cast",,,666,22,507,137
+San Saba,Precinct 1,"Ballots Cast Blank",,,0,0,0,0
+San Saba,Precinct 1,"President",,REP,"Donald J. Trump",585,11,458,116
+San Saba,Precinct 1,"President",,DEM,"Kamala D. Harris",71,10,44,17
+San Saba,Precinct 1,"President",,LIB,"Chase Oliver",4,0,2,2
+San Saba,Precinct 1,"President",,GRN,"Jill Stein",2,0,1,1
+San Saba,Precinct 1,"President",,,"Write-ins",0,0,0,0
+San Saba,Precinct 1,"U.S. Senate",,REP,"Ted Cruz",551,11,443,97
+San Saba,Precinct 1,"U.S. Senate",,DEM,"Colin Allred",92,10,51,31
+San Saba,Precinct 1,"U.S. Senate",,LIB,"Ted Brown",16,0,7,9
+San Saba,Precinct 1,"U.S. Senate",,,"Write-ins",0,0,0,0
+San Saba,Precinct 1,"U.S. House",11,REP,"August Pfluger",557,11,442,104
+San Saba,Precinct 1,"Railroad Commissioner",,REP,"Christi Craddick",541,11,431,99
+San Saba,Precinct 1,"Railroad Commissioner",,DEM,"Katherine Culbert",64,7,38,19
+San Saba,Precinct 1,"Railroad Commissioner",,LIB,"Hawk Dunlap",16,0,9,7
+San Saba,Precinct 1,"Railroad Commissioner",,GRN,"Eddie Espinoza",11,2,8,1
+San Saba,Precinct 1,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+San Saba,Precinct 1,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",562,11,445,106
+San Saba,Precinct 1,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",67,9,39,19
+San Saba,Precinct 1,"Justice, Supreme Court, PI 4",,REP,"John Devine",545,10,436,99
+San Saba,Precinct 1,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",74,9,43,22
+San Saba,Precinct 1,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",544,11,431,102
+San Saba,Precinct 1,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",65,9,38,18
+San Saba,Precinct 1,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",16,0,11,5
+San Saba,Precinct 1,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",552,11,442,99
+San Saba,Precinct 1,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",70,9,39,22
+San Saba,Precinct 1,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",549,11,434,104
+San Saba,Precinct 1,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",65,8,39,18
+San Saba,Precinct 1,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",549,11,434,104
+San Saba,Precinct 1,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",67,9,38,20
+San Saba,Precinct 1,"Member, State BoE, Dist 10",,REP,"Tom Maynard",545,10,433,102
+San Saba,Precinct 1,"Member, State BoE, Dist 10",,DEM,"Raquel Saenz Ortiz",70,9,39,22
+San Saba,Precinct 1,"State Representative",68,REP,"David Spiller",551,11,437,103
+San Saba,Precinct 1,"State Representative",68,DEM,"Stacey Swann",71,8,40,23
+San Saba,Precinct 1,"Justice, 3rd Ct of App Dist, PI 2",,REP,"John Messinger",547,10,437,100
+San Saba,Precinct 1,"Justice, 3rd Ct of App Dist, PI 2",,DEM,"Maggie Ellis",69,7,39,23
+San Saba,Precinct 1,"Justice, 3rd Ct of App Dist, PI 3",,DEM,"Chari Kelly",170,9,115,46
+San Saba,Precinct 1,"Justice, 3rd Ct of App Dist, PI 5",,DEM,"Karin Crump",157,9,104,44
+San Saba,Precinct 1,"Justice, 3rd Ct of App Dist, PI 6",,DEM,"Gisela D. Triana",153,9,102,42
+San Saba,Precinct 1,"Dist Judge, 33rd Judicial Dist",,REP,"Allan Garrett",534,11,428,95
+San Saba,Precinct 1,"Dist Attorney, 33rd Judicial Dist",,REP,"Perry Thomas",526,12,419,95
+San Saba,Precinct 1,"County Attorney",,REP,"Randall ""Randy"" Robinson",501,12,397,92
+San Saba,Precinct 1,"Sheriff",,REP,"David L. Jenkins",516,13,409,94
+San Saba,Precinct 1,"County Commissioner Pct 1",,REP,"James B. Lebow",530,14,424,92
+San Saba,Precinct 1,"Proposition",,,"For",294,7,227,60
+San Saba,Precinct 1,"Proposition",,,"Against",291,8,222,61
+San Saba,Precinct 2A,"Ballots Cast",,,555,13,337,205
+San Saba,Precinct 2A,"Ballots Cast Blank",,,0,0,0,0
+San Saba,Precinct 2A,"President",,REP,"Donald J. Trump",506,8,308,191
+San Saba,Precinct 2A,"President",,DEM,"Kamala D. Harris",41,4,30,7
+San Saba,Precinct 2A,"President",,LIB,"Chase Oliver",1,0,1,0
+San Saba,Precinct 2A,"President",,GRN,"Jill Stein",1,0,0,1
+San Saba,Precinct 2A,"President",,,"Write-ins",3,0,0,3
+San Saba,Precinct 2A,"U.S. Senate",,REP,"Ted Cruz",498,10,301,187
+San Saba,Precinct 2A,"U.S. Senate",,DEM,"Colin Allred",48,3,32,13
+San Saba,Precinct 2A,"U.S. Senate",,LIB,"Ted Brown",5,0,3,2
+San Saba,Precinct 2A,"U.S. Senate",,,"Write-ins",0,0,0,0
+San Saba,Precinct 2A,"U.S. House",11,REP,"August Pfluger",481,9,294,178
+San Saba,Precinct 2A,"Railroad Commissioner",,REP,"Christi Craddick",477,9,294,174
+San Saba,Precinct 2A,"Railroad Commissioner",,DEM,"Katherine Culbert",38,3,28,7
+San Saba,Precinct 2A,"Railroad Commissioner",,LIB,"Hawk Dunlap",13,0,6,7
+San Saba,Precinct 2A,"Railroad Commissioner",,GRN,"Eddie Espinoza",4,0,2,2
+San Saba,Precinct 2A,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+San Saba,Precinct 2A,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",492,10,298,184
+San Saba,Precinct 2A,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",37,3,25,9
+San Saba,Precinct 2A,"Justice, Supreme Court, PI 4",,REP,"John Devine",485,10,292,183
+San Saba,Precinct 2A,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",42,3,28,11
+San Saba,Precinct 2A,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",480,10,292,178
+San Saba,Precinct 2A,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",36,3,25,8
+San Saba,Precinct 2A,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",15,0,6,9
+San Saba,Precinct 2A,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",487,10,293,184
+San Saba,Precinct 2A,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",42,3,29,10
+San Saba,Precinct 2A,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",484,10,292,182
+San Saba,Precinct 2A,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",37,3,24,10
+San Saba,Precinct 2A,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",489,10,295,184
+San Saba,Precinct 2A,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",38,3,26,9
+San Saba,Precinct 2A,"Member, State BoE, Dist 10",,REP,"Tom Maynard",483,10,291,182
+San Saba,Precinct 2A,"Member, State BoE, Dist 10",,DEM,"Raquel Saenz Ortiz",43,3,30,10
+San Saba,Precinct 2A,"State Representative",68,REP,"David Spiller",490,9,298,183
+San Saba,Precinct 2A,"State Representative",68,DEM,"Stacey Swann",40,3,28,9
+San Saba,Precinct 2A,"Justice, 3rd Ct of App Dist, PI 2",,REP,"John Messinger",479,9,289,181
+San Saba,Precinct 2A,"Justice, 3rd Ct of App Dist, PI 2",,DEM,"Maggie Ellis",42,3,30,9
+San Saba,Precinct 2A,"Justice, 3rd Ct of App Dist, PI 3",,DEM,"Chari Kelly",111,5,67,39
+San Saba,Precinct 2A,"Justice, 3rd Ct of App Dist, PI 5",,DEM,"Karin Crump",103,6,59,38
+San Saba,Precinct 2A,"Justice, 3rd Ct of App Dist, PI 6",,DEM,"Gisela D. Triana",102,6,60,36
+San Saba,Precinct 2A,"Dist Judge, 33rd Judicial Dist",,REP,"Allan Garrett",465,10,279,176
+San Saba,Precinct 2A,"Dist Attorney, 33rd Judicial Dist",,REP,"Perry Thomas",463,10,279,174
+San Saba,Precinct 2A,"County Attorney",,REP,"Randall ""Randy"" Robinson",445,9,268,168
+San Saba,Precinct 2A,"Sheriff",,REP,"David L. Jenkins",473,10,286,177
+San Saba,Precinct 2A,"Proposition",,,"For",273,7,168,98
+San Saba,Precinct 2A,"Proposition",,,"Against",216,6,133,77
+San Saba,Precinct 2B,"Ballots Cast",,,179,8,138,33
+San Saba,Precinct 2B,"Ballots Cast Blank",,,0,0,0,0
+San Saba,Precinct 2B,"President",,REP,"Donald J. Trump",162,8,128,26
+San Saba,Precinct 2B,"President",,DEM,"Kamala D. Harris",17,0,10,7
+San Saba,Precinct 2B,"President",,LIB,"Chase Oliver",0,0,0,0
+San Saba,Precinct 2B,"President",,GRN,"Jill Stein",0,0,0,0
+San Saba,Precinct 2B,"President",,,"Write-ins",0,0,0,0
+San Saba,Precinct 2B,"U.S. Senate",,REP,"Ted Cruz",154,6,122,26
+San Saba,Precinct 2B,"U.S. Senate",,DEM,"Colin Allred",18,0,11,7
+San Saba,Precinct 2B,"U.S. Senate",,LIB,"Ted Brown",6,1,5,0
+San Saba,Precinct 2B,"U.S. Senate",,,"Write-ins",0,0,0,0
+San Saba,Precinct 2B,"U.S. House",11,REP,"August Pfluger",156,8,119,29
+San Saba,Precinct 2B,"Railroad Commissioner",,REP,"Christi Craddick",148,6,116,26
+San Saba,Precinct 2B,"Railroad Commissioner",,DEM,"Katherine Culbert",15,2,9,4
+San Saba,Precinct 2B,"Railroad Commissioner",,LIB,"Hawk Dunlap",4,0,3,1
+San Saba,Precinct 2B,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,1,1
+San Saba,Precinct 2B,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+San Saba,Precinct 2B,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",156,8,122,26
+San Saba,Precinct 2B,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",15,0,9,6
+San Saba,Precinct 2B,"Justice, Supreme Court, PI 4",,REP,"John Devine",152,7,120,25
+San Saba,Precinct 2B,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",16,0,10,6
+San Saba,Precinct 2B,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",151,8,118,25
+San Saba,Precinct 2B,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",14,0,8,6
+San Saba,Precinct 2B,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",6,0,5,1
+San Saba,Precinct 2B,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",159,7,126,26
+San Saba,Precinct 2B,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",13,1,6,6
+San Saba,Precinct 2B,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",147,8,113,26
+San Saba,Precinct 2B,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",15,0,10,5
+San Saba,Precinct 2B,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",154,7,120,27
+San Saba,Precinct 2B,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",13,0,8,5
+San Saba,Precinct 2B,"Member, State BoE, Dist 10",,REP,"Tom Maynard",151,6,119,26
+San Saba,Precinct 2B,"Member, State BoE, Dist 10",,DEM,"Raquel Saenz Ortiz",14,1,8,5
+San Saba,Precinct 2B,"State Representative",68,REP,"David Spiller",151,8,117,26
+San Saba,Precinct 2B,"State Representative",68,DEM,"Stacey Swann",16,0,10,6
+San Saba,Precinct 2B,"Justice, 3rd Ct of App Dist, PI 2",,REP,"John Messinger",148,7,115,26
+San Saba,Precinct 2B,"Justice, 3rd Ct of App Dist, PI 2",,DEM,"Maggie Ellis",18,1,11,6
+San Saba,Precinct 2B,"Justice, 3rd Ct of App Dist, PI 3",,DEM,"Chari Kelly",48,1,36,11
+San Saba,Precinct 2B,"Justice, 3rd Ct of App Dist, PI 5",,DEM,"Karin Crump",45,1,34,10
+San Saba,Precinct 2B,"Justice, 3rd Ct of App Dist, PI 6",,DEM,"Gisela D. Triana",44,1,33,10
+San Saba,Precinct 2B,"Dist Judge, 33rd Judicial Dist",,REP,"Allan Garrett",150,7,116,27
+San Saba,Precinct 2B,"Dist Attorney, 33rd Judicial Dist",,REP,"Perry Thomas",149,7,115,27
+San Saba,Precinct 2B,"County Attorney",,REP,"Randall ""Randy"" Robinson",136,7,104,25
+San Saba,Precinct 2B,"Sheriff",,REP,"David L. Jenkins",144,7,110,27
+San Saba,Precinct 2B,"Proposition",,,"For",84,5,66,13
+San Saba,Precinct 2B,"Proposition",,,"Against",80,3,59,18
+San Saba,Precinct 3A,"Ballots Cast",,,433,16,225,192
+San Saba,Precinct 3A,"Ballots Cast Blank",,,0,0,0,0
+San Saba,Precinct 3A,"President",,REP,"Donald J. Trump",376,14,195,167
+San Saba,Precinct 3A,"President",,DEM,"Kamala D. Harris",50,2,28,20
+San Saba,Precinct 3A,"President",,LIB,"Chase Oliver",2,0,0,2
+San Saba,Precinct 3A,"President",,GRN,"Jill Stein",0,0,0,0
+San Saba,Precinct 3A,"President",,,"Write-ins",4,0,1,3
+San Saba,Precinct 3A,"U.S. Senate",,REP,"Ted Cruz",364,13,189,162
+San Saba,Precinct 3A,"U.S. Senate",,DEM,"Colin Allred",56,2,32,22
+San Saba,Precinct 3A,"U.S. Senate",,LIB,"Ted Brown",6,1,4,1
+San Saba,Precinct 3A,"U.S. Senate",,,"Write-ins",1,0,0,1
+San Saba,Precinct 3A,"U.S. House",11,REP,"August Pfluger",362,12,189,161
+San Saba,Precinct 3A,"Railroad Commissioner",,REP,"Christi Craddick",358,12,189,157
+San Saba,Precinct 3A,"Railroad Commissioner",,DEM,"Katherine Culbert",40,2,22,16
+San Saba,Precinct 3A,"Railroad Commissioner",,LIB,"Hawk Dunlap",11,1,2,8
+San Saba,Precinct 3A,"Railroad Commissioner",,GRN,"Eddie Espinoza",0,0,0,0
+San Saba,Precinct 3A,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+San Saba,Precinct 3A,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",365,14,187,164
+San Saba,Precinct 3A,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",44,2,25,17
+San Saba,Precinct 3A,"Justice, Supreme Court, PI 4",,REP,"John Devine",358,14,183,161
+San Saba,Precinct 3A,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",50,2,28,20
+San Saba,Precinct 3A,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",352,13,177,162
+San Saba,Precinct 3A,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",44,2,28,14
+San Saba,Precinct 3A,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",11,1,5,5
+San Saba,Precinct 3A,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",361,14,186,161
+San Saba,Precinct 3A,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",46,2,25,19
+San Saba,Precinct 3A,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",357,14,186,157
+San Saba,Precinct 3A,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",41,2,20,19
+San Saba,Precinct 3A,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",362,14,185,163
+San Saba,Precinct 3A,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",37,2,19,16
+San Saba,Precinct 3A,"Member, State BoE, Dist 10",,REP,"Tom Maynard",366,13,185,168
+San Saba,Precinct 3A,"Member, State BoE, Dist 10",,DEM,"Raquel Saenz Ortiz",38,3,21,14
+San Saba,Precinct 3A,"State Representative",68,REP,"David Spiller",361,14,185,162
+San Saba,Precinct 3A,"State Representative",68,DEM,"Stacey Swann",45,2,24,19
+San Saba,Precinct 3A,"Justice, 3rd Ct of App Dist, PI 2",,REP,"John Messinger",356,14,186,156
+San Saba,Precinct 3A,"Justice, 3rd Ct of App Dist, PI 2",,DEM,"Maggie Ellis",43,2,23,18
+San Saba,Precinct 3A,"Justice, 3rd Ct of App Dist, PI 3",,DEM,"Chari Kelly",102,2,50,50
+San Saba,Precinct 3A,"Justice, 3rd Ct of App Dist, PI 5",,DEM,"Karin Crump",98,3,44,51
+San Saba,Precinct 3A,"Justice, 3rd Ct of App Dist, PI 6",,DEM,"Gisela D. Triana",94,2,44,48
+San Saba,Precinct 3A,"Dist Judge, 33rd Judicial Dist",,REP,"Allan Garrett",337,12,178,147
+San Saba,Precinct 3A,"Dist Attorney, 33rd Judicial Dist",,REP,"Perry Thomas",331,13,171,147
+San Saba,Precinct 3A,"County Attorney",,REP,"Randall ""Randy"" Robinson",339,12,180,147
+San Saba,Precinct 3A,"Sheriff",,REP,"David L. Jenkins",339,12,179,148
+San Saba,Precinct 3A,"County Commissioner Pct 3",,REP,"Kenley Kroll",360,11,191,158
+San Saba,Precinct 3A,"Proposition",,,"For",230,12,119,99
+San Saba,Precinct 3A,"Proposition",,,"Against",143,4,74,65
+San Saba,Precinct 3A,"Trustee, Place 7 City of San Saba",,,"Rodney Johnson",182,7,89,86
+San Saba,Precinct 3A,"Trustee, Place 7 City of San Saba",,,"Cody McKneely",164,2,91,71
+San Saba,Precinct 3B,"Ballots Cast",,,220,9,140,71
+San Saba,Precinct 3B,"Ballots Cast Blank",,,0,0,0,0
+San Saba,Precinct 3B,"President",,REP,"Donald J. Trump",175,5,120,50
+San Saba,Precinct 3B,"President",,DEM,"Kamala D. Harris",37,2,15,20
+San Saba,Precinct 3B,"President",,LIB,"Chase Oliver",4,1,2,1
+San Saba,Precinct 3B,"President",,GRN,"Jill Stein",0,0,0,0
+San Saba,Precinct 3B,"President",,,"Write-ins",1,1,0,0
+San Saba,Precinct 3B,"U.S. Senate",,REP,"Ted Cruz",154,5,102,47
+San Saba,Precinct 3B,"U.S. Senate",,DEM,"Colin Allred",56,3,26,27
+San Saba,Precinct 3B,"U.S. Senate",,LIB,"Ted Brown",3,1,1,1
+San Saba,Precinct 3B,"U.S. Senate",,,"Write-ins",0,0,0,0
+San Saba,Precinct 3B,"U.S. House",11,REP,"August Pfluger",166,7,116,43
+San Saba,Precinct 3B,"Railroad Commissioner",,REP,"Christi Craddick",160,6,109,45
+San Saba,Precinct 3B,"Railroad Commissioner",,DEM,"Katherine Culbert",29,2,15,12
+San Saba,Precinct 3B,"Railroad Commissioner",,LIB,"Hawk Dunlap",5,0,4,1
+San Saba,Precinct 3B,"Railroad Commissioner",,GRN,"Eddie Espinoza",13,1,6,6
+San Saba,Precinct 3B,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+San Saba,Precinct 3B,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",170,7,115,48
+San Saba,Precinct 3B,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",36,2,17,17
+San Saba,Precinct 3B,"Justice, Supreme Court, PI 4",,REP,"John Devine",165,7,114,44
+San Saba,Precinct 3B,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",39,2,17,20
+San Saba,Precinct 3B,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",161,5,111,45
+San Saba,Precinct 3B,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",35,2,17,16
+San Saba,Precinct 3B,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",8,1,3,4
+San Saba,Precinct 3B,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",162,5,112,45
+San Saba,Precinct 3B,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",39,4,19,16
+San Saba,Precinct 3B,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",155,6,108,41
+San Saba,Precinct 3B,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",38,3,18,17
+San Saba,Precinct 3B,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",162,6,111,45
+San Saba,Precinct 3B,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",37,3,18,16
+San Saba,Precinct 3B,"Member, State BoE, Dist 10",,REP,"Tom Maynard",154,5,110,39
+San Saba,Precinct 3B,"Member, State BoE, Dist 10",,DEM,"Raquel Saenz Ortiz",46,4,20,22
+San Saba,Precinct 3B,"State Representative",68,REP,"David Spiller",167,7,115,45
+San Saba,Precinct 3B,"State Representative",68,DEM,"Stacey Swann",35,2,16,17
+San Saba,Precinct 3B,"Justice, 3rd Ct of App Dist, PI 2",,REP,"John Messinger",162,6,114,42
+San Saba,Precinct 3B,"Justice, 3rd Ct of App Dist, PI 2",,DEM,"Maggie Ellis",40,3,17,20
+San Saba,Precinct 3B,"Justice, 3rd Ct of App Dist, PI 3",,DEM,"Chari Kelly",69,4,41,24
+San Saba,Precinct 3B,"Justice, 3rd Ct of App Dist, PI 5",,DEM,"Karin Crump",65,4,36,25
+San Saba,Precinct 3B,"Justice, 3rd Ct of App Dist, PI 6",,DEM,"Gisela D. Triana",66,3,38,25
+San Saba,Precinct 3B,"Dist Judge, 33rd Judicial Dist",,REP,"Allan Garrett",159,6,112,41
+San Saba,Precinct 3B,"Dist Attorney, 33rd Judicial Dist",,REP,"Perry Thomas",155,5,111,39
+San Saba,Precinct 3B,"County Attorney",,REP,"Randall ""Randy"" Robinson",152,7,103,42
+San Saba,Precinct 3B,"Sheriff",,REP,"David L. Jenkins",155,6,111,38
+San Saba,Precinct 3B,"County Commissioner Pct 3",,REP,"Kenley Kroll",158,7,113,38
+San Saba,Precinct 3B,"Proposition",,,"For",104,2,72,30
+San Saba,Precinct 3B,"Proposition",,,"Against",85,7,48,30
+San Saba,Precinct 4,"Ballots Cast",,,672,26,526,120
+San Saba,Precinct 4,"Ballots Cast Blank",,,0,0,0,0
+San Saba,Precinct 4,"President",,REP,"Donald J. Trump",608,23,479,106
+San Saba,Precinct 4,"President",,DEM,"Kamala D. Harris",60,3,44,13
+San Saba,Precinct 4,"President",,LIB,"Chase Oliver",1,0,1,0
+San Saba,Precinct 4,"President",,GRN,"Jill Stein",0,0,0,0
+San Saba,Precinct 4,"President",,,"Write-ins",0,0,0,0
+San Saba,Precinct 4,"U.S. Senate",,REP,"Ted Cruz",593,22,469,102
+San Saba,Precinct 4,"U.S. Senate",,DEM,"Colin Allred",63,3,46,14
+San Saba,Precinct 4,"U.S. Senate",,LIB,"Ted Brown",7,0,6,1
+San Saba,Precinct 4,"U.S. Senate",,,"Write-ins",0,0,0,0
+San Saba,Precinct 4,"U.S. House",11,REP,"August Pfluger",593,19,480,94
+San Saba,Precinct 4,"Railroad Commissioner",,REP,"Christi Craddick",577,22,458,97
+San Saba,Precinct 4,"Railroad Commissioner",,DEM,"Katherine Culbert",48,3,33,12
+San Saba,Precinct 4,"Railroad Commissioner",,LIB,"Hawk Dunlap",16,0,9,7
+San Saba,Precinct 4,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,1,1
+San Saba,Precinct 4,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+San Saba,Precinct 4,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",591,22,470,99
+San Saba,Precinct 4,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",48,3,32,13
+San Saba,Precinct 4,"Justice, Supreme Court, PI 4",,REP,"John Devine",588,22,467,99
+San Saba,Precinct 4,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",50,3,35,12
+San Saba,Precinct 4,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",583,22,465,96
+San Saba,Precinct 4,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",51,3,36,12
+San Saba,Precinct 4,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",8,0,6,2
+San Saba,Precinct 4,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",593,22,473,98
+San Saba,Precinct 4,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",48,3,33,12
+San Saba,Precinct 4,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",582,22,464,96
+San Saba,Precinct 4,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",49,3,31,15
+San Saba,Precinct 4,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",589,22,471,96
+San Saba,Precinct 4,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",46,3,31,12
+San Saba,Precinct 4,"Member, State BoE, Dist 10",,REP,"Tom Maynard",589,21,472,96
+San Saba,Precinct 4,"Member, State BoE, Dist 10",,DEM,"Raquel Saenz Ortiz",48,3,31,14
+San Saba,Precinct 4,"State Representative",68,REP,"David Spiller",591,22,472,97
+San Saba,Precinct 4,"State Representative",68,DEM,"Stacey Swann",48,3,31,14
+San Saba,Precinct 4,"Justice, 3rd Ct of App Dist, PI 2",,REP,"John Messinger",583,22,465,96
+San Saba,Precinct 4,"Justice, 3rd Ct of App Dist, PI 2",,DEM,"Maggie Ellis",48,3,32,13
+San Saba,Precinct 4,"Justice, 3rd Ct of App Dist, PI 3",,DEM,"Chari Kelly",148,7,113,28
+San Saba,Precinct 4,"Justice, 3rd Ct of App Dist, PI 5",,DEM,"Karin Crump",133,6,100,27
+San Saba,Precinct 4,"Justice, 3rd Ct of App Dist, PI 6",,DEM,"Gisela D. Triana",133,5,99,29
+San Saba,Precinct 4,"Dist Judge, 33rd Judicial Dist",,REP,"Allan Garrett",572,22,457,93
+San Saba,Precinct 4,"Dist Attorney, 33rd Judicial Dist",,REP,"Perry Thomas",567,21,454,92
+San Saba,Precinct 4,"County Attorney",,REP,"Randall ""Randy"" Robinson",549,22,439,88
+San Saba,Precinct 4,"Sheriff",,REP,"David L. Jenkins",562,21,444,97
+San Saba,Precinct 4,"Proposition",,,"For",322,19,248,55
+San Saba,Precinct 4,"Proposition",,,"Against",291,5,231,55

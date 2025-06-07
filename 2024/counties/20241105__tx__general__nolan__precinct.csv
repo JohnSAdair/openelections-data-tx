@@ -1,0 +1,402 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Nolan,Precinct 1,"Registered Voters",,,,897,,,
+Nolan,Precinct 1,"Ballots Cast",,,,521,11,351,159
+Nolan,Precinct 1,"President",,REP,"Donald J. Trump/JD Vance",384,2,271,111
+Nolan,Precinct 1,"President",,DEM,"Kamala D. Harris/Tim Walz",131,9,75,47
+Nolan,Precinct 1,"President",,LIB,"Chase Oliver/Mike ter Maat",2,0,2,0
+Nolan,Precinct 1,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Nolan,Precinct 1,"President",,,"Write-ins",1,0,1,0
+Nolan,Precinct 1,"U.S. Senate",,REP,"Ted Cruz",360,3,259,98
+Nolan,Precinct 1,"U.S. Senate",,DEM,"Colin Allred",140,8,81,51
+Nolan,Precinct 1,"U.S. Senate",,LIB,"Ted Brown",10,0,3,7
+Nolan,Precinct 1,"U.S. Senate",,,"Write-ins",1,0,1,0
+Nolan,Precinct 1,"U.S. House",19,REP,"Jodey C. Arrington",397,2,276,119
+Nolan,Precinct 1,"U.S. House",19,LIB,"Bernard Johnson",40,4,23,13
+Nolan,Precinct 1,"U.S. House",19,IND,"Nathan Lewis",48,2,32,14
+Nolan,Precinct 1,"Railroad Commissioner",,REP,"Christi Craddick",360,1,259,100
+Nolan,Precinct 1,"Railroad Commissioner",,DEM,"Katherine Culbert",105,5,64,36
+Nolan,Precinct 1,"Railroad Commissioner",,LIB,"Hawk Dunlap",17,2,7,8
+Nolan,Precinct 1,"Railroad Commissioner",,GRN,"Eddie Espinoza",15,1,6,8
+Nolan,Precinct 1,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Nolan,Precinct 1,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",375,2,269,104
+Nolan,Precinct 1,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",121,7,68,46
+Nolan,Precinct 1,"Justice, Supreme Court, PI 4",,REP,"John Devine",365,3,260,102
+Nolan,Precinct 1,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",131,6,75,50
+Nolan,Precinct 1,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",361,2,258,101
+Nolan,Precinct 1,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",124,7,70,47
+Nolan,Precinct 1,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",10,0,8,2
+Nolan,Precinct 1,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",367,2,262,103
+Nolan,Precinct 1,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",126,7,71,48
+Nolan,Precinct 1,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",370,2,264,104
+Nolan,Precinct 1,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",122,7,68,47
+Nolan,Precinct 1,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",377,3,268,106
+Nolan,Precinct 1,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",115,6,65,44
+Nolan,Precinct 1,"Member, State BoE, Dist 15",,REP,"Aaron Kinsey",357,1,256,100
+Nolan,Precinct 1,"Member, State BoE, Dist 15",,DEM,"Morgan Kirkpatrick",125,5,73,47
+Nolan,Precinct 1,"Member, State BoE, Dist 15",,LIB,"Jack B. Westbrook",12,3,6,3
+Nolan,Precinct 1,"State Representative",71,REP,"Stan Lambert",391,3,274,114
+Nolan,Precinct 1,"State Representative",71,DEM,"Linda Goolsbee",108,6,64,38
+Nolan,Precinct 1,"Chief Justice, 11th Ct of App Dist",,REP,"John Bailey",427,3,294,130
+Nolan,Precinct 1,"Dist Judge, 32nd Judicial Dist",,REP,"Glen Harrison",442,5,304,133
+Nolan,Precinct 1,"Dist Attorney, 32nd Judicial Dist",,REP,"Ricky Thompson",438,4,301,133
+Nolan,Precinct 1,"County Attorney",,REP,"Morgan Brooks",434,4,299,131
+Nolan,Precinct 1,"Sheriff",,REP,"James E. Villanueva",442,5,303,134
+Nolan,Precinct 1,"County Tax Assessor-Collector",,REP,"Adriana Archuleta",438,5,299,134
+Nolan,Precinct 1,"County Commissioner Pct 1",,REP,"Terry Willman",435,4,296,135
+Nolan,Precinct 1,"Constable",,REP,"Stephen F. Smith II",423,4,288,131
+Nolan,Precinct 2,"Registered Voters",,,,1048,,,
+Nolan,Precinct 2,"Ballots Cast",,,,702,19,440,243
+Nolan,Precinct 2,"President",,REP,"Donald J. Trump/JD Vance",572,5,378,189
+Nolan,Precinct 2,"President",,DEM,"Kamala D. Harris/Tim Walz",120,13,59,48
+Nolan,Precinct 2,"President",,LIB,"Chase Oliver/Mike ter Maat",3,0,1,2
+Nolan,Precinct 2,"President",,GRN,"Jill Stein/Rudolph Ware",2,0,1,1
+Nolan,Precinct 2,"President",,,"Write-ins",3,0,0,3
+Nolan,Precinct 2,"U.S. Senate",,REP,"Ted Cruz",536,5,356,175
+Nolan,Precinct 2,"U.S. Senate",,DEM,"Colin Allred",136,13,70,53
+Nolan,Precinct 2,"U.S. Senate",,LIB,"Ted Brown",17,0,5,12
+Nolan,Precinct 2,"U.S. Senate",,,"Write-ins",1,0,0,1
+Nolan,Precinct 2,"U.S. House",19,REP,"Jodey C. Arrington",602,8,384,210
+Nolan,Precinct 2,"U.S. House",19,LIB,"Bernard Johnson",40,0,24,16
+Nolan,Precinct 2,"U.S. House",19,IND,"Nathan Lewis",37,6,20,11
+Nolan,Precinct 2,"Railroad Commissioner",,REP,"Christi Craddick",561,7,364,190
+Nolan,Precinct 2,"Railroad Commissioner",,DEM,"Katherine Culbert",88,10,46,32
+Nolan,Precinct 2,"Railroad Commissioner",,LIB,"Hawk Dunlap",16,1,7,8
+Nolan,Precinct 2,"Railroad Commissioner",,GRN,"Eddie Espinoza",9,0,5,4
+Nolan,Precinct 2,"Railroad Commissioner",,,"Write-ins",1,0,0,1
+Nolan,Precinct 2,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",568,7,371,190
+Nolan,Precinct 2,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",104,11,49,44
+Nolan,Precinct 2,"Justice, Supreme Court, PI 4",,REP,"John Devine",560,6,370,184
+Nolan,Precinct 2,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",108,12,49,47
+Nolan,Precinct 2,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",545,6,354,185
+Nolan,Precinct 2,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",111,12,53,46
+Nolan,Precinct 2,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",13,0,6,7
+Nolan,Precinct 2,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",555,6,365,184
+Nolan,Precinct 2,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",111,12,52,47
+Nolan,Precinct 2,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",561,6,367,188
+Nolan,Precinct 2,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",102,11,50,41
+Nolan,Precinct 2,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",565,6,369,190
+Nolan,Precinct 2,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",95,11,44,40
+Nolan,Precinct 2,"Member, State BoE, Dist 15",,REP,"Aaron Kinsey",541,5,352,184
+Nolan,Precinct 2,"Member, State BoE, Dist 15",,DEM,"Morgan Kirkpatrick",109,11,54,44
+Nolan,Precinct 2,"Member, State BoE, Dist 15",,LIB,"Jack B. Westbrook",11,0,5,6
+Nolan,Precinct 2,"State Representative",71,REP,"Stan Lambert",595,10,385,200
+Nolan,Precinct 2,"State Representative",71,DEM,"Linda Goolsbee",84,8,40,36
+Nolan,Precinct 2,"Chief Justice, 11th Ct of App Dist",,REP,"John Bailey",606,8,384,214
+Nolan,Precinct 2,"Dist Judge, 32nd Judicial Dist",,REP,"Glen Harrison",614,10,387,217
+Nolan,Precinct 2,"Dist Attorney, 32nd Judicial Dist",,REP,"Ricky Thompson",607,10,385,212
+Nolan,Precinct 2,"County Attorney",,REP,"Morgan Brooks",613,9,391,213
+Nolan,Precinct 2,"Sheriff",,REP,"James E. Villanueva",604,9,385,210
+Nolan,Precinct 2,"County Tax Assessor-Collector",,REP,"Adriana Archuleta",599,8,380,211
+Nolan,Precinct 2,"Constable",,REP,"Stephen F. Smith II",594,8,378,208
+Nolan,Precinct 3,"Registered Voters",,,,1708,,,
+Nolan,Precinct 3,"Ballots Cast",,,,951,30,613,308
+Nolan,Precinct 3,"President",,REP,"Donald J. Trump/JD Vance",707,20,469,218
+Nolan,Precinct 3,"President",,DEM,"Kamala D. Harris/Tim Walz",230,8,136,86
+Nolan,Precinct 3,"President",,LIB,"Chase Oliver/Mike ter Maat",4,0,2,2
+Nolan,Precinct 3,"President",,GRN,"Jill Stein/Rudolph Ware",4,2,2,0
+Nolan,Precinct 3,"President",,,"Write-ins",1,0,1,0
+Nolan,Precinct 3,"U.S. Senate",,REP,"Ted Cruz",690,17,451,222
+Nolan,Precinct 3,"U.S. Senate",,DEM,"Colin Allred",246,10,138,98
+Nolan,Precinct 3,"U.S. Senate",,LIB,"Ted Brown",16,1,10,5
+Nolan,Precinct 3,"U.S. Senate",,,"Write-ins",0,0,0,0
+Nolan,Precinct 3,"U.S. House",19,REP,"Jodey C. Arrington",725,22,477,226
+Nolan,Precinct 3,"U.S. House",19,LIB,"Bernard Johnson",78,1,39,38
+Nolan,Precinct 3,"U.S. House",19,IND,"Nathan Lewis",74,5,42,27
+Nolan,Precinct 3,"Railroad Commissioner",,REP,"Christi Craddick",692,17,448,227
+Nolan,Precinct 3,"Railroad Commissioner",,DEM,"Katherine Culbert",189,9,109,71
+Nolan,Precinct 3,"Railroad Commissioner",,LIB,"Hawk Dunlap",16,1,8,7
+Nolan,Precinct 3,"Railroad Commissioner",,GRN,"Eddie Espinoza",32,2,12,18
+Nolan,Precinct 3,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Nolan,Precinct 3,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",683,19,457,207
+Nolan,Precinct 3,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",209,9,118,82
+Nolan,Precinct 3,"Justice, Supreme Court, PI 4",,REP,"John Devine",670,16,450,204
+Nolan,Precinct 3,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",218,12,123,83
+Nolan,Precinct 3,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",651,16,437,198
+Nolan,Precinct 3,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",210,10,118,82
+Nolan,Precinct 3,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",23,2,16,5
+Nolan,Precinct 3,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",673,18,452,203
+Nolan,Precinct 3,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",214,10,119,85
+Nolan,Precinct 3,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",671,16,444,211
+Nolan,Precinct 3,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",214,10,126,78
+Nolan,Precinct 3,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",683,18,455,210
+Nolan,Precinct 3,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",199,10,111,78
+Nolan,Precinct 3,"Member, State BoE, Dist 15",,REP,"Aaron Kinsey",652,16,434,202
+Nolan,Precinct 3,"Member, State BoE, Dist 15",,DEM,"Morgan Kirkpatrick",208,8,118,82
+Nolan,Precinct 3,"Member, State BoE, Dist 15",,LIB,"Jack B. Westbrook",22,3,15,4
+Nolan,Precinct 3,"State Representative",71,REP,"Stan Lambert",692,17,456,219
+Nolan,Precinct 3,"State Representative",71,DEM,"Linda Goolsbee",196,10,111,75
+Nolan,Precinct 3,"Chief Justice, 11th Ct of App Dist",,REP,"John Bailey",776,26,500,250
+Nolan,Precinct 3,"Dist Judge, 32nd Judicial Dist",,REP,"Glen Harrison",780,25,499,256
+Nolan,Precinct 3,"Dist Attorney, 32nd Judicial Dist",,REP,"Ricky Thompson",776,24,499,253
+Nolan,Precinct 3,"County Attorney",,REP,"Morgan Brooks",777,26,499,252
+Nolan,Precinct 3,"Sheriff",,REP,"James E. Villanueva",782,24,504,254
+Nolan,Precinct 3,"County Tax Assessor-Collector",,REP,"Adriana Archuleta",780,26,500,254
+Nolan,Precinct 3,"County Commissioner Pct 3",,REP,"Tommy White",764,24,495,245
+Nolan,Precinct 3,"Constable",,REP,"Stephen F. Smith II",758,23,492,243
+Nolan,Precinct 4,"Registered Voters",,,,1787,,,
+Nolan,Precinct 4,"Ballots Cast",,,,843,10,550,283
+Nolan,Precinct 4,"President",,REP,"Donald J. Trump/JD Vance",599,4,401,194
+Nolan,Precinct 4,"President",,DEM,"Kamala D. Harris/Tim Walz",224,6,138,80
+Nolan,Precinct 4,"President",,LIB,"Chase Oliver/Mike ter Maat",7,0,4,3
+Nolan,Precinct 4,"President",,GRN,"Jill Stein/Rudolph Ware",6,0,3,3
+Nolan,Precinct 4,"President",,,"Write-ins",1,0,1,0
+Nolan,Precinct 4,"U.S. Senate",,REP,"Ted Cruz",554,4,378,172
+Nolan,Precinct 4,"U.S. Senate",,DEM,"Colin Allred",241,6,142,93
+Nolan,Precinct 4,"U.S. Senate",,LIB,"Ted Brown",23,0,15,8
+Nolan,Precinct 4,"U.S. Senate",,,"Write-ins",1,0,1,0
+Nolan,Precinct 4,"U.S. House",19,REP,"Jodey C. Arrington",597,4,394,199
+Nolan,Precinct 4,"U.S. House",19,LIB,"Bernard Johnson",79,0,48,31
+Nolan,Precinct 4,"U.S. House",19,IND,"Nathan Lewis",75,2,50,23
+Nolan,Precinct 4,"Railroad Commissioner",,REP,"Christi Craddick",546,4,371,171
+Nolan,Precinct 4,"Railroad Commissioner",,DEM,"Katherine Culbert",187,6,118,63
+Nolan,Precinct 4,"Railroad Commissioner",,LIB,"Hawk Dunlap",17,0,6,11
+Nolan,Precinct 4,"Railroad Commissioner",,GRN,"Eddie Espinoza",33,0,20,13
+Nolan,Precinct 4,"Railroad Commissioner",,,"Write-ins",1,0,1,0
+Nolan,Precinct 4,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",564,4,382,178
+Nolan,Precinct 4,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",216,6,131,79
+Nolan,Precinct 4,"Justice, Supreme Court, PI 4",,REP,"John Devine",565,4,381,180
+Nolan,Precinct 4,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",212,6,130,76
+Nolan,Precinct 4,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",538,3,368,167
+Nolan,Precinct 4,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",212,6,129,77
+Nolan,Precinct 4,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",21,0,10,11
+Nolan,Precinct 4,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",559,4,375,180
+Nolan,Precinct 4,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",217,6,138,73
+Nolan,Precinct 4,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",555,3,373,179
+Nolan,Precinct 4,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",217,6,137,74
+Nolan,Precinct 4,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",560,4,377,179
+Nolan,Precinct 4,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",212,6,131,75
+Nolan,Precinct 4,"Member, State BoE, Dist 15",,REP,"Aaron Kinsey",536,4,365,167
+Nolan,Precinct 4,"Member, State BoE, Dist 15",,DEM,"Morgan Kirkpatrick",215,5,132,78
+Nolan,Precinct 4,"Member, State BoE, Dist 15",,LIB,"Jack B. Westbrook",19,0,11,8
+Nolan,Precinct 4,"State Representative",71,REP,"Stan Lambert",573,4,380,189
+Nolan,Precinct 4,"State Representative",71,DEM,"Linda Goolsbee",203,5,128,70
+Nolan,Precinct 4,"Chief Justice, 11th Ct of App Dist",,REP,"John Bailey",647,4,425,218
+Nolan,Precinct 4,"Dist Judge, 32nd Judicial Dist",,REP,"Glen Harrison",657,4,426,227
+Nolan,Precinct 4,"Dist Attorney, 32nd Judicial Dist",,REP,"Ricky Thompson",668,4,441,223
+Nolan,Precinct 4,"County Attorney",,REP,"Morgan Brooks",652,4,430,218
+Nolan,Precinct 4,"Sheriff",,REP,"James E. Villanueva",670,3,438,229
+Nolan,Precinct 4,"County Tax Assessor-Collector",,REP,"Adriana Archuleta",677,4,439,234
+Nolan,Precinct 4,"Constable",,REP,"Stephen F. Smith II",638,3,420,215
+Nolan,Precinct 5,"Registered Voters",,,,153,,,
+Nolan,Precinct 5,"Ballots Cast",,,,120,6,55,59
+Nolan,Precinct 5,"President",,REP,"Donald J. Trump/JD Vance",95,4,42,49
+Nolan,Precinct 5,"President",,DEM,"Kamala D. Harris/Tim Walz",22,1,12,9
+Nolan,Precinct 5,"President",,LIB,"Chase Oliver/Mike ter Maat",0,0,0,0
+Nolan,Precinct 5,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Nolan,Precinct 5,"President",,,"Write-ins",1,0,0,1
+Nolan,Precinct 5,"U.S. Senate",,REP,"Ted Cruz",95,4,41,50
+Nolan,Precinct 5,"U.S. Senate",,DEM,"Colin Allred",20,2,11,7
+Nolan,Precinct 5,"U.S. Senate",,LIB,"Ted Brown",0,0,0,0
+Nolan,Precinct 5,"U.S. Senate",,,"Write-ins",0,0,0,0
+Nolan,Precinct 5,"U.S. House",19,REP,"Jodey C. Arrington",100,5,44,51
+Nolan,Precinct 5,"U.S. House",19,LIB,"Bernard Johnson",5,1,3,1
+Nolan,Precinct 5,"U.S. House",19,IND,"Nathan Lewis",8,0,5,3
+Nolan,Precinct 5,"Railroad Commissioner",,REP,"Christi Craddick",93,4,43,46
+Nolan,Precinct 5,"Railroad Commissioner",,DEM,"Katherine Culbert",17,2,9,6
+Nolan,Precinct 5,"Railroad Commissioner",,LIB,"Hawk Dunlap",2,0,1,1
+Nolan,Precinct 5,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,1,1
+Nolan,Precinct 5,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Nolan,Precinct 5,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",94,4,44,46
+Nolan,Precinct 5,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",18,2,10,6
+Nolan,Precinct 5,"Justice, Supreme Court, PI 4",,REP,"John Devine",94,4,43,47
+Nolan,Precinct 5,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",17,2,9,6
+Nolan,Precinct 5,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",95,4,43,48
+Nolan,Precinct 5,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",15,2,7,6
+Nolan,Precinct 5,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",3,0,3,0
+Nolan,Precinct 5,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",92,4,43,45
+Nolan,Precinct 5,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",19,2,10,7
+Nolan,Precinct 5,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",93,4,43,46
+Nolan,Precinct 5,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",18,2,11,5
+Nolan,Precinct 5,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",95,4,46,45
+Nolan,Precinct 5,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",15,2,7,6
+Nolan,Precinct 5,"Member, State BoE, Dist 15",,REP,"Aaron Kinsey",92,4,42,46
+Nolan,Precinct 5,"Member, State BoE, Dist 15",,DEM,"Morgan Kirkpatrick",17,2,9,6
+Nolan,Precinct 5,"Member, State BoE, Dist 15",,LIB,"Jack B. Westbrook",3,0,3,0
+Nolan,Precinct 5,"State Representative",71,REP,"Stan Lambert",99,4,45,50
+Nolan,Precinct 5,"State Representative",71,DEM,"Linda Goolsbee",18,2,9,7
+Nolan,Precinct 5,"Chief Justice, 11th Ct of App Dist",,REP,"John Bailey",94,5,45,44
+Nolan,Precinct 5,"Dist Judge, 32nd Judicial Dist",,REP,"Glen Harrison",97,5,44,48
+Nolan,Precinct 5,"Dist Attorney, 32nd Judicial Dist",,REP,"Ricky Thompson",99,5,44,50
+Nolan,Precinct 5,"County Attorney",,REP,"Morgan Brooks",96,5,45,46
+Nolan,Precinct 5,"Sheriff",,REP,"James E. Villanueva",96,5,44,47
+Nolan,Precinct 5,"County Tax Assessor-Collector",,REP,"Adriana Archuleta",91,5,42,44
+Nolan,Precinct 5,"County Commissioner Pct 3",,REP,"Tommy White",101,5,45,51
+Nolan,Precinct 5,"Constable",,REP,"Stephen F. Smith II",95,5,44,46
+Nolan,Precinct 6,"Registered Voters",,,,1054,,,
+Nolan,Precinct 6,"Ballots Cast",,,,646,10,319,317
+Nolan,Precinct 6,"President",,REP,"Donald J. Trump/JD Vance",533,8,252,273
+Nolan,Precinct 6,"President",,DEM,"Kamala D. Harris/Tim Walz",106,2,63,41
+Nolan,Precinct 6,"President",,LIB,"Chase Oliver/Mike ter Maat",4,0,1,3
+Nolan,Precinct 6,"President",,GRN,"Jill Stein/Rudolph Ware",2,0,1,1
+Nolan,Precinct 6,"President",,,"Write-ins",0,0,0,0
+Nolan,Precinct 6,"U.S. Senate",,REP,"Ted Cruz",505,8,242,255
+Nolan,Precinct 6,"U.S. Senate",,DEM,"Colin Allred",120,2,69,49
+Nolan,Precinct 6,"U.S. Senate",,LIB,"Ted Brown",10,0,5,5
+Nolan,Precinct 6,"U.S. Senate",,,"Write-ins",0,0,0,0
+Nolan,Precinct 6,"U.S. House",19,REP,"Jodey C. Arrington",537,8,255,274
+Nolan,Precinct 6,"U.S. House",19,LIB,"Bernard Johnson",39,0,27,12
+Nolan,Precinct 6,"U.S. House",19,IND,"Nathan Lewis",24,0,12,12
+Nolan,Precinct 6,"Railroad Commissioner",,REP,"Christi Craddick",476,8,225,243
+Nolan,Precinct 6,"Railroad Commissioner",,DEM,"Katherine Culbert",91,2,56,33
+Nolan,Precinct 6,"Railroad Commissioner",,LIB,"Hawk Dunlap",25,0,15,10
+Nolan,Precinct 6,"Railroad Commissioner",,GRN,"Eddie Espinoza",16,0,6,10
+Nolan,Precinct 6,"Railroad Commissioner",,,"Write-ins",1,0,0,1
+Nolan,Precinct 6,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",513,8,248,257
+Nolan,Precinct 6,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",86,2,49,35
+Nolan,Precinct 6,"Justice, Supreme Court, PI 4",,REP,"John Devine",503,8,241,254
+Nolan,Precinct 6,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",96,2,58,36
+Nolan,Precinct 6,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",492,8,240,244
+Nolan,Precinct 6,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",89,2,52,35
+Nolan,Precinct 6,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",13,0,7,6
+Nolan,Precinct 6,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",501,8,246,247
+Nolan,Precinct 6,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",91,2,52,37
+Nolan,Precinct 6,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",502,8,242,252
+Nolan,Precinct 6,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",88,2,52,34
+Nolan,Precinct 6,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",505,8,244,253
+Nolan,Precinct 6,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",84,2,50,32
+Nolan,Precinct 6,"Member, State BoE, Dist 15",,REP,"Aaron Kinsey",488,8,238,242
+Nolan,Precinct 6,"Member, State BoE, Dist 15",,DEM,"Morgan Kirkpatrick",90,2,51,37
+Nolan,Precinct 6,"Member, State BoE, Dist 15",,LIB,"Jack B. Westbrook",10,0,7,3
+Nolan,Precinct 6,"State Representative",71,REP,"Stan Lambert",523,8,251,264
+Nolan,Precinct 6,"State Representative",71,DEM,"Linda Goolsbee",80,2,49,29
+Nolan,Precinct 6,"Chief Justice, 11th Ct of App Dist",,REP,"John Bailey",538,7,261,270
+Nolan,Precinct 6,"Dist Judge, 32nd Judicial Dist",,REP,"Glen Harrison",543,8,264,271
+Nolan,Precinct 6,"Dist Attorney, 32nd Judicial Dist",,REP,"Ricky Thompson",547,8,267,272
+Nolan,Precinct 6,"County Attorney",,REP,"Morgan Brooks",541,7,262,272
+Nolan,Precinct 6,"Sheriff",,REP,"James E. Villanueva",542,7,267,268
+Nolan,Precinct 6,"County Tax Assessor-Collector",,REP,"Adriana Archuleta",535,8,259,268
+Nolan,Precinct 6,"County Commissioner Pct 1",,REP,"Terry Willman",556,8,270,278
+Nolan,Precinct 6,"Constable",,REP,"Stephen F. Smith II",530,8,255,267
+Nolan,Precinct 7,"Registered Voters",,,,277,,,
+Nolan,Precinct 7,"Ballots Cast",,,,214,4,94,116
+Nolan,Precinct 7,"President",,REP,"Donald J. Trump/JD Vance",199,3,89,107
+Nolan,Precinct 7,"President",,DEM,"Kamala D. Harris/Tim Walz",12,1,4,7
+Nolan,Precinct 7,"President",,LIB,"Chase Oliver/Mike ter Maat",2,0,0,2
+Nolan,Precinct 7,"President",,GRN,"Jill Stein/Rudolph Ware",0,0,0,0
+Nolan,Precinct 7,"President",,,"Write-ins",0,0,0,0
+Nolan,Precinct 7,"U.S. Senate",,REP,"Ted Cruz",191,3,87,101
+Nolan,Precinct 7,"U.S. Senate",,DEM,"Colin Allred",13,1,4,8
+Nolan,Precinct 7,"U.S. Senate",,LIB,"Ted Brown",8,0,3,5
+Nolan,Precinct 7,"U.S. Senate",,,"Write-ins",0,0,0,0
+Nolan,Precinct 7,"U.S. House",19,REP,"Jodey C. Arrington",190,3,84,103
+Nolan,Precinct 7,"U.S. House",19,LIB,"Bernard Johnson",7,0,3,4
+Nolan,Precinct 7,"U.S. House",19,IND,"Nathan Lewis",7,0,3,4
+Nolan,Precinct 7,"Railroad Commissioner",,REP,"Christi Craddick",178,3,81,94
+Nolan,Precinct 7,"Railroad Commissioner",,DEM,"Katherine Culbert",12,0,6,6
+Nolan,Precinct 7,"Railroad Commissioner",,LIB,"Hawk Dunlap",12,0,6,6
+Nolan,Precinct 7,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,1,0
+Nolan,Precinct 7,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Nolan,Precinct 7,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",194,3,89,102
+Nolan,Precinct 7,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",8,0,2,6
+Nolan,Precinct 7,"Justice, Supreme Court, PI 4",,REP,"John Devine",195,3,89,103
+Nolan,Precinct 7,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",9,0,3,6
+Nolan,Precinct 7,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",189,3,86,100
+Nolan,Precinct 7,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",10,0,3,7
+Nolan,Precinct 7,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",7,0,2,5
+Nolan,Precinct 7,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",190,3,88,99
+Nolan,Precinct 7,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",11,0,3,8
+Nolan,Precinct 7,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",193,3,88,102
+Nolan,Precinct 7,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",9,0,3,6
+Nolan,Precinct 7,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",194,4,89,101
+Nolan,Precinct 7,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",9,0,3,6
+Nolan,Precinct 7,"Member, State BoE, Dist 15",,REP,"Aaron Kinsey",182,3,84,95
+Nolan,Precinct 7,"Member, State BoE, Dist 15",,DEM,"Morgan Kirkpatrick",14,1,6,7
+Nolan,Precinct 7,"Member, State BoE, Dist 15",,LIB,"Jack B. Westbrook",8,0,3,5
+Nolan,Precinct 7,"State Representative",71,REP,"Stan Lambert",192,2,86,104
+Nolan,Precinct 7,"State Representative",71,DEM,"Linda Goolsbee",13,2,5,6
+Nolan,Precinct 7,"Chief Justice, 11th Ct of App Dist",,REP,"John Bailey",193,4,85,104
+Nolan,Precinct 7,"Dist Judge, 32nd Judicial Dist",,REP,"Glen Harrison",191,4,86,101
+Nolan,Precinct 7,"Dist Attorney, 32nd Judicial Dist",,REP,"Ricky Thompson",189,4,85,100
+Nolan,Precinct 7,"County Attorney",,REP,"Morgan Brooks",194,4,88,102
+Nolan,Precinct 7,"Sheriff",,REP,"James E. Villanueva",190,4,85,101
+Nolan,Precinct 7,"County Tax Assessor-Collector",,REP,"Adriana Archuleta",184,4,84,96
+Nolan,Precinct 7,"County Commissioner Pct 3",,REP,"Tommy White",190,4,83,103
+Nolan,Precinct 7,"Constable",,REP,"Stephen F. Smith II",181,2,80,99
+Nolan,Precinct 8,"Registered Voters",,,,158,,,
+Nolan,Precinct 8,"Ballots Cast",,,,120,1,54,65
+Nolan,Precinct 8,"President",,REP,"Donald J. Trump/JD Vance",109,1,47,61
+Nolan,Precinct 8,"President",,DEM,"Kamala D. Harris/Tim Walz",10,0,6,4
+Nolan,Precinct 8,"President",,LIB,"Chase Oliver/Mike ter Maat",0,0,0,0
+Nolan,Precinct 8,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,1,0
+Nolan,Precinct 8,"President",,,"Write-ins",0,0,0,0
+Nolan,Precinct 8,"U.S. Senate",,REP,"Ted Cruz",104,1,45,58
+Nolan,Precinct 8,"U.S. Senate",,DEM,"Colin Allred",13,0,8,5
+Nolan,Precinct 8,"U.S. Senate",,LIB,"Ted Brown",3,0,1,2
+Nolan,Precinct 8,"U.S. Senate",,,"Write-ins",0,0,0,0
+Nolan,Precinct 8,"U.S. House",19,REP,"Jodey C. Arrington",107,1,46,60
+Nolan,Precinct 8,"U.S. House",19,LIB,"Bernard Johnson",3,0,1,2
+Nolan,Precinct 8,"U.S. House",19,IND,"Nathan Lewis",7,0,5,2
+Nolan,Precinct 8,"Railroad Commissioner",,REP,"Christi Craddick",105,1,46,58
+Nolan,Precinct 8,"Railroad Commissioner",,DEM,"Katherine Culbert",7,0,4,3
+Nolan,Precinct 8,"Railroad Commissioner",,LIB,"Hawk Dunlap",2,0,1,1
+Nolan,Precinct 8,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,2,1
+Nolan,Precinct 8,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Nolan,Precinct 8,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",108,1,48,59
+Nolan,Precinct 8,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",7,0,4,3
+Nolan,Precinct 8,"Justice, Supreme Court, PI 4",,REP,"John Devine",106,1,45,60
+Nolan,Precinct 8,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",9,0,6,3
+Nolan,Precinct 8,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",103,1,44,58
+Nolan,Precinct 8,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",8,0,5,3
+Nolan,Precinct 8,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",3,0,1,2
+Nolan,Precinct 8,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",106,1,45,60
+Nolan,Precinct 8,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",8,0,5,3
+Nolan,Precinct 8,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",105,1,44,60
+Nolan,Precinct 8,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",8,0,5,3
+Nolan,Precinct 8,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",106,1,45,60
+Nolan,Precinct 8,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",8,0,5,3
+Nolan,Precinct 8,"Member, State BoE, Dist 15",,REP,"Aaron Kinsey",102,1,43,58
+Nolan,Precinct 8,"Member, State BoE, Dist 15",,DEM,"Morgan Kirkpatrick",9,0,6,3
+Nolan,Precinct 8,"Member, State BoE, Dist 15",,LIB,"Jack B. Westbrook",2,0,0,2
+Nolan,Precinct 8,"State Representative",71,REP,"Stan Lambert",108,1,47,60
+Nolan,Precinct 8,"State Representative",71,DEM,"Linda Goolsbee",8,0,5,3
+Nolan,Precinct 8,"Chief Justice, 11th Ct of App Dist",,REP,"John Bailey",107,1,45,61
+Nolan,Precinct 8,"Dist Judge, 32nd Judicial Dist",,REP,"Glen Harrison",107,1,47,59
+Nolan,Precinct 8,"Dist Attorney, 32nd Judicial Dist",,REP,"Ricky Thompson",103,1,43,59
+Nolan,Precinct 8,"County Attorney",,REP,"Morgan Brooks",108,1,47,60
+Nolan,Precinct 8,"Sheriff",,REP,"James E. Villanueva",110,1,48,61
+Nolan,Precinct 8,"County Tax Assessor-Collector",,REP,"Adriana Archuleta",108,1,46,61
+Nolan,Precinct 8,"Constable",,REP,"Stephen F. Smith II",106,1,45,60
+Nolan,Precinct 9,"Registered Voters",,,,1445,,,
+Nolan,Precinct 9,"Ballots Cast",,,,1027,23,679,325
+Nolan,Precinct 9,"President",,REP,"Donald J. Trump/JD Vance",850,17,576,257
+Nolan,Precinct 9,"President",,DEM,"Kamala D. Harris/Tim Walz",165,5,98,62
+Nolan,Precinct 9,"President",,LIB,"Chase Oliver/Mike ter Maat",4,0,2,2
+Nolan,Precinct 9,"President",,GRN,"Jill Stein/Rudolph Ware",5,0,2,3
+Nolan,Precinct 9,"President",,,"Write-ins",1,0,0,1
+Nolan,Precinct 9,"U.S. Senate",,REP,"Ted Cruz",794,15,543,236
+Nolan,Precinct 9,"U.S. Senate",,DEM,"Colin Allred",194,4,119,71
+Nolan,Precinct 9,"U.S. Senate",,LIB,"Ted Brown",20,1,7,12
+Nolan,Precinct 9,"U.S. Senate",,,"Write-ins",0,0,0,0
+Nolan,Precinct 9,"U.S. House",19,REP,"Jodey C. Arrington",861,17,583,261
+Nolan,Precinct 9,"U.S. House",19,LIB,"Bernard Johnson",71,1,43,27
+Nolan,Precinct 9,"U.S. House",19,IND,"Nathan Lewis",47,2,26,19
+Nolan,Precinct 9,"Railroad Commissioner",,REP,"Christi Craddick",793,15,542,236
+Nolan,Precinct 9,"Railroad Commissioner",,DEM,"Katherine Culbert",121,3,81,37
+Nolan,Precinct 9,"Railroad Commissioner",,LIB,"Hawk Dunlap",35,0,19,16
+Nolan,Precinct 9,"Railroad Commissioner",,GRN,"Eddie Espinoza",10,0,6,4
+Nolan,Precinct 9,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Nolan,Precinct 9,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",811,14,552,245
+Nolan,Precinct 9,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",155,4,95,56
+Nolan,Precinct 9,"Justice, Supreme Court, PI 4",,REP,"John Devine",808,13,549,246
+Nolan,Precinct 9,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",156,5,96,55
+Nolan,Precinct 9,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",799,14,545,240
+Nolan,Precinct 9,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",147,4,91,52
+Nolan,Precinct 9,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",20,0,12,8
+Nolan,Precinct 9,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",800,14,543,243
+Nolan,Precinct 9,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",162,4,101,57
+Nolan,Precinct 9,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",822,14,561,247
+Nolan,Precinct 9,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",137,4,83,50
+Nolan,Precinct 9,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",820,14,560,246
+Nolan,Precinct 9,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",136,4,82,50
+Nolan,Precinct 9,"Member, State BoE, Dist 15",,REP,"Aaron Kinsey",783,14,533,236
+Nolan,Precinct 9,"Member, State BoE, Dist 15",,DEM,"Morgan Kirkpatrick",151,4,93,54
+Nolan,Precinct 9,"Member, State BoE, Dist 15",,LIB,"Jack B. Westbrook",19,0,12,7
+Nolan,Precinct 9,"State Representative",71,REP,"Stan Lambert",843,16,569,258
+Nolan,Precinct 9,"State Representative",71,DEM,"Linda Goolsbee",138,5,81,52
+Nolan,Precinct 9,"Chief Justice, 11th Ct of App Dist",,REP,"John Bailey",860,15,575,270
+Nolan,Precinct 9,"Dist Judge, 32nd Judicial Dist",,REP,"Glen Harrison",881,15,585,281
+Nolan,Precinct 9,"Dist Attorney, 32nd Judicial Dist",,REP,"Ricky Thompson",891,15,594,282
+Nolan,Precinct 9,"County Attorney",,REP,"Morgan Brooks",875,15,585,275
+Nolan,Precinct 9,"Sheriff",,REP,"James E. Villanueva",877,15,581,281
+Nolan,Precinct 9,"County Tax Assessor-Collector",,REP,"Adriana Archuleta",878,14,586,278
+Nolan,Precinct 9,"Constable",,REP,"Stephen F. Smith II",854,14,564,276
