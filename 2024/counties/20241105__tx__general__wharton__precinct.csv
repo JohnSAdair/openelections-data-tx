@@ -1,0 +1,642 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Wharton,PCT 101,"Registered Voters",,,,1284,,,
+Wharton,PCT 101,"Ballots Cast",,,,810,28,682,100
+Wharton,PCT 101,"Ballots Cast Blank",,,,0,0,0,0
+Wharton,PCT 101,"President",,REP,"Donald J. Trump/JD Vance",576,14,499,63
+Wharton,PCT 101,"President",,DEM,"Kamala D. Harris/Tim Walz",226,13,177,36
+Wharton,PCT 101,"President",,LIB,"Chase Oliver/Mike ter Maat",4,0,4,0
+Wharton,PCT 101,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,1,0
+Wharton,PCT 101,"President",,,"Write-ins",1,0,0,1
+Wharton,PCT 101,"U.S. Senate",,REP,"Ted Cruz",546,14,477,55
+Wharton,PCT 101,"U.S. Senate",,DEM,"Colin Allred",245,14,188,43
+Wharton,PCT 101,"U.S. Senate",,LIB,"Ted Brown",12,0,10,2
+Wharton,PCT 101,"U.S. Senate",,,"Write-ins",0,0,0,0
+Wharton,PCT 101,"U.S. House",22,REP,"Troy E. Nehls",573,16,496,61
+Wharton,PCT 101,"U.S. House",22,DEM,"Marquette Greene-Scott",215,12,170,33
+Wharton,PCT 101,"Railroad Commissioner",,REP,"Christi Craddick",555,15,483,57
+Wharton,PCT 101,"Railroad Commissioner",,DEM,"Katherine Culbert",204,12,162,30
+Wharton,PCT 101,"Railroad Commissioner",,LIB,"Hawk Dunlap",12,0,9,3
+Wharton,PCT 101,"Railroad Commissioner",,GRN,"Eddie Espinoza",17,0,12,5
+Wharton,PCT 101,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Wharton,PCT 101,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",572,15,497,60
+Wharton,PCT 101,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",213,12,167,34
+Wharton,PCT 101,"Justice, Supreme Court, Pl 4",,REP,"John Devine",568,15,491,62
+Wharton,PCT 101,"Justice, Supreme Court, Pl 4",,DEM,"Christine Vinh Weems",216,12,174,30
+Wharton,PCT 101,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",564,15,489,60
+Wharton,PCT 101,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",208,12,168,28
+Wharton,PCT 101,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",8,0,3,5
+Wharton,PCT 101,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",568,15,492,61
+Wharton,PCT 101,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",215,12,169,34
+Wharton,PCT 101,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",570,14,492,64
+Wharton,PCT 101,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",209,12,167,30
+Wharton,PCT 101,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",572,15,496,61
+Wharton,PCT 101,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",205,12,160,33
+Wharton,PCT 101,"State Senate",17,REP,"Joan Huffman",574,15,494,65
+Wharton,PCT 101,"State Senate",17,DEM,"Kathy Cheng",206,12,164,30
+Wharton,PCT 101,"State Representative, Dist 85",,REP,"Stan Kitzman",618,15,536,67
+Wharton,PCT 101,"Chief Justice, 13th Ct of App Dist",,REP,"Jaime Tijerina",564,13,488,63
+Wharton,PCT 101,"Chief Justice, 13th Ct of App Dist",,DEM,"Gina Benavides",208,10,167,31
+Wharton,PCT 101,"Justice, 13th Ct of App Dist, Pl 2",,REP,"Jenny Cron",555,14,483,58
+Wharton,PCT 101,"Justice, 13th Ct of App Dist, Pl 2",,DEM,"Nora Longoria",216,10,169,37
+Wharton,PCT 101,"Justice, 13th Ct of App Dist, PI 4",,REP,"Ysmael D. Fonseca",562,13,490,59
+Wharton,PCT 101,"Justice, 13th Ct of App Dist, PI 4",,DEM,"Joe Martinez",213,10,166,37
+Wharton,PCT 101,"Justice, 13th Ct of App Dist, PI 5",,REP,"Jon West",571,12,495,64
+Wharton,PCT 101,"Justice, 13th Ct of App Dist, PI 5",,DEM,"Regi Compian Richardson",203,10,162,31
+Wharton,PCT 101,"Dist Judge, 23rd Judicial Dist",,REP,"John Maher",634,14,544,76
+Wharton,PCT 101,"Dist Attorney, 329th Judicial Dist",,REP,"Mark W. Racer",622,14,534,74
+Wharton,PCT 101,"County Attorney",,REP,"G.A. (Trey) Maffett",628,15,540,73
+Wharton,PCT 101,"Sheriff",,REP,"Shannon Srubar",468,12,411,45
+Wharton,PCT 101,"Sheriff",,DEM,"Ben Guanajuato",320,12,257,51
+Wharton,PCT 101,"County Tax Assessor-Collector",,REP,"Cindy Hernandez",668,16,570,82
+Wharton,PCT 101,"County Commissioner Pct 1",,REP,"Richard Zahn",632,16,540,76
+Wharton,PCT 101,"Constable Pct 1",,REP,"William ""Bill"" Copeland",641,16,547,78
+Wharton,PCT 102,"Registered Voters",,,,3063,,,
+Wharton,PCT 102,"Ballots Cast",,,,2016,76,1666,274
+Wharton,PCT 102,"Ballots Cast Blank",,,,0,0,0,0
+Wharton,PCT 102,"President",,REP,"Donald J. Trump/JD Vance",1483,48,1269,166
+Wharton,PCT 102,"President",,DEM,"Kamala D. Harris/Tim Walz",503,28,372,103
+Wharton,PCT 102,"President",,LIB,"Chase Oliver/Mike ter Maat",8,0,6,2
+Wharton,PCT 102,"President",,GRN,"Jill Stein/Rudolph Ware",7,0,7,0
+Wharton,PCT 102,"President",,,"Write-ins",5,0,3,2
+Wharton,PCT 102,"U.S. Senate",,REP,"Ted Cruz",1423,42,1230,151
+Wharton,PCT 102,"U.S. Senate",,DEM,"Colin Allred",539,31,397,111
+Wharton,PCT 102,"U.S. Senate",,LIB,"Ted Brown",36,2,26,8
+Wharton,PCT 102,"U.S. Senate",,,"Write-ins",1,0,0,1
+Wharton,PCT 102,"U.S. House",22,REP,"Troy E. Nehls",1505,46,1296,163
+Wharton,PCT 102,"U.S. House",22,DEM,"Marquette Greene-Scott",470,27,343,100
+Wharton,PCT 102,"Railroad Commissioner",,REP,"Christi Craddick",1439,45,1240,154
+Wharton,PCT 102,"Railroad Commissioner",,DEM,"Katherine Culbert",442,25,323,94
+Wharton,PCT 102,"Railroad Commissioner",,LIB,"Hawk Dunlap",42,0,39,3
+Wharton,PCT 102,"Railroad Commissioner",,GRN,"Eddie Espinoza",36,1,22,13
+Wharton,PCT 102,"Railroad Commissioner",,,"Write-ins",1,0,1,0
+Wharton,PCT 102,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",1489,42,1286,161
+Wharton,PCT 102,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",465,26,339,100
+Wharton,PCT 102,"Justice, Supreme Court, PI 4",,REP,"John Devine",1453,42,1249,162
+Wharton,PCT 102,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",495,26,370,99
+Wharton,PCT 102,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",1458,43,1257,158
+Wharton,PCT 102,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",448,25,328,95
+Wharton,PCT 102,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",41,3,31,7
+Wharton,PCT 102,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1475,44,1271,160
+Wharton,PCT 102,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",465,26,342,97
+Wharton,PCT 102,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",1473,45,1268,160
+Wharton,PCT 102,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",468,24,347,97
+Wharton,PCT 102,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",1482,44,1274,164
+Wharton,PCT 102,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",454,25,334,95
+Wharton,PCT 102,"State Senate",17,REP,"Joan Huffman",1489,44,1285,160
+Wharton,PCT 102,"State Senate",17,DEM,"Kathy Cheng",456,22,335,99
+Wharton,PCT 102,"State Representative, Dist 85",,REP,"Stan Kitzman",1625,46,1383,196
+Wharton,PCT 102,"Chief Justice, 13th Ct of App Dist",,REP,"Jaime Tijerina",1462,40,1261,161
+Wharton,PCT 102,"Chief Justice, 13th Ct of App Dist",,DEM,"Gina Benavides",468,24,345,99
+Wharton,PCT 102,"Justice, 13th Ct of App Dist, PI 2",,REP,"Jenny Cron",1454,40,1259,155
+Wharton,PCT 102,"Justice, 13th Ct of App Dist, PI 2",,DEM,"Nora Longoria",483,24,354,105
+Wharton,PCT 102,"Justice, 13th Ct of App Dist, PI 4",,REP,"Ysmael D. Fonseca",1456,39,1261,156
+Wharton,PCT 102,"Justice, 13th Ct of App Dist, PI 4",,DEM,"Joe Martinez",485,25,355,105
+Wharton,PCT 102,"Justice, 13th Ct of App Dist, PI 5",,REP,"Jon West",1482,43,1281,158
+Wharton,PCT 102,"Justice, 13th Ct of App Dist, PI 5",,DEM,"Regi Compian Richardson",444,21,324,99
+Wharton,PCT 102,"Dist Judge, 23rd Judicial Dist",,REP,"John Maher",1630,46,1386,198
+Wharton,PCT 102,"Dist Attorney, 329th Judicial Dist",,REP,"Mark W. Racer",1636,47,1393,196
+Wharton,PCT 102,"County Attorney",,REP,"G.A. (Trey) Maffett",1655,46,1411,198
+Wharton,PCT 102,"Sheriff",,REP,"Shannon Srubar",1167,39,1004,124
+Wharton,PCT 102,"Sheriff",,DEM,"Ben Guanajuato",797,25,635,137
+Wharton,PCT 102,"County Tax Assessor-Collector",,REP,"Cindy Hernandez",1721,52,1456,213
+Wharton,PCT 102,"County Commissioner Pct 1",,REP,"Richard Zahn",1674,46,1427,201
+Wharton,PCT 102,"Constable Pct 1",,REP,"William ""Bill"" Copeland",1673,49,1417,207
+Wharton,PCT 103,"Registered Voters",,,,2593,,,
+Wharton,PCT 103,"Ballots Cast",,,,1595,41,1204,350
+Wharton,PCT 103,"Ballots Cast Blank",,,,0,0,0,0
+Wharton,PCT 103,"President",,REP,"Donald J. Trump/JD Vance",1206,24,925,257
+Wharton,PCT 103,"President",,DEM,"Kamala D. Harris/Tim Walz",370,16,267,87
+Wharton,PCT 103,"President",,LIB,"Chase Oliver/Mike ter Maat",9,0,6,3
+Wharton,PCT 103,"President",,GRN,"Jill Stein/Rudolph Ware",3,0,2,1
+Wharton,PCT 103,"President",,,"Write-ins",4,1,3,0
+Wharton,PCT 103,"U.S. Senate",,REP,"Ted Cruz",1152,24,891,237
+Wharton,PCT 103,"U.S. Senate",,DEM,"Colin Allred",402,17,291,94
+Wharton,PCT 103,"U.S. Senate",,LIB,"Ted Brown",21,0,12,9
+Wharton,PCT 103,"U.S. Senate",,,"Write-ins",3,0,2,1
+Wharton,PCT 103,"U.S. House",22,REP,"Troy E. Nehls",1191,21,919,251
+Wharton,PCT 103,"U.S. House",22,DEM,"Marquette Greene-Scott",355,15,255,85
+Wharton,PCT 103,"Railroad Commissioner",,REP,"Christi Craddick",1139,22,875,242
+Wharton,PCT 103,"Railroad Commissioner",,DEM,"Katherine Culbert",332,14,245,73
+Wharton,PCT 103,"Railroad Commissioner",,LIB,"Hawk Dunlap",36,0,28,8
+Wharton,PCT 103,"Railroad Commissioner",,GRN,"Eddie Espinoza",33,0,19,14
+Wharton,PCT 103,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Wharton,PCT 103,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",1175,22,902,251
+Wharton,PCT 103,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",356,14,259,83
+Wharton,PCT 103,"Justice, Supreme Court, PI 4",,REP,"John Devine",1166,21,898,247
+Wharton,PCT 103,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",364,14,262,88
+Wharton,PCT 103,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",1156,22,894,240
+Wharton,PCT 103,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",352,15,253,84
+Wharton,PCT 103,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",32,0,20,12
+Wharton,PCT 103,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1158,21,893,244
+Wharton,PCT 103,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",367,14,264,89
+Wharton,PCT 103,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",1177,22,903,252
+Wharton,PCT 103,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",351,12,255,84
+Wharton,PCT 103,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",1181,23,907,251
+Wharton,PCT 103,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",347,13,252,82
+Wharton,PCT 103,"State Senate",17,REP,"Joan Huffman",1181,24,903,254
+Wharton,PCT 103,"State Senate",17,DEM,"Kathy Cheng",349,13,256,80
+Wharton,PCT 103,"State Representative, Dist 85",,REP,"Stan Kitzman",1268,24,964,280
+Wharton,PCT 103,"Chief Justice, 13th Ct of App Dist",,REP,"Jaime Tijerina",1157,20,890,247
+Wharton,PCT 103,"Chief Justice, 13th Ct of App Dist",,DEM,"Gina Benavides",357,14,259,84
+Wharton,PCT 103,"Justice, 13th Ct of App Dist, PI 2",,REP,"Jenny Cron",1139,21,879,239
+Wharton,PCT 103,"Justice, 13th Ct of App Dist, PI 2",,DEM,"Nora Longoria",378,14,272,92
+Wharton,PCT 103,"Justice, 13th Ct of App Dist, PI 4",,REP,"Ysmael D. Fonseca",1146,18,882,246
+Wharton,PCT 103,"Justice, 13th Ct of App Dist, PI 4",,DEM,"Joe Martinez",373,15,272,86
+Wharton,PCT 103,"Justice, 13th Ct of App Dist, PI 5",,REP,"Jon West",1180,20,907,253
+Wharton,PCT 103,"Justice, 13th Ct of App Dist, PI 5",,DEM,"Regi Compian Richardson",340,15,247,78
+Wharton,PCT 103,"Dist Judge, 23rd Judicial Dist",,REP,"John Maher",1291,21,984,286
+Wharton,PCT 103,"Dist Attorney, 329th Judicial Dist",,REP,"Mark W. Racer",1257,23,958,276
+Wharton,PCT 103,"County Attorney",,REP,"G.A. (Trey) Maffett",1317,23,1009,285
+Wharton,PCT 103,"Sheriff",,REP,"Shannon Srubar",993,21,768,204
+Wharton,PCT 103,"Sheriff",,DEM,"Ben Guanajuato",554,15,408,131
+Wharton,PCT 103,"County Tax Assessor-Collector",,REP,"Cindy Hernandez",1356,24,1034,298
+Wharton,PCT 103,"County Commissioner Pct 1",,REP,"Richard Zahn",1305,23,996,286
+Wharton,PCT 103,"Constable Pct 1",,REP,"William ""Bill"" Copeland",1314,23,1004,287
+Wharton,PCT 201,"Registered Voters",,,,2918,,,
+Wharton,PCT 201,"Ballots Cast",,,,2165,60,1832,273
+Wharton,PCT 201,"Ballots Cast Blank",,,,0,0,0,0
+Wharton,PCT 201,"President",,REP,"Donald J. Trump/JD Vance",1906,35,1645,226
+Wharton,PCT 201,"President",,DEM,"Kamala D. Harris/Tim Walz",242,24,174,44
+Wharton,PCT 201,"President",,LIB,"Chase Oliver/Mike ter Maat",5,0,5,0
+Wharton,PCT 201,"President",,GRN,"Jill Stein/Rudolph Ware",2,1,1,0
+Wharton,PCT 201,"President",,,"Write-ins",2,0,2,0
+Wharton,PCT 201,"U.S. Senate",,REP,"Ted Cruz",1870,36,1614,220
+Wharton,PCT 201,"U.S. Senate",,DEM,"Colin Allred",247,20,186,41
+Wharton,PCT 201,"U.S. Senate",,LIB,"Ted Brown",27,3,18,6
+Wharton,PCT 201,"U.S. Senate",,,"Write-ins",2,1,1,0
+Wharton,PCT 201,"U.S. House",22,REP,"Troy E. Nehls",1919,36,1657,226
+Wharton,PCT 201,"U.S. House",22,DEM,"Marquette Greene-Scott",202,18,149,35
+Wharton,PCT 201,"Railroad Commissioner",,REP,"Christi Craddick",1871,37,1615,219
+Wharton,PCT 201,"Railroad Commissioner",,DEM,"Katherine Culbert",178,18,135,25
+Wharton,PCT 201,"Railroad Commissioner",,LIB,"Hawk Dunlap",43,3,32,8
+Wharton,PCT 201,"Railroad Commissioner",,GRN,"Eddie Espinoza",20,0,13,7
+Wharton,PCT 201,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Wharton,PCT 201,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",1908,40,1646,222
+Wharton,PCT 201,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",195,15,142,38
+Wharton,PCT 201,"Justice, Supreme Court, PI 4",,REP,"John Devine",1886,35,1632,219
+Wharton,PCT 201,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",214,19,154,41
+Wharton,PCT 201,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",1874,38,1625,211
+Wharton,PCT 201,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",192,17,139,36
+Wharton,PCT 201,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",37,1,28,8
+Wharton,PCT 201,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1900,38,1644,218
+Wharton,PCT 201,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",195,17,142,36
+Wharton,PCT 201,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",1887,36,1635,216
+Wharton,PCT 201,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",205,17,149,39
+Wharton,PCT 201,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",1899,37,1644,218
+Wharton,PCT 201,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",194,18,139,37
+Wharton,PCT 201,"State Senate",17,REP,"Joan Huffman",1895,37,1637,221
+Wharton,PCT 201,"State Senate",17,DEM,"Kathy Cheng",196,15,148,33
+Wharton,PCT 201,"State Representative, Dist 85",,REP,"Stan Kitzman",1936,39,1669,228
+Wharton,PCT 201,"Chief Justice, 13th Ct of App Dist",,REP,"Jaime Tijerina",1878,30,1634,214
+Wharton,PCT 201,"Chief Justice, 13th Ct of App Dist",,DEM,"Gina Benavides",202,16,145,41
+Wharton,PCT 201,"Justice, 13th Ct of App Dist, PI 2",,REP,"Jenny Cron",1868,30,1624,214
+Wharton,PCT 201,"Justice, 13th Ct of App Dist, PI 2",,DEM,"Nora Longoria",217,16,159,42
+Wharton,PCT 201,"Justice, 13th Ct of App Dist, PI 4",,REP,"Ysmael D. Fonseca",1860,27,1614,219
+Wharton,PCT 201,"Justice, 13th Ct of App Dist, PI 4",,DEM,"Joe Martinez",212,17,159,36
+Wharton,PCT 201,"Justice, 13th Ct of App Dist, PI 5",,REP,"Jon West",1905,34,1648,223
+Wharton,PCT 201,"Justice, 13th Ct of App Dist, PI 5",,DEM,"Regi Compian Richardson",177,11,133,33
+Wharton,PCT 201,"Dist Judge, 23rd Judicial Dist",,REP,"John Maher",1948,36,1679,233
+Wharton,PCT 201,"Dist Attorney, 329th Judicial Dist",,REP,"Mark W. Racer",1940,32,1675,233
+Wharton,PCT 201,"County Attorney",,REP,"G.A. (Trey) Maffett",1960,34,1691,235
+Wharton,PCT 201,"Sheriff",,REP,"Shannon Srubar",1865,32,1620,213
+Wharton,PCT 201,"Sheriff",,DEM,"Ben Guanajuato",243,15,183,45
+Wharton,PCT 201,"County Tax Assessor-Collector",,REP,"Cindy Hernandez",2000,43,1718,239
+Wharton,PCT 201,"Constable Pct 2",,REP,"John A. Szymanski",1970,38,1698,234
+Wharton,PCT 201,"Proposition A City of East Bernard",,,"For",1051,21,918,112
+Wharton,PCT 201,"Proposition A City of East Bernard",,,"Against",202,1,166,35
+Wharton,PCT 202,"Registered Voters",,,,932,,,
+Wharton,PCT 202,"Ballots Cast",,,,531,36,427,68
+Wharton,PCT 202,"Ballots Cast Blank",,,,0,0,0,0
+Wharton,PCT 202,"President",,REP,"Donald J. Trump/JD Vance",220,11,176,33
+Wharton,PCT 202,"President",,DEM,"Kamala D. Harris/Tim Walz",307,25,247,35
+Wharton,PCT 202,"President",,LIB,"Chase Oliver/Mike ter Maat",3,0,3,0
+Wharton,PCT 202,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,1,0
+Wharton,PCT 202,"President",,,"Write-ins",0,0,0,0
+Wharton,PCT 202,"U.S. Senate",,REP,"Ted Cruz",207,11,169,27
+Wharton,PCT 202,"U.S. Senate",,DEM,"Colin Allred",314,25,249,40
+Wharton,PCT 202,"U.S. Senate",,LIB,"Ted Brown",8,0,8,0
+Wharton,PCT 202,"U.S. Senate",,,"Write-ins",0,0,0,0
+Wharton,PCT 202,"U.S. House",22,REP,"Troy E. Nehls",221,10,180,31
+Wharton,PCT 202,"U.S. House",22,DEM,"Marquette Greene-Scott",295,24,238,33
+Wharton,PCT 202,"Railroad Commissioner",,REP,"Christi Craddick",217,11,172,34
+Wharton,PCT 202,"Railroad Commissioner",,DEM,"Katherine Culbert",287,24,234,29
+Wharton,PCT 202,"Railroad Commissioner",,LIB,"Hawk Dunlap",13,1,12,0
+Wharton,PCT 202,"Railroad Commissioner",,GRN,"Eddie Espinoza",4,0,4,0
+Wharton,PCT 202,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Wharton,PCT 202,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",228,11,183,34
+Wharton,PCT 202,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",289,25,235,29
+Wharton,PCT 202,"Justice, Supreme Court, PI 4",,REP,"John Devine",224,11,181,32
+Wharton,PCT 202,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",290,23,236,31
+Wharton,PCT 202,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",216,11,172,33
+Wharton,PCT 202,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",292,24,240,28
+Wharton,PCT 202,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",16,1,13,2
+Wharton,PCT 202,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",226,10,182,34
+Wharton,PCT 202,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",296,25,241,30
+Wharton,PCT 202,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",228,10,185,33
+Wharton,PCT 202,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",290,23,237,30
+Wharton,PCT 202,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",229,10,185,34
+Wharton,PCT 202,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",289,24,236,29
+Wharton,PCT 202,"State Senate",17,REP,"Joan Huffman",232,10,186,36
+Wharton,PCT 202,"State Senate",17,DEM,"Kathy Cheng",288,24,237,27
+Wharton,PCT 202,"State Representative, Dist 85",,REP,"Stan Kitzman",293,9,245,39
+Wharton,PCT 202,"Chief Justice, 13th Ct of App Dist",,REP,"Jaime Tijerina",216,7,178,31
+Wharton,PCT 202,"Chief Justice, 13th Ct of App Dist",,DEM,"Gina Benavides",293,21,240,32
+Wharton,PCT 202,"Justice, 13th Ct of App Dist, Pl 2",,REP,"Jenny Cron",215,7,177,31
+Wharton,PCT 202,"Justice, 13th Ct of App Dist, Pl 2",,DEM,"Nora Longoria",299,23,244,32
+Wharton,PCT 202,"Justice, 13th Ct of App Dist, PI 4",,REP,"Ysmael D. Fonseca",218,7,179,32
+Wharton,PCT 202,"Justice, 13th Ct of App Dist, PI 4",,DEM,"Joe Martinez",294,22,241,31
+Wharton,PCT 202,"Justice, 13th Ct of App Dist, PI 5",,REP,"Jon West",226,7,184,35
+Wharton,PCT 202,"Justice, 13th Ct of App Dist, PI 5",,DEM,"Regi Compian Richardson",292,23,240,29
+Wharton,PCT 202,"Dist Judge, 23rd Judicial Dist",,REP,"John Maher",309,7,257,45
+Wharton,PCT 202,"Dist Attorney, 329th Judicial Dist",,REP,"Mark W. Racer",300,5,250,45
+Wharton,PCT 202,"County Attorney",,REP,"G.A. (Trey) Maffett",304,5,254,45
+Wharton,PCT 202,"Sheriff",,REP,"Shannon Srubar",210,9,168,33
+Wharton,PCT 202,"Sheriff",,DEM,"Ben Guanajuato",307,21,252,34
+Wharton,PCT 202,"County Tax Assessor-Collector",,REP,"Cindy Hernandez",347,14,283,50
+Wharton,PCT 202,"Constable Pct 2",,REP,"John A. Szymanski",309,10,255,44
+Wharton,PCT 203,"Registered Voters",,,,3463,,,
+Wharton,PCT 203,"Ballots Cast",,,,1817,71,1400,346
+Wharton,PCT 203,"Ballots Cast Blank",,,,0,0,0,0
+Wharton,PCT 203,"President",,REP,"Donald J. Trump/JD Vance",963,19,776,168
+Wharton,PCT 203,"President",,DEM,"Kamala D. Harris/Tim Walz",825,50,608,167
+Wharton,PCT 203,"President",,LIB,"Chase Oliver/Mike ter Maat",11,1,7,3
+Wharton,PCT 203,"President",,GRN,"Jill Stein/Rudolph Ware",8,1,2,5
+Wharton,PCT 203,"President",,,"Write-ins",1,0,0,1
+Wharton,PCT 203,"U.S. Senate",,REP,"Ted Cruz",921,19,750,152
+Wharton,PCT 203,"U.S. Senate",,DEM,"Colin Allred",824,47,600,177
+Wharton,PCT 203,"U.S. Senate",,LIB,"Ted Brown",39,3,24,12
+Wharton,PCT 203,"U.S. Senate",,,"Write-ins",2,1,0,1
+Wharton,PCT 203,"U.S. House",22,REP,"Troy E. Nehls",974,20,785,169
+Wharton,PCT 203,"U.S. House",22,DEM,"Marquette Greene-Scott",778,50,566,162
+Wharton,PCT 203,"Railroad Commissioner",,REP,"Christi Craddick",911,20,734,157
+Wharton,PCT 203,"Railroad Commissioner",,DEM,"Katherine Culbert",753,45,558,150
+Wharton,PCT 203,"Railroad Commissioner",,LIB,"Hawk Dunlap",30,1,22,7
+Wharton,PCT 203,"Railroad Commissioner",,GRN,"Eddie Espinoza",51,3,32,16
+Wharton,PCT 203,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Wharton,PCT 203,"Justice, Supreme Court, Pl 2",,REP,"Jimmy Blacklock",955,21,767,167
+Wharton,PCT 203,"Justice, Supreme Court, Pl 2",,DEM,"DaSean Jones",790,49,579,162
+Wharton,PCT 203,"Justice, Supreme Court, PI 4",,REP,"John Devine",938,20,755,163
+Wharton,PCT 203,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",802,48,590,164
+Wharton,PCT 203,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",929,20,752,157
+Wharton,PCT 203,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",761,48,563,150
+Wharton,PCT 203,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",46,2,26,18
+Wharton,PCT 203,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",951,19,763,169
+Wharton,PCT 203,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",785,51,575,159
+Wharton,PCT 203,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",943,18,763,162
+Wharton,PCT 203,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",781,49,568,164
+Wharton,PCT 203,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",962,22,773,167
+Wharton,PCT 203,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",767,48,561,158
+Wharton,PCT 203,"State Senate",17,REP,"Joan Huffman",943,19,763,161
+Wharton,PCT 203,"State Senate",17,DEM,"Kathy Cheng",782,48,568,166
+Wharton,PCT 203,"State Representative, Dist 85",,REP,"Stan Kitzman",1163,25,919,219
+Wharton,PCT 203,"Chief Justice, 13th Ct of App Dist",,REP,"Jaime Tijerina",935,19,754,162
+Wharton,PCT 203,"Chief Justice, 13th Ct of App Dist",,DEM,"Gina Benavides",774,47,567,160
+Wharton,PCT 203,"Justice, 13th Ct of App Dist, PI 2",,REP,"Jenny Cron",925,20,746,159
+Wharton,PCT 203,"Justice, 13th Ct of App Dist, PI 2",,DEM,"Nora Longoria",786,46,577,163
+Wharton,PCT 203,"Justice, 13th Ct of App Dist, PI 4",,REP,"Ysmael D. Fonseca",918,18,744,156
+Wharton,PCT 203,"Justice, 13th Ct of App Dist, PI 4",,DEM,"Joe Martinez",800,47,588,165
+Wharton,PCT 203,"Justice, 13th Ct of App Dist, PI 5",,REP,"Jon West",952,21,766,165
+Wharton,PCT 203,"Justice, 13th Ct of App Dist, PI 5",,DEM,"Regi Compian Richardson",756,45,557,154
+Wharton,PCT 203,"Dist Judge, 23rd Judicial Dist",,REP,"John Maher",1215,29,952,234
+Wharton,PCT 203,"Dist Attorney, 329th Judicial Dist",,REP,"Mark W. Racer",1208,28,954,226
+Wharton,PCT 203,"County Attorney",,REP,"G.A. (Trey) Maffett",1225,32,963,230
+Wharton,PCT 203,"Sheriff",,REP,"Shannon Srubar",853,20,711,122
+Wharton,PCT 203,"Sheriff",,DEM,"Ben Guanajuato",887,44,631,212
+Wharton,PCT 203,"County Tax Assessor-Collector",,REP,"Cindy Hernandez",1324,38,1037,249
+Wharton,PCT 203,"Constable Pct 2",,REP,"John A. Szymanski",1225,34,964,227
+Wharton,PCT 301,"Registered Voters",,,,2404,,,
+Wharton,PCT 301,"Ballots Cast",,,,1792,62,1556,174
+Wharton,PCT 301,"Ballots Cast Blank",,,,0,0,0,0
+Wharton,PCT 301,"President",,REP,"Donald J. Trump/JD Vance",1552,50,1364,138
+Wharton,PCT 301,"President",,DEM,"Kamala D. Harris/Tim Walz",230,12,185,33
+Wharton,PCT 301,"President",,LIB,"Chase Oliver/Mike ter Maat",5,0,4,1
+Wharton,PCT 301,"President",,GRN,"Jill Stein/Rudolph Ware",4,0,2,2
+Wharton,PCT 301,"President",,,"Write-ins",0,0,0,0
+Wharton,PCT 301,"U.S. Senate",,REP,"Ted Cruz",1494,50,1318,126
+Wharton,PCT 301,"U.S. Senate",,DEM,"Colin Allred",264,12,210,42
+Wharton,PCT 301,"U.S. Senate",,LIB,"Ted Brown",19,0,16,3
+Wharton,PCT 301,"U.S. Senate",,,"Write-ins",1,0,1,0
+Wharton,PCT 301,"U.S. House",22,REP,"Troy E. Nehls",1530,46,1344,140
+Wharton,PCT 301,"U.S. House",22,DEM,"Marquette Greene-Scott",216,11,174,31
+Wharton,PCT 301,"Railroad Commissioner",,REP,"Christi Craddick",1489,46,1312,131
+Wharton,PCT 301,"Railroad Commissioner",,DEM,"Katherine Culbert",195,10,157,28
+Wharton,PCT 301,"Railroad Commissioner",,LIB,"Hawk Dunlap",35,1,28,6
+Wharton,PCT 301,"Railroad Commissioner",,GRN,"Eddie Espinoza",22,0,15,7
+Wharton,PCT 301,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Wharton,PCT 301,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",1534,47,1347,140
+Wharton,PCT 301,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",201,10,159,32
+Wharton,PCT 301,"Justice, Supreme Court, PI 4",,REP,"John Devine",1514,47,1331,136
+Wharton,PCT 301,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",217,10,171,36
+Wharton,PCT 301,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",1499,46,1326,127
+Wharton,PCT 301,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",210,11,161,38
+Wharton,PCT 301,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",23,0,18,5
+Wharton,PCT 301,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1503,46,1325,132
+Wharton,PCT 301,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",221,10,175,36
+Wharton,PCT 301,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",1507,43,1328,136
+Wharton,PCT 301,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",212,10,168,34
+Wharton,PCT 301,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",1512,44,1330,138
+Wharton,PCT 301,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",204,11,163,30
+Wharton,PCT 301,"State Senate",17,REP,"Joan Huffman",1520,47,1336,137
+Wharton,PCT 301,"State Senate",17,DEM,"Kathy Cheng",210,10,169,31
+Wharton,PCT 301,"State Representative, Dist 85",,REP,"Stan Kitzman",1584,45,1386,153
+Wharton,PCT 301,"Chief Justice, 13th Ct of App Dist",,REP,"Jaime Tijerina",1488,43,1311,134
+Wharton,PCT 301,"Chief Justice, 13th Ct of App Dist",,DEM,"Gina Benavides",226,10,183,33
+Wharton,PCT 301,"Justice, 13th Ct of App Dist, Pl 2",,REP,"Jenny Cron",1489,45,1314,130
+Wharton,PCT 301,"Justice, 13th Ct of App Dist, Pl 2",,DEM,"Nora Longoria",227,11,180,36
+Wharton,PCT 301,"Justice, 13th Ct of App Dist, PI 4",,REP,"Ysmael D. Fonseca",1489,42,1317,130
+Wharton,PCT 301,"Justice, 13th Ct of App Dist, PI 4",,DEM,"Joe Martinez",227,12,177,38
+Wharton,PCT 301,"Justice, 13th Ct of App Dist, PI 5",,REP,"Jon West",1517,45,1335,137
+Wharton,PCT 301,"Justice, 13th Ct of App Dist, PI 5",,DEM,"Regi Compian Richardson",202,10,161,31
+Wharton,PCT 301,"Dist Judge, 23rd Judicial Dist",,REP,"John Maher",1580,48,1382,150
+Wharton,PCT 301,"Dist Attorney, 329th Judicial Dist",,REP,"Mark W. Racer",1573,47,1373,153
+Wharton,PCT 301,"County Attorney",,REP,"G.A. (Trey) Maffett",1610,49,1406,155
+Wharton,PCT 301,"Sheriff",,REP,"Shannon Srubar",1555,51,1370,134
+Wharton,PCT 301,"Sheriff",,DEM,"Ben Guanajuato",212,9,169,34
+Wharton,PCT 301,"County Tax Assessor-Collector",,REP,"Cindy Hernandez",1631,50,1427,154
+Wharton,PCT 301,"County Commissioner Pct 3",,REP,"Steven Goetsch",1592,51,1392,149
+Wharton,PCT 301,"Constable Pct 3",,REP,"Blake George",1605,49,1406,150
+Wharton,PCT 301,"Trustee, Position 2 Louise ISD",,,"Elisa Garcia",0,0,0,0
+Wharton,PCT 301,"Trustee, Position 2 Louise ISD",,,"Chad Hajovsky",22,0,19,3
+Wharton,PCT 301,"Trustee, Position 2 Louise ISD",,,"Christopher Faas",1,0,1,0
+Wharton,PCT 301,"Trustee, Position 3 Louise ISD",,,"Blake Roehl",19,0,16,3
+Wharton,PCT 301,"Trustee, Position 3 Louise ISD",,,"Fred Ochoa Sr.",5,0,5,0
+Wharton,PCT 301,"Trustee, Position 5 Louise ISD",,,"Gary Yackel",12,0,11,1
+Wharton,PCT 301,"Trustee, Position 5 Louise ISD",,,"Amanda Kate Cox",11,0,9,2
+Wharton,PCT 301,"Trustee, Position 6 Louise ISD",,,"Tim (Timothy) Garcia",4,0,3,1
+Wharton,PCT 301,"Trustee, Position 6 Louise ISD",,,"Stephen Lutringer",19,0,17,2
+Wharton,PCT 301,"Trustee, Position 7 Louise ISD",,,"Linda Alderson",5,0,4,1
+Wharton,PCT 301,"Trustee, Position 7 Louise ISD",,,"Tori Koudela",18,0,16,2
+Wharton,PCT 302,"Registered Voters",,,,2320,,,
+Wharton,PCT 302,"Ballots Cast",,,,1460,52,1173,235
+Wharton,PCT 302,"Ballots Cast Blank",,,,0,0,0,0
+Wharton,PCT 302,"President",,REP,"Donald J. Trump/JD Vance",1156,20,966,170
+Wharton,PCT 302,"President",,DEM,"Kamala D. Harris/Tim Walz",285,31,191,63
+Wharton,PCT 302,"President",,LIB,"Chase Oliver/Mike ter Maat",6,0,5,1
+Wharton,PCT 302,"President",,GRN,"Jill Stein/Rudolph Ware",4,0,4,0
+Wharton,PCT 302,"President",,,"Write-ins",3,1,1,1
+Wharton,PCT 302,"U.S. Senate",,REP,"Ted Cruz",1100,19,925,156
+Wharton,PCT 302,"U.S. Senate",,DEM,"Colin Allred",314,30,217,67
+Wharton,PCT 302,"U.S. Senate",,LIB,"Ted Brown",27,0,21,6
+Wharton,PCT 302,"U.S. Senate",,,"Write-ins",0,0,0,0
+Wharton,PCT 302,"U.S. House",22,REP,"Troy E. Nehls",1131,19,952,160
+Wharton,PCT 302,"U.S. House",22,DEM,"Marquette Greene-Scott",272,30,188,54
+Wharton,PCT 302,"Railroad Commissioner",,REP,"Christi Craddick",1115,20,942,153
+Wharton,PCT 302,"Railroad Commissioner",,DEM,"Katherine Culbert",243,27,164,52
+Wharton,PCT 302,"Railroad Commissioner",,LIB,"Hawk Dunlap",23,0,17,6
+Wharton,PCT 302,"Railroad Commissioner",,GRN,"Eddie Espinoza",25,0,17,8
+Wharton,PCT 302,"Railroad Commissioner",,,"Write-ins",1,0,0,1
+Wharton,PCT 302,"Justice, Supreme Court, Pl 2",,REP,"Jimmy Blacklock",1138,20,954,164
+Wharton,PCT 302,"Justice, Supreme Court, Pl 2",,DEM,"DaSean Jones",259,27,178,54
+Wharton,PCT 302,"Justice, Supreme Court, PI 4",,REP,"John Devine",1115,20,935,160
+Wharton,PCT 302,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",272,27,193,52
+Wharton,PCT 302,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",1104,20,926,158
+Wharton,PCT 302,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",253,27,175,51
+Wharton,PCT 302,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",24,0,19,5
+Wharton,PCT 302,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1117,20,937,160
+Wharton,PCT 302,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",260,27,178,55
+Wharton,PCT 302,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",1114,19,935,160
+Wharton,PCT 302,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",253,26,176,51
+Wharton,PCT 302,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",1121,21,939,161
+Wharton,PCT 302,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",254,25,176,53
+Wharton,PCT 302,"State Senate",17,REP,"Joan Huffman",1125,19,947,159
+Wharton,PCT 302,"State Senate",17,DEM,"Kathy Cheng",260,27,177,56
+Wharton,PCT 302,"State Representative, Dist 85",,REP,"Stan Kitzman",1190,22,985,183
+Wharton,PCT 302,"Chief Justice, 13th Ct of App Dist",,REP,"Jaime Tijerina",1103,18,929,156
+Wharton,PCT 302,"Chief Justice, 13th Ct of App Dist",,DEM,"Gina Benavides",272,27,189,56
+Wharton,PCT 302,"Justice, 13th Ct of App Dist, Pl 2",,REP,"Jenny Cron",1096,19,922,155
+Wharton,PCT 302,"Justice, 13th Ct of App Dist, Pl 2",,DEM,"Nora Longoria",275,26,193,56
+Wharton,PCT 302,"Justice, 13th Ct of App Dist, Pl 4",,REP,"Ysmael D. Fonseca",1092,19,915,158
+Wharton,PCT 302,"Justice, 13th Ct of App Dist, Pl 4",,DEM,"Joe Martinez",279,26,198,55
+Wharton,PCT 302,"Justice, 13th Ct of App Dist, PI 5",,REP,"Jon West",1121,20,937,164
+Wharton,PCT 302,"Justice, 13th Ct of App Dist, PI 5",,DEM,"Regi Compian Richardson",253,25,177,51
+Wharton,PCT 302,"Dist Judge, 23rd Judicial Dist",,REP,"John Maher",1203,22,989,192
+Wharton,PCT 302,"Dist Attorney, 329th Judicial Dist",,REP,"Mark W. Racer",1186,23,980,183
+Wharton,PCT 302,"County Attorney",,REP,"G.A. (Trey) Maffett",1210,23,999,188
+Wharton,PCT 302,"Sheriff",,REP,"Shannon Srubar",1172,23,986,163
+Wharton,PCT 302,"Sheriff",,DEM,"Ben Guanajuato",249,23,164,62
+Wharton,PCT 302,"County Tax Assessor-Collector",,REP,"Cindy Hernandez",1235,27,1011,197
+Wharton,PCT 302,"County Commissioner Pct 3",,REP,"Steven Goetsch",1224,26,1007,191
+Wharton,PCT 302,"Constable Pct 3",,REP,"Blake George",1217,26,1004,187
+Wharton,PCT 303,"Registered Voters",,,,2103,,,
+Wharton,PCT 303,"Ballots Cast",,,,1526,49,1220,257
+Wharton,PCT 303,"Ballots Cast Blank",,,,0,0,0,0
+Wharton,PCT 303,"President",,REP,"Donald J. Trump/JD Vance",1368,37,1108,223
+Wharton,PCT 303,"President",,DEM,"Kamala D. Harris/Tim Walz",145,12,100,33
+Wharton,PCT 303,"President",,LIB,"Chase Oliver/Mike ter Maat",6,0,6,0
+Wharton,PCT 303,"President",,GRN,"Jill Stein/Rudolph Ware",2,0,2,0
+Wharton,PCT 303,"President",,,"Write-ins",1,0,1,0
+Wharton,PCT 303,"U.S. Senate",,REP,"Ted Cruz",1333,36,1093,204
+Wharton,PCT 303,"U.S. Senate",,DEM,"Colin Allred",171,13,113,45
+Wharton,PCT 303,"U.S. Senate",,LIB,"Ted Brown",13,0,9,4
+Wharton,PCT 303,"U.S. Senate",,,"Write-ins",0,0,0,0
+Wharton,PCT 303,"U.S. House",22,REP,"Troy E. Nehls",1353,36,1100,217
+Wharton,PCT 303,"U.S. House",22,DEM,"Marquette Greene-Scott",134,11,94,29
+Wharton,PCT 303,"Railroad Commissioner",,REP,"Christi Craddick",1312,37,1068,207
+Wharton,PCT 303,"Railroad Commissioner",,DEM,"Katherine Culbert",131,8,96,27
+Wharton,PCT 303,"Railroad Commissioner",,LIB,"Hawk Dunlap",24,0,21,3
+Wharton,PCT 303,"Railroad Commissioner",,GRN,"Eddie Espinoza",20,2,8,10
+Wharton,PCT 303,"Railroad Commissioner",,,"Write-ins",1,0,1,0
+Wharton,PCT 303,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",1345,37,1090,218
+Wharton,PCT 303,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",131,9,95,27
+Wharton,PCT 303,"Justice, Supreme Court, PI 4",,REP,"John Devine",1329,37,1077,215
+Wharton,PCT 303,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",140,9,101,30
+Wharton,PCT 303,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",1332,37,1084,211
+Wharton,PCT 303,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",125,9,85,31
+Wharton,PCT 303,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",21,0,17,4
+Wharton,PCT 303,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",1325,36,1080,209
+Wharton,PCT 303,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",148,9,105,34
+Wharton,PCT 303,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",1335,35,1089,211
+Wharton,PCT 303,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",131,8,93,30
+Wharton,PCT 303,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",1347,37,1096,214
+Wharton,PCT 303,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",116,6,83,27
+Wharton,PCT 303,"State Senate",17,REP,"Joan Huffman",1337,35,1090,212
+Wharton,PCT 303,"State Senate",17,DEM,"Kathy Cheng",135,10,95,30
+Wharton,PCT 303,"State Representative, Dist 85",,REP,"Stan Kitzman",1375,35,1119,221
+Wharton,PCT 303,"Chief Justice, 13th Ct of App Dist",,REP,"Jaime Tijerina",1327,37,1077,213
+Wharton,PCT 303,"Chief Justice, 13th Ct of App Dist",,DEM,"Gina Benavides",138,9,100,29
+Wharton,PCT 303,"Justice, 13th Ct of App Dist, Pl 2",,REP,"Jenny Cron",1328,36,1082,210
+Wharton,PCT 303,"Justice, 13th Ct of App Dist, Pl 2",,DEM,"Nora Longoria",138,8,96,34
+Wharton,PCT 303,"Justice, 13th Ct of App Dist, PI 4",,REP,"Ysmael D. Fonseca",1324,37,1079,208
+Wharton,PCT 303,"Justice, 13th Ct of App Dist, PI 4",,DEM,"Joe Martinez",141,9,98,34
+Wharton,PCT 303,"Justice, 13th Ct of App Dist, PI 5",,REP,"Jon West",1340,38,1086,216
+Wharton,PCT 303,"Justice, 13th Ct of App Dist, PI 5",,DEM,"Regi Compian Richardson",123,6,89,28
+Wharton,PCT 303,"Dist Judge, 23rd Judicial Dist",,REP,"John Maher",1395,37,1132,226
+Wharton,PCT 303,"Dist Attorney, 329th Judicial Dist",,REP,"Mark W. Racer",1352,36,1099,217
+Wharton,PCT 303,"County Attorney",,REP,"G.A. (Trey) Maffett",1387,37,1128,222
+Wharton,PCT 303,"Sheriff",,REP,"Shannon Srubar",1379,38,1124,217
+Wharton,PCT 303,"Sheriff",,DEM,"Ben Guanajuato",117,6,79,32
+Wharton,PCT 303,"County Tax Assessor-Collector",,REP,"Cindy Hernandez",1403,39,1133,231
+Wharton,PCT 303,"County Commissioner Pct 3",,REP,"Steven Goetsch",1397,36,1136,225
+Wharton,PCT 303,"Constable Pct 3",,REP,"Blake George",1415,38,1151,226
+Wharton,PCT 303,"Trustee, Position 2 Louise ISD",,,"Elisa Garcia",125,5,87,33
+Wharton,PCT 303,"Trustee, Position 2 Louise ISD",,,"Chad Hajovsky",590,10,479,101
+Wharton,PCT 303,"Trustee, Position 2 Louise ISD",,,"Christopher Faas",294,8,220,66
+Wharton,PCT 303,"Trustee, Position 3 Louise ISD",,,"Blake Roehl",665,12,527,126
+Wharton,PCT 303,"Trustee, Position 3 Louise ISD",,,"Fred Ochoa Sr.",328,11,248,69
+Wharton,PCT 303,"Trustee, Position 5 Louise ISD",,,"Gary Yackel",568,15,446,107
+Wharton,PCT 303,"Trustee, Position 5 Louise ISD",,,"Amanda Kate Cox",446,8,344,94
+Wharton,PCT 303,"Trustee, Position 6 Louise ISD",,,"Tim (Timothy) Garcia",402,14,284,104
+Wharton,PCT 303,"Trustee, Position 6 Louise ISD",,,"Stephen Lutringer",601,9,495,97
+Wharton,PCT 303,"Trustee, Position 7 Louise ISD",,,"Linda Alderson",402,8,303,91
+Wharton,PCT 303,"Trustee, Position 7 Louise ISD",,,"Tori Koudela",614,15,489,110
+Wharton,PCT 401,"Registered Voters",,,,2784,,,
+Wharton,PCT 401,"Ballots Cast",,,,1413,26,1091,296
+Wharton,PCT 401,"Ballots Cast Blank",,,,0,0,0,0
+Wharton,PCT 401,"President",,REP,"Donald J. Trump/JD Vance",948,12,757,179
+Wharton,PCT 401,"President",,DEM,"Kamala D. Harris/Tim Walz",456,14,328,114
+Wharton,PCT 401,"President",,LIB,"Chase Oliver/Mike ter Maat",2,0,1,1
+Wharton,PCT 401,"President",,GRN,"Jill Stein/Rudolph Ware",3,0,2,1
+Wharton,PCT 401,"President",,,"Write-ins",0,0,0,0
+Wharton,PCT 401,"U.S. Senate",,REP,"Ted Cruz",885,11,718,156
+Wharton,PCT 401,"U.S. Senate",,DEM,"Colin Allred",472,14,338,120
+Wharton,PCT 401,"U.S. Senate",,LIB,"Ted Brown",21,0,15,6
+Wharton,PCT 401,"U.S. Senate",,,"Write-ins",1,1,0,0
+Wharton,PCT 401,"U.S. House",22,REP,"Troy E. Nehls",917,13,736,168
+Wharton,PCT 401,"U.S. House",22,DEM,"Marquette Greene-Scott",432,12,313,107
+Wharton,PCT 401,"Railroad Commissioner",,REP,"Christi Craddick",870,11,708,151
+Wharton,PCT 401,"Railroad Commissioner",,DEM,"Katherine Culbert",403,11,289,103
+Wharton,PCT 401,"Railroad Commissioner",,LIB,"Hawk Dunlap",23,0,17,6
+Wharton,PCT 401,"Railroad Commissioner",,GRN,"Eddie Espinoza",50,3,36,11
+Wharton,PCT 401,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Wharton,PCT 401,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",907,11,734,162
+Wharton,PCT 401,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",428,13,309,106
+Wharton,PCT 401,"Justice, Supreme Court, PI 4",,REP,"John Devine",900,12,724,164
+Wharton,PCT 401,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",431,13,312,106
+Wharton,PCT 401,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",879,11,715,153
+Wharton,PCT 401,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",422,13,308,101
+Wharton,PCT 401,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",32,1,19,12
+Wharton,PCT 401,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",889,11,715,163
+Wharton,PCT 401,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",437,14,326,97
+Wharton,PCT 401,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",905,13,729,163
+Wharton,PCT 401,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",419,11,309,99
+Wharton,PCT 401,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",924,13,749,162
+Wharton,PCT 401,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",394,10,286,98
+Wharton,PCT 401,"State Senate",17,REP,"Joan Huffman",907,12,729,166
+Wharton,PCT 401,"State Senate",17,DEM,"Kathy Cheng",424,12,315,97
+Wharton,PCT 401,"State Representative, Dist 85",,REP,"Stan Kitzman",1018,14,810,194
+Wharton,PCT 401,"Chief Justice, 13th Ct of App Dist",,REP,"Jaime Tijerina",889,11,719,159
+Wharton,PCT 401,"Chief Justice, 13th Ct of App Dist",,DEM,"Gina Benavides",427,10,315,102
+Wharton,PCT 401,"Justice, 13th Ct of App Dist, PI 2",,REP,"Jenny Cron",874,10,715,149
+Wharton,PCT 401,"Justice, 13th Ct of App Dist, PI 2",,DEM,"Nora Longoria",445,11,324,110
+Wharton,PCT 401,"Justice, 13th Ct of App Dist, PI 4",,REP,"Ysmael D. Fonseca",890,10,722,158
+Wharton,PCT 401,"Justice, 13th Ct of App Dist, PI 4",,DEM,"Joe Martinez",429,11,314,104
+Wharton,PCT 401,"Justice, 13th Ct of App Dist, PI 5",,REP,"Jon West",910,9,740,161
+Wharton,PCT 401,"Justice, 13th Ct of App Dist, PI 5",,DEM,"Regi Compian Richardson",410,12,295,103
+Wharton,PCT 401,"Dist Judge, 23rd Judicial Dist",,REP,"John Maher",1060,13,842,205
+Wharton,PCT 401,"Dist Attorney, 329th Judicial Dist",,REP,"Mark W. Racer",1021,11,823,187
+Wharton,PCT 401,"County Attorney",,REP,"G.A. (Trey) Maffett",1046,12,839,195
+Wharton,PCT 401,"Sheriff",,REP,"Shannon Srubar",946,13,767,166
+Wharton,PCT 401,"Sheriff",,DEM,"Ben Guanajuato",412,9,294,109
+Wharton,PCT 401,"County Tax Assessor-Collector",,REP,"Cindy Hernandez",1110,13,887,210
+Wharton,PCT 401,"Constable Pct 4",,REP,"Bill Hedges",1038,13,833,192
+Wharton,PCT 401,"Trustee, Position 2 Louise ISD",,,"Elisa Garcia",2,0,2,0
+Wharton,PCT 401,"Trustee, Position 2 Louise ISD",,,"Chad Hajovsky",7,0,7,0
+Wharton,PCT 401,"Trustee, Position 2 Louise ISD",,,"Christopher Faas",2,0,2,0
+Wharton,PCT 401,"Trustee, Position 3 Louise ISD",,,"Blake Roehl",7,0,7,0
+Wharton,PCT 401,"Trustee, Position 3 Louise ISD",,,"Fred Ochoa Sr.",3,0,3,0
+Wharton,PCT 401,"Trustee, Position 5 Louise ISD",,,"Gary Yackel",6,0,6,0
+Wharton,PCT 401,"Trustee, Position 5 Louise ISD",,,"Amanda Kate Cox",5,0,5,0
+Wharton,PCT 401,"Trustee, Position 6 Louise ISD",,,"Tim (Timothy) Garcia",3,0,3,0
+Wharton,PCT 401,"Trustee, Position 6 Louise ISD",,,"Stephen Lutringer",7,0,7,0
+Wharton,PCT 401,"Trustee, Position 7 Louise ISD",,,"Linda Alderson",3,0,3,0
+Wharton,PCT 401,"Trustee, Position 7 Louise ISD",,,"Tori Koudela",9,0,9,0
+Wharton,PCT 402,"Registered Voters",,,,1766,,,
+Wharton,PCT 402,"Ballots Cast",,,,981,23,804,154
+Wharton,PCT 402,"Ballots Cast Blank",,,,1,0,0,1
+Wharton,PCT 402,"President",,REP,"Donald J. Trump/JD Vance",784,13,673,98
+Wharton,PCT 402,"President",,DEM,"Kamala D. Harris/Tim Walz",185,10,124,51
+Wharton,PCT 402,"President",,LIB,"Chase Oliver/Mike ter Maat",3,0,3,0
+Wharton,PCT 402,"President",,GRN,"Jill Stein/Rudolph Ware",4,0,2,2
+Wharton,PCT 402,"President",,,"Write-ins",1,0,0,1
+Wharton,PCT 402,"U.S. Senate",,REP,"Ted Cruz",723,12,628,83
+Wharton,PCT 402,"U.S. Senate",,DEM,"Colin Allred",217,11,149,57
+Wharton,PCT 402,"U.S. Senate",,LIB,"Ted Brown",26,0,18,8
+Wharton,PCT 402,"U.S. Senate",,,"Write-ins",0,0,0,0
+Wharton,PCT 402,"U.S. House",22,REP,"Troy E. Nehls",763,13,658,92
+Wharton,PCT 402,"U.S. House",22,DEM,"Marquette Greene-Scott",182,10,123,49
+Wharton,PCT 402,"Railroad Commissioner",,REP,"Christi Craddick",721,14,628,79
+Wharton,PCT 402,"Railroad Commissioner",,DEM,"Katherine Culbert",166,9,111,46
+Wharton,PCT 402,"Railroad Commissioner",,LIB,"Hawk Dunlap",26,0,22,4
+Wharton,PCT 402,"Railroad Commissioner",,GRN,"Eddie Espinoza",27,0,17,10
+Wharton,PCT 402,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Wharton,PCT 402,"Justice, Supreme Court, PI 2",,REP,"Jimmy Blacklock",764,13,658,93
+Wharton,PCT 402,"Justice, Supreme Court, PI 2",,DEM,"DaSean Jones",174,10,118,46
+Wharton,PCT 402,"Justice, Supreme Court, PI 4",,REP,"John Devine",753,12,652,89
+Wharton,PCT 402,"Justice, Supreme Court, PI 4",,DEM,"Christine Vinh Weems",186,11,126,49
+Wharton,PCT 402,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",740,13,643,84
+Wharton,PCT 402,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",176,10,116,50
+Wharton,PCT 402,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",26,0,18,8
+Wharton,PCT 402,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",757,13,653,91
+Wharton,PCT 402,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",180,10,121,49
+Wharton,PCT 402,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",761,13,656,92
+Wharton,PCT 402,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",175,10,115,50
+Wharton,PCT 402,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",765,13,657,95
+Wharton,PCT 402,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",169,10,114,45
+Wharton,PCT 402,"State Senate",17,REP,"Joan Huffman",761,12,659,90
+Wharton,PCT 402,"State Senate",17,DEM,"Kathy Cheng",180,10,117,53
+Wharton,PCT 402,"State Representative, Dist 85",,REP,"Stan Kitzman",806,13,686,107
+Wharton,PCT 402,"Chief Justice, 13th Ct of App Dist",,REP,"Jaime Tijerina",750,10,644,96
+Wharton,PCT 402,"Chief Justice, 13th Ct of App Dist",,DEM,"Gina Benavides",177,8,125,44
+Wharton,PCT 402,"Justice, 13th Ct of App Dist, Pl 2",,REP,"Jenny Cron",742,10,645,87
+Wharton,PCT 402,"Justice, 13th Ct of App Dist, Pl 2",,DEM,"Nora Longoria",184,8,123,53
+Wharton,PCT 402,"Justice, 13th Ct of App Dist, PI 4",,REP,"Ysmael D. Fonseca",740,10,643,87
+Wharton,PCT 402,"Justice, 13th Ct of App Dist, PI 4",,DEM,"Joe Martinez",191,8,131,52
+Wharton,PCT 402,"Justice, 13th Ct of App Dist, PI 5",,REP,"Jon West",755,10,652,93
+Wharton,PCT 402,"Justice, 13th Ct of App Dist, PI 5",,DEM,"Regi Compian Richardson",165,8,113,44
+Wharton,PCT 402,"Dist Judge, 23rd Judicial Dist",,REP,"John Maher",815,11,694,110
+Wharton,PCT 402,"Dist Attorney, 329th Judicial Dist",,REP,"Mark W. Racer",800,13,678,109
+Wharton,PCT 402,"County Attorney",,REP,"G.A. (Trey) Maffett",810,13,689,108
+Wharton,PCT 402,"Sheriff",,REP,"Shannon Srubar",769,15,661,93
+Wharton,PCT 402,"Sheriff",,DEM,"Ben Guanajuato",177,4,123,50
+Wharton,PCT 402,"County Tax Assessor-Collector",,REP,"Cindy Hernandez",830,15,702,113
+Wharton,PCT 402,"Constable Pct 4",,REP,"Bill Hedges",805,14,681,110
+Wharton,PCT 403,"Registered Voters",,,,724,,,
+Wharton,PCT 403,"Ballots Cast",,,,418,18,341,59
+Wharton,PCT 403,"Ballots Cast Blank",,,,0,0,0,0
+Wharton,PCT 403,"President",,REP,"Donald J. Trump/JD Vance",277,9,233,35
+Wharton,PCT 403,"President",,DEM,"Kamala D. Harris/Tim Walz",136,9,103,24
+Wharton,PCT 403,"President",,LIB,"Chase Oliver/Mike ter Maat",1,0,1,0
+Wharton,PCT 403,"President",,GRN,"Jill Stein/Rudolph Ware",1,0,1,0
+Wharton,PCT 403,"President",,,"Write-ins",1,0,1,0
+Wharton,PCT 403,"U.S. Senate",,REP,"Ted Cruz",261,9,223,29
+Wharton,PCT 403,"U.S. Senate",,DEM,"Colin Allred",141,9,105,27
+Wharton,PCT 403,"U.S. Senate",,LIB,"Ted Brown",6,0,6,0
+Wharton,PCT 403,"U.S. Senate",,,"Write-ins",0,0,0,0
+Wharton,PCT 403,"U.S. House",22,REP,"Troy E. Nehls",259,10,222,27
+Wharton,PCT 403,"U.S. House",22,DEM,"Marquette Greene-Scott",131,7,99,25
+Wharton,PCT 403,"Railroad Commissioner",,REP,"Christi Craddick",254,9,221,24
+Wharton,PCT 403,"Railroad Commissioner",,DEM,"Katherine Culbert",121,9,89,23
+Wharton,PCT 403,"Railroad Commissioner",,LIB,"Hawk Dunlap",11,0,8,3
+Wharton,PCT 403,"Railroad Commissioner",,GRN,"Eddie Espinoza",10,0,6,4
+Wharton,PCT 403,"Railroad Commissioner",,,"Write-ins",0,0,0,0
+Wharton,PCT 403,"Justice, Supreme Court, Pl 2",,REP,"Jimmy Blacklock",268,9,227,32
+Wharton,PCT 403,"Justice, Supreme Court, Pl 2",,DEM,"DaSean Jones",126,8,97,21
+Wharton,PCT 403,"Justice, Supreme Court, Pl 4",,REP,"John Devine",264,9,225,30
+Wharton,PCT 403,"Justice, Supreme Court, Pl 4",,DEM,"Christine Vinh Weems",128,8,96,24
+Wharton,PCT 403,"Justice, Supreme Court, PI 6",,REP,"Jane Bland",261,10,222,29
+Wharton,PCT 403,"Justice, Supreme Court, PI 6",,DEM,"Bonnie Lee Goldstein",130,8,97,25
+Wharton,PCT 403,"Justice, Supreme Court, PI 6",,LIB,"J. David Roberson",1,0,1,0
+Wharton,PCT 403,"Presiding Judge, Ct of Crim App",,REP,"David J. Schenck",260,10,222,28
+Wharton,PCT 403,"Presiding Judge, Ct of Crim App",,DEM,"Holly Taylor",129,8,96,25
+Wharton,PCT 403,"Judge, Ct of Crim App, PI 7",,REP,"Gina Parker",265,10,226,29
+Wharton,PCT 403,"Judge, Ct of Crim App, PI 7",,DEM,"Nancy Mulder",127,8,95,24
+Wharton,PCT 403,"Judge, Ct of Crim App, PI 8",,REP,"Lee Finley",268,10,229,29
+Wharton,PCT 403,"Judge, Ct of Crim App, PI 8",,DEM,"Chika Anyiam",124,8,92,24
+Wharton,PCT 403,"State Senate",17,REP,"Joan Huffman",257,9,221,27
+Wharton,PCT 403,"State Senate",17,DEM,"Kathy Cheng",130,6,97,27
+Wharton,PCT 403,"State Representative, Dist 85",,REP,"Stan Kitzman",278,8,233,37
+Wharton,PCT 403,"Chief Justice, 13th Ct of App Dist",,REP,"Jaime Tijerina",254,7,221,26
+Wharton,PCT 403,"Chief Justice, 13th Ct of App Dist",,DEM,"Gina Benavides",129,7,96,26
+Wharton,PCT 403,"Justice, 13th Ct of App Dist, PI 2",,REP,"Jenny Cron",253,7,222,24
+Wharton,PCT 403,"Justice, 13th Ct of App Dist, PI 2",,DEM,"Nora Longoria",132,7,96,29
+Wharton,PCT 403,"Justice, 13th Ct of App Dist, PI 4",,REP,"Ysmael D. Fonseca",254,7,218,29
+Wharton,PCT 403,"Justice, 13th Ct of App Dist, PI 4",,DEM,"Joe Martinez",133,7,101,25
+Wharton,PCT 403,"Justice, 13th Ct of App Dist, PI 5",,REP,"Jon West",259,7,224,28
+Wharton,PCT 403,"Justice, 13th Ct of App Dist, PI 5",,DEM,"Regi Compian Richardson",124,7,92,25
+Wharton,PCT 403,"Dist Judge, 23rd Judicial Dist",,REP,"John Maher",291,6,246,39
+Wharton,PCT 403,"Dist Attorney, 329th Judicial Dist",,REP,"Mark W. Racer",284,6,240,38
+Wharton,PCT 403,"County Attorney",,REP,"G.A. (Trey) Maffett",302,6,256,40
+Wharton,PCT 403,"Sheriff",,REP,"Shannon Srubar",233,6,201,26
+Wharton,PCT 403,"Sheriff",,DEM,"Ben Guanajuato",163,7,126,30
+Wharton,PCT 403,"County Tax Assessor-Collector",,REP,"Cindy Hernandez",316,6,265,45
+Wharton,PCT 403,"Constable Pct 4",,REP,"Bill Hedges",297,6,252,39

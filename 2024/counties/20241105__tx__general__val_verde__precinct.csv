@@ -1,0 +1,1698 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Val Verde,Precinct 10,Registered Voters,,,,3152,,,
+Val Verde,Precinct 10,Ballots Cast,,,,1522,94,1121,307
+Val Verde,Precinct 10,Ballots Cast - Blank,,,,0,0,0,0
+Val Verde,Precinct 10,President,,REP,Donald J. Trump/JD Vance,874,29,637,208
+Val Verde,Precinct 10,President,,DEM,Kamala D. Harris/Tim Walz,621,64,462,95
+Val Verde,Precinct 10,President,,LIB,Chase Oliver/Mike ter Maat,9,0,7,2
+Val Verde,Precinct 10,President,,GRN,Jill Stein/Rudolph Ware,8,0,8,0
+Val Verde,Precinct 10,President,,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,President,,,Under Votes,4,0,3,1
+Val Verde,Precinct 10,U.S. Senate,,REP,Ted Cruz,765,26,571,168
+Val Verde,Precinct 10,U.S. Senate,,DEM,Colin Allred,666,66,494,106
+Val Verde,Precinct 10,U.S. Senate,,LIB,Ted Brown,43,0,31,12
+Val Verde,Precinct 10,U.S. Senate,,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,U.S. Senate,,,Under Votes,46,1,24,21
+Val Verde,Precinct 10,U.S. House,23,REP,Tony Gonzales,870,34,642,194
+Val Verde,Precinct 10,U.S. House,23,DEM,S. Limon,563,55,420,88
+Val Verde,Precinct 10,U.S. House,23,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,U.S. House,23,,Under Votes,89,5,59,25
+Val Verde,Precinct 10,Railroad Commissioner,,REP,Christi Craddick,705,26,534,145
+Val Verde,Precinct 10,Railroad Commissioner,,DEM,Katherine Culbert,573,53,428,92
+Val Verde,Precinct 10,Railroad Commissioner,,LIB,Hawk Dunlap,38,3,26,9
+Val Verde,Precinct 10,Railroad Commissioner,,GRN,Eddie Espinoza,99,4,73,22
+Val Verde,Precinct 10,Railroad Commissioner,,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,Railroad Commissioner,,,Under Votes,103,8,57,38
+Val Verde,Precinct 10,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,787,29,592,166
+Val Verde,Precinct 10,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,608,56,451,101
+Val Verde,Precinct 10,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,"Justice, Supreme Court, Pl 2",2,,Under Votes,127,9,78,40
+Val Verde,Precinct 10,"Justice, Supreme Court, Pl 4",4,REP,John Devine,764,26,574,164
+Val Verde,Precinct 10,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,629,59,469,101
+Val Verde,Precinct 10,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,"Justice, Supreme Court, Pl 4",4,,Under Votes,129,9,78,42
+Val Verde,Precinct 10,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,733,26,549,158
+Val Verde,Precinct 10,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,606,52,452,102
+Val Verde,Precinct 10,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,61,5,41,15
+Val Verde,Precinct 10,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,"Justice, Supreme Court, Pl 6",6,,Under Votes,122,11,79,32
+Val Verde,Precinct 10,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,749,25,562,162
+Val Verde,Precinct 10,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,634,59,470,105
+Val Verde,Precinct 10,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,"Presiding Judge, Ct of Crim App",,,Under Votes,139,10,89,40
+Val Verde,Precinct 10,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,777,28,580,169
+Val Verde,Precinct 10,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,607,56,449,102
+Val Verde,Precinct 10,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,138,10,92,36
+Val Verde,Precinct 10,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,777,28,582,167
+Val Verde,Precinct 10,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,599,55,445,99
+Val Verde,Precinct 10,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,146,11,94,41
+Val Verde,Precinct 10,State Board of Education,1,REP,Michael (Travis) Stevens,713,23,537,153
+Val Verde,Precinct 10,State Board of Education,1,DEM,Gustavo Reveles,669,61,492,116
+Val Verde,Precinct 10,State Board of Education,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,State Board of Education,1,,Under Votes,140,10,92,38
+Val Verde,Precinct 10,State Representative,74,REP,Robert Garza,721,33,532,156
+Val Verde,Precinct 10,State Representative,74,DEM,Eddie Morales Jr,714,57,529,128
+Val Verde,Precinct 10,State Representative,74,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,State Representative,74,,Under Votes,87,4,60,23
+Val Verde,Precinct 10,"Justice, 4th Ct of App Dist, Pl 2",2,DEM,Velia J. Meza,982,63,722,197
+Val Verde,Precinct 10,"Justice, 4th Ct of App Dist, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,"Justice, 4th Ct of App Dist, Pl 2",2,,Under Votes,540,31,399,110
+Val Verde,Precinct 10,"Justice, 4th Ct of App Dist, Pl 3",3,REP,Todd McCray,699,25,528,146
+Val Verde,Precinct 10,"Justice, 4th Ct of App Dist, Pl 3",3,DEM,Cynthia Marie Chapa,687,59,505,123
+Val Verde,Precinct 10,"Justice, 4th Ct of App Dist, Pl 3",3,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,"Justice, 4th Ct of App Dist, Pl 3",3,,Under Votes,136,10,88,38
+Val Verde,Precinct 10,"Justice, 4th Ct of App Dist, Pl 4",4,REP,Lori Massey Brissette,680,24,514,142
+Val Verde,Precinct 10,"Justice, 4th Ct of App Dist, Pl 4",4,DEM,Luz Elena Chapa,710,60,520,130
+Val Verde,Precinct 10,"Justice, 4th Ct of App Dist, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,"Justice, 4th Ct of App Dist, Pl 4",4,,Under Votes,132,10,87,35
+Val Verde,Precinct 10,"Justice, 4th Ct of App Dist, Pl 5",5,REP,Adrian Spears,698,24,528,146
+Val Verde,Precinct 10,"Justice, 4th Ct of App Dist, Pl 5",5,DEM,Liza A. Rodriguez,696,61,514,121
+Val Verde,Precinct 10,"Justice, 4th Ct of App Dist, Pl 5",5,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,"Justice, 4th Ct of App Dist, Pl 5",5,,Under Votes,128,9,79,40
+Val Verde,Precinct 10,"Justice, 4th Ct of App Dist, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,"Justice, 4th Ct of App Dist, Pl 7",7,,Under Votes,505,51,357,97
+Val Verde,Precinct 10,"Dist Judge, 63rd Judicial Dist",,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,"Dist Judge, 63rd Judicial Dist",,,Under Votes,464,47,330,87
+Val Verde,Precinct 10,District Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,District Attorney,,,Under Votes,498,49,355,94
+Val Verde,Precinct 10,County Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,County Attorney,,,Under Votes,493,28,369,96
+Val Verde,Precinct 10,Sheriff,,REP,"Rogelio ""Roger"" Hernandez",524,24,388,112
+Val Verde,Precinct 10,Sheriff,,DEM,"Jose Francisco ""JoeFrank""",916,64,679,173
+Val Verde,Precinct 10,Sheriff,,,Over Votes,1,0,1,0
+Val Verde,Precinct 10,Sheriff,,,Under Votes,81,6,53,22
+Val Verde,Precinct 10,County Tax Assessor-Collector,,REP,Maricar Ortega Chattler,611,25,460,126
+Val Verde,Precinct 10,County Tax Assessor-Collector,,DEM,"Elodia ""Loly"" Garcia",800,63,589,148
+Val Verde,Precinct 10,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,County Tax Assessor-Collector,,,Under Votes,111,6,72,33
+Val Verde,Precinct 10,County Commissioner Pct 1,1,REP,"Alfinio ""Al"" Flores",679,27,504,148
+Val Verde,Precinct 10,County Commissioner Pct 1,1,DEM,Kerr Wardlaw,763,60,569,134
+Val Verde,Precinct 10,County Commissioner Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,County Commissioner Pct 1,1,,Under Votes,80,7,48,25
+Val Verde,Precinct 10,Constable Pct 1,1,DEM,"Dionicio ""Nicho"" Trevino III",997,62,735,200
+Val Verde,Precinct 10,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,Constable Pct 1,1,,Under Votes,525,32,386,107
+Val Verde,Precinct 10,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,Constable Pct 1,1,,Under Votes,197,14,126,57
+Val Verde,Precinct 10,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,Constable Pct 1,1,,Under Votes,184,13,118,53
+Val Verde,Precinct 10,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,Constable Pct 1,1,,Under Votes,161,12,105,44
+Val Verde,Precinct 10,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,Constable Pct 1,1,,Under Votes,181,17,116,48
+Val Verde,Precinct 10,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,Constable Pct 1,1,,Under Votes,189,13,124,52
+Val Verde,Precinct 10,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,Constable Pct 1,1,,Under Votes,179,16,112,51
+Val Verde,Precinct 10,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,Constable Pct 1,1,,Under Votes,187,16,121,50
+Val Verde,Precinct 10,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 10,Constable Pct 1,1,,Under Votes,190,19,122,49
+Val Verde,Precinct 11,Registered Voters,,,,2090,,,
+Val Verde,Precinct 11,Ballots Cast,,,,857,47,538,272
+Val Verde,Precinct 11,Ballots Cast - Blank,,,,0,0,0,0
+Val Verde,Precinct 11,President,,REP,Donald J. Trump/JD Vance,414,9,256,149
+Val Verde,Precinct 11,President,,DEM,Kamala D. Harris/Tim Walz,431,37,278,116
+Val Verde,Precinct 11,President,,LIB,Chase Oliver/Mike ter Maat,1,0,0,1
+Val Verde,Precinct 11,President,,GRN,Jill Stein/Rudolph Ware,4,0,1,3
+Val Verde,Precinct 11,President,,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,President,,,Under Votes,6,1,3,2
+Val Verde,Precinct 11,U.S. Senate,,REP,Ted Cruz,322,5,210,107
+Val Verde,Precinct 11,U.S. Senate,,DEM,Colin Allred,466,40,293,133
+Val Verde,Precinct 11,U.S. Senate,,LIB,Ted Brown,29,0,17,12
+Val Verde,Precinct 11,U.S. Senate,,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,U.S. Senate,,,Under Votes,39,2,17,20
+Val Verde,Precinct 11,U.S. House,23,REP,Tony Gonzales,407,14,248,145
+Val Verde,Precinct 11,U.S. House,23,DEM,S. Limon,394,30,252,112
+Val Verde,Precinct 11,U.S. House,23,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,U.S. House,23,,Under Votes,56,3,38,15
+Val Verde,Precinct 11,Railroad Commissioner,,REP,Christi Craddick,304,5,201,98
+Val Verde,Precinct 11,Railroad Commissioner,,DEM,Katherine Culbert,373,35,242,96
+Val Verde,Precinct 11,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,10,7
+Val Verde,Precinct 11,Railroad Commissioner,,GRN,Eddie Espinoza,91,2,43,46
+Val Verde,Precinct 11,Railroad Commissioner,,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,Railroad Commissioner,,,Under Votes,71,5,42,24
+Val Verde,Precinct 11,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,344,4,214,126
+Val Verde,Precinct 11,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,425,38,272,115
+Val Verde,Precinct 11,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,"Justice, Supreme Court, Pl 2",2,,Under Votes,88,5,52,31
+Val Verde,Precinct 11,"Justice, Supreme Court, Pl 4",4,REP,John Devine,337,5,211,121
+Val Verde,Precinct 11,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,420,36,269,115
+Val Verde,Precinct 11,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,"Justice, Supreme Court, Pl 4",4,,Under Votes,100,6,58,36
+Val Verde,Precinct 11,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,320,5,204,111
+Val Verde,Precinct 11,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,407,35,262,110
+Val Verde,Precinct 11,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,34,1,16,17
+Val Verde,Precinct 11,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,"Justice, Supreme Court, Pl 6",6,,Under Votes,96,6,56,34
+Val Verde,Precinct 11,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,336,5,215,116
+Val Verde,Precinct 11,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,423,37,269,117
+Val Verde,Precinct 11,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,"Presiding Judge, Ct of Crim App",,,Under Votes,98,5,54,39
+Val Verde,Precinct 11,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,338,6,215,117
+Val Verde,Precinct 11,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,416,35,267,114
+Val Verde,Precinct 11,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,103,6,56,41
+Val Verde,Precinct 11,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,338,6,213,119
+Val Verde,Precinct 11,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,412,36,264,112
+Val Verde,Precinct 11,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,107,5,61,41
+Val Verde,Precinct 11,State Board of Education,1,REP,Michael (Travis) Stevens,314,5,198,111
+Val Verde,Precinct 11,State Board of Education,1,DEM,Gustavo Reveles,444,37,285,122
+Val Verde,Precinct 11,State Board of Education,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,State Board of Education,1,,Under Votes,99,5,55,39
+Val Verde,Precinct 11,State Representative,74,REP,Robert Garza,344,6,216,122
+Val Verde,Precinct 11,State Representative,74,DEM,Eddie Morales Jr,463,39,295,129
+Val Verde,Precinct 11,State Representative,74,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,State Representative,74,,Under Votes,50,2,27,21
+Val Verde,Precinct 11,"Justice, 4th Ct of App Dist, Pl 2",2,DEM,Velia J. Meza,584,38,365,181
+Val Verde,Precinct 11,"Justice, 4th Ct of App Dist, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,"Justice, 4th Ct of App Dist, Pl 2",2,,Under Votes,273,9,173,91
+Val Verde,Precinct 11,"Justice, 4th Ct of App Dist, Pl 3",3,REP,Todd McCray,295,3,198,94
+Val Verde,Precinct 11,"Justice, 4th Ct of App Dist, Pl 3",3,DEM,Cynthia Marie Chapa,455,39,281,135
+Val Verde,Precinct 11,"Justice, 4th Ct of App Dist, Pl 3",3,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,"Justice, 4th Ct of App Dist, Pl 3",3,,Under Votes,107,5,59,43
+Val Verde,Precinct 11,"Justice, 4th Ct of App Dist, Pl 4",4,REP,Lori Massey Brissette,279,1,190,88
+Val Verde,Precinct 11,"Justice, 4th Ct of App Dist, Pl 4",4,DEM,Luz Elena Chapa,480,40,295,145
+Val Verde,Precinct 11,"Justice, 4th Ct of App Dist, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,"Justice, 4th Ct of App Dist, Pl 4",4,,Under Votes,98,6,53,39
+Val Verde,Precinct 11,"Justice, 4th Ct of App Dist, Pl 5",5,REP,Adrian Spears,290,1,196,93
+Val Verde,Precinct 11,"Justice, 4th Ct of App Dist, Pl 5",5,DEM,Liza A. Rodriguez,469,41,289,139
+Val Verde,Precinct 11,"Justice, 4th Ct of App Dist, Pl 5",5,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,"Justice, 4th Ct of App Dist, Pl 5",5,,Under Votes,98,5,53,40
+Val Verde,Precinct 11,"Justice, 4th Ct of App Dist, Pl 7",7,REP,Lori I. Valenzuela,504,14,321,169
+Val Verde,Precinct 11,"Justice, 4th Ct of App Dist, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,"Justice, 4th Ct of App Dist, Pl 7",7,,Under Votes,353,33,217,103
+Val Verde,Precinct 11,"Dist Judge, 63rd Judicial Dist",,REP,Roland Andrade,540,19,344,177
+Val Verde,Precinct 11,"Dist Judge, 63rd Judicial Dist",,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,"Dist Judge, 63rd Judicial Dist",,,Under Votes,317,28,194,95
+Val Verde,Precinct 11,District Attorney,,REP,Suzanne West,503,15,318,170
+Val Verde,Precinct 11,District Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,District Attorney,,,Under Votes,354,32,220,102
+Val Verde,Precinct 11,County Attorney,,DEM,David E. Martinez,616,39,386,191
+Val Verde,Precinct 11,County Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,County Attorney,,,Under Votes,241,8,152,81
+Val Verde,Precinct 11,Sheriff,,REP,"Rogelio ""Roger"" Hernandez",265,3,177,85
+Val Verde,Precinct 11,Sheriff,,DEM,"Jose Francisco ""JoeFrank""",548,41,338,169
+Val Verde,Precinct 11,Sheriff,,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,Sheriff,,,Under Votes,44,3,23,18
+Val Verde,Precinct 11,County Tax Assessor-Collector,,REP,Maricar Ortega Chattler,256,2,179,75
+Val Verde,Precinct 11,County Tax Assessor-Collector,,DEM,"Elodia ""Loly"" Garcia",535,44,321,170
+Val Verde,Precinct 11,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,County Tax Assessor-Collector,,,Under Votes,66,1,38,27
+Val Verde,Precinct 11,County Commissioner Pct 1,1,REP,"Alfinio ""Al"" Flores",307,10,199,98
+Val Verde,Precinct 11,County Commissioner Pct 1,1,DEM,Kerr Wardlaw,502,36,308,158
+Val Verde,Precinct 11,County Commissioner Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,County Commissioner Pct 1,1,,Under Votes,48,1,31,16
+Val Verde,Precinct 11,Constable Pct 1,1,DEM,"Dionicio ""Nicho"" Trevino III",605,39,373,193
+Val Verde,Precinct 11,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,Constable Pct 1,1,,Under Votes,252,8,165,79
+Val Verde,Precinct 11,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,Constable Pct 1,1,,Under Votes,149,8,86,55
+Val Verde,Precinct 11,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,Constable Pct 1,1,,Under Votes,138,7,76,55
+Val Verde,Precinct 11,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,Constable Pct 1,1,,Under Votes,126,6,70,50
+Val Verde,Precinct 11,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,Constable Pct 1,1,,Under Votes,131,6,72,53
+Val Verde,Precinct 11,Constable Pct 1,1,,Over Votes,2,0,2,0
+Val Verde,Precinct 11,Constable Pct 1,1,,Under Votes,135,8,75,52
+Val Verde,Precinct 11,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,Constable Pct 1,1,,Under Votes,132,9,73,50
+Val Verde,Precinct 11,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,Constable Pct 1,1,,Under Votes,134,6,73,55
+Val Verde,Precinct 11,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 11,Constable Pct 1,1,,Under Votes,134,7,75,52
+Val Verde,Precinct 12,Registered Voters,,,,542,,,
+Val Verde,Precinct 12,Ballots Cast,,,,236,10,164,62
+Val Verde,Precinct 12,Ballots Cast - Blank,,,,0,0,0,0
+Val Verde,Precinct 12,President,,REP,Donald J. Trump/JD Vance,150,8,102,40
+Val Verde,Precinct 12,President,,DEM,Kamala D. Harris/Tim Walz,86,2,62,22
+Val Verde,Precinct 12,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Val Verde,Precinct 12,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Val Verde,Precinct 12,President,,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,President,,,Under Votes,0,0,0,0
+Val Verde,Precinct 12,U.S. Senate,,REP,Ted Cruz,132,6,94,32
+Val Verde,Precinct 12,U.S. Senate,,DEM,Colin Allred,87,2,61,24
+Val Verde,Precinct 12,U.S. Senate,,LIB,Ted Brown,8,1,5,2
+Val Verde,Precinct 12,U.S. Senate,,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,U.S. Senate,,,Under Votes,9,1,4,4
+Val Verde,Precinct 12,U.S. House,23,REP,Tony Gonzales,145,7,100,38
+Val Verde,Precinct 12,U.S. House,23,DEM,S. Limon,78,2,57,19
+Val Verde,Precinct 12,U.S. House,23,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,U.S. House,23,,Under Votes,13,1,7,5
+Val Verde,Precinct 12,Railroad Commissioner,,REP,Christi Craddick,126,6,88,32
+Val Verde,Precinct 12,Railroad Commissioner,,DEM,Katherine Culbert,69,2,51,16
+Val Verde,Precinct 12,Railroad Commissioner,,LIB,Hawk Dunlap,9,1,4,4
+Val Verde,Precinct 12,Railroad Commissioner,,GRN,Eddie Espinoza,17,0,12,5
+Val Verde,Precinct 12,Railroad Commissioner,,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,Railroad Commissioner,,,Under Votes,14,1,9,4
+Val Verde,Precinct 12,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,138,7,95,36
+Val Verde,Precinct 12,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,85,2,61,22
+Val Verde,Precinct 12,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,"Justice, Supreme Court, Pl 2",2,,Under Votes,13,1,8,4
+Val Verde,Precinct 12,"Justice, Supreme Court, Pl 4",4,REP,John Devine,133,7,91,35
+Val Verde,Precinct 12,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,85,2,62,21
+Val Verde,Precinct 12,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,"Justice, Supreme Court, Pl 4",4,,Under Votes,18,1,11,6
+Val Verde,Precinct 12,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,132,6,91,35
+Val Verde,Precinct 12,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,79,2,57,20
+Val Verde,Precinct 12,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,10,1,6,3
+Val Verde,Precinct 12,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,"Justice, Supreme Court, Pl 6",6,,Under Votes,15,1,10,4
+Val Verde,Precinct 12,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,139,7,94,38
+Val Verde,Precinct 12,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,82,2,60,20
+Val Verde,Precinct 12,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,"Presiding Judge, Ct of Crim App",,,Under Votes,15,1,10,4
+Val Verde,Precinct 12,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,142,7,96,39
+Val Verde,Precinct 12,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,79,2,59,18
+Val Verde,Precinct 12,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,15,1,9,5
+Val Verde,Precinct 12,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,143,7,96,40
+Val Verde,Precinct 12,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,75,2,57,16
+Val Verde,Precinct 12,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,18,1,11,6
+Val Verde,Precinct 12,State Board of Education,1,REP,Michael (Travis) Stevens,134,7,91,36
+Val Verde,Precinct 12,State Board of Education,1,DEM,Gustavo Reveles,84,2,62,20
+Val Verde,Precinct 12,State Board of Education,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,State Board of Education,1,,Under Votes,18,1,11,6
+Val Verde,Precinct 12,State Representative,74,REP,Robert Garza,127,7,89,31
+Val Verde,Precinct 12,State Representative,74,DEM,Eddie Morales Jr,95,2,66,27
+Val Verde,Precinct 12,State Representative,74,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,State Representative,74,,Under Votes,14,1,9,4
+Val Verde,Precinct 12,"Justice, 4th Ct of App Dist, Pl 2",2,DEM,Velia J. Meza,152,4,103,45
+Val Verde,Precinct 12,"Justice, 4th Ct of App Dist, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,"Justice, 4th Ct of App Dist, Pl 2",2,,Under Votes,84,6,61,17
+Val Verde,Precinct 12,"Justice, 4th Ct of App Dist, Pl 3",3,REP,Todd McCray,121,7,82,32
+Val Verde,Precinct 12,"Justice, 4th Ct of App Dist, Pl 3",3,DEM,Cynthia Marie Chapa,99,2,73,24
+Val Verde,Precinct 12,"Justice, 4th Ct of App Dist, Pl 3",3,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,"Justice, 4th Ct of App Dist, Pl 3",3,,Under Votes,16,1,9,6
+Val Verde,Precinct 12,"Justice, 4th Ct of App Dist, Pl 4",4,REP,Lori Massey Brissette,119,7,81,31
+Val Verde,Precinct 12,"Justice, 4th Ct of App Dist, Pl 4",4,DEM,Luz Elena Chapa,100,2,73,25
+Val Verde,Precinct 12,"Justice, 4th Ct of App Dist, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,"Justice, 4th Ct of App Dist, Pl 4",4,,Under Votes,17,1,10,6
+Val Verde,Precinct 12,"Justice, 4th Ct of App Dist, Pl 5",5,REP,Adrian Spears,115,7,78,30
+Val Verde,Precinct 12,"Justice, 4th Ct of App Dist, Pl 5",5,DEM,Liza A. Rodriguez,100,2,70,28
+Val Verde,Precinct 12,"Justice, 4th Ct of App Dist, Pl 5",5,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,"Justice, 4th Ct of App Dist, Pl 5",5,,Under Votes,21,1,16,4
+Val Verde,Precinct 12,"Justice, 4th Ct of App Dist, Pl 7",7,REP,Lori I. Valenzuela,178,7,120,51
+Val Verde,Precinct 12,"Justice, 4th Ct of App Dist, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,"Justice, 4th Ct of App Dist, Pl 7",7,,Under Votes,58,3,44,11
+Val Verde,Precinct 12,"Dist Judge, 63rd Judicial Dist",,REP,Roland Andrade,182,7,124,51
+Val Verde,Precinct 12,"Dist Judge, 63rd Judicial Dist",,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,"Dist Judge, 63rd Judicial Dist",,,Under Votes,54,3,40,11
+Val Verde,Precinct 12,District Attorney,,REP,Suzanne West,178,7,121,50
+Val Verde,Precinct 12,District Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,District Attorney,,,Under Votes,58,3,43,12
+Val Verde,Precinct 12,County Attorney,,DEM,David E. Martinez,155,4,104,47
+Val Verde,Precinct 12,County Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,County Attorney,,,Under Votes,81,6,60,15
+Val Verde,Precinct 12,Sheriff,,REP,"Rogelio ""Roger"" Hernandez",99,7,65,27
+Val Verde,Precinct 12,Sheriff,,DEM,"Jose Francisco ""JoeFrank""",122,2,88,32
+Val Verde,Precinct 12,Sheriff,,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,Sheriff,,,Under Votes,15,1,11,3
+Val Verde,Precinct 12,County Tax Assessor-Collector,,REP,Maricar Ortega Chattler,112,7,77,28
+Val Verde,Precinct 12,County Tax Assessor-Collector,,DEM,"Elodia ""Loly"" Garcia",107,2,76,29
+Val Verde,Precinct 12,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,County Tax Assessor-Collector,,,Under Votes,17,1,11,5
+Val Verde,Precinct 12,County Commissioner Pct 1,1,REP,"Alfinio ""Al"" Flores",136,8,92,36
+Val Verde,Precinct 12,County Commissioner Pct 1,1,DEM,Kerr Wardlaw,89,1,64,24
+Val Verde,Precinct 12,County Commissioner Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,County Commissioner Pct 1,1,,Under Votes,11,1,8,2
+Val Verde,Precinct 12,Constable Pct 1,1,DEM,"Dionicio ""Nicho"" Trevino III",157,4,105,48
+Val Verde,Precinct 12,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,Constable Pct 1,1,,Under Votes,79,6,59,14
+Val Verde,Precinct 12,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,Constable Pct 1,1,,Under Votes,36,2,27,7
+Val Verde,Precinct 12,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,Constable Pct 1,1,,Under Votes,33,2,24,7
+Val Verde,Precinct 12,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,Constable Pct 1,1,,Under Votes,30,2,21,7
+Val Verde,Precinct 12,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,Constable Pct 1,1,,Under Votes,30,2,23,5
+Val Verde,Precinct 12,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,Constable Pct 1,1,,Under Votes,29,2,21,6
+Val Verde,Precinct 12,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,Constable Pct 1,1,,Under Votes,31,2,24,5
+Val Verde,Precinct 12,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,Constable Pct 1,1,,Under Votes,25,0,19,6
+Val Verde,Precinct 12,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 12,Constable Pct 1,1,,Under Votes,28,0,22,6
+Val Verde,Precinct 13,Registered Voters,,,,2013,,,
+Val Verde,Precinct 13,Ballots Cast,,,,751,370,269,112
+Val Verde,Precinct 13,Ballots Cast - Blank,,,,0,0,0,0
+Val Verde,Precinct 13,President,,REP,Donald J. Trump/JD Vance,466,197,204,65
+Val Verde,Precinct 13,President,,DEM,Kamala D. Harris/Tim Walz,267,159,63,45
+Val Verde,Precinct 13,President,,LIB,Chase Oliver/Mike ter Maat,7,7,0,0
+Val Verde,Precinct 13,President,,GRN,Jill Stein/Rudolph Ware,3,1,1,1
+Val Verde,Precinct 13,President,,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,President,,,Under Votes,2,2,0,0
+Val Verde,Precinct 13,U.S. Senate,,REP,Ted Cruz,451,198,193,60
+Val Verde,Precinct 13,U.S. Senate,,DEM,Colin Allred,268,153,67,48
+Val Verde,Precinct 13,U.S. Senate,,LIB,Ted Brown,23,14,5,4
+Val Verde,Precinct 13,U.S. Senate,,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,U.S. Senate,,,Under Votes,7,4,3,0
+Val Verde,Precinct 13,U.S. House,23,REP,Tony Gonzales,477,219,193,65
+Val Verde,Precinct 13,U.S. House,23,DEM,S. Limon,225,127,56,42
+Val Verde,Precinct 13,U.S. House,23,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,U.S. House,23,,Under Votes,49,24,20,5
+Val Verde,Precinct 13,Railroad Commissioner,,REP,Christi Craddick,426,177,192,57
+Val Verde,Precinct 13,Railroad Commissioner,,DEM,Katherine Culbert,195,109,50,36
+Val Verde,Precinct 13,Railroad Commissioner,,LIB,Hawk Dunlap,34,20,7,7
+Val Verde,Precinct 13,Railroad Commissioner,,GRN,Eddie Espinoza,20,11,8,1
+Val Verde,Precinct 13,Railroad Commissioner,,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,Railroad Commissioner,,,Under Votes,75,53,11,11
+Val Verde,Precinct 13,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,454,196,195,63
+Val Verde,Precinct 13,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,232,132,57,43
+Val Verde,Precinct 13,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,"Justice, Supreme Court, Pl 2",2,,Under Votes,65,42,17,6
+Val Verde,Precinct 13,"Justice, Supreme Court, Pl 4",4,REP,John Devine,453,194,193,66
+Val Verde,Precinct 13,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,231,134,58,39
+Val Verde,Precinct 13,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,"Justice, Supreme Court, Pl 4",4,,Under Votes,67,42,18,7
+Val Verde,Precinct 13,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,441,192,191,58
+Val Verde,Precinct 13,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,207,118,53,36
+Val Verde,Precinct 13,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,36,19,8,9
+Val Verde,Precinct 13,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,"Justice, Supreme Court, Pl 6",6,,Under Votes,67,41,17,9
+Val Verde,Precinct 13,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,456,198,194,64
+Val Verde,Precinct 13,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,220,123,57,40
+Val Verde,Precinct 13,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,"Presiding Judge, Ct of Crim App",,,Under Votes,75,49,18,8
+Val Verde,Precinct 13,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,454,198,193,63
+Val Verde,Precinct 13,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,219,122,57,40
+Val Verde,Precinct 13,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,78,50,19,9
+Val Verde,Precinct 13,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,454,193,196,65
+Val Verde,Precinct 13,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,218,125,54,39
+Val Verde,Precinct 13,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,79,52,19,8
+Val Verde,Precinct 13,State Board of Education,1,REP,Michael (Travis) Stevens,451,198,193,60
+Val Verde,Precinct 13,State Board of Education,1,DEM,Gustavo Reveles,213,119,53,41
+Val Verde,Precinct 13,State Board of Education,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,State Board of Education,1,,Under Votes,87,53,23,11
+Val Verde,Precinct 13,State Representative,74,REP,Robert Garza,433,191,183,59
+Val Verde,Precinct 13,State Representative,74,DEM,Eddie Morales Jr,249,130,72,47
+Val Verde,Precinct 13,State Representative,74,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,State Representative,74,,Under Votes,69,49,14,6
+Val Verde,Precinct 13,"Justice, 4th Ct of App Dist, Pl 2",2,DEM,Velia J. Meza,357,167,121,69
+Val Verde,Precinct 13,"Justice, 4th Ct of App Dist, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,"Justice, 4th Ct of App Dist, Pl 2",2,,Under Votes,394,203,148,43
+Val Verde,Precinct 13,"Justice, 4th Ct of App Dist, Pl 3",3,REP,Todd McCray,439,191,188,60
+Val Verde,Precinct 13,"Justice, 4th Ct of App Dist, Pl 3",3,DEM,Cynthia Marie Chapa,225,125,60,40
+Val Verde,Precinct 13,"Justice, 4th Ct of App Dist, Pl 3",3,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,"Justice, 4th Ct of App Dist, Pl 3",3,,Under Votes,87,54,21,12
+Val Verde,Precinct 13,"Justice, 4th Ct of App Dist, Pl 4",4,REP,Lori Massey Brissette,447,196,190,61
+Val Verde,Precinct 13,"Justice, 4th Ct of App Dist, Pl 4",4,DEM,Luz Elena Chapa,219,120,60,39
+Val Verde,Precinct 13,"Justice, 4th Ct of App Dist, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,"Justice, 4th Ct of App Dist, Pl 4",4,,Under Votes,85,54,19,12
+Val Verde,Precinct 13,"Justice, 4th Ct of App Dist, Pl 5",5,REP,Adrian Spears,437,191,187,59
+Val Verde,Precinct 13,"Justice, 4th Ct of App Dist, Pl 5",5,DEM,Liza A. Rodriguez,226,125,61,40
+Val Verde,Precinct 13,"Justice, 4th Ct of App Dist, Pl 5",5,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,"Justice, 4th Ct of App Dist, Pl 5",5,,Under Votes,88,54,21,13
+Val Verde,Precinct 13,"Justice, 4th Ct of App Dist, Pl 7",7,REP,Lori I. Valenzuela,500,218,206,76
+Val Verde,Precinct 13,"Justice, 4th Ct of App Dist, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,"Justice, 4th Ct of App Dist, Pl 7",7,,Under Votes,251,152,63,36
+Val Verde,Precinct 13,"Dist Judge, 63rd Judicial Dist",,REP,Roland Andrade,505,217,211,77
+Val Verde,Precinct 13,"Dist Judge, 63rd Judicial Dist",,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,"Dist Judge, 63rd Judicial Dist",,,Under Votes,246,153,58,35
+Val Verde,Precinct 13,District Attorney,,REP,Suzanne West,503,217,211,75
+Val Verde,Precinct 13,District Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,District Attorney,,,Under Votes,248,153,58,37
+Val Verde,Precinct 13,County Attorney,,DEM,David E. Martinez,370,170,133,67
+Val Verde,Precinct 13,County Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,County Attorney,,,Under Votes,381,200,136,45
+Val Verde,Precinct 13,Sheriff,,REP,"Rogelio ""Roger"" Hernandez",371,179,135,57
+Val Verde,Precinct 13,Sheriff,,DEM,"Jose Francisco ""JoeFrank""",289,127,117,45
+Val Verde,Precinct 13,Sheriff,,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,Sheriff,,,Under Votes,91,64,17,10
+Val Verde,Precinct 13,County Tax Assessor-Collector,,REP,Maricar Ortega Chattler,404,178,171,55
+Val Verde,Precinct 13,County Tax Assessor-Collector,,DEM,"Elodia ""Loly"" Garcia",245,127,78,40
+Val Verde,Precinct 13,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,County Tax Assessor-Collector,,,Under Votes,102,65,20,17
+Val Verde,Precinct 13,County Commissioner Pct 1,1,REP,"Alfinio ""Al"" Flores",405,181,170,54
+Val Verde,Precinct 13,County Commissioner Pct 1,1,DEM,Kerr Wardlaw,246,121,79,46
+Val Verde,Precinct 13,County Commissioner Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,County Commissioner Pct 1,1,,Under Votes,100,68,20,12
+Val Verde,Precinct 13,Constable Pct 1,1,DEM,"Dionicio ""Nicho"" Trevino III",353,159,128,66
+Val Verde,Precinct 13,Constable Pct 1,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 13,Constable Pct 1,1,,Under Votes,398,211,141,46
+Val Verde,Precinct 20,Registered Voters,,,,184,,,
+Val Verde,Precinct 20,Ballots Cast,,,,151,5,138,8
+Val Verde,Precinct 20,Ballots Cast - Blank,,,,0,0,0,0
+Val Verde,Precinct 20,President,,REP,Donald J. Trump/JD Vance,130,4,120,6
+Val Verde,Precinct 20,President,,DEM,Kamala D. Harris/Tim Walz,18,1,15,2
+Val Verde,Precinct 20,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Val Verde,Precinct 20,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Val Verde,Precinct 20,President,,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,President,,,Under Votes,2,0,2,0
+Val Verde,Precinct 20,U.S. Senate,,REP,Ted Cruz,127,4,118,5
+Val Verde,Precinct 20,U.S. Senate,,DEM,Colin Allred,21,1,17,3
+Val Verde,Precinct 20,U.S. Senate,,LIB,Ted Brown,2,0,2,0
+Val Verde,Precinct 20,U.S. Senate,,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,U.S. Senate,,,Under Votes,1,0,1,0
+Val Verde,Precinct 20,U.S. House,23,REP,Tony Gonzales,130,4,119,7
+Val Verde,Precinct 20,U.S. House,23,DEM,S. Limon,16,1,14,1
+Val Verde,Precinct 20,U.S. House,23,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,U.S. House,23,,Under Votes,5,0,5,0
+Val Verde,Precinct 20,Railroad Commissioner,,REP,Christi Craddick,122,4,113,5
+Val Verde,Precinct 20,Railroad Commissioner,,DEM,Katherine Culbert,20,1,17,2
+Val Verde,Precinct 20,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,1,0
+Val Verde,Precinct 20,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,2,1
+Val Verde,Precinct 20,Railroad Commissioner,,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,Railroad Commissioner,,,Under Votes,4,0,4,0
+Val Verde,Precinct 20,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,131,4,121,6
+Val Verde,Precinct 20,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,16,1,13,2
+Val Verde,Precinct 20,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,"Justice, Supreme Court, Pl 2",2,,Under Votes,4,0,4,0
+Val Verde,Precinct 20,"Justice, Supreme Court, Pl 4",4,REP,John Devine,127,4,119,4
+Val Verde,Precinct 20,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,19,1,15,3
+Val Verde,Precinct 20,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,"Justice, Supreme Court, Pl 4",4,,Under Votes,5,0,4,1
+Val Verde,Precinct 20,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,125,4,116,5
+Val Verde,Precinct 20,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,18,1,15,2
+Val Verde,Precinct 20,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,3,0,2,1
+Val Verde,Precinct 20,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,"Justice, Supreme Court, Pl 6",6,,Under Votes,5,0,5,0
+Val Verde,Precinct 20,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,132,4,122,6
+Val Verde,Precinct 20,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,16,1,13,2
+Val Verde,Precinct 20,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,"Presiding Judge, Ct of Crim App",,,Under Votes,3,0,3,0
+Val Verde,Precinct 20,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,129,4,119,6
+Val Verde,Precinct 20,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,18,1,15,2
+Val Verde,Precinct 20,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,4,0,4,0
+Val Verde,Precinct 20,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,131,4,122,5
+Val Verde,Precinct 20,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,18,1,14,3
+Val Verde,Precinct 20,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,2,0,2,0
+Val Verde,Precinct 20,State Board of Education,1,REP,Michael (Travis) Stevens,130,4,121,5
+Val Verde,Precinct 20,State Board of Education,1,DEM,Gustavo Reveles,18,1,14,3
+Val Verde,Precinct 20,State Board of Education,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,State Board of Education,1,,Under Votes,3,0,3,0
+Val Verde,Precinct 20,State Representative,74,REP,Robert Garza,124,4,115,5
+Val Verde,Precinct 20,State Representative,74,DEM,Eddie Morales Jr,22,1,18,3
+Val Verde,Precinct 20,State Representative,74,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,State Representative,74,,Under Votes,5,0,5,0
+Val Verde,Precinct 20,"Justice, 4th Ct of App Dist, Pl 2",2,DEM,Velia J. Meza,53,1,48,4
+Val Verde,Precinct 20,"Justice, 4th Ct of App Dist, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,"Justice, 4th Ct of App Dist, Pl 2",2,,Under Votes,98,4,90,4
+Val Verde,Precinct 20,"Justice, 4th Ct of App Dist, Pl 3",3,REP,Todd McCray,127,4,118,5
+Val Verde,Precinct 20,"Justice, 4th Ct of App Dist, Pl 3",3,DEM,Cynthia Marie Chapa,20,1,16,3
+Val Verde,Precinct 20,"Justice, 4th Ct of App Dist, Pl 3",3,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,"Justice, 4th Ct of App Dist, Pl 3",3,,Under Votes,4,0,4,0
+Val Verde,Precinct 20,"Justice, 4th Ct of App Dist, Pl 4",4,REP,Lori Massey Brissette,129,4,120,5
+Val Verde,Precinct 20,"Justice, 4th Ct of App Dist, Pl 4",4,DEM,Luz Elena Chapa,19,1,15,3
+Val Verde,Precinct 20,"Justice, 4th Ct of App Dist, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,"Justice, 4th Ct of App Dist, Pl 4",4,,Under Votes,3,0,3,0
+Val Verde,Precinct 20,"Justice, 4th Ct of App Dist, Pl 5",5,REP,Adrian Spears,129,4,120,5
+Val Verde,Precinct 20,"Justice, 4th Ct of App Dist, Pl 5",5,DEM,Liza A. Rodriguez,18,1,14,3
+Val Verde,Precinct 20,"Justice, 4th Ct of App Dist, Pl 5",5,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,"Justice, 4th Ct of App Dist, Pl 5",5,,Under Votes,4,0,4,0
+Val Verde,Precinct 20,"Justice, 4th Ct of App Dist, Pl 7",7,REP,Lori I. Valenzuela,136,4,125,7
+Val Verde,Precinct 20,"Justice, 4th Ct of App Dist, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,"Justice, 4th Ct of App Dist, Pl 7",7,,Under Votes,15,1,13,1
+Val Verde,Precinct 20,"Dist Judge, 63rd Judicial Dist",,REP,Roland Andrade,134,4,123,7
+Val Verde,Precinct 20,"Dist Judge, 63rd Judicial Dist",,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,"Dist Judge, 63rd Judicial Dist",,,Under Votes,17,1,15,1
+Val Verde,Precinct 20,District Attorney,,REP,Suzanne West,134,4,122,8
+Val Verde,Precinct 20,District Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,District Attorney,,,Under Votes,17,1,16,0
+Val Verde,Precinct 20,County Attorney,,DEM,David E. Martinez,60,3,53,4
+Val Verde,Precinct 20,County Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,County Attorney,,,Under Votes,91,2,85,4
+Val Verde,Precinct 20,Sheriff,,REP,"Rogelio ""Roger"" Hernandez",92,2,87,3
+Val Verde,Precinct 20,Sheriff,,DEM,"Jose Francisco ""JoeFrank""",54,3,46,5
+Val Verde,Precinct 20,Sheriff,,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,Sheriff,,,Under Votes,5,0,5,0
+Val Verde,Precinct 20,County Tax Assessor-Collector,,REP,Maricar Ortega Chattler,116,2,109,5
+Val Verde,Precinct 20,County Tax Assessor-Collector,,DEM,"Elodia ""Loly"" Garcia",31,3,25,3
+Val Verde,Precinct 20,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,County Tax Assessor-Collector,,,Under Votes,4,0,4,0
+Val Verde,Precinct 20,Constable Pct 2,2,DEM,Daniel Reyes Jr,57,3,50,4
+Val Verde,Precinct 20,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 20,Constable Pct 2,2,,Under Votes,94,2,88,4
+Val Verde,Precinct 21,Registered Voters,,,,1812,,,
+Val Verde,Precinct 21,Ballots Cast,,,,680,26,449,205
+Val Verde,Precinct 21,Ballots Cast - Blank,,,,1,0,1,0
+Val Verde,Precinct 21,President,,REP,Donald J. Trump/JD Vance,348,5,224,119
+Val Verde,Precinct 21,President,,DEM,Kamala D. Harris/Tim Walz,315,21,215,79
+Val Verde,Precinct 21,President,,LIB,Chase Oliver/Mike ter Maat,3,0,1,2
+Val Verde,Precinct 21,President,,GRN,Jill Stein/Rudolph Ware,5,0,5,0
+Val Verde,Precinct 21,President,,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,President,,,Under Votes,9,0,4,5
+Val Verde,Precinct 21,U.S. Senate,,REP,Ted Cruz,283,1,187,95
+Val Verde,Precinct 21,U.S. Senate,,DEM,Colin Allred,336,25,227,84
+Val Verde,Precinct 21,U.S. Senate,,LIB,Ted Brown,24,0,15,9
+Val Verde,Precinct 21,U.S. Senate,,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,U.S. Senate,,,Under Votes,36,0,19,17
+Val Verde,Precinct 21,U.S. House,23,REP,Tony Gonzales,336,5,215,116
+Val Verde,Precinct 21,U.S. House,23,DEM,S. Limon,299,21,209,69
+Val Verde,Precinct 21,U.S. House,23,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,U.S. House,23,,Under Votes,45,0,25,20
+Val Verde,Precinct 21,Railroad Commissioner,,REP,Christi Craddick,277,2,182,93
+Val Verde,Precinct 21,Railroad Commissioner,,DEM,Katherine Culbert,277,21,195,61
+Val Verde,Precinct 21,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,9,8
+Val Verde,Precinct 21,Railroad Commissioner,,GRN,Eddie Espinoza,60,2,38,20
+Val Verde,Precinct 21,Railroad Commissioner,,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,Railroad Commissioner,,,Under Votes,48,0,25,23
+Val Verde,Precinct 21,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,312,3,197,112
+Val Verde,Precinct 21,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,310,23,219,68
+Val Verde,Precinct 21,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,"Justice, Supreme Court, Pl 2",2,,Under Votes,58,0,33,25
+Val Verde,Precinct 21,"Justice, Supreme Court, Pl 4",4,REP,John Devine,298,2,190,106
+Val Verde,Precinct 21,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,314,23,218,73
+Val Verde,Precinct 21,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,"Justice, Supreme Court, Pl 4",4,,Under Votes,68,1,41,26
+Val Verde,Precinct 21,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,274,3,180,91
+Val Verde,Precinct 21,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,304,23,204,77
+Val Verde,Precinct 21,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,32,0,21,11
+Val Verde,Precinct 21,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,"Justice, Supreme Court, Pl 6",6,,Under Votes,70,0,44,26
+Val Verde,Precinct 21,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,285,3,183,99
+Val Verde,Precinct 21,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,319,23,221,75
+Val Verde,Precinct 21,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,"Presiding Judge, Ct of Crim App",,,Under Votes,76,0,45,31
+Val Verde,Precinct 21,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,293,3,189,101
+Val Verde,Precinct 21,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,308,23,213,72
+Val Verde,Precinct 21,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,79,0,47,32
+Val Verde,Precinct 21,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,297,2,195,100
+Val Verde,Precinct 21,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,299,23,205,71
+Val Verde,Precinct 21,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,84,1,49,34
+Val Verde,Precinct 21,State Board of Education,1,REP,Michael (Travis) Stevens,274,2,178,94
+Val Verde,Precinct 21,State Board of Education,1,DEM,Gustavo Reveles,332,24,228,80
+Val Verde,Precinct 21,State Board of Education,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,State Board of Education,1,,Under Votes,74,0,43,31
+Val Verde,Precinct 21,State Representative,74,REP,Robert Garza,278,5,184,89
+Val Verde,Precinct 21,State Representative,74,DEM,Eddie Morales Jr,353,21,236,96
+Val Verde,Precinct 21,State Representative,74,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,State Representative,74,,Under Votes,49,0,29,20
+Val Verde,Precinct 21,"Justice, 4th Ct of App Dist, Pl 2",2,DEM,Velia J. Meza,460,23,307,130
+Val Verde,Precinct 21,"Justice, 4th Ct of App Dist, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,"Justice, 4th Ct of App Dist, Pl 2",2,,Under Votes,220,3,142,75
+Val Verde,Precinct 21,"Justice, 4th Ct of App Dist, Pl 3",3,REP,Todd McCray,261,2,167,92
+Val Verde,Precinct 21,"Justice, 4th Ct of App Dist, Pl 3",3,DEM,Cynthia Marie Chapa,350,23,238,89
+Val Verde,Precinct 21,"Justice, 4th Ct of App Dist, Pl 3",3,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,"Justice, 4th Ct of App Dist, Pl 3",3,,Under Votes,69,1,44,24
+Val Verde,Precinct 21,"Justice, 4th Ct of App Dist, Pl 4",4,REP,Lori Massey Brissette,257,2,165,90
+Val Verde,Precinct 21,"Justice, 4th Ct of App Dist, Pl 4",4,DEM,Luz Elena Chapa,355,24,240,91
+Val Verde,Precinct 21,"Justice, 4th Ct of App Dist, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,"Justice, 4th Ct of App Dist, Pl 4",4,,Under Votes,68,0,44,24
+Val Verde,Precinct 21,"Justice, 4th Ct of App Dist, Pl 5",5,REP,Adrian Spears,254,2,168,84
+Val Verde,Precinct 21,"Justice, 4th Ct of App Dist, Pl 5",5,DEM,Liza A. Rodriguez,358,24,242,92
+Val Verde,Precinct 21,"Justice, 4th Ct of App Dist, Pl 5",5,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,"Justice, 4th Ct of App Dist, Pl 5",5,,Under Votes,68,0,39,29
+Val Verde,Precinct 21,"Justice, 4th Ct of App Dist, Pl 7",7,REP,Lori I. Valenzuela,412,8,273,131
+Val Verde,Precinct 21,"Justice, 4th Ct of App Dist, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,"Justice, 4th Ct of App Dist, Pl 7",7,,Under Votes,268,18,176,74
+Val Verde,Precinct 21,"Dist Judge, 63rd Judicial Dist",,REP,Roland Andrade,437,12,290,135
+Val Verde,Precinct 21,"Dist Judge, 63rd Judicial Dist",,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,"Dist Judge, 63rd Judicial Dist",,,Under Votes,243,14,159,70
+Val Verde,Precinct 21,District Attorney,,REP,Suzanne West,418,9,280,129
+Val Verde,Precinct 21,District Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,District Attorney,,,Under Votes,262,17,169,76
+Val Verde,Precinct 21,County Attorney,,DEM,David E. Martinez,486,24,323,139
+Val Verde,Precinct 21,County Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,County Attorney,,,Under Votes,194,2,126,66
+Val Verde,Precinct 21,Sheriff,,REP,"Rogelio ""Roger"" Hernandez",227,5,147,75
+Val Verde,Precinct 21,Sheriff,,DEM,"Jose Francisco ""JoeFrank""",421,21,278,122
+Val Verde,Precinct 21,Sheriff,,,Over Votes,1,0,1,0
+Val Verde,Precinct 21,Sheriff,,,Under Votes,31,0,23,8
+Val Verde,Precinct 21,County Tax Assessor-Collector,,REP,Maricar Ortega Chattler,240,2,162,76
+Val Verde,Precinct 21,County Tax Assessor-Collector,,DEM,"Elodia ""Loly"" Garcia",390,23,253,114
+Val Verde,Precinct 21,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,County Tax Assessor-Collector,,,Under Votes,50,1,34,15
+Val Verde,Precinct 21,Constable Pct 2,2,DEM,Daniel Reyes Jr,496,25,330,141
+Val Verde,Precinct 21,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,Constable Pct 2,2,,Under Votes,184,1,119,64
+Val Verde,Precinct 21,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,Constable Pct 2,2,,Under Votes,157,3,101,53
+Val Verde,Precinct 21,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,Constable Pct 2,2,,Under Votes,91,2,60,29
+Val Verde,Precinct 21,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,Constable Pct 2,2,,Under Votes,82,2,52,28
+Val Verde,Precinct 21,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,Constable Pct 2,2,,Under Votes,90,0,56,34
+Val Verde,Precinct 21,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,Constable Pct 2,2,,Under Votes,100,3,64,33
+Val Verde,Precinct 21,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,Constable Pct 2,2,,Under Votes,96,2,62,32
+Val Verde,Precinct 21,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,Constable Pct 2,2,,Under Votes,90,3,58,29
+Val Verde,Precinct 21,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 21,Constable Pct 2,2,,Under Votes,100,2,65,33
+Val Verde,Precinct 22,Registered Voters,,,,2346,,,
+Val Verde,Precinct 22,Ballots Cast,,,,1026,44,741,241
+Val Verde,Precinct 22,Ballots Cast - Blank,,,,1,0,0,1
+Val Verde,Precinct 22,President,,REP,Donald J. Trump/JD Vance,571,14,410,147
+Val Verde,Precinct 22,President,,DEM,Kamala D. Harris/Tim Walz,432,29,314,89
+Val Verde,Precinct 22,President,,LIB,Chase Oliver/Mike ter Maat,5,0,4,1
+Val Verde,Precinct 22,President,,GRN,Jill Stein/Rudolph Ware,8,0,6,2
+Val Verde,Precinct 22,President,,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,President,,,Under Votes,8,1,6,1
+Val Verde,Precinct 22,U.S. Senate,,REP,Ted Cruz,477,10,361,106
+Val Verde,Precinct 22,U.S. Senate,,DEM,Colin Allred,485,29,346,110
+Val Verde,Precinct 22,U.S. Senate,,LIB,Ted Brown,29,5,13,11
+Val Verde,Precinct 22,U.S. Senate,,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,U.S. Senate,,,Under Votes,35,0,21,14
+Val Verde,Precinct 22,U.S. House,23,REP,Tony Gonzales,567,13,417,137
+Val Verde,Precinct 22,U.S. House,23,DEM,S. Limon,394,29,280,85
+Val Verde,Precinct 22,U.S. House,23,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,U.S. House,23,,Under Votes,65,2,44,19
+Val Verde,Precinct 22,Railroad Commissioner,,REP,Christi Craddick,458,13,330,115
+Val Verde,Precinct 22,Railroad Commissioner,,DEM,Katherine Culbert,401,26,297,78
+Val Verde,Precinct 22,Railroad Commissioner,,LIB,Hawk Dunlap,19,1,13,5
+Val Verde,Precinct 22,Railroad Commissioner,,GRN,Eddie Espinoza,73,2,49,22
+Val Verde,Precinct 22,Railroad Commissioner,,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,Railroad Commissioner,,,Under Votes,74,2,51,21
+Val Verde,Precinct 22,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,515,15,368,132
+Val Verde,Precinct 22,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,430,27,313,90
+Val Verde,Precinct 22,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,"Justice, Supreme Court, Pl 2",2,,Under Votes,81,2,60,19
+Val Verde,Precinct 22,"Justice, Supreme Court, Pl 4",4,REP,John Devine,514,15,368,131
+Val Verde,Precinct 22,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,430,27,314,89
+Val Verde,Precinct 22,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,"Justice, Supreme Court, Pl 4",4,,Under Votes,82,2,59,21
+Val Verde,Precinct 22,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,486,15,350,121
+Val Verde,Precinct 22,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,418,26,309,83
+Val Verde,Precinct 22,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,42,1,25,16
+Val Verde,Precinct 22,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,"Justice, Supreme Court, Pl 6",6,,Under Votes,80,2,57,21
+Val Verde,Precinct 22,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,504,14,365,125
+Val Verde,Precinct 22,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,427,28,309,90
+Val Verde,Precinct 22,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,"Presiding Judge, Ct of Crim App",,,Under Votes,95,2,67,26
+Val Verde,Precinct 22,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,496,14,359,123
+Val Verde,Precinct 22,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,441,28,322,91
+Val Verde,Precinct 22,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,89,2,60,27
+Val Verde,Precinct 22,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,514,17,374,123
+Val Verde,Precinct 22,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,421,25,305,91
+Val Verde,Precinct 22,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,91,2,62,27
+Val Verde,Precinct 22,State Board of Education,1,REP,Michael (Travis) Stevens,474,16,348,110
+Val Verde,Precinct 22,State Board of Education,1,DEM,Gustavo Reveles,458,26,326,106
+Val Verde,Precinct 22,State Board of Education,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,State Board of Education,1,,Under Votes,94,2,67,25
+Val Verde,Precinct 22,State Representative,74,REP,Robert Garza,455,15,332,108
+Val Verde,Precinct 22,State Representative,74,DEM,Eddie Morales Jr,505,27,362,116
+Val Verde,Precinct 22,State Representative,74,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,State Representative,74,,Under Votes,66,2,47,17
+Val Verde,Precinct 22,"Justice, 4th Ct of App Dist, Pl 2",2,DEM,Velia J. Meza,674,30,469,175
+Val Verde,Precinct 22,"Justice, 4th Ct of App Dist, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,"Justice, 4th Ct of App Dist, Pl 2",2,,Under Votes,352,14,272,66
+Val Verde,Precinct 22,"Justice, 4th Ct of App Dist, Pl 3",3,REP,Todd McCray,450,14,328,108
+Val Verde,Precinct 22,"Justice, 4th Ct of App Dist, Pl 3",3,DEM,Cynthia Marie Chapa,489,28,350,111
+Val Verde,Precinct 22,"Justice, 4th Ct of App Dist, Pl 3",3,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,"Justice, 4th Ct of App Dist, Pl 3",3,,Under Votes,87,2,63,22
+Val Verde,Precinct 22,"Justice, 4th Ct of App Dist, Pl 4",4,REP,Lori Massey Brissette,440,12,323,105
+Val Verde,Precinct 22,"Justice, 4th Ct of App Dist, Pl 4",4,DEM,Luz Elena Chapa,502,30,358,114
+Val Verde,Precinct 22,"Justice, 4th Ct of App Dist, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,"Justice, 4th Ct of App Dist, Pl 4",4,,Under Votes,84,2,60,22
+Val Verde,Precinct 22,"Justice, 4th Ct of App Dist, Pl 5",5,REP,Adrian Spears,444,13,327,104
+Val Verde,Precinct 22,"Justice, 4th Ct of App Dist, Pl 5",5,DEM,Liza A. Rodriguez,492,29,351,112
+Val Verde,Precinct 22,"Justice, 4th Ct of App Dist, Pl 5",5,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,"Justice, 4th Ct of App Dist, Pl 5",5,,Under Votes,90,2,63,25
+Val Verde,Precinct 22,"Justice, 4th Ct of App Dist, Pl 7",7,REP,Lori I. Valenzuela,680,21,483,176
+Val Verde,Precinct 22,"Justice, 4th Ct of App Dist, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,"Justice, 4th Ct of App Dist, Pl 7",7,,Under Votes,346,23,258,65
+Val Verde,Precinct 22,"Dist Judge, 63rd Judicial Dist",,REP,Roland Andrade,712,25,510,177
+Val Verde,Precinct 22,"Dist Judge, 63rd Judicial Dist",,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,"Dist Judge, 63rd Judicial Dist",,,Under Votes,314,19,231,64
+Val Verde,Precinct 22,District Attorney,,REP,Suzanne West,697,26,495,176
+Val Verde,Precinct 22,District Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,District Attorney,,,Under Votes,329,18,246,65
+Val Verde,Precinct 22,County Attorney,,DEM,David E. Martinez,713,35,496,182
+Val Verde,Precinct 22,County Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,County Attorney,,,Under Votes,313,9,245,59
+Val Verde,Precinct 22,Sheriff,,REP,"Rogelio ""Roger"" Hernandez",368,7,275,86
+Val Verde,Precinct 22,Sheriff,,DEM,"Jose Francisco ""JoeFrank""",614,35,439,140
+Val Verde,Precinct 22,Sheriff,,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,Sheriff,,,Under Votes,44,2,27,15
+Val Verde,Precinct 22,County Tax Assessor-Collector,,REP,Maricar Ortega Chattler,402,10,304,88
+Val Verde,Precinct 22,County Tax Assessor-Collector,,DEM,"Elodia ""Loly"" Garcia",563,32,394,137
+Val Verde,Precinct 22,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,County Tax Assessor-Collector,,,Under Votes,61,2,43,16
+Val Verde,Precinct 22,Constable Pct 2,2,DEM,Daniel Reyes Jr,727,32,514,181
+Val Verde,Precinct 22,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,Constable Pct 2,2,,Under Votes,299,12,227,60
+Val Verde,Precinct 22,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,Constable Pct 2,2,,Under Votes,182,6,135,41
+Val Verde,Precinct 22,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,Constable Pct 2,2,,Under Votes,131,6,98,27
+Val Verde,Precinct 22,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,Constable Pct 2,2,,Under Votes,114,5,85,24
+Val Verde,Precinct 22,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,Constable Pct 2,2,,Under Votes,128,5,96,27
+Val Verde,Precinct 22,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,Constable Pct 2,2,,Under Votes,137,6,100,31
+Val Verde,Precinct 22,Constable Pct 2,2,,Over Votes,1,0,1,0
+Val Verde,Precinct 22,Constable Pct 2,2,,Under Votes,118,5,86,27
+Val Verde,Precinct 22,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,Constable Pct 2,2,,Under Votes,124,5,93,26
+Val Verde,Precinct 22,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 22,Constable Pct 2,2,,Under Votes,123,5,90,28
+Val Verde,Precinct 23,Registered Voters,,,,253,,,
+Val Verde,Precinct 23,Ballots Cast,,,,188,0,158,30
+Val Verde,Precinct 23,Ballots Cast - Blank,,,,0,0,0,0
+Val Verde,Precinct 23,President,,REP,Donald J. Trump/JD Vance,146,0,120,26
+Val Verde,Precinct 23,President,,DEM,Kamala D. Harris/Tim Walz,39,0,36,3
+Val Verde,Precinct 23,President,,LIB,Chase Oliver/Mike ter Maat,2,0,1,1
+Val Verde,Precinct 23,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Val Verde,Precinct 23,President,,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,President,,,Under Votes,1,0,1,0
+Val Verde,Precinct 23,U.S. Senate,,REP,Ted Cruz,141,0,117,24
+Val Verde,Precinct 23,U.S. Senate,,DEM,Colin Allred,42,0,36,6
+Val Verde,Precinct 23,U.S. Senate,,LIB,Ted Brown,3,0,3,0
+Val Verde,Precinct 23,U.S. Senate,,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,U.S. Senate,,,Under Votes,2,0,2,0
+Val Verde,Precinct 23,U.S. House,23,REP,Tony Gonzales,142,0,117,25
+Val Verde,Precinct 23,U.S. House,23,DEM,S. Limon,35,0,31,4
+Val Verde,Precinct 23,U.S. House,23,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,U.S. House,23,,Under Votes,11,0,10,1
+Val Verde,Precinct 23,Railroad Commissioner,,REP,Christi Craddick,134,0,112,22
+Val Verde,Precinct 23,Railroad Commissioner,,DEM,Katherine Culbert,35,0,30,5
+Val Verde,Precinct 23,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,2,1
+Val Verde,Precinct 23,Railroad Commissioner,,GRN,Eddie Espinoza,9,0,7,2
+Val Verde,Precinct 23,Railroad Commissioner,,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,Railroad Commissioner,,,Under Votes,7,0,7,0
+Val Verde,Precinct 23,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,142,0,115,27
+Val Verde,Precinct 23,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,35,0,32,3
+Val Verde,Precinct 23,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,"Justice, Supreme Court, Pl 2",2,,Under Votes,11,0,11,0
+Val Verde,Precinct 23,"Justice, Supreme Court, Pl 4",4,REP,John Devine,141,0,114,27
+Val Verde,Precinct 23,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,35,0,32,3
+Val Verde,Precinct 23,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,"Justice, Supreme Court, Pl 4",4,,Under Votes,12,0,12,0
+Val Verde,Precinct 23,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,139,0,112,27
+Val Verde,Precinct 23,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,36,0,33,3
+Val Verde,Precinct 23,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,1,0,1,0
+Val Verde,Precinct 23,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,"Justice, Supreme Court, Pl 6",6,,Under Votes,12,0,12,0
+Val Verde,Precinct 23,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,139,0,112,27
+Val Verde,Precinct 23,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,37,0,34,3
+Val Verde,Precinct 23,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,"Presiding Judge, Ct of Crim App",,,Under Votes,12,0,12,0
+Val Verde,Precinct 23,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,138,0,114,24
+Val Verde,Precinct 23,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,38,0,32,6
+Val Verde,Precinct 23,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,12,0,12,0
+Val Verde,Precinct 23,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,142,0,114,28
+Val Verde,Precinct 23,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,35,0,33,2
+Val Verde,Precinct 23,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,11,0,11,0
+Val Verde,Precinct 23,State Board of Education,1,REP,Michael (Travis) Stevens,139,0,114,25
+Val Verde,Precinct 23,State Board of Education,1,DEM,Gustavo Reveles,37,0,32,5
+Val Verde,Precinct 23,State Board of Education,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,State Board of Education,1,,Under Votes,12,0,12,0
+Val Verde,Precinct 23,State Representative,74,REP,Robert Garza,135,0,109,26
+Val Verde,Precinct 23,State Representative,74,DEM,Eddie Morales Jr,45,0,41,4
+Val Verde,Precinct 23,State Representative,74,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,State Representative,74,,Under Votes,8,0,8,0
+Val Verde,Precinct 23,"Justice, 4th Ct of App Dist, Pl 2",2,DEM,Velia J. Meza,86,0,69,17
+Val Verde,Precinct 23,"Justice, 4th Ct of App Dist, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,"Justice, 4th Ct of App Dist, Pl 2",2,,Under Votes,102,0,89,13
+Val Verde,Precinct 23,"Justice, 4th Ct of App Dist, Pl 3",3,REP,Todd McCray,128,0,103,25
+Val Verde,Precinct 23,"Justice, 4th Ct of App Dist, Pl 3",3,DEM,Cynthia Marie Chapa,48,0,43,5
+Val Verde,Precinct 23,"Justice, 4th Ct of App Dist, Pl 3",3,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,"Justice, 4th Ct of App Dist, Pl 3",3,,Under Votes,12,0,12,0
+Val Verde,Precinct 23,"Justice, 4th Ct of App Dist, Pl 4",4,REP,Lori Massey Brissette,127,0,103,24
+Val Verde,Precinct 23,"Justice, 4th Ct of App Dist, Pl 4",4,DEM,Luz Elena Chapa,49,0,43,6
+Val Verde,Precinct 23,"Justice, 4th Ct of App Dist, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,"Justice, 4th Ct of App Dist, Pl 4",4,,Under Votes,12,0,12,0
+Val Verde,Precinct 23,"Justice, 4th Ct of App Dist, Pl 5",5,REP,Adrian Spears,132,0,105,27
+Val Verde,Precinct 23,"Justice, 4th Ct of App Dist, Pl 5",5,DEM,Liza A. Rodriguez,44,0,41,3
+Val Verde,Precinct 23,"Justice, 4th Ct of App Dist, Pl 5",5,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,"Justice, 4th Ct of App Dist, Pl 5",5,,Under Votes,12,0,12,0
+Val Verde,Precinct 23,"Justice, 4th Ct of App Dist, Pl 7",7,REP,Lori I. Valenzuela,158,0,130,28
+Val Verde,Precinct 23,"Justice, 4th Ct of App Dist, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,"Justice, 4th Ct of App Dist, Pl 7",7,,Under Votes,30,0,28,2
+Val Verde,Precinct 23,"Dist Judge, 63rd Judicial Dist",,REP,Roland Andrade,160,0,132,28
+Val Verde,Precinct 23,"Dist Judge, 63rd Judicial Dist",,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,"Dist Judge, 63rd Judicial Dist",,,Under Votes,28,0,26,2
+Val Verde,Precinct 23,District Attorney,,REP,Suzanne West,158,0,130,28
+Val Verde,Precinct 23,District Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,District Attorney,,,Under Votes,30,0,28,2
+Val Verde,Precinct 23,County Attorney,,DEM,David E. Martinez,108,0,88,20
+Val Verde,Precinct 23,County Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,County Attorney,,,Under Votes,80,0,70,10
+Val Verde,Precinct 23,Sheriff,,REP,"Rogelio ""Roger"" Hernandez",81,0,67,14
+Val Verde,Precinct 23,Sheriff,,DEM,"Jose Francisco ""JoeFrank""",99,0,84,15
+Val Verde,Precinct 23,Sheriff,,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,Sheriff,,,Under Votes,8,0,7,1
+Val Verde,Precinct 23,County Tax Assessor-Collector,,REP,Maricar Ortega Chattler,106,0,89,17
+Val Verde,Precinct 23,County Tax Assessor-Collector,,DEM,"Elodia ""Loly"" Garcia",72,0,60,12
+Val Verde,Precinct 23,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,County Tax Assessor-Collector,,,Under Votes,10,0,9,1
+Val Verde,Precinct 23,Constable Pct 2,2,DEM,Daniel Reyes Jr,102,0,83,19
+Val Verde,Precinct 23,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 23,Constable Pct 2,2,,Under Votes,86,0,75,11
+Val Verde,Precinct 24,Registered Voters,,,,1734,,,
+Val Verde,Precinct 24,Ballots Cast,,,,698,12,476,210
+Val Verde,Precinct 24,Ballots Cast - Blank,,,,0,0,0,0
+Val Verde,Precinct 24,President,,REP,Donald J. Trump/JD Vance,443,4,317,122
+Val Verde,Precinct 24,President,,DEM,Kamala D. Harris/Tim Walz,244,8,149,87
+Val Verde,Precinct 24,President,,LIB,Chase Oliver/Mike ter Maat,4,0,4,0
+Val Verde,Precinct 24,President,,GRN,Jill Stein/Rudolph Ware,4,0,3,1
+Val Verde,Precinct 24,President,,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,President,,,Under Votes,3,0,3,0
+Val Verde,Precinct 24,U.S. Senate,,REP,Ted Cruz,381,4,275,102
+Val Verde,Precinct 24,U.S. Senate,,DEM,Colin Allred,274,8,173,93
+Val Verde,Precinct 24,U.S. Senate,,LIB,Ted Brown,27,0,15,12
+Val Verde,Precinct 24,U.S. Senate,,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,U.S. Senate,,,Under Votes,15,0,12,3
+Val Verde,Precinct 24,U.S. House,23,REP,Tony Gonzales,438,4,305,129
+Val Verde,Precinct 24,U.S. House,23,DEM,S. Limon,222,8,139,75
+Val Verde,Precinct 24,U.S. House,23,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,U.S. House,23,,Under Votes,38,0,32,6
+Val Verde,Precinct 24,Railroad Commissioner,,REP,Christi Craddick,370,3,272,95
+Val Verde,Precinct 24,Railroad Commissioner,,DEM,Katherine Culbert,211,6,126,79
+Val Verde,Precinct 24,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,10,7
+Val Verde,Precinct 24,Railroad Commissioner,,GRN,Eddie Espinoza,59,1,38,20
+Val Verde,Precinct 24,Railroad Commissioner,,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,Railroad Commissioner,,,Under Votes,41,2,30,9
+Val Verde,Precinct 24,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,419,3,305,111
+Val Verde,Precinct 24,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,225,8,130,87
+Val Verde,Precinct 24,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,"Justice, Supreme Court, Pl 2",2,,Under Votes,54,1,41,12
+Val Verde,Precinct 24,"Justice, Supreme Court, Pl 4",4,REP,John Devine,400,3,287,110
+Val Verde,Precinct 24,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,247,8,150,89
+Val Verde,Precinct 24,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,"Justice, Supreme Court, Pl 4",4,,Under Votes,51,1,39,11
+Val Verde,Precinct 24,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,379,3,279,97
+Val Verde,Precinct 24,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,237,8,143,86
+Val Verde,Precinct 24,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,30,0,15,15
+Val Verde,Precinct 24,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,"Justice, Supreme Court, Pl 6",6,,Under Votes,52,1,39,12
+Val Verde,Precinct 24,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,403,3,291,109
+Val Verde,Precinct 24,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,242,8,146,88
+Val Verde,Precinct 24,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,"Presiding Judge, Ct of Crim App",,,Under Votes,53,1,39,13
+Val Verde,Precinct 24,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,402,3,291,108
+Val Verde,Precinct 24,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,244,8,145,91
+Val Verde,Precinct 24,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,52,1,40,11
+Val Verde,Precinct 24,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,404,3,289,112
+Val Verde,Precinct 24,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,236,8,142,86
+Val Verde,Precinct 24,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,58,1,45,12
+Val Verde,Precinct 24,State Board of Education,1,REP,Michael (Travis) Stevens,387,3,283,101
+Val Verde,Precinct 24,State Board of Education,1,DEM,Gustavo Reveles,256,7,153,96
+Val Verde,Precinct 24,State Board of Education,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,State Board of Education,1,,Under Votes,55,2,40,13
+Val Verde,Precinct 24,State Representative,74,REP,Robert Garza,385,4,277,104
+Val Verde,Precinct 24,State Representative,74,DEM,Eddie Morales Jr,284,8,176,100
+Val Verde,Precinct 24,State Representative,74,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,State Representative,74,,Under Votes,29,0,23,6
+Val Verde,Precinct 24,"Justice, 4th Ct of App Dist, Pl 2",2,DEM,Velia J. Meza,455,8,288,159
+Val Verde,Precinct 24,"Justice, 4th Ct of App Dist, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,"Justice, 4th Ct of App Dist, Pl 2",2,,Under Votes,243,4,188,51
+Val Verde,Precinct 24,"Justice, 4th Ct of App Dist, Pl 3",3,REP,Todd McCray,384,3,278,103
+Val Verde,Precinct 24,"Justice, 4th Ct of App Dist, Pl 3",3,DEM,Cynthia Marie Chapa,267,8,163,96
+Val Verde,Precinct 24,"Justice, 4th Ct of App Dist, Pl 3",3,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,"Justice, 4th Ct of App Dist, Pl 3",3,,Under Votes,47,1,35,11
+Val Verde,Precinct 24,"Justice, 4th Ct of App Dist, Pl 4",4,REP,Lori Massey Brissette,367,3,273,91
+Val Verde,Precinct 24,"Justice, 4th Ct of App Dist, Pl 4",4,DEM,Luz Elena Chapa,285,8,169,108
+Val Verde,Precinct 24,"Justice, 4th Ct of App Dist, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,"Justice, 4th Ct of App Dist, Pl 4",4,,Under Votes,46,1,34,11
+Val Verde,Precinct 24,"Justice, 4th Ct of App Dist, Pl 5",5,REP,Adrian Spears,363,3,270,90
+Val Verde,Precinct 24,"Justice, 4th Ct of App Dist, Pl 5",5,DEM,Liza A. Rodriguez,282,8,165,109
+Val Verde,Precinct 24,"Justice, 4th Ct of App Dist, Pl 5",5,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,"Justice, 4th Ct of App Dist, Pl 5",5,,Under Votes,53,1,41,11
+Val Verde,Precinct 24,"Justice, 4th Ct of App Dist, Pl 7",7,REP,Lori I. Valenzuela,511,4,352,155
+Val Verde,Precinct 24,"Justice, 4th Ct of App Dist, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,"Justice, 4th Ct of App Dist, Pl 7",7,,Under Votes,187,8,124,55
+Val Verde,Precinct 24,"Dist Judge, 63rd Judicial Dist",,REP,Roland Andrade,517,4,352,161
+Val Verde,Precinct 24,"Dist Judge, 63rd Judicial Dist",,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,"Dist Judge, 63rd Judicial Dist",,,Under Votes,181,8,124,49
+Val Verde,Precinct 24,District Attorney,,REP,Suzanne West,516,4,360,152
+Val Verde,Precinct 24,District Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,District Attorney,,,Under Votes,182,8,116,58
+Val Verde,Precinct 24,County Attorney,,DEM,David E. Martinez,471,10,299,162
+Val Verde,Precinct 24,County Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,County Attorney,,,Under Votes,227,2,177,48
+Val Verde,Precinct 24,Sheriff,,REP,"Rogelio ""Roger"" Hernandez",290,2,212,76
+Val Verde,Precinct 24,Sheriff,,DEM,"Jose Francisco ""JoeFrank""",382,10,244,128
+Val Verde,Precinct 24,Sheriff,,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,Sheriff,,,Under Votes,26,0,20,6
+Val Verde,Precinct 24,County Tax Assessor-Collector,,REP,Maricar Ortega Chattler,316,3,229,84
+Val Verde,Precinct 24,County Tax Assessor-Collector,,DEM,"Elodia ""Loly"" Garcia",341,9,217,115
+Val Verde,Precinct 24,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,County Tax Assessor-Collector,,,Under Votes,41,0,30,11
+Val Verde,Precinct 24,Constable Pct 2,2,DEM,Daniel Reyes Jr,484,10,310,164
+Val Verde,Precinct 24,Constable Pct 2,2,,Over Votes,0,0,0,0
+Val Verde,Precinct 24,Constable Pct 2,2,,Under Votes,214,2,166,46
+Val Verde,Precinct 30,Registered Voters,,,,2358,,,
+Val Verde,Precinct 30,Ballots Cast,,,,1297,65,959,273
+Val Verde,Precinct 30,Ballots Cast - Blank,,,,0,0,0,0
+Val Verde,Precinct 30,President,,REP,Donald J. Trump/JD Vance,796,26,603,167
+Val Verde,Precinct 30,President,,DEM,Kamala D. Harris/Tim Walz,481,38,344,99
+Val Verde,Precinct 30,President,,LIB,Chase Oliver/Mike ter Maat,6,0,4,2
+Val Verde,Precinct 30,President,,GRN,Jill Stein/Rudolph Ware,5,0,4,1
+Val Verde,Precinct 30,President,,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,President,,,Under Votes,6,1,3,2
+Val Verde,Precinct 30,U.S. Senate,,REP,Ted Cruz,697,25,537,135
+Val Verde,Precinct 30,U.S. Senate,,DEM,Colin Allred,533,37,385,111
+Val Verde,Precinct 30,U.S. Senate,,LIB,Ted Brown,46,2,27,17
+Val Verde,Precinct 30,U.S. Senate,,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,U.S. Senate,,,Under Votes,19,1,9,9
+Val Verde,Precinct 30,U.S. House,23,REP,Tony Gonzales,796,35,599,162
+Val Verde,Precinct 30,U.S. House,23,DEM,S. Limon,450,30,329,91
+Val Verde,Precinct 30,U.S. House,23,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,U.S. House,23,,Under Votes,51,0,31,20
+Val Verde,Precinct 30,Railroad Commissioner,,REP,Christi Craddick,684,20,540,124
+Val Verde,Precinct 30,Railroad Commissioner,,DEM,Katherine Culbert,427,35,308,84
+Val Verde,Precinct 30,Railroad Commissioner,,LIB,Hawk Dunlap,35,6,17,12
+Val Verde,Precinct 30,Railroad Commissioner,,GRN,Eddie Espinoza,72,1,48,23
+Val Verde,Precinct 30,Railroad Commissioner,,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,Railroad Commissioner,,,Under Votes,77,2,45,30
+Val Verde,Precinct 30,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,733,26,564,143
+Val Verde,Precinct 30,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,474,38,339,97
+Val Verde,Precinct 30,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,"Justice, Supreme Court, Pl 2",2,,Under Votes,90,1,56,33
+Val Verde,Precinct 30,"Justice, Supreme Court, Pl 4",4,REP,John Devine,740,27,564,149
+Val Verde,Precinct 30,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,470,36,342,92
+Val Verde,Precinct 30,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,"Justice, Supreme Court, Pl 4",4,,Under Votes,87,2,53,32
+Val Verde,Precinct 30,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,706,24,547,135
+Val Verde,Precinct 30,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,449,36,326,87
+Val Verde,Precinct 30,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,49,4,30,15
+Val Verde,Precinct 30,"Justice, Supreme Court, Pl 6",6,,Over Votes,1,0,1,0
+Val Verde,Precinct 30,"Justice, Supreme Court, Pl 6",6,,Under Votes,92,1,55,36
+Val Verde,Precinct 30,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,725,25,562,138
+Val Verde,Precinct 30,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,482,37,346,99
+Val Verde,Precinct 30,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,"Presiding Judge, Ct of Crim App",,,Under Votes,90,3,51,36
+Val Verde,Precinct 30,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,740,26,572,142
+Val Verde,Precinct 30,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,468,37,335,96
+Val Verde,Precinct 30,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,89,2,52,35
+Val Verde,Precinct 30,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,750,28,577,145
+Val Verde,Precinct 30,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,449,33,325,91
+Val Verde,Precinct 30,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,98,4,57,37
+Val Verde,Precinct 30,State Board of Education,1,REP,Michael (Travis) Stevens,706,26,542,138
+Val Verde,Precinct 30,State Board of Education,1,DEM,Gustavo Reveles,492,35,360,97
+Val Verde,Precinct 30,State Board of Education,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,State Board of Education,1,,Under Votes,99,4,57,38
+Val Verde,Precinct 30,State Representative,74,REP,Robert Garza,655,28,500,127
+Val Verde,Precinct 30,State Representative,74,DEM,Eddie Morales Jr,574,32,423,119
+Val Verde,Precinct 30,State Representative,74,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,State Representative,74,,Under Votes,68,5,36,27
+Val Verde,Precinct 30,"Justice, 4th Ct of App Dist, Pl 2",2,DEM,Velia J. Meza,799,42,592,165
+Val Verde,Precinct 30,"Justice, 4th Ct of App Dist, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,"Justice, 4th Ct of App Dist, Pl 2",2,,Under Votes,498,23,367,108
+Val Verde,Precinct 30,"Justice, 4th Ct of App Dist, Pl 3",3,REP,Todd McCray,695,27,539,129
+Val Verde,Precinct 30,"Justice, 4th Ct of App Dist, Pl 3",3,DEM,Cynthia Marie Chapa,508,34,367,107
+Val Verde,Precinct 30,"Justice, 4th Ct of App Dist, Pl 3",3,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,"Justice, 4th Ct of App Dist, Pl 3",3,,Under Votes,94,4,53,37
+Val Verde,Precinct 30,"Justice, 4th Ct of App Dist, Pl 4",4,REP,Lori Massey Brissette,690,25,542,123
+Val Verde,Precinct 30,"Justice, 4th Ct of App Dist, Pl 4",4,DEM,Luz Elena Chapa,515,37,366,112
+Val Verde,Precinct 30,"Justice, 4th Ct of App Dist, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,"Justice, 4th Ct of App Dist, Pl 4",4,,Under Votes,92,3,51,38
+Val Verde,Precinct 30,"Justice, 4th Ct of App Dist, Pl 5",5,REP,Adrian Spears,694,28,541,125
+Val Verde,Precinct 30,"Justice, 4th Ct of App Dist, Pl 5",5,DEM,Liza A. Rodriguez,514,34,368,112
+Val Verde,Precinct 30,"Justice, 4th Ct of App Dist, Pl 5",5,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,"Justice, 4th Ct of App Dist, Pl 5",5,,Under Votes,89,3,50,36
+Val Verde,Precinct 30,"Justice, 4th Ct of App Dist, Pl 7",7,REP,Lori I. Valenzuela,911,30,692,189
+Val Verde,Precinct 30,"Justice, 4th Ct of App Dist, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,"Justice, 4th Ct of App Dist, Pl 7",7,,Under Votes,386,35,267,84
+Val Verde,Precinct 30,"Dist Judge, 63rd Judicial Dist",,REP,Roland Andrade,943,36,714,193
+Val Verde,Precinct 30,"Dist Judge, 63rd Judicial Dist",,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,"Dist Judge, 63rd Judicial Dist",,,Under Votes,354,29,245,80
+Val Verde,Precinct 30,District Attorney,,REP,Suzanne West,923,32,702,189
+Val Verde,Precinct 30,District Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,District Attorney,,,Under Votes,374,33,257,84
+Val Verde,Precinct 30,County Attorney,,DEM,David E. Martinez,857,46,636,175
+Val Verde,Precinct 30,County Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,County Attorney,,,Under Votes,440,19,323,98
+Val Verde,Precinct 30,Sheriff,,REP,"Rogelio ""Roger"" Hernandez",551,24,411,116
+Val Verde,Precinct 30,Sheriff,,DEM,"Jose Francisco ""JoeFrank""",706,35,529,142
+Val Verde,Precinct 30,Sheriff,,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,Sheriff,,,Under Votes,40,6,19,15
+Val Verde,Precinct 30,County Tax Assessor-Collector,,REP,Maricar Ortega Chattler,599,23,458,118
+Val Verde,Precinct 30,County Tax Assessor-Collector,,DEM,"Elodia ""Loly"" Garcia",630,36,462,132
+Val Verde,Precinct 30,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,County Tax Assessor-Collector,,,Under Votes,68,6,39,23
+Val Verde,Precinct 30,County Commissioner Pct 3,3,REP,Fernando Garcia,924,36,699,189
+Val Verde,Precinct 30,County Commissioner Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,County Commissioner Pct 3,3,,Under Votes,373,29,260,84
+Val Verde,Precinct 30,Constable Pct 3,3,REP,Michael Wancho,916,35,691,190
+Val Verde,Precinct 30,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,Constable Pct 3,3,,Under Votes,381,30,268,83
+Val Verde,Precinct 30,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,Constable Pct 3,3,,Under Votes,165,13,99,53
+Val Verde,Precinct 30,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,Constable Pct 3,3,,Under Votes,142,10,85,47
+Val Verde,Precinct 30,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,Constable Pct 3,3,,Under Votes,128,9,75,44
+Val Verde,Precinct 30,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,Constable Pct 3,3,,Under Votes,135,10,77,48
+Val Verde,Precinct 30,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,Constable Pct 3,3,,Under Votes,147,12,92,43
+Val Verde,Precinct 30,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,Constable Pct 3,3,,Under Votes,132,8,81,43
+Val Verde,Precinct 30,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,Constable Pct 3,3,,Under Votes,151,14,90,47
+Val Verde,Precinct 30,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 30,Constable Pct 3,3,,Under Votes,150,13,90,47
+Val Verde,Precinct 31,Registered Voters,,,,3859,,,
+Val Verde,Precinct 31,Ballots Cast,,,,2410,157,1822,431
+Val Verde,Precinct 31,Ballots Cast - Blank,,,,0,0,0,0
+Val Verde,Precinct 31,President,,DEM,Kamala D. Harris/Tim Walz,749,72,531,146
+Val Verde,Precinct 31,President,,LIB,Chase Oliver/Mike ter Maat,18,1,9,8
+Val Verde,Precinct 31,President,,GRN,Jill Stein/Rudolph Ware,6,0,5,1
+Val Verde,Precinct 31,President,,,Over Votes,1,0,1,0
+Val Verde,Precinct 31,President,,,Under Votes,9,0,7,2
+Val Verde,Precinct 31,U.S. Senate,,DEM,Colin Allred,838,69,589,180
+Val Verde,Precinct 31,U.S. Senate,,LIB,Ted Brown,47,3,35,9
+Val Verde,Precinct 31,U.S. Senate,,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,U.S. Senate,,,Under Votes,42,1,24,17
+Val Verde,Precinct 31,U.S. House,23,DEM,S. Limon,688,59,487,142
+Val Verde,Precinct 31,U.S. House,23,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,U.S. House,23,,Under Votes,117,5,84,28
+Val Verde,Precinct 31,Railroad Commissioner,,DEM,Katherine Culbert,660,56,476,128
+Val Verde,Precinct 31,Railroad Commissioner,,LIB,Hawk Dunlap,51,6,38,7
+Val Verde,Precinct 31,Railroad Commissioner,,GRN,Eddie Espinoza,110,5,75,30
+Val Verde,Precinct 31,Railroad Commissioner,,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,Railroad Commissioner,,,Under Votes,134,16,80,38
+Val Verde,Precinct 31,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,715,65,509,141
+Val Verde,Precinct 31,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,"Justice, Supreme Court, Pl 2",2,,Under Votes,155,15,106,34
+Val Verde,Precinct 31,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,752,64,539,149
+Val Verde,Precinct 31,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,"Justice, Supreme Court, Pl 4",4,,Under Votes,157,15,104,38
+Val Verde,Precinct 31,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,716,60,508,148
+Val Verde,Precinct 31,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,65,7,41,17
+Val Verde,Precinct 31,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,"Justice, Supreme Court, Pl 6",6,,Under Votes,162,15,109,38
+Val Verde,Precinct 31,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,744,61,533,150
+Val Verde,Precinct 31,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,"Presiding Judge, Ct of Crim App",,,Under Votes,162,15,107,40
+Val Verde,Precinct 31,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,715,60,508,147
+Val Verde,Precinct 31,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,168,17,109,42
+Val Verde,Precinct 31,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,697,60,495,142
+Val Verde,Precinct 31,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,174,16,116,42
+Val Verde,Precinct 31,State Board of Education,1,DEM,Gustavo Reveles,756,63,521,172
+Val Verde,Precinct 31,State Board of Education,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,State Board of Education,1,,Under Votes,173,17,115,41
+Val Verde,Precinct 31,State Representative,74,DEM,Eddie Morales Jr,907,66,661,180
+Val Verde,Precinct 31,State Representative,74,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,State Representative,74,,Under Votes,130,11,87,32
+Val Verde,Precinct 31,"Justice, 4th Ct of App Dist, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,"Justice, 4th Ct of App Dist, Pl 2",2,,Under Votes,1018,79,781,158
+Val Verde,Precinct 31,"Justice, 4th Ct of App Dist, Pl 3",3,DEM,Cynthia Marie Chapa,807,63,578,166
+Val Verde,Precinct 31,"Justice, 4th Ct of App Dist, Pl 3",3,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,"Justice, 4th Ct of App Dist, Pl 3",3,,Under Votes,171,17,109,45
+Val Verde,Precinct 31,"Justice, 4th Ct of App Dist, Pl 4",4,DEM,Luz Elena Chapa,826,64,589,173
+Val Verde,Precinct 31,"Justice, 4th Ct of App Dist, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,"Justice, 4th Ct of App Dist, Pl 4",4,,Under Votes,167,17,107,43
+Val Verde,Precinct 31,"Justice, 4th Ct of App Dist, Pl 5",5,DEM,Liza A. Rodriguez,803,67,577,159
+Val Verde,Precinct 31,"Justice, 4th Ct of App Dist, Pl 5",5,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,"Justice, 4th Ct of App Dist, Pl 5",5,,Under Votes,175,17,109,49
+Val Verde,Precinct 31,"Justice, 4th Ct of App Dist, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,"Justice, 4th Ct of App Dist, Pl 7",7,,Under Votes,614,70,424,120
+Val Verde,Precinct 31,"Dist Judge, 63rd Judicial Dist",,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,"Dist Judge, 63rd Judicial Dist",,,Under Votes,575,68,394,113
+Val Verde,Precinct 31,District Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,District Attorney,,,Under Votes,589,69,406,114
+Val Verde,Precinct 31,County Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,County Attorney,,,Under Votes,944,78,717,149
+Val Verde,Precinct 31,Sheriff,,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,Sheriff,,,Under Votes,95,16,56,23
+Val Verde,Precinct 31,County Tax Assessor-Collector,,DEM,"Elodia ""Loly"" Garcia",982,65,720,197
+Val Verde,Precinct 31,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,County Tax Assessor-Collector,,,Under Votes,141,18,88,35
+Val Verde,Precinct 31,County Commissioner Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,County Commissioner Pct 3,3,,Under Votes,602,71,414,117
+Val Verde,Precinct 31,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,Constable Pct 3,3,,Under Votes,615,73,428,114
+Val Verde,Precinct 31,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,Constable Pct 3,3,,Under Votes,269,32,193,44
+Val Verde,Precinct 31,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,Constable Pct 3,3,,Under Votes,250,32,166,52
+Val Verde,Precinct 31,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,Constable Pct 3,3,,Under Votes,216,30,146,40
+Val Verde,Precinct 31,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,Constable Pct 3,3,,Under Votes,218,31,145,42
+Val Verde,Precinct 31,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,Constable Pct 3,3,,Under Votes,255,35,172,48
+Val Verde,Precinct 31,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,Constable Pct 3,3,,Under Votes,235,32,157,46
+Val Verde,Precinct 31,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,Constable Pct 3,3,,Under Votes,248,35,165,48
+Val Verde,Precinct 31,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 31,Constable Pct 3,3,,Under Votes,257,34,176,47
+Val Verde,Precinct 32,Registered Voters,,,,279,,,
+Val Verde,Precinct 32,Ballots Cast,,,,207,3,135,69
+Val Verde,Precinct 32,Ballots Cast - Blank,,,,0,0,0,0
+Val Verde,Precinct 32,President,,REP,Donald J. Trump/JD Vance,173,3,112,58
+Val Verde,Precinct 32,President,,DEM,Kamala D. Harris/Tim Walz,31,0,22,9
+Val Verde,Precinct 32,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Val Verde,Precinct 32,President,,GRN,Jill Stein/Rudolph Ware,1,0,0,1
+Val Verde,Precinct 32,President,,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,President,,,Under Votes,2,0,1,1
+Val Verde,Precinct 32,U.S. Senate,,REP,Ted Cruz,167,3,107,57
+Val Verde,Precinct 32,U.S. Senate,,DEM,Colin Allred,36,0,25,11
+Val Verde,Precinct 32,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+Val Verde,Precinct 32,U.S. Senate,,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,U.S. Senate,,,Under Votes,3,0,3,0
+Val Verde,Precinct 32,U.S. House,23,REP,Tony Gonzales,160,2,103,55
+Val Verde,Precinct 32,U.S. House,23,DEM,S. Limon,32,0,23,9
+Val Verde,Precinct 32,U.S. House,23,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,U.S. House,23,,Under Votes,15,1,9,5
+Val Verde,Precinct 32,Railroad Commissioner,,REP,Christi Craddick,159,3,104,52
+Val Verde,Precinct 32,Railroad Commissioner,,DEM,Katherine Culbert,29,0,20,9
+Val Verde,Precinct 32,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,2,3
+Val Verde,Precinct 32,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,2,2
+Val Verde,Precinct 32,Railroad Commissioner,,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,Railroad Commissioner,,,Under Votes,10,0,7,3
+Val Verde,Precinct 32,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,167,3,108,56
+Val Verde,Precinct 32,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,28,0,18,10
+Val Verde,Precinct 32,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,"Justice, Supreme Court, Pl 2",2,,Under Votes,12,0,9,3
+Val Verde,Precinct 32,"Justice, Supreme Court, Pl 4",4,REP,John Devine,162,3,106,53
+Val Verde,Precinct 32,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,31,0,19,12
+Val Verde,Precinct 32,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,"Justice, Supreme Court, Pl 4",4,,Under Votes,14,0,10,4
+Val Verde,Precinct 32,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,154,3,103,48
+Val Verde,Precinct 32,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,31,0,19,12
+Val Verde,Precinct 32,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,5,0,2,3
+Val Verde,Precinct 32,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,"Justice, Supreme Court, Pl 6",6,,Under Votes,17,0,11,6
+Val Verde,Precinct 32,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,163,3,108,52
+Val Verde,Precinct 32,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,30,0,19,11
+Val Verde,Precinct 32,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,"Presiding Judge, Ct of Crim App",,,Under Votes,14,0,8,6
+Val Verde,Precinct 32,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,163,3,109,51
+Val Verde,Precinct 32,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,29,0,17,12
+Val Verde,Precinct 32,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,15,0,9,6
+Val Verde,Precinct 32,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,163,3,107,53
+Val Verde,Precinct 32,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,29,0,19,10
+Val Verde,Precinct 32,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,15,0,9,6
+Val Verde,Precinct 32,State Board of Education,1,REP,Michael (Travis) Stevens,161,3,106,52
+Val Verde,Precinct 32,State Board of Education,1,DEM,Gustavo Reveles,34,0,22,12
+Val Verde,Precinct 32,State Board of Education,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,State Board of Education,1,,Under Votes,12,0,7,5
+Val Verde,Precinct 32,State Representative,74,REP,Robert Garza,158,3,99,56
+Val Verde,Precinct 32,State Representative,74,DEM,Eddie Morales Jr,38,0,28,10
+Val Verde,Precinct 32,State Representative,74,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,State Representative,74,,Under Votes,11,0,8,3
+Val Verde,Precinct 32,"Justice, 4th Ct of App Dist, Pl 2",2,DEM,Velia J. Meza,77,0,49,28
+Val Verde,Precinct 32,"Justice, 4th Ct of App Dist, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,"Justice, 4th Ct of App Dist, Pl 2",2,,Under Votes,130,3,86,41
+Val Verde,Precinct 32,"Justice, 4th Ct of App Dist, Pl 3",3,REP,Todd McCray,161,3,106,52
+Val Verde,Precinct 32,"Justice, 4th Ct of App Dist, Pl 3",3,DEM,Cynthia Marie Chapa,33,0,22,11
+Val Verde,Precinct 32,"Justice, 4th Ct of App Dist, Pl 3",3,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,"Justice, 4th Ct of App Dist, Pl 3",3,,Under Votes,13,0,7,6
+Val Verde,Precinct 32,"Justice, 4th Ct of App Dist, Pl 4",4,REP,Lori Massey Brissette,165,3,109,53
+Val Verde,Precinct 32,"Justice, 4th Ct of App Dist, Pl 4",4,DEM,Luz Elena Chapa,28,0,19,9
+Val Verde,Precinct 32,"Justice, 4th Ct of App Dist, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,"Justice, 4th Ct of App Dist, Pl 4",4,,Under Votes,14,0,7,7
+Val Verde,Precinct 32,"Justice, 4th Ct of App Dist, Pl 5",5,REP,Adrian Spears,158,3,107,48
+Val Verde,Precinct 32,"Justice, 4th Ct of App Dist, Pl 5",5,DEM,Liza A. Rodriguez,30,0,19,11
+Val Verde,Precinct 32,"Justice, 4th Ct of App Dist, Pl 5",5,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,"Justice, 4th Ct of App Dist, Pl 5",5,,Under Votes,19,0,9,10
+Val Verde,Precinct 32,"Justice, 4th Ct of App Dist, Pl 7",7,REP,Lori I. Valenzuela,166,3,108,55
+Val Verde,Precinct 32,"Justice, 4th Ct of App Dist, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,"Justice, 4th Ct of App Dist, Pl 7",7,,Under Votes,41,0,27,14
+Val Verde,Precinct 32,"Dist Judge, 63rd Judicial Dist",,REP,Roland Andrade,165,3,108,54
+Val Verde,Precinct 32,"Dist Judge, 63rd Judicial Dist",,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,"Dist Judge, 63rd Judicial Dist",,,Under Votes,42,0,27,15
+Val Verde,Precinct 32,District Attorney,,REP,Suzanne West,166,3,108,55
+Val Verde,Precinct 32,District Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,District Attorney,,,Under Votes,41,0,27,14
+Val Verde,Precinct 32,County Attorney,,DEM,David E. Martinez,94,1,57,36
+Val Verde,Precinct 32,County Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,County Attorney,,,Under Votes,113,2,78,33
+Val Verde,Precinct 32,Sheriff,,REP,"Rogelio ""Roger"" Hernandez",86,2,53,31
+Val Verde,Precinct 32,Sheriff,,DEM,"Jose Francisco ""JoeFrank""",115,1,77,37
+Val Verde,Precinct 32,Sheriff,,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,Sheriff,,,Under Votes,6,0,5,1
+Val Verde,Precinct 32,County Tax Assessor-Collector,,REP,Maricar Ortega Chattler,144,2,96,46
+Val Verde,Precinct 32,County Tax Assessor-Collector,,DEM,"Elodia ""Loly"" Garcia",52,1,34,17
+Val Verde,Precinct 32,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,County Tax Assessor-Collector,,,Under Votes,11,0,5,6
+Val Verde,Precinct 32,County Commissioner Pct 3,3,REP,Fernando Garcia,167,3,107,57
+Val Verde,Precinct 32,County Commissioner Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,County Commissioner Pct 3,3,,Under Votes,40,0,28,12
+Val Verde,Precinct 32,Constable Pct 3,3,REP,Michael Wancho,175,3,113,59
+Val Verde,Precinct 32,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,Constable Pct 3,3,,Under Votes,32,0,22,10
+Val Verde,Precinct 32,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 32,Constable Pct 3,3,,Under Votes,134,0,117,17
+Val Verde,Precinct 33,Registered Voters,,,,2189,,,
+Val Verde,Precinct 33,Ballots Cast,,,,1489,65,1208,216
+Val Verde,Precinct 33,Ballots Cast - Blank,,,,1,0,1,0
+Val Verde,Precinct 33,President,,DEM,Kamala D. Harris/Tim Walz,305,28,239,38
+Val Verde,Precinct 33,President,,LIB,Chase Oliver/Mike ter Maat,4,1,3,0
+Val Verde,Precinct 33,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Val Verde,Precinct 33,President,,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,President,,,Under Votes,5,0,4,1
+Val Verde,Precinct 33,U.S. Senate,,DEM,Colin Allred,355,28,275,52
+Val Verde,Precinct 33,U.S. Senate,,LIB,Ted Brown,38,2,29,7
+Val Verde,Precinct 33,U.S. Senate,,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,U.S. Senate,,,Under Votes,32,0,26,6
+Val Verde,Precinct 33,U.S. House,23,DEM,S. Limon,293,30,222,41
+Val Verde,Precinct 33,U.S. House,23,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,U.S. House,23,,Under Votes,104,3,91,10
+Val Verde,Precinct 33,Railroad Commissioner,,DEM,Katherine Culbert,252,21,195,36
+Val Verde,Precinct 33,Railroad Commissioner,,LIB,Hawk Dunlap,30,1,22,7
+Val Verde,Precinct 33,Railroad Commissioner,,GRN,Eddie Espinoza,61,6,39,16
+Val Verde,Precinct 33,Railroad Commissioner,,,Over Votes,1,0,1,0
+Val Verde,Precinct 33,Railroad Commissioner,,,Under Votes,84,1,72,11
+Val Verde,Precinct 33,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,282,27,216,39
+Val Verde,Precinct 33,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,"Justice, Supreme Court, Pl 2",2,,Under Votes,97,2,84,11
+Val Verde,Precinct 33,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,297,26,230,41
+Val Verde,Precinct 33,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,"Justice, Supreme Court, Pl 4",4,,Under Votes,107,2,92,13
+Val Verde,Precinct 33,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,299,24,233,42
+Val Verde,Precinct 33,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,39,1,28,10
+Val Verde,Precinct 33,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,"Justice, Supreme Court, Pl 6",6,,Under Votes,105,3,84,18
+Val Verde,Precinct 33,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,315,26,240,49
+Val Verde,Precinct 33,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,"Presiding Judge, Ct of Crim App",,,Under Votes,110,3,89,18
+Val Verde,Precinct 33,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,294,26,226,42
+Val Verde,Precinct 33,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,116,4,94,18
+Val Verde,Precinct 33,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,281,26,215,40
+Val Verde,Precinct 33,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,119,3,95,21
+Val Verde,Precinct 33,State Board of Education,1,DEM,Gustavo Reveles,300,25,230,45
+Val Verde,Precinct 33,State Board of Education,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,State Board of Education,1,,Under Votes,112,4,90,18
+Val Verde,Precinct 33,State Representative,74,REP,Robert Garza,988,36,809,143
+Val Verde,Precinct 33,State Representative,74,DEM,Eddie Morales Jr,406,27,319,60
+Val Verde,Precinct 33,State Representative,74,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,State Representative,74,,Under Votes,95,2,80,13
+Val Verde,Precinct 33,"Justice, 4th Ct of App Dist, Pl 2",2,DEM,Velia J. Meza,696,34,556,106
+Val Verde,Precinct 33,"Justice, 4th Ct of App Dist, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,"Justice, 4th Ct of App Dist, Pl 2",2,,Under Votes,793,31,652,110
+Val Verde,Precinct 33,"Justice, 4th Ct of App Dist, Pl 3",3,DEM,Cynthia Marie Chapa,346,26,270,50
+Val Verde,Precinct 33,"Justice, 4th Ct of App Dist, Pl 3",3,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,"Justice, 4th Ct of App Dist, Pl 3",3,,Under Votes,105,4,84,17
+Val Verde,Precinct 33,"Justice, 4th Ct of App Dist, Pl 4",4,DEM,Luz Elena Chapa,347,24,268,55
+Val Verde,Precinct 33,"Justice, 4th Ct of App Dist, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,"Justice, 4th Ct of App Dist, Pl 4",4,,Under Votes,108,4,87,17
+Val Verde,Precinct 33,"Justice, 4th Ct of App Dist, Pl 5",5,DEM,Liza A. Rodriguez,324,26,245,53
+Val Verde,Precinct 33,"Justice, 4th Ct of App Dist, Pl 5",5,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,"Justice, 4th Ct of App Dist, Pl 5",5,,Under Votes,117,4,92,21
+Val Verde,Precinct 33,"Justice, 4th Ct of App Dist, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,"Justice, 4th Ct of App Dist, Pl 7",7,,Under Votes,294,29,222,43
+Val Verde,Precinct 33,"Dist Judge, 63rd Judicial Dist",,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,"Dist Judge, 63rd Judicial Dist",,,Under Votes,280,29,208,43
+Val Verde,Precinct 33,District Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,District Attorney,,,Under Votes,275,29,205,41
+Val Verde,Precinct 33,County Attorney,,DEM,David E. Martinez,788,37,633,118
+Val Verde,Precinct 33,County Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,County Attorney,,,Under Votes,701,28,575,98
+Val Verde,Precinct 33,Sheriff,,REP,"Rogelio ""Roger"" Hernandez",767,29,621,117
+Val Verde,Precinct 33,Sheriff,,DEM,"Jose Francisco ""JoeFrank""",658,32,535,91
+Val Verde,Precinct 33,Sheriff,,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,Sheriff,,,Under Votes,64,4,52,8
+Val Verde,Precinct 33,County Tax Assessor-Collector,,REP,Maricar Ortega Chattler,929,34,762,133
+Val Verde,Precinct 33,County Tax Assessor-Collector,,DEM,"Elodia ""Loly"" Garcia",465,27,371,67
+Val Verde,Precinct 33,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,County Tax Assessor-Collector,,,Under Votes,95,4,75,16
+Val Verde,Precinct 33,County Commissioner Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,County Commissioner Pct 3,3,,Under Votes,276,28,206,42
+Val Verde,Precinct 33,Constable Pct 3,3,,Over Votes,0,0,0,0
+Val Verde,Precinct 33,Constable Pct 3,3,,Under Votes,286,26,217,43
+Val Verde,Precinct 40,Registered Voters,,,,5092,,,
+Val Verde,Precinct 40,Ballots Cast,,,,2330,80,1671,579
+Val Verde,Precinct 40,Ballots Cast - Blank,,,,1,0,0,1
+Val Verde,Precinct 40,President,,DEM,Kamala D. Harris/Tim Walz,995,54,719,222
+Val Verde,Precinct 40,President,,LIB,Chase Oliver/Mike ter Maat,10,0,5,5
+Val Verde,Precinct 40,President,,GRN,Jill Stein/Rudolph Ware,12,0,10,2
+Val Verde,Precinct 40,President,,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,President,,,Under Votes,18,2,8,8
+Val Verde,Precinct 40,U.S. Senate,,LIB,Ted Brown,81,4,41,36
+Val Verde,Precinct 40,U.S. Senate,,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,U.S. Senate,,,Under Votes,70,4,34,32
+Val Verde,Precinct 40,U.S. House,23,DEM,S. Limon,945,52,682,211
+Val Verde,Precinct 40,U.S. House,23,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,U.S. House,23,,Under Votes,146,4,84,58
+Val Verde,Precinct 40,Railroad Commissioner,,DEM,Katherine Culbert,919,55,671,193
+Val Verde,Precinct 40,Railroad Commissioner,,LIB,Hawk Dunlap,50,2,28,20
+Val Verde,Precinct 40,Railroad Commissioner,,GRN,Eddie Espinoza,197,1,118,78
+Val Verde,Precinct 40,Railroad Commissioner,,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,Railroad Commissioner,,,Under Votes,149,5,78,66
+Val Verde,Precinct 40,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,988,56,719,213
+Val Verde,Precinct 40,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,"Justice, Supreme Court, Pl 2",2,,Under Votes,169,5,98,66
+Val Verde,Precinct 40,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,"Justice, Supreme Court, Pl 4",4,,Under Votes,190,5,113,72
+Val Verde,Precinct 40,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,82,0,54,28
+Val Verde,Precinct 40,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,"Justice, Supreme Court, Pl 6",6,,Under Votes,179,4,103,72
+Val Verde,Precinct 40,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,"Presiding Judge, Ct of Crim App",,,Under Votes,190,4,108,78
+Val Verde,Precinct 40,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,196,5,117,74
+Val Verde,Precinct 40,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,993,57,712,224
+Val Verde,Precinct 40,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,212,5,121,86
+Val Verde,Precinct 40,State Board of Education,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,State Board of Education,1,,Under Votes,200,6,113,81
+Val Verde,Precinct 40,State Representative,74,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,State Representative,74,,Under Votes,144,4,90,50
+Val Verde,Precinct 40,"Justice, 4th Ct of App Dist, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,"Justice, 4th Ct of App Dist, Pl 2",2,,Under Votes,746,15,530,201
+Val Verde,Precinct 40,"Justice, 4th Ct of App Dist, Pl 3",3,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,"Justice, 4th Ct of App Dist, Pl 3",3,,Under Votes,192,3,113,76
+Val Verde,Precinct 40,"Justice, 4th Ct of App Dist, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,"Justice, 4th Ct of App Dist, Pl 4",4,,Under Votes,178,3,101,74
+Val Verde,Precinct 40,"Justice, 4th Ct of App Dist, Pl 5",5,REP,Adrian Spears,997,15,754,228
+Val Verde,Precinct 40,"Justice, 4th Ct of App Dist, Pl 5",5,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,"Justice, 4th Ct of App Dist, Pl 5",5,,Under Votes,198,4,113,81
+Val Verde,Precinct 40,"Justice, 4th Ct of App Dist, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,"Justice, 4th Ct of App Dist, Pl 7",7,,Under Votes,798,46,544,208
+Val Verde,Precinct 40,"Dist Judge, 63rd Judicial Dist",,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,"Dist Judge, 63rd Judicial Dist",,,Under Votes,754,46,509,199
+Val Verde,Precinct 40,District Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,District Attorney,,,Under Votes,770,44,528,198
+Val Verde,Precinct 40,County Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,County Attorney,,,Under Votes,662,16,475,171
+Val Verde,Precinct 40,Sheriff,,REP,"Rogelio ""Roger"" Hernandez",825,20,614,191
+Val Verde,Precinct 40,Sheriff,,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,Sheriff,,,Under Votes,97,2,53,42
+Val Verde,Precinct 40,County Tax Assessor-Collector,,REP,Maricar Ortega Chattler,897,18,663,216
+Val Verde,Precinct 40,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,County Tax Assessor-Collector,,,Under Votes,149,3,86,60
+Val Verde,Precinct 40,Constable Pct 4,4,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,Constable Pct 4,4,,Under Votes,664,19,477,168
+Val Verde,Precinct 40,Constable Pct 4,4,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,Constable Pct 4,4,,Under Votes,495,12,308,175
+Val Verde,Precinct 40,Constable Pct 4,4,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,Constable Pct 4,4,,Under Votes,330,10,201,119
+Val Verde,Precinct 40,Constable Pct 4,4,,Over Votes,1,0,0,1
+Val Verde,Precinct 40,Constable Pct 4,4,,Under Votes,283,7,176,100
+Val Verde,Precinct 40,Constable Pct 4,4,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,Constable Pct 4,4,,Under Votes,302,11,186,105
+Val Verde,Precinct 40,Constable Pct 4,4,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,Constable Pct 4,4,,Under Votes,333,11,204,118
+Val Verde,Precinct 40,Constable Pct 4,4,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,Constable Pct 4,4,,Under Votes,317,11,194,112
+Val Verde,Precinct 40,Constable Pct 4,4,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,Constable Pct 4,4,,Under Votes,320,13,195,112
+Val Verde,Precinct 40,Constable Pct 4,4,,Over Votes,0,0,0,0
+Val Verde,Precinct 40,Constable Pct 4,4,,Under Votes,338,12,204,122
+Val Verde,Precinct 41,Registered Voters,,,,2101,,,
+Val Verde,Precinct 41,Ballots Cast,,,,767,20,486,261
+Val Verde,Precinct 41,Ballots Cast - Blank,,,,0,0,0,0
+Val Verde,Precinct 41,President,,REP,Donald J. Trump/JD Vance,494,10,310,174
+Val Verde,Precinct 41,President,,DEM,Kamala D. Harris/Tim Walz,260,10,168,82
+Val Verde,Precinct 41,President,,LIB,Chase Oliver/Mike ter Maat,4,0,2,2
+Val Verde,Precinct 41,President,,GRN,Jill Stein/Rudolph Ware,4,0,3,1
+Val Verde,Precinct 41,President,,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,President,,,Under Votes,5,0,3,2
+Val Verde,Precinct 41,U.S. Senate,,REP,Ted Cruz,399,9,259,131
+Val Verde,Precinct 41,U.S. Senate,,DEM,Colin Allred,302,11,193,98
+Val Verde,Precinct 41,U.S. Senate,,LIB,Ted Brown,27,0,18,9
+Val Verde,Precinct 41,U.S. Senate,,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,U.S. Senate,,,Under Votes,37,0,15,22
+Val Verde,Precinct 41,U.S. House,23,REP,Tony Gonzales,458,11,289,158
+Val Verde,Precinct 41,U.S. House,23,DEM,S. Limon,255,9,167,79
+Val Verde,Precinct 41,U.S. House,23,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,U.S. House,23,,Under Votes,54,0,30,24
+Val Verde,Precinct 41,Railroad Commissioner,,REP,Christi Craddick,381,9,250,122
+Val Verde,Precinct 41,Railroad Commissioner,,DEM,Katherine Culbert,233,7,147,79
+Val Verde,Precinct 41,Railroad Commissioner,,LIB,Hawk Dunlap,14,1,10,3
+Val Verde,Precinct 41,Railroad Commissioner,,GRN,Eddie Espinoza,70,1,43,26
+Val Verde,Precinct 41,Railroad Commissioner,,,Over Votes,2,0,2,0
+Val Verde,Precinct 41,Railroad Commissioner,,,Under Votes,67,2,34,31
+Val Verde,Precinct 41,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,431,11,274,146
+Val Verde,Precinct 41,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,262,9,171,82
+Val Verde,Precinct 41,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,"Justice, Supreme Court, Pl 2",2,,Under Votes,74,0,41,33
+Val Verde,Precinct 41,"Justice, Supreme Court, Pl 4",4,REP,John Devine,415,11,265,139
+Val Verde,Precinct 41,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,276,9,176,91
+Val Verde,Precinct 41,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,"Justice, Supreme Court, Pl 4",4,,Under Votes,76,0,45,31
+Val Verde,Precinct 41,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,410,11,260,139
+Val Verde,Precinct 41,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,262,8,176,78
+Val Verde,Precinct 41,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,25,1,10,14
+Val Verde,Precinct 41,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,"Justice, Supreme Court, Pl 6",6,,Under Votes,70,0,40,30
+Val Verde,Precinct 41,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,414,10,264,140
+Val Verde,Precinct 41,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,278,9,182,87
+Val Verde,Precinct 41,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,"Presiding Judge, Ct of Crim App",,,Under Votes,75,1,40,34
+Val Verde,Precinct 41,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,429,10,266,153
+Val Verde,Precinct 41,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,260,7,176,77
+Val Verde,Precinct 41,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,78,3,44,31
+Val Verde,Precinct 41,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,436,12,273,151
+Val Verde,Precinct 41,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,250,6,167,77
+Val Verde,Precinct 41,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,81,2,46,33
+Val Verde,Precinct 41,State Board of Education,1,REP,Michael (Travis) Stevens,405,11,262,132
+Val Verde,Precinct 41,State Board of Education,1,DEM,Gustavo Reveles,288,9,185,94
+Val Verde,Precinct 41,State Board of Education,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,State Board of Education,1,,Under Votes,74,0,39,35
+Val Verde,Precinct 41,State Representative,74,REP,Robert Garza,408,12,260,136
+Val Verde,Precinct 41,State Representative,74,DEM,Eddie Morales Jr,311,8,199,104
+Val Verde,Precinct 41,State Representative,74,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,State Representative,74,,Under Votes,48,0,27,21
+Val Verde,Precinct 41,"Justice, 4th Ct of App Dist, Pl 2",2,DEM,Velia J. Meza,487,12,304,171
+Val Verde,Precinct 41,"Justice, 4th Ct of App Dist, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,"Justice, 4th Ct of App Dist, Pl 2",2,,Under Votes,280,8,182,90
+Val Verde,Precinct 41,"Justice, 4th Ct of App Dist, Pl 3",3,REP,Todd McCray,396,11,246,139
+Val Verde,Precinct 41,"Justice, 4th Ct of App Dist, Pl 3",3,DEM,Cynthia Marie Chapa,294,9,196,89
+Val Verde,Precinct 41,"Justice, 4th Ct of App Dist, Pl 3",3,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,"Justice, 4th Ct of App Dist, Pl 3",3,,Under Votes,77,0,44,33
+Val Verde,Precinct 41,"Justice, 4th Ct of App Dist, Pl 4",4,REP,Lori Massey Brissette,385,11,242,132
+Val Verde,Precinct 41,"Justice, 4th Ct of App Dist, Pl 4",4,DEM,Luz Elena Chapa,311,9,204,98
+Val Verde,Precinct 41,"Justice, 4th Ct of App Dist, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,"Justice, 4th Ct of App Dist, Pl 4",4,,Under Votes,71,0,40,31
+Val Verde,Precinct 41,"Justice, 4th Ct of App Dist, Pl 5",5,REP,Adrian Spears,389,11,243,135
+Val Verde,Precinct 41,"Justice, 4th Ct of App Dist, Pl 5",5,DEM,Liza A. Rodriguez,308,9,201,98
+Val Verde,Precinct 41,"Justice, 4th Ct of App Dist, Pl 5",5,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,"Justice, 4th Ct of App Dist, Pl 5",5,,Under Votes,70,0,42,28
+Val Verde,Precinct 41,"Justice, 4th Ct of App Dist, Pl 7",7,REP,Lori I. Valenzuela,543,12,343,188
+Val Verde,Precinct 41,"Justice, 4th Ct of App Dist, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,"Justice, 4th Ct of App Dist, Pl 7",7,,Under Votes,224,8,143,73
+Val Verde,Precinct 41,"Dist Judge, 63rd Judicial Dist",,REP,Roland Andrade,549,14,347,188
+Val Verde,Precinct 41,"Dist Judge, 63rd Judicial Dist",,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,"Dist Judge, 63rd Judicial Dist",,,Under Votes,218,6,139,73
+Val Verde,Precinct 41,District Attorney,,REP,Suzanne West,541,12,346,183
+Val Verde,Precinct 41,District Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,District Attorney,,,Under Votes,226,8,140,78
+Val Verde,Precinct 41,County Attorney,,DEM,David E. Martinez,515,13,323,179
+Val Verde,Precinct 41,County Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,County Attorney,,,Under Votes,252,7,163,82
+Val Verde,Precinct 41,Sheriff,,REP,"Rogelio ""Roger"" Hernandez",324,9,195,120
+Val Verde,Precinct 41,Sheriff,,DEM,"Jose Francisco ""JoeFrank""",415,11,276,128
+Val Verde,Precinct 41,Sheriff,,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,Sheriff,,,Under Votes,28,0,15,13
+Val Verde,Precinct 41,County Tax Assessor-Collector,,REP,Maricar Ortega Chattler,355,12,224,119
+Val Verde,Precinct 41,County Tax Assessor-Collector,,DEM,"Elodia ""Loly"" Garcia",353,8,230,115
+Val Verde,Precinct 41,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,County Tax Assessor-Collector,,,Under Votes,59,0,32,27
+Val Verde,Precinct 41,Constable Pct 4,4,DEM,"Gerardo ""Jerry"" Hernandez",528,13,333,182
+Val Verde,Precinct 41,Constable Pct 4,4,,Over Votes,0,0,0,0
+Val Verde,Precinct 41,Constable Pct 4,4,,Under Votes,239,7,153,79
+Val Verde,Precinct 42,Registered Voters,,,,41,,,
+Val Verde,Precinct 42,Ballots Cast,,,,32,2,17,13
+Val Verde,Precinct 42,Ballots Cast - Blank,,,,0,0,0,0
+Val Verde,Precinct 42,President,,REP,Donald J. Trump/JD Vance,28,1,15,12
+Val Verde,Precinct 42,President,,DEM,Kamala D. Harris/Tim Walz,2,0,2,0
+Val Verde,Precinct 42,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Val Verde,Precinct 42,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Val Verde,Precinct 42,President,,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,President,,,Under Votes,1,1,0,0
+Val Verde,Precinct 42,U.S. Senate,,REP,Ted Cruz,27,1,14,12
+Val Verde,Precinct 42,U.S. Senate,,DEM,Colin Allred,2,0,2,0
+Val Verde,Precinct 42,U.S. Senate,,LIB,Ted Brown,2,0,1,1
+Val Verde,Precinct 42,U.S. Senate,,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,U.S. Senate,,,Under Votes,1,1,0,0
+Val Verde,Precinct 42,U.S. House,23,REP,Tony Gonzales,26,1,12,13
+Val Verde,Precinct 42,U.S. House,23,DEM,S. Limon,2,0,2,0
+Val Verde,Precinct 42,U.S. House,23,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,U.S. House,23,,Under Votes,4,1,3,0
+Val Verde,Precinct 42,Railroad Commissioner,,REP,Christi Craddick,26,1,14,11
+Val Verde,Precinct 42,Railroad Commissioner,,DEM,Katherine Culbert,3,0,2,1
+Val Verde,Precinct 42,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,0,1
+Val Verde,Precinct 42,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Val Verde,Precinct 42,Railroad Commissioner,,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,Railroad Commissioner,,,Under Votes,2,1,1,0
+Val Verde,Precinct 42,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,28,1,14,13
+Val Verde,Precinct 42,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,2,0,2,0
+Val Verde,Precinct 42,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,"Justice, Supreme Court, Pl 2",2,,Under Votes,2,1,1,0
+Val Verde,Precinct 42,"Justice, Supreme Court, Pl 4",4,REP,John Devine,28,1,14,13
+Val Verde,Precinct 42,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,2,0,2,0
+Val Verde,Precinct 42,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,"Justice, Supreme Court, Pl 4",4,,Under Votes,2,1,1,0
+Val Verde,Precinct 42,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,28,1,15,12
+Val Verde,Precinct 42,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,2,0,2,0
+Val Verde,Precinct 42,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,1,0,0,1
+Val Verde,Precinct 42,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,"Justice, Supreme Court, Pl 6",6,,Under Votes,1,1,0,0
+Val Verde,Precinct 42,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,29,1,15,13
+Val Verde,Precinct 42,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,2,0,2,0
+Val Verde,Precinct 42,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,"Presiding Judge, Ct of Crim App",,,Under Votes,1,1,0,0
+Val Verde,Precinct 42,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,29,1,15,13
+Val Verde,Precinct 42,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,2,0,2,0
+Val Verde,Precinct 42,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,1,1,0,0
+Val Verde,Precinct 42,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,28,1,15,12
+Val Verde,Precinct 42,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,2,0,2,0
+Val Verde,Precinct 42,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,2,1,0,1
+Val Verde,Precinct 42,State Board of Education,1,REP,Michael (Travis) Stevens,28,1,15,12
+Val Verde,Precinct 42,State Board of Education,1,DEM,Gustavo Reveles,3,0,2,1
+Val Verde,Precinct 42,State Board of Education,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,State Board of Education,1,,Under Votes,1,1,0,0
+Val Verde,Precinct 42,State Representative,74,REP,Robert Garza,27,1,13,13
+Val Verde,Precinct 42,State Representative,74,DEM,Eddie Morales Jr,3,0,3,0
+Val Verde,Precinct 42,State Representative,74,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,State Representative,74,,Under Votes,2,1,1,0
+Val Verde,Precinct 42,"Justice, 4th Ct of App Dist, Pl 2",2,DEM,Velia J. Meza,11,0,6,5
+Val Verde,Precinct 42,"Justice, 4th Ct of App Dist, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,"Justice, 4th Ct of App Dist, Pl 2",2,,Under Votes,21,2,11,8
+Val Verde,Precinct 42,"Justice, 4th Ct of App Dist, Pl 3",3,REP,Todd McCray,28,1,14,13
+Val Verde,Precinct 42,"Justice, 4th Ct of App Dist, Pl 3",3,DEM,Cynthia Marie Chapa,3,0,3,0
+Val Verde,Precinct 42,"Justice, 4th Ct of App Dist, Pl 3",3,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,"Justice, 4th Ct of App Dist, Pl 3",3,,Under Votes,1,1,0,0
+Val Verde,Precinct 42,"Justice, 4th Ct of App Dist, Pl 4",4,REP,Lori Massey Brissette,29,1,15,13
+Val Verde,Precinct 42,"Justice, 4th Ct of App Dist, Pl 4",4,DEM,Luz Elena Chapa,2,0,2,0
+Val Verde,Precinct 42,"Justice, 4th Ct of App Dist, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,"Justice, 4th Ct of App Dist, Pl 4",4,,Under Votes,1,1,0,0
+Val Verde,Precinct 42,"Justice, 4th Ct of App Dist, Pl 5",5,REP,Adrian Spears,29,1,15,13
+Val Verde,Precinct 42,"Justice, 4th Ct of App Dist, Pl 5",5,DEM,Liza A. Rodriguez,2,0,2,0
+Val Verde,Precinct 42,"Justice, 4th Ct of App Dist, Pl 5",5,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,"Justice, 4th Ct of App Dist, Pl 5",5,,Under Votes,1,1,0,0
+Val Verde,Precinct 42,"Justice, 4th Ct of App Dist, Pl 7",7,REP,Lori I. Valenzuela,29,1,15,13
+Val Verde,Precinct 42,"Justice, 4th Ct of App Dist, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,"Justice, 4th Ct of App Dist, Pl 7",7,,Under Votes,3,1,2,0
+Val Verde,Precinct 42,"Dist Judge, 63rd Judicial Dist",,REP,Roland Andrade,29,1,15,13
+Val Verde,Precinct 42,"Dist Judge, 63rd Judicial Dist",,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,"Dist Judge, 63rd Judicial Dist",,,Under Votes,3,1,2,0
+Val Verde,Precinct 42,District Attorney,,REP,Suzanne West,29,1,15,13
+Val Verde,Precinct 42,District Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,District Attorney,,,Under Votes,3,1,2,0
+Val Verde,Precinct 42,County Attorney,,DEM,David E. Martinez,13,0,7,6
+Val Verde,Precinct 42,County Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,County Attorney,,,Under Votes,19,2,10,7
+Val Verde,Precinct 42,Sheriff,,REP,"Rogelio ""Roger"" Hernandez",22,0,11,11
+Val Verde,Precinct 42,Sheriff,,DEM,"Jose Francisco ""JoeFrank""",8,1,5,2
+Val Verde,Precinct 42,Sheriff,,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,Sheriff,,,Under Votes,2,1,1,0
+Val Verde,Precinct 42,County Tax Assessor-Collector,,REP,Maricar Ortega Chattler,26,1,14,11
+Val Verde,Precinct 42,County Tax Assessor-Collector,,DEM,"Elodia ""Loly"" Garcia",4,0,3,1
+Val Verde,Precinct 42,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,County Tax Assessor-Collector,,,Under Votes,2,1,0,1
+Val Verde,Precinct 42,Constable Pct 4,4,DEM,"Gerardo ""Jerry"" Hernandez",14,0,7,7
+Val Verde,Precinct 42,Constable Pct 4,4,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,Constable Pct 4,4,,Under Votes,18,2,10,6
+Val Verde,Precinct 42,Constable Pct 4,4,,Over Votes,0,0,0,0
+Val Verde,Precinct 42,Constable Pct 4,4,,Under Votes,13,0,12,1
+Val Verde,Precinct 43,Registered Voters,,,,71,,,
+Val Verde,Precinct 43,Ballots Cast,,,,53,0,48,5
+Val Verde,Precinct 43,Ballots Cast - Blank,,,,0,0,0,0
+Val Verde,Precinct 43,President,,REP,Donald J. Trump/JD Vance,47,0,42,5
+Val Verde,Precinct 43,President,,DEM,Kamala D. Harris/Tim Walz,6,0,6,0
+Val Verde,Precinct 43,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Val Verde,Precinct 43,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Val Verde,Precinct 43,President,,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,President,,,Under Votes,0,0,0,0
+Val Verde,Precinct 43,U.S. Senate,,REP,Ted Cruz,47,0,42,5
+Val Verde,Precinct 43,U.S. Senate,,DEM,Colin Allred,6,0,6,0
+Val Verde,Precinct 43,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Val Verde,Precinct 43,U.S. Senate,,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,U.S. Senate,,,Under Votes,0,0,0,0
+Val Verde,Precinct 43,U.S. House,23,REP,Tony Gonzales,41,0,36,5
+Val Verde,Precinct 43,U.S. House,23,DEM,S. Limon,8,0,8,0
+Val Verde,Precinct 43,U.S. House,23,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,U.S. House,23,,Under Votes,4,0,4,0
+Val Verde,Precinct 43,Railroad Commissioner,,REP,Christi Craddick,41,0,36,5
+Val Verde,Precinct 43,Railroad Commissioner,,DEM,Katherine Culbert,6,0,6,0
+Val Verde,Precinct 43,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,2,0
+Val Verde,Precinct 43,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Val Verde,Precinct 43,Railroad Commissioner,,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,Railroad Commissioner,,,Under Votes,4,0,4,0
+Val Verde,Precinct 43,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,43,0,38,5
+Val Verde,Precinct 43,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,6,0,6,0
+Val Verde,Precinct 43,"Justice, Supreme Court, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,"Justice, Supreme Court, Pl 2",2,,Under Votes,4,0,4,0
+Val Verde,Precinct 43,"Justice, Supreme Court, Pl 4",4,REP,John Devine,42,0,38,4
+Val Verde,Precinct 43,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,6,0,6,0
+Val Verde,Precinct 43,"Justice, Supreme Court, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,"Justice, Supreme Court, Pl 4",4,,Under Votes,5,0,4,1
+Val Verde,Precinct 43,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,43,0,38,5
+Val Verde,Precinct 43,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,5,0,5,0
+Val Verde,Precinct 43,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,1,0,1,0
+Val Verde,Precinct 43,"Justice, Supreme Court, Pl 6",6,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,"Justice, Supreme Court, Pl 6",6,,Under Votes,4,0,4,0
+Val Verde,Precinct 43,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,42,0,38,4
+Val Verde,Precinct 43,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,7,0,6,1
+Val Verde,Precinct 43,"Presiding Judge, Ct of Crim App",,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,"Presiding Judge, Ct of Crim App",,,Under Votes,4,0,4,0
+Val Verde,Precinct 43,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,42,0,38,4
+Val Verde,Precinct 43,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,7,0,6,1
+Val Verde,Precinct 43,"Judge, Ct of Crim App, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,"Judge, Ct of Crim App, Pl 7",7,,Under Votes,4,0,4,0
+Val Verde,Precinct 43,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,44,0,39,5
+Val Verde,Precinct 43,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,5,0,5,0
+Val Verde,Precinct 43,"Judge, Ct of Crim App, Pl 8",8,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,"Judge, Ct of Crim App, Pl 8",8,,Under Votes,4,0,4,0
+Val Verde,Precinct 43,State Board of Education,1,REP,Michael (Travis) Stevens,44,0,39,5
+Val Verde,Precinct 43,State Board of Education,1,DEM,Gustavo Reveles,5,0,5,0
+Val Verde,Precinct 43,State Board of Education,1,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,State Board of Education,1,,Under Votes,4,0,4,0
+Val Verde,Precinct 43,State Representative,74,REP,Robert Garza,45,0,40,5
+Val Verde,Precinct 43,State Representative,74,DEM,Eddie Morales Jr,7,0,7,0
+Val Verde,Precinct 43,State Representative,74,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,State Representative,74,,Under Votes,1,0,1,0
+Val Verde,Precinct 43,"Justice, 4th Ct of App Dist, Pl 2",2,DEM,Velia J. Meza,15,0,14,1
+Val Verde,Precinct 43,"Justice, 4th Ct of App Dist, Pl 2",2,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,"Justice, 4th Ct of App Dist, Pl 2",2,,Under Votes,38,0,34,4
+Val Verde,Precinct 43,"Justice, 4th Ct of App Dist, Pl 3",3,REP,Todd McCray,44,0,39,5
+Val Verde,Precinct 43,"Justice, 4th Ct of App Dist, Pl 3",3,DEM,Cynthia Marie Chapa,5,0,5,0
+Val Verde,Precinct 43,"Justice, 4th Ct of App Dist, Pl 3",3,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,"Justice, 4th Ct of App Dist, Pl 3",3,,Under Votes,4,0,4,0
+Val Verde,Precinct 43,"Justice, 4th Ct of App Dist, Pl 4",4,REP,Lori Massey Brissette,44,0,39,5
+Val Verde,Precinct 43,"Justice, 4th Ct of App Dist, Pl 4",4,DEM,Luz Elena Chapa,6,0,6,0
+Val Verde,Precinct 43,"Justice, 4th Ct of App Dist, Pl 4",4,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,"Justice, 4th Ct of App Dist, Pl 4",4,,Under Votes,3,0,3,0
+Val Verde,Precinct 43,"Justice, 4th Ct of App Dist, Pl 5",5,REP,Adrian Spears,42,0,38,4
+Val Verde,Precinct 43,"Justice, 4th Ct of App Dist, Pl 5",5,DEM,Liza A. Rodriguez,5,0,5,0
+Val Verde,Precinct 43,"Justice, 4th Ct of App Dist, Pl 5",5,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,"Justice, 4th Ct of App Dist, Pl 5",5,,Under Votes,6,0,5,1
+Val Verde,Precinct 43,"Justice, 4th Ct of App Dist, Pl 7",7,REP,Lori I. Valenzuela,42,0,38,4
+Val Verde,Precinct 43,"Justice, 4th Ct of App Dist, Pl 7",7,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,"Justice, 4th Ct of App Dist, Pl 7",7,,Under Votes,11,0,10,1
+Val Verde,Precinct 43,"Dist Judge, 63rd Judicial Dist",,REP,Roland Andrade,41,0,37,4
+Val Verde,Precinct 43,"Dist Judge, 63rd Judicial Dist",,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,"Dist Judge, 63rd Judicial Dist",,,Under Votes,12,0,11,1
+Val Verde,Precinct 43,District Attorney,,REP,Suzanne West,42,0,38,4
+Val Verde,Precinct 43,District Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,District Attorney,,,Under Votes,11,0,10,1
+Val Verde,Precinct 43,County Attorney,,DEM,David E. Martinez,21,0,20,1
+Val Verde,Precinct 43,County Attorney,,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,County Attorney,,,Under Votes,32,0,28,4
+Val Verde,Precinct 43,Sheriff,,REP,"Rogelio ""Roger"" Hernandez",26,0,22,4
+Val Verde,Precinct 43,Sheriff,,DEM,"Jose Francisco ""JoeFrank""",25,0,25,0
+Val Verde,Precinct 43,Sheriff,,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,Sheriff,,,Under Votes,2,0,1,1
+Val Verde,Precinct 43,County Tax Assessor-Collector,,REP,Maricar Ortega Chattler,36,0,32,4
+Val Verde,Precinct 43,County Tax Assessor-Collector,,DEM,"Elodia ""Loly"" Garcia",13,0,13,0
+Val Verde,Precinct 43,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,County Tax Assessor-Collector,,,Under Votes,4,0,3,1
+Val Verde,Precinct 43,Constable Pct 4,4,DEM,"Gerardo ""Jerry"" Hernandez",19,0,18,1
+Val Verde,Precinct 43,Constable Pct 4,4,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,Constable Pct 4,4,,Under Votes,34,0,30,4
+Val Verde,Precinct 43,Constable Pct 4,4,,Over Votes,0,0,0,0
+Val Verde,Precinct 43,Constable Pct 4,4,,Under Votes,56,0,53,3
