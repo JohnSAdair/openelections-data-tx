@@ -1,0 +1,2001 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Cherokee,12,Registered Voters,,,,1385,,,
+Cherokee,12,Ballots Cast,,,,952,,,
+Cherokee,12,President,,REP,Donald J. Trump JD Vance,798,6,629,163
+Cherokee,12,President,,DEM,Kamala D. Harris Tim Walz,145,6,115,24
+Cherokee,12,President,,LIB,Chase Oliver Mike ter Maat,4,0,3,1
+Cherokee,12,President,,GRN,Jill Stein Rudolph Ware,4,1,3,0
+Cherokee,12,President,,,Over Votes,0,0,0,0
+Cherokee,12,President,,,Under Votes,1,0,1,0
+Cherokee,12,U.S. Senate,,REP,Ted Cruz,786,7,623,156
+Cherokee,12,U.S. Senate,,DEM,Colin Allred,150,6,117,27
+Cherokee,12,U.S. Senate,,LIB,Ted Brown,12,0,10,2
+Cherokee,12,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,12,U.S. Senate,,,Under Votes,4,0,1,3
+Cherokee,12,U.S. House,6,REP,Jake Ellzey,796,7,629,160
+Cherokee,12,U.S. House,6,DEM,John Love III,134,6,106,22
+Cherokee,12,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,12,U.S. House,6,,Under Votes,22,0,16,6
+Cherokee,12,Railroad Commissioner,,REP,Christi Craddick,771,6,608,157
+Cherokee,12,Railroad Commissioner,,DEM,Katherine Culbert,126,6,100,20
+Cherokee,12,Railroad Commissioner,,LIB,Hawk Dunlap,23,1,20,2
+Cherokee,12,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,4,1
+Cherokee,12,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,12,Railroad Commissioner,,,Under Votes,27,0,19,8
+Cherokee,12,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,798,7,634,157
+Cherokee,12,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,134,6,105,23
+Cherokee,12,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,12,"Justice, Supreme Court",Place 2,,Under Votes,20,0,12,8
+Cherokee,12,"Justice, Supreme Court",Place 4,REP,John Devine,793,7,626,160
+Cherokee,12,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,138,6,109,23
+Cherokee,12,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,12,"Justice, Supreme Court",Place 4,,Under Votes,21,0,16,5
+Cherokee,12,"Justice, Supreme Court",Place 6,REP,Jane Bland,778,7,616,155
+Cherokee,12,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,131,6,105,20
+Cherokee,12,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,20,0,13,7
+Cherokee,12,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,12,"Justice, Supreme Court",Place 6,,Under Votes,23,0,17,6
+Cherokee,12,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,789,7,625,157
+Cherokee,12,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,136,6,106,24
+Cherokee,12,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,12,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,27,0,20,7
+Cherokee,12,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,787,7,623,157
+Cherokee,12,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,136,6,107,23
+Cherokee,12,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,12,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,29,0,21,8
+Cherokee,12,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,788,7,623,158
+Cherokee,12,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,133,6,106,21
+Cherokee,12,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,12,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,31,0,22,9
+Cherokee,12,State Representative,8,REP,Cody Harris,792,7,626,159
+Cherokee,12,State Representative,8,DEM,Carolyn F. Salter,139,6,110,23
+Cherokee,12,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,12,State Representative,8,,Under Votes,21,0,15,6
+Cherokee,12,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,814,8,645,161
+Cherokee,12,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,12,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,138,5,106,27
+Cherokee,12,"District Judge, 2nd Judicial District",,REP,Chris Day,818,8,647,163
+Cherokee,12,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,12,"District Judge, 2nd Judicial District",,,Under Votes,134,5,104,25
+Cherokee,12,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,815,8,647,160
+Cherokee,12,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,12,"District Attorney, 2nd Judicial District",,,Under Votes,137,5,104,28
+Cherokee,12,County Attorney,,REP,Dana Young,818,8,651,159
+Cherokee,12,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,12,County Attorney,,,Under Votes,134,5,100,29
+Cherokee,12,Sheriff,,REP,Brent Dickson,803,8,637,158
+Cherokee,12,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,12,Sheriff,,,Under Votes,149,5,114,30
+Cherokee,12,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,818,8,650,160
+Cherokee,12,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,12,County Tax Assessor-Collector,,,Under Votes,134,5,101,28
+Cherokee,12,County Commissioner,1,REP,Kelly Traylor,779,8,617,154
+Cherokee,12,County Commissioner,1,,Over Votes,0,0,0,0
+Cherokee,12,County Commissioner,1,,Under Votes,173,5,134,34
+Cherokee,12,Constable,1,REP,Lynn Kelley,802,8,634,160
+Cherokee,12,Constable,1,,Over Votes,0,0,0,0
+Cherokee,12,Constable,1,,Under Votes,150,5,117,28
+Cherokee,13,Registered Voters,,,,1268,,,
+Cherokee,13,Ballots Cast,,,,838,,,
+Cherokee,13,President,,REP,Donald J. Trump JD Vance,754,14,600,140
+Cherokee,13,President,,DEM,Kamala D. Harris Tim Walz,79,4,57,18
+Cherokee,13,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+Cherokee,13,President,,,Over Votes,0,0,0,0
+Cherokee,13,President,,,Under Votes,4,0,3,1
+Cherokee,13,U.S. Senate,,REP,Ted Cruz,732,13,585,134
+Cherokee,13,U.S. Senate,,DEM,Colin Allred,86,4,63,19
+Cherokee,13,U.S. Senate,,LIB,Ted Brown,14,1,9,4
+Cherokee,13,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,13,U.S. Senate,,,Under Votes,6,0,3,3
+Cherokee,13,U.S. House,6,REP,Jake Ellzey,742,14,592,136
+Cherokee,13,U.S. House,6,DEM,John Love III,78,4,55,19
+Cherokee,13,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,13,U.S. House,6,,Under Votes,18,0,13,5
+Cherokee,13,Railroad Commissioner,,REP,Christi Craddick,719,14,577,128
+Cherokee,13,Railroad Commissioner,,DEM,Katherine Culbert,74,4,53,17
+Cherokee,13,Railroad Commissioner,,LIB,Hawk Dunlap,19,0,15,4
+Cherokee,13,Railroad Commissioner,,GRN,Eddie Espinoza,9,0,5,4
+Cherokee,13,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,13,Railroad Commissioner,,,Under Votes,17,0,10,7
+Cherokee,13,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,736,14,589,133
+Cherokee,13,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,83,4,60,19
+Cherokee,13,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,13,"Justice, Supreme Court",Place 2,,Under Votes,19,0,11,8
+Cherokee,13,"Justice, Supreme Court",Place 4,REP,John Devine,734,14,587,133
+Cherokee,13,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,80,4,59,17
+Cherokee,13,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,13,"Justice, Supreme Court",Place 4,,Under Votes,24,0,14,10
+Cherokee,13,"Justice, Supreme Court",Place 6,REP,Jane Bland,721,14,579,128
+Cherokee,13,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,75,4,55,16
+Cherokee,13,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,21,0,14,7
+Cherokee,13,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,13,"Justice, Supreme Court",Place 6,,Under Votes,21,0,12,9
+Cherokee,13,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,729,14,584,131
+Cherokee,13,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,86,4,62,20
+Cherokee,13,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,13,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,23,0,14,9
+Cherokee,13,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,738,14,590,134
+Cherokee,13,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,78,4,57,17
+Cherokee,13,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,13,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,22,0,13,9
+Cherokee,13,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,742,14,593,135
+Cherokee,13,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,75,4,53,18
+Cherokee,13,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,13,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,21,0,14,7
+Cherokee,13,State Representative,8,REP,Cody Harris,742,14,593,135
+Cherokee,13,State Representative,8,DEM,Carolyn F. Salter,75,4,53,18
+Cherokee,13,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,13,State Representative,8,,Under Votes,21,0,14,7
+Cherokee,13,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,751,14,599,138
+Cherokee,13,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,13,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,87,4,61,22
+Cherokee,13,"District Judge, 2nd Judicial District",,REP,Chris Day,751,15,598,138
+Cherokee,13,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,13,"District Judge, 2nd Judicial District",,,Under Votes,87,3,62,22
+Cherokee,13,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,751,15,599,137
+Cherokee,13,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,13,"District Attorney, 2nd Judicial District",,,Under Votes,87,3,61,23
+Cherokee,13,County Attorney,,REP,Dana Young,755,15,599,141
+Cherokee,13,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,13,County Attorney,,,Under Votes,83,3,61,19
+Cherokee,13,Sheriff,,REP,Brent Dickson,734,15,585,134
+Cherokee,13,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,13,Sheriff,,,Under Votes,104,3,75,26
+Cherokee,13,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,756,15,599,142
+Cherokee,13,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,13,County Tax Assessor-Collector,,,Under Votes,82,3,61,18
+Cherokee,13,County Commissioner,1,REP,Kelly Traylor,718,16,570,132
+Cherokee,13,County Commissioner,1,,Over Votes,0,0,0,0
+Cherokee,13,County Commissioner,1,,Under Votes,120,2,90,28
+Cherokee,13,Constable,1,REP,Lynn Kelley,734,14,582,138
+Cherokee,13,Constable,1,,Over Votes,0,0,0,0
+Cherokee,13,Constable,1,,Under Votes,104,4,78,22
+Cherokee,14,Registered Voters,,,,1604,,,
+Cherokee,14,Ballots Cast,,,,1107,,,
+Cherokee,14,President,,REP,Donald J. Trump JD Vance,988,15,835,138
+Cherokee,14,President,,DEM,Kamala D. Harris Tim Walz,111,9,81,21
+Cherokee,14,President,,LIB,Chase Oliver Mike ter Maat,3,0,3,0
+Cherokee,14,President,,GRN,Jill Stein Rudolph Ware,2,0,2,0
+Cherokee,14,President,,,Over Votes,0,0,0,0
+Cherokee,14,President,,,Under Votes,1,0,1,0
+Cherokee,14,U.S. Senate,,REP,Ted Cruz,972,16,823,133
+Cherokee,14,U.S. Senate,,DEM,Colin Allred,113,6,86,21
+Cherokee,14,U.S. Senate,,LIB,Ted Brown,17,1,11,5
+Cherokee,14,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,14,U.S. Senate,,,Under Votes,5,1,3,1
+Cherokee,14,U.S. House,6,REP,Jake Ellzey,985,20,832,133
+Cherokee,14,U.S. House,6,DEM,John Love III,97,4,72,21
+Cherokee,14,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,14,U.S. House,6,,Under Votes,25,0,19,6
+Cherokee,14,Railroad Commissioner,,REP,Christi Craddick,953,18,809,126
+Cherokee,14,Railroad Commissioner,,DEM,Katherine Culbert,94,5,70,19
+Cherokee,14,Railroad Commissioner,,LIB,Hawk Dunlap,27,0,23,4
+Cherokee,14,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,5,3
+Cherokee,14,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,14,Railroad Commissioner,,,Under Votes,25,1,16,8
+Cherokee,14,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,978,18,827,133
+Cherokee,14,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,100,5,75,20
+Cherokee,14,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,14,"Justice, Supreme Court",Place 2,,Under Votes,29,1,21,7
+Cherokee,14,"Justice, Supreme Court",Place 4,REP,John Devine,970,18,820,132
+Cherokee,14,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,107,5,81,21
+Cherokee,14,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,14,"Justice, Supreme Court",Place 4,,Under Votes,30,1,22,7
+Cherokee,14,"Justice, Supreme Court",Place 6,REP,Jane Bland,958,19,811,128
+Cherokee,14,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,97,4,72,21
+Cherokee,14,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,18,0,14,4
+Cherokee,14,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,14,"Justice, Supreme Court",Place 6,,Under Votes,34,1,26,7
+Cherokee,14,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,972,19,822,131
+Cherokee,14,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,107,4,81,22
+Cherokee,14,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,14,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,28,1,20,7
+Cherokee,14,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,970,18,821,131
+Cherokee,14,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,104,5,77,22
+Cherokee,14,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,14,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,33,1,25,7
+Cherokee,14,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,968,19,819,130
+Cherokee,14,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,96,4,70,22
+Cherokee,14,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,14,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,43,1,34,8
+Cherokee,14,State Representative,8,REP,Cody Harris,978,19,829,130
+Cherokee,14,State Representative,8,DEM,Carolyn F. Salter,103,5,74,24
+Cherokee,14,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,14,State Representative,8,,Under Votes,26,0,20,6
+Cherokee,14,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,1006,18,845,143
+Cherokee,14,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,14,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,101,6,78,17
+Cherokee,14,"District Judge, 2nd Judicial District",,REP,Chris Day,1008,18,847,143
+Cherokee,14,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,14,"District Judge, 2nd Judicial District",,,Under Votes,99,6,76,17
+Cherokee,14,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,1002,18,841,143
+Cherokee,14,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,14,"District Attorney, 2nd Judicial District",,,Under Votes,105,6,82,17
+Cherokee,14,County Attorney,,REP,Dana Young,998,18,837,143
+Cherokee,14,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,14,County Attorney,,,Under Votes,109,6,86,17
+Cherokee,14,Sheriff,,REP,Brent Dickson,1009,18,848,143
+Cherokee,14,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,14,Sheriff,,,Under Votes,98,6,75,17
+Cherokee,14,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,1010,18,845,147
+Cherokee,14,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,14,County Tax Assessor-Collector,,,Under Votes,97,6,78,13
+Cherokee,14,County Commissioner,1,REP,Kelly Traylor,980,20,819,141
+Cherokee,14,County Commissioner,1,,Over Votes,0,0,0,0
+Cherokee,14,County Commissioner,1,,Under Votes,127,4,104,19
+Cherokee,14,Constable,1,REP,Lynn Kelley,988,18,825,145
+Cherokee,14,Constable,1,,Over Votes,0,0,0,0
+Cherokee,14,Constable,1,,Under Votes,119,6,98,15
+Cherokee,15,Registered Voters,,,,3646,,,
+Cherokee,15,Ballots Cast,,,,2066,,,
+Cherokee,15,President,,REP,Donald J. Trump JD Vance,1488,31,1257,200
+Cherokee,15,President,,DEM,Kamala D. Harris Tim Walz,547,39,390,118
+Cherokee,15,President,,LIB,Chase Oliver Mike ter Maat,13,0,8,5
+Cherokee,15,President,,GRN,Jill Stein Rudolph Ware,13,0,10,3
+Cherokee,15,President,,,Over Votes,0,0,0,0
+Cherokee,15,President,,,Under Votes,5,0,4,1
+Cherokee,15,U.S. Senate,,REP,Ted Cruz,1425,33,1208,184
+Cherokee,15,U.S. Senate,,DEM,Colin Allred,563,37,403,123
+Cherokee,15,U.S. Senate,,LIB,Ted Brown,56,0,39,17
+Cherokee,15,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,15,U.S. Senate,,,Under Votes,23,0,20,3
+Cherokee,15,U.S. House,6,REP,Jake Ellzey,1505,36,1264,205
+Cherokee,15,U.S. House,6,DEM,John Love III,509,31,364,114
+Cherokee,15,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,15,U.S. House,6,,Under Votes,52,3,41,8
+Cherokee,15,Railroad Commissioner,,REP,Christi Craddick,1453,33,1232,188
+Cherokee,15,Railroad Commissioner,,DEM,Katherine Culbert,475,33,340,102
+Cherokee,15,Railroad Commissioner,,LIB,Hawk Dunlap,50,0,41,9
+Cherokee,15,Railroad Commissioner,,GRN,Eddie Espinoza,40,0,21,19
+Cherokee,15,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,15,Railroad Commissioner,,,Under Votes,48,4,35,9
+Cherokee,15,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,1501,32,1267,202
+Cherokee,15,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,510,33,363,114
+Cherokee,15,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,15,"Justice, Supreme Court",Place 2,,Under Votes,55,5,39,11
+Cherokee,15,"Justice, Supreme Court",Place 4,REP,John Devine,1474,32,1249,193
+Cherokee,15,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,531,34,375,122
+Cherokee,15,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,15,"Justice, Supreme Court",Place 4,,Under Votes,61,4,45,12
+Cherokee,15,"Justice, Supreme Court",Place 6,REP,Jane Bland,1453,36,1228,189
+Cherokee,15,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,491,30,350,111
+Cherokee,15,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,63,0,46,17
+Cherokee,15,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,15,"Justice, Supreme Court",Place 6,,Under Votes,59,4,45,10
+Cherokee,15,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1485,30,1254,201
+Cherokee,15,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,519,35,369,115
+Cherokee,15,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,15,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,62,5,46,11
+Cherokee,15,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,1493,32,1262,199
+Cherokee,15,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,504,34,357,113
+Cherokee,15,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,15,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,69,4,50,15
+Cherokee,15,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,1500,34,1262,204
+Cherokee,15,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,492,32,351,109
+Cherokee,15,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,15,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,74,4,56,14
+Cherokee,15,State Representative,8,REP,Cody Harris,1479,33,1246,200
+Cherokee,15,State Representative,8,DEM,Carolyn F. Salter,522,33,375,114
+Cherokee,15,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,15,State Representative,8,,Under Votes,65,4,48,13
+Cherokee,15,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,1667,41,1378,248
+Cherokee,15,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,15,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,399,29,291,79
+Cherokee,15,"District Judge, 2nd Judicial District",,REP,Chris Day,1677,41,1386,250
+Cherokee,15,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,15,"District Judge, 2nd Judicial District",,,Under Votes,389,29,283,77
+Cherokee,15,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,1663,41,1379,243
+Cherokee,15,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,15,"District Attorney, 2nd Judicial District",,,Under Votes,403,29,290,84
+Cherokee,15,County Attorney,,REP,Dana Young,1674,41,1384,249
+Cherokee,15,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,15,County Attorney,,,Under Votes,392,29,285,78
+Cherokee,15,Sheriff,,REP,Brent Dickson,1673,42,1390,241
+Cherokee,15,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,15,Sheriff,,,Under Votes,393,28,279,86
+Cherokee,15,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,1678,42,1387,249
+Cherokee,15,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,15,County Tax Assessor-Collector,,,Under Votes,388,28,282,78
+Cherokee,15,County Commissioner,1,REP,Kelly Traylor,1664,39,1377,248
+Cherokee,15,County Commissioner,1,,Over Votes,0,0,0,0
+Cherokee,15,County Commissioner,1,,Under Votes,402,31,292,79
+Cherokee,15,Constable,1,REP,Lynn Kelley,1652,38,1371,243
+Cherokee,15,Constable,1,,Over Votes,0,0,0,0
+Cherokee,15,Constable,1,,Under Votes,414,32,298,84
+Cherokee,22,Registered Voters,,,,847,,,
+Cherokee,22,Ballots Cast,,,,549,,,
+Cherokee,22,President,,REP,Donald J. Trump JD Vance,431,2,343,86
+Cherokee,22,President,,DEM,Kamala D. Harris Tim Walz,113,4,76,33
+Cherokee,22,President,,LIB,Chase Oliver Mike ter Maat,5,0,4,1
+Cherokee,22,President,,,Over Votes,0,0,0,0
+Cherokee,22,President,,,Under Votes,0,0,0,0
+Cherokee,22,U.S. Senate,,REP,Ted Cruz,428,2,338,88
+Cherokee,22,U.S. Senate,,DEM,Colin Allred,110,4,76,30
+Cherokee,22,U.S. Senate,,LIB,Ted Brown,10,0,8,2
+Cherokee,22,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,22,U.S. Senate,,,Under Votes,1,0,1,0
+Cherokee,22,U.S. House,6,REP,Jake Ellzey,427,2,340,85
+Cherokee,22,U.S. House,6,DEM,John Love III,108,4,71,33
+Cherokee,22,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,22,U.S. House,6,,Under Votes,14,0,12,2
+Cherokee,22,Railroad Commissioner,,REP,Christi Craddick,406,0,325,81
+Cherokee,22,Railroad Commissioner,,DEM,Katherine Culbert,109,4,73,32
+Cherokee,22,Railroad Commissioner,,LIB,Hawk Dunlap,11,0,10,1
+Cherokee,22,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,2,2
+Cherokee,22,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,22,Railroad Commissioner,,,Under Votes,19,2,13,4
+Cherokee,22,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,422,0,338,84
+Cherokee,22,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,107,4,71,32
+Cherokee,22,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,22,"Justice, Supreme Court",Place 2,,Under Votes,20,2,14,4
+Cherokee,22,"Justice, Supreme Court",Place 4,REP,John Devine,419,0,335,84
+Cherokee,22,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,112,4,75,33
+Cherokee,22,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,22,"Justice, Supreme Court",Place 4,,Under Votes,18,2,13,3
+Cherokee,22,"Justice, Supreme Court",Place 6,REP,Jane Bland,404,0,322,82
+Cherokee,22,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,106,4,71,31
+Cherokee,22,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,20,0,16,4
+Cherokee,22,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,22,"Justice, Supreme Court",Place 6,,Under Votes,19,2,14,3
+Cherokee,22,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,414,0,329,85
+Cherokee,22,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,115,4,80,31
+Cherokee,22,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,22,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,20,2,14,4
+Cherokee,22,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,419,0,334,85
+Cherokee,22,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,110,4,75,31
+Cherokee,22,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,22,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,20,2,14,4
+Cherokee,22,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,422,0,339,83
+Cherokee,22,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,108,4,70,34
+Cherokee,22,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,22,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,19,2,14,3
+Cherokee,22,State Representative,8,REP,Cody Harris,419,0,334,85
+Cherokee,22,State Representative,8,DEM,Carolyn F. Salter,111,4,74,33
+Cherokee,22,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,22,State Representative,8,,Under Votes,19,2,15,2
+Cherokee,22,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,451,1,356,94
+Cherokee,22,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,22,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,98,5,67,26
+Cherokee,22,"District Judge, 2nd Judicial District",,REP,Chris Day,447,1,353,93
+Cherokee,22,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,22,"District Judge, 2nd Judicial District",,,Under Votes,102,5,70,27
+Cherokee,22,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,446,1,352,93
+Cherokee,22,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,22,"District Attorney, 2nd Judicial District",,,Under Votes,103,5,71,27
+Cherokee,22,County Attorney,,REP,Dana Young,458,1,359,98
+Cherokee,22,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,22,County Attorney,,,Under Votes,91,5,64,22
+Cherokee,22,Sheriff,,REP,Brent Dickson,449,1,351,97
+Cherokee,22,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,22,Sheriff,,,Under Votes,100,5,72,23
+Cherokee,22,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,451,1,352,98
+Cherokee,22,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,22,County Tax Assessor-Collector,,,Under Votes,98,5,71,22
+Cherokee,22,Constable,2,REP,Jack L. White,446,1,351,94
+Cherokee,22,Constable,2,,Over Votes,0,0,0,0
+Cherokee,22,Constable,2,,Under Votes,103,5,72,26
+Cherokee,23,Registered Voters,,,,1139,,,
+Cherokee,23,Ballots Cast,,,,819,,,
+Cherokee,23,President,,REP,Donald J. Trump JD Vance,727,11,625,91
+Cherokee,23,President,,DEM,Kamala D. Harris Tim Walz,83,5,67,11
+Cherokee,23,President,,LIB,Chase Oliver Mike ter Maat,2,0,2,0
+Cherokee,23,President,,GRN,Jill Stein Rudolph Ware,4,0,1,3
+Cherokee,23,President,,,Over Votes,0,0,0,0
+Cherokee,23,President,,,Under Votes,2,0,1,1
+Cherokee,23,U.S. Senate,,REP,Ted Cruz,706,11,609,86
+Cherokee,23,U.S. Senate,,DEM,Colin Allred,89,5,68,16
+Cherokee,23,U.S. Senate,,LIB,Ted Brown,19,0,12,7
+Cherokee,23,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,23,U.S. Senate,,,Under Votes,5,0,5,0
+Cherokee,23,U.S. House,6,REP,Jake Ellzey,727,12,622,93
+Cherokee,23,U.S. House,6,DEM,John Love III,76,4,61,11
+Cherokee,23,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,23,U.S. House,6,,Under Votes,16,0,14,2
+Cherokee,23,Railroad Commissioner,,REP,Christi Craddick,703,11,607,85
+Cherokee,23,Railroad Commissioner,,DEM,Katherine Culbert,66,4,54,8
+Cherokee,23,Railroad Commissioner,,LIB,Hawk Dunlap,26,0,19,7
+Cherokee,23,Railroad Commissioner,,GRN,Eddie Espinoza,7,1,3,3
+Cherokee,23,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,23,Railroad Commissioner,,,Under Votes,17,0,14,3
+Cherokee,23,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,720,12,620,88
+Cherokee,23,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,77,4,60,13
+Cherokee,23,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,23,"Justice, Supreme Court",Place 2,,Under Votes,22,0,17,5
+Cherokee,23,"Justice, Supreme Court",Place 4,REP,John Devine,715,12,612,91
+Cherokee,23,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,79,4,64,11
+Cherokee,23,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,23,"Justice, Supreme Court",Place 4,,Under Votes,25,0,21,4
+Cherokee,23,"Justice, Supreme Court",Place 6,REP,Jane Bland,695,11,601,83
+Cherokee,23,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,69,4,57,8
+Cherokee,23,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,29,1,20,8
+Cherokee,23,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,23,"Justice, Supreme Court",Place 6,,Under Votes,26,0,19,7
+Cherokee,23,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,713,12,613,88
+Cherokee,23,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,79,4,64,11
+Cherokee,23,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,23,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,27,0,20,7
+Cherokee,23,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,715,12,616,87
+Cherokee,23,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,76,4,60,12
+Cherokee,23,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,23,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,28,0,21,7
+Cherokee,23,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,721,12,621,88
+Cherokee,23,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,65,4,52,9
+Cherokee,23,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,23,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,33,0,24,9
+Cherokee,23,State Representative,8,REP,Cody Harris,711,10,613,88
+Cherokee,23,State Representative,8,DEM,Carolyn F. Salter,79,6,62,11
+Cherokee,23,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,23,State Representative,8,,Under Votes,29,0,22,7
+Cherokee,23,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,744,13,638,93
+Cherokee,23,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,23,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,75,3,59,13
+Cherokee,23,"District Judge, 2nd Judicial District",,REP,Chris Day,740,14,630,96
+Cherokee,23,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,23,"District Judge, 2nd Judicial District",,,Under Votes,79,2,67,10
+Cherokee,23,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,745,13,636,96
+Cherokee,23,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,23,"District Attorney, 2nd Judicial District",,,Under Votes,74,3,61,10
+Cherokee,23,County Attorney,,REP,Dana Young,739,12,633,94
+Cherokee,23,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,23,County Attorney,,,Under Votes,80,4,64,12
+Cherokee,23,Sheriff,,REP,Brent Dickson,732,12,626,94
+Cherokee,23,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,23,Sheriff,,,Under Votes,87,4,71,12
+Cherokee,23,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,747,12,638,97
+Cherokee,23,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,23,County Tax Assessor-Collector,,,Under Votes,72,4,59,9
+Cherokee,23,Constable,2,REP,Jack L. White,749,14,639,96
+Cherokee,23,Constable,2,,Over Votes,0,0,0,0
+Cherokee,23,Constable,2,,Under Votes,70,2,58,10
+Cherokee,24,Registered Voters,,,,1620,,,
+Cherokee,24,Ballots Cast,,,,917,,,
+Cherokee,24,President,,REP,Donald J. Trump JD Vance,684,17,577,90
+Cherokee,24,President,,DEM,Kamala D. Harris Tim Walz,220,9,164,47
+Cherokee,24,President,,LIB,Chase Oliver Mike ter Maat,4,0,4,0
+Cherokee,24,President,,GRN,Jill Stein Rudolph Ware,5,0,4,1
+Cherokee,24,President,,,Over Votes,0,0,0,0
+Cherokee,24,President,,,Under Votes,4,0,4,0
+Cherokee,24,U.S. Senate,,REP,Ted Cruz,648,15,556,77
+Cherokee,24,U.S. Senate,,DEM,Colin Allred,237,10,174,53
+Cherokee,24,U.S. Senate,,LIB,Ted Brown,25,1,18,6
+Cherokee,24,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,24,U.S. Senate,,,Under Votes,7,0,5,2
+Cherokee,24,U.S. House,6,REP,Jake Ellzey,690,16,587,87
+Cherokee,24,U.S. House,6,DEM,John Love III,194,8,140,46
+Cherokee,24,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,24,U.S. House,6,,Under Votes,33,2,26,5
+Cherokee,24,Railroad Commissioner,,REP,Christi Craddick,666,18,568,80
+Cherokee,24,Railroad Commissioner,,DEM,Katherine Culbert,187,5,138,44
+Cherokee,24,Railroad Commissioner,,LIB,Hawk Dunlap,18,2,11,5
+Cherokee,24,Railroad Commissioner,,GRN,Eddie Espinoza,15,0,13,2
+Cherokee,24,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,24,Railroad Commissioner,,,Under Votes,31,1,23,7
+Cherokee,24,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,686,16,584,86
+Cherokee,24,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,198,9,143,46
+Cherokee,24,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,24,"Justice, Supreme Court",Place 2,,Under Votes,33,1,26,6
+Cherokee,24,"Justice, Supreme Court",Place 4,REP,John Devine,672,16,573,83
+Cherokee,24,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,209,8,152,49
+Cherokee,24,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,24,"Justice, Supreme Court",Place 4,,Under Votes,36,2,28,6
+Cherokee,24,"Justice, Supreme Court",Place 6,REP,Jane Bland,659,16,559,84
+Cherokee,24,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,201,5,153,43
+Cherokee,24,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,23,3,16,4
+Cherokee,24,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,24,"Justice, Supreme Court",Place 6,,Under Votes,34,2,25,7
+Cherokee,24,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,673,15,572,86
+Cherokee,24,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,205,9,152,44
+Cherokee,24,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,24,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,39,2,29,8
+Cherokee,24,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,683,17,580,86
+Cherokee,24,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,191,7,140,44
+Cherokee,24,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,24,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,43,2,33,8
+Cherokee,24,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,687,19,580,88
+Cherokee,24,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,185,6,138,41
+Cherokee,24,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,24,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,45,1,35,9
+Cherokee,24,State Representative,8,REP,Cody Harris,675,15,577,83
+Cherokee,24,State Representative,8,DEM,Carolyn F. Salter,204,9,150,45
+Cherokee,24,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,24,State Representative,8,,Under Votes,38,2,26,10
+Cherokee,24,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,743,22,623,98
+Cherokee,24,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,24,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,174,4,130,40
+Cherokee,24,"District Judge, 2nd Judicial District",,REP,Chris Day,751,21,628,102
+Cherokee,24,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,24,"District Judge, 2nd Judicial District",,,Under Votes,166,5,125,36
+Cherokee,24,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,750,20,632,98
+Cherokee,24,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,24,"District Attorney, 2nd Judicial District",,,Under Votes,167,6,121,40
+Cherokee,24,County Attorney,,REP,Dana Young,745,21,624,100
+Cherokee,24,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,24,County Attorney,,,Under Votes,172,5,129,38
+Cherokee,24,Sheriff,,REP,Brent Dickson,739,20,620,99
+Cherokee,24,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,24,Sheriff,,,Under Votes,178,6,133,39
+Cherokee,24,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,751,21,632,98
+Cherokee,24,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,24,County Tax Assessor-Collector,,,Under Votes,166,5,121,40
+Cherokee,24,Constable,2,REP,Jack L. White,756,22,633,101
+Cherokee,24,Constable,2,,Over Votes,0,0,0,0
+Cherokee,24,Constable,2,,Under Votes,161,4,120,37
+Cherokee,24 - RUSK 1,Registered Voters,,,,516,,,
+Cherokee,24 - RUSK 1,Ballots Cast,,,,289,,,
+Cherokee,24 - RUSK 1,President,,REP,Donald J. Trump JD Vance,238,5,192,41
+Cherokee,24 - RUSK 1,President,,DEM,Kamala D. Harris Tim Walz,49,0,38,11
+Cherokee,24 - RUSK 1,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+Cherokee,24 - RUSK 1,President,,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,President,,,Under Votes,1,0,0,1
+Cherokee,24 - RUSK 1,U.S. Senate,,REP,Ted Cruz,231,5,184,42
+Cherokee,24 - RUSK 1,U.S. Senate,,DEM,Colin Allred,49,0,40,9
+Cherokee,24 - RUSK 1,U.S. Senate,,LIB,Ted Brown,4,0,4,0
+Cherokee,24 - RUSK 1,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,U.S. Senate,,,Under Votes,5,0,3,2
+Cherokee,24 - RUSK 1,U.S. House,6,REP,Jake Ellzey,235,5,192,38
+Cherokee,24 - RUSK 1,U.S. House,6,DEM,John Love III,48,0,38,10
+Cherokee,24 - RUSK 1,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,U.S. House,6,,Under Votes,6,0,1,5
+Cherokee,24 - RUSK 1,Railroad Commissioner,,REP,Christi Craddick,222,4,183,35
+Cherokee,24 - RUSK 1,Railroad Commissioner,,DEM,Katherine Culbert,41,0,33,8
+Cherokee,24 - RUSK 1,Railroad Commissioner,,LIB,Hawk Dunlap,10,0,8,2
+Cherokee,24 - RUSK 1,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1
+Cherokee,24 - RUSK 1,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,Railroad Commissioner,,,Under Votes,14,1,6,7
+Cherokee,24 - RUSK 1,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,231,4,190,37
+Cherokee,24 - RUSK 1,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,46,0,37,9
+Cherokee,24 - RUSK 1,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,"Justice, Supreme Court",Place 2,,Under Votes,12,1,4,7
+Cherokee,24 - RUSK 1,"Justice, Supreme Court",Place 4,REP,John Devine,231,4,189,38
+Cherokee,24 - RUSK 1,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,47,0,38,9
+Cherokee,24 - RUSK 1,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,"Justice, Supreme Court",Place 4,,Under Votes,11,1,4,6
+Cherokee,24 - RUSK 1,"Justice, Supreme Court",Place 6,REP,Jane Bland,222,4,182,36
+Cherokee,24 - RUSK 1,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,44,0,36,8
+Cherokee,24 - RUSK 1,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,10,0,8,2
+Cherokee,24 - RUSK 1,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,"Justice, Supreme Court",Place 6,,Under Votes,13,1,5,7
+Cherokee,24 - RUSK 1,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,228,4,187,37
+Cherokee,24 - RUSK 1,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,48,0,39,9
+Cherokee,24 - RUSK 1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,13,1,5,7
+Cherokee,24 - RUSK 1,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,232,4,191,37
+Cherokee,24 - RUSK 1,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,47,0,37,10
+Cherokee,24 - RUSK 1,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,10,1,3,6
+Cherokee,24 - RUSK 1,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,232,4,189,39
+Cherokee,24 - RUSK 1,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,45,0,36,9
+Cherokee,24 - RUSK 1,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,12,1,6,5
+Cherokee,24 - RUSK 1,State Representative,8,REP,Cody Harris,233,5,191,37
+Cherokee,24 - RUSK 1,State Representative,8,DEM,Carolyn F. Salter,46,0,37,9
+Cherokee,24 - RUSK 1,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,State Representative,8,,Under Votes,10,0,3,7
+Cherokee,24 - RUSK 1,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,245,4,200,41
+Cherokee,24 - RUSK 1,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,44,1,31,12
+Cherokee,24 - RUSK 1,"District Judge, 2nd Judicial District",,REP,Chris Day,246,4,199,43
+Cherokee,24 - RUSK 1,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,"District Judge, 2nd Judicial District",,,Under Votes,43,1,32,10
+Cherokee,24 - RUSK 1,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,248,4,201,43
+Cherokee,24 - RUSK 1,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,"District Attorney, 2nd Judicial District",,,Under Votes,41,1,30,10
+Cherokee,24 - RUSK 1,County Attorney,,REP,Dana Young,249,4,203,42
+Cherokee,24 - RUSK 1,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,County Attorney,,,Under Votes,40,1,28,11
+Cherokee,24 - RUSK 1,Sheriff,,REP,Brent Dickson,242,4,198,40
+Cherokee,24 - RUSK 1,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,Sheriff,,,Under Votes,47,1,33,13
+Cherokee,24 - RUSK 1,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,248,4,202,42
+Cherokee,24 - RUSK 1,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,County Tax Assessor-Collector,,,Under Votes,41,1,29,11
+Cherokee,24 - RUSK 1,Constable,2,REP,Jack L. White,251,4,205,42
+Cherokee,24 - RUSK 1,Constable,2,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,Constable,2,,Under Votes,38,1,26,11
+Cherokee,24 - RUSK 1,"City of Rusk Council, District 1 Unexpired Term - Vote for none or one",,,James Beindorf,133,0,109,24
+Cherokee,24 - RUSK 1,"City of Rusk Council, District 1 Unexpired Term - Vote for none or one",,,Ben Mims,112,1,89,22
+Cherokee,24 - RUSK 1,"City of Rusk Council, District 1 Unexpired Term - Vote for none or one",,,Over Votes,0,0,0,0
+Cherokee,24 - RUSK 1,"City of Rusk Council, District 1 Unexpired Term - Vote for none or one",,,Under Votes,44,4,33,7
+Cherokee,25,Registered Voters,,,,1105,,,
+Cherokee,25,Ballots Cast,,,,730,,,
+Cherokee,25,President,,REP,Donald J. Trump JD Vance,616,19,382,215
+Cherokee,25,President,,DEM,Kamala D. Harris Tim Walz,104,14,49,41
+Cherokee,25,President,,LIB,Chase Oliver Mike ter Maat,5,1,1,3
+Cherokee,25,President,,GRN,Jill Stein Rudolph Ware,1,1,0,0
+Cherokee,25,President,,,Over Votes,0,0,0,0
+Cherokee,25,President,,,Under Votes,4,0,0,4
+Cherokee,25,U.S. Senate,,REP,Ted Cruz,592,18,372,202
+Cherokee,25,U.S. Senate,,DEM,Colin Allred,115,14,55,46
+Cherokee,25,U.S. Senate,,LIB,Ted Brown,13,0,3,10
+Cherokee,25,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,25,U.S. Senate,,,Under Votes,9,3,6,0
+Cherokee,25,U.S. House,6,REP,Jake Ellzey,603,19,375,209
+Cherokee,25,U.S. House,6,DEM,John Love III,104,15,49,40
+Cherokee,25,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,25,U.S. House,6,,Under Votes,23,1,12,10
+Cherokee,25,Railroad Commissioner,,REP,Christi Craddick,587,19,368,200
+Cherokee,25,Railroad Commissioner,,DEM,Katherine Culbert,92,15,44,33
+Cherokee,25,Railroad Commissioner,,LIB,Hawk Dunlap,26,1,13,12
+Cherokee,25,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,3,0
+Cherokee,25,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,25,Railroad Commissioner,,,Under Votes,22,0,8,14
+Cherokee,25,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,605,19,376,210
+Cherokee,25,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,102,15,50,37
+Cherokee,25,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,25,"Justice, Supreme Court",Place 2,,Under Votes,23,1,10,12
+Cherokee,25,"Justice, Supreme Court",Place 4,REP,John Devine,601,20,375,206
+Cherokee,25,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,102,14,47,41
+Cherokee,25,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,25,"Justice, Supreme Court",Place 4,,Under Votes,27,1,14,12
+Cherokee,25,"Justice, Supreme Court",Place 6,REP,Jane Bland,588,19,370,199
+Cherokee,25,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,97,15,44,38
+Cherokee,25,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,19,1,9,9
+Cherokee,25,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,25,"Justice, Supreme Court",Place 6,,Under Votes,26,0,13,13
+Cherokee,25,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,600,19,374,207
+Cherokee,25,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,103,15,50,38
+Cherokee,25,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,25,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,27,1,12,14
+Cherokee,25,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,603,19,376,208
+Cherokee,25,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,99,15,47,37
+Cherokee,25,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,25,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,28,1,13,14
+Cherokee,25,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,601,20,374,207
+Cherokee,25,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,96,14,45,37
+Cherokee,25,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,25,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,33,1,17,15
+Cherokee,25,State Representative,8,REP,Cody Harris,602,19,374,209
+Cherokee,25,State Representative,8,DEM,Carolyn F. Salter,97,15,45,37
+Cherokee,25,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,25,State Representative,8,,Under Votes,31,1,17,13
+Cherokee,25,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,619,24,380,215
+Cherokee,25,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,25,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,111,11,56,44
+Cherokee,25,"District Judge, 2nd Judicial District",,REP,Chris Day,624,24,385,215
+Cherokee,25,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,25,"District Judge, 2nd Judicial District",,,Under Votes,106,11,51,44
+Cherokee,25,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,617,24,379,214
+Cherokee,25,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,25,"District Attorney, 2nd Judicial District",,,Under Votes,113,11,57,45
+Cherokee,25,County Attorney,,REP,Dana Young,615,24,379,212
+Cherokee,25,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,25,County Attorney,,,Under Votes,115,11,57,47
+Cherokee,25,Sheriff,,REP,Brent Dickson,612,24,373,215
+Cherokee,25,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,25,Sheriff,,,Under Votes,118,11,63,44
+Cherokee,25,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,615,24,379,212
+Cherokee,25,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,25,County Tax Assessor-Collector,,,Under Votes,115,11,57,47
+Cherokee,25,Constable,2,REP,Jack L. White,623,22,383,218
+Cherokee,25,Constable,2,,Over Votes,0,0,0,0
+Cherokee,25,Constable,2,,Under Votes,107,13,53,41
+Cherokee,26,Registered Voters,,,,1148,,,
+Cherokee,26,Ballots Cast,,,,728,,,
+Cherokee,26,President,,REP,Donald J. Trump JD Vance,565,16,472,77
+Cherokee,26,President,,DEM,Kamala D. Harris Tim Walz,154,3,119,32
+Cherokee,26,President,,LIB,Chase Oliver Mike ter Maat,4,0,3,1
+Cherokee,26,President,,GRN,Jill Stein Rudolph Ware,3,0,2,1
+Cherokee,26,President,,,Over Votes,0,0,0,0
+Cherokee,26,President,,,Under Votes,2,0,2,0
+Cherokee,26,U.S. Senate,,REP,Ted Cruz,546,14,460,72
+Cherokee,26,U.S. Senate,,DEM,Colin Allred,164,3,125,36
+Cherokee,26,U.S. Senate,,LIB,Ted Brown,9,2,6,1
+Cherokee,26,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,26,U.S. Senate,,,Under Votes,9,0,7,2
+Cherokee,26,U.S. House,6,REP,Jake Ellzey,548,16,460,72
+Cherokee,26,U.S. House,6,DEM,John Love III,152,3,116,33
+Cherokee,26,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,26,U.S. House,6,,Under Votes,28,0,22,6
+Cherokee,26,Railroad Commissioner,,REP,Christi Craddick,537,13,455,69
+Cherokee,26,Railroad Commissioner,,DEM,Katherine Culbert,145,3,111,31
+Cherokee,26,Railroad Commissioner,,LIB,Hawk Dunlap,9,1,6,2
+Cherokee,26,Railroad Commissioner,,GRN,Eddie Espinoza,7,2,4,1
+Cherokee,26,Railroad Commissioner,,,Over Votes,1,0,1,0
+Cherokee,26,Railroad Commissioner,,,Under Votes,29,0,21,8
+Cherokee,26,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,549,16,464,69
+Cherokee,26,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,153,3,116,34
+Cherokee,26,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,26,"Justice, Supreme Court",Place 2,,Under Votes,26,0,18,8
+Cherokee,26,"Justice, Supreme Court",Place 4,REP,John Devine,545,16,462,67
+Cherokee,26,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,151,3,114,34
+Cherokee,26,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,26,"Justice, Supreme Court",Place 4,,Under Votes,32,0,22,10
+Cherokee,26,"Justice, Supreme Court",Place 6,REP,Jane Bland,533,15,452,66
+Cherokee,26,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,149,3,113,33
+Cherokee,26,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,13,1,9,3
+Cherokee,26,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,26,"Justice, Supreme Court",Place 6,,Under Votes,33,0,24,9
+Cherokee,26,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,548,16,464,68
+Cherokee,26,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,153,3,115,35
+Cherokee,26,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,26,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,27,0,19,8
+Cherokee,26,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,546,15,464,67
+Cherokee,26,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,150,4,112,34
+Cherokee,26,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,26,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,32,0,22,10
+Cherokee,26,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,547,15,463,69
+Cherokee,26,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,148,4,111,33
+Cherokee,26,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,26,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,33,0,24,9
+Cherokee,26,State Representative,8,REP,Cody Harris,549,16,460,73
+Cherokee,26,State Representative,8,DEM,Carolyn F. Salter,144,3,110,31
+Cherokee,26,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,26,State Representative,8,,Under Votes,35,0,28,7
+Cherokee,26,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,572,18,476,78
+Cherokee,26,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,26,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,156,1,122,33
+Cherokee,26,"District Judge, 2nd Judicial District",,REP,Chris Day,570,18,474,78
+Cherokee,26,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,26,"District Judge, 2nd Judicial District",,,Under Votes,158,1,124,33
+Cherokee,26,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,569,18,472,79
+Cherokee,26,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,26,"District Attorney, 2nd Judicial District",,,Under Votes,159,1,126,32
+Cherokee,26,County Attorney,,REP,Dana Young,564,18,467,79
+Cherokee,26,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,26,County Attorney,,,Under Votes,164,1,131,32
+Cherokee,26,Sheriff,,REP,Brent Dickson,565,18,468,79
+Cherokee,26,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,26,Sheriff,,,Under Votes,163,1,130,32
+Cherokee,26,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,573,16,475,82
+Cherokee,26,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,26,County Tax Assessor-Collector,,,Under Votes,155,3,123,29
+Cherokee,26,Constable,2,REP,Jack L. White,572,16,476,80
+Cherokee,26,Constable,2,,Over Votes,0,0,0,0
+Cherokee,26,Constable,2,,Under Votes,156,3,122,31
+Cherokee,27,Registered Voters,,,,1072,,,
+Cherokee,27,Ballots Cast,,,,756,,,
+Cherokee,27,President,,REP,Donald J. Trump JD Vance,564,12,483,69
+Cherokee,27,President,,DEM,Kamala D. Harris Tim Walz,183,1,140,42
+Cherokee,27,President,,LIB,Chase Oliver Mike ter Maat,6,0,5,1
+Cherokee,27,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+Cherokee,27,President,,,Over Votes,0,0,0,0
+Cherokee,27,President,,,Under Votes,2,0,2,0
+Cherokee,27,U.S. Senate,,REP,Ted Cruz,553,12,475,66
+Cherokee,27,U.S. Senate,,DEM,Colin Allred,184,1,142,41
+Cherokee,27,U.S. Senate,,LIB,Ted Brown,14,0,10,4
+Cherokee,27,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,27,U.S. Senate,,,Under Votes,5,0,4,1
+Cherokee,27,U.S. House,6,REP,Jake Ellzey,554,12,472,70
+Cherokee,27,U.S. House,6,DEM,John Love III,177,1,136,40
+Cherokee,27,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,27,U.S. House,6,,Under Votes,25,0,23,2
+Cherokee,27,Railroad Commissioner,,REP,Christi Craddick,554,11,472,71
+Cherokee,27,Railroad Commissioner,,DEM,Katherine Culbert,162,1,128,33
+Cherokee,27,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,6,2
+Cherokee,27,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,2,2
+Cherokee,27,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,27,Railroad Commissioner,,,Under Votes,28,1,23,4
+Cherokee,27,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,556,12,474,70
+Cherokee,27,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,172,1,134,37
+Cherokee,27,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,27,"Justice, Supreme Court",Place 2,,Under Votes,28,0,23,5
+Cherokee,27,"Justice, Supreme Court",Place 4,REP,John Devine,552,11,472,69
+Cherokee,27,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,167,1,129,37
+Cherokee,27,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,27,"Justice, Supreme Court",Place 4,,Under Votes,37,1,30,6
+Cherokee,27,"Justice, Supreme Court",Place 6,REP,Jane Bland,550,11,468,71
+Cherokee,27,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,162,1,126,35
+Cherokee,27,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,7,0,6,1
+Cherokee,27,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,27,"Justice, Supreme Court",Place 6,,Under Votes,37,1,31,5
+Cherokee,27,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,553,11,471,71
+Cherokee,27,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,171,1,133,37
+Cherokee,27,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,27,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,32,1,27,4
+Cherokee,27,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,555,10,471,74
+Cherokee,27,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,165,1,130,34
+Cherokee,27,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,27,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,36,2,30,4
+Cherokee,27,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,555,11,470,74
+Cherokee,27,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,159,1,127,31
+Cherokee,27,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,27,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,42,1,34,7
+Cherokee,27,State Representative,8,REP,Cody Harris,554,11,470,73
+Cherokee,27,State Representative,8,DEM,Carolyn F. Salter,173,1,135,37
+Cherokee,27,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,27,State Representative,8,,Under Votes,29,1,26,2
+Cherokee,27,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,583,11,488,84
+Cherokee,27,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,27,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,173,2,143,28
+Cherokee,27,"District Judge, 2nd Judicial District",,REP,Chris Day,586,10,491,85
+Cherokee,27,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,27,"District Judge, 2nd Judicial District",,,Under Votes,170,3,140,27
+Cherokee,27,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,586,11,490,85
+Cherokee,27,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,27,"District Attorney, 2nd Judicial District",,,Under Votes,170,2,141,27
+Cherokee,27,County Attorney,,REP,Dana Young,585,11,488,86
+Cherokee,27,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,27,County Attorney,,,Under Votes,171,2,143,26
+Cherokee,27,Sheriff,,REP,Brent Dickson,577,10,479,88
+Cherokee,27,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,27,Sheriff,,,Under Votes,179,3,152,24
+Cherokee,27,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,588,11,490,87
+Cherokee,27,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,27,County Tax Assessor-Collector,,,Under Votes,168,2,141,25
+Cherokee,27,Constable,2,REP,Jack L. White,591,11,494,86
+Cherokee,27,Constable,2,,Over Votes,0,0,0,0
+Cherokee,27,Constable,2,,Under Votes,165,2,137,26
+Cherokee,28,Registered Voters,,,,679,,,
+Cherokee,28,Ballots Cast,,,,464,,,
+Cherokee,28,President,,REP,Donald J. Trump JD Vance,428,7,326,95
+Cherokee,28,President,,DEM,Kamala D. Harris Tim Walz,30,0,24,6
+Cherokee,28,President,,LIB,Chase Oliver Mike ter Maat,4,0,2,2
+Cherokee,28,President,,,Over Votes,1,0,1,0
+Cherokee,28,President,,,Under Votes,1,0,0,1
+Cherokee,28,U.S. Senate,,REP,Ted Cruz,420,7,326,87
+Cherokee,28,U.S. Senate,,DEM,Colin Allred,32,0,23,9
+Cherokee,28,U.S. Senate,,LIB,Ted Brown,10,0,3,7
+Cherokee,28,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,28,U.S. Senate,,,Under Votes,2,0,2,0
+Cherokee,28,U.S. House,6,REP,Jake Ellzey,419,7,319,93
+Cherokee,28,U.S. House,6,DEM,John Love III,29,0,21,8
+Cherokee,28,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,28,U.S. House,6,,Under Votes,16,0,14,2
+Cherokee,28,Railroad Commissioner,,REP,Christi Craddick,411,7,316,88
+Cherokee,28,Railroad Commissioner,,DEM,Katherine Culbert,23,0,17,6
+Cherokee,28,Railroad Commissioner,,LIB,Hawk Dunlap,11,0,7,4
+Cherokee,28,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,5,0
+Cherokee,28,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,28,Railroad Commissioner,,,Under Votes,14,0,9,5
+Cherokee,28,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,422,7,322,93
+Cherokee,28,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,29,0,22,7
+Cherokee,28,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,28,"Justice, Supreme Court",Place 2,,Under Votes,13,0,10,3
+Cherokee,28,"Justice, Supreme Court",Place 4,REP,John Devine,420,7,320,93
+Cherokee,28,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,31,0,23,8
+Cherokee,28,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,28,"Justice, Supreme Court",Place 4,,Under Votes,13,0,11,2
+Cherokee,28,"Justice, Supreme Court",Place 6,REP,Jane Bland,411,7,317,87
+Cherokee,28,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,25,0,19,6
+Cherokee,28,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,15,0,9,6
+Cherokee,28,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,28,"Justice, Supreme Court",Place 6,,Under Votes,13,0,9,4
+Cherokee,28,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,418,7,317,94
+Cherokee,28,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,32,0,26,6
+Cherokee,28,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,28,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,14,0,11,3
+Cherokee,28,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,420,6,320,94
+Cherokee,28,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,28,1,21,6
+Cherokee,28,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,28,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,16,0,13,3
+Cherokee,28,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,419,6,321,92
+Cherokee,28,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,28,1,20,7
+Cherokee,28,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,28,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,17,0,13,4
+Cherokee,28,State Representative,8,REP,Cody Harris,417,7,315,95
+Cherokee,28,State Representative,8,DEM,Carolyn F. Salter,33,0,26,7
+Cherokee,28,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,28,State Representative,8,,Under Votes,14,0,13,1
+Cherokee,28,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,428,7,327,94
+Cherokee,28,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,28,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,36,0,27,9
+Cherokee,28,"District Judge, 2nd Judicial District",,REP,Chris Day,423,7,320,96
+Cherokee,28,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,28,"District Judge, 2nd Judicial District",,,Under Votes,41,0,34,7
+Cherokee,28,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,419,7,320,92
+Cherokee,28,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,28,"District Attorney, 2nd Judicial District",,,Under Votes,45,0,34,11
+Cherokee,28,County Attorney,,REP,Dana Young,426,7,326,93
+Cherokee,28,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,28,County Attorney,,,Under Votes,38,0,28,10
+Cherokee,28,Sheriff,,REP,Brent Dickson,408,5,313,90
+Cherokee,28,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,28,Sheriff,,,Under Votes,56,2,41,13
+Cherokee,28,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,423,7,324,92
+Cherokee,28,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,28,County Tax Assessor-Collector,,,Under Votes,41,0,30,11
+Cherokee,28,Constable,2,REP,Jack L. White,424,6,326,92
+Cherokee,28,Constable,2,,Over Votes,0,0,0,0
+Cherokee,28,Constable,2,,Under Votes,40,1,28,11
+Cherokee,32,Registered Voters,,,,1216,,,
+Cherokee,32,Ballots Cast,,,,880,,,
+Cherokee,32,President,,REP,Donald J. Trump JD Vance,747,10,573,164
+Cherokee,32,President,,DEM,Kamala D. Harris Tim Walz,126,8,86,32
+Cherokee,32,President,,LIB,Chase Oliver Mike ter Maat,2,0,0,2
+Cherokee,32,President,,GRN,Jill Stein Rudolph Ware,2,0,2,0
+Cherokee,32,President,,,Over Votes,0,0,0,0
+Cherokee,32,President,,,Under Votes,3,0,3,0
+Cherokee,32,U.S. Senate,,REP,Ted Cruz,732,10,563,159
+Cherokee,32,U.S. Senate,,DEM,Colin Allred,133,8,95,30
+Cherokee,32,U.S. Senate,,LIB,Ted Brown,13,0,7,6
+Cherokee,32,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,32,U.S. Senate,,,Under Votes,2,0,1,1
+Cherokee,32,U.S. House,6,REP,Jake Ellzey,747,11,569,167
+Cherokee,32,U.S. House,6,DEM,John Love III,115,6,84,25
+Cherokee,32,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,32,U.S. House,6,,Under Votes,18,1,13,4
+Cherokee,32,Railroad Commissioner,,REP,Christi Craddick,731,10,560,161
+Cherokee,32,Railroad Commissioner,,DEM,Katherine Culbert,99,3,77,19
+Cherokee,32,Railroad Commissioner,,LIB,Hawk Dunlap,24,1,15,8
+Cherokee,32,Railroad Commissioner,,GRN,Eddie Espinoza,7,0,3,4
+Cherokee,32,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,32,Railroad Commissioner,,,Under Votes,19,4,11,4
+Cherokee,32,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,751,7,578,166
+Cherokee,32,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,110,7,77,26
+Cherokee,32,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,32,"Justice, Supreme Court",Place 2,,Under Votes,19,4,11,4
+Cherokee,32,"Justice, Supreme Court",Place 4,REP,John Devine,738,7,568,163
+Cherokee,32,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,116,7,83,26
+Cherokee,32,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,32,"Justice, Supreme Court",Place 4,,Under Votes,26,4,15,7
+Cherokee,32,"Justice, Supreme Court",Place 6,REP,Jane Bland,730,9,559,162
+Cherokee,32,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,111,5,82,24
+Cherokee,32,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,17,0,11,6
+Cherokee,32,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,32,"Justice, Supreme Court",Place 6,,Under Votes,22,4,13,5
+Cherokee,32,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,736,8,566,162
+Cherokee,32,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,118,6,85,27
+Cherokee,32,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,32,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,26,4,15,7
+Cherokee,32,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,749,8,571,170
+Cherokee,32,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,107,6,79,22
+Cherokee,32,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,32,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,24,4,16,4
+Cherokee,32,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,743,8,571,164
+Cherokee,32,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,109,6,78,25
+Cherokee,32,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,32,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,28,4,17,7
+Cherokee,32,State Representative,8,REP,Cody Harris,747,7,575,165
+Cherokee,32,State Representative,8,DEM,Carolyn F. Salter,114,7,80,27
+Cherokee,32,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,32,State Representative,8,,Under Votes,19,4,11,4
+Cherokee,32,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,778,10,590,178
+Cherokee,32,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,32,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,102,8,76,18
+Cherokee,32,"District Judge, 2nd Judicial District",,REP,Chris Day,778,10,591,177
+Cherokee,32,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,32,"District Judge, 2nd Judicial District",,,Under Votes,102,8,75,19
+Cherokee,32,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,770,10,584,176
+Cherokee,32,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,32,"District Attorney, 2nd Judicial District",,,Under Votes,110,8,82,20
+Cherokee,32,County Attorney,,REP,Dana Young,772,10,586,176
+Cherokee,32,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,32,County Attorney,,,Under Votes,108,8,80,20
+Cherokee,32,Sheriff,,REP,Brent Dickson,771,11,584,176
+Cherokee,32,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,32,Sheriff,,,Under Votes,109,7,82,20
+Cherokee,32,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,772,10,587,175
+Cherokee,32,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,32,County Tax Assessor-Collector,,,Under Votes,108,8,79,21
+Cherokee,32,County Commissioner,3,REP,Patrick Reagan,766,10,582,174
+Cherokee,32,County Commissioner,3,,Over Votes,0,0,0,0
+Cherokee,32,County Commissioner,3,,Under Votes,114,8,84,22
+Cherokee,32,Constable,3,REP,Eddie Lee,770,10,584,176
+Cherokee,32,Constable,3,,Over Votes,0,0,0,0
+Cherokee,32,Constable,3,,Under Votes,110,8,82,20
+Cherokee,33,Registered Voters,,,,2369,,,
+Cherokee,33,Ballots Cast,,,,1550,,,
+Cherokee,33,President,,REP,Donald J. Trump JD Vance,1283,19,789,475
+Cherokee,33,President,,DEM,Kamala D. Harris Tim Walz,250,22,147,81
+Cherokee,33,President,,LIB,Chase Oliver Mike ter Maat,6,0,4,2
+Cherokee,33,President,,GRN,Jill Stein Rudolph Ware,6,0,1,5
+Cherokee,33,President,,,Over Votes,0,0,0,0
+Cherokee,33,President,,,Under Votes,5,0,3,2
+Cherokee,33,U.S. Senate,,REP,Ted Cruz,1225,19,768,438
+Cherokee,33,U.S. Senate,,DEM,Colin Allred,275,21,152,102
+Cherokee,33,U.S. Senate,,LIB,Ted Brown,36,1,16,19
+Cherokee,33,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,33,U.S. Senate,,,Under Votes,14,0,8,6
+Cherokee,33,U.S. House,6,REP,Jake Ellzey,1279,20,781,478
+Cherokee,33,U.S. House,6,DEM,John Love III,237,20,138,79
+Cherokee,33,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,33,U.S. House,6,,Under Votes,34,1,25,8
+Cherokee,33,Railroad Commissioner,,REP,Christi Craddick,1250,20,776,454
+Cherokee,33,Railroad Commissioner,,DEM,Katherine Culbert,217,20,128,69
+Cherokee,33,Railroad Commissioner,,LIB,Hawk Dunlap,41,0,17,24
+Cherokee,33,Railroad Commissioner,,GRN,Eddie Espinoza,12,0,6,6
+Cherokee,33,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,33,Railroad Commissioner,,,Under Votes,30,1,17,12
+Cherokee,33,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,1288,21,792,475
+Cherokee,33,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,236,19,135,82
+Cherokee,33,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,33,"Justice, Supreme Court",Place 2,,Under Votes,26,1,17,8
+Cherokee,33,"Justice, Supreme Court",Place 4,REP,John Devine,1274,20,782,472
+Cherokee,33,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,241,20,139,82
+Cherokee,33,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,33,"Justice, Supreme Court",Place 4,,Under Votes,35,1,23,11
+Cherokee,33,"Justice, Supreme Court",Place 6,REP,Jane Bland,1246,20,768,458
+Cherokee,33,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,221,20,133,68
+Cherokee,33,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,49,0,22,27
+Cherokee,33,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,33,"Justice, Supreme Court",Place 6,,Under Votes,34,1,21,12
+Cherokee,33,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1275,20,788,467
+Cherokee,33,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,240,20,136,84
+Cherokee,33,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,33,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,35,1,20,14
+Cherokee,33,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,1275,20,782,473
+Cherokee,33,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,234,20,137,77
+Cherokee,33,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,33,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,41,1,25,15
+Cherokee,33,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,1281,20,789,472
+Cherokee,33,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,228,20,132,76
+Cherokee,33,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,33,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,41,1,23,17
+Cherokee,33,State Representative,8,REP,Cody Harris,1272,20,782,470
+Cherokee,33,State Representative,8,DEM,Carolyn F. Salter,236,19,135,82
+Cherokee,33,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,33,State Representative,8,,Under Votes,42,2,27,13
+Cherokee,33,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,1355,21,825,509
+Cherokee,33,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,33,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,195,20,119,56
+Cherokee,33,"District Judge, 2nd Judicial District",,REP,Chris Day,1357,20,829,508
+Cherokee,33,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,33,"District Judge, 2nd Judicial District",,,Under Votes,193,21,115,57
+Cherokee,33,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,1351,21,823,507
+Cherokee,33,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,33,"District Attorney, 2nd Judicial District",,,Under Votes,199,20,121,58
+Cherokee,33,County Attorney,,REP,Dana Young,1349,21,820,508
+Cherokee,33,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,33,County Attorney,,,Under Votes,201,20,124,57
+Cherokee,33,Sheriff,,REP,Brent Dickson,1345,24,817,504
+Cherokee,33,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,33,Sheriff,,,Under Votes,205,17,127,61
+Cherokee,33,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,1353,23,820,510
+Cherokee,33,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,33,County Tax Assessor-Collector,,,Under Votes,197,18,124,55
+Cherokee,33,County Commissioner,3,REP,Patrick Reagan,1340,20,816,504
+Cherokee,33,County Commissioner,3,,Over Votes,0,0,0,0
+Cherokee,33,County Commissioner,3,,Under Votes,210,21,128,61
+Cherokee,33,Constable,3,REP,Eddie Lee,1345,22,816,507
+Cherokee,33,Constable,3,,Over Votes,0,0,0,0
+Cherokee,33,Constable,3,,Under Votes,205,19,128,58
+Cherokee,34,Registered Voters,,,,1812,,,
+Cherokee,34,Ballots Cast,,,,1339,,,
+Cherokee,34,President,,REP,Donald J. Trump JD Vance,1185,15,929,241
+Cherokee,34,President,,DEM,Kamala D. Harris Tim Walz,143,5,103,35
+Cherokee,34,President,,LIB,Chase Oliver Mike ter Maat,4,0,3,1
+Cherokee,34,President,,GRN,Jill Stein Rudolph Ware,2,0,2,0
+Cherokee,34,President,,,Over Votes,0,0,0,0
+Cherokee,34,President,,,Under Votes,3,0,2,1
+Cherokee,34,U.S. Senate,,REP,Ted Cruz,1154,16,908,230
+Cherokee,34,U.S. Senate,,DEM,Colin Allred,156,4,110,42
+Cherokee,34,U.S. Senate,,LIB,Ted Brown,22,0,17,5
+Cherokee,34,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,34,U.S. Senate,,,Under Votes,7,0,4,3
+Cherokee,34,U.S. House,6,REP,Jake Ellzey,1191,18,933,240
+Cherokee,34,U.S. House,6,DEM,John Love III,124,2,87,35
+Cherokee,34,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,34,U.S. House,6,,Under Votes,24,0,19,5
+Cherokee,34,Railroad Commissioner,,REP,Christi Craddick,1155,18,907,230
+Cherokee,34,Railroad Commissioner,,DEM,Katherine Culbert,109,2,75,32
+Cherokee,34,Railroad Commissioner,,LIB,Hawk Dunlap,39,0,31,8
+Cherokee,34,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,4,1
+Cherokee,34,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,34,Railroad Commissioner,,,Under Votes,31,0,22,9
+Cherokee,34,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,1190,17,932,241
+Cherokee,34,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,125,2,90,33
+Cherokee,34,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,34,"Justice, Supreme Court",Place 2,,Under Votes,24,1,17,6
+Cherokee,34,"Justice, Supreme Court",Place 4,REP,John Devine,1181,17,925,239
+Cherokee,34,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,130,2,94,34
+Cherokee,34,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,34,"Justice, Supreme Court",Place 4,,Under Votes,28,1,20,7
+Cherokee,34,"Justice, Supreme Court",Place 6,REP,Jane Bland,1156,17,910,229
+Cherokee,34,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,124,3,87,34
+Cherokee,34,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,33,0,23,10
+Cherokee,34,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,34,"Justice, Supreme Court",Place 6,,Under Votes,26,0,19,7
+Cherokee,34,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1188,17,930,241
+Cherokee,34,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,127,3,91,33
+Cherokee,34,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,34,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,24,0,18,6
+Cherokee,34,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,1182,17,928,237
+Cherokee,34,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,129,3,91,35
+Cherokee,34,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,34,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,28,0,20,8
+Cherokee,34,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,1189,17,932,240
+Cherokee,34,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,118,3,84,31
+Cherokee,34,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,34,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,32,0,23,9
+Cherokee,34,State Representative,8,REP,Cody Harris,1175,18,920,237
+Cherokee,34,State Representative,8,DEM,Carolyn F. Salter,131,2,93,36
+Cherokee,34,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,34,State Representative,8,,Under Votes,33,0,26,7
+Cherokee,34,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,1205,17,939,249
+Cherokee,34,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,34,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,134,3,100,31
+Cherokee,34,"District Judge, 2nd Judicial District",,REP,Chris Day,1207,17,942,248
+Cherokee,34,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,34,"District Judge, 2nd Judicial District",,,Under Votes,132,3,97,32
+Cherokee,34,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,1203,17,940,246
+Cherokee,34,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,34,"District Attorney, 2nd Judicial District",,,Under Votes,136,3,99,34
+Cherokee,34,County Attorney,,REP,Dana Young,1204,17,940,247
+Cherokee,34,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,34,County Attorney,,,Under Votes,135,3,99,33
+Cherokee,34,Sheriff,,REP,Brent Dickson,1204,18,940,246
+Cherokee,34,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,34,Sheriff,,,Under Votes,135,2,99,34
+Cherokee,34,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,1201,18,938,245
+Cherokee,34,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,34,County Tax Assessor-Collector,,,Under Votes,138,2,101,35
+Cherokee,34,County Commissioner,3,REP,Patrick Reagan,1185,18,924,243
+Cherokee,34,County Commissioner,3,,Over Votes,0,0,0,0
+Cherokee,34,County Commissioner,3,,Under Votes,154,2,115,37
+Cherokee,34,Constable,3,REP,Eddie Lee,1197,17,938,242
+Cherokee,34,Constable,3,,Over Votes,0,0,0,0
+Cherokee,34,Constable,3,,Under Votes,142,3,101,38
+Cherokee,35,Registered Voters,,,,1193,,,
+Cherokee,35,Ballots Cast,,,,793,,,
+Cherokee,35,President,,REP,Donald J. Trump JD Vance,642,11,475,156
+Cherokee,35,President,,DEM,Kamala D. Harris Tim Walz,141,9,100,32
+Cherokee,35,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+Cherokee,35,President,,GRN,Jill Stein Rudolph Ware,6,0,4,2
+Cherokee,35,President,,,Over Votes,0,0,0,0
+Cherokee,35,President,,,Under Votes,3,0,2,1
+Cherokee,35,U.S. Senate,,REP,Ted Cruz,616,11,463,142
+Cherokee,35,U.S. Senate,,DEM,Colin Allred,148,9,100,39
+Cherokee,35,U.S. Senate,,LIB,Ted Brown,21,0,16,5
+Cherokee,35,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,35,U.S. Senate,,,Under Votes,8,0,3,5
+Cherokee,35,U.S. House,6,REP,Jake Ellzey,638,11,475,152
+Cherokee,35,U.S. House,6,DEM,John Love III,138,9,93,36
+Cherokee,35,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,35,U.S. House,6,,Under Votes,17,0,14,3
+Cherokee,35,Railroad Commissioner,,REP,Christi Craddick,609,11,458,140
+Cherokee,35,Railroad Commissioner,,DEM,Katherine Culbert,129,9,90,30
+Cherokee,35,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,11,6
+Cherokee,35,Railroad Commissioner,,GRN,Eddie Espinoza,15,0,7,8
+Cherokee,35,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,35,Railroad Commissioner,,,Under Votes,23,0,16,7
+Cherokee,35,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,636,11,474,151
+Cherokee,35,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,134,9,91,34
+Cherokee,35,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,35,"Justice, Supreme Court",Place 2,,Under Votes,23,0,17,6
+Cherokee,35,"Justice, Supreme Court",Place 4,REP,John Devine,632,11,470,151
+Cherokee,35,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,134,9,92,33
+Cherokee,35,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,35,"Justice, Supreme Court",Place 4,,Under Votes,27,0,20,7
+Cherokee,35,"Justice, Supreme Court",Place 6,REP,Jane Bland,612,11,453,148
+Cherokee,35,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,129,9,92,28
+Cherokee,35,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,24,0,17,7
+Cherokee,35,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,35,"Justice, Supreme Court",Place 6,,Under Votes,28,0,20,8
+Cherokee,35,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,630,11,468,151
+Cherokee,35,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,140,9,96,35
+Cherokee,35,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,35,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,23,0,18,5
+Cherokee,35,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,632,11,471,150
+Cherokee,35,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,134,9,92,33
+Cherokee,35,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,35,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,27,0,19,8
+Cherokee,35,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,634,12,471,151
+Cherokee,35,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,130,8,90,32
+Cherokee,35,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,35,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,29,0,21,8
+Cherokee,35,State Representative,8,REP,Cody Harris,633,11,469,153
+Cherokee,35,State Representative,8,DEM,Carolyn F. Salter,133,9,92,32
+Cherokee,35,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,35,State Representative,8,,Under Votes,27,0,21,6
+Cherokee,35,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,658,16,488,154
+Cherokee,35,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,35,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,135,4,94,37
+Cherokee,35,"District Judge, 2nd Judicial District",,REP,Chris Day,659,17,488,154
+Cherokee,35,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,35,"District Judge, 2nd Judicial District",,,Under Votes,134,3,94,37
+Cherokee,35,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,660,16,489,155
+Cherokee,35,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,35,"District Attorney, 2nd Judicial District",,,Under Votes,133,4,93,36
+Cherokee,35,County Attorney,,REP,Dana Young,662,16,489,157
+Cherokee,35,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,35,County Attorney,,,Under Votes,131,4,93,34
+Cherokee,35,Sheriff,,REP,Brent Dickson,663,17,490,156
+Cherokee,35,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,35,Sheriff,,,Under Votes,130,3,92,35
+Cherokee,35,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,658,16,489,153
+Cherokee,35,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,35,County Tax Assessor-Collector,,,Under Votes,135,4,93,38
+Cherokee,35,County Commissioner,3,REP,Patrick Reagan,644,18,476,150
+Cherokee,35,County Commissioner,3,,Over Votes,0,0,0,0
+Cherokee,35,County Commissioner,3,,Under Votes,149,2,106,41
+Cherokee,35,Constable,3,REP,Eddie Lee,643,16,477,150
+Cherokee,35,Constable,3,,Over Votes,0,0,0,0
+Cherokee,35,Constable,3,,Under Votes,150,4,105,41
+Cherokee,36,Registered Voters,,,,1789,,,
+Cherokee,36,Ballots Cast,,,,1253,,,
+Cherokee,36,President,,REP,Donald J. Trump JD Vance,1050,26,869,155
+Cherokee,36,President,,DEM,Kamala D. Harris Tim Walz,182,9,151,22
+Cherokee,36,President,,LIB,Chase Oliver Mike ter Maat,8,0,6,2
+Cherokee,36,President,,GRN,Jill Stein Rudolph Ware,8,1,4,3
+Cherokee,36,President,,,Over Votes,0,0,0,0
+Cherokee,36,President,,,Under Votes,5,0,3,2
+Cherokee,36,U.S. Senate,,REP,Ted Cruz,1023,27,850,146
+Cherokee,36,U.S. Senate,,DEM,Colin Allred,191,9,155,27
+Cherokee,36,U.S. Senate,,LIB,Ted Brown,29,0,21,8
+Cherokee,36,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,36,U.S. Senate,,,Under Votes,10,0,7,3
+Cherokee,36,U.S. House,6,REP,Jake Ellzey,1064,27,877,160
+Cherokee,36,U.S. House,6,DEM,John Love III,161,9,136,16
+Cherokee,36,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,36,U.S. House,6,,Under Votes,28,0,20,8
+Cherokee,36,Railroad Commissioner,,REP,Christi Craddick,1026,27,852,147
+Cherokee,36,Railroad Commissioner,,DEM,Katherine Culbert,160,8,133,19
+Cherokee,36,Railroad Commissioner,,LIB,Hawk Dunlap,30,0,21,9
+Cherokee,36,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,8,3
+Cherokee,36,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,36,Railroad Commissioner,,,Under Votes,26,1,19,6
+Cherokee,36,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,1063,27,879,157
+Cherokee,36,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,156,8,132,16
+Cherokee,36,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,36,"Justice, Supreme Court",Place 2,,Under Votes,34,1,22,11
+Cherokee,36,"Justice, Supreme Court",Place 4,REP,John Devine,1051,27,870,154
+Cherokee,36,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,169,8,139,22
+Cherokee,36,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,36,"Justice, Supreme Court",Place 4,,Under Votes,33,1,24,8
+Cherokee,36,"Justice, Supreme Court",Place 6,REP,Jane Bland,1030,25,859,146
+Cherokee,36,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,161,10,136,15
+Cherokee,36,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,29,0,16,13
+Cherokee,36,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,36,"Justice, Supreme Court",Place 6,,Under Votes,33,1,22,10
+Cherokee,36,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,1048,27,867,154
+Cherokee,36,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,168,8,140,20
+Cherokee,36,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,36,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,37,1,26,10
+Cherokee,36,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,1051,27,868,156
+Cherokee,36,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,163,7,138,18
+Cherokee,36,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,36,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,39,2,27,10
+Cherokee,36,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,1061,27,878,156
+Cherokee,36,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,156,8,133,15
+Cherokee,36,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,36,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,36,1,22,13
+Cherokee,36,State Representative,8,REP,Cody Harris,1054,27,871,156
+Cherokee,36,State Representative,8,DEM,Carolyn F. Salter,166,8,138,20
+Cherokee,36,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,36,State Representative,8,,Under Votes,33,1,24,8
+Cherokee,36,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,1095,27,904,164
+Cherokee,36,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,36,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,158,9,129,20
+Cherokee,36,"District Judge, 2nd Judicial District",,REP,Chris Day,1103,28,909,166
+Cherokee,36,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,36,"District Judge, 2nd Judicial District",,,Under Votes,150,8,124,18
+Cherokee,36,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,1090,27,897,166
+Cherokee,36,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,36,"District Attorney, 2nd Judicial District",,,Under Votes,163,9,136,18
+Cherokee,36,County Attorney,,REP,Dana Young,1095,27,905,163
+Cherokee,36,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,36,County Attorney,,,Under Votes,158,9,128,21
+Cherokee,36,Sheriff,,REP,Brent Dickson,1096,28,900,168
+Cherokee,36,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,36,Sheriff,,,Under Votes,157,8,133,16
+Cherokee,36,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,1098,28,904,166
+Cherokee,36,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,36,County Tax Assessor-Collector,,,Under Votes,155,8,129,18
+Cherokee,36,County Commissioner,3,REP,Patrick Reagan,1064,27,872,165
+Cherokee,36,County Commissioner,3,,Over Votes,0,0,0,0
+Cherokee,36,County Commissioner,3,,Under Votes,189,9,161,19
+Cherokee,36,Constable,3,REP,Eddie Lee,1085,29,896,160
+Cherokee,36,Constable,3,,Over Votes,0,0,0,0
+Cherokee,36,Constable,3,,Under Votes,168,7,137,24
+Cherokee,37,Registered Voters,,,,470,,,
+Cherokee,37,Ballots Cast,,,,252,,,
+Cherokee,37,President,,REP,Donald J. Trump JD Vance,175,3,140,32
+Cherokee,37,President,,DEM,Kamala D. Harris Tim Walz,76,3,59,14
+Cherokee,37,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+Cherokee,37,President,,,Over Votes,0,0,0,0
+Cherokee,37,President,,,Under Votes,0,0,0,0
+Cherokee,37,U.S. Senate,,REP,Ted Cruz,167,3,135,29
+Cherokee,37,U.S. Senate,,DEM,Colin Allred,74,3,55,16
+Cherokee,37,U.S. Senate,,LIB,Ted Brown,5,0,4,1
+Cherokee,37,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,37,U.S. Senate,,,Under Votes,5,0,5,0
+Cherokee,37,U.S. House,6,REP,Jake Ellzey,171,3,138,30
+Cherokee,37,U.S. House,6,DEM,John Love III,71,3,53,15
+Cherokee,37,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,37,U.S. House,6,,Under Votes,10,0,8,2
+Cherokee,37,Railroad Commissioner,,REP,Christi Craddick,170,2,134,34
+Cherokee,37,Railroad Commissioner,,DEM,Katherine Culbert,67,3,52,12
+Cherokee,37,Railroad Commissioner,,LIB,Hawk Dunlap,5,1,4,0
+Cherokee,37,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,37,Railroad Commissioner,,,Under Votes,10,0,9,1
+Cherokee,37,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,175,3,140,32
+Cherokee,37,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,69,3,52,14
+Cherokee,37,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,37,"Justice, Supreme Court",Place 2,,Under Votes,8,0,7,1
+Cherokee,37,"Justice, Supreme Court",Place 4,REP,John Devine,174,3,139,32
+Cherokee,37,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,68,3,51,14
+Cherokee,37,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,37,"Justice, Supreme Court",Place 4,,Under Votes,10,0,9,1
+Cherokee,37,"Justice, Supreme Court",Place 6,REP,Jane Bland,171,3,136,32
+Cherokee,37,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,67,3,51,13
+Cherokee,37,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,5,0,4,1
+Cherokee,37,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,37,"Justice, Supreme Court",Place 6,,Under Votes,9,0,8,1
+Cherokee,37,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,171,3,136,32
+Cherokee,37,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,69,3,52,14
+Cherokee,37,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,37,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,12,0,11,1
+Cherokee,37,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,169,3,137,29
+Cherokee,37,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,70,3,52,15
+Cherokee,37,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,37,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,13,0,10,3
+Cherokee,37,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,174,3,139,32
+Cherokee,37,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,66,3,51,12
+Cherokee,37,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,37,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,12,0,9,3
+Cherokee,37,State Representative,8,REP,Cody Harris,171,3,139,29
+Cherokee,37,State Representative,8,DEM,Carolyn F. Salter,69,3,50,16
+Cherokee,37,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,37,State Representative,8,,Under Votes,12,0,10,2
+Cherokee,37,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,178,3,143,32
+Cherokee,37,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,37,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,74,3,56,15
+Cherokee,37,"District Judge, 2nd Judicial District",,REP,Chris Day,182,3,146,33
+Cherokee,37,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,37,"District Judge, 2nd Judicial District",,,Under Votes,70,3,53,14
+Cherokee,37,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,180,3,145,32
+Cherokee,37,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,37,"District Attorney, 2nd Judicial District",,,Under Votes,72,3,54,15
+Cherokee,37,County Attorney,,REP,Dana Young,180,3,145,32
+Cherokee,37,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,37,County Attorney,,,Under Votes,72,3,54,15
+Cherokee,37,Sheriff,,REP,Brent Dickson,176,3,142,31
+Cherokee,37,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,37,Sheriff,,,Under Votes,76,3,57,16
+Cherokee,37,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,180,3,146,31
+Cherokee,37,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,37,County Tax Assessor-Collector,,,Under Votes,72,3,53,16
+Cherokee,37,County Commissioner,3,REP,Patrick Reagan,176,3,141,32
+Cherokee,37,County Commissioner,3,,Over Votes,0,0,0,0
+Cherokee,37,County Commissioner,3,,Under Votes,76,3,58,15
+Cherokee,37,Constable,3,REP,Eddie Lee,180,3,141,36
+Cherokee,37,Constable,3,,Over Votes,0,0,0,0
+Cherokee,37,Constable,3,,Under Votes,72,3,58,11
+Cherokee,38,Registered Voters,,,,516,,,
+Cherokee,38,Ballots Cast,,,,209,,,
+Cherokee,38,President,,REP,Donald J. Trump JD Vance,113,7,71,35
+Cherokee,38,President,,DEM,Kamala D. Harris Tim Walz,93,3,71,19
+Cherokee,38,President,,LIB,Chase Oliver Mike ter Maat,2,0,2,0
+Cherokee,38,President,,GRN,Jill Stein Rudolph Ware,1,0,1,0
+Cherokee,38,President,,,Over Votes,0,0,0,0
+Cherokee,38,President,,,Under Votes,0,0,0,0
+Cherokee,38,U.S. Senate,,REP,Ted Cruz,109,7,70,32
+Cherokee,38,U.S. Senate,,DEM,Colin Allred,96,2,72,22
+Cherokee,38,U.S. Senate,,LIB,Ted Brown,2,0,2,0
+Cherokee,38,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,38,U.S. Senate,,,Under Votes,2,1,1,0
+Cherokee,38,U.S. House,6,REP,Jake Ellzey,107,7,69,31
+Cherokee,38,U.S. House,6,DEM,John Love III,91,2,67,22
+Cherokee,38,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,38,U.S. House,6,,Under Votes,11,1,9,1
+Cherokee,38,Railroad Commissioner,,REP,Christi Craddick,107,7,69,31
+Cherokee,38,Railroad Commissioner,,DEM,Katherine Culbert,86,2,64,20
+Cherokee,38,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,3,2
+Cherokee,38,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,5,1
+Cherokee,38,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,38,Railroad Commissioner,,,Under Votes,5,1,4,0
+Cherokee,38,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,107,7,68,32
+Cherokee,38,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,92,2,69,21
+Cherokee,38,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,38,"Justice, Supreme Court",Place 2,,Under Votes,10,1,8,1
+Cherokee,38,"Justice, Supreme Court",Place 4,REP,John Devine,108,7,68,33
+Cherokee,38,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,90,2,68,20
+Cherokee,38,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,38,"Justice, Supreme Court",Place 4,,Under Votes,11,1,9,1
+Cherokee,38,"Justice, Supreme Court",Place 6,REP,Jane Bland,103,7,67,29
+Cherokee,38,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,88,2,65,21
+Cherokee,38,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,11,0,7,4
+Cherokee,38,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,38,"Justice, Supreme Court",Place 6,,Under Votes,7,1,6,0
+Cherokee,38,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,106,7,68,31
+Cherokee,38,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,94,2,69,23
+Cherokee,38,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,38,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,1,8,0
+Cherokee,38,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,108,7,68,33
+Cherokee,38,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,91,2,68,21
+Cherokee,38,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,38,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,10,1,9,0
+Cherokee,38,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,111,7,70,34
+Cherokee,38,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,87,2,65,20
+Cherokee,38,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,38,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,11,1,10,0
+Cherokee,38,State Representative,8,REP,Cody Harris,112,7,72,33
+Cherokee,38,State Representative,8,DEM,Carolyn F. Salter,87,2,64,21
+Cherokee,38,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,38,State Representative,8,,Under Votes,10,1,9,0
+Cherokee,38,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,135,7,86,42
+Cherokee,38,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,38,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,74,3,59,12
+Cherokee,38,"District Judge, 2nd Judicial District",,REP,Chris Day,134,6,87,41
+Cherokee,38,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,38,"District Judge, 2nd Judicial District",,,Under Votes,75,4,58,13
+Cherokee,38,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,131,7,86,38
+Cherokee,38,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,38,"District Attorney, 2nd Judicial District",,,Under Votes,78,3,59,16
+Cherokee,38,County Attorney,,REP,Dana Young,134,7,86,41
+Cherokee,38,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,38,County Attorney,,,Under Votes,75,3,59,13
+Cherokee,38,Sheriff,,REP,Brent Dickson,135,8,88,39
+Cherokee,38,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,38,Sheriff,,,Under Votes,74,2,57,15
+Cherokee,38,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,139,8,89,42
+Cherokee,38,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,38,County Tax Assessor-Collector,,,Under Votes,70,2,56,12
+Cherokee,38,County Commissioner,3,REP,Patrick Reagan,135,7,87,41
+Cherokee,38,County Commissioner,3,,Over Votes,0,0,0,0
+Cherokee,38,County Commissioner,3,,Under Votes,74,3,58,13
+Cherokee,38,Constable,3,REP,Eddie Lee,139,7,89,43
+Cherokee,38,Constable,3,,Over Votes,0,0,0,0
+Cherokee,38,Constable,3,,Under Votes,70,3,56,11
+Cherokee,42,Registered Voters,,,,1214,,,
+Cherokee,42,Ballots Cast,,,,472,,,
+Cherokee,42,President,,REP,Donald J. Trump JD Vance,146,5,110,31
+Cherokee,42,President,,DEM,Kamala D. Harris Tim Walz,315,24,230,61
+Cherokee,42,President,,LIB,Chase Oliver Mike ter Maat,3,1,2,0
+Cherokee,42,President,,GRN,Jill Stein Rudolph Ware,4,0,3,1
+Cherokee,42,President,,,Over Votes,2,2,0,0
+Cherokee,42,President,,,Under Votes,2,0,2,0
+Cherokee,42,U.S. Senate,,REP,Ted Cruz,144,6,110,28
+Cherokee,42,U.S. Senate,,DEM,Colin Allred,309,26,221,62
+Cherokee,42,U.S. Senate,,LIB,Ted Brown,9,0,7,2
+Cherokee,42,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,42,U.S. Senate,,,Under Votes,10,0,9,1
+Cherokee,42,U.S. House,6,REP,Jake Ellzey,145,5,110,30
+Cherokee,42,U.S. House,6,DEM,John Love III,308,27,220,61
+Cherokee,42,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,42,U.S. House,6,,Under Votes,19,0,17,2
+Cherokee,42,Railroad Commissioner,,REP,Christi Craddick,140,5,107,28
+Cherokee,42,Railroad Commissioner,,DEM,Katherine Culbert,297,25,212,60
+Cherokee,42,Railroad Commissioner,,LIB,Hawk Dunlap,6,1,4,1
+Cherokee,42,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,8,3
+Cherokee,42,Railroad Commissioner,,,Over Votes,1,1,0,0
+Cherokee,42,Railroad Commissioner,,,Under Votes,17,0,16,1
+Cherokee,42,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,149,5,110,34
+Cherokee,42,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,302,26,219,57
+Cherokee,42,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,42,"Justice, Supreme Court",Place 2,,Under Votes,21,1,18,2
+Cherokee,42,"Justice, Supreme Court",Place 4,REP,John Devine,146,4,110,32
+Cherokee,42,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,301,26,216,59
+Cherokee,42,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,42,"Justice, Supreme Court",Place 4,,Under Votes,25,2,21,2
+Cherokee,42,"Justice, Supreme Court",Place 6,REP,Jane Bland,141,5,106,30
+Cherokee,42,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,295,26,213,56
+Cherokee,42,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,15,1,11,3
+Cherokee,42,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,42,"Justice, Supreme Court",Place 6,,Under Votes,21,0,17,4
+Cherokee,42,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,143,5,105,33
+Cherokee,42,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,311,27,226,58
+Cherokee,42,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,42,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,18,0,16,2
+Cherokee,42,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,151,5,112,34
+Cherokee,42,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,304,27,219,58
+Cherokee,42,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,42,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,17,0,16,1
+Cherokee,42,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,149,5,109,35
+Cherokee,42,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,300,27,218,55
+Cherokee,42,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,42,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,23,0,20,3
+Cherokee,42,State Representative,8,REP,Cody Harris,142,6,104,32
+Cherokee,42,State Representative,8,DEM,Carolyn F. Salter,305,24,223,58
+Cherokee,42,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,42,State Representative,8,,Under Votes,25,2,20,3
+Cherokee,42,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,212,13,149,50
+Cherokee,42,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,42,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,260,19,198,43
+Cherokee,42,"District Judge, 2nd Judicial District",,REP,Chris Day,215,16,149,50
+Cherokee,42,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,42,"District Judge, 2nd Judicial District",,,Under Votes,257,16,198,43
+Cherokee,42,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,208,13,147,48
+Cherokee,42,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,42,"District Attorney, 2nd Judicial District",,,Under Votes,264,19,200,45
+Cherokee,42,County Attorney,,REP,Dana Young,216,14,151,51
+Cherokee,42,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,42,County Attorney,,,Under Votes,256,18,196,42
+Cherokee,42,Sheriff,,REP,Brent Dickson,216,16,150,50
+Cherokee,42,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,42,Sheriff,,,Under Votes,256,16,197,43
+Cherokee,42,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,216,16,152,48
+Cherokee,42,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,42,County Tax Assessor-Collector,,,Under Votes,256,16,195,45
+Cherokee,42,Constable,4,REP,Jamie Beene,207,16,144,47
+Cherokee,42,Constable,4,,Over Votes,0,0,0,0
+Cherokee,42,Constable,4,,Under Votes,265,16,203,46
+Cherokee,43,Registered Voters,,,,1298,,,
+Cherokee,43,Ballots Cast,,,,633,,,
+Cherokee,43,President,,REP,Donald J. Trump JD Vance,395,10,316,69
+Cherokee,43,President,,DEM,Kamala D. Harris Tim Walz,222,13,165,44
+Cherokee,43,President,,LIB,Chase Oliver Mike ter Maat,6,0,5,1
+Cherokee,43,President,,GRN,Jill Stein Rudolph Ware,8,0,6,2
+Cherokee,43,President,,,Over Votes,0,0,0,0
+Cherokee,43,President,,,Under Votes,2,0,2,0
+Cherokee,43,U.S. Senate,,REP,Ted Cruz,373,9,307,57
+Cherokee,43,U.S. Senate,,DEM,Colin Allred,235,14,169,52
+Cherokee,43,U.S. Senate,,LIB,Ted Brown,17,0,11,6
+Cherokee,43,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,43,U.S. Senate,,,Under Votes,7,0,6,1
+Cherokee,43,U.S. House,6,REP,Jake Ellzey,404,11,325,68
+Cherokee,43,U.S. House,6,DEM,John Love III,210,11,154,45
+Cherokee,43,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,43,U.S. House,6,,Under Votes,19,1,15,3
+Cherokee,43,Railroad Commissioner,,REP,Christi Craddick,390,10,320,60
+Cherokee,43,Railroad Commissioner,,DEM,Katherine Culbert,192,12,140,40
+Cherokee,43,Railroad Commissioner,,LIB,Hawk Dunlap,19,0,13,6
+Cherokee,43,Railroad Commissioner,,GRN,Eddie Espinoza,10,0,6,4
+Cherokee,43,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,43,Railroad Commissioner,,,Under Votes,22,1,15,6
+Cherokee,43,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,389,10,318,61
+Cherokee,43,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,220,12,160,48
+Cherokee,43,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,43,"Justice, Supreme Court",Place 2,,Under Votes,24,1,16,7
+Cherokee,43,"Justice, Supreme Court",Place 4,REP,John Devine,398,10,322,66
+Cherokee,43,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,211,12,156,43
+Cherokee,43,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,43,"Justice, Supreme Court",Place 4,,Under Votes,24,1,16,7
+Cherokee,43,"Justice, Supreme Court",Place 6,REP,Jane Bland,387,10,314,63
+Cherokee,43,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,209,12,155,42
+Cherokee,43,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,12,0,8,4
+Cherokee,43,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,43,"Justice, Supreme Court",Place 6,,Under Votes,25,1,17,7
+Cherokee,43,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,391,10,317,64
+Cherokee,43,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,216,12,159,45
+Cherokee,43,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,43,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,26,1,18,7
+Cherokee,43,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,398,10,322,66
+Cherokee,43,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,208,12,154,42
+Cherokee,43,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,43,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,27,1,18,8
+Cherokee,43,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,396,10,322,64
+Cherokee,43,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,206,12,151,43
+Cherokee,43,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,43,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,31,1,21,9
+Cherokee,43,State Representative,8,REP,Cody Harris,401,10,328,63
+Cherokee,43,State Representative,8,DEM,Carolyn F. Salter,210,12,153,45
+Cherokee,43,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,43,State Representative,8,,Under Votes,22,1,16,5
+Cherokee,43,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,472,14,370,88
+Cherokee,43,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,43,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,161,9,124,28
+Cherokee,43,"District Judge, 2nd Judicial District",,REP,Chris Day,483,17,371,95
+Cherokee,43,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,43,"District Judge, 2nd Judicial District",,,Under Votes,150,6,123,21
+Cherokee,43,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,468,16,368,84
+Cherokee,43,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,43,"District Attorney, 2nd Judicial District",,,Under Votes,165,7,126,32
+Cherokee,43,County Attorney,,REP,Dana Young,466,15,367,84
+Cherokee,43,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,43,County Attorney,,,Under Votes,167,8,127,32
+Cherokee,43,Sheriff,,REP,Brent Dickson,478,16,375,87
+Cherokee,43,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,43,Sheriff,,,Under Votes,155,7,119,29
+Cherokee,43,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,478,16,374,88
+Cherokee,43,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,43,County Tax Assessor-Collector,,,Under Votes,155,7,120,28
+Cherokee,43,Constable,4,REP,Jamie Beene,464,14,363,87
+Cherokee,43,Constable,4,,Over Votes,0,0,0,0
+Cherokee,43,Constable,4,,Under Votes,169,9,131,29
+Cherokee,44,Registered Voters,,,,1574,,,
+Cherokee,44,Ballots Cast,,,,1050,,,
+Cherokee,44,President,,REP,Donald J. Trump JD Vance,919,20,717,182
+Cherokee,44,President,,DEM,Kamala D. Harris Tim Walz,123,6,72,45
+Cherokee,44,President,,LIB,Chase Oliver Mike ter Maat,4,0,3,1
+Cherokee,44,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+Cherokee,44,President,,,Over Votes,0,0,0,0
+Cherokee,44,President,,,Under Votes,3,0,1,2
+Cherokee,44,U.S. Senate,,REP,Ted Cruz,874,17,694,163
+Cherokee,44,U.S. Senate,,DEM,Colin Allred,139,7,83,49
+Cherokee,44,U.S. Senate,,LIB,Ted Brown,28,1,12,15
+Cherokee,44,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,44,U.S. Senate,,,Under Votes,9,0,4,5
+Cherokee,44,U.S. House,6,REP,Jake Ellzey,917,21,715,181
+Cherokee,44,U.S. House,6,DEM,John Love III,115,4,68,43
+Cherokee,44,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,44,U.S. House,6,,Under Votes,18,0,10,8
+Cherokee,44,Railroad Commissioner,,REP,Christi Craddick,877,20,688,169
+Cherokee,44,Railroad Commissioner,,DEM,Katherine Culbert,113,4,68,41
+Cherokee,44,Railroad Commissioner,,LIB,Hawk Dunlap,34,0,21,13
+Cherokee,44,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,4,1
+Cherokee,44,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,44,Railroad Commissioner,,,Under Votes,20,2,12,6
+Cherokee,44,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,911,20,710,181
+Cherokee,44,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,116,4,69,43
+Cherokee,44,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,44,"Justice, Supreme Court",Place 2,,Under Votes,23,2,14,7
+Cherokee,44,"Justice, Supreme Court",Place 4,REP,John Devine,913,20,711,182
+Cherokee,44,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,117,4,71,42
+Cherokee,44,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,44,"Justice, Supreme Court",Place 4,,Under Votes,20,2,11,7
+Cherokee,44,"Justice, Supreme Court",Place 6,REP,Jane Bland,881,20,694,167
+Cherokee,44,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,114,4,69,41
+Cherokee,44,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,32,0,16,16
+Cherokee,44,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,44,"Justice, Supreme Court",Place 6,,Under Votes,23,2,14,7
+Cherokee,44,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,907,20,708,179
+Cherokee,44,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,124,4,74,46
+Cherokee,44,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,44,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,19,2,11,6
+Cherokee,44,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,907,20,708,179
+Cherokee,44,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,121,4,73,44
+Cherokee,44,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,44,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,22,2,12,8
+Cherokee,44,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,913,21,712,180
+Cherokee,44,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,107,3,65,39
+Cherokee,44,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,44,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,29,1,15,13
+Cherokee,44,State Representative,8,REP,Cody Harris,901,20,701,180
+Cherokee,44,State Representative,8,DEM,Carolyn F. Salter,125,4,78,43
+Cherokee,44,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,44,State Representative,8,,Under Votes,24,2,14,8
+Cherokee,44,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,953,19,733,201
+Cherokee,44,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,44,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,97,7,60,30
+Cherokee,44,"District Judge, 2nd Judicial District",,REP,Chris Day,953,21,730,202
+Cherokee,44,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,44,"District Judge, 2nd Judicial District",,,Under Votes,97,5,63,29
+Cherokee,44,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,943,19,724,200
+Cherokee,44,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,44,"District Attorney, 2nd Judicial District",,,Under Votes,107,7,69,31
+Cherokee,44,County Attorney,,REP,Dana Young,941,19,725,197
+Cherokee,44,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,44,County Attorney,,,Under Votes,109,7,68,34
+Cherokee,44,Sheriff,,REP,Brent Dickson,952,24,725,203
+Cherokee,44,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,44,Sheriff,,,Under Votes,98,2,68,28
+Cherokee,44,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,952,23,725,204
+Cherokee,44,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,44,County Tax Assessor-Collector,,,Under Votes,98,3,68,27
+Cherokee,44,Constable,4,REP,Jamie Beene,930,21,711,198
+Cherokee,44,Constable,4,,Over Votes,0,0,0,0
+Cherokee,44,Constable,4,,Under Votes,120,5,82,33
+Cherokee,45,Registered Voters,,,,929,,,
+Cherokee,45,Ballots Cast,,,,563,,,
+Cherokee,45,President,,REP,Donald J. Trump JD Vance,449,5,297,147
+Cherokee,45,President,,DEM,Kamala D. Harris Tim Walz,109,5,57,47
+Cherokee,45,President,,LIB,Chase Oliver Mike ter Maat,3,0,3,0
+Cherokee,45,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+Cherokee,45,President,,,Over Votes,0,0,0,0
+Cherokee,45,President,,,Under Votes,1,0,1,0
+Cherokee,45,U.S. Senate,,REP,Ted Cruz,436,5,294,137
+Cherokee,45,U.S. Senate,,DEM,Colin Allred,109,5,56,48
+Cherokee,45,U.S. Senate,,LIB,Ted Brown,16,0,6,10
+Cherokee,45,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,45,U.S. Senate,,,Under Votes,2,0,2,0
+Cherokee,45,U.S. House,6,REP,Jake Ellzey,439,6,293,140
+Cherokee,45,U.S. House,6,DEM,John Love III,117,4,59,54
+Cherokee,45,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,45,U.S. House,6,,Under Votes,7,0,6,1
+Cherokee,45,Railroad Commissioner,,REP,Christi Craddick,421,6,280,135
+Cherokee,45,Railroad Commissioner,,DEM,Katherine Culbert,107,4,54,49
+Cherokee,45,Railroad Commissioner,,LIB,Hawk Dunlap,16,0,15,1
+Cherokee,45,Railroad Commissioner,,GRN,Eddie Espinoza,10,0,2,8
+Cherokee,45,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,45,Railroad Commissioner,,,Under Votes,9,0,7,2
+Cherokee,45,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,443,6,292,145
+Cherokee,45,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,111,4,60,47
+Cherokee,45,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,45,"Justice, Supreme Court",Place 2,,Under Votes,9,0,6,3
+Cherokee,45,"Justice, Supreme Court",Place 4,REP,John Devine,441,6,292,143
+Cherokee,45,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,110,4,58,48
+Cherokee,45,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,45,"Justice, Supreme Court",Place 4,,Under Votes,12,0,8,4
+Cherokee,45,"Justice, Supreme Court",Place 6,REP,Jane Bland,427,6,286,135
+Cherokee,45,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,107,4,56,47
+Cherokee,45,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,19,0,9,10
+Cherokee,45,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,45,"Justice, Supreme Court",Place 6,,Under Votes,10,0,7,3
+Cherokee,45,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,439,6,293,140
+Cherokee,45,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,115,4,59,52
+Cherokee,45,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,45,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,0,6,3
+Cherokee,45,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,440,6,294,140
+Cherokee,45,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,111,4,56,51
+Cherokee,45,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,45,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,12,0,8,4
+Cherokee,45,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,439,6,293,140
+Cherokee,45,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,110,4,57,49
+Cherokee,45,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,45,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,14,0,8,6
+Cherokee,45,State Representative,8,REP,Cody Harris,439,7,287,145
+Cherokee,45,State Representative,8,DEM,Carolyn F. Salter,112,3,62,47
+Cherokee,45,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,45,State Representative,8,,Under Votes,12,0,9,3
+Cherokee,45,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,478,8,304,166
+Cherokee,45,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,45,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,85,2,54,29
+Cherokee,45,"District Judge, 2nd Judicial District",,REP,Chris Day,475,8,302,165
+Cherokee,45,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,45,"District Judge, 2nd Judicial District",,,Under Votes,88,2,56,30
+Cherokee,45,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,472,8,301,163
+Cherokee,45,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,45,"District Attorney, 2nd Judicial District",,,Under Votes,91,2,57,32
+Cherokee,45,County Attorney,,REP,Dana Young,470,8,299,163
+Cherokee,45,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,45,County Attorney,,,Under Votes,93,2,59,32
+Cherokee,45,Sheriff,,REP,Brent Dickson,479,8,306,165
+Cherokee,45,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,45,Sheriff,,,Under Votes,84,2,52,30
+Cherokee,45,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,481,8,309,164
+Cherokee,45,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,45,County Tax Assessor-Collector,,,Under Votes,82,2,49,31
+Cherokee,45,Constable,4,REP,Jamie Beene,467,7,300,160
+Cherokee,45,Constable,4,,Over Votes,0,0,0,0
+Cherokee,45,Constable,4,,Under Votes,96,3,58,35
+Cherokee,46,Registered Voters,,,,869,,,
+Cherokee,46,Ballots Cast,,,,612,,,
+Cherokee,46,President,,REP,Donald J. Trump JD Vance,538,12,288,238
+Cherokee,46,President,,DEM,Kamala D. Harris Tim Walz,73,3,44,26
+Cherokee,46,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+Cherokee,46,President,,,Over Votes,0,0,0,0
+Cherokee,46,President,,,Under Votes,0,0,0,0
+Cherokee,46,U.S. Senate,,REP,Ted Cruz,521,11,284,226
+Cherokee,46,U.S. Senate,,DEM,Colin Allred,81,3,46,32
+Cherokee,46,U.S. Senate,,LIB,Ted Brown,4,0,2,2
+Cherokee,46,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,46,U.S. Senate,,,Under Votes,6,0,0,6
+Cherokee,46,U.S. House,6,REP,Jake Ellzey,522,11,280,231
+Cherokee,46,U.S. House,6,DEM,John Love III,70,3,43,24
+Cherokee,46,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,46,U.S. House,6,,Under Votes,20,1,9,10
+Cherokee,46,Railroad Commissioner,,REP,Christi Craddick,521,11,283,227
+Cherokee,46,Railroad Commissioner,,DEM,Katherine Culbert,67,3,40,24
+Cherokee,46,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,5,3
+Cherokee,46,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+Cherokee,46,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,46,Railroad Commissioner,,,Under Votes,15,1,4,10
+Cherokee,46,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,532,11,287,234
+Cherokee,46,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,68,3,41,24
+Cherokee,46,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,46,"Justice, Supreme Court",Place 2,,Under Votes,12,1,4,7
+Cherokee,46,"Justice, Supreme Court",Place 4,REP,John Devine,523,9,284,230
+Cherokee,46,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,70,5,40,25
+Cherokee,46,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,46,"Justice, Supreme Court",Place 4,,Under Votes,19,1,8,10
+Cherokee,46,"Justice, Supreme Court",Place 6,REP,Jane Bland,525,11,284,230
+Cherokee,46,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,66,3,39,24
+Cherokee,46,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,5,0,3,2
+Cherokee,46,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,46,"Justice, Supreme Court",Place 6,,Under Votes,16,1,6,9
+Cherokee,46,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,522,10,280,232
+Cherokee,46,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,70,3,42,25
+Cherokee,46,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,46,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,20,2,10,8
+Cherokee,46,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,529,11,286,232
+Cherokee,46,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,66,3,40,23
+Cherokee,46,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,46,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,17,1,6,10
+Cherokee,46,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,528,11,286,231
+Cherokee,46,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,68,3,40,25
+Cherokee,46,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,46,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,16,1,6,9
+Cherokee,46,State Representative,8,REP,Cody Harris,521,11,280,230
+Cherokee,46,State Representative,8,DEM,Carolyn F. Salter,72,3,43,26
+Cherokee,46,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,46,State Representative,8,,Under Votes,19,1,9,9
+Cherokee,46,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,540,12,287,241
+Cherokee,46,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,46,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,72,3,45,24
+Cherokee,46,"District Judge, 2nd Judicial District",,REP,Chris Day,534,11,285,238
+Cherokee,46,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,46,"District Judge, 2nd Judicial District",,,Under Votes,78,4,47,27
+Cherokee,46,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,532,11,283,238
+Cherokee,46,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,46,"District Attorney, 2nd Judicial District",,,Under Votes,80,4,49,27
+Cherokee,46,County Attorney,,REP,Dana Young,534,11,286,237
+Cherokee,46,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,46,County Attorney,,,Under Votes,78,4,46,28
+Cherokee,46,Sheriff,,REP,Brent Dickson,542,11,288,243
+Cherokee,46,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,46,Sheriff,,,Under Votes,70,4,44,22
+Cherokee,46,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,539,11,283,245
+Cherokee,46,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,46,County Tax Assessor-Collector,,,Under Votes,73,4,49,20
+Cherokee,46,Constable,4,REP,Jamie Beene,534,10,281,243
+Cherokee,46,Constable,4,,Over Votes,0,0,0,0
+Cherokee,46,Constable,4,,Under Votes,78,5,51,22
+Cherokee,47,Registered Voters,,,,285,,,
+Cherokee,47,Ballots Cast,,,,194,,,
+Cherokee,47,President,,REP,Donald J. Trump JD Vance,184,5,140,39
+Cherokee,47,President,,DEM,Kamala D. Harris Tim Walz,10,0,6,4
+Cherokee,47,President,,,Over Votes,0,0,0,0
+Cherokee,47,President,,,Under Votes,0,0,0,0
+Cherokee,47,U.S. Senate,,REP,Ted Cruz,176,5,132,39
+Cherokee,47,U.S. Senate,,DEM,Colin Allred,13,0,9,4
+Cherokee,47,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,47,U.S. Senate,,,Under Votes,5,0,5,0
+Cherokee,47,U.S. House,6,REP,Jake Ellzey,175,5,130,40
+Cherokee,47,U.S. House,6,DEM,John Love III,10,0,8,2
+Cherokee,47,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,47,U.S. House,6,,Under Votes,9,0,8,1
+Cherokee,47,Railroad Commissioner,,REP,Christi Craddick,172,3,130,39
+Cherokee,47,Railroad Commissioner,,DEM,Katherine Culbert,7,0,5,2
+Cherokee,47,Railroad Commissioner,,LIB,Hawk Dunlap,4,0,3,1
+Cherokee,47,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,47,Railroad Commissioner,,,Under Votes,11,2,8,1
+Cherokee,47,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,175,3,133,39
+Cherokee,47,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,9,0,7,2
+Cherokee,47,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,47,"Justice, Supreme Court",Place 2,,Under Votes,10,2,6,2
+Cherokee,47,"Justice, Supreme Court",Place 4,REP,John Devine,174,3,130,41
+Cherokee,47,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,9,0,8,1
+Cherokee,47,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,47,"Justice, Supreme Court",Place 4,,Under Votes,11,2,8,1
+Cherokee,47,"Justice, Supreme Court",Place 6,REP,Jane Bland,171,3,127,41
+Cherokee,47,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,8,0,7,1
+Cherokee,47,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,3,0,3,0
+Cherokee,47,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,47,"Justice, Supreme Court",Place 6,,Under Votes,12,2,9,1
+Cherokee,47,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,175,3,132,40
+Cherokee,47,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,9,0,7,2
+Cherokee,47,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,47,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,10,2,7,1
+Cherokee,47,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,176,3,132,41
+Cherokee,47,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,8,0,7,1
+Cherokee,47,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,47,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,10,2,7,1
+Cherokee,47,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,176,3,133,40
+Cherokee,47,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,8,0,6,2
+Cherokee,47,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,47,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,10,2,7,1
+Cherokee,47,State Representative,8,REP,Cody Harris,175,3,131,41
+Cherokee,47,State Representative,8,DEM,Carolyn F. Salter,9,0,8,1
+Cherokee,47,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,47,State Representative,8,,Under Votes,10,2,7,1
+Cherokee,47,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,176,2,133,41
+Cherokee,47,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,47,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,18,3,13,2
+Cherokee,47,"District Judge, 2nd Judicial District",,REP,Chris Day,176,3,132,41
+Cherokee,47,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,47,"District Judge, 2nd Judicial District",,,Under Votes,18,2,14,2
+Cherokee,47,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,175,2,132,41
+Cherokee,47,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,47,"District Attorney, 2nd Judicial District",,,Under Votes,19,3,14,2
+Cherokee,47,County Attorney,,REP,Dana Young,170,2,127,41
+Cherokee,47,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,47,County Attorney,,,Under Votes,24,3,19,2
+Cherokee,47,Sheriff,,REP,Brent Dickson,171,2,128,41
+Cherokee,47,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,47,Sheriff,,,Under Votes,23,3,18,2
+Cherokee,47,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,176,2,133,41
+Cherokee,47,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,47,County Tax Assessor-Collector,,,Under Votes,18,3,13,2
+Cherokee,47,Constable,4,REP,Jamie Beene,173,3,130,40
+Cherokee,47,Constable,4,,Over Votes,0,0,0,0
+Cherokee,47,Constable,4,,Under Votes,21,2,16,3
+Cherokee,48,Registered Voters,,,,274,,,
+Cherokee,48,Ballots Cast,,,,227,,,
+Cherokee,48,President,,REP,Donald J. Trump JD Vance,202,2,128,72
+Cherokee,48,President,,DEM,Kamala D. Harris Tim Walz,22,3,13,6
+Cherokee,48,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+Cherokee,48,President,,,Over Votes,0,0,0,0
+Cherokee,48,President,,,Under Votes,2,0,0,2
+Cherokee,48,U.S. Senate,,REP,Ted Cruz,197,2,125,70
+Cherokee,48,U.S. Senate,,DEM,Colin Allred,23,3,14,6
+Cherokee,48,U.S. Senate,,LIB,Ted Brown,2,0,0,2
+Cherokee,48,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,48,U.S. Senate,,,Under Votes,5,0,2,3
+Cherokee,48,U.S. House,6,REP,Jake Ellzey,201,2,126,73
+Cherokee,48,U.S. House,6,DEM,John Love III,19,3,10,6
+Cherokee,48,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,48,U.S. House,6,,Under Votes,7,0,5,2
+Cherokee,48,Railroad Commissioner,,REP,Christi Craddick,199,1,126,72
+Cherokee,48,Railroad Commissioner,,DEM,Katherine Culbert,19,3,10,6
+Cherokee,48,Railroad Commissioner,,LIB,Hawk Dunlap,4,0,2,2
+Cherokee,48,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,48,Railroad Commissioner,,,Under Votes,5,1,3,1
+Cherokee,48,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,201,1,125,75
+Cherokee,48,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,20,3,11,6
+Cherokee,48,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,48,"Justice, Supreme Court",Place 2,,Under Votes,6,1,5,0
+Cherokee,48,"Justice, Supreme Court",Place 4,REP,John Devine,200,1,125,74
+Cherokee,48,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,20,3,11,6
+Cherokee,48,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,48,"Justice, Supreme Court",Place 4,,Under Votes,7,1,5,1
+Cherokee,48,"Justice, Supreme Court",Place 6,REP,Jane Bland,195,1,123,71
+Cherokee,48,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,21,3,12,6
+Cherokee,48,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,3,0,1,2
+Cherokee,48,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,48,"Justice, Supreme Court",Place 6,,Under Votes,8,1,5,2
+Cherokee,48,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,201,1,126,74
+Cherokee,48,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,20,3,10,7
+Cherokee,48,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,48,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,6,1,5,0
+Cherokee,48,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,201,1,127,73
+Cherokee,48,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,19,3,10,6
+Cherokee,48,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,48,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,7,1,4,2
+Cherokee,48,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,199,1,125,73
+Cherokee,48,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,20,3,11,6
+Cherokee,48,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,48,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,8,1,5,2
+Cherokee,48,State Representative,8,REP,Cody Harris,197,2,121,74
+Cherokee,48,State Representative,8,DEM,Carolyn F. Salter,21,3,11,7
+Cherokee,48,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,48,State Representative,8,,Under Votes,9,0,9,0
+Cherokee,48,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,206,1,129,76
+Cherokee,48,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,48,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,21,4,12,5
+Cherokee,48,"District Judge, 2nd Judicial District",,REP,Chris Day,201,1,125,75
+Cherokee,48,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,48,"District Judge, 2nd Judicial District",,,Under Votes,26,4,16,6
+Cherokee,48,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,205,2,127,76
+Cherokee,48,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,48,"District Attorney, 2nd Judicial District",,,Under Votes,22,3,14,5
+Cherokee,48,County Attorney,,REP,Dana Young,204,2,126,76
+Cherokee,48,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,48,County Attorney,,,Under Votes,23,3,15,5
+Cherokee,48,Sheriff,,REP,Brent Dickson,203,3,127,73
+Cherokee,48,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,48,Sheriff,,,Under Votes,24,2,14,8
+Cherokee,48,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,204,3,127,74
+Cherokee,48,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,48,County Tax Assessor-Collector,,,Under Votes,23,2,14,7
+Cherokee,48,Constable,4,REP,Jamie Beene,202,2,125,75
+Cherokee,48,Constable,4,,Over Votes,0,0,0,0
+Cherokee,48,Constable,4,,Under Votes,25,3,16,6
+Cherokee,48 - CARLISLE,Registered Voters,,,,469,,,
+Cherokee,48 - CARLISLE,Ballots Cast,,,,325,,,
+Cherokee,48 - CARLISLE,President,,REP,Donald J. Trump JD Vance,284,2,173,109
+Cherokee,48 - CARLISLE,President,,DEM,Kamala D. Harris Tim Walz,39,4,27,8
+Cherokee,48 - CARLISLE,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+Cherokee,48 - CARLISLE,President,,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,President,,,Under Votes,1,0,0,1
+Cherokee,48 - CARLISLE,U.S. Senate,,REP,Ted Cruz,278,2,169,107
+Cherokee,48 - CARLISLE,U.S. Senate,,DEM,Colin Allred,41,4,27,10
+Cherokee,48 - CARLISLE,U.S. Senate,,LIB,Ted Brown,5,0,3,2
+Cherokee,48 - CARLISLE,U.S. Senate,,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,U.S. Senate,,,Under Votes,1,0,1,0
+Cherokee,48 - CARLISLE,U.S. House,6,REP,Jake Ellzey,284,2,173,109
+Cherokee,48 - CARLISLE,U.S. House,6,DEM,John Love III,34,4,23,7
+Cherokee,48 - CARLISLE,U.S. House,6,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,U.S. House,6,,Under Votes,7,0,4,3
+Cherokee,48 - CARLISLE,Railroad Commissioner,,REP,Christi Craddick,277,2,171,104
+Cherokee,48 - CARLISLE,Railroad Commissioner,,DEM,Katherine Culbert,33,4,21,8
+Cherokee,48 - CARLISLE,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,2,5
+Cherokee,48 - CARLISLE,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1
+Cherokee,48 - CARLISLE,Railroad Commissioner,,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,Railroad Commissioner,,,Under Votes,6,0,5,1
+Cherokee,48 - CARLISLE,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,287,2,176,109
+Cherokee,48 - CARLISLE,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,32,4,21,7
+Cherokee,48 - CARLISLE,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,"Justice, Supreme Court",Place 2,,Under Votes,6,0,3,3
+Cherokee,48 - CARLISLE,"Justice, Supreme Court",Place 4,REP,John Devine,285,2,173,110
+Cherokee,48 - CARLISLE,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,32,4,22,6
+Cherokee,48 - CARLISLE,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,"Justice, Supreme Court",Place 4,,Under Votes,8,0,5,3
+Cherokee,48 - CARLISLE,"Justice, Supreme Court",Place 6,REP,Jane Bland,282,2,173,107
+Cherokee,48 - CARLISLE,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,33,4,22,7
+Cherokee,48 - CARLISLE,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,3,0,1,2
+Cherokee,48 - CARLISLE,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,"Justice, Supreme Court",Place 6,,Under Votes,7,0,4,3
+Cherokee,48 - CARLISLE,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,284,2,174,108
+Cherokee,48 - CARLISLE,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,35,4,23,8
+Cherokee,48 - CARLISLE,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,6,0,3,3
+Cherokee,48 - CARLISLE,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,284,2,174,108
+Cherokee,48 - CARLISLE,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,35,4,23,8
+Cherokee,48 - CARLISLE,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,6,0,3,3
+Cherokee,48 - CARLISLE,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,285,2,176,107
+Cherokee,48 - CARLISLE,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,32,4,20,8
+Cherokee,48 - CARLISLE,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,8,0,4,4
+Cherokee,48 - CARLISLE,State Representative,8,REP,Cody Harris,284,3,173,108
+Cherokee,48 - CARLISLE,State Representative,8,DEM,Carolyn F. Salter,32,3,22,7
+Cherokee,48 - CARLISLE,State Representative,8,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,State Representative,8,,Under Votes,9,0,5,4
+Cherokee,48 - CARLISLE,"Justice, 12th Court of Appeals District",Place 3,REP,Greg Neeley,299,6,181,112
+Cherokee,48 - CARLISLE,"Justice, 12th Court of Appeals District",Place 3,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,"Justice, 12th Court of Appeals District",Place 3,,Under Votes,26,0,19,7
+Cherokee,48 - CARLISLE,"District Judge, 2nd Judicial District",,REP,Chris Day,294,6,179,109
+Cherokee,48 - CARLISLE,"District Judge, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,"District Judge, 2nd Judicial District",,,Under Votes,31,0,21,10
+Cherokee,48 - CARLISLE,"District Attorney, 2nd Judicial District",,REP,Jonathan Richey,293,5,180,108
+Cherokee,48 - CARLISLE,"District Attorney, 2nd Judicial District",,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,"District Attorney, 2nd Judicial District",,,Under Votes,32,1,20,11
+Cherokee,48 - CARLISLE,County Attorney,,REP,Dana Young,294,6,179,109
+Cherokee,48 - CARLISLE,County Attorney,,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,County Attorney,,,Under Votes,31,0,21,10
+Cherokee,48 - CARLISLE,Sheriff,,REP,Brent Dickson,286,6,173,107
+Cherokee,48 - CARLISLE,Sheriff,,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,Sheriff,,,Under Votes,39,0,27,12
+Cherokee,48 - CARLISLE,County Tax Assessor-Collector,,REP,Shonda McCutcheon Potter,297,6,180,111
+Cherokee,48 - CARLISLE,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,County Tax Assessor-Collector,,,Under Votes,28,0,20,8
+Cherokee,48 - CARLISLE,Constable,4,REP,Jamie Beene,303,6,186,111
+Cherokee,48 - CARLISLE,Constable,4,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,Constable,4,,Under Votes,22,0,14,8
+Cherokee,48 - CARLISLE,"Carlisle Independent School District Board Trustee - Vote for none, one, two or three",,,Dawn Martin,229,5,152,72
+Cherokee,48 - CARLISLE,"Carlisle Independent School District Board Trustee - Vote for none, one, two or three",,,Barry Burton,162,3,108,51
+Cherokee,48 - CARLISLE,"Carlisle Independent School District Board Trustee - Vote for none, one, two or three",,,Kevin Curbo,120,3,77,40
+Cherokee,48 - CARLISLE,"Carlisle Independent School District Board Trustee - Vote for none, one, two or three",,,Lorin McKnight Mayo,36,0,20,16
+Cherokee,48 - CARLISLE,"Carlisle Independent School District Board Trustee - Vote for none, one, two or three",,,Over Votes,0,0,0,0
+Cherokee,48 - CARLISLE,"Carlisle Independent School District Board Trustee - Vote for none, one, two or three",,,Under Votes,428,7,243,178

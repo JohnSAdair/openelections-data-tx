@@ -1,0 +1,338 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Brewster,1,Registered Voters,,,,1935,,,
+Brewster,1,Ballots Cast,,,,1283,,1068,215
+Brewster,1,President,,REP,Donald J. Trump,833,,701,132
+Brewster,1,President,,DEM,Kamala D. Harris,415,,343,72
+Brewster,1,President,,LIB,Chase Oliver,11,,6,5
+Brewster,1,President,,GRN,Jill Stein,8,,5,3
+Brewster,1,U.S. Senate,,REP,Ted Cruz,798,,675,123
+Brewster,1,U.S. Senate,,DEM,Colin Allred,429,,355,74
+Brewster,1,U.S. Senate,,LIB,Ted Brown,35,,23,12
+Brewster,1,U.S. House,23,REP,Tony Gonzales,848,,709,139
+Brewster,1,U.S. House,23,DEM,S Limon,379,,312,67
+Brewster,1,Texas Railroad Commissioner,,REP,Christi Craddick,748,,636,112
+Brewster,1,Texas Railroad Commissioner,,DEM,Katherine Culbert,384,,322,62
+Brewster,1,Texas Railroad Commissioner,,LIB,Hawk Dunlap,62,,43,19
+Brewster,1,Texas Railroad Commissioner,,GRN,Eddie Espinosa,32,,20,12
+Brewster,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,823,,690,133
+Brewster,1,"Justice, Supreme Court, Place 2",,DEM,DeSean Jones,404,,333,71
+Brewster,1,"Justice, Supreme Court, Place 4",,REP,John Devine,803,,675,128
+Brewster,1,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,411,,336,75
+Brewster,1,"Justice, Supreme Court, Place 6",,REP,Jane Bland,769,,654,115
+Brewster,1,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,389,,324,65
+Brewster,1,"Justice, Supreme Court, Place 6",,LIB,J David Roberson,57,,36,21
+Brewster,1,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,792,,666,126
+Brewster,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,405,,331,74
+Brewster,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,815,,687,128
+Brewster,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,392,,322,70
+Brewster,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,819,,686,133
+Brewster,1,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,387,,318,69
+Brewster,1,"Member, State Board of Education",1,REP,Michael (Travis) Stevens,803,,673,130
+Brewster,1,"Member, State Board of Education",1,DEM,Gustavo Reveles,406,,334,72
+Brewster,1,State Senate,29,DEM,Cesar Blanco,606,,483,123
+Brewster,1,State Representative,74,REP,Robert Garza,769,,645,124
+Brewster,1,State Representative,74,DEM,Eddie Morales,457,,374,83
+Brewster,1,"Chief Justice, 8th Court of Appeals District, Unexpired Term",,DEM,Maria Salas Mendoza,607,,482,125
+Brewster,1,"Justice, 8th Court of Appeals District, Place 2",,DEM,Lisa Soto,612,,487,125
+Brewster,1,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M. Palafox,601,,480,121
+Brewster,1,"District Judge, 394th Judicial District",,REP,Monty Kimball,925,,761,164
+Brewster,1,"District Attorney, 83rd Judicial District",,REP,Ori Tucker White,860,,713,147
+Brewster,1,County Attorney,,REP,Marisol Aguilar Skelton,941,,779,162
+Brewster,1,County Sheriff,,DEM,Ronny D. Dodson,927,,758,169
+Brewster,1,County Tax Assessor-Collector,,DEM,Sylvia Vega,741,,601,140
+Brewster,1,"Commissioner, Precinct 1",,REP,Jim Westermann,939,,781,158
+Brewster,1,"Constable, Precinct 1",,REP,"Flavio ""Rene"" Yabarra Jr.",914,,756,158
+Brewster,2,Registered Voters,,,,1330,,,
+Brewster,2,Ballots Cast,,,,823,,698,125
+Brewster,2,President,,REP,Donald J. Trump,397,,329,68
+Brewster,2,President,,DEM,Kamala D. Harris,407,,357,50
+Brewster,2,President,,LIB,Chase Oliver,9,,6,3
+Brewster,2,President,,GRN,Jill Stein,4,,4,0
+Brewster,2,U.S. Senate,,REP,Ted Cruz,382,,323,59
+Brewster,2,U.S. Senate,,DEM,Colin Allred,406,,350,56
+Brewster,2,U.S. Senate,,LIB,Ted Brown,22,,15,7
+Brewster,2,U.S. House,23,REP,Tony Gonzales,412,,342,70
+Brewster,2,U.S. House,23,DEM,S Limon,373,,324,49
+Brewster,2,Texas Railroad Commissioner,,REP,Christi Craddick,356,,299,57
+Brewster,2,Texas Railroad Commissioner,,DEM,Katherine Culbert,368,,319,49
+Brewster,2,Texas Railroad Commissioner,,LIB,Hawk Dunlap,35,,30,5
+Brewster,2,Texas Railroad Commissioner,,GRN,Eddie Espinosa,27,,22,5
+Brewster,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,383,,320,63
+Brewster,2,"Justice, Supreme Court, Place 2",,DEM,DeSean Jones,401,,346,55
+Brewster,2,"Justice, Supreme Court, Place 4",,REP,John Devine,370,,307,63
+Brewster,2,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,405,,350,55
+Brewster,2,"Justice, Supreme Court, Place 6",,REP,Jane Bland,361,,301,60
+Brewster,2,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,376,,325,51
+Brewster,2,"Justice, Supreme Court, Place 6",,LIB,J David Roberson,44,,37,7
+Brewster,2,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,383,,320,63
+Brewster,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,391,,337,54
+Brewster,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,383,,317,66
+Brewster,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,386,,334,52
+Brewster,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,373,,310,63
+Brewster,2,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,388,,334,54
+Brewster,2,"Member, State Board of Education",1,REP,Michael (Travis) Stevens,378,,314,64
+Brewster,2,"Member, State Board of Education",1,DEM,Gustavo Reveles,388,,336,52
+Brewster,2,State Senate,29,DEM,Cesar Blanco,481,,409,72
+Brewster,2,State Representative,74,REP,Robert Garza,370,,309,61
+Brewster,2,State Representative,74,DEM,Eddie Morales,406,,348,58
+Brewster,2,"Chief Justice, 8th Court of Appeals District, Unexpired Term",,DEM,Maria Salas Mendoza,481,,407,74
+Brewster,2,"Justice, 8th Court of Appeals District, Place 2",,DEM,Lisa Soto,477,,404,73
+Brewster,2,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M. Palafox,472,,399,73
+Brewster,2,"District Judge, 394th Judicial District",,REP,Monty Kimball,487,,404,83
+Brewster,2,"District Attorney, 83rd Judicial District",,REP,Ori Tucker White,450,,369,81
+Brewster,2,County Attorney,,REP,Marisol Aguilar Skelton,494,,405,89
+Brewster,2,County Sheriff,,DEM,Ronny D. Dodson,617,,525,92
+Brewster,2,County Tax Assessor-Collector,,DEM,Sylvia Vega,554,,470,84
+Brewster,2,"Constable, Precinct 1",,REP,"Flavio ""Rene"" Yabarra Jr.",488,,397,91
+Brewster,3,Registered Voters,,,,386,,,
+Brewster,3,Ballots Cast,,,,282,,116,166
+Brewster,3,President,,REP,Donald J. Trump,136,,52,84
+Brewster,3,President,,DEM,Kamala D. Harris,140,,63,77
+Brewster,3,President,,LIB,Chase Oliver,2,,1,1
+Brewster,3,President,,GRN,Jill Stein,1,,1,0
+Brewster,3,U.S. Senate,,REP,Ted Cruz,122,,50,72
+Brewster,3,U.S. Senate,,DEM,Colin Allred,142,,65,77
+Brewster,3,U.S. Senate,,LIB,Ted Brown,9,,2,7
+Brewster,3,U.S. House,23,REP,Tony Gonzales,155,,58,97
+Brewster,3,U.S. House,23,DEM,S Limon,105,,46,59
+Brewster,3,Texas Railroad Commissioner,,REP,Christi Craddick,112,,47,65
+Brewster,3,Texas Railroad Commissioner,,DEM,Katherine Culbert,121,,58,63
+Brewster,3,Texas Railroad Commissioner,,LIB,Hawk Dunlap,18,,5,13
+Brewster,3,Texas Railroad Commissioner,,GRN,Eddie Espinosa,17,,4,13
+Brewster,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,132,,52,80
+Brewster,3,"Justice, Supreme Court, Place 2",,DEM,DeSean Jones,127,,59,68
+Brewster,3,"Justice, Supreme Court, Place 4",,REP,John Devine,126,,50,76
+Brewster,3,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,127,,60,67
+Brewster,3,"Justice, Supreme Court, Place 6",,REP,Jane Bland,122,,52,70
+Brewster,3,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,121,,58,63
+Brewster,3,"Justice, Supreme Court, Place 6",,LIB,J David Roberson,12,,2,10
+Brewster,3,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,129,,52,77
+Brewster,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,122,,59,63
+Brewster,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,132,,53,79
+Brewster,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,121,,59,62
+Brewster,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,130,,54,76
+Brewster,3,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,115,,54,61
+Brewster,3,"Member, State Board of Education",1,REP,Michael (Travis) Stevens,127,,51,76
+Brewster,3,"Member, State Board of Education",1,DEM,Gustavo Reveles,118,,53,65
+Brewster,3,State Senate,29,DEM,Cesar Blanco,0,,0,0
+Brewster,3,State Representative,74,REP,Robert Garza,126,,50,76
+Brewster,3,State Representative,74,DEM,Eddie Morales,132,,61,71
+Brewster,3,"Chief Justice, 8th Court of Appeals District, Unexpired Term",,DEM,Maria Salas Mendoza,161,,68,93
+Brewster,3,"Justice, 8th Court of Appeals District, Place 2",,DEM,Lisa Soto,156,,66,90
+Brewster,3,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M. Palafox,156,,66,90
+Brewster,3,"District Judge, 394th Judicial District",,REP,Monty Kimball,154,,59,95
+Brewster,3,"District Attorney, 83rd Judicial District",,REP,Ori Tucker White,142,,59,83
+Brewster,3,County Attorney,,REP,Marisol Aguilar Skelton,177,,69,108
+Brewster,3,County Sheriff,,DEM,Ronny D. Dodson,212,,82,130
+Brewster,3,County Tax Assessor-Collector,,DEM,Sylvia Vega,188,,77,111
+Brewster,3,"Commissioner, Precinct 3",,DEM,Ruben Ortega,211,,81,130
+Brewster,4,Registered Voters,,,,1733,,,
+Brewster,4,Ballots Cast,,,,1055,,879,176
+Brewster,4,President,,REP,Donald J. Trump,617,,519,98
+Brewster,4,President,,DEM,Kamala D. Harris,418,,345,73
+Brewster,4,President,,LIB,Chase Oliver,9,,6,3
+Brewster,4,President,,GRN,Jill Stein,3,,1,2
+Brewster,4,U.S. Senate,,REP,Ted Cruz,593,,504,89
+Brewster,4,U.S. Senate,,DEM,Colin Allred,432,,353,79
+Brewster,4,U.S. Senate,,LIB,Ted Brown,18,,13,5
+Brewster,4,U.S. House,23,REP,Tony Gonzales,612,,511,101
+Brewster,4,U.S. House,23,DEM,S Limon,397,,334,63
+Brewster,4,Texas Railroad Commissioner,,REP,Christi Craddick,556,,474,82
+Brewster,4,Texas Railroad Commissioner,,DEM,Katherine Culbert,366,,310,56
+Brewster,4,Texas Railroad Commissioner,,LIB,Hawk Dunlap,38,,25,13
+Brewster,4,Texas Railroad Commissioner,,GRN,Eddie Espinosa,35,,26,9
+Brewster,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,590,,498,92
+Brewster,4,"Justice, Supreme Court, Place 2",,DEM,DeSean Jones,407,,336,71
+Brewster,4,"Justice, Supreme Court, Place 4",,REP,John Devine,570,,483,87
+Brewster,4,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,407,,332,75
+Brewster,4,"Justice, Supreme Court, Place 6",,REP,Jane Bland,551,,470,81
+Brewster,4,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,398,,328,70
+Brewster,4,"Justice, Supreme Court, Place 6",,LIB,J David Roberson,36,,27,9
+Brewster,4,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,569,,486,83
+Brewster,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,405,,329,76
+Brewster,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,578,,488,90
+Brewster,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,395,,330,65
+Brewster,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,587,,493,94
+Brewster,4,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,378,,318,60
+Brewster,4,"Member, State Board of Education",1,REP,Michael (Travis) Stevens,561,,479,82
+Brewster,4,"Member, State Board of Education",1,DEM,Gustavo Reveles,414,,339,75
+Brewster,4,State Senate,29,DEM,Cesar Blanco,555,,445,110
+Brewster,4,State Representative,74,REP,Robert Garza,571,,480,91
+Brewster,4,State Representative,74,DEM,Eddie Morales,430,,355,75
+Brewster,4,"Chief Justice, 8th Court of Appeals District, Unexpired Term",,DEM,Maria Salas Mendoza,565,,457,108
+Brewster,4,"Justice, 8th Court of Appeals District, Place 2",,DEM,Lisa Soto,554,,448,106
+Brewster,4,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M. Palafox,545,,444,101
+Brewster,4,"District Judge, 394th Judicial District",,REP,Monty Kimball,707,,592,115
+Brewster,4,"District Attorney, 83rd Judicial District",,REP,Ori Tucker White,646,,543,103
+Brewster,4,County Attorney,,REP,Marisol Aguilar Skelton,718,,600,118
+Brewster,4,County Sheriff,,DEM,Ronny D. Dodson,785,,645,140
+Brewster,4,County Tax Assessor-Collector,,DEM,Sylvia Vega,660,,534,126
+Brewster,4,"Constable, Precinct 1",,REP,"Flavio ""Rene"" Yabarra Jr.",691,,578,113
+Brewster,5,Registered Voters,,,,154,,,
+Brewster,5,Ballots Cast,,,,90,,31,59
+Brewster,5,President,,REP,Donald J. Trump,36,,18,18
+Brewster,5,President,,DEM,Kamala D. Harris,49,,12,37
+Brewster,5,President,,LIB,Chase Oliver,2,,0,2
+Brewster,5,President,,GRN,Jill Stein,2,,0,2
+Brewster,5,U.S. Senate,,REP,Ted Cruz,36,,19,17
+Brewster,5,U.S. Senate,,DEM,Colin Allred,49,,12,37
+Brewster,5,U.S. Senate,,LIB,Ted Brown,4,,0,4
+Brewster,5,U.S. House,23,REP,Tony Gonzales,38,,16,22
+Brewster,5,U.S. House,23,DEM,S Limon,45,,11,34
+Brewster,5,Texas Railroad Commissioner,,REP,Christi Craddick,31,,20,11
+Brewster,5,Texas Railroad Commissioner,,DEM,Katherine Culbert,40,,9,31
+Brewster,5,Texas Railroad Commissioner,,LIB,Hawk Dunlap,7,,1,6
+Brewster,5,Texas Railroad Commissioner,,GRN,Eddie Espinosa,5,,0,5
+Brewster,5,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,35,,20,15
+Brewster,5,"Justice, Supreme Court, Place 2",,DEM,DeSean Jones,49,,10,39
+Brewster,5,"Justice, Supreme Court, Place 4",,REP,John Devine,38,,20,18
+Brewster,5,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,46,,10,36
+Brewster,5,"Justice, Supreme Court, Place 6",,REP,Jane Bland,33,,20,13
+Brewster,5,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,43,,9,34
+Brewster,5,"Justice, Supreme Court, Place 6",,LIB,J David Roberson,8,,1,7
+Brewster,5,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,37,,19,18
+Brewster,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,46,,11,35
+Brewster,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,36,,20,16
+Brewster,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,46,,10,36
+Brewster,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,36,,18,18
+Brewster,5,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,46,,11,35
+Brewster,5,"Member, State Board of Education",1,REP,Michael (Travis) Stevens,34,,17,17
+Brewster,5,"Member, State Board of Education",1,DEM,Gustavo Reveles,45,,10,35
+Brewster,5,State Senate,29,DEM,Cesar Blanco,0,,0,0
+Brewster,5,State Representative,74,REP,Robert Garza,34,,17,17
+Brewster,5,State Representative,74,DEM,Eddie Morales,47,,10,37
+Brewster,5,"Chief Justice, 8th Court of Appeals District, Unexpired Term",,DEM,Maria Salas Mendoza,56,,17,39
+Brewster,5,"Justice, 8th Court of Appeals District, Place 2",,DEM,Lisa Soto,53,,15,38
+Brewster,5,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M. Palafox,53,,15,38
+Brewster,5,"District Judge, 394th Judicial District",,REP,Monty Kimball,48,,19,29
+Brewster,5,"District Attorney, 83rd Judicial District",,REP,Ori Tucker White,45,,18,27
+Brewster,5,County Attorney,,REP,Marisol Aguilar Skelton,49,,21,28
+Brewster,5,County Sheriff,,DEM,Ronny D. Dodson,66,,21,45
+Brewster,5,County Tax Assessor-Collector,,DEM,Sylvia Vega,56,,16,40
+Brewster,5,"Commissioner, Precinct 3",,DEM,Ruben Ortega,57,,15,42
+Brewster,6,Registered Voters,,,,783,,,
+Brewster,6,Ballots Cast,,,,527,,237,290
+Brewster,6,President,,REP,Donald J. Trump,289,,135,154
+Brewster,6,President,,DEM,Kamala D. Harris,225,,99,126
+Brewster,6,President,,LIB,Chase Oliver,6,,0,6
+Brewster,6,President,,GRN,Jill Stein,3,,0,3
+Brewster,6,U.S. Senate,,REP,Ted Cruz,270,,132,138
+Brewster,6,U.S. Senate,,DEM,Colin Allred,227,,97,130
+Brewster,6,U.S. Senate,,LIB,Ted Brown,23,,3,20
+Brewster,6,U.S. House,23,REP,Tony Gonzales,284,,133,151
+Brewster,6,U.S. House,23,DEM,S Limon,218,,94,124
+Brewster,6,Texas Railroad Commissioner,,REP,Christi Craddick,257,,124,133
+Brewster,6,Texas Railroad Commissioner,,DEM,Katherine Culbert,207,,90,117
+Brewster,6,Texas Railroad Commissioner,,LIB,Hawk Dunlap,26,,10,16
+Brewster,6,Texas Railroad Commissioner,,GRN,Eddie Espinosa,20,,4,16
+Brewster,6,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,285,,134,151
+Brewster,6,"Justice, Supreme Court, Place 2",,DEM,DeSean Jones,221,,94,127
+Brewster,6,"Justice, Supreme Court, Place 4",,REP,John Devine,273,,130,143
+Brewster,6,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,225,,94,131
+Brewster,6,"Justice, Supreme Court, Place 6",,REP,Jane Bland,262,,129,133
+Brewster,6,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,208,,94,114
+Brewster,6,"Justice, Supreme Court, Place 6",,LIB,J David Roberson,37,,5,32
+Brewster,6,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,275,,131,144
+Brewster,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,219,,92,127
+Brewster,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,279,,131,148
+Brewster,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,221,,94,127
+Brewster,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,281,,130,151
+Brewster,6,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,215,,92,123
+Brewster,6,"Member, State Board of Education",1,REP,Michael (Travis) Stevens,278,,130,148
+Brewster,6,"Member, State Board of Education",1,DEM,Gustavo Reveles,213,,93,120
+Brewster,6,State Senate,29,DEM,Cesar Blanco,264,,109,155
+Brewster,6,State Representative,74,REP,Robert Garza,273,,132,141
+Brewster,6,State Representative,74,DEM,Eddie Morales,225,,95,130
+Brewster,6,"Chief Justice, 8th Court of Appeals District, Unexpired Term",,DEM,Maria Salas Mendoza,266,,110,156
+Brewster,6,"Justice, 8th Court of Appeals District, Place 2",,DEM,Lisa Soto,268,,110,158
+Brewster,6,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M. Palafox,264,,108,156
+Brewster,6,"District Judge, 394th Judicial District",,REP,Monty Kimball,314,,142,172
+Brewster,6,"District Attorney, 83rd Judicial District",,REP,Ori Tucker White,304,,136,168
+Brewster,6,County Attorney,,REP,Marisol Aguilar Skelton,324,,150,174
+Brewster,6,County Sheriff,,DEM,Ronny D. Dodson,393,,161,232
+Brewster,6,County Tax Assessor-Collector,,DEM,Sylvia Vega,324,,132,192
+Brewster,7,Registered Voters,,,,200,,,
+Brewster,7,Ballots Cast,,,,112,,45,67
+Brewster,7,President,,REP,Donald J. Trump,48,,19,29
+Brewster,7,President,,DEM,Kamala D. Harris,62,,25,37
+Brewster,7,President,,LIB,Chase Oliver,0,,0,0
+Brewster,7,President,,GRN,Jill Stein,0,,0,0
+Brewster,7,U.S. Senate,,REP,Ted Cruz,44,,19,25
+Brewster,7,U.S. Senate,,DEM,Colin Allred,66,,26,40
+Brewster,7,U.S. Senate,,LIB,Ted Brown,0,,0,0
+Brewster,7,U.S. House,23,REP,Tony Gonzales,53,,19,34
+Brewster,7,U.S. House,23,DEM,S Limon,53,,23,30
+Brewster,7,Texas Railroad Commissioner,,REP,Christi Craddick,45,,19,26
+Brewster,7,Texas Railroad Commissioner,,DEM,Katherine Culbert,57,,23,34
+Brewster,7,Texas Railroad Commissioner,,LIB,Hawk Dunlap,3,,1,2
+Brewster,7,Texas Railroad Commissioner,,GRN,Eddie Espinosa,1,,0,1
+Brewster,7,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,46,,19,27
+Brewster,7,"Justice, Supreme Court, Place 2",,DEM,DeSean Jones,63,,25,38
+Brewster,7,"Justice, Supreme Court, Place 4",,REP,John Devine,44,,19,25
+Brewster,7,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,64,,25,39
+Brewster,7,"Justice, Supreme Court, Place 6",,REP,Jane Bland,44,,18,26
+Brewster,7,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,58,,24,34
+Brewster,7,"Justice, Supreme Court, Place 6",,LIB,J David Roberson,5,,2,3
+Brewster,7,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,47,,21,26
+Brewster,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,56,,21,35
+Brewster,7,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,43,,19,24
+Brewster,7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,60,,24,36
+Brewster,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,43,,19,24
+Brewster,7,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,63,,24,39
+Brewster,7,"Member, State Board of Education",1,REP,Michael (Travis) Stevens,43,,18,25
+Brewster,7,"Member, State Board of Education",1,DEM,Gustavo Reveles,62,,25,37
+Brewster,7,State Senate,29,DEM,Cesar Blanco,71,,29,42
+Brewster,7,State Representative,74,REP,Robert Garza,44,,17,27
+Brewster,7,State Representative,74,DEM,Eddie Morales,63,,26,37
+Brewster,7,"Chief Justice, 8th Court of Appeals District, Unexpired Term",,DEM,Maria Salas Mendoza,73,,28,45
+Brewster,7,"Justice, 8th Court of Appeals District, Place 2",,DEM,Lisa Soto,73,,29,44
+Brewster,7,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M. Palafox,72,,28,44
+Brewster,7,"District Judge, 394th Judicial District",,REP,Monty Kimball,56,,22,34
+Brewster,7,"District Attorney, 83rd Judicial District",,REP,Ori Tucker White,56,,20,36
+Brewster,7,County Attorney,,REP,Marisol Aguilar Skelton,58,,23,35
+Brewster,7,County Sheriff,,DEM,Ronny D. Dodson,85,,31,54
+Brewster,7,County Tax Assessor-Collector,,DEM,Sylvia Vega,82,,31,51
+Brewster,7,"Commissioner, Precinct 3",,DEM,Ruben Ortega,73,,28,45
+Brewster,8,Registered Voters,,,,887,,,
+Brewster,8,Ballots Cast,,,,450,,340,110
+Brewster,8,President,,REP,Donald J. Trump,189,,140,49
+Brewster,8,President,,DEM,Kamala D. Harris,253,,194,59
+Brewster,8,President,,LIB,Chase Oliver,1,,0,1
+Brewster,8,President,,GRN,Jill Stein,1,,1,0
+Brewster,8,U.S. Senate,,REP,Ted Cruz,177,,132,45
+Brewster,8,U.S. Senate,,DEM,Colin Allred,247,,190,57
+Brewster,8,U.S. Senate,,LIB,Ted Brown,13,,8,5
+Brewster,8,U.S. House,23,REP,Tony Gonzales,182,,130,52
+Brewster,8,U.S. House,23,DEM,S Limon,220,,170,50
+Brewster,8,Texas Railroad Commissioner,,REP,Christi Craddick,161,,116,45
+Brewster,8,Texas Railroad Commissioner,,DEM,Katherine Culbert,211,,165,46
+Brewster,8,Texas Railroad Commissioner,,LIB,Hawk Dunlap,17,,15,2
+Brewster,8,Texas Railroad Commissioner,,GRN,Eddie Espinosa,25,,21,4
+Brewster,8,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,172,,127,45
+Brewster,8,"Justice, Supreme Court, Place 2",,DEM,DeSean Jones,241,,186,55
+Brewster,8,"Justice, Supreme Court, Place 4",,REP,John Devine,168,,123,45
+Brewster,8,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,239,,184,55
+Brewster,8,"Justice, Supreme Court, Place 6",,REP,Jane Bland,159,,117,42
+Brewster,8,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,229,,181,48
+Brewster,8,"Justice, Supreme Court, Place 6",,LIB,J David Roberson,17,,11,6
+Brewster,8,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,161,,116,45
+Brewster,8,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,226,,182,44
+Brewster,8,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,172,,129,43
+Brewster,8,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,231,,180,51
+Brewster,8,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,164,,121,43
+Brewster,8,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,230,,181,49
+Brewster,8,"Member, State Board of Education",1,REP,Michael (Travis) Stevens,152,,110,42
+Brewster,8,"Member, State Board of Education",1,DEM,Gustavo Reveles,234,,181,53
+Brewster,8,State Senate,29,DEM,Cesar Blanco,283,,214,69
+Brewster,8,State Representative,74,REP,Robert Garza,157,,114,43
+Brewster,8,State Representative,74,DEM,Eddie Morales,244,,185,59
+Brewster,8,"Chief Justice, 8th Court of Appeals District, Unexpired Term",,DEM,Maria Salas Mendoza,289,,213,76
+Brewster,8,"Justice, 8th Court of Appeals District, Place 2",,DEM,Lisa Soto,290,,215,75
+Brewster,8,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M. Palafox,282,,212,70
+Brewster,8,"District Judge, 394th Judicial District",,REP,Monty Kimball,238,,174,64
+Brewster,8,"District Attorney, 83rd Judicial District",,REP,Ori Tucker White,222,,166,56
+Brewster,8,County Attorney,,REP,Marisol Aguilar Skelton,242,,177,65
+Brewster,8,County Sheriff,,DEM,Ronny D. Dodson,315,,240,75
+Brewster,8,County Tax Assessor-Collector,,DEM,Sylvia Vega,314,,238,76
+Brewster,8,"Commissioner, Precinct 3",,DEM,Ruben Ortega,298,,224,74
+Brewster,8,"Constable, Precinct 1",,REP,"Flavio ""Rene"" Yabarra Jr.",255,,189,66

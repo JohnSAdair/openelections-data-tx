@@ -1,0 +1,480 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Calhoun,PCT.1,Registered Voters,,,,1607,,,
+Calhoun,PCT.1,Ballots Cast,,,,611,12,412,187
+Calhoun,PCT.1,Ballots Cast - Blank,,,,0,0,0,0
+Calhoun,PCT.1,President,,REP,Donald J. Trump/JD Vance,333,3,226,104
+Calhoun,PCT.1,President,,DEM,Kamala D. Harris/Tim Walz,270,9,179,82
+Calhoun,PCT.1,President,,LIB,Chase Oliver/Mike ter Maat,4,0,3,1
+Calhoun,PCT.1,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Calhoun,PCT.1,U.S. Senate,,REP,Ted Cruz,281,3,187,91
+Calhoun,PCT.1,U.S. Senate,,DEM,Colin Allred,293,9,199,85
+Calhoun,PCT.1,U.S. Senate,,LIB,Ted Brown,15,0,11,4
+Calhoun,PCT.1,U.S. House,27,REP,Michael Cloud,316,7,210,99
+Calhoun,PCT.1,U.S. House,27,DEM,Tanya Lloyd,250,5,175,70
+Calhoun,PCT.1,Railroad Commissioner,,REP,Christi Craddick,277,4,191,82
+Calhoun,PCT.1,Railroad Commissioner,,DEM,Katherine Culbert,243,5,168,70
+Calhoun,PCT.1,Railroad Commissioner,,LIB,Hawk Dunlap,12,0,9,3
+Calhoun,PCT.1,Railroad Commissioner,,GRN,Eddie Espinoza,30,1,16,13
+Calhoun,PCT.1,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,302,5,203,94
+Calhoun,PCT.1,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,257,5,176,76
+Calhoun,PCT.1,"Justice, Supreme Court, Pl 4",4,REP,John Devine,294,4,198,92
+Calhoun,PCT.1,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,258,6,173,79
+Calhoun,PCT.1,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,290,4,195,91
+Calhoun,PCT.1,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,250,6,173,71
+Calhoun,PCT.1,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,16,0,12,4
+Calhoun,PCT.1,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,301,4,201,96
+Calhoun,PCT.1,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,259,6,181,72
+Calhoun,PCT.1,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,291,5,196,90
+Calhoun,PCT.1,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,251,5,174,72
+Calhoun,PCT.1,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,309,5,204,100
+Calhoun,PCT.1,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,243,4,173,66
+Calhoun,PCT.1,State Representative,43,REP,J.M. Lozano,295,3,198,94
+Calhoun,PCT.1,State Representative,43,DEM,Mariana Casarez,267,7,185,75
+Calhoun,PCT.1,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,293,5,198,90
+Calhoun,PCT.1,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,258,5,177,76
+Calhoun,PCT.1,"Justice, 13th Ct of App Dist, Pl 2",2,REP,Jenny Cron,279,3,190,86
+Calhoun,PCT.1,"Justice, 13th Ct of App Dist, Pl 2",2,DEM,Nora Longoria,274,7,187,80
+Calhoun,PCT.1,"Justice, 13th Ct of App Dist, Pl 4",4,REP,Ysmael D. Fonseca,289,5,194,90
+Calhoun,PCT.1,"Justice, 13th Ct of App Dist, Pl 4",4,DEM,Joe Martinez,265,5,184,76
+Calhoun,PCT.1,"Justice, 13th Ct of App Dist, Pl 5",5,REP,Jon West,295,5,199,91
+Calhoun,PCT.1,"Justice, 13th Ct of App Dist, Pl 5",5,DEM,Regi Compian Richardson,259,5,180,74
+Calhoun,PCT.1,"Dist Judge, 24th Judicial Dist",,REP,Lisa Harvey Moore,398,6,264,128
+Calhoun,PCT.1,"Dist Judge, 135th Judicial Dist",,REP,Kemper Stephen Williams,388,6,257,125
+Calhoun,PCT.1,Sheriff,,REP,Bobbie Vickery,415,6,275,134
+Calhoun,PCT.1,County Tax Assessor-Collector,,REP,Azalia Sally Bonuz,430,7,283,140
+Calhoun,PCT.1,County Commissioner Pct 1,1,REP,David Hall,410,7,272,131
+Calhoun,PCT.1,Constable Pct 1,1,REP,Tyrone Harris,413,7,273,133
+Calhoun,PCT.2,Registered Voters,,,,772,,,
+Calhoun,PCT.2,Ballots Cast,,,,473,12,351,110
+Calhoun,PCT.2,Ballots Cast - Blank,,,,0,0,0,0
+Calhoun,PCT.2,President,,REP,Donald J. Trump/JD Vance,325,5,240,80
+Calhoun,PCT.2,President,,DEM,Kamala D. Harris/Tim Walz,144,7,108,29
+Calhoun,PCT.2,President,,LIB,Chase Oliver/Mike ter Maat,1,0,1,0
+Calhoun,PCT.2,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Calhoun,PCT.2,U.S. Senate,,REP,Ted Cruz,310,4,231,75
+Calhoun,PCT.2,U.S. Senate,,DEM,Colin Allred,151,8,111,32
+Calhoun,PCT.2,U.S. Senate,,LIB,Ted Brown,4,0,4,0
+Calhoun,PCT.2,U.S. House,27,REP,Michael Cloud,320,4,243,73
+Calhoun,PCT.2,U.S. House,27,DEM,Tanya Lloyd,139,8,102,29
+Calhoun,PCT.2,Railroad Commissioner,,REP,Christi Craddick,312,5,235,72
+Calhoun,PCT.2,Railroad Commissioner,,DEM,Katherine Culbert,122,6,90,26
+Calhoun,PCT.2,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,7,1
+Calhoun,PCT.2,Railroad Commissioner,,GRN,Eddie Espinoza,16,1,11,4
+Calhoun,PCT.2,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,313,4,237,72
+Calhoun,PCT.2,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,142,8,105,29
+Calhoun,PCT.2,"Justice, Supreme Court, Pl 4",4,REP,John Devine,308,4,235,69
+Calhoun,PCT.2,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,142,8,104,30
+Calhoun,PCT.2,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,308,4,234,70
+Calhoun,PCT.2,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,137,8,101,28
+Calhoun,PCT.2,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,12,0,9,3
+Calhoun,PCT.2,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,310,4,236,70
+Calhoun,PCT.2,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,145,8,106,31
+Calhoun,PCT.2,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,305,4,234,67
+Calhoun,PCT.2,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,143,8,104,31
+Calhoun,PCT.2,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,310,4,237,69
+Calhoun,PCT.2,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,138,8,99,31
+Calhoun,PCT.2,State Representative,43,REP,J.M. Lozano,306,4,234,68
+Calhoun,PCT.2,State Representative,43,DEM,Mariana Casarez,144,8,104,32
+Calhoun,PCT.2,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,305,4,231,70
+Calhoun,PCT.2,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,146,8,108,30
+Calhoun,PCT.2,"Justice, 13th Ct of App Dist, Pl 2",2,REP,Jenny Cron,298,4,228,66
+Calhoun,PCT.2,"Justice, 13th Ct of App Dist, Pl 2",2,DEM,Nora Longoria,152,8,111,33
+Calhoun,PCT.2,"Justice, 13th Ct of App Dist, Pl 4",4,REP,Ysmael D. Fonseca,306,4,234,68
+Calhoun,PCT.2,"Justice, 13th Ct of App Dist, Pl 4",4,DEM,Joe Martinez,141,7,103,31
+Calhoun,PCT.2,"Justice, 13th Ct of App Dist, Pl 5",5,REP,Jon West,312,4,235,73
+Calhoun,PCT.2,"Justice, 13th Ct of App Dist, Pl 5",5,DEM,Regi Compian Richardson,137,8,102,27
+Calhoun,PCT.2,"Dist Judge, 24th Judicial Dist",,REP,Lisa Harvey Moore,365,6,276,83
+Calhoun,PCT.2,"Dist Judge, 135th Judicial Dist",,REP,Kemper Stephen Williams,362,6,272,84
+Calhoun,PCT.2,Sheriff,,REP,Bobbie Vickery,367,8,277,82
+Calhoun,PCT.2,County Tax Assessor-Collector,,REP,Azalia Sally Bonuz,373,8,279,86
+Calhoun,PCT.2,County Commissioner Pct 1,1,REP,David Hall,371,8,279,84
+Calhoun,PCT.2,Constable Pct 1,1,REP,Tyrone Harris,369,6,275,88
+Calhoun,PCT.3,Registered Voters,,,,619,,,
+Calhoun,PCT.3,Ballots Cast,,,,412,11,270,131
+Calhoun,PCT.3,Ballots Cast - Blank,,,,0,0,0,0
+Calhoun,PCT.3,President,,REP,Donald J. Trump/JD Vance,317,10,207,100
+Calhoun,PCT.3,President,,DEM,Kamala D. Harris/Tim Walz,85,1,58,26
+Calhoun,PCT.3,President,,LIB,Chase Oliver/Mike ter Maat,6,0,4,2
+Calhoun,PCT.3,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Calhoun,PCT.3,U.S. Senate,,REP,Ted Cruz,304,10,196,98
+Calhoun,PCT.3,U.S. Senate,,DEM,Colin Allred,95,1,62,32
+Calhoun,PCT.3,U.S. Senate,,LIB,Ted Brown,8,0,8,0
+Calhoun,PCT.3,U.S. House,27,REP,Michael Cloud,313,10,203,100
+Calhoun,PCT.3,U.S. House,27,DEM,Tanya Lloyd,85,1,58,26
+Calhoun,PCT.3,Railroad Commissioner,,REP,Christi Craddick,308,8,200,100
+Calhoun,PCT.3,Railroad Commissioner,,DEM,Katherine Culbert,71,1,47,23
+Calhoun,PCT.3,Railroad Commissioner,,LIB,Hawk Dunlap,16,0,12,4
+Calhoun,PCT.3,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1
+Calhoun,PCT.3,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,311,8,204,99
+Calhoun,PCT.3,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,80,1,54,25
+Calhoun,PCT.3,"Justice, Supreme Court, Pl 4",4,REP,John Devine,309,8,202,99
+Calhoun,PCT.3,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,80,1,55,24
+Calhoun,PCT.3,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,301,8,197,96
+Calhoun,PCT.3,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,79,1,53,25
+Calhoun,PCT.3,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,13,1,10,2
+Calhoun,PCT.3,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,305,8,199,98
+Calhoun,PCT.3,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,84,1,58,25
+Calhoun,PCT.3,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,297,8,195,94
+Calhoun,PCT.3,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,83,3,56,24
+Calhoun,PCT.3,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,310,8,205,97
+Calhoun,PCT.3,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,76,1,52,23
+Calhoun,PCT.3,State Representative,43,REP,J.M. Lozano,302,7,199,96
+Calhoun,PCT.3,State Representative,43,DEM,Mariana Casarez,85,2,56,27
+Calhoun,PCT.3,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,305,8,198,99
+Calhoun,PCT.3,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,81,1,58,22
+Calhoun,PCT.3,"Justice, 13th Ct of App Dist, Pl 2",2,REP,Jenny Cron,303,8,200,95
+Calhoun,PCT.3,"Justice, 13th Ct of App Dist, Pl 2",2,DEM,Nora Longoria,80,1,55,24
+Calhoun,PCT.3,"Justice, 13th Ct of App Dist, Pl 4",4,REP,Ysmael D. Fonseca,302,8,198,96
+Calhoun,PCT.3,"Justice, 13th Ct of App Dist, Pl 4",4,DEM,Joe Martinez,83,1,57,25
+Calhoun,PCT.3,"Justice, 13th Ct of App Dist, Pl 5",5,REP,Jon West,307,8,200,99
+Calhoun,PCT.3,"Justice, 13th Ct of App Dist, Pl 5",5,DEM,Regi Compian Richardson,77,1,54,22
+Calhoun,PCT.3,"Dist Judge, 24th Judicial Dist",,REP,Lisa Harvey Moore,334,9,214,111
+Calhoun,PCT.3,"Dist Judge, 135th Judicial Dist",,REP,Kemper Stephen Williams,324,9,209,106
+Calhoun,PCT.3,Sheriff,,REP,Bobbie Vickery,334,9,218,107
+Calhoun,PCT.3,County Tax Assessor-Collector,,REP,Azalia Sally Bonuz,329,9,212,108
+Calhoun,PCT.3,County Commissioner Pct 1,1,REP,David Hall,343,10,223,110
+Calhoun,PCT.3,Constable Pct 1,1,REP,Tyrone Harris,325,10,212,103
+Calhoun,PCT.4,Registered Voters,,,,1369,,,
+Calhoun,PCT.4,Ballots Cast,,,,634,17,460,157
+Calhoun,PCT.4,Ballots Cast - Blank,,,,0,0,0,0
+Calhoun,PCT.4,President,,REP,Donald J. Trump/JD Vance,370,2,280,88
+Calhoun,PCT.4,President,,DEM,Kamala D. Harris/Tim Walz,254,14,178,62
+Calhoun,PCT.4,President,,LIB,Chase Oliver/Mike ter Maat,3,0,1,2
+Calhoun,PCT.4,President,,GRN,Jill Stein/Rudolph Ware,3,1,0,2
+Calhoun,PCT.4,U.S. Senate,,REP,Ted Cruz,335,2,254,79
+Calhoun,PCT.4,U.S. Senate,,DEM,Colin Allred,264,13,184,67
+Calhoun,PCT.4,U.S. Senate,,LIB,Ted Brown,19,1,12,6
+Calhoun,PCT.4,U.S. House,27,REP,Michael Cloud,348,3,260,85
+Calhoun,PCT.4,U.S. House,27,DEM,Tanya Lloyd,253,13,178,62
+Calhoun,PCT.4,Railroad Commissioner,,REP,Christi Craddick,327,2,245,80
+Calhoun,PCT.4,Railroad Commissioner,,DEM,Katherine Culbert,224,12,158,54
+Calhoun,PCT.4,Railroad Commissioner,,LIB,Hawk Dunlap,15,0,9,6
+Calhoun,PCT.4,Railroad Commissioner,,GRN,Eddie Espinoza,26,1,19,6
+Calhoun,PCT.4,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,350,3,261,86
+Calhoun,PCT.4,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,237,12,165,60
+Calhoun,PCT.4,"Justice, Supreme Court, Pl 4",4,REP,John Devine,346,2,258,86
+Calhoun,PCT.4,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,237,13,166,58
+Calhoun,PCT.4,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,340,3,259,78
+Calhoun,PCT.4,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,229,12,162,55
+Calhoun,PCT.4,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,16,1,8,7
+Calhoun,PCT.4,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,342,3,255,84
+Calhoun,PCT.4,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,243,12,173,58
+Calhoun,PCT.4,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,334,3,252,79
+Calhoun,PCT.4,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,230,11,162,57
+Calhoun,PCT.4,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,351,3,263,85
+Calhoun,PCT.4,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,224,12,160,52
+Calhoun,PCT.4,State Representative,43,REP,J.M. Lozano,338,2,255,81
+Calhoun,PCT.4,State Representative,43,DEM,Mariana Casarez,246,14,170,62
+Calhoun,PCT.4,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,336,2,250,84
+Calhoun,PCT.4,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,240,13,170,57
+Calhoun,PCT.4,"Justice, 13th Ct of App Dist, Pl 2",2,REP,Jenny Cron,324,3,242,79
+Calhoun,PCT.4,"Justice, 13th Ct of App Dist, Pl 2",2,DEM,Nora Longoria,253,12,175,66
+Calhoun,PCT.4,"Justice, 13th Ct of App Dist, Pl 4",4,REP,Ysmael D. Fonseca,329,2,244,83
+Calhoun,PCT.4,"Justice, 13th Ct of App Dist, Pl 4",4,DEM,Joe Martinez,247,12,176,59
+Calhoun,PCT.4,"Justice, 13th Ct of App Dist, Pl 5",5,REP,Jon West,347,3,256,88
+Calhoun,PCT.4,"Justice, 13th Ct of App Dist, Pl 5",5,DEM,Regi Compian Richardson,223,12,158,53
+Calhoun,PCT.4,"Dist Judge, 24th Judicial Dist",,REP,Lisa Harvey Moore,438,7,316,115
+Calhoun,PCT.4,"Dist Judge, 135th Judicial Dist",,REP,Kemper Stephen Williams,431,7,312,112
+Calhoun,PCT.4,Sheriff,,REP,Bobbie Vickery,464,8,334,122
+Calhoun,PCT.4,County Tax Assessor-Collector,,REP,Azalia Sally Bonuz,478,11,347,120
+Calhoun,PCT.4,Constable Pct 2,2,REP,"William ""Billy"" Billings",447,7,322,118
+Calhoun,PCT.5,Registered Voters,,,,1809,,,
+Calhoun,PCT.5,Ballots Cast,,,,1239,43,901,295
+Calhoun,PCT.5,Ballots Cast - Blank,,,,0,0,0,0
+Calhoun,PCT.5,President,,REP,Donald J. Trump/JD Vance,957,24,696,237
+Calhoun,PCT.5,President,,DEM,Kamala D. Harris/Tim Walz,271,19,201,51
+Calhoun,PCT.5,President,,LIB,Chase Oliver/Mike ter Maat,1,0,0,1
+Calhoun,PCT.5,President,,GRN,Jill Stein/Rudolph Ware,3,0,0,3
+Calhoun,PCT.5,U.S. Senate,,REP,Ted Cruz,916,25,667,224
+Calhoun,PCT.5,U.S. Senate,,DEM,Colin Allred,290,16,213,61
+Calhoun,PCT.5,U.S. Senate,,LIB,Ted Brown,18,1,10,7
+Calhoun,PCT.5,U.S. House,27,REP,Michael Cloud,964,25,705,234
+Calhoun,PCT.5,U.S. House,27,DEM,Tanya Lloyd,243,16,179,48
+Calhoun,PCT.5,Railroad Commissioner,,REP,Christi Craddick,893,20,660,213
+Calhoun,PCT.5,Railroad Commissioner,,DEM,Katherine Culbert,242,14,178,50
+Calhoun,PCT.5,Railroad Commissioner,,LIB,Hawk Dunlap,28,3,16,9
+Calhoun,PCT.5,Railroad Commissioner,,GRN,Eddie Espinoza,23,1,17,5
+Calhoun,PCT.5,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,950,24,700,226
+Calhoun,PCT.5,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,229,12,164,53
+Calhoun,PCT.5,"Justice, Supreme Court, Pl 4",4,REP,John Devine,925,22,679,224
+Calhoun,PCT.5,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,244,14,179,51
+Calhoun,PCT.5,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,921,19,683,219
+Calhoun,PCT.5,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,225,14,166,45
+Calhoun,PCT.5,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,32,3,17,12
+Calhoun,PCT.5,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,935,22,687,226
+Calhoun,PCT.5,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,243,15,177,51
+Calhoun,PCT.5,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,906,21,666,219
+Calhoun,PCT.5,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,241,14,174,53
+Calhoun,PCT.5,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,949,24,697,228
+Calhoun,PCT.5,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,219,12,161,46
+Calhoun,PCT.5,State Representative,43,REP,J.M. Lozano,928,22,681,225
+Calhoun,PCT.5,State Representative,43,DEM,Mariana Casarez,245,14,179,52
+Calhoun,PCT.5,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,914,22,673,219
+Calhoun,PCT.5,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,250,14,184,52
+Calhoun,PCT.5,"Justice, 13th Ct of App Dist, Pl 2",2,REP,Jenny Cron,892,21,658,213
+Calhoun,PCT.5,"Justice, 13th Ct of App Dist, Pl 2",2,DEM,Nora Longoria,272,15,199,58
+Calhoun,PCT.5,"Justice, 13th Ct of App Dist, Pl 4",4,REP,Ysmael D. Fonseca,902,20,665,217
+Calhoun,PCT.5,"Justice, 13th Ct of App Dist, Pl 4",4,DEM,Joe Martinez,257,16,187,54
+Calhoun,PCT.5,"Justice, 13th Ct of App Dist, Pl 5",5,REP,Jon West,940,23,693,224
+Calhoun,PCT.5,"Justice, 13th Ct of App Dist, Pl 5",5,DEM,Regi Compian Richardson,218,11,160,47
+Calhoun,PCT.6,Registered Voters,,,,342,,,
+Calhoun,PCT.6,Ballots Cast,,,,181,2,143,36
+Calhoun,PCT.6,Ballots Cast - Blank,,,,0,0,0,0
+Calhoun,PCT.6,President,,REP,Donald J. Trump/JD Vance,115,0,97,18
+Calhoun,PCT.6,President,,DEM,Kamala D. Harris/Tim Walz,66,2,46,18
+Calhoun,PCT.6,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Calhoun,PCT.6,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Calhoun,PCT.6,U.S. Senate,,REP,Ted Cruz,105,0,89,16
+Calhoun,PCT.6,U.S. Senate,,DEM,Colin Allred,70,2,50,18
+Calhoun,PCT.6,U.S. Senate,,LIB,Ted Brown,3,0,1,2
+Calhoun,PCT.6,U.S. House,27,REP,Michael Cloud,114,0,94,20
+Calhoun,PCT.6,U.S. House,27,DEM,Tanya Lloyd,62,2,45,15
+Calhoun,PCT.6,Railroad Commissioner,,REP,Christi Craddick,109,1,91,17
+Calhoun,PCT.6,Railroad Commissioner,,DEM,Katherine Culbert,55,1,40,14
+Calhoun,PCT.6,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,4,3
+Calhoun,PCT.6,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0
+Calhoun,PCT.6,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,110,1,91,18
+Calhoun,PCT.6,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,61,1,44,16
+Calhoun,PCT.6,"Justice, Supreme Court, Pl 4",4,REP,John Devine,110,1,91,18
+Calhoun,PCT.6,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,63,1,46,16
+Calhoun,PCT.6,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,107,1,90,16
+Calhoun,PCT.6,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,61,1,45,15
+Calhoun,PCT.6,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,5,0,2,3
+Calhoun,PCT.6,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,111,1,94,16
+Calhoun,PCT.6,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,60,1,41,18
+Calhoun,PCT.6,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,105,1,87,17
+Calhoun,PCT.6,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,58,1,41,16
+Calhoun,PCT.6,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,115,1,95,19
+Calhoun,PCT.6,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,57,1,41,15
+Calhoun,PCT.6,State Representative,43,REP,J.M. Lozano,111,1,92,18
+Calhoun,PCT.6,State Representative,43,DEM,Mariana Casarez,64,1,47,16
+Calhoun,PCT.6,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,111,1,92,18
+Calhoun,PCT.6,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,62,1,45,16
+Calhoun,PCT.6,"Justice, 13th Ct of App Dist, Pl 2",2,REP,Jenny Cron,102,1,86,15
+Calhoun,PCT.6,"Justice, 13th Ct of App Dist, Pl 2",2,DEM,Nora Longoria,68,1,49,18
+Calhoun,PCT.6,"Justice, 13th Ct of App Dist, Pl 4",4,REP,Ysmael D. Fonseca,109,1,90,18
+Calhoun,PCT.6,"Justice, 13th Ct of App Dist, Pl 4",4,DEM,Joe Martinez,61,1,45,15
+Calhoun,PCT.6,"Justice, 13th Ct of App Dist, Pl 5",5,REP,Jon West,111,1,92,18
+Calhoun,PCT.6,"Justice, 13th Ct of App Dist, Pl 5",5,DEM,Regi Compian Richardson,59,1,42,16
+Calhoun,PCT.6,"Dist Judge, 24th Judicial Dist",,REP,Lisa Harvey Moore,131,2,105,24
+Calhoun,PCT.6,"Dist Judge, 135th Judicial Dist",,REP,Kemper Stephen Williams,132,2,105,25
+Calhoun,PCT.6,Sheriff,,REP,Bobbie Vickery,141,2,109,30
+Calhoun,PCT.6,County Tax Assessor-Collector,,REP,Azalia Sally Bonuz,140,2,111,27
+Calhoun,PCT.6,County Commissioner Pct 3,3,REP,Joel M. Behrens,137,2,110,25
+Calhoun,PCT.6,Constable Pct 3,3,REP,Adam Vickery,136,2,108,26
+Calhoun,PCT.7,Registered Voters,,,,2302,,,
+Calhoun,PCT.7,Ballots Cast,,,,1333,52,965,316
+Calhoun,PCT.7,Ballots Cast - Blank,,,,0,0,0,0
+Calhoun,PCT.7,President,,REP,Donald J. Trump/JD Vance,959,25,701,233
+Calhoun,PCT.7,President,,DEM,Kamala D. Harris/Tim Walz,356,26,252,78
+Calhoun,PCT.7,President,,LIB,Chase Oliver/Mike ter Maat,6,0,3,3
+Calhoun,PCT.7,President,,GRN,Jill Stein/Rudolph Ware,5,1,4,0
+Calhoun,PCT.7,U.S. Senate,,REP,Ted Cruz,896,24,659,213
+Calhoun,PCT.7,U.S. Senate,,DEM,Colin Allred,389,25,279,85
+Calhoun,PCT.7,U.S. Senate,,LIB,Ted Brown,27,2,13,12
+Calhoun,PCT.7,U.S. House,27,REP,Michael Cloud,968,25,709,234
+Calhoun,PCT.7,U.S. House,27,DEM,Tanya Lloyd,328,25,233,70
+Calhoun,PCT.7,Railroad Commissioner,,REP,Christi Craddick,897,22,658,217
+Calhoun,PCT.7,Railroad Commissioner,,DEM,Katherine Culbert,324,23,234,67
+Calhoun,PCT.7,Railroad Commissioner,,LIB,Hawk Dunlap,29,0,17,12
+Calhoun,PCT.7,Railroad Commissioner,,GRN,Eddie Espinoza,27,4,19,4
+Calhoun,PCT.7,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,941,25,686,230
+Calhoun,PCT.7,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,330,24,233,73
+Calhoun,PCT.7,"Justice, Supreme Court, Pl 4",4,REP,John Devine,918,26,665,227
+Calhoun,PCT.7,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,344,23,247,74
+Calhoun,PCT.7,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,909,24,663,222
+Calhoun,PCT.7,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,326,23,238,65
+Calhoun,PCT.7,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,35,2,21,12
+Calhoun,PCT.7,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,916,25,663,228
+Calhoun,PCT.7,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,355,24,261,70
+Calhoun,PCT.7,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,918,23,664,231
+Calhoun,PCT.7,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,320,25,234,61
+Calhoun,PCT.7,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,940,25,688,227
+Calhoun,PCT.7,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,323,24,232,67
+Calhoun,PCT.7,State Representative,43,REP,J.M. Lozano,925,24,671,230
+Calhoun,PCT.7,State Representative,43,DEM,Mariana Casarez,344,25,248,71
+Calhoun,PCT.7,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,896,24,654,218
+Calhoun,PCT.7,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,355,24,254,77
+Calhoun,PCT.7,"Justice, 13th Ct of App Dist, Pl 2",2,REP,Jenny Cron,892,22,644,226
+Calhoun,PCT.7,"Justice, 13th Ct of App Dist, Pl 2",2,DEM,Nora Longoria,362,26,263,73
+Calhoun,PCT.7,"Justice, 13th Ct of App Dist, Pl 4",4,REP,Ysmael D. Fonseca,906,24,656,226
+Calhoun,PCT.7,"Justice, 13th Ct of App Dist, Pl 4",4,DEM,Joe Martinez,345,25,250,70
+Calhoun,PCT.7,"Justice, 13th Ct of App Dist, Pl 5",5,REP,Jon West,925,24,673,228
+Calhoun,PCT.7,"Justice, 13th Ct of App Dist, Pl 5",5,DEM,Regi Compian Richardson,325,25,231,69
+Calhoun,PCT.8,Registered Voters,,,,619,,,
+Calhoun,PCT.8,Ballots Cast,,,,451,14,283,154
+Calhoun,PCT.8,Ballots Cast - Blank,,,,0,0,0,0
+Calhoun,PCT.8,President,,REP,Donald J. Trump/JD Vance,388,3,246,139
+Calhoun,PCT.8,President,,DEM,Kamala D. Harris/Tim Walz,59,11,34,14
+Calhoun,PCT.8,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Calhoun,PCT.8,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Calhoun,PCT.8,U.S. Senate,,REP,Ted Cruz,372,3,239,130
+Calhoun,PCT.8,U.S. Senate,,DEM,Colin Allred,68,11,38,19
+Calhoun,PCT.8,U.S. Senate,,LIB,Ted Brown,3,0,1,2
+Calhoun,PCT.8,U.S. House,27,REP,Michael Cloud,383,3,241,139
+Calhoun,PCT.8,U.S. House,27,DEM,Tanya Lloyd,54,11,32,11
+Calhoun,PCT.8,Railroad Commissioner,,REP,Christi Craddick,373,3,237,133
+Calhoun,PCT.8,Railroad Commissioner,,DEM,Katherine Culbert,57,11,31,15
+Calhoun,PCT.8,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,6,2
+Calhoun,PCT.8,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1
+Calhoun,PCT.8,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,384,3,243,138
+Calhoun,PCT.8,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,54,11,31,12
+Calhoun,PCT.8,"Justice, Supreme Court, Pl 4",4,REP,John Devine,380,3,240,137
+Calhoun,PCT.8,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,59,11,34,14
+Calhoun,PCT.8,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,379,3,240,136
+Calhoun,PCT.8,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,56,11,32,13
+Calhoun,PCT.8,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,6,0,4,2
+Calhoun,PCT.8,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,378,2,241,135
+Calhoun,PCT.8,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,58,11,32,15
+Calhoun,PCT.8,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,373,2,235,136
+Calhoun,PCT.8,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,56,11,33,12
+Calhoun,PCT.8,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,386,2,243,141
+Calhoun,PCT.8,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,52,11,31,10
+Calhoun,PCT.8,State Representative,43,REP,J.M. Lozano,373,2,237,134
+Calhoun,PCT.8,State Representative,43,DEM,Mariana Casarez,61,11,33,17
+Calhoun,PCT.8,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,369,2,235,132
+Calhoun,PCT.8,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,63,11,35,17
+Calhoun,PCT.8,"Justice, 13th Ct of App Dist, Pl 2",2,REP,Jenny Cron,369,2,235,132
+Calhoun,PCT.8,"Justice, 13th Ct of App Dist, Pl 2",2,DEM,Nora Longoria,60,10,34,16
+Calhoun,PCT.8,"Justice, 13th Ct of App Dist, Pl 4",4,REP,Ysmael D. Fonseca,364,2,232,130
+Calhoun,PCT.8,"Justice, 13th Ct of App Dist, Pl 4",4,DEM,Joe Martinez,64,11,37,16
+Calhoun,PCT.8,"Justice, 13th Ct of App Dist, Pl 5",5,REP,Jon West,375,2,238,135
+Calhoun,PCT.8,"Justice, 13th Ct of App Dist, Pl 5",5,DEM,Regi Compian Richardson,55,10,31,14
+Calhoun,PCT.8,"Dist Judge, 24th Judicial Dist",,REP,Lisa Harvey Moore,388,7,242,139
+Calhoun,PCT.8,"Dist Judge, 135th Judicial Dist",,REP,Kemper Stephen Williams,382,6,236,140
+Calhoun,PCT.8,Sheriff,,REP,Bobbie Vickery,395,7,251,137
+Calhoun,PCT.8,County Tax Assessor-Collector,,REP,Azalia Sally Bonuz,390,8,244,138
+Calhoun,PCT.8,County Commissioner Pct 3,3,REP,Joel M. Behrens,406,10,253,143
+Calhoun,PCT.8,Constable Pct 3,3,REP,Adam Vickery,389,8,242,139
+Calhoun,PCT.9,Registered Voters,,,,1057,,,
+Calhoun,PCT.9,Ballots Cast,,,,623,23,453,147
+Calhoun,PCT.9,Ballots Cast - Blank,,,,0,0,0,0
+Calhoun,PCT.9,President,,REP,Donald J. Trump/JD Vance,483,14,355,114
+Calhoun,PCT.9,President,,DEM,Kamala D. Harris/Tim Walz,134,9,94,31
+Calhoun,PCT.9,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Calhoun,PCT.9,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Calhoun,PCT.9,U.S. Senate,,REP,Ted Cruz,458,13,336,109
+Calhoun,PCT.9,U.S. Senate,,DEM,Colin Allred,147,9,106,32
+Calhoun,PCT.9,U.S. Senate,,LIB,Ted Brown,12,1,8,3
+Calhoun,PCT.9,U.S. House,27,REP,Michael Cloud,478,14,352,112
+Calhoun,PCT.9,U.S. House,27,DEM,Tanya Lloyd,130,9,90,31
+Calhoun,PCT.9,Railroad Commissioner,,REP,Christi Craddick,461,14,339,108
+Calhoun,PCT.9,Railroad Commissioner,,DEM,Katherine Culbert,111,9,73,29
+Calhoun,PCT.9,Railroad Commissioner,,LIB,Hawk Dunlap,12,0,9,3
+Calhoun,PCT.9,Railroad Commissioner,,GRN,Eddie Espinoza,14,0,13,1
+Calhoun,PCT.9,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,469,14,344,111
+Calhoun,PCT.9,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,126,9,88,29
+Calhoun,PCT.9,"Justice, Supreme Court, Pl 4",4,REP,John Devine,462,14,338,110
+Calhoun,PCT.9,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,132,9,94,29
+Calhoun,PCT.9,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,462,13,337,112
+Calhoun,PCT.9,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,127,10,89,28
+Calhoun,PCT.9,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,12,0,10,2
+Calhoun,PCT.9,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,465,13,343,109
+Calhoun,PCT.9,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,131,9,91,31
+Calhoun,PCT.9,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,459,13,337,109
+Calhoun,PCT.9,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,124,9,87,28
+Calhoun,PCT.9,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,472,13,344,115
+Calhoun,PCT.9,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,119,9,85,25
+Calhoun,PCT.9,State Representative,43,REP,J.M. Lozano,463,13,338,112
+Calhoun,PCT.9,State Representative,43,DEM,Mariana Casarez,125,9,86,30
+Calhoun,PCT.9,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,458,12,338,108
+Calhoun,PCT.9,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,129,9,88,32
+Calhoun,PCT.9,"Justice, 13th Ct of App Dist, Pl 2",2,REP,Jenny Cron,451,12,331,108
+Calhoun,PCT.9,"Justice, 13th Ct of App Dist, Pl 2",2,DEM,Nora Longoria,133,9,93,31
+Calhoun,PCT.9,"Justice, 13th Ct of App Dist, Pl 4",4,REP,Ysmael D. Fonseca,457,12,336,109
+Calhoun,PCT.9,"Justice, 13th Ct of App Dist, Pl 4",4,DEM,Joe Martinez,131,9,92,30
+Calhoun,PCT.9,"Justice, 13th Ct of App Dist, Pl 5",5,REP,Jon West,464,11,342,111
+Calhoun,PCT.9,"Justice, 13th Ct of App Dist, Pl 5",5,DEM,Regi Compian Richardson,122,9,84,29
+Calhoun,PCT.9,"Dist Judge, 24th Judicial Dist",,REP,Lisa Harvey Moore,522,13,384,125
+Calhoun,PCT.9,"Dist Judge, 135th Judicial Dist",,REP,Kemper Stephen Williams,511,11,375,125
+Calhoun,PCT.9,Sheriff,,REP,Bobbie Vickery,518,15,376,127
+Calhoun,PCT.9,County Tax Assessor-Collector,,REP,Azalia Sally Bonuz,526,16,385,125
+Calhoun,PCT.9,Constable Pct 4,4,REP,Kevin Koliba,500,14,366,120
+Calhoun,PCT.10,Registered Voters,,,,1639,,,
+Calhoun,PCT.10,Ballots Cast,,,,1089,23,575,491
+Calhoun,PCT.10,Ballots Cast - Blank,,,,0,0,0,0
+Calhoun,PCT.10,President,,REP,Donald J. Trump/JD Vance,957,16,514,427
+Calhoun,PCT.10,President,,DEM,Kamala D. Harris/Tim Walz,123,7,56,60
+Calhoun,PCT.10,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Calhoun,PCT.10,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Calhoun,PCT.10,U.S. Senate,,REP,Ted Cruz,919,14,499,406
+Calhoun,PCT.10,U.S. Senate,,DEM,Colin Allred,146,7,67,72
+Calhoun,PCT.10,U.S. Senate,,LIB,Ted Brown,13,2,6,5
+Calhoun,PCT.10,U.S. House,27,REP,Michael Cloud,934,15,505,414
+Calhoun,PCT.10,U.S. House,27,DEM,Tanya Lloyd,119,7,59,53
+Calhoun,PCT.10,Railroad Commissioner,,REP,Christi Craddick,910,14,501,395
+Calhoun,PCT.10,Railroad Commissioner,,DEM,Katherine Culbert,116,7,56,53
+Calhoun,PCT.10,Railroad Commissioner,,LIB,Hawk Dunlap,14,0,5,9
+Calhoun,PCT.10,Railroad Commissioner,,GRN,Eddie Espinoza,10,0,5,5
+Calhoun,PCT.10,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,924,15,505,404
+Calhoun,PCT.10,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,124,7,60,57
+Calhoun,PCT.10,"Justice, Supreme Court, Pl 4",4,REP,John Devine,917,15,500,402
+Calhoun,PCT.10,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,125,7,60,58
+Calhoun,PCT.10,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,912,14,501,397
+Calhoun,PCT.10,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,117,6,60,51
+Calhoun,PCT.10,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,20,2,4,14
+Calhoun,PCT.10,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,912,15,500,397
+Calhoun,PCT.10,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,131,7,62,62
+Calhoun,PCT.10,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,901,14,494,393
+Calhoun,PCT.10,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,119,7,57,55
+Calhoun,PCT.10,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,920,14,504,402
+Calhoun,PCT.10,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,112,7,54,51
+Calhoun,PCT.10,State Representative,43,REP,J.M. Lozano,912,15,496,401
+Calhoun,PCT.10,State Representative,43,DEM,Mariana Casarez,123,7,59,57
+Calhoun,PCT.10,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,893,14,488,391
+Calhoun,PCT.10,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,130,7,63,60
+Calhoun,PCT.10,"Justice, 13th Ct of App Dist, Pl 2",2,REP,Jenny Cron,894,14,491,389
+Calhoun,PCT.10,"Justice, 13th Ct of App Dist, Pl 2",2,DEM,Nora Longoria,128,7,61,60
+Calhoun,PCT.10,"Justice, 13th Ct of App Dist, Pl 4",4,REP,Ysmael D. Fonseca,890,14,487,389
+Calhoun,PCT.10,"Justice, 13th Ct of App Dist, Pl 4",4,DEM,Joe Martinez,132,7,63,62
+Calhoun,PCT.10,"Justice, 13th Ct of App Dist, Pl 5",5,REP,Jon West,904,14,490,400
+Calhoun,PCT.10,"Justice, 13th Ct of App Dist, Pl 5",5,DEM,Regi Compian Richardson,121,7,62,52
+Calhoun,PCT.10,"Dist Judge, 24th Judicial Dist",,REP,Lisa Harvey Moore,933,16,507,410
+Calhoun,PCT.10,"Dist Judge, 135th Judicial Dist",,REP,Kemper Stephen Williams,920,17,501,402
+Calhoun,PCT.10,Sheriff,,REP,Bobbie Vickery,956,18,516,422
+Calhoun,PCT.10,County Tax Assessor-Collector,,REP,Azalia Sally Bonuz,925,19,499,407
+Calhoun,PCT.10,Constable Pct 4,4,REP,Kevin Koliba,899,16,484,399
+Calhoun,PCT.11,Registered Voters,,,,1099,,,
+Calhoun,PCT.11,Ballots Cast,,,,836,18,509,309
+Calhoun,PCT.11,Ballots Cast - Blank,,,,0,0,0,0
+Calhoun,PCT.11,President,,REP,Donald J. Trump/JD Vance,735,14,445,276
+Calhoun,PCT.11,President,,DEM,Kamala D. Harris/Tim Walz,91,4,55,32
+Calhoun,PCT.11,President,,LIB,Chase Oliver/Mike ter Maat,3,0,3,0
+Calhoun,PCT.11,President,,GRN,Jill Stein/Rudolph Ware,2,0,2,0
+Calhoun,PCT.11,U.S. Senate,,REP,Ted Cruz,707,13,444,250
+Calhoun,PCT.11,U.S. Senate,,DEM,Colin Allred,105,5,58,42
+Calhoun,PCT.11,U.S. Senate,,LIB,Ted Brown,15,0,6,9
+Calhoun,PCT.11,U.S. House,27,REP,Michael Cloud,728,15,446,267
+Calhoun,PCT.11,U.S. House,27,DEM,Tanya Lloyd,83,3,50,30
+Calhoun,PCT.11,Railroad Commissioner,,REP,Christi Craddick,719,13,438,268
+Calhoun,PCT.11,Railroad Commissioner,,DEM,Katherine Culbert,74,3,48,23
+Calhoun,PCT.11,Railroad Commissioner,,LIB,Hawk Dunlap,14,0,14,0
+Calhoun,PCT.11,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,0,4
+Calhoun,PCT.11,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,728,12,450,266
+Calhoun,PCT.11,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,76,3,47,26
+Calhoun,PCT.11,"Justice, Supreme Court, Pl 4",4,REP,John Devine,722,13,445,264
+Calhoun,PCT.11,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,79,3,48,28
+Calhoun,PCT.11,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,713,13,437,263
+Calhoun,PCT.11,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,76,3,47,26
+Calhoun,PCT.11,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,13,0,8,5
+Calhoun,PCT.11,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,720,13,442,265
+Calhoun,PCT.11,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,81,3,49,29
+Calhoun,PCT.11,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,711,13,439,259
+Calhoun,PCT.11,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,73,3,42,28
+Calhoun,PCT.11,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,726,13,446,267
+Calhoun,PCT.11,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,72,3,44,25
+Calhoun,PCT.11,State Representative,43,REP,J.M. Lozano,712,13,437,262
+Calhoun,PCT.11,State Representative,43,DEM,Mariana Casarez,78,3,46,29
+Calhoun,PCT.11,"Chief Justice, 13th Ct of App Dist",,REP,Jaime Tijerina,704,13,434,257
+Calhoun,PCT.11,"Chief Justice, 13th Ct of App Dist",,DEM,Gina Benavides,82,3,49,30
+Calhoun,PCT.11,"Justice, 13th Ct of App Dist, Pl 2",2,REP,Jenny Cron,704,13,435,256
+Calhoun,PCT.11,"Justice, 13th Ct of App Dist, Pl 2",2,DEM,Nora Longoria,80,3,48,29
+Calhoun,PCT.11,"Justice, 13th Ct of App Dist, Pl 4",4,REP,Ysmael D. Fonseca,708,13,437,258
+Calhoun,PCT.11,"Justice, 13th Ct of App Dist, Pl 4",4,DEM,Joe Martinez,74,3,43,28
+Calhoun,PCT.11,"Justice, 13th Ct of App Dist, Pl 5",5,REP,Jon West,715,13,439,263
+Calhoun,PCT.11,"Justice, 13th Ct of App Dist, Pl 5",5,DEM,Regi Compian Richardson,76,3,47,26
+Calhoun,PCT.11,"Dist Judge, 24th Judicial Dist",,REP,Lisa Harvey Moore,732,13,445,274
+Calhoun,PCT.11,"Dist Judge, 135th Judicial Dist",,REP,Kemper Stephen Williams,720,13,433,274
+Calhoun,PCT.11,Sheriff,,REP,Bobbie Vickery,745,13,457,275
+Calhoun,PCT.11,County Tax Assessor-Collector,,REP,Azalia Sally Bonuz,730,12,448,270
+Calhoun,PCT.11,Constable Pct 5,5,REP,Chelsi Holt,718,12,446,260

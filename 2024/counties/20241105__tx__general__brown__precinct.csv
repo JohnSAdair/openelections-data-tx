@@ -1,0 +1,1480 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Brown,101,"Ballots Cast",,,,1661,,,
+Brown,101,"President",,REP,"Donald J. Trump",1393,57,1109,227
+Brown,101,"President",,DEM,"Kamala D. Harris",240,26,162,52
+Brown,101,"President",,LIB,"Chase Oliver",7,2,2,3
+Brown,101,"President",,GRN,"Jill Stein",8,1,4,3
+Brown,101,"President",,,"Over Votes",0,0,0,0
+Brown,101,"President",,,"Under Votes",13,1,7,5
+Brown,101,"U.S. Senate",,REP,"Ted Cruz",1374,61,1091,222
+Brown,101,"U.S. Senate",,DEM,"Colin Allred",260,25,172,63
+Brown,101,"U.S. Senate",,LIB,"Ted Brown",21,0,16,5
+Brown,101,"U.S. Senate",,,"Over Votes",0,0,0,0
+Brown,101,"U.S. Senate",,,"Under Votes",6,1,5,0
+Brown,101,"U.S. House",11,REP,"August Pfluger",1471,63,1158,250
+Brown,101,"U.S. House",11,,"Over Votes",0,0,0,0
+Brown,101,"U.S. House",11,,"Under Votes",190,24,126,40
+Brown,101,"Railroad Commissioner",,REP,"Christi Craddick",1357,59,1074,224
+Brown,101,"Railroad Commissioner",,DEM,"Katherine Culbert",209,26,138,45
+Brown,101,"Railroad Commissioner",,LIB,"Hawk Dunlap",37,1,29,7
+Brown,101,"Railroad Commissioner",,GRN,"Eddie Espinoza",14,0,7,7
+Brown,101,"Railroad Commissioner",,,"Over Votes",1,1,0,0
+Brown,101,"Railroad Commissioner",,,"Under Votes",43,0,36,7
+Brown,101,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1399,62,1112,225
+Brown,101,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",220,24,137,59
+Brown,101,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Brown,101,"Justice, Supreme Court, Place 2",,,"Under Votes",42,1,35,6
+Brown,101,"Justice, Supreme Court, Place 4",,REP,"John Devine",1384,58,1103,223
+Brown,101,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",228,28,145,55
+Brown,101,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Brown,101,"Justice, Supreme Court, Place 4",,,"Under Votes",49,1,36,12
+Brown,101,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",1353,62,1070,221
+Brown,101,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",220,24,145,51
+Brown,101,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",42,0,32,10
+Brown,101,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Brown,101,"Justice, Supreme Court, Place 6",,,"Under Votes",46,1,37,8
+Brown,101,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1385,60,1098,227
+Brown,101,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",228,26,147,55
+Brown,101,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Brown,101,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",48,1,39,8
+Brown,101,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1385,61,1095,229
+Brown,101,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",226,25,146,55
+Brown,101,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Brown,101,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",50,1,43,6
+Brown,101,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1395,62,1102,231
+Brown,101,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",210,24,137,49
+Brown,101,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Brown,101,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",56,1,47,8
+Brown,101,"Member, State Board of Education",15,REP,"Aaron Kinsey",1341,59,1064,218
+Brown,101,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",226,27,145,54
+Brown,101,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",38,0,26,12
+Brown,101,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Brown,101,"Member, State Board of Education",15,,"Under Votes",56,1,49,6
+Brown,101,"State Senator",10,REP,"Phil King",1386,61,1098,227
+Brown,101,"State Senator",10,DEM,"Andy Morris",226,25,145,56
+Brown,101,"State Senator",10,,"Over Votes",0,0,0,0
+Brown,101,"State Senator",10,,"Under Votes",49,1,41,7
+Brown,101,"State Representative",68,REP,"David Spiller",1386,58,1102,226
+Brown,101,"State Representative",68,DEM,"Stacey Swann",229,27,143,59
+Brown,101,"State Representative",68,,"Over Votes",0,0,0,0
+Brown,101,"State Representative",68,,"Under Votes",46,2,39,5
+Brown,101,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",1461,65,1145,251
+Brown,101,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Brown,101,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",200,22,139,39
+Brown,101,"District Judge, 35th Judicial District",,REP,"Mike Smith",1470,66,1150,254
+Brown,101,"District Judge, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,101,"District Judge, 35th Judicial District",,,"Under Votes",191,21,134,36
+Brown,101,"District Attorney, 35th Judicial District",,REP,"Micheal Murray",1447,63,1131,253
+Brown,101,"District Attorney, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,101,"District Attorney, 35th Judicial District",,,"Under Votes",214,24,153,37
+Brown,101,"County Attorney",,REP,"Jennifer Broughton",1459,66,1143,250
+Brown,101,"County Attorney",,,"Over Votes",0,0,0,0
+Brown,101,"County Attorney",,,"Under Votes",202,21,141,40
+Brown,101,"Sheriff",,REP,"Vance Hill",1468,66,1149,253
+Brown,101,"Sheriff",,,"Over Votes",0,0,0,0
+Brown,101,"Sheriff",,,"Under Votes",193,21,135,37
+Brown,101,"County Tax Assessor-Collector",,REP,"Christine Pentecost",1480,67,1159,254
+Brown,101,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Brown,101,"County Tax Assessor-Collector",,,"Under Votes",181,20,125,36
+Brown,101,"County Commissioner, Precinct 1",,REP,"Kirk Chastain",1463,64,1145,254
+Brown,101,"County Commissioner, Precinct 1",,,"Over Votes",0,0,0,0
+Brown,101,"County Commissioner, Precinct 1",,,"Under Votes",198,23,139,36
+Brown,101,"Justice of the Peace, Precinct 1",,REP,"Mitchell Jacobson",1450,66,1136,248
+Brown,101,"Justice of the Peace, Precinct 1",,,"Over Votes",0,0,0,0
+Brown,101,"Justice of the Peace, Precinct 1",,,"Under Votes",211,21,148,42
+Brown,105,"Ballots Cast",,,,1224,,,
+Brown,105,"President",,REP,"Donald J. Trump",1021,17,813,191
+Brown,105,"President",,DEM,"Kamala D. Harris",195,9,140,46
+Brown,105,"President",,LIB,"Chase Oliver",4,0,3,1
+Brown,105,"President",,GRN,"Jill Stein",2,0,1,1
+Brown,105,"President",,,"Over Votes",0,0,0,0
+Brown,105,"President",,,"Under Votes",2,1,1,0
+Brown,105,"U.S. Senate",,REP,"Ted Cruz",984,17,790,177
+Brown,105,"U.S. Senate",,DEM,"Colin Allred",204,9,142,53
+Brown,105,"U.S. Senate",,LIB,"Ted Brown",22,1,14,7
+Brown,105,"U.S. Senate",,,"Over Votes",0,0,0,0
+Brown,105,"U.S. Senate",,,"Under Votes",14,0,12,2
+Brown,105,"U.S. House",11,REP,"August Pfluger",1090,24,856,210
+Brown,105,"U.S. House",11,,"Over Votes",0,0,0,0
+Brown,105,"U.S. House",11,,"Under Votes",134,3,102,29
+Brown,105,"Railroad Commissioner",,REP,"Christi Craddick",995,20,786,189
+Brown,105,"Railroad Commissioner",,DEM,"Katherine Culbert",158,6,119,33
+Brown,105,"Railroad Commissioner",,LIB,"Hawk Dunlap",22,0,17,5
+Brown,105,"Railroad Commissioner",,GRN,"Eddie Espinoza",11,0,8,3
+Brown,105,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Brown,105,"Railroad Commissioner",,,"Under Votes",38,1,28,9
+Brown,105,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1026,21,810,195
+Brown,105,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",162,5,123,34
+Brown,105,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Brown,105,"Justice, Supreme Court, Place 2",,,"Under Votes",36,1,25,10
+Brown,105,"Justice, Supreme Court, Place 4",,REP,"John Devine",1007,20,801,186
+Brown,105,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",178,7,129,42
+Brown,105,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Brown,105,"Justice, Supreme Court, Place 4",,,"Under Votes",39,0,28,11
+Brown,105,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",1005,21,798,186
+Brown,105,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",162,6,123,33
+Brown,105,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",21,0,12,9
+Brown,105,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Brown,105,"Justice, Supreme Court, Place 6",,,"Under Votes",36,0,25,11
+Brown,105,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1025,21,809,195
+Brown,105,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",166,6,126,34
+Brown,105,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Brown,105,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",33,0,23,10
+Brown,105,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1017,21,803,193
+Brown,105,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",166,6,123,37
+Brown,105,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Brown,105,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",41,0,32,9
+Brown,105,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1023,21,810,192
+Brown,105,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",161,6,121,34
+Brown,105,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Brown,105,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",40,0,27,13
+Brown,105,"Member, State Board of Education",15,REP,"Aaron Kinsey",998,21,789,188
+Brown,105,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",163,6,121,36
+Brown,105,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",20,0,15,5
+Brown,105,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Brown,105,"Member, State Board of Education",15,,"Under Votes",43,0,33,10
+Brown,105,"State Senator",10,REP,"Phil King",1013,20,801,192
+Brown,105,"State Senator",10,DEM,"Andy Morris",168,7,123,38
+Brown,105,"State Senator",10,,"Over Votes",0,0,0,0
+Brown,105,"State Senator",10,,"Under Votes",43,0,34,9
+Brown,105,"State Representative",68,REP,"David Spiller",1018,21,805,192
+Brown,105,"State Representative",68,DEM,"Stacey Swann",165,6,122,37
+Brown,105,"State Representative",68,,"Over Votes",0,0,0,0
+Brown,105,"State Representative",68,,"Under Votes",41,0,31,10
+Brown,105,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",1079,24,847,208
+Brown,105,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Brown,105,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",145,3,111,31
+Brown,105,"District Judge, 35th Judicial District",,REP,"Mike Smith",1096,25,857,214
+Brown,105,"District Judge, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,105,"District Judge, 35th Judicial District",,,"Under Votes",128,2,101,25
+Brown,105,"District Attorney, 35th Judicial District",,REP,"Micheal Murray",1081,24,846,211
+Brown,105,"District Attorney, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,105,"District Attorney, 35th Judicial District",,,"Under Votes",143,3,112,28
+Brown,105,"County Attorney",,REP,"Jennifer Broughton",1092,26,857,209
+Brown,105,"County Attorney",,,"Over Votes",0,0,0,0
+Brown,105,"County Attorney",,,"Under Votes",132,1,101,30
+Brown,105,"Sheriff",,REP,"Vance Hill",1097,25,859,213
+Brown,105,"Sheriff",,,"Over Votes",0,0,0,0
+Brown,105,"Sheriff",,,"Under Votes",127,2,99,26
+Brown,105,"County Tax Assessor-Collector",,REP,"Christine Pentecost",1095,24,861,210
+Brown,105,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Brown,105,"County Tax Assessor-Collector",,,"Under Votes",129,3,97,29
+Brown,105,"County Commissioner, Precinct 1",,REP,"Kirk Chastain",1085,22,846,217
+Brown,105,"County Commissioner, Precinct 1",,,"Over Votes",0,0,0,0
+Brown,105,"County Commissioner, Precinct 1",,,"Under Votes",139,5,112,22
+Brown,105,"Justice of the Peace, Precinct 1",,REP,"Mitchell Jacobson",1084,21,852,211
+Brown,105,"Justice of the Peace, Precinct 1",,,"Over Votes",0,0,0,0
+Brown,105,"Justice of the Peace, Precinct 1",,,"Under Votes",140,6,106,28
+Brown,109,"Ballots Cast",,,,279,,,
+Brown,109,"President",,REP,"Donald J. Trump",254,25,117,112
+Brown,109,"President",,DEM,"Kamala D. Harris",21,6,9,6
+Brown,109,"President",,,"Over Votes",2,1,0,1
+Brown,109,"President",,,"Under Votes",2,2,0,0
+Brown,109,"U.S. Senate",,REP,"Ted Cruz",239,22,110,107
+Brown,109,"U.S. Senate",,DEM,"Colin Allred",27,7,12,8
+Brown,109,"U.S. Senate",,LIB,"Ted Brown",8,2,3,3
+Brown,109,"U.S. Senate",,,"Over Votes",1,0,1,0
+Brown,109,"U.S. Senate",,,"Under Votes",4,2,1,1
+Brown,109,"U.S. House",11,REP,"August Pfluger",256,25,115,116
+Brown,109,"U.S. House",11,,"Over Votes",0,0,0,0
+Brown,109,"U.S. House",11,,"Under Votes",23,9,11,3
+Brown,109,"Railroad Commissioner",,REP,"Christi Craddick",244,22,109,113
+Brown,109,"Railroad Commissioner",,DEM,"Katherine Culbert",13,5,6,2
+Brown,109,"Railroad Commissioner",,LIB,"Hawk Dunlap",9,1,3,5
+Brown,109,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,2,0
+Brown,109,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Brown,109,"Railroad Commissioner",,,"Under Votes",11,6,5,0
+Brown,109,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",250,23,114,113
+Brown,109,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",17,5,5,7
+Brown,109,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Brown,109,"Justice, Supreme Court, Place 2",,,"Under Votes",12,6,5,1
+Brown,109,"Justice, Supreme Court, Place 4",,REP,"John Devine",246,23,111,112
+Brown,109,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",19,5,9,5
+Brown,109,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Brown,109,"Justice, Supreme Court, Place 4",,,"Under Votes",14,6,6,2
+Brown,109,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",246,22,112,112
+Brown,109,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",17,5,9,3
+Brown,109,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",4,1,0,3
+Brown,109,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Brown,109,"Justice, Supreme Court, Place 6",,,"Under Votes",12,6,5,1
+Brown,109,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",244,22,111,111
+Brown,109,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",21,6,9,6
+Brown,109,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Brown,109,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",14,6,6,2
+Brown,109,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",243,23,110,110
+Brown,109,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",21,5,10,6
+Brown,109,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Brown,109,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",15,6,6,3
+Brown,109,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",246,23,110,113
+Brown,109,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",17,5,9,3
+Brown,109,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Brown,109,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",16,6,7,3
+Brown,109,"Member, State Board of Education",15,REP,"Aaron Kinsey",235,21,106,108
+Brown,109,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",21,6,9,6
+Brown,109,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",8,1,5,2
+Brown,109,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Brown,109,"Member, State Board of Education",15,,"Under Votes",15,6,6,3
+Brown,109,"State Senator",10,REP,"Phil King",241,21,110,110
+Brown,109,"State Senator",10,DEM,"Andy Morris",23,7,10,6
+Brown,109,"State Senator",10,,"Over Votes",0,0,0,0
+Brown,109,"State Senator",10,,"Under Votes",15,6,6,3
+Brown,109,"State Representative",68,REP,"David Spiller",241,20,109,112
+Brown,109,"State Representative",68,DEM,"Stacey Swann",20,6,9,5
+Brown,109,"State Representative",68,,"Over Votes",0,0,0,0
+Brown,109,"State Representative",68,,"Under Votes",18,8,8,2
+Brown,109,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",254,24,115,115
+Brown,109,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Brown,109,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",25,10,11,4
+Brown,109,"District Judge, 35th Judicial District",,REP,"Mike Smith",253,24,114,115
+Brown,109,"District Judge, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,109,"District Judge, 35th Judicial District",,,"Under Votes",26,10,12,4
+Brown,109,"District Attorney, 35th Judicial District",,REP,"Micheal Murray",242,23,108,111
+Brown,109,"District Attorney, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,109,"District Attorney, 35th Judicial District",,,"Under Votes",37,11,18,8
+Brown,109,"County Attorney",,REP,"Jennifer Broughton",249,24,112,113
+Brown,109,"County Attorney",,,"Over Votes",0,0,0,0
+Brown,109,"County Attorney",,,"Under Votes",30,10,14,6
+Brown,109,"Sheriff",,REP,"Vance Hill",251,24,111,116
+Brown,109,"Sheriff",,,"Over Votes",0,0,0,0
+Brown,109,"Sheriff",,,"Under Votes",28,10,15,3
+Brown,109,"County Tax Assessor-Collector",,REP,"Christine Pentecost",250,24,113,113
+Brown,109,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Brown,109,"County Tax Assessor-Collector",,,"Under Votes",29,10,13,6
+Brown,109,"County Commissioner, Precinct 1",,REP,"Kirk Chastain",253,23,114,116
+Brown,109,"County Commissioner, Precinct 1",,,"Over Votes",0,0,0,0
+Brown,109,"County Commissioner, Precinct 1",,,"Under Votes",26,11,12,3
+Brown,109,"Justice of the Peace, Precinct 1",,REP,"Mitchell Jacobson",251,24,112,115
+Brown,109,"Justice of the Peace, Precinct 1",,,"Over Votes",0,0,0,0
+Brown,109,"Justice of the Peace, Precinct 1",,,"Under Votes",28,10,14,4
+Brown,113,"Ballots Cast",,,,1286,,,
+Brown,113,"President",,REP,"Donald J. Trump",1083,22,815,246
+Brown,113,"President",,DEM,"Kamala D. Harris",184,8,135,41
+Brown,113,"President",,LIB,"Chase Oliver",8,0,6,2
+Brown,113,"President",,,"Over Votes",1,1,0,0
+Brown,113,"President",,,"Under Votes",10,1,5,4
+Brown,113,"U.S. Senate",,REP,"Ted Cruz",1049,21,794,234
+Brown,113,"U.S. Senate",,DEM,"Colin Allred",206,9,147,50
+Brown,113,"U.S. Senate",,LIB,"Ted Brown",18,2,15,1
+Brown,113,"U.S. Senate",,,"Over Votes",0,0,0,0
+Brown,113,"U.S. Senate",,,"Under Votes",13,0,5,8
+Brown,113,"U.S. House",11,REP,"August Pfluger",1133,25,846,262
+Brown,113,"U.S. House",11,,"Over Votes",0,0,0,0
+Brown,113,"U.S. House",11,,"Under Votes",153,7,115,31
+Brown,113,"Railroad Commissioner",,REP,"Christi Craddick",1047,22,790,235
+Brown,113,"Railroad Commissioner",,DEM,"Katherine Culbert",147,8,106,33
+Brown,113,"Railroad Commissioner",,LIB,"Hawk Dunlap",27,0,19,8
+Brown,113,"Railroad Commissioner",,GRN,"Eddie Espinoza",19,0,12,7
+Brown,113,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Brown,113,"Railroad Commissioner",,,"Under Votes",46,2,34,10
+Brown,113,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1071,23,807,241
+Brown,113,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",172,8,121,43
+Brown,113,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Brown,113,"Justice, Supreme Court, Place 2",,,"Under Votes",43,1,33,9
+Brown,113,"Justice, Supreme Court, Place 4",,REP,"John Devine",1058,20,799,239
+Brown,113,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",177,11,125,41
+Brown,113,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Brown,113,"Justice, Supreme Court, Place 4",,,"Under Votes",51,1,37,13
+Brown,113,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",1052,22,795,235
+Brown,113,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",158,8,112,38
+Brown,113,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",32,1,22,9
+Brown,113,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Brown,113,"Justice, Supreme Court, Place 6",,,"Under Votes",44,1,32,11
+Brown,113,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1067,19,809,239
+Brown,113,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",170,10,119,41
+Brown,113,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Brown,113,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",49,3,33,13
+Brown,113,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1067,22,804,241
+Brown,113,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",167,8,120,39
+Brown,113,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Brown,113,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",52,2,37,13
+Brown,113,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1071,22,808,241
+Brown,113,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",158,8,112,38
+Brown,113,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Brown,113,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",57,2,41,14
+Brown,113,"Member, State Board of Education",15,REP,"Aaron Kinsey",1036,20,781,235
+Brown,113,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",173,8,127,38
+Brown,113,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",34,3,23,8
+Brown,113,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Brown,113,"Member, State Board of Education",15,,"Under Votes",43,1,30,12
+Brown,113,"State Senator",10,REP,"Phil King",1072,20,808,244
+Brown,113,"State Senator",10,DEM,"Andy Morris",171,11,122,38
+Brown,113,"State Senator",10,,"Over Votes",0,0,0,0
+Brown,113,"State Senator",10,,"Under Votes",43,1,31,11
+Brown,113,"State Representative",68,REP,"David Spiller",1072,22,805,245
+Brown,113,"State Representative",68,DEM,"Stacey Swann",172,9,124,39
+Brown,113,"State Representative",68,,"Over Votes",0,0,0,0
+Brown,113,"State Representative",68,,"Under Votes",42,1,32,9
+Brown,113,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",1130,25,844,261
+Brown,113,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Brown,113,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",156,7,117,32
+Brown,113,"District Judge, 35th Judicial District",,REP,"Mike Smith",1130,24,847,259
+Brown,113,"District Judge, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,113,"District Judge, 35th Judicial District",,,"Under Votes",156,8,114,34
+Brown,113,"District Attorney, 35th Judicial District",,REP,"Micheal Murray",1112,23,830,259
+Brown,113,"District Attorney, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,113,"District Attorney, 35th Judicial District",,,"Under Votes",174,9,131,34
+Brown,113,"County Attorney",,REP,"Jennifer Broughton",1127,24,846,257
+Brown,113,"County Attorney",,,"Over Votes",0,0,0,0
+Brown,113,"County Attorney",,,"Under Votes",159,8,115,36
+Brown,113,"Sheriff",,REP,"Vance Hill",1135,24,851,260
+Brown,113,"Sheriff",,,"Over Votes",0,0,0,0
+Brown,113,"Sheriff",,,"Under Votes",151,8,110,33
+Brown,113,"County Tax Assessor-Collector",,REP,"Christine Pentecost",1124,23,841,260
+Brown,113,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Brown,113,"County Tax Assessor-Collector",,,"Under Votes",162,9,120,33
+Brown,113,"County Commissioner, Precinct 1",,REP,"Kirk Chastain",1120,24,838,258
+Brown,113,"County Commissioner, Precinct 1",,,"Over Votes",0,0,0,0
+Brown,113,"County Commissioner, Precinct 1",,,"Under Votes",166,8,123,35
+Brown,113,"Justice of the Peace, Precinct 1",,REP,"Mitchell Jacobson",1114,24,833,257
+Brown,113,"Justice of the Peace, Precinct 1",,,"Over Votes",0,0,0,0
+Brown,113,"Justice of the Peace, Precinct 1",,,"Under Votes",172,8,128,36
+Brown,202,"Ballots Cast",,,,778,,,
+Brown,202,"President",,REP,"Donald J. Trump",637,29,502,106
+Brown,202,"President",,DEM,"Kamala D. Harris",132,12,91,29
+Brown,202,"President",,LIB,"Chase Oliver",3,0,1,2
+Brown,202,"President",,GRN,"Jill Stein",2,0,1,1
+Brown,202,"President",,,"Over Votes",0,0,0,0
+Brown,202,"President",,,"Under Votes",4,0,2,2
+Brown,202,"U.S. Senate",,REP,"Ted Cruz",610,27,479,104
+Brown,202,"U.S. Senate",,DEM,"Colin Allred",146,13,102,31
+Brown,202,"U.S. Senate",,LIB,"Ted Brown",16,0,13,3
+Brown,202,"U.S. Senate",,,"Over Votes",0,0,0,0
+Brown,202,"U.S. Senate",,,"Under Votes",6,1,3,2
+Brown,202,"U.S. House",11,REP,"August Pfluger",663,30,516,117
+Brown,202,"U.S. House",11,,"Over Votes",0,0,0,0
+Brown,202,"U.S. House",11,,"Under Votes",115,11,81,23
+Brown,202,"Railroad Commissioner",,REP,"Christi Craddick",595,29,465,101
+Brown,202,"Railroad Commissioner",,DEM,"Katherine Culbert",112,8,83,21
+Brown,202,"Railroad Commissioner",,LIB,"Hawk Dunlap",23,0,18,5
+Brown,202,"Railroad Commissioner",,GRN,"Eddie Espinoza",11,1,6,4
+Brown,202,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Brown,202,"Railroad Commissioner",,,"Under Votes",37,3,25,9
+Brown,202,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",620,29,487,104
+Brown,202,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",132,10,94,28
+Brown,202,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Brown,202,"Justice, Supreme Court, Place 2",,,"Under Votes",26,2,16,8
+Brown,202,"Justice, Supreme Court, Place 4",,REP,"John Devine",615,27,485,103
+Brown,202,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",131,11,91,29
+Brown,202,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Brown,202,"Justice, Supreme Court, Place 4",,,"Under Votes",32,3,21,8
+Brown,202,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",605,28,479,98
+Brown,202,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",120,11,85,24
+Brown,202,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",21,0,14,7
+Brown,202,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Brown,202,"Justice, Supreme Court, Place 6",,,"Under Votes",32,2,19,11
+Brown,202,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",615,28,482,105
+Brown,202,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",131,11,94,26
+Brown,202,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Brown,202,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",32,2,21,9
+Brown,202,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",614,28,480,106
+Brown,202,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",126,11,92,23
+Brown,202,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Brown,202,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",38,2,25,11
+Brown,202,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",621,28,489,104
+Brown,202,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",121,11,84,26
+Brown,202,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Brown,202,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",36,2,24,10
+Brown,202,"Member, State Board of Education",15,REP,"Aaron Kinsey",611,28,479,104
+Brown,202,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",120,11,84,25
+Brown,202,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",14,0,10,4
+Brown,202,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Brown,202,"Member, State Board of Education",15,,"Under Votes",33,2,24,7
+Brown,202,"State Senator",10,REP,"Phil King",619,28,484,107
+Brown,202,"State Senator",10,DEM,"Andy Morris",131,11,93,27
+Brown,202,"State Senator",10,,"Over Votes",0,0,0,0
+Brown,202,"State Senator",10,,"Under Votes",28,2,20,6
+Brown,202,"State Representative",68,REP,"David Spiller",611,28,478,105
+Brown,202,"State Representative",68,DEM,"Stacey Swann",132,10,94,28
+Brown,202,"State Representative",68,,"Over Votes",0,0,0,0
+Brown,202,"State Representative",68,,"Under Votes",35,3,25,7
+Brown,202,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",655,30,508,117
+Brown,202,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Brown,202,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",123,11,89,23
+Brown,202,"District Judge, 35th Judicial District",,REP,"Mike Smith",657,31,509,117
+Brown,202,"District Judge, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,202,"District Judge, 35th Judicial District",,,"Under Votes",121,10,88,23
+Brown,202,"District Attorney, 35th Judicial District",,REP,"Micheal Murray",652,29,509,114
+Brown,202,"District Attorney, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,202,"District Attorney, 35th Judicial District",,,"Under Votes",126,12,88,26
+Brown,202,"County Attorney",,REP,"Jennifer Broughton",659,31,512,116
+Brown,202,"County Attorney",,,"Over Votes",0,0,0,0
+Brown,202,"County Attorney",,,"Under Votes",119,10,85,24
+Brown,202,"Sheriff",,REP,"Vance Hill",667,31,519,117
+Brown,202,"Sheriff",,,"Over Votes",0,0,0,0
+Brown,202,"Sheriff",,,"Under Votes",111,10,78,23
+Brown,202,"County Tax Assessor-Collector",,REP,"Christine Pentecost",667,32,516,119
+Brown,202,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Brown,202,"County Tax Assessor-Collector",,,"Under Votes",111,9,81,21
+Brown,202,"Constable, Precinct 2",,REP,"Troy L. Henderson",655,31,510,114
+Brown,202,"Constable, Precinct 2",,,"Over Votes",0,0,0,0
+Brown,202,"Constable, Precinct 2",,,"Under Votes",123,10,87,26
+Brown,204,"Ballots Cast",,,,1090,,,
+Brown,204,"President",,REP,"Donald J. Trump",865,36,646,183
+Brown,204,"President",,DEM,"Kamala D. Harris",208,9,130,69
+Brown,204,"President",,LIB,"Chase Oliver",6,0,5,1
+Brown,204,"President",,GRN,"Jill Stein",4,0,3,1
+Brown,204,"President",,,"Over Votes",1,1,0,0
+Brown,204,"President",,,"Under Votes",6,0,4,2
+Brown,204,"U.S. Senate",,REP,"Ted Cruz",811,35,615,161
+Brown,204,"U.S. Senate",,DEM,"Colin Allred",230,10,144,76
+Brown,204,"U.S. Senate",,LIB,"Ted Brown",36,1,22,13
+Brown,204,"U.S. Senate",,,"Over Votes",0,0,0,0
+Brown,204,"U.S. Senate",,,"Under Votes",13,0,7,6
+Brown,204,"U.S. House",11,REP,"August Pfluger",927,30,692,205
+Brown,204,"U.S. House",11,,"Over Votes",0,0,0,0
+Brown,204,"U.S. House",11,,"Under Votes",163,16,96,51
+Brown,204,"Railroad Commissioner",,REP,"Christi Craddick",795,26,616,153
+Brown,204,"Railroad Commissioner",,DEM,"Katherine Culbert",171,9,109,53
+Brown,204,"Railroad Commissioner",,LIB,"Hawk Dunlap",27,0,18,9
+Brown,204,"Railroad Commissioner",,GRN,"Eddie Espinoza",30,0,19,11
+Brown,204,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Brown,204,"Railroad Commissioner",,,"Under Votes",67,11,26,30
+Brown,204,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",829,24,636,169
+Brown,204,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",196,10,124,62
+Brown,204,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Brown,204,"Justice, Supreme Court, Place 2",,,"Under Votes",65,12,28,25
+Brown,204,"Justice, Supreme Court, Place 4",,REP,"John Devine",826,24,629,173
+Brown,204,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",200,9,128,63
+Brown,204,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Brown,204,"Justice, Supreme Court, Place 4",,,"Under Votes",64,13,31,20
+Brown,204,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",812,24,621,167
+Brown,204,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",183,10,123,50
+Brown,204,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",33,0,20,13
+Brown,204,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Brown,204,"Justice, Supreme Court, Place 6",,,"Under Votes",62,12,24,26
+Brown,204,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",821,24,626,171
+Brown,204,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",204,10,131,63
+Brown,204,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Brown,204,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",65,12,31,22
+Brown,204,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",825,24,632,169
+Brown,204,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",196,10,125,61
+Brown,204,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Brown,204,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",69,12,31,26
+Brown,204,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",830,24,633,173
+Brown,204,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",191,10,122,59
+Brown,204,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Brown,204,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",69,12,33,24
+Brown,204,"Member, State Board of Education",15,REP,"Aaron Kinsey",798,23,615,160
+Brown,204,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",189,11,117,61
+Brown,204,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",43,0,30,13
+Brown,204,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Brown,204,"Member, State Board of Education",15,,"Under Votes",60,12,26,22
+Brown,204,"State Senator",10,REP,"Phil King",825,24,632,169
+Brown,204,"State Senator",10,DEM,"Andy Morris",199,10,126,63
+Brown,204,"State Senator",10,,"Over Votes",0,0,0,0
+Brown,204,"State Senator",10,,"Under Votes",66,12,30,24
+Brown,204,"State Representative",68,REP,"David Spiller",828,27,628,173
+Brown,204,"State Representative",68,DEM,"Stacey Swann",195,9,125,61
+Brown,204,"State Representative",68,,"Over Votes",0,0,0,0
+Brown,204,"State Representative",68,,"Under Votes",67,10,35,22
+Brown,204,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",907,28,682,197
+Brown,204,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Brown,204,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",183,18,106,59
+Brown,204,"District Judge, 35th Judicial District",,REP,"Mike Smith",907,29,678,200
+Brown,204,"District Judge, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,204,"District Judge, 35th Judicial District",,,"Under Votes",183,17,110,56
+Brown,204,"District Attorney, 35th Judicial District",,REP,"Micheal Murray",901,28,673,200
+Brown,204,"District Attorney, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,204,"District Attorney, 35th Judicial District",,,"Under Votes",189,18,115,56
+Brown,204,"County Attorney",,REP,"Jennifer Broughton",904,26,679,199
+Brown,204,"County Attorney",,,"Over Votes",0,0,0,0
+Brown,204,"County Attorney",,,"Under Votes",186,20,109,57
+Brown,204,"Sheriff",,REP,"Vance Hill",915,26,682,207
+Brown,204,"Sheriff",,,"Over Votes",0,0,0,0
+Brown,204,"Sheriff",,,"Under Votes",175,20,106,49
+Brown,204,"County Tax Assessor-Collector",,REP,"Christine Pentecost",913,26,683,204
+Brown,204,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Brown,204,"County Tax Assessor-Collector",,,"Under Votes",177,20,105,52
+Brown,204,"Constable, Precinct 2",,REP,"Troy L. Henderson",905,26,681,198
+Brown,204,"Constable, Precinct 2",,,"Over Votes",0,0,0,0
+Brown,204,"Constable, Precinct 2",,,"Under Votes",185,20,107,58
+Brown,212,"Ballots Cast",,,,674,,,
+Brown,212,"President",,REP,"Donald J. Trump",603,23,334,246
+Brown,212,"President",,DEM,"Kamala D. Harris",64,6,27,31
+Brown,212,"President",,GRN,"Jill Stein",1,0,0,1
+Brown,212,"President",,,"Over Votes",0,0,0,0
+Brown,212,"President",,,"Under Votes",6,2,1,3
+Brown,212,"U.S. Senate",,REP,"Ted Cruz",588,23,328,237
+Brown,212,"U.S. Senate",,DEM,"Colin Allred",76,5,30,41
+Brown,212,"U.S. Senate",,LIB,"Ted Brown",4,0,2,2
+Brown,212,"U.S. Senate",,,"Over Votes",0,0,0,0
+Brown,212,"U.S. Senate",,,"Under Votes",6,3,2,1
+Brown,212,"U.S. House",11,REP,"August Pfluger",599,12,333,254
+Brown,212,"U.S. House",11,,"Over Votes",0,0,0,0
+Brown,212,"U.S. House",11,,"Under Votes",75,19,29,27
+Brown,212,"Railroad Commissioner",,REP,"Christi Craddick",575,12,324,239
+Brown,212,"Railroad Commissioner",,DEM,"Katherine Culbert",56,5,22,29
+Brown,212,"Railroad Commissioner",,LIB,"Hawk Dunlap",10,0,4,6
+Brown,212,"Railroad Commissioner",,GRN,"Eddie Espinoza",2,0,1,1
+Brown,212,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Brown,212,"Railroad Commissioner",,,"Under Votes",31,14,11,6
+Brown,212,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",586,11,332,243
+Brown,212,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",55,3,23,29
+Brown,212,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Brown,212,"Justice, Supreme Court, Place 2",,,"Under Votes",33,17,7,9
+Brown,212,"Justice, Supreme Court, Place 4",,REP,"John Devine",584,10,332,242
+Brown,212,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",59,4,23,32
+Brown,212,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Brown,212,"Justice, Supreme Court, Place 4",,,"Under Votes",31,17,7,7
+Brown,212,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",581,10,329,242
+Brown,212,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",57,4,23,30
+Brown,212,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",6,0,2,4
+Brown,212,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Brown,212,"Justice, Supreme Court, Place 6",,,"Under Votes",30,17,8,5
+Brown,212,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",585,10,331,244
+Brown,212,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",56,3,23,30
+Brown,212,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Brown,212,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",33,18,8,7
+Brown,212,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",586,10,332,244
+Brown,212,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",54,4,21,29
+Brown,212,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Brown,212,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",34,17,9,8
+Brown,212,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",588,11,332,245
+Brown,212,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",50,3,21,26
+Brown,212,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Brown,212,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",36,17,9,10
+Brown,212,"Member, State Board of Education",15,REP,"Aaron Kinsey",577,12,326,239
+Brown,212,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",57,5,23,29
+Brown,212,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",9,0,4,5
+Brown,212,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Brown,212,"Member, State Board of Education",15,,"Under Votes",31,14,9,8
+Brown,212,"State Senator",10,REP,"Phil King",583,10,331,242
+Brown,212,"State Senator",10,DEM,"Andy Morris",58,4,23,31
+Brown,212,"State Senator",10,,"Over Votes",0,0,0,0
+Brown,212,"State Senator",10,,"Under Votes",33,17,8,8
+Brown,212,"State Representative",68,REP,"David Spiller",587,12,332,243
+Brown,212,"State Representative",68,DEM,"Stacey Swann",59,4,23,32
+Brown,212,"State Representative",68,,"Over Votes",0,0,0,0
+Brown,212,"State Representative",68,,"Under Votes",28,15,7,6
+Brown,212,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",603,11,337,255
+Brown,212,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Brown,212,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",71,20,25,26
+Brown,212,"District Judge, 35th Judicial District",,REP,"Mike Smith",599,11,335,253
+Brown,212,"District Judge, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,212,"District Judge, 35th Judicial District",,,"Under Votes",75,20,27,28
+Brown,212,"District Attorney, 35th Judicial District",,REP,"Micheal Murray",590,10,330,250
+Brown,212,"District Attorney, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,212,"District Attorney, 35th Judicial District",,,"Under Votes",84,21,32,31
+Brown,212,"County Attorney",,REP,"Jennifer Broughton",600,11,335,254
+Brown,212,"County Attorney",,,"Over Votes",0,0,0,0
+Brown,212,"County Attorney",,,"Under Votes",74,20,27,27
+Brown,212,"Sheriff",,REP,"Vance Hill",606,11,341,254
+Brown,212,"Sheriff",,,"Over Votes",0,0,0,0
+Brown,212,"Sheriff",,,"Under Votes",68,20,21,27
+Brown,212,"County Tax Assessor-Collector",,REP,"Christine Pentecost",601,11,339,251
+Brown,212,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Brown,212,"County Tax Assessor-Collector",,,"Under Votes",73,20,23,30
+Brown,212,"Constable, Precinct 2",,REP,"Troy L. Henderson",596,9,337,250
+Brown,212,"Constable, Precinct 2",,,"Over Votes",0,0,0,0
+Brown,212,"Constable, Precinct 2",,,"Under Votes",78,22,25,31
+Brown,212,"Council Member Unexpired Term - Vote for none, one, two or three",,,"Mark Hanson",196,2,101,93
+Brown,212,"Council Member Unexpired Term - Vote for none, one, two or three",,,"Trey Clevenger",262,6,136,120
+Brown,212,"Council Member Unexpired Term - Vote for none, one, two or three",,,"Josh King",184,0,109,75
+Brown,212,"Council Member Unexpired Term - Vote for none, one, two or three",,,"Allison Vail",142,6,75,61
+Brown,212,"Council Member Unexpired Term - Vote for none, one, two or three",,,"Jeff Phillips",360,10,182,168
+Brown,212,"Council Member Unexpired Term - Vote for none, one, two or three",,,"Johnny Louthan",89,1,42,46
+Brown,212,"Council Member Unexpired Term - Vote for none, one, two or three",,,"Over Votes",0,0,0,0
+Brown,212,"Council Member Unexpired Term - Vote for none, one, two or three",,,"Under Votes",789,68,441,280
+Brown,214,"Ballots Cast",,,,680,,,
+Brown,214,"President",,REP,"Donald J. Trump",615,20,437,158
+Brown,214,"President",,DEM,"Kamala D. Harris",58,3,42,13
+Brown,214,"President",,LIB,"Chase Oliver",3,0,2,1
+Brown,214,"President",,GRN,"Jill Stein",2,0,1,1
+Brown,214,"President",,,"Over Votes",0,0,0,0
+Brown,214,"President",,,"Under Votes",2,0,1,1
+Brown,214,"U.S. Senate",,REP,"Ted Cruz",597,20,422,155
+Brown,214,"U.S. Senate",,DEM,"Colin Allred",67,3,52,12
+Brown,214,"U.S. Senate",,LIB,"Ted Brown",11,0,8,3
+Brown,214,"U.S. Senate",,,"Over Votes",0,0,0,0
+Brown,214,"U.S. Senate",,,"Under Votes",5,0,1,4
+Brown,214,"U.S. House",11,REP,"August Pfluger",618,16,444,158
+Brown,214,"U.S. House",11,,"Over Votes",0,0,0,0
+Brown,214,"U.S. House",11,,"Under Votes",62,7,39,16
+Brown,214,"Railroad Commissioner",,REP,"Christi Craddick",587,18,422,147
+Brown,214,"Railroad Commissioner",,DEM,"Katherine Culbert",52,3,41,8
+Brown,214,"Railroad Commissioner",,LIB,"Hawk Dunlap",19,0,9,10
+Brown,214,"Railroad Commissioner",,GRN,"Eddie Espinoza",7,0,4,3
+Brown,214,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Brown,214,"Railroad Commissioner",,,"Under Votes",15,2,7,6
+Brown,214,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",610,17,437,156
+Brown,214,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",53,3,39,11
+Brown,214,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Brown,214,"Justice, Supreme Court, Place 2",,,"Under Votes",17,3,7,7
+Brown,214,"Justice, Supreme Court, Place 4",,REP,"John Devine",602,17,433,152
+Brown,214,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",59,3,42,14
+Brown,214,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Brown,214,"Justice, Supreme Court, Place 4",,,"Under Votes",19,3,8,8
+Brown,214,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",590,17,423,150
+Brown,214,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",54,3,40,11
+Brown,214,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",16,0,10,6
+Brown,214,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Brown,214,"Justice, Supreme Court, Place 6",,,"Under Votes",20,3,10,7
+Brown,214,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",603,17,434,152
+Brown,214,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",58,3,42,13
+Brown,214,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Brown,214,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",19,3,7,9
+Brown,214,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",602,17,434,151
+Brown,214,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",57,3,42,12
+Brown,214,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Brown,214,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",21,3,7,11
+Brown,214,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",607,17,434,156
+Brown,214,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",54,3,41,10
+Brown,214,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Brown,214,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",19,3,8,8
+Brown,214,"Member, State Board of Education",15,REP,"Aaron Kinsey",593,17,427,149
+Brown,214,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",54,3,40,11
+Brown,214,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",13,0,7,6
+Brown,214,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Brown,214,"Member, State Board of Education",15,,"Under Votes",20,3,9,8
+Brown,214,"State Senator",10,REP,"Phil King",610,17,435,158
+Brown,214,"State Senator",10,DEM,"Andy Morris",54,3,40,11
+Brown,214,"State Senator",10,,"Over Votes",0,0,0,0
+Brown,214,"State Senator",10,,"Under Votes",16,3,8,5
+Brown,214,"State Representative",68,REP,"David Spiller",606,17,433,156
+Brown,214,"State Representative",68,DEM,"Stacey Swann",53,3,39,11
+Brown,214,"State Representative",68,,"Over Votes",0,0,0,0
+Brown,214,"State Representative",68,,"Under Votes",21,3,11,7
+Brown,214,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",624,17,446,161
+Brown,214,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Brown,214,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",56,6,37,13
+Brown,214,"District Judge, 35th Judicial District",,REP,"Mike Smith",621,17,444,160
+Brown,214,"District Judge, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,214,"District Judge, 35th Judicial District",,,"Under Votes",59,6,39,14
+Brown,214,"District Attorney, 35th Judicial District",,REP,"Micheal Murray",613,18,439,156
+Brown,214,"District Attorney, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,214,"District Attorney, 35th Judicial District",,,"Under Votes",67,5,44,18
+Brown,214,"County Attorney",,REP,"Jennifer Broughton",621,18,446,157
+Brown,214,"County Attorney",,,"Over Votes",0,0,0,0
+Brown,214,"County Attorney",,,"Under Votes",59,5,37,17
+Brown,214,"Sheriff",,REP,"Vance Hill",625,18,444,163
+Brown,214,"Sheriff",,,"Over Votes",0,0,0,0
+Brown,214,"Sheriff",,,"Under Votes",55,5,39,11
+Brown,214,"County Tax Assessor-Collector",,REP,"Christine Pentecost",624,18,445,161
+Brown,214,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Brown,214,"County Tax Assessor-Collector",,,"Under Votes",56,5,38,13
+Brown,214,"Constable, Precinct 2",,REP,"Troy L. Henderson",617,17,439,161
+Brown,214,"Constable, Precinct 2",,,"Over Votes",0,0,0,0
+Brown,214,"Constable, Precinct 2",,,"Under Votes",63,6,44,13
+Brown,214,"Council Member Unexpired Term - Vote for none, one, two or three",,,"Mark Hanson",189,1,135,53
+Brown,214,"Council Member Unexpired Term - Vote for none, one, two or three",,,"Trey Clevenger",137,4,92,41
+Brown,214,"Council Member Unexpired Term - Vote for none, one, two or three",,,"Josh King",181,2,126,53
+Brown,214,"Council Member Unexpired Term - Vote for none, one, two or three",,,"Allison Vail",117,3,87,27
+Brown,214,"Council Member Unexpired Term - Vote for none, one, two or three",,,"Jeff Phillips",171,1,124,46
+Brown,214,"Council Member Unexpired Term - Vote for none, one, two or three",,,"Johnny Louthan",134,3,94,37
+Brown,214,"Council Member Unexpired Term - Vote for none, one, two or three",,,"Over Votes",0,0,0,0
+Brown,214,"Council Member Unexpired Term - Vote for none, one, two or three",,,"Under Votes",1111,55,791,265
+Brown,215,"Ballots Cast",,,,251,,,
+Brown,215,"President",,REP,"Donald J. Trump",225,17,136,72
+Brown,215,"President",,DEM,"Kamala D. Harris",23,3,11,9
+Brown,215,"President",,LIB,"Chase Oliver",2,1,0,1
+Brown,215,"President",,,"Over Votes",0,0,0,0
+Brown,215,"President",,,"Under Votes",1,0,0,1
+Brown,215,"U.S. Senate",,REP,"Ted Cruz",220,17,134,69
+Brown,215,"U.S. Senate",,DEM,"Colin Allred",24,3,11,10
+Brown,215,"U.S. Senate",,LIB,"Ted Brown",5,1,1,3
+Brown,215,"U.S. Senate",,,"Over Votes",0,0,0,0
+Brown,215,"U.S. Senate",,,"Under Votes",2,0,1,1
+Brown,215,"U.S. House",11,REP,"August Pfluger",228,16,136,76
+Brown,215,"U.S. House",11,,"Over Votes",0,0,0,0
+Brown,215,"U.S. House",11,,"Under Votes",23,5,11,7
+Brown,215,"Railroad Commissioner",,REP,"Christi Craddick",223,16,135,72
+Brown,215,"Railroad Commissioner",,DEM,"Katherine Culbert",19,3,10,6
+Brown,215,"Railroad Commissioner",,LIB,"Hawk Dunlap",6,2,1,3
+Brown,215,"Railroad Commissioner",,GRN,"Eddie Espinoza",1,0,0,1
+Brown,215,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Brown,215,"Railroad Commissioner",,,"Under Votes",2,0,1,1
+Brown,215,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",222,16,133,73
+Brown,215,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",24,3,12,9
+Brown,215,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Brown,215,"Justice, Supreme Court, Place 2",,,"Under Votes",5,2,2,1
+Brown,215,"Justice, Supreme Court, Place 4",,REP,"John Devine",221,16,133,72
+Brown,215,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",24,3,11,10
+Brown,215,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Brown,215,"Justice, Supreme Court, Place 4",,,"Under Votes",6,2,3,1
+Brown,215,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",221,15,135,71
+Brown,215,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",20,3,10,7
+Brown,215,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",6,1,1,4
+Brown,215,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Brown,215,"Justice, Supreme Court, Place 6",,,"Under Votes",4,2,1,1
+Brown,215,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",223,16,134,73
+Brown,215,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",23,3,11,9
+Brown,215,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Brown,215,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",5,2,2,1
+Brown,215,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",224,16,135,73
+Brown,215,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",21,3,10,8
+Brown,215,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Brown,215,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",6,2,2,2
+Brown,215,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",224,16,136,72
+Brown,215,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",21,3,10,8
+Brown,215,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Brown,215,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",6,2,2,2
+Brown,215,"Member, State Board of Education",15,REP,"Aaron Kinsey",216,15,132,69
+Brown,215,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",20,3,10,7
+Brown,215,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",9,1,2,6
+Brown,215,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Brown,215,"Member, State Board of Education",15,,"Under Votes",6,2,3,1
+Brown,215,"State Senator",10,REP,"Phil King",223,16,134,73
+Brown,215,"State Senator",10,DEM,"Andy Morris",23,3,11,9
+Brown,215,"State Senator",10,,"Over Votes",0,0,0,0
+Brown,215,"State Senator",10,,"Under Votes",5,2,2,1
+Brown,215,"State Representative",68,REP,"David Spiller",226,16,137,73
+Brown,215,"State Representative",68,DEM,"Stacey Swann",22,3,9,10
+Brown,215,"State Representative",68,,"Over Votes",0,0,0,0
+Brown,215,"State Representative",68,,"Under Votes",3,2,1,0
+Brown,215,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",229,16,136,77
+Brown,215,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Brown,215,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",22,5,11,6
+Brown,215,"District Judge, 35th Judicial District",,REP,"Mike Smith",228,16,134,78
+Brown,215,"District Judge, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,215,"District Judge, 35th Judicial District",,,"Under Votes",23,5,13,5
+Brown,215,"District Attorney, 35th Judicial District",,REP,"Micheal Murray",228,16,135,77
+Brown,215,"District Attorney, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,215,"District Attorney, 35th Judicial District",,,"Under Votes",23,5,12,6
+Brown,215,"County Attorney",,REP,"Jennifer Broughton",228,16,134,78
+Brown,215,"County Attorney",,,"Over Votes",0,0,0,0
+Brown,215,"County Attorney",,,"Under Votes",23,5,13,5
+Brown,215,"Sheriff",,REP,"Vance Hill",228,16,134,78
+Brown,215,"Sheriff",,,"Over Votes",0,0,0,0
+Brown,215,"Sheriff",,,"Under Votes",23,5,13,5
+Brown,215,"County Tax Assessor-Collector",,REP,"Christine Pentecost",226,16,132,78
+Brown,215,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Brown,215,"County Tax Assessor-Collector",,,"Under Votes",25,5,15,5
+Brown,215,"Constable, Precinct 2",,REP,"Troy L. Henderson",225,15,133,77
+Brown,215,"Constable, Precinct 2",,,"Over Votes",0,0,0,0
+Brown,215,"Constable, Precinct 2",,,"Under Votes",26,6,14,6
+Brown,303,"Ballots Cast",,,,683,,,
+Brown,303,"President",,REP,"Donald J. Trump",560,29,386,145
+Brown,303,"President",,DEM,"Kamala D. Harris",115,8,73,34
+Brown,303,"President",,LIB,"Chase Oliver",3,0,2,1
+Brown,303,"President",,GRN,"Jill Stein",1,0,1,0
+Brown,303,"President",,,"Over Votes",0,0,0,0
+Brown,303,"President",,,"Under Votes",4,0,2,2
+Brown,303,"U.S. Senate",,REP,"Ted Cruz",535,28,374,133
+Brown,303,"U.S. Senate",,DEM,"Colin Allred",127,8,79,40
+Brown,303,"U.S. Senate",,LIB,"Ted Brown",16,0,9,7
+Brown,303,"U.S. Senate",,,"Over Votes",0,0,0,0
+Brown,303,"U.S. Senate",,,"Under Votes",5,1,2,2
+Brown,303,"U.S. House",11,REP,"August Pfluger",568,18,395,155
+Brown,303,"U.S. House",11,,"Over Votes",0,0,0,0
+Brown,303,"U.S. House",11,,"Under Votes",115,19,69,27
+Brown,303,"Railroad Commissioner",,REP,"Christi Craddick",525,24,362,139
+Brown,303,"Railroad Commissioner",,DEM,"Katherine Culbert",103,6,69,28
+Brown,303,"Railroad Commissioner",,LIB,"Hawk Dunlap",20,2,12,6
+Brown,303,"Railroad Commissioner",,GRN,"Eddie Espinoza",8,0,5,3
+Brown,303,"Railroad Commissioner",,,"Over Votes",1,1,0,0
+Brown,303,"Railroad Commissioner",,,"Under Votes",26,4,16,6
+Brown,303,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",536,18,372,146
+Brown,303,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",111,7,74,30
+Brown,303,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Brown,303,"Justice, Supreme Court, Place 2",,,"Under Votes",36,12,18,6
+Brown,303,"Justice, Supreme Court, Place 4",,REP,"John Devine",532,18,372,142
+Brown,303,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",119,7,76,36
+Brown,303,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Brown,303,"Justice, Supreme Court, Place 4",,,"Under Votes",32,12,16,4
+Brown,303,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",521,17,367,137
+Brown,303,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",112,7,72,33
+Brown,303,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",20,1,12,7
+Brown,303,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Brown,303,"Justice, Supreme Court, Place 6",,,"Under Votes",30,12,13,5
+Brown,303,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",533,18,373,142
+Brown,303,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",117,7,75,35
+Brown,303,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Brown,303,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",33,12,16,5
+Brown,303,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",540,18,373,149
+Brown,303,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",113,7,77,29
+Brown,303,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Brown,303,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",30,12,14,4
+Brown,303,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",537,18,373,146
+Brown,303,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",112,7,74,31
+Brown,303,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Brown,303,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",34,12,17,5
+Brown,303,"Member, State Board of Education",15,REP,"Aaron Kinsey",511,18,358,135
+Brown,303,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",112,7,72,33
+Brown,303,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",25,0,17,8
+Brown,303,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Brown,303,"Member, State Board of Education",15,,"Under Votes",35,12,17,6
+Brown,303,"State Senator",10,REP,"Phil King",534,18,372,144
+Brown,303,"State Senator",10,DEM,"Andy Morris",114,7,74,33
+Brown,303,"State Senator",10,,"Over Votes",0,0,0,0
+Brown,303,"State Senator",10,,"Under Votes",35,12,18,5
+Brown,303,"State Representative",68,REP,"David Spiller",533,17,373,143
+Brown,303,"State Representative",68,DEM,"Stacey Swann",113,7,74,32
+Brown,303,"State Representative",68,,"Over Votes",0,0,0,0
+Brown,303,"State Representative",68,,"Under Votes",37,13,17,7
+Brown,303,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",573,18,398,157
+Brown,303,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Brown,303,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",110,19,66,25
+Brown,303,"District Judge, 35th Judicial District",,REP,"Mike Smith",580,18,403,159
+Brown,303,"District Judge, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,303,"District Judge, 35th Judicial District",,,"Under Votes",103,19,61,23
+Brown,303,"District Attorney, 35th Judicial District",,REP,"Micheal Murray",579,20,401,158
+Brown,303,"District Attorney, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,303,"District Attorney, 35th Judicial District",,,"Under Votes",104,17,63,24
+Brown,303,"County Attorney",,REP,"Jennifer Broughton",584,19,401,164
+Brown,303,"County Attorney",,,"Over Votes",0,0,0,0
+Brown,303,"County Attorney",,,"Under Votes",99,18,63,18
+Brown,303,"Sheriff",,REP,"Vance Hill",584,20,404,160
+Brown,303,"Sheriff",,,"Over Votes",0,0,0,0
+Brown,303,"Sheriff",,,"Under Votes",99,17,60,22
+Brown,303,"County Tax Assessor-Collector",,REP,"Christine Pentecost",585,20,404,161
+Brown,303,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Brown,303,"County Tax Assessor-Collector",,,"Under Votes",98,17,60,21
+Brown,303,"County Commissioner, Precinct 3",,REP,"David R. Reid",576,18,400,158
+Brown,303,"County Commissioner, Precinct 3",,,"Over Votes",0,0,0,0
+Brown,303,"County Commissioner, Precinct 3",,,"Under Votes",107,19,64,24
+Brown,303,"Constable, Precinct 3",,REP,"Roy Don Parrack",572,17,397,158
+Brown,303,"Constable, Precinct 3",,,"Over Votes",0,0,0,0
+Brown,303,"Constable, Precinct 3",,,"Under Votes",111,20,67,24
+Brown,306,"Ballots Cast",,,,1394,,,
+Brown,306,"President",,REP,"Donald J. Trump",1232,37,932,263
+Brown,306,"President",,DEM,"Kamala D. Harris",141,8,96,37
+Brown,306,"President",,LIB,"Chase Oliver",8,0,5,3
+Brown,306,"President",,GRN,"Jill Stein",9,0,7,2
+Brown,306,"President",,,"Over Votes",0,0,0,0
+Brown,306,"President",,,"Under Votes",4,0,3,1
+Brown,306,"U.S. Senate",,REP,"Ted Cruz",1201,37,916,248
+Brown,306,"U.S. Senate",,DEM,"Colin Allred",156,8,103,45
+Brown,306,"U.S. Senate",,LIB,"Ted Brown",24,0,14,10
+Brown,306,"U.S. Senate",,,"Over Votes",0,0,0,0
+Brown,306,"U.S. Senate",,,"Under Votes",13,0,10,3
+Brown,306,"U.S. House",11,REP,"August Pfluger",1283,38,960,285
+Brown,306,"U.S. House",11,,"Over Votes",0,0,0,0
+Brown,306,"U.S. House",11,,"Under Votes",111,7,83,21
+Brown,306,"Railroad Commissioner",,REP,"Christi Craddick",1194,38,901,255
+Brown,306,"Railroad Commissioner",,DEM,"Katherine Culbert",111,7,80,24
+Brown,306,"Railroad Commissioner",,LIB,"Hawk Dunlap",28,0,18,10
+Brown,306,"Railroad Commissioner",,GRN,"Eddie Espinoza",18,0,11,7
+Brown,306,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Brown,306,"Railroad Commissioner",,,"Under Votes",43,0,33,10
+Brown,306,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1233,37,932,264
+Brown,306,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",120,8,82,30
+Brown,306,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Brown,306,"Justice, Supreme Court, Place 2",,,"Under Votes",41,0,29,12
+Brown,306,"Justice, Supreme Court, Place 4",,REP,"John Devine",1228,37,926,265
+Brown,306,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",124,8,86,30
+Brown,306,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Brown,306,"Justice, Supreme Court, Place 4",,,"Under Votes",42,0,31,11
+Brown,306,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",1203,36,912,255
+Brown,306,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",115,9,78,28
+Brown,306,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",32,0,21,11
+Brown,306,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Brown,306,"Justice, Supreme Court, Place 6",,,"Under Votes",44,0,32,12
+Brown,306,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1235,38,933,264
+Brown,306,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",123,7,85,31
+Brown,306,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Brown,306,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",36,0,25,11
+Brown,306,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1232,36,934,262
+Brown,306,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",123,9,85,29
+Brown,306,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Brown,306,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",39,0,24,15
+Brown,306,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1236,37,937,262
+Brown,306,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",113,8,74,31
+Brown,306,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Brown,306,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",45,0,32,13
+Brown,306,"Member, State Board of Education",15,REP,"Aaron Kinsey",1204,37,911,256
+Brown,306,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",116,8,80,28
+Brown,306,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",35,0,24,11
+Brown,306,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Brown,306,"Member, State Board of Education",15,,"Under Votes",39,0,28,11
+Brown,306,"State Senator",10,REP,"Phil King",1230,37,928,265
+Brown,306,"State Senator",10,DEM,"Andy Morris",124,8,85,31
+Brown,306,"State Senator",10,,"Over Votes",0,0,0,0
+Brown,306,"State Senator",10,,"Under Votes",40,0,30,10
+Brown,306,"State Representative",68,REP,"David Spiller",1231,36,929,266
+Brown,306,"State Representative",68,DEM,"Stacey Swann",127,8,84,35
+Brown,306,"State Representative",68,,"Over Votes",1,1,0,0
+Brown,306,"State Representative",68,,"Under Votes",35,0,26,9
+Brown,306,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",1284,40,957,287
+Brown,306,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Brown,306,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",110,5,86,19
+Brown,306,"District Judge, 35th Judicial District",,REP,"Mike Smith",1284,39,958,287
+Brown,306,"District Judge, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,306,"District Judge, 35th Judicial District",,,"Under Votes",110,6,85,19
+Brown,306,"District Attorney, 35th Judicial District",,REP,"Micheal Murray",1266,38,945,283
+Brown,306,"District Attorney, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,306,"District Attorney, 35th Judicial District",,,"Under Votes",128,7,98,23
+Brown,306,"County Attorney",,REP,"Jennifer Broughton",1277,40,954,283
+Brown,306,"County Attorney",,,"Over Votes",0,0,0,0
+Brown,306,"County Attorney",,,"Under Votes",117,5,89,23
+Brown,306,"Sheriff",,REP,"Vance Hill",1278,39,952,287
+Brown,306,"Sheriff",,,"Over Votes",0,0,0,0
+Brown,306,"Sheriff",,,"Under Votes",116,6,91,19
+Brown,306,"County Tax Assessor-Collector",,REP,"Christine Pentecost",1285,40,959,286
+Brown,306,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Brown,306,"County Tax Assessor-Collector",,,"Under Votes",109,5,84,20
+Brown,306,"County Commissioner, Precinct 3",,REP,"David R. Reid",1273,39,953,281
+Brown,306,"County Commissioner, Precinct 3",,,"Over Votes",0,0,0,0
+Brown,306,"County Commissioner, Precinct 3",,,"Under Votes",121,6,90,25
+Brown,306,"Constable, Precinct 3",,REP,"Roy Don Parrack",1268,38,947,283
+Brown,306,"Constable, Precinct 3",,,"Over Votes",0,0,0,0
+Brown,306,"Constable, Precinct 3",,,"Under Votes",126,7,96,23
+Brown,307,"Ballots Cast",,,,594,,,
+Brown,307,"President",,REP,"Donald J. Trump",524,20,293,211
+Brown,307,"President",,DEM,"Kamala D. Harris",61,12,24,25
+Brown,307,"President",,LIB,"Chase Oliver",5,1,2,2
+Brown,307,"President",,,"Over Votes",1,1,0,0
+Brown,307,"President",,,"Under Votes",3,0,1,2
+Brown,307,"U.S. Senate",,REP,"Ted Cruz",505,18,284,203
+Brown,307,"U.S. Senate",,DEM,"Colin Allred",71,13,28,30
+Brown,307,"U.S. Senate",,LIB,"Ted Brown",11,1,5,5
+Brown,307,"U.S. Senate",,,"Over Votes",0,0,0,0
+Brown,307,"U.S. Senate",,,"Under Votes",7,0,3,4
+Brown,307,"U.S. House",11,REP,"August Pfluger",537,17,301,219
+Brown,307,"U.S. House",11,,"Over Votes",0,0,0,0
+Brown,307,"U.S. House",11,,"Under Votes",57,17,19,21
+Brown,307,"Railroad Commissioner",,REP,"Christi Craddick",503,16,286,201
+Brown,307,"Railroad Commissioner",,DEM,"Katherine Culbert",51,12,19,20
+Brown,307,"Railroad Commissioner",,LIB,"Hawk Dunlap",12,0,5,7
+Brown,307,"Railroad Commissioner",,GRN,"Eddie Espinoza",6,0,2,4
+Brown,307,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Brown,307,"Railroad Commissioner",,,"Under Votes",22,6,8,8
+Brown,307,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",520,16,295,209
+Brown,307,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",52,12,18,22
+Brown,307,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Brown,307,"Justice, Supreme Court, Place 2",,,"Under Votes",22,6,7,9
+Brown,307,"Justice, Supreme Court, Place 4",,REP,"John Devine",515,16,295,204
+Brown,307,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",55,12,17,26
+Brown,307,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Brown,307,"Justice, Supreme Court, Place 4",,,"Under Votes",24,6,10,8
+Brown,307,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",505,16,284,205
+Brown,307,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",50,12,17,21
+Brown,307,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",14,0,9,5
+Brown,307,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Brown,307,"Justice, Supreme Court, Place 6",,,"Under Votes",25,6,10,9
+Brown,307,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",510,15,292,203
+Brown,307,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",54,12,18,24
+Brown,307,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Brown,307,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",30,7,10,13
+Brown,307,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",506,16,287,203
+Brown,307,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",59,12,20,27
+Brown,307,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Brown,307,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",29,6,13,10
+Brown,307,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",509,16,287,206
+Brown,307,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",57,12,22,23
+Brown,307,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Brown,307,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",28,6,11,11
+Brown,307,"Member, State Board of Education",15,REP,"Aaron Kinsey",497,15,281,201
+Brown,307,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",58,13,22,23
+Brown,307,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",14,0,7,7
+Brown,307,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Brown,307,"Member, State Board of Education",15,,"Under Votes",25,6,10,9
+Brown,307,"State Senator",10,REP,"Phil King",515,16,294,205
+Brown,307,"State Senator",10,DEM,"Andy Morris",58,12,20,26
+Brown,307,"State Senator",10,,"Over Votes",0,0,0,0
+Brown,307,"State Senator",10,,"Under Votes",21,6,6,9
+Brown,307,"State Representative",68,REP,"David Spiller",515,15,288,212
+Brown,307,"State Representative",68,DEM,"Stacey Swann",56,12,22,22
+Brown,307,"State Representative",68,,"Over Votes",0,0,0,0
+Brown,307,"State Representative",68,,"Under Votes",23,7,10,6
+Brown,307,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",536,19,302,215
+Brown,307,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Brown,307,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",58,15,18,25
+Brown,307,"District Judge, 35th Judicial District",,REP,"Mike Smith",531,18,301,212
+Brown,307,"District Judge, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,307,"District Judge, 35th Judicial District",,,"Under Votes",63,16,19,28
+Brown,307,"District Attorney, 35th Judicial District",,REP,"Micheal Murray",522,18,294,210
+Brown,307,"District Attorney, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,307,"District Attorney, 35th Judicial District",,,"Under Votes",72,16,26,30
+Brown,307,"County Attorney",,REP,"Jennifer Broughton",524,18,296,210
+Brown,307,"County Attorney",,,"Over Votes",0,0,0,0
+Brown,307,"County Attorney",,,"Under Votes",70,16,24,30
+Brown,307,"Sheriff",,REP,"Vance Hill",525,19,293,213
+Brown,307,"Sheriff",,,"Over Votes",0,0,0,0
+Brown,307,"Sheriff",,,"Under Votes",69,15,27,27
+Brown,307,"County Tax Assessor-Collector",,REP,"Christine Pentecost",537,20,300,217
+Brown,307,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Brown,307,"County Tax Assessor-Collector",,,"Under Votes",57,14,20,23
+Brown,307,"County Commissioner, Precinct 3",,REP,"David R. Reid",529,20,296,213
+Brown,307,"County Commissioner, Precinct 3",,,"Over Votes",0,0,0,0
+Brown,307,"County Commissioner, Precinct 3",,,"Under Votes",65,14,24,27
+Brown,307,"Constable, Precinct 3",,REP,"Roy Don Parrack",526,17,296,213
+Brown,307,"Constable, Precinct 3",,,"Over Votes",0,0,0,0
+Brown,307,"Constable, Precinct 3",,,"Under Votes",68,17,24,27
+Brown,308,"Ballots Cast",,,,473,,,
+Brown,308,"President",,REP,"Donald J. Trump",443,13,226,204
+Brown,308,"President",,DEM,"Kamala D. Harris",25,4,9,12
+Brown,308,"President",,LIB,"Chase Oliver",2,0,0,2
+Brown,308,"President",,GRN,"Jill Stein",1,0,0,1
+Brown,308,"President",,,"Over Votes",0,0,0,0
+Brown,308,"President",,,"Under Votes",2,0,1,1
+Brown,308,"U.S. Senate",,REP,"Ted Cruz",427,11,220,196
+Brown,308,"U.S. Senate",,DEM,"Colin Allred",36,4,12,20
+Brown,308,"U.S. Senate",,LIB,"Ted Brown",2,0,0,2
+Brown,308,"U.S. Senate",,,"Over Votes",1,1,0,0
+Brown,308,"U.S. Senate",,,"Under Votes",7,1,2,4
+Brown,308,"U.S. House",11,REP,"August Pfluger",430,7,223,200
+Brown,308,"U.S. House",11,,"Over Votes",0,0,0,0
+Brown,308,"U.S. House",11,,"Under Votes",43,10,13,20
+Brown,308,"Railroad Commissioner",,REP,"Christi Craddick",418,11,216,191
+Brown,308,"Railroad Commissioner",,DEM,"Katherine Culbert",25,4,10,11
+Brown,308,"Railroad Commissioner",,LIB,"Hawk Dunlap",12,0,7,5
+Brown,308,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,1,0,2
+Brown,308,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Brown,308,"Railroad Commissioner",,,"Under Votes",15,1,5,9
+Brown,308,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",427,6,223,198
+Brown,308,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",29,4,8,17
+Brown,308,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Brown,308,"Justice, Supreme Court, Place 2",,,"Under Votes",17,7,5,5
+Brown,308,"Justice, Supreme Court, Place 4",,REP,"John Devine",429,5,223,201
+Brown,308,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",27,4,9,14
+Brown,308,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Brown,308,"Justice, Supreme Court, Place 4",,,"Under Votes",17,8,4,5
+Brown,308,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",421,5,219,197
+Brown,308,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",26,4,10,12
+Brown,308,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",9,1,3,5
+Brown,308,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Brown,308,"Justice, Supreme Court, Place 6",,,"Under Votes",17,7,4,6
+Brown,308,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",429,6,224,199
+Brown,308,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",28,4,9,15
+Brown,308,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Brown,308,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",16,7,3,6
+Brown,308,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",430,6,224,200
+Brown,308,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",26,4,8,14
+Brown,308,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Brown,308,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",17,7,4,6
+Brown,308,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",431,5,225,201
+Brown,308,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",25,5,7,13
+Brown,308,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Brown,308,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",17,7,4,6
+Brown,308,"Member, State Board of Education",15,REP,"Aaron Kinsey",413,5,214,194
+Brown,308,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",30,5,11,14
+Brown,308,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",9,0,5,4
+Brown,308,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Brown,308,"Member, State Board of Education",15,,"Under Votes",21,7,6,8
+Brown,308,"State Senator",10,REP,"Phil King",430,6,222,202
+Brown,308,"State Senator",10,DEM,"Andy Morris",25,4,9,12
+Brown,308,"State Senator",10,,"Over Votes",0,0,0,0
+Brown,308,"State Senator",10,,"Under Votes",18,7,5,6
+Brown,308,"State Representative",68,REP,"David Spiller",430,6,222,202
+Brown,308,"State Representative",68,DEM,"Stacey Swann",26,4,9,13
+Brown,308,"State Representative",68,,"Over Votes",0,0,0,0
+Brown,308,"State Representative",68,,"Under Votes",17,7,5,5
+Brown,308,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",435,7,223,205
+Brown,308,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Brown,308,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",38,10,13,15
+Brown,308,"District Judge, 35th Judicial District",,REP,"Mike Smith",436,7,223,206
+Brown,308,"District Judge, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,308,"District Judge, 35th Judicial District",,,"Under Votes",37,10,13,14
+Brown,308,"District Attorney, 35th Judicial District",,REP,"Micheal Murray",422,7,213,202
+Brown,308,"District Attorney, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,308,"District Attorney, 35th Judicial District",,,"Under Votes",51,10,23,18
+Brown,308,"County Attorney",,REP,"Jennifer Broughton",427,7,218,202
+Brown,308,"County Attorney",,,"Over Votes",0,0,0,0
+Brown,308,"County Attorney",,,"Under Votes",46,10,18,18
+Brown,308,"Sheriff",,REP,"Vance Hill",431,7,218,206
+Brown,308,"Sheriff",,,"Over Votes",0,0,0,0
+Brown,308,"Sheriff",,,"Under Votes",42,10,18,14
+Brown,308,"County Tax Assessor-Collector",,REP,"Christine Pentecost",430,7,220,203
+Brown,308,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Brown,308,"County Tax Assessor-Collector",,,"Under Votes",43,10,16,17
+Brown,308,"County Commissioner, Precinct 3",,REP,"David R. Reid",427,7,217,203
+Brown,308,"County Commissioner, Precinct 3",,,"Over Votes",0,0,0,0
+Brown,308,"County Commissioner, Precinct 3",,,"Under Votes",46,10,19,17
+Brown,308,"Constable, Precinct 3",,REP,"Roy Don Parrack",427,6,218,203
+Brown,308,"Constable, Precinct 3",,,"Over Votes",0,0,0,0
+Brown,308,"Constable, Precinct 3",,,"Under Votes",46,11,18,17
+Brown,316,"Ballots Cast",,,,177,,,
+Brown,316,"President",,REP,"Donald J. Trump",161,16,113,32
+Brown,316,"President",,DEM,"Kamala D. Harris",14,0,10,4
+Brown,316,"President",,GRN,"Jill Stein",1,0,1,0
+Brown,316,"President",,,"Over Votes",0,0,0,0
+Brown,316,"President",,,"Under Votes",1,1,0,0
+Brown,316,"U.S. Senate",,REP,"Ted Cruz",152,16,109,27
+Brown,316,"U.S. Senate",,DEM,"Colin Allred",20,0,13,7
+Brown,316,"U.S. Senate",,LIB,"Ted Brown",3,0,1,2
+Brown,316,"U.S. Senate",,,"Over Votes",1,1,0,0
+Brown,316,"U.S. Senate",,,"Under Votes",1,0,1,0
+Brown,316,"U.S. House",11,REP,"August Pfluger",157,9,114,34
+Brown,316,"U.S. House",11,,"Over Votes",0,0,0,0
+Brown,316,"U.S. House",11,,"Under Votes",20,8,10,2
+Brown,316,"Railroad Commissioner",,REP,"Christi Craddick",144,12,103,29
+Brown,316,"Railroad Commissioner",,DEM,"Katherine Culbert",11,0,8,3
+Brown,316,"Railroad Commissioner",,LIB,"Hawk Dunlap",9,0,6,3
+Brown,316,"Railroad Commissioner",,GRN,"Eddie Espinoza",3,0,3,0
+Brown,316,"Railroad Commissioner",,,"Over Votes",1,1,0,0
+Brown,316,"Railroad Commissioner",,,"Under Votes",9,4,4,1
+Brown,316,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",151,8,111,32
+Brown,316,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",14,0,11,3
+Brown,316,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Brown,316,"Justice, Supreme Court, Place 2",,,"Under Votes",12,9,2,1
+Brown,316,"Justice, Supreme Court, Place 4",,REP,"John Devine",151,8,111,32
+Brown,316,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",12,0,9,3
+Brown,316,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Brown,316,"Justice, Supreme Court, Place 4",,,"Under Votes",14,9,4,1
+Brown,316,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",145,8,107,30
+Brown,316,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",12,0,10,2
+Brown,316,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",8,0,5,3
+Brown,316,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Brown,316,"Justice, Supreme Court, Place 6",,,"Under Votes",12,9,2,1
+Brown,316,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",151,8,110,33
+Brown,316,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",13,0,10,3
+Brown,316,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Brown,316,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",13,9,4,0
+Brown,316,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",150,7,111,32
+Brown,316,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",14,0,11,3
+Brown,316,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Brown,316,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",13,10,2,1
+Brown,316,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",148,7,109,32
+Brown,316,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",14,0,11,3
+Brown,316,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Brown,316,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",15,10,4,1
+Brown,316,"Member, State Board of Education",15,REP,"Aaron Kinsey",145,7,107,31
+Brown,316,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",11,0,9,2
+Brown,316,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",7,0,4,3
+Brown,316,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Brown,316,"Member, State Board of Education",15,,"Under Votes",14,10,4,0
+Brown,316,"State Senator",10,REP,"Phil King",151,8,110,33
+Brown,316,"State Senator",10,DEM,"Andy Morris",14,0,11,3
+Brown,316,"State Senator",10,,"Over Votes",0,0,0,0
+Brown,316,"State Senator",10,,"Under Votes",12,9,3,0
+Brown,316,"State Representative",68,REP,"David Spiller",153,10,111,32
+Brown,316,"State Representative",68,DEM,"Stacey Swann",14,0,11,3
+Brown,316,"State Representative",68,,"Over Votes",0,0,0,0
+Brown,316,"State Representative",68,,"Under Votes",10,7,2,1
+Brown,316,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",156,8,116,32
+Brown,316,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Brown,316,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",21,9,8,4
+Brown,316,"District Judge, 35th Judicial District",,REP,"Mike Smith",156,8,115,33
+Brown,316,"District Judge, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,316,"District Judge, 35th Judicial District",,,"Under Votes",21,9,9,3
+Brown,316,"District Attorney, 35th Judicial District",,REP,"Micheal Murray",158,8,117,33
+Brown,316,"District Attorney, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,316,"District Attorney, 35th Judicial District",,,"Under Votes",19,9,7,3
+Brown,316,"County Attorney",,REP,"Jennifer Broughton",156,8,115,33
+Brown,316,"County Attorney",,,"Over Votes",0,0,0,0
+Brown,316,"County Attorney",,,"Under Votes",21,9,9,3
+Brown,316,"Sheriff",,REP,"Vance Hill",159,8,118,33
+Brown,316,"Sheriff",,,"Over Votes",0,0,0,0
+Brown,316,"Sheriff",,,"Under Votes",18,9,6,3
+Brown,316,"County Tax Assessor-Collector",,REP,"Christine Pentecost",155,8,114,33
+Brown,316,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Brown,316,"County Tax Assessor-Collector",,,"Under Votes",22,9,10,3
+Brown,316,"County Commissioner, Precinct 3",,REP,"David R. Reid",154,8,114,32
+Brown,316,"County Commissioner, Precinct 3",,,"Over Votes",0,0,0,0
+Brown,316,"County Commissioner, Precinct 3",,,"Under Votes",23,9,10,4
+Brown,316,"Constable, Precinct 3",,REP,"Roy Don Parrack",148,8,108,32
+Brown,316,"Constable, Precinct 3",,,"Over Votes",0,0,0,0
+Brown,316,"Constable, Precinct 3",,,"Under Votes",29,9,16,4
+Brown,318,"Ballots Cast",,,,1344,,,
+Brown,318,"President",,REP,"Donald J. Trump",1176,58,838,280
+Brown,318,"President",,DEM,"Kamala D. Harris",150,16,90,44
+Brown,318,"President",,LIB,"Chase Oliver",6,0,3,3
+Brown,318,"President",,GRN,"Jill Stein",4,0,2,2
+Brown,318,"President",,,"Over Votes",1,1,0,0
+Brown,318,"President",,,"Under Votes",7,0,5,2
+Brown,318,"U.S. Senate",,REP,"Ted Cruz",1128,55,808,265
+Brown,318,"U.S. Senate",,DEM,"Colin Allred",171,18,106,47
+Brown,318,"U.S. Senate",,LIB,"Ted Brown",34,1,19,14
+Brown,318,"U.S. Senate",,,"Over Votes",0,0,0,0
+Brown,318,"U.S. Senate",,,"Under Votes",11,1,5,5
+Brown,318,"U.S. House",11,REP,"August Pfluger",1213,54,864,295
+Brown,318,"U.S. House",11,,"Over Votes",0,0,0,0
+Brown,318,"U.S. House",11,,"Under Votes",131,21,74,36
+Brown,318,"Railroad Commissioner",,REP,"Christi Craddick",1115,53,800,262
+Brown,318,"Railroad Commissioner",,DEM,"Katherine Culbert",125,13,82,30
+Brown,318,"Railroad Commissioner",,LIB,"Hawk Dunlap",37,1,22,14
+Brown,318,"Railroad Commissioner",,GRN,"Eddie Espinoza",12,0,6,6
+Brown,318,"Railroad Commissioner",,,"Over Votes",1,1,0,0
+Brown,318,"Railroad Commissioner",,,"Under Votes",54,7,28,19
+Brown,318,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1144,52,816,276
+Brown,318,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",150,15,95,40
+Brown,318,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Brown,318,"Justice, Supreme Court, Place 2",,,"Under Votes",50,8,27,15
+Brown,318,"Justice, Supreme Court, Place 4",,REP,"John Devine",1133,51,813,269
+Brown,318,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",159,16,98,45
+Brown,318,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Brown,318,"Justice, Supreme Court, Place 4",,,"Under Votes",52,8,27,17
+Brown,318,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",1114,52,801,261
+Brown,318,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",139,13,87,39
+Brown,318,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",37,2,20,15
+Brown,318,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Brown,318,"Justice, Supreme Court, Place 6",,,"Under Votes",54,8,30,16
+Brown,318,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1134,52,814,268
+Brown,318,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",155,15,96,44
+Brown,318,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Brown,318,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",55,8,28,19
+Brown,318,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1138,51,815,272
+Brown,318,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",148,15,91,42
+Brown,318,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Brown,318,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",58,9,32,17
+Brown,318,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1137,50,817,270
+Brown,318,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",142,16,86,40
+Brown,318,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Brown,318,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",65,9,35,21
+Brown,318,"Member, State Board of Education",15,REP,"Aaron Kinsey",1097,50,791,256
+Brown,318,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",147,15,94,38
+Brown,318,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",43,1,23,19
+Brown,318,"Member, State Board of Education",15,,"Over Votes",1,1,0,0
+Brown,318,"Member, State Board of Education",15,,"Under Votes",56,8,30,18
+Brown,318,"State Senator",10,REP,"Phil King",1137,51,814,272
+Brown,318,"State Senator",10,DEM,"Andy Morris",153,16,96,41
+Brown,318,"State Senator",10,,"Over Votes",0,0,0,0
+Brown,318,"State Senator",10,,"Under Votes",54,8,28,18
+Brown,318,"State Representative",68,REP,"David Spiller",1138,50,819,269
+Brown,318,"State Representative",68,DEM,"Stacey Swann",155,16,96,43
+Brown,318,"State Representative",68,,"Over Votes",0,0,0,0
+Brown,318,"State Representative",68,,"Under Votes",51,9,23,19
+Brown,318,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",1208,56,858,294
+Brown,318,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Brown,318,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",136,19,80,37
+Brown,318,"District Judge, 35th Judicial District",,REP,"Mike Smith",1216,57,864,295
+Brown,318,"District Judge, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,318,"District Judge, 35th Judicial District",,,"Under Votes",128,18,74,36
+Brown,318,"District Attorney, 35th Judicial District",,REP,"Micheal Murray",1197,57,857,283
+Brown,318,"District Attorney, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,318,"District Attorney, 35th Judicial District",,,"Under Votes",147,18,81,48
+Brown,318,"County Attorney",,REP,"Jennifer Broughton",1207,57,863,287
+Brown,318,"County Attorney",,,"Over Votes",0,0,0,0
+Brown,318,"County Attorney",,,"Under Votes",137,18,75,44
+Brown,318,"Sheriff",,REP,"Vance Hill",1221,58,867,296
+Brown,318,"Sheriff",,,"Over Votes",0,0,0,0
+Brown,318,"Sheriff",,,"Under Votes",123,17,71,35
+Brown,318,"County Tax Assessor-Collector",,REP,"Christine Pentecost",1220,58,869,293
+Brown,318,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Brown,318,"County Tax Assessor-Collector",,,"Under Votes",124,17,69,38
+Brown,318,"County Commissioner, Precinct 3",,REP,"David R. Reid",1217,59,865,293
+Brown,318,"County Commissioner, Precinct 3",,,"Over Votes",0,0,0,0
+Brown,318,"County Commissioner, Precinct 3",,,"Under Votes",127,16,73,38
+Brown,318,"Constable, Precinct 3",,REP,"Roy Don Parrack",1207,57,858,292
+Brown,318,"Constable, Precinct 3",,,"Over Votes",0,0,0,0
+Brown,318,"Constable, Precinct 3",,,"Under Votes",137,18,80,39
+Brown,410,"Ballots Cast",,,,1943,,,
+Brown,410,"President",,REP,"Donald J. Trump",1770,60,1206,504
+Brown,410,"President",,DEM,"Kamala D. Harris",161,5,98,58
+Brown,410,"President",,LIB,"Chase Oliver",5,0,2,3
+Brown,410,"President",,GRN,"Jill Stein",3,0,3,0
+Brown,410,"President",,,"Over Votes",0,0,0,0
+Brown,410,"President",,,"Under Votes",4,0,3,1
+Brown,410,"U.S. Senate",,REP,"Ted Cruz",1724,59,1180,485
+Brown,410,"U.S. Senate",,DEM,"Colin Allred",171,6,110,55
+Brown,410,"U.S. Senate",,LIB,"Ted Brown",25,0,15,10
+Brown,410,"U.S. Senate",,,"Over Votes",0,0,0,0
+Brown,410,"U.S. Senate",,,"Under Votes",23,0,12,11
+Brown,410,"U.S. House",11,REP,"August Pfluger",1776,48,1216,512
+Brown,410,"U.S. House",11,,"Over Votes",0,0,0,0
+Brown,410,"U.S. House",11,,"Under Votes",167,17,96,54
+Brown,410,"Railroad Commissioner",,REP,"Christi Craddick",1683,52,1168,463
+Brown,410,"Railroad Commissioner",,DEM,"Katherine Culbert",134,3,84,47
+Brown,410,"Railroad Commissioner",,LIB,"Hawk Dunlap",45,2,21,22
+Brown,410,"Railroad Commissioner",,GRN,"Eddie Espinoza",13,0,8,5
+Brown,410,"Railroad Commissioner",,,"Over Votes",1,1,0,0
+Brown,410,"Railroad Commissioner",,,"Under Votes",67,7,31,29
+Brown,410,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1714,48,1186,480
+Brown,410,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",157,4,92,61
+Brown,410,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Brown,410,"Justice, Supreme Court, Place 2",,,"Under Votes",72,13,34,25
+Brown,410,"Justice, Supreme Court, Place 4",,REP,"John Devine",1705,47,1178,480
+Brown,410,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",159,4,95,60
+Brown,410,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Brown,410,"Justice, Supreme Court, Place 4",,,"Under Votes",79,14,39,26
+Brown,410,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",1690,47,1171,472
+Brown,410,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",150,4,89,57
+Brown,410,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",35,1,20,14
+Brown,410,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Brown,410,"Justice, Supreme Court, Place 6",,,"Under Votes",68,13,32,23
+Brown,410,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1715,47,1185,483
+Brown,410,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",159,4,95,60
+Brown,410,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Brown,410,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",69,14,32,23
+Brown,410,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1713,48,1184,481
+Brown,410,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",154,4,89,61
+Brown,410,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Brown,410,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",76,13,39,24
+Brown,410,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1722,48,1188,486
+Brown,410,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",145,4,87,54
+Brown,410,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Brown,410,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",76,13,37,26
+Brown,410,"Member, State Board of Education",15,REP,"Aaron Kinsey",1675,46,1160,469
+Brown,410,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",161,5,99,57
+Brown,410,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",36,2,18,16
+Brown,410,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Brown,410,"Member, State Board of Education",15,,"Under Votes",71,12,35,24
+Brown,410,"State Senator",10,REP,"Phil King",1731,49,1189,493
+Brown,410,"State Senator",10,DEM,"Andy Morris",150,4,91,55
+Brown,410,"State Senator",10,,"Over Votes",0,0,0,0
+Brown,410,"State Senator",10,,"Under Votes",62,12,32,18
+Brown,410,"State Representative",68,REP,"David Spiller",1726,50,1187,489
+Brown,410,"State Representative",68,DEM,"Stacey Swann",145,4,93,48
+Brown,410,"State Representative",68,,"Over Votes",0,0,0,0
+Brown,410,"State Representative",68,,"Under Votes",72,11,37,24
+Brown,410,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",1774,48,1213,513
+Brown,410,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Brown,410,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",169,17,99,53
+Brown,410,"District Judge, 35th Judicial District",,REP,"Mike Smith",1768,48,1209,511
+Brown,410,"District Judge, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,410,"District Judge, 35th Judicial District",,,"Under Votes",175,17,103,55
+Brown,410,"District Attorney, 35th Judicial District",,REP,"Micheal Murray",1755,50,1202,503
+Brown,410,"District Attorney, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,410,"District Attorney, 35th Judicial District",,,"Under Votes",188,15,110,63
+Brown,410,"County Attorney",,REP,"Jennifer Broughton",1756,47,1203,506
+Brown,410,"County Attorney",,,"Over Votes",0,0,0,0
+Brown,410,"County Attorney",,,"Under Votes",187,18,109,60
+Brown,410,"Sheriff",,REP,"Vance Hill",1786,49,1216,521
+Brown,410,"Sheriff",,,"Over Votes",0,0,0,0
+Brown,410,"Sheriff",,,"Under Votes",157,16,96,45
+Brown,410,"County Tax Assessor-Collector",,REP,"Christine Pentecost",1772,48,1213,511
+Brown,410,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Brown,410,"County Tax Assessor-Collector",,,"Under Votes",171,17,99,55
+Brown,410,"Constable, Precinct 4",,REP,"Michael Wayne Isbell",1762,48,1204,510
+Brown,410,"Constable, Precinct 4",,,"Over Votes",0,0,0,0
+Brown,410,"Constable, Precinct 4",,,"Under Votes",181,17,108,56
+Brown,411,"Ballots Cast",,,,779,,,
+Brown,411,"President",,REP,"Donald J. Trump",591,28,392,171
+Brown,411,"President",,DEM,"Kamala D. Harris",176,14,97,65
+Brown,411,"President",,LIB,"Chase Oliver",3,0,2,1
+Brown,411,"President",,GRN,"Jill Stein",5,0,1,4
+Brown,411,"President",,,"Over Votes",2,2,0,0
+Brown,411,"President",,,"Under Votes",2,0,2,0
+Brown,411,"U.S. Senate",,REP,"Ted Cruz",566,29,377,160
+Brown,411,"U.S. Senate",,DEM,"Colin Allred",181,14,102,65
+Brown,411,"U.S. Senate",,LIB,"Ted Brown",20,1,11,8
+Brown,411,"U.S. Senate",,,"Over Votes",0,0,0,0
+Brown,411,"U.S. Senate",,,"Under Votes",12,0,7,5
+Brown,411,"U.S. House",11,REP,"August Pfluger",637,25,418,194
+Brown,411,"U.S. House",11,,"Over Votes",0,0,0,0
+Brown,411,"U.S. House",11,,"Under Votes",142,19,76,47
+Brown,411,"Railroad Commissioner",,REP,"Christi Craddick",545,19,369,157
+Brown,411,"Railroad Commissioner",,DEM,"Katherine Culbert",130,11,76,43
+Brown,411,"Railroad Commissioner",,LIB,"Hawk Dunlap",27,0,13,14
+Brown,411,"Railroad Commissioner",,GRN,"Eddie Espinoza",24,2,11,11
+Brown,411,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Brown,411,"Railroad Commissioner",,,"Under Votes",53,12,25,16
+Brown,411,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",572,18,382,172
+Brown,411,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",147,13,86,48
+Brown,411,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Brown,411,"Justice, Supreme Court, Place 2",,,"Under Votes",60,13,26,21
+Brown,411,"Justice, Supreme Court, Place 4",,REP,"John Devine",572,17,385,170
+Brown,411,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",155,14,87,54
+Brown,411,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Brown,411,"Justice, Supreme Court, Place 4",,,"Under Votes",52,13,21,18
+Brown,411,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",557,18,377,162
+Brown,411,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",142,12,83,47
+Brown,411,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",26,1,14,11
+Brown,411,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Brown,411,"Justice, Supreme Court, Place 6",,,"Under Votes",54,13,20,21
+Brown,411,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",577,18,389,170
+Brown,411,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",147,11,87,49
+Brown,411,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Brown,411,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",55,15,18,22
+Brown,411,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",579,19,391,169
+Brown,411,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",141,10,83,48
+Brown,411,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Brown,411,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",59,15,20,24
+Brown,411,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",580,18,389,173
+Brown,411,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",139,12,82,45
+Brown,411,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Brown,411,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",60,14,23,23
+Brown,411,"Member, State Board of Education",15,REP,"Aaron Kinsey",550,18,377,155
+Brown,411,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",143,13,80,50
+Brown,411,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",29,1,14,14
+Brown,411,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Brown,411,"Member, State Board of Education",15,,"Under Votes",57,12,23,22
+Brown,411,"State Senator",10,REP,"Phil King",573,17,388,168
+Brown,411,"State Senator",10,DEM,"Andy Morris",151,14,83,54
+Brown,411,"State Senator",10,,"Over Votes",0,0,0,0
+Brown,411,"State Senator",10,,"Under Votes",55,13,23,19
+Brown,411,"State Representative",68,REP,"David Spiller",582,18,394,170
+Brown,411,"State Representative",68,DEM,"Stacey Swann",145,14,81,50
+Brown,411,"State Representative",68,,"Over Votes",1,1,0,0
+Brown,411,"State Representative",68,,"Under Votes",51,11,19,21
+Brown,411,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",624,20,413,191
+Brown,411,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Brown,411,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",155,24,81,50
+Brown,411,"District Judge, 35th Judicial District",,REP,"Mike Smith",637,22,418,197
+Brown,411,"District Judge, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,411,"District Judge, 35th Judicial District",,,"Under Votes",142,22,76,44
+Brown,411,"District Attorney, 35th Judicial District",,REP,"Micheal Murray",627,20,412,195
+Brown,411,"District Attorney, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,411,"District Attorney, 35th Judicial District",,,"Under Votes",152,24,82,46
+Brown,411,"County Attorney",,REP,"Jennifer Broughton",635,21,419,195
+Brown,411,"County Attorney",,,"Over Votes",0,0,0,0
+Brown,411,"County Attorney",,,"Under Votes",144,23,75,46
+Brown,411,"Sheriff",,REP,"Vance Hill",638,22,417,199
+Brown,411,"Sheriff",,,"Over Votes",0,0,0,0
+Brown,411,"Sheriff",,,"Under Votes",141,22,77,42
+Brown,411,"County Tax Assessor-Collector",,REP,"Christine Pentecost",638,22,421,195
+Brown,411,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Brown,411,"County Tax Assessor-Collector",,,"Under Votes",141,22,73,46
+Brown,411,"Constable, Precinct 4",,REP,"Michael Wayne Isbell",631,21,416,194
+Brown,411,"Constable, Precinct 4",,,"Over Votes",0,0,0,0
+Brown,411,"Constable, Precinct 4",,,"Under Votes",148,23,78,47
+Brown,417,"Ballots Cast",,,,1627,,,
+Brown,417,"President",,REP,"Donald J. Trump",1438,45,1038,355
+Brown,417,"President",,DEM,"Kamala D. Harris",153,18,98,37
+Brown,417,"President",,LIB,"Chase Oliver",7,0,7,0
+Brown,417,"President",,GRN,"Jill Stein",5,0,4,1
+Brown,417,"President",,,"Over Votes",0,0,0,0
+Brown,417,"President",,,"Under Votes",24,1,14,9
+Brown,417,"U.S. Senate",,REP,"Ted Cruz",1396,44,1016,336
+Brown,417,"U.S. Senate",,DEM,"Colin Allred",185,18,108,59
+Brown,417,"U.S. Senate",,LIB,"Ted Brown",31,2,18,11
+Brown,417,"U.S. Senate",,,"Over Votes",0,0,0,0
+Brown,417,"U.S. Senate",,,"Under Votes",15,0,9,6
+Brown,417,"U.S. House",11,REP,"August Pfluger",1459,41,1054,364
+Brown,417,"U.S. House",11,,"Over Votes",0,0,0,0
+Brown,417,"U.S. House",11,,"Under Votes",168,23,97,48
+Brown,417,"Railroad Commissioner",,REP,"Christi Craddick",1370,42,995,333
+Brown,417,"Railroad Commissioner",,DEM,"Katherine Culbert",138,18,81,39
+Brown,417,"Railroad Commissioner",,LIB,"Hawk Dunlap",39,0,26,13
+Brown,417,"Railroad Commissioner",,GRN,"Eddie Espinoza",20,2,15,3
+Brown,417,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Brown,417,"Railroad Commissioner",,,"Under Votes",60,2,34,24
+Brown,417,"Justice, Supreme Court, Place 2",,REP,"Jimmy Blacklock",1422,40,1039,343
+Brown,417,"Justice, Supreme Court, Place 2",,DEM,"DaSean Jones",147,16,93,38
+Brown,417,"Justice, Supreme Court, Place 2",,,"Over Votes",0,0,0,0
+Brown,417,"Justice, Supreme Court, Place 2",,,"Under Votes",58,8,26,24
+Brown,417,"Justice, Supreme Court, Place 4",,REP,"John Devine",1408,38,1029,341
+Brown,417,"Justice, Supreme Court, Place 4",,DEM,"Christine Vinh Weems",158,18,93,47
+Brown,417,"Justice, Supreme Court, Place 4",,,"Over Votes",0,0,0,0
+Brown,417,"Justice, Supreme Court, Place 4",,,"Under Votes",61,8,29,24
+Brown,417,"Justice, Supreme Court, Place 6",,REP,"Jane Bland",1386,38,1017,331
+Brown,417,"Justice, Supreme Court, Place 6",,DEM,"Bonnie Lee Goldstein",142,17,90,35
+Brown,417,"Justice, Supreme Court, Place 6",,LIB,"J. David Roberson",37,1,23,13
+Brown,417,"Justice, Supreme Court, Place 6",,,"Over Votes",0,0,0,0
+Brown,417,"Justice, Supreme Court, Place 6",,,"Under Votes",62,8,28,26
+Brown,417,"Presiding Judge, Court of Criminal Appeals",,REP,"David J. Schenck",1406,37,1025,344
+Brown,417,"Presiding Judge, Court of Criminal Appeals",,DEM,"Holly Taylor",158,18,94,46
+Brown,417,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Brown,417,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",63,9,32,22
+Brown,417,"Judge, Court of Criminal Appeals, Place 7",,REP,"Gina Parker",1411,38,1030,343
+Brown,417,"Judge, Court of Criminal Appeals, Place 7",,DEM,"Nancy Mulder",145,17,86,42
+Brown,417,"Judge, Court of Criminal Appeals, Place 7",,,"Over Votes",0,0,0,0
+Brown,417,"Judge, Court of Criminal Appeals, Place 7",,,"Under Votes",71,9,35,27
+Brown,417,"Judge, Court of Criminal Appeals, Place 8",,REP,"Lee Finley",1412,38,1028,346
+Brown,417,"Judge, Court of Criminal Appeals, Place 8",,DEM,"Chika Anyiam",145,17,86,42
+Brown,417,"Judge, Court of Criminal Appeals, Place 8",,,"Over Votes",0,0,0,0
+Brown,417,"Judge, Court of Criminal Appeals, Place 8",,,"Under Votes",70,9,37,24
+Brown,417,"Member, State Board of Education",15,REP,"Aaron Kinsey",1364,38,997,329
+Brown,417,"Member, State Board of Education",15,DEM,"Morgan Kirkpatrick",160,18,97,45
+Brown,417,"Member, State Board of Education",15,LIB,"Jack B. Westbrook",39,0,21,18
+Brown,417,"Member, State Board of Education",15,,"Over Votes",0,0,0,0
+Brown,417,"Member, State Board of Education",15,,"Under Votes",64,8,36,20
+Brown,417,"State Senator",10,REP,"Phil King",1410,38,1025,347
+Brown,417,"State Senator",10,DEM,"Andy Morris",152,18,91,43
+Brown,417,"State Senator",10,,"Over Votes",0,0,0,0
+Brown,417,"State Senator",10,,"Under Votes",65,8,35,22
+Brown,417,"State Representative",68,REP,"David Spiller",1416,39,1030,347
+Brown,417,"State Representative",68,DEM,"Stacey Swann",151,18,88,45
+Brown,417,"State Representative",68,,"Over Votes",0,0,0,0
+Brown,417,"State Representative",68,,"Under Votes",60,7,33,20
+Brown,417,"Chief Justice, 11th Court of Appeals District",,REP,"John Bailey",1453,39,1051,363
+Brown,417,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Brown,417,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",174,25,100,49
+Brown,417,"District Judge, 35th Judicial District",,REP,"Mike Smith",1458,41,1055,362
+Brown,417,"District Judge, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,417,"District Judge, 35th Judicial District",,,"Under Votes",169,23,96,50
+Brown,417,"District Attorney, 35th Judicial District",,REP,"Micheal Murray",1433,37,1037,359
+Brown,417,"District Attorney, 35th Judicial District",,,"Over Votes",0,0,0,0
+Brown,417,"District Attorney, 35th Judicial District",,,"Under Votes",194,27,114,53
+Brown,417,"County Attorney",,REP,"Jennifer Broughton",1444,40,1043,361
+Brown,417,"County Attorney",,,"Over Votes",0,0,0,0
+Brown,417,"County Attorney",,,"Under Votes",183,24,108,51
+Brown,417,"Sheriff",,REP,"Vance Hill",1451,40,1044,367
+Brown,417,"Sheriff",,,"Over Votes",0,0,0,0
+Brown,417,"Sheriff",,,"Under Votes",176,24,107,45
+Brown,417,"County Tax Assessor-Collector",,REP,"Christine Pentecost",1463,40,1056,367
+Brown,417,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Brown,417,"County Tax Assessor-Collector",,,"Under Votes",164,24,95,45
+Brown,417,"Constable, Precinct 4",,REP,"Michael Wayne Isbell",1451,36,1048,367
+Brown,417,"Constable, Precinct 4",,,"Over Votes",0,0,0,0
+Brown,417,"Constable, Precinct 4",,,"Under Votes",176,28,103,45

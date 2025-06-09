@@ -1,0 +1,281 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Borden,1A,Registered Voters,,,,60,,,
+Borden,1B,Registered Voters,,,,62,,,
+Borden,2,Registered Voters,,,,155,,,
+Borden,3,Registered Voters,,,,119,,,
+Borden,4,Registered Voters,,,,91,,,
+Borden,Early Voting,Registered Voters,,,,487,,,
+Borden,Mail,Registered Voters,,,,487,,,
+Borden,1A,Ballots Cast,,,,4,,,
+Borden,1B,Ballots Cast,,,,26,,,
+Borden,2,Ballots Cast,,,,21,,,
+Borden,3,Ballots Cast,,,,19,,,
+Borden,4,Ballots Cast,,,,10,,,
+Borden,Early Voting,Ballots Cast,,,,297,,,
+Borden,Mail,Ballots Cast,,,,12,,,
+Borden,1A,President,,REP,Donald J Trump,4,0,0,0
+Borden,1A,President,,DEM,Kamala D Harris,0,0,0,0
+Borden,1A,President,,LIB,Chase Oliver,0,0,0,0
+Borden,1A,President,,GRN,Jill Stein,0,0,0,0
+Borden,1B,President,,REP,Donald J Trump,24,0,0,0
+Borden,1B,President,,DEM,Kamala D Harris,2,0,0,0
+Borden,1B,President,,LIB,Chase Oliver,0,0,0,0
+Borden,1B,President,,GRN,Jill Stein,0,0,0,0
+Borden,2,President,,REP,Donald J Trump,19,0,0,0
+Borden,2,President,,DEM,Kamala D Harris,2,0,0,0
+Borden,2,President,,LIB,Chase Oliver,0,0,0,0
+Borden,2,President,,GRN,Jill Stein,0,0,0,0
+Borden,3,President,,REP,Donald J Trump,18,0,0,0
+Borden,3,President,,DEM,Kamala D Harris,1,0,0,0
+Borden,3,President,,LIB,Chase Oliver,0,0,0,0
+Borden,3,President,,GRN,Jill Stein,0,0,0,0
+Borden,4,President,,REP,Donald J Trump,10,0,0,0
+Borden,4,President,,DEM,Kamala D Harris,0,0,0,0
+Borden,4,President,,LIB,Chase Oliver,0,0,0,0
+Borden,4,President,,GRN,Jill Stein,0,0,0,0
+Borden,Early Voting,President,,REP,Donald J Trump,284,0,0,0
+Borden,Early Voting,President,,DEM,Kamala D Harris,10,0,0,0
+Borden,Early Voting,President,,LIB,Chase Oliver,1,0,0,0
+Borden,Early Voting,President,,GRN,Jill Stein,0,0,0,0
+Borden,Mail,President,,REP,Donald J Trump,11,0,0,0
+Borden,Mail,President,,DEM,Kamala D Harris,1,0,0,0
+Borden,Mail,President,,LIB,Chase Oliver,0,0,0,0
+Borden,Mail,President,,GRN,Jill Stein,0,0,0,0
+Borden,1A,U.S. Senate,,REP,Ted Cruz,4,0,0,0
+Borden,1A,U.S. Senate,,DEM,Colin Allred,0,0,0,0
+Borden,1A,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Borden,1B,U.S. Senate,,REP,Ted Cruz,23,0,0,0
+Borden,1B,U.S. Senate,,DEM,Colin Allred,1,0,0,0
+Borden,1B,U.S. Senate,,LIB,Ted Brown,2,0,0,0
+Borden,2,U.S. Senate,,REP,Ted Cruz,19,0,0,0
+Borden,2,U.S. Senate,,DEM,Colin Allred,2,0,0,0
+Borden,2,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Borden,3,U.S. Senate,,REP,Ted Cruz,18,0,0,0
+Borden,3,U.S. Senate,,DEM,Colin Allred,1,0,0,0
+Borden,3,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Borden,4,U.S. Senate,,REP,Ted Cruz,9,0,0,0
+Borden,4,U.S. Senate,,DEM,Colin Allred,0,0,0,0
+Borden,4,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Borden,Early Voting,U.S. Senate,,REP,Ted Cruz,282,0,0,0
+Borden,Early Voting,U.S. Senate,,DEM,Colin Allred,8,0,0,0
+Borden,Early Voting,U.S. Senate,,LIB,Ted Brown,2,0,0,0
+Borden,Mail,U.S. Senate,,REP,Ted Cruz,11,0,0,0
+Borden,Mail,U.S. Senate,,DEM,Colin Allred,1,0,0,0
+Borden,Mail,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Borden,1A,U.S. House,19,REP,Jodey C Arrington,4,0,0,0
+Borden,1A,U.S. House,19,LIB,Bernard Johnson,0,0,0,0
+Borden,1A,U.S. House,19,IND,Nathan Lewis,0,0,0,0
+Borden,1B,U.S. House,19,REP,Jodey C Arrington,24,0,0,0
+Borden,1B,U.S. House,19,LIB,Bernard Johnson,1,0,0,0
+Borden,1B,U.S. House,19,IND,Nathan Lewis,1,0,0,0
+Borden,2,U.S. House,19,REP,Jodey C Arrington,19,0,0,0
+Borden,2,U.S. House,19,LIB,Bernard Johnson,1,0,0,0
+Borden,2,U.S. House,19,IND,Nathan Lewis,0,0,0,0
+Borden,3,U.S. House,19,REP,Jodey C Arrington,19,0,0,0
+Borden,3,U.S. House,19,LIB,Bernard Johnson,0,0,0,0
+Borden,3,U.S. House,19,IND,Nathan Lewis,0,0,0,0
+Borden,4,U.S. House,19,REP,Jodey C Arrington,10,0,0,0
+Borden,4,U.S. House,19,LIB,Bernard Johnson,0,0,0,0
+Borden,4,U.S. House,19,IND,Nathan Lewis,0,0,0,0
+Borden,Early Voting,U.S. House,19,REP,Jodey C Arrington,282,0,0,0
+Borden,Early Voting,U.S. House,19,LIB,Bernard Johnson,0,0,0,0
+Borden,Early Voting,U.S. House,19,IND,Nathan Lewis,4,0,0,0
+Borden,Mail,U.S. House,19,REP,Jodey C Arrington,12,0,0,0
+Borden,Mail,U.S. House,19,LIB,Bernard Johnson,0,0,0,0
+Borden,Mail,U.S. House,19,IND,Nathan Lewis,0,0,0,0
+Borden,1A,Railroad Commissioner,,REP,Christi Craddick,4,0,0,0
+Borden,1A,Railroad Commissioner,,DEM,Katherine Culbert,0,0,0,0
+Borden,1A,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Borden,1A,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Borden,1B,Railroad Commissioner,,REP,Christi Craddick,25,0,0,0
+Borden,1B,Railroad Commissioner,,DEM,Katherine Culbert,1,0,0,0
+Borden,1B,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Borden,1B,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Borden,2,Railroad Commissioner,,REP,Christi Craddick,18,0,0,0
+Borden,2,Railroad Commissioner,,DEM,Katherine Culbert,0,0,0,0
+Borden,2,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Borden,2,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Borden,3,Railroad Commissioner,,REP,Christi Craddick,17,0,0,0
+Borden,3,Railroad Commissioner,,DEM,Katherine Culbert,1,0,0,0
+Borden,3,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,0,0
+Borden,3,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Borden,4,Railroad Commissioner,,REP,Christi Craddick,9,0,0,0
+Borden,4,Railroad Commissioner,,DEM,Katherine Culbert,0,0,0,0
+Borden,4,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Borden,4,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Borden,Early Voting,Railroad Commissioner,,REP,Christi Craddick,260,0,0,0
+Borden,Early Voting,Railroad Commissioner,,DEM,Katherine Culbert,6,0,0,0
+Borden,Early Voting,Railroad Commissioner,,LIB,Hawk Dunlap,12,0,0,0
+Borden,Early Voting,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,0
+Borden,Mail,Railroad Commissioner,,REP,Christi Craddick,10,0,0,0
+Borden,Mail,Railroad Commissioner,,DEM,Katherine Culbert,1,0,0,0
+Borden,Mail,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,0,0
+Borden,Mail,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Borden,1A,Justice Supreme Court Place 2,,REP,Jimmy Blacklock,4,0,0,0
+Borden,1A,Justice Supreme Court Place 2,,DEM,Desean Jones,0,0,0,0
+Borden,1B,Justice Supreme Court Place 2,,REP,Jimmy Blacklock,25,0,0,0
+Borden,1B,Justice Supreme Court Place 2,,DEM,Desean Jones,1,0,0,0
+Borden,2,Justice Supreme Court Place 2,,REP,Jimmy Blacklock,17,0,0,0
+Borden,2,Justice Supreme Court Place 2,,DEM,Desean Jones,1,0,0,0
+Borden,3,Justice Supreme Court Place 2,,REP,Jimmy Blacklock,18,0,0,0
+Borden,3,Justice Supreme Court Place 2,,DEM,Desean Jones,1,0,0,0
+Borden,4,Justice Supreme Court Place 2,,REP,Jimmy Blacklock,9,0,0,0
+Borden,4,Justice Supreme Court Place 2,,DEM,Desean Jones,1,0,0,0
+Borden,Early Voting,Justice Supreme Court Place 2,,REP,Jimmy Blacklock,274,0,0,0
+Borden,Early Voting,Justice Supreme Court Place 2,,DEM,Desean Jones,7,0,0,0
+Borden,Mail,Justice Supreme Court Place 2,,REP,Jimmy Blacklock,11,0,0,0
+Borden,Mail,Justice Supreme Court Place 2,,DEM,Desean Jones,1,0,0,0
+Borden,1A,Justice Supreme Court Place 4,,REP,John Devine,4,0,0,0
+Borden,1A,Justice Supreme Court Place 4,,DEM,Christine Vinh Weems,0,0,0,0
+Borden,1B,Justice Supreme Court Place 4,,REP,John Devine,24,0,0,0
+Borden,1B,Justice Supreme Court Place 4,,DEM,Christine Vinh Weems,1,0,0,0
+Borden,2,Justice Supreme Court Place 4,,REP,John Devine,17,0,0,0
+Borden,2,Justice Supreme Court Place 4,,DEM,Christine Vinh Weems,1,0,0,0
+Borden,3,Justice Supreme Court Place 4,,REP,John Devine,18,0,0,0
+Borden,3,Justice Supreme Court Place 4,,DEM,Christine Vinh Weems,1,0,0,0
+Borden,4,Justice Supreme Court Place 4,,REP,John Devine,9,0,0,0
+Borden,4,Justice Supreme Court Place 4,,DEM,Christine Vinh Weems,0,0,0,0
+Borden,Early Voting,Justice Supreme Court Place 4,,REP,John Devine,266,0,0,0
+Borden,Early Voting,Justice Supreme Court Place 4,,DEM,Christine Vinh Weems,8,0,0,0
+Borden,Mail,Justice Supreme Court Place 4,,REP,John Devine,11,0,0,0
+Borden,Mail,Justice Supreme Court Place 4,,DEM,Christine Vinh Weems,1,0,0,0
+Borden,1A,Justice Supreme Court Place 6,,REP,Jane Bland,4,0,0,0
+Borden,1A,Justice Supreme Court Place 6,,DEM,Bonnie Lee Goldstein,0,0,0,0
+Borden,1A,Justice Supreme Court Place 6,,LIB,J David Roberson,0,0,0,0
+Borden,1B,Justice Supreme Court Place 6,,REP,Jane Bland,25,0,0,0
+Borden,1B,Justice Supreme Court Place 6,,DEM,Bonnie Lee Goldstein,1,0,0,0
+Borden,1B,Justice Supreme Court Place 6,,LIB,J David Roberson,0,0,0,0
+Borden,2,Justice Supreme Court Place 6,,REP,Jane Bland,18,0,0,0
+Borden,2,Justice Supreme Court Place 6,,DEM,Bonnie Lee Goldstein,0,0,0,0
+Borden,2,Justice Supreme Court Place 6,,LIB,J David Roberson,0,0,0,0
+Borden,3,Justice Supreme Court Place 6,,REP,Jane Bland,18,0,0,0
+Borden,3,Justice Supreme Court Place 6,,DEM,Bonnie Lee Goldstein,1,0,0,0
+Borden,3,Justice Supreme Court Place 6,,LIB,J David Roberson,0,0,0,0
+Borden,4,Justice Supreme Court Place 6,,REP,Jane Bland,9,0,0,0
+Borden,4,Justice Supreme Court Place 6,,DEM,Bonnie Lee Goldstein,0,0,0,0
+Borden,4,Justice Supreme Court Place 6,,LIB,J David Roberson,0,0,0,0
+Borden,Early Voting,Justice Supreme Court Place 6,,REP,Jane Bland,268,0,0,0
+Borden,Early Voting,Justice Supreme Court Place 6,,DEM,Bonnie Lee Goldstein,8,0,0,0
+Borden,Early Voting,Justice Supreme Court Place 6,,LIB,J David Roberson,0,0,0,0
+Borden,Mail,Justice Supreme Court Place 6,,REP,Jane Bland,12,0,0,0
+Borden,Mail,Justice Supreme Court Place 6,,DEM,Bonnie Lee Goldstein,0,0,0,0
+Borden,Mail,Justice Supreme Court Place 6,,LIB,J David Roberson,0,0,0,0
+Borden,1A,Presiding Judge Court of Criminal Appeals,,REP,David J Schenck,4,0,0,0
+Borden,1A,Presiding Judge Court of Criminal Appeals,,DEM,Holly Taylor,0,0,0,0
+Borden,1B,Presiding Judge Court of Criminal Appeals,,REP,David J Schenck,25,0,0,0
+Borden,1B,Presiding Judge Court of Criminal Appeals,,DEM,Holly Taylor,1,0,0,0
+Borden,2,Presiding Judge Court of Criminal Appeals,,REP,David J Schenck,18,0,0,0
+Borden,2,Presiding Judge Court of Criminal Appeals,,DEM,Holly Taylor,1,0,0,0
+Borden,3,Presiding Judge Court of Criminal Appeals,,REP,David J Schenck,17,0,0,0
+Borden,3,Presiding Judge Court of Criminal Appeals,,DEM,Holly Taylor,1,0,0,0
+Borden,4,Presiding Judge Court of Criminal Appeals,,REP,David J Schenck,9,0,0,0
+Borden,4,Presiding Judge Court of Criminal Appeals,,DEM,Holly Taylor,0,0,0,0
+Borden,Early Voting,Presiding Judge Court of Criminal Appeals,,REP,David J Schenck,265,0,0,0
+Borden,Early Voting,Presiding Judge Court of Criminal Appeals,,DEM,Holly Taylor,8,0,0,0
+Borden,Mail,Presiding Judge Court of Criminal Appeals,,REP,David J Schenck,12,0,0,0
+Borden,Mail,Presiding Judge Court of Criminal Appeals,,DEM,Holly Taylor,0,0,0,0
+Borden,1A,Judge Court of Criminal Appeals Place 7,,REP,Gina Parker,4,0,0,0
+Borden,1A,Judge Court of Criminal Appeals Place 7,,DEM,Nancy Mulder,0,0,0,0
+Borden,1B,Judge Court of Criminal Appeals Place 7,,REP,Gina Parker,25,0,0,0
+Borden,1B,Judge Court of Criminal Appeals Place 7,,DEM,Nancy Mulder,1,0,0,0
+Borden,2,Judge Court of Criminal Appeals Place 7,,REP,Gina Parker,16,0,0,0
+Borden,2,Judge Court of Criminal Appeals Place 7,,DEM,Nancy Mulder,1,0,0,0
+Borden,3,Judge Court of Criminal Appeals Place 7,,REP,Gina Parker,19,0,0,0
+Borden,3,Judge Court of Criminal Appeals Place 7,,DEM,Nancy Mulder,0,0,0,0
+Borden,4,Judge Court of Criminal Appeals Place 7,,REP,Gina Parker,9,0,0,0
+Borden,4,Judge Court of Criminal Appeals Place 7,,DEM,Nancy Mulder,0,0,0,0
+Borden,Early Voting,Judge Court of Criminal Appeals Place 7,,REP,Gina Parker,265,0,0,0
+Borden,Early Voting,Judge Court of Criminal Appeals Place 7,,DEM,Nancy Mulder,7,0,0,0
+Borden,Mail,Judge Court of Criminal Appeals Place 7,,REP,Gina Parker,12,0,0,0
+Borden,Mail,Judge Court of Criminal Appeals Place 7,,DEM,Nancy Mulder,0,0,0,0
+Borden,1A,Judge Court of Criminal Appeals Place 8,,REP,Lee Finley,4,0,0,0
+Borden,1A,Judge Court of Criminal Appeals Place 8,,DEM,Chika Anyiam,0,0,0,0
+Borden,1B,Judge Court of Criminal Appeals Place 8,,REP,Lee Finley,25,0,0,0
+Borden,1B,Judge Court of Criminal Appeals Place 8,,DEM,Chika Anyiam,1,0,0,0
+Borden,2,Judge Court of Criminal Appeals Place 8,,REP,Lee Finley,18,0,0,0
+Borden,2,Judge Court of Criminal Appeals Place 8,,DEM,Chika Anyiam,0,0,0,0
+Borden,3,Judge Court of Criminal Appeals Place 8,,REP,Lee Finley,19,0,0,0
+Borden,3,Judge Court of Criminal Appeals Place 8,,DEM,Chika Anyiam,0,0,0,0
+Borden,4,Judge Court of Criminal Appeals Place 8,,REP,Lee Finley,9,0,0,0
+Borden,4,Judge Court of Criminal Appeals Place 8,,DEM,Chika Anyiam,0,0,0,0
+Borden,Early Voting,Judge Court of Criminal Appeals Place 8,,REP,Lee Finley,268,0,0,0
+Borden,Early Voting,Judge Court of Criminal Appeals Place 8,,DEM,Chika Anyiam,7,0,0,0
+Borden,Mail,Judge Court of Criminal Appeals Place 8,,REP,Lee Finley,12,0,0,0
+Borden,Mail,Judge Court of Criminal Appeals Place 8,,DEM,Chika Anyiam,0,0,0,0
+Borden,1A,Member State Board of Education,15,REP,Aaron Kinsey,4,0,0,0
+Borden,1A,Member State Board of Education,15,DEM,Morgan Kirkpatrick,0,0,0,0
+Borden,1A,Member State Board of Education,15,LIB,Jack B Westbrook,0,0,0,0
+Borden,1B,Member State Board of Education,15,REP,Aaron Kinsey,24,0,0,0
+Borden,1B,Member State Board of Education,15,DEM,Morgan Kirkpatrick,1,0,0,0
+Borden,1B,Member State Board of Education,15,LIB,Jack B Westbrook,1,0,0,0
+Borden,2,Member State Board of Education,15,REP,Aaron Kinsey,18,0,0,0
+Borden,2,Member State Board of Education,15,DEM,Morgan Kirkpatrick,1,0,0,0
+Borden,2,Member State Board of Education,15,LIB,Jack B Westbrook,0,0,0,0
+Borden,3,Member State Board of Education,15,REP,Aaron Kinsey,16,0,0,0
+Borden,3,Member State Board of Education,15,DEM,Morgan Kirkpatrick,2,0,0,0
+Borden,3,Member State Board of Education,15,LIB,Jack B Westbrook,1,0,0,0
+Borden,4,Member State Board of Education,15,REP,Aaron Kinsey,8,0,0,0
+Borden,4,Member State Board of Education,15,DEM,Morgan Kirkpatrick,1,0,0,0
+Borden,4,Member State Board of Education,15,LIB,Jack B Westbrook,0,0,0,0
+Borden,Early Voting,Member State Board of Education,15,REP,Aaron Kinsey,261,0,0,0
+Borden,Early Voting,Member State Board of Education,15,DEM,Morgan Kirkpatrick,12,0,0,0
+Borden,Early Voting,Member State Board of Education,15,LIB,Jack B Westbrook,3,0,0,0
+Borden,Mail,Member State Board of Education,15,REP,Aaron Kinsey,11,0,0,0
+Borden,Mail,Member State Board of Education,15,DEM,Morgan Kirkpatrick,1,0,0,0
+Borden,Mail,Member State Board of Education,15,LIB,Jack B Westbrook,0,0,0,0
+Borden,1A,State Representative,83,REP,Dustin Burrows,3,0,0,0
+Borden,1B,State Representative,83,REP,Dustin Burrows,23,0,0,0
+Borden,2,State Representative,83,REP,Dustin Burrows,17,0,0,0
+Borden,3,State Representative,83,REP,Dustin Burrows,18,0,0,0
+Borden,4,State Representative,83,REP,Dustin Burrows,8,0,0,0
+Borden,Early Voting,State Representative,83,REP,Dustin Burrows,264,0,0,0
+Borden,Mail,State Representative,83,REP,Dustin Burrows,10,0,0,0
+Borden,1A,Chief Justice 11th Court of Appeals District,,REP,John Bailey,4,0,0,0
+Borden,1B,Chief Justice 11th Court of Appeals District,,REP,John Bailey,24,0,0,0
+Borden,2,Chief Justice 11th Court of Appeals District,,REP,John Bailey,17,0,0,0
+Borden,3,Chief Justice 11th Court of Appeals District,,REP,John Bailey,18,0,0,0
+Borden,4,Chief Justice 11th Court of Appeals District,,REP,John Bailey,8,0,0,0
+Borden,Early Voting,Chief Justice 11th Court of Appeals District,,REP,John Bailey,263,0,0,0
+Borden,Mail,Chief Justice 11th Court of Appeals District,,REP,John Bailey,10,0,0,0
+Borden,1A,District Judge,132ND JUDICAL DISTRICT,REP,Dana W Cooley,4,0,0,0
+Borden,1B,District Judge,132ND JUDICAL DISTRICT,REP,Dana W Cooley,25,0,0,0
+Borden,2,District Judge,132ND JUDICAL DISTRICT,REP,Dana W Cooley,20,0,0,0
+Borden,3,District Judge,132ND JUDICAL DISTRICT,REP,Dana W Cooley,17,0,0,0
+Borden,4,District Judge,132ND JUDICAL DISTRICT,REP,Dana W Cooley,8,0,0,0
+Borden,Early Voting,District Judge,132ND JUDICAL DISTRICT,REP,Dana W Cooley,262,0,0,0
+Borden,Mail,District Judge,132ND JUDICAL DISTRICT,REP,Dana W Cooley,10,0,0,0
+Borden,1A,District Attorney,132ND JUDICIAL DISTRICT,REP,Ben R Smith,4,0,0,0
+Borden,1B,District Attorney,132ND JUDICIAL DISTRICT,REP,Ben R Smith,24,0,0,0
+Borden,2,District Attorney,132ND JUDICIAL DISTRICT,REP,Ben R Smith,17,0,0,0
+Borden,3,District Attorney,132ND JUDICIAL DISTRICT,REP,Ben R Smith,18,0,0,0
+Borden,4,District Attorney,132ND JUDICIAL DISTRICT,REP,Ben R Smith,9,0,0,0
+Borden,Early Voting,District Attorney,132ND JUDICIAL DISTRICT,REP,Ben R Smith,254,0,0,0
+Borden,Mail,District Attorney,132ND JUDICIAL DISTRICT,REP,Ben R Smith,10,0,0,0
+Borden,1A,County Attorney,,REP,Marlo Holbrooks,4,0,0,0
+Borden,1B,County Attorney,,REP,Marlo Holbrooks,24,0,0,0
+Borden,2,County Attorney,,REP,Marlo Holbrooks,18,0,0,0
+Borden,3,County Attorney,,REP,Marlo Holbrooks,17,0,0,0
+Borden,4,County Attorney,,REP,Marlo Holbrooks,9,0,0,0
+Borden,Early Voting,County Attorney,,REP,Marlo Holbrooks,265,0,0,0
+Borden,Mail,County Attorney,,REP,Marlo Holbrooks,9,0,0,0
+Borden,1A,Sheriff/County Tax Assessor Collector,,REP,Benny Ray Allison,4,0,0,0
+Borden,1B,Sheriff/County Tax Assessor Collector,,REP,Benny Ray Allison,24,0,0,0
+Borden,2,Sheriff/County Tax Assessor Collector,,REP,Benny Ray Allison,19,0,0,0
+Borden,3,Sheriff/County Tax Assessor Collector,,REP,Benny Ray Allison,17,0,0,0
+Borden,4,Sheriff/County Tax Assessor Collector,,REP,Benny Ray Allison,8,0,0,0
+Borden,Early Voting,Sheriff/County Tax Assessor Collector,,REP,Benny Ray Allison,267,0,0,0
+Borden,Mail,Sheriff/County Tax Assessor Collector,,REP,Benny Ray Allison,9,0,0,0
+Borden,1A,County Commissioner,1,REP,Norman Jibber Herridge,4,0,0,0
+Borden,1B,County Commissioner,1,REP,Norman Jibber Herridge,24,0,0,0
+Borden,2,County Commissioner,1,REP,Norman Jibber Herridge,0,0,0,0
+Borden,3,County Commissioner,1,REP,Norman Jibber Herridge,0,0,0,0
+Borden,4,County Commissioner,1,REP,Norman Jibber Herridge,0,0,0,0
+Borden,Early Voting,County Commissioner,1,REP,Norman Jibber Herridge,57,0,0,0
+Borden,Mail,County Commissioner,1,REP,Norman Jibber Herridge,1,0,0,0
+Borden,1A,County Commissioner,3,REP,Emma Swift,0,0,0,0
+Borden,1B,County Commissioner,3,REP,Emma Swift,0,0,0,0
+Borden,2,County Commissioner,3,REP,Emma Swift,0,0,0,0
+Borden,3,County Commissioner,3,REP,Emma Swift,16,0,0,0
+Borden,4,County Commissioner,3,REP,Emma Swift,0,0,0,0
+Borden,Early Voting,County Commissioner,3,REP,Emma Swift,55,0,0,0
+Borden,Mail,County Commissioner,3,REP,Emma Swift,2,0,0,0

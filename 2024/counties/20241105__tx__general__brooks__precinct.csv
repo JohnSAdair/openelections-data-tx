@@ -1,0 +1,467 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Brooks,1,Registered Voters,,,,1330,,,
+Brooks,1,Ballots Cast,,,,587,,,
+Brooks,1,President,,REP,Donald J. Trump,229,8,134,87
+Brooks,1,President,,DEM,Kamala D. Harris,325,27,209,89
+Brooks,1,President,,LIB,Chase Oliver,3,0,2,1
+Brooks,1,President,,GRN,Jill Stein,3,0,2,1
+Brooks,1,President,,,Over Votes,9,3,2,4
+Brooks,1,President,,,Under Votes,18,1,14,3
+Brooks,1,U.S. Senate,,REP,Ted Cruz,177,6,105,66
+Brooks,1,U.S. Senate,,DEM,Colin Allred,342,27,219,96
+Brooks,1,U.S. Senate,,LIB,Ted Brown,15,1,10,4
+Brooks,1,U.S. Senate,,,Over Votes,5,2,3,0
+Brooks,1,U.S. Senate,,,Under Votes,48,3,26,19
+Brooks,1,U.S. House,15,REP,Monica De La Cruz,196,12,122,62
+Brooks,1,U.S. House,15,DEM,Michelle Vallejo,325,24,203,98
+Brooks,1,U.S. House,15,,Over Votes,0,0,0,0
+Brooks,1,U.S. House,15,,Under Votes,66,3,38,25
+Brooks,1,Railroad Commissioner,,REP,Christi Craddick,139,6,93,40
+Brooks,1,Railroad Commissioner,,DEM,Katherine Culbert,292,23,183,86
+Brooks,1,Railroad Commissioner,,LIB,Hawk Dunlap,16,2,9,5
+Brooks,1,Railroad Commissioner,,GRN,Eddie Espinoza,37,2,24,11
+Brooks,1,Railroad Commissioner,,,Over Votes,10,2,3,5
+Brooks,1,Railroad Commissioner,,,Under Votes,93,4,51,38
+Brooks,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,176,6,114,56
+Brooks,1,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,310,26,192,92
+Brooks,1,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Brooks,1,"Justice, Supreme Court, Place 2",,,Under Votes,101,7,57,37
+Brooks,1,"Justice, Supreme Court, Place 4",,REP,John Devine,169,6,106,57
+Brooks,1,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,312,26,196,90
+Brooks,1,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+Brooks,1,"Justice, Supreme Court, Place 4",,,Under Votes,106,7,61,38
+Brooks,1,"Justice, Supreme Court, Place 6",,REP,Jane Bland,155,6,101,48
+Brooks,1,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,313,28,197,88
+Brooks,1,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,23,0,9,14
+Brooks,1,"Justice, Supreme Court, Place 6",,,Over Votes,1,0,0,1
+Brooks,1,"Justice, Supreme Court, Place 6",,,Under Votes,95,5,56,34
+Brooks,1,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,160,6,104,50
+Brooks,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,329,28,199,102
+Brooks,1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Brooks,1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,98,5,60,33
+Brooks,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,166,7,105,54
+Brooks,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,315,25,196,94
+Brooks,1,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Brooks,1,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,106,7,62,37
+Brooks,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,173,7,107,59
+Brooks,1,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,310,25,195,90
+Brooks,1,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+Brooks,1,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,104,7,61,36
+Brooks,1,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,401,29,244,128
+Brooks,1,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Brooks,1,"Member, State Board of Education",3,,Under Votes,186,10,119,57
+Brooks,1,State Senate,20,DEM,"Juan ""Chuy"" Hinojosa",429,30,258,141
+Brooks,1,State Senate,20,,Over Votes,0,0,0,0
+Brooks,1,State Senate,20,,Under Votes,158,9,105,44
+Brooks,1,State Representative,31,REP,Ryan Guillen,308,13,187,108
+Brooks,1,State Representative,31,,Over Votes,0,0,0,0
+Brooks,1,State Representative,31,,Under Votes,279,26,176,77
+Brooks,1,"Justice, 4th Court of Appeals District, Place 2",,DEM,Velia J. Meza,383,30,233,120
+Brooks,1,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+Brooks,1,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,204,9,130,65
+Brooks,1,"Justice, 4th Court of Appeals District, Place 3",,REP,Todd McCray,149,4,101,44
+Brooks,1,"Justice, 4th Court of Appeals District, Place 3",,DEM,Cynthia Marie Chapa,332,29,199,104
+Brooks,1,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,1,0,0,1
+Brooks,1,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,105,6,63,36
+Brooks,1,"Justice, 4th Court of Appeals District, Place 4",,REP,Lori Massey Brissette,145,3,100,42
+Brooks,1,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,331,29,196,106
+Brooks,1,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,2,0,2,0
+Brooks,1,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,109,7,65,37
+Brooks,1,"Justice, 4th Court of Appeals District, Place 5",,REP,Adrian Spears,140,3,95,42
+Brooks,1,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza A. Rodriguez,335,29,200,106
+Brooks,1,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+Brooks,1,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,112,7,68,37
+Brooks,1,"Justice, 4th Court of Appeals District, Place 7",,REP,Lori I. Valenzuela,277,10,173,94
+Brooks,1,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0,0
+Brooks,1,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,310,29,190,91
+Brooks,1,"District Judge, 79th Judicial District",,DEM,Michael Ventura Garcia,403,29,245,129
+Brooks,1,"District Judge, 79th Judicial District",,,Over Votes,0,0,0,0
+Brooks,1,"District Judge, 79th Judicial District",,,Under Votes,184,10,118,56
+Brooks,1,"District Attorney, 79th Judicial District",,DEM,Carlos Omar Garcia,408,25,253,130
+Brooks,1,"District Attorney, 79th Judicial District",,,Over Votes,0,0,0,0
+Brooks,1,"District Attorney, 79th Judicial District",,,Under Votes,179,14,110,55
+Brooks,1,County Attorney,,DEM,David T. Garcia,400,27,239,134
+Brooks,1,County Attorney,,,Over Votes,0,0,0,0
+Brooks,1,County Attorney,,,Under Votes,187,12,124,51
+Brooks,1,Sheriff/County Tax Assessor-Collector,,DEM,Urbino (Benny) Martinez,316,20,195,101
+Brooks,1,Sheriff/County Tax Assessor-Collector,,,Over Votes,3,2,0,1
+Brooks,1,Sheriff/County Tax Assessor-Collector,,,Under Votes,54,8,31,15
+Brooks,1,"County Commissioner, Precinct 1",,REP,Robert (Bobby) L. Saenz Jr,196,7,122,67
+Brooks,1,"County Commissioner, Precinct 1",,DEM,Eddy Garza,360,30,221,109
+Brooks,1,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Brooks,1,"County Commissioner, Precinct 1",,,Under Votes,31,2,20,9
+Brooks,1,"Constable, Precinct 2",,DEM,Ramiro Gonzalez,412,26,248,138
+Brooks,1,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Brooks,1,"Constable, Precinct 2",,,Under Votes,175,13,115,47
+Brooks,2,Registered Voters,,,,1169,,,
+Brooks,2,Ballots Cast,,,,624,,,
+Brooks,2,President,,REP,Donald J. Trump,294,10,161,123
+Brooks,2,President,,DEM,Kamala D. Harris,309,25,184,100
+Brooks,2,President,,LIB,Chase Oliver,2,1,1,0
+Brooks,2,President,,GRN,Jill Stein,3,0,1,2
+Brooks,2,President,,,Over Votes,5,1,4,0
+Brooks,2,President,,,Under Votes,11,2,3,6
+Brooks,2,U.S. Senate,,REP,Ted Cruz,250,9,146,95
+Brooks,2,U.S. Senate,,DEM,Colin Allred,315,23,179,113
+Brooks,2,U.S. Senate,,LIB,Ted Brown,12,0,7,5
+Brooks,2,U.S. Senate,,,Over Votes,1,0,0,1
+Brooks,2,U.S. Senate,,,Under Votes,45,6,22,17
+Brooks,2,U.S. House,15,REP,Monica De La Cruz,264,9,158,97
+Brooks,2,U.S. House,15,DEM,Michelle Vallejo,306,24,175,107
+Brooks,2,U.S. House,15,,Over Votes,0,0,0,0
+Brooks,2,U.S. House,15,,Under Votes,54,6,21,27
+Brooks,2,Railroad Commissioner,,REP,Christi Craddick,213,8,127,78
+Brooks,2,Railroad Commissioner,,DEM,Katherine Culbert,282,22,165,95
+Brooks,2,Railroad Commissioner,,LIB,Hawk Dunlap,16,0,8,8
+Brooks,2,Railroad Commissioner,,GRN,Eddie Espinoza,36,1,18,17
+Brooks,2,Railroad Commissioner,,,Over Votes,4,0,3,1
+Brooks,2,Railroad Commissioner,,,Under Votes,72,8,33,31
+Brooks,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,244,8,140,96
+Brooks,2,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,295,22,177,96
+Brooks,2,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Brooks,2,"Justice, Supreme Court, Place 2",,,Under Votes,85,9,37,39
+Brooks,2,"Justice, Supreme Court, Place 4",,REP,John Devine,222,8,132,82
+Brooks,2,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,313,23,181,109
+Brooks,2,"Justice, Supreme Court, Place 4",,,Over Votes,1,0,0,1
+Brooks,2,"Justice, Supreme Court, Place 4",,,Under Votes,88,8,41,39
+Brooks,2,"Justice, Supreme Court, Place 6",,REP,Jane Bland,219,6,131,82
+Brooks,2,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,310,23,184,103
+Brooks,2,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,14,0,7,7
+Brooks,2,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+Brooks,2,"Justice, Supreme Court, Place 6",,,Under Votes,81,10,32,39
+Brooks,2,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,223,7,137,79
+Brooks,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,317,24,181,112
+Brooks,2,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Brooks,2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,84,8,36,40
+Brooks,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,232,7,136,89
+Brooks,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,304,22,180,102
+Brooks,2,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Brooks,2,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,88,10,38,40
+Brooks,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,232,8,139,85
+Brooks,2,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,299,22,173,104
+Brooks,2,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+Brooks,2,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,93,9,42,42
+Brooks,2,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,395,27,227,141
+Brooks,2,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Brooks,2,"Member, State Board of Education",3,,Under Votes,229,12,127,90
+Brooks,2,State Senate,20,DEM,"Juan ""Chuy"" Hinojosa",424,25,240,159
+Brooks,2,State Senate,20,,Over Votes,0,0,0,0
+Brooks,2,State Senate,20,,Under Votes,200,14,114,72
+Brooks,2,State Representative,31,REP,Ryan Guillen,350,12,199,139
+Brooks,2,State Representative,31,,Over Votes,0,0,0,0
+Brooks,2,State Representative,31,,Under Votes,274,27,155,92
+Brooks,2,"Justice, 4th Court of Appeals District, Place 2",,DEM,Velia J. Meza,387,23,217,147
+Brooks,2,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+Brooks,2,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,237,16,137,84
+Brooks,2,"Justice, 4th Court of Appeals District, Place 3",,REP,Todd McCray,215,8,125,82
+Brooks,2,"Justice, 4th Court of Appeals District, Place 3",,DEM,Cynthia Marie Chapa,314,23,181,110
+Brooks,2,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,1,0,1,0
+Brooks,2,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,94,8,47,39
+Brooks,2,"Justice, 4th Court of Appeals District, Place 4",,REP,Lori Massey Brissette,212,8,129,75
+Brooks,2,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,316,24,174,118
+Brooks,2,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,1,0,1,0
+Brooks,2,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,95,7,50,38
+Brooks,2,"Justice, 4th Court of Appeals District, Place 5",,REP,Adrian Spears,200,7,121,72
+Brooks,2,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza A. Rodriguez,332,25,186,121
+Brooks,2,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,2,0,1,1
+Brooks,2,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,90,7,46,37
+Brooks,2,"Justice, 4th Court of Appeals District, Place 7",,REP,Lori I. Valenzuela,318,11,181,126
+Brooks,2,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0,0
+Brooks,2,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,306,28,173,105
+Brooks,2,"District Judge, 79th Judicial District",,DEM,Michael Ventura Garcia,388,24,213,151
+Brooks,2,"District Judge, 79th Judicial District",,,Over Votes,0,0,0,0
+Brooks,2,"District Judge, 79th Judicial District",,,Under Votes,236,15,141,80
+Brooks,2,"District Attorney, 79th Judicial District",,DEM,Carlos Omar Garcia,396,26,222,148
+Brooks,2,"District Attorney, 79th Judicial District",,,Over Votes,0,0,0,0
+Brooks,2,"District Attorney, 79th Judicial District",,,Under Votes,228,13,132,83
+Brooks,2,County Attorney,,DEM,David T. Garcia,393,22,217,154
+Brooks,2,County Attorney,,,Over Votes,0,0,0,0
+Brooks,2,County Attorney,,,Under Votes,231,17,137,77
+Brooks,2,Sheriff/County Tax Assessor-Collector,,DEM,Urbino (Benny) Martinez,340,22,195,123
+Brooks,2,Sheriff/County Tax Assessor-Collector,,,Over Votes,1,1,0,0
+Brooks,2,Sheriff/County Tax Assessor-Collector,,,Under Votes,74,6,38,30
+Brooks,2,"Constable, Precinct 2",,DEM,Ramiro Gonzalez,459,33,259,167
+Brooks,2,"Constable, Precinct 2",,,Over Votes,0,0,0,0
+Brooks,2,"Constable, Precinct 2",,,Under Votes,165,6,95,64
+Brooks,3,Registered Voters,,,,956,,,
+Brooks,3,Ballots Cast,,,,473,,,
+Brooks,3,President,,REP,Donald J. Trump,185,4,122,59
+Brooks,3,President,,DEM,Kamala D. Harris,273,26,187,60
+Brooks,3,President,,LIB,Chase Oliver,2,0,0,2
+Brooks,3,President,,GRN,Jill Stein,2,0,1,1
+Brooks,3,President,,,Over Votes,3,1,2,0
+Brooks,3,President,,,Under Votes,8,0,7,1
+Brooks,3,U.S. Senate,,REP,Ted Cruz,138,4,93,41
+Brooks,3,U.S. Senate,,DEM,Colin Allred,286,24,192,70
+Brooks,3,U.S. Senate,,LIB,Ted Brown,12,0,8,4
+Brooks,3,U.S. Senate,,,Over Votes,4,1,3,0
+Brooks,3,U.S. Senate,,,Under Votes,33,2,23,8
+Brooks,3,U.S. House,15,REP,Monica De La Cruz,176,6,121,49
+Brooks,3,U.S. House,15,DEM,Michelle Vallejo,261,23,177,61
+Brooks,3,U.S. House,15,,Over Votes,1,1,0,0
+Brooks,3,U.S. House,15,,Under Votes,35,1,21,13
+Brooks,3,Railroad Commissioner,,REP,Christi Craddick,127,3,88,36
+Brooks,3,Railroad Commissioner,,DEM,Katherine Culbert,235,22,161,52
+Brooks,3,Railroad Commissioner,,LIB,Hawk Dunlap,12,0,8,4
+Brooks,3,Railroad Commissioner,,GRN,Eddie Espinoza,28,1,20,7
+Brooks,3,Railroad Commissioner,,,Over Votes,5,1,4,0
+Brooks,3,Railroad Commissioner,,,Under Votes,66,4,38,24
+Brooks,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,146,2,103,41
+Brooks,3,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,242,23,163,56
+Brooks,3,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Brooks,3,"Justice, Supreme Court, Place 2",,,Under Votes,85,6,53,26
+Brooks,3,"Justice, Supreme Court, Place 4",,REP,John Devine,143,2,100,41
+Brooks,3,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,250,23,170,57
+Brooks,3,"Justice, Supreme Court, Place 4",,,Over Votes,1,1,0,0
+Brooks,3,"Justice, Supreme Court, Place 4",,,Under Votes,79,5,49,25
+Brooks,3,"Justice, Supreme Court, Place 6",,REP,Jane Bland,132,3,95,34
+Brooks,3,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,249,23,166,60
+Brooks,3,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,16,0,12,4
+Brooks,3,"Justice, Supreme Court, Place 6",,,Over Votes,1,1,0,0
+Brooks,3,"Justice, Supreme Court, Place 6",,,Under Votes,75,4,46,25
+Brooks,3,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,139,2,101,36
+Brooks,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,262,24,176,62
+Brooks,3,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,1,0,0
+Brooks,3,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,71,4,42,25
+Brooks,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,146,2,106,38
+Brooks,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,254,24,172,58
+Brooks,3,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,1,1,0,0
+Brooks,3,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,72,4,41,27
+Brooks,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,151,3,103,45
+Brooks,3,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,250,23,173,54
+Brooks,3,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,1,1,0,0
+Brooks,3,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,71,4,43,24
+Brooks,3,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,322,23,225,74
+Brooks,3,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Brooks,3,"Member, State Board of Education",3,,Under Votes,151,8,94,49
+Brooks,3,State Senate,20,DEM,"Juan ""Chuy"" Hinojosa",348,27,234,87
+Brooks,3,State Senate,20,,Over Votes,0,0,0,0
+Brooks,3,State Senate,20,,Under Votes,125,4,85,36
+Brooks,3,State Representative,31,REP,Ryan Guillen,255,8,177,70
+Brooks,3,State Representative,31,,Over Votes,0,0,0,0
+Brooks,3,State Representative,31,,Under Votes,218,23,142,53
+Brooks,3,"Justice, 4th Court of Appeals District, Place 2",,DEM,Velia J. Meza,316,24,216,76
+Brooks,3,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+Brooks,3,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,157,7,103,47
+Brooks,3,"Justice, 4th Court of Appeals District, Place 3",,REP,Todd McCray,123,2,93,28
+Brooks,3,"Justice, 4th Court of Appeals District, Place 3",,DEM,Cynthia Marie Chapa,272,23,179,70
+Brooks,3,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,1,1,0,0
+Brooks,3,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,77,5,47,25
+Brooks,3,"Justice, 4th Court of Appeals District, Place 4",,REP,Lori Massey Brissette,129,1,93,35
+Brooks,3,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,263,24,175,64
+Brooks,3,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,1,1,0,0
+Brooks,3,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,80,5,51,24
+Brooks,3,"Justice, 4th Court of Appeals District, Place 5",,REP,Adrian Spears,121,1,87,33
+Brooks,3,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza A. Rodriguez,267,24,179,64
+Brooks,3,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,1,1,0,0
+Brooks,3,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,84,5,53,26
+Brooks,3,"Justice, 4th Court of Appeals District, Place 7",,REP,Lori I. Valenzuela,222,4,154,64
+Brooks,3,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0,0
+Brooks,3,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,251,27,165,59
+Brooks,3,"District Judge, 79th Judicial District",,DEM,Michael Ventura Garcia,316,25,216,75
+Brooks,3,"District Judge, 79th Judicial District",,,Over Votes,0,0,0,0
+Brooks,3,"District Judge, 79th Judicial District",,,Under Votes,157,6,103,48
+Brooks,3,"District Attorney, 79th Judicial District",,DEM,Carlos Omar Garcia,323,25,217,81
+Brooks,3,"District Attorney, 79th Judicial District",,,Over Votes,0,0,0,0
+Brooks,3,"District Attorney, 79th Judicial District",,,Under Votes,150,6,102,42
+Brooks,3,County Attorney,,DEM,David T. Garcia,304,19,207,78
+Brooks,3,County Attorney,,,Over Votes,0,0,0,0
+Brooks,3,County Attorney,,,Under Votes,169,12,112,45
+Brooks,3,Sheriff/County Tax Assessor-Collector,,DEM,Urbino (Benny) Martinez,227,19,158,50
+Brooks,3,Sheriff/County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Brooks,3,Sheriff/County Tax Assessor-Collector,,,Under Votes,60,1,44,15
+Brooks,3,"County Commissioner, Precinct 3",,REP,Elisa Torres,96,3,68,25
+Brooks,3,"County Commissioner, Precinct 3",,DEM,Nora Salinas,352,25,234,93
+Brooks,3,"County Commissioner, Precinct 3",,,Over Votes,1,1,0,0
+Brooks,3,"County Commissioner, Precinct 3",,,Under Votes,24,2,17,5
+Brooks,3,"Constable, Precinct 1",,DEM,"Alberto ""Beto"" Gonzalez",315,20,211,84
+Brooks,3,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Brooks,3,"Constable, Precinct 1",,,Under Votes,158,11,108,39
+Brooks,3-S,Registered Voters,,,,267,,,
+Brooks,3-S,Ballots Cast,,,,153,,,
+Brooks,3-S,President,,REP,Donald J. Trump,81,2,32,47
+Brooks,3-S,President,,DEM,Kamala D. Harris,69,8,23,38
+Brooks,3-S,President,,LIB,Chase Oliver,0,0,0,0
+Brooks,3-S,President,,GRN,Jill Stein,0,0,0,0
+Brooks,3-S,President,,,Over Votes,1,0,1,0
+Brooks,3-S,President,,,Under Votes,2,0,0,2
+Brooks,3-S,U.S. Senate,,REP,Ted Cruz,70,2,27,41
+Brooks,3-S,U.S. Senate,,DEM,Colin Allred,71,8,26,37
+Brooks,3-S,U.S. Senate,,LIB,Ted Brown,3,0,1,2
+Brooks,3-S,U.S. Senate,,,Over Votes,1,0,0,1
+Brooks,3-S,U.S. Senate,,,Under Votes,8,0,2,6
+Brooks,3-S,U.S. House,15,REP,Monica De La Cruz,82,2,31,49
+Brooks,3-S,U.S. House,15,DEM,Michelle Vallejo,62,8,20,34
+Brooks,3-S,U.S. House,15,,Over Votes,0,0,0,0
+Brooks,3-S,U.S. House,15,,Under Votes,9,0,5,4
+Brooks,3-S,Railroad Commissioner,,REP,Christi Craddick,62,2,26,34
+Brooks,3-S,Railroad Commissioner,,DEM,Katherine Culbert,52,7,16,29
+Brooks,3-S,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,2,4
+Brooks,3-S,Railroad Commissioner,,GRN,Eddie Espinoza,14,1,5,8
+Brooks,3-S,Railroad Commissioner,,,Over Votes,0,0,0,0
+Brooks,3-S,Railroad Commissioner,,,Under Votes,19,0,7,12
+Brooks,3-S,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,73,3,29,41
+Brooks,3-S,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,57,7,19,31
+Brooks,3-S,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Brooks,3-S,"Justice, Supreme Court, Place 2",,,Under Votes,23,0,8,15
+Brooks,3-S,"Justice, Supreme Court, Place 4",,REP,John Devine,71,2,28,41
+Brooks,3-S,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,61,8,21,32
+Brooks,3-S,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+Brooks,3-S,"Justice, Supreme Court, Place 4",,,Under Votes,21,0,7,14
+Brooks,3-S,"Justice, Supreme Court, Place 6",,REP,Jane Bland,69,2,25,42
+Brooks,3-S,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,57,8,20,29
+Brooks,3-S,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,6,0,4,2
+Brooks,3-S,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0,0
+Brooks,3-S,"Justice, Supreme Court, Place 6",,,Under Votes,21,0,7,14
+Brooks,3-S,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,69,2,28,39
+Brooks,3-S,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,63,8,20,35
+Brooks,3-S,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Brooks,3-S,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,21,0,8,13
+Brooks,3-S,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,72,2,28,42
+Brooks,3-S,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,59,8,20,31
+Brooks,3-S,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Brooks,3-S,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,22,0,8,14
+Brooks,3-S,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,74,2,30,42
+Brooks,3-S,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,58,8,19,31
+Brooks,3-S,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+Brooks,3-S,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,21,0,7,14
+Brooks,3-S,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,86,6,31,49
+Brooks,3-S,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Brooks,3-S,"Member, State Board of Education",3,,Under Votes,67,4,25,38
+Brooks,3-S,State Senate,20,DEM,"Juan ""Chuy"" Hinojosa",98,6,32,60
+Brooks,3-S,State Senate,20,,Over Votes,0,0,0,0
+Brooks,3-S,State Senate,20,,Under Votes,55,4,24,27
+Brooks,3-S,State Representative,31,REP,Ryan Guillen,91,2,34,55
+Brooks,3-S,State Representative,31,,Over Votes,0,0,0,0
+Brooks,3-S,State Representative,31,,Under Votes,62,8,22,32
+Brooks,3-S,"Justice, 4th Court of Appeals District, Place 2",,DEM,Velia J. Meza,86,6,31,49
+Brooks,3-S,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+Brooks,3-S,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,67,4,25,38
+Brooks,3-S,"Justice, 4th Court of Appeals District, Place 3",,REP,Todd McCray,61,2,22,37
+Brooks,3-S,"Justice, 4th Court of Appeals District, Place 3",,DEM,Cynthia Marie Chapa,65,8,24,33
+Brooks,3-S,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0,0
+Brooks,3-S,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,27,0,10,17
+Brooks,3-S,"Justice, 4th Court of Appeals District, Place 4",,REP,Lori Massey Brissette,60,2,22,36
+Brooks,3-S,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,69,8,24,37
+Brooks,3-S,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0,0
+Brooks,3-S,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,24,0,10,14
+Brooks,3-S,"Justice, 4th Court of Appeals District, Place 5",,REP,Adrian Spears,60,2,21,37
+Brooks,3-S,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza A. Rodriguez,70,8,26,36
+Brooks,3-S,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+Brooks,3-S,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,23,0,9,14
+Brooks,3-S,"Justice, 4th Court of Appeals District, Place 7",,REP,Lori I. Valenzuela,85,2,31,52
+Brooks,3-S,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0,0
+Brooks,3-S,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,68,8,25,35
+Brooks,3-S,"District Judge, 79th Judicial District",,DEM,Michael Ventura Garcia,88,6,32,50
+Brooks,3-S,"District Judge, 79th Judicial District",,,Over Votes,0,0,0,0
+Brooks,3-S,"District Judge, 79th Judicial District",,,Under Votes,65,4,24,37
+Brooks,3-S,"District Attorney, 79th Judicial District",,DEM,Carlos Omar Garcia,92,5,34,53
+Brooks,3-S,"District Attorney, 79th Judicial District",,,Over Votes,0,0,0,0
+Brooks,3-S,"District Attorney, 79th Judicial District",,,Under Votes,61,5,22,34
+Brooks,3-S,County Attorney,,DEM,David T. Garcia,89,5,30,54
+Brooks,3-S,County Attorney,,,Over Votes,0,0,0,0
+Brooks,3-S,County Attorney,,,Under Votes,64,5,26,33
+Brooks,3-S,Sheriff/County Tax Assessor-Collector,,DEM,Urbino (Benny) Martinez,84,5,23,56
+Brooks,3-S,Sheriff/County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Brooks,3-S,Sheriff/County Tax Assessor-Collector,,,Under Votes,32,3,13,16
+Brooks,3-S,"County Commissioner, Precinct 3",,REP,Elisa Torres,53,3,21,29
+Brooks,3-S,"County Commissioner, Precinct 3",,DEM,Nora Salinas,95,7,31,57
+Brooks,3-S,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Brooks,3-S,"County Commissioner, Precinct 3",,,Under Votes,5,0,4,1
+Brooks,3-S,"Constable, Precinct 1",,DEM,"Alberto ""Beto"" Gonzalez",86,5,31,50
+Brooks,3-S,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Brooks,3-S,"Constable, Precinct 1",,,Under Votes,67,5,25,37
+Brooks,4,Registered Voters,,,,1211,,,
+Brooks,4,Ballots Cast,,,,641,,,
+Brooks,4,President,,REP,Donald J. Trump,288,11,189,88
+Brooks,4,President,,DEM,Kamala D. Harris,332,27,228,77
+Brooks,4,President,,LIB,Chase Oliver,1,0,1,0
+Brooks,4,President,,GRN,Jill Stein,1,0,1,0
+Brooks,4,President,,,Over Votes,4,1,2,1
+Brooks,4,President,,,Under Votes,15,1,10,4
+Brooks,4,U.S. Senate,,REP,Ted Cruz,239,9,164,66
+Brooks,4,U.S. Senate,,DEM,Colin Allred,365,27,252,86
+Brooks,4,U.S. Senate,,LIB,Ted Brown,6,0,2,4
+Brooks,4,U.S. Senate,,,Over Votes,0,0,0,0
+Brooks,4,U.S. Senate,,,Under Votes,31,4,13,14
+Brooks,4,U.S. House,15,REP,Monica De La Cruz,264,8,179,77
+Brooks,4,U.S. House,15,DEM,Michelle Vallejo,336,27,233,76
+Brooks,4,U.S. House,15,,Over Votes,1,0,0,1
+Brooks,4,U.S. House,15,,Under Votes,40,5,19,16
+Brooks,4,Railroad Commissioner,,REP,Christi Craddick,204,8,137,59
+Brooks,4,Railroad Commissioner,,DEM,Katherine Culbert,301,25,211,65
+Brooks,4,Railroad Commissioner,,LIB,Hawk Dunlap,12,0,7,5
+Brooks,4,Railroad Commissioner,,GRN,Eddie Espinoza,47,1,33,13
+Brooks,4,Railroad Commissioner,,,Over Votes,2,0,1,1
+Brooks,4,Railroad Commissioner,,,Under Votes,75,6,42,27
+Brooks,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,228,8,156,64
+Brooks,4,"Justice, Supreme Court, Place 2",,DEM,DaSean Jones,325,26,226,73
+Brooks,4,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0,0
+Brooks,4,"Justice, Supreme Court, Place 2",,,Under Votes,88,6,49,33
+Brooks,4,"Justice, Supreme Court, Place 4",,REP,John Devine,230,9,156,65
+Brooks,4,"Justice, Supreme Court, Place 4",,DEM,Christine Vinh Weems,326,25,228,73
+Brooks,4,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0,0
+Brooks,4,"Justice, Supreme Court, Place 4",,,Under Votes,85,6,47,32
+Brooks,4,"Justice, Supreme Court, Place 6",,REP,Jane Bland,226,9,155,62
+Brooks,4,"Justice, Supreme Court, Place 6",,DEM,Bonnie Lee Goldstein,314,25,217,72
+Brooks,4,"Justice, Supreme Court, Place 6",,LIB,J. David Roberson,17,0,10,7
+Brooks,4,"Justice, Supreme Court, Place 6",,,Over Votes,1,0,1,0
+Brooks,4,"Justice, Supreme Court, Place 6",,,Under Votes,83,6,48,29
+Brooks,4,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,225,8,155,62
+Brooks,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,334,26,233,75
+Brooks,4,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Brooks,4,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,82,6,43,33
+Brooks,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Gina Parker,225,8,154,63
+Brooks,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Nancy Mulder,328,26,230,72
+Brooks,4,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0,0
+Brooks,4,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,88,6,47,35
+Brooks,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Lee Finley,230,8,157,65
+Brooks,4,"Judge, Court of Criminal Appeals, Place 8",,DEM,Chika Anyiam,322,26,221,75
+Brooks,4,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0,0
+Brooks,4,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,89,6,53,30
+Brooks,4,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,432,27,297,108
+Brooks,4,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Brooks,4,"Member, State Board of Education",3,,Under Votes,209,13,134,62
+Brooks,4,State Senate,20,DEM,"Juan ""Chuy"" Hinojosa",461,31,308,122
+Brooks,4,State Senate,20,,Over Votes,0,0,0,0
+Brooks,4,State Senate,20,,Under Votes,180,9,123,48
+Brooks,4,State Representative,31,REP,Ryan Guillen,379,15,268,96
+Brooks,4,State Representative,31,,Over Votes,0,0,0,0
+Brooks,4,State Representative,31,,Under Votes,262,25,163,74
+Brooks,4,"Justice, 4th Court of Appeals District, Place 2",,DEM,Velia J. Meza,427,28,296,103
+Brooks,4,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0,0
+Brooks,4,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,214,12,135,67
+Brooks,4,"Justice, 4th Court of Appeals District, Place 3",,REP,Todd McCray,197,7,136,54
+Brooks,4,"Justice, 4th Court of Appeals District, Place 3",,DEM,Cynthia Marie Chapa,356,26,249,81
+Brooks,4,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0,0
+Brooks,4,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,88,7,46,35
+Brooks,4,"Justice, 4th Court of Appeals District, Place 4",,REP,Lori Massey Brissette,197,7,136,54
+Brooks,4,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,351,26,244,81
+Brooks,4,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,1,0,0,1
+Brooks,4,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,92,7,51,34
+Brooks,4,"Justice, 4th Court of Appeals District, Place 5",,REP,Adrian Spears,188,7,130,51
+Brooks,4,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza A. Rodriguez,359,26,249,84
+Brooks,4,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0,0
+Brooks,4,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,94,7,52,35
+Brooks,4,"Justice, 4th Court of Appeals District, Place 7",,REP,Lori I. Valenzuela,347,12,245,90
+Brooks,4,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0,0
+Brooks,4,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,294,28,186,80
+Brooks,4,"District Judge, 79th Judicial District",,DEM,Michael Ventura Garcia,421,27,289,105
+Brooks,4,"District Judge, 79th Judicial District",,,Over Votes,0,0,0,0
+Brooks,4,"District Judge, 79th Judicial District",,,Under Votes,220,13,142,65
+Brooks,4,"District Attorney, 79th Judicial District",,DEM,Carlos Omar Garcia,438,27,295,116
+Brooks,4,"District Attorney, 79th Judicial District",,,Over Votes,0,0,0,0
+Brooks,4,"District Attorney, 79th Judicial District",,,Under Votes,203,13,136,54
+Brooks,4,County Attorney,,DEM,David T. Garcia,413,27,279,107
+Brooks,4,County Attorney,,,Over Votes,0,0,0,0
+Brooks,4,County Attorney,,,Under Votes,228,13,152,63
+Brooks,4,Sheriff/County Tax Assessor-Collector,,DEM,Urbino (Benny) Martinez,336,22,229,85
+Brooks,4,Sheriff/County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Brooks,4,Sheriff/County Tax Assessor-Collector,,,Under Votes,77,7,44,26
+Brooks,4,"County Commissioner, Precinct 4 Unexpired Term",,DEM,"Martin ""Marty"" Cabrera",269,19,176,74
+Brooks,4,"County Commissioner, Precinct 4 Unexpired Term",,IND,Aaron Trevino,342,14,237,91
+Brooks,4,"County Commissioner, Precinct 4 Unexpired Term",,,Over Votes,1,0,1,0
+Brooks,4,"County Commissioner, Precinct 4 Unexpired Term",,,Under Votes,29,7,17,5
+Brooks,4,"Constable, Precinct 1",,DEM,"Alberto ""Beto"" Gonzalez",451,27,303,121
+Brooks,4,"Constable, Precinct 1",,,Over Votes,0,0,0,0
+Brooks,4,"Constable, Precinct 1",,,Under Votes,190,13,128,49
