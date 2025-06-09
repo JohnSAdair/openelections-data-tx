@@ -1,0 +1,2384 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Grayson,Precinct 101,Registered Voters,,,,2154,,,
+Grayson,Precinct 101,Ballots Cast,,,,1161,47,847,267
+Grayson,Precinct 101,President,,REP,Donald J. Trump/JD Vance,672,18,498,156
+Grayson,Precinct 101,President,,DEM,Kamala D. Harris/Tim Walz,466,27,334,105
+Grayson,Precinct 101,President,,LIB,Chase Oliver/Mike ter Maat,10,2,6,2
+Grayson,Precinct 101,President,,GRN,Jill Stein/Rudolph Ware,6,0,2,4
+Grayson,Precinct 101,U.S. Senate,,REP,Ted Cruz,624,19,467,138
+Grayson,Precinct 101,U.S. Senate,,DEM,Colin Allred,470,25,335,110
+Grayson,Precinct 101,U.S. Senate,,LIB,Ted Brown,34,0,21,13
+Grayson,Precinct 101,U.S. House,4,REP,Pat Fallon,675,19,497,159
+Grayson,Precinct 101,U.S. House,4,DEM,Simon Cardell,429,22,310,97
+Grayson,Precinct 101,Railroad Commissioner,,REP,Christi Craddick,634,19,466,149
+Grayson,Precinct 101,Railroad Commissioner,,DEM,Katherine Culbert,400,21,292,87
+Grayson,Precinct 101,Railroad Commissioner,,LIB,Hawk Dunlap,38,0,32,6
+Grayson,Precinct 101,Railroad Commissioner,,GRN,Eddie Espinoza,21,0,12,9
+Grayson,Precinct 101,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,661,19,487,155
+Grayson,Precinct 101,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,431,20,315,96
+Grayson,Precinct 101,"Justice, Supreme Court, Pl 4",4,REP,John Devine,649,20,485,144
+Grayson,Precinct 101,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,439,20,317,102
+Grayson,Precinct 101,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,638,18,476,144
+Grayson,Precinct 101,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,419,20,297,102
+Grayson,Precinct 101,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,43,1,32,10
+Grayson,Precinct 101,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,656,20,488,148
+Grayson,Precinct 101,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,443,20,315,108
+Grayson,Precinct 101,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,660,19,487,154
+Grayson,Precinct 101,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,432,20,313,99
+Grayson,Precinct 101,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,678,21,496,161
+Grayson,Precinct 101,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,419,19,307,93
+Grayson,Precinct 101,State Board of Education,12,REP,Pam Little,667,19,491,157
+Grayson,Precinct 101,State Board of Education,12,DEM,George King,423,19,309,95
+Grayson,Precinct 101,State Senator,30,REP,Brent Hagenbuch,650,18,481,151
+Grayson,Precinct 101,State Senator,30,DEM,Dale Frey,437,19,319,99
+Grayson,Precinct 101,State Representative,62,REP,Shelley Luther,643,13,477,153
+Grayson,Precinct 101,State Representative,62,DEM,Tiffany Drake,442,21,324,97
+Grayson,Precinct 101,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",651,18,483,150
+Grayson,Precinct 101,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,436,19,318,99
+Grayson,Precinct 101,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,675,18,495,162
+Grayson,Precinct 101,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,410,19,304,87
+Grayson,Precinct 101,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,654,18,485,151
+Grayson,Precinct 101,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,427,18,310,99
+Grayson,Precinct 101,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,655,18,483,154
+Grayson,Precinct 101,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,432,19,315,98
+Grayson,Precinct 101,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,653,18,484,151
+Grayson,Precinct 101,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,430,19,312,99
+Grayson,Precinct 101,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,646,18,479,149
+Grayson,Precinct 101,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,438,19,317,102
+Grayson,Precinct 101,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,662,19,486,157
+Grayson,Precinct 101,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,421,18,309,94
+Grayson,Precinct 101,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,645,16,478,151
+Grayson,Precinct 101,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,435,19,318,98
+Grayson,Precinct 101,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,804,22,584,198
+Grayson,Precinct 101,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,795,22,579,194
+Grayson,Precinct 101,District Attorney,,REP,John Kermit Hill,619,17,458,144
+Grayson,Precinct 101,District Attorney,,DEM,Brandy Douglas,470,18,344,108
+Grayson,Precinct 101,Sheriff,,REP,Wm. A. (Tony) Bennie,801,21,584,196
+Grayson,Precinct 101,County Tax Assessor-Collector,,REP,Bruce Stidham,836,21,611,204
+Grayson,Precinct 101,County Commissioner Precinct 1,1,REP,Josh Marr,636,18,473,145
+Grayson,Precinct 101,County Commissioner Precinct 1,1,DEM,Andre Luper,451,16,327,108
+Grayson,Precinct 101,Justice of the Peace Precinct 1,1,REP,Ginny Hampton,812,22,589,201
+Grayson,Precinct 101,Constable Precinct 1,1,REP,Thomas Carter,808,22,590,196
+Grayson,Precinct 102,Registered Voters,,,,2023,,,
+Grayson,Precinct 102,Ballots Cast,,,,951,67,627,257
+Grayson,Precinct 102,President,,REP,Donald J. Trump/JD Vance,414,26,273,115
+Grayson,Precinct 102,President,,DEM,Kamala D. Harris/Tim Walz,527,41,346,140
+Grayson,Precinct 102,President,,LIB,Chase Oliver/Mike ter Maat,2,0,2,0
+Grayson,Precinct 102,President,,GRN,Jill Stein/Rudolph Ware,2,0,1,1
+Grayson,Precinct 102,U.S. Senate,,REP,Ted Cruz,379,26,249,104
+Grayson,Precinct 102,U.S. Senate,,DEM,Colin Allred,518,39,341,138
+Grayson,Precinct 102,U.S. Senate,,LIB,Ted Brown,24,1,12,11
+Grayson,Precinct 102,U.S. House,4,REP,Pat Fallon,392,15,267,110
+Grayson,Precinct 102,U.S. House,4,DEM,Simon Cardell,490,33,325,132
+Grayson,Precinct 102,Railroad Commissioner,,REP,Christi Craddick,370,25,246,99
+Grayson,Precinct 102,Railroad Commissioner,,DEM,Katherine Culbert,468,36,311,121
+Grayson,Precinct 102,Railroad Commissioner,,LIB,Hawk Dunlap,24,1,14,9
+Grayson,Precinct 102,Railroad Commissioner,,GRN,Eddie Espinoza,29,2,14,13
+Grayson,Precinct 102,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,395,27,258,110
+Grayson,Precinct 102,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,498,37,328,133
+Grayson,Precinct 102,"Justice, Supreme Court, Pl 4",4,REP,John Devine,384,25,256,103
+Grayson,Precinct 102,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,509,40,331,138
+Grayson,Precinct 102,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,370,25,247,98
+Grayson,Precinct 102,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,493,38,329,126
+Grayson,Precinct 102,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,25,2,10,13
+Grayson,Precinct 102,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,385,27,256,102
+Grayson,Precinct 102,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,502,38,330,134
+Grayson,Precinct 102,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,384,28,255,101
+Grayson,Precinct 102,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,495,36,327,132
+Grayson,Precinct 102,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,389,26,258,105
+Grayson,Precinct 102,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,492,37,326,129
+Grayson,Precinct 102,State Board of Education,12,REP,Pam Little,378,19,256,103
+Grayson,Precinct 102,State Board of Education,12,DEM,George King,492,32,328,132
+Grayson,Precinct 102,State Senator,30,REP,Brent Hagenbuch,368,16,249,103
+Grayson,Precinct 102,State Senator,30,DEM,Dale Frey,494,31,332,131
+Grayson,Precinct 102,State Representative,62,REP,Shelley Luther,352,12,244,96
+Grayson,Precinct 102,State Representative,62,DEM,Tiffany Drake,504,33,337,134
+Grayson,Precinct 102,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",370,20,250,100
+Grayson,Precinct 102,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,495,32,331,132
+Grayson,Precinct 102,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,386,20,262,104
+Grayson,Precinct 102,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,477,32,319,126
+Grayson,Precinct 102,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,376,19,252,105
+Grayson,Precinct 102,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,479,31,322,126
+Grayson,Precinct 102,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,364,20,247,97
+Grayson,Precinct 102,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,495,32,327,136
+Grayson,Precinct 102,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,366,20,248,98
+Grayson,Precinct 102,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,494,32,327,135
+Grayson,Precinct 102,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,363,20,250,93
+Grayson,Precinct 102,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,494,31,325,138
+Grayson,Precinct 102,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,369,19,246,104
+Grayson,Precinct 102,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,485,33,325,127
+Grayson,Precinct 102,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,361,19,244,98
+Grayson,Precinct 102,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,489,32,330,127
+Grayson,Precinct 102,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,533,20,362,151
+Grayson,Precinct 102,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,528,18,361,149
+Grayson,Precinct 102,District Attorney,,REP,John Kermit Hill,355,14,245,96
+Grayson,Precinct 102,District Attorney,,DEM,Brandy Douglas,506,31,338,137
+Grayson,Precinct 102,Sheriff,,REP,Wm. A. (Tony) Bennie,537,19,365,153
+Grayson,Precinct 102,County Tax Assessor-Collector,,REP,Bruce Stidham,560,20,380,160
+Grayson,Precinct 102,County Commissioner Precinct 1,1,REP,Josh Marr,354,13,241,100
+Grayson,Precinct 102,County Commissioner Precinct 1,1,DEM,Andre Luper,504,29,344,131
+Grayson,Precinct 102,Justice of the Peace Precinct 1,1,REP,Ginny Hampton,539,20,364,155
+Grayson,Precinct 102,Constable Precinct 1,1,REP,Thomas Carter,537,20,362,155
+Grayson,Precinct 103,Registered Voters,,,,2405,,,
+Grayson,Precinct 103,Ballots Cast,,,,1292,64,962,266
+Grayson,Precinct 103,President,,REP,Donald J. Trump/JD Vance,760,22,585,153
+Grayson,Precinct 103,President,,DEM,Kamala D. Harris/Tim Walz,520,42,367,111
+Grayson,Precinct 103,President,,LIB,Chase Oliver/Mike ter Maat,4,0,4,0
+Grayson,Precinct 103,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Grayson,Precinct 103,U.S. Senate,,REP,Ted Cruz,708,22,553,133
+Grayson,Precinct 103,U.S. Senate,,DEM,Colin Allred,532,41,381,110
+Grayson,Precinct 103,U.S. Senate,,LIB,Ted Brown,24,0,13,11
+Grayson,Precinct 103,U.S. House,4,REP,Pat Fallon,758,21,592,145
+Grayson,Precinct 103,U.S. House,4,DEM,Simon Cardell,471,36,336,99
+Grayson,Precinct 103,Railroad Commissioner,,REP,Christi Craddick,726,22,565,139
+Grayson,Precinct 103,Railroad Commissioner,,DEM,Katherine Culbert,442,38,319,85
+Grayson,Precinct 103,Railroad Commissioner,,LIB,Hawk Dunlap,31,0,18,13
+Grayson,Precinct 103,Railroad Commissioner,,GRN,Eddie Espinoza,30,0,20,10
+Grayson,Precinct 103,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,744,22,573,149
+Grayson,Precinct 103,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,478,40,345,93
+Grayson,Precinct 103,"Justice, Supreme Court, Pl 4",4,REP,John Devine,733,23,564,146
+Grayson,Precinct 103,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,482,39,348,95
+Grayson,Precinct 103,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,709,23,552,134
+Grayson,Precinct 103,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,466,39,336,91
+Grayson,Precinct 103,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,41,0,26,15
+Grayson,Precinct 103,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,733,23,566,144
+Grayson,Precinct 103,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,479,35,347,97
+Grayson,Precinct 103,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,729,21,567,141
+Grayson,Precinct 103,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,476,39,343,94
+Grayson,Precinct 103,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,736,22,572,142
+Grayson,Precinct 103,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,470,37,339,94
+Grayson,Precinct 103,State Board of Education,12,REP,Pam Little,734,20,572,142
+Grayson,Precinct 103,State Board of Education,12,DEM,George King,474,35,343,96
+Grayson,Precinct 103,State Senator,30,REP,Brent Hagenbuch,730,19,569,142
+Grayson,Precinct 103,State Senator,30,DEM,Dale Frey,471,36,339,96
+Grayson,Precinct 103,State Representative,62,REP,Shelley Luther,704,18,548,138
+Grayson,Precinct 103,State Representative,62,DEM,Tiffany Drake,501,35,361,105
+Grayson,Precinct 103,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",730,19,570,141
+Grayson,Precinct 103,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,479,37,339,103
+Grayson,Precinct 103,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,737,19,573,145
+Grayson,Precinct 103,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,465,37,333,95
+Grayson,Precinct 103,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,718,20,559,139
+Grayson,Precinct 103,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,481,34,349,98
+Grayson,Precinct 103,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,724,19,564,141
+Grayson,Precinct 103,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,472,37,339,96
+Grayson,Precinct 103,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,720,19,563,138
+Grayson,Precinct 103,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,476,37,340,99
+Grayson,Precinct 103,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,714,19,555,140
+Grayson,Precinct 103,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,480,36,348,96
+Grayson,Precinct 103,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,718,19,563,136
+Grayson,Precinct 103,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,481,37,343,101
+Grayson,Precinct 103,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,712,19,554,139
+Grayson,Precinct 103,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,480,36,348,96
+Grayson,Precinct 103,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,873,23,670,180
+Grayson,Precinct 103,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,858,21,659,178
+Grayson,Precinct 103,District Attorney,,REP,John Kermit Hill,698,17,547,134
+Grayson,Precinct 103,District Attorney,,DEM,Brandy Douglas,515,36,369,110
+Grayson,Precinct 103,Sheriff,,REP,Wm. A. (Tony) Bennie,871,24,670,177
+Grayson,Precinct 103,County Tax Assessor-Collector,,REP,Bruce Stidham,907,26,697,184
+Grayson,Precinct 103,County Commissioner Precinct 1,1,REP,Josh Marr,705,17,554,134
+Grayson,Precinct 103,County Commissioner Precinct 1,1,DEM,Andre Luper,500,35,357,108
+Grayson,Precinct 103,Justice of the Peace Precinct 1,1,REP,Ginny Hampton,891,23,683,185
+Grayson,Precinct 103,Constable Precinct 1,1,REP,Thomas Carter,873,23,667,183
+Grayson,Precinct 104,Registered Voters,,,,1340,,,
+Grayson,Precinct 104,Ballots Cast,,,,1011,48,755,208
+Grayson,Precinct 104,President,,REP,Donald J. Trump/JD Vance,826,25,628,173
+Grayson,Precinct 104,President,,DEM,Kamala D. Harris/Tim Walz,165,18,116,31
+Grayson,Precinct 104,President,,LIB,Chase Oliver/Mike ter Maat,9,0,5,4
+Grayson,Precinct 104,President,,GRN,Jill Stein/Rudolph Ware,2,1,1,0
+Grayson,Precinct 104,U.S. Senate,,REP,Ted Cruz,799,26,613,160
+Grayson,Precinct 104,U.S. Senate,,DEM,Colin Allred,166,19,118,29
+Grayson,Precinct 104,U.S. Senate,,LIB,Ted Brown,20,0,12,8
+Grayson,Precinct 104,U.S. House,4,REP,Pat Fallon,822,21,635,166
+Grayson,Precinct 104,U.S. House,4,DEM,Simon Cardell,141,17,99,25
+Grayson,Precinct 104,Railroad Commissioner,,REP,Christi Craddick,790,21,609,160
+Grayson,Precinct 104,Railroad Commissioner,,DEM,Katherine Culbert,139,18,97,24
+Grayson,Precinct 104,Railroad Commissioner,,LIB,Hawk Dunlap,21,0,15,6
+Grayson,Precinct 104,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,5,1
+Grayson,Precinct 104,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,823,24,630,169
+Grayson,Precinct 104,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,139,17,98,24
+Grayson,Precinct 104,"Justice, Supreme Court, Pl 4",4,REP,John Devine,806,24,620,162
+Grayson,Precinct 104,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,154,16,108,30
+Grayson,Precinct 104,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,802,23,620,159
+Grayson,Precinct 104,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,139,17,97,25
+Grayson,Precinct 104,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,23,1,11,11
+Grayson,Precinct 104,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,807,22,623,162
+Grayson,Precinct 104,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,151,16,105,30
+Grayson,Precinct 104,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,810,22,622,166
+Grayson,Precinct 104,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,147,17,104,26
+Grayson,Precinct 104,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,818,22,628,168
+Grayson,Precinct 104,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,138,17,98,23
+Grayson,Precinct 104,State Board of Education,12,REP,Pam Little,820,22,635,163
+Grayson,Precinct 104,State Board of Education,12,DEM,George King,141,16,95,30
+Grayson,Precinct 104,State Senator,30,REP,Brent Hagenbuch,798,18,618,162
+Grayson,Precinct 104,State Senator,30,DEM,Dale Frey,149,18,105,26
+Grayson,Precinct 104,State Representative,62,REP,Shelley Luther,779,19,602,158
+Grayson,Precinct 104,State Representative,62,DEM,Tiffany Drake,178,16,127,35
+Grayson,Precinct 104,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",802,20,621,161
+Grayson,Precinct 104,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,151,16,105,30
+Grayson,Precinct 104,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,811,20,626,165
+Grayson,Precinct 104,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,136,16,96,24
+Grayson,Precinct 104,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,802,20,622,160
+Grayson,Precinct 104,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,143,16,99,28
+Grayson,Precinct 104,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,803,19,618,166
+Grayson,Precinct 104,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,141,16,101,24
+Grayson,Precinct 104,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,799,20,615,164
+Grayson,Precinct 104,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,146,16,104,26
+Grayson,Precinct 104,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,804,20,621,163
+Grayson,Precinct 104,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,141,16,99,26
+Grayson,Precinct 104,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,808,21,621,166
+Grayson,Precinct 104,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,137,15,97,25
+Grayson,Precinct 104,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,806,22,623,161
+Grayson,Precinct 104,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,142,17,98,27
+Grayson,Precinct 104,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,863,25,660,178
+Grayson,Precinct 104,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,850,25,647,178
+Grayson,Precinct 104,District Attorney,,REP,John Kermit Hill,772,20,600,152
+Grayson,Precinct 104,District Attorney,,DEM,Brandy Douglas,190,17,130,43
+Grayson,Precinct 104,Sheriff,,REP,Wm. A. (Tony) Bennie,863,25,659,179
+Grayson,Precinct 104,County Tax Assessor-Collector,,REP,Bruce Stidham,873,26,671,176
+Grayson,Precinct 104,County Commissioner Precinct 1,1,REP,Josh Marr,799,19,616,164
+Grayson,Precinct 104,County Commissioner Precinct 1,1,DEM,Andre Luper,160,18,112,30
+Grayson,Precinct 104,Justice of the Peace Precinct 1,1,REP,Ginny Hampton,856,25,656,175
+Grayson,Precinct 104,Constable Precinct 1,1,REP,Thomas Carter,848,25,648,175
+Grayson,Precinct 105,Registered Voters,,,,1838,,,
+Grayson,Precinct 105,Ballots Cast,,,,1450,38,1290,122
+Grayson,Precinct 105,President,,REP,Donald J. Trump/JD Vance,1215,29,1085,101
+Grayson,Precinct 105,President,,DEM,Kamala D. Harris/Tim Walz,214,9,190,15
+Grayson,Precinct 105,President,,LIB,Chase Oliver/Mike ter Maat,7,0,4,3
+Grayson,Precinct 105,President,,GRN,Jill Stein/Rudolph Ware,6,0,5,1
+Grayson,Precinct 105,U.S. Senate,,REP,Ted Cruz,1185,29,1059,97
+Grayson,Precinct 105,U.S. Senate,,DEM,Colin Allred,232,9,204,19
+Grayson,Precinct 105,U.S. Senate,,LIB,Ted Brown,17,0,14,3
+Grayson,Precinct 105,U.S. House,4,REP,Pat Fallon,1229,28,1094,107
+Grayson,Precinct 105,U.S. House,4,DEM,Simon Cardell,185,5,168,12
+Grayson,Precinct 105,Railroad Commissioner,,REP,Christi Craddick,1215,30,1079,106
+Grayson,Precinct 105,Railroad Commissioner,,DEM,Katherine Culbert,159,6,146,7
+Grayson,Precinct 105,Railroad Commissioner,,LIB,Hawk Dunlap,25,0,23,2
+Grayson,Precinct 105,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,2,4
+Grayson,Precinct 105,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,1228,30,1092,106
+Grayson,Precinct 105,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,180,6,162,12
+Grayson,Precinct 105,"Justice, Supreme Court, Pl 4",4,REP,John Devine,1211,28,1079,104
+Grayson,Precinct 105,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,194,8,172,14
+Grayson,Precinct 105,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,1201,28,1069,104
+Grayson,Precinct 105,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,165,7,150,8
+Grayson,Precinct 105,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,29,1,24,4
+Grayson,Precinct 105,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1212,30,1076,106
+Grayson,Precinct 105,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,186,6,167,13
+Grayson,Precinct 105,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,1216,27,1080,109
+Grayson,Precinct 105,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,175,8,157,10
+Grayson,Precinct 105,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,1218,28,1083,107
+Grayson,Precinct 105,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,173,7,154,12
+Grayson,Precinct 105,State Board of Education,12,REP,Pam Little,1205,27,1075,103
+Grayson,Precinct 105,State Board of Education,12,DEM,George King,186,5,164,17
+Grayson,Precinct 105,State Senator,30,REP,Brent Hagenbuch,1206,25,1073,108
+Grayson,Precinct 105,State Senator,30,DEM,Dale Frey,181,5,166,10
+Grayson,Precinct 105,State Representative,62,REP,Shelley Luther,1144,26,1014,104
+Grayson,Precinct 105,State Representative,62,DEM,Tiffany Drake,239,4,222,13
+Grayson,Precinct 105,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",1200,26,1068,106
+Grayson,Precinct 105,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,181,6,165,10
+Grayson,Precinct 105,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,1208,27,1074,107
+Grayson,Precinct 105,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,170,5,156,9
+Grayson,Precinct 105,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,1215,27,1082,106
+Grayson,Precinct 105,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,168,5,153,10
+Grayson,Precinct 105,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,1201,27,1067,107
+Grayson,Precinct 105,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,179,5,165,9
+Grayson,Precinct 105,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,1191,26,1061,104
+Grayson,Precinct 105,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,189,6,171,12
+Grayson,Precinct 105,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,1201,26,1070,105
+Grayson,Precinct 105,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,179,6,162,11
+Grayson,Precinct 105,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,1210,27,1075,108
+Grayson,Precinct 105,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,172,5,159,8
+Grayson,Precinct 105,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,1207,27,1073,107
+Grayson,Precinct 105,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,171,4,158,9
+Grayson,Precinct 105,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,1262,27,1124,111
+Grayson,Precinct 105,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,1257,28,1120,109
+Grayson,Precinct 105,District Attorney,,REP,John Kermit Hill,1186,25,1056,105
+Grayson,Precinct 105,District Attorney,,DEM,Brandy Douglas,205,4,189,12
+Grayson,Precinct 105,Sheriff,,REP,Wm. A. (Tony) Bennie,1266,27,1130,109
+Grayson,Precinct 105,County Tax Assessor-Collector,,REP,Bruce Stidham,1283,27,1144,112
+Grayson,Precinct 105,County Commissioner Precinct 1,1,REP,Josh Marr,1225,25,1093,107
+Grayson,Precinct 105,County Commissioner Precinct 1,1,DEM,Andre Luper,166,4,153,9
+Grayson,Precinct 105,Constable Precinct 4,4,REP,William Robert (Bob) Douglas,1275,27,1137,111
+Grayson,Precinct 106,Registered Voters,,,,3403,,,
+Grayson,Precinct 106,Ballots Cast,,,,2293,56,1667,570
+Grayson,Precinct 106,President,,REP,Donald J. Trump/JD Vance,1917,32,1425,460
+Grayson,Precinct 106,President,,DEM,Kamala D. Harris/Tim Walz,355,23,234,98
+Grayson,Precinct 106,President,,LIB,Chase Oliver/Mike ter Maat,11,0,1,10
+Grayson,Precinct 106,President,,GRN,Jill Stein/Rudolph Ware,3,0,3,0
+Grayson,Precinct 106,U.S. Senate,,REP,Ted Cruz,1823,34,1371,418
+Grayson,Precinct 106,U.S. Senate,,DEM,Colin Allred,389,20,251,118
+Grayson,Precinct 106,U.S. Senate,,LIB,Ted Brown,47,0,24,23
+Grayson,Precinct 106,U.S. House,4,REP,Pat Fallon,1898,29,1417,452
+Grayson,Precinct 106,U.S. House,4,DEM,Simon Cardell,318,17,207,94
+Grayson,Precinct 106,Railroad Commissioner,,REP,Christi Craddick,1828,33,1364,431
+Grayson,Precinct 106,Railroad Commissioner,,DEM,Katherine Culbert,304,19,200,85
+Grayson,Precinct 106,Railroad Commissioner,,LIB,Hawk Dunlap,52,1,33,18
+Grayson,Precinct 106,Railroad Commissioner,,GRN,Eddie Espinoza,17,0,6,11
+Grayson,Precinct 106,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,1875,31,1390,454
+Grayson,Precinct 106,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,323,19,212,92
+Grayson,Precinct 106,"Justice, Supreme Court, Pl 4",4,REP,John Devine,1860,32,1378,450
+Grayson,Precinct 106,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,338,19,223,96
+Grayson,Precinct 106,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,1825,32,1366,427
+Grayson,Precinct 106,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,318,19,211,88
+Grayson,Precinct 106,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,47,0,24,23
+Grayson,Precinct 106,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1846,31,1373,442
+Grayson,Precinct 106,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,331,18,216,97
+Grayson,Precinct 106,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,1850,32,1376,442
+Grayson,Precinct 106,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,327,19,215,93
+Grayson,Precinct 106,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,1864,31,1381,452
+Grayson,Precinct 106,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,314,19,208,87
+Grayson,Precinct 106,State Board of Education,12,REP,Pam Little,1865,29,1387,449
+Grayson,Precinct 106,State Board of Education,12,DEM,George King,329,20,216,93
+Grayson,Precinct 106,State Senator,30,REP,Brent Hagenbuch,1850,28,1380,442
+Grayson,Precinct 106,State Senator,30,DEM,Dale Frey,331,16,219,96
+Grayson,Precinct 106,State Representative,62,REP,Shelley Luther,1791,23,1333,435
+Grayson,Precinct 106,State Representative,62,DEM,Tiffany Drake,386,18,268,100
+Grayson,Precinct 106,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",1829,30,1364,435
+Grayson,Precinct 106,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,343,19,225,99
+Grayson,Precinct 106,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,1860,30,1385,445
+Grayson,Precinct 106,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,310,19,203,88
+Grayson,Precinct 106,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,1833,30,1368,435
+Grayson,Precinct 106,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,326,19,212,95
+Grayson,Precinct 106,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,1818,28,1355,435
+Grayson,Precinct 106,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,334,19,219,96
+Grayson,Precinct 106,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,1818,30,1354,434
+Grayson,Precinct 106,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,335,19,220,96
+Grayson,Precinct 106,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,1812,30,1349,433
+Grayson,Precinct 106,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,342,19,225,98
+Grayson,Precinct 106,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,1834,29,1365,440
+Grayson,Precinct 106,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,321,19,210,92
+Grayson,Precinct 106,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,1818,30,1354,434
+Grayson,Precinct 106,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,333,19,218,96
+Grayson,Precinct 106,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,1954,30,1451,473
+Grayson,Precinct 106,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,1930,28,1430,472
+Grayson,Precinct 106,District Attorney,,REP,John Kermit Hill,1810,26,1349,435
+Grayson,Precinct 106,District Attorney,,DEM,Brandy Douglas,360,17,247,96
+Grayson,Precinct 106,Sheriff,,REP,Wm. A. (Tony) Bennie,1953,29,1454,470
+Grayson,Precinct 106,County Tax Assessor-Collector,,REP,Bruce Stidham,1991,29,1478,484
+Grayson,Precinct 106,County Commissioner Precinct 1,1,REP,Josh Marr,1868,26,1394,448
+Grayson,Precinct 106,County Commissioner Precinct 1,1,DEM,Andre Luper,313,16,210,87
+Grayson,Precinct 106,Constable Precinct 4,4,REP,William Robert (Bob) Douglas,1970,28,1462,480
+Grayson,Precinct 107,Registered Voters,,,,2250,,,
+Grayson,Precinct 107,Ballots Cast,,,,1653,51,1092,510
+Grayson,Precinct 107,President,,REP,Donald J. Trump/JD Vance,1431,28,973,430
+Grayson,Precinct 107,President,,DEM,Kamala D. Harris/Tim Walz,198,22,108,68
+Grayson,Precinct 107,President,,LIB,Chase Oliver/Mike ter Maat,6,0,3,3
+Grayson,Precinct 107,President,,GRN,Jill Stein/Rudolph Ware,2,0,0,2
+Grayson,Precinct 107,U.S. Senate,,REP,Ted Cruz,1389,30,952,407
+Grayson,Precinct 107,U.S. Senate,,DEM,Colin Allred,207,20,117,70
+Grayson,Precinct 107,U.S. Senate,,LIB,Ted Brown,31,0,14,17
+Grayson,Precinct 107,U.S. House,4,REP,Pat Fallon,1422,26,972,424
+Grayson,Precinct 107,U.S. House,4,DEM,Simon Cardell,178,22,97,59
+Grayson,Precinct 107,Railroad Commissioner,,REP,Christi Craddick,1371,27,937,407
+Grayson,Precinct 107,Railroad Commissioner,,DEM,Katherine Culbert,165,19,95,51
+Grayson,Precinct 107,Railroad Commissioner,,LIB,Hawk Dunlap,42,0,30,12
+Grayson,Precinct 107,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,3,5
+Grayson,Precinct 107,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,1403,26,961,416
+Grayson,Precinct 107,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,182,20,104,58
+Grayson,Precinct 107,"Justice, Supreme Court, Pl 4",4,REP,John Devine,1390,24,952,414
+Grayson,Precinct 107,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,191,21,115,55
+Grayson,Precinct 107,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,1376,24,948,404
+Grayson,Precinct 107,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,172,18,99,55
+Grayson,Precinct 107,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,31,1,15,15
+Grayson,Precinct 107,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1386,24,952,410
+Grayson,Precinct 107,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,187,18,108,61
+Grayson,Precinct 107,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,1393,24,953,416
+Grayson,Precinct 107,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,179,19,105,55
+Grayson,Precinct 107,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,1402,23,960,419
+Grayson,Precinct 107,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,173,20,100,53
+Grayson,Precinct 107,State Board of Education,12,REP,Pam Little,1401,22,962,417
+Grayson,Precinct 107,State Board of Education,12,DEM,George King,181,21,103,57
+Grayson,Precinct 107,State Senator,30,REP,Brent Hagenbuch,1401,23,962,416
+Grayson,Precinct 107,State Senator,30,DEM,Dale Frey,178,20,101,57
+Grayson,Precinct 107,State Representative,62,REP,Shelley Luther,1373,21,942,410
+Grayson,Precinct 107,State Representative,62,DEM,Tiffany Drake,208,22,117,69
+Grayson,Precinct 107,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",1391,24,954,413
+Grayson,Precinct 107,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,183,19,104,60
+Grayson,Precinct 107,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,1405,24,967,414
+Grayson,Precinct 107,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,164,18,93,53
+Grayson,Precinct 107,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,1393,23,960,410
+Grayson,Precinct 107,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,169,19,93,57
+Grayson,Precinct 107,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,1386,22,953,411
+Grayson,Precinct 107,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,179,20,102,57
+Grayson,Precinct 107,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,1390,23,952,415
+Grayson,Precinct 107,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,176,19,103,54
+Grayson,Precinct 107,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,1382,23,951,408
+Grayson,Precinct 107,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,179,19,101,59
+Grayson,Precinct 107,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,1391,23,952,416
+Grayson,Precinct 107,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,170,19,99,52
+Grayson,Precinct 107,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,1380,24,946,410
+Grayson,Precinct 107,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,180,19,105,56
+Grayson,Precinct 107,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,1455,32,985,438
+Grayson,Precinct 107,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,1414,32,958,424
+Grayson,Precinct 107,District Attorney,,REP,John Kermit Hill,1338,23,914,401
+Grayson,Precinct 107,District Attorney,,DEM,Brandy Douglas,235,20,142,73
+Grayson,Precinct 107,Sheriff,,REP,Wm. A. (Tony) Bennie,1461,33,984,444
+Grayson,Precinct 107,County Tax Assessor-Collector,,REP,Bruce Stidham,1473,34,993,446
+Grayson,Precinct 107,County Commissioner Precinct 1,1,REP,Josh Marr,1401,24,959,418
+Grayson,Precinct 107,County Commissioner Precinct 1,1,DEM,Andre Luper,174,18,95,61
+Grayson,Precinct 107,Constable Precinct 4,4,REP,William Robert (Bob) Douglas,1461,32,987,442
+Grayson,Precinct 108,Registered Voters,,,,3303,,,
+Grayson,Precinct 108,Ballots Cast,,,,2525,71,2017,437
+Grayson,Precinct 108,President,,REP,Donald J. Trump/JD Vance,2158,55,1730,373
+Grayson,Precinct 108,President,,DEM,Kamala D. Harris/Tim Walz,338,14,271,53
+Grayson,Precinct 108,President,,LIB,Chase Oliver/Mike ter Maat,10,0,5,5
+Grayson,Precinct 108,President,,GRN,Jill Stein/Rudolph Ware,3,0,2,1
+Grayson,Precinct 108,U.S. Senate,,REP,Ted Cruz,2096,54,1688,354
+Grayson,Precinct 108,U.S. Senate,,DEM,Colin Allred,356,14,281,61
+Grayson,Precinct 108,U.S. Senate,,LIB,Ted Brown,47,2,31,14
+Grayson,Precinct 108,U.S. House,4,REP,Pat Fallon,2190,50,1759,381
+Grayson,Precinct 108,U.S. House,4,DEM,Simon Cardell,275,13,225,37
+Grayson,Precinct 108,Railroad Commissioner,,REP,Christi Craddick,2132,57,1712,363
+Grayson,Precinct 108,Railroad Commissioner,,DEM,Katherine Culbert,265,12,215,38
+Grayson,Precinct 108,Railroad Commissioner,,LIB,Hawk Dunlap,44,0,31,13
+Grayson,Precinct 108,Railroad Commissioner,,GRN,Eddie Espinoza,13,0,10,3
+Grayson,Precinct 108,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,2185,57,1754,374
+Grayson,Precinct 108,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,271,12,218,41
+Grayson,Precinct 108,"Justice, Supreme Court, Pl 4",4,REP,John Devine,2167,57,1739,371
+Grayson,Precinct 108,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,284,12,230,42
+Grayson,Precinct 108,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,2140,56,1724,360
+Grayson,Precinct 108,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,257,11,210,36
+Grayson,Precinct 108,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,43,2,26,15
+Grayson,Precinct 108,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,2154,57,1726,371
+Grayson,Precinct 108,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,277,12,226,39
+Grayson,Precinct 108,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,2161,56,1732,373
+Grayson,Precinct 108,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,267,12,219,36
+Grayson,Precinct 108,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,2178,56,1745,377
+Grayson,Precinct 108,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,250,12,207,31
+Grayson,Precinct 108,State Board of Education,12,REP,Pam Little,2165,49,1747,369
+Grayson,Precinct 108,State Board of Education,12,DEM,George King,272,15,213,44
+Grayson,Precinct 108,State Senator,30,REP,Brent Hagenbuch,2144,45,1729,370
+Grayson,Precinct 108,State Senator,30,DEM,Dale Frey,278,13,226,39
+Grayson,Precinct 108,State Representative,62,REP,Shelley Luther,2092,39,1686,367
+Grayson,Precinct 108,State Representative,62,DEM,Tiffany Drake,328,13,268,47
+Grayson,Precinct 108,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",2146,53,1722,371
+Grayson,Precinct 108,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,273,11,224,38
+Grayson,Precinct 108,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,2160,51,1734,375
+Grayson,Precinct 108,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,258,13,211,34
+Grayson,Precinct 108,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,2151,51,1731,369
+Grayson,Precinct 108,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,262,13,213,36
+Grayson,Precinct 108,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,2149,52,1726,371
+Grayson,Precinct 108,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,267,12,220,35
+Grayson,Precinct 108,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,2136,52,1716,368
+Grayson,Precinct 108,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,277,12,228,37
+Grayson,Precinct 108,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,2140,51,1722,367
+Grayson,Precinct 108,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,272,13,222,37
+Grayson,Precinct 108,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,2153,52,1730,371
+Grayson,Precinct 108,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,261,12,214,35
+Grayson,Precinct 108,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,2130,48,1716,366
+Grayson,Precinct 108,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,281,14,228,39
+Grayson,Precinct 108,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,2240,41,1815,384
+Grayson,Precinct 108,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,2213,40,1794,379
+Grayson,Precinct 108,District Attorney,,REP,John Kermit Hill,2090,42,1681,367
+Grayson,Precinct 108,District Attorney,,DEM,Brandy Douglas,329,12,273,44
+Grayson,Precinct 108,Sheriff,,REP,Wm. A. (Tony) Bennie,2240,41,1813,386
+Grayson,Precinct 108,County Tax Assessor-Collector,,REP,Bruce Stidham,2272,41,1839,392
+Grayson,Precinct 108,County Commissioner Precinct 1,1,REP,Josh Marr,2187,42,1773,372
+Grayson,Precinct 108,County Commissioner Precinct 1,1,DEM,Andre Luper,243,12,192,39
+Grayson,Precinct 108,Constable Precinct 4,4,REP,William Robert (Bob) Douglas,2251,41,1823,387
+Grayson,Precinct 109,Registered Voters,,,,6612,,,
+Grayson,Precinct 109,Ballots Cast,,,,5020,142,4190,688
+Grayson,Precinct 109,President,,REP,Donald J. Trump/JD Vance,3866,85,3245,536
+Grayson,Precinct 109,President,,DEM,Kamala D. Harris/Tim Walz,1071,52,885,134
+Grayson,Precinct 109,President,,LIB,Chase Oliver/Mike ter Maat,34,2,25,7
+Grayson,Precinct 109,President,,GRN,Jill Stein/Rudolph Ware,17,0,12,5
+Grayson,Precinct 109,U.S. Senate,,REP,Ted Cruz,3692,82,3128,482
+Grayson,Precinct 109,U.S. Senate,,DEM,Colin Allred,1144,52,942,150
+Grayson,Precinct 109,U.S. Senate,,LIB,Ted Brown,120,2,78,40
+Grayson,Precinct 109,U.S. House,4,REP,Pat Fallon,3892,68,3279,545
+Grayson,Precinct 109,U.S. House,4,DEM,Simon Cardell,955,41,799,115
+Grayson,Precinct 109,Railroad Commissioner,,REP,Christi Craddick,3767,82,3167,518
+Grayson,Precinct 109,Railroad Commissioner,,DEM,Katherine Culbert,896,42,763,91
+Grayson,Precinct 109,Railroad Commissioner,,LIB,Hawk Dunlap,151,4,110,37
+Grayson,Precinct 109,Railroad Commissioner,,GRN,Eddie Espinoza,41,1,29,11
+Grayson,Precinct 109,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,3887,85,3259,543
+Grayson,Precinct 109,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,971,43,811,117
+Grayson,Precinct 109,"Justice, Supreme Court, Pl 4",4,REP,John Devine,3867,83,3244,540
+Grayson,Precinct 109,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,983,44,821,118
+Grayson,Precinct 109,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,3775,80,3174,521
+Grayson,Precinct 109,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,934,46,781,107
+Grayson,Precinct 109,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,145,3,107,35
+Grayson,Precinct 109,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,3839,83,3223,533
+Grayson,Precinct 109,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,994,45,824,125
+Grayson,Precinct 109,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,3856,84,3230,542
+Grayson,Precinct 109,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,964,44,805,115
+Grayson,Precinct 109,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,3872,84,3243,545
+Grayson,Precinct 109,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,945,43,792,110
+Grayson,Precinct 109,State Board of Education,12,REP,Pam Little,3866,75,3250,541
+Grayson,Precinct 109,State Board of Education,12,DEM,George King,971,44,811,116
+Grayson,Precinct 109,State Senator,30,REP,Brent Hagenbuch,3837,58,3238,541
+Grayson,Precinct 109,State Senator,30,DEM,Dale Frey,963,42,805,116
+Grayson,Precinct 109,State Representative,62,REP,Shelley Luther,3718,48,3147,523
+Grayson,Precinct 109,State Representative,62,DEM,Tiffany Drake,1063,43,890,130
+Grayson,Precinct 109,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",3851,78,3232,541
+Grayson,Precinct 109,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,964,41,806,117
+Grayson,Precinct 109,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,3873,78,3247,548
+Grayson,Precinct 109,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,932,42,781,109
+Grayson,Precinct 109,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,3846,77,3230,539
+Grayson,Precinct 109,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,940,43,789,108
+Grayson,Precinct 109,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,3808,78,3200,530
+Grayson,Precinct 109,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,972,42,811,119
+Grayson,Precinct 109,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,3816,75,3203,538
+Grayson,Precinct 109,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,965,45,808,112
+Grayson,Precinct 109,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,3810,77,3205,528
+Grayson,Precinct 109,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,966,43,801,122
+Grayson,Precinct 109,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,3848,78,3231,539
+Grayson,Precinct 109,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,938,42,787,109
+Grayson,Precinct 109,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,3807,74,3204,529
+Grayson,Precinct 109,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,966,43,804,119
+Grayson,Precinct 109,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,4103,63,3463,577
+Grayson,Precinct 109,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,4054,60,3423,571
+Grayson,Precinct 109,District Attorney,,REP,John Kermit Hill,3767,51,3196,520
+Grayson,Precinct 109,District Attorney,,DEM,Brandy Douglas,1008,39,839,130
+Grayson,Precinct 109,Sheriff,,REP,Wm. A. (Tony) Bennie,4097,61,3456,580
+Grayson,Precinct 109,County Tax Assessor-Collector,,REP,Bruce Stidham,4198,63,3547,588
+Grayson,Precinct 109,County Commissioner Precinct 1,1,REP,Josh Marr,3843,51,3259,533
+Grayson,Precinct 109,County Commissioner Precinct 1,1,DEM,Andre Luper,949,40,792,117
+Grayson,Precinct 109,Constable Precinct 4,4,REP,William Robert (Bob) Douglas,4158,61,3512,585
+Grayson,Precinct 201,Registered Voters,,,,3860,,,
+Grayson,Precinct 201,Ballots Cast,,,,2296,97,1747,452
+Grayson,Precinct 201,President,,REP,Donald J. Trump/JD Vance,1578,49,1221,308
+Grayson,Precinct 201,President,,DEM,Kamala D. Harris/Tim Walz,681,45,501,135
+Grayson,Precinct 201,President,,LIB,Chase Oliver/Mike ter Maat,15,1,11,3
+Grayson,Precinct 201,President,,GRN,Jill Stein/Rudolph Ware,10,0,6,4
+Grayson,Precinct 201,U.S. Senate,,REP,Ted Cruz,1476,49,1159,268
+Grayson,Precinct 201,U.S. Senate,,DEM,Colin Allred,728,44,532,152
+Grayson,Precinct 201,U.S. Senate,,LIB,Ted Brown,54,1,34,19
+Grayson,Precinct 201,U.S. House,4,REP,Pat Fallon,1578,51,1225,302
+Grayson,Precinct 201,U.S. House,4,DEM,Simon Cardell,649,41,483,125
+Grayson,Precinct 201,Railroad Commissioner,,REP,Christi Craddick,1499,52,1169,278
+Grayson,Precinct 201,Railroad Commissioner,,DEM,Katherine Culbert,596,35,448,113
+Grayson,Precinct 201,Railroad Commissioner,,LIB,Hawk Dunlap,60,0,43,17
+Grayson,Precinct 201,Railroad Commissioner,,GRN,Eddie Espinoza,30,4,16,10
+Grayson,Precinct 201,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,1536,56,1191,289
+Grayson,Precinct 201,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,656,36,488,132
+Grayson,Precinct 201,"Justice, Supreme Court, Pl 4",4,REP,John Devine,1517,52,1179,286
+Grayson,Precinct 201,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,668,40,496,132
+Grayson,Precinct 201,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,1496,54,1162,280
+Grayson,Precinct 201,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,629,36,474,119
+Grayson,Precinct 201,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,58,2,36,20
+Grayson,Precinct 201,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1518,50,1188,280
+Grayson,Precinct 201,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,664,39,486,139
+Grayson,Precinct 201,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,1511,53,1181,277
+Grayson,Precinct 201,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,665,38,490,137
+Grayson,Precinct 201,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,1541,56,1195,290
+Grayson,Precinct 201,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,629,35,472,122
+Grayson,Precinct 201,State Board of Education,12,REP,Pam Little,1544,54,1200,290
+Grayson,Precinct 201,State Board of Education,12,DEM,George King,642,35,481,126
+Grayson,Precinct 201,State Senator,30,REP,Brent Hagenbuch,1523,50,1187,286
+Grayson,Precinct 201,State Senator,30,DEM,Dale Frey,659,39,488,132
+Grayson,Precinct 201,State Representative,62,REP,Shelley Luther,1454,45,1139,270
+Grayson,Precinct 201,State Representative,62,DEM,Tiffany Drake,730,41,538,151
+Grayson,Precinct 201,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",1502,52,1172,278
+Grayson,Precinct 201,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,660,36,491,133
+Grayson,Precinct 201,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,1532,55,1187,290
+Grayson,Precinct 201,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,628,33,475,120
+Grayson,Precinct 201,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,1505,50,1177,278
+Grayson,Precinct 201,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,652,38,481,133
+Grayson,Precinct 201,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,1499,48,1168,283
+Grayson,Precinct 201,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,647,39,483,125
+Grayson,Precinct 201,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,1499,50,1168,281
+Grayson,Precinct 201,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,655,38,488,129
+Grayson,Precinct 201,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,1496,49,1171,276
+Grayson,Precinct 201,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,657,39,485,133
+Grayson,Precinct 201,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,1517,53,1178,286
+Grayson,Precinct 201,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,638,36,479,123
+Grayson,Precinct 201,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,1490,48,1168,274
+Grayson,Precinct 201,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,660,40,487,133
+Grayson,Precinct 201,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,1720,55,1333,332
+Grayson,Precinct 201,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,1696,52,1324,320
+Grayson,Precinct 201,District Attorney,,REP,John Kermit Hill,1384,46,1087,251
+Grayson,Precinct 201,District Attorney,,DEM,Brandy Douglas,818,42,605,171
+Grayson,Precinct 201,Sheriff,,REP,Wm. A. (Tony) Bennie,1708,55,1321,332
+Grayson,Precinct 201,County Tax Assessor-Collector,,REP,Bruce Stidham,1790,58,1391,341
+Grayson,Precinct 201,Constable Precinct 2,2,REP,Cody Putman,1678,55,1288,335
+Grayson,Precinct 202,Registered Voters,,,,4923,,,
+Grayson,Precinct 202,Ballots Cast,,,,3057,142,2300,615
+Grayson,Precinct 202,President,,REP,Donald J. Trump/JD Vance,2122,80,1620,422
+Grayson,Precinct 202,President,,DEM,Kamala D. Harris/Tim Walz,885,58,645,182
+Grayson,Precinct 202,President,,LIB,Chase Oliver/Mike ter Maat,26,0,21,5
+Grayson,Precinct 202,President,,GRN,Jill Stein/Rudolph Ware,11,0,6,5
+Grayson,Precinct 202,U.S. Senate,,REP,Ted Cruz,2005,81,1542,382
+Grayson,Precinct 202,U.S. Senate,,DEM,Colin Allred,914,59,668,187
+Grayson,Precinct 202,U.S. Senate,,LIB,Ted Brown,89,2,53,34
+Grayson,Precinct 202,U.S. House,4,REP,Pat Fallon,2146,80,1647,419
+Grayson,Precinct 202,U.S. House,4,DEM,Simon Cardell,796,45,587,164
+Grayson,Precinct 202,Railroad Commissioner,,REP,Christi Craddick,2039,83,1560,396
+Grayson,Precinct 202,Railroad Commissioner,,DEM,Katherine Culbert,750,47,560,143
+Grayson,Precinct 202,Railroad Commissioner,,LIB,Hawk Dunlap,85,0,56,29
+Grayson,Precinct 202,Railroad Commissioner,,GRN,Eddie Espinoza,36,2,26,8
+Grayson,Precinct 202,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,2103,84,1607,412
+Grayson,Precinct 202,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,820,49,604,167
+Grayson,Precinct 202,"Justice, Supreme Court, Pl 4",4,REP,John Devine,2062,81,1577,404
+Grayson,Precinct 202,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,858,53,632,173
+Grayson,Precinct 202,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,2031,79,1561,391
+Grayson,Precinct 202,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,787,50,581,156
+Grayson,Precinct 202,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,97,2,63,32
+Grayson,Precinct 202,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,2072,79,1591,402
+Grayson,Precinct 202,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,826,52,602,172
+Grayson,Precinct 202,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,2072,80,1587,405
+Grayson,Precinct 202,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,821,50,604,167
+Grayson,Precinct 202,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,2089,79,1606,404
+Grayson,Precinct 202,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,798,49,582,167
+Grayson,Precinct 202,State Board of Education,12,REP,Pam Little,2092,75,1604,413
+Grayson,Precinct 202,State Board of Education,12,DEM,George King,802,52,591,159
+Grayson,Precinct 202,State Senator,30,REP,Brent Hagenbuch,2056,70,1578,408
+Grayson,Precinct 202,State Senator,30,DEM,Dale Frey,840,53,615,172
+Grayson,Precinct 202,State Representative,62,REP,Shelley Luther,1982,62,1529,391
+Grayson,Precinct 202,State Representative,62,DEM,Tiffany Drake,926,60,681,185
+Grayson,Precinct 202,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",2062,74,1586,402
+Grayson,Precinct 202,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,836,51,617,168
+Grayson,Precinct 202,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,2088,75,1593,420
+Grayson,Precinct 202,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,794,48,593,153
+Grayson,Precinct 202,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,2059,72,1582,405
+Grayson,Precinct 202,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,806,51,599,156
+Grayson,Precinct 202,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,2056,75,1580,401
+Grayson,Precinct 202,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,814,50,602,162
+Grayson,Precinct 202,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,2044,74,1573,397
+Grayson,Precinct 202,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,815,48,601,166
+Grayson,Precinct 202,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,2025,72,1567,386
+Grayson,Precinct 202,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,834,52,606,176
+Grayson,Precinct 202,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,2054,72,1577,405
+Grayson,Precinct 202,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,805,50,597,158
+Grayson,Precinct 202,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,2025,75,1560,390
+Grayson,Precinct 202,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,829,50,611,168
+Grayson,Precinct 202,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,2335,87,1777,471
+Grayson,Precinct 202,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,2297,88,1740,469
+Grayson,Precinct 202,District Attorney,,REP,John Kermit Hill,1970,67,1513,390
+Grayson,Precinct 202,District Attorney,,DEM,Brandy Douglas,935,53,690,192
+Grayson,Precinct 202,Sheriff,,REP,Wm. A. (Tony) Bennie,2335,87,1770,478
+Grayson,Precinct 202,County Tax Assessor-Collector,,REP,Bruce Stidham,2434,91,1856,487
+Grayson,Precinct 202,Constable Precinct 2,2,REP,Cody Putman,2242,88,1691,463
+Grayson,Precinct 203,Registered Voters,,,,1531,,,
+Grayson,Precinct 203,Ballots Cast,,,,749,19,544,186
+Grayson,Precinct 203,President,,REP,Donald J. Trump/JD Vance,442,6,324,112
+Grayson,Precinct 203,President,,DEM,Kamala D. Harris/Tim Walz,297,12,218,67
+Grayson,Precinct 203,President,,LIB,Chase Oliver/Mike ter Maat,5,0,0,5
+Grayson,Precinct 203,President,,GRN,Jill Stein/Rudolph Ware,4,0,2,2
+Grayson,Precinct 203,U.S. Senate,,REP,Ted Cruz,397,5,303,89
+Grayson,Precinct 203,U.S. Senate,,DEM,Colin Allred,300,14,222,64
+Grayson,Precinct 203,U.S. Senate,,LIB,Ted Brown,32,0,6,26
+Grayson,Precinct 203,U.S. House,4,REP,Pat Fallon,439,6,327,106
+Grayson,Precinct 203,U.S. House,4,DEM,Simon Cardell,273,12,196,65
+Grayson,Precinct 203,Railroad Commissioner,,REP,Christi Craddick,411,5,307,99
+Grayson,Precinct 203,Railroad Commissioner,,DEM,Katherine Culbert,263,12,196,55
+Grayson,Precinct 203,Railroad Commissioner,,LIB,Hawk Dunlap,27,0,12,15
+Grayson,Precinct 203,Railroad Commissioner,,GRN,Eddie Espinoza,9,0,5,4
+Grayson,Precinct 203,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,431,7,319,105
+Grayson,Precinct 203,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,280,11,202,67
+Grayson,Precinct 203,"Justice, Supreme Court, Pl 4",4,REP,John Devine,428,3,319,106
+Grayson,Precinct 203,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,276,12,199,65
+Grayson,Precinct 203,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,405,3,311,91
+Grayson,Precinct 203,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,266,11,194,61
+Grayson,Precinct 203,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,29,1,10,18
+Grayson,Precinct 203,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,426,3,318,105
+Grayson,Precinct 203,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,274,12,199,63
+Grayson,Precinct 203,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,423,3,316,104
+Grayson,Precinct 203,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,275,12,201,62
+Grayson,Precinct 203,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,434,5,321,108
+Grayson,Precinct 203,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,264,10,195,59
+Grayson,Precinct 203,State Board of Education,12,REP,Pam Little,421,4,314,103
+Grayson,Precinct 203,State Board of Education,12,DEM,George King,279,12,203,64
+Grayson,Precinct 203,State Senator,30,REP,Brent Hagenbuch,418,3,312,103
+Grayson,Precinct 203,State Senator,30,DEM,Dale Frey,280,12,204,64
+Grayson,Precinct 203,State Representative,62,REP,Shelley Luther,423,4,313,106
+Grayson,Precinct 203,State Representative,62,DEM,Tiffany Drake,284,12,209,63
+Grayson,Precinct 203,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",414,1,312,101
+Grayson,Precinct 203,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,283,12,207,64
+Grayson,Precinct 203,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,433,1,323,109
+Grayson,Precinct 203,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,261,12,192,57
+Grayson,Precinct 203,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,423,1,317,105
+Grayson,Precinct 203,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,272,12,197,63
+Grayson,Precinct 203,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,416,1,310,105
+Grayson,Precinct 203,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,279,12,203,64
+Grayson,Precinct 203,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,422,1,318,103
+Grayson,Precinct 203,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,274,12,195,67
+Grayson,Precinct 203,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,420,2,313,105
+Grayson,Precinct 203,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,276,12,200,64
+Grayson,Precinct 203,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,428,2,319,107
+Grayson,Precinct 203,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,270,12,195,63
+Grayson,Precinct 203,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,408,2,306,100
+Grayson,Precinct 203,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,283,12,205,66
+Grayson,Precinct 203,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,512,5,383,124
+Grayson,Precinct 203,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,509,5,376,128
+Grayson,Precinct 203,District Attorney,,REP,John Kermit Hill,414,4,306,104
+Grayson,Precinct 203,District Attorney,,DEM,Brandy Douglas,300,12,219,69
+Grayson,Precinct 203,Sheriff,,REP,Wm. A. (Tony) Bennie,518,5,381,132
+Grayson,Precinct 203,County Tax Assessor-Collector,,REP,Bruce Stidham,543,5,406,132
+Grayson,Precinct 203,Constable Precinct 2,2,REP,Cody Putman,506,5,367,134
+Grayson,Precinct 204,Registered Voters,,,,81,,,
+Grayson,Precinct 204,Ballots Cast,,,,37,0,29,8
+Grayson,Precinct 204,President,,REP,Donald J. Trump/JD Vance,28,0,22,6
+Grayson,Precinct 204,President,,DEM,Kamala D. Harris/Tim Walz,9,0,7,2
+Grayson,Precinct 204,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Grayson,Precinct 204,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Grayson,Precinct 204,U.S. Senate,,REP,Ted Cruz,26,0,20,6
+Grayson,Precinct 204,U.S. Senate,,DEM,Colin Allred,10,0,8,2
+Grayson,Precinct 204,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Grayson,Precinct 204,U.S. House,4,REP,Pat Fallon,28,0,22,6
+Grayson,Precinct 204,U.S. House,4,DEM,Simon Cardell,8,0,6,2
+Grayson,Precinct 204,Railroad Commissioner,,REP,Christi Craddick,28,0,22,6
+Grayson,Precinct 204,Railroad Commissioner,,DEM,Katherine Culbert,8,0,6,2
+Grayson,Precinct 204,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Grayson,Precinct 204,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Grayson,Precinct 204,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,28,0,22,6
+Grayson,Precinct 204,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,7,0,5,2
+Grayson,Precinct 204,"Justice, Supreme Court, Pl 4",4,REP,John Devine,29,0,23,6
+Grayson,Precinct 204,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,7,0,5,2
+Grayson,Precinct 204,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,27,0,21,6
+Grayson,Precinct 204,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,7,0,5,2
+Grayson,Precinct 204,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,0,0,0,0
+Grayson,Precinct 204,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,26,0,20,6
+Grayson,Precinct 204,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,8,0,6,2
+Grayson,Precinct 204,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,26,0,20,6
+Grayson,Precinct 204,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,8,0,6,2
+Grayson,Precinct 204,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,27,0,21,6
+Grayson,Precinct 204,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,7,0,5,2
+Grayson,Precinct 204,State Board of Education,12,REP,Pam Little,26,0,20,6
+Grayson,Precinct 204,State Board of Education,12,DEM,George King,8,0,6,2
+Grayson,Precinct 204,State Senator,30,REP,Brent Hagenbuch,27,0,21,6
+Grayson,Precinct 204,State Senator,30,DEM,Dale Frey,7,0,5,2
+Grayson,Precinct 204,State Representative,62,REP,Shelley Luther,27,0,21,6
+Grayson,Precinct 204,State Representative,62,DEM,Tiffany Drake,7,0,5,2
+Grayson,Precinct 204,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",27,0,21,6
+Grayson,Precinct 204,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,7,0,5,2
+Grayson,Precinct 204,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,27,0,21,6
+Grayson,Precinct 204,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,7,0,5,2
+Grayson,Precinct 204,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,27,0,21,6
+Grayson,Precinct 204,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,8,0,6,2
+Grayson,Precinct 204,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,28,0,22,6
+Grayson,Precinct 204,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,7,0,5,2
+Grayson,Precinct 204,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,28,0,22,6
+Grayson,Precinct 204,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,7,0,5,2
+Grayson,Precinct 204,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,28,0,22,6
+Grayson,Precinct 204,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,7,0,5,2
+Grayson,Precinct 204,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,28,0,22,6
+Grayson,Precinct 204,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,7,0,5,2
+Grayson,Precinct 204,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,28,0,22,6
+Grayson,Precinct 204,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,7,0,5,2
+Grayson,Precinct 204,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,30,0,24,6
+Grayson,Precinct 204,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,30,0,25,5
+Grayson,Precinct 204,District Attorney,,REP,John Kermit Hill,28,0,22,6
+Grayson,Precinct 204,District Attorney,,DEM,Brandy Douglas,7,0,5,2
+Grayson,Precinct 204,Sheriff,,REP,Wm. A. (Tony) Bennie,27,0,22,5
+Grayson,Precinct 204,County Tax Assessor-Collector,,REP,Bruce Stidham,29,0,23,6
+Grayson,Precinct 204,Justice of the Peace Precinct 1,1,REP,Ginny Hampton,28,0,22,6
+Grayson,Precinct 204,Constable Precinct 1,1,REP,Thomas Carter,28,0,22,6
+Grayson,Precinct 205,Registered Voters,,,,4454,,,
+Grayson,Precinct 205,Ballots Cast,,,,3099,98,2583,418
+Grayson,Precinct 205,President,,REP,Donald J. Trump/JD Vance,2572,61,2171,340
+Grayson,Precinct 205,President,,DEM,Kamala D. Harris/Tim Walz,491,35,386,70
+Grayson,Precinct 205,President,,LIB,Chase Oliver/Mike ter Maat,22,0,16,6
+Grayson,Precinct 205,President,,GRN,Jill Stein/Rudolph Ware,2,0,2,0
+Grayson,Precinct 205,U.S. Senate,,REP,Ted Cruz,2480,62,2096,322
+Grayson,Precinct 205,U.S. Senate,,DEM,Colin Allred,526,35,420,71
+Grayson,Precinct 205,U.S. Senate,,LIB,Ted Brown,50,0,37,13
+Grayson,Precinct 205,U.S. House,4,REP,Pat Fallon,2549,61,2165,323
+Grayson,Precinct 205,U.S. House,4,DEM,Simon Cardell,461,32,370,59
+Grayson,Precinct 205,Railroad Commissioner,,REP,Christi Craddick,2443,62,2079,302
+Grayson,Precinct 205,Railroad Commissioner,,DEM,Katherine Culbert,442,32,354,56
+Grayson,Precinct 205,Railroad Commissioner,,LIB,Hawk Dunlap,66,1,50,15
+Grayson,Precinct 205,Railroad Commissioner,,GRN,Eddie Espinoza,20,0,15,5
+Grayson,Precinct 205,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,2504,63,2119,322
+Grayson,Precinct 205,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,459,32,371,56
+Grayson,Precinct 205,"Justice, Supreme Court, Pl 4",4,REP,John Devine,2484,61,2103,320
+Grayson,Precinct 205,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,472,32,382,58
+Grayson,Precinct 205,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,2449,62,2073,314
+Grayson,Precinct 205,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,447,32,360,55
+Grayson,Precinct 205,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,73,1,57,15
+Grayson,Precinct 205,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,2485,60,2110,315
+Grayson,Precinct 205,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,470,33,375,62
+Grayson,Precinct 205,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,2478,62,2102,314
+Grayson,Precinct 205,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,464,32,373,59
+Grayson,Precinct 205,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,2505,62,2121,322
+Grayson,Precinct 205,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,434,31,351,52
+Grayson,Precinct 205,State Board of Education,12,REP,Pam Little,2499,61,2117,321
+Grayson,Precinct 205,State Board of Education,12,DEM,George King,446,31,358,57
+Grayson,Precinct 205,State Senator,30,REP,Brent Hagenbuch,2477,63,2098,316
+Grayson,Precinct 205,State Senator,30,DEM,Dale Frey,468,31,381,56
+Grayson,Precinct 205,State Representative,62,REP,Shelley Luther,2396,55,2029,312
+Grayson,Precinct 205,State Representative,62,DEM,Tiffany Drake,550,35,449,66
+Grayson,Precinct 205,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",2474,62,2094,318
+Grayson,Precinct 205,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,467,31,379,57
+Grayson,Precinct 205,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,2480,61,2100,319
+Grayson,Precinct 205,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,441,32,358,51
+Grayson,Precinct 205,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,2474,61,2101,312
+Grayson,Precinct 205,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,447,32,358,57
+Grayson,Precinct 205,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,2461,61,2089,311
+Grayson,Precinct 205,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,462,32,370,60
+Grayson,Precinct 205,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,2459,61,2089,309
+Grayson,Precinct 205,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,457,32,367,58
+Grayson,Precinct 205,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,2446,61,2080,305
+Grayson,Precinct 205,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,468,32,374,62
+Grayson,Precinct 205,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,2472,60,2098,314
+Grayson,Precinct 205,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,447,33,359,55
+Grayson,Precinct 205,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,2456,61,2085,310
+Grayson,Precinct 205,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,445,32,356,57
+Grayson,Precinct 205,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,2639,68,2230,341
+Grayson,Precinct 205,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,2592,68,2189,335
+Grayson,Precinct 205,District Attorney,,REP,John Kermit Hill,2353,60,1992,301
+Grayson,Precinct 205,District Attorney,,DEM,Brandy Douglas,606,32,495,79
+Grayson,Precinct 205,Sheriff,,REP,Wm. A. (Tony) Bennie,2631,68,2217,346
+Grayson,Precinct 205,County Tax Assessor-Collector,,REP,Bruce Stidham,2678,68,2259,351
+Grayson,Precinct 205,Constable Precinct 2,2,REP,Cody Putman,2476,70,2076,330
+Grayson,Precinct 206,Registered Voters,,,,2499,,,
+Grayson,Precinct 206,Ballots Cast,,,,1509,117,1112,280
+Grayson,Precinct 206,President,,REP,Donald J. Trump/JD Vance,1037,74,772,191
+Grayson,Precinct 206,President,,DEM,Kamala D. Harris/Tim Walz,442,41,326,75
+Grayson,Precinct 206,President,,LIB,Chase Oliver/Mike ter Maat,12,0,4,8
+Grayson,Precinct 206,President,,GRN,Jill Stein/Rudolph Ware,10,1,7,2
+Grayson,Precinct 206,U.S. Senate,,REP,Ted Cruz,989,72,748,169
+Grayson,Precinct 206,U.S. Senate,,DEM,Colin Allred,443,40,319,84
+Grayson,Precinct 206,U.S. Senate,,LIB,Ted Brown,42,2,23,17
+Grayson,Precinct 206,U.S. House,4,REP,Pat Fallon,1053,64,795,194
+Grayson,Precinct 206,U.S. House,4,DEM,Simon Cardell,385,36,277,72
+Grayson,Precinct 206,Railroad Commissioner,,REP,Christi Craddick,990,73,747,170
+Grayson,Precinct 206,Railroad Commissioner,,DEM,Katherine Culbert,377,39,270,68
+Grayson,Precinct 206,Railroad Commissioner,,LIB,Hawk Dunlap,42,1,21,20
+Grayson,Precinct 206,Railroad Commissioner,,GRN,Eddie Espinoza,25,0,17,8
+Grayson,Precinct 206,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,1041,76,777,188
+Grayson,Precinct 206,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,390,37,277,76
+Grayson,Precinct 206,"Justice, Supreme Court, Pl 4",4,REP,John Devine,1013,74,756,183
+Grayson,Precinct 206,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,418,39,298,81
+Grayson,Precinct 206,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,1002,75,750,177
+Grayson,Precinct 206,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,385,38,279,68
+Grayson,Precinct 206,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,43,1,25,17
+Grayson,Precinct 206,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1012,74,758,180
+Grayson,Precinct 206,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,408,38,288,82
+Grayson,Precinct 206,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,1023,71,769,183
+Grayson,Precinct 206,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,396,39,279,78
+Grayson,Precinct 206,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,1041,76,776,189
+Grayson,Precinct 206,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,386,37,277,72
+Grayson,Precinct 206,State Board of Education,12,REP,Pam Little,1013,71,758,184
+Grayson,Precinct 206,State Board of Education,12,DEM,George King,402,36,286,80
+Grayson,Precinct 206,State Senator,30,REP,Brent Hagenbuch,1008,63,757,188
+Grayson,Precinct 206,State Senator,30,DEM,Dale Frey,399,38,288,73
+Grayson,Precinct 206,State Representative,62,REP,Shelley Luther,979,63,733,183
+Grayson,Precinct 206,State Representative,62,DEM,Tiffany Drake,433,36,318,79
+Grayson,Precinct 206,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",999,68,754,177
+Grayson,Precinct 206,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,412,39,288,85
+Grayson,Precinct 206,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,1027,71,768,188
+Grayson,Precinct 206,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,384,35,278,71
+Grayson,Precinct 206,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,1012,67,761,184
+Grayson,Precinct 206,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,397,40,284,73
+Grayson,Precinct 206,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,1005,67,756,182
+Grayson,Precinct 206,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,402,39,288,75
+Grayson,Precinct 206,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,1009,68,756,185
+Grayson,Precinct 206,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,393,37,284,72
+Grayson,Precinct 206,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,998,68,750,180
+Grayson,Precinct 206,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,407,38,293,76
+Grayson,Precinct 206,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,1013,69,757,187
+Grayson,Precinct 206,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,386,37,278,71
+Grayson,Precinct 206,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,999,68,750,181
+Grayson,Precinct 206,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,406,38,291,77
+Grayson,Precinct 206,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,1178,76,880,222
+Grayson,Precinct 206,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,1153,73,862,218
+Grayson,Precinct 206,District Attorney,,REP,John Kermit Hill,964,62,728,174
+Grayson,Precinct 206,District Attorney,,DEM,Brandy Douglas,442,36,316,90
+Grayson,Precinct 206,Sheriff,,REP,Wm. A. (Tony) Bennie,1180,77,884,219
+Grayson,Precinct 206,County Tax Assessor-Collector,,REP,Bruce Stidham,1229,79,921,229
+Grayson,Precinct 206,Justice of the Peace Precinct 1,1,REP,Ginny Hampton,1171,74,881,216
+Grayson,Precinct 206,Constable Precinct 1,1,REP,Thomas Carter,1172,74,880,218
+Grayson,Precinct 207,Registered Voters,,,,1223,,,
+Grayson,Precinct 207,Ballots Cast,,,,893,18,722,153
+Grayson,Precinct 207,President,,REP,Donald J. Trump/JD Vance,743,13,599,131
+Grayson,Precinct 207,President,,DEM,Kamala D. Harris/Tim Walz,137,4,112,21
+Grayson,Precinct 207,President,,LIB,Chase Oliver/Mike ter Maat,3,1,2,0
+Grayson,Precinct 207,President,,GRN,Jill Stein/Rudolph Ware,2,0,2,0
+Grayson,Precinct 207,U.S. Senate,,REP,Ted Cruz,717,12,579,126
+Grayson,Precinct 207,U.S. Senate,,DEM,Colin Allred,150,5,125,20
+Grayson,Precinct 207,U.S. Senate,,LIB,Ted Brown,18,0,14,4
+Grayson,Precinct 207,U.S. House,4,REP,Pat Fallon,742,11,600,131
+Grayson,Precinct 207,U.S. House,4,DEM,Simon Cardell,132,4,108,20
+Grayson,Precinct 207,Railroad Commissioner,,REP,Christi Craddick,719,12,579,128
+Grayson,Precinct 207,Railroad Commissioner,,DEM,Katherine Culbert,131,5,106,20
+Grayson,Precinct 207,Railroad Commissioner,,LIB,Hawk Dunlap,22,0,19,3
+Grayson,Precinct 207,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,5,1
+Grayson,Precinct 207,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,746,13,602,131
+Grayson,Precinct 207,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,131,4,107,20
+Grayson,Precinct 207,"Justice, Supreme Court, Pl 4",4,REP,John Devine,734,9,596,129
+Grayson,Precinct 207,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,141,7,112,22
+Grayson,Precinct 207,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,725,12,584,129
+Grayson,Precinct 207,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,133,5,108,20
+Grayson,Precinct 207,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,18,0,16,2
+Grayson,Precinct 207,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,734,12,593,129
+Grayson,Precinct 207,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,137,5,111,21
+Grayson,Precinct 207,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,735,12,591,132
+Grayson,Precinct 207,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,132,5,109,18
+Grayson,Precinct 207,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,745,12,600,133
+Grayson,Precinct 207,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,127,5,105,17
+Grayson,Precinct 207,State Board of Education,12,REP,Pam Little,744,12,599,133
+Grayson,Precinct 207,State Board of Education,12,DEM,George King,130,4,109,17
+Grayson,Precinct 207,State Senator,30,REP,Brent Hagenbuch,725,9,589,127
+Grayson,Precinct 207,State Senator,30,DEM,Dale Frey,142,4,117,21
+Grayson,Precinct 207,State Representative,62,REP,Shelley Luther,720,9,581,130
+Grayson,Precinct 207,State Representative,62,DEM,Tiffany Drake,153,5,129,19
+Grayson,Precinct 207,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",736,12,595,129
+Grayson,Precinct 207,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,137,5,111,21
+Grayson,Precinct 207,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,746,13,601,132
+Grayson,Precinct 207,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,129,4,107,18
+Grayson,Precinct 207,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,736,13,596,127
+Grayson,Precinct 207,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,134,4,109,21
+Grayson,Precinct 207,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,730,13,589,128
+Grayson,Precinct 207,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,137,3,113,21
+Grayson,Precinct 207,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,732,13,592,127
+Grayson,Precinct 207,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,136,4,110,22
+Grayson,Precinct 207,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,730,13,591,126
+Grayson,Precinct 207,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,137,4,111,22
+Grayson,Precinct 207,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,733,13,594,126
+Grayson,Precinct 207,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,134,4,108,22
+Grayson,Precinct 207,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,737,13,595,129
+Grayson,Precinct 207,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,133,4,109,20
+Grayson,Precinct 207,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,764,11,618,135
+Grayson,Precinct 207,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,759,12,615,132
+Grayson,Precinct 207,District Attorney,,REP,John Kermit Hill,735,10,596,129
+Grayson,Precinct 207,District Attorney,,DEM,Brandy Douglas,132,4,110,18
+Grayson,Precinct 207,Sheriff,,REP,Wm. A. (Tony) Bennie,767,10,620,137
+Grayson,Precinct 207,County Tax Assessor-Collector,,REP,Bruce Stidham,785,11,634,140
+Grayson,Precinct 207,Constable Precinct 4,4,REP,William Robert (Bob) Douglas,742,10,596,136
+Grayson,Precinct 208,Registered Voters,,,,1742,,,
+Grayson,Precinct 208,Ballots Cast,,,,1155,32,775,348
+Grayson,Precinct 208,President,,REP,Donald J. Trump/JD Vance,922,11,645,266
+Grayson,Precinct 208,President,,DEM,Kamala D. Harris/Tim Walz,221,20,124,77
+Grayson,Precinct 208,President,,LIB,Chase Oliver/Mike ter Maat,7,1,5,1
+Grayson,Precinct 208,President,,GRN,Jill Stein/Rudolph Ware,3,0,0,3
+Grayson,Precinct 208,U.S. Senate,,REP,Ted Cruz,876,11,622,243
+Grayson,Precinct 208,U.S. Senate,,DEM,Colin Allred,241,20,135,86
+Grayson,Precinct 208,U.S. Senate,,LIB,Ted Brown,20,0,12,8
+Grayson,Precinct 208,U.S. House,4,REP,Pat Fallon,912,11,645,256
+Grayson,Precinct 208,U.S. House,4,DEM,Simon Cardell,199,19,109,71
+Grayson,Precinct 208,Railroad Commissioner,,REP,Christi Craddick,876,12,616,248
+Grayson,Precinct 208,Railroad Commissioner,,DEM,Katherine Culbert,198,14,114,70
+Grayson,Precinct 208,Railroad Commissioner,,LIB,Hawk Dunlap,27,1,15,11
+Grayson,Precinct 208,Railroad Commissioner,,GRN,Eddie Espinoza,6,1,4,1
+Grayson,Precinct 208,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,903,15,632,256
+Grayson,Precinct 208,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,202,13,116,73
+Grayson,Precinct 208,"Justice, Supreme Court, Pl 4",4,REP,John Devine,894,12,629,253
+Grayson,Precinct 208,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,202,16,114,72
+Grayson,Precinct 208,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,875,14,621,240
+Grayson,Precinct 208,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,199,13,110,76
+Grayson,Precinct 208,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,27,1,14,12
+Grayson,Precinct 208,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,883,12,623,248
+Grayson,Precinct 208,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,208,15,117,76
+Grayson,Precinct 208,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,895,14,632,249
+Grayson,Precinct 208,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,202,14,113,75
+Grayson,Precinct 208,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,890,13,627,250
+Grayson,Precinct 208,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,200,15,112,73
+Grayson,Precinct 208,State Board of Education,12,REP,Pam Little,892,13,628,251
+Grayson,Precinct 208,State Board of Education,12,DEM,George King,203,15,112,76
+Grayson,Precinct 208,State Senator,30,REP,Brent Hagenbuch,886,13,626,247
+Grayson,Precinct 208,State Senator,30,DEM,Dale Frey,203,14,113,76
+Grayson,Precinct 208,State Representative,62,REP,Shelley Luther,871,12,614,245
+Grayson,Precinct 208,State Representative,62,DEM,Tiffany Drake,227,16,130,81
+Grayson,Precinct 208,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",882,12,624,246
+Grayson,Precinct 208,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,211,16,118,77
+Grayson,Precinct 208,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,895,14,629,252
+Grayson,Precinct 208,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,194,14,110,70
+Grayson,Precinct 208,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,893,13,629,251
+Grayson,Precinct 208,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,203,15,112,76
+Grayson,Precinct 208,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,891,12,622,257
+Grayson,Precinct 208,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,203,16,117,70
+Grayson,Precinct 208,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,891,12,628,251
+Grayson,Precinct 208,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,206,16,114,76
+Grayson,Precinct 208,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,882,12,618,252
+Grayson,Precinct 208,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,208,16,120,72
+Grayson,Precinct 208,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,897,13,630,254
+Grayson,Precinct 208,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,196,15,109,72
+Grayson,Precinct 208,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,880,14,617,249
+Grayson,Precinct 208,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,204,14,115,75
+Grayson,Precinct 208,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,951,13,658,280
+Grayson,Precinct 208,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,933,15,645,273
+Grayson,Precinct 208,District Attorney,,REP,John Kermit Hill,870,12,610,248
+Grayson,Precinct 208,District Attorney,,DEM,Brandy Douglas,227,14,129,84
+Grayson,Precinct 208,Sheriff,,REP,Wm. A. (Tony) Bennie,948,16,655,277
+Grayson,Precinct 208,County Tax Assessor-Collector,,REP,Bruce Stidham,1003,18,684,301
+Grayson,Precinct 208,Justice of the Peace Precinct 1,1,REP,Ginny Hampton,941,15,643,283
+Grayson,Precinct 208,Constable Precinct 1,1,REP,Thomas Carter,946,15,650,281
+Grayson,Precinct 209,Registered Voters,,,,1800,,,
+Grayson,Precinct 209,Ballots Cast,,,,1243,47,952,244
+Grayson,Precinct 209,President,,REP,Donald J. Trump/JD Vance,1034,31,810,193
+Grayson,Precinct 209,President,,DEM,Kamala D. Harris/Tim Walz,193,16,131,46
+Grayson,Precinct 209,President,,LIB,Chase Oliver/Mike ter Maat,5,0,3,2
+Grayson,Precinct 209,President,,GRN,Jill Stein/Rudolph Ware,5,0,5,0
+Grayson,Precinct 209,U.S. Senate,,REP,Ted Cruz,1000,31,782,187
+Grayson,Precinct 209,U.S. Senate,,DEM,Colin Allred,188,16,132,40
+Grayson,Precinct 209,U.S. Senate,,LIB,Ted Brown,29,0,22,7
+Grayson,Precinct 209,U.S. House,4,REP,Pat Fallon,1037,32,810,195
+Grayson,Precinct 209,U.S. House,4,DEM,Simon Cardell,163,14,112,37
+Grayson,Precinct 209,Railroad Commissioner,,REP,Christi Craddick,994,32,778,184
+Grayson,Precinct 209,Railroad Commissioner,,DEM,Katherine Culbert,154,14,104,36
+Grayson,Precinct 209,Railroad Commissioner,,LIB,Hawk Dunlap,27,0,18,9
+Grayson,Precinct 209,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,6,2
+Grayson,Precinct 209,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,1021,32,796,193
+Grayson,Precinct 209,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,166,13,115,38
+Grayson,Precinct 209,"Justice, Supreme Court, Pl 4",4,REP,John Devine,1006,31,782,193
+Grayson,Precinct 209,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,173,14,121,38
+Grayson,Precinct 209,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,985,32,768,185
+Grayson,Precinct 209,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,169,13,116,40
+Grayson,Precinct 209,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,29,0,24,5
+Grayson,Precinct 209,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1009,32,787,190
+Grayson,Precinct 209,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,172,14,121,37
+Grayson,Precinct 209,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,1005,32,784,189
+Grayson,Precinct 209,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,169,13,118,38
+Grayson,Precinct 209,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,1009,32,787,190
+Grayson,Precinct 209,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,165,12,116,37
+Grayson,Precinct 209,State Board of Education,12,REP,Pam Little,1011,32,790,189
+Grayson,Precinct 209,State Board of Education,12,DEM,George King,170,15,116,39
+Grayson,Precinct 209,State Senator,30,REP,Brent Hagenbuch,1009,32,788,189
+Grayson,Precinct 209,State Senator,30,DEM,Dale Frey,168,15,116,37
+Grayson,Precinct 209,State Representative,62,REP,Shelley Luther,982,30,766,186
+Grayson,Precinct 209,State Representative,62,DEM,Tiffany Drake,205,17,143,45
+Grayson,Precinct 209,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",1005,32,785,188
+Grayson,Precinct 209,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,174,14,120,40
+Grayson,Precinct 209,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,1013,32,791,190
+Grayson,Precinct 209,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,163,13,113,37
+Grayson,Precinct 209,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,999,32,778,189
+Grayson,Precinct 209,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,166,13,118,35
+Grayson,Precinct 209,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,992,32,775,185
+Grayson,Precinct 209,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,172,13,119,40
+Grayson,Precinct 209,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,998,32,779,187
+Grayson,Precinct 209,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,167,13,115,39
+Grayson,Precinct 209,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,995,32,778,185
+Grayson,Precinct 209,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,172,13,118,41
+Grayson,Precinct 209,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,1000,32,781,187
+Grayson,Precinct 209,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,167,13,117,37
+Grayson,Precinct 209,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,991,32,774,185
+Grayson,Precinct 209,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,170,14,118,38
+Grayson,Precinct 209,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,1065,33,826,206
+Grayson,Precinct 209,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,1044,33,808,203
+Grayson,Precinct 209,District Attorney,,REP,John Kermit Hill,976,32,763,181
+Grayson,Precinct 209,District Attorney,,DEM,Brandy Douglas,205,14,144,47
+Grayson,Precinct 209,Sheriff,,REP,Wm. A. (Tony) Bennie,1057,34,821,202
+Grayson,Precinct 209,County Tax Assessor-Collector,,REP,Bruce Stidham,1091,37,846,208
+Grayson,Precinct 209,Justice of the Peace Precinct 1,1,REP,Ginny Hampton,1043,32,814,197
+Grayson,Precinct 209,Constable Precinct 1,1,REP,Thomas Carter,1048,34,810,204
+Grayson,Precinct 210,Registered Voters,,,,2505,,,
+Grayson,Precinct 210,Ballots Cast,,,,1794,50,1447,297
+Grayson,Precinct 210,President,,REP,Donald J. Trump/JD Vance,1566,35,1290,241
+Grayson,Precinct 210,President,,DEM,Kamala D. Harris/Tim Walz,204,14,141,49
+Grayson,Precinct 210,President,,LIB,Chase Oliver/Mike ter Maat,11,0,8,3
+Grayson,Precinct 210,President,,GRN,Jill Stein/Rudolph Ware,2,0,2,0
+Grayson,Precinct 210,U.S. Senate,,REP,Ted Cruz,1515,36,1250,229
+Grayson,Precinct 210,U.S. Senate,,DEM,Colin Allred,229,14,158,57
+Grayson,Precinct 210,U.S. Senate,,LIB,Ted Brown,29,0,24,5
+Grayson,Precinct 210,U.S. House,4,REP,Pat Fallon,1561,36,1287,238
+Grayson,Precinct 210,U.S. House,4,DEM,Simon Cardell,185,9,128,48
+Grayson,Precinct 210,Railroad Commissioner,,REP,Christi Craddick,1511,34,1249,228
+Grayson,Precinct 210,Railroad Commissioner,,DEM,Katherine Culbert,173,14,121,38
+Grayson,Precinct 210,Railroad Commissioner,,LIB,Hawk Dunlap,40,0,30,10
+Grayson,Precinct 210,Railroad Commissioner,,GRN,Eddie Espinoza,16,0,9,7
+Grayson,Precinct 210,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,1546,34,1274,238
+Grayson,Precinct 210,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,189,13,132,44
+Grayson,Precinct 210,"Justice, Supreme Court, Pl 4",4,REP,John Devine,1532,32,1263,237
+Grayson,Precinct 210,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,199,14,140,45
+Grayson,Precinct 210,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,1505,35,1241,229
+Grayson,Precinct 210,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,188,12,134,42
+Grayson,Precinct 210,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,36,0,24,12
+Grayson,Precinct 210,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1534,34,1266,234
+Grayson,Precinct 210,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,195,12,137,46
+Grayson,Precinct 210,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,1529,34,1259,236
+Grayson,Precinct 210,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,198,13,140,45
+Grayson,Precinct 210,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,1543,34,1271,238
+Grayson,Precinct 210,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,181,12,128,41
+Grayson,Precinct 210,State Board of Education,12,REP,Pam Little,1532,34,1263,235
+Grayson,Precinct 210,State Board of Education,12,DEM,George King,192,11,136,45
+Grayson,Precinct 210,State Senator,30,REP,Brent Hagenbuch,1517,28,1258,231
+Grayson,Precinct 210,State Senator,30,DEM,Dale Frey,202,13,140,49
+Grayson,Precinct 210,State Representative,62,REP,Shelley Luther,1488,30,1228,230
+Grayson,Precinct 210,State Representative,62,DEM,Tiffany Drake,239,13,174,52
+Grayson,Precinct 210,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",1515,30,1251,234
+Grayson,Precinct 210,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,201,12,144,45
+Grayson,Precinct 210,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,1535,30,1270,235
+Grayson,Precinct 210,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,183,12,126,45
+Grayson,Precinct 210,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,1513,29,1251,233
+Grayson,Precinct 210,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,200,13,139,48
+Grayson,Precinct 210,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,1514,29,1252,233
+Grayson,Precinct 210,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,196,13,136,47
+Grayson,Precinct 210,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,1511,30,1246,235
+Grayson,Precinct 210,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,199,12,142,45
+Grayson,Precinct 210,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,1498,30,1233,235
+Grayson,Precinct 210,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,214,12,155,47
+Grayson,Precinct 210,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,1522,30,1258,234
+Grayson,Precinct 210,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,192,13,133,46
+Grayson,Precinct 210,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,1507,30,1244,233
+Grayson,Precinct 210,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,195,13,139,43
+Grayson,Precinct 210,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,1605,36,1311,258
+Grayson,Precinct 210,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,1587,37,1295,255
+Grayson,Precinct 210,District Attorney,,REP,John Kermit Hill,1462,27,1208,227
+Grayson,Precinct 210,District Attorney,,DEM,Brandy Douglas,260,15,190,55
+Grayson,Precinct 210,Sheriff,,REP,Wm. A. (Tony) Bennie,1608,38,1311,259
+Grayson,Precinct 210,County Tax Assessor-Collector,,REP,Bruce Stidham,1600,38,1308,254
+Grayson,Precinct 210,Justice of the Peace Precinct 1,1,REP,Ginny Hampton,1558,37,1273,248
+Grayson,Precinct 210,Constable Precinct 1,1,REP,Thomas Carter,1563,37,1279,247
+Grayson,Precinct 301,Registered Voters,,,,2558,,,
+Grayson,Precinct 301,Ballots Cast,,,,1602,107,1236,259
+Grayson,Precinct 301,President,,REP,Donald J. Trump/JD Vance,1061,55,840,166
+Grayson,Precinct 301,President,,DEM,Kamala D. Harris/Tim Walz,517,50,381,86
+Grayson,Precinct 301,President,,LIB,Chase Oliver/Mike ter Maat,8,0,5,3
+Grayson,Precinct 301,President,,GRN,Jill Stein/Rudolph Ware,6,0,4,2
+Grayson,Precinct 301,U.S. Senate,,REP,Ted Cruz,1010,55,810,145
+Grayson,Precinct 301,U.S. Senate,,DEM,Colin Allred,536,50,388,98
+Grayson,Precinct 301,U.S. Senate,,LIB,Ted Brown,33,2,19,12
+Grayson,Precinct 301,U.S. House,4,REP,Pat Fallon,1087,58,860,169
+Grayson,Precinct 301,U.S. House,4,DEM,Simon Cardell,455,37,343,75
+Grayson,Precinct 301,Railroad Commissioner,,REP,Christi Craddick,1018,56,817,145
+Grayson,Precinct 301,Railroad Commissioner,,DEM,Katherine Culbert,456,40,339,77
+Grayson,Precinct 301,Railroad Commissioner,,LIB,Hawk Dunlap,34,2,20,12
+Grayson,Precinct 301,Railroad Commissioner,,GRN,Eddie Espinoza,13,2,8,3
+Grayson,Precinct 301,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,1054,58,836,160
+Grayson,Precinct 301,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,467,41,348,78
+Grayson,Precinct 301,"Justice, Supreme Court, Pl 4",4,REP,John Devine,1034,57,822,155
+Grayson,Precinct 301,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,484,40,361,83
+Grayson,Precinct 301,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,1021,57,813,151
+Grayson,Precinct 301,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,458,37,343,78
+Grayson,Precinct 301,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,42,4,29,9
+Grayson,Precinct 301,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1040,57,827,156
+Grayson,Precinct 301,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,477,39,355,83
+Grayson,Precinct 301,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,1033,56,822,155
+Grayson,Precinct 301,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,486,42,361,83
+Grayson,Precinct 301,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,1058,58,840,160
+Grayson,Precinct 301,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,457,39,340,78
+Grayson,Precinct 301,State Board of Education,12,REP,Pam Little,1051,56,831,164
+Grayson,Precinct 301,State Board of Education,12,DEM,George King,458,37,345,76
+Grayson,Precinct 301,State Senator,30,REP,Brent Hagenbuch,1045,55,829,161
+Grayson,Precinct 301,State Senator,30,DEM,Dale Frey,469,33,357,79
+Grayson,Precinct 301,State Representative,62,REP,Shelley Luther,988,50,784,154
+Grayson,Precinct 301,State Representative,62,DEM,Tiffany Drake,517,34,397,86
+Grayson,Precinct 301,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",1035,52,828,155
+Grayson,Precinct 301,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,475,37,356,82
+Grayson,Precinct 301,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,1048,54,834,160
+Grayson,Precinct 301,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,454,35,342,77
+Grayson,Precinct 301,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,1026,52,824,150
+Grayson,Precinct 301,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,463,36,346,81
+Grayson,Precinct 301,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,1018,53,815,150
+Grayson,Precinct 301,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,476,36,359,81
+Grayson,Precinct 301,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,1015,53,812,150
+Grayson,Precinct 301,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,478,35,362,81
+Grayson,Precinct 301,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,1025,52,822,151
+Grayson,Precinct 301,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,467,37,351,79
+Grayson,Precinct 301,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,1032,53,823,156
+Grayson,Precinct 301,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,454,35,346,73
+Grayson,Precinct 301,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,1022,53,815,154
+Grayson,Precinct 301,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,461,35,350,76
+Grayson,Precinct 301,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,1190,62,944,184
+Grayson,Precinct 301,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,1181,61,942,178
+Grayson,Precinct 301,District Attorney,,REP,John Kermit Hill,938,48,750,140
+Grayson,Precinct 301,District Attorney,,DEM,Brandy Douglas,577,34,443,100
+Grayson,Precinct 301,Sheriff,,REP,Wm. A. (Tony) Bennie,1174,61,932,181
+Grayson,Precinct 301,County Tax Assessor-Collector,,REP,Bruce Stidham,1206,63,952,191
+Grayson,Precinct 301,County Commissioner Precinct 3,3,REP,Lindsay Wright,1160,59,916,185
+Grayson,Precinct 301,Justice of the Peace Precinct 1,1,REP,Ginny Hampton,1148,59,907,182
+Grayson,Precinct 301,Constable Precinct 1,1,REP,Thomas Carter,1154,59,917,178
+Grayson,Precinct 302,Registered Voters,,,,3795,,,
+Grayson,Precinct 302,Ballots Cast,,,,2169,122,1654,393
+Grayson,Precinct 302,President,,REP,Donald J. Trump/JD Vance,1332,49,1052,231
+Grayson,Precinct 302,President,,DEM,Kamala D. Harris/Tim Walz,811,70,587,154
+Grayson,Precinct 302,President,,LIB,Chase Oliver/Mike ter Maat,6,0,3,3
+Grayson,Precinct 302,President,,GRN,Jill Stein/Rudolph Ware,9,1,6,2
+Grayson,Precinct 302,U.S. Senate,,REP,Ted Cruz,1262,48,1004,210
+Grayson,Precinct 302,U.S. Senate,,DEM,Colin Allred,817,68,599,150
+Grayson,Precinct 302,U.S. Senate,,LIB,Ted Brown,47,1,23,23
+Grayson,Precinct 302,U.S. House,4,REP,Pat Fallon,1351,45,1074,232
+Grayson,Precinct 302,U.S. House,4,DEM,Simon Cardell,736,61,528,147
+Grayson,Precinct 302,Railroad Commissioner,,REP,Christi Craddick,1274,44,1016,214
+Grayson,Precinct 302,Railroad Commissioner,,DEM,Katherine Culbert,719,63,526,130
+Grayson,Precinct 302,Railroad Commissioner,,LIB,Hawk Dunlap,43,1,28,14
+Grayson,Precinct 302,Railroad Commissioner,,GRN,Eddie Espinoza,30,1,17,12
+Grayson,Precinct 302,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,1331,47,1055,229
+Grayson,Precinct 302,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,738,63,532,143
+Grayson,Precinct 302,"Justice, Supreme Court, Pl 4",4,REP,John Devine,1292,45,1030,217
+Grayson,Precinct 302,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,776,65,553,158
+Grayson,Precinct 302,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,1278,44,1015,219
+Grayson,Precinct 302,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,733,65,533,135
+Grayson,Precinct 302,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,48,0,35,13
+Grayson,Precinct 302,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1282,45,1023,214
+Grayson,Precinct 302,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,770,62,557,151
+Grayson,Precinct 302,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,1299,45,1031,223
+Grayson,Precinct 302,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,748,65,543,140
+Grayson,Precinct 302,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,1312,44,1045,223
+Grayson,Precinct 302,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,731,60,527,144
+Grayson,Precinct 302,State Board of Education,12,REP,Pam Little,1317,43,1041,233
+Grayson,Precinct 302,State Board of Education,12,DEM,George King,732,59,538,135
+Grayson,Precinct 302,State Senator,30,REP,Brent Hagenbuch,1276,41,1015,220
+Grayson,Precinct 302,State Senator,30,DEM,Dale Frey,761,61,557,143
+Grayson,Precinct 302,State Representative,62,REP,Shelley Luther,1239,34,989,216
+Grayson,Precinct 302,State Representative,62,DEM,Tiffany Drake,798,62,581,155
+Grayson,Precinct 302,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",1279,42,1021,216
+Grayson,Precinct 302,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,759,60,552,147
+Grayson,Precinct 302,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,1316,42,1040,234
+Grayson,Precinct 302,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,713,59,526,128
+Grayson,Precinct 302,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,1287,42,1023,222
+Grayson,Precinct 302,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,746,59,544,143
+Grayson,Precinct 302,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,1276,42,1016,218
+Grayson,Precinct 302,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,754,58,550,146
+Grayson,Precinct 302,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,1284,42,1019,223
+Grayson,Precinct 302,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,744,59,543,142
+Grayson,Precinct 302,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,1273,39,1014,220
+Grayson,Precinct 302,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,752,61,546,145
+Grayson,Precinct 302,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,1293,40,1024,229
+Grayson,Precinct 302,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,732,61,536,135
+Grayson,Precinct 302,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,1273,41,1013,219
+Grayson,Precinct 302,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,748,60,544,144
+Grayson,Precinct 302,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,1571,50,1236,285
+Grayson,Precinct 302,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,1543,48,1215,280
+Grayson,Precinct 302,District Attorney,,REP,John Kermit Hill,1225,34,992,199
+Grayson,Precinct 302,District Attorney,,DEM,Brandy Douglas,832,62,599,171
+Grayson,Precinct 302,Sheriff,,REP,Wm. A. (Tony) Bennie,1553,48,1236,269
+Grayson,Precinct 302,County Tax Assessor-Collector,,REP,Bruce Stidham,1608,56,1268,284
+Grayson,Precinct 302,County Commissioner Precinct 3,3,REP,Lindsay Wright,1538,46,1216,276
+Grayson,Precinct 302,Justice of the Peace Precinct 1,1,REP,Ginny Hampton,1533,46,1216,271
+Grayson,Precinct 302,Constable Precinct 1,1,REP,Thomas Carter,1519,46,1204,269
+Grayson,Precinct 303,Registered Voters,,,,497,,,
+Grayson,Precinct 303,Ballots Cast,,,,277,6,204,67
+Grayson,Precinct 303,President,,REP,Donald J. Trump/JD Vance,231,5,173,53
+Grayson,Precinct 303,President,,DEM,Kamala D. Harris/Tim Walz,44,1,31,12
+Grayson,Precinct 303,President,,LIB,Chase Oliver/Mike ter Maat,0,0,0,0
+Grayson,Precinct 303,President,,GRN,Jill Stein/Rudolph Ware,1,0,0,1
+Grayson,Precinct 303,U.S. Senate,,REP,Ted Cruz,223,5,168,50
+Grayson,Precinct 303,U.S. Senate,,DEM,Colin Allred,42,1,30,11
+Grayson,Precinct 303,U.S. Senate,,LIB,Ted Brown,6,0,2,4
+Grayson,Precinct 303,U.S. House,4,REP,Pat Fallon,232,4,174,54
+Grayson,Precinct 303,U.S. House,4,DEM,Simon Cardell,38,1,26,11
+Grayson,Precinct 303,Railroad Commissioner,,REP,Christi Craddick,221,4,166,51
+Grayson,Precinct 303,Railroad Commissioner,,DEM,Katherine Culbert,32,1,22,9
+Grayson,Precinct 303,Railroad Commissioner,,LIB,Hawk Dunlap,10,0,6,4
+Grayson,Precinct 303,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,3,2
+Grayson,Precinct 303,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,226,5,168,53
+Grayson,Precinct 303,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,43,1,29,13
+Grayson,Precinct 303,"Justice, Supreme Court, Pl 4",4,REP,John Devine,225,5,169,51
+Grayson,Precinct 303,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,40,1,26,13
+Grayson,Precinct 303,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,224,5,168,51
+Grayson,Precinct 303,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,35,1,26,8
+Grayson,Precinct 303,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,9,0,4,5
+Grayson,Precinct 303,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,224,5,167,52
+Grayson,Precinct 303,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,42,1,30,11
+Grayson,Precinct 303,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,226,5,167,54
+Grayson,Precinct 303,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,39,1,29,9
+Grayson,Precinct 303,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,228,5,169,54
+Grayson,Precinct 303,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,35,1,26,8
+Grayson,Precinct 303,State Board of Education,12,REP,Pam Little,231,4,173,54
+Grayson,Precinct 303,State Board of Education,12,DEM,George King,35,1,25,9
+Grayson,Precinct 303,State Senator,30,REP,Brent Hagenbuch,223,4,165,54
+Grayson,Precinct 303,State Senator,30,DEM,Dale Frey,38,1,28,9
+Grayson,Precinct 303,State Representative,62,REP,Shelley Luther,224,4,166,54
+Grayson,Precinct 303,State Representative,62,DEM,Tiffany Drake,41,1,30,10
+Grayson,Precinct 303,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",221,4,164,53
+Grayson,Precinct 303,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,43,1,31,11
+Grayson,Precinct 303,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,225,4,168,53
+Grayson,Precinct 303,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,39,1,27,11
+Grayson,Precinct 303,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,223,4,166,53
+Grayson,Precinct 303,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,37,1,28,8
+Grayson,Precinct 303,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,215,4,162,49
+Grayson,Precinct 303,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,44,1,31,12
+Grayson,Precinct 303,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,217,4,164,49
+Grayson,Precinct 303,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,43,1,30,12
+Grayson,Precinct 303,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,217,4,166,47
+Grayson,Precinct 303,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,42,1,28,13
+Grayson,Precinct 303,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,223,4,167,52
+Grayson,Precinct 303,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,37,1,27,9
+Grayson,Precinct 303,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,218,4,166,48
+Grayson,Precinct 303,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,41,0,28,13
+Grayson,Precinct 303,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,243,4,184,55
+Grayson,Precinct 303,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,235,3,179,53
+Grayson,Precinct 303,District Attorney,,REP,John Kermit Hill,210,4,158,48
+Grayson,Precinct 303,District Attorney,,DEM,Brandy Douglas,52,0,39,13
+Grayson,Precinct 303,Sheriff,,REP,Wm. A. (Tony) Bennie,242,3,180,59
+Grayson,Precinct 303,County Tax Assessor-Collector,,REP,Bruce Stidham,253,3,189,61
+Grayson,Precinct 303,County Commissioner Precinct 3,3,REP,Lindsay Wright,246,3,182,61
+Grayson,Precinct 303,Justice of the Peace Precinct 1,1,REP,Ginny Hampton,243,3,179,61
+Grayson,Precinct 303,Constable Precinct 1,1,REP,Thomas Carter,241,3,178,60
+Grayson,Precinct 304,Registered Voters,,,,4670,,,
+Grayson,Precinct 304,Ballots Cast,,,,3039,125,2371,543
+Grayson,Precinct 304,President,,REP,Donald J. Trump/JD Vance,2181,75,1719,387
+Grayson,Precinct 304,President,,DEM,Kamala D. Harris/Tim Walz,821,46,631,144
+Grayson,Precinct 304,President,,LIB,Chase Oliver/Mike ter Maat,11,1,8,2
+Grayson,Precinct 304,President,,GRN,Jill Stein/Rudolph Ware,10,1,4,5
+Grayson,Precinct 304,U.S. Senate,,REP,Ted Cruz,2077,74,1651,352
+Grayson,Precinct 304,U.S. Senate,,DEM,Colin Allred,861,47,663,151
+Grayson,Precinct 304,U.S. Senate,,LIB,Ted Brown,63,2,34,27
+Grayson,Precinct 304,U.S. House,4,REP,Pat Fallon,2179,63,1736,380
+Grayson,Precinct 304,U.S. House,4,DEM,Simon Cardell,760,43,582,135
+Grayson,Precinct 304,Railroad Commissioner,,REP,Christi Craddick,2074,73,1650,351
+Grayson,Precinct 304,Railroad Commissioner,,DEM,Katherine Culbert,734,38,573,123
+Grayson,Precinct 304,Railroad Commissioner,,LIB,Hawk Dunlap,71,2,48,21
+Grayson,Precinct 304,Railroad Commissioner,,GRN,Eddie Espinoza,35,2,20,13
+Grayson,Precinct 304,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,2142,70,1700,372
+Grayson,Precinct 304,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,768,45,589,134
+Grayson,Precinct 304,"Justice, Supreme Court, Pl 4",4,REP,John Devine,2118,70,1683,365
+Grayson,Precinct 304,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,790,44,609,137
+Grayson,Precinct 304,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,2074,70,1651,353
+Grayson,Precinct 304,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,761,44,592,125
+Grayson,Precinct 304,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,79,1,49,29
+Grayson,Precinct 304,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,2111,70,1679,362
+Grayson,Precinct 304,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,797,44,609,144
+Grayson,Precinct 304,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,2123,70,1681,372
+Grayson,Precinct 304,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,775,42,600,133
+Grayson,Precinct 304,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,2139,69,1699,371
+Grayson,Precinct 304,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,756,45,577,134
+Grayson,Precinct 304,State Board of Education,12,REP,Pam Little,2117,60,1698,359
+Grayson,Precinct 304,State Board of Education,12,DEM,George King,771,40,588,143
+Grayson,Precinct 304,State Senator,30,REP,Brent Hagenbuch,2093,55,1672,366
+Grayson,Precinct 304,State Senator,30,DEM,Dale Frey,780,41,602,137
+Grayson,Precinct 304,State Representative,62,REP,Shelley Luther,2015,50,1615,350
+Grayson,Precinct 304,State Representative,62,DEM,Tiffany Drake,849,40,654,155
+Grayson,Precinct 304,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",2091,59,1669,363
+Grayson,Precinct 304,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,784,39,604,141
+Grayson,Precinct 304,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,2121,58,1696,367
+Grayson,Precinct 304,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,749,40,577,132
+Grayson,Precinct 304,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,2092,58,1669,365
+Grayson,Precinct 304,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,772,40,595,137
+Grayson,Precinct 304,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,2077,57,1663,357
+Grayson,Precinct 304,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,784,41,598,145
+Grayson,Precinct 304,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,2079,58,1664,357
+Grayson,Precinct 304,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,781,40,598,143
+Grayson,Precinct 304,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,2079,60,1661,358
+Grayson,Precinct 304,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,777,38,594,145
+Grayson,Precinct 304,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,2101,57,1680,364
+Grayson,Precinct 304,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,759,40,581,138
+Grayson,Precinct 304,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,2082,59,1661,362
+Grayson,Precinct 304,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,777,40,595,142
+Grayson,Precinct 304,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,2393,61,1909,423
+Grayson,Precinct 304,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,2362,61,1878,423
+Grayson,Precinct 304,District Attorney,,REP,John Kermit Hill,2005,54,1599,352
+Grayson,Precinct 304,District Attorney,,DEM,Brandy Douglas,886,37,686,163
+Grayson,Precinct 304,Sheriff,,REP,Wm. A. (Tony) Bennie,2390,61,1903,426
+Grayson,Precinct 304,County Tax Assessor-Collector,,REP,Bruce Stidham,2428,60,1935,433
+Grayson,Precinct 304,County Commissioner Precinct 3,3,REP,Lindsay Wright,2365,59,1879,427
+Grayson,Precinct 304,Justice of the Peace Precinct 1,1,REP,Ginny Hampton,2356,59,1870,427
+Grayson,Precinct 304,Constable Precinct 1,1,REP,Thomas Carter,2374,59,1886,429
+Grayson,Precinct 305,Registered Voters,,,,1665,,,
+Grayson,Precinct 305,Ballots Cast,,,,1168,25,890,253
+Grayson,Precinct 305,President,,REP,Donald J. Trump/JD Vance,1010,18,775,217
+Grayson,Precinct 305,President,,DEM,Kamala D. Harris/Tim Walz,147,7,107,33
+Grayson,Precinct 305,President,,LIB,Chase Oliver/Mike ter Maat,4,0,2,2
+Grayson,Precinct 305,President,,GRN,Jill Stein/Rudolph Ware,3,0,2,1
+Grayson,Precinct 305,U.S. Senate,,REP,Ted Cruz,973,17,756,200
+Grayson,Precinct 305,U.S. Senate,,DEM,Colin Allred,160,7,112,41
+Grayson,Precinct 305,U.S. Senate,,LIB,Ted Brown,20,0,12,8
+Grayson,Precinct 305,U.S. House,4,REP,Pat Fallon,1011,15,781,215
+Grayson,Precinct 305,U.S. House,4,DEM,Simon Cardell,131,7,96,28
+Grayson,Precinct 305,Railroad Commissioner,,REP,Christi Craddick,954,15,738,201
+Grayson,Precinct 305,Railroad Commissioner,,DEM,Katherine Culbert,134,6,100,28
+Grayson,Precinct 305,Railroad Commissioner,,LIB,Hawk Dunlap,33,1,26,6
+Grayson,Precinct 305,Railroad Commissioner,,GRN,Eddie Espinoza,10,0,2,8
+Grayson,Precinct 305,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,994,16,770,208
+Grayson,Precinct 305,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,139,8,100,31
+Grayson,Precinct 305,"Justice, Supreme Court, Pl 4",4,REP,John Devine,993,18,768,207
+Grayson,Precinct 305,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,140,6,101,33
+Grayson,Precinct 305,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,959,16,749,194
+Grayson,Precinct 305,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,139,7,102,30
+Grayson,Precinct 305,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,30,1,15,14
+Grayson,Precinct 305,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,981,15,761,205
+Grayson,Precinct 305,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,142,7,103,32
+Grayson,Precinct 305,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,983,17,763,203
+Grayson,Precinct 305,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,139,6,99,34
+Grayson,Precinct 305,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,986,17,763,206
+Grayson,Precinct 305,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,134,5,99,30
+Grayson,Precinct 305,State Board of Education,12,REP,Pam Little,980,16,761,203
+Grayson,Precinct 305,State Board of Education,12,DEM,George King,141,6,101,34
+Grayson,Precinct 305,State Senator,30,REP,Brent Hagenbuch,973,16,757,200
+Grayson,Precinct 305,State Senator,30,DEM,Dale Frey,149,7,105,37
+Grayson,Precinct 305,State Representative,62,REP,Shelley Luther,935,13,724,198
+Grayson,Precinct 305,State Representative,62,DEM,Tiffany Drake,178,6,132,40
+Grayson,Precinct 305,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",975,15,755,205
+Grayson,Precinct 305,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,144,7,107,30
+Grayson,Precinct 305,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,981,14,761,206
+Grayson,Precinct 305,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,136,7,100,29
+Grayson,Precinct 305,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,974,14,757,203
+Grayson,Precinct 305,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,135,6,99,30
+Grayson,Precinct 305,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,968,14,755,199
+Grayson,Precinct 305,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,144,6,103,35
+Grayson,Precinct 305,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,971,14,758,199
+Grayson,Precinct 305,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,142,7,101,34
+Grayson,Precinct 305,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,969,15,757,197
+Grayson,Precinct 305,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,143,6,100,37
+Grayson,Precinct 305,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,983,14,766,203
+Grayson,Precinct 305,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,131,6,93,32
+Grayson,Precinct 305,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,970,14,755,201
+Grayson,Precinct 305,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,139,7,99,33
+Grayson,Precinct 305,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,1032,15,795,222
+Grayson,Precinct 305,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,1006,14,771,221
+Grayson,Precinct 305,District Attorney,,REP,John Kermit Hill,947,13,736,198
+Grayson,Precinct 305,District Attorney,,DEM,Brandy Douglas,177,8,127,42
+Grayson,Precinct 305,Sheriff,,REP,Wm. A. (Tony) Bennie,1027,16,787,224
+Grayson,Precinct 305,County Tax Assessor-Collector,,REP,Bruce Stidham,1034,18,789,227
+Grayson,Precinct 305,County Commissioner Precinct 3,3,REP,Lindsay Wright,1012,16,771,225
+Grayson,Precinct 305,Constable Precinct 3,3,REP,Todd Booher,1007,16,764,227
+Grayson,Precinct 306,Registered Voters,,,,4508,,,
+Grayson,Precinct 306,Ballots Cast,,,,3048,72,2586,390
+Grayson,Precinct 306,President,,REP,Donald J. Trump/JD Vance,2622,45,2253,324
+Grayson,Precinct 306,President,,DEM,Kamala D. Harris/Tim Walz,401,26,318,57
+Grayson,Precinct 306,President,,LIB,Chase Oliver/Mike ter Maat,8,0,3,5
+Grayson,Precinct 306,President,,GRN,Jill Stein/Rudolph Ware,4,0,3,1
+Grayson,Precinct 306,U.S. Senate,,REP,Ted Cruz,2534,44,2189,301
+Grayson,Precinct 306,U.S. Senate,,DEM,Colin Allred,441,23,350,68
+Grayson,Precinct 306,U.S. Senate,,LIB,Ted Brown,42,1,30,11
+Grayson,Precinct 306,U.S. House,4,REP,Pat Fallon,2620,42,2254,324
+Grayson,Precinct 306,U.S. House,4,DEM,Simon Cardell,348,20,278,50
+Grayson,Precinct 306,Railroad Commissioner,,REP,Christi Craddick,2508,46,2160,302
+Grayson,Precinct 306,Railroad Commissioner,,DEM,Katherine Culbert,354,20,284,50
+Grayson,Precinct 306,Railroad Commissioner,,LIB,Hawk Dunlap,61,1,44,16
+Grayson,Precinct 306,Railroad Commissioner,,GRN,Eddie Espinoza,25,0,21,4
+Grayson,Precinct 306,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,2583,45,2218,320
+Grayson,Precinct 306,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,358,22,284,52
+Grayson,Precinct 306,"Justice, Supreme Court, Pl 4",4,REP,John Devine,2554,47,2195,312
+Grayson,Precinct 306,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,389,21,309,59
+Grayson,Precinct 306,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,2518,46,2166,306
+Grayson,Precinct 306,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,360,21,289,50
+Grayson,Precinct 306,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,49,1,36,12
+Grayson,Precinct 306,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,2558,45,2203,310
+Grayson,Precinct 306,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,366,22,287,57
+Grayson,Precinct 306,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,2554,48,2199,307
+Grayson,Precinct 306,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,361,20,283,58
+Grayson,Precinct 306,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,2570,46,2211,313
+Grayson,Precinct 306,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,342,20,270,52
+Grayson,Precinct 306,State Board of Education,12,REP,Pam Little,2542,44,2193,305
+Grayson,Precinct 306,State Board of Education,12,DEM,George King,378,20,299,59
+Grayson,Precinct 306,State Senator,30,REP,Brent Hagenbuch,2539,42,2191,306
+Grayson,Precinct 306,State Senator,30,DEM,Dale Frey,378,20,303,55
+Grayson,Precinct 306,State Representative,62,REP,Shelley Luther,2394,37,2057,300
+Grayson,Precinct 306,State Representative,62,DEM,Tiffany Drake,512,22,427,63
+Grayson,Precinct 306,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",2520,36,2175,309
+Grayson,Precinct 306,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,384,22,306,56
+Grayson,Precinct 306,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,2559,37,2213,309
+Grayson,Precinct 306,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,342,21,267,54
+Grayson,Precinct 306,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,2549,38,2201,310
+Grayson,Precinct 306,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,344,20,271,53
+Grayson,Precinct 306,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,2517,36,2177,304
+Grayson,Precinct 306,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,368,21,293,54
+Grayson,Precinct 306,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,2530,37,2183,310
+Grayson,Precinct 306,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,361,22,287,52
+Grayson,Precinct 306,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,2516,37,2174,305
+Grayson,Precinct 306,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,370,22,295,53
+Grayson,Precinct 306,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,2554,39,2202,313
+Grayson,Precinct 306,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,342,20,271,51
+Grayson,Precinct 306,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,2500,37,2159,304
+Grayson,Precinct 306,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,374,21,298,55
+Grayson,Precinct 306,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,2683,46,2303,334
+Grayson,Precinct 306,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,2645,47,2272,326
+Grayson,Precinct 306,District Attorney,,REP,John Kermit Hill,2478,37,2140,301
+Grayson,Precinct 306,District Attorney,,DEM,Brandy Douglas,427,22,342,63
+Grayson,Precinct 306,Sheriff,,REP,Wm. A. (Tony) Bennie,2670,47,2290,333
+Grayson,Precinct 306,County Tax Assessor-Collector,,REP,Bruce Stidham,2710,47,2327,336
+Grayson,Precinct 306,County Commissioner Precinct 3,3,REP,Lindsay Wright,2650,48,2269,333
+Grayson,Precinct 306,Constable Precinct 3,3,REP,Todd Booher,2644,47,2264,333
+Grayson,Precinct 307,Registered Voters,,,,2619,,,
+Grayson,Precinct 307,Ballots Cast,,,,1913,40,1368,505
+Grayson,Precinct 307,President,,REP,Donald J. Trump/JD Vance,1673,32,1211,430
+Grayson,Precinct 307,President,,DEM,Kamala D. Harris/Tim Walz,225,8,148,69
+Grayson,Precinct 307,President,,LIB,Chase Oliver/Mike ter Maat,8,0,4,4
+Grayson,Precinct 307,President,,GRN,Jill Stein/Rudolph Ware,4,0,3,1
+Grayson,Precinct 307,U.S. Senate,,REP,Ted Cruz,1607,31,1174,402
+Grayson,Precinct 307,U.S. Senate,,DEM,Colin Allred,257,8,164,85
+Grayson,Precinct 307,U.S. Senate,,LIB,Ted Brown,30,1,17,12
+Grayson,Precinct 307,U.S. House,4,REP,Pat Fallon,1657,32,1201,424
+Grayson,Precinct 307,U.S. House,4,DEM,Simon Cardell,212,5,141,66
+Grayson,Precinct 307,Railroad Commissioner,,REP,Christi Craddick,1597,31,1155,411
+Grayson,Precinct 307,Railroad Commissioner,,DEM,Katherine Culbert,194,5,130,59
+Grayson,Precinct 307,Railroad Commissioner,,LIB,Hawk Dunlap,46,0,34,12
+Grayson,Precinct 307,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,6,5
+Grayson,Precinct 307,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,1647,30,1190,427
+Grayson,Precinct 307,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,199,6,133,60
+Grayson,Precinct 307,"Justice, Supreme Court, Pl 4",4,REP,John Devine,1630,30,1176,424
+Grayson,Precinct 307,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,216,6,147,63
+Grayson,Precinct 307,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,1601,30,1167,404
+Grayson,Precinct 307,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,201,6,132,63
+Grayson,Precinct 307,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,40,0,25,15
+Grayson,Precinct 307,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1633,31,1189,413
+Grayson,Precinct 307,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,210,5,138,67
+Grayson,Precinct 307,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,1641,31,1194,416
+Grayson,Precinct 307,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,195,4,129,62
+Grayson,Precinct 307,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,1644,29,1194,421
+Grayson,Precinct 307,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,184,4,126,54
+Grayson,Precinct 307,State Board of Education,12,REP,Pam Little,1625,29,1183,413
+Grayson,Precinct 307,State Board of Education,12,DEM,George King,217,4,145,68
+Grayson,Precinct 307,State Senator,30,REP,Brent Hagenbuch,1619,25,1182,412
+Grayson,Precinct 307,State Senator,30,DEM,Dale Frey,217,6,142,69
+Grayson,Precinct 307,State Representative,62,REP,Shelley Luther,1557,22,1138,397
+Grayson,Precinct 307,State Representative,62,DEM,Tiffany Drake,265,6,179,80
+Grayson,Precinct 307,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",1618,26,1179,413
+Grayson,Precinct 307,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,211,5,142,64
+Grayson,Precinct 307,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,1634,25,1194,415
+Grayson,Precinct 307,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,196,5,129,62
+Grayson,Precinct 307,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,1624,26,1181,417
+Grayson,Precinct 307,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,203,5,136,62
+Grayson,Precinct 307,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,1612,26,1176,410
+Grayson,Precinct 307,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,212,5,141,66
+Grayson,Precinct 307,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,1613,25,1176,412
+Grayson,Precinct 307,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,209,5,138,66
+Grayson,Precinct 307,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,1604,25,1171,408
+Grayson,Precinct 307,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,215,5,142,68
+Grayson,Precinct 307,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,1625,25,1182,418
+Grayson,Precinct 307,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,199,5,134,60
+Grayson,Precinct 307,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,1597,25,1168,404
+Grayson,Precinct 307,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,219,5,148,66
+Grayson,Precinct 307,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,1706,28,1237,441
+Grayson,Precinct 307,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,1677,27,1215,435
+Grayson,Precinct 307,District Attorney,,REP,John Kermit Hill,1604,27,1169,408
+Grayson,Precinct 307,District Attorney,,DEM,Brandy Douglas,226,4,150,72
+Grayson,Precinct 307,Sheriff,,REP,Wm. A. (Tony) Bennie,1705,28,1226,451
+Grayson,Precinct 307,County Tax Assessor-Collector,,REP,Bruce Stidham,1725,28,1244,453
+Grayson,Precinct 307,County Commissioner Precinct 3,3,REP,Lindsay Wright,1690,28,1213,449
+Grayson,Precinct 307,Constable Precinct 3,3,REP,Todd Booher,1665,28,1192,445
+Grayson,Precinct 308,Registered Voters,,,,1547,,,
+Grayson,Precinct 308,Ballots Cast,,,,1142,30,704,408
+Grayson,Precinct 308,President,,REP,Donald J. Trump/JD Vance,971,19,593,359
+Grayson,Precinct 308,President,,DEM,Kamala D. Harris/Tim Walz,166,11,107,48
+Grayson,Precinct 308,President,,LIB,Chase Oliver/Mike ter Maat,3,0,2,1
+Grayson,Precinct 308,President,,GRN,Jill Stein/Rudolph Ware,1,0,1,0
+Grayson,Precinct 308,U.S. Senate,,REP,Ted Cruz,935,19,576,340
+Grayson,Precinct 308,U.S. Senate,,DEM,Colin Allred,179,10,115,54
+Grayson,Precinct 308,U.S. Senate,,LIB,Ted Brown,12,1,5,6
+Grayson,Precinct 308,U.S. House,4,REP,Pat Fallon,965,17,589,359
+Grayson,Precinct 308,U.S. House,4,DEM,Simon Cardell,140,9,99,32
+Grayson,Precinct 308,Railroad Commissioner,,REP,Christi Craddick,939,18,577,344
+Grayson,Precinct 308,Railroad Commissioner,,DEM,Katherine Culbert,132,8,90,34
+Grayson,Precinct 308,Railroad Commissioner,,LIB,Hawk Dunlap,27,1,17,9
+Grayson,Precinct 308,Railroad Commissioner,,GRN,Eddie Espinoza,10,0,5,5
+Grayson,Precinct 308,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,962,21,587,354
+Grayson,Precinct 308,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,144,8,101,35
+Grayson,Precinct 308,"Justice, Supreme Court, Pl 4",4,REP,John Devine,957,19,587,351
+Grayson,Precinct 308,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,147,9,101,37
+Grayson,Precinct 308,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,944,19,577,348
+Grayson,Precinct 308,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,133,9,92,32
+Grayson,Precinct 308,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,26,1,19,6
+Grayson,Precinct 308,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,951,19,582,350
+Grayson,Precinct 308,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,149,9,105,35
+Grayson,Precinct 308,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,951,19,586,346
+Grayson,Precinct 308,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,143,10,96,37
+Grayson,Precinct 308,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,962,21,588,353
+Grayson,Precinct 308,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,137,8,96,33
+Grayson,Precinct 308,State Board of Education,12,REP,Pam Little,939,16,580,343
+Grayson,Precinct 308,State Board of Education,12,DEM,George King,150,9,100,41
+Grayson,Precinct 308,State Senator,30,REP,Brent Hagenbuch,950,20,585,345
+Grayson,Precinct 308,State Senator,30,DEM,Dale Frey,145,9,97,39
+Grayson,Precinct 308,State Representative,62,REP,Shelley Luther,924,12,575,337
+Grayson,Precinct 308,State Representative,62,DEM,Tiffany Drake,166,10,108,48
+Grayson,Precinct 308,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",940,13,582,345
+Grayson,Precinct 308,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,146,10,100,36
+Grayson,Precinct 308,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,947,14,585,348
+Grayson,Precinct 308,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,140,9,98,33
+Grayson,Precinct 308,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,942,13,583,346
+Grayson,Precinct 308,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,142,10,99,33
+Grayson,Precinct 308,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,940,13,583,344
+Grayson,Precinct 308,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,144,10,100,34
+Grayson,Precinct 308,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,936,13,579,344
+Grayson,Precinct 308,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,150,9,105,36
+Grayson,Precinct 308,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,940,14,585,341
+Grayson,Precinct 308,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,145,9,97,39
+Grayson,Precinct 308,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,943,13,586,344
+Grayson,Precinct 308,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,142,10,96,36
+Grayson,Precinct 308,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,941,14,584,343
+Grayson,Precinct 308,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,142,9,96,37
+Grayson,Precinct 308,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,991,14,608,369
+Grayson,Precinct 308,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,980,14,601,365
+Grayson,Precinct 308,District Attorney,,REP,John Kermit Hill,930,13,572,345
+Grayson,Precinct 308,District Attorney,,DEM,Brandy Douglas,157,9,107,41
+Grayson,Precinct 308,Sheriff,,REP,Wm. A. (Tony) Bennie,983,14,602,367
+Grayson,Precinct 308,County Tax Assessor-Collector,,REP,Bruce Stidham,993,15,609,369
+Grayson,Precinct 308,County Commissioner Precinct 3,3,REP,Lindsay Wright,967,14,588,365
+Grayson,Precinct 308,Constable Precinct 3,3,REP,Todd Booher,955,14,581,360
+Grayson,Precinct 309,Registered Voters,,,,984,,,
+Grayson,Precinct 309,Ballots Cast,,,,637,13,443,181
+Grayson,Precinct 309,President,,REP,Donald J. Trump/JD Vance,525,12,367,146
+Grayson,Precinct 309,President,,DEM,Kamala D. Harris/Tim Walz,102,1,70,31
+Grayson,Precinct 309,President,,LIB,Chase Oliver/Mike ter Maat,4,0,2,2
+Grayson,Precinct 309,President,,GRN,Jill Stein/Rudolph Ware,4,0,3,1
+Grayson,Precinct 309,U.S. Senate,,REP,Ted Cruz,512,11,365,136
+Grayson,Precinct 309,U.S. Senate,,DEM,Colin Allred,111,2,75,34
+Grayson,Precinct 309,U.S. Senate,,LIB,Ted Brown,8,0,3,5
+Grayson,Precinct 309,U.S. House,4,REP,Pat Fallon,527,5,375,147
+Grayson,Precinct 309,U.S. House,4,DEM,Simon Cardell,87,0,61,26
+Grayson,Precinct 309,Railroad Commissioner,,REP,Christi Craddick,507,12,360,135
+Grayson,Precinct 309,Railroad Commissioner,,DEM,Katherine Culbert,80,1,52,27
+Grayson,Precinct 309,Railroad Commissioner,,LIB,Hawk Dunlap,19,0,13,6
+Grayson,Precinct 309,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,7,4
+Grayson,Precinct 309,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,524,12,369,143
+Grayson,Precinct 309,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,92,1,63,28
+Grayson,Precinct 309,"Justice, Supreme Court, Pl 4",4,REP,John Devine,520,12,366,142
+Grayson,Precinct 309,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,94,1,64,29
+Grayson,Precinct 309,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,515,12,366,137
+Grayson,Precinct 309,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,85,1,59,25
+Grayson,Precinct 309,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,15,0,7,8
+Grayson,Precinct 309,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,521,11,373,137
+Grayson,Precinct 309,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,94,1,62,31
+Grayson,Precinct 309,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,527,12,372,143
+Grayson,Precinct 309,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,87,1,60,26
+Grayson,Precinct 309,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,518,12,367,139
+Grayson,Precinct 309,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,92,1,62,29
+Grayson,Precinct 309,State Board of Education,12,REP,Pam Little,513,8,369,136
+Grayson,Precinct 309,State Board of Education,12,DEM,George King,100,1,64,35
+Grayson,Precinct 309,State Senator,30,REP,Brent Hagenbuch,514,5,368,141
+Grayson,Precinct 309,State Senator,30,DEM,Dale Frey,93,0,65,28
+Grayson,Precinct 309,State Representative,62,REP,Shelley Luther,490,3,351,136
+Grayson,Precinct 309,State Representative,62,DEM,Tiffany Drake,111,1,77,33
+Grayson,Precinct 309,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",514,7,369,138
+Grayson,Precinct 309,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,93,1,62,30
+Grayson,Precinct 309,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,518,7,369,142
+Grayson,Precinct 309,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,88,1,61,26
+Grayson,Precinct 309,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,514,7,366,141
+Grayson,Precinct 309,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,87,1,58,28
+Grayson,Precinct 309,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,511,7,363,141
+Grayson,Precinct 309,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,92,1,62,29
+Grayson,Precinct 309,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,510,7,365,138
+Grayson,Precinct 309,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,93,1,61,31
+Grayson,Precinct 309,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,507,8,363,136
+Grayson,Precinct 309,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,97,0,63,34
+Grayson,Precinct 309,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,510,7,367,136
+Grayson,Precinct 309,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,92,1,59,32
+Grayson,Precinct 309,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,505,6,361,138
+Grayson,Precinct 309,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,96,1,65,30
+Grayson,Precinct 309,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,545,4,387,154
+Grayson,Precinct 309,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,540,4,384,152
+Grayson,Precinct 309,District Attorney,,REP,John Kermit Hill,497,3,357,137
+Grayson,Precinct 309,District Attorney,,DEM,Brandy Douglas,105,1,69,35
+Grayson,Precinct 309,Sheriff,,REP,Wm. A. (Tony) Bennie,537,4,378,155
+Grayson,Precinct 309,County Tax Assessor-Collector,,REP,Bruce Stidham,541,4,387,150
+Grayson,Precinct 309,County Commissioner Precinct 3,3,REP,Lindsay Wright,527,4,377,146
+Grayson,Precinct 309,Constable Precinct 3,3,REP,Todd Booher,523,4,373,146
+Grayson,Precinct 310,Registered Voters,,,,256,,,
+Grayson,Precinct 310,Ballots Cast,,,,179,7,146,26
+Grayson,Precinct 310,President,,REP,Donald J. Trump/JD Vance,139,4,114,21
+Grayson,Precinct 310,President,,DEM,Kamala D. Harris/Tim Walz,36,3,29,4
+Grayson,Precinct 310,President,,LIB,Chase Oliver/Mike ter Maat,3,0,2,1
+Grayson,Precinct 310,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Grayson,Precinct 310,U.S. Senate,,REP,Ted Cruz,137,4,113,20
+Grayson,Precinct 310,U.S. Senate,,DEM,Colin Allred,40,3,32,5
+Grayson,Precinct 310,U.S. Senate,,LIB,Ted Brown,2,0,1,1
+Grayson,Precinct 310,U.S. House,4,REP,Pat Fallon,145,4,120,21
+Grayson,Precinct 310,U.S. House,4,DEM,Simon Cardell,30,3,23,4
+Grayson,Precinct 310,Railroad Commissioner,,REP,Christi Craddick,139,4,113,22
+Grayson,Precinct 310,Railroad Commissioner,,DEM,Katherine Culbert,32,3,25,4
+Grayson,Precinct 310,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,1,0
+Grayson,Precinct 310,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Grayson,Precinct 310,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,142,4,117,21
+Grayson,Precinct 310,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,31,2,25,4
+Grayson,Precinct 310,"Justice, Supreme Court, Pl 4",4,REP,John Devine,141,4,116,21
+Grayson,Precinct 310,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,33,3,26,4
+Grayson,Precinct 310,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,141,4,116,21
+Grayson,Precinct 310,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,31,3,24,4
+Grayson,Precinct 310,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,3,0,2,1
+Grayson,Precinct 310,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,139,4,114,21
+Grayson,Precinct 310,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,33,3,26,4
+Grayson,Precinct 310,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,140,3,116,21
+Grayson,Precinct 310,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,31,3,24,4
+Grayson,Precinct 310,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,140,4,115,21
+Grayson,Precinct 310,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,32,3,25,4
+Grayson,Precinct 310,State Board of Education,12,REP,Pam Little,143,4,118,21
+Grayson,Precinct 310,State Board of Education,12,DEM,George King,31,3,24,4
+Grayson,Precinct 310,State Senator,30,REP,Brent Hagenbuch,140,4,116,20
+Grayson,Precinct 310,State Senator,30,DEM,Dale Frey,32,3,25,4
+Grayson,Precinct 310,State Representative,62,REP,Shelley Luther,128,4,105,19
+Grayson,Precinct 310,State Representative,62,DEM,Tiffany Drake,46,3,36,7
+Grayson,Precinct 310,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",140,4,114,22
+Grayson,Precinct 310,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,32,3,25,4
+Grayson,Precinct 310,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,138,4,114,20
+Grayson,Precinct 310,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,32,3,24,5
+Grayson,Precinct 310,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,138,4,114,20
+Grayson,Precinct 310,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,31,3,24,4
+Grayson,Precinct 310,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,136,4,112,20
+Grayson,Precinct 310,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,33,3,26,4
+Grayson,Precinct 310,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,137,4,113,20
+Grayson,Precinct 310,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,31,3,24,4
+Grayson,Precinct 310,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,136,4,112,20
+Grayson,Precinct 310,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,33,3,26,4
+Grayson,Precinct 310,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,137,4,113,20
+Grayson,Precinct 310,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,32,3,25,4
+Grayson,Precinct 310,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,137,4,113,20
+Grayson,Precinct 310,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,32,3,25,4
+Grayson,Precinct 310,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,146,4,121,21
+Grayson,Precinct 310,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,143,4,119,20
+Grayson,Precinct 310,District Attorney,,REP,John Kermit Hill,135,4,109,22
+Grayson,Precinct 310,District Attorney,,DEM,Brandy Douglas,40,3,33,4
+Grayson,Precinct 310,Sheriff,,REP,Wm. A. (Tony) Bennie,148,4,124,20
+Grayson,Precinct 310,County Tax Assessor-Collector,,REP,Bruce Stidham,148,4,123,21
+Grayson,Precinct 310,County Commissioner Precinct 3,3,REP,Lindsay Wright,143,4,118,21
+Grayson,Precinct 310,Justice of the Peace Precinct 1,1,REP,Ginny Hampton,144,4,119,21
+Grayson,Precinct 310,Constable Precinct 1,1,REP,Thomas Carter,142,4,120,18
+Grayson,Precinct 401,Registered Voters,,,,1828,,,
+Grayson,Precinct 401,Ballots Cast,,,,968,54,742,172
+Grayson,Precinct 401,President,,REP,Donald J. Trump/JD Vance,533,20,409,104
+Grayson,Precinct 401,President,,DEM,Kamala D. Harris/Tim Walz,412,31,318,63
+Grayson,Precinct 401,President,,LIB,Chase Oliver/Mike ter Maat,7,0,5,2
+Grayson,Precinct 401,President,,GRN,Jill Stein/Rudolph Ware,10,2,7,1
+Grayson,Precinct 401,U.S. Senate,,REP,Ted Cruz,511,25,392,94
+Grayson,Precinct 401,U.S. Senate,,DEM,Colin Allred,407,25,320,62
+Grayson,Precinct 401,U.S. Senate,,LIB,Ted Brown,28,0,20,8
+Grayson,Precinct 401,U.S. House,4,REP,Pat Fallon,534,22,410,102
+Grayson,Precinct 401,U.S. House,4,DEM,Simon Cardell,380,21,300,59
+Grayson,Precinct 401,Railroad Commissioner,,REP,Christi Craddick,509,21,389,99
+Grayson,Precinct 401,Railroad Commissioner,,DEM,Katherine Culbert,360,19,290,51
+Grayson,Precinct 401,Railroad Commissioner,,LIB,Hawk Dunlap,31,2,24,5
+Grayson,Precinct 401,Railroad Commissioner,,GRN,Eddie Espinoza,12,1,8,3
+Grayson,Precinct 401,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,531,19,413,99
+Grayson,Precinct 401,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,382,22,300,60
+Grayson,Precinct 401,"Justice, Supreme Court, Pl 4",4,REP,John Devine,530,18,410,102
+Grayson,Precinct 401,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,382,22,304,56
+Grayson,Precinct 401,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,511,19,391,101
+Grayson,Precinct 401,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,365,19,289,57
+Grayson,Precinct 401,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,31,0,29,2
+Grayson,Precinct 401,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,523,20,400,103
+Grayson,Precinct 401,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,385,18,308,59
+Grayson,Precinct 401,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,520,21,396,103
+Grayson,Precinct 401,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,379,18,305,56
+Grayson,Precinct 401,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,528,19,404,105
+Grayson,Precinct 401,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,370,18,299,53
+Grayson,Precinct 401,State Board of Education,12,REP,Pam Little,523,20,402,101
+Grayson,Precinct 401,State Board of Education,12,DEM,George King,379,16,305,58
+Grayson,Precinct 401,State Senator,30,REP,Brent Hagenbuch,517,16,400,101
+Grayson,Precinct 401,State Senator,30,DEM,Dale Frey,381,18,308,55
+Grayson,Precinct 401,State Representative,62,REP,Shelley Luther,514,19,394,101
+Grayson,Precinct 401,State Representative,62,DEM,Tiffany Drake,388,17,313,58
+Grayson,Precinct 401,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",517,18,399,100
+Grayson,Precinct 401,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,382,16,311,55
+Grayson,Precinct 401,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,521,17,400,104
+Grayson,Precinct 401,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,374,17,304,53
+Grayson,Precinct 401,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,522,19,403,100
+Grayson,Precinct 401,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,370,15,299,56
+Grayson,Precinct 401,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,511,15,398,98
+Grayson,Precinct 401,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,377,18,301,58
+Grayson,Precinct 401,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,513,17,399,97
+Grayson,Precinct 401,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,374,16,300,58
+Grayson,Precinct 401,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,510,17,393,100
+Grayson,Precinct 401,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,377,16,308,53
+Grayson,Precinct 401,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,526,19,402,105
+Grayson,Precinct 401,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,360,14,296,50
+Grayson,Precinct 401,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,511,17,396,98
+Grayson,Precinct 401,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,377,17,303,57
+Grayson,Precinct 401,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,614,26,472,116
+Grayson,Precinct 401,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,616,25,472,119
+Grayson,Precinct 401,District Attorney,,REP,John Kermit Hill,493,20,380,93
+Grayson,Precinct 401,District Attorney,,DEM,Brandy Douglas,416,21,330,65
+Grayson,Precinct 401,Sheriff,,REP,Wm. A. (Tony) Bennie,630,31,482,117
+Grayson,Precinct 401,County Tax Assessor-Collector,,REP,Bruce Stidham,655,33,501,121
+Grayson,Precinct 401,Constable Precinct 2,2,REP,Cody Putman,619,30,468,121
+Grayson,Precinct 402,Registered Voters,,,,3020,,,
+Grayson,Precinct 402,Ballots Cast,,,,1831,76,1375,380
+Grayson,Precinct 402,President,,REP,Donald J. Trump/JD Vance,1264,53,955,256
+Grayson,Precinct 402,President,,DEM,Kamala D. Harris/Tim Walz,532,23,394,115
+Grayson,Precinct 402,President,,LIB,Chase Oliver/Mike ter Maat,12,0,8,4
+Grayson,Precinct 402,President,,GRN,Jill Stein/Rudolph Ware,8,0,6,2
+Grayson,Precinct 402,U.S. Senate,,REP,Ted Cruz,1192,53,912,227
+Grayson,Precinct 402,U.S. Senate,,DEM,Colin Allred,568,22,421,125
+Grayson,Precinct 402,U.S. Senate,,LIB,Ted Brown,45,1,27,17
+Grayson,Precinct 402,U.S. House,4,REP,Pat Fallon,1268,50,970,248
+Grayson,Precinct 402,U.S. House,4,DEM,Simon Cardell,497,19,372,106
+Grayson,Precinct 402,Railroad Commissioner,,REP,Christi Craddick,1216,55,927,234
+Grayson,Precinct 402,Railroad Commissioner,,DEM,Katherine Culbert,484,19,365,100
+Grayson,Precinct 402,Railroad Commissioner,,LIB,Hawk Dunlap,48,0,30,18
+Grayson,Precinct 402,Railroad Commissioner,,GRN,Eddie Espinoza,22,1,14,7
+Grayson,Precinct 402,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,1257,53,955,249
+Grayson,Precinct 402,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,509,22,378,109
+Grayson,Precinct 402,"Justice, Supreme Court, Pl 4",4,REP,John Devine,1238,53,942,243
+Grayson,Precinct 402,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,518,22,386,110
+Grayson,Precinct 402,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,1207,53,918,236
+Grayson,Precinct 402,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,488,20,362,106
+Grayson,Precinct 402,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,46,2,29,15
+Grayson,Precinct 402,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1232,50,937,245
+Grayson,Precinct 402,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,512,24,377,111
+Grayson,Precinct 402,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,1239,51,941,247
+Grayson,Precinct 402,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,503,23,372,108
+Grayson,Precinct 402,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,1255,54,952,249
+Grayson,Precinct 402,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,485,21,359,105
+Grayson,Precinct 402,State Board of Education,12,REP,Pam Little,1247,54,944,249
+Grayson,Precinct 402,State Board of Education,12,DEM,George King,494,18,371,105
+Grayson,Precinct 402,State Senator,30,REP,Brent Hagenbuch,1223,50,925,248
+Grayson,Precinct 402,State Senator,30,DEM,Dale Frey,513,20,388,105
+Grayson,Precinct 402,State Representative,62,REP,Shelley Luther,1185,43,896,246
+Grayson,Precinct 402,State Representative,62,DEM,Tiffany Drake,559,25,422,112
+Grayson,Precinct 402,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",1220,47,929,244
+Grayson,Precinct 402,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,513,22,379,112
+Grayson,Precinct 402,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,1235,48,938,249
+Grayson,Precinct 402,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,492,21,367,104
+Grayson,Precinct 402,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,1230,47,941,242
+Grayson,Precinct 402,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,497,22,367,108
+Grayson,Precinct 402,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,1223,46,933,244
+Grayson,Precinct 402,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,509,23,378,108
+Grayson,Precinct 402,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,1214,47,929,238
+Grayson,Precinct 402,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,509,22,374,113
+Grayson,Precinct 402,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,1218,46,931,241
+Grayson,Precinct 402,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,505,22,374,109
+Grayson,Precinct 402,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,1236,49,940,247
+Grayson,Precinct 402,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,491,20,368,103
+Grayson,Precinct 402,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,1220,48,931,241
+Grayson,Precinct 402,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,500,19,374,107
+Grayson,Precinct 402,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,1419,52,1070,297
+Grayson,Precinct 402,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,1397,51,1054,292
+Grayson,Precinct 402,District Attorney,,REP,John Kermit Hill,1169,48,890,231
+Grayson,Precinct 402,District Attorney,,DEM,Brandy Douglas,579,20,430,129
+Grayson,Precinct 402,Sheriff,,REP,Wm. A. (Tony) Bennie,1409,52,1067,290
+Grayson,Precinct 402,County Tax Assessor-Collector,,REP,Bruce Stidham,1454,57,1094,303
+Grayson,Precinct 402,Constable Precinct 2,2,REP,Cody Putman,1366,52,1018,296
+Grayson,Precinct 403,Registered Voters,,,,4237,,,
+Grayson,Precinct 403,Ballots Cast,,,,3017,131,2495,391
+Grayson,Precinct 403,President,,REP,Donald J. Trump/JD Vance,2410,84,2006,320
+Grayson,Precinct 403,President,,DEM,Kamala D. Harris/Tim Walz,571,46,462,63
+Grayson,Precinct 403,President,,LIB,Chase Oliver/Mike ter Maat,15,1,10,4
+Grayson,Precinct 403,President,,GRN,Jill Stein/Rudolph Ware,4,0,2,2
+Grayson,Precinct 403,U.S. Senate,,REP,Ted Cruz,2351,86,1960,305
+Grayson,Precinct 403,U.S. Senate,,DEM,Colin Allred,586,44,477,65
+Grayson,Precinct 403,U.S. Senate,,LIB,Ted Brown,37,0,22,15
+Grayson,Precinct 403,U.S. House,4,REP,Pat Fallon,2414,84,2015,315
+Grayson,Precinct 403,U.S. House,4,DEM,Simon Cardell,517,35,423,59
+Grayson,Precinct 403,Railroad Commissioner,,REP,Christi Craddick,2333,86,1949,298
+Grayson,Precinct 403,Railroad Commissioner,,DEM,Katherine Culbert,485,40,392,53
+Grayson,Precinct 403,Railroad Commissioner,,LIB,Hawk Dunlap,64,0,53,11
+Grayson,Precinct 403,Railroad Commissioner,,GRN,Eddie Espinoza,12,0,7,5
+Grayson,Precinct 403,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,2392,85,1995,312
+Grayson,Precinct 403,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,502,40,402,60
+Grayson,Precinct 403,"Justice, Supreme Court, Pl 4",4,REP,John Devine,2363,84,1972,307
+Grayson,Precinct 403,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,522,41,418,63
+Grayson,Precinct 403,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,2313,85,1935,293
+Grayson,Precinct 403,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,503,40,410,53
+Grayson,Precinct 403,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,57,0,41,16
+Grayson,Precinct 403,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,2345,83,1961,301
+Grayson,Precinct 403,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,525,39,424,62
+Grayson,Precinct 403,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,2358,84,1969,305
+Grayson,Precinct 403,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,507,40,408,59
+Grayson,Precinct 403,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,2370,85,1980,305
+Grayson,Precinct 403,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,486,39,393,54
+Grayson,Precinct 403,State Board of Education,12,REP,Pam Little,2369,83,1972,314
+Grayson,Precinct 403,State Board of Education,12,DEM,George King,497,36,408,53
+Grayson,Precinct 403,State Senator,30,REP,Brent Hagenbuch,2343,80,1959,304
+Grayson,Precinct 403,State Senator,30,DEM,Dale Frey,515,35,418,62
+Grayson,Precinct 403,State Representative,62,REP,Shelley Luther,2276,71,1904,301
+Grayson,Precinct 403,State Representative,62,DEM,Tiffany Drake,580,37,476,67
+Grayson,Precinct 403,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",2340,86,1958,296
+Grayson,Precinct 403,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,511,34,411,66
+Grayson,Precinct 403,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,2367,84,1972,311
+Grayson,Precinct 403,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,489,36,400,53
+Grayson,Precinct 403,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,2346,84,1959,303
+Grayson,Precinct 403,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,499,36,404,59
+Grayson,Precinct 403,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,2330,86,1940,304
+Grayson,Precinct 403,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,509,34,418,57
+Grayson,Precinct 403,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,2338,85,1951,302
+Grayson,Precinct 403,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,501,35,405,61
+Grayson,Precinct 403,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,2329,83,1948,298
+Grayson,Precinct 403,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,515,37,414,64
+Grayson,Precinct 403,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,2351,84,1960,307
+Grayson,Precinct 403,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,494,35,402,57
+Grayson,Precinct 403,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,2340,84,1955,301
+Grayson,Precinct 403,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,502,36,405,61
+Grayson,Precinct 403,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,2495,90,2077,328
+Grayson,Precinct 403,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,2453,88,2047,318
+Grayson,Precinct 403,District Attorney,,REP,John Kermit Hill,2266,78,1895,293
+Grayson,Precinct 403,District Attorney,,DEM,Brandy Douglas,601,35,489,77
+Grayson,Precinct 403,Sheriff,,REP,Wm. A. (Tony) Bennie,2495,90,2078,327
+Grayson,Precinct 403,County Tax Assessor-Collector,,REP,Bruce Stidham,2571,91,2142,338
+Grayson,Precinct 403,Constable Precinct 2,2,REP,Cody Putman,2336,86,1930,320
+Grayson,Precinct 404,Registered Voters,,,,4770,,,
+Grayson,Precinct 404,Ballots Cast,,,,3478,91,2949,438
+Grayson,Precinct 404,President,,REP,Donald J. Trump/JD Vance,2883,58,2474,351
+Grayson,Precinct 404,President,,DEM,Kamala D. Harris/Tim Walz,554,29,442,83
+Grayson,Precinct 404,President,,LIB,Chase Oliver/Mike ter Maat,15,1,11,3
+Grayson,Precinct 404,President,,GRN,Jill Stein/Rudolph Ware,4,0,3,1
+Grayson,Precinct 404,U.S. Senate,,REP,Ted Cruz,2799,55,2418,326
+Grayson,Precinct 404,U.S. Senate,,DEM,Colin Allred,576,29,451,96
+Grayson,Precinct 404,U.S. Senate,,LIB,Ted Brown,54,4,41,9
+Grayson,Precinct 404,U.S. House,4,REP,Pat Fallon,2904,54,2499,351
+Grayson,Precinct 404,U.S. House,4,DEM,Simon Cardell,475,25,380,70
+Grayson,Precinct 404,Railroad Commissioner,,REP,Christi Craddick,2797,57,2408,332
+Grayson,Precinct 404,Railroad Commissioner,,DEM,Katherine Culbert,464,27,367,70
+Grayson,Precinct 404,Railroad Commissioner,,LIB,Hawk Dunlap,66,0,55,11
+Grayson,Precinct 404,Railroad Commissioner,,GRN,Eddie Espinoza,17,1,13,3
+Grayson,Precinct 404,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,2867,57,2464,346
+Grayson,Precinct 404,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,476,27,379,70
+Grayson,Precinct 404,"Justice, Supreme Court, Pl 4",4,REP,John Devine,2835,56,2437,342
+Grayson,Precinct 404,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,506,28,403,75
+Grayson,Precinct 404,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,2787,57,2397,333
+Grayson,Precinct 404,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,472,24,381,67
+Grayson,Precinct 404,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,65,3,50,12
+Grayson,Precinct 404,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,2814,54,2426,334
+Grayson,Precinct 404,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,503,29,397,77
+Grayson,Precinct 404,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,2815,55,2423,337
+Grayson,Precinct 404,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,491,28,391,72
+Grayson,Precinct 404,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,2838,56,2442,340
+Grayson,Precinct 404,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,469,28,371,70
+Grayson,Precinct 404,State Board of Education,12,REP,Pam Little,2833,53,2443,337
+Grayson,Precinct 404,State Board of Education,12,DEM,George King,490,27,388,75
+Grayson,Precinct 404,State Senator,30,REP,Brent Hagenbuch,2809,54,2418,337
+Grayson,Precinct 404,State Senator,30,DEM,Dale Frey,496,23,400,73
+Grayson,Precinct 404,State Representative,62,REP,Shelley Luther,2700,46,2335,319
+Grayson,Precinct 404,State Representative,62,DEM,Tiffany Drake,595,27,482,86
+Grayson,Precinct 404,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",2785,55,2403,327
+Grayson,Precinct 404,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,515,25,409,81
+Grayson,Precinct 404,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,2822,54,2435,333
+Grayson,Precinct 404,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,469,25,370,74
+Grayson,Precinct 404,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,2813,52,2424,337
+Grayson,Precinct 404,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,473,27,375,71
+Grayson,Precinct 404,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,2796,56,2405,335
+Grayson,Precinct 404,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,489,24,393,72
+Grayson,Precinct 404,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,2796,54,2411,331
+Grayson,Precinct 404,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,488,25,389,74
+Grayson,Precinct 404,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,2779,54,2392,333
+Grayson,Precinct 404,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,505,25,408,72
+Grayson,Precinct 404,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,2814,54,2426,334
+Grayson,Precinct 404,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,475,26,376,73
+Grayson,Precinct 404,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,2789,55,2403,331
+Grayson,Precinct 404,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,485,24,385,76
+Grayson,Precinct 404,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,2998,55,2569,374
+Grayson,Precinct 404,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,2949,56,2529,364
+Grayson,Precinct 404,District Attorney,,REP,John Kermit Hill,2652,50,2295,307
+Grayson,Precinct 404,District Attorney,,DEM,Brandy Douglas,660,23,535,102
+Grayson,Precinct 404,Sheriff,,REP,Wm. A. (Tony) Bennie,2969,55,2547,367
+Grayson,Precinct 404,County Tax Assessor-Collector,,REP,Bruce Stidham,3034,58,2610,366
+Grayson,Precinct 404,Constable Precinct 2,2,REP,Cody Putman,2813,55,2399,359
+Grayson,Precinct 405,Registered Voters,,,,769,,,
+Grayson,Precinct 405,Ballots Cast,,,,451,38,322,91
+Grayson,Precinct 405,President,,REP,Donald J. Trump/JD Vance,284,20,209,55
+Grayson,Precinct 405,President,,DEM,Kamala D. Harris/Tim Walz,160,18,108,34
+Grayson,Precinct 405,President,,LIB,Chase Oliver/Mike ter Maat,2,0,2,0
+Grayson,Precinct 405,President,,GRN,Jill Stein/Rudolph Ware,1,0,0,1
+Grayson,Precinct 405,U.S. Senate,,REP,Ted Cruz,273,18,202,53
+Grayson,Precinct 405,U.S. Senate,,DEM,Colin Allred,157,15,108,34
+Grayson,Precinct 405,U.S. Senate,,LIB,Ted Brown,9,0,7,2
+Grayson,Precinct 405,U.S. House,4,REP,Pat Fallon,289,15,214,60
+Grayson,Precinct 405,U.S. House,4,DEM,Simon Cardell,137,15,94,28
+Grayson,Precinct 405,Railroad Commissioner,,REP,Christi Craddick,273,18,202,53
+Grayson,Precinct 405,Railroad Commissioner,,DEM,Katherine Culbert,140,12,98,30
+Grayson,Precinct 405,Railroad Commissioner,,LIB,Hawk Dunlap,11,1,7,3
+Grayson,Precinct 405,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,4,1
+Grayson,Precinct 405,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,286,18,213,55
+Grayson,Precinct 405,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,146,15,100,31
+Grayson,Precinct 405,"Justice, Supreme Court, Pl 4",4,REP,John Devine,277,18,205,54
+Grayson,Precinct 405,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,148,14,102,32
+Grayson,Precinct 405,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,281,19,207,55
+Grayson,Precinct 405,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,141,12,99,30
+Grayson,Precinct 405,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,10,1,7,2
+Grayson,Precinct 405,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,282,17,210,55
+Grayson,Precinct 405,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,149,15,102,32
+Grayson,Precinct 405,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,282,17,211,54
+Grayson,Precinct 405,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,143,13,98,32
+Grayson,Precinct 405,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,289,18,214,57
+Grayson,Precinct 405,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,139,13,97,29
+Grayson,Precinct 405,State Board of Education,12,REP,Pam Little,293,17,219,57
+Grayson,Precinct 405,State Board of Education,12,DEM,George King,135,12,93,30
+Grayson,Precinct 405,State Senator,30,REP,Brent Hagenbuch,280,15,209,56
+Grayson,Precinct 405,State Senator,30,DEM,Dale Frey,146,14,102,30
+Grayson,Precinct 405,State Representative,62,REP,Shelley Luther,270,15,201,54
+Grayson,Precinct 405,State Representative,62,DEM,Tiffany Drake,153,12,109,32
+Grayson,Precinct 405,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",281,16,210,55
+Grayson,Precinct 405,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,148,15,102,31
+Grayson,Precinct 405,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,285,19,213,53
+Grayson,Precinct 405,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,139,11,97,31
+Grayson,Precinct 405,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,280,17,212,51
+Grayson,Precinct 405,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,143,14,95,34
+Grayson,Precinct 405,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,273,16,205,52
+Grayson,Precinct 405,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,148,13,102,33
+Grayson,Precinct 405,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,273,14,208,51
+Grayson,Precinct 405,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,147,16,98,33
+Grayson,Precinct 405,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,273,17,204,52
+Grayson,Precinct 405,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,148,14,102,32
+Grayson,Precinct 405,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,287,18,216,53
+Grayson,Precinct 405,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,137,13,92,32
+Grayson,Precinct 405,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,281,17,211,53
+Grayson,Precinct 405,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,140,13,96,31
+Grayson,Precinct 405,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,325,19,241,65
+Grayson,Precinct 405,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,322,19,238,65
+Grayson,Precinct 405,District Attorney,,REP,John Kermit Hill,258,14,191,53
+Grayson,Precinct 405,District Attorney,,DEM,Brandy Douglas,166,13,121,32
+Grayson,Precinct 405,Sheriff,,REP,Wm. A. (Tony) Bennie,324,20,240,64
+Grayson,Precinct 405,County Tax Assessor-Collector,,REP,Bruce Stidham,332,19,243,70
+Grayson,Precinct 405,Constable Precinct 2,2,REP,Cody Putman,315,20,229,66
+Grayson,Precinct 406,Registered Voters,,,,3636,,,
+Grayson,Precinct 406,Ballots Cast,,,,2547,57,1970,520
+Grayson,Precinct 406,President,,REP,Donald J. Trump/JD Vance,2161,27,1685,449
+Grayson,Precinct 406,President,,DEM,Kamala D. Harris/Tim Walz,360,29,269,62
+Grayson,Precinct 406,President,,LIB,Chase Oliver/Mike ter Maat,8,0,4,4
+Grayson,Precinct 406,President,,GRN,Jill Stein/Rudolph Ware,8,0,6,2
+Grayson,Precinct 406,U.S. Senate,,REP,Ted Cruz,2112,26,1657,429
+Grayson,Precinct 406,U.S. Senate,,DEM,Colin Allred,370,29,272,69
+Grayson,Precinct 406,U.S. Senate,,LIB,Ted Brown,40,2,24,14
+Grayson,Precinct 406,U.S. House,4,REP,Pat Fallon,2188,25,1716,447
+Grayson,Precinct 406,U.S. House,4,DEM,Simon Cardell,300,23,223,54
+Grayson,Precinct 406,Railroad Commissioner,,REP,Christi Craddick,2104,31,1652,421
+Grayson,Precinct 406,Railroad Commissioner,,DEM,Katherine Culbert,286,23,214,49
+Grayson,Precinct 406,Railroad Commissioner,,LIB,Hawk Dunlap,64,2,41,21
+Grayson,Precinct 406,Railroad Commissioner,,GRN,Eddie Espinoza,18,0,10,8
+Grayson,Precinct 406,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,2171,30,1694,447
+Grayson,Precinct 406,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,302,25,225,52
+Grayson,Precinct 406,"Justice, Supreme Court, Pl 4",4,REP,John Devine,2144,30,1676,438
+Grayson,Precinct 406,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,328,25,241,62
+Grayson,Precinct 406,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,2106,30,1650,426
+Grayson,Precinct 406,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,294,23,218,53
+Grayson,Precinct 406,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,60,2,38,20
+Grayson,Precinct 406,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,2131,32,1662,437
+Grayson,Precinct 406,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,322,23,239,60
+Grayson,Precinct 406,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,2134,29,1667,438
+Grayson,Precinct 406,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,316,24,233,59
+Grayson,Precinct 406,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,2149,32,1678,439
+Grayson,Precinct 406,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,301,23,223,55
+Grayson,Precinct 406,State Board of Education,12,REP,Pam Little,2126,28,1663,435
+Grayson,Precinct 406,State Board of Education,12,DEM,George King,319,24,232,63
+Grayson,Precinct 406,State Senator,30,REP,Brent Hagenbuch,2125,27,1663,435
+Grayson,Precinct 406,State Senator,30,DEM,Dale Frey,318,22,238,58
+Grayson,Precinct 406,State Representative,62,REP,Shelley Luther,2099,26,1643,430
+Grayson,Precinct 406,State Representative,62,DEM,Tiffany Drake,359,23,270,66
+Grayson,Precinct 406,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",2120,24,1662,434
+Grayson,Precinct 406,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,323,24,236,63
+Grayson,Precinct 406,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,2144,25,1680,439
+Grayson,Precinct 406,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,296,21,217,58
+Grayson,Precinct 406,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,2126,24,1670,432
+Grayson,Precinct 406,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,309,22,226,61
+Grayson,Precinct 406,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,2121,25,1660,436
+Grayson,Precinct 406,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,316,22,237,57
+Grayson,Precinct 406,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,2109,24,1655,430
+Grayson,Precinct 406,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,321,22,237,62
+Grayson,Precinct 406,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,2116,25,1660,431
+Grayson,Precinct 406,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,319,22,235,62
+Grayson,Precinct 406,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,2130,26,1672,432
+Grayson,Precinct 406,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,306,21,223,62
+Grayson,Precinct 406,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,2116,23,1662,431
+Grayson,Precinct 406,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,311,23,229,59
+Grayson,Precinct 406,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,2223,27,1739,457
+Grayson,Precinct 406,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,2192,27,1716,449
+Grayson,Precinct 406,District Attorney,,REP,John Kermit Hill,2114,26,1659,429
+Grayson,Precinct 406,District Attorney,,DEM,Brandy Douglas,332,22,246,64
+Grayson,Precinct 406,Sheriff,,REP,Wm. A. (Tony) Bennie,2226,28,1745,453
+Grayson,Precinct 406,County Tax Assessor-Collector,,REP,Bruce Stidham,2277,30,1781,466
+Grayson,Precinct 406,Constable Precinct 3,3,REP,Todd Booher,2119,28,1654,437
+Grayson,Precinct 407,Registered Voters,,,,302,,,
+Grayson,Precinct 407,Ballots Cast,,,,111,7,69,35
+Grayson,Precinct 407,President,,REP,Donald J. Trump/JD Vance,55,2,33,20
+Grayson,Precinct 407,President,,DEM,Kamala D. Harris/Tim Walz,53,4,35,14
+Grayson,Precinct 407,President,,LIB,Chase Oliver/Mike ter Maat,1,0,1,0
+Grayson,Precinct 407,President,,GRN,Jill Stein/Rudolph Ware,0,0,0,0
+Grayson,Precinct 407,U.S. Senate,,REP,Ted Cruz,50,2,30,18
+Grayson,Precinct 407,U.S. Senate,,DEM,Colin Allred,57,4,38,15
+Grayson,Precinct 407,U.S. Senate,,LIB,Ted Brown,1,0,1,0
+Grayson,Precinct 407,U.S. House,4,REP,Pat Fallon,55,2,34,19
+Grayson,Precinct 407,U.S. House,4,DEM,Simon Cardell,52,4,35,13
+Grayson,Precinct 407,Railroad Commissioner,,REP,Christi Craddick,52,2,33,17
+Grayson,Precinct 407,Railroad Commissioner,,DEM,Katherine Culbert,44,3,31,10
+Grayson,Precinct 407,Railroad Commissioner,,LIB,Hawk Dunlap,7,1,4,2
+Grayson,Precinct 407,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,1,2
+Grayson,Precinct 407,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,50,2,33,15
+Grayson,Precinct 407,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,55,4,35,16
+Grayson,Precinct 407,"Justice, Supreme Court, Pl 4",4,REP,John Devine,51,2,32,17
+Grayson,Precinct 407,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,54,4,36,14
+Grayson,Precinct 407,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,48,2,30,16
+Grayson,Precinct 407,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,50,4,34,12
+Grayson,Precinct 407,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,5,0,2,3
+Grayson,Precinct 407,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,48,2,32,14
+Grayson,Precinct 407,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,56,4,35,17
+Grayson,Precinct 407,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,53,2,32,19
+Grayson,Precinct 407,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,51,3,35,13
+Grayson,Precinct 407,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,53,3,33,17
+Grayson,Precinct 407,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,51,3,34,14
+Grayson,Precinct 407,State Board of Education,12,REP,Pam Little,54,3,34,17
+Grayson,Precinct 407,State Board of Education,12,DEM,George King,50,3,33,14
+Grayson,Precinct 407,State Senator,30,REP,Brent Hagenbuch,51,2,33,16
+Grayson,Precinct 407,State Senator,30,DEM,Dale Frey,53,3,35,15
+Grayson,Precinct 407,State Representative,62,REP,Shelley Luther,49,2,31,16
+Grayson,Precinct 407,State Representative,62,DEM,Tiffany Drake,57,4,37,16
+Grayson,Precinct 407,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",48,2,32,14
+Grayson,Precinct 407,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,56,4,35,17
+Grayson,Precinct 407,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,54,3,33,18
+Grayson,Precinct 407,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,51,3,34,14
+Grayson,Precinct 407,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,57,2,36,19
+Grayson,Precinct 407,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,47,4,30,13
+Grayson,Precinct 407,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,51,2,33,16
+Grayson,Precinct 407,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,52,4,33,15
+Grayson,Precinct 407,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,51,2,33,16
+Grayson,Precinct 407,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,54,4,34,16
+Grayson,Precinct 407,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,52,2,33,17
+Grayson,Precinct 407,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,52,4,34,14
+Grayson,Precinct 407,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,53,2,33,18
+Grayson,Precinct 407,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,51,4,34,13
+Grayson,Precinct 407,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,47,2,30,15
+Grayson,Precinct 407,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,57,4,36,17
+Grayson,Precinct 407,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,77,3,50,24
+Grayson,Precinct 407,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,72,3,45,24
+Grayson,Precinct 407,District Attorney,,REP,John Kermit Hill,52,2,36,14
+Grayson,Precinct 407,District Attorney,,DEM,Brandy Douglas,51,4,32,15
+Grayson,Precinct 407,Sheriff,,REP,Wm. A. (Tony) Bennie,74,4,46,24
+Grayson,Precinct 407,County Tax Assessor-Collector,,REP,Bruce Stidham,78,4,50,24
+Grayson,Precinct 407,Constable Precinct 2,2,REP,Cody Putman,76,4,47,25
+Grayson,Precinct 408,Registered Voters,,,,1077,,,
+Grayson,Precinct 408,Ballots Cast,,,,738,42,568,128
+Grayson,Precinct 408,President,,REP,Donald J. Trump/JD Vance,528,30,414,84
+Grayson,Precinct 408,President,,DEM,Kamala D. Harris/Tim Walz,193,11,141,41
+Grayson,Precinct 408,President,,LIB,Chase Oliver/Mike ter Maat,6,0,5,1
+Grayson,Precinct 408,President,,GRN,Jill Stein/Rudolph Ware,4,0,4,0
+Grayson,Precinct 408,U.S. Senate,,REP,Ted Cruz,518,30,414,74
+Grayson,Precinct 408,U.S. Senate,,DEM,Colin Allred,198,12,137,49
+Grayson,Precinct 408,U.S. Senate,,LIB,Ted Brown,16,0,11,5
+Grayson,Precinct 408,U.S. House,4,REP,Pat Fallon,542,21,433,88
+Grayson,Precinct 408,U.S. House,4,DEM,Simon Cardell,165,10,124,31
+Grayson,Precinct 408,Railroad Commissioner,,REP,Christi Craddick,526,29,419,78
+Grayson,Precinct 408,Railroad Commissioner,,DEM,Katherine Culbert,160,9,116,35
+Grayson,Precinct 408,Railroad Commissioner,,LIB,Hawk Dunlap,20,1,15,4
+Grayson,Precinct 408,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,2,2
+Grayson,Precinct 408,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,540,32,424,84
+Grayson,Precinct 408,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,167,8,124,35
+Grayson,Precinct 408,"Justice, Supreme Court, Pl 4",4,REP,John Devine,534,31,419,84
+Grayson,Precinct 408,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,173,9,128,36
+Grayson,Precinct 408,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,514,29,409,76
+Grayson,Precinct 408,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,160,8,119,33
+Grayson,Precinct 408,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,26,3,13,10
+Grayson,Precinct 408,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,527,30,415,82
+Grayson,Precinct 408,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,172,8,128,36
+Grayson,Precinct 408,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,531,30,418,83
+Grayson,Precinct 408,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,167,9,123,35
+Grayson,Precinct 408,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,531,28,419,84
+Grayson,Precinct 408,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,165,9,122,34
+Grayson,Precinct 408,State Board of Education,12,REP,Pam Little,522,23,415,84
+Grayson,Precinct 408,State Board of Education,12,DEM,George King,165,9,122,34
+Grayson,Precinct 408,State Senator,30,REP,Brent Hagenbuch,522,18,418,86
+Grayson,Precinct 408,State Senator,30,DEM,Dale Frey,168,9,125,34
+Grayson,Precinct 408,State Representative,62,REP,Shelley Luther,496,18,396,82
+Grayson,Precinct 408,State Representative,62,DEM,Tiffany Drake,190,9,142,39
+Grayson,Precinct 408,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",518,20,415,83
+Grayson,Precinct 408,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,168,8,125,35
+Grayson,Precinct 408,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,521,20,417,84
+Grayson,Precinct 408,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,163,8,123,32
+Grayson,Precinct 408,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,521,19,419,83
+Grayson,Precinct 408,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,162,9,123,30
+Grayson,Precinct 408,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,522,21,418,83
+Grayson,Precinct 408,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,159,8,122,29
+Grayson,Precinct 408,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,521,20,418,83
+Grayson,Precinct 408,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,163,8,125,30
+Grayson,Precinct 408,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,524,20,423,81
+Grayson,Precinct 408,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,160,8,120,32
+Grayson,Precinct 408,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,524,21,420,83
+Grayson,Precinct 408,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,161,8,122,31
+Grayson,Precinct 408,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,510,18,413,79
+Grayson,Precinct 408,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,170,9,128,33
+Grayson,Precinct 408,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,577,19,462,96
+Grayson,Precinct 408,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,567,18,458,91
+Grayson,Precinct 408,District Attorney,,REP,John Kermit Hill,495,18,396,81
+Grayson,Precinct 408,District Attorney,,DEM,Brandy Douglas,200,10,153,37
+Grayson,Precinct 408,Sheriff,,REP,Wm. A. (Tony) Bennie,567,18,453,96
+Grayson,Precinct 408,County Tax Assessor-Collector,,REP,Bruce Stidham,587,17,467,103
+Grayson,Precinct 408,Justice of the Peace Precinct 1,1,REP,Ginny Hampton,572,17,458,97
+Grayson,Precinct 408,Constable Precinct 1,1,REP,Thomas Carter,568,17,454,97
+Grayson,Precinct 409,Registered Voters,,,,2570,,,
+Grayson,Precinct 409,Ballots Cast,,,,1838,102,1483,253
+Grayson,Precinct 409,President,,REP,Donald J. Trump/JD Vance,1293,60,1076,157
+Grayson,Precinct 409,President,,DEM,Kamala D. Harris/Tim Walz,515,41,388,86
+Grayson,Precinct 409,President,,LIB,Chase Oliver/Mike ter Maat,8,1,4,3
+Grayson,Precinct 409,President,,GRN,Jill Stein/Rudolph Ware,10,0,6,4
+Grayson,Precinct 409,U.S. Senate,,REP,Ted Cruz,1243,58,1045,140
+Grayson,Precinct 409,U.S. Senate,,DEM,Colin Allred,531,43,397,91
+Grayson,Precinct 409,U.S. Senate,,LIB,Ted Brown,41,1,27,13
+Grayson,Precinct 409,U.S. House,4,REP,Pat Fallon,1315,55,1105,155
+Grayson,Precinct 409,U.S. House,4,DEM,Simon Cardell,459,36,344,79
+Grayson,Precinct 409,Railroad Commissioner,,REP,Christi Craddick,1245,58,1049,138
+Grayson,Precinct 409,Railroad Commissioner,,DEM,Katherine Culbert,444,31,342,71
+Grayson,Precinct 409,Railroad Commissioner,,LIB,Hawk Dunlap,57,3,38,16
+Grayson,Precinct 409,Railroad Commissioner,,GRN,Eddie Espinoza,10,1,5,4
+Grayson,Precinct 409,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,1302,59,1086,157
+Grayson,Precinct 409,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,460,34,352,74
+Grayson,Precinct 409,"Justice, Supreme Court, Pl 4",4,REP,John Devine,1280,58,1073,149
+Grayson,Precinct 409,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,478,34,366,78
+Grayson,Precinct 409,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,1253,56,1057,140
+Grayson,Precinct 409,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,442,32,338,72
+Grayson,Precinct 409,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,55,4,35,16
+Grayson,Precinct 409,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1275,58,1076,141
+Grayson,Precinct 409,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,472,33,354,85
+Grayson,Precinct 409,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,1280,57,1075,148
+Grayson,Precinct 409,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,461,33,353,75
+Grayson,Precinct 409,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,1286,57,1084,145
+Grayson,Precinct 409,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,453,34,339,80
+Grayson,Precinct 409,State Board of Education,12,REP,Pam Little,1287,59,1084,144
+Grayson,Precinct 409,State Board of Education,12,DEM,George King,449,29,339,81
+Grayson,Precinct 409,State Senator,30,REP,Brent Hagenbuch,1278,52,1076,150
+Grayson,Precinct 409,State Senator,30,DEM,Dale Frey,465,33,355,77
+Grayson,Precinct 409,State Representative,62,REP,Shelley Luther,1171,41,991,139
+Grayson,Precinct 409,State Representative,62,DEM,Tiffany Drake,562,41,429,92
+Grayson,Precinct 409,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",1247,50,1049,148
+Grayson,Precinct 409,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,481,34,371,76
+Grayson,Precinct 409,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,1282,53,1076,153
+Grayson,Precinct 409,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,445,31,344,70
+Grayson,Precinct 409,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,1271,52,1073,146
+Grayson,Precinct 409,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,456,32,348,76
+Grayson,Precinct 409,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,1248,51,1054,143
+Grayson,Precinct 409,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,473,32,362,79
+Grayson,Precinct 409,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,1257,50,1066,141
+Grayson,Precinct 409,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,464,33,349,82
+Grayson,Precinct 409,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,1244,51,1054,139
+Grayson,Precinct 409,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,473,32,358,83
+Grayson,Precinct 409,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,1259,52,1061,146
+Grayson,Precinct 409,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,460,33,350,77
+Grayson,Precinct 409,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,1254,52,1060,142
+Grayson,Precinct 409,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,460,30,351,79
+Grayson,Precinct 409,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,1469,66,1215,188
+Grayson,Precinct 409,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,1437,62,1191,184
+Grayson,Precinct 409,District Attorney,,REP,John Kermit Hill,1181,52,990,139
+Grayson,Precinct 409,District Attorney,,DEM,Brandy Douglas,567,34,440,93
+Grayson,Precinct 409,Sheriff,,REP,Wm. A. (Tony) Bennie,1444,66,1202,176
+Grayson,Precinct 409,County Tax Assessor-Collector,,REP,Bruce Stidham,1500,65,1243,192
+Grayson,Precinct 409,Justice of the Peace Precinct 1,1,REP,Ginny Hampton,1415,63,1177,175
+Grayson,Precinct 409,Constable Precinct 1,1,REP,Thomas Carter,1414,65,1172,177
+Grayson,Precinct 410,Registered Voters,,,,2490,,,
+Grayson,Precinct 410,Ballots Cast,,,,1643,74,1280,289
+Grayson,Precinct 410,President,,REP,Donald J. Trump/JD Vance,1180,45,931,204
+Grayson,Precinct 410,President,,DEM,Kamala D. Harris/Tim Walz,441,27,332,82
+Grayson,Precinct 410,President,,LIB,Chase Oliver/Mike ter Maat,7,1,6,0
+Grayson,Precinct 410,President,,GRN,Jill Stein/Rudolph Ware,3,0,3,0
+Grayson,Precinct 410,U.S. Senate,,REP,Ted Cruz,1128,46,897,185
+Grayson,Precinct 410,U.S. Senate,,DEM,Colin Allred,468,26,351,91
+Grayson,Precinct 410,U.S. Senate,,LIB,Ted Brown,27,0,23,4
+Grayson,Precinct 410,U.S. House,4,REP,Pat Fallon,1199,46,957,196
+Grayson,Precinct 410,U.S. House,4,DEM,Simon Cardell,398,22,300,76
+Grayson,Precinct 410,Railroad Commissioner,,REP,Christi Craddick,1159,47,928,184
+Grayson,Precinct 410,Railroad Commissioner,,DEM,Katherine Culbert,375,23,281,71
+Grayson,Precinct 410,Railroad Commissioner,,LIB,Hawk Dunlap,24,0,22,2
+Grayson,Precinct 410,Railroad Commissioner,,GRN,Eddie Espinoza,17,0,10,7
+Grayson,Precinct 410,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,1180,47,943,190
+Grayson,Precinct 410,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,399,23,299,77
+Grayson,Precinct 410,"Justice, Supreme Court, Pl 4",4,REP,John Devine,1169,46,934,189
+Grayson,Precinct 410,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,403,23,305,75
+Grayson,Precinct 410,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,1146,45,919,182
+Grayson,Precinct 410,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,394,22,296,76
+Grayson,Precinct 410,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,21,1,14,6
+Grayson,Precinct 410,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,1161,46,929,186
+Grayson,Precinct 410,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,400,23,299,78
+Grayson,Precinct 410,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,1165,45,931,189
+Grayson,Precinct 410,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,396,25,297,74
+Grayson,Precinct 410,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,1172,45,939,188
+Grayson,Precinct 410,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,385,24,288,73
+Grayson,Precinct 410,State Board of Education,12,REP,Pam Little,1155,44,920,191
+Grayson,Precinct 410,State Board of Education,12,DEM,George King,409,24,311,74
+Grayson,Precinct 410,State Senator,30,REP,Brent Hagenbuch,1150,41,919,190
+Grayson,Precinct 410,State Senator,30,DEM,Dale Frey,407,24,309,74
+Grayson,Precinct 410,State Representative,62,REP,Shelley Luther,1066,32,854,180
+Grayson,Precinct 410,State Representative,62,DEM,Tiffany Drake,478,27,367,84
+Grayson,Precinct 410,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",1147,41,916,190
+Grayson,Precinct 410,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,404,25,306,73
+Grayson,Precinct 410,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,1169,42,939,188
+Grayson,Precinct 410,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,383,23,287,73
+Grayson,Precinct 410,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,1168,42,938,188
+Grayson,Precinct 410,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,388,23,291,74
+Grayson,Precinct 410,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,1159,41,928,190
+Grayson,Precinct 410,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,393,24,298,71
+Grayson,Precinct 410,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,1158,40,932,186
+Grayson,Precinct 410,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,390,25,293,72
+Grayson,Precinct 410,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,1156,42,924,190
+Grayson,Precinct 410,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,396,23,304,69
+Grayson,Precinct 410,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,1160,40,930,190
+Grayson,Precinct 410,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,387,25,293,69
+Grayson,Precinct 410,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,1151,39,927,185
+Grayson,Precinct 410,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,400,25,299,76
+Grayson,Precinct 410,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,1304,42,1049,213
+Grayson,Precinct 410,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,1289,41,1041,207
+Grayson,Precinct 410,District Attorney,,REP,John Kermit Hill,1064,37,850,177
+Grayson,Precinct 410,District Attorney,,DEM,Brandy Douglas,503,23,391,89
+Grayson,Precinct 410,Sheriff,,REP,Wm. A. (Tony) Bennie,1294,42,1043,209
+Grayson,Precinct 410,County Tax Assessor-Collector,,REP,Bruce Stidham,1343,44,1083,216
+Grayson,Precinct 410,Justice of the Peace Precinct 1,1,REP,Ginny Hampton,1287,42,1039,206
+Grayson,Precinct 410,Constable Precinct 1,1,REP,Thomas Carter,1285,42,1038,205
+Grayson,Precinct 411,Registered Voters,,,,261,,,
+Grayson,Precinct 411,Ballots Cast,,,,183,9,154,20
+Grayson,Precinct 411,President,,REP,Donald J. Trump/JD Vance,155,6,136,13
+Grayson,Precinct 411,President,,DEM,Kamala D. Harris/Tim Walz,25,2,17,6
+Grayson,Precinct 411,President,,LIB,Chase Oliver/Mike ter Maat,1,0,1,0
+Grayson,Precinct 411,President,,GRN,Jill Stein/Rudolph Ware,1,0,0,1
+Grayson,Precinct 411,U.S. Senate,,REP,Ted Cruz,150,6,133,11
+Grayson,Precinct 411,U.S. Senate,,DEM,Colin Allred,30,2,19,9
+Grayson,Precinct 411,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Grayson,Precinct 411,U.S. House,4,REP,Pat Fallon,157,6,136,15
+Grayson,Precinct 411,U.S. House,4,DEM,Simon Cardell,21,2,15,4
+Grayson,Precinct 411,Railroad Commissioner,,REP,Christi Craddick,150,6,131,13
+Grayson,Precinct 411,Railroad Commissioner,,DEM,Katherine Culbert,18,1,14,3
+Grayson,Precinct 411,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,2,1
+Grayson,Precinct 411,Railroad Commissioner,,GRN,Eddie Espinoza,2,1,0,1
+Grayson,Precinct 411,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,155,6,134,15
+Grayson,Precinct 411,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,20,3,14,3
+Grayson,Precinct 411,"Justice, Supreme Court, Pl 4",4,REP,John Devine,150,5,130,15
+Grayson,Precinct 411,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,22,3,16,3
+Grayson,Precinct 411,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,152,5,132,15
+Grayson,Precinct 411,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,20,3,14,3
+Grayson,Precinct 411,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,3,0,2,1
+Grayson,Precinct 411,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,153,5,132,16
+Grayson,Precinct 411,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,21,3,16,2
+Grayson,Precinct 411,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,154,6,133,15
+Grayson,Precinct 411,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,22,3,16,3
+Grayson,Precinct 411,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,154,6,133,15
+Grayson,Precinct 411,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,21,3,15,3
+Grayson,Precinct 411,State Board of Education,12,REP,Pam Little,156,6,134,16
+Grayson,Precinct 411,State Board of Education,12,DEM,George King,20,3,14,3
+Grayson,Precinct 411,State Senator,30,REP,Brent Hagenbuch,154,6,133,15
+Grayson,Precinct 411,State Senator,30,DEM,Dale Frey,22,3,15,4
+Grayson,Precinct 411,State Representative,62,REP,Shelley Luther,148,6,128,14
+Grayson,Precinct 411,State Representative,62,DEM,Tiffany Drake,23,2,17,4
+Grayson,Precinct 411,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",153,5,133,15
+Grayson,Precinct 411,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,21,3,15,3
+Grayson,Precinct 411,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,154,5,134,15
+Grayson,Precinct 411,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,21,3,15,3
+Grayson,Precinct 411,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,152,6,131,15
+Grayson,Precinct 411,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,23,3,17,3
+Grayson,Precinct 411,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,151,5,131,15
+Grayson,Precinct 411,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,22,3,16,3
+Grayson,Precinct 411,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,152,5,131,16
+Grayson,Precinct 411,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,20,3,15,2
+Grayson,Precinct 411,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,152,5,132,15
+Grayson,Precinct 411,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,20,3,14,3
+Grayson,Precinct 411,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,153,5,133,15
+Grayson,Precinct 411,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,19,3,13,3
+Grayson,Precinct 411,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,153,5,133,15
+Grayson,Precinct 411,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,19,3,13,3
+Grayson,Precinct 411,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,160,6,138,16
+Grayson,Precinct 411,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,154,6,132,16
+Grayson,Precinct 411,District Attorney,,REP,John Kermit Hill,140,6,119,15
+Grayson,Precinct 411,District Attorney,,DEM,Brandy Douglas,36,3,30,3
+Grayson,Precinct 411,Sheriff,,REP,Wm. A. (Tony) Bennie,156,5,135,16
+Grayson,Precinct 411,County Tax Assessor-Collector,,REP,Bruce Stidham,162,6,140,16
+Grayson,Precinct 411,Justice of the Peace Precinct 1,1,REP,Ginny Hampton,151,5,130,16
+Grayson,Precinct 411,Constable Precinct 1,1,REP,Thomas Carter,155,5,134,16
+Grayson,Precinct 412,Registered Voters,,,,1537,,,
+Grayson,Precinct 412,Ballots Cast,,,,1081,52,857,172
+Grayson,Precinct 412,President,,REP,Donald J. Trump/JD Vance,762,30,620,112
+Grayson,Precinct 412,President,,DEM,Kamala D. Harris/Tim Walz,300,21,225,54
+Grayson,Precinct 412,President,,LIB,Chase Oliver/Mike ter Maat,7,0,6,1
+Grayson,Precinct 412,President,,GRN,Jill Stein/Rudolph Ware,4,0,2,2
+Grayson,Precinct 412,U.S. Senate,,REP,Ted Cruz,731,31,591,109
+Grayson,Precinct 412,U.S. Senate,,DEM,Colin Allred,318,20,243,55
+Grayson,Precinct 412,U.S. Senate,,LIB,Ted Brown,23,0,17,6
+Grayson,Precinct 412,U.S. House,4,REP,Pat Fallon,775,28,628,119
+Grayson,Precinct 412,U.S. House,4,DEM,Simon Cardell,278,17,213,48
+Grayson,Precinct 412,Railroad Commissioner,,REP,Christi Craddick,746,29,609,108
+Grayson,Precinct 412,Railroad Commissioner,,DEM,Katherine Culbert,254,18,195,41
+Grayson,Precinct 412,Railroad Commissioner,,LIB,Hawk Dunlap,31,0,23,8
+Grayson,Precinct 412,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,1,3
+Grayson,Precinct 412,"Justice, Supreme Court, Pl 2",2,REP,Jimmy Blacklock,761,29,622,110
+Grayson,Precinct 412,"Justice, Supreme Court, Pl 2",2,DEM,DaSean Jones,278,16,212,50
+Grayson,Precinct 412,"Justice, Supreme Court, Pl 4",4,REP,John Devine,748,26,613,109
+Grayson,Precinct 412,"Justice, Supreme Court, Pl 4",4,DEM,Christine Vinh Weems,281,15,215,51
+Grayson,Precinct 412,"Justice, Supreme Court, Pl 6",6,REP,Jane Bland,742,29,601,112
+Grayson,Precinct 412,"Justice, Supreme Court, Pl 6",6,DEM,Bonnie Lee Goldstein,264,15,206,43
+Grayson,Precinct 412,"Justice, Supreme Court, Pl 6",6,LIB,J. David Roberson,27,0,21,6
+Grayson,Precinct 412,"Presiding Judge, Ct of Crim App",,REP,David J. Schenck,755,28,617,110
+Grayson,Precinct 412,"Presiding Judge, Ct of Crim App",,DEM,Holly Taylor,276,15,210,51
+Grayson,Precinct 412,"Judge, Ct of Crim App, Pl 7",7,REP,Gina Parker,754,27,615,112
+Grayson,Precinct 412,"Judge, Ct of Crim App, Pl 7",7,DEM,Nancy Mulder,267,16,205,46
+Grayson,Precinct 412,"Judge, Ct of Crim App, Pl 8",8,REP,Lee Finley,762,29,618,115
+Grayson,Precinct 412,"Judge, Ct of Crim App, Pl 8",8,DEM,Chika Anyiam,268,16,207,45
+Grayson,Precinct 412,State Board of Education,12,REP,Pam Little,746,25,608,113
+Grayson,Precinct 412,State Board of Education,12,DEM,George King,276,17,213,46
+Grayson,Precinct 412,State Senator,30,REP,Brent Hagenbuch,744,22,610,112
+Grayson,Precinct 412,State Senator,30,DEM,Dale Frey,279,13,219,47
+Grayson,Precinct 412,State Representative,62,REP,Shelley Luther,706,24,570,112
+Grayson,Precinct 412,State Representative,62,DEM,Tiffany Drake,328,17,258,53
+Grayson,Precinct 412,"Chief Justice, 5th Ct of App Dist",,REP,"Justin Jay ""J.J."" Koch",748,27,610,111
+Grayson,Precinct 412,"Chief Justice, 5th Ct of App Dist",,DEM,Staci Williams,277,14,215,48
+Grayson,Precinct 412,"Justice, 5th Ct of App Dist, Pl 2",2,REP,Jessica Lewis,759,27,618,114
+Grayson,Precinct 412,"Justice, 5th Ct of App Dist, Pl 2",2,DEM,Robbie Partida-Kipness,266,14,207,45
+Grayson,Precinct 412,"Justice, 5th Ct of App Dist, Pl 5",5,REP,Cynthia Barbare,752,27,611,114
+Grayson,Precinct 412,"Justice, 5th Ct of App Dist, Pl 5",5,DEM,Erin A. Nowell,269,14,210,45
+Grayson,Precinct 412,"Justice, 5th Ct of App Dist, Pl 9",9,REP,Matthew J. Kolodoski,741,26,606,109
+Grayson,Precinct 412,"Justice, 5th Ct of App Dist, Pl 9",9,DEM,Tina Clinton,277,13,213,51
+Grayson,Precinct 412,"Justice, 5th Ct of App Dist, Pl 10",10,REP,Earl Jackson,739,26,601,112
+Grayson,Precinct 412,"Justice, 5th Ct of App Dist, Pl 10",10,DEM,Amanda Reichek,274,12,217,45
+Grayson,Precinct 412,"Justice, 5th Ct of App Dist, Pl 11",11,REP,Gino J. Rossini,739,25,606,108
+Grayson,Precinct 412,"Justice, 5th Ct of App Dist, Pl 11",11,DEM,Kim Cooks,278,14,213,51
+Grayson,Precinct 412,"Justice, 5th Ct of App Dist, Pl 12",12,REP,Mike Lee,744,27,608,109
+Grayson,Precinct 412,"Justice, 5th Ct of App Dist, Pl 12",12,DEM,Ken Molberg,269,12,210,47
+Grayson,Precinct 412,"Justice, 5th Ct of App Dist, Pl 13",13,REP,Emily A. Miskel,739,26,604,109
+Grayson,Precinct 412,"Justice, 5th Ct of App Dist, Pl 13",13,DEM,Tonya Parker,278,14,217,47
+Grayson,Precinct 412,"Dist Judge, 15th Judicial Dist",,REP,Jim Fallon,843,23,685,135
+Grayson,Precinct 412,"Dist Judge, 59th Judicial Dist",,REP,Larry Phillips,844,27,683,134
+Grayson,Precinct 412,District Attorney,,REP,John Kermit Hill,690,23,565,102
+Grayson,Precinct 412,District Attorney,,DEM,Brandy Douglas,341,13,265,63
+Grayson,Precinct 412,Sheriff,,REP,Wm. A. (Tony) Bennie,844,25,682,137
+Grayson,Precinct 412,County Tax Assessor-Collector,,REP,Bruce Stidham,873,26,706,141
+Grayson,Precinct 412,Constable Precinct 2,2,REP,Cody Putman,809,28,648,133

@@ -1,0 +1,1028 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Coke,1 - CRL,Registered Voters,,,,401,,,
+Coke,1 - CRL,Ballots Cast,,,,260,,,
+Coke,1 - CRL,President,,REP,Donald J. Trump JD Vance,226,7,165,54
+Coke,1 - CRL,President,,DEM,Kamala D. Harris Tim Walz,31,0,21,10
+Coke,1 - CRL,President,,LIB,Chase Oliver Mike ter Maat,2,0,2,0
+Coke,1 - CRL,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Coke,1 - CRL,President,,,Under Votes,1,0,0,1
+Coke,1 - CRL,President,,,Over Votes,0,0,0,0
+Coke,1 - CRL,U.S. Senate,,REP,Ted Cruz,213,7,157,49
+Coke,1 - CRL,U.S. Senate,,DEM,Colin Allred,40,0,26,14
+Coke,1 - CRL,U.S. Senate,,LIB,Ted Brown,4,0,2,2
+Coke,1 - CRL,U.S. Senate,,,Under Votes,3,0,3,0
+Coke,1 - CRL,U.S. Senate,,,Over Votes,0,0,0,0
+Coke,1 - CRL,U.S. House,11,REP,August Pfluger,235,6,173,56
+Coke,1 - CRL,U.S. House,11,,Under Votes,25,1,15,9
+Coke,1 - CRL,U.S. House,11,,Over Votes,0,0,0,0
+Coke,1 - CRL,Railroad Commissioner,,REP,Christi Craddick,200,6,145,49
+Coke,1 - CRL,Railroad Commissioner,,DEM,Katherine Culbert,28,0,20,8
+Coke,1 - CRL,Railroad Commissioner,,LIB,Hawk Dunlap,15,0,13,2
+Coke,1 - CRL,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0
+Coke,1 - CRL,Railroad Commissioner,,,Under Votes,15,1,8,6
+Coke,1 - CRL,Railroad Commissioner,,,Over Votes,0,0,0,0
+Coke,1 - CRL,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,211,6,152,53
+Coke,1 - CRL,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,27,0,19,8
+Coke,1 - CRL,"Justice, Supreme Court, Place 2",2,,Under Votes,22,1,17,4
+Coke,1 - CRL,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Coke,1 - CRL,"Justice, Supreme Court, Place 4",4,REP,John Devine,210,6,154,50
+Coke,1 - CRL,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,30,0,20,10
+Coke,1 - CRL,"Justice, Supreme Court, Place 4",4,,Under Votes,20,1,14,5
+Coke,1 - CRL,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Coke,1 - CRL,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,204,6,152,46
+Coke,1 - CRL,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,26,0,18,8
+Coke,1 - CRL,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,13,0,8,5
+Coke,1 - CRL,"Justice, Supreme Court, Place 6",6,,Under Votes,17,1,10,6
+Coke,1 - CRL,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Coke,1 - CRL,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,215,6,159,50
+Coke,1 - CRL,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,28,0,20,8
+Coke,1 - CRL,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,17,1,9,7
+Coke,1 - CRL,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Coke,1 - CRL,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,212,6,156,50
+Coke,1 - CRL,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,27,0,21,6
+Coke,1 - CRL,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,21,1,11,9
+Coke,1 - CRL,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Coke,1 - CRL,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,210,6,156,48
+Coke,1 - CRL,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,26,0,19,7
+Coke,1 - CRL,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,24,1,13,10
+Coke,1 - CRL,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Coke,1 - CRL,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,205,6,151,48
+Coke,1 - CRL,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,25,0,17,8
+Coke,1 - CRL,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,12,0,9,3
+Coke,1 - CRL,"Member, State Board of Education, District 15",15,,Under Votes,18,1,11,6
+Coke,1 - CRL,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Coke,1 - CRL,State Representative,72,REP,Drew Darby,225,6,164,55
+Coke,1 - CRL,State Representative,72,,Under Votes,35,1,24,10
+Coke,1 - CRL,State Representative,72,,Over Votes,0,0,0,0
+Coke,1 - CRL,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,211,6,155,50
+Coke,1 - CRL,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,29,0,21,8
+Coke,1 - CRL,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,20,1,12,7
+Coke,1 - CRL,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Coke,1 - CRL,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,85,0,57,28
+Coke,1 - CRL,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,175,7,131,37
+Coke,1 - CRL,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Coke,1 - CRL,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,79,0,54,25
+Coke,1 - CRL,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,181,7,134,40
+Coke,1 - CRL,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Coke,1 - CRL,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,72,0,49,23
+Coke,1 - CRL,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,188,7,139,42
+Coke,1 - CRL,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Coke,1 - CRL,"District Judge, 51st Judicial District",51,REP,Carmen Symes Dusek,213,4,159,50
+Coke,1 - CRL,"District Judge, 51st Judicial District",51,,Under Votes,47,3,29,15
+Coke,1 - CRL,"District Judge, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,1 - CRL,"District Attorney, 51st Judicial District",51,REP,Allison Palmer,208,2,155,51
+Coke,1 - CRL,"District Attorney, 51st Judicial District",51,,Under Votes,52,5,33,14
+Coke,1 - CRL,"District Attorney, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,1 - CRL,County Attorney,,REP,Cody McCabe,229,6,167,56
+Coke,1 - CRL,County Attorney,,,Under Votes,31,1,21,9
+Coke,1 - CRL,County Attorney,,,Over Votes,0,0,0,0
+Coke,1 - CRL,County Attorney,,REP,Jennifer Burdett,236,7,172,57
+Coke,1 - CRL,County Attorney,,,Under Votes,24,0,16,8
+Coke,1 - CRL,County Attorney,,,Over Votes,0,0,0,0
+Coke,1 - CRL,Sheriff,,REP,Billy Williams,233,7,170,56
+Coke,1 - CRL,Sheriff,,,Under Votes,27,0,18,9
+Coke,1 - CRL,Sheriff,,,Over Votes,0,0,0,0
+Coke,1 - CRL,County Tax Assessor-Collector,,REP,Gina Williams,225,7,166,52
+Coke,1 - CRL,County Tax Assessor-Collector,,,Under Votes,35,0,22,13
+Coke,1 - CRL,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Coke,1 - CRL,"County Commissioner, Precinct 1",,REP,Donald Robertson,219,7,156,56
+Coke,1 - CRL,"County Commissioner, Precinct 1",,,Under Votes,41,0,32,9
+Coke,1 - CRL,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Coke,1 - CRL,County Constable,,REP,Marty Boyd,225,7,160,58
+Coke,1 - CRL,County Constable,,,Under Votes,35,0,28,7
+Coke,1 - CRL,County Constable,,,Over Votes,0,0,0,0
+Coke,1 - CRL,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Under Votes,28,0,15,13
+Coke,1 - CRL,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Over Votes,0,0,0,0
+Coke,1 - RL,Registered Voters,,,,215,,,
+Coke,1 - RL,Ballots Cast,,,,168,,,
+Coke,1 - RL,President,,REP,Donald J. Trump JD Vance,159,8,126,25
+Coke,1 - RL,President,,DEM,Kamala D. Harris Tim Walz,8,0,3,5
+Coke,1 - RL,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+Coke,1 - RL,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Coke,1 - RL,President,,,Under Votes,0,0,0,0
+Coke,1 - RL,President,,,Over Votes,0,0,0,0
+Coke,1 - RL,U.S. Senate,,REP,Ted Cruz,157,7,123,27
+Coke,1 - RL,U.S. Senate,,DEM,Colin Allred,10,0,6,4
+Coke,1 - RL,U.S. Senate,,LIB,Ted Brown,1,1,0,0
+Coke,1 - RL,U.S. Senate,,,Under Votes,0,0,0,0
+Coke,1 - RL,U.S. Senate,,,Over Votes,0,0,0,0
+Coke,1 - RL,U.S. House,11,REP,August Pfluger,158,8,122,28
+Coke,1 - RL,U.S. House,11,,Under Votes,10,0,7,3
+Coke,1 - RL,U.S. House,11,,Over Votes,0,0,0,0
+Coke,1 - RL,Railroad Commissioner,,REP,Christi Craddick,148,8,118,22
+Coke,1 - RL,Railroad Commissioner,,DEM,Katherine Culbert,6,0,3,3
+Coke,1 - RL,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,4,2
+Coke,1 - RL,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Coke,1 - RL,Railroad Commissioner,,,Under Votes,8,0,4,4
+Coke,1 - RL,Railroad Commissioner,,,Over Votes,0,0,0,0
+Coke,1 - RL,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,155,8,120,27
+Coke,1 - RL,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,9,0,6,3
+Coke,1 - RL,"Justice, Supreme Court, Place 2",2,,Under Votes,4,0,3,1
+Coke,1 - RL,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Coke,1 - RL,"Justice, Supreme Court, Place 4",4,REP,John Devine,153,8,119,26
+Coke,1 - RL,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,9,0,5,4
+Coke,1 - RL,"Justice, Supreme Court, Place 4",4,,Under Votes,6,0,5,1
+Coke,1 - RL,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Coke,1 - RL,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,154,8,119,27
+Coke,1 - RL,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,7,0,4,3
+Coke,1 - RL,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,2,0,2,0
+Coke,1 - RL,"Justice, Supreme Court, Place 6",6,,Under Votes,5,0,4,1
+Coke,1 - RL,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Coke,1 - RL,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,154,8,121,25
+Coke,1 - RL,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,7,0,3,4
+Coke,1 - RL,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,7,0,5,2
+Coke,1 - RL,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Coke,1 - RL,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,156,8,122,26
+Coke,1 - RL,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,5,0,2,3
+Coke,1 - RL,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,7,0,5,2
+Coke,1 - RL,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Coke,1 - RL,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,156,8,122,26
+Coke,1 - RL,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,5,0,2,3
+Coke,1 - RL,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,7,0,5,2
+Coke,1 - RL,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Coke,1 - RL,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,153,8,120,25
+Coke,1 - RL,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,7,0,3,4
+Coke,1 - RL,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,2,0,2,0
+Coke,1 - RL,"Member, State Board of Education, District 15",15,,Under Votes,6,0,4,2
+Coke,1 - RL,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Coke,1 - RL,State Representative,72,REP,Drew Darby,154,8,118,28
+Coke,1 - RL,State Representative,72,,Under Votes,14,0,11,3
+Coke,1 - RL,State Representative,72,,Over Votes,0,0,0,0
+Coke,1 - RL,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,158,8,124,26
+Coke,1 - RL,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,4,0,1,3
+Coke,1 - RL,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,6,0,4,2
+Coke,1 - RL,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Coke,1 - RL,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,65,1,50,14
+Coke,1 - RL,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,103,7,79,17
+Coke,1 - RL,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Coke,1 - RL,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,59,1,45,13
+Coke,1 - RL,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,109,7,84,18
+Coke,1 - RL,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Coke,1 - RL,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,57,1,43,13
+Coke,1 - RL,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,111,7,86,18
+Coke,1 - RL,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Coke,1 - RL,"District Judge, 51st Judicial District",51,REP,Carmen Symes Dusek,153,8,117,28
+Coke,1 - RL,"District Judge, 51st Judicial District",51,,Under Votes,15,0,12,3
+Coke,1 - RL,"District Judge, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,1 - RL,"District Attorney, 51st Judicial District",51,REP,Allison Palmer,148,7,113,28
+Coke,1 - RL,"District Attorney, 51st Judicial District",51,,Under Votes,20,1,16,3
+Coke,1 - RL,"District Attorney, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,1 - RL,County Attorney,,REP,Cody McCabe,157,8,120,29
+Coke,1 - RL,County Attorney,,,Under Votes,11,0,9,2
+Coke,1 - RL,County Attorney,,,Over Votes,0,0,0,0
+Coke,1 - RL,County Attorney,,REP,Jennifer Burdett,158,8,123,27
+Coke,1 - RL,County Attorney,,,Under Votes,10,0,6,4
+Coke,1 - RL,County Attorney,,,Over Votes,0,0,0,0
+Coke,1 - RL,Sheriff,,REP,Billy Williams,153,8,118,27
+Coke,1 - RL,Sheriff,,,Under Votes,15,0,11,4
+Coke,1 - RL,Sheriff,,,Over Votes,0,0,0,0
+Coke,1 - RL,County Tax Assessor-Collector,,REP,Gina Williams,154,8,119,27
+Coke,1 - RL,County Tax Assessor-Collector,,,Under Votes,14,0,10,4
+Coke,1 - RL,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Coke,1 - RL,"County Commissioner, Precinct 1",,REP,Donald Robertson,144,8,108,28
+Coke,1 - RL,"County Commissioner, Precinct 1",,,Under Votes,24,0,21,3
+Coke,1 - RL,"County Commissioner, Precinct 1",,,Over Votes,0,0,0,0
+Coke,1 - RL,County Constable,,REP,Marty Boyd,152,7,118,27
+Coke,1 - RL,County Constable,,,Under Votes,16,1,11,4
+Coke,1 - RL,County Constable,,,Over Votes,0,0,0,0
+Coke,1 - RL,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Under Votes,10,0,7,3
+Coke,1 - RL,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Over Votes,0,0,0,0
+Coke,2 - CBR,Registered Voters,,,,257,,,
+Coke,2 - CBR,Ballots Cast,,,,202,,,
+Coke,2 - CBR,President,,REP,Donald J. Trump JD Vance,168,14,90,64
+Coke,2 - CBR,President,,DEM,Kamala D. Harris Tim Walz,29,4,16,9
+Coke,2 - CBR,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+Coke,2 - CBR,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Coke,2 - CBR,President,,,Under Votes,4,1,1,2
+Coke,2 - CBR,President,,,Over Votes,0,0,0,0
+Coke,2 - CBR,U.S. Senate,,REP,Ted Cruz,166,14,90,62
+Coke,2 - CBR,U.S. Senate,,DEM,Colin Allred,31,5,15,11
+Coke,2 - CBR,U.S. Senate,,LIB,Ted Brown,3,0,2,1
+Coke,2 - CBR,U.S. Senate,,,Under Votes,2,0,1,1
+Coke,2 - CBR,U.S. Senate,,,Over Votes,0,0,0,0
+Coke,2 - CBR,U.S. House,11,REP,August Pfluger,180,15,96,69
+Coke,2 - CBR,U.S. House,11,,Under Votes,22,4,12,6
+Coke,2 - CBR,U.S. House,11,,Over Votes,0,0,0,0
+Coke,2 - CBR,Railroad Commissioner,,REP,Christi Craddick,162,14,87,61
+Coke,2 - CBR,Railroad Commissioner,,DEM,Katherine Culbert,21,4,11,6
+Coke,2 - CBR,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,5,1
+Coke,2 - CBR,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+Coke,2 - CBR,Railroad Commissioner,,,Under Votes,12,1,5,6
+Coke,2 - CBR,Railroad Commissioner,,,Over Votes,0,0,0,0
+Coke,2 - CBR,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,166,14,90,62
+Coke,2 - CBR,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,25,4,13,8
+Coke,2 - CBR,"Justice, Supreme Court, Place 2",2,,Under Votes,11,1,5,5
+Coke,2 - CBR,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Coke,2 - CBR,"Justice, Supreme Court, Place 4",4,REP,John Devine,162,14,88,60
+Coke,2 - CBR,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,28,4,14,10
+Coke,2 - CBR,"Justice, Supreme Court, Place 4",4,,Under Votes,12,1,6,5
+Coke,2 - CBR,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Coke,2 - CBR,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,161,14,86,61
+Coke,2 - CBR,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,26,4,14,8
+Coke,2 - CBR,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,4,0,3,1
+Coke,2 - CBR,"Justice, Supreme Court, Place 6",6,,Under Votes,11,1,5,5
+Coke,2 - CBR,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Coke,2 - CBR,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,165,14,90,61
+Coke,2 - CBR,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,26,4,13,9
+Coke,2 - CBR,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,11,1,5,5
+Coke,2 - CBR,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Coke,2 - CBR,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,165,14,89,62
+Coke,2 - CBR,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,24,4,12,8
+Coke,2 - CBR,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,13,1,7,5
+Coke,2 - CBR,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Coke,2 - CBR,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,166,14,89,63
+Coke,2 - CBR,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,23,4,12,7
+Coke,2 - CBR,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,13,1,7,5
+Coke,2 - CBR,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Coke,2 - CBR,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,155,14,84,57
+Coke,2 - CBR,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,28,4,14,10
+Coke,2 - CBR,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,7,0,4,3
+Coke,2 - CBR,"Member, State Board of Education, District 15",15,,Under Votes,12,1,6,5
+Coke,2 - CBR,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Coke,2 - CBR,State Representative,72,REP,Drew Darby,172,11,92,69
+Coke,2 - CBR,State Representative,72,,Under Votes,30,8,16,6
+Coke,2 - CBR,State Representative,72,,Over Votes,0,0,0,0
+Coke,2 - CBR,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,164,14,90,60
+Coke,2 - CBR,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,25,4,12,9
+Coke,2 - CBR,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,13,1,6,6
+Coke,2 - CBR,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Coke,2 - CBR,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,74,5,38,31
+Coke,2 - CBR,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,128,14,70,44
+Coke,2 - CBR,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Coke,2 - CBR,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,68,5,34,29
+Coke,2 - CBR,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,134,14,74,46
+Coke,2 - CBR,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Coke,2 - CBR,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,66,5,33,28
+Coke,2 - CBR,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,136,14,75,47
+Coke,2 - CBR,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Coke,2 - CBR,"District Judge, 51st Judicial District",51,REP,Carmen Symes Dusek,177,14,95,68
+Coke,2 - CBR,"District Judge, 51st Judicial District",51,,Under Votes,25,5,13,7
+Coke,2 - CBR,"District Judge, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,2 - CBR,"District Attorney, 51st Judicial District",51,REP,Allison Palmer,163,12,85,66
+Coke,2 - CBR,"District Attorney, 51st Judicial District",51,,Under Votes,39,7,23,9
+Coke,2 - CBR,"District Attorney, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,2 - CBR,County Attorney,,REP,Cody McCabe,175,12,95,68
+Coke,2 - CBR,County Attorney,,,Under Votes,27,7,13,7
+Coke,2 - CBR,County Attorney,,,Over Votes,0,0,0,0
+Coke,2 - CBR,County Attorney,,REP,Jennifer Burdett,178,14,94,70
+Coke,2 - CBR,County Attorney,,,Under Votes,24,5,14,5
+Coke,2 - CBR,County Attorney,,,Over Votes,0,0,0,0
+Coke,2 - CBR,Sheriff,,REP,Billy Williams,177,14,95,68
+Coke,2 - CBR,Sheriff,,,Under Votes,25,5,13,7
+Coke,2 - CBR,Sheriff,,,Over Votes,0,0,0,0
+Coke,2 - CBR,County Tax Assessor-Collector,,REP,Gina Williams,174,12,95,67
+Coke,2 - CBR,County Tax Assessor-Collector,,,Under Votes,28,7,13,8
+Coke,2 - CBR,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Coke,2 - CBR,County Constable,,REP,Marty Boyd,180,14,95,71
+Coke,2 - CBR,County Constable,,,Under Votes,22,5,13,4
+Coke,2 - CBR,County Constable,,,Over Votes,0,0,0,0
+Coke,2 - CBR,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Under Votes,15,3,9,3
+Coke,2 - CBR,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Over Votes,0,0,0,0
+Coke,2 - BR,Registered Voters,,,,378,,,
+Coke,2 - BR,Ballots Cast,,,,303,,,
+Coke,2 - BR,President,,REP,Donald J. Trump JD Vance,276,20,169,87
+Coke,2 - BR,President,,DEM,Kamala D. Harris Tim Walz,23,0,16,7
+Coke,2 - BR,President,,LIB,Chase Oliver Mike ter Maat,3,0,3,0
+Coke,2 - BR,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Coke,2 - BR,President,,,Under Votes,1,0,0,1
+Coke,2 - BR,President,,,Over Votes,0,0,0,0
+Coke,2 - BR,U.S. Senate,,REP,Ted Cruz,268,20,165,83
+Coke,2 - BR,U.S. Senate,,DEM,Colin Allred,29,0,21,8
+Coke,2 - BR,U.S. Senate,,LIB,Ted Brown,2,0,1,1
+Coke,2 - BR,U.S. Senate,,,Under Votes,4,0,1,3
+Coke,2 - BR,U.S. Senate,,,Over Votes,0,0,0,0
+Coke,2 - BR,U.S. House,11,REP,August Pfluger,279,19,174,86
+Coke,2 - BR,U.S. House,11,,Under Votes,24,1,14,9
+Coke,2 - BR,U.S. House,11,,Over Votes,0,0,0,0
+Coke,2 - BR,Railroad Commissioner,,REP,Christi Craddick,266,20,162,84
+Coke,2 - BR,Railroad Commissioner,,DEM,Katherine Culbert,16,0,13,3
+Coke,2 - BR,Railroad Commissioner,,LIB,Hawk Dunlap,10,0,8,2
+Coke,2 - BR,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Coke,2 - BR,Railroad Commissioner,,,Under Votes,11,0,5,6
+Coke,2 - BR,Railroad Commissioner,,,Over Votes,0,0,0,0
+Coke,2 - BR,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,274,20,168,86
+Coke,2 - BR,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,19,0,15,4
+Coke,2 - BR,"Justice, Supreme Court, Place 2",2,,Under Votes,10,0,5,5
+Coke,2 - BR,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Coke,2 - BR,"Justice, Supreme Court, Place 4",4,REP,John Devine,270,20,165,85
+Coke,2 - BR,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,22,0,17,5
+Coke,2 - BR,"Justice, Supreme Court, Place 4",4,,Under Votes,11,0,6,5
+Coke,2 - BR,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Coke,2 - BR,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,270,20,164,86
+Coke,2 - BR,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,13,0,10,3
+Coke,2 - BR,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,7,0,6,1
+Coke,2 - BR,"Justice, Supreme Court, Place 6",6,,Under Votes,13,0,8,5
+Coke,2 - BR,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Coke,2 - BR,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,271,20,166,85
+Coke,2 - BR,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,19,0,15,4
+Coke,2 - BR,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,13,0,7,6
+Coke,2 - BR,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Coke,2 - BR,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,271,20,166,85
+Coke,2 - BR,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,17,0,13,4
+Coke,2 - BR,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,15,0,9,6
+Coke,2 - BR,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Coke,2 - BR,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,273,20,167,86
+Coke,2 - BR,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,14,0,11,3
+Coke,2 - BR,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,16,0,10,6
+Coke,2 - BR,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Coke,2 - BR,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,266,20,163,83
+Coke,2 - BR,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,22,0,16,6
+Coke,2 - BR,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,2,0,2,0
+Coke,2 - BR,"Member, State Board of Education, District 15",15,,Under Votes,13,0,7,6
+Coke,2 - BR,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Coke,2 - BR,State Representative,72,REP,Drew Darby,273,17,171,85
+Coke,2 - BR,State Representative,72,,Under Votes,30,3,17,10
+Coke,2 - BR,State Representative,72,,Over Votes,0,0,0,0
+Coke,2 - BR,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,266,19,163,84
+Coke,2 - BR,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,19,0,15,4
+Coke,2 - BR,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,18,1,10,7
+Coke,2 - BR,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Coke,2 - BR,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,100,0,70,30
+Coke,2 - BR,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,203,20,118,65
+Coke,2 - BR,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Coke,2 - BR,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,88,0,59,29
+Coke,2 - BR,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,215,20,129,66
+Coke,2 - BR,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Coke,2 - BR,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,81,0,53,28
+Coke,2 - BR,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,222,20,135,67
+Coke,2 - BR,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Coke,2 - BR,"District Judge, 51st Judicial District",51,REP,Carmen Symes Dusek,270,18,167,85
+Coke,2 - BR,"District Judge, 51st Judicial District",51,,Under Votes,33,2,21,10
+Coke,2 - BR,"District Judge, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,2 - BR,"District Attorney, 51st Judicial District",51,REP,Allison Palmer,263,18,162,83
+Coke,2 - BR,"District Attorney, 51st Judicial District",51,,Under Votes,40,2,26,12
+Coke,2 - BR,"District Attorney, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,2 - BR,County Attorney,,REP,Cody McCabe,277,20,170,87
+Coke,2 - BR,County Attorney,,,Under Votes,26,0,18,8
+Coke,2 - BR,County Attorney,,,Over Votes,0,0,0,0
+Coke,2 - BR,County Attorney,,REP,Jennifer Burdett,280,20,173,87
+Coke,2 - BR,County Attorney,,,Under Votes,23,0,15,8
+Coke,2 - BR,County Attorney,,,Over Votes,0,0,0,0
+Coke,2 - BR,Sheriff,,REP,Billy Williams,279,19,173,87
+Coke,2 - BR,Sheriff,,,Under Votes,24,1,15,8
+Coke,2 - BR,Sheriff,,,Over Votes,0,0,0,0
+Coke,2 - BR,County Tax Assessor-Collector,,REP,Gina Williams,277,19,171,87
+Coke,2 - BR,County Tax Assessor-Collector,,,Under Votes,26,1,17,8
+Coke,2 - BR,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Coke,2 - BR,County Constable,,REP,Marty Boyd,272,18,169,85
+Coke,2 - BR,County Constable,,,Under Votes,31,2,19,10
+Coke,2 - BR,County Constable,,,Over Votes,0,0,0,0
+Coke,2 - BR,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Under Votes,18,4,10,4
+Coke,2 - BR,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,Registered Voters,,,,13,,,
+Coke,2 - BRBLACK,Ballots Cast,,,,10,,,
+Coke,2 - BRBLACK,President,,REP,Donald J. Trump JD Vance,10,1,7,2
+Coke,2 - BRBLACK,President,,DEM,Kamala D. Harris Tim Walz,0,0,0,0
+Coke,2 - BRBLACK,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Coke,2 - BRBLACK,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Coke,2 - BRBLACK,President,,,Under Votes,0,0,0,0
+Coke,2 - BRBLACK,President,,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,U.S. Senate,,REP,Ted Cruz,10,1,7,2
+Coke,2 - BRBLACK,U.S. Senate,,DEM,Colin Allred,0,0,0,0
+Coke,2 - BRBLACK,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Coke,2 - BRBLACK,U.S. Senate,,,Under Votes,0,0,0,0
+Coke,2 - BRBLACK,U.S. Senate,,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,U.S. House,11,REP,August Pfluger,8,1,5,2
+Coke,2 - BRBLACK,U.S. House,11,,Under Votes,2,0,2,0
+Coke,2 - BRBLACK,U.S. House,11,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,Railroad Commissioner,,REP,Christi Craddick,10,1,7,2
+Coke,2 - BRBLACK,Railroad Commissioner,,DEM,Katherine Culbert,0,0,0,0
+Coke,2 - BRBLACK,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Coke,2 - BRBLACK,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Coke,2 - BRBLACK,Railroad Commissioner,,,Under Votes,0,0,0,0
+Coke,2 - BRBLACK,Railroad Commissioner,,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,9,0,7,2
+Coke,2 - BRBLACK,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,0,0,0,0
+Coke,2 - BRBLACK,"Justice, Supreme Court, Place 2",2,,Under Votes,1,1,0,0
+Coke,2 - BRBLACK,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,"Justice, Supreme Court, Place 4",4,REP,John Devine,9,0,7,2
+Coke,2 - BRBLACK,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,0,0,0,0
+Coke,2 - BRBLACK,"Justice, Supreme Court, Place 4",4,,Under Votes,1,1,0,0
+Coke,2 - BRBLACK,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,9,0,7,2
+Coke,2 - BRBLACK,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,0,0,0,0
+Coke,2 - BRBLACK,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Coke,2 - BRBLACK,"Justice, Supreme Court, Place 6",6,,Under Votes,1,1,0,0
+Coke,2 - BRBLACK,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,9,0,7,2
+Coke,2 - BRBLACK,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,0,0,0,0
+Coke,2 - BRBLACK,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,1,0,0
+Coke,2 - BRBLACK,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,9,0,7,2
+Coke,2 - BRBLACK,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,0,0,0,0
+Coke,2 - BRBLACK,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,1,1,0,0
+Coke,2 - BRBLACK,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,9,0,7,2
+Coke,2 - BRBLACK,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,0,0,0,0
+Coke,2 - BRBLACK,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,1,1,0,0
+Coke,2 - BRBLACK,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,9,0,7,2
+Coke,2 - BRBLACK,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,0,0,0,0
+Coke,2 - BRBLACK,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,0,0,0,0
+Coke,2 - BRBLACK,"Member, State Board of Education, District 15",15,,Under Votes,1,1,0,0
+Coke,2 - BRBLACK,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,State Representative,72,REP,Drew Darby,10,1,7,2
+Coke,2 - BRBLACK,State Representative,72,,Under Votes,0,0,0,0
+Coke,2 - BRBLACK,State Representative,72,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,9,0,7,2
+Coke,2 - BRBLACK,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,0,0,0,0
+Coke,2 - BRBLACK,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,1,1,0,0
+Coke,2 - BRBLACK,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,3,0,2,1
+Coke,2 - BRBLACK,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,7,1,5,1
+Coke,2 - BRBLACK,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,1,0,0,1
+Coke,2 - BRBLACK,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,9,1,7,1
+Coke,2 - BRBLACK,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,1,0,0,1
+Coke,2 - BRBLACK,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,9,1,7,1
+Coke,2 - BRBLACK,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,"District Judge, 51st Judicial District",51,REP,Carmen Symes Dusek,9,0,7,2
+Coke,2 - BRBLACK,"District Judge, 51st Judicial District",51,,Under Votes,1,1,0,0
+Coke,2 - BRBLACK,"District Judge, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,"District Attorney, 51st Judicial District",51,REP,Allison Palmer,10,1,7,2
+Coke,2 - BRBLACK,"District Attorney, 51st Judicial District",51,,Under Votes,0,0,0,0
+Coke,2 - BRBLACK,"District Attorney, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,County Attorney,,REP,Cody McCabe,10,1,7,2
+Coke,2 - BRBLACK,County Attorney,,,Under Votes,0,0,0,0
+Coke,2 - BRBLACK,County Attorney,,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,County Attorney,,REP,Jennifer Burdett,9,1,7,1
+Coke,2 - BRBLACK,County Attorney,,,Under Votes,1,0,0,1
+Coke,2 - BRBLACK,County Attorney,,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,Sheriff,,REP,Billy Williams,10,1,7,2
+Coke,2 - BRBLACK,Sheriff,,,Under Votes,0,0,0,0
+Coke,2 - BRBLACK,Sheriff,,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,County Tax Assessor-Collector,,REP,Gina Williams,10,1,7,2
+Coke,2 - BRBLACK,County Tax Assessor-Collector,,,Under Votes,0,0,0,0
+Coke,2 - BRBLACK,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,County Constable,,REP,Marty Boyd,10,1,7,2
+Coke,2 - BRBLACK,County Constable,,,Under Votes,0,0,0,0
+Coke,2 - BRBLACK,County Constable,,,Over Votes,0,0,0,0
+Coke,2 - BRBLACK,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Under Votes,0,0,0,0
+Coke,2 - BRBLACK,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Over Votes,0,0,0,0
+Coke,3 - CRL,Registered Voters,,,,267,,,
+Coke,3 - CRL,Ballots Cast,,,,174,,,
+Coke,3 - CRL,President,,REP,Donald J. Trump JD Vance,155,8,117,30
+Coke,3 - CRL,President,,DEM,Kamala D. Harris Tim Walz,17,2,9,6
+Coke,3 - CRL,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Coke,3 - CRL,President,,GRN,Jill Stein Rudolph Ware,2,0,0,2
+Coke,3 - CRL,President,,,Under Votes,0,0,0,0
+Coke,3 - CRL,President,,,Over Votes,0,0,0,0
+Coke,3 - CRL,U.S. Senate,,REP,Ted Cruz,149,9,112,28
+Coke,3 - CRL,U.S. Senate,,DEM,Colin Allred,21,1,12,8
+Coke,3 - CRL,U.S. Senate,,LIB,Ted Brown,2,0,2,0
+Coke,3 - CRL,U.S. Senate,,,Under Votes,2,0,0,2
+Coke,3 - CRL,U.S. Senate,,,Over Votes,0,0,0,0
+Coke,3 - CRL,U.S. House,11,REP,August Pfluger,160,10,117,33
+Coke,3 - CRL,U.S. House,11,,Under Votes,14,0,9,5
+Coke,3 - CRL,U.S. House,11,,Over Votes,0,0,0,0
+Coke,3 - CRL,Railroad Commissioner,,REP,Christi Craddick,148,8,113,27
+Coke,3 - CRL,Railroad Commissioner,,DEM,Katherine Culbert,14,0,7,7
+Coke,3 - CRL,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,2,0
+Coke,3 - CRL,Railroad Commissioner,,GRN,Eddie Espinoza,4,1,2,1
+Coke,3 - CRL,Railroad Commissioner,,,Under Votes,6,1,2,3
+Coke,3 - CRL,Railroad Commissioner,,,Over Votes,0,0,0,0
+Coke,3 - CRL,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,148,8,113,27
+Coke,3 - CRL,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,17,0,9,8
+Coke,3 - CRL,"Justice, Supreme Court, Place 2",2,,Under Votes,9,2,4,3
+Coke,3 - CRL,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Coke,3 - CRL,"Justice, Supreme Court, Place 4",4,REP,John Devine,146,8,110,28
+Coke,3 - CRL,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,15,0,8,7
+Coke,3 - CRL,"Justice, Supreme Court, Place 4",4,,Under Votes,13,2,8,3
+Coke,3 - CRL,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Coke,3 - CRL,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,145,8,112,25
+Coke,3 - CRL,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,17,0,8,9
+Coke,3 - CRL,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,4,0,2,2
+Coke,3 - CRL,"Justice, Supreme Court, Place 6",6,,Under Votes,8,2,4,2
+Coke,3 - CRL,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Coke,3 - CRL,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,148,8,114,26
+Coke,3 - CRL,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,18,0,9,9
+Coke,3 - CRL,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,8,2,3,3
+Coke,3 - CRL,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Coke,3 - CRL,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,153,8,118,27
+Coke,3 - CRL,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,14,0,6,8
+Coke,3 - CRL,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,7,2,2,3
+Coke,3 - CRL,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Coke,3 - CRL,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,148,8,113,27
+Coke,3 - CRL,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,13,0,7,6
+Coke,3 - CRL,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,13,2,6,5
+Coke,3 - CRL,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Coke,3 - CRL,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,150,8,117,25
+Coke,3 - CRL,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,13,0,6,7
+Coke,3 - CRL,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,2,0,0,2
+Coke,3 - CRL,"Member, State Board of Education, District 15",15,,Under Votes,9,2,3,4
+Coke,3 - CRL,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Coke,3 - CRL,State Representative,72,REP,Drew Darby,152,10,109,33
+Coke,3 - CRL,State Representative,72,,Under Votes,22,0,17,5
+Coke,3 - CRL,State Representative,72,,Over Votes,0,0,0,0
+Coke,3 - CRL,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,147,8,111,28
+Coke,3 - CRL,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,12,0,5,7
+Coke,3 - CRL,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,15,2,10,3
+Coke,3 - CRL,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Coke,3 - CRL,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,57,2,36,19
+Coke,3 - CRL,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,117,8,90,19
+Coke,3 - CRL,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Coke,3 - CRL,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,52,2,33,17
+Coke,3 - CRL,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,122,8,93,21
+Coke,3 - CRL,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Coke,3 - CRL,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,51,3,32,16
+Coke,3 - CRL,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,123,7,94,22
+Coke,3 - CRL,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Coke,3 - CRL,"District Judge, 51st Judicial District",51,REP,Carmen Symes Dusek,152,9,111,32
+Coke,3 - CRL,"District Judge, 51st Judicial District",51,,Under Votes,22,1,15,6
+Coke,3 - CRL,"District Judge, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,3 - CRL,"District Attorney, 51st Judicial District",51,REP,Allison Palmer,144,9,103,32
+Coke,3 - CRL,"District Attorney, 51st Judicial District",51,,Under Votes,30,1,23,6
+Coke,3 - CRL,"District Attorney, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,3 - CRL,County Attorney,,REP,Cody McCabe,153,8,112,33
+Coke,3 - CRL,County Attorney,,,Under Votes,21,2,14,5
+Coke,3 - CRL,County Attorney,,,Over Votes,0,0,0,0
+Coke,3 - CRL,County Attorney,,REP,Jennifer Burdett,157,9,115,33
+Coke,3 - CRL,County Attorney,,,Under Votes,17,1,11,5
+Coke,3 - CRL,County Attorney,,,Over Votes,0,0,0,0
+Coke,3 - CRL,Sheriff,,REP,Billy Williams,152,9,109,34
+Coke,3 - CRL,Sheriff,,,Under Votes,22,1,17,4
+Coke,3 - CRL,Sheriff,,,Over Votes,0,0,0,0
+Coke,3 - CRL,County Tax Assessor-Collector,,REP,Gina Williams,155,9,111,35
+Coke,3 - CRL,County Tax Assessor-Collector,,,Under Votes,19,1,15,3
+Coke,3 - CRL,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Coke,3 - CRL,"County Commissioner, Precinct 3",,REP,Kizzie Waggonner,158,9,114,35
+Coke,3 - CRL,"County Commissioner, Precinct 3",,,Under Votes,16,1,12,3
+Coke,3 - CRL,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Coke,3 - CRL,County Constable,,REP,Marty Boyd,156,9,113,34
+Coke,3 - CRL,County Constable,,,Under Votes,18,1,13,4
+Coke,3 - CRL,County Constable,,,Over Votes,0,0,0,0
+Coke,3 - CRL,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Under Votes,13,4,8,1
+Coke,3 - CRL,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Over Votes,0,0,0,0
+Coke,3 - RL,Registered Voters,,,,380,,,
+Coke,3 - RL,Ballots Cast,,,,286,,,
+Coke,3 - RL,President,,REP,Donald J. Trump JD Vance,259,9,199,51
+Coke,3 - RL,President,,DEM,Kamala D. Harris Tim Walz,26,4,18,4
+Coke,3 - RL,President,,LIB,Chase Oliver Mike ter Maat,1,0,1,0
+Coke,3 - RL,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Coke,3 - RL,President,,,Under Votes,0,0,0,0
+Coke,3 - RL,President,,,Over Votes,0,0,0,0
+Coke,3 - RL,U.S. Senate,,REP,Ted Cruz,251,9,194,48
+Coke,3 - RL,U.S. Senate,,DEM,Colin Allred,31,4,21,6
+Coke,3 - RL,U.S. Senate,,LIB,Ted Brown,3,0,2,1
+Coke,3 - RL,U.S. Senate,,,Under Votes,1,0,1,0
+Coke,3 - RL,U.S. Senate,,,Over Votes,0,0,0,0
+Coke,3 - RL,U.S. House,11,REP,August Pfluger,263,11,203,49
+Coke,3 - RL,U.S. House,11,,Under Votes,23,2,15,6
+Coke,3 - RL,U.S. House,11,,Over Votes,0,0,0,0
+Coke,3 - RL,Railroad Commissioner,,REP,Christi Craddick,245,9,189,47
+Coke,3 - RL,Railroad Commissioner,,DEM,Katherine Culbert,23,4,17,2
+Coke,3 - RL,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,6,1
+Coke,3 - RL,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,1,1
+Coke,3 - RL,Railroad Commissioner,,,Under Votes,9,0,5,4
+Coke,3 - RL,Railroad Commissioner,,,Over Votes,0,0,0,0
+Coke,3 - RL,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,253,10,197,46
+Coke,3 - RL,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,24,3,16,5
+Coke,3 - RL,"Justice, Supreme Court, Place 2",2,,Under Votes,9,0,5,4
+Coke,3 - RL,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Coke,3 - RL,"Justice, Supreme Court, Place 4",4,REP,John Devine,251,10,195,46
+Coke,3 - RL,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,25,3,18,4
+Coke,3 - RL,"Justice, Supreme Court, Place 4",4,,Under Votes,10,0,5,5
+Coke,3 - RL,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Coke,3 - RL,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,247,10,194,43
+Coke,3 - RL,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,25,3,17,5
+Coke,3 - RL,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,5,0,3,2
+Coke,3 - RL,"Justice, Supreme Court, Place 6",6,,Under Votes,9,0,4,5
+Coke,3 - RL,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Coke,3 - RL,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,254,10,197,47
+Coke,3 - RL,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,23,3,17,3
+Coke,3 - RL,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,0,4,5
+Coke,3 - RL,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Coke,3 - RL,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,253,10,198,45
+Coke,3 - RL,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,23,3,16,4
+Coke,3 - RL,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,10,0,4,6
+Coke,3 - RL,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Coke,3 - RL,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,256,10,200,46
+Coke,3 - RL,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,22,3,15,4
+Coke,3 - RL,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,8,0,3,5
+Coke,3 - RL,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Coke,3 - RL,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,247,8,192,47
+Coke,3 - RL,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,25,3,19,3
+Coke,3 - RL,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,5,1,3,1
+Coke,3 - RL,"Member, State Board of Education, District 15",15,,Under Votes,9,1,4,4
+Coke,3 - RL,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Coke,3 - RL,State Representative,72,REP,Drew Darby,261,11,205,45
+Coke,3 - RL,State Representative,72,,Under Votes,25,2,13,10
+Coke,3 - RL,State Representative,72,,Over Votes,0,0,0,0
+Coke,3 - RL,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,253,10,198,45
+Coke,3 - RL,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,24,3,17,4
+Coke,3 - RL,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,9,0,3,6
+Coke,3 - RL,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Coke,3 - RL,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,86,5,58,23
+Coke,3 - RL,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,200,8,160,32
+Coke,3 - RL,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Coke,3 - RL,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,77,5,53,19
+Coke,3 - RL,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,209,8,165,36
+Coke,3 - RL,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Coke,3 - RL,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,69,4,49,16
+Coke,3 - RL,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,217,9,169,39
+Coke,3 - RL,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Coke,3 - RL,"District Judge, 51st Judicial District",51,REP,Carmen Symes Dusek,250,10,195,45
+Coke,3 - RL,"District Judge, 51st Judicial District",51,,Under Votes,36,3,23,10
+Coke,3 - RL,"District Judge, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,3 - RL,"District Attorney, 51st Judicial District",51,REP,Allison Palmer,246,10,192,44
+Coke,3 - RL,"District Attorney, 51st Judicial District",51,,Under Votes,40,3,26,11
+Coke,3 - RL,"District Attorney, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,3 - RL,County Attorney,,REP,Cody McCabe,264,10,208,46
+Coke,3 - RL,County Attorney,,,Under Votes,22,3,10,9
+Coke,3 - RL,County Attorney,,,Over Votes,0,0,0,0
+Coke,3 - RL,County Attorney,,REP,Jennifer Burdett,265,11,208,46
+Coke,3 - RL,County Attorney,,,Under Votes,21,2,10,9
+Coke,3 - RL,County Attorney,,,Over Votes,0,0,0,0
+Coke,3 - RL,Sheriff,,REP,Billy Williams,260,11,201,48
+Coke,3 - RL,Sheriff,,,Under Votes,26,2,17,7
+Coke,3 - RL,Sheriff,,,Over Votes,0,0,0,0
+Coke,3 - RL,County Tax Assessor-Collector,,REP,Gina Williams,261,11,202,48
+Coke,3 - RL,County Tax Assessor-Collector,,,Under Votes,25,2,16,7
+Coke,3 - RL,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Coke,3 - RL,"County Commissioner, Precinct 3",,REP,Kizzie Waggonner,265,11,205,49
+Coke,3 - RL,"County Commissioner, Precinct 3",,,Under Votes,21,2,13,6
+Coke,3 - RL,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Coke,3 - RL,County Constable,,REP,Marty Boyd,262,11,203,48
+Coke,3 - RL,County Constable,,,Under Votes,24,2,15,7
+Coke,3 - RL,County Constable,,,Over Votes,0,0,0,0
+Coke,3 - RL,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Under Votes,19,2,13,4
+Coke,3 - RL,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,Registered Voters,,,,42,,,
+Coke,3 - RLWVISED,Ballots Cast,,,,37,,,
+Coke,3 - RLWVISED,President,,REP,Donald J. Trump JD Vance,34,0,32,2
+Coke,3 - RLWVISED,President,,DEM,Kamala D. Harris Tim Walz,2,0,1,1
+Coke,3 - RLWVISED,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Coke,3 - RLWVISED,President,,GRN,Jill Stein Rudolph Ware,1,0,0,1
+Coke,3 - RLWVISED,President,,,Under Votes,0,0,0,0
+Coke,3 - RLWVISED,President,,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,U.S. Senate,,REP,Ted Cruz,35,0,32,3
+Coke,3 - RLWVISED,U.S. Senate,,DEM,Colin Allred,2,0,1,1
+Coke,3 - RLWVISED,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Coke,3 - RLWVISED,U.S. Senate,,,Under Votes,0,0,0,0
+Coke,3 - RLWVISED,U.S. Senate,,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,U.S. House,11,REP,August Pfluger,37,0,33,4
+Coke,3 - RLWVISED,U.S. House,11,,Under Votes,0,0,0,0
+Coke,3 - RLWVISED,U.S. House,11,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,Railroad Commissioner,,REP,Christi Craddick,35,0,32,3
+Coke,3 - RLWVISED,Railroad Commissioner,,DEM,Katherine Culbert,2,0,1,1
+Coke,3 - RLWVISED,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Coke,3 - RLWVISED,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Coke,3 - RLWVISED,Railroad Commissioner,,,Under Votes,0,0,0,0
+Coke,3 - RLWVISED,Railroad Commissioner,,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,35,0,32,3
+Coke,3 - RLWVISED,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,2,0,1,1
+Coke,3 - RLWVISED,"Justice, Supreme Court, Place 2",2,,Under Votes,0,0,0,0
+Coke,3 - RLWVISED,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,"Justice, Supreme Court, Place 4",4,REP,John Devine,35,0,32,3
+Coke,3 - RLWVISED,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,2,0,1,1
+Coke,3 - RLWVISED,"Justice, Supreme Court, Place 4",4,,Under Votes,0,0,0,0
+Coke,3 - RLWVISED,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,34,0,31,3
+Coke,3 - RLWVISED,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,2,0,1,1
+Coke,3 - RLWVISED,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Coke,3 - RLWVISED,"Justice, Supreme Court, Place 6",6,,Under Votes,1,0,1,0
+Coke,3 - RLWVISED,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,34,0,31,3
+Coke,3 - RLWVISED,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,2,0,1,1
+Coke,3 - RLWVISED,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,0,1,0
+Coke,3 - RLWVISED,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,33,0,30,3
+Coke,3 - RLWVISED,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,2,0,1,1
+Coke,3 - RLWVISED,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,2,0,2,0
+Coke,3 - RLWVISED,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,35,0,32,3
+Coke,3 - RLWVISED,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,1,0,0,1
+Coke,3 - RLWVISED,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,1,0,1,0
+Coke,3 - RLWVISED,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,34,0,32,2
+Coke,3 - RLWVISED,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,3,0,1,2
+Coke,3 - RLWVISED,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,0,0,0,0
+Coke,3 - RLWVISED,"Member, State Board of Education, District 15",15,,Under Votes,0,0,0,0
+Coke,3 - RLWVISED,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,State Representative,72,REP,Drew Darby,35,0,31,4
+Coke,3 - RLWVISED,State Representative,72,,Under Votes,2,0,2,0
+Coke,3 - RLWVISED,State Representative,72,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,34,0,31,3
+Coke,3 - RLWVISED,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,2,0,1,1
+Coke,3 - RLWVISED,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,1,0,1,0
+Coke,3 - RLWVISED,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,7,0,5,2
+Coke,3 - RLWVISED,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,30,0,28,2
+Coke,3 - RLWVISED,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,5,0,3,2
+Coke,3 - RLWVISED,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,32,0,30,2
+Coke,3 - RLWVISED,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,3,0,2,1
+Coke,3 - RLWVISED,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,34,0,31,3
+Coke,3 - RLWVISED,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,"District Judge, 51st Judicial District",51,REP,Carmen Symes Dusek,34,0,30,4
+Coke,3 - RLWVISED,"District Judge, 51st Judicial District",51,,Under Votes,3,0,3,0
+Coke,3 - RLWVISED,"District Judge, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,"District Attorney, 51st Judicial District",51,REP,Allison Palmer,34,0,30,4
+Coke,3 - RLWVISED,"District Attorney, 51st Judicial District",51,,Under Votes,3,0,3,0
+Coke,3 - RLWVISED,"District Attorney, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,County Attorney,,REP,Cody McCabe,37,0,33,4
+Coke,3 - RLWVISED,County Attorney,,,Under Votes,0,0,0,0
+Coke,3 - RLWVISED,County Attorney,,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,County Attorney,,REP,Jennifer Burdett,36,0,32,4
+Coke,3 - RLWVISED,County Attorney,,,Under Votes,1,0,1,0
+Coke,3 - RLWVISED,County Attorney,,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,Sheriff,,REP,Billy Williams,37,0,33,4
+Coke,3 - RLWVISED,Sheriff,,,Under Votes,0,0,0,0
+Coke,3 - RLWVISED,Sheriff,,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,County Tax Assessor-Collector,,REP,Gina Williams,37,0,33,4
+Coke,3 - RLWVISED,County Tax Assessor-Collector,,,Under Votes,0,0,0,0
+Coke,3 - RLWVISED,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,"County Commissioner, Precinct 3",,REP,Kizzie Waggonner,37,0,33,4
+Coke,3 - RLWVISED,"County Commissioner, Precinct 3",,,Under Votes,0,0,0,0
+Coke,3 - RLWVISED,"County Commissioner, Precinct 3",,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,County Constable,,REP,Marty Boyd,36,0,32,4
+Coke,3 - RLWVISED,County Constable,,,Under Votes,1,0,1,0
+Coke,3 - RLWVISED,County Constable,,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,"WATER VALLEY INDEPENDENT SCHOOL DISTRICT Trustee, Full Term - Vote for none, one, two, three or four",,,Under Votes,45,0,43,2
+Coke,3 - RLWVISED,"WATER VALLEY INDEPENDENT SCHOOL DISTRICT Trustee, Full Term - Vote for none, one, two, three or four",,,Over Votes,0,0,0,0
+Coke,3 - RLWVISED,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Under Votes,4,0,4,0
+Coke,3 - RLWVISED,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Over Votes,0,0,0,0
+Coke,4 - CBR,Registered Voters,,,,344,,,
+Coke,4 - CBR,Ballots Cast,,,,248,,,
+Coke,4 - CBR,President,,REP,Donald J. Trump JD Vance,218,6,104,108
+Coke,4 - CBR,President,,DEM,Kamala D. Harris Tim Walz,28,2,16,10
+Coke,4 - CBR,President,,LIB,Chase Oliver Mike ter Maat,1,0,0,1
+Coke,4 - CBR,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Coke,4 - CBR,President,,,Under Votes,1,0,0,1
+Coke,4 - CBR,President,,,Over Votes,0,0,0,0
+Coke,4 - CBR,U.S. Senate,,REP,Ted Cruz,207,6,100,101
+Coke,4 - CBR,U.S. Senate,,DEM,Colin Allred,36,2,18,16
+Coke,4 - CBR,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+Coke,4 - CBR,U.S. Senate,,,Under Votes,4,0,2,2
+Coke,4 - CBR,U.S. Senate,,,Over Votes,0,0,0,0
+Coke,4 - CBR,U.S. House,11,REP,August Pfluger,225,7,106,112
+Coke,4 - CBR,U.S. House,11,,Under Votes,23,1,14,8
+Coke,4 - CBR,U.S. House,11,,Over Votes,0,0,0,0
+Coke,4 - CBR,Railroad Commissioner,,REP,Christi Craddick,205,6,97,102
+Coke,4 - CBR,Railroad Commissioner,,DEM,Katherine Culbert,24,2,14,8
+Coke,4 - CBR,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,1,0
+Coke,4 - CBR,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,1,2
+Coke,4 - CBR,Railroad Commissioner,,,Under Votes,15,0,7,8
+Coke,4 - CBR,Railroad Commissioner,,,Over Votes,0,0,0,0
+Coke,4 - CBR,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,210,6,99,105
+Coke,4 - CBR,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,22,2,13,7
+Coke,4 - CBR,"Justice, Supreme Court, Place 2",2,,Under Votes,16,0,8,8
+Coke,4 - CBR,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Coke,4 - CBR,"Justice, Supreme Court, Place 4",4,REP,John Devine,209,6,100,103
+Coke,4 - CBR,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,23,2,13,8
+Coke,4 - CBR,"Justice, Supreme Court, Place 4",4,,Under Votes,16,0,7,9
+Coke,4 - CBR,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Coke,4 - CBR,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,205,6,96,103
+Coke,4 - CBR,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,24,2,13,9
+Coke,4 - CBR,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,6,0,5,1
+Coke,4 - CBR,"Justice, Supreme Court, Place 6",6,,Under Votes,13,0,6,7
+Coke,4 - CBR,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Coke,4 - CBR,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,205,6,97,102
+Coke,4 - CBR,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,26,2,16,8
+Coke,4 - CBR,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,17,0,7,10
+Coke,4 - CBR,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Coke,4 - CBR,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,210,6,100,104
+Coke,4 - CBR,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,24,2,15,7
+Coke,4 - CBR,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,14,0,5,9
+Coke,4 - CBR,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Coke,4 - CBR,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,208,6,97,105
+Coke,4 - CBR,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,23,2,15,6
+Coke,4 - CBR,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,17,0,8,9
+Coke,4 - CBR,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Coke,4 - CBR,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,197,6,94,97
+Coke,4 - CBR,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,33,2,18,13
+Coke,4 - CBR,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,3,0,2,1
+Coke,4 - CBR,"Member, State Board of Education, District 15",15,,Under Votes,15,0,6,9
+Coke,4 - CBR,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Coke,4 - CBR,State Representative,72,REP,Drew Darby,220,6,106,108
+Coke,4 - CBR,State Representative,72,,Under Votes,28,2,14,12
+Coke,4 - CBR,State Representative,72,,Over Votes,0,0,0,0
+Coke,4 - CBR,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,211,6,100,105
+Coke,4 - CBR,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,22,2,14,6
+Coke,4 - CBR,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,15,0,6,9
+Coke,4 - CBR,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Coke,4 - CBR,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,98,2,46,50
+Coke,4 - CBR,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,150,6,74,70
+Coke,4 - CBR,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Coke,4 - CBR,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,94,2,43,49
+Coke,4 - CBR,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,154,6,77,71
+Coke,4 - CBR,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Coke,4 - CBR,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,91,2,42,47
+Coke,4 - CBR,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,157,6,78,73
+Coke,4 - CBR,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Coke,4 - CBR,"District Judge, 51st Judicial District",51,REP,Carmen Symes Dusek,208,6,101,101
+Coke,4 - CBR,"District Judge, 51st Judicial District",51,,Under Votes,40,2,19,19
+Coke,4 - CBR,"District Judge, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,4 - CBR,"District Attorney, 51st Judicial District",51,REP,Allison Palmer,208,6,102,100
+Coke,4 - CBR,"District Attorney, 51st Judicial District",51,,Under Votes,40,2,18,20
+Coke,4 - CBR,"District Attorney, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,4 - CBR,County Attorney,,REP,Cody McCabe,218,7,103,108
+Coke,4 - CBR,County Attorney,,,Under Votes,30,1,17,12
+Coke,4 - CBR,County Attorney,,,Over Votes,0,0,0,0
+Coke,4 - CBR,County Attorney,,REP,Jennifer Burdett,220,8,103,109
+Coke,4 - CBR,County Attorney,,,Under Votes,28,0,17,11
+Coke,4 - CBR,County Attorney,,,Over Votes,0,0,0,0
+Coke,4 - CBR,Sheriff,,REP,Billy Williams,215,8,101,106
+Coke,4 - CBR,Sheriff,,,Under Votes,33,0,19,14
+Coke,4 - CBR,Sheriff,,,Over Votes,0,0,0,0
+Coke,4 - CBR,County Tax Assessor-Collector,,REP,Gina Williams,223,8,105,110
+Coke,4 - CBR,County Tax Assessor-Collector,,,Under Votes,25,0,15,10
+Coke,4 - CBR,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Coke,4 - CBR,"County Commissioner, Precinct 4 Unexpired Term",,REP,Danny Koeing Webb,221,7,105,109
+Coke,4 - CBR,"County Commissioner, Precinct 4 Unexpired Term",,,Under Votes,27,1,15,11
+Coke,4 - CBR,"County Commissioner, Precinct 4 Unexpired Term",,,Over Votes,0,0,0,0
+Coke,4 - CBR,County Constable,,REP,Marty Boyd,225,8,107,110
+Coke,4 - CBR,County Constable,,,Under Votes,23,0,13,10
+Coke,4 - CBR,County Constable,,,Over Votes,0,0,0,0
+Coke,4 - CBR,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Under Votes,15,0,5,10
+Coke,4 - CBR,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Over Votes,0,0,0,0
+Coke,4 - BR,Registered Voters,,,,161,,,
+Coke,4 - BR,Ballots Cast,,,,126,,,
+Coke,4 - BR,President,,REP,Donald J. Trump JD Vance,113,10,67,36
+Coke,4 - BR,President,,DEM,Kamala D. Harris Tim Walz,13,6,4,3
+Coke,4 - BR,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Coke,4 - BR,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Coke,4 - BR,President,,,Under Votes,0,0,0,0
+Coke,4 - BR,President,,,Over Votes,0,0,0,0
+Coke,4 - BR,U.S. Senate,,REP,Ted Cruz,106,9,65,32
+Coke,4 - BR,U.S. Senate,,DEM,Colin Allred,16,7,4,5
+Coke,4 - BR,U.S. Senate,,LIB,Ted Brown,3,0,1,2
+Coke,4 - BR,U.S. Senate,,,Under Votes,1,0,1,0
+Coke,4 - BR,U.S. Senate,,,Over Votes,0,0,0,0
+Coke,4 - BR,U.S. House,11,REP,August Pfluger,121,15,68,38
+Coke,4 - BR,U.S. House,11,,Under Votes,5,1,3,1
+Coke,4 - BR,U.S. House,11,,Over Votes,0,0,0,0
+Coke,4 - BR,Railroad Commissioner,,REP,Christi Craddick,108,12,63,33
+Coke,4 - BR,Railroad Commissioner,,DEM,Katherine Culbert,8,4,3,1
+Coke,4 - BR,Railroad Commissioner,,LIB,Hawk Dunlap,3,0,2,1
+Coke,4 - BR,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Coke,4 - BR,Railroad Commissioner,,,Under Votes,7,0,3,4
+Coke,4 - BR,Railroad Commissioner,,,Over Votes,0,0,0,0
+Coke,4 - BR,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,113,11,66,36
+Coke,4 - BR,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,9,5,3,1
+Coke,4 - BR,"Justice, Supreme Court, Place 2",2,,Under Votes,4,0,2,2
+Coke,4 - BR,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Coke,4 - BR,"Justice, Supreme Court, Place 4",4,REP,John Devine,113,11,67,35
+Coke,4 - BR,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,10,5,4,1
+Coke,4 - BR,"Justice, Supreme Court, Place 4",4,,Under Votes,3,0,0,3
+Coke,4 - BR,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Coke,4 - BR,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,111,12,65,34
+Coke,4 - BR,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,9,4,4,1
+Coke,4 - BR,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,3,0,1,2
+Coke,4 - BR,"Justice, Supreme Court, Place 6",6,,Under Votes,3,0,1,2
+Coke,4 - BR,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Coke,4 - BR,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,112,11,68,33
+Coke,4 - BR,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,11,5,3,3
+Coke,4 - BR,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,3,0,0,3
+Coke,4 - BR,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Coke,4 - BR,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,111,11,66,34
+Coke,4 - BR,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,10,5,4,1
+Coke,4 - BR,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,5,0,1,4
+Coke,4 - BR,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Coke,4 - BR,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,114,11,68,35
+Coke,4 - BR,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,8,5,2,1
+Coke,4 - BR,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,4,0,1,3
+Coke,4 - BR,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Coke,4 - BR,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,106,10,63,33
+Coke,4 - BR,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,13,6,4,3
+Coke,4 - BR,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,4,0,2,2
+Coke,4 - BR,"Member, State Board of Education, District 15",15,,Under Votes,3,0,2,1
+Coke,4 - BR,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Coke,4 - BR,State Representative,72,REP,Drew Darby,117,15,66,36
+Coke,4 - BR,State Representative,72,,Under Votes,9,1,5,3
+Coke,4 - BR,State Representative,72,,Over Votes,0,0,0,0
+Coke,4 - BR,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,113,11,66,36
+Coke,4 - BR,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,9,4,4,1
+Coke,4 - BR,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,4,1,1,2
+Coke,4 - BR,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Coke,4 - BR,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,48,8,25,15
+Coke,4 - BR,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,78,8,46,24
+Coke,4 - BR,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Coke,4 - BR,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,46,7,24,15
+Coke,4 - BR,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,80,9,47,24
+Coke,4 - BR,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Coke,4 - BR,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,42,7,21,14
+Coke,4 - BR,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,84,9,50,25
+Coke,4 - BR,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Coke,4 - BR,"District Judge, 51st Judicial District",51,REP,Carmen Symes Dusek,116,14,66,36
+Coke,4 - BR,"District Judge, 51st Judicial District",51,,Under Votes,10,2,5,3
+Coke,4 - BR,"District Judge, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,4 - BR,"District Attorney, 51st Judicial District",51,REP,Allison Palmer,112,14,64,34
+Coke,4 - BR,"District Attorney, 51st Judicial District",51,,Under Votes,14,2,7,5
+Coke,4 - BR,"District Attorney, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,4 - BR,County Attorney,,REP,Cody McCabe,120,14,69,37
+Coke,4 - BR,County Attorney,,,Under Votes,6,2,2,2
+Coke,4 - BR,County Attorney,,,Over Votes,0,0,0,0
+Coke,4 - BR,County Attorney,,REP,Jennifer Burdett,119,15,68,36
+Coke,4 - BR,County Attorney,,,Under Votes,7,1,3,3
+Coke,4 - BR,County Attorney,,,Over Votes,0,0,0,0
+Coke,4 - BR,Sheriff,,REP,Billy Williams,118,15,68,35
+Coke,4 - BR,Sheriff,,,Under Votes,8,1,3,4
+Coke,4 - BR,Sheriff,,,Over Votes,0,0,0,0
+Coke,4 - BR,County Tax Assessor-Collector,,REP,Gina Williams,115,15,65,35
+Coke,4 - BR,County Tax Assessor-Collector,,,Under Votes,11,1,6,4
+Coke,4 - BR,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Coke,4 - BR,"County Commissioner, Precinct 4 Unexpired Term",,REP,Danny Koeing Webb,119,15,68,36
+Coke,4 - BR,"County Commissioner, Precinct 4 Unexpired Term",,,Under Votes,7,1,3,3
+Coke,4 - BR,"County Commissioner, Precinct 4 Unexpired Term",,,Over Votes,0,0,0,0
+Coke,4 - BR,County Constable,,REP,Marty Boyd,114,15,67,32
+Coke,4 - BR,County Constable,,,Under Votes,12,1,4,7
+Coke,4 - BR,County Constable,,,Over Votes,0,0,0,0
+Coke,4 - BR,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Under Votes,5,2,0,3
+Coke,4 - BR,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Over Votes,0,0,0,0
+Coke,4 - CRL,Registered Voters,,,,10,,,
+Coke,4 - CRL,Ballots Cast,,,,7,,,
+Coke,4 - CRL,President,,REP,Donald J. Trump JD Vance,5,0,5,0
+Coke,4 - CRL,President,,DEM,Kamala D. Harris Tim Walz,2,2,0,0
+Coke,4 - CRL,President,,LIB,Chase Oliver Mike ter Maat,0,0,0,0
+Coke,4 - CRL,President,,GRN,Jill Stein Rudolph Ware,0,0,0,0
+Coke,4 - CRL,President,,,Under Votes,0,0,0,0
+Coke,4 - CRL,President,,,Over Votes,0,0,0,0
+Coke,4 - CRL,U.S. Senate,,REP,Ted Cruz,5,0,5,0
+Coke,4 - CRL,U.S. Senate,,DEM,Colin Allred,2,2,0,0
+Coke,4 - CRL,U.S. Senate,,LIB,Ted Brown,0,0,0,0
+Coke,4 - CRL,U.S. Senate,,,Under Votes,0,0,0,0
+Coke,4 - CRL,U.S. Senate,,,Over Votes,0,0,0,0
+Coke,4 - CRL,U.S. House,11,REP,August Pfluger,7,2,5,0
+Coke,4 - CRL,U.S. House,11,,Under Votes,0,0,0,0
+Coke,4 - CRL,U.S. House,11,,Over Votes,0,0,0,0
+Coke,4 - CRL,Railroad Commissioner,,REP,Christi Craddick,4,0,4,0
+Coke,4 - CRL,Railroad Commissioner,,DEM,Katherine Culbert,2,2,0,0
+Coke,4 - CRL,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Coke,4 - CRL,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Coke,4 - CRL,Railroad Commissioner,,,Under Votes,1,0,1,0
+Coke,4 - CRL,Railroad Commissioner,,,Over Votes,0,0,0,0
+Coke,4 - CRL,"Justice, Supreme Court, Place 2",2,REP,Jimmy Blacklock,4,0,4,0
+Coke,4 - CRL,"Justice, Supreme Court, Place 2",2,DEM,DaSean Jones,2,2,0,0
+Coke,4 - CRL,"Justice, Supreme Court, Place 2",2,,Under Votes,1,0,1,0
+Coke,4 - CRL,"Justice, Supreme Court, Place 2",2,,Over Votes,0,0,0,0
+Coke,4 - CRL,"Justice, Supreme Court, Place 4",4,REP,John Devine,4,0,4,0
+Coke,4 - CRL,"Justice, Supreme Court, Place 4",4,DEM,Christine Vinh Weems,2,2,0,0
+Coke,4 - CRL,"Justice, Supreme Court, Place 4",4,,Under Votes,1,0,1,0
+Coke,4 - CRL,"Justice, Supreme Court, Place 4",4,,Over Votes,0,0,0,0
+Coke,4 - CRL,"Justice, Supreme Court, Place 6",6,REP,Jane Bland,4,0,4,0
+Coke,4 - CRL,"Justice, Supreme Court, Place 6",6,DEM,Bonnie Lee Goldstein,2,2,0,0
+Coke,4 - CRL,"Justice, Supreme Court, Place 6",6,LIB,J. David Roberson,0,0,0,0
+Coke,4 - CRL,"Justice, Supreme Court, Place 6",6,,Under Votes,1,0,1,0
+Coke,4 - CRL,"Justice, Supreme Court, Place 6",6,,Over Votes,0,0,0,0
+Coke,4 - CRL,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,4,0,4,0
+Coke,4 - CRL,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,2,2,0,0
+Coke,4 - CRL,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,0,1,0
+Coke,4 - CRL,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Coke,4 - CRL,"Judge, Court of Criminal Appeals, Place 7",7,REP,Gina Parker,4,0,4,0
+Coke,4 - CRL,"Judge, Court of Criminal Appeals, Place 7",7,DEM,Nancy Mulder,2,2,0,0
+Coke,4 - CRL,"Judge, Court of Criminal Appeals, Place 7",7,,Under Votes,1,0,1,0
+Coke,4 - CRL,"Judge, Court of Criminal Appeals, Place 7",7,,Over Votes,0,0,0,0
+Coke,4 - CRL,"Judge, Court of Criminal Appeals, Place 8",8,REP,Lee Finley,4,0,4,0
+Coke,4 - CRL,"Judge, Court of Criminal Appeals, Place 8",8,DEM,Chika Anyiam,2,2,0,0
+Coke,4 - CRL,"Judge, Court of Criminal Appeals, Place 8",8,,Under Votes,1,0,1,0
+Coke,4 - CRL,"Judge, Court of Criminal Appeals, Place 8",8,,Over Votes,0,0,0,0
+Coke,4 - CRL,"Member, State Board of Education, District 15",15,REP,Aaron Kinsey,5,0,5,0
+Coke,4 - CRL,"Member, State Board of Education, District 15",15,DEM,Morgan Kirkpatrick,2,2,0,0
+Coke,4 - CRL,"Member, State Board of Education, District 15",15,LIB,Jack B. Westbrook,0,0,0,0
+Coke,4 - CRL,"Member, State Board of Education, District 15",15,,Under Votes,0,0,0,0
+Coke,4 - CRL,"Member, State Board of Education, District 15",15,,Over Votes,0,0,0,0
+Coke,4 - CRL,State Representative,72,REP,Drew Darby,7,2,5,0
+Coke,4 - CRL,State Representative,72,,Under Votes,0,0,0,0
+Coke,4 - CRL,State Representative,72,,Over Votes,0,0,0,0
+Coke,4 - CRL,"Justice, 3rd Court of Appeals District, Place 2",2,REP,John Messinger,4,0,4,0
+Coke,4 - CRL,"Justice, 3rd Court of Appeals District, Place 2",2,DEM,Maggie Ellis,2,2,0,0
+Coke,4 - CRL,"Justice, 3rd Court of Appeals District, Place 2",2,,Under Votes,1,0,1,0
+Coke,4 - CRL,"Justice, 3rd Court of Appeals District, Place 2",2,,Over Votes,0,0,0,0
+Coke,4 - CRL,"Justice, 3rd Court of Appeals District, Place 3",3,DEM,Chari Kelly,6,2,4,0
+Coke,4 - CRL,"Justice, 3rd Court of Appeals District, Place 3",3,,Under Votes,1,0,1,0
+Coke,4 - CRL,"Justice, 3rd Court of Appeals District, Place 3",3,,Over Votes,0,0,0,0
+Coke,4 - CRL,"Justice, 3rd Court of Appeals District, Place 5",5,DEM,Karin Crump,4,2,2,0
+Coke,4 - CRL,"Justice, 3rd Court of Appeals District, Place 5",5,,Under Votes,3,0,3,0
+Coke,4 - CRL,"Justice, 3rd Court of Appeals District, Place 5",5,,Over Votes,0,0,0,0
+Coke,4 - CRL,"Justice, 3rd Court of Appeals District, Place 6",6,DEM,Gisela D. Triana,4,2,2,0
+Coke,4 - CRL,"Justice, 3rd Court of Appeals District, Place 6",6,,Under Votes,3,0,3,0
+Coke,4 - CRL,"Justice, 3rd Court of Appeals District, Place 6",6,,Over Votes,0,0,0,0
+Coke,4 - CRL,"District Judge, 51st Judicial District",51,REP,Carmen Symes Dusek,5,2,3,0
+Coke,4 - CRL,"District Judge, 51st Judicial District",51,,Under Votes,2,0,2,0
+Coke,4 - CRL,"District Judge, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,4 - CRL,"District Attorney, 51st Judicial District",51,REP,Allison Palmer,5,2,3,0
+Coke,4 - CRL,"District Attorney, 51st Judicial District",51,,Under Votes,2,0,2,0
+Coke,4 - CRL,"District Attorney, 51st Judicial District",51,,Over Votes,0,0,0,0
+Coke,4 - CRL,County Attorney,,REP,Cody McCabe,7,2,5,0
+Coke,4 - CRL,County Attorney,,,Under Votes,0,0,0,0
+Coke,4 - CRL,County Attorney,,,Over Votes,0,0,0,0
+Coke,4 - CRL,County Attorney,,REP,Jennifer Burdett,7,2,5,0
+Coke,4 - CRL,County Attorney,,,Under Votes,0,0,0,0
+Coke,4 - CRL,County Attorney,,,Over Votes,0,0,0,0
+Coke,4 - CRL,Sheriff,,REP,Billy Williams,6,2,4,0
+Coke,4 - CRL,Sheriff,,,Under Votes,1,0,1,0
+Coke,4 - CRL,Sheriff,,,Over Votes,0,0,0,0
+Coke,4 - CRL,County Tax Assessor-Collector,,REP,Gina Williams,5,2,3,0
+Coke,4 - CRL,County Tax Assessor-Collector,,,Under Votes,2,0,2,0
+Coke,4 - CRL,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Coke,4 - CRL,"County Commissioner, Precinct 4 Unexpired Term",,REP,Danny Koeing Webb,7,2,5,0
+Coke,4 - CRL,"County Commissioner, Precinct 4 Unexpired Term",,,Under Votes,0,0,0,0
+Coke,4 - CRL,"County Commissioner, Precinct 4 Unexpired Term",,,Over Votes,0,0,0,0
+Coke,4 - CRL,County Constable,,REP,Marty Boyd,6,2,4,0
+Coke,4 - CRL,County Constable,,,Under Votes,1,0,1,0
+Coke,4 - CRL,County Constable,,,Over Votes,0,0,0,0
+Coke,4 - CRL,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Under Votes,0,0,0,0
+Coke,4 - CRL,COKE COUNTY EMERGENCY SERVICES DISTRICT NO. 1 PROPOSITION A,1,,Over Votes,0,0,0,0

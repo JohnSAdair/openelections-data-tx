@@ -1,0 +1,1060 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Eastland,1-Eastland,"Ballots Cast",,,,669,,,
+Eastland,1-Eastland,"President",,REP,"DONALD J. TRUMP/JD VANCE",613,26,495,92
+Eastland,1-Eastland,"President",,DEM,"KAMALA D. HARRIS/TIM WALTZ",53,10,33,10
+Eastland,1-Eastland,"President",,LIB,"CHASE OLIVER/MIKE TER MAAT",2,0,0,2
+Eastland,1-Eastland,"President",,GRN,"JILL STEIN/RUDOLPH WARE",0,0,0,0
+Eastland,1-Eastland,"President",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland,"President",,,"Under Votes",1,0,1,0
+Eastland,1-Eastland,"U.S. Senate",,REP,"TED CRUZ",594,26,479,89
+Eastland,1-Eastland,"U.S. Senate",,DEM,"COLIN ALLRED",62,10,41,11
+Eastland,1-Eastland,"U.S. Senate",,LIB,"TED BROWN",11,0,7,4
+Eastland,1-Eastland,"U.S. Senate",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland,"U.S. Senate",,,"Under Votes",2,0,2,0
+Eastland,1-Eastland,"U.S. House","25",REP,"ROGER WILLIAMS",593,24,479,90
+Eastland,1-Eastland,"U.S. House","25",,"Over Votes",0,0,0,0
+Eastland,1-Eastland,"U.S. House","25",,"Under Votes",61,12,39,10
+Eastland,1-Eastland,"Railroad Commissioner",,REP,"CHRISTI CRADDICK",578,27,468,83
+Eastland,1-Eastland,"Railroad Commissioner",,DEM,"KATHERINE CULBERT",52,9,32,11
+Eastland,1-Eastland,"Railroad Commissioner",,LIB,"HAWK DUNLAP",18,0,11,7
+Eastland,1-Eastland,"Railroad Commissioner",,GRN,"EDDIE ESPINOZA",3,0,3,0
+Eastland,1-Eastland,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland,"Railroad Commissioner",,,"Under Votes",18,0,15,3
+Eastland,1-Eastland,"Justice, Supreme Court","Place 2",REP,"JIMMY BLACKLOCK",597,27,479,91
+Eastland,1-Eastland,"Justice, Supreme Court","Place 2",DEM,"DASEAN JONES",52,9,33,10
+Eastland,1-Eastland,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Eastland,1-Eastland,"Justice, Supreme Court","Place 2",,"Under Votes",20,0,17,3
+Eastland,1-Eastland,"Justice, Supreme Court","Place 4",REP,"JOHN DEVINE",594,27,477,90
+Eastland,1-Eastland,"Justice, Supreme Court","Place 4",DEM,"CHRISTINE VINH WEEMS",54,9,34,11
+Eastland,1-Eastland,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Eastland,1-Eastland,"Justice, Supreme Court","Place 4",,"Under Votes",21,0,18,3
+Eastland,1-Eastland,"Justice, Supreme Court","Place 6",REP,"JANE BLAND",586,27,473,86
+Eastland,1-Eastland,"Justice, Supreme Court","Place 6",DEM,"BONNIE LEE GOLDSTEIN",52,9,33,10
+Eastland,1-Eastland,"Justice, Supreme Court","Place 6",LIB,"J. DAVID ROBERSON",11,0,6,5
+Eastland,1-Eastland,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Eastland,1-Eastland,"Justice, Supreme Court","Place 6",,"Under Votes",20,0,17,3
+Eastland,1-Eastland,"Presiding Judge, Court of Criminal Appeals",,REP,"DAVID J. SCHENCK",595,26,480,89
+Eastland,1-Eastland,"Presiding Judge, Court of Criminal Appeals",,DEM,"HOLLY TAYLOR",56,10,35,11
+Eastland,1-Eastland,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",18,0,14,4
+Eastland,1-Eastland,"Judge, Court of Criminal Appeals","Place 7",REP,"GINA PARKER",594,27,477,90
+Eastland,1-Eastland,"Judge, Court of Criminal Appeals","Place 7",DEM,"NANCY MULDER",54,9,35,10
+Eastland,1-Eastland,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Eastland,1-Eastland,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",21,0,17,4
+Eastland,1-Eastland,"Judge, Court of Criminal Appeals","Place 8",REP,"LEE FINLEY",596,27,479,90
+Eastland,1-Eastland,"Judge, Court of Criminal Appeals","Place 8",DEM,"CHIKA ANYIAM",53,9,33,11
+Eastland,1-Eastland,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Eastland,1-Eastland,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",20,0,17,3
+Eastland,1-Eastland,"State Representative","68",REP,"DAVID SPILLER",590,25,475,90
+Eastland,1-Eastland,"State Representative","68",DEM,"STACEY SWANN",56,9,36,11
+Eastland,1-Eastland,"State Representative","68",,"Over Votes",0,0,0,0
+Eastland,1-Eastland,"State Representative","68",,"Under Votes",23,2,18,3
+Eastland,1-Eastland,"Chief Justice, 11th Court of Appeals District",,REP,"JOHN BAILEY",615,29,492,94
+Eastland,1-Eastland,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",54,7,37,10
+Eastland,1-Eastland,"District Judge, 91st Judicial District",,REP,"STEVEN R. HEROD",608,25,491,92
+Eastland,1-Eastland,"District Judge, 91st Judicial District",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland,"District Judge, 91st Judicial District",,,"Under Votes",61,11,38,12
+Eastland,1-Eastland,"District Clerk-Unexpired Term",,REP,"WENDY M. MCDADE",606,25,489,92
+Eastland,1-Eastland,"District Clerk-Unexpired Term",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland,"District Clerk-Unexpired Term",,,"Under Votes",63,11,40,12
+Eastland,1-Eastland,"Sheriff",,REP,"JASON WEGER",594,22,482,90
+Eastland,1-Eastland,"Sheriff",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland,"Sheriff",,,"Under Votes",75,14,47,14
+Eastland,1-Eastland,"County Tax Assessor-Collector",,REP,"ANDREA CAYE MAY",612,25,491,96
+Eastland,1-Eastland,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland,"County Tax Assessor-Collector",,,"Under Votes",57,11,38,8
+Eastland,1-Eastland,"County Commissioner","Precinct 1",REP,"ANDY MAXWELL",576,24,465,87
+Eastland,1-Eastland,"County Commissioner","Precinct 1",,"Over Votes",0,0,0,0
+Eastland,1-Eastland,"County Commissioner","Precinct 1",,"Under Votes",93,12,64,17
+Eastland,1-Eastland,"County Constable","Precinct 1",REP,"DARRELL DYER",602,23,485,94
+Eastland,1-Eastland,"County Constable","Precinct 1",,"Over Votes",0,0,0,0
+Eastland,1-Eastland,"County Constable","Precinct 1",,"Under Votes",67,13,44,10
+Eastland,1-Eastland-City of Eastland,"Ballots Cast",,,,1284,,,
+Eastland,1-Eastland-City of Eastland,"President",,REP,"DONALD J. TRUMP/JD VANCE",1094,54,849,191
+Eastland,1-Eastland-City of Eastland,"President",,DEM,"KAMALA D. HARRIS/TIM WALTZ",169,15,123,31
+Eastland,1-Eastland-City of Eastland,"President",,LIB,"CHASE OLIVER/MIKE TER MAAT",7,1,4,2
+Eastland,1-Eastland-City of Eastland,"President",,GRN,"JILL STEIN/RUDOLPH WARE",5,0,5,0
+Eastland,1-Eastland-City of Eastland,"President",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"President",,,"Under Votes",9,1,7,1
+Eastland,1-Eastland-City of Eastland,"U.S. Senate",,REP,"TED CRUZ",1059,52,828,179
+Eastland,1-Eastland-City of Eastland,"U.S. Senate",,DEM,"COLIN ALLRED",191,19,134,38
+Eastland,1-Eastland-City of Eastland,"U.S. Senate",,LIB,"TED BROWN",22,0,16,6
+Eastland,1-Eastland-City of Eastland,"U.S. Senate",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"U.S. Senate",,,"Under Votes",12,0,10,2
+Eastland,1-Eastland-City of Eastland,"U.S. House","25",REP,"ROGER WILLIAMS",1126,45,877,204
+Eastland,1-Eastland-City of Eastland,"U.S. House","25",,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"U.S. House","25",,"Under Votes",134,22,92,20
+Eastland,1-Eastland-City of Eastland,"Railroad Commissioner",,REP,"CHRISTI CRADDICK",1058,53,831,174
+Eastland,1-Eastland-City of Eastland,"Railroad Commissioner",,DEM,"KATHERINE CULBERT",144,15,102,27
+Eastland,1-Eastland-City of Eastland,"Railroad Commissioner",,LIB,"HAWK DUNLAP",27,1,16,10
+Eastland,1-Eastland-City of Eastland,"Railroad Commissioner",,GRN,"EDDIE ESPINOZA",16,0,12,4
+Eastland,1-Eastland-City of Eastland,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Railroad Commissioner",,,"Under Votes",39,2,27,10
+Eastland,1-Eastland-City of Eastland,"Justice, Supreme Court","Place 2",REP,"JIMMY BLACKLOCK",1090,54,851,185
+Eastland,1-Eastland-City of Eastland,"Justice, Supreme Court","Place 2",DEM,"DASEAN JONES",162,16,114,32
+Eastland,1-Eastland-City of Eastland,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Justice, Supreme Court","Place 2",,"Under Votes",32,1,23,8
+Eastland,1-Eastland-City of Eastland,"Justice, Supreme Court","Place 4",REP,"JOHN DEVINE",1081,54,842,185
+Eastland,1-Eastland-City of Eastland,"Justice, Supreme Court","Place 4",DEM,"CHRISTINE VINH WEEMS",167,16,120,31
+Eastland,1-Eastland-City of Eastland,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Justice, Supreme Court","Place 4",,"Under Votes",36,1,26,9
+Eastland,1-Eastland-City of Eastland,"Justice, Supreme Court","Place 6",REP,"JANE BLAND",1061,53,830,178
+Eastland,1-Eastland-City of Eastland,"Justice, Supreme Court","Place 6",DEM,"BONNIE LEE GOLDSTEIN",154,14,114,26
+Eastland,1-Eastland-City of Eastland,"Justice, Supreme Court","Place 6",LIB,"J. DAVID ROBERSON",30,3,17,10
+Eastland,1-Eastland-City of Eastland,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Justice, Supreme Court","Place 6",,"Under Votes",39,1,27,11
+Eastland,1-Eastland-City of Eastland,"Presiding Judge, Court of Criminal Appeals",,REP,"DAVID J. SCHENCK",1084,55,842,187
+Eastland,1-Eastland-City of Eastland,"Presiding Judge, Court of Criminal Appeals",,DEM,"HOLLY TAYLOR",164,15,117,32
+Eastland,1-Eastland-City of Eastland,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",36,1,29,6
+Eastland,1-Eastland-City of Eastland,"Judge, Court of Criminal Appeals","Place 7",REP,"GINA PARKER",1085,54,847,184
+Eastland,1-Eastland-City of Eastland,"Judge, Court of Criminal Appeals","Place 7",DEM,"NANCY MULDER",164,16,116,32
+Eastland,1-Eastland-City of Eastland,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",35,1,25,9
+Eastland,1-Eastland-City of Eastland,"Judge, Court of Criminal Appeals","Place 8",REP,"LEE FINLEY",1086,55,847,184
+Eastland,1-Eastland-City of Eastland,"Judge, Court of Criminal Appeals","Place 8",DEM,"CHIKA ANYIAM",154,15,110,29
+Eastland,1-Eastland-City of Eastland,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",44,1,31,12
+Eastland,1-Eastland-City of Eastland,"State Representative","68",REP,"DAVID SPILLER",1073,45,845,183
+Eastland,1-Eastland-City of Eastland,"State Representative","68",DEM,"STACEY SWANN",162,14,115,33
+Eastland,1-Eastland-City of Eastland,"State Representative","68",,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"State Representative","68",,"Under Votes",49,12,28,9
+Eastland,1-Eastland-City of Eastland,"Chief Justice, 11th Court of Appeals District",,REP,"JOHN BAILEY",1145,45,895,205
+Eastland,1-Eastland-City of Eastland,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",139,26,93,20
+Eastland,1-Eastland-City of Eastland,"District Judge, 91st Judicial District",,REP,"STEVEN R. HEROD",1125,39,887,199
+Eastland,1-Eastland-City of Eastland,"District Judge, 91st Judicial District",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"District Judge, 91st Judicial District",,,"Under Votes",159,32,101,26
+Eastland,1-Eastland-City of Eastland,"District Clerk-Unexpired Term",,REP,"WENDY M. MCDADE",1124,40,883,201
+Eastland,1-Eastland-City of Eastland,"District Clerk-Unexpired Term",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"District Clerk-Unexpired Term",,,"Under Votes",160,31,105,24
+Eastland,1-Eastland-City of Eastland,"Sheriff",,REP,"JASON WEGER",1107,40,868,199
+Eastland,1-Eastland-City of Eastland,"Sheriff",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Sheriff",,,"Under Votes",177,31,120,26
+Eastland,1-Eastland-City of Eastland,"County Tax Assessor-Collector",,REP,"ANDREA CAYE MAY",1137,44,893,200
+Eastland,1-Eastland-City of Eastland,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"County Tax Assessor-Collector",,,"Under Votes",147,27,95,25
+Eastland,1-Eastland-City of Eastland,"County Commissioner","Precinct 1",REP,"ANDY MAXWELL",1118,39,877,202
+Eastland,1-Eastland-City of Eastland,"County Commissioner","Precinct 1",,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"County Commissioner","Precinct 1",,"Under Votes",166,32,111,23
+Eastland,1-Eastland-City of Eastland,"County Constable","Precinct 1",REP,"DARRELL DYER",1122,39,882,201
+Eastland,1-Eastland-City of Eastland,"County Constable","Precinct 1",,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"County Constable","Precinct 1",,"Under Votes",162,32,106,24
+Eastland,1-Eastland-City of Eastland,"Proposition A",,,"FOR",916,46,704,166
+Eastland,1-Eastland-City of Eastland,"Proposition A",,,"AGAINST",208,9,164,35
+Eastland,1-Eastland-City of Eastland,"Proposition A",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Proposition A",,,"Under Votes",160,16,120,24
+Eastland,1-Eastland-City of Eastland,"Proposition B",,,"FOR",917,49,700,168
+Eastland,1-Eastland-City of Eastland,"Proposition B",,,"AGAINST",206,7,162,37
+Eastland,1-Eastland-City of Eastland,"Proposition B",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Proposition B",,,"Under Votes",161,15,126,20
+Eastland,1-Eastland-City of Eastland,"Proposition C",,,"FOR",826,35,639,152
+Eastland,1-Eastland-City of Eastland,"Proposition C",,,"AGAINST",298,19,229,50
+Eastland,1-Eastland-City of Eastland,"Proposition C",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Proposition C",,,"Under Votes",160,17,120,23
+Eastland,1-Eastland-City of Eastland,"Proposition D",,,"FOR",653,29,496,128
+Eastland,1-Eastland-City of Eastland,"Proposition D",,,"AGAINST",459,30,352,77
+Eastland,1-Eastland-City of Eastland,"Proposition D",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Proposition D",,,"Under Votes",172,12,140,20
+Eastland,1-Eastland-City of Eastland,"Proposition E",,,"FOR",1009,50,777,182
+Eastland,1-Eastland-City of Eastland,"Proposition E",,,"AGAINST",99,6,72,21
+Eastland,1-Eastland-City of Eastland,"Proposition E",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Proposition E",,,"Under Votes",176,15,139,22
+Eastland,1-Eastland-City of Eastland,"Proposition F",,,"FOR",1077,55,833,189
+Eastland,1-Eastland-City of Eastland,"Proposition F",,,"AGAINST",58,4,39,15
+Eastland,1-Eastland-City of Eastland,"Proposition F",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Proposition F",,,"Under Votes",149,12,116,21
+Eastland,1-Eastland-City of Eastland,"Proposition G",,,"FOR",525,24,392,109
+Eastland,1-Eastland-City of Eastland,"Proposition G",,,"AGAINST",595,35,466,94
+Eastland,1-Eastland-City of Eastland,"Proposition G",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Proposition G",,,"Under Votes",164,12,130,22
+Eastland,1-Eastland-City of Eastland,"Proposition H",,,"FOR",953,49,734,170
+Eastland,1-Eastland-City of Eastland,"Proposition H",,,"AGAINST",157,6,120,31
+Eastland,1-Eastland-City of Eastland,"Proposition H",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Proposition H",,,"Under Votes",174,16,134,24
+Eastland,1-Eastland-City of Eastland,"Proposition I",,,"FOR",728,30,564,134
+Eastland,1-Eastland-City of Eastland,"Proposition I",,,"AGAINST",351,23,267,61
+Eastland,1-Eastland-City of Eastland,"Proposition I",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Proposition I",,,"Under Votes",205,18,157,30
+Eastland,1-Eastland-City of Eastland,"Proposition J",,,"FOR",946,48,736,162
+Eastland,1-Eastland-City of Eastland,"Proposition J",,,"AGAINST",134,8,92,34
+Eastland,1-Eastland-City of Eastland,"Proposition J",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Proposition J",,,"Under Votes",204,15,160,29
+Eastland,1-Eastland-City of Eastland,"Proposition K",,,"FOR",583,29,439,115
+Eastland,1-Eastland-City of Eastland,"Proposition K",,,"AGAINST",497,27,392,78
+Eastland,1-Eastland-City of Eastland,"Proposition K",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Proposition K",,,"Under Votes",204,15,157,32
+Eastland,1-Eastland-City of Eastland,"Proposition L",,,"FOR",679,25,521,133
+Eastland,1-Eastland-City of Eastland,"Proposition L",,,"AGAINST",382,27,295,60
+Eastland,1-Eastland-City of Eastland,"Proposition L",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Proposition L",,,"Under Votes",223,19,172,32
+Eastland,1-Eastland-City of Eastland,"Proposition M",,,"FOR",851,36,654,161
+Eastland,1-Eastland-City of Eastland,"Proposition M",,,"AGAINST",223,22,168,33
+Eastland,1-Eastland-City of Eastland,"Proposition M",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Proposition M",,,"Under Votes",210,13,166,31
+Eastland,1-Eastland-City of Eastland,"Proposition N",,,"FOR",768,35,590,143
+Eastland,1-Eastland-City of Eastland,"Proposition N",,,"AGAINST",274,20,209,45
+Eastland,1-Eastland-City of Eastland,"Proposition N",,,"Over Votes",0,0,0,0
+Eastland,1-Eastland-City of Eastland,"Proposition N",,,"Under Votes",242,16,189,37
+Eastland,2-Olden,"Ballots Cast",,,,268,,,
+Eastland,2-Olden,"President",,REP,"DONALD J. TRUMP/JD VANCE",241,9,172,60
+Eastland,2-Olden,"President",,DEM,"KAMALA D. HARRIS/TIM WALTZ",24,0,12,12
+Eastland,2-Olden,"President",,LIB,"CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+Eastland,2-Olden,"President",,GRN,"JILL STEIN/RUDOLPH WARE",3,0,1,2
+Eastland,2-Olden,"President",,,"Over Votes",0,0,0,0
+Eastland,2-Olden,"President",,,"Under Votes",0,0,0,0
+Eastland,2-Olden,"U.S. Senate",,REP,"TED CRUZ",232,9,170,53
+Eastland,2-Olden,"U.S. Senate",,DEM,"COLIN ALLRED",25,0,11,14
+Eastland,2-Olden,"U.S. Senate",,LIB,"TED BROWN",9,0,3,6
+Eastland,2-Olden,"U.S. Senate",,,"Over Votes",0,0,0,0
+Eastland,2-Olden,"U.S. Senate",,,"Under Votes",2,0,1,1
+Eastland,2-Olden,"U.S. House","25",REP,"ROGER WILLIAMS",245,9,171,65
+Eastland,2-Olden,"U.S. House","25",,"Over Votes",0,0,0,0
+Eastland,2-Olden,"U.S. House","25",,"Under Votes",20,0,11,9
+Eastland,2-Olden,"Railroad Commissioner",,REP,"CHRISTI CRADDICK",227,9,162,56
+Eastland,2-Olden,"Railroad Commissioner",,DEM,"KATHERINE CULBERT",16,0,10,6
+Eastland,2-Olden,"Railroad Commissioner",,LIB,"HAWK DUNLAP",12,0,8,4
+Eastland,2-Olden,"Railroad Commissioner",,GRN,"EDDIE ESPINOZA",3,0,0,3
+Eastland,2-Olden,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Eastland,2-Olden,"Railroad Commissioner",,,"Under Votes",10,0,5,5
+Eastland,2-Olden,"Justice, Supreme Court","Place 2",REP,"JIMMY BLACKLOCK",239,9,169,61
+Eastland,2-Olden,"Justice, Supreme Court","Place 2",DEM,"DASEAN JONES",22,0,11,11
+Eastland,2-Olden,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Eastland,2-Olden,"Justice, Supreme Court","Place 2",,"Under Votes",7,0,5,2
+Eastland,2-Olden,"Justice, Supreme Court","Place 4",REP,"JOHN DEVINE",236,9,167,60
+Eastland,2-Olden,"Justice, Supreme Court","Place 4",DEM,"CHRISTINE VINH WEEMS",25,0,13,12
+Eastland,2-Olden,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Eastland,2-Olden,"Justice, Supreme Court","Place 4",,"Under Votes",7,0,5,2
+Eastland,2-Olden,"Justice, Supreme Court","Place 6",REP,"JANE BLAND",230,8,164,58
+Eastland,2-Olden,"Justice, Supreme Court","Place 6",DEM,"BONNIE LEE GOLDSTEIN",21,0,12,9
+Eastland,2-Olden,"Justice, Supreme Court","Place 6",LIB,"J. DAVID ROBERSON",9,1,3,5
+Eastland,2-Olden,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Eastland,2-Olden,"Justice, Supreme Court","Place 6",,"Under Votes",8,0,6,2
+Eastland,2-Olden,"Presiding Judge, Court of Criminal Appeals",,REP,"DAVID J. SCHENCK",236,9,168,59
+Eastland,2-Olden,"Presiding Judge, Court of Criminal Appeals",,DEM,"HOLLY TAYLOR",24,0,12,12
+Eastland,2-Olden,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Eastland,2-Olden,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",8,0,5,3
+Eastland,2-Olden,"Judge, Court of Criminal Appeals","Place 7",REP,"GINA PARKER",234,9,166,59
+Eastland,2-Olden,"Judge, Court of Criminal Appeals","Place 7",DEM,"NANCY MULDER",25,0,13,12
+Eastland,2-Olden,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Eastland,2-Olden,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",9,0,6,3
+Eastland,2-Olden,"Judge, Court of Criminal Appeals","Place 8",REP,"LEE FINLEY",239,9,171,59
+Eastland,2-Olden,"Judge, Court of Criminal Appeals","Place 8",DEM,"CHIKA ANYIAM",21,0,9,12
+Eastland,2-Olden,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Eastland,2-Olden,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",8,0,5,3
+Eastland,2-Olden,"State Representative","68",REP,"DAVID SPILLER",234,9,168,57
+Eastland,2-Olden,"State Representative","68",DEM,"STACEY SWANN",26,0,13,13
+Eastland,2-Olden,"State Representative","68",,"Over Votes",0,0,0,0
+Eastland,2-Olden,"State Representative","68",,"Under Votes",8,0,4,4
+Eastland,2-Olden,"Chief Justice, 11th Court of Appeals District",,REP,"JOHN BAILEY",249,9,176,64
+Eastland,2-Olden,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Eastland,2-Olden,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",19,0,9,10
+Eastland,2-Olden,"District Judge, 91st Judicial District",,REP,"STEVEN R. HEROD",242,9,171,62
+Eastland,2-Olden,"District Judge, 91st Judicial District",,,"Over Votes",0,0,0,0
+Eastland,2-Olden,"District Judge, 91st Judicial District",,,"Under Votes",26,0,14,12
+Eastland,2-Olden,"District Clerk-Unexpired Term",,REP,"WENDY M. MCDADE",245,9,172,64
+Eastland,2-Olden,"District Clerk-Unexpired Term",,,"Over Votes",0,0,0,0
+Eastland,2-Olden,"District Clerk-Unexpired Term",,,"Under Votes",23,0,13,10
+Eastland,2-Olden,"Sheriff",,REP,"JASON WEGER",238,9,167,62
+Eastland,2-Olden,"Sheriff",,,"Over Votes",0,0,0,0
+Eastland,2-Olden,"Sheriff",,,"Under Votes",30,0,18,12
+Eastland,2-Olden,"County Tax Assessor-Collector",,REP,"ANDREA CAYE MAY",248,9,175,64
+Eastland,2-Olden,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Eastland,2-Olden,"County Tax Assessor-Collector",,,"Under Votes",20,0,10,10
+Eastland,2-Olden,"County Constable","Precinct 2",REP,"JAY DRUESEDOW",248,8,177,63
+Eastland,2-Olden,"County Constable","Precinct 2",,"Over Votes",0,0,0,0
+Eastland,2-Olden,"County Constable","Precinct 2",,"Under Votes",20,1,8,11
+Eastland,3-Ranger,"Ballots Cast",,,,1024,,,
+Eastland,3-Ranger,"President",,REP,"DONALD J. TRUMP/JD VANCE",885,39,629,217
+Eastland,3-Ranger,"President",,DEM,"KAMALA D. HARRIS/TIM WALTZ",124,7,85,32
+Eastland,3-Ranger,"President",,LIB,"CHASE OLIVER/MIKE TER MAAT",4,1,2,1
+Eastland,3-Ranger,"President",,GRN,"JILL STEIN/RUDOLPH WARE",4,0,2,2
+Eastland,3-Ranger,"President",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger,"President",,,"Under Votes",7,0,6,1
+Eastland,3-Ranger,"U.S. Senate",,REP,"TED CRUZ",835,33,604,198
+Eastland,3-Ranger,"U.S. Senate",,DEM,"COLIN ALLRED",143,8,95,40
+Eastland,3-Ranger,"U.S. Senate",,LIB,"TED BROWN",22,0,13,9
+Eastland,3-Ranger,"U.S. Senate",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger,"U.S. Senate",,,"Under Votes",24,6,12,6
+Eastland,3-Ranger,"U.S. House","25",REP,"ROGER WILLIAMS",885,28,630,227
+Eastland,3-Ranger,"U.S. House","25",,"Over Votes",0,0,0,0
+Eastland,3-Ranger,"U.S. House","25",,"Under Votes",137,19,92,26
+Eastland,3-Ranger,"Railroad Commissioner",,REP,"CHRISTI CRADDICK",811,35,588,188
+Eastland,3-Ranger,"Railroad Commissioner",,DEM,"KATHERINE CULBERT",112,7,72,33
+Eastland,3-Ranger,"Railroad Commissioner",,LIB,"HAWK DUNLAP",30,0,17,13
+Eastland,3-Ranger,"Railroad Commissioner",,GRN,"EDDIE ESPINOZA",20,0,12,8
+Eastland,3-Ranger,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger,"Railroad Commissioner",,,"Under Votes",51,5,35,11
+Eastland,3-Ranger,"Justice, Supreme Court","Place 2",REP,"JIMMY BLACKLOCK",858,36,615,207
+Eastland,3-Ranger,"Justice, Supreme Court","Place 2",DEM,"DASEAN JONES",118,6,78,34
+Eastland,3-Ranger,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Eastland,3-Ranger,"Justice, Supreme Court","Place 2",,"Under Votes",48,5,31,12
+Eastland,3-Ranger,"Justice, Supreme Court","Place 4",REP,"JOHN DEVINE",853,35,612,206
+Eastland,3-Ranger,"Justice, Supreme Court","Place 4",DEM,"CHRISTINE VINH WEEMS",118,7,78,33
+Eastland,3-Ranger,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Eastland,3-Ranger,"Justice, Supreme Court","Place 4",,"Under Votes",53,5,34,14
+Eastland,3-Ranger,"Justice, Supreme Court","Place 6",REP,"JANE BLAND",829,33,599,197
+Eastland,3-Ranger,"Justice, Supreme Court","Place 6",DEM,"BONNIE LEE GOLDSTEIN",117,6,77,34
+Eastland,3-Ranger,"Justice, Supreme Court","Place 6",LIB,"J. DAVID ROBERSON",25,2,16,7
+Eastland,3-Ranger,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Eastland,3-Ranger,"Justice, Supreme Court","Place 6",,"Under Votes",53,6,32,15
+Eastland,3-Ranger,"Presiding Judge, Court of Criminal Appeals",,REP,"DAVID J. SCHENCK",853,36,614,203
+Eastland,3-Ranger,"Presiding Judge, Court of Criminal Appeals",,DEM,"HOLLY TAYLOR",125,6,82,37
+Eastland,3-Ranger,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",46,5,28,13
+Eastland,3-Ranger,"Judge, Court of Criminal Appeals","Place 7",REP,"GINA PARKER",855,34,615,206
+Eastland,3-Ranger,"Judge, Court of Criminal Appeals","Place 7",DEM,"NANCY MULDER",117,7,78,32
+Eastland,3-Ranger,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Eastland,3-Ranger,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",52,6,31,15
+Eastland,3-Ranger,"Judge, Court of Criminal Appeals","Place 8",REP,"LEE FINLEY",856,36,613,207
+Eastland,3-Ranger,"Judge, Court of Criminal Appeals","Place 8",DEM,"CHIKA ANYIAM",116,6,77,33
+Eastland,3-Ranger,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Eastland,3-Ranger,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",52,5,34,13
+Eastland,3-Ranger,"State Representative","68",REP,"DAVID SPILLER",839,23,614,202
+Eastland,3-Ranger,"State Representative","68",DEM,"STACEY SWANN",123,6,80,37
+Eastland,3-Ranger,"State Representative","68",,"Over Votes",0,0,0,0
+Eastland,3-Ranger,"State Representative","68",,"Under Votes",62,18,30,14
+Eastland,3-Ranger,"Chief Justice, 11th Court of Appeals District",,REP,"JOHN BAILEY",887,25,637,225
+Eastland,3-Ranger,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",137,22,87,28
+Eastland,3-Ranger,"District Judge, 91st Judicial District",,REP,"STEVEN R. HEROD",895,22,648,225
+Eastland,3-Ranger,"District Judge, 91st Judicial District",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger,"District Judge, 91st Judicial District",,,"Under Votes",129,25,76,28
+Eastland,3-Ranger,"District Clerk-Unexpired Term",,REP,"WENDY M. MCDADE",873,21,629,223
+Eastland,3-Ranger,"District Clerk-Unexpired Term",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger,"District Clerk-Unexpired Term",,,"Under Votes",151,26,95,30
+Eastland,3-Ranger,"Sheriff",,REP,"JASON WEGER",867,22,629,216
+Eastland,3-Ranger,"Sheriff",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger,"Sheriff",,,"Under Votes",157,25,95,37
+Eastland,3-Ranger,"County Tax Assessor-Collector",,REP,"ANDREA CAYE MAY",876,20,632,224
+Eastland,3-Ranger,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger,"County Tax Assessor-Collector",,,"Under Votes",148,27,92,29
+Eastland,3-Ranger,"County Constable","Precinct 2",REP,"JAY DRUESEDOW",869,19,629,221
+Eastland,3-Ranger,"County Constable","Precinct 2",,"Over Votes",0,0,0,0
+Eastland,3-Ranger,"County Constable","Precinct 2",,"Under Votes",155,28,95,32
+Eastland,4-Desdemona,"Ballots Cast",,,,253,,,
+Eastland,4-Desdemona,"President",,REP,"DONALD J. TRUMP/JD VANCE",239,6,146,87
+Eastland,4-Desdemona,"President",,DEM,"KAMALA D. HARRIS/TIM WALTZ",12,0,8,4
+Eastland,4-Desdemona,"President",,LIB,"CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+Eastland,4-Desdemona,"President",,GRN,"JILL STEIN/RUDOLPH WARE",2,0,0,2
+Eastland,4-Desdemona,"President",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona,"President",,,"Under Votes",0,0,0,0
+Eastland,4-Desdemona,"U.S. Senate",,REP,"TED CRUZ",234,6,145,83
+Eastland,4-Desdemona,"U.S. Senate",,DEM,"COLIN ALLRED",16,0,8,8
+Eastland,4-Desdemona,"U.S. Senate",,LIB,"TED BROWN",2,0,1,1
+Eastland,4-Desdemona,"U.S. Senate",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona,"U.S. Senate",,,"Under Votes",1,0,0,1
+Eastland,4-Desdemona,"U.S. House","25",REP,"ROGER WILLIAMS",236,6,146,84
+Eastland,4-Desdemona,"U.S. House","25",,"Over Votes",0,0,0,0
+Eastland,4-Desdemona,"U.S. House","25",,"Under Votes",17,0,8,9
+Eastland,4-Desdemona,"Railroad Commissioner",,REP,"CHRISTI CRADDICK",222,6,137,79
+Eastland,4-Desdemona,"Railroad Commissioner",,DEM,"KATHERINE CULBERT",11,0,7,4
+Eastland,4-Desdemona,"Railroad Commissioner",,LIB,"HAWK DUNLAP",12,0,7,5
+Eastland,4-Desdemona,"Railroad Commissioner",,GRN,"EDDIE ESPINOZA",1,0,0,1
+Eastland,4-Desdemona,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona,"Railroad Commissioner",,,"Under Votes",7,0,3,4
+Eastland,4-Desdemona,"Justice, Supreme Court","Place 2",REP,"JIMMY BLACKLOCK",233,6,145,82
+Eastland,4-Desdemona,"Justice, Supreme Court","Place 2",DEM,"DASEAN JONES",15,0,8,7
+Eastland,4-Desdemona,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Eastland,4-Desdemona,"Justice, Supreme Court","Place 2",,"Under Votes",5,0,1,4
+Eastland,4-Desdemona,"Justice, Supreme Court","Place 4",REP,"JOHN DEVINE",230,6,144,80
+Eastland,4-Desdemona,"Justice, Supreme Court","Place 4",DEM,"CHRISTINE VINH WEEMS",16,0,8,8
+Eastland,4-Desdemona,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Eastland,4-Desdemona,"Justice, Supreme Court","Place 4",,"Under Votes",7,0,2,5
+Eastland,4-Desdemona,"Justice, Supreme Court","Place 6",REP,"JANE BLAND",227,6,142,79
+Eastland,4-Desdemona,"Justice, Supreme Court","Place 6",DEM,"BONNIE LEE GOLDSTEIN",13,0,8,5
+Eastland,4-Desdemona,"Justice, Supreme Court","Place 6",LIB,"J. DAVID ROBERSON",8,0,3,5
+Eastland,4-Desdemona,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Eastland,4-Desdemona,"Justice, Supreme Court","Place 6",,"Under Votes",5,0,1,4
+Eastland,4-Desdemona,"Presiding Judge, Court of Criminal Appeals",,REP,"DAVID J. SCHENCK",230,6,143,81
+Eastland,4-Desdemona,"Presiding Judge, Court of Criminal Appeals",,DEM,"HOLLY TAYLOR",15,0,8,7
+Eastland,4-Desdemona,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",8,0,3,5
+Eastland,4-Desdemona,"Judge, Court of Criminal Appeals","Place 7",REP,"GINA PARKER",233,6,145,82
+Eastland,4-Desdemona,"Judge, Court of Criminal Appeals","Place 7",DEM,"NANCY MULDER",15,0,8,7
+Eastland,4-Desdemona,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Eastland,4-Desdemona,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",5,0,1,4
+Eastland,4-Desdemona,"Judge, Court of Criminal Appeals","Place 8",REP,"LEE FINLEY",233,6,144,83
+Eastland,4-Desdemona,"Judge, Court of Criminal Appeals","Place 8",DEM,"CHIKA ANYIAM",14,0,8,6
+Eastland,4-Desdemona,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Eastland,4-Desdemona,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",6,0,2,4
+Eastland,4-Desdemona,"State Representative","68",REP,"DAVID SPILLER",233,5,146,82
+Eastland,4-Desdemona,"State Representative","68",DEM,"STACEY SWANN",12,0,7,5
+Eastland,4-Desdemona,"State Representative","68",,"Over Votes",0,0,0,0
+Eastland,4-Desdemona,"State Representative","68",,"Under Votes",8,1,1,6
+Eastland,4-Desdemona,"Chief Justice, 11th Court of Appeals District",,REP,"JOHN BAILEY",241,5,151,85
+Eastland,4-Desdemona,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",12,1,3,8
+Eastland,4-Desdemona,"District Judge, 91st Judicial District",,REP,"STEVEN R. HEROD",236,4,149,83
+Eastland,4-Desdemona,"District Judge, 91st Judicial District",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona,"District Judge, 91st Judicial District",,,"Under Votes",17,2,5,10
+Eastland,4-Desdemona,"District Clerk-Unexpired Term",,REP,"WENDY M. MCDADE",237,4,148,85
+Eastland,4-Desdemona,"District Clerk-Unexpired Term",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona,"District Clerk-Unexpired Term",,,"Under Votes",16,2,6,8
+Eastland,4-Desdemona,"Sheriff",,REP,"JASON WEGER",236,4,147,85
+Eastland,4-Desdemona,"Sheriff",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona,"Sheriff",,,"Under Votes",17,2,7,8
+Eastland,4-Desdemona,"County Tax Assessor-Collector",,REP,"ANDREA CAYE MAY",238,4,150,84
+Eastland,4-Desdemona,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona,"County Tax Assessor-Collector",,,"Under Votes",15,2,4,9
+Eastland,4-Desdemona,"County Constable","Precinct 2",REP,"JAY DRUESEDOW",236,3,148,85
+Eastland,4-Desdemona,"County Constable","Precinct 2",,"Over Votes",0,0,0,0
+Eastland,4-Desdemona,"County Constable","Precinct 2",,"Under Votes",17,3,6,8
+Eastland,5-Gorman,"Ballots Cast",,,,475,,,
+Eastland,5-Gorman,"President",,REP,"DONALD J. TRUMP/JD VANCE",414,12,171,231
+Eastland,5-Gorman,"President",,DEM,"KAMALA D. HARRIS/TIM WALTZ",60,3,21,36
+Eastland,5-Gorman,"President",,LIB,"CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+Eastland,5-Gorman,"President",,GRN,"JILL STEIN/RUDOLPH WARE",0,0,0,0
+Eastland,5-Gorman,"President",,,"Over Votes",0,0,0,0
+Eastland,5-Gorman,"President",,,"Under Votes",1,1,0,0
+Eastland,5-Gorman,"U.S. Senate",,REP,"TED CRUZ",397,10,165,222
+Eastland,5-Gorman,"U.S. Senate",,DEM,"COLIN ALLRED",63,5,22,36
+Eastland,5-Gorman,"U.S. Senate",,LIB,"TED BROWN",8,0,3,5
+Eastland,5-Gorman,"U.S. Senate",,,"Over Votes",0,0,0,0
+Eastland,5-Gorman,"U.S. Senate",,,"Under Votes",7,1,2,4
+Eastland,5-Gorman,"U.S. House","25",REP,"ROGER WILLIAMS",420,11,172,237
+Eastland,5-Gorman,"U.S. House","25",,"Over Votes",0,0,0,0
+Eastland,5-Gorman,"U.S. House","25",,"Under Votes",49,4,20,25
+Eastland,5-Gorman,"Railroad Commissioner",,REP,"CHRISTI CRADDICK",381,11,162,208
+Eastland,5-Gorman,"Railroad Commissioner",,DEM,"KATHERINE CULBERT",49,3,16,30
+Eastland,5-Gorman,"Railroad Commissioner",,LIB,"HAWK DUNLAP",14,1,4,9
+Eastland,5-Gorman,"Railroad Commissioner",,GRN,"EDDIE ESPINOZA",10,0,3,7
+Eastland,5-Gorman,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Eastland,5-Gorman,"Railroad Commissioner",,,"Under Votes",21,1,7,13
+Eastland,5-Gorman,"Justice, Supreme Court","Place 2",REP,"JIMMY BLACKLOCK",396,13,165,218
+Eastland,5-Gorman,"Justice, Supreme Court","Place 2",DEM,"DASEAN JONES",59,2,20,37
+Eastland,5-Gorman,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Eastland,5-Gorman,"Justice, Supreme Court","Place 2",,"Under Votes",20,1,7,12
+Eastland,5-Gorman,"Justice, Supreme Court","Place 4",REP,"JOHN DEVINE",402,12,166,224
+Eastland,5-Gorman,"Justice, Supreme Court","Place 4",DEM,"CHRISTINE VINH WEEMS",54,3,20,31
+Eastland,5-Gorman,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Eastland,5-Gorman,"Justice, Supreme Court","Place 4",,"Under Votes",19,1,6,12
+Eastland,5-Gorman,"Justice, Supreme Court","Place 6",REP,"JANE BLAND",391,13,164,214
+Eastland,5-Gorman,"Justice, Supreme Court","Place 6",DEM,"BONNIE LEE GOLDSTEIN",57,2,20,35
+Eastland,5-Gorman,"Justice, Supreme Court","Place 6",LIB,"J. DAVID ROBERSON",7,0,1,6
+Eastland,5-Gorman,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Eastland,5-Gorman,"Justice, Supreme Court","Place 6",,"Under Votes",20,1,7,12
+Eastland,5-Gorman,"Presiding Judge, Court of Criminal Appeals",,REP,"DAVID J. SCHENCK",401,13,167,221
+Eastland,5-Gorman,"Presiding Judge, Court of Criminal Appeals",,DEM,"HOLLY TAYLOR",56,2,20,34
+Eastland,5-Gorman,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Eastland,5-Gorman,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",18,1,5,12
+Eastland,5-Gorman,"Judge, Court of Criminal Appeals","Place 7",REP,"GINA PARKER",404,13,165,226
+Eastland,5-Gorman,"Judge, Court of Criminal Appeals","Place 7",DEM,"NANCY MULDER",51,2,20,29
+Eastland,5-Gorman,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Eastland,5-Gorman,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",20,1,7,12
+Eastland,5-Gorman,"Judge, Court of Criminal Appeals","Place 8",REP,"LEE FINLEY",408,13,167,228
+Eastland,5-Gorman,"Judge, Court of Criminal Appeals","Place 8",DEM,"CHIKA ANYIAM",48,2,19,27
+Eastland,5-Gorman,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Eastland,5-Gorman,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",19,1,6,12
+Eastland,5-Gorman,"State Representative","68",REP,"DAVID SPILLER",398,11,164,223
+Eastland,5-Gorman,"State Representative","68",DEM,"STACEY SWANN",56,3,21,32
+Eastland,5-Gorman,"State Representative","68",,"Over Votes",0,0,0,0
+Eastland,5-Gorman,"State Representative","68",,"Under Votes",21,2,7,12
+Eastland,5-Gorman,"Chief Justice, 11th Court of Appeals District",,REP,"JOHN BAILEY",420,12,171,237
+Eastland,5-Gorman,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Eastland,5-Gorman,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",55,4,21,30
+Eastland,5-Gorman,"District Judge, 91st Judicial District",,REP,"STEVEN R. HEROD",422,11,174,237
+Eastland,5-Gorman,"District Judge, 91st Judicial District",,,"Over Votes",0,0,0,0
+Eastland,5-Gorman,"District Judge, 91st Judicial District",,,"Under Votes",53,5,18,30
+Eastland,5-Gorman,"District Clerk-Unexpired Term",,REP,"WENDY M. MCDADE",417,11,171,235
+Eastland,5-Gorman,"District Clerk-Unexpired Term",,,"Over Votes",0,0,0,0
+Eastland,5-Gorman,"District Clerk-Unexpired Term",,,"Under Votes",58,5,21,32
+Eastland,5-Gorman,"Sheriff",,REP,"JASON WEGER",418,11,172,235
+Eastland,5-Gorman,"Sheriff",,,"Over Votes",0,0,0,0
+Eastland,5-Gorman,"Sheriff",,,"Under Votes",57,5,20,32
+Eastland,5-Gorman,"County Tax Assessor-Collector",,REP,"ANDREA CAYE MAY",420,11,171,238
+Eastland,5-Gorman,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Eastland,5-Gorman,"County Tax Assessor-Collector",,,"Under Votes",55,5,21,29
+Eastland,5-Gorman,"County Commissioner","Precinct 3",REP,"RONNIE WILSON",420,12,171,237
+Eastland,5-Gorman,"County Commissioner","Precinct 3",,"Over Votes",0,0,0,0
+Eastland,5-Gorman,"County Commissioner","Precinct 3",,"Under Votes",55,4,21,30
+Eastland,5-Gorman,"County Constable","Precinct 2",REP,"JAY DRUESEDOW",421,11,173,237
+Eastland,5-Gorman,"County Constable","Precinct 2",,"Over Votes",0,0,0,0
+Eastland,5-Gorman,"County Constable","Precinct 2",,"Under Votes",54,5,19,30
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Eastland,6-Carbon,"Ballots Cast",,,,248,,,
+Eastland,6-Carbon,"President",,REP,"DONALD J. TRUMP/JD VANCE",219,10,143,66
+Eastland,6-Carbon,"President",,DEM,"KAMALA D. HARRIS/TIM WALTZ",27,2,21,4
+Eastland,6-Carbon,"President",,LIB,"CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+Eastland,6-Carbon,"President",,GRN,"JILL STEIN/RUDOLPH WARE",2,0,2,0
+Eastland,6-Carbon,"President",,,"Over Votes",0,0,0,0
+Eastland,6-Carbon,"President",,,"Under Votes",0,0,0,0
+Eastland,6-Carbon,"U.S. Senate",,REP,"TED CRUZ",215,10,143,62
+Eastland,6-Carbon,"U.S. Senate",,DEM,"COLIN ALLRED",28,1,21,6
+Eastland,6-Carbon,"U.S. Senate",,LIB,"TED BROWN",3,0,2,1
+Eastland,6-Carbon,"U.S. Senate",,,"Over Votes",0,0,0,0
+Eastland,6-Carbon,"U.S. Senate",,,"Under Votes",1,0,0,1
+Eastland,6-Carbon,"U.S. House","25",REP,"ROGER WILLIAMS",220,8,147,65
+Eastland,6-Carbon,"U.S. House","25",,"Over Votes",0,0,0,0
+Eastland,6-Carbon,"U.S. House","25",,"Under Votes",27,3,19,5
+Eastland,6-Carbon,"Railroad Commissioner",,REP,"CHRISTI CRADDICK",201,10,130,61
+Eastland,6-Carbon,"Railroad Commissioner",,DEM,"KATHERINE CULBERT",25,1,19,5
+Eastland,6-Carbon,"Railroad Commissioner",,LIB,"HAWK DUNLAP",9,0,7,2
+Eastland,6-Carbon,"Railroad Commissioner",,GRN,"EDDIE ESPINOZA",2,0,2,0
+Eastland,6-Carbon,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Eastland,6-Carbon,"Railroad Commissioner",,,"Under Votes",10,0,8,2
+Eastland,6-Carbon,"Justice, Supreme Court","Place 2",REP,"JIMMY BLACKLOCK",217,10,144,63
+Eastland,6-Carbon,"Justice, Supreme Court","Place 2",DEM,"DASEAN JONES",26,2,19,5
+Eastland,6-Carbon,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Eastland,6-Carbon,"Justice, Supreme Court","Place 2",,"Under Votes",5,0,3,2
+Eastland,6-Carbon,"Justice, Supreme Court","Place 4",REP,"JOHN DEVINE",216,10,142,64
+Eastland,6-Carbon,"Justice, Supreme Court","Place 4",DEM,"CHRISTINE VINH WEEMS",25,2,18,5
+Eastland,6-Carbon,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Eastland,6-Carbon,"Justice, Supreme Court","Place 4",,"Under Votes",7,0,6,1
+Eastland,6-Carbon,"Justice, Supreme Court","Place 6",REP,"JANE BLAND",214,11,140,63
+Eastland,6-Carbon,"Justice, Supreme Court","Place 6",DEM,"BONNIE LEE GOLDSTEIN",26,1,20,5
+Eastland,6-Carbon,"Justice, Supreme Court","Place 6",LIB,"J. DAVID ROBERSON",4,0,3,1
+Eastland,6-Carbon,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Eastland,6-Carbon,"Justice, Supreme Court","Place 6",,"Under Votes",4,0,3,1
+Eastland,6-Carbon,"Presiding Judge, Court of Criminal Appeals",,REP,"DAVID J. SCHENCK",215,10,141,64
+Eastland,6-Carbon,"Presiding Judge, Court of Criminal Appeals",,DEM,"HOLLY TAYLOR",27,2,20,5
+Eastland,6-Carbon,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Eastland,6-Carbon,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",6,0,5,1
+Eastland,6-Carbon,"Judge, Court of Criminal Appeals","Place 7",REP,"GINA PARKER",218,11,143,64
+Eastland,6-Carbon,"Judge, Court of Criminal Appeals","Place 7",DEM,"NANCY MULDER",23,1,17,5
+Eastland,6-Carbon,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Eastland,6-Carbon,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",7,0,6,1
+Eastland,6-Carbon,"Judge, Court of Criminal Appeals","Place 8",REP,"LEE FINLEY",220,11,146,63
+Eastland,6-Carbon,"Judge, Court of Criminal Appeals","Place 8",DEM,"CHIKA ANYIAM",22,1,16,5
+Eastland,6-Carbon,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Eastland,6-Carbon,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",6,0,4,2
+Eastland,6-Carbon,"State Representative","68",REP,"DAVID SPILLER",212,8,142,62
+Eastland,6-Carbon,"State Representative","68",DEM,"STACEY SWANN",29,2,22,5
+Eastland,6-Carbon,"State Representative","68",,"Over Votes",0,0,0,0
+Eastland,6-Carbon,"State Representative","68",,"Under Votes",7,2,2,3
+Eastland,6-Carbon,"Chief Justice, 11th Court of Appeals District",,REP,"JOHN BAILEY",228,10,152,66
+Eastland,6-Carbon,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Eastland,6-Carbon,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",20,2,14,4
+Eastland,6-Carbon,"District Judge, 91st Judicial District",,REP,"STEVEN R. HEROD",228,8,154,66
+Eastland,6-Carbon,"District Judge, 91st Judicial District",,,"Over Votes",0,0,0,0
+Eastland,6-Carbon,"District Judge, 91st Judicial District",,,"Under Votes",20,4,12,4
+Eastland,6-Carbon,"District Clerk-Unexpired Term",,REP,"WENDY M. MCDADE",224,8,150,66
+Eastland,6-Carbon,"District Clerk-Unexpired Term",,,"Over Votes",0,0,0,0
+Eastland,6-Carbon,"District Clerk-Unexpired Term",,,"Under Votes",24,4,16,4
+Eastland,6-Carbon,"Sheriff",,REP,"JASON WEGER",220,9,148,63
+Eastland,6-Carbon,"Sheriff",,,"Over Votes",0,0,0,0
+Eastland,6-Carbon,"Sheriff",,,"Under Votes",28,3,18,7
+Eastland,6-Carbon,"County Tax Assessor-Collector",,REP,"ANDREA CAYE MAY",226,9,153,64
+Eastland,6-Carbon,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Eastland,6-Carbon,"County Tax Assessor-Collector",,,"Under Votes",22,3,13,6
+Eastland,6-Carbon,"County Commissioner","Precinct 3",REP,"RONNIE WILSON",221,8,150,63
+Eastland,6-Carbon,"County Commissioner","Precinct 3",,"Over Votes",0,0,0,0
+Eastland,6-Carbon,"County Commissioner","Precinct 3",,"Under Votes",27,4,16,7
+Eastland,6-Carbon,"County Constable","Precinct 2",REP,"JAY DRUESEDOW",219,8,147,64
+Eastland,6-Carbon,"County Constable","Precinct 2",,"Over Votes",0,0,0,0
+Eastland,6-Carbon,"County Constable","Precinct 2",,"Under Votes",29,4,19,6
+Eastland,7-Rising Star,"Ballots Cast",,,,1423,,,
+Eastland,7-Rising Star,"President",,REP,"DONALD J. TRUMP/JD VANCE",1291,75,743,473
+Eastland,7-Rising Star,"President",,DEM,"KAMALA D. HARRIS/TIM WALTZ",125,18,75,32
+Eastland,7-Rising Star,"President",,LIB,"CHASE OLIVER/MIKE TER MAAT",2,0,2,0
+Eastland,7-Rising Star,"President",,GRN,"JILL STEIN/RUDOLPH WARE",2,0,0,2
+Eastland,7-Rising Star,"President",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star,"President",,,"Under Votes",3,3,0,0
+Eastland,7-Rising Star,"U.S. Senate",,REP,"TED CRUZ",1252,66,728,458
+Eastland,7-Rising Star,"U.S. Senate",,DEM,"COLIN ALLRED",130,19,76,35
+Eastland,7-Rising Star,"U.S. Senate",,LIB,"TED BROWN",21,0,14,7
+Eastland,7-Rising Star,"U.S. Senate",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star,"U.S. Senate",,,"Under Votes",20,11,2,7
+Eastland,7-Rising Star,"U.S. House","25",REP,"ROGER WILLIAMS",1288,63,749,476
+Eastland,7-Rising Star,"U.S. House","25",,"Over Votes",0,0,0,0
+Eastland,7-Rising Star,"U.S. House","25",,"Under Votes",130,33,66,31
+Eastland,7-Rising Star,"Railroad Commissioner",,REP,"CHRISTI CRADDICK",1227,67,715,445
+Eastland,7-Rising Star,"Railroad Commissioner",,DEM,"KATHERINE CULBERT",107,16,64,27
+Eastland,7-Rising Star,"Railroad Commissioner",,LIB,"HAWK DUNLAP",41,0,25,16
+Eastland,7-Rising Star,"Railroad Commissioner",,GRN,"EDDIE ESPINOZA",9,0,4,5
+Eastland,7-Rising Star,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star,"Railroad Commissioner",,,"Under Votes",39,13,12,14
+Eastland,7-Rising Star,"Justice, Supreme Court","Place 2",REP,"JIMMY BLACKLOCK",1272,68,741,463
+Eastland,7-Rising Star,"Justice, Supreme Court","Place 2",DEM,"DASEAN JONES",110,15,66,29
+Eastland,7-Rising Star,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Eastland,7-Rising Star,"Justice, Supreme Court","Place 2",,"Under Votes",41,13,13,15
+Eastland,7-Rising Star,"Justice, Supreme Court","Place 4",REP,"JOHN DEVINE",1267,67,738,462
+Eastland,7-Rising Star,"Justice, Supreme Court","Place 4",DEM,"CHRISTINE VINH WEEMS",119,16,71,32
+Eastland,7-Rising Star,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Eastland,7-Rising Star,"Justice, Supreme Court","Place 4",,"Under Votes",37,13,11,13
+Eastland,7-Rising Star,"Justice, Supreme Court","Place 6",REP,"JANE BLAND",1242,67,721,454
+Eastland,7-Rising Star,"Justice, Supreme Court","Place 6",DEM,"BONNIE LEE GOLDSTEIN",112,16,69,27
+Eastland,7-Rising Star,"Justice, Supreme Court","Place 6",LIB,"J. DAVID ROBERSON",33,0,21,12
+Eastland,7-Rising Star,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Eastland,7-Rising Star,"Justice, Supreme Court","Place 6",,"Under Votes",36,13,9,14
+Eastland,7-Rising Star,"Presiding Judge, Court of Criminal Appeals",,REP,"DAVID J. SCHENCK",1270,67,740,463
+Eastland,7-Rising Star,"Presiding Judge, Court of Criminal Appeals",,DEM,"HOLLY TAYLOR",121,17,72,32
+Eastland,7-Rising Star,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",32,12,8,12
+Eastland,7-Rising Star,"Judge, Court of Criminal Appeals","Place 7",REP,"GINA PARKER",1271,67,739,465
+Eastland,7-Rising Star,"Judge, Court of Criminal Appeals","Place 7",DEM,"NANCY MULDER",113,16,71,26
+Eastland,7-Rising Star,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Eastland,7-Rising Star,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",39,13,10,16
+Eastland,7-Rising Star,"Judge, Court of Criminal Appeals","Place 8",REP,"LEE FINLEY",1276,69,740,467
+Eastland,7-Rising Star,"Judge, Court of Criminal Appeals","Place 8",DEM,"CHIKA ANYIAM",108,15,65,28
+Eastland,7-Rising Star,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Eastland,7-Rising Star,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",39,12,15,12
+Eastland,7-Rising Star,"State Representative","68",REP,"DAVID SPILLER",1265,63,738,464
+Eastland,7-Rising Star,"State Representative","68",DEM,"STACEY SWANN",117,17,70,30
+Eastland,7-Rising Star,"State Representative","68",,"Over Votes",0,0,0,0
+Eastland,7-Rising Star,"State Representative","68",,"Under Votes",41,16,12,13
+Eastland,7-Rising Star,"Chief Justice, 11th Court of Appeals District",,REP,"JOHN BAILEY",1303,65,759,479
+Eastland,7-Rising Star,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",120,31,61,28
+Eastland,7-Rising Star,"District Judge, 91st Judicial District",,REP,"STEVEN R. HEROD",1293,63,755,475
+Eastland,7-Rising Star,"District Judge, 91st Judicial District",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star,"District Judge, 91st Judicial District",,,"Under Votes",130,33,65,32
+Eastland,7-Rising Star,"District Clerk-Unexpired Term",,REP,"WENDY M. MCDADE",1293,64,756,473
+Eastland,7-Rising Star,"District Clerk-Unexpired Term",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star,"District Clerk-Unexpired Term",,,"Under Votes",130,32,64,34
+Eastland,7-Rising Star,"Sheriff",,REP,"JASON WEGER",1288,65,757,466
+Eastland,7-Rising Star,"Sheriff",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star,"Sheriff",,,"Under Votes",135,31,63,41
+Eastland,7-Rising Star,"County Tax Assessor-Collector",,REP,"ANDREA CAYE MAY",1297,67,757,473
+Eastland,7-Rising Star,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star,"County Tax Assessor-Collector",,,"Under Votes",126,29,63,34
+Eastland,7-Rising Star,"County Commissioner","Precinct 3",REP,"RONNIE WILSON",1286,62,753,471
+Eastland,7-Rising Star,"County Commissioner","Precinct 3",,"Over Votes",0,0,0,0
+Eastland,7-Rising Star,"County Commissioner","Precinct 3",,"Under Votes",137,34,67,36
+Eastland,7-Rising Star,"County Constable","Precinct 1",REP,"DARRELL DYER",1282,60,751,471
+Eastland,7-Rising Star,"County Constable","Precinct 1",,"Over Votes",0,0,0,0
+Eastland,7-Rising Star,"County Constable","Precinct 1",,"Under Votes",141,36,69,36
+Eastland,7-Rising Star-City of Eastland,"Ballots Cast",,,,187,,,
+Eastland,7-Rising Star-City of Eastland,"President",,REP,"DONALD J. TRUMP/JD VANCE",162,13,132,17
+Eastland,7-Rising Star-City of Eastland,"President",,DEM,"KAMALA D. HARRIS/TIM WALTZ",22,4,16,2
+Eastland,7-Rising Star-City of Eastland,"President",,LIB,"CHASE OLIVER/MIKE TER MAAT",2,0,2,0
+Eastland,7-Rising Star-City of Eastland,"President",,GRN,"JILL STEIN/RUDOLPH WARE",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"President",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"President",,,"Under Votes",1,0,1,0
+Eastland,7-Rising Star-City of Eastland,"U.S. Senate",,REP,"TED CRUZ",157,13,128,16
+Eastland,7-Rising Star-City of Eastland,"U.S. Senate",,DEM,"COLIN ALLRED",27,4,20,3
+Eastland,7-Rising Star-City of Eastland,"U.S. Senate",,LIB,"TED BROWN",2,0,2,0
+Eastland,7-Rising Star-City of Eastland,"U.S. Senate",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"U.S. Senate",,,"Under Votes",1,0,1,0
+Eastland,7-Rising Star-City of Eastland,"U.S. House","25",REP,"ROGER WILLIAMS",170,14,137,19
+Eastland,7-Rising Star-City of Eastland,"U.S. House","25",,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"U.S. House","25",,"Under Votes",12,1,11,0
+Eastland,7-Rising Star-City of Eastland,"Railroad Commissioner",,REP,"CHRISTI CRADDICK",161,12,132,17
+Eastland,7-Rising Star-City of Eastland,"Railroad Commissioner",,DEM,"KATHERINE CULBERT",17,4,12,1
+Eastland,7-Rising Star-City of Eastland,"Railroad Commissioner",,LIB,"HAWK DUNLAP",2,0,2,0
+Eastland,7-Rising Star-City of Eastland,"Railroad Commissioner",,GRN,"EDDIE ESPINOZA",1,0,0,1
+Eastland,7-Rising Star-City of Eastland,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Railroad Commissioner",,,"Under Votes",6,1,5,0
+Eastland,7-Rising Star-City of Eastland,"Justice, Supreme Court","Place 2",REP,"JIMMY BLACKLOCK",167,12,138,17
+Eastland,7-Rising Star-City of Eastland,"Justice, Supreme Court","Place 2",DEM,"DASEAN JONES",15,4,9,2
+Eastland,7-Rising Star-City of Eastland,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Justice, Supreme Court","Place 2",,"Under Votes",5,1,4,0
+Eastland,7-Rising Star-City of Eastland,"Justice, Supreme Court","Place 4",REP,"JOHN DEVINE",167,12,137,18
+Eastland,7-Rising Star-City of Eastland,"Justice, Supreme Court","Place 4",DEM,"CHRISTINE VINH WEEMS",15,4,10,1
+Eastland,7-Rising Star-City of Eastland,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Justice, Supreme Court","Place 4",,"Under Votes",5,1,4,0
+Eastland,7-Rising Star-City of Eastland,"Justice, Supreme Court","Place 6",REP,"JANE BLAND",164,12,135,17
+Eastland,7-Rising Star-City of Eastland,"Justice, Supreme Court","Place 6",DEM,"BONNIE LEE GOLDSTEIN",18,4,12,2
+Eastland,7-Rising Star-City of Eastland,"Justice, Supreme Court","Place 6",LIB,"J. DAVID ROBERSON",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Justice, Supreme Court","Place 6",,"Under Votes",5,1,4,0
+Eastland,7-Rising Star-City of Eastland,"Presiding Judge, Court of Criminal Appeals",,REP,"DAVID J. SCHENCK",164,12,135,17
+Eastland,7-Rising Star-City of Eastland,"Presiding Judge, Court of Criminal Appeals",,DEM,"HOLLY TAYLOR",17,4,11,2
+Eastland,7-Rising Star-City of Eastland,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",6,1,5,0
+Eastland,7-Rising Star-City of Eastland,"Judge, Court of Criminal Appeals","Place 7",REP,"GINA PARKER",166,12,136,18
+Eastland,7-Rising Star-City of Eastland,"Judge, Court of Criminal Appeals","Place 7",DEM,"NANCY MULDER",17,4,12,1
+Eastland,7-Rising Star-City of Eastland,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",4,1,3,0
+Eastland,7-Rising Star-City of Eastland,"Judge, Court of Criminal Appeals","Place 8",REP,"LEE FINLEY",163,12,134,17
+Eastland,7-Rising Star-City of Eastland,"Judge, Court of Criminal Appeals","Place 8",DEM,"CHIKA ANYIAM",15,4,9,2
+Eastland,7-Rising Star-City of Eastland,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",9,1,8,0
+Eastland,7-Rising Star-City of Eastland,"State Representative","68",REP,"DAVID SPILLER",166,12,136,18
+Eastland,7-Rising Star-City of Eastland,"State Representative","68",DEM,"STACEY SWANN",17,4,12,1
+Eastland,7-Rising Star-City of Eastland,"State Representative","68",,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"State Representative","68",,"Under Votes",4,1,3,0
+Eastland,7-Rising Star-City of Eastland,"Chief Justice, 11th Court of Appeals District",,REP,"JOHN BAILEY",175,15,141,19
+Eastland,7-Rising Star-City of Eastland,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",12,2,10,0
+Eastland,7-Rising Star-City of Eastland,"District Judge, 91st Judicial District",,REP,"STEVEN R. HEROD",172,15,138,19
+Eastland,7-Rising Star-City of Eastland,"District Judge, 91st Judicial District",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"District Judge, 91st Judicial District",,,"Under Votes",15,2,13,0
+Eastland,7-Rising Star-City of Eastland,"District Clerk-Unexpired Term",,REP,"WENDY M. MCDADE",172,14,139,19
+Eastland,7-Rising Star-City of Eastland,"District Clerk-Unexpired Term",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"District Clerk-Unexpired Term",,,"Under Votes",15,3,12,0
+Eastland,7-Rising Star-City of Eastland,"Sheriff",,REP,"JASON WEGER",171,13,139,19
+Eastland,7-Rising Star-City of Eastland,"Sheriff",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Sheriff",,,"Under Votes",16,4,12,0
+Eastland,7-Rising Star-City of Eastland,"County Tax Assessor-Collector",,REP,"ANDREA CAYE MAY",174,13,142,19
+Eastland,7-Rising Star-City of Eastland,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"County Tax Assessor-Collector",,,"Under Votes",13,4,9,0
+Eastland,7-Rising Star-City of Eastland,"County Commissioner","Precinct 3",REP,"RONNIE WILSON",170,12,139,19
+Eastland,7-Rising Star-City of Eastland,"County Commissioner","Precinct 3",,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"County Commissioner","Precinct 3",,"Under Votes",17,5,12,0
+Eastland,7-Rising Star-City of Eastland,"County Constable","Precinct 1",REP,"DARRELL DYER",168,12,137,19
+Eastland,7-Rising Star-City of Eastland,"County Constable","Precinct 1",,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"County Constable","Precinct 1",,"Under Votes",19,5,14,0
+Eastland,7-Rising Star-City of Eastland,"Proposition A",,,"FOR",135,13,106,16
+Eastland,7-Rising Star-City of Eastland,"Proposition A",,,"AGAINST",38,2,33,3
+Eastland,7-Rising Star-City of Eastland,"Proposition A",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Proposition A",,,"Under Votes",14,2,12,0
+Eastland,7-Rising Star-City of Eastland,"Proposition B",,,"FOR",144,14,116,14
+Eastland,7-Rising Star-City of Eastland,"Proposition B",,,"AGAINST",29,2,23,4
+Eastland,7-Rising Star-City of Eastland,"Proposition B",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Proposition B",,,"Under Votes",14,1,12,1
+Eastland,7-Rising Star-City of Eastland,"Proposition C",,,"FOR",131,14,102,15
+Eastland,7-Rising Star-City of Eastland,"Proposition C",,,"AGAINST",39,1,35,3
+Eastland,7-Rising Star-City of Eastland,"Proposition C",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Proposition C",,,"Under Votes",17,2,14,1
+Eastland,7-Rising Star-City of Eastland,"Proposition D",,,"FOR",104,11,80,13
+Eastland,7-Rising Star-City of Eastland,"Proposition D",,,"AGAINST",66,5,56,5
+Eastland,7-Rising Star-City of Eastland,"Proposition D",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Proposition D",,,"Under Votes",17,1,15,1
+Eastland,7-Rising Star-City of Eastland,"Proposition E",,,"FOR",158,14,127,17
+Eastland,7-Rising Star-City of Eastland,"Proposition E",,,"AGAINST",12,2,9,1
+Eastland,7-Rising Star-City of Eastland,"Proposition E",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Proposition E",,,"Under Votes",17,1,15,1
+Eastland,7-Rising Star-City of Eastland,"Proposition F",,,"FOR",161,13,131,17
+Eastland,7-Rising Star-City of Eastland,"Proposition F",,,"AGAINST",10,2,7,1
+Eastland,7-Rising Star-City of Eastland,"Proposition F",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Proposition F",,,"Under Votes",16,2,13,1
+Eastland,7-Rising Star-City of Eastland,"Proposition G",,,"FOR",82,9,66,7
+Eastland,7-Rising Star-City of Eastland,"Proposition G",,,"AGAINST",89,7,71,11
+Eastland,7-Rising Star-City of Eastland,"Proposition G",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Proposition G",,,"Under Votes",16,1,14,1
+Eastland,7-Rising Star-City of Eastland,"Proposition H",,,"FOR",157,16,126,15
+Eastland,7-Rising Star-City of Eastland,"Proposition H",,,"AGAINST",11,0,8,3
+Eastland,7-Rising Star-City of Eastland,"Proposition H",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Proposition H",,,"Under Votes",19,1,17,1
+Eastland,7-Rising Star-City of Eastland,"Proposition I",,,"FOR",111,10,88,13
+Eastland,7-Rising Star-City of Eastland,"Proposition I",,,"AGAINST",54,5,45,4
+Eastland,7-Rising Star-City of Eastland,"Proposition I",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Proposition I",,,"Under Votes",22,2,18,2
+Eastland,7-Rising Star-City of Eastland,"Proposition J",,,"FOR",148,15,119,14
+Eastland,7-Rising Star-City of Eastland,"Proposition J",,,"AGAINST",16,0,13,3
+Eastland,7-Rising Star-City of Eastland,"Proposition J",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Proposition J",,,"Under Votes",23,2,19,2
+Eastland,7-Rising Star-City of Eastland,"Proposition K",,,"FOR",90,6,76,8
+Eastland,7-Rising Star-City of Eastland,"Proposition K",,,"AGAINST",73,9,56,8
+Eastland,7-Rising Star-City of Eastland,"Proposition K",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Proposition K",,,"Under Votes",24,2,19,3
+Eastland,7-Rising Star-City of Eastland,"Proposition L",,,"FOR",100,6,85,9
+Eastland,7-Rising Star-City of Eastland,"Proposition L",,,"AGAINST",59,8,44,7
+Eastland,7-Rising Star-City of Eastland,"Proposition L",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Proposition L",,,"Under Votes",28,3,22,3
+Eastland,7-Rising Star-City of Eastland,"Proposition M",,,"FOR",133,12,110,11
+Eastland,7-Rising Star-City of Eastland,"Proposition M",,,"AGAINST",27,3,19,5
+Eastland,7-Rising Star-City of Eastland,"Proposition M",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Proposition M",,,"Under Votes",27,2,22,3
+Eastland,7-Rising Star-City of Eastland,"Proposition N",,,"FOR",125,11,104,10
+Eastland,7-Rising Star-City of Eastland,"Proposition N",,,"AGAINST",36,5,26,5
+Eastland,7-Rising Star-City of Eastland,"Proposition N",,,"Over Votes",0,0,0,0
+Eastland,7-Rising Star-City of Eastland,"Proposition N",,,"Under Votes",26,1,21,4
+Eastland,8-Cisco,"Ballots Cast",,,,2049,,,
+Eastland,8-Cisco,"President",,REP,"DONALD J. TRUMP/JD VANCE",1781,82,1433,266
+Eastland,8-Cisco,"President",,DEM,"KAMALA D. HARRIS/TIM WALTZ",247,25,178,44
+Eastland,8-Cisco,"President",,LIB,"CHASE OLIVER/MIKE TER MAAT",10,2,4,4
+Eastland,8-Cisco,"President",,GRN,"JILL STEIN/RUDOLPH WARE",3,1,1,1
+Eastland,8-Cisco,"President",,,"Over Votes",0,0,0,0
+Eastland,8-Cisco,"President",,,"Under Votes",7,1,5,1
+Eastland,8-Cisco,"U.S. Senate",,REP,"TED CRUZ",1712,81,1380,251
+Eastland,8-Cisco,"U.S. Senate",,DEM,"COLIN ALLRED",280,26,200,54
+Eastland,8-Cisco,"U.S. Senate",,LIB,"TED BROWN",40,1,32,7
+Eastland,8-Cisco,"U.S. Senate",,,"Over Votes",0,0,0,0
+Eastland,8-Cisco,"U.S. Senate",,,"Under Votes",17,3,9,5
+Eastland,8-Cisco,"U.S. House","25",REP,"ROGER WILLIAMS",1832,84,1468,280
+Eastland,8-Cisco,"U.S. House","25",,"Over Votes",0,0,0,0
+Eastland,8-Cisco,"U.S. House","25",,"Under Votes",201,25,142,34
+Eastland,8-Cisco,"Railroad Commissioner",,REP,"CHRISTI CRADDICK",1704,85,1370,249
+Eastland,8-Cisco,"Railroad Commissioner",,DEM,"KATHERINE CULBERT",210,21,154,35
+Eastland,8-Cisco,"Railroad Commissioner",,LIB,"HAWK DUNLAP",60,0,49,11
+Eastland,8-Cisco,"Railroad Commissioner",,GRN,"EDDIE ESPINOZA",17,0,10,7
+Eastland,8-Cisco,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Eastland,8-Cisco,"Railroad Commissioner",,,"Under Votes",57,5,38,14
+Eastland,8-Cisco,"Justice, Supreme Court","Place 2",REP,"JIMMY BLACKLOCK",1768,81,1423,264
+Eastland,8-Cisco,"Justice, Supreme Court","Place 2",DEM,"DASEAN JONES",229,24,163,42
+Eastland,8-Cisco,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Eastland,8-Cisco,"Justice, Supreme Court","Place 2",,"Under Votes",52,6,35,11
+Eastland,8-Cisco,"Justice, Supreme Court","Place 4",REP,"JOHN DEVINE",1754,82,1416,256
+Eastland,8-Cisco,"Justice, Supreme Court","Place 4",DEM,"CHRISTINE VINH WEEMS",240,24,169,47
+Eastland,8-Cisco,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Eastland,8-Cisco,"Justice, Supreme Court","Place 4",,"Under Votes",55,5,36,14
+Eastland,8-Cisco,"Justice, Supreme Court","Place 6",REP,"JANE BLAND",1709,79,1377,253
+Eastland,8-Cisco,"Justice, Supreme Court","Place 6",DEM,"BONNIE LEE GOLDSTEIN",226,25,163,38
+Eastland,8-Cisco,"Justice, Supreme Court","Place 6",LIB,"J. DAVID ROBERSON",54,0,41,13
+Eastland,8-Cisco,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Eastland,8-Cisco,"Justice, Supreme Court","Place 6",,"Under Votes",60,7,40,13
+Eastland,8-Cisco,"Presiding Judge, Court of Criminal Appeals",,REP,"DAVID J. SCHENCK",1751,81,1407,263
+Eastland,8-Cisco,"Presiding Judge, Court of Criminal Appeals",,DEM,"HOLLY TAYLOR",239,23,175,41
+Eastland,8-Cisco,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Eastland,8-Cisco,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",59,7,39,13
+Eastland,8-Cisco,"Judge, Court of Criminal Appeals","Place 7",REP,"GINA PARKER",1754,81,1413,260
+Eastland,8-Cisco,"Judge, Court of Criminal Appeals","Place 7",DEM,"NANCY MULDER",237,23,171,43
+Eastland,8-Cisco,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Eastland,8-Cisco,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",58,7,37,14
+Eastland,8-Cisco,"Judge, Court of Criminal Appeals","Place 8",REP,"LEE FINLEY",1765,83,1417,265
+Eastland,8-Cisco,"Judge, Court of Criminal Appeals","Place 8",DEM,"CHIKA ANYIAM",220,21,161,38
+Eastland,8-Cisco,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Eastland,8-Cisco,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",64,7,43,14
+Eastland,8-Cisco,"State Representative","68",REP,"DAVID SPILLER",1748,73,1413,262
+Eastland,8-Cisco,"State Representative","68",DEM,"STACEY SWANN",228,22,165,41
+Eastland,8-Cisco,"State Representative","68",,"Over Votes",0,0,0,0
+Eastland,8-Cisco,"State Representative","68",,"Under Votes",73,16,43,14
+Eastland,8-Cisco,"Chief Justice, 11th Court of Appeals District",,REP,"JOHN BAILEY",1859,84,1491,284
+Eastland,8-Cisco,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Eastland,8-Cisco,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",190,27,130,33
+Eastland,8-Cisco,"District Judge, 91st Judicial District",,REP,"STEVEN R. HEROD",1833,82,1472,279
+Eastland,8-Cisco,"District Judge, 91st Judicial District",,,"Over Votes",0,0,0,0
+Eastland,8-Cisco,"District Judge, 91st Judicial District",,,"Under Votes",216,29,149,38
+Eastland,8-Cisco,"District Clerk-Unexpired Term",,REP,"WENDY M. MCDADE",1831,81,1469,281
+Eastland,8-Cisco,"District Clerk-Unexpired Term",,,"Over Votes",0,0,0,0
+Eastland,8-Cisco,"District Clerk-Unexpired Term",,,"Under Votes",218,30,152,36
+Eastland,8-Cisco,"Sheriff",,REP,"JASON WEGER",1812,83,1455,274
+Eastland,8-Cisco,"Sheriff",,,"Over Votes",0,0,0,0
+Eastland,8-Cisco,"Sheriff",,,"Under Votes",237,28,166,43
+Eastland,8-Cisco,"County Tax Assessor-Collector",,REP,"ANDREA CAYE MAY",1846,82,1483,281
+Eastland,8-Cisco,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Eastland,8-Cisco,"County Tax Assessor-Collector",,,"Under Votes",203,29,138,36
+Eastland,8-Cisco,"County Constable","Precinct 1",REP,"DARRELL DYER",1818,80,1460,278
+Eastland,8-Cisco,"County Constable","Precinct 1",,"Over Votes",0,0,0,0
+Eastland,8-Cisco,"County Constable","Precinct 1",,"Under Votes",231,31,161,39
+Eastland,9-Lake Leon,"Ballots Cast",,,,474,,,
+Eastland,9-Lake Leon,"President",,REP,"DONALD J. TRUMP/JD VANCE",431,27,329,75
+Eastland,9-Lake Leon,"President",,DEM,"KAMALA D. HARRIS/TIM WALTZ",42,5,26,11
+Eastland,9-Lake Leon,"President",,LIB,"CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+Eastland,9-Lake Leon,"President",,GRN,"JILL STEIN/RUDOLPH WARE",0,0,0,0
+Eastland,9-Lake Leon,"President",,,"Over Votes",0,0,0,0
+Eastland,9-Lake Leon,"President",,,"Under Votes",1,0,1,0
+Eastland,9-Lake Leon,"U.S. Senate",,REP,"TED CRUZ",417,29,323,65
+Eastland,9-Lake Leon,"U.S. Senate",,DEM,"COLIN ALLRED",49,3,30,16
+Eastland,9-Lake Leon,"U.S. Senate",,LIB,"TED BROWN",5,0,2,3
+Eastland,9-Lake Leon,"U.S. Senate",,,"Over Votes",0,0,0,0
+Eastland,9-Lake Leon,"U.S. Senate",,,"Under Votes",3,0,1,2
+Eastland,9-Lake Leon,"U.S. House","25",REP,"ROGER WILLIAMS",432,26,331,75
+Eastland,9-Lake Leon,"U.S. House","25",,"Over Votes",0,0,0,0
+Eastland,9-Lake Leon,"U.S. House","25",,"Under Votes",40,6,23,11
+Eastland,9-Lake Leon,"Railroad Commissioner",,REP,"CHRISTI CRADDICK",402,29,310,63
+Eastland,9-Lake Leon,"Railroad Commissioner",,DEM,"KATHERINE CULBERT",37,3,24,10
+Eastland,9-Lake Leon,"Railroad Commissioner",,LIB,"HAWK DUNLAP",18,0,12,6
+Eastland,9-Lake Leon,"Railroad Commissioner",,GRN,"EDDIE ESPINOZA",1,0,1,0
+Eastland,9-Lake Leon,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Eastland,9-Lake Leon,"Railroad Commissioner",,,"Under Votes",16,0,9,7
+Eastland,9-Lake Leon,"Justice, Supreme Court","Place 2",REP,"JIMMY BLACKLOCK",423,28,327,68
+Eastland,9-Lake Leon,"Justice, Supreme Court","Place 2",DEM,"DASEAN JONES",38,3,22,13
+Eastland,9-Lake Leon,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Eastland,9-Lake Leon,"Justice, Supreme Court","Place 2",,"Under Votes",13,1,7,5
+Eastland,9-Lake Leon,"Justice, Supreme Court","Place 4",REP,"JOHN DEVINE",424,28,328,68
+Eastland,9-Lake Leon,"Justice, Supreme Court","Place 4",DEM,"CHRISTINE VINH WEEMS",39,3,23,13
+Eastland,9-Lake Leon,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Eastland,9-Lake Leon,"Justice, Supreme Court","Place 4",,"Under Votes",11,1,5,5
+Eastland,9-Lake Leon,"Justice, Supreme Court","Place 6",REP,"JANE BLAND",415,28,322,65
+Eastland,9-Lake Leon,"Justice, Supreme Court","Place 6",DEM,"BONNIE LEE GOLDSTEIN",36,3,23,10
+Eastland,9-Lake Leon,"Justice, Supreme Court","Place 6",LIB,"J. DAVID ROBERSON",11,0,7,4
+Eastland,9-Lake Leon,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Eastland,9-Lake Leon,"Justice, Supreme Court","Place 6",,"Under Votes",12,1,4,7
+Eastland,9-Lake Leon,"Presiding Judge, Court of Criminal Appeals",,REP,"DAVID J. SCHENCK",421,28,327,66
+Eastland,9-Lake Leon,"Presiding Judge, Court of Criminal Appeals",,DEM,"HOLLY TAYLOR",39,3,24,12
+Eastland,9-Lake Leon,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Eastland,9-Lake Leon,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",14,1,5,8
+Eastland,9-Lake Leon,"Judge, Court of Criminal Appeals","Place 7",REP,"GINA PARKER",425,30,327,68
+Eastland,9-Lake Leon,"Judge, Court of Criminal Appeals","Place 7",DEM,"NANCY MULDER",36,2,23,11
+Eastland,9-Lake Leon,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Eastland,9-Lake Leon,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",13,0,6,7
+Eastland,9-Lake Leon,"Judge, Court of Criminal Appeals","Place 8",REP,"LEE FINLEY",431,31,332,68
+Eastland,9-Lake Leon,"Judge, Court of Criminal Appeals","Place 8",DEM,"CHIKA ANYIAM",29,1,18,10
+Eastland,9-Lake Leon,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Eastland,9-Lake Leon,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",14,0,6,8
+Eastland,9-Lake Leon,"State Representative","68",REP,"DAVID SPILLER",418,24,325,69
+Eastland,9-Lake Leon,"State Representative","68",DEM,"STACEY SWANN",36,2,23,11
+Eastland,9-Lake Leon,"State Representative","68",,"Over Votes",0,0,0,0
+Eastland,9-Lake Leon,"State Representative","68",,"Under Votes",20,6,8,6
+Eastland,9-Lake Leon,"Chief Justice, 11th Court of Appeals District",,REP,"JOHN BAILEY",431,25,335,71
+Eastland,9-Lake Leon,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Eastland,9-Lake Leon,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",43,7,21,15
+Eastland,9-Lake Leon,"District Judge, 91st Judicial District",,REP,"STEVEN R. HEROD",431,23,336,72
+Eastland,9-Lake Leon,"District Judge, 91st Judicial District",,,"Over Votes",0,0,0,0
+Eastland,9-Lake Leon,"District Judge, 91st Judicial District",,,"Under Votes",43,9,20,14
+Eastland,9-Lake Leon,"District Clerk-Unexpired Term",,REP,"WENDY M. MCDADE",428,24,334,70
+Eastland,9-Lake Leon,"District Clerk-Unexpired Term",,,"Over Votes",0,0,0,0
+Eastland,9-Lake Leon,"District Clerk-Unexpired Term",,,"Under Votes",46,8,22,16
+Eastland,9-Lake Leon,"Sheriff",,REP,"JASON WEGER",424,25,327,72
+Eastland,9-Lake Leon,"Sheriff",,,"Over Votes",0,0,0,0
+Eastland,9-Lake Leon,"Sheriff",,,"Under Votes",50,7,29,14
+Eastland,9-Lake Leon,"County Tax Assessor-Collector",,REP,"ANDREA CAYE MAY",432,25,333,74
+Eastland,9-Lake Leon,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Eastland,9-Lake Leon,"County Tax Assessor-Collector",,,"Under Votes",42,7,23,12
+Eastland,9-Lake Leon,"County Constable","Precinct 2",REP,"JAY DRUESEDOW",429,23,332,74
+Eastland,9-Lake Leon,"County Constable","Precinct 2",,"Over Votes",0,0,0,0
+Eastland,9-Lake Leon,"County Constable","Precinct 2",,"Under Votes",45,9,24,12
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Eastland,Federal,"Ballots Cast",,,,7,,,
+Eastland,Federal,"President",,REP,"DONALD J. TRUMP/JD VANCE",1,1,0,0
+Eastland,Federal,"President",,DEM,"KAMALA D. HARRIS/TIM WALTZ",6,6,0,0
+Eastland,Federal,"President",,LIB,"CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+Eastland,Federal,"President",,GRN,"JILL STEIN/RUDOLPH WARE",0,0,0,0
+Eastland,Federal,"President",,,"Over Votes",0,0,0,0
+Eastland,Federal,"President",,,"Under Votes",0,0,0,0
+Eastland,Federal,"U.S. Senate",,REP,"TED CRUZ",1,1,0,0
+Eastland,Federal,"U.S. Senate",,DEM,"COLIN ALLRED",6,6,0,0
+Eastland,Federal,"U.S. Senate",,LIB,"TED BROWN",0,0,0,0
+Eastland,Federal,"U.S. Senate",,,"Over Votes",0,0,0,0
+Eastland,Federal,"U.S. Senate",,,"Under Votes",0,0,0,0
+Eastland,Federal,"U.S. House","25",REP,"ROGER WILLIAMS",2,2,0,0
+Eastland,Federal,"U.S. House","25",,"Over Votes",0,0,0,0
+Eastland,Federal,"U.S. House","25",,"Under Votes",5,5,0,0
+Eastland,4-Desdemona-Lingleville ISD,"Ballots Cast",,,,32,,,
+Eastland,4-Desdemona-Lingleville ISD,"President",,REP,"DONALD J. TRUMP/JD VANCE",26,1,16,9
+Eastland,4-Desdemona-Lingleville ISD,"President",,DEM,"KAMALA D. HARRIS/TIM WALTZ",6,0,3,3
+Eastland,4-Desdemona-Lingleville ISD,"President",,LIB,"CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"President",,GRN,"JILL STEIN/RUDOLPH WARE",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"President",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"President",,,"Under Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"U.S. Senate",,REP,"TED CRUZ",27,1,17,9
+Eastland,4-Desdemona-Lingleville ISD,"U.S. Senate",,DEM,"COLIN ALLRED",5,0,2,3
+Eastland,4-Desdemona-Lingleville ISD,"U.S. Senate",,LIB,"TED BROWN",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"U.S. Senate",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"U.S. Senate",,,"Under Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"U.S. House","25",REP,"ROGER WILLIAMS",25,1,15,9
+Eastland,4-Desdemona-Lingleville ISD,"U.S. House","25",,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"U.S. House","25",,"Under Votes",7,0,4,3
+Eastland,4-Desdemona-Lingleville ISD,"Railroad Commissioner",,REP,"CHRISTI CRADDICK",25,1,15,9
+Eastland,4-Desdemona-Lingleville ISD,"Railroad Commissioner",,DEM,"KATHERINE CULBERT",5,0,2,3
+Eastland,4-Desdemona-Lingleville ISD,"Railroad Commissioner",,LIB,"HAWK DUNLAP",1,0,1,0
+Eastland,4-Desdemona-Lingleville ISD,"Railroad Commissioner",,GRN,"EDDIE ESPINOZA",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"Railroad Commissioner",,,"Under Votes",1,0,1,0
+Eastland,4-Desdemona-Lingleville ISD,"Justice, Supreme Court","Place 2",REP,"JIMMY BLACKLOCK",26,1,16,9
+Eastland,4-Desdemona-Lingleville ISD,"Justice, Supreme Court","Place 2",DEM,"DASEAN JONES",5,0,2,3
+Eastland,4-Desdemona-Lingleville ISD,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"Justice, Supreme Court","Place 2",,"Under Votes",1,0,1,0
+Eastland,4-Desdemona-Lingleville ISD,"Justice, Supreme Court","Place 4",REP,"JOHN DEVINE",25,1,15,9
+Eastland,4-Desdemona-Lingleville ISD,"Justice, Supreme Court","Place 4",DEM,"CHRISTINE VINH WEEMS",5,0,2,3
+Eastland,4-Desdemona-Lingleville ISD,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"Justice, Supreme Court","Place 4",,"Under Votes",2,0,2,0
+Eastland,4-Desdemona-Lingleville ISD,"Justice, Supreme Court","Place 6",REP,"JANE BLAND",25,1,15,9
+Eastland,4-Desdemona-Lingleville ISD,"Justice, Supreme Court","Place 6",DEM,"BONNIE LEE GOLDSTEIN",5,0,2,3
+Eastland,4-Desdemona-Lingleville ISD,"Justice, Supreme Court","Place 6",LIB,"J. DAVID ROBERSON",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"Justice, Supreme Court","Place 6",,"Under Votes",2,0,2,0
+Eastland,4-Desdemona-Lingleville ISD,"Presiding Judge, Court of Criminal Appeals",,REP,"DAVID J. SCHENCK",25,1,16,8
+Eastland,4-Desdemona-Lingleville ISD,"Presiding Judge, Court of Criminal Appeals",,DEM,"HOLLY TAYLOR",5,0,2,3
+Eastland,4-Desdemona-Lingleville ISD,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",2,0,1,1
+Eastland,4-Desdemona-Lingleville ISD,"Judge, Court of Criminal Appeals","Place 7",REP,"GINA PARKER",24,1,15,8
+Eastland,4-Desdemona-Lingleville ISD,"Judge, Court of Criminal Appeals","Place 7",DEM,"NANCY MULDER",5,0,2,3
+Eastland,4-Desdemona-Lingleville ISD,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",3,0,2,1
+Eastland,4-Desdemona-Lingleville ISD,"Judge, Court of Criminal Appeals","Place 8",REP,"LEE FINLEY",25,1,15,9
+Eastland,4-Desdemona-Lingleville ISD,"Judge, Court of Criminal Appeals","Place 8",DEM,"CHIKA ANYIAM",5,0,2,3
+Eastland,4-Desdemona-Lingleville ISD,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",2,0,2,0
+Eastland,4-Desdemona-Lingleville ISD,"State Representative","68",REP,"DAVID SPILLER",24,0,16,8
+Eastland,4-Desdemona-Lingleville ISD,"State Representative","68",DEM,"STACEY SWANN",5,0,2,3
+Eastland,4-Desdemona-Lingleville ISD,"State Representative","68",,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"State Representative","68",,"Under Votes",3,1,1,1
+Eastland,4-Desdemona-Lingleville ISD,"Chief Justice, 11th Court of Appeals District",,REP,"JOHN BAILEY",23,0,15,8
+Eastland,4-Desdemona-Lingleville ISD,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",9,1,4,4
+Eastland,4-Desdemona-Lingleville ISD,"District Judge, 91st Judicial District",,REP,"STEVEN R. HEROD",24,0,15,9
+Eastland,4-Desdemona-Lingleville ISD,"District Judge, 91st Judicial District",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"District Judge, 91st Judicial District",,,"Under Votes",8,1,4,3
+Eastland,4-Desdemona-Lingleville ISD,"District Clerk-Unexpired Term",,REP,"WENDY M. MCDADE",25,0,16,9
+Eastland,4-Desdemona-Lingleville ISD,"District Clerk-Unexpired Term",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"District Clerk-Unexpired Term",,,"Under Votes",7,1,3,3
+Eastland,4-Desdemona-Lingleville ISD,"Sheriff",,REP,"JASON WEGER",25,0,16,9
+Eastland,4-Desdemona-Lingleville ISD,"Sheriff",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"Sheriff",,,"Under Votes",7,1,3,3
+Eastland,4-Desdemona-Lingleville ISD,"County Tax Assessor-Collector",,REP,"ANDREA CAYE MAY",25,0,16,9
+Eastland,4-Desdemona-Lingleville ISD,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"County Tax Assessor-Collector",,,"Under Votes",7,1,3,3
+Eastland,4-Desdemona-Lingleville ISD,"County Constable","Precinct 2",REP,"JAY DRUESEDOW",25,0,16,9
+Eastland,4-Desdemona-Lingleville ISD,"County Constable","Precinct 2",,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"County Constable","Precinct 2",,"Under Votes",7,1,3,3
+Eastland,4-Desdemona-Lingleville ISD,"School Trustee Position 1 - 4 Year Term",,,"ANDREW GRIMM",24,1,16,7
+Eastland,4-Desdemona-Lingleville ISD,"School Trustee Position 1 - 4 Year Term",,,"SONYA KOKE",6,0,3,3
+Eastland,4-Desdemona-Lingleville ISD,"School Trustee Position 1 - 4 Year Term",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"School Trustee Position 1 - 4 Year Term",,,"Under Votes",2,0,0,2
+Eastland,4-Desdemona-Lingleville ISD,"School Trustee Position 2 - 4 Year Term",,,"JUSTIN WILSON",22,1,12,9
+Eastland,4-Desdemona-Lingleville ISD,"School Trustee Position 2 - 4 Year Term",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"School Trustee Position 2 - 4 Year Term",,,"Under Votes",10,0,7,3
+Eastland,4-Desdemona-Lingleville ISD,"School Trustee Position 3 - 4 Year Term",,,"JEROD JAMES",19,1,12,6
+Eastland,4-Desdemona-Lingleville ISD,"School Trustee Position 3 - 4 Year Term",,,"LARRY GRIFFIN",6,0,4,2
+Eastland,4-Desdemona-Lingleville ISD,"School Trustee Position 3 - 4 Year Term",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"School Trustee Position 3 - 4 Year Term",,,"Under Votes",7,0,3,4
+Eastland,4-Desdemona-Lingleville ISD,"School Trustee Position 4 - 4 Year Term",,,"BRENT HALLMARK",25,1,15,9
+Eastland,4-Desdemona-Lingleville ISD,"School Trustee Position 4 - 4 Year Term",,,"Over Votes",0,0,0,0
+Eastland,4-Desdemona-Lingleville ISD,"School Trustee Position 4 - 4 Year Term",,,"Under Votes",7,0,4,3
+Eastland,3-Ranger-Huckabay ISD,"Ballots Cast",,,,1,,,
+Eastland,3-Ranger-Huckabay ISD,"President",,REP,"DONALD J. TRUMP/JD VANCE",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"President",,DEM,"KAMALA D. HARRIS/TIM WALTZ",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"President",,LIB,"CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"President",,GRN,"JILL STEIN/RUDOLPH WARE",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"President",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"President",,,"Under Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"U.S. Senate",,REP,"TED CRUZ",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"U.S. Senate",,DEM,"COLIN ALLRED",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"U.S. Senate",,LIB,"TED BROWN",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"U.S. Senate",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"U.S. Senate",,,"Under Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"U.S. House","25",REP,"ROGER WILLIAMS",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"U.S. House","25",,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"U.S. House","25",,"Under Votes",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"Railroad Commissioner",,REP,"CHRISTI CRADDICK",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Railroad Commissioner",,DEM,"KATHERINE CULBERT",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"Railroad Commissioner",,LIB,"HAWK DUNLAP",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Railroad Commissioner",,GRN,"EDDIE ESPINOZA",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Railroad Commissioner",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Railroad Commissioner",,,"Under Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Justice, Supreme Court","Place 2",REP,"JIMMY BLACKLOCK",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Justice, Supreme Court","Place 2",DEM,"DASEAN JONES",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"Justice, Supreme Court","Place 2",,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Justice, Supreme Court","Place 2",,"Under Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Justice, Supreme Court","Place 4",REP,"JOHN DEVINE",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Justice, Supreme Court","Place 4",DEM,"CHRISTINE VINH WEEMS",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"Justice, Supreme Court","Place 4",,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Justice, Supreme Court","Place 4",,"Under Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Justice, Supreme Court","Place 6",REP,"JANE BLAND",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Justice, Supreme Court","Place 6",DEM,"BONNIE LEE GOLDSTEIN",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"Justice, Supreme Court","Place 6",LIB,"J. DAVID ROBERSON",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Justice, Supreme Court","Place 6",,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Justice, Supreme Court","Place 6",,"Under Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Presiding Judge, Court of Criminal Appeals",,REP,"DAVID J. SCHENCK",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Presiding Judge, Court of Criminal Appeals",,DEM,"HOLLY TAYLOR",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"Presiding Judge, Court of Criminal Appeals",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Presiding Judge, Court of Criminal Appeals",,,"Under Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Judge, Court of Criminal Appeals","Place 7",REP,"GINA PARKER",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Judge, Court of Criminal Appeals","Place 7",DEM,"NANCY MULDER",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"Judge, Court of Criminal Appeals","Place 7",,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Judge, Court of Criminal Appeals","Place 7",,"Under Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Judge, Court of Criminal Appeals","Place 8",REP,"LEE FINLEY",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Judge, Court of Criminal Appeals","Place 8",DEM,"CHIKA ANYIAM",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"Judge, Court of Criminal Appeals","Place 8",,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Judge, Court of Criminal Appeals","Place 8",,"Under Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"State Representative","68",REP,"DAVID SPILLER",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"State Representative","68",DEM,"STACEY SWANN",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"State Representative","68",,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"State Representative","68",,"Under Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Chief Justice, 11th Court of Appeals District",,REP,"JOHN BAILEY",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Chief Justice, 11th Court of Appeals District",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Chief Justice, 11th Court of Appeals District",,,"Under Votes",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"District Judge, 91st Judicial District",,REP,"STEVEN R. HEROD",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"District Judge, 91st Judicial District",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"District Judge, 91st Judicial District",,,"Under Votes",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"District Clerk-Unexpired Term",,REP,"WENDY M. MCDADE",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"District Clerk-Unexpired Term",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"District Clerk-Unexpired Term",,,"Under Votes",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"Sheriff",,REP,"JASON WEGER",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Sheriff",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Sheriff",,,"Under Votes",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"County Tax Assessor-Collector",,REP,"ANDREA CAYE MAY",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"County Tax Assessor-Collector",,,"Under Votes",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"County Constable","Precinct 2",REP,"JAY DRUESEDOW",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"County Constable","Precinct 2",,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"County Constable","Precinct 2",,"Under Votes",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"School Board Trustee 4 Year Term",,,"BETTY PETERSON",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"School Board Trustee 4 Year Term",,,"BRETT THETFORD",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"School Board Trustee 4 Year Term",,,"CASEY HEATH",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"School Board Trustee 4 Year Term",,,"NEIL CULPEPPER",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"School Board Trustee 4 Year Term",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"School Board Trustee 4 Year Term",,,"Under Votes",3,0,3,0
+Eastland,3-Ranger-Huckabay ISD,"Proposition A",,,"FOR",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Proposition A",,,"AGAINST",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"Proposition A",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Proposition A",,,"Under Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Proposition B",,,"FOR",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Proposition B",,,"AGAINST",1,0,1,0
+Eastland,3-Ranger-Huckabay ISD,"Proposition B",,,"Over Votes",0,0,0,0
+Eastland,3-Ranger-Huckabay ISD,"Proposition B",,,"Under Votes",0,0,0,0
