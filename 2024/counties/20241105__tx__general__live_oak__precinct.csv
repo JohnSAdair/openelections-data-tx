@@ -1,0 +1,1293 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Live Oak,1-Argenta,Registered Voters,,,,543,,,
+Live Oak,1-Argenta,Ballots Cast,,,,374,,,
+Live Oak,1-Argenta,President,,REP,Donald J. Trump,314,6,188,120
+Live Oak,1-Argenta,President,,DEM,Kamala D. Harris,56,4,23,29
+Live Oak,1-Argenta,President,,LIB,Chase Oliver,0,0,0,0
+Live Oak,1-Argenta,President,,GRN,Jill Stein,0,0,0,0
+Live Oak,1-Argenta,President,,,Under Votes,3,1,2,0
+Live Oak,1-Argenta,President,,,Over Votes,1,0,1,0
+Live Oak,1-Argenta,U.S. Senate,,REP,Ted Cruz,303,6,183,114
+Live Oak,1-Argenta,U.S. Senate,,DEM,Colin Allred,61,4,27,30
+Live Oak,1-Argenta,U.S. Senate,,LIB,Ted Brown,8,1,3,4
+Live Oak,1-Argenta,U.S. Senate,,,Under Votes,2,0,1,1
+Live Oak,1-Argenta,U.S. Senate,,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,U.S. House,15,REP,Monica De La Cruz,316,8,185,123
+Live Oak,1-Argenta,U.S. House,15,DEM,Michelle Vallejo,50,3,24,23
+Live Oak,1-Argenta,U.S. House,15,,Under Votes,8,0,5,3
+Live Oak,1-Argenta,U.S. House,15,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,Railroad Commissioner,,REP,Christi Craddick,303,7,179,117
+Live Oak,1-Argenta,Railroad Commissioner,,DEM,Katherine Culbert,50,4,25,21
+Live Oak,1-Argenta,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,3,2
+Live Oak,1-Argenta,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,0,4
+Live Oak,1-Argenta,Railroad Commissioner,,,Under Votes,11,0,6,5
+Live Oak,1-Argenta,Railroad Commissioner,,,Over Votes,1,0,1,0
+Live Oak,1-Argenta,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,311,7,186,118
+Live Oak,1-Argenta,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,51,4,22,25
+Live Oak,1-Argenta,"Justice, Supreme Court",Place 2,,Under Votes,12,0,6,6
+Live Oak,1-Argenta,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,"Justice, Supreme Court",Place 4,REP,John Devine,305,6,184,115
+Live Oak,1-Argenta,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,55,4,23,28
+Live Oak,1-Argenta,"Justice, Supreme Court",Place 4,,Under Votes,14,1,7,6
+Live Oak,1-Argenta,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,"Justice, Supreme Court",Place 6,REP,Jane Bland,302,6,182,114
+Live Oak,1-Argenta,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,55,4,23,28
+Live Oak,1-Argenta,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,3,0,1,2
+Live Oak,1-Argenta,"Justice, Supreme Court",Place 6,,Under Votes,13,1,7,5
+Live Oak,1-Argenta,"Justice, Supreme Court",Place 6,,Over Votes,1,0,1,0
+Live Oak,1-Argenta,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,310,6,185,119
+Live Oak,1-Argenta,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,52,4,23,25
+Live Oak,1-Argenta,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,12,1,6,5
+Live Oak,1-Argenta,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,309,6,185,118
+Live Oak,1-Argenta,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,52,4,22,26
+Live Oak,1-Argenta,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,13,1,7,5
+Live Oak,1-Argenta,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,311,6,185,120
+Live Oak,1-Argenta,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,49,4,21,24
+Live Oak,1-Argenta,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,14,1,8,5
+Live Oak,1-Argenta,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,122,5,65,52
+Live Oak,1-Argenta,"Member, State Board of Education",3,,Under Votes,252,6,149,97
+Live Oak,1-Argenta,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,State Representative,31,REP,Ryan Guillen,314,7,186,121
+Live Oak,1-Argenta,State Representative,31,,Under Votes,60,4,28,28
+Live Oak,1-Argenta,State Representative,31,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,303,6,181,116
+Live Oak,1-Argenta,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,53,4,22,27
+Live Oak,1-Argenta,"Chief Justice, 13th Court of Appeals District",,,Under Votes,18,1,11,6
+Live Oak,1-Argenta,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,"Justice, 13th Court of Appeals District",Place 2,REP,Jenny Cron,302,6,180,116
+Live Oak,1-Argenta,"Justice, 13th Court of Appeals District",Place 2,DEM,Nora Longoria,54,4,24,26
+Live Oak,1-Argenta,"Justice, 13th Court of Appeals District",Place 2,,Under Votes,18,1,10,7
+Live Oak,1-Argenta,"Justice, 13th Court of Appeals District",Place 2,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,"Justice, 13th Court of Appeals District",Place 4,REP,Ysmael D. Fonseca,304,6,181,117
+Live Oak,1-Argenta,"Justice, 13th Court of Appeals District",Place 4,DEM,Joe Martinez,53,4,23,26
+Live Oak,1-Argenta,"Justice, 13th Court of Appeals District",Place 4,,Under Votes,17,1,10,6
+Live Oak,1-Argenta,"Justice, 13th Court of Appeals District",Place 4,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,"Justice, 13th Court of Appeals District",Place 5,REP,Jon West,309,6,182,121
+Live Oak,1-Argenta,"Justice, 13th Court of Appeals District",Place 5,DEM,Regi Compian Richardson,48,4,21,23
+Live Oak,1-Argenta,"Justice, 13th Court of Appeals District",Place 5,,Under Votes,17,1,11,5
+Live Oak,1-Argenta,"Justice, 13th Court of Appeals District",Place 5,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,District Judge,343rd Judicial District,REP,Janna K. Whatley,322,7,189,126
+Live Oak,1-Argenta,District Judge,343rd Judicial District,,Under Votes,52,4,25,23
+Live Oak,1-Argenta,District Judge,343rd Judicial District,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,District Attorney,156th Judicial District,REP,Tiffany McWilliams,318,7,187,124
+Live Oak,1-Argenta,District Attorney,156th Judicial District,,Under Votes,56,4,27,25
+Live Oak,1-Argenta,District Attorney,156th Judicial District,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,2nd Multicounty Court at Law,,REP,Harvey Hardwick,320,7,188,125
+Live Oak,1-Argenta,2nd Multicounty Court at Law,,,Under Votes,54,4,26,24
+Live Oak,1-Argenta,2nd Multicounty Court at Law,,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,County Attorney,,REP,Robert McWilliams,318,7,188,123
+Live Oak,1-Argenta,County Attorney,,,Under Votes,56,4,26,26
+Live Oak,1-Argenta,County Attorney,,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,Sheriff,,REP,Larry R. Busby,323,8,188,127
+Live Oak,1-Argenta,Sheriff,,,Under Votes,51,3,26,22
+Live Oak,1-Argenta,Sheriff,,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,County Tax Assessor-Collector,,REP,Deanna Atkinson,318,7,187,124
+Live Oak,1-Argenta,County Tax Assessor-Collector,,,Under Votes,56,4,27,25
+Live Oak,1-Argenta,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,County Commissioner,Precinct 3,REP,Mitchell Williams,320,7,187,126
+Live Oak,1-Argenta,County Commissioner,Precinct 3,,Under Votes,54,4,27,23
+Live Oak,1-Argenta,County Commissioner,Precinct 3,,Over Votes,0,0,0,0
+Live Oak,1-Argenta,Constable,Precinct 3,REP,Hector Valverde,314,7,184,123
+Live Oak,1-Argenta,Constable,Precinct 3,,Under Votes,60,4,30,26
+Live Oak,1-Argenta,Constable,Precinct 3,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,Registered Voters,,,,1186,,,
+Live Oak,2-Lagarto,Ballots Cast,,,,785,,,
+Live Oak,2-Lagarto,President,,REP,Donald J. Trump,641,14,352,275
+Live Oak,2-Lagarto,President,,DEM,Kamala D. Harris,136,20,61,55
+Live Oak,2-Lagarto,President,,LIB,Chase Oliver,4,1,2,1
+Live Oak,2-Lagarto,President,,GRN,Jill Stein,4,0,3,1
+Live Oak,2-Lagarto,President,,,Under Votes,0,0,0,0
+Live Oak,2-Lagarto,President,,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,U.S. Senate,,REP,Ted Cruz,621,14,348,259
+Live Oak,2-Lagarto,U.S. Senate,,DEM,Colin Allred,141,17,60,64
+Live Oak,2-Lagarto,U.S. Senate,,LIB,Ted Brown,16,3,7,6
+Live Oak,2-Lagarto,U.S. Senate,,,Under Votes,7,1,3,3
+Live Oak,2-Lagarto,U.S. Senate,,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,U.S. House,15,REP,Monica De La Cruz,642,18,354,270
+Live Oak,2-Lagarto,U.S. House,15,DEM,Michelle Vallejo,128,16,55,57
+Live Oak,2-Lagarto,U.S. House,15,,Under Votes,14,1,9,4
+Live Oak,2-Lagarto,U.S. House,15,,Over Votes,1,0,0,1
+Live Oak,2-Lagarto,Railroad Commissioner,,REP,Christi Craddick,612,14,346,252
+Live Oak,2-Lagarto,Railroad Commissioner,,DEM,Katherine Culbert,117,18,50,49
+Live Oak,2-Lagarto,Railroad Commissioner,,LIB,Hawk Dunlap,23,1,10,12
+Live Oak,2-Lagarto,Railroad Commissioner,,GRN,Eddie Espinoza,9,0,2,7
+Live Oak,2-Lagarto,Railroad Commissioner,,,Under Votes,22,2,10,10
+Live Oak,2-Lagarto,Railroad Commissioner,,,Over Votes,2,0,0,2
+Live Oak,2-Lagarto,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,641,17,356,268
+Live Oak,2-Lagarto,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,123,16,53,54
+Live Oak,2-Lagarto,"Justice, Supreme Court",Place 2,,Under Votes,21,2,9,10
+Live Oak,2-Lagarto,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,"Justice, Supreme Court",Place 4,REP,John Devine,637,16,353,268
+Live Oak,2-Lagarto,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,126,17,54,55
+Live Oak,2-Lagarto,"Justice, Supreme Court",Place 4,,Under Votes,22,2,11,9
+Live Oak,2-Lagarto,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,"Justice, Supreme Court",Place 6,REP,Jane Bland,615,15,342,258
+Live Oak,2-Lagarto,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,126,17,54,55
+Live Oak,2-Lagarto,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,22,1,9,12
+Live Oak,2-Lagarto,"Justice, Supreme Court",Place 6,,Under Votes,22,2,13,7
+Live Oak,2-Lagarto,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,633,16,352,265
+Live Oak,2-Lagarto,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,127,17,53,57
+Live Oak,2-Lagarto,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,25,2,13,10
+Live Oak,2-Lagarto,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,636,17,352,267
+Live Oak,2-Lagarto,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,124,16,52,56
+Live Oak,2-Lagarto,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,25,2,14,9
+Live Oak,2-Lagarto,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,646,17,356,273
+Live Oak,2-Lagarto,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,114,16,49,49
+Live Oak,2-Lagarto,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,25,2,13,10
+Live Oak,2-Lagarto,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,267,20,124,123
+Live Oak,2-Lagarto,"Member, State Board of Education",3,,Under Votes,518,15,294,209
+Live Oak,2-Lagarto,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,State Representative,31,REP,Ryan Guillen,658,20,360,278
+Live Oak,2-Lagarto,State Representative,31,,Under Votes,127,15,58,54
+Live Oak,2-Lagarto,State Representative,31,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,629,16,353,260
+Live Oak,2-Lagarto,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,126,16,52,58
+Live Oak,2-Lagarto,"Chief Justice, 13th Court of Appeals District",,,Under Votes,29,3,13,13
+Live Oak,2-Lagarto,"Chief Justice, 13th Court of Appeals District",,,Over Votes,1,0,0,1
+Live Oak,2-Lagarto,"Justice, 13th Court of Appeals District",Place 2,REP,Jenny Cron,634,15,354,265
+Live Oak,2-Lagarto,"Justice, 13th Court of Appeals District",Place 2,DEM,Nora Longoria,126,17,52,57
+Live Oak,2-Lagarto,"Justice, 13th Court of Appeals District",Place 2,,Under Votes,25,3,12,10
+Live Oak,2-Lagarto,"Justice, 13th Court of Appeals District",Place 2,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,"Justice, 13th Court of Appeals District",Place 4,REP,Ysmael D. Fonseca,623,15,346,262
+Live Oak,2-Lagarto,"Justice, 13th Court of Appeals District",Place 4,DEM,Joe Martinez,132,17,57,58
+Live Oak,2-Lagarto,"Justice, 13th Court of Appeals District",Place 4,,Under Votes,30,3,15,12
+Live Oak,2-Lagarto,"Justice, 13th Court of Appeals District",Place 4,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,"Justice, 13th Court of Appeals District",Place 5,REP,Jon West,638,16,353,269
+Live Oak,2-Lagarto,"Justice, 13th Court of Appeals District",Place 5,DEM,Regi Compian Richardson,117,16,49,52
+Live Oak,2-Lagarto,"Justice, 13th Court of Appeals District",Place 5,,Under Votes,30,3,16,11
+Live Oak,2-Lagarto,"Justice, 13th Court of Appeals District",Place 5,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,District Judge,343rd Judicial District,REP,Janna K. Whatley,656,21,356,279
+Live Oak,2-Lagarto,District Judge,343rd Judicial District,,Under Votes,129,14,62,53
+Live Oak,2-Lagarto,District Judge,343rd Judicial District,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,District Attorney,156th Judicial District,REP,Tiffany McWilliams,653,21,357,275
+Live Oak,2-Lagarto,District Attorney,156th Judicial District,,Under Votes,132,14,61,57
+Live Oak,2-Lagarto,District Attorney,156th Judicial District,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,2nd Multicounty Court at Law,,REP,Harvey Hardwick,654,21,359,274
+Live Oak,2-Lagarto,2nd Multicounty Court at Law,,,Under Votes,131,14,59,58
+Live Oak,2-Lagarto,2nd Multicounty Court at Law,,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,County Attorney,,REP,Robert McWilliams,650,21,356,273
+Live Oak,2-Lagarto,County Attorney,,,Under Votes,135,14,62,59
+Live Oak,2-Lagarto,County Attorney,,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,Sheriff,,REP,Larry R. Busby,654,22,355,277
+Live Oak,2-Lagarto,Sheriff,,,Under Votes,131,13,63,55
+Live Oak,2-Lagarto,Sheriff,,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,County Tax Assessor-Collector,,REP,Deanna Atkinson,665,22,364,279
+Live Oak,2-Lagarto,County Tax Assessor-Collector,,,Under Votes,120,13,54,53
+Live Oak,2-Lagarto,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,County Commissioner,Precinct 1,REP,Richard Lee,657,22,359,276
+Live Oak,2-Lagarto,County Commissioner,Precinct 1,,Under Votes,128,13,59,56
+Live Oak,2-Lagarto,County Commissioner,Precinct 1,,Over Votes,0,0,0,0
+Live Oak,2-Lagarto,Constable,Precinct 1,REP,Wesley Gray,660,22,363,275
+Live Oak,2-Lagarto,Constable,Precinct 1,,Under Votes,125,13,55,57
+Live Oak,2-Lagarto,Constable,Precinct 1,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,Registered Voters,,,,1042,,,
+Live Oak,3-E. George West,Ballots Cast,,,,553,,,
+Live Oak,3-E. George West,President,,REP,Donald J. Trump,401,13,328,60
+Live Oak,3-E. George West,President,,DEM,Kamala D. Harris,143,9,101,33
+Live Oak,3-E. George West,President,,LIB,Chase Oliver,1,0,0,1
+Live Oak,3-E. George West,President,,GRN,Jill Stein,1,0,1,0
+Live Oak,3-E. George West,President,,,Under Votes,4,1,3,0
+Live Oak,3-E. George West,President,,,Over Votes,2,0,1,1
+Live Oak,3-E. George West,U.S. Senate,,REP,Ted Cruz,384,14,313,57
+Live Oak,3-E. George West,U.S. Senate,,DEM,Colin Allred,149,8,107,34
+Live Oak,3-E. George West,U.S. Senate,,LIB,Ted Brown,6,1,5,0
+Live Oak,3-E. George West,U.S. Senate,,,Under Votes,14,0,10,4
+Live Oak,3-E. George West,U.S. Senate,,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,U.S. House,15,REP,Monica De La Cruz,398,14,324,60
+Live Oak,3-E. George West,U.S. House,15,DEM,Michelle Vallejo,124,9,89,26
+Live Oak,3-E. George West,U.S. House,15,,Under Votes,29,0,22,7
+Live Oak,3-E. George West,U.S. House,15,,Over Votes,2,0,0,2
+Live Oak,3-E. George West,Railroad Commissioner,,REP,Christi Craddick,377,14,313,50
+Live Oak,3-E. George West,Railroad Commissioner,,DEM,Katherine Culbert,124,7,87,30
+Live Oak,3-E. George West,Railroad Commissioner,,LIB,Hawk Dunlap,8,1,6,1
+Live Oak,3-E. George West,Railroad Commissioner,,GRN,Eddie Espinoza,12,0,11,1
+Live Oak,3-E. George West,Railroad Commissioner,,,Under Votes,32,1,18,13
+Live Oak,3-E. George West,Railroad Commissioner,,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,380,13,317,50
+Live Oak,3-E. George West,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,131,9,92,30
+Live Oak,3-E. George West,"Justice, Supreme Court",Place 2,,Under Votes,42,1,26,15
+Live Oak,3-E. George West,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,"Justice, Supreme Court",Place 4,REP,John Devine,380,13,316,51
+Live Oak,3-E. George West,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,132,10,93,29
+Live Oak,3-E. George West,"Justice, Supreme Court",Place 4,,Under Votes,41,0,26,15
+Live Oak,3-E. George West,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,"Justice, Supreme Court",Place 6,REP,Jane Bland,377,13,311,53
+Live Oak,3-E. George West,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,131,8,92,31
+Live Oak,3-E. George West,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,7,2,5,0
+Live Oak,3-E. George West,"Justice, Supreme Court",Place 6,,Under Votes,38,0,27,11
+Live Oak,3-E. George West,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,379,14,317,48
+Live Oak,3-E. George West,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,138,9,95,34
+Live Oak,3-E. George West,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,36,0,23,13
+Live Oak,3-E. George West,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,382,13,317,52
+Live Oak,3-E. George West,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,136,10,95,31
+Live Oak,3-E. George West,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,35,0,23,12
+Live Oak,3-E. George West,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,384,12,319,53
+Live Oak,3-E. George West,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,131,11,91,29
+Live Oak,3-E. George West,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,38,0,25,13
+Live Oak,3-E. George West,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,235,12,175,48
+Live Oak,3-E. George West,"Member, State Board of Education",3,,Under Votes,318,11,260,47
+Live Oak,3-E. George West,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,State Representative,31,REP,Ryan Guillen,410,15,334,61
+Live Oak,3-E. George West,State Representative,31,,Under Votes,143,8,101,34
+Live Oak,3-E. George West,State Representative,31,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,373,13,309,51
+Live Oak,3-E. George West,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,140,10,100,30
+Live Oak,3-E. George West,"Chief Justice, 13th Court of Appeals District",,,Under Votes,40,0,26,14
+Live Oak,3-E. George West,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,"Justice, 13th Court of Appeals District",Place 2,REP,Jenny Cron,364,13,305,46
+Live Oak,3-E. George West,"Justice, 13th Court of Appeals District",Place 2,DEM,Nora Longoria,148,10,104,34
+Live Oak,3-E. George West,"Justice, 13th Court of Appeals District",Place 2,,Under Votes,41,0,26,15
+Live Oak,3-E. George West,"Justice, 13th Court of Appeals District",Place 2,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,"Justice, 13th Court of Appeals District",Place 4,REP,Ysmael D. Fonseca,365,13,304,48
+Live Oak,3-E. George West,"Justice, 13th Court of Appeals District",Place 4,DEM,Joe Martinez,144,10,101,33
+Live Oak,3-E. George West,"Justice, 13th Court of Appeals District",Place 4,,Under Votes,44,0,30,14
+Live Oak,3-E. George West,"Justice, 13th Court of Appeals District",Place 4,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,"Justice, 13th Court of Appeals District",Place 5,REP,Jon West,383,14,315,54
+Live Oak,3-E. George West,"Justice, 13th Court of Appeals District",Place 5,DEM,Regi Compian Richardson,125,9,90,26
+Live Oak,3-E. George West,"Justice, 13th Court of Appeals District",Place 5,,Under Votes,45,0,30,15
+Live Oak,3-E. George West,"Justice, 13th Court of Appeals District",Place 5,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,District Judge,343rd Judicial District,REP,Janna K. Whatley,414,15,336,63
+Live Oak,3-E. George West,District Judge,343rd Judicial District,,Under Votes,139,8,99,32
+Live Oak,3-E. George West,District Judge,343rd Judicial District,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,District Attorney,156th Judicial District,REP,Tiffany McWilliams,415,16,337,62
+Live Oak,3-E. George West,District Attorney,156th Judicial District,,Under Votes,138,7,98,33
+Live Oak,3-E. George West,District Attorney,156th Judicial District,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,2nd Multicounty Court at Law,,REP,Harvey Hardwick,430,16,353,61
+Live Oak,3-E. George West,2nd Multicounty Court at Law,,,Under Votes,123,7,82,34
+Live Oak,3-E. George West,2nd Multicounty Court at Law,,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,County Attorney,,REP,Robert McWilliams,416,15,340,61
+Live Oak,3-E. George West,County Attorney,,,Under Votes,137,8,95,34
+Live Oak,3-E. George West,County Attorney,,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,Sheriff,,REP,Larry R. Busby,449,16,365,68
+Live Oak,3-E. George West,Sheriff,,,Under Votes,104,7,70,27
+Live Oak,3-E. George West,Sheriff,,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,County Tax Assessor-Collector,,REP,Deanna Atkinson,429,15,352,62
+Live Oak,3-E. George West,County Tax Assessor-Collector,,,Under Votes,124,8,83,33
+Live Oak,3-E. George West,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Live Oak,3-E. George West,Constable,Precinct 4,REP,Joey Rodriguez,427,15,347,65
+Live Oak,3-E. George West,Constable,Precinct 4,,Under Votes,126,8,88,30
+Live Oak,3-E. George West,Constable,Precinct 4,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,Registered Voters,,,,837,,,
+Live Oak,4-W. George West,Ballots Cast,,,,598,,,
+Live Oak,4-W. George West,President,,REP,Donald J. Trump,522,3,426,93
+Live Oak,4-W. George West,President,,DEM,Kamala D. Harris,70,4,45,21
+Live Oak,4-W. George West,President,,LIB,Chase Oliver,2,0,2,0
+Live Oak,4-W. George West,President,,GRN,Jill Stein,3,0,1,2
+Live Oak,4-W. George West,President,,,Under Votes,1,0,1,0
+Live Oak,4-W. George West,President,,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,U.S. Senate,,REP,Ted Cruz,504,3,416,85
+Live Oak,4-W. George West,U.S. Senate,,DEM,Colin Allred,84,4,56,24
+Live Oak,4-W. George West,U.S. Senate,,LIB,Ted Brown,7,0,3,4
+Live Oak,4-W. George West,U.S. Senate,,,Under Votes,3,0,0,3
+Live Oak,4-W. George West,U.S. Senate,,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,U.S. House,15,REP,Monica De La Cruz,527,3,429,95
+Live Oak,4-W. George West,U.S. House,15,DEM,Michelle Vallejo,59,2,39,18
+Live Oak,4-W. George West,U.S. House,15,,Under Votes,12,2,7,3
+Live Oak,4-W. George West,U.S. House,15,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,Railroad Commissioner,,REP,Christi Craddick,495,3,403,89
+Live Oak,4-W. George West,Railroad Commissioner,,DEM,Katherine Culbert,60,2,43,15
+Live Oak,4-W. George West,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,12,5
+Live Oak,4-W. George West,Railroad Commissioner,,GRN,Eddie Espinoza,11,0,6,5
+Live Oak,4-W. George West,Railroad Commissioner,,,Under Votes,15,2,11,2
+Live Oak,4-W. George West,Railroad Commissioner,,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,521,3,422,96
+Live Oak,4-W. George West,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,64,2,44,18
+Live Oak,4-W. George West,"Justice, Supreme Court",Place 2,,Under Votes,13,2,9,2
+Live Oak,4-W. George West,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,"Justice, Supreme Court",Place 4,REP,John Devine,512,3,417,92
+Live Oak,4-W. George West,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,70,2,47,21
+Live Oak,4-W. George West,"Justice, Supreme Court",Place 4,,Under Votes,16,2,11,3
+Live Oak,4-W. George West,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,"Justice, Supreme Court",Place 6,REP,Jane Bland,507,3,409,95
+Live Oak,4-W. George West,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,60,2,46,12
+Live Oak,4-W. George West,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,15,0,9,6
+Live Oak,4-W. George West,"Justice, Supreme Court",Place 6,,Under Votes,15,2,10,3
+Live Oak,4-W. George West,"Justice, Supreme Court",Place 6,,Over Votes,1,0,1,0
+Live Oak,4-W. George West,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,517,3,416,98
+Live Oak,4-W. George West,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,64,2,46,16
+Live Oak,4-W. George West,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,16,2,12,2
+Live Oak,4-W. George West,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,0,1,0
+Live Oak,4-W. George West,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,516,3,416,97
+Live Oak,4-W. George West,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,61,2,43,16
+Live Oak,4-W. George West,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,20,2,15,3
+Live Oak,4-W. George West,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,1,0,1,0
+Live Oak,4-W. George West,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,515,3,415,97
+Live Oak,4-W. George West,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,61,2,43,16
+Live Oak,4-W. George West,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,22,2,17,3
+Live Oak,4-W. George West,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,200,2,141,57
+Live Oak,4-W. George West,"Member, State Board of Education",3,,Under Votes,398,5,334,59
+Live Oak,4-W. George West,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,State Representative,31,REP,Ryan Guillen,527,3,422,102
+Live Oak,4-W. George West,State Representative,31,,Under Votes,71,4,53,14
+Live Oak,4-W. George West,State Representative,31,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,510,3,411,96
+Live Oak,4-W. George West,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,65,2,46,17
+Live Oak,4-W. George West,"Chief Justice, 13th Court of Appeals District",,,Under Votes,23,2,18,3
+Live Oak,4-W. George West,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,"Justice, 13th Court of Appeals District",Place 2,REP,Jenny Cron,502,3,410,89
+Live Oak,4-W. George West,"Justice, 13th Court of Appeals District",Place 2,DEM,Nora Longoria,71,2,47,22
+Live Oak,4-W. George West,"Justice, 13th Court of Appeals District",Place 2,,Under Votes,25,2,18,5
+Live Oak,4-W. George West,"Justice, 13th Court of Appeals District",Place 2,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,"Justice, 13th Court of Appeals District",Place 4,REP,Ysmael D. Fonseca,503,3,406,94
+Live Oak,4-W. George West,"Justice, 13th Court of Appeals District",Place 4,DEM,Joe Martinez,67,2,48,17
+Live Oak,4-W. George West,"Justice, 13th Court of Appeals District",Place 4,,Under Votes,28,2,21,5
+Live Oak,4-W. George West,"Justice, 13th Court of Appeals District",Place 4,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,"Justice, 13th Court of Appeals District",Place 5,REP,Jon West,513,3,414,96
+Live Oak,4-W. George West,"Justice, 13th Court of Appeals District",Place 5,DEM,Regi Compian Richardson,61,2,43,16
+Live Oak,4-W. George West,"Justice, 13th Court of Appeals District",Place 5,,Under Votes,24,2,18,4
+Live Oak,4-W. George West,"Justice, 13th Court of Appeals District",Place 5,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,District Judge,343rd Judicial District,REP,Janna K. Whatley,529,3,423,103
+Live Oak,4-W. George West,District Judge,343rd Judicial District,,Under Votes,69,4,52,13
+Live Oak,4-W. George West,District Judge,343rd Judicial District,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,District Attorney,156th Judicial District,REP,Tiffany McWilliams,531,3,423,105
+Live Oak,4-W. George West,District Attorney,156th Judicial District,,Under Votes,67,4,52,11
+Live Oak,4-W. George West,District Attorney,156th Judicial District,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,2nd Multicounty Court at Law,,REP,Harvey Hardwick,535,3,430,102
+Live Oak,4-W. George West,2nd Multicounty Court at Law,,,Under Votes,63,4,45,14
+Live Oak,4-W. George West,2nd Multicounty Court at Law,,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,County Attorney,,REP,Robert McWilliams,526,3,420,103
+Live Oak,4-W. George West,County Attorney,,,Under Votes,72,4,55,13
+Live Oak,4-W. George West,County Attorney,,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,Sheriff,,REP,Larry R. Busby,539,3,431,105
+Live Oak,4-W. George West,Sheriff,,,Under Votes,59,4,44,11
+Live Oak,4-W. George West,Sheriff,,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,County Tax Assessor-Collector,,REP,Deanna Atkinson,536,3,433,100
+Live Oak,4-W. George West,County Tax Assessor-Collector,,,Under Votes,62,4,42,16
+Live Oak,4-W. George West,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,County Commissioner,Precinct 1,REP,Richard Lee,536,3,431,102
+Live Oak,4-W. George West,County Commissioner,Precinct 1,,Under Votes,62,4,44,14
+Live Oak,4-W. George West,County Commissioner,Precinct 1,,Over Votes,0,0,0,0
+Live Oak,4-W. George West,Constable,Precinct 1,REP,Wesley Gray,526,3,423,100
+Live Oak,4-W. George West,Constable,Precinct 1,,Under Votes,72,4,52,16
+Live Oak,4-W. George West,Constable,Precinct 1,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,Registered Voters,,,,376,,,
+Live Oak,5-Oakville,Ballots Cast,,,,283,,,
+Live Oak,5-Oakville,President,,REP,Donald J. Trump,253,4,176,73
+Live Oak,5-Oakville,President,,DEM,Kamala D. Harris,29,2,16,11
+Live Oak,5-Oakville,President,,LIB,Chase Oliver,1,0,1,0
+Live Oak,5-Oakville,President,,GRN,Jill Stein,0,0,0,0
+Live Oak,5-Oakville,President,,,Under Votes,0,0,0,0
+Live Oak,5-Oakville,President,,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,U.S. Senate,,REP,Ted Cruz,242,4,173,65
+Live Oak,5-Oakville,U.S. Senate,,DEM,Colin Allred,34,2,17,15
+Live Oak,5-Oakville,U.S. Senate,,LIB,Ted Brown,4,0,2,2
+Live Oak,5-Oakville,U.S. Senate,,,Under Votes,3,0,1,2
+Live Oak,5-Oakville,U.S. Senate,,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,U.S. House,15,REP,Monica De La Cruz,253,4,176,73
+Live Oak,5-Oakville,U.S. House,15,DEM,Michelle Vallejo,28,2,16,10
+Live Oak,5-Oakville,U.S. House,15,,Under Votes,2,0,1,1
+Live Oak,5-Oakville,U.S. House,15,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,Railroad Commissioner,,REP,Christi Craddick,247,4,172,71
+Live Oak,5-Oakville,Railroad Commissioner,,DEM,Katherine Culbert,25,2,15,8
+Live Oak,5-Oakville,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,3,4
+Live Oak,5-Oakville,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Live Oak,5-Oakville,Railroad Commissioner,,,Under Votes,4,0,3,1
+Live Oak,5-Oakville,Railroad Commissioner,,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,255,4,177,74
+Live Oak,5-Oakville,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,24,2,13,9
+Live Oak,5-Oakville,"Justice, Supreme Court",Place 2,,Under Votes,4,0,3,1
+Live Oak,5-Oakville,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,"Justice, Supreme Court",Place 4,REP,John Devine,252,4,175,73
+Live Oak,5-Oakville,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,26,2,14,10
+Live Oak,5-Oakville,"Justice, Supreme Court",Place 4,,Under Votes,5,0,4,1
+Live Oak,5-Oakville,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,"Justice, Supreme Court",Place 6,REP,Jane Bland,245,4,168,73
+Live Oak,5-Oakville,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,23,2,13,8
+Live Oak,5-Oakville,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,9,0,7,2
+Live Oak,5-Oakville,"Justice, Supreme Court",Place 6,,Under Votes,6,0,5,1
+Live Oak,5-Oakville,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,249,4,173,72
+Live Oak,5-Oakville,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,28,2,15,11
+Live Oak,5-Oakville,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,6,0,5,1
+Live Oak,5-Oakville,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,250,4,175,71
+Live Oak,5-Oakville,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,28,2,15,11
+Live Oak,5-Oakville,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,5,0,3,2
+Live Oak,5-Oakville,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,254,4,176,74
+Live Oak,5-Oakville,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,23,2,13,8
+Live Oak,5-Oakville,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,6,0,4,2
+Live Oak,5-Oakville,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,86,2,51,33
+Live Oak,5-Oakville,"Member, State Board of Education",3,,Under Votes,197,4,142,51
+Live Oak,5-Oakville,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,State Representative,31,REP,Ryan Guillen,252,4,173,75
+Live Oak,5-Oakville,State Representative,31,,Under Votes,31,2,20,9
+Live Oak,5-Oakville,State Representative,31,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,248,4,174,70
+Live Oak,5-Oakville,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,25,2,12,11
+Live Oak,5-Oakville,"Chief Justice, 13th Court of Appeals District",,,Under Votes,10,0,7,3
+Live Oak,5-Oakville,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,"Justice, 13th Court of Appeals District",Place 2,REP,Jenny Cron,248,4,172,72
+Live Oak,5-Oakville,"Justice, 13th Court of Appeals District",Place 2,DEM,Nora Longoria,24,2,13,9
+Live Oak,5-Oakville,"Justice, 13th Court of Appeals District",Place 2,,Under Votes,11,0,8,3
+Live Oak,5-Oakville,"Justice, 13th Court of Appeals District",Place 2,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,"Justice, 13th Court of Appeals District",Place 4,REP,Ysmael D. Fonseca,245,4,170,71
+Live Oak,5-Oakville,"Justice, 13th Court of Appeals District",Place 4,DEM,Joe Martinez,26,2,13,11
+Live Oak,5-Oakville,"Justice, 13th Court of Appeals District",Place 4,,Under Votes,12,0,10,2
+Live Oak,5-Oakville,"Justice, 13th Court of Appeals District",Place 4,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,"Justice, 13th Court of Appeals District",Place 5,REP,Jon West,250,4,172,74
+Live Oak,5-Oakville,"Justice, 13th Court of Appeals District",Place 5,DEM,Regi Compian Richardson,22,2,12,8
+Live Oak,5-Oakville,"Justice, 13th Court of Appeals District",Place 5,,Under Votes,11,0,9,2
+Live Oak,5-Oakville,"Justice, 13th Court of Appeals District",Place 5,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,District Judge,343rd Judicial District,REP,Janna K. Whatley,256,4,178,74
+Live Oak,5-Oakville,District Judge,343rd Judicial District,,Under Votes,27,2,15,10
+Live Oak,5-Oakville,District Judge,343rd Judicial District,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,District Attorney,156th Judicial District,REP,Tiffany McWilliams,252,4,176,72
+Live Oak,5-Oakville,District Attorney,156th Judicial District,,Under Votes,31,2,17,12
+Live Oak,5-Oakville,District Attorney,156th Judicial District,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,2nd Multicounty Court at Law,,REP,Harvey Hardwick,251,3,174,74
+Live Oak,5-Oakville,2nd Multicounty Court at Law,,,Under Votes,32,3,19,10
+Live Oak,5-Oakville,2nd Multicounty Court at Law,,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,County Attorney,,REP,Robert McWilliams,251,4,174,73
+Live Oak,5-Oakville,County Attorney,,,Under Votes,32,2,19,11
+Live Oak,5-Oakville,County Attorney,,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,Sheriff,,REP,Larry R. Busby,258,6,179,73
+Live Oak,5-Oakville,Sheriff,,,Under Votes,25,0,14,11
+Live Oak,5-Oakville,Sheriff,,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,County Tax Assessor-Collector,,REP,Deanna Atkinson,257,4,178,75
+Live Oak,5-Oakville,County Tax Assessor-Collector,,,Under Votes,26,2,15,9
+Live Oak,5-Oakville,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Live Oak,5-Oakville,Constable,Precinct 2,REP,Vance E. Roberts,252,4,174,74
+Live Oak,5-Oakville,Constable,Precinct 2,,Under Votes,31,2,19,10
+Live Oak,5-Oakville,Constable,Precinct 2,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,Registered Voters,,,,231,,,
+Live Oak,6-Ray Point,Ballots Cast,,,,177,,,
+Live Oak,6-Ray Point,President,,REP,Donald J. Trump,157,0,87,70
+Live Oak,6-Ray Point,President,,DEM,Kamala D. Harris,20,0,15,5
+Live Oak,6-Ray Point,President,,LIB,Chase Oliver,0,0,0,0
+Live Oak,6-Ray Point,President,,GRN,Jill Stein,0,0,0,0
+Live Oak,6-Ray Point,President,,,Under Votes,0,0,0,0
+Live Oak,6-Ray Point,President,,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,U.S. Senate,,REP,Ted Cruz,152,0,85,67
+Live Oak,6-Ray Point,U.S. Senate,,DEM,Colin Allred,23,0,16,7
+Live Oak,6-Ray Point,U.S. Senate,,LIB,Ted Brown,1,0,1,0
+Live Oak,6-Ray Point,U.S. Senate,,,Under Votes,1,0,0,1
+Live Oak,6-Ray Point,U.S. Senate,,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,U.S. House,15,REP,Monica De La Cruz,160,0,89,71
+Live Oak,6-Ray Point,U.S. House,15,DEM,Michelle Vallejo,16,0,12,4
+Live Oak,6-Ray Point,U.S. House,15,,Under Votes,1,0,1,0
+Live Oak,6-Ray Point,U.S. House,15,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,Railroad Commissioner,,REP,Christi Craddick,151,0,83,68
+Live Oak,6-Ray Point,Railroad Commissioner,,DEM,Katherine Culbert,16,0,13,3
+Live Oak,6-Ray Point,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,3,3
+Live Oak,6-Ray Point,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Live Oak,6-Ray Point,Railroad Commissioner,,,Under Votes,4,0,3,1
+Live Oak,6-Ray Point,Railroad Commissioner,,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,155,0,87,68
+Live Oak,6-Ray Point,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,17,0,12,5
+Live Oak,6-Ray Point,"Justice, Supreme Court",Place 2,,Under Votes,5,0,3,2
+Live Oak,6-Ray Point,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,"Justice, Supreme Court",Place 4,REP,John Devine,152,0,85,67
+Live Oak,6-Ray Point,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,20,0,13,7
+Live Oak,6-Ray Point,"Justice, Supreme Court",Place 4,,Under Votes,5,0,4,1
+Live Oak,6-Ray Point,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,"Justice, Supreme Court",Place 6,REP,Jane Bland,149,0,84,65
+Live Oak,6-Ray Point,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,17,0,13,4
+Live Oak,6-Ray Point,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,4,0,1,3
+Live Oak,6-Ray Point,"Justice, Supreme Court",Place 6,,Under Votes,7,0,4,3
+Live Oak,6-Ray Point,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,153,0,85,68
+Live Oak,6-Ray Point,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,19,0,13,6
+Live Oak,6-Ray Point,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,5,0,4,1
+Live Oak,6-Ray Point,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,153,0,85,68
+Live Oak,6-Ray Point,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,18,0,13,5
+Live Oak,6-Ray Point,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,6,0,4,2
+Live Oak,6-Ray Point,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,152,0,84,68
+Live Oak,6-Ray Point,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,19,0,14,5
+Live Oak,6-Ray Point,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,6,0,4,2
+Live Oak,6-Ray Point,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,68,0,37,31
+Live Oak,6-Ray Point,"Member, State Board of Education",3,,Under Votes,109,0,65,44
+Live Oak,6-Ray Point,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,State Representative,31,REP,Ryan Guillen,161,0,87,74
+Live Oak,6-Ray Point,State Representative,31,,Under Votes,16,0,15,1
+Live Oak,6-Ray Point,State Representative,31,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,152,0,83,69
+Live Oak,6-Ray Point,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,18,0,13,5
+Live Oak,6-Ray Point,"Chief Justice, 13th Court of Appeals District",,,Under Votes,7,0,6,1
+Live Oak,6-Ray Point,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,"Justice, 13th Court of Appeals District",Place 2,REP,Jenny Cron,152,0,84,68
+Live Oak,6-Ray Point,"Justice, 13th Court of Appeals District",Place 2,DEM,Nora Longoria,19,0,13,6
+Live Oak,6-Ray Point,"Justice, 13th Court of Appeals District",Place 2,,Under Votes,6,0,5,1
+Live Oak,6-Ray Point,"Justice, 13th Court of Appeals District",Place 2,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,"Justice, 13th Court of Appeals District",Place 4,REP,Ysmael D. Fonseca,152,0,84,68
+Live Oak,6-Ray Point,"Justice, 13th Court of Appeals District",Place 4,DEM,Joe Martinez,17,0,12,5
+Live Oak,6-Ray Point,"Justice, 13th Court of Appeals District",Place 4,,Under Votes,8,0,6,2
+Live Oak,6-Ray Point,"Justice, 13th Court of Appeals District",Place 4,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,"Justice, 13th Court of Appeals District",Place 5,REP,Jon West,155,0,84,71
+Live Oak,6-Ray Point,"Justice, 13th Court of Appeals District",Place 5,DEM,Regi Compian Richardson,15,0,12,3
+Live Oak,6-Ray Point,"Justice, 13th Court of Appeals District",Place 5,,Under Votes,7,0,6,1
+Live Oak,6-Ray Point,"Justice, 13th Court of Appeals District",Place 5,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,District Judge,343rd Judicial District,REP,Janna K. Whatley,159,0,87,72
+Live Oak,6-Ray Point,District Judge,343rd Judicial District,,Under Votes,18,0,15,3
+Live Oak,6-Ray Point,District Judge,343rd Judicial District,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,District Attorney,156th Judicial District,REP,Tiffany McWilliams,161,0,87,74
+Live Oak,6-Ray Point,District Attorney,156th Judicial District,,Under Votes,16,0,15,1
+Live Oak,6-Ray Point,District Attorney,156th Judicial District,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,2nd Multicounty Court at Law,,REP,Harvey Hardwick,159,0,87,72
+Live Oak,6-Ray Point,2nd Multicounty Court at Law,,,Under Votes,18,0,15,3
+Live Oak,6-Ray Point,2nd Multicounty Court at Law,,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,County Attorney,,REP,Robert McWilliams,160,0,87,73
+Live Oak,6-Ray Point,County Attorney,,,Under Votes,17,0,15,2
+Live Oak,6-Ray Point,County Attorney,,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,Sheriff,,REP,Larry R. Busby,163,0,90,73
+Live Oak,6-Ray Point,Sheriff,,,Under Votes,14,0,12,2
+Live Oak,6-Ray Point,Sheriff,,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,County Tax Assessor-Collector,,REP,Deanna Atkinson,164,0,90,74
+Live Oak,6-Ray Point,County Tax Assessor-Collector,,,Under Votes,13,0,12,1
+Live Oak,6-Ray Point,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Live Oak,6-Ray Point,Constable,Precinct 2,REP,Vance E. Roberts,161,0,88,73
+Live Oak,6-Ray Point,Constable,Precinct 2,,Under Votes,16,0,14,2
+Live Oak,6-Ray Point,Constable,Precinct 2,,Over Votes,0,0,0,0
+Live Oak,7-Nell,Registered Voters,,,,50,,,
+Live Oak,7-Nell,Ballots Cast,,,,36,,,
+Live Oak,7-Nell,President,,REP,Donald J. Trump,32,1,23,8
+Live Oak,7-Nell,President,,DEM,Kamala D. Harris,4,0,3,1
+Live Oak,7-Nell,President,,LIB,Chase Oliver,0,0,0,0
+Live Oak,7-Nell,President,,GRN,Jill Stein,0,0,0,0
+Live Oak,7-Nell,President,,,Under Votes,0,0,0,0
+Live Oak,7-Nell,President,,,Over Votes,0,0,0,0
+Live Oak,7-Nell,U.S. Senate,,REP,Ted Cruz,32,1,23,8
+Live Oak,7-Nell,U.S. Senate,,DEM,Colin Allred,3,0,3,0
+Live Oak,7-Nell,U.S. Senate,,LIB,Ted Brown,1,0,0,1
+Live Oak,7-Nell,U.S. Senate,,,Under Votes,0,0,0,0
+Live Oak,7-Nell,U.S. Senate,,,Over Votes,0,0,0,0
+Live Oak,7-Nell,U.S. House,15,REP,Monica De La Cruz,33,1,24,8
+Live Oak,7-Nell,U.S. House,15,DEM,Michelle Vallejo,3,0,2,1
+Live Oak,7-Nell,U.S. House,15,,Under Votes,0,0,0,0
+Live Oak,7-Nell,U.S. House,15,,Over Votes,0,0,0,0
+Live Oak,7-Nell,Railroad Commissioner,,REP,Christi Craddick,30,1,22,7
+Live Oak,7-Nell,Railroad Commissioner,,DEM,Katherine Culbert,4,0,3,1
+Live Oak,7-Nell,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,1,1
+Live Oak,7-Nell,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Live Oak,7-Nell,Railroad Commissioner,,,Under Votes,0,0,0,0
+Live Oak,7-Nell,Railroad Commissioner,,,Over Votes,0,0,0,0
+Live Oak,7-Nell,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,30,1,22,7
+Live Oak,7-Nell,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,4,0,3,1
+Live Oak,7-Nell,"Justice, Supreme Court",Place 2,,Under Votes,2,0,1,1
+Live Oak,7-Nell,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Live Oak,7-Nell,"Justice, Supreme Court",Place 4,REP,John Devine,30,1,22,7
+Live Oak,7-Nell,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,4,0,3,1
+Live Oak,7-Nell,"Justice, Supreme Court",Place 4,,Under Votes,2,0,1,1
+Live Oak,7-Nell,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Live Oak,7-Nell,"Justice, Supreme Court",Place 6,REP,Jane Bland,30,1,22,7
+Live Oak,7-Nell,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,4,0,3,1
+Live Oak,7-Nell,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,0,0,0,0
+Live Oak,7-Nell,"Justice, Supreme Court",Place 6,,Under Votes,2,0,1,1
+Live Oak,7-Nell,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Live Oak,7-Nell,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,30,1,22,7
+Live Oak,7-Nell,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,4,0,3,1
+Live Oak,7-Nell,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,2,0,1,1
+Live Oak,7-Nell,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Live Oak,7-Nell,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,29,1,21,7
+Live Oak,7-Nell,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,4,0,3,1
+Live Oak,7-Nell,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,3,0,2,1
+Live Oak,7-Nell,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Live Oak,7-Nell,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,30,1,22,7
+Live Oak,7-Nell,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,4,0,3,1
+Live Oak,7-Nell,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,2,0,1,1
+Live Oak,7-Nell,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Live Oak,7-Nell,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,12,0,10,2
+Live Oak,7-Nell,"Member, State Board of Education",3,,Under Votes,24,1,16,7
+Live Oak,7-Nell,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Live Oak,7-Nell,State Representative,31,REP,Ryan Guillen,33,1,24,8
+Live Oak,7-Nell,State Representative,31,,Under Votes,3,0,2,1
+Live Oak,7-Nell,State Representative,31,,Over Votes,0,0,0,0
+Live Oak,7-Nell,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,30,1,22,7
+Live Oak,7-Nell,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,4,0,3,1
+Live Oak,7-Nell,"Chief Justice, 13th Court of Appeals District",,,Under Votes,2,0,1,1
+Live Oak,7-Nell,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Live Oak,7-Nell,"Justice, 13th Court of Appeals District",Place 2,REP,Jenny Cron,30,1,22,7
+Live Oak,7-Nell,"Justice, 13th Court of Appeals District",Place 2,DEM,Nora Longoria,4,0,3,1
+Live Oak,7-Nell,"Justice, 13th Court of Appeals District",Place 2,,Under Votes,2,0,1,1
+Live Oak,7-Nell,"Justice, 13th Court of Appeals District",Place 2,,Over Votes,0,0,0,0
+Live Oak,7-Nell,"Justice, 13th Court of Appeals District",Place 4,REP,Ysmael D. Fonseca,30,1,22,7
+Live Oak,7-Nell,"Justice, 13th Court of Appeals District",Place 4,DEM,Joe Martinez,4,0,3,1
+Live Oak,7-Nell,"Justice, 13th Court of Appeals District",Place 4,,Under Votes,2,0,1,1
+Live Oak,7-Nell,"Justice, 13th Court of Appeals District",Place 4,,Over Votes,0,0,0,0
+Live Oak,7-Nell,"Justice, 13th Court of Appeals District",Place 5,REP,Jon West,30,1,22,7
+Live Oak,7-Nell,"Justice, 13th Court of Appeals District",Place 5,DEM,Regi Compian Richardson,4,0,3,1
+Live Oak,7-Nell,"Justice, 13th Court of Appeals District",Place 5,,Under Votes,2,0,1,1
+Live Oak,7-Nell,"Justice, 13th Court of Appeals District",Place 5,,Over Votes,0,0,0,0
+Live Oak,7-Nell,District Judge,343rd Judicial District,REP,Janna K. Whatley,34,1,24,9
+Live Oak,7-Nell,District Judge,343rd Judicial District,,Under Votes,2,0,2,0
+Live Oak,7-Nell,District Judge,343rd Judicial District,,Over Votes,0,0,0,0
+Live Oak,7-Nell,District Attorney,156th Judicial District,REP,Tiffany McWilliams,34,1,24,9
+Live Oak,7-Nell,District Attorney,156th Judicial District,,Under Votes,2,0,2,0
+Live Oak,7-Nell,District Attorney,156th Judicial District,,Over Votes,0,0,0,0
+Live Oak,7-Nell,2nd Multicounty Court at Law,,REP,Harvey Hardwick,33,1,24,8
+Live Oak,7-Nell,2nd Multicounty Court at Law,,,Under Votes,3,0,2,1
+Live Oak,7-Nell,2nd Multicounty Court at Law,,,Over Votes,0,0,0,0
+Live Oak,7-Nell,County Attorney,,REP,Robert McWilliams,33,1,24,8
+Live Oak,7-Nell,County Attorney,,,Under Votes,3,0,2,1
+Live Oak,7-Nell,County Attorney,,,Over Votes,0,0,0,0
+Live Oak,7-Nell,Sheriff,,REP,Larry R. Busby,35,1,25,9
+Live Oak,7-Nell,Sheriff,,,Under Votes,1,0,1,0
+Live Oak,7-Nell,Sheriff,,,Over Votes,0,0,0,0
+Live Oak,7-Nell,County Tax Assessor-Collector,,REP,Deanna Atkinson,34,1,24,9
+Live Oak,7-Nell,County Tax Assessor-Collector,,,Under Votes,2,0,2,0
+Live Oak,7-Nell,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Live Oak,7-Nell,Constable,Precinct 2,REP,Vance E. Roberts,34,1,25,8
+Live Oak,7-Nell,Constable,Precinct 2,,Under Votes,2,0,1,1
+Live Oak,7-Nell,Constable,Precinct 2,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,Registered Voters,,,,137,,,
+Live Oak,8-Whitsett,Ballots Cast,,,,98,,,
+Live Oak,8-Whitsett,President,,REP,Donald J. Trump,93,2,47,44
+Live Oak,8-Whitsett,President,,DEM,Kamala D. Harris,5,0,2,3
+Live Oak,8-Whitsett,President,,LIB,Chase Oliver,0,0,0,0
+Live Oak,8-Whitsett,President,,GRN,Jill Stein,0,0,0,0
+Live Oak,8-Whitsett,President,,,Under Votes,0,0,0,0
+Live Oak,8-Whitsett,President,,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,U.S. Senate,,REP,Ted Cruz,87,2,44,41
+Live Oak,8-Whitsett,U.S. Senate,,DEM,Colin Allred,8,0,3,5
+Live Oak,8-Whitsett,U.S. Senate,,LIB,Ted Brown,3,0,2,1
+Live Oak,8-Whitsett,U.S. Senate,,,Under Votes,0,0,0,0
+Live Oak,8-Whitsett,U.S. Senate,,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,U.S. House,15,REP,Monica De La Cruz,94,2,48,44
+Live Oak,8-Whitsett,U.S. House,15,DEM,Michelle Vallejo,4,0,1,3
+Live Oak,8-Whitsett,U.S. House,15,,Under Votes,0,0,0,0
+Live Oak,8-Whitsett,U.S. House,15,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,Railroad Commissioner,,REP,Christi Craddick,92,2,47,43
+Live Oak,8-Whitsett,Railroad Commissioner,,DEM,Katherine Culbert,5,0,2,3
+Live Oak,8-Whitsett,Railroad Commissioner,,LIB,Hawk Dunlap,1,0,0,1
+Live Oak,8-Whitsett,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Live Oak,8-Whitsett,Railroad Commissioner,,,Under Votes,0,0,0,0
+Live Oak,8-Whitsett,Railroad Commissioner,,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,92,2,46,44
+Live Oak,8-Whitsett,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,5,0,2,3
+Live Oak,8-Whitsett,"Justice, Supreme Court",Place 2,,Under Votes,1,0,1,0
+Live Oak,8-Whitsett,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,"Justice, Supreme Court",Place 4,REP,John Devine,92,2,46,44
+Live Oak,8-Whitsett,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,5,0,2,3
+Live Oak,8-Whitsett,"Justice, Supreme Court",Place 4,,Under Votes,1,0,1,0
+Live Oak,8-Whitsett,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,"Justice, Supreme Court",Place 6,REP,Jane Bland,91,2,45,44
+Live Oak,8-Whitsett,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,4,0,2,2
+Live Oak,8-Whitsett,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,2,0,1,1
+Live Oak,8-Whitsett,"Justice, Supreme Court",Place 6,,Under Votes,1,0,1,0
+Live Oak,8-Whitsett,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,92,2,46,44
+Live Oak,8-Whitsett,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,5,0,2,3
+Live Oak,8-Whitsett,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,0,1,0
+Live Oak,8-Whitsett,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,92,2,46,44
+Live Oak,8-Whitsett,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,5,0,2,3
+Live Oak,8-Whitsett,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,1,0,1,0
+Live Oak,8-Whitsett,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,92,2,46,44
+Live Oak,8-Whitsett,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,5,0,2,3
+Live Oak,8-Whitsett,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,1,0,1,0
+Live Oak,8-Whitsett,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,34,0,16,18
+Live Oak,8-Whitsett,"Member, State Board of Education",3,,Under Votes,64,2,33,29
+Live Oak,8-Whitsett,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,State Representative,31,REP,Ryan Guillen,90,2,44,44
+Live Oak,8-Whitsett,State Representative,31,,Under Votes,8,0,5,3
+Live Oak,8-Whitsett,State Representative,31,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,90,2,44,44
+Live Oak,8-Whitsett,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,6,0,3,3
+Live Oak,8-Whitsett,"Chief Justice, 13th Court of Appeals District",,,Under Votes,2,0,2,0
+Live Oak,8-Whitsett,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,"Justice, 13th Court of Appeals District",Place 2,REP,Jenny Cron,92,2,46,44
+Live Oak,8-Whitsett,"Justice, 13th Court of Appeals District",Place 2,DEM,Nora Longoria,5,0,2,3
+Live Oak,8-Whitsett,"Justice, 13th Court of Appeals District",Place 2,,Under Votes,1,0,1,0
+Live Oak,8-Whitsett,"Justice, 13th Court of Appeals District",Place 2,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,"Justice, 13th Court of Appeals District",Place 4,REP,Ysmael D. Fonseca,90,2,45,43
+Live Oak,8-Whitsett,"Justice, 13th Court of Appeals District",Place 4,DEM,Joe Martinez,6,0,3,3
+Live Oak,8-Whitsett,"Justice, 13th Court of Appeals District",Place 4,,Under Votes,2,0,1,1
+Live Oak,8-Whitsett,"Justice, 13th Court of Appeals District",Place 4,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,"Justice, 13th Court of Appeals District",Place 5,REP,Jon West,92,2,46,44
+Live Oak,8-Whitsett,"Justice, 13th Court of Appeals District",Place 5,DEM,Regi Compian Richardson,5,0,2,3
+Live Oak,8-Whitsett,"Justice, 13th Court of Appeals District",Place 5,,Under Votes,1,0,1,0
+Live Oak,8-Whitsett,"Justice, 13th Court of Appeals District",Place 5,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,District Judge,343rd Judicial District,REP,Janna K. Whatley,93,2,46,45
+Live Oak,8-Whitsett,District Judge,343rd Judicial District,,Under Votes,5,0,3,2
+Live Oak,8-Whitsett,District Judge,343rd Judicial District,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,District Attorney,156th Judicial District,REP,Tiffany McWilliams,92,2,46,44
+Live Oak,8-Whitsett,District Attorney,156th Judicial District,,Under Votes,6,0,3,3
+Live Oak,8-Whitsett,District Attorney,156th Judicial District,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,2nd Multicounty Court at Law,,REP,Harvey Hardwick,91,2,44,45
+Live Oak,8-Whitsett,2nd Multicounty Court at Law,,,Under Votes,7,0,5,2
+Live Oak,8-Whitsett,2nd Multicounty Court at Law,,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,County Attorney,,REP,Robert McWilliams,91,2,46,43
+Live Oak,8-Whitsett,County Attorney,,,Under Votes,7,0,3,4
+Live Oak,8-Whitsett,County Attorney,,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,Sheriff,,REP,Larry R. Busby,91,2,46,43
+Live Oak,8-Whitsett,Sheriff,,,Under Votes,7,0,3,4
+Live Oak,8-Whitsett,Sheriff,,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,County Tax Assessor-Collector,,REP,Deanna Atkinson,93,2,46,45
+Live Oak,8-Whitsett,County Tax Assessor-Collector,,,Under Votes,5,0,3,2
+Live Oak,8-Whitsett,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Live Oak,8-Whitsett,Constable,Precinct 4,REP,Joey Rodriguez,91,2,46,43
+Live Oak,8-Whitsett,Constable,Precinct 4,,Under Votes,7,0,3,4
+Live Oak,8-Whitsett,Constable,Precinct 4,,Over Votes,0,0,0,0
+Live Oak,9-E. Three Rivers,Registered Voters,,,,1203,,,
+Live Oak,9-E. Three Rivers,Ballots Cast,,,,676,,,
+Live Oak,9-E. Three Rivers,President,,REP,Donald J. Trump,531,5,353,173
+Live Oak,9-E. Three Rivers,President,,DEM,Kamala D. Harris,136,2,97,37
+Live Oak,9-E. Three Rivers,President,,LIB,Chase Oliver,1,0,1,0
+Live Oak,9-E. Three Rivers,President,,GRN,Jill Stein,2,0,2,0
+Live Oak,9-E. Three Rivers,President,,,Under Votes,3,0,3,0
+Live Oak,9-E. Three Rivers,President,,,Over Votes,3,0,2,1
+Live Oak,9-E. Three Rivers,U.S. Senate,,REP,Ted Cruz,508,5,347,156
+Live Oak,9-E. Three Rivers,U.S. Senate,,DEM,Colin Allred,152,2,102,48
+Live Oak,9-E. Three Rivers,U.S. Senate,,LIB,Ted Brown,9,0,7,2
+Live Oak,9-E. Three Rivers,U.S. Senate,,,Under Votes,7,0,2,5
+Live Oak,9-E. Three Rivers,U.S. Senate,,,Over Votes,0,0,0,0
+Live Oak,9-E. Three Rivers,U.S. House,15,REP,Monica De La Cruz,526,5,356,165
+Live Oak,9-E. Three Rivers,U.S. House,15,DEM,Michelle Vallejo,131,2,90,39
+Live Oak,9-E. Three Rivers,U.S. House,15,,Under Votes,18,0,12,6
+Live Oak,9-E. Three Rivers,U.S. House,15,,Over Votes,1,0,0,1
+Live Oak,9-E. Three Rivers,Railroad Commissioner,,REP,Christi Craddick,476,5,332,139
+Live Oak,9-E. Three Rivers,Railroad Commissioner,,DEM,Katherine Culbert,120,2,79,39
+Live Oak,9-E. Three Rivers,Railroad Commissioner,,LIB,Hawk Dunlap,23,0,14,9
+Live Oak,9-E. Three Rivers,Railroad Commissioner,,GRN,Eddie Espinoza,21,0,12,9
+Live Oak,9-E. Three Rivers,Railroad Commissioner,,,Under Votes,34,0,20,14
+Live Oak,9-E. Three Rivers,Railroad Commissioner,,,Over Votes,2,0,1,1
+Live Oak,9-E. Three Rivers,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,515,5,353,157
+Live Oak,9-E. Three Rivers,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,124,2,85,37
+Live Oak,9-E. Three Rivers,"Justice, Supreme Court",Place 2,,Under Votes,36,0,19,17
+Live Oak,9-E. Three Rivers,"Justice, Supreme Court",Place 2,,Over Votes,1,0,1,0
+Live Oak,9-E. Three Rivers,"Justice, Supreme Court",Place 4,REP,John Devine,509,4,350,155
+Live Oak,9-E. Three Rivers,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,124,2,85,37
+Live Oak,9-E. Three Rivers,"Justice, Supreme Court",Place 4,,Under Votes,42,1,22,19
+Live Oak,9-E. Three Rivers,"Justice, Supreme Court",Place 4,,Over Votes,1,0,1,0
+Live Oak,9-E. Three Rivers,"Justice, Supreme Court",Place 6,REP,Jane Bland,498,5,343,150
+Live Oak,9-E. Three Rivers,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,124,2,85,37
+Live Oak,9-E. Three Rivers,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,17,0,8,9
+Live Oak,9-E. Three Rivers,"Justice, Supreme Court",Place 6,,Under Votes,36,0,21,15
+Live Oak,9-E. Three Rivers,"Justice, Supreme Court",Place 6,,Over Votes,1,0,1,0
+Live Oak,9-E. Three Rivers,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,510,5,348,157
+Live Oak,9-E. Three Rivers,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,126,2,86,38
+Live Oak,9-E. Three Rivers,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,39,0,23,16
+Live Oak,9-E. Three Rivers,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,0,1,0
+Live Oak,9-E. Three Rivers,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,510,5,349,156
+Live Oak,9-E. Three Rivers,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,130,2,88,40
+Live Oak,9-E. Three Rivers,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,35,0,20,15
+Live Oak,9-E. Three Rivers,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,1,0,1,0
+Live Oak,9-E. Three Rivers,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,524,5,358,161
+Live Oak,9-E. Three Rivers,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,115,2,78,35
+Live Oak,9-E. Three Rivers,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,36,0,21,15
+Live Oak,9-E. Three Rivers,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,1,0,1,0
+Live Oak,9-E. Three Rivers,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,270,2,182,86
+Live Oak,9-E. Three Rivers,"Member, State Board of Education",3,,Under Votes,406,5,276,125
+Live Oak,9-E. Three Rivers,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Live Oak,9-E. Three Rivers,State Representative,31,REP,Ryan Guillen,553,5,376,172
+Live Oak,9-E. Three Rivers,State Representative,31,,Under Votes,123,2,82,39
+Live Oak,9-E. Three Rivers,State Representative,31,,Over Votes,0,0,0,0
+Live Oak,9-E. Three Rivers,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,504,5,346,153
+Live Oak,9-E. Three Rivers,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,129,2,85,42
+Live Oak,9-E. Three Rivers,"Chief Justice, 13th Court of Appeals District",,,Under Votes,42,0,26,16
+Live Oak,9-E. Three Rivers,"Chief Justice, 13th Court of Appeals District",,,Over Votes,1,0,1,0
+Live Oak,9-E. Three Rivers,"Justice, 13th Court of Appeals District",Place 2,REP,Jenny Cron,491,5,340,146
+Live Oak,9-E. Three Rivers,"Justice, 13th Court of Appeals District",Place 2,DEM,Nora Longoria,142,2,92,48
+Live Oak,9-E. Three Rivers,"Justice, 13th Court of Appeals District",Place 2,,Under Votes,42,0,25,17
+Live Oak,9-E. Three Rivers,"Justice, 13th Court of Appeals District",Place 2,,Over Votes,1,0,1,0
+Live Oak,9-E. Three Rivers,"Justice, 13th Court of Appeals District",Place 4,REP,Ysmael D. Fonseca,489,5,340,144
+Live Oak,9-E. Three Rivers,"Justice, 13th Court of Appeals District",Place 4,DEM,Joe Martinez,142,2,92,48
+Live Oak,9-E. Three Rivers,"Justice, 13th Court of Appeals District",Place 4,,Under Votes,43,0,25,18
+Live Oak,9-E. Three Rivers,"Justice, 13th Court of Appeals District",Place 4,,Over Votes,2,0,1,1
+Live Oak,9-E. Three Rivers,"Justice, 13th Court of Appeals District",Place 5,REP,Jon West,519,5,355,159
+Live Oak,9-E. Three Rivers,"Justice, 13th Court of Appeals District",Place 5,DEM,Regi Compian Richardson,111,1,80,30
+Live Oak,9-E. Three Rivers,"Justice, 13th Court of Appeals District",Place 5,,Under Votes,46,1,23,22
+Live Oak,9-E. Three Rivers,"Justice, 13th Court of Appeals District",Place 5,,Over Votes,0,0,0,0
+Live Oak,9-E. Three Rivers,District Judge,343rd Judicial District,REP,Janna K. Whatley,541,6,376,159
+Live Oak,9-E. Three Rivers,District Judge,343rd Judicial District,,Under Votes,135,1,82,52
+Live Oak,9-E. Three Rivers,District Judge,343rd Judicial District,,Over Votes,0,0,0,0
+Live Oak,9-E. Three Rivers,District Attorney,156th Judicial District,REP,Tiffany McWilliams,549,6,379,164
+Live Oak,9-E. Three Rivers,District Attorney,156th Judicial District,,Under Votes,127,1,79,47
+Live Oak,9-E. Three Rivers,District Attorney,156th Judicial District,,Over Votes,0,0,0,0
+Live Oak,9-E. Three Rivers,2nd Multicounty Court at Law,,REP,Harvey Hardwick,549,6,386,157
+Live Oak,9-E. Three Rivers,2nd Multicounty Court at Law,,,Under Votes,127,1,72,54
+Live Oak,9-E. Three Rivers,2nd Multicounty Court at Law,,,Over Votes,0,0,0,0
+Live Oak,9-E. Three Rivers,County Attorney,,REP,Robert McWilliams,550,6,382,162
+Live Oak,9-E. Three Rivers,County Attorney,,,Under Votes,126,1,76,49
+Live Oak,9-E. Three Rivers,County Attorney,,,Over Votes,0,0,0,0
+Live Oak,9-E. Three Rivers,Sheriff,,REP,Larry R. Busby,571,5,398,168
+Live Oak,9-E. Three Rivers,Sheriff,,,Under Votes,105,2,60,43
+Live Oak,9-E. Three Rivers,Sheriff,,,Over Votes,0,0,0,0
+Live Oak,9-E. Three Rivers,County Tax Assessor-Collector,,REP,Deanna Atkinson,567,6,397,164
+Live Oak,9-E. Three Rivers,County Tax Assessor-Collector,,,Under Votes,109,1,61,47
+Live Oak,9-E. Three Rivers,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Live Oak,9-E. Three Rivers,Constable,Precinct 2,REP,Vance E. Roberts,570,4,396,170
+Live Oak,9-E. Three Rivers,Constable,Precinct 2,,Under Votes,106,3,62,41
+Live Oak,9-E. Three Rivers,Constable,Precinct 2,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,Registered Voters,,,,449,,,
+Live Oak,10-W. Three Rivers,Ballots Cast,,,,307,,,
+Live Oak,10-W. Three Rivers,President,,REP,Donald J. Trump,278,5,202,71
+Live Oak,10-W. Three Rivers,President,,DEM,Kamala D. Harris,28,3,19,6
+Live Oak,10-W. Three Rivers,President,,LIB,Chase Oliver,1,0,1,0
+Live Oak,10-W. Three Rivers,President,,GRN,Jill Stein,0,0,0,0
+Live Oak,10-W. Three Rivers,President,,,Under Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,President,,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,U.S. Senate,,REP,Ted Cruz,268,5,198,65
+Live Oak,10-W. Three Rivers,U.S. Senate,,DEM,Colin Allred,34,3,21,10
+Live Oak,10-W. Three Rivers,U.S. Senate,,LIB,Ted Brown,4,0,2,2
+Live Oak,10-W. Three Rivers,U.S. Senate,,,Under Votes,1,0,1,0
+Live Oak,10-W. Three Rivers,U.S. Senate,,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,U.S. House,15,REP,Monica De La Cruz,270,3,197,70
+Live Oak,10-W. Three Rivers,U.S. House,15,DEM,Michelle Vallejo,24,3,14,7
+Live Oak,10-W. Three Rivers,U.S. House,15,,Under Votes,13,2,11,0
+Live Oak,10-W. Three Rivers,U.S. House,15,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,Railroad Commissioner,,REP,Christi Craddick,259,3,188,68
+Live Oak,10-W. Three Rivers,Railroad Commissioner,,DEM,Katherine Culbert,27,3,18,6
+Live Oak,10-W. Three Rivers,Railroad Commissioner,,LIB,Hawk Dunlap,9,0,7,2
+Live Oak,10-W. Three Rivers,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0
+Live Oak,10-W. Three Rivers,Railroad Commissioner,,,Under Votes,10,2,7,1
+Live Oak,10-W. Three Rivers,Railroad Commissioner,,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,272,3,198,71
+Live Oak,10-W. Three Rivers,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,25,3,17,5
+Live Oak,10-W. Three Rivers,"Justice, Supreme Court",Place 2,,Under Votes,10,2,7,1
+Live Oak,10-W. Three Rivers,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,"Justice, Supreme Court",Place 4,REP,John Devine,266,3,196,67
+Live Oak,10-W. Three Rivers,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,27,3,17,7
+Live Oak,10-W. Three Rivers,"Justice, Supreme Court",Place 4,,Under Votes,14,2,9,3
+Live Oak,10-W. Three Rivers,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,"Justice, Supreme Court",Place 6,REP,Jane Bland,268,3,194,71
+Live Oak,10-W. Three Rivers,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,25,3,17,5
+Live Oak,10-W. Three Rivers,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,1,0,1,0
+Live Oak,10-W. Three Rivers,"Justice, Supreme Court",Place 6,,Under Votes,13,2,10,1
+Live Oak,10-W. Three Rivers,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,266,3,194,69
+Live Oak,10-W. Three Rivers,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,28,3,19,6
+Live Oak,10-W. Three Rivers,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,13,2,9,2
+Live Oak,10-W. Three Rivers,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,267,3,194,70
+Live Oak,10-W. Three Rivers,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,26,3,17,6
+Live Oak,10-W. Three Rivers,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,14,2,11,1
+Live Oak,10-W. Three Rivers,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,274,3,200,71
+Live Oak,10-W. Three Rivers,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,22,3,14,5
+Live Oak,10-W. Three Rivers,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,11,2,8,1
+Live Oak,10-W. Three Rivers,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,108,3,68,37
+Live Oak,10-W. Three Rivers,"Member, State Board of Education",3,,Under Votes,199,5,154,40
+Live Oak,10-W. Three Rivers,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,State Representative,31,REP,Ryan Guillen,271,4,196,71
+Live Oak,10-W. Three Rivers,State Representative,31,,Under Votes,36,4,26,6
+Live Oak,10-W. Three Rivers,State Representative,31,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,259,3,187,69
+Live Oak,10-W. Three Rivers,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,29,3,20,6
+Live Oak,10-W. Three Rivers,"Chief Justice, 13th Court of Appeals District",,,Under Votes,19,2,15,2
+Live Oak,10-W. Three Rivers,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,"Justice, 13th Court of Appeals District",Place 2,REP,Jenny Cron,262,3,190,69
+Live Oak,10-W. Three Rivers,"Justice, 13th Court of Appeals District",Place 2,DEM,Nora Longoria,25,3,16,6
+Live Oak,10-W. Three Rivers,"Justice, 13th Court of Appeals District",Place 2,,Under Votes,20,2,16,2
+Live Oak,10-W. Three Rivers,"Justice, 13th Court of Appeals District",Place 2,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,"Justice, 13th Court of Appeals District",Place 4,REP,Ysmael D. Fonseca,260,3,187,70
+Live Oak,10-W. Three Rivers,"Justice, 13th Court of Appeals District",Place 4,DEM,Joe Martinez,25,3,17,5
+Live Oak,10-W. Three Rivers,"Justice, 13th Court of Appeals District",Place 4,,Under Votes,22,2,18,2
+Live Oak,10-W. Three Rivers,"Justice, 13th Court of Appeals District",Place 4,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,"Justice, 13th Court of Appeals District",Place 5,REP,Jon West,267,3,195,69
+Live Oak,10-W. Three Rivers,"Justice, 13th Court of Appeals District",Place 5,DEM,Regi Compian Richardson,23,3,14,6
+Live Oak,10-W. Three Rivers,"Justice, 13th Court of Appeals District",Place 5,,Under Votes,17,2,13,2
+Live Oak,10-W. Three Rivers,"Justice, 13th Court of Appeals District",Place 5,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,District Judge,343rd Judicial District,REP,Janna K. Whatley,267,4,193,70
+Live Oak,10-W. Three Rivers,District Judge,343rd Judicial District,,Under Votes,40,4,29,7
+Live Oak,10-W. Three Rivers,District Judge,343rd Judicial District,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,District Attorney,156th Judicial District,REP,Tiffany McWilliams,264,4,190,70
+Live Oak,10-W. Three Rivers,District Attorney,156th Judicial District,,Under Votes,43,4,32,7
+Live Oak,10-W. Three Rivers,District Attorney,156th Judicial District,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,2nd Multicounty Court at Law,,REP,Harvey Hardwick,267,4,193,70
+Live Oak,10-W. Three Rivers,2nd Multicounty Court at Law,,,Under Votes,40,4,29,7
+Live Oak,10-W. Three Rivers,2nd Multicounty Court at Law,,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,County Attorney,,REP,Robert McWilliams,264,4,193,67
+Live Oak,10-W. Three Rivers,County Attorney,,,Under Votes,43,4,29,10
+Live Oak,10-W. Three Rivers,County Attorney,,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,Sheriff,,REP,Larry R. Busby,274,4,199,71
+Live Oak,10-W. Three Rivers,Sheriff,,,Under Votes,33,4,23,6
+Live Oak,10-W. Three Rivers,Sheriff,,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,County Tax Assessor-Collector,,REP,Deanna Atkinson,270,4,195,71
+Live Oak,10-W. Three Rivers,County Tax Assessor-Collector,,,Under Votes,37,4,27,6
+Live Oak,10-W. Three Rivers,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Live Oak,10-W. Three Rivers,Constable,Precinct 4,REP,Joey Rodriguez,267,4,192,71
+Live Oak,10-W. Three Rivers,Constable,Precinct 4,,Under Votes,40,4,30,6
+Live Oak,10-W. Three Rivers,Constable,Precinct 4,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,Registered Voters,,,,90,,,
+Live Oak,11-Simmons,Ballots Cast,,,,69,,,
+Live Oak,11-Simmons,President,,REP,Donald J. Trump,65,2,32,31
+Live Oak,11-Simmons,President,,DEM,Kamala D. Harris,3,0,3,0
+Live Oak,11-Simmons,President,,LIB,Chase Oliver,0,0,0,0
+Live Oak,11-Simmons,President,,GRN,Jill Stein,0,0,0,0
+Live Oak,11-Simmons,President,,,Under Votes,0,0,0,0
+Live Oak,11-Simmons,President,,,Over Votes,1,0,1,0
+Live Oak,11-Simmons,U.S. Senate,,REP,Ted Cruz,62,2,33,27
+Live Oak,11-Simmons,U.S. Senate,,DEM,Colin Allred,3,0,2,1
+Live Oak,11-Simmons,U.S. Senate,,LIB,Ted Brown,2,0,0,2
+Live Oak,11-Simmons,U.S. Senate,,,Under Votes,2,0,1,1
+Live Oak,11-Simmons,U.S. Senate,,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,U.S. House,15,REP,Monica De La Cruz,62,2,32,28
+Live Oak,11-Simmons,U.S. House,15,DEM,Michelle Vallejo,3,0,2,1
+Live Oak,11-Simmons,U.S. House,15,,Under Votes,3,0,2,1
+Live Oak,11-Simmons,U.S. House,15,,Over Votes,1,0,0,1
+Live Oak,11-Simmons,Railroad Commissioner,,REP,Christi Craddick,63,2,32,29
+Live Oak,11-Simmons,Railroad Commissioner,,DEM,Katherine Culbert,4,0,3,1
+Live Oak,11-Simmons,Railroad Commissioner,,LIB,Hawk Dunlap,0,0,0,0
+Live Oak,11-Simmons,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0
+Live Oak,11-Simmons,Railroad Commissioner,,,Under Votes,2,0,1,1
+Live Oak,11-Simmons,Railroad Commissioner,,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,65,2,33,30
+Live Oak,11-Simmons,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,2,0,2,0
+Live Oak,11-Simmons,"Justice, Supreme Court",Place 2,,Under Votes,2,0,1,1
+Live Oak,11-Simmons,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,"Justice, Supreme Court",Place 4,REP,John Devine,63,2,32,29
+Live Oak,11-Simmons,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,4,0,3,1
+Live Oak,11-Simmons,"Justice, Supreme Court",Place 4,,Under Votes,2,0,1,1
+Live Oak,11-Simmons,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,"Justice, Supreme Court",Place 6,REP,Jane Bland,65,2,33,30
+Live Oak,11-Simmons,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,2,0,2,0
+Live Oak,11-Simmons,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,0,0,0,0
+Live Oak,11-Simmons,"Justice, Supreme Court",Place 6,,Under Votes,2,0,1,1
+Live Oak,11-Simmons,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,64,2,33,29
+Live Oak,11-Simmons,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,3,0,2,1
+Live Oak,11-Simmons,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,2,0,1,1
+Live Oak,11-Simmons,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,64,2,33,29
+Live Oak,11-Simmons,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,2,0,2,0
+Live Oak,11-Simmons,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,3,0,1,2
+Live Oak,11-Simmons,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,62,2,32,28
+Live Oak,11-Simmons,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,4,0,3,1
+Live Oak,11-Simmons,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,3,0,1,2
+Live Oak,11-Simmons,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,15,2,8,5
+Live Oak,11-Simmons,"Member, State Board of Education",3,,Under Votes,54,0,28,26
+Live Oak,11-Simmons,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,State Representative,31,REP,Ryan Guillen,63,2,32,29
+Live Oak,11-Simmons,State Representative,31,,Under Votes,6,0,4,2
+Live Oak,11-Simmons,State Representative,31,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,62,2,32,28
+Live Oak,11-Simmons,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,4,0,3,1
+Live Oak,11-Simmons,"Chief Justice, 13th Court of Appeals District",,,Under Votes,3,0,1,2
+Live Oak,11-Simmons,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,"Justice, 13th Court of Appeals District",Place 2,REP,Jenny Cron,63,2,33,28
+Live Oak,11-Simmons,"Justice, 13th Court of Appeals District",Place 2,DEM,Nora Longoria,3,0,2,1
+Live Oak,11-Simmons,"Justice, 13th Court of Appeals District",Place 2,,Under Votes,3,0,1,2
+Live Oak,11-Simmons,"Justice, 13th Court of Appeals District",Place 2,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,"Justice, 13th Court of Appeals District",Place 4,REP,Ysmael D. Fonseca,61,2,32,27
+Live Oak,11-Simmons,"Justice, 13th Court of Appeals District",Place 4,DEM,Joe Martinez,4,0,3,1
+Live Oak,11-Simmons,"Justice, 13th Court of Appeals District",Place 4,,Under Votes,4,0,1,3
+Live Oak,11-Simmons,"Justice, 13th Court of Appeals District",Place 4,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,"Justice, 13th Court of Appeals District",Place 5,REP,Jon West,63,2,33,28
+Live Oak,11-Simmons,"Justice, 13th Court of Appeals District",Place 5,DEM,Regi Compian Richardson,2,0,2,0
+Live Oak,11-Simmons,"Justice, 13th Court of Appeals District",Place 5,,Under Votes,4,0,1,3
+Live Oak,11-Simmons,"Justice, 13th Court of Appeals District",Place 5,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,District Judge,343rd Judicial District,REP,Janna K. Whatley,63,2,33,28
+Live Oak,11-Simmons,District Judge,343rd Judicial District,,Under Votes,6,0,3,3
+Live Oak,11-Simmons,District Judge,343rd Judicial District,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,District Attorney,156th Judicial District,REP,Tiffany McWilliams,59,2,30,27
+Live Oak,11-Simmons,District Attorney,156th Judicial District,,Under Votes,10,0,6,4
+Live Oak,11-Simmons,District Attorney,156th Judicial District,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,2nd Multicounty Court at Law,,REP,Harvey Hardwick,63,2,33,28
+Live Oak,11-Simmons,2nd Multicounty Court at Law,,,Under Votes,6,0,3,3
+Live Oak,11-Simmons,2nd Multicounty Court at Law,,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,County Attorney,,REP,Robert McWilliams,58,2,30,26
+Live Oak,11-Simmons,County Attorney,,,Under Votes,11,0,6,5
+Live Oak,11-Simmons,County Attorney,,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,Sheriff,,REP,Larry R. Busby,62,2,32,28
+Live Oak,11-Simmons,Sheriff,,,Under Votes,7,0,4,3
+Live Oak,11-Simmons,Sheriff,,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,County Tax Assessor-Collector,,REP,Deanna Atkinson,65,2,34,29
+Live Oak,11-Simmons,County Tax Assessor-Collector,,,Under Votes,4,0,2,2
+Live Oak,11-Simmons,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Live Oak,11-Simmons,Constable,Precinct 4,REP,Joey Rodriguez,61,2,31,28
+Live Oak,11-Simmons,Constable,Precinct 4,,Under Votes,8,0,5,3
+Live Oak,11-Simmons,Constable,Precinct 4,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,Registered Voters,,,,158,,,
+Live Oak,12-Anna Rose,Ballots Cast,,,,108,,,
+Live Oak,12-Anna Rose,President,,REP,Donald J. Trump,100,1,87,12
+Live Oak,12-Anna Rose,President,,DEM,Kamala D. Harris,8,0,7,1
+Live Oak,12-Anna Rose,President,,LIB,Chase Oliver,0,0,0,0
+Live Oak,12-Anna Rose,President,,GRN,Jill Stein,0,0,0,0
+Live Oak,12-Anna Rose,President,,,Under Votes,0,0,0,0
+Live Oak,12-Anna Rose,President,,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,U.S. Senate,,REP,Ted Cruz,97,1,85,11
+Live Oak,12-Anna Rose,U.S. Senate,,DEM,Colin Allred,10,0,8,2
+Live Oak,12-Anna Rose,U.S. Senate,,LIB,Ted Brown,1,0,1,0
+Live Oak,12-Anna Rose,U.S. Senate,,,Under Votes,0,0,0,0
+Live Oak,12-Anna Rose,U.S. Senate,,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,U.S. House,15,REP,Monica De La Cruz,99,1,86,12
+Live Oak,12-Anna Rose,U.S. House,15,DEM,Michelle Vallejo,7,0,6,1
+Live Oak,12-Anna Rose,U.S. House,15,,Under Votes,2,0,2,0
+Live Oak,12-Anna Rose,U.S. House,15,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,Railroad Commissioner,,REP,Christi Craddick,94,1,81,12
+Live Oak,12-Anna Rose,Railroad Commissioner,,DEM,Katherine Culbert,8,0,8,0
+Live Oak,12-Anna Rose,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,2,0
+Live Oak,12-Anna Rose,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1
+Live Oak,12-Anna Rose,Railroad Commissioner,,,Under Votes,3,0,3,0
+Live Oak,12-Anna Rose,Railroad Commissioner,,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,98,1,84,13
+Live Oak,12-Anna Rose,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,6,0,6,0
+Live Oak,12-Anna Rose,"Justice, Supreme Court",Place 2,,Under Votes,4,0,4,0
+Live Oak,12-Anna Rose,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,"Justice, Supreme Court",Place 4,REP,John Devine,97,1,84,12
+Live Oak,12-Anna Rose,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,8,0,7,1
+Live Oak,12-Anna Rose,"Justice, Supreme Court",Place 4,,Under Votes,3,0,3,0
+Live Oak,12-Anna Rose,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,"Justice, Supreme Court",Place 6,REP,Jane Bland,95,1,82,12
+Live Oak,12-Anna Rose,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,7,0,6,1
+Live Oak,12-Anna Rose,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,2,0,2,0
+Live Oak,12-Anna Rose,"Justice, Supreme Court",Place 6,,Under Votes,4,0,4,0
+Live Oak,12-Anna Rose,"Justice, Supreme Court",Place 6,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,95,1,82,12
+Live Oak,12-Anna Rose,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,9,0,8,1
+Live Oak,12-Anna Rose,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,4,0,4,0
+Live Oak,12-Anna Rose,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,95,1,82,12
+Live Oak,12-Anna Rose,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,7,0,6,1
+Live Oak,12-Anna Rose,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,6,0,6,0
+Live Oak,12-Anna Rose,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,99,1,85,13
+Live Oak,12-Anna Rose,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,5,0,5,0
+Live Oak,12-Anna Rose,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,4,0,4,0
+Live Oak,12-Anna Rose,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,26,0,21,5
+Live Oak,12-Anna Rose,"Member, State Board of Education",3,,Under Votes,82,1,73,8
+Live Oak,12-Anna Rose,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,State Representative,31,REP,Ryan Guillen,98,1,84,13
+Live Oak,12-Anna Rose,State Representative,31,,Under Votes,10,0,10,0
+Live Oak,12-Anna Rose,State Representative,31,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,94,1,81,12
+Live Oak,12-Anna Rose,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,8,0,7,1
+Live Oak,12-Anna Rose,"Chief Justice, 13th Court of Appeals District",,,Under Votes,6,0,6,0
+Live Oak,12-Anna Rose,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,"Justice, 13th Court of Appeals District",Place 2,REP,Jenny Cron,94,1,81,12
+Live Oak,12-Anna Rose,"Justice, 13th Court of Appeals District",Place 2,DEM,Nora Longoria,8,0,7,1
+Live Oak,12-Anna Rose,"Justice, 13th Court of Appeals District",Place 2,,Under Votes,6,0,6,0
+Live Oak,12-Anna Rose,"Justice, 13th Court of Appeals District",Place 2,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,"Justice, 13th Court of Appeals District",Place 4,REP,Ysmael D. Fonseca,97,1,84,12
+Live Oak,12-Anna Rose,"Justice, 13th Court of Appeals District",Place 4,DEM,Joe Martinez,6,0,5,1
+Live Oak,12-Anna Rose,"Justice, 13th Court of Appeals District",Place 4,,Under Votes,5,0,5,0
+Live Oak,12-Anna Rose,"Justice, 13th Court of Appeals District",Place 4,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,"Justice, 13th Court of Appeals District",Place 5,REP,Jon West,97,1,83,13
+Live Oak,12-Anna Rose,"Justice, 13th Court of Appeals District",Place 5,DEM,Regi Compian Richardson,6,0,6,0
+Live Oak,12-Anna Rose,"Justice, 13th Court of Appeals District",Place 5,,Under Votes,5,0,5,0
+Live Oak,12-Anna Rose,"Justice, 13th Court of Appeals District",Place 5,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,District Judge,343rd Judicial District,REP,Janna K. Whatley,98,1,84,13
+Live Oak,12-Anna Rose,District Judge,343rd Judicial District,,Under Votes,10,0,10,0
+Live Oak,12-Anna Rose,District Judge,343rd Judicial District,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,District Attorney,156th Judicial District,REP,Tiffany McWilliams,99,1,85,13
+Live Oak,12-Anna Rose,District Attorney,156th Judicial District,,Under Votes,9,0,9,0
+Live Oak,12-Anna Rose,District Attorney,156th Judicial District,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,2nd Multicounty Court at Law,,REP,Harvey Hardwick,97,1,83,13
+Live Oak,12-Anna Rose,2nd Multicounty Court at Law,,,Under Votes,11,0,11,0
+Live Oak,12-Anna Rose,2nd Multicounty Court at Law,,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,County Attorney,,REP,Robert McWilliams,95,1,81,13
+Live Oak,12-Anna Rose,County Attorney,,,Under Votes,13,0,13,0
+Live Oak,12-Anna Rose,County Attorney,,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,Sheriff,,REP,Larry R. Busby,98,1,84,13
+Live Oak,12-Anna Rose,Sheriff,,,Under Votes,10,0,10,0
+Live Oak,12-Anna Rose,Sheriff,,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,County Tax Assessor-Collector,,REP,Deanna Atkinson,98,1,84,13
+Live Oak,12-Anna Rose,County Tax Assessor-Collector,,,Under Votes,10,0,10,0
+Live Oak,12-Anna Rose,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,County Commissioner,Precinct 1,REP,Richard Lee,97,1,83,13
+Live Oak,12-Anna Rose,County Commissioner,Precinct 1,,Under Votes,11,0,11,0
+Live Oak,12-Anna Rose,County Commissioner,Precinct 1,,Over Votes,0,0,0,0
+Live Oak,12-Anna Rose,Constable,Precinct 1,REP,Wesley Gray,92,1,78,13
+Live Oak,12-Anna Rose,Constable,Precinct 1,,Under Votes,16,0,16,0
+Live Oak,12-Anna Rose,Constable,Precinct 1,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,Registered Voters,,,,525,,,
+Live Oak,13-Swinney Switch,Ballots Cast,,,,391,,,
+Live Oak,13-Swinney Switch,President,,REP,Donald J. Trump,353,8,221,124
+Live Oak,13-Swinney Switch,President,,DEM,Kamala D. Harris,37,2,17,18
+Live Oak,13-Swinney Switch,President,,LIB,Chase Oliver,1,0,0,1
+Live Oak,13-Swinney Switch,President,,GRN,Jill Stein,0,0,0,0
+Live Oak,13-Swinney Switch,President,,,Under Votes,0,0,0,0
+Live Oak,13-Swinney Switch,President,,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,U.S. Senate,,REP,Ted Cruz,347,8,219,120
+Live Oak,13-Swinney Switch,U.S. Senate,,DEM,Colin Allred,37,2,17,18
+Live Oak,13-Swinney Switch,U.S. Senate,,LIB,Ted Brown,7,0,2,5
+Live Oak,13-Swinney Switch,U.S. Senate,,,Under Votes,0,0,0,0
+Live Oak,13-Swinney Switch,U.S. Senate,,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,U.S. House,15,REP,Monica De La Cruz,350,8,219,123
+Live Oak,13-Swinney Switch,U.S. House,15,DEM,Michelle Vallejo,35,2,15,18
+Live Oak,13-Swinney Switch,U.S. House,15,,Under Votes,6,0,4,2
+Live Oak,13-Swinney Switch,U.S. House,15,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,Railroad Commissioner,,REP,Christi Craddick,347,8,219,120
+Live Oak,13-Swinney Switch,Railroad Commissioner,,DEM,Katherine Culbert,32,1,15,16
+Live Oak,13-Swinney Switch,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,2,3
+Live Oak,13-Swinney Switch,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,0,2
+Live Oak,13-Swinney Switch,Railroad Commissioner,,,Under Votes,5,1,2,2
+Live Oak,13-Swinney Switch,Railroad Commissioner,,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,349,8,219,122
+Live Oak,13-Swinney Switch,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,34,1,16,17
+Live Oak,13-Swinney Switch,"Justice, Supreme Court",Place 2,,Under Votes,8,1,3,4
+Live Oak,13-Swinney Switch,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,"Justice, Supreme Court",Place 4,REP,John Devine,348,8,219,121
+Live Oak,13-Swinney Switch,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,34,1,15,18
+Live Oak,13-Swinney Switch,"Justice, Supreme Court",Place 4,,Under Votes,9,1,4,4
+Live Oak,13-Swinney Switch,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,"Justice, Supreme Court",Place 6,REP,Jane Bland,335,8,214,113
+Live Oak,13-Swinney Switch,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,33,2,16,15
+Live Oak,13-Swinney Switch,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,12,0,4,8
+Live Oak,13-Swinney Switch,"Justice, Supreme Court",Place 6,,Under Votes,9,0,4,5
+Live Oak,13-Swinney Switch,"Justice, Supreme Court",Place 6,,Over Votes,2,0,0,2
+Live Oak,13-Swinney Switch,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,348,8,220,120
+Live Oak,13-Swinney Switch,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,34,2,14,18
+Live Oak,13-Swinney Switch,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,0,4,5
+Live Oak,13-Swinney Switch,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,349,8,220,121
+Live Oak,13-Swinney Switch,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,32,1,14,17
+Live Oak,13-Swinney Switch,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,10,1,4,5
+Live Oak,13-Swinney Switch,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,350,8,221,121
+Live Oak,13-Swinney Switch,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,31,1,13,17
+Live Oak,13-Swinney Switch,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,10,1,4,5
+Live Oak,13-Swinney Switch,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,124,1,64,59
+Live Oak,13-Swinney Switch,"Member, State Board of Education",3,,Under Votes,267,9,174,84
+Live Oak,13-Swinney Switch,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,State Representative,31,REP,Ryan Guillen,349,7,218,124
+Live Oak,13-Swinney Switch,State Representative,31,,Under Votes,42,3,20,19
+Live Oak,13-Swinney Switch,State Representative,31,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,342,8,218,116
+Live Oak,13-Swinney Switch,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,37,1,16,20
+Live Oak,13-Swinney Switch,"Chief Justice, 13th Court of Appeals District",,,Under Votes,12,1,4,7
+Live Oak,13-Swinney Switch,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,"Justice, 13th Court of Appeals District",Place 2,REP,Jenny Cron,343,8,217,118
+Live Oak,13-Swinney Switch,"Justice, 13th Court of Appeals District",Place 2,DEM,Nora Longoria,37,1,16,20
+Live Oak,13-Swinney Switch,"Justice, 13th Court of Appeals District",Place 2,,Under Votes,11,1,5,5
+Live Oak,13-Swinney Switch,"Justice, 13th Court of Appeals District",Place 2,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,"Justice, 13th Court of Appeals District",Place 4,REP,Ysmael D. Fonseca,342,8,214,120
+Live Oak,13-Swinney Switch,"Justice, 13th Court of Appeals District",Place 4,DEM,Joe Martinez,36,1,17,18
+Live Oak,13-Swinney Switch,"Justice, 13th Court of Appeals District",Place 4,,Under Votes,13,1,7,5
+Live Oak,13-Swinney Switch,"Justice, 13th Court of Appeals District",Place 4,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,"Justice, 13th Court of Appeals District",Place 5,REP,Jon West,351,8,220,123
+Live Oak,13-Swinney Switch,"Justice, 13th Court of Appeals District",Place 5,DEM,Regi Compian Richardson,30,1,13,16
+Live Oak,13-Swinney Switch,"Justice, 13th Court of Appeals District",Place 5,,Under Votes,10,1,5,4
+Live Oak,13-Swinney Switch,"Justice, 13th Court of Appeals District",Place 5,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,District Judge,343rd Judicial District,REP,Janna K. Whatley,344,6,215,123
+Live Oak,13-Swinney Switch,District Judge,343rd Judicial District,,Under Votes,47,4,23,20
+Live Oak,13-Swinney Switch,District Judge,343rd Judicial District,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,District Attorney,156th Judicial District,REP,Tiffany McWilliams,342,6,215,121
+Live Oak,13-Swinney Switch,District Attorney,156th Judicial District,,Under Votes,49,4,23,22
+Live Oak,13-Swinney Switch,District Attorney,156th Judicial District,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,2nd Multicounty Court at Law,,REP,Harvey Hardwick,342,6,216,120
+Live Oak,13-Swinney Switch,2nd Multicounty Court at Law,,,Under Votes,49,4,22,23
+Live Oak,13-Swinney Switch,2nd Multicounty Court at Law,,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,County Attorney,,REP,Robert McWilliams,344,6,216,122
+Live Oak,13-Swinney Switch,County Attorney,,,Under Votes,47,4,22,21
+Live Oak,13-Swinney Switch,County Attorney,,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,Sheriff,,REP,Larry R. Busby,345,6,212,127
+Live Oak,13-Swinney Switch,Sheriff,,,Under Votes,46,4,26,16
+Live Oak,13-Swinney Switch,Sheriff,,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,County Tax Assessor-Collector,,REP,Deanna Atkinson,342,5,215,122
+Live Oak,13-Swinney Switch,County Tax Assessor-Collector,,,Under Votes,49,5,23,21
+Live Oak,13-Swinney Switch,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,County Commissioner,Precinct 3,REP,Mitchell Williams,339,6,210,123
+Live Oak,13-Swinney Switch,County Commissioner,Precinct 3,,Under Votes,52,4,28,20
+Live Oak,13-Swinney Switch,County Commissioner,Precinct 3,,Over Votes,0,0,0,0
+Live Oak,13-Swinney Switch,Constable,Precinct 3,REP,Hector Valverde,337,6,213,118
+Live Oak,13-Swinney Switch,Constable,Precinct 3,,Under Votes,54,4,25,25
+Live Oak,13-Swinney Switch,Constable,Precinct 3,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,Registered Voters,,,,947,,,
+Live Oak,14-SW George West,Ballots Cast,,,,660,,,
+Live Oak,14-SW George West,President,,REP,Donald J. Trump,567,6,474,87
+Live Oak,14-SW George West,President,,DEM,Kamala D. Harris,86,6,60,20
+Live Oak,14-SW George West,President,,LIB,Chase Oliver,2,1,1,0
+Live Oak,14-SW George West,President,,GRN,Jill Stein,1,0,0,1
+Live Oak,14-SW George West,President,,,Under Votes,3,0,1,2
+Live Oak,14-SW George West,President,,,Over Votes,1,0,1,0
+Live Oak,14-SW George West,U.S. Senate,,REP,Ted Cruz,558,6,465,87
+Live Oak,14-SW George West,U.S. Senate,,DEM,Colin Allred,83,3,58,22
+Live Oak,14-SW George West,U.S. Senate,,LIB,Ted Brown,6,1,4,1
+Live Oak,14-SW George West,U.S. Senate,,,Under Votes,13,3,10,0
+Live Oak,14-SW George West,U.S. Senate,,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,U.S. House,15,REP,Monica De La Cruz,558,5,463,90
+Live Oak,14-SW George West,U.S. House,15,DEM,Michelle Vallejo,78,5,56,17
+Live Oak,14-SW George West,U.S. House,15,,Under Votes,24,3,18,3
+Live Oak,14-SW George West,U.S. House,15,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,Railroad Commissioner,,REP,Christi Craddick,552,7,458,87
+Live Oak,14-SW George West,Railroad Commissioner,,DEM,Katherine Culbert,67,3,50,14
+Live Oak,14-SW George West,Railroad Commissioner,,LIB,Hawk Dunlap,16,0,15,1
+Live Oak,14-SW George West,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,2,1
+Live Oak,14-SW George West,Railroad Commissioner,,,Under Votes,22,3,12,7
+Live Oak,14-SW George West,Railroad Commissioner,,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,"Justice, Supreme Court",Place 2,REP,Jimmy Blacklock,562,6,472,84
+Live Oak,14-SW George West,"Justice, Supreme Court",Place 2,DEM,DaSean Jones,73,4,52,17
+Live Oak,14-SW George West,"Justice, Supreme Court",Place 2,,Under Votes,25,3,13,9
+Live Oak,14-SW George West,"Justice, Supreme Court",Place 2,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,"Justice, Supreme Court",Place 4,REP,John Devine,560,6,471,83
+Live Oak,14-SW George West,"Justice, Supreme Court",Place 4,DEM,Christine Vinh Weems,76,4,54,18
+Live Oak,14-SW George West,"Justice, Supreme Court",Place 4,,Under Votes,24,3,12,9
+Live Oak,14-SW George West,"Justice, Supreme Court",Place 4,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,"Justice, Supreme Court",Place 6,REP,Jane Bland,553,6,465,82
+Live Oak,14-SW George West,"Justice, Supreme Court",Place 6,DEM,Bonnie Lee Goldstein,72,3,53,16
+Live Oak,14-SW George West,"Justice, Supreme Court",Place 6,LIB,J. David Roberson,10,0,6,4
+Live Oak,14-SW George West,"Justice, Supreme Court",Place 6,,Under Votes,24,3,13,8
+Live Oak,14-SW George West,"Justice, Supreme Court",Place 6,,Over Votes,1,1,0,0
+Live Oak,14-SW George West,"Presiding Judge, Court of Criminal Appeals",,REP,David J. Schenck,556,6,469,81
+Live Oak,14-SW George West,"Presiding Judge, Court of Criminal Appeals",,DEM,Holly Taylor,80,4,55,21
+Live Oak,14-SW George West,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,24,3,13,8
+Live Oak,14-SW George West,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,"Judge, Court of Criminal Appeals",Place 7,REP,Gina Parker,559,6,468,85
+Live Oak,14-SW George West,"Judge, Court of Criminal Appeals",Place 7,DEM,Nancy Mulder,74,4,53,17
+Live Oak,14-SW George West,"Judge, Court of Criminal Appeals",Place 7,,Under Votes,27,3,16,8
+Live Oak,14-SW George West,"Judge, Court of Criminal Appeals",Place 7,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,"Judge, Court of Criminal Appeals",Place 8,REP,Lee Finley,560,6,469,85
+Live Oak,14-SW George West,"Judge, Court of Criminal Appeals",Place 8,DEM,Chika Anyiam,72,4,52,16
+Live Oak,14-SW George West,"Judge, Court of Criminal Appeals",Place 8,,Under Votes,28,3,16,9
+Live Oak,14-SW George West,"Judge, Court of Criminal Appeals",Place 8,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,"Member, State Board of Education",3,DEM,Marisa Perez-Diaz,212,4,163,45
+Live Oak,14-SW George West,"Member, State Board of Education",3,,Under Votes,448,9,374,65
+Live Oak,14-SW George West,"Member, State Board of Education",3,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,State Representative,31,REP,Ryan Guillen,580,7,479,94
+Live Oak,14-SW George West,State Representative,31,,Under Votes,80,6,58,16
+Live Oak,14-SW George West,State Representative,31,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,"Chief Justice, 13th Court of Appeals District",,REP,Jaime Tijerina,552,6,461,85
+Live Oak,14-SW George West,"Chief Justice, 13th Court of Appeals District",,DEM,Gina Benavides,79,4,56,19
+Live Oak,14-SW George West,"Chief Justice, 13th Court of Appeals District",,,Under Votes,29,3,20,6
+Live Oak,14-SW George West,"Chief Justice, 13th Court of Appeals District",,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,"Justice, 13th Court of Appeals District",Place 2,REP,Jenny Cron,548,6,461,81
+Live Oak,14-SW George West,"Justice, 13th Court of Appeals District",Place 2,DEM,Nora Longoria,80,4,56,20
+Live Oak,14-SW George West,"Justice, 13th Court of Appeals District",Place 2,,Under Votes,32,3,20,9
+Live Oak,14-SW George West,"Justice, 13th Court of Appeals District",Place 2,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,"Justice, 13th Court of Appeals District",Place 4,REP,Ysmael D. Fonseca,543,6,457,80
+Live Oak,14-SW George West,"Justice, 13th Court of Appeals District",Place 4,DEM,Joe Martinez,82,4,58,20
+Live Oak,14-SW George West,"Justice, 13th Court of Appeals District",Place 4,,Under Votes,35,3,22,10
+Live Oak,14-SW George West,"Justice, 13th Court of Appeals District",Place 4,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,"Justice, 13th Court of Appeals District",Place 5,REP,Jon West,560,6,469,85
+Live Oak,14-SW George West,"Justice, 13th Court of Appeals District",Place 5,DEM,Regi Compian Richardson,68,4,49,15
+Live Oak,14-SW George West,"Justice, 13th Court of Appeals District",Place 5,,Under Votes,32,3,19,10
+Live Oak,14-SW George West,"Justice, 13th Court of Appeals District",Place 5,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,District Judge,343rd Judicial District,REP,Janna K. Whatley,579,6,477,96
+Live Oak,14-SW George West,District Judge,343rd Judicial District,,Under Votes,81,7,60,14
+Live Oak,14-SW George West,District Judge,343rd Judicial District,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,District Attorney,156th Judicial District,REP,Tiffany McWilliams,569,6,470,93
+Live Oak,14-SW George West,District Attorney,156th Judicial District,,Under Votes,91,7,67,17
+Live Oak,14-SW George West,District Attorney,156th Judicial District,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,2nd Multicounty Court at Law,,REP,Harvey Hardwick,578,7,479,92
+Live Oak,14-SW George West,2nd Multicounty Court at Law,,,Under Votes,82,6,58,18
+Live Oak,14-SW George West,2nd Multicounty Court at Law,,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,County Attorney,,REP,Robert McWilliams,569,6,471,92
+Live Oak,14-SW George West,County Attorney,,,Under Votes,91,7,66,18
+Live Oak,14-SW George West,County Attorney,,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,Sheriff,,REP,Larry R. Busby,579,6,478,95
+Live Oak,14-SW George West,Sheriff,,,Under Votes,81,7,59,15
+Live Oak,14-SW George West,Sheriff,,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,County Tax Assessor-Collector,,REP,Deanna Atkinson,582,9,484,89
+Live Oak,14-SW George West,County Tax Assessor-Collector,,,Under Votes,78,4,53,21
+Live Oak,14-SW George West,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,County Commissioner,Precinct 3,REP,Mitchell Williams,577,9,474,94
+Live Oak,14-SW George West,County Commissioner,Precinct 3,,Under Votes,83,4,63,16
+Live Oak,14-SW George West,County Commissioner,Precinct 3,,Over Votes,0,0,0,0
+Live Oak,14-SW George West,Constable,Precinct 3,REP,Hector Valverde,570,6,476,88
+Live Oak,14-SW George West,Constable,Precinct 3,,Under Votes,90,7,61,22
+Live Oak,14-SW George West,Constable,Precinct 3,,Over Votes,0,0,0,0
