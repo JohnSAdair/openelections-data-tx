@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Hamilton County PDF Election Data Extractor using pdfplumber
+Jasper County PDF Election Data Extractor using pdfplumber
+Adapted for November 5, 2024 General Election results
 """
 
 import sys
@@ -53,9 +54,15 @@ def normalize_office_name(office: str) -> str:
         return "Sheriff"
     elif "Constable" in office:
         return office
-    elif "Board of Trustees" in office:
+    elif "Board of Trustees" in office or "Board of Trustee" in office:
         return office
     elif "Chief Justice" in office:
+        return office
+    elif "Dist Judge" in office:
+        return office
+    elif "Tax Rate Election" in office:
+        return office
+    elif "Proposition" in office:
         return office
     
     return office
@@ -70,7 +77,7 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
     district = ""
     precinct_stats_added = set()
     
-    print(f"Processing {len(lines)} lines of text...")
+#    print(f"Processing {len(lines)} lines of text...")
     
     for i, line in enumerate(lines):
         try:
@@ -79,13 +86,34 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
             if not line:
                 continue
             
-            # Check for precinct headers
-            if line.startswith("Precinct "):
-                precinct_match = re.match(r'^Precinct\s+(.+)$', line)
+            # Check for precinct headers - format: "Pct # 1 Three Corners"
+            if line.startswith("Pct #"):
+                precinct_match = re.match(r'^Pct\s*#\s*(\d+)\s+(.+)$', line)
                 if precinct_match:
-                    current_precinct = f"Precinct {precinct_match.group(1)}"
+                    precinct_num = precinct_match.group(1)
+                    precinct_name = precinct_match.group(2)
+                    current_precinct = f"Pct #{precinct_num} {precinct_name}"
                     print(f"Found precinct: {current_precinct}")
                     continue
+            
+            # Check for school district headers - format: "Buna ISD", "Evadale ISD", etc.
+            if line.endswith(" ISD") or line.endswith(" CISD"):
+                current_precinct = line
+                #print(f"Found school district: {current_precinct}")
+                continue
+            
+            # Check for other potential precinct/district headers that appear standalone
+            # This catches sections that might be precinct names but don't follow the "Pct #" pattern
+            if (len(line.split()) <= 4 and 
+                not any(term in line.lower() for term in ['statistics', 'total', 'absentee', 'early', 'voting', 'day', 'vote for', 'overvotes', 'undervotes']) and
+                not re.match(r'^(REP|DEM|LIB|GRN|IND)\s+', line) and
+                not line.startswith(('For ', 'Against ')) and
+                not re.match(r'^[A-Za-z].+?\s+\d+\s+\d+\s+\d+\s+\d+$', line) and
+                current_precinct is None):
+                # This might be a precinct header we missed
+                current_precinct = line
+                #print(f"Found potential precinct/district: {current_precinct}")
+                continue
             
             # Skip if no current precinct
             if current_precinct is None:
@@ -95,9 +123,8 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
             if line == "Statistics" or ("TOTAL" in line and "Absentee" in line and "Early" in line):
                 continue
                 
-            # Parse registered voters - format: "Registered Voters - Total 1,053"
+            # Parse registered voters - format: "Registered Voters - Total 57"
             if "Registered Voters - Total" in line:
-                # Extract the number after "Registered Voters - Total"
                 match = re.search(r'Registered Voters - Total\s+([\d,]+)', line)
                 if match and f"{current_precinct}_registered" not in precinct_stats_added:
                     registered_voters = int(match.group(1).replace(',', ''))
@@ -114,12 +141,11 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
                         'election_day': ''
                     })
                     precinct_stats_added.add(f"{current_precinct}_registered")
-                    print(f"Added registered voters: {registered_voters}")
+                    #print(f"Added registered voters: {registered_voters}")
                 continue
             
-            # Parse ballots cast - format: "Ballots Cast - Total 730 25 600 105"
+            # Parse ballots cast - format: "Ballots Cast - Total 49 3 7 39"
             if "Ballots Cast - Total" in line:
-                # Extract numbers after "Ballots Cast - Total"
                 match = re.search(r'Ballots Cast - Total\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)', line)
                 if match and f"{current_precinct}_ballots" not in precinct_stats_added:
                     total_ballots = int(match.group(1).replace(',', ''))
@@ -140,12 +166,11 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
                         'election_day': election_day
                     })
                     precinct_stats_added.add(f"{current_precinct}_ballots")
-                    print(f"Added ballots cast: {total_ballots}")
+                    #print(f"Added ballots cast: {total_ballots}")
                 continue
             
-            # Parse blank ballots - format: "Ballots Cast - Blank 1 0 1 0"
+            # Parse blank ballots - format: "Ballots Cast - Blank 0 0 0 0"
             if "Ballots Cast - Blank" in line:
-                # Extract numbers after "Ballots Cast - Blank"
                 match = re.search(r'Ballots Cast - Blank\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)', line)
                 if match and f"{current_precinct}_blank" not in precinct_stats_added:
                     total_blank = int(match.group(1).replace(',', ''))
@@ -166,12 +191,11 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
                         'election_day': election_day_blank
                     })
                     precinct_stats_added.add(f"{current_precinct}_blank")
-                    print(f"Added blank ballots: {total_blank}")
+                    #print(f"Added blank ballots: {total_blank}")
                 continue
             
             # Parse overvotes - format: "Overvotes 0 0 0 0"
             if line.startswith("Overvotes") and current_office:
-                # Extract numbers after "Overvotes"
                 match = re.search(r'Overvotes\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)', line)
                 if match:
                     total_over = int(match.group(1).replace(',', ''))
@@ -191,12 +215,11 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
                         'early_voting': early_over,
                         'election_day': election_day_over
                     })
-                    print(f"Added overvotes for {current_office}: {total_over}")
+                    #print(f"Added overvotes for {current_office}: {total_over}")
                 continue
             
             # Parse undervotes - format: "Undervotes 1 0 1 0"  
             if line.startswith("Undervotes") and current_office:
-                # Extract numbers after "Undervotes"
                 match = re.search(r'Undervotes\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)', line)
                 if match:
                     total_under = int(match.group(1).replace(',', ''))
@@ -216,7 +239,7 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
                         'early_voting': early_under,
                         'election_day': election_day_under
                     })
-                    print(f"Added undervotes for {current_office}: {total_under}")
+                    #print(f"Added undervotes for {current_office}: {total_under}")
                 continue
             
             # Check for office headers
@@ -226,9 +249,12 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
                 "Justice, Supreme Court", "Justice,", "Judge,", "Presiding Judge",
                 "Member, State BoE", "State Representative", "Dist Attorney",
                 "County Attorney", "County Commissioner", "County Clerk", "County Tax",
-                "Sheriff", "Constable", "Board of Trustees", "Chief Justice"
+                "Sheriff", "Constable", "Board of Trustees", "Board of Trustee", 
+                "Chief Justice", "Dist Judge", "Tax Rate Election", "Proposition"
             ]
             
+            # Check if this line contains an office indicator
+            is_office_line = False
             for indicator in office_indicators:
                 if indicator in line:
                     current_office = line
@@ -242,17 +268,21 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
                         place_match = re.search(r'Place\s+(\d+)', line)
                         if place_match:
                             district = place_match.group(1)
-                    elif re.search(r'Pct\s+(\d+)', line):
-                        pct_match = re.search(r'Pct\s+(\d+)', line)
-                        if pct_match:
-                            district = pct_match.group(1)
                     elif re.search(r'Pl\s+(\d+)', line):
                         pl_match = re.search(r'Pl\s+(\d+)', line)
                         if pl_match:
                             district = pl_match.group(1)
+                    elif re.search(r'Pct\s+(\d+)', line):
+                        pct_match = re.search(r'Pct\s+(\d+)', line)
+                        if pct_match:
+                            district = pct_match.group(1)
                     
                     print(f"Found office: {current_office}")
+                    is_office_line = True
                     break
+            
+            if is_office_line:
+                continue
             
             if current_office is None:
                 continue
@@ -260,24 +290,25 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
             # Skip header and summary lines
             skip_terms = [
                 'Vote For', 'TOTAL', 'Absentee', 'Early', 'Election',
-                'Voting', 'Day', 'Total Votes Cast', 'Write-In Totals',
-                'Not Assigned', 'Contest Totals', 'Write-In:'
+                'Voting', 'Day', 'Total Votes Cast', 
+                'Not Assigned', 'Contest Totals', 'Write-In:', 'Voter Turnout'
             ]
             
             if any(skip_term in line for skip_term in skip_terms):
                 continue
             
-            # Parse candidate lines - format: "REP Donald J. Trump/JD Vance 619 14 518 87"
-            candidate_pattern = r'^(REP|DEM|LIB|GRN|IND)\s+(.+?)\s+(\d+)\s+(\d+)\s+(\d+)\s+(\d+)$'
+            # Parse candidate lines - format: "REP Donald J. Trump/JD Vance 42 3 6 33"
+            candidate_pattern = r'^\s*(REP|DEM|LIB|GRN|IND)\s+(.+?)\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)$'
             candidate_match = re.match(candidate_pattern, line)
             
             if candidate_match:
+                print(f"Found candidate line: {line}")
                 party = candidate_match.group(1).strip()
                 candidate_name = candidate_match.group(2).strip()
-                total = int(candidate_match.group(3))
-                absentee = int(candidate_match.group(4))
-                early = int(candidate_match.group(5))
-                election_day = int(candidate_match.group(6))
+                total = int(candidate_match.group(3).replace(',', ''))
+                absentee = int(candidate_match.group(4).replace(',', ''))
+                early = int(candidate_match.group(5).replace(',', ''))
+                election_day = int(candidate_match.group(6).replace(',', ''))
                 
                 # Skip certain write-ins with actual names
                 if candidate_name.startswith('Write-In:'):
@@ -297,6 +328,64 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
                 })
                 print(f"Added candidate: {candidate_name} ({party}) - {total} votes")
                 continue
+            
+            # Parse non-partisan candidates (school board, etc.)
+            # Format: "Johnny Dale Gravis 651 6 553 92" or "William "Pete" Bond 905 15 693 197"
+            nonpartisan_pattern = r'^([A-Za-z][^0-9]+?)\s+(\d+)\s+(\d+)\s+(\d+)\s+(\d+)$'
+            nonpartisan_match = re.match(nonpartisan_pattern, line)
+            
+            if nonpartisan_match and current_office and ("Board" in current_office or "Proposition" in current_office):
+                candidate_name = nonpartisan_match.group(1).strip()
+                total = int(nonpartisan_match.group(2))
+                absentee = int(nonpartisan_match.group(3))
+                early = int(nonpartisan_match.group(4))
+                election_day = int(nonpartisan_match.group(5))
+                
+                # Skip if this looks like a header or summary line
+                if any(term in candidate_name.lower() for term in ['total', 'vote for', 'statistics', 'registered']):
+                    continue
+                
+                data.append({
+                    'county': county,
+                    'precinct': current_precinct,
+                    'office': normalize_office_name(current_office),
+                    'district': district,
+                    'party': '',
+                    'candidate': candidate_name,
+                    'votes': total,
+                    'absentee': absentee,
+                    'early_voting': early,
+                    'election_day': election_day
+                })
+                print(f"Added non-partisan candidate: {candidate_name} - {total} votes")
+                continue
+            
+            # Parse proposition votes (For/Against)
+            if line.startswith(("For ", "Against ")) and current_office:
+                prop_pattern = r'^(For|Against)\s+(\d+)\s+(\d+)\s+(\d+)\s+(\d+)$'
+                prop_match = re.match(prop_pattern, line)
+                
+                if prop_match:
+                    position = prop_match.group(1)
+                    total = int(prop_match.group(2))
+                    absentee = int(prop_match.group(3))
+                    early = int(prop_match.group(4))
+                    election_day = int(prop_match.group(5))
+                    
+                    data.append({
+                        'county': county,
+                        'precinct': current_precinct,
+                        'office': normalize_office_name(current_office),
+                        'district': district,
+                        'party': '',
+                        'candidate': position,
+                        'votes': total,
+                        'absentee': absentee,
+                        'early_voting': early,
+                        'election_day': election_day
+                    })
+                    print(f"Added proposition vote: {position} - {total} votes")
+                    continue
                     
         except Exception as e:
             print(f"Error processing line {i}: {original_line[:50]}... - {e}")
@@ -306,13 +395,13 @@ def parse_election_data(text: str, county: str) -> List[Dict]:
     return data
 
 def main():
-    if len(sys.argv) != 4:
-        print("Usage: python hamilton_county_parser.py <input_pdf> <county_name> <output_csv>")
+    if len(sys.argv) != 3:
+        print("Usage: python jasper_county_parser.py <input_pdf> <output_csv>")
         sys.exit(1)
     
     input_pdf = sys.argv[1]
-    county_name = sys.argv[2]
-    output_csv = sys.argv[3]
+    output_csv = sys.argv[2]
+    county_name = "Reeves"  # Fixed for this specific county
     
     try:
         print(f"Extracting text from {input_pdf}...")
